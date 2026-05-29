@@ -1,0 +1,717 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+3409970,MZ,MZ-T,Zobue,Zóbue,77507,3,town,UTC+2,Africa/Maputo
+3409987,MZ,MZ-S,Zinzana,Zinzana,360,4,village,UTC+2,Africa/Maputo
+3410096,MZ,MZ-N,Zacaria,Zacaria,271,4,village,UTC+2,Africa/Maputo
+3410098,MZ,MZ-T,Zabula,Zabula,349,4,village,UTC+2,Africa/Maputo
+3410147,MZ,MZ-L,Xebalo,Xavier,1091,3,Urban Place,UTC+2,Africa/Maputo
+3410170,MZ,MZ-G,Xai-Xai,Xai-Xai,141963,2,City,UTC+2,Africa/Maputo
+3410257,MZ,MZ-S,Gorongosa,Gorongosa,37789,3,town,UTC+2,Africa/Maputo
+3410259,MZ,MZ-I,Vilankulo,Vilanculos,21592,3,town,UTC+2,Africa/Maputo
+3410261,MZ,MZ-T,Moatize,Moatize,45213,3,town,UTC+2,Africa/Maputo
+3410263,MZ,MZ-S,Nhamatanda,Nhamatanda,59539,3,town,UTC+2,Africa/Maputo
+3410264,MZ,MZ-L,Marracuene,Marracuene,13051,4,town,UTC+2,Africa/Maputo
+3410268,MZ,MZ-S,Caia,Zumbo,44295,3,town,UTC+2,Africa/Maputo
+3410269,MZ,MZ-T,Zumbo,Zumbo,\N,3,town,UTC+2,Africa/Maputo
+3410270,MZ,MZ-Q,Mocuba,Mocuba,146693,3,City,UTC+2,Africa/Maputo
+3410271,MZ,MZ-P,Ibo,Distrito de Ibo,2852,4,town,UTC+2,Africa/Maputo
+3410272,MZ,MZ-S,Dondo,Dondo,80454,3,City,UTC+2,Africa/Maputo
+3410273,MZ,MZ-Q,Chinde,Chinde,17029,3,town,UTC+2,Africa/Maputo
+3410275,MZ,MZ-P,Mocimboa da Praia,Manica,67113,3,city,UTC+2,Africa/Maputo
+3410277,MZ,MZ-G,Macia,Macia,27721,4,town,UTC+2,Africa/Maputo
+3410279,MZ,MZ-Q,Maganja,Maganja,45532,3,village,UTC+2,Africa/Maputo
+3410385,MZ,MZ-A,Valamaza,Valamaza,1042,3,Urban Place,UTC+2,Africa/Maputo
+3410407,MZ,MZ-A,Utchicova,Utchicova,463,4,village,UTC+2,Africa/Maputo
+3410420,MZ,MZ-N,Ussene,Ussene,290,4,village,UTC+2,Africa/Maputo
+3410425,MZ,\N,Ussata,Ussata,13886,3,Municipality,UTC+2,Africa/Maputo
+3410462,MZ,\N,Unguezuca,Unguézùca,187,4,village,UTC+2,Africa/Maputo
+3410484,MZ,MZ-P,Uncuba,Uncuba,751,4,village,UTC+2,Africa/Maputo
+3410507,MZ,MZ-T,Umevere,Umevere,128,4,village,UTC+2,Africa/Maputo
+3410518,MZ,MZ-T,Ulongue,Ulongué,15820,4,town,UTC+2,Africa/Maputo
+3410527,MZ,MZ-P,Uipo,Uipo,165,4,village,UTC+2,Africa/Maputo
+3410596,MZ,MZ-N,Uatapeia,Uatapeia,446,4,village,UTC+2,Africa/Maputo
+3410615,MZ,\N,Uarrala,Uarrala,130,4,village,UTC+2,Africa/Maputo
+3410617,MZ,MZ-Q,Uariberua,Uariberua,3134,3,Urban Place,UTC+2,Africa/Maputo
+3410620,MZ,MZ-I,Jose,José,1511,3,Urban Place,UTC+2,Africa/Maputo
+3410678,MZ,MZ-N,Uampuela,Uampuela,8186,3,Municipality,UTC+2,Africa/Maputo
+3410754,MZ,MZ-I,Uachinholo,Uachinholo,1897,3,Urban Place,UTC+2,Africa/Maputo
+3410758,MZ,MZ-I,Uachico,Uachiço,1308,4,village,UTC+2,Africa/Maputo
+3410965,MZ,MZ-T,Tomo,Tomo,2802,3,Urban Place,UTC+2,Africa/Maputo
+3410968,MZ,MZ-T,Tomo,Tomo,11670,3,Municipality,UTC+2,Africa/Maputo
+3410974,MZ,MZ-S,Tomecena,Tomecena,23785,3,Municipality,UTC+2,Africa/Maputo
+3411092,MZ,MZ-T,Tete,Tete,307338,2,City,UTC+2,Africa/Maputo
+3411212,MZ,MZ-L,Tchinzele,Tchinzele,66,3,Locality,UTC+2,Africa/Maputo
+3411261,MZ,MZ-T,Tchabuera,Tchabuera,68,3,Locality,UTC+2,Africa/Maputo
+3411288,MZ,MZ-N,Tauene,Tauéne,852,3,Locality,UTC+2,Africa/Maputo
+3411566,MZ,MZ-T,Songo,Songo (Moçambique),33812,3,town,UTC+2,Africa/Maputo
+3411794,MZ,\N,Semente,Semente,788,3,Urban Place,UTC+2,Africa/Maputo
+3411870,MZ,MZ-G,Regulo Saute,Regulo Saúte,2576,3,Municipality,UTC+2,Africa/Maputo
+3411871,MZ,MZ-I,Saute,Saúte,2876,3,Municipality,UTC+2,Africa/Maputo
+3411872,MZ,MZ-L,Saute,Saute,4856,3,Municipality,UTC+2,Africa/Maputo
+3411873,MZ,MZ-I,Saute,Saúte,5290,3,Municipality,UTC+2,Africa/Maputo
+3411874,MZ,MZ-I,Saute,Saute,17484,3,Municipality,UTC+2,Africa/Maputo
+3411875,MZ,MZ-I,Saite,Saite,4846,3,Municipality,UTC+2,Africa/Maputo
+3411877,MZ,MZ-T,Saunde,Saunde,4229,3,Municipality,UTC+2,Africa/Maputo
+3411879,MZ,\N,Sauge,Saúge,1974,3,Municipality,UTC+2,Africa/Maputo
+3411881,MZ,MZ-B,Sauenge,Sauenge,10307,3,Municipality,UTC+2,Africa/Maputo
+3411883,MZ,MZ-N,Saude,Saúde,13614,3,Urban Place,UTC+2,Africa/Maputo
+3411884,MZ,MZ-N,Saua-Saua,Saua-Saua,2201,3,Municipality,UTC+2,Africa/Maputo
+3411887,MZ,MZ-T,Satune,Satune,4847,3,Municipality,UTC+2,Africa/Maputo
+3411888,MZ,MZ-T,Satchspimbe,Satchspimbe,2131,3,Municipality,UTC+2,Africa/Maputo
+3411889,MZ,MZ-I,Satane,Satane,8941,3,Municipality,UTC+2,Africa/Maputo
+3411890,MZ,\N,Satane,Satane,7024,3,Municipality,UTC+2,Africa/Maputo
+3411891,MZ,MZ-I,Satana,Satana,7530,3,Municipality,UTC+2,Africa/Maputo
+3411892,MZ,\N,Sataca,Sataca,3455,3,Municipality,UTC+2,Africa/Maputo
+3411893,MZ,MZ-Q,Divulua,Divulua,3577,3,Municipality,UTC+2,Africa/Maputo
+3411894,MZ,MZ-T,Sassane,Sarre,2243,3,Municipality,UTC+2,Africa/Maputo
+3411895,MZ,MZ-P,Sarre,Sarre,4615,3,Municipality,UTC+2,Africa/Maputo
+3411896,MZ,MZ-I,Sarmento,Sarmento,4872,3,Municipality,UTC+2,Africa/Maputo
+3411899,MZ,MZ-N,Sariela,Sariela,3895,3,Urban Place,UTC+2,Africa/Maputo
+3411900,MZ,MZ-Q,Sargento,Sargento,3421,3,Municipality,UTC+2,Africa/Maputo
+3411902,MZ,MZ-Q,Sardiva,Sardiva,2738,3,Municipality,UTC+2,Africa/Maputo
+3411903,MZ,\N,Sardinha,Sardinha,4841,3,Municipality,UTC+2,Africa/Maputo
+3411904,MZ,MZ-B,Saraungo,Saraungo,4215,3,Municipality,UTC+2,Africa/Maputo
+3411905,MZ,MZ-Q,Sarate,Sarate,7216,3,Municipality,UTC+2,Africa/Maputo
+3411906,MZ,MZ-T,Aldeia Caho,Aldeia Cahó,2680,4,town,UTC+2,Africa/Maputo
+3411907,MZ,MZ-P,Sarangue,Sarangue,13241,3,Municipality,UTC+2,Africa/Maputo
+3411910,MZ,MZ-T,Sapule,Sapule,10522,3,Municipality,UTC+2,Africa/Maputo
+3411911,MZ,MZ-N,Sapue,Sapué,3095,3,Municipality,UTC+2,Africa/Maputo
+3411912,MZ,MZ-L,Sapazana,Sapazana,1961,4,village,UTC+2,Africa/Maputo
+3411913,MZ,MZ-Q,Sapari,Sapári,34233,3,Municipality,UTC+2,Africa/Maputo
+3411914,MZ,MZ-A,Sapanga,Sapanga,5827,3,Municipality,UTC+2,Africa/Maputo
+3411915,MZ,MZ-Q,Sapanda,Sapanda,12701,3,Municipality,UTC+2,Africa/Maputo
+3411916,MZ,MZ-Q,Sapala,Sapala,3367,3,Municipality,UTC+2,Africa/Maputo
+3411917,MZ,MZ-Q,Sapala,Sapala,2282,3,Municipality,UTC+2,Africa/Maputo
+3412011,MZ,\N,Samo,Samo,1819,3,Municipality,UTC+2,Africa/Maputo
+3412093,MZ,MZ-N,Saite,Saíte,4518,3,Municipality,UTC+2,Africa/Maputo
+3412173,MZ,MZ-I,Saece,Saece,715,3,Urban Settlement,UTC+2,Africa/Maputo
+3412341,MZ,MZ-L,Ressano Garcia,Ressano Garcia (Moçambique),60600,4,town,UTC+2,Africa/Maputo
+3412460,MZ,MZ-P,Rachite,Rachite,89,3,Urban Settlement,UTC+2,Africa/Maputo
+3412486,MZ,MZ-I,Quissico,Quissico,10391,3,town,UTC+2,Africa/Maputo
+3412550,MZ,MZ-Q,Quelimane,Quelimane,347907,2,City,UTC+2,Africa/Maputo
+3412589,MZ,MZ-S,Pungue,Púnguè,2249,3,Urban Settlement,UTC+2,Africa/Maputo
+3412637,MZ,MZ-G,Bilene,Praia do Bilene,9235,3,Town,UTC+2,Africa/Maputo
+3412655,MZ,MZ-Q,Popoto,Popoto,279,3,Urban Settlement,UTC+2,Africa/Maputo
+3412841,MZ,MZ-P,Pemba,Pemba,200529,2,City,UTC+2,Africa/Maputo
+3412875,MZ,MZ-Q,Pebane,Pebane,36224,3,town,UTC+2,Africa/Maputo
+3412878,MZ,MZ-G,Pavava,Paune,297,3,Urban Settlement,UTC+2,Africa/Maputo
+3412887,MZ,MZ-L,Paulo,Paulo,169,3,Urban Settlement,UTC+2,Africa/Maputo
+3412888,MZ,MZ-L,Paulo,Paulo,1252,3,Municipality,UTC+2,Africa/Maputo
+3413008,MZ,MZ-G,Pande,Pande,520,3,Urban Settlement,UTC+2,Africa/Maputo
+3413041,MZ,MZ-P,Palma,Palma,62657,3,city,UTC+2,Africa/Maputo
+3413213,MZ,MZ-S,Sofala,Sofala,27282,4,village,UTC+2,Africa/Maputo
+3413215,MZ,MZ-I,Nova Mambone,Nova Mambone,2482,4,town,UTC+2,Africa/Maputo
+3413359,MZ,MZ-Q,Nicoadala,Nicoadala,75872,3,town,UTC+2,Africa/Maputo
+3413604,MZ,MZ-B,Nhamachamo,Nhamachamo,10710,3,Urban Settlement,UTC+2,Africa/Maputo
+3413727,MZ,MZ-P,Nerripa,Nero,2140,3,Urban Settlement,UTC+2,Africa/Maputo
+3413821,MZ,\N,Navelane,Navelane,137,3,Urban Settlement,UTC+2,Africa/Maputo
+3413829,MZ,MZ-T,Navalha,Navalha,139288,3,Municipality,UTC+2,Africa/Maputo
+3413876,MZ,MZ-I,Meloi Natal,Natale,74,4,hamlet,UTC+2,Africa/Maputo
+3413877,MZ,MZ-I,Natale,Natale,123,3,Urban Settlement,UTC+2,Africa/Maputo
+3414079,MZ,MZ-P,Nancuar,Nancuar,984,3,Urban Settlement,UTC+2,Africa/Maputo
+3414145,MZ,MZ-N,Nampula,Nampula,760214,2,City,UTC+2,Africa/Maputo
+3414207,MZ,MZ-N,Namialo,Namialo,46950,3,town,UTC+2,Africa/Maputo
+3414215,MZ,MZ-N,Nametil,Nametil,53801,3,town,UTC+2,Africa/Maputo
+3414222,MZ,MZ-A,Nametana,Nametana,5000,4,town,UTC+2,Africa/Maputo
+3414370,MZ,MZ-Q,Namacurra,Namacurra,38764,3,town,UTC+2,Africa/Maputo
+3414404,MZ,MZ-L,Namaacha,Namaacha,14781,3,Town,UTC+2,Africa/Maputo
+3414586,MZ,MZ-N,Nacala,Nacala Porto,273732,3,City,UTC+2,Africa/Maputo
+3414785,MZ,MZ-N,Murrupula,Murrupula,19504,4,town,UTC+2,Africa/Maputo
+3414856,MZ,MZ-S,Mupino,Mupino,273,3,Urban Settlement,UTC+2,Africa/Maputo
+3414868,MZ,MZ-N,Muonona,Muonona,116,3,Urban Settlement,UTC+2,Africa/Maputo
+3414979,MZ,MZ-S,Mujeza,Mujeza,4597,3,Municipality,UTC+2,Africa/Maputo
+3415021,MZ,MZ-Q,Muinhacane,Muinhacane,13563,3,Municipality,UTC+2,Africa/Maputo
+3415187,MZ,MZ-P,Mueda,Mueda,27274,3,town,UTC+2,Africa/Maputo
+3415212,MZ,MZ-B,Mudala,Mudala,40163,3,Municipality,UTC+2,Africa/Maputo
+3415490,MZ,MZ-Q,Muala,Muala,65921,3,locality,UTC+2,Africa/Maputo
+3415496,MZ,MZ-N,Regulo Mazulia,Régulo Mazulia,15000,4,town,UTC+2,Africa/Maputo
+3415610,MZ,MZ-N,Mossuril,Distrito de Mossuril,24079,4,village,UTC+2,Africa/Maputo
+3415620,MZ,MZ-I,Morrumbene,Morrumbene,12532,4,town,UTC+2,Africa/Maputo
+3415621,MZ,MZ-Q,Morrumbala,Morrumbala,72812,3,town,UTC+2,Africa/Maputo
+3415662,MZ,MZ-Q,Mopeia,Mopeia,66289,3,town,UTC+2,Africa/Maputo
+3415667,MZ,MZ-P,Monunene,Monunene,2756,3,Urban Settlement,UTC+2,Africa/Maputo
+3415669,MZ,MZ-P,Montepuez,Montepuez,76139,3,City,UTC+2,Africa/Maputo
+3415700,MZ,MZ-N,Monapo,Monapo,62733,3,town,UTC+2,Africa/Maputo
+3415720,MZ,MZ-N,Momade,Momade,1152,3,Urban Settlement,UTC+2,Africa/Maputo
+3415724,MZ,MZ-N,Moma,Distrito de Moma,190081,3,town,UTC+2,Africa/Maputo
+3415761,MZ,MZ-I,Fabiao,Fabião,3322,3,Municipality,UTC+2,Africa/Maputo
+3415779,MZ,MZ-A,Mocua,Mocua,278,3,Urban Settlement,UTC+2,Africa/Maputo
+3415793,MZ,MZ-P,Mocimboa,Mocímboa,27909,4,locality,UTC+2,Africa/Maputo
+3415805,MZ,MZ-Q,Mocambique,Ilha de Moçambique,48063,3,City,UTC+2,Africa/Maputo
+3415806,MZ,MZ-N,Mozambique,Ilha de Moçambique,54315,3,locality,UTC+2,Africa/Maputo
+3415811,MZ,MZ-Q,Moarea,Moarea,596,3,Urban Settlement,UTC+2,Africa/Maputo
+3415812,MZ,MZ-L,Moamba,Moamba,14940,4,town,UTC+2,Africa/Maputo
+3415907,MZ,MZ-Q,Milange,Milange,90696,3,town,UTC+2,Africa/Maputo
+3415938,MZ,MZ-N,Micolene,Micolene,29686,3,locality,UTC+2,Africa/Maputo
+3416013,MZ,MZ-P,Metuge,Metuge,3099,4,town,UTC+2,Africa/Maputo
+3416144,MZ,\N,Messijane,Messijane,300,3,Urban Settlement,UTC+2,Africa/Maputo
+3416248,MZ,MZ-B,Meque,Meque,451,3,Municipality,UTC+2,Africa/Maputo
+3416267,MZ,MZ-T,Meponda,Meponda,215,3,Urban Settlement,UTC+2,Africa/Maputo
+3416439,MZ,MZ-S,Megarirgue,Megarirgue,362,3,Urban Settlement,UTC+2,Africa/Maputo
+3416453,MZ,MZ-P,Meequia,Meequia,1083,3,Urban Settlement,UTC+2,Africa/Maputo
+3416692,MZ,MZ-I,Maxixe,Maxixe,126408,3,City,UTC+2,Africa/Maputo
+3416694,MZ,MZ-L,Matechape,Matechape,121,3,Urban Settlement,UTC+2,Africa/Maputo
+3416706,MZ,\N,Mavunguana,Mavunguana,31962,3,Municipality,UTC+2,Africa/Maputo
+3416839,MZ,MZ-G,Matuba,Matuba,795,3,Urban Settlement,UTC+2,Africa/Maputo
+3416873,MZ,MZ-L,Matola,Matola,1032197,2,City,UTC+2,Africa/Maputo
+3416888,MZ,MZ-I,Matique,Matique,1032,3,Urban Settlement,UTC+2,Africa/Maputo
+3417078,MZ,MZ-I,Massinga,Massinga,51718,3,town,UTC+2,Africa/Maputo
+3417079,MZ,MZ-L,Massinga,Massinga,1984,3,Urban Settlement,UTC+2,Africa/Maputo
+3417185,MZ,MZ-A,Marrupa,Marrupa,9565,4,town,UTC+2,Africa/Maputo
+3417195,MZ,MZ-I,Marrule,Marrule,19048,3,Municipality,UTC+2,Africa/Maputo
+3417202,MZ,MZ-S,Marromeu,Marromeu,103519,3,town,UTC+2,Africa/Maputo
+3417332,MZ,MZ-MPM,Maputo,Maputo,1244227,1,City,UTC+2,Africa/Maputo
+3417363,MZ,MZ-S,Mapinhe,Mapinhe,209,3,Urban Settlement,UTC+2,Africa/Maputo
+3417520,MZ,MZ-G,Manjacaze,Manjacaze,20142,4,town,UTC+2,Africa/Maputo
+3417525,MZ,MZ-B,Manica,Manica,41961,3,City,UTC+2,Africa/Maputo
+3417528,MZ,MZ-A,Maniamba,Maniamba,615,3,Urban Settlement,UTC+2,Africa/Maputo
+3417551,MZ,MZ-L,Manhica,Manhiça,65240,2,locality,UTC+2,Africa/Maputo
+3417553,MZ,MZ-I,Manhica,Manhiça,2856,4,hamlet,UTC+2,Africa/Maputo
+3417679,MZ,MZ-A,Mandimba,Mandimba,79140,3,town,UTC+2,Africa/Maputo
+3417724,MZ,MZ-N,Mamuirre,Mamuirre,73,3,Urban Settlement,UTC+2,Africa/Maputo
+3417878,MZ,MZ-G,Malambo,Malambo,242,3,Urban Settlement,UTC+2,Africa/Maputo
+3417972,MZ,MZ-I,Maimelane,Maimelane,2803,3,Urban Settlement,UTC+2,Africa/Maputo
+3418076,MZ,MZ-B,Magueva,Magueva,2232,3,Urban Settlement,UTC+2,Africa/Maputo
+3418088,MZ,MZ-L,Magude,Magude,12419,4,town,UTC+2,Africa/Maputo
+3418112,MZ,MZ-G,Magonde,Magonde,991,3,Municipality,UTC+2,Africa/Maputo
+3418130,MZ,MZ-B,Magobeia,Magobeia,870,3,Urban Settlement,UTC+2,Africa/Maputo
+3418226,MZ,MZ-I,Maemane,Maemane,241,3,Urban Settlement,UTC+2,Africa/Maputo
+3418444,MZ,MZ-P,Macomia,Macomia,23228,3,city,UTC+2,Africa/Maputo
+3418653,MZ,MZ-I,Macavelane,Macavelane,8363,3,Municipality,UTC+2,Africa/Maputo
+3418898,MZ,MZ-N,Lumbo,Lumbo,4,3,town,UTC+2,Africa/Maputo
+3418910,MZ,\N,Luis,Luís,1113,3,Town,UTC+2,Africa/Maputo
+3418950,MZ,MZ-Q,Luabo,Lua,7099,4,village,UTC+2,Africa/Maputo
+3418991,MZ,MZ-P,Liuaia,Liuaia,165,3,Sett,UTC+2,Africa/Maputo
+3419074,MZ,MZ-A,Lichinga,Lichinga,242204,2,City,UTC+2,Africa/Maputo
+3419292,MZ,MZ-I,Julai,Julai,83,3,Sett,UTC+2,Africa/Maputo
+3419378,MZ,MZ-S,Jone,Jone,253,3,Sett,UTC+2,Africa/Maputo
+3419684,MZ,MZ-I,Jangamo,Jangada,93681,3,city,UTC+2,Africa/Maputo
+3419712,MZ,MZ-Q,Jampane,Jampane,186,3,Sett,UTC+2,Africa/Maputo
+3419714,MZ,MZ-I,Jamo,Jamo,381,3,Sett,UTC+2,Africa/Maputo
+3419836,MZ,MZ-I,Inhassoro,Inhassoro,6563,4,town,UTC+2,Africa/Maputo
+3419837,MZ,MZ-I,Inharrime,Inharrime,9415,4,town,UTC+2,Africa/Maputo
+3419842,MZ,MZ-S,Inhanguvo,Inhanguvo,5455,3,Town,UTC+2,Africa/Maputo
+3419856,MZ,MZ-S,Inhaminga,Inhaminga,11564,4,town,UTC+2,Africa/Maputo
+3419861,MZ,MZ-I,Inhambane,Inhambane,71011,2,City,UTC+2,Africa/Maputo
+3419933,MZ,MZ-B,Inchope,Inchope,4,3,city,UTC+2,Africa/Maputo
+3419959,MZ,MZ-N,Ilapu,Ilapu,158,3,Sett,UTC+2,Africa/Maputo
+3419999,MZ,MZ-I,Homoine,Homoíne,8447,4,town,UTC+2,Africa/Maputo
+3420029,MZ,MZ-Q,Gurue,Gurué,145466,3,City,UTC+2,Africa/Maputo
+3420079,MZ,\N,Guireca,Guireca,86,3,Sett,UTC+2,Africa/Maputo
+3420097,MZ,MZ-B,Guilaze,Guilaze,154,3,Sett,UTC+2,Africa/Maputo
+3420199,MZ,MZ-S,Gramucana,Gramucana,231,3,Sett,UTC+2,Africa/Maputo
+3420231,MZ,MZ-B,Gondola,Gondola,47853,3,town,UTC+2,Africa/Maputo
+3420286,MZ,MZ-S,Goenge,Goenge,52,4,village,UTC+2,Africa/Maputo
+3420477,MZ,MZ-I,Funhalouro,Funhalouro,26190,4,town,UTC+2,Africa/Maputo
+3420635,MZ,MZ-I,Fanequico,Fanequiço,798,3,Town,UTC+2,Africa/Maputo
+3420670,MZ,MZ-B,Faife,Faife,116,3,Sett,UTC+2,Africa/Maputo
+3420741,MZ,\N,Espoleta,Espoleta,77,4,village,UTC+2,Africa/Maputo
+3420768,MZ,MZ-N,Erico,Ericó,953,3,Town,UTC+2,Africa/Maputo
+3420846,MZ,MZ-P,Dumussa,Dumussa,3128,3,Town,UTC+2,Africa/Maputo
+3420896,MZ,MZ-T,Nhamayabue,Nhamayabué,10088,3,locality,UTC+2,Africa/Maputo
+3420937,MZ,MZ-B,Djangue,Djangue,157,3,Sett,UTC+2,Africa/Maputo
+3421005,MZ,MZ-T,Dezemge,Devi,121,3,Sett,UTC+2,Africa/Maputo
+3421193,MZ,MZ-B,Cumula,Cumula,1257,3,Town,UTC+2,Africa/Maputo
+3421296,MZ,MZ-A,Cuamba,Cuamba,85397,3,City,UTC+2,Africa/Maputo
+3421319,MZ,MZ-P,Covaninha,Covaninha,19783,3,Town,UTC+2,Africa/Maputo
+3421327,MZ,MZ-T,Coutinho,Coutinho,84,3,Sett,UTC+2,Africa/Maputo
+3421554,MZ,MZ-A,Cobue,Cobué,3,3,village,UTC+2,Africa/Maputo
+3421608,MZ,MZ-S,Subwe,Subwè,254,3,Sett,UTC+2,Africa/Maputo
+3421699,MZ,MZ-G,Chokwe,Chókwè,63695,2,City,UTC+2,Africa/Maputo
+3421711,MZ,MZ-L,Chizumbane,Chizumbane,131,3,Sett,UTC+2,Africa/Maputo
+3421719,MZ,MZ-T,Chizampeca,Chizampeca,1309,3,Town,UTC+2,Africa/Maputo
+3421740,MZ,MZ-P,Chiure,Chiúre,37871,3,city,UTC+2,Africa/Maputo
+3421750,MZ,MZ-I,Chiulo,Chiulo,60,3,Sett,UTC+2,Africa/Maputo
+3421765,MZ,MZ-B,Chitundo,Chitundo,1137,3,Town,UTC+2,Africa/Maputo
+3421874,MZ,MZ-B,Chiramba,Chiramba,16500,4,village,UTC+2,Africa/Maputo
+3421982,MZ,MZ-T,Chinhando,Chinhando,2524,3,Town,UTC+2,Africa/Maputo
+3422060,MZ,MZ-B,Chimoio,Chimoio,363336,2,City,UTC+2,Africa/Maputo
+3422205,MZ,MZ-L,Chicute,Chicute,228,3,Sett,UTC+2,Africa/Maputo
+3422225,MZ,MZ-G,Chicuembo,Chicuembo,204,3,Sett,UTC+2,Africa/Maputo
+3422228,MZ,MZ-P,Chicuemba,Chicuemba,413,3,Sett,UTC+2,Africa/Maputo
+3422241,MZ,MZ-G,Vila Eduardo Mondlane,Chicualacuala,9665,3,locality,UTC+2,Africa/Maputo
+3422300,MZ,MZ-N,Chico,Chico,170,3,Sett,UTC+2,Africa/Maputo
+3422358,MZ,MZ-G,Chibuto,Chibuto,61175,3,City,UTC+2,Africa/Maputo
+3422683,MZ,MZ-S,Chama,Chama,469,3,Town,UTC+2,Africa/Maputo
+3422700,MZ,MZ-L,Chale,Chale,304,3,Sett,UTC+2,Africa/Maputo
+3422891,MZ,MZ-T,Cativo,Cativo,345,4,town,UTC+2,Africa/Maputo
+3422926,MZ,MZ-B,Catandica,Catandica,67253,3,town,UTC+2,Africa/Maputo
+3422934,MZ,MZ-S,Castigo,Castelo,100,3,Sett,UTC+2,Africa/Maputo
+3423146,MZ,MZ-L,Canheua,Canheua,5028,3,Town,UTC+2,Africa/Maputo
+3423179,MZ,MZ-S,Candieiro,Candieiro,91,3,Sett,UTC+2,Africa/Maputo
+3423260,MZ,MZ-T,Camelando,Camelando,219,3,Sett,UTC+2,Africa/Maputo
+3423278,MZ,MZ-T,Cambemba,Cambemba,72,3,Sett,UTC+2,Africa/Maputo
+3423313,MZ,MZ-P,Calunduma,Calunduma,84,3,Sett,UTC+2,Africa/Maputo
+3423337,MZ,MZ-N,Calia,Calia,88,4,village,UTC+2,Africa/Maputo
+3423426,MZ,\N,Caera,Caera,50,4,village,UTC+2,Africa/Maputo
+3423683,MZ,MZ-L,Boane,Boane,27325,4,town,UTC+2,Africa/Maputo
+3423771,MZ,MZ-A,Benord,Benord,58,4,village,UTC+2,Africa/Maputo
+3423782,MZ,MZ-L,Bela Vista,Bela Vista,3006,4,town,UTC+2,Africa/Maputo
+3423787,MZ,MZ-S,Beira,Beira,592090,2,City,UTC+2,Africa/Maputo
+3423823,MZ,MZ-L,Bassope,Bassope,197,3,Sett,UTC+2,Africa/Maputo
+3423920,MZ,\N,Balama,Balama,321085,4,town,UTC+2,Africa/Maputo
+3423973,MZ,MZ-A,Metangula,Metangula,14835,3,town,UTC+2,Africa/Maputo
+3424108,MZ,MZ-Q,Antonio,António,84,4,village,UTC+2,Africa/Maputo
+3424155,MZ,MZ-N,Angoche,Angoche,89998,3,City,UTC+2,Africa/Maputo
+3424194,MZ,MZ-P,Ancuabe,Ancuabe,\N,3,town,UTC+2,Africa/Maputo
+3424317,MZ,MZ-Q,Alto Molocue,Alto Molocue,51763,3,town,UTC+2,Africa/Maputo
+3424408,MZ,MZ-L,Muchapo,Albano,204,3,Sett,UTC+2,Africa/Maputo
+3424424,MZ,MZ-P,Aiuba,Aiuba,184,3,Sett,UTC+2,Africa/Maputo
+3424452,MZ,MZ-I,Afonso,Afonso,69,3,Sett,UTC+2,Africa/Maputo
+3424585,MZ,MZ-P,Litandacua,Litandacua,7017,4,village,UTC+2,Africa/Maputo
+3424607,MZ,MZ-P,Ichee,Icheé,1811,3,Town,UTC+2,Africa/Maputo
+3424666,MZ,MZ-P,Litamanda,Litamanda,8117,4,village,UTC+2,Africa/Maputo
+3424682,MZ,MZ-P,Mitope,Mitope,176,3,Sett,UTC+2,Africa/Maputo
+3424720,MZ,MZ-A,Aldeia Limbue,Aldeia Limbue,59,3,Sett,UTC+2,Africa/Maputo
+3424884,MZ,MZ-P,Nangua,Nangua,4910,4,village,UTC+2,Africa/Maputo
+3424901,MZ,MZ-A,Aldeia Lipombue,Aldeia Lipombue,2969,3,Town,UTC+2,Africa/Maputo
+3424906,MZ,MZ-P,Givarro,Givarro,169,3,Sett,UTC+2,Africa/Maputo
+3424934,MZ,MZ-P,Muangamula,Muangamula,5311,3,City proper,UTC+2,Africa/Maputo
+3424971,MZ,MZ-P,Nacuta,Nacuta,3917,4,village,UTC+2,Africa/Maputo
+3425996,MZ,MZ-N,Mutuali,Mutuáli,31722,4,town,UTC+2,Africa/Maputo
+3426193,MZ,MZ-N,Ampuaia,Ampuaia,1339,3,Town,UTC+2,Africa/Maputo
+3426194,MZ,MZ-N,Tulua,Aristides,97,3,Sett,UTC+2,Africa/Maputo
+3426195,MZ,MZ-N,Aristides,Aristides,64,3,Sett,UTC+2,Africa/Maputo
+3426238,MZ,MZ-N,Meconta,Meconta,10891,4,village,UTC+2,Africa/Maputo
+3426691,MZ,MZ-L,Nossa Senhora do Rosario,Nossa Senhora do Rosario,2499,3,City proper,UTC+2,Africa/Maputo
+3426935,MZ,MZ-N,Iapala,Iapala,20146,4,town,UTC+2,Africa/Maputo
+3427206,MZ,MZ-A,Chefe Companhiua,Chefe Companhiua,55,3,Locality,UTC+2,Africa/Maputo
+3427208,MZ,MZ-A,Chefe Caranguia,Chefe Caranguia,3307,4,town,UTC+2,Africa/Maputo
+3427213,MZ,MZ-N,Filipe,Filipe,98522,3,Locality,UTC+2,Africa/Maputo
+3427215,MZ,MZ-T,Aldeia Mulinji,Massangano,287,3,Locality,UTC+2,Africa/Maputo
+3427237,MZ,MZ-N,Xana,Xana,188,3,Locality,UTC+2,Africa/Maputo
+3427248,MZ,MZ-A,Chefe Chemenha,Chefe Chemenha,184,3,Locality,UTC+2,Africa/Maputo
+3427255,MZ,MZ-T,Mchenga,Mchenga,342,3,Locality,UTC+2,Africa/Maputo
+3427279,MZ,MZ-N,Abudala,Abudala,1967,3,Locality,UTC+2,Africa/Maputo
+3427287,MZ,MZ-N,Vava,Vává,484,3,Locality,UTC+2,Africa/Maputo
+3427326,MZ,MZ-A,Chefe Puiamuene,Chefe Puiamuene,65881,4,town,UTC+2,Africa/Maputo
+3427327,MZ,MZ-A,Correia,Correia,16254,3,Locality,UTC+2,Africa/Maputo
+3427340,MZ,MZ-Q,Uaturra,Uaturra,1039,3,Locality,UTC+2,Africa/Maputo
+3427354,MZ,MZ-T,Mitemangawa,Mitemangawa,39507,4,town,UTC+2,Africa/Maputo
+3427369,MZ,MZ-N,Erreria,Erreria,776,4,village,UTC+2,Africa/Maputo
+3427370,MZ,MZ-Q,Comelina,Vasco,18178,4,town,UTC+2,Africa/Maputo
+3427375,MZ,MZ-T,Mazowe,Mazowe,1498,3,Locality,UTC+2,Africa/Maputo
+3427377,MZ,MZ-T,Fernandes,Fernandes,45000,4,town,UTC+2,Africa/Maputo
+3427380,MZ,MZ-T,Aldeia Chitondo,Aldeia Chitondo,119,3,Locality,UTC+2,Africa/Maputo
+3427384,MZ,MZ-Q,Antonio,António,13745,3,Neighborhood,UTC+2,Africa/Maputo
+3427386,MZ,MZ-Q,Augusto,Augusto,3388,3,Locality,UTC+2,Africa/Maputo
+3427388,MZ,MZ-Q,Tomas,Tomás,15990,3,Locality,UTC+2,Africa/Maputo
+3427394,MZ,MZ-T,Aldeia Birira,Aldeia Birira,726,3,Locality,UTC+2,Africa/Maputo
+3427399,MZ,MZ-Q,Mateus,Mateus,8376,3,Locality,UTC+2,Africa/Maputo
+3427404,MZ,MZ-N,Umuchiua,Umuchiua,1549,3,Locality,UTC+2,Africa/Maputo
+3427406,MZ,MZ-Q,Cha Gurue,Toma,84734,4,town,UTC+2,Africa/Maputo
+3427412,MZ,MZ-N,Tavanta,Tavantá,1299,3,Locality,UTC+2,Africa/Maputo
+3427422,MZ,MZ-N,Marra,Marra,4945,3,Locality,UTC+2,Africa/Maputo
+3427428,MZ,MZ-N,Camuana,Camuana,44186,3,Locality,UTC+2,Africa/Maputo
+3427431,MZ,MZ-N,Massaua,Massaua,34508,3,Locality,UTC+2,Africa/Maputo
+3427439,MZ,MZ-Q,Zauara,Zauara,1541,3,Locality,UTC+2,Africa/Maputo
+3427443,MZ,MZ-T,Sao Jorge,São Jorge,11243,3,Locality,UTC+2,Africa/Maputo
+3427444,MZ,MZ-T,Aldeia Muchamba,Aldeia Muchamba,2960,3,Locality,UTC+2,Africa/Maputo
+3427447,MZ,MZ-Q,Rombo,Rombo,62315,4,town,UTC+2,Africa/Maputo
+3427453,MZ,MZ-T,Aldeia Luombuo,Aldeia Luombuo,43405,4,town,UTC+2,Africa/Maputo
+3427454,MZ,MZ-T,Cuengue,Cuengue,10735,3,Locality,UTC+2,Africa/Maputo
+3427460,MZ,MZ-Q,Mongue,Mongue,1006,3,Locality,UTC+2,Africa/Maputo
+3427463,MZ,MZ-Q,Vaissone,Vaissone,24702,4,town,UTC+2,Africa/Maputo
+3427472,MZ,MZ-Q,Murruniavina,Murruniavina,3075,3,Locality,UTC+2,Africa/Maputo
+3427482,MZ,MZ-Q,Simbe,Simbe,402,3,Locality,UTC+2,Africa/Maputo
+3427500,MZ,MZ-Q,Meliva,Meliva,39447,4,town,UTC+2,Africa/Maputo
+3427505,MZ,MZ-Q,Melungose,Melungose,285023,3,Locality,UTC+2,Africa/Maputo
+3427506,MZ,MZ-Q,Gorro,Bize,787,4,village,UTC+2,Africa/Maputo
+3427511,MZ,MZ-N,Mutiaca,Mutiaca,7771,3,Locality,UTC+2,Africa/Maputo
+3427527,MZ,MZ-Q,Maticula,Maticula,140,3,Locality,UTC+2,Africa/Maputo
+3427537,MZ,MZ-Q,Chefe Castela,Chefe Castela,2743,4,village,UTC+2,Africa/Maputo
+3427561,MZ,MZ-Q,Chefe Mahaxa,Chefe Mahaxa,3156,4,village,UTC+2,Africa/Maputo
+3427565,MZ,MZ-T,Ntandamuwa Market,Ntandamuwa Market,78,3,Locality,UTC+2,Africa/Maputo
+3427581,MZ,MZ-Q,Tenda,Tenda,1660,3,Locality,UTC+2,Africa/Maputo
+3427582,MZ,MZ-Q,Chefe Morria,Chefe Morria,9393,3,Locality,UTC+2,Africa/Maputo
+3427590,MZ,MZ-Q,Fernando,Fernando,106,3,Locality,UTC+2,Africa/Maputo
+3427593,MZ,MZ-Q,Chefe Chivere,Chefe Chivere,3127,3,Locality,UTC+2,Africa/Maputo
+3427602,MZ,MZ-Q,Monteia,Alberto,9786,4,village,UTC+2,Africa/Maputo
+3427626,MZ,MZ-Q,Rui Fabula,Rui Fabula,41918,4,town,UTC+2,Africa/Maputo
+3427642,MZ,MZ-N,Xuaxungo,Xuaxungo,8405,3,Locality,UTC+2,Africa/Maputo
+3427645,MZ,MZ-N,Chefe Mussassuade,Chefe Mussassuade,1694,3,Locality,UTC+2,Africa/Maputo
+3427652,MZ,MZ-N,Chefe Mucume,Chefe Mucume,759,3,Locality,UTC+2,Africa/Maputo
+3427659,MZ,MZ-N,Regulo Mutempura,Régulo Mutempura,1024,3,Locality,UTC+2,Africa/Maputo
+3427687,MZ,MZ-N,Regulo Muaripeia,Régulo Muaripeia,41390,3,city,UTC+2,Africa/Maputo
+3427689,MZ,MZ-N,Chefe Alberto,Chefe Alberto,2466,3,Locality,UTC+2,Africa/Maputo
+3427691,MZ,MZ-Q,Nabil,Nabíl,152,3,Locality,UTC+2,Africa/Maputo
+3427712,MZ,MZ-Q,Chefe Sanxira,Chefe Sanxira,264,3,Locality,UTC+2,Africa/Maputo
+3427714,MZ,MZ-N,Regulo Nampete,Régulo Nampete,41705,4,town,UTC+2,Africa/Maputo
+3427724,MZ,MZ-N,Muzama,Muzama,383,3,Locality,UTC+2,Africa/Maputo
+3427761,MZ,MZ-Q,Lipale,Matina,439067,3,Locality,UTC+2,Africa/Maputo
+3427776,MZ,MZ-N,Chefe Abedala,Chefe Abedala,111179,3,city,UTC+2,Africa/Maputo
+3427783,MZ,MZ-N,Nihessiue,Nihessiue,155,3,Locality,UTC+2,Africa/Maputo
+3427809,MZ,MZ-Q,Cobre,Cobre,1961,4,village,UTC+2,Africa/Maputo
+3427818,MZ,MZ-Q,Chefe Taliao,Chefe Talião,15158,4,town,UTC+2,Africa/Maputo
+3427826,MZ,MZ-Q,Nicapacha,Nicapacha,711,3,Locality,UTC+2,Africa/Maputo
+3427833,MZ,MZ-Q,Pangaia,Pangaia,116917,3,Locality,UTC+2,Africa/Maputo
+3427840,MZ,MZ-Q,Chefe Nevogoro,Chefe Nevogoro,457,3,Locality,UTC+2,Africa/Maputo
+3427845,MZ,MZ-Q,Moria,Moria,149,3,Locality,UTC+2,Africa/Maputo
+3427877,MZ,MZ-N,Alberto,Alberto,2821,3,Locality,UTC+2,Africa/Maputo
+3427884,MZ,MZ-Q,Chefe Muamuza,Chefe Muamuza,2477,3,Locality,UTC+2,Africa/Maputo
+3427885,MZ,MZ-Q,Namolo,Namolo,1570,3,Locality,UTC+2,Africa/Maputo
+3427886,MZ,MZ-Q,Muatia,Muatia,81558,4,town,UTC+2,Africa/Maputo
+3427888,MZ,MZ-N,Lopes,Lopes,1915,3,Locality,UTC+2,Africa/Maputo
+3427897,MZ,MZ-Q,Chefe Catumba,Chefe Catumba,9006,3,Locality,UTC+2,Africa/Maputo
+3427903,MZ,MZ-Q,Macuanha,Macuanha,549,3,Locality,UTC+2,Africa/Maputo
+3427908,MZ,MZ-N,Antonio,António,616,4,village,UTC+2,Africa/Maputo
+3427916,MZ,MZ-N,Alberto,Alberto,1323,3,Locality,UTC+2,Africa/Maputo
+3427926,MZ,MZ-N,Alexandre,Teixeira,103,3,Locality,UTC+2,Africa/Maputo
+3427930,MZ,MZ-N,Nacua,Nacua,49,3,Locality,UTC+2,Africa/Maputo
+3427949,MZ,MZ-Q,Regulo Mutubua,Régulo Mutubua,1066,3,Locality,UTC+2,Africa/Maputo
+3427958,MZ,MZ-Q,Sozinho,Sózinho,7033,3,Locality,UTC+2,Africa/Maputo
+3427969,MZ,MZ-S,Nhacoro,Nhacoro,339,3,Locality,UTC+2,Africa/Maputo
+3427975,MZ,MZ-Q,Bormuda,Bormuda,758,3,Locality,UTC+2,Africa/Maputo
+3427994,MZ,MZ-N,Agostinho,Alberto,3073,3,Locality,UTC+2,Africa/Maputo
+3428023,MZ,MZ-Q,Chefe Naminha,Chefe Naminha,7782,3,Locality,UTC+2,Africa/Maputo
+3428050,MZ,MZ-Q,Mucaxe,Lima,60752,4,town,UTC+2,Africa/Maputo
+3428055,MZ,MZ-Q,Chefe Insaquela,Chefe Insaquela,507,3,Locality,UTC+2,Africa/Maputo
+3428067,MZ,MZ-Q,Tenda,Tenda,59708,4,town,UTC+2,Africa/Maputo
+3428068,MZ,MZ-Q,Chefe Ligama,Chefe Ligama,90021,3,Locality,UTC+2,Africa/Maputo
+3428071,MZ,MZ-Q,Regulo Camuana,Régulo Camuana,26071,3,Locality,UTC+2,Africa/Maputo
+3428075,MZ,MZ-N,Tarua,Tarua,8787,3,Locality,UTC+2,Africa/Maputo
+3428079,MZ,MZ-N,Chefe Puampuela,Chefe Puampuela,5154,3,Locality,UTC+2,Africa/Maputo
+3428098,MZ,MZ-Q,Chefe Acolambina,Chefe Acolambina,835,3,Locality,UTC+2,Africa/Maputo
+3428123,MZ,MZ-T,Malala,Malala,15213,4,town,UTC+2,Africa/Maputo
+3428182,MZ,MZ-S,Muanacamba,Culicidae,8987,3,Locality,UTC+2,Africa/Maputo
+3428194,MZ,MZ-Q,Latifo,Latifo,2273,3,Locality,UTC+2,Africa/Maputo
+3428198,MZ,MZ-T,Aldeia Chiotumbo,Aldeia Chiotumbo,1358,4,village,UTC+2,Africa/Maputo
+3428264,MZ,MZ-S,Vila Fontes Velha,Vila Fontes Velha,1589,3,Locality,UTC+2,Africa/Maputo
+3428275,MZ,MZ-N,Ninani,Ninani,59,3,Locality,UTC+2,Africa/Maputo
+3428286,MZ,MZ-Q,Namigo,Namigo,2360,4,village,UTC+2,Africa/Maputo
+3428287,MZ,MZ-N,Chefe Verissimo,Chefe Veríssimo,13617,3,Locality,UTC+2,Africa/Maputo
+3428359,MZ,MZ-Q,Mateus,Mateus,12487,3,Locality,UTC+2,Africa/Maputo
+3428370,MZ,MZ-N,Cabo Paraca,Cabo Paraca,244,3,Locality,UTC+2,Africa/Maputo
+3428373,MZ,MZ-N,Chefe Saide,Chefe Saíde,12171,3,Locality,UTC+2,Africa/Maputo
+3428414,MZ,MZ-Q,Regulo Ginama,Régulo Ginama,31923,3,Locality,UTC+2,Africa/Maputo
+3428424,MZ,MZ-N,Chefe Metano,Chefe Metano,1437,3,Locality,UTC+2,Africa/Maputo
+3428442,MZ,MZ-B,Machipanda,Machipanda,15962,4,town,UTC+2,Africa/Maputo
+3428453,MZ,MZ-N,Chefe Nemua,Chefe Nemua,6250,3,Locality,UTC+2,Africa/Maputo
+3428455,MZ,MZ-N,Chefe Pequenino,Chefe Pequenino,6059,4,village,UTC+2,Africa/Maputo
+3428476,MZ,MZ-N,Chefe Ali,Chefe Ali,150,3,Locality,UTC+2,Africa/Maputo
+3428481,MZ,MZ-N,Chefe Jamal,Chefe Jamal,14356,3,Locality,UTC+2,Africa/Maputo
+3428492,MZ,MZ-N,Chefe Languane,Chefe Languane,8761,3,Locality,UTC+2,Africa/Maputo
+3428502,MZ,MZ-N,Chefe Carepa,Chefe Carepa,983,3,Locality,UTC+2,Africa/Maputo
+3428576,MZ,MZ-B,Sussundenga,Sussundenga,70785,3,Locality,UTC+2,Africa/Maputo
+3428577,MZ,MZ-B,Zembe,Zembe,21573,3,Locality,UTC+2,Africa/Maputo
+3428578,MZ,MZ-B,Nguawala,Nguawala,103,3,Locality,UTC+2,Africa/Maputo
+3428609,MZ,MZ-Q,Regulo Naico,Régulo Naico,19400,3,Locality,UTC+2,Africa/Maputo
+3428644,MZ,MZ-B,E. Carmona,E. Carmona,5151,3,Locality,UTC+2,Africa/Maputo
+3428654,MZ,MZ-G,Francisco,Francisco,96,3,Locality,UTC+2,Africa/Maputo
+3428675,MZ,MZ-Q,Regulo Nambete,Cone,80,3,Locality,UTC+2,Africa/Maputo
+3428704,MZ,MZ-Q,Muia,Muia,1179,3,Locality,UTC+2,Africa/Maputo
+3428708,MZ,MZ-B,Fevereiro,Fevereiro,14638,3,Locality,UTC+2,Africa/Maputo
+3428740,MZ,MZ-Q,Montegiro,Montegiro,446,3,Locality,UTC+2,Africa/Maputo
+3428759,MZ,MZ-B,Serracao Esteves,Serração Esteves,26644,3,Locality,UTC+2,Africa/Maputo
+3428775,MZ,MZ-G,Salomao,Salomão,971221,3,Locality,UTC+2,Africa/Maputo
+3428846,MZ,MZ-G,Z. Sitoi,Z. Sitói,289,3,Locality,UTC+2,Africa/Maputo
+3428858,MZ,MZ-G,Chefe Macunhane,Chefe Macunhane,12067,3,Locality,UTC+2,Africa/Maputo
+3428928,MZ,MZ-B,Paulo,Paulo,12884,3,Locality,UTC+2,Africa/Maputo
+3428956,MZ,MZ-S,Lamego,Lamego,153,3,Locality,UTC+2,Africa/Maputo
+3428960,MZ,MZ-I,Carlos Xicolove,Carlos Xicolove,183,3,Locality,UTC+2,Africa/Maputo
+3428975,MZ,MZ-G,Bussane,Bussane,15179,3,Locality,UTC+2,Africa/Maputo
+3428976,MZ,MZ-B,Tomas,Tomás,13030,4,town,UTC+2,Africa/Maputo
+3428979,MZ,MZ-I,B. Manhique,B. Manhique,4477,3,Locality,UTC+2,Africa/Maputo
+3428992,MZ,MZ-G,Maziane,Maziane,295978,3,Locality,UTC+2,Africa/Maputo
+3429015,MZ,MZ-G,Faustino,Faustino,11378,3,Locality,UTC+2,Africa/Maputo
+3429016,MZ,MZ-G,Macuacua,Macuácua,11210,4,town,UTC+2,Africa/Maputo
+3429021,MZ,MZ-B,Mucodza,Mucodza,722,3,Locality,UTC+2,Africa/Maputo
+3429024,MZ,MZ-I,U. Sitoi,U. Sitoi,1849,3,Locality,UTC+2,Africa/Maputo
+3429036,MZ,MZ-I,Ezequias Nhezi,Ezequias Nhezi,5094,3,Locality,UTC+2,Africa/Maputo
+3429052,MZ,MZ-I,Zefanias Paipe,Pita,446,3,Locality,UTC+2,Africa/Maputo
+3429053,MZ,MZ-G,Pita,Pita,63684,4,town,UTC+2,Africa/Maputo
+3429054,MZ,MZ-I,Alvaro Galiza Matos,Alvaro Galiza Matos,5440,3,Locality,UTC+2,Africa/Maputo
+3429055,MZ,MZ-I,Nhachavane,Nhachavane,619,3,Locality,UTC+2,Africa/Maputo
+3429095,MZ,MZ-I,Chefe Chamba,Chefe Chamba,141063,3,Locality,UTC+2,Africa/Maputo
+3429157,MZ,MZ-G,Chefe Macheche,Chefe Macheche,5043,3,Locality,UTC+2,Africa/Maputo
+3429160,MZ,MZ-I,Elinga Macuacua,Elinga Macuácua,16642,3,Locality,UTC+2,Africa/Maputo
+3429171,MZ,MZ-I,M. Mangue,M. Mangue,7791,3,Locality,UTC+2,Africa/Maputo
+3429210,MZ,MZ-G,Ghefe Guezane,Ghefe Guezane,8066,3,Locality,UTC+2,Africa/Maputo
+3429228,MZ,MZ-G,Inguani,Inguani,8133,4,village,UTC+2,Africa/Maputo
+3429244,MZ,MZ-G,Jona,Jona,40698,4,town,UTC+2,Africa/Maputo
+3429245,MZ,MZ-G,Madala,Madala,2744,3,Locality,UTC+2,Africa/Maputo
+3429248,MZ,MZ-I,Gil Cumbane,Gil Cumbane,21339,3,Locality,UTC+2,Africa/Maputo
+3429302,MZ,MZ-I,Cat. Metodista,Cat. Metodista,5738,3,Locality,UTC+2,Africa/Maputo
+3429309,MZ,MZ-I,Cat. Metodista,Cat. Metodista,17803,3,Locality,UTC+2,Africa/Maputo
+3429316,MZ,MZ-G,Zembene,Zembene,9750,4,town,UTC+2,Africa/Maputo
+3429325,MZ,MZ-G,Fabiao,Fabião,955,3,Locality,UTC+2,Africa/Maputo
+3429331,MZ,MZ-G,Ocosse,Ocosse,491,4,village,UTC+2,Africa/Maputo
+3429345,MZ,MZ-G,Muomena,Muomena,498,4,village,UTC+2,Africa/Maputo
+3429354,MZ,MZ-G,Nuno Alvares Pereira,Nuno Alvares Pereira,198,4,village,UTC+2,Africa/Maputo
+3429355,MZ,MZ-G,Mafugua,Mafugua,1339,3,Locality,UTC+2,Africa/Maputo
+3429364,MZ,MZ-I,Cat. Congregacional,Cat. Congregacional,794,3,Locality,UTC+2,Africa/Maputo
+3429399,MZ,MZ-I,Chefe Dove,Chefe Dove,31571,3,Locality,UTC+2,Africa/Maputo
+3429403,MZ,MZ-I,M. Mabongo,M. Mabongo,16325,3,Locality,UTC+2,Africa/Maputo
+3429418,MZ,MZ-G,Aldeia de Ourique,Aldeia de Ourique,11542,4,town,UTC+2,Africa/Maputo
+3429426,MZ,MZ-I,Chefe Madinga,Chefe Madinga,2810,3,Locality,UTC+2,Africa/Maputo
+3429427,MZ,MZ-I,Chefe Cheule,Chefe Cheúle,465,3,Locality,UTC+2,Africa/Maputo
+3429438,MZ,MZ-I,Aldeia Macasse,Aldeia Macasse,47,3,Locality,UTC+2,Africa/Maputo
+3429439,MZ,MZ-I,N. Samuel,N. Samuel,14385,3,Locality,UTC+2,Africa/Maputo
+3429450,MZ,MZ-G,Regulo Chicualacuala,Regulo Chicualacuala,11316,3,Locality,UTC+2,Africa/Maputo
+3429458,MZ,MZ-I,Madoda Chaile,Madoda Chaíle,8499,3,Locality,UTC+2,Africa/Maputo
+3429474,MZ,MZ-I,Daniel Saate,Daniel Saate,469,3,Locality,UTC+2,Africa/Maputo
+3429482,MZ,MZ-I,Chefe Murrucula,Chefe Murrucula,510,3,Locality,UTC+2,Africa/Maputo
+3429487,MZ,MZ-G,Magone,Magone,2038,3,Locality,UTC+2,Africa/Maputo
+3429496,MZ,MZ-G,Quinta do Vale,Quinta do Vale,13473,4,town,UTC+2,Africa/Maputo
+3429519,MZ,MZ-I,Chefe Nhancuahe,Chefe Nhancuahe,504,3,Locality,UTC+2,Africa/Maputo
+3429560,MZ,MZ-G,Julio,Júlio,3421,3,Locality,UTC+2,Africa/Maputo
+3429563,MZ,MZ-G,Panguene,Panguene,797,3,Locality,UTC+2,Africa/Maputo
+3429567,MZ,MZ-I,Chefe Muenda,Chefe Muenda,4736,3,Locality,UTC+2,Africa/Maputo
+3429577,MZ,MZ-G,Machovane,Machovane,341320,3,Locality,UTC+2,Africa/Maputo
+3429594,MZ,MZ-G,Chefe Nhamusse,Chefe Nhamusse,84940,3,Locality,UTC+2,Africa/Maputo
+3429602,MZ,MZ-S,Medela,Medela,14054,3,Locality,UTC+2,Africa/Maputo
+3429604,MZ,MZ-I,Induna Julio,Induna Júlio,15262,4,town,UTC+2,Africa/Maputo
+3429610,MZ,MZ-I,Chigamane,Chigamane,9295,3,Locality,UTC+2,Africa/Maputo
+3429616,MZ,MZ-I,D. Muchai,D. Muchai,85,3,Locality,UTC+2,Africa/Maputo
+3429617,MZ,MZ-I,Nhagoela,Nhagoela,120346,3,city,UTC+2,Africa/Maputo
+3429619,MZ,MZ-I,Chefe Neve,Chefe Neve,429,3,Locality,UTC+2,Africa/Maputo
+3429622,MZ,MZ-I,D. Mavia,D. Mavia,186,3,Locality,UTC+2,Africa/Maputo
+3429631,MZ,MZ-I,Carlos Chitofo,Carlos Chitofo,893,3,Locality,UTC+2,Africa/Maputo
+3429634,MZ,MZ-I,Nhazombe,Nhazombe,202,3,Locality,UTC+2,Africa/Maputo
+3429635,MZ,MZ-I,Cat. Metodista,Cat. Metodista,147965,3,city,UTC+2,Africa/Maputo
+3429636,MZ,MZ-I,Sapane Taimo,Sapane Taímo,56419,4,town,UTC+2,Africa/Maputo
+3429652,MZ,MZ-G,Chefe Mandlalele,Chefe Mandlalele,511234,3,Locality,UTC+2,Africa/Maputo
+3429664,MZ,MZ-S,Mozonde,Mozonde,14524,4,town,UTC+2,Africa/Maputo
+3429668,MZ,MZ-G,Vuto,Vuto,663,3,Locality,UTC+2,Africa/Maputo
+3429688,MZ,MZ-I,Neve,Neve,8410,4,village,UTC+2,Africa/Maputo
+3429692,MZ,MZ-G,N. Zandamela,N. Zandamela,1084,3,Locality,UTC+2,Africa/Maputo
+3429710,MZ,MZ-I,Jorge,Jorge,1663,3,Locality,UTC+2,Africa/Maputo
+3429713,MZ,MZ-G,Chefe Uajahane,Luiz Gonzaga,9384,3,Locality,UTC+2,Africa/Maputo
+3429718,MZ,MZ-I,Caile,Mata,77,3,Locality,UTC+2,Africa/Maputo
+3429721,MZ,MZ-G,Alfeu Manhique,Alfeu Manhique,9830,3,Locality,UTC+2,Africa/Maputo
+3429722,MZ,MZ-G,U. Zime,U. Zime,601,3,Locality,UTC+2,Africa/Maputo
+3429724,MZ,MZ-G,Josefa Muzia,Josefa Muzia,308,3,Locality,UTC+2,Africa/Maputo
+3429730,MZ,MZ-G,Chefe Ponjuane,Chefe Ponjuane,390,3,Locality,UTC+2,Africa/Maputo
+3429732,MZ,MZ-G,L. Ferreira,L. Ferreira,19810,3,Locality,UTC+2,Africa/Maputo
+3429733,MZ,MZ-G,Chefe Mudavule,Chefe Mudavule,1243,3,Locality,UTC+2,Africa/Maputo
+3429738,MZ,MZ-I,Madoda S. Gale,Madoda S. Gale,8785,3,Locality,UTC+2,Africa/Maputo
+3429741,MZ,MZ-I,Fabiao Moniane,Fabião Moniane,880,3,Locality,UTC+2,Africa/Maputo
+3429762,MZ,MZ-G,M. Mafumo,M. Mafumo,1955,3,Locality,UTC+2,Africa/Maputo
+3429764,MZ,MZ-I,Chinguengane,Chinguengane,6415,3,Locality,UTC+2,Africa/Maputo
+3429765,MZ,MZ-G,Ngini,Ngini,1986,3,Locality,UTC+2,Africa/Maputo
+3429777,MZ,MZ-G,Inhabanga,Inhabanga,53786,3,Locality,UTC+2,Africa/Maputo
+3429778,MZ,MZ-G,Dandzive,Dandzive,4900,4,village,UTC+2,Africa/Maputo
+3429786,MZ,MZ-G,Chefe Maluelane,Chefe Maluelane,17476,3,Locality,UTC+2,Africa/Maputo
+3429801,MZ,MZ-G,Zafanias Sigulha,Zafanias Sigulha,1503,4,village,UTC+2,Africa/Maputo
+3429818,MZ,MZ-G,Chefe Majarmane,Chefe Majarmane,822,3,Locality,UTC+2,Africa/Maputo
+3429819,MZ,MZ-G,Chefe Uacharine,Chefe Uacharine,413,3,Locality,UTC+2,Africa/Maputo
+3429820,MZ,MZ-G,Chongo,Chongo,1588,3,Locality,UTC+2,Africa/Maputo
+3429821,MZ,MZ-G,Chefe Cuimane,Chefe Cuimane,82,3,Locality,UTC+2,Africa/Maputo
+3429836,MZ,MZ-G,Chiboma,Chiboma,420,3,Locality,UTC+2,Africa/Maputo
+3429843,MZ,MZ-G,Chefe Biguanhana,Chefe Biguanhana,1387,3,Locality,UTC+2,Africa/Maputo
+3429847,MZ,MZ-G,Regedor Bolene,Regedor Bolene,568,3,Locality,UTC+2,Africa/Maputo
+3429863,MZ,MZ-G,Sao Mateus,São Mateus,51757,4,town,UTC+2,Africa/Maputo
+3429864,MZ,MZ-G,Chefe Chimonuane,Chefe Chimonuane,4187,3,Locality,UTC+2,Africa/Maputo
+3429866,MZ,MZ-I,Comiche,Comiche,10357,3,Locality,UTC+2,Africa/Maputo
+3429886,MZ,MZ-I,Meque,Meque,300059,3,Locality,UTC+2,Africa/Maputo
+3429902,MZ,MZ-I,Carlos Faela,Carlos Faela,32830,4,town,UTC+2,Africa/Maputo
+3429909,MZ,MZ-G,Filipe Cabral,Filipe Cabral,397,3,Locality,UTC+2,Africa/Maputo
+3429925,MZ,MZ-G,Conguele,Conguele,217,3,Locality,UTC+2,Africa/Maputo
+3429933,MZ,MZ-G,Makhuane,Makhuane,15953,4,town,UTC+2,Africa/Maputo
+3429949,MZ,MZ-G,C. Chelpa,C. Chelpa,21922,3,Locality,UTC+2,Africa/Maputo
+3429959,MZ,MZ-G,C. Zava,C. Zava,1077,3,Locality,UTC+2,Africa/Maputo
+3429971,MZ,MZ-G,C. Chirrinzanine,C. Chirrinzanine,32308,3,Locality,UTC+2,Africa/Maputo
+3429973,MZ,MZ-G,Dengueza,Dengueza,453,3,Locality,UTC+2,Africa/Maputo
+3429980,MZ,MZ-G,Aldeia V. Lenine,Aldeia V. Lenine,237367,3,Locality,UTC+2,Africa/Maputo
+3429989,MZ,MZ-G,C. Caichane,C. Caichane,3048,3,Locality,UTC+2,Africa/Maputo
+3429993,MZ,MZ-G,Regedor Siaia,Regedor Siaia,29,3,Locality,UTC+2,Africa/Maputo
+3429994,MZ,MZ-G,Chefe Nhocuene,Chefe Nhocuene,2636,3,Locality,UTC+2,Africa/Maputo
+3429996,MZ,MZ-G,Jose Andrade,José Andrade,1687,3,Locality,UTC+2,Africa/Maputo
+3430015,MZ,MZ-G,Nhamavila,Nhamavila,1235,3,Locality,UTC+2,Africa/Maputo
+3430029,MZ,MZ-I,Muguduane,Muguduane,3752,3,Locality,UTC+2,Africa/Maputo
+3430035,MZ,MZ-G,Chicamane,Chicamane,1147,4,village,UTC+2,Africa/Maputo
+3430062,MZ,MZ-I,Francisco,Francisco,773,3,Locality,UTC+2,Africa/Maputo
+3430067,MZ,MZ-I,Matingalicane,Matingalicane,1519,3,Locality,UTC+2,Africa/Maputo
+3430068,MZ,MZ-I,Julai,Julai,549,3,Locality,UTC+2,Africa/Maputo
+3430078,MZ,MZ-I,M. Camboque,M. Camboque,11737,3,Locality,UTC+2,Africa/Maputo
+3430089,MZ,MZ-I,Chimbalane,Chimbalane,1137,3,Locality,UTC+2,Africa/Maputo
+3430091,MZ,MZ-I,Chefe Jose,Chefe José,303,3,Locality,UTC+2,Africa/Maputo
+3430093,MZ,MZ-I,Reis,Reis,125,3,Locality,UTC+2,Africa/Maputo
+3430102,MZ,MZ-I,Meque Mhavane,Gumbé,41668,4,town,UTC+2,Africa/Maputo
+3430104,MZ,MZ-I,G. Mubai,G. Mubai,47347,3,Locality,UTC+2,Africa/Maputo
+3430105,MZ,MZ-S,Bue,Xavier,6739,3,Locality,UTC+2,Africa/Maputo
+3430106,MZ,MZ-I,Xavier,Xavier,596,3,Locality,UTC+2,Africa/Maputo
+3430118,MZ,MZ-I,Pedro,Pedro,41,3,Locality,UTC+2,Africa/Maputo
+3430125,MZ,MZ-G,Macuambe,Macuambe,176,3,Locality,UTC+2,Africa/Maputo
+3430148,MZ,MZ-I,Jossia Ingainga,Jossia Ingainga,1040,4,village,UTC+2,Africa/Maputo
+3430155,MZ,MZ-I,Induna Chingaze,Induna Chingaze,482,3,Locality,UTC+2,Africa/Maputo
+3430178,MZ,MZ-S,Magumane,Magumane,916,3,Locality,UTC+2,Africa/Maputo
+3430180,MZ,MZ-G,Davide Gege,Davide Gege,10362,3,Locality,UTC+2,Africa/Maputo
+3430182,MZ,MZ-G,Simao Nhantumbo,Simão Nhantumbo,1308,3,Locality,UTC+2,Africa/Maputo
+3430186,MZ,MZ-I,Capataz,Capataz,7174,3,Locality,UTC+2,Africa/Maputo
+3430215,MZ,MZ-G,Fernando Tembe,Fernando Tembe,212,4,village,UTC+2,Africa/Maputo
+3430219,MZ,MZ-I,Fabiao,Fabião,641,3,Locality,UTC+2,Africa/Maputo
+3430233,MZ,MZ-I,Roupasse,Roupasse,247252,3,Neighborhood,UTC+2,Africa/Maputo
+3430255,MZ,MZ-S,Manuel,Manuel,1002,3,Locality,UTC+2,Africa/Maputo
+3430256,MZ,MZ-S,Matsena,Matsena,122,3,Locality,UTC+2,Africa/Maputo
+3430270,MZ,MZ-G,Cat. Suica,Cat. Suica,1169,3,Locality,UTC+2,Africa/Maputo
+3430272,MZ,MZ-G,Chiue,Chiúe,6073,4,village,UTC+2,Africa/Maputo
+3430285,MZ,MZ-I,Chefe Pomene,Chefe Pomene,2122,3,Locality,UTC+2,Africa/Maputo
+3430287,MZ,MZ-I,Muchungo,Vilanculos,7041,4,village,UTC+2,Africa/Maputo
+3430311,MZ,MZ-I,Gonnamo,Gonnamo,2749,3,Locality,UTC+2,Africa/Maputo
+3430313,MZ,MZ-I,Chefe Tiane,Chefe Tiane,213,3,Locality,UTC+2,Africa/Maputo
+3430315,MZ,MZ-I,Chefe Quebo,Chefe Quebo,961,3,Locality,UTC+2,Africa/Maputo
+3430330,MZ,MZ-G,Silvia Filimao,Abel,48,3,Locality,UTC+2,Africa/Maputo
+3430340,MZ,MZ-I,Manuel,Manuel,74634,3,Locality,UTC+2,Africa/Maputo
+3430384,MZ,MZ-I,Chefe Jonasse,Rafael,517,3,Locality,UTC+2,Africa/Maputo
+3430397,MZ,MZ-I,Chefe Chibembe,Chefe Chibembe,492,3,Locality,UTC+2,Africa/Maputo
+3430402,MZ,MZ-I,Chitofo,Chitofo,6054,3,Locality,UTC+2,Africa/Maputo
+3430409,MZ,MZ-I,Julai,Julai,4865,3,Locality,UTC+2,Africa/Maputo
+3430415,MZ,MZ-I,Chetio,Chetio,32906,3,Locality,UTC+2,Africa/Maputo
+3430427,MZ,MZ-I,Fernando,Fernando,2087,3,Locality,UTC+2,Africa/Maputo
+3430429,MZ,MZ-I,Uoache,Uoache,111,3,Locality,UTC+2,Africa/Maputo
+3430443,MZ,MZ-G,Regedor Muguambe,Regedor Muguambe,84784,3,Locality,UTC+2,Africa/Maputo
+3430457,MZ,MZ-G,Nhaluele,Nhaluele,14937,3,Locality,UTC+2,Africa/Maputo
+3430486,MZ,MZ-G,Chefe Chicuangue,Chefe Chicuangue,434,3,Locality,UTC+2,Africa/Maputo
+3430513,MZ,MZ-I,Famanda,Bernardino,42529,4,town,UTC+2,Africa/Maputo
+3430529,MZ,MZ-I,Naiete,Naiete,327,3,Locality,UTC+2,Africa/Maputo
+3430545,MZ,MZ-I,Feijao,Feijão,329517,3,Locality,UTC+2,Africa/Maputo
+3430568,MZ,MZ-I,Cabo Guebele,Cabo Guebele,2404,3,Locality,UTC+2,Africa/Maputo
+3430589,MZ,MZ-I,R. Nhaguniga,R. Nhaguniga,239150,3,Locality,UTC+2,Africa/Maputo
+3430595,MZ,MZ-I,F. Sandique,F. Sandique,85060,4,town,UTC+2,Africa/Maputo
+3430598,MZ,MZ-I,Ezequiel,Ezequiel,26401,3,Locality,UTC+2,Africa/Maputo
+3430601,MZ,MZ-I,Chefe Movinzula,Chefe Movinzula,22758,3,Locality,UTC+2,Africa/Maputo
+3430603,MZ,MZ-I,Cabo Chifuio,Cabo Chifuio,1523,3,Locality,UTC+2,Africa/Maputo
+3430616,MZ,MZ-I,Alfeu,Alfeu,19,3,Locality,UTC+2,Africa/Maputo
+3430621,MZ,MZ-I,Fernando,Fernando,597,3,Locality,UTC+2,Africa/Maputo
+3430631,MZ,MZ-I,Bernardo,Bernardo,1416,3,Locality,UTC+2,Africa/Maputo
+3430634,MZ,MZ-I,Cat. Feiticista,Cat. Feiticista,886,4,village,UTC+2,Africa/Maputo
+3430637,MZ,MZ-I,Met. Episcopal,Met. Episcopal,1324,3,Locality,UTC+2,Africa/Maputo
+3430648,MZ,MZ-I,Taiela,Taiela,7228,3,Locality,UTC+2,Africa/Maputo
+3430666,MZ,MZ-I,Chefe Dovane,Chefe Dovane,249,3,Locality,UTC+2,Africa/Maputo
+3430668,MZ,MZ-I,Chefe Mahanuane,Chefe Mahanuane,29433,4,town,UTC+2,Africa/Maputo
+3430679,MZ,MZ-I,Z. Bengo,Z. Bengo,15740,4,town,UTC+2,Africa/Maputo
+3430697,MZ,MZ-I,Sao Francisco de Assis,São Francisco de Assis,358033,3,Locality,UTC+2,Africa/Maputo
+3430708,MZ,MZ-I,Chefe Dauca,Chefe Dauca,61684,3,Locality,UTC+2,Africa/Maputo
+3430709,MZ,MZ-I,Maiembulani,Maiembulani,37833,3,Locality,UTC+2,Africa/Maputo
+3430754,MZ,MZ-I,Cabo Sitila,Cabo Sitila,3286,3,Locality,UTC+2,Africa/Maputo
+3430756,MZ,MZ-I,Cabo Mahate,Cabo Mahate,1297,3,Locality,UTC+2,Africa/Maputo
+3430760,MZ,MZ-I,Alfanete,Alfanete,8089,3,Locality,UTC+2,Africa/Maputo
+3430775,MZ,MZ-I,Met. Livre Saia Quichine,Met. Livre Saia Quichine,111,3,Locality,UTC+2,Africa/Maputo
+3430780,MZ,MZ-I,Chefe Nhabombo,Chefe Nhabombo,14278,3,Locality,UTC+2,Africa/Maputo
+3430782,MZ,MZ-I,Cabo Jane,Cabo Jane,14319,4,town,UTC+2,Africa/Maputo
+3430798,MZ,MZ-I,Cabo Muchache,Cabo Muchache,1107,3,Locality,UTC+2,Africa/Maputo
+3430813,MZ,MZ-I,Cat. Met. Z. Gavemende,Cat. Met. Z. Gavemende,65859,4,town,UTC+2,Africa/Maputo
+3430816,MZ,MZ-I,Zefanias,Zefanias,38,3,Locality,UTC+2,Africa/Maputo
+3430835,MZ,MZ-I,Pimeuane,Pimeuane,38068,4,town,UTC+2,Africa/Maputo
+3430836,MZ,MZ-I,Manguezane,Manguezane,1843,4,village,UTC+2,Africa/Maputo
+3430837,MZ,MZ-I,Alifeu,Alifeu,433,3,Locality,UTC+2,Africa/Maputo
+3430838,MZ,MZ-I,Zabele,Zabele,53460,4,town,UTC+2,Africa/Maputo
+3430845,MZ,MZ-I,Cabo Gongane,Cabo Gongane,1938,3,Locality,UTC+2,Africa/Maputo
+3430857,MZ,MZ-I,Chefe Nazarate,Chefe Nazarate,6117,3,Locality,UTC+2,Africa/Maputo
+3430861,MZ,MZ-I,Pedro,Pedro,45543,3,Locality,UTC+2,Africa/Maputo
+3430862,MZ,MZ-I,J. Nhagilunguane,J. Nhagilunguane,695,3,Locality,UTC+2,Africa/Maputo
+3430863,MZ,MZ-I,Q. Cumba,Q. Cumba,644234,3,Locality,UTC+2,Africa/Maputo
+3430865,MZ,MZ-I,Cabo Tome,Cabo Tome,1181,3,Locality,UTC+2,Africa/Maputo
+3430866,MZ,MZ-I,Eugenio,Eugénio,14000,4,town,UTC+2,Africa/Maputo
+3430868,MZ,MZ-I,Fernando,Fernando,55977,3,Locality,UTC+2,Africa/Maputo
+3430878,MZ,MZ-I,Cabo Mangoro,Cabo Mangoro,5000,4,village,UTC+2,Africa/Maputo
+3430880,MZ,MZ-I,Messeri,Messeri,5515,3,Locality,UTC+2,Africa/Maputo
+3430881,MZ,MZ-I,Chefe Laita,Chefe Laita,125,3,Locality,UTC+2,Africa/Maputo
+3430882,MZ,MZ-I,Lapiao,Lapião,774,3,Locality,UTC+2,Africa/Maputo
+3430905,MZ,MZ-L,Chibuco,Chibuco,653,3,Locality,UTC+2,Africa/Maputo
+3430940,MZ,MZ-I,Cabo Rava,Jone,7750,3,Locality,UTC+2,Africa/Maputo
+3430943,MZ,MZ-L,Maissene,Maissene,4627,3,Locality,UTC+2,Africa/Maputo
+3430946,MZ,MZ-I,Induna Gove,Induna Gove,68270,3,Locality,UTC+2,Africa/Maputo
+3430957,MZ,MZ-I,Horacio,Horácio,13216,3,Locality,UTC+2,Africa/Maputo
+3430968,MZ,MZ-I,C. Malorane,C. Malorane,8580,3,Locality,UTC+2,Africa/Maputo
+3430975,MZ,MZ-I,Cat. Episcopal Bambela,Cat. Episcopal Bambela,3987,4,village,UTC+2,Africa/Maputo
+3430988,MZ,MZ-I,J. Mazonda,J. Mazonda,86653,3,Locality,UTC+2,Africa/Maputo
+3430992,MZ,MZ-I,Carlos,Carlos,40241,4,town,UTC+2,Africa/Maputo
+3430998,MZ,MZ-L,Issai,Issai,188,3,Locality,UTC+2,Africa/Maputo
+3431004,MZ,MZ-I,Chitofo,Lucas,72,3,Locality,UTC+2,Africa/Maputo
+3431005,MZ,MZ-I,Lucas,Lucas,4632,3,Locality,UTC+2,Africa/Maputo
+3431008,MZ,MZ-I,Tenda,Tenda,3247,3,Locality,UTC+2,Africa/Maputo
+3431023,MZ,MZ-I,Jemisseni,Jemisseni,17752,3,Locality,UTC+2,Africa/Maputo
+3431029,MZ,MZ-I,Joanisse,Joanisse,152,3,Locality,UTC+2,Africa/Maputo
+3431057,MZ,MZ-I,Chefe Magula,Chefe Magula,201378,3,Locality,UTC+2,Africa/Maputo
+3431066,MZ,MZ-I,Cat. Metodista,Cat. Metodista,353,3,Locality,UTC+2,Africa/Maputo
+3431117,MZ,MZ-I,Ganacana Chigombe,Ganacana Chigombe,1506,3,Locality,UTC+2,Africa/Maputo
+3431129,MZ,MZ-I,Pedro,Manuel,51,3,Locality,UTC+2,Africa/Maputo
+3431161,MZ,MZ-I,Cabo Muchipe,Cabo Muchipe,2140,3,Locality,UTC+2,Africa/Maputo
+3431184,MZ,MZ-I,Daniel,Daniel,1350,3,Locality,UTC+2,Africa/Maputo
+3431188,MZ,MZ-I,Niquisso,Niquisso,3594,3,Locality,UTC+2,Africa/Maputo
+3431193,MZ,MZ-L,Sulemane,Sulemane,2545,3,Locality,UTC+2,Africa/Maputo
+3431199,MZ,MZ-G,Sabao,Sabão,1246,3,Locality,UTC+2,Africa/Maputo
+3431204,MZ,MZ-I,Jossianhari,Rufino,7845,3,Locality,UTC+2,Africa/Maputo
+3431218,MZ,MZ-I,Mavume,Mavume,6350,4,hamlet,UTC+2,Africa/Maputo
+3431223,MZ,MZ-I,Jose,José,1114,3,Locality,UTC+2,Africa/Maputo
+3431241,MZ,MZ-I,Manguezane,Chibemba,113,3,Locality,UTC+2,Africa/Maputo
+3431244,MZ,MZ-I,Trezenta,Trezenta,2257,3,Locality,UTC+2,Africa/Maputo
+3431245,MZ,MZ-I,Chiculucane,Chiculucane,888,3,Locality,UTC+2,Africa/Maputo
+3431255,MZ,MZ-L,Geremias,Sófia,1450,3,Locality,UTC+2,Africa/Maputo
+3431259,MZ,MZ-I,Cabo Maimela,Cabo Maimela,47622,4,town,UTC+2,Africa/Maputo
+3431266,MZ,MZ-I,Sao Matsimbe,São Matsimbe,771,3,Locality,UTC+2,Africa/Maputo
+3431271,MZ,MZ-I,Cabo Malate,Cabo Malate,574330,3,Locality,UTC+2,Africa/Maputo
+3431272,MZ,MZ-I,Cabo Cheocule,Cabo Cheocule,494,3,Locality,UTC+2,Africa/Maputo
+3431273,MZ,MZ-I,Chefe Livengue,Chefe Livengue,52371,4,town,UTC+2,Africa/Maputo
+3431313,MZ,MZ-G,Sangutane,Sangutane,32794,3,Locality,UTC+2,Africa/Maputo
+3431321,MZ,MZ-G,Combo,Combo,13610,3,Locality,UTC+2,Africa/Maputo
+3431325,MZ,MZ-I,Mitine,Mitine,40272,4,town,UTC+2,Africa/Maputo
+3431350,MZ,MZ-I,Macassano,Macassano,12045,3,Locality,UTC+2,Africa/Maputo
+3431353,MZ,MZ-I,Mataluane,Mataluane,1137,3,Locality,UTC+2,Africa/Maputo
+3431354,MZ,MZ-I,Gine,Gine,77,3,Locality,UTC+2,Africa/Maputo
+3431366,MZ,MZ-I,Cabo Marrinhela,Cabo Marrinhela,50439,3,Locality,UTC+2,Africa/Maputo
+3431367,MZ,MZ-I,Mussingapene,Mussingapene,871,3,Locality,UTC+2,Africa/Maputo
+3431369,MZ,MZ-I,Cabo Guzuza,Cabo Guzuza,231,3,Locality,UTC+2,Africa/Maputo
+3431391,MZ,MZ-I,Alfredo,Alfredo,27935,3,Locality,UTC+2,Africa/Maputo
+3431393,MZ,MZ-I,Jose,José,363,3,Locality,UTC+2,Africa/Maputo
+3431396,MZ,MZ-I,Liberanto,Liberanto,124,3,Locality,UTC+2,Africa/Maputo
+3431414,MZ,MZ-I,U. Cofe,U. Cofe,63,3,Locality,UTC+2,Africa/Maputo
+3431460,MZ,MZ-I,Chizapela,Chizapela,2758,3,Locality,UTC+2,Africa/Maputo
+3431469,MZ,MZ-L,Maciana,Maciana,4331,3,Locality,UTC+2,Africa/Maputo
+3431558,MZ,MZ-I,Conane,Conane,389,3,Locality,UTC+2,Africa/Maputo
+3431581,MZ,MZ-G,Tomas,Vicente,442,3,Locality,UTC+2,Africa/Maputo
+3431606,MZ,MZ-I,M. Sopeia,M. Sopeia,11587,3,Locality,UTC+2,Africa/Maputo
+3431608,MZ,MZ-I,Chefe Macunhe,Chefe Macunhe,5278,4,village,UTC+2,Africa/Maputo
+3431627,MZ,MZ-L,Senganhane,Senganhane,1055,3,Locality,UTC+2,Africa/Maputo
+3431628,MZ,MZ-L,Manjane,Manjane,420,3,Locality,UTC+2,Africa/Maputo
+3431642,MZ,MZ-L,Samuel,Samuel,121,3,Locality,UTC+2,Africa/Maputo
+3431645,MZ,MZ-G,Alberto,Alberto,5963,3,Locality,UTC+2,Africa/Maputo
+3431665,MZ,MZ-L,Muquevica,Muqueviça,168,3,Locality,UTC+2,Africa/Maputo
+3431721,MZ,MZ-I,Maulungue,Manuel,521,3,Locality,UTC+2,Africa/Maputo
+3431768,MZ,MZ-L,Uanguana,Uanguana,90,3,Locality,UTC+2,Africa/Maputo
+3431775,MZ,MZ-I,Faduco,Faduco,1616,3,Locality,UTC+2,Africa/Maputo
+3431777,MZ,MZ-G,Alberto,Alberto,4184,3,Locality,UTC+2,Africa/Maputo
+3431788,MZ,MZ-I,Machachovane,Machachovane,23265,3,Locality,UTC+2,Africa/Maputo
+3431836,MZ,MZ-I,Chicoa,Chicoa,344,3,Locality,UTC+2,Africa/Maputo
+3431844,MZ,MZ-G,Joaquim,Joaquim,494,3,Locality,UTC+2,Africa/Maputo
+3431867,MZ,MZ-I,Chefe Mepungo,Chefe Mepungo,456,3,Locality,UTC+2,Africa/Maputo
+3431910,MZ,MZ-I,Chambelane,Alexandre,224,3,Locality,UTC+2,Africa/Maputo
+3431916,MZ,MZ-G,Cartaxo,Cartaxo,6873,3,Locality,UTC+2,Africa/Maputo
+3431937,MZ,MZ-I,Ernesto,Ernesto,106,3,Locality,UTC+2,Africa/Maputo
+3431948,MZ,MZ-I,Silvene,Silvene,77,3,Locality,UTC+2,Africa/Maputo
+3431949,MZ,MZ-I,Tonela,Tonela,33079,4,town,UTC+2,Africa/Maputo
+3431958,MZ,MZ-I,Sabao,Simão,241,3,Locality,UTC+2,Africa/Maputo
+3431986,MZ,MZ-I,Satane,Satane,85,3,Locality,UTC+2,Africa/Maputo
+3432013,MZ,MZ-G,Muazivi,Muazivi,318,3,Locality,UTC+2,Africa/Maputo
+3432043,MZ,MZ-G,Juliao,Julião,749093,3,Locality,UTC+2,Africa/Maputo
+3432079,MZ,MZ-I,Seneta,Seneta,26575,3,Locality,UTC+2,Africa/Maputo
+3432122,MZ,MZ-I,Mabalane,Mabalane,997,3,Locality,UTC+2,Africa/Maputo
+3432135,MZ,MZ-G,Panguene,Panguene,464321,3,Locality,UTC+2,Africa/Maputo
+3432144,MZ,MZ-I,Mujaje,Mujaje,2169,3,Locality,UTC+2,Africa/Maputo
+3432196,MZ,MZ-I,Marobane,Marobane,10704,3,Locality,UTC+2,Africa/Maputo
+3432302,MZ,MZ-I,Chissivane,Chissivane,247,3,Locality,UTC+2,Africa/Maputo
+3432308,MZ,MZ-I,Jossia,Jossia,1477,4,village,UTC+2,Africa/Maputo
+3432355,MZ,MZ-I,Chovane,Chovane,9861,3,Locality,UTC+2,Africa/Maputo
+3432439,MZ,MZ-MPM,Bairro 25 de Junho A,Bairro 25 de Junho A,\N,2,PPLA3,UTC+2,Africa/Maputo
+3432440,MZ,MZ-MPM,Bairro 25 de Junho B,Bairro 25 de Junho B,\N,2,PPLA3,UTC+2,Africa/Maputo
+3432463,MZ,MZ-L,Cipamane,Cipamane,3178,3,Locality,UTC+2,Africa/Maputo
+3432466,MZ,MZ-L,Alexandre Uamunguene,Alexandre Uamunguene,1342,3,Locality,UTC+2,Africa/Maputo
+3432469,MZ,MZ-L,Muamulla,Muamulla,350,3,Locality,UTC+2,Africa/Maputo
+3432471,MZ,MZ-L,Chivambalane,Chivambalane,3314,4,village,UTC+2,Africa/Maputo
+3432473,MZ,MZ-L,Javeta,Mateus,5335,3,Locality,UTC+2,Africa/Maputo
+3432474,MZ,MZ-L,Mateus,Mateus,7411,4,village,UTC+2,Africa/Maputo
+3432479,MZ,MZ-L,Ponta d'Ouro,Ponta do Ouro,2738,4,Town,UTC+2,Africa/Maputo
+3432490,MZ,MZ-G,Mapai,Mapai,19932,3,town,UTC+2,Africa/Maputo
+3432503,MZ,MZ-N,Namapa-erati,Namapa-erati,26383,3,locality,UTC+2,Africa/Maputo
+3432516,MZ,MZ-S,Metuchira,Metuchira,9787,3,Locality,UTC+2,Africa/Maputo
+3432532,MZ,MZ-A,Mataca,Mataca,5002,3,Locality,UTC+2,Africa/Maputo
+3432533,MZ,MZ-S,Buzi,Búzi,16369,3,PPL,UTC+2,Africa/Maputo
+3432534,MZ,MZ-G,Canicado,Caniçado,6608,4,isolated_dwelling,UTC+2,Africa/Maputo
+3432535,MZ,MZ-A,Insaca,Insaca,29351,3,PPL,UTC+2,Africa/Maputo
+3432536,MZ,MZ-N,Malema,Malema,23553,4,town,UTC+2,Africa/Maputo
+3432537,MZ,MZ-B,Messica,Messica,15907,4,town,UTC+2,Africa/Maputo
+3432538,MZ,MZ-N,Ribaue,Ribáuè,30241,4,town,UTC+2,Africa/Maputo
+3432539,MZ,MZ-A,Sanga,Sanga,4184,3,PPL,UTC+2,Africa/Maputo
+3432540,MZ,MZ-G,Xilembene,Xilembene,23742,3,PPL,UTC+2,Africa/Maputo
+3432541,MZ,MZ-L,Xinavane,Xinavane,11534,3,PPL,UTC+2,Africa/Maputo

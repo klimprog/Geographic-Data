@@ -1,0 +1,579 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+4363097,TW,\N,Douliu,斗六市,108355,2,City (Shi),UTC+8,Asia/Taipei
+4363110,TW,\N,Yongkang,永康,232970,4,town,UTC+8,Asia/Taipei
+4363124,TW,TW-KHH,Yongfang,永芳,8332,3,City,UTC+8,Asia/Taipei
+4363131,TW,\N,Yongjing,永靖,33363,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363141,TW,\N,Shitoucuo,石頭厝,733,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363151,TW,\N,Yuli,玉里,22556,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4363170,TW,\N,Yuemei,月眉,761,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363188,TW,\N,Yujing,玉井,16597,4,town,UTC+8,Asia/Taipei
+4363189,TW,\N,Yuchi,魚池,11453,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363190,TW,\N,Youchewo,油車窩,160,3,Town,UTC+8,Asia/Taipei
+4363199,TW,TW-TPE,Youchekeng,油車坑,26,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363231,TW,\N,Yuanshan,圓山,31218,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363242,TW,\N,Yuanlin,員林,119068,3,City (Shi),UTC+8,Asia/Taipei
+4363246,TW,\N,Yuanli,苑裡,41302,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4363255,TW,\N,Yuanchang,元長,19764,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363269,TW,TW-TPE,Yingge,鶯歌,88509,4,hamlet,UTC+8,Asia/Taipei
+4363282,TW,\N,Yancuoliao,顏厝寮,2121,3,Town,UTC+8,Asia/Taipei
+4363305,TW,\N,Yanping,延平,1750,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363341,TW,\N,Yangmei,楊梅區,180723,3,PPL,UTC+8,Asia/Taipei
+4363367,TW,\N,Chenggong,成功,9305,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4363403,TW,\N,Wutai,霧臺,1461,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363436,TW,\N,Shanliao,山寮,1657,3,Town,UTC+8,Asia/Taipei
+4363472,TW,\N,Wugulin,五股林,120,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363479,TW,\N,Wuguang,五塊厝,209,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363488,TW,\N,Wugu,五股,93577,4,hamlet,UTC+8,Asia/Taipei
+4363505,TW,\N,Wujiancuo,五間厝,52,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363517,TW,\N,Wufeng,霧峰區,63537,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363542,TW,\N,Wujie,武界,39141,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363611,TW,\N,Weijia,Weijia,13171,3,City,UTC+8,Asia/Taipei
+4363654,TW,\N,Wantan,灣潭,1534,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363658,TW,\N,Wandan,萬丹,46732,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363674,TW,\N,Wanluan,萬巒,19316,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363677,TW,TW-TPE,Wanli,萬里,20796,3,locality,UTC+8,Asia/Taipei
+4363692,TW,\N,Wangtongwen,王通塭,1419,3,Town,UTC+8,Asia/Taipei
+4363703,TW,\N,Wangliao,網寮,584,3,Town,UTC+8,Asia/Taipei
+4363717,TW,\N,Wang'an,望安,3583,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363741,TW,\N,Waishuiwei,外水尾,53695,3,locality,UTC+8,Asia/Taipei
+4363745,TW,\N,Shitan,獅潭,2657,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363767,TW,\N,Waiganglin,外岡林,95,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363795,TW,\N,Citong,莿桐,24998,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363831,TW,\N,Dunzijiao,墩子脚,2143,3,Town,UTC+8,Asia/Taipei
+4363843,TW,\N,Dongshiliao,東勢寮,50094,3,CDP,UTC+8,Asia/Taipei
+4363873,TW,\N,Dongshichencuo,東勢陳厝,601,3,Village,UTC+8,Asia/Taipei
+4363878,TW,\N,Dongshi,東勢,561,3,Town,UTC+8,Asia/Taipei
+4363881,TW,\N,Dongshi,東石,14968,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363889,TW,\N,Dongshanqian,東山,2909,3,Town,UTC+8,Asia/Taipei
+4363890,TW,\N,Dongshan,冬山,52046,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363892,TW,\N,Dongshan,東山,21320,4,town,UTC+8,Asia/Taipei
+4363914,TW,\N,Tongluo,銅鑼,16993,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363941,TW,\N,Donggang,東港,45036,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4363959,TW,\N,Tongxiao,通霄,25915,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4363960,TW,\N,Dongxiao,巫厝,9219,3,Census-Designated Place,UTC+8,Asia/Taipei
+4363964,TW,\N,Wukuailiao,五塊寮,25379,3,CDP,UTC+8,Asia/Taipei
+4363965,TW,\N,Donghe,東和,7376,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4363990,TW,\N,Tong'anliao,同安寮,24100,3,CDP,UTC+8,Asia/Taipei
+4364010,TW,TW-TPE,Tuku,土庫,25781,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4364039,TW,TW-TPE,Tucheng,土城,241006,3,locality,UTC+8,Asia/Taipei
+4364084,TW,\N,Zuozhen,左鎮,4980,4,town,UTC+8,Asia/Taipei
+4364093,TW,\N,Caotun,草屯,94817,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4364106,TW,\N,Caoshan,草山,27439,3,Township,UTC+8,Asia/Taipei
+4364141,TW,\N,Zaoqiao,造橋,12387,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364180,TW,\N,Touwu,頭屋,8974,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364190,TW,\N,Toushe,頭社,51,3,Township,UTC+8,Asia/Taipei
+4364197,TW,\N,Dounan,斗南,41487,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4364220,TW,\N,Toufen,頭份,106523,3,City (Shi),UTC+8,Asia/Taipei
+4364231,TW,\N,Touqianpu,頭前寮,1862,3,Town,UTC+8,Asia/Taipei
+4364239,TW,TW-TPE,Toucheng,頭城,25378,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4364240,TW,\N,Toucheng,頭城,28147,4,hamlet,UTC+8,Asia/Taipei
+4364273,TW,\N,Dingdongbu,頂東埔,145,4,village,UTC+8,Asia/Taipei
+4364284,TW,\N,Tianwei,田尾,25456,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364310,TW,\N,Dingbu,頂埔,13850,3,Township,UTC+8,Asia/Taipei
+4364312,TW,\N,Dingbu,頂埔,6978,3,Town,UTC+8,Asia/Taipei
+4364321,TW,\N,Jinning,頂半天,16485,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364326,TW,\N,Dingnei,碇內,12145,3,Census-Designated Place,UTC+8,Asia/Taipei
+4364362,TW,\N,Dingli,頂犂,42947,3,CDP,UTC+8,Asia/Taipei
+4364367,TW,TW-KHH,Gongguan,公館,27644,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364507,TW,\N,Tianbu,典寶,116,3,Census-Designated Place,UTC+8,Asia/Taipei
+4364537,TW,\N,Tianliao,田寮,33410,3,CDP,UTC+8,Asia/Taipei
+4364583,TW,\N,Tianzhong,田中,34903,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4364658,TW,TW-TPE,Dawu,大武,2846,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364679,TW,\N,Datong,大同,3999,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364685,TW,\N,Datong,大同,5975,3,locality,UTC+8,Asia/Taipei
+4364690,TW,\N,Dadong,大東,12490,3,Census-Designated Place,UTC+8,Asia/Taipei
+4364697,TW,\N,Dacun,大村,42858,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364721,TW,\N,Dataoping,大桃坪,2141,3,Census-Designated Place,UTC+8,Asia/Taipei
+4364727,TW,\N,Datan,大潭,35674,3,CDP,UTC+8,Asia/Taipei
+4364745,TW,TW-TPE,Dashehu,大舌湖,675,3,Town,UTC+8,Asia/Taipei
+4364759,TW,\N,Guangxing,廣興,18791,3,Census-Designated Place,UTC+8,Asia/Taipei
+4364784,TW,\N,Dapi,大埤,15427,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4364893,TW,TW-TPE,Danshui,淡水,195769,3,locality,UTC+8,Asia/Taipei
+4364927,TW,\N,Danei,大內,9962,4,town,UTC+8,Asia/Taipei
+4364936,TW,\N,Pingzhen,平鎮,229431,3,PPL,UTC+8,Asia/Taipei
+4364946,TW,\N,Danan,大南,31406,3,CDP,UTC+8,Asia/Taipei
+4364964,TW,TW-TPE,Dalunwei,大崙尾,16900,3,Census-Designated Place,UTC+8,Asia/Taipei
+4364986,TW,TW-KHH,Dalinbu,大林埔,319,3,Census-Designated Place,UTC+8,Asia/Taipei
+4364990,TW,\N,Xiaofenlin,小分林,28633,3,CDP,UTC+8,Asia/Taipei
+4364991,TW,\N,Dalin,大林,37573,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4365064,TW,\N,Daren,達仁,1695,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365075,TW,\N,Taiwu,太武,3427,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365080,TW,\N,Taitung,臺東,103260,2,City (Shi),UTC+8,Asia/Taipei
+4365084,TW,\N,Taidoukeng,臺上,23,3,Township,UTC+8,Asia/Taipei
+4365098,TW,\N,Taipei,台北市,2655515,1,City,UTC+8,Asia/Taipei
+4365100,TW,\N,Taibao,太保,38696,2,City (Shi),UTC+8,Asia/Taipei
+4365102,TW,\N,Xinying,新營,74932,2,locality,UTC+8,Asia/Taipei
+4365103,TW,\N,Tainan,臺南市,1855662,2,City,UTC+8,Asia/Taipei
+4365106,TW,\N,Taimali,太麻里,8621,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365115,TW,\N,Taixi,臺西,15306,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365116,TW,TW-TPE,Dahu,大湖,11053,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365119,TW,\N,Fengyuan,豐原,163634,2,neighbourhood,UTC+8,Asia/Taipei
+4365120,TW,\N,Taichung,臺中市,2559485,2,City,UTC+8,Asia/Taipei
+4365122,TW,\N,Tai'an,泰安,2808,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365149,TW,\N,Dahu,大湖,164,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365205,TW,\N,Dazhuang,大莊,240428,3,locality,UTC+8,Asia/Taipei
+4365227,TW,\N,Daqiuyuan,大丘園,28942,3,CDP,UTC+8,Asia/Taipei
+4365254,TW,\N,Daqiedong,大茄苳,2496,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365256,TW,\N,Xinfeng,新豐,65910,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365264,TW,\N,Daqi,大崎,4100,3,Town,UTC+8,Asia/Taipei
+4365267,TW,\N,Dacheng,大城,11327,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365318,TW,\N,Songquangang,松泉崗,1362,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365326,TW,\N,Su'ao,蘇澳,37421,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4365387,TW,\N,Sihu,泗湖,21351,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365405,TW,\N,Sijiuyi,四鬮一,1208,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365442,TW,TW-TPE,Shulin,樹林區,179866,4,hamlet,UTC+8,Asia/Taipei
+4365496,TW,\N,Shuitou,水頭,444,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365511,TW,\N,Shuishang,水上,52011,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365536,TW,\N,Shuilin,水林,16966,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365537,TW,\N,Shuili,水里,12700,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365569,TW,\N,Shuichangliu,水長流,980,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365602,TW,TW-TPE,Shuangxi,雙溪,7771,4,hamlet,UTC+8,Asia/Taipei
+4365620,TW,\N,Shoufeng,壽豐,24692,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365621,TW,TW-KHH,Guangfu,廣福,10473,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365634,TW,\N,Shiwenxi,石頭灣,1412,3,Town,UTC+8,Asia/Taipei
+4365659,TW,\N,Shicuoliao,施厝寮,330,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365684,TW,TW-TPE,Shiding,石碇,7235,3,locality,UTC+8,Asia/Taipei
+4365686,TW,TW-TPE,Shidi,石底,3998,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365701,TW,TW-TPE,Shishuizi,濕水仔,3083,3,Town,UTC+8,Asia/Taipei
+4365765,TW,TW-TPE,Shimen,石門,11605,3,locality,UTC+8,Asia/Taipei
+4365766,TW,TW-TPE,Shimenkeng,石門坑,4300,3,City,UTC+8,Asia/Taipei
+4365812,TW,\N,Xiashigu,下十股,1886,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365845,TW,\N,Shifen,十份,6774,3,Town,UTC+8,Asia/Taipei
+4365864,TW,\N,Shicheng,石城,139,3,Census-Designated Place,UTC+8,Asia/Taipei
+4365877,TW,\N,Shezikeng,檨子坑,5741,3,Town,UTC+8,Asia/Taipei
+4365890,TW,\N,Shetou,社頭,36565,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365906,TW,TW-TPE,Shenkeng,深坑,23633,3,locality,UTC+8,Asia/Taipei
+4365910,TW,\N,Shengang,神岡,36187,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4365930,TW,\N,Shenzhen,深圳,6700,3,locality,UTC+8,Asia/Taipei
+4365937,TW,\N,Shekou,社口,658,3,Town,UTC+8,Asia/Taipei
+4366001,TW,TW-TPE,Shanzijiao,山仔脚,45992,3,CDP,UTC+8,Asia/Taipei
+4366015,TW,\N,Shanding,山頂,1036,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366023,TW,\N,Shanshang,山上,7359,4,town,UTC+8,Asia/Taipei
+4366030,TW,\N,Shanbao,山豹,5020,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366053,TW,\N,Shanhua,善化,47660,4,town,UTC+8,Asia/Taipei
+4366088,TW,\N,Shangsihu,上四湖,188,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366114,TW,\N,Shanglin,上寮,719,3,Town,UTC+8,Asia/Taipei
+4366130,TW,TW-KHH,Ji'an,吉安,82246,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366159,TW,\N,Shanfeng,山豬窟,3226,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366176,TW,\N,Shanjiao,山腳,3178,3,Town,UTC+8,Asia/Taipei
+4366219,TW,\N,Wanrong,萬榮,3378,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366225,TW,\N,Sanwan,三灣,4836,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366238,TW,\N,Sandimen,三地門,5472,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366287,TW,TW-TPE,Banqiao,板橋區,551221,2,locality,UTC+8,Asia/Taipei
+4366300,TW,\N,Sankuaicuo,三塊厝,711,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366327,TW,\N,Sanyi,三義,14314,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366335,TW,\N,Sanxing,三星,26466,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366341,TW,\N,Sanxiakeng,三洽坑,194,3,Town,UTC+8,Asia/Taipei
+4366342,TW,TW-TPE,Sanxia,三峽,115280,3,locality,UTC+8,Asia/Taipei
+4366366,TW,TW-TPE,Sanchong,三重,382871,4,hamlet,UTC+8,Asia/Taipei
+4366374,TW,TW-TPE,Sanzhi,三芝,22762,3,locality,UTC+8,Asia/Taipei
+4366379,TW,\N,Sanjiancuo,三間厝,670,3,Town,UTC+8,Asia/Taipei
+4366449,TW,\N,Buzi,埔子,40467,4,hamlet,UTC+8,Asia/Taipei
+4366471,TW,\N,Budai,布袋,19268,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4366476,TW,\N,Pubian,埔邊,34928,3,CDP,UTC+8,Asia/Taipei
+4366481,TW,\N,Puli,埔里鎮,81526,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4366486,TW,\N,Fuxing,復興,44836,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366516,TW,\N,Boziliao,萡子寮,690,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366518,TW,\N,Pozi,朴子,40537,3,locality,UTC+8,Asia/Taipei
+4366562,TW,\N,Pitou,埤頭,28306,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366590,TW,\N,Pingdong,Pingdong,205388,3,City (Shi),UTC+8,Asia/Taipei
+4366591,TW,\N,Pingtung,屏東市,193238,2,locality,UTC+8,Asia/Taipei
+4366617,TW,TW-TPE,Pinglin,坪林,6439,4,hamlet,UTC+8,Asia/Taipei
+4366626,TW,TW-TPE,Pingxi,平溪,4089,3,locality,UTC+8,Asia/Taipei
+4366640,TW,\N,Nanshan,南山,624,3,Town,UTC+8,Asia/Taipei
+4366647,TW,\N,Piliao,皮寮,26822,3,CDP,UTC+8,Asia/Taipei
+4366722,TW,\N,Beitou,北投,249576,3,locality,UTC+8,Asia/Taipei
+4366724,TW,\N,Beidou,北斗,32939,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4366770,TW,\N,Beimen,北門,11333,4,town,UTC+8,Asia/Taipei
+4366772,TW,\N,Paizilutou,排仔路頭,1627,3,Town,UTC+8,Asia/Taipei
+4366794,TW,\N,Beigang,北港,33300,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4366834,TW,\N,Bade,八德,211659,3,PPL,UTC+8,Asia/Taipei
+4366835,TW,\N,Dingbenxianpou,頂本縣廍,166,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366852,TW,\N,Baozijiaokeng,下莊,2283,3,Town,UTC+8,Asia/Taipei
+4366863,TW,\N,Baoshan,寶山,19410,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366871,TW,\N,Baozhong,褒忠,9686,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366877,TW,\N,Dalunwei,大崙尾,4167,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366919,TW,\N,Balumo'anshe,巴魯莫安社,6951,3,Town,UTC+8,Asia/Taipei
+4366930,TW,\N,Baliao,八寮,7021,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366966,TW,\N,Baishatun,白沙屯,12384,3,Census-Designated Place,UTC+8,Asia/Taipei
+4366973,TW,\N,Baisha,白砂,5826,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4366999,TW,\N,Baihe,白河,28819,4,town,UTC+8,Asia/Taipei
+4367024,TW,\N,Emei,峨眉,4112,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367035,TW,\N,Niucuo,牛厝,7397,3,Census-Designated Place,UTC+8,Asia/Taipei
+4367081,TW,\N,Niuchoubu,牛稠埔,1308,3,Town,UTC+8,Asia/Taipei
+4367106,TW,\N,Niaosong,蔦松,82,3,Census-Designated Place,UTC+8,Asia/Taipei
+4367164,TW,\N,Neili,內壢,112845,4,hamlet,UTC+8,Asia/Taipei
+4367175,TW,\N,Poneikeng,坡內坑,67119,3,City,UTC+8,Asia/Taipei
+4367184,TW,\N,Neihu,內湖,274538,3,locality,UTC+8,Asia/Taipei
+4367250,TW,\N,Nantou,南投,101761,2,City (Shi),UTC+8,Asia/Taipei
+4367268,TW,TW-KHH,Nanshilun,南勢崙,175,3,Census-Designated Place,UTC+8,Asia/Taipei
+4367327,TW,\N,Keli,南公館,1855,3,Census-Designated Place,UTC+8,Asia/Taipei
+4367344,TW,\N,Nangang,南港,11548,3,Census-Designated Place,UTC+8,Asia/Taipei
+4367358,TW,\N,Nanhua,南化,8838,4,town,UTC+8,Asia/Taipei
+4367372,TW,\N,Nanxi,楠西,19580,3,CDP,UTC+8,Asia/Taipei
+4367387,TW,\N,Nanzhuhu,南竹湖,269,3,Village,UTC+8,Asia/Taipei
+4367388,TW,\N,Nanzhuang,南庄,7102,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367393,TW,TW-KHH,Nanzhou,南洲,9167,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367401,TW,\N,Nan'ao,南澳,5333,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367410,TW,\N,Mudan,牡丹,2629,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367419,TW,\N,Molizhuang,茉莉莊,15588,3,Census-Designated Place,UTC+8,Asia/Taipei
+4367436,TW,\N,Minxiong,民雄,85391,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367440,TW,\N,Xinyi,信義,11424,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367447,TW,\N,Mingjian,名間,30749,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367475,TW,\N,Miaoli,苗栗,86284,2,City (Shi),UTC+8,Asia/Taipei
+4367504,TW,\N,Meishan,美山,15088,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367511,TW,TW-KHH,Meinong,美濃,36678,3,locality,UTC+8,Asia/Taipei
+4367546,TW,\N,Madou,麻豆,43911,4,town,UTC+8,Asia/Taipei
+4367573,TW,\N,Maobu,茅埔,470,3,Census-Designated Place,UTC+8,Asia/Taipei
+4367622,TW,\N,Magong,馬公,60090,2,City (Shi),UTC+8,Asia/Taipei
+4367629,TW,\N,Mailiao,馬興,36134,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367648,TW,\N,Majia,馬家,5571,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367656,TW,\N,Luye,鹿野,7116,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367668,TW,\N,Lucao,鹿草,13611,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367718,TW,\N,Changzhi,長治,28865,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367722,TW,\N,Lunbei,崙背,18793,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367752,TW,\N,Longtan,龍潭,126941,4,Town,UTC+8,Asia/Taipei
+4367827,TW,TW-TPE,Luku,鹿窟,265,4,hamlet,UTC+8,Asia/Taipei
+4367828,TW,\N,Lugu,鹿谷,17746,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4367831,TW,\N,Lugang,鹿港,87076,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4367849,TW,TW-TPE,Luzhou,蘆洲,199022,3,locality,UTC+8,Asia/Taipei
+4367861,TW,\N,Luodong,羅東,69861,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4367955,TW,\N,Liujiao,六腳,16719,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368019,TW,\N,Linbian,林内村,13730,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368022,TW,\N,Linnei,林內,16094,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368025,TW,\N,Linluo,麟洛,9487,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368028,TW,TW-TPE,Linkou,林口,135050,3,locality,UTC+8,Asia/Taipei
+4368059,TW,\N,Ligang,里港,20250,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368176,TW,\N,Laiyi,來義,5203,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368254,TW,\N,Guoxing,國姓,12593,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368289,TW,TW-TPE,Gongliao,貢寮,10810,3,locality,UTC+8,Asia/Taipei
+4368316,TW,\N,Gonghuakeng,公華坑,160617,3,locality,UTC+8,Asia/Taipei
+4368353,TW,\N,Gukeng,古坑,26217,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368380,TW,\N,Guike,龜殼,1049,4,town,UTC+8,Asia/Taipei
+4368403,TW,\N,Guanyin,觀音,75134,3,locality,UTC+8,Asia/Taipei
+4368414,TW,\N,Guantian,官田,21535,4,town,UTC+8,Asia/Taipei
+4368421,TW,\N,Guanshan,關山,7812,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4368422,TW,\N,Guanmiao,關廟,34601,4,town,UTC+8,Asia/Taipei
+4368429,TW,\N,Guanxi,關西,29693,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4368488,TW,\N,Kouhu,口湖,16261,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368581,TW,\N,Gaoshu,高樹,17271,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368602,TW,TW-KHH,Fengshan,鳳山區,355659,2,locality,UTC+8,Asia/Taipei
+4368603,TW,TW-KHH,Kaohsiung,高雄市,2734275,2,City,UTC+8,Asia/Taipei
+4368639,TW,\N,Kanding,崁頂,10789,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368704,TW,TW-KHH,Gangshan,岡山,95287,3,locality,UTC+8,Asia/Taipei
+4368711,TW,\N,Gangweiliao,港尾寮,32839,3,City,UTC+8,Asia/Taipei
+4368761,TW,\N,Kanjiao,崁脚,441,3,Census-Designated Place,UTC+8,Asia/Taipei
+4368792,TW,\N,Ruisui,瑞穗,8582,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368801,TW,TW-TPE,Ruifang,瑞芳,36745,3,locality,UTC+8,Asia/Taipei
+4368810,TW,TW-TPE,Rixinxincun,仁武,168,3,Census-Designated Place,UTC+8,Asia/Taipei
+4368814,TW,\N,Rende,仁德,5075,3,City,UTC+8,Asia/Taipei
+4368855,TW,\N,Yilan,宜蘭,94547,2,City (Shi),UTC+8,Asia/Taipei
+4368873,TW,\N,Yizhu,義竹,12127,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4368879,TW,\N,Yiqi,義崎,7542,3,Census-Designated Place,UTC+8,Asia/Taipei
+4368883,TW,\N,Huwei,虎尾,77513,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4368918,TW,\N,Hushan,湖山,9217,3,Census-Designated Place,UTC+8,Asia/Taipei
+4368986,TW,\N,Hukou,湖口,99774,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369003,TW,\N,Huxi,湖西,11578,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369014,TW,\N,Huatan,花壇,45420,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369044,TW,\N,Hualien City,花蓮市,99458,2,neighbourhood,UTC+8,Asia/Taipei
+4369076,TW,\N,Xuejia,學甲,18457,3,CDP,UTC+8,Asia/Taipei
+4369086,TW,\N,Xiwozi,細窩子,4764,3,City,UTC+8,Asia/Taipei
+4369091,TW,\N,Xiwei,溪尾,512,3,Census-Designated Place,UTC+8,Asia/Taipei
+4369106,TW,\N,Xiongjiaowo,芎蕉窩,483,3,Town,UTC+8,Asia/Taipei
+4369118,TW,\N,Xiulin,秀林,15184,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369136,TW,\N,Xitun,西屯,236107,3,locality,UTC+8,Asia/Taipei
+4369190,TW,\N,Xishan,西山,57118,3,CDP,UTC+8,Asia/Taipei
+4369224,TW,\N,Xibao,西寶,39933,3,CDP,UTC+8,Asia/Taipei
+4369229,TW,TW-KHH,Xinyuan,新園,30983,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369277,TW,TW-TPE,Xindian,新店區,305924,2,locality,UTC+8,Asia/Taipei
+4369286,TW,TW-KHH,Xindagang,新水,5806,3,Census-Designated Place,UTC+8,Asia/Taipei
+4369290,TW,\N,Xinshi,新市,37875,3,locality,UTC+8,Asia/Taipei
+4369319,TW,\N,Xinpi,新北寮,7958,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369352,TW,TW-KHH,Xinliao,新寮,557,3,Town,UTC+8,Asia/Taipei
+4369360,TW,\N,Xinjizhuang,新吉莊,656,3,Town,UTC+8,Asia/Taipei
+4369377,TW,\N,Xingang,新港,27976,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369386,TW,\N,Xinhua,新化,43727,4,town,UTC+8,Asia/Taipei
+4369400,TW,\N,Xiaxinxing,下新興,56,3,Census-Designated Place,UTC+8,Asia/Taipei
+4369484,TW,TW-TPE,Xinzhuang,新莊,423722,3,locality,UTC+8,Asia/Taipei
+4369506,TW,\N,Hsinchu,新竹,455403,2,locality,UTC+8,Asia/Taipei
+4369520,TW,\N,Jinhu,金湖鎮,30826,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4369538,TW,\N,Xincheng,新城,25236,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369558,TW,\N,Xiluo,西螺,37181,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4369571,TW,\N,Xiguli,頭角,6166,3,Census-Designated Place,UTC+8,Asia/Taipei
+4369574,TW,\N,Xikou,溪口,11755,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369591,TW,\N,Xihu,溪湖,50536,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4369596,TW,\N,Xiaxixin,下溪心,76234,3,CDP,UTC+8,Asia/Taipei
+4369616,TW,\N,Xianxi,線西,16158,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4369669,TW,TW-TPE,Xizhi,汐止,207278,3,locality,UTC+8,Asia/Taipei
+4369740,TW,\N,Shuiwei,水尾,202,3,Census-Designated Place,UTC+8,Asia/Taipei
+4369758,TW,\N,Dingzhuang,頂莊,2987,3,Town,UTC+8,Asia/Taipei
+4369789,TW,\N,Xiaping,下坪,81,3,Township,UTC+8,Asia/Taipei
+4369807,TW,\N,Xiaotushi,小塗師,2150,3,Town,UTC+8,Asia/Taipei
+4369872,TW,\N,Xiaoxueshanlinban,新庄,2650,3,Census-Designated Place,UTC+8,Asia/Taipei
+4369891,TW,\N,Xianian,廈粘,1218,3,Township,UTC+8,Asia/Taipei
+4369976,TW,\N,Xiali,下犂,8646,3,Census-Designated Place,UTC+8,Asia/Taipei
+4369978,TW,\N,Xiaguoxi,下過溪,27857,3,CDP,UTC+8,Asia/Taipei
+4370109,TW,TW-TPE,Houtong,侯硐,1703,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370158,TW,\N,Houbian,後壁,52,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370160,TW,\N,Houbi,後壁,24066,4,town,UTC+8,Asia/Taipei
+4370170,TW,\N,Houlong,後龍,33874,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4370201,TW,\N,Houhuzi,後湖仔,6005,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370219,TW,\N,Houzhuangzi,後莊仔,2994,4,village,UTC+8,Asia/Taipei
+4370250,TW,TW-KHH,Heshangzhuang,和尚莊,788,3,Township,UTC+8,Asia/Taipei
+4370266,TW,\N,Hemei,和美,93165,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4370289,TW,TW-KHH,Hengshan,橫山,11885,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370319,TW,\N,Hengchun,恆春鎮,29702,2,Urban Township (Zhen),UTC+8,Asia/Taipei
+4370357,TW,\N,Haiduan,海端,2242,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370366,TW,TW-KHH,Haibu,海埔,7442,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370385,TW,\N,Haifeng,海豐,131,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370408,TW,\N,Futian,福田,91,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370436,TW,\N,Fuli,富里,8012,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370463,TW,\N,Tianliao,田寮,315,3,Township,UTC+8,Asia/Taipei
+4370504,TW,\N,Fenyuan,芬園,21321,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370553,TW,\N,Fengbin,豐濱,2043,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370563,TW,\N,Fenglin,楓林,8604,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4370583,TW,\N,Fengfu,豐富,452,3,Town,UTC+8,Asia/Taipei
+4370587,TW,\N,Xizhou,溪洲,27185,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370616,TW,\N,Fanzicuo,番子厝,25832,3,CDP,UTC+8,Asia/Taipei
+4370686,TW,\N,Fanlu,番路,9046,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370693,TW,\N,Fangyuan,芳苑,27103,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370703,TW,\N,Fangshan,Fangshan,4069,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370708,TW,TW-TPE,Chung-ho,中和,406183,4,hamlet,UTC+8,Asia/Taipei
+4370710,TW,\N,Fangliao,枋寮,21292,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370733,TW,\N,Ershui,二水,13013,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370750,TW,\N,Erlun,二崙,21558,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370752,TW,\N,Erlin,二林,43652,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4370773,TW,\N,Erchongxi,二重溪,8535,3,Township,UTC+8,Asia/Taipei
+4370791,TW,\N,Zhuweizi,竹圍子,769,4,village,UTC+8,Asia/Taipei
+4370814,TW,\N,Zhuweinei,竹圍內,66,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370854,TW,\N,Zhudong,竹東,96518,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4370866,TW,\N,Zhutian,竹田,18973,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370869,TW,\N,Zhutang,竹塘,10283,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370882,TW,\N,Zhushan,竹山,44083,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4370889,TW,\N,Zhubei,竹北,218236,2,City (Shi),UTC+8,Asia/Taipei
+4370890,TW,\N,Chunyang,春陽,18068,3,City,UTC+8,Asia/Taipei
+4370920,TW,\N,Chunri,圳心,3484,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4370921,TW,\N,Chunri,春日,451,3,Census-Designated Place,UTC+8,Asia/Taipei
+4370931,TW,\N,Jhongyanggang,中央岡,6982,3,City,UTC+8,Asia/Taipei
+4370937,TW,\N,Zhongliao,中寮,9668,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371025,TW,TW-KHH,Zhongliao,中寮,125,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371027,TW,\N,Zhongli,中壢,433048,3,locality,UTC+8,Asia/Taipei
+4371053,TW,\N,Zhongkeng,中坑,8350,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371065,TW,\N,Zhongyijie,中一結,126,3,Town,UTC+8,Asia/Taipei
+4371170,TW,\N,Zhunan,竹南,98406,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4371244,TW,\N,Zhuqi,竹崎,24977,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371266,TW,\N,Zhuangwei,壯圍,22172,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371315,TW,\N,Zhuolan,卓蘭,13120,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4371316,TW,\N,Zhuoxi,卓溪,3073,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371334,TW,\N,Qiucuo,邱厝,6215,3,Town,UTC+8,Asia/Taipei
+4371364,TW,\N,Qionglin,瓊林,22154,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371372,TW,\N,Jiuliangxi,酒姑仔,807,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371387,TW,\N,Jiugang,舊港,423,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371390,TW,\N,Jiuru,九如,19576,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371416,TW,TW-TPE,Jiufen,九份,3100,4,locality,UTC+8,Asia/Taipei
+4371420,TW,\N,Jiufangcuo,九房厝,10458,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371464,TW,\N,Qidian,奇斯薩庫,297,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371491,TW,TW-TPE,Jinshan,金山,20210,3,locality,UTC+8,Asia/Taipei
+4371494,TW,\N,Jinsha,Jinsha,8868,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4371500,TW,\N,Jincheng,金城,37507,2,Urban Township (Zhen),UTC+8,Asia/Taipei
+4371582,TW,\N,Qingliu,清流,59553,3,CDP,UTC+8,Asia/Taipei
+4371616,TW,\N,Qimei,奇美,1487,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371620,TW,\N,Keelung,基隆市,364354,2,City,UTC+8,Asia/Taipei
+4371635,TW,\N,Qilao,耆老,11985,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371676,TW,\N,Chishang,池上,7025,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371739,TW,\N,Jianshi,尖石,5116,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371826,TW,TW-KHH,Qijin,旗津區,25874,3,locality,UTC+8,Asia/Taipei
+4371838,TW,\N,Jiji,集集,9234,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4371851,TW,\N,Jiadong,加走寮,15503,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371892,TW,TW-KHH,Qiaozitou,橋子頭,3808,3,Town,UTC+8,Asia/Taipei
+4371893,TW,\N,Jiaoxi,礁溪,34370,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4371941,TW,\N,Jiali,佳裏,59458,4,town,UTC+8,Asia/Taipei
+4371953,TW,\N,Chiayi City,嘉義市,263188,2,locality,UTC+8,Asia/Taipei
+4371954,TW,\N,Qiedongjiao,茄苳腳,226,3,Census-Designated Place,UTC+8,Asia/Taipei
+4371968,TW,\N,Qiedongjiao,茄苳腳,55,4,village,UTC+8,Asia/Taipei
+4372053,TW,TW-TPE,Checheng,車埕,6034,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4372072,TW,\N,Alishan,阿里山,2317,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4372084,TW,\N,Chaozhou,潮洲,54224,3,Urban Township (Zhen),UTC+8,Asia/Taipei
+4372112,TW,TW-TPE,Zhangshuwan,樟樹灣,958,3,Town,UTC+8,Asia/Taipei
+4372123,TW,\N,Changbin,長濱,4691,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4372137,TW,\N,Chengzibu,城子埔,2688,3,Census-Designated Place,UTC+8,Asia/Taipei
+4372144,TW,\N,Chang-hua,彰化,225687,2,locality,UTC+8,Asia/Taipei
+4372183,TW,\N,Qingyecun,青葉村,745,3,Town,UTC+8,Asia/Taipei
+4372201,TW,TW-KHH,Ancuo,安厝,8362,3,Township,UTC+8,Asia/Taipei
+4372203,TW,\N,Anding,安定,30447,4,town,UTC+8,Asia/Taipei
+4372224,TW,TW-KHH,Anzhong,庵前,111,3,Census-Designated Place,UTC+8,Asia/Taipei
+4372341,TW,\N,Xishiwei,西勢尾,270,3,Town,UTC+8,Asia/Taipei
+4372397,TW,\N,Macuo,馬厝,406,3,Township,UTC+8,Asia/Taipei
+4372575,TW,\N,Dahu,大湖,1700,3,City,UTC+8,Asia/Taipei
+4372599,TW,\N,Tuoping,拖坪,81410,3,CDP,UTC+8,Asia/Taipei
+4372623,TW,\N,Shiwufen,十五份,11754,3,Census-Designated Place,UTC+8,Asia/Taipei
+4372630,TW,\N,Paoshi,砲石,5873,3,Town,UTC+8,Asia/Taipei
+4372667,TW,\N,Wule,武樂,204,3,Township,UTC+8,Asia/Taipei
+4372794,TW,\N,Sanzhang,Shang-hsin-t’ien,521,3,Town,UTC+8,Asia/Taipei
+4372849,TW,\N,Liaozi,竹圍子,3459,3,Census-Designated Place,UTC+8,Asia/Taipei
+4372865,TW,\N,Changhua,彰化市,223368,3,City (Shi),UTC+8,Asia/Taipei
+4372877,TW,\N,Wailiao,外寮,32,3,Census-Designated Place,UTC+8,Asia/Taipei
+4372912,TW,\N,Benjihu,Mo-t’ien-ling,2503,3,Township,UTC+8,Asia/Taipei
+4373102,TW,\N,Zhonggaoyi,中高義,46,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373136,TW,\N,Guocuo,郭厝,4329,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373147,TW,\N,Luocuo,羅厝,2765,3,Township,UTC+8,Asia/Taipei
+4373153,TW,\N,Shangluocuo,上羅厝,4952,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373157,TW,\N,Zhancuo,詹厝,481,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373225,TW,\N,Bogonglun,伯公崙,1897,3,Town,UTC+8,Asia/Taipei
+4373238,TW,\N,Lumingqiao,鹿鳴橋,20136,3,City,UTC+8,Asia/Taipei
+4373262,TW,\N,Tangliao,糖寮,354,3,Town,UTC+8,Asia/Taipei
+4373275,TW,\N,Cukeng,粗坑,11770,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373281,TW,\N,Zhiwo,直窩,1326,3,Town,UTC+8,Asia/Taipei
+4373320,TW,\N,Laochating,老茶亭,1153,3,Township,UTC+8,Asia/Taipei
+4373325,TW,\N,Qiuwu,邱屋,192,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373349,TW,\N,Yucuo,余厝,52150,4,town,UTC+8,Asia/Taipei
+4373383,TW,\N,Pingzhen,平鎮區,229431,4,hamlet,UTC+8,Asia/Taipei
+4373426,TW,\N,Tianzhongyang,田中央,10287,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373449,TW,\N,Fenjihu,糞箕湖,18660,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373500,TW,\N,Danong,大農,4599,3,Township,UTC+8,Asia/Taipei
+4373513,TW,\N,Minshengshequ,民生社區,46,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373520,TW,\N,Haluzi,哈路仔,571,3,Township,UTC+8,Asia/Taipei
+4373615,TW,\N,Laicuo,賴厝,7821,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373647,TW,\N,Shanliao,山寮,968,3,Town,UTC+8,Asia/Taipei
+4373719,TW,\N,Sunzilinwei,筍子林尾,3246,3,Township,UTC+8,Asia/Taipei
+4373723,TW,\N,Lengshuikeng,冷水坑,153,3,Census-Designated Place,UTC+8,Asia/Taipei
+4373773,TW,\N,Chushui,出水,5729,3,Town,UTC+8,Asia/Taipei
+4374028,TW,\N,Liuxiucaizhai,劉秀才宅,101,3,Village,UTC+8,Asia/Taipei
+4374054,TW,\N,Dianqiliaozi,電氣寮仔,39986,3,CDP,UTC+8,Asia/Taipei
+4374056,TW,\N,Licuo,李厝,6938,3,Census-Designated Place,UTC+8,Asia/Taipei
+4374100,TW,\N,Yecuo,葉厝,4513,3,Census-Designated Place,UTC+8,Asia/Taipei
+4374122,TW,\N,Shibajia,十八甲,1120,3,Town,UTC+8,Asia/Taipei
+4374129,TW,\N,Micuo,米厝,442,3,Census-Designated Place,UTC+8,Asia/Taipei
+4374208,TW,\N,Hushan,虎山,214,3,Census-Designated Place,UTC+8,Asia/Taipei
+4374282,TW,\N,Shinankeng,P’i-liao,112,3,Census-Designated Place,UTC+8,Asia/Taipei
+4374329,TW,\N,Dagedong,大哥洞,331,3,Census-Designated Place,UTC+8,Asia/Taipei
+4374497,TW,\N,Baqi,芭崎,1801,3,City,UTC+8,Asia/Taipei
+4374502,TW,\N,Xinfeng,新豐,1359,3,Census-Designated Place,UTC+8,Asia/Taipei
+4374513,TW,\N,Chaijie,柴櫛,20417,3,CDP,UTC+8,Asia/Taipei
+4374523,TW,\N,Dakuwei,大堀尾,670,3,Village,UTC+8,Asia/Taipei
+4374538,TW,\N,Sanfensuo,三分所,730,3,Village,UTC+8,Asia/Taipei
+4374556,TW,\N,Xialiaozi,下寮仔,556,3,City,UTC+8,Asia/Taipei
+4374557,TW,\N,Tuqiding,土埼頂,1860,3,City,UTC+8,Asia/Taipei
+4374563,TW,\N,Goujinglun,狗頸崙,803,3,Township,UTC+8,Asia/Taipei
+4374577,TW,\N,Erliao,二寮,264,3,Township,UTC+8,Asia/Taipei
+4374669,TW,TW-KHH,Neiliao,内寮,101,3,Village,UTC+8,Asia/Taipei
+4374702,TW,TW-KHH,Jialing,嘉嶺,388,3,City,UTC+8,Asia/Taipei
+4374721,TW,TW-KHH,Songjiaozi,松腳子,195,3,Village,UTC+8,Asia/Taipei
+4374730,TW,\N,Xiakan,下崁,648,4,village,UTC+8,Asia/Taipei
+4374751,TW,\N,Dazhai,大宅,263,3,Village,UTC+8,Asia/Taipei
+4374771,TW,TW-KHH,Beishitou,北勢頭,44,3,Township,UTC+8,Asia/Taipei
+4374784,TW,\N,Zhaocuo,趙厝,328,3,City,UTC+8,Asia/Taipei
+4374798,TW,TW-KHH,Waziliao,挖仔寮,1980,3,City,UTC+8,Asia/Taipei
+4374800,TW,TW-KHH,Pinei,埤內,254,3,City,UTC+8,Asia/Taipei
+4374874,TW,\N,Shanjiao,山脚,158,3,Township,UTC+8,Asia/Taipei
+4374876,TW,\N,Jiahe,加和,31,3,Village,UTC+8,Asia/Taipei
+4374878,TW,\N,Shanping,山平,274,3,City,UTC+8,Asia/Taipei
+4374888,TW,\N,Longxing,隆興,231,3,Town,UTC+8,Asia/Taipei
+4374940,TW,\N,Jinfeng,金峰,2280,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4374991,TW,\N,Dingbishi,頂筆石,80,3,Town,UTC+8,Asia/Taipei
+4374993,TW,\N,Songshuangyan,松瀧岩,1163,3,City,UTC+8,Asia/Taipei
+4375015,TW,\N,Xiafenshuiling,下分水嶺,405,3,City,UTC+8,Asia/Taipei
+4375016,TW,\N,Hutou Buluo,虎頭部落,548,3,Village,UTC+8,Asia/Taipei
+4375027,TW,\N,Piri,埤日,42,3,Village,UTC+8,Asia/Taipei
+4375040,TW,\N,Sioulin,泥船,1124,3,City,UTC+8,Asia/Taipei
+4375044,TW,\N,Bagu,八股,142,3,Town,UTC+8,Asia/Taipei
+4375066,TW,\N,Goubei,溝背,263,3,City,UTC+8,Asia/Taipei
+4375087,TW,\N,Nanwo,南窩,20986,3,City,UTC+8,Asia/Taipei
+4375109,TW,\N,Shangbilai,上比來,4965,3,Township,UTC+8,Asia/Taipei
+4375117,TW,\N,Zhangshuyuan,樟樹園,110,3,Village,UTC+8,Asia/Taipei
+4375118,TW,\N,Beijiao,北角,68,3,Town,UTC+8,Asia/Taipei
+4375123,TW,\N,Kuaishan,檜山,640,3,Census-Designated Place,UTC+8,Asia/Taipei
+4375159,TW,\N,Beikeng,北坑,193,3,City,UTC+8,Asia/Taipei
+4375167,TW,\N,Sanxing,三興,21146,3,locality,UTC+8,Asia/Taipei
+4375172,TW,TW-TPE,Piziding,埤仔頂,1505,3,City,UTC+8,Asia/Taipei
+4375187,TW,TW-TPE,Shipang,石磅,52,3,Town,UTC+8,Asia/Taipei
+4375227,TW,TW-TPE,Shi'erfen,十二分,94,3,Census-Designated Place,UTC+8,Asia/Taipei
+4375229,TW,TW-TPE,Luoliaoping,羅料坪,3456,3,City,UTC+8,Asia/Taipei
+4375288,TW,\N,Huotankeng,火炭坑,379,3,City,UTC+8,Asia/Taipei
+4375335,TW,TW-TPE,Yuanchuang,圓窗,246,3,Town,UTC+8,Asia/Taipei
+4375341,TW,\N,Tiandizi,田底仔,82,3,Village,UTC+8,Asia/Taipei
+4375349,TW,\N,Qixinglun,七星崙,7362,3,City,UTC+8,Asia/Taipei
+4375354,TW,\N,Tulonggou,土壠溝,138,3,Census-Designated Place,UTC+8,Asia/Taipei
+4375379,TW,\N,Xibu,溪埔,1003,3,City,UTC+8,Asia/Taipei
+4375383,TW,\N,Dasongjiao,大松腳,3005,3,City,UTC+8,Asia/Taipei
+4375402,TW,\N,Sihuzi,四戸子,101,3,Town,UTC+8,Asia/Taipei
+4375416,TW,\N,Nanwanggongliao,南王功寮,484,3,City,UTC+8,Asia/Taipei
+4375440,TW,\N,Beihoucuo,北後厝,205,3,Township,UTC+8,Asia/Taipei
+4375479,TW,\N,Nangang,南港,68,3,Town,UTC+8,Asia/Taipei
+4375534,TW,\N,Shangzhuang,上莊,3,3,Village,UTC+8,Asia/Taipei
+4375590,TW,\N,Wuhua,五化,781,3,Town,UTC+8,Asia/Taipei
+4375629,TW,\N,Qiuwu,邱屋,82,3,Village,UTC+8,Asia/Taipei
+4375663,TW,\N,Dongdian,東店,31399,3,City,UTC+8,Asia/Taipei
+4375817,TW,\N,Weihu,尾湖,298,3,Township,UTC+8,Asia/Taipei
+4375832,TW,\N,Xiabu,下埔,5832,3,Census-Designated Place,UTC+8,Asia/Taipei
+4375950,TW,\N,Zhentoukeng,圳頭坑,218,3,City,UTC+8,Asia/Taipei
+4375979,TW,\N,Jiucengtou,九層頭,4943,3,City,UTC+8,Asia/Taipei
+4376106,TW,\N,Xinzhu,新竹,499468,3,City,UTC+8,Asia/Taipei
+4376350,TW,\N,Wuchengkou,五城口,1398,3,Village,UTC+8,Asia/Taipei
+4376352,TW,\N,Xiandongping,仙洞坪,2134,3,Village,UTC+8,Asia/Taipei
+4376392,TW,\N,Sezikeng,澀子坑,457,3,City,UTC+8,Asia/Taipei
+4376423,TW,\N,Wulikeng,五里坑,756,3,City,UTC+8,Asia/Taipei
+4376432,TW,\N,Zhen'anjiao,圳岸脚,1383,3,City,UTC+8,Asia/Taipei
+4376444,TW,\N,Santiaozhuang,三條庄,10735,3,City,UTC+8,Asia/Taipei
+4376462,TW,\N,Xinxing,新興,472,3,Township,UTC+8,Asia/Taipei
+4376474,TW,\N,Ren'ai,仁愛,11366,3,Rural Township (Xiang),UTC+8,Asia/Taipei
+4376549,TW,\N,Kezhuang,客庄,158,3,Census-Designated Place,UTC+8,Asia/Taipei
+4376569,TW,\N,Lizhijiao,荔枝脚,805,3,City,UTC+8,Asia/Taipei
+4376570,TW,\N,Huoshaoliaokeng,火燒寮坑,763,3,Township,UTC+8,Asia/Taipei
+4376577,TW,\N,Dacuonei,大厝内,114,3,Village,UTC+8,Asia/Taipei
+4376618,TW,\N,Guilun,龜倫,237,3,City,UTC+8,Asia/Taipei
+4376623,TW,\N,Chunfanzhai,春帆宅,8224,3,City,UTC+8,Asia/Taipei
+4376632,TW,\N,Fangliao,枋寮,1829,3,City,UTC+8,Asia/Taipei
+4376668,TW,\N,Zhuwei,竹圍,1665,3,Township,UTC+8,Asia/Taipei
+4376711,TW,\N,Guanniuwo,關牛窩,126,3,Village,UTC+8,Asia/Taipei
+4376877,TW,\N,Guangdongzhuang,廣東莊,474,3,City,UTC+8,Asia/Taipei
+4376879,TW,\N,Wangxi,望溪,682,3,City,UTC+8,Asia/Taipei
+4376894,TW,\N,Kangwu,康屋,863,3,Census-Designated Place,UTC+8,Asia/Taipei
+4376899,TW,\N,Chengzi,城仔,47,3,Census-Designated Place,UTC+8,Asia/Taipei
+4377092,TW,\N,Shuanglianpo,雙連陂,1687,3,Township,UTC+8,Asia/Taipei
+4377158,TW,\N,Dongneizha,東內柵,1721,3,Township,UTC+8,Asia/Taipei
+4377190,TW,\N,Dapingding,大坪頂,587,3,City,UTC+8,Asia/Taipei
+4377224,TW,\N,Hedong,合東,235,3,Census-Designated Place,UTC+8,Asia/Taipei
+4377247,TW,\N,Xidi,溪底,1394,3,City,UTC+8,Asia/Taipei
+4377295,TW,\N,Xiqianzi,溪墘仔,6641,3,City,UTC+8,Asia/Taipei
+4377361,TW,\N,Dingfanlu,頂番路,222,3,City,UTC+8,Asia/Taipei
+4377400,TW,\N,Houhuzi,後湖仔,186,3,City,UTC+8,Asia/Taipei
+4377446,TW,\N,Shamiji,沙米箕,121,3,City,UTC+8,Asia/Taipei
+4377452,TW,TW-KHH,Mazhuhu,麻竹湖,509,3,City,UTC+8,Asia/Taipei
+4377531,TW,\N,Shanjiao,山脚,1877,3,Township,UTC+8,Asia/Taipei
+4377542,TW,\N,Dengcuo,鄧厝,537,3,City,UTC+8,Asia/Taipei
+4377601,TW,TW-KHH,Citongkeng,莿桐坑,426,4,village,UTC+8,Asia/Taipei
+4377664,TW,TW-KHH,Beishikeng,北勢坑,56590,3,City,UTC+8,Asia/Taipei
+4377777,TW,\N,Taoyuan,桃園區,474697,2,City,UTC+8,Asia/Taipei
+4377789,TW,\N,Shitoubu,石頭埔,915,3,Township,UTC+8,Asia/Taipei
+4377835,TW,\N,Danan,大湳,10667,3,City,UTC+8,Asia/Taipei
+4377913,TW,TW-TPE,Haiwei,海尾,7027,3,City,UTC+8,Asia/Taipei
+4377957,TW,\N,Baifu,百福,8399,3,City,UTC+8,Asia/Taipei
+4377999,TW,\N,Lunziwei,崙子尾,296,3,City,UTC+8,Asia/Taipei
+4378027,TW,\N,Abawan,阿巴灣,1487,3,City,UTC+8,Asia/Taipei
+4378070,TW,\N,Sanyun,散雲,4677,3,City,UTC+8,Asia/Taipei
+4378145,TW,\N,Xizhou,溪洲,27910,3,locality,UTC+8,Asia/Taipei
+4378167,TW,\N,Wang'an,望安,82,4,hamlet,UTC+8,Asia/Taipei
+4378182,TW,TW-TPE,Danhai,淡海,127,3,Town,UTC+8,Asia/Taipei
+4378211,TW,TW-TPE,Xiaocuo,蕭厝,154,3,City,UTC+8,Asia/Taipei
+4378219,TW,\N,Fangqiao,枋橋,12695,3,City,UTC+8,Asia/Taipei
+4378233,TW,TW-TPE,Chencuo,陳厝,496,3,City,UTC+8,Asia/Taipei
+4378271,TW,\N,Shuiyuandi,水源地,847,3,City,UTC+8,Asia/Taipei
+4378278,TW,TW-TPE,Lunwei,崙尾,1341,3,Town,UTC+8,Asia/Taipei
+4378291,TW,\N,Qianzhuang,前庄,4461,3,City,UTC+8,Asia/Taipei
+4378299,TW,TW-TPE,Gangzikou,港仔口,357,3,City,UTC+8,Asia/Taipei
+4378312,TW,TW-TPE,Xiatianliao,下田寮,8233,3,City,UTC+8,Asia/Taipei
+4378323,TW,\N,Cukeng,粗坑,1228,3,Township,UTC+8,Asia/Taipei
+4378324,TW,TW-TPE,Xiaopinglin,小坪林,361,3,Census-Designated Place,UTC+8,Asia/Taipei
+4378391,TW,\N,Yuliaodong,魚寮東,11447,3,City,UTC+8,Asia/Taipei
+4378481,TW,\N,Wushanlingjiao,烏山嶺腳,205,3,City,UTC+8,Asia/Taipei
+4378488,TW,\N,Jiushe,舊社,6430,3,Township,UTC+8,Asia/Taipei
+4378503,TW,\N,Suzhenbu,蘇貞埔,455,3,Town,UTC+8,Asia/Taipei
+4378507,TW,\N,Waicenglin,外層林,115,3,Town,UTC+8,Asia/Taipei
+4378530,TW,\N,Nanhukou,南湖口,163,3,Census-Designated Place,UTC+8,Asia/Taipei
+4378602,TW,\N,Jiayi,佳義,252028,3,City,UTC+8,Asia/Taipei
+4378631,TW,\N,Houwan,後灣,584,3,Town,UTC+8,Asia/Taipei
+4378672,TW,\N,Xindongcun,新東村,85,3,Town,UTC+8,Asia/Taipei
+4378726,TW,\N,Nangan,南竿鄉,7723,2,Rural Township (Xiang),UTC+8,Asia/Taipei
+4378727,TW,\N,Zhongxing New Village,中興新村,25549,2,locality,UTC+8,Asia/Taipei
+4378736,TW,TW-TPE,New Taipei City,新北市,4185157,3,Special Municipality,UTC+8,Asia/Taipei

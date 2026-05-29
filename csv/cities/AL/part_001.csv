@@ -1,0 +1,741 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+31547,AL,AL-12,Xarre,Komuna Xarrë,4263,2,locality,UTC+1,Europe/Tirane
+31571,AL,AL-12,Sarande,Sarandë,22613,2,Municipality,UTC+1,Europe/Tirane
+31575,AL,AL-05,Radat,Radat,116,4,village,UTC+1,Europe/Tirane
+31597,AL,AL-12,Mesopotam,Mesopotam,2786,2,village,UTC+1,Europe/Tirane
+31598,AL,AL-12,Markat,Komuna Markat,1859,2,village,UTC+1,Europe/Tirane
+31607,AL,AL-12,Livadhja,Livadhja,\N,2,village,UTC+1,Europe/Tirane
+31614,AL,AL-12,Krongj,Krongj,202,4,village,UTC+1,Europe/Tirane
+31619,AL,AL-12,Konispol,Konispol,1736,2,Municipality,UTC+1,Europe/Tirane
+31632,AL,AL-05,Kakavije,Kakavijë,\N,2,village,UTC+1,Europe/Tirane
+31642,AL,AL-05,Gline,Glinë,514,4,village,UTC+1,Europe/Tirane
+31646,AL,AL-12,Finiq,Njësia administrative Finiq,6373,2,Municipality,UTC+1,Europe/Tirane
+31652,AL,AL-12,Dhiver,Komuna Dhivër,\N,2,village,UTC+1,Europe/Tirane
+31654,AL,AL-12,Delvine,Delvinë,5800,2,Municipality,UTC+1,Europe/Tirane
+31669,AL,AL-12,Aliko,Komuna Aliko,\N,2,village,UTC+1,Europe/Tirane
+31675,AL,AL-06,Bucimas,Buçimas,\N,2,village,UTC+1,Europe/Tirane
+31679,AL,AL-01,Dhores,Dhorës,53,4,village,UTC+1,Europe/Tirane
+31680,AL,AL-09,Zogjaj,Zogjaj,497,4,village,UTC+1,Europe/Tirane
+31681,AL,AL-01,Zogas,Zogas,116,4,village,UTC+1,Europe/Tirane
+31687,AL,AL-06,Zicisht,Ziçisht,394,4,village,UTC+1,Europe/Tirane
+31689,AL,AL-01,Zhepe,Zhepë,779,4,village,UTC+1,Europe/Tirane
+31693,AL,AL-03,Zgosht,Zgosht,927,4,village,UTC+1,Europe/Tirane
+31697,AL,AL-01,Zgerbonje,Zgërbonjë,669,4,village,UTC+1,Europe/Tirane
+31698,AL,AL-09,Zerqan,Zerqan,4111,2,village,UTC+1,Europe/Tirane
+31700,AL,AL-09,Zenisht,Zenisht,1138,4,village,UTC+1,Europe/Tirane
+31706,AL,AL-03,Zavaline,Zavalinë,\N,2,village,UTC+1,Europe/Tirane
+31708,AL,AL-06,Zaroshke,Zaroshkë,364,4,village,UTC+1,Europe/Tirane
+31709,AL,AL-07,Zapod,Zapod,\N,2,village,UTC+1,Europe/Tirane
+31711,AL,AL-01,Zaloshnje,Zaloshnjë,119,4,village,UTC+1,Europe/Tirane
+31715,AL,AL-09,Zall-Rec,Zall-Reç,14688,2,City,UTC+1,Europe/Tirane
+31716,AL,AL-07,Zall,Zallë,385,4,village,UTC+1,Europe/Tirane
+31719,AL,AL-09,Zall-Dardhe,Zall-Dardhë,769,2,village,UTC+1,Europe/Tirane
+31729,AL,AL-09,Xiber-Hane,Xibër-Hane,857,4,village,UTC+1,Europe/Tirane
+31730,AL,AL-09,Xiber-Murrize,Xibër-Murriz,\N,2,locality,UTC+1,Europe/Tirane
+31742,AL,AL-07,Vrrin,Vërrijë,119,4,village,UTC+1,Europe/Tirane
+31744,AL,AL-06,Vreshtas,Vreshtas,\N,2,village,UTC+1,Europe/Tirane
+31749,AL,AL-06,Vranisht,Vranisht,911,4,village,UTC+1,Europe/Tirane
+31750,AL,AL-06,Voskopoje,Voskopoja,1283,2,village,UTC+1,Europe/Tirane
+31751,AL,AL-06,Voskop,Voskop,\N,2,village,UTC+1,Europe/Tirane
+31752,AL,AL-01,Vokopole,Vokopolë,170,4,village,UTC+1,Europe/Tirane
+31754,AL,AL-01,Vojnik,Vojnik,181,4,village,UTC+1,Europe/Tirane
+31755,AL,AL-01,Vodice,Vodicë,570,4,village,UTC+1,Europe/Tirane
+31757,AL,AL-01,Vlushe,Vlushë,115,4,locality,UTC+1,Europe/Tirane
+31762,AL,AL-09,Vlashaj,Vlashaj,177,4,village,UTC+1,Europe/Tirane
+31765,AL,AL-06,Vithkuq,Vithkuqi,\N,2,village,UTC+1,Europe/Tirane
+31766,AL,AL-05,Vithkuq,Vithkuq,\N,2,locality,UTC+1,Europe/Tirane
+31767,AL,AL-01,Visocke,Visockë,65,4,village,UTC+1,Europe/Tirane
+31769,AL,AL-06,Vishocice,Vishocicë,924,4,village,UTC+1,Europe/Tirane
+31779,AL,AL-07,Vile,Vilë,258,4,village,UTC+1,Europe/Tirane
+31782,AL,AL-06,Vidohove,Vidohovë,740,4,village,UTC+1,Europe/Tirane
+31785,AL,AL-01,Veseshte,Veseshtë,88,4,village,UTC+1,Europe/Tirane
+31786,AL,AL-01,Verzhezhe,Vërzhezhë,335,4,village,UTC+1,Europe/Tirane
+31787,AL,AL-01,Vertop,Vërtop,4919,2,village,UTC+1,Europe/Tirane
+31794,AL,AL-12,Vergo,Komuna Vergo,\N,2,village,UTC+1,Europe/Tirane
+31798,AL,AL-01,Vendresha e Vogel,Vendresha e Vogël,118,2,locality,UTC+1,Europe/Tirane
+31799,AL,AL-01,Vendreshe e Malit,Vendreshë e Malit,72,4,locality,UTC+1,Europe/Tirane
+31800,AL,AL-01,Vendresha e Madhe,Vendresha e Madhe,232,4,locality,UTC+1,Europe/Tirane
+31803,AL,AL-01,Veleshnje,Veleshnjë,54,4,village,UTC+1,Europe/Tirane
+31805,AL,AL-06,Velcan,Velçan (Komuna Velçan),\N,2,locality,UTC+1,Europe/Tirane
+31815,AL,AL-05,Vanister,Vanistër,288,4,village,UTC+1,Europe/Tirane
+31818,AL,AL-01,Vale,Valë,81,4,village,UTC+1,Europe/Tirane
+31825,AL,AL-09,Ushtelence,Ushtelencë,1097,4,village,UTC+1,Europe/Tirane
+31826,AL,AL-09,Urxalle,Urxallë,249,4,village,UTC+1,Europe/Tirane
+31831,AL,AL-07,Ujmisht,Ujmisht,1136,2,village,UTC+1,Europe/Tirane
+31835,AL,AL-06,Udenisht,Udënisht,\N,2,village,UTC+1,Europe/Tirane
+31840,AL,AL-03,Tunje,Tunjë,\N,2,village,UTC+1,Europe/Tirane
+31844,AL,AL-09,Tucep,Tuçep,330,4,village,UTC+1,Europe/Tirane
+31847,AL,AL-01,Turbohove,Turbohovë,67,4,village,UTC+1,Europe/Tirane
+31858,AL,AL-03,Tregan,Komuna Tregan,3036,2,village,UTC+1,Europe/Tirane
+31860,AL,AL-09,Trebisht-Mucine,Trebisht-Muçinë,\N,2,village,UTC+1,Europe/Tirane
+31863,AL,AL-06,Trebinje,Trebinjë,\N,2,village,UTC+1,Europe/Tirane
+31866,AL,AL-01,Trebel,Trebël,64,4,village,UTC+1,Europe/Tirane
+31870,AL,AL-01,Tozhar,Tozhar,180,4,village,UTC+1,Europe/Tirane
+31878,AL,AL-05,Topojan,Topojan,\N,2,village,UTC+1,Europe/Tirane
+31879,AL,AL-01,Tomor i Madh,Tomor i Madh,793,3,locality,UTC+1,Europe/Tirane
+31880,AL,AL-09,Tomin,Tomin,\N,2,village,UTC+1,Europe/Tirane
+31884,AL,AL-01,Therepel,Therepel,255,4,village,UTC+1,Europe/Tirane
+31888,AL,AL-01,Terrove,Tërrovë,52,4,village,UTC+1,Europe/Tirane
+31895,AL,AL-05,Tepelene,Tepelenë,6761,2,Municipality,UTC+1,Europe/Tirane
+31896,AL,AL-01,Teman,Teman,151,4,village,UTC+1,Europe/Tirane
+31909,AL,AL-07,Surroj,Surroj,\N,2,village,UTC+1,Europe/Tirane
+31912,AL,AL-03,Sult,Sult,\N,2,village,UTC+1,Europe/Tirane
+31913,AL,AL-06,Sul,Sul,1301,4,village,UTC+1,Europe/Tirane
+31914,AL,AL-05,Suke,Sukë,\N,2,village,UTC+1,Europe/Tirane
+31918,AL,AL-09,Suc,Suç,984,2,village,UTC+1,Europe/Tirane
+31920,AL,AL-01,Strore,Strorë,113,4,village,UTC+1,Europe/Tirane
+31923,AL,AL-06,Stropan,Stropan,686,4,village,UTC+1,Europe/Tirane
+31928,AL,AL-03,Stravaj,Stravaj,2427,2,village,UTC+1,Europe/Tirane
+31930,AL,AL-01,Straficke,Strafickë,72,4,village,UTC+1,Europe/Tirane
+31935,AL,AL-03,Stebleve,Steblevë,\N,2,village,UTC+1,Europe/Tirane
+31936,AL,AL-09,Stavec,Staveç,112,4,hamlet,UTC+1,Europe/Tirane
+31937,AL,AL-06,Starje,Starje,300,4,village,UTC+1,Europe/Tirane
+31947,AL,AL-01,Spathare,Spatharë,183,4,village,UTC+1,Europe/Tirane
+31960,AL,AL-09,Sofracan,Sofraçan,273,4,village,UTC+1,Europe/Tirane
+31963,AL,AL-09,Sllove,Sllovë,\N,2,village,UTC+1,Europe/Tirane
+31969,AL,AL-06,Skorovot,Skorovot,87,4,village,UTC+1,Europe/Tirane
+31970,AL,AL-05,Skore,Skore,\N,2,village,UTC+1,Europe/Tirane
+31972,AL,AL-03,Skenderbegas,Skënderbegas,\N,2,village,UTC+1,Europe/Tirane
+31975,AL,AL-07,Skavice,Skavicë,160,4,village,UTC+1,Europe/Tirane
+31983,AL,AL-03,Shushice,Shushicë,8731,2,village,UTC+1,Europe/Tirane
+31984,AL,AL-09,Shupenze,Shupenzë,3083,2,village,UTC+1,Europe/Tirane
+31988,AL,AL-09,Shulbater,Shulbatër,445,4,village,UTC+1,Europe/Tirane
+31994,AL,AL-07,Shtiqen,Shtiqën,\N,2,village,UTC+1,Europe/Tirane
+31999,AL,AL-03,Shtemaj,Shtëmaj,218,4,village,UTC+1,Europe/Tirane
+32004,AL,AL-09,Shqefen,Shqefën,223,4,village,UTC+1,Europe/Tirane
+32009,AL,AL-09,Shoshaj,Shoshaj,492,4,village,UTC+1,Europe/Tirane
+32015,AL,AL-09,Shkalle,Shkallë,602,4,village,UTC+1,Europe/Tirane
+32016,AL,AL-07,Shishtavec,Shishtavec,\N,2,village,UTC+1,Europe/Tirane
+32017,AL,AL-03,Shirgjan,Shirgjan,\N,2,village,UTC+1,Europe/Tirane
+32032,AL,AL-08,Shengjin,Shëngjin,6805,2,village,UTC+1,Europe/Tirane
+32037,AL,AL-07,Shenmeri,Shëmri,\N,2,locality,UTC+1,Europe/Tirane
+32058,AL,AL-01,Pellumbas,Pëllumbas,466,4,village,UTC+1,Europe/Tirane
+32061,AL,AL-09,Selishte,Selishtë,\N,2,village,UTC+1,Europe/Tirane
+32072,AL,AL-01,Selan,Selan,92,4,village,UTC+1,Europe/Tirane
+32076,AL,AL-05,Saraqinishte,Saraqinisht,\N,2,locality,UTC+1,Europe/Tirane
+32085,AL,AL-09,Rukaj,Rukaj,\N,2,village,UTC+1,Europe/Tirane
+32088,AL,AL-09,Rripe,Rripë,514,4,village,UTC+1,Europe/Tirane
+32089,AL,AL-03,Rrile,Rrilë,342,4,village,UTC+1,Europe/Tirane
+32090,AL,AL-09,Rreth Kale,Rreth Kale,706,4,village,UTC+1,Europe/Tirane
+32092,AL,AL-09,Rremull,Rremull,906,4,village,UTC+1,Europe/Tirane
+32095,AL,AL-03,Rajce,Rrajcë,8421,2,locality,UTC+1,Europe/Tirane
+32098,AL,AL-01,Roshnik Qender,Roshnik,2513,4,locality,UTC+1,Europe/Tirane
+32105,AL,AL-07,Resk,Resk,134,4,village,UTC+1,Europe/Tirane
+32106,AL,AL-08,Reps,Reps,900,3,village,UTC+1,Europe/Tirane
+32124,AL,AL-09,Radovesh,Radovesh,366,4,village,UTC+1,Europe/Tirane
+32131,AL,AL-01,Radesh,Radësh,252,4,village,UTC+1,Europe/Tirane
+32136,AL,AL-06,Qyteze,Qyteza,57,4,village,UTC+1,Europe/Tirane
+32139,AL,AL-03,Qukes-Skenderbe,Qukës-Skënderbe,\N,2,locality,UTC+1,Europe/Tirane
+32140,AL,AL-03,Qukes-Shkumbin,Qukës-Shkumbin,650,4,locality,UTC+1,Europe/Tirane
+32144,AL,AL-06,Qinam,Qinam,903,4,village,UTC+1,Europe/Tirane
+32148,AL,AL-05,Qestorat,Qestorat,\N,2,locality,UTC+1,Europe/Tirane
+32154,AL,AL-01,Qereshnik,Qereshnik,1105,4,village,UTC+1,Europe/Tirane
+32163,AL,AL-10,Qafemal,Qafë-Mali,1548,2,locality,UTC+1,Europe/Tirane
+32164,AL,AL-01,Qafe-Dardhe,Qafë-Dardhë,343,3,locality,UTC+1,Europe/Tirane
+32174,AL,AL-03,Perrenjas-Fshat,Prrenjas-Fshat,4015,4,locality,UTC+1,Europe/Tirane
+32175,AL,AL-03,Perrenjas,Prrenjas,12308,2,Municipality,UTC+1,Europe/Tirane
+32177,AL,AL-06,Proptisht,Komuna Proptisht,\N,2,village,UTC+1,Europe/Tirane
+32179,AL,AL-06,Proger,Progër (Komuna Progër),965,2,village,UTC+1,Europe/Tirane
+32193,AL,AL-01,Potom,Potom,672,2,village,UTC+1,Europe/Tirane
+32200,AL,AL-03,Porocan,Poroçan,\N,2,village,UTC+1,Europe/Tirane
+32206,AL,AL-06,Poncare,Ponçarë,1073,4,village,UTC+1,Europe/Tirane
+32210,AL,AL-03,Polis-Gostime,Polis,\N,2,locality,UTC+1,Europe/Tirane
+32212,AL,AL-01,Polican,Poliçan,8762,2,Municipality,UTC+1,Europe/Tirane
+32213,AL,AL-05,Polican,Poliçan,4318,4,village,UTC+1,Europe/Tirane
+32214,AL,AL-06,Polene,Polenë,752,4,village,UTC+1,Europe/Tirane
+32216,AL,AL-06,Pojan,Pojan,\N,2,village,UTC+1,Europe/Tirane
+32217,AL,AL-06,Pogradec,Pogradeci,46070,2,Municipality,UTC+1,Europe/Tirane
+32220,AL,AL-09,Podgorce,Podgorcë,256,4,village,UTC+1,Europe/Tirane
+32233,AL,AL-06,Plase,Plasë,1532,4,village,UTC+1,Europe/Tirane
+32245,AL,AL-03,Pishaj,Pishaj,4906,2,village,UTC+1,Europe/Tirane
+32246,AL,AL-06,Pirg,Pirgu,\N,2,village,UTC+1,Europe/Tirane
+32248,AL,AL-06,Pilur,Pilur,1477,4,village,UTC+1,Europe/Tirane
+32252,AL,AL-05,Gjinkar,Komuna Petran,3243,4,locality,UTC+1,Europe/Tirane
+32253,AL,AL-05,Petran,Petran,\N,2,village,UTC+1,Europe/Tirane
+32254,AL,AL-09,Petralbe,Petralbë,464,4,village,UTC+1,Europe/Tirane
+32258,AL,AL-01,Peshtan,Peshtan,396,4,village,UTC+1,Europe/Tirane
+32261,AL,AL-09,Peshkopi,Peshkopia,14710,2,City,UTC+1,Europe/Tirane
+32267,AL,AL-05,Permet,Përmet,7980,2,Municipality,UTC+1,Europe/Tirane
+32268,AL,AL-01,Perisnake,Perisnakë,103,4,locality,UTC+1,Europe/Tirane
+32283,AL,AL-01,Paraspuar,Paraspuar,111,4,village,UTC+1,Europe/Tirane
+32295,AL,AL-09,Ostreni i Math,Ostren i Madh,\N,2,locality,UTC+1,Europe/Tirane
+32298,AL,AL-01,Osoje,Osojë,110,4,village,UTC+1,Europe/Tirane
+32300,AL,AL-07,Osmanaj,Osmanaj,625,4,village,UTC+1,Europe/Tirane
+32304,AL,AL-08,Orosh,Orosh,\N,2,locality,UTC+1,Europe/Tirane
+32305,AL,AL-06,Ciflig,Çiflig,1042,4,village,UTC+1,Europe/Tirane
+32310,AL,AL-03,Orenje,Orenjë,\N,2,village,UTC+1,Europe/Tirane
+32314,AL,AL-09,Okshatine,Okshatinë,1191,4,village,UTC+1,Europe/Tirane
+32319,AL,AL-05,Odrie,Komuna Odrie,\N,2,locality,UTC+1,Europe/Tirane
+32322,AL,AL-06,Novosele,Piskal-Novoselë,\N,2,village,UTC+1,Europe/Tirane
+32324,AL,AL-07,Novosej,Novosejë,77,4,locality,UTC+1,Europe/Tirane
+32326,AL,AL-01,Novaj,Novaj,194,4,village,UTC+1,Europe/Tirane
+32327,AL,AL-05,Picar,Picar (Gjirokastër),\N,2,village,UTC+1,Europe/Tirane
+32332,AL,AL-01,Nishove,Nishovë,89,4,village,UTC+1,Europe/Tirane
+32333,AL,AL-01,Nishice,Nishicë,125,4,village,UTC+1,Europe/Tirane
+32349,AL,AL-09,Nderfushas,Ndërfushas,413,4,village,UTC+1,Europe/Tirane
+32352,AL,AL-07,Nange,Nanga,1505,4,village,UTC+1,Europe/Tirane
+32365,AL,AL-01,Munushtir,Munushtir,153,4,village,UTC+1,Europe/Tirane
+32378,AL,AL-03,Mollas,Mollas,\N,2,village,UTC+1,Europe/Tirane
+32379,AL,AL-01,Mollas,Mollas,173,4,village,UTC+1,Europe/Tirane
+32380,AL,AL-06,Mollas,Mollasi (Kolonjë),741,2,village,UTC+1,Europe/Tirane
+32381,AL,AL-06,Mollaj,Mollaj,\N,2,village,UTC+1,Europe/Tirane
+32390,AL,AL-09,Mishter,Mishtër,870,4,village,UTC+1,Europe/Tirane
+32391,AL,AL-06,Miras,Mirasi,2342,2,village,UTC+1,Europe/Tirane
+32394,AL,AL-01,Mimias,Mimias,172,4,village,UTC+1,Europe/Tirane
+32395,AL,AL-01,Melove,Melovë,77,4,village,UTC+1,Europe/Tirane
+32413,AL,AL-06,Menkulas,Menkulas,1215,4,village,UTC+1,Europe/Tirane
+32417,AL,AL-01,Mendrak,Mëndrak,179,4,locality,UTC+1,Europe/Tirane
+32423,AL,AL-09,Melan,Melan,\N,2,village,UTC+1,Europe/Tirane
+32431,AL,AL-01,Mbrakull,Mbrakull,706,4,village,UTC+1,Europe/Tirane
+32432,AL,AL-06,Mborje,Mborja,3850,4,village,UTC+1,Europe/Tirane
+32440,AL,AL-09,Martanesh,Martanesh,\N,2,locality,UTC+1,Europe/Tirane
+32446,AL,AL-09,Maqellare,Maqellarë,\N,2,village,UTC+1,Europe/Tirane
+32451,AL,AL-07,Malqene,Malqene,516,4,village,UTC+1,Europe/Tirane
+32452,AL,AL-09,Mallunxe,Mallunxë,481,4,village,UTC+1,Europe/Tirane
+32453,AL,AL-09,Mallakaster,Mallakastër,15838,3,Municipality,UTC+1,Europe/Tirane
+32456,AL,AL-06,Maliq,Maliqi,3735,2,Municipality,UTC+1,Europe/Tirane
+32459,AL,AL-01,Malinat,Malinati,743,4,village,UTC+1,Europe/Tirane
+32467,AL,AL-09,Majtare,Majtarë,730,4,village,UTC+1,Europe/Tirane
+32469,AL,AL-09,Macukull,Macukull,814,2,village,UTC+1,Europe/Tirane
+32472,AL,AL-01,Lybeshe,Lybeshë,409,3,locality,UTC+1,Europe/Tirane
+32475,AL,AL-01,Luzaj,Luzaj,480,4,village,UTC+1,Europe/Tirane
+32476,AL,AL-07,Lusen,Lusën,522,4,village,UTC+1,Europe/Tirane
+32479,AL,AL-03,Lunik,Luniku,\N,2,village,UTC+1,Europe/Tirane
+32491,AL,AL-07,Llugaj,Llugaj,\N,2,village,UTC+1,Europe/Tirane
+32508,AL,AL-09,Lladomerice,Lladomericë,544,4,village,UTC+1,Europe/Tirane
+32511,AL,AL-09,Lis,Lis,\N,2,village,UTC+1,Europe/Tirane
+32513,AL,AL-06,Liqenas,Liqenas,\N,2,locality,UTC+1,Europe/Tirane
+32515,AL,AL-01,Liqeth,Liqeth,57,4,village,UTC+1,Europe/Tirane
+32517,AL,AL-05,Lipe,Lipë,351,4,village,UTC+1,Europe/Tirane
+32524,AL,AL-03,Librazhd,Librazhdi,15125,2,Municipality,UTC+1,Europe/Tirane
+32525,AL,AL-06,Libonik,Libonik,2592,2,village,UTC+1,Europe/Tirane
+32526,AL,AL-05,Libohove,Libohova,2765,2,Municipality,UTC+1,Europe/Tirane
+32530,AL,AL-03,Letan,Letan,459,4,village,UTC+1,Europe/Tirane
+32534,AL,AL-06,Leskovik,Leskoviku,2316,2,town,UTC+1,Europe/Tirane
+32536,AL,AL-01,Leskove,Leskova,89,4,village,UTC+1,Europe/Tirane
+32539,AL,AL-01,Leshnje,Leshnjë,496,2,village,UTC+1,Europe/Tirane
+32547,AL,AL-03,Lenias,Lenie,\N,2,locality,UTC+1,Europe/Tirane
+32557,AL,AL-06,Lekas,Lekas (Korçë),\N,2,village,UTC+1,Europe/Tirane
+32561,AL,AL-05,Lazarat,Lazarati,\N,2,village,UTC+1,Europe/Tirane
+32574,AL,AL-06,Lajthize,Lajthizë,228,4,village,UTC+1,Europe/Tirane
+32581,AL,AL-03,Labinot-Mal,Labinot-Mal,\N,2,PPLA3,UTC+1,Europe/Tirane
+32582,AL,AL-03,Labinot-Fushe,Labinot-Fushë,\N,2,locality,UTC+1,Europe/Tirane
+32587,AL,AL-03,Kushove,Kushovë,\N,2,village,UTC+1,Europe/Tirane
+32593,AL,AL-08,Kurbnesh,Kurbnesh,1429,3,village,UTC+1,Europe/Tirane
+32603,AL,AL-03,Kukur,Kukur,\N,2,village,UTC+1,Europe/Tirane
+32605,AL,AL-07,Kukes,Kukësi,17832,2,Municipality,UTC+1,Europe/Tirane
+32611,AL,AL-01,Kuc,Kuç,58,4,village,UTC+1,Europe/Tirane
+32613,AL,AL-08,Kthella e Eperme,Kthella e Epërme,\N,2,locality,UTC+1,Europe/Tirane
+32619,AL,AL-07,Krume,Krumë,6006,2,town,UTC+1,Europe/Tirane
+32626,AL,AL-06,Kreshove,Kreshovë,214,4,village,UTC+1,Europe/Tirane
+32630,AL,AL-09,Kraste,Krasta,1540,4,village,UTC+1,Europe/Tirane
+32635,AL,AL-03,Kozan,Kozan,154,4,village,UTC+1,Europe/Tirane
+32648,AL,AL-05,Kosine,Kosinë,704,4,village,UTC+1,Europe/Tirane
+32656,AL,AL-06,Korce,Korçë,58259,2,Municipality,UTC+1,Europe/Tirane
+32657,AL,AL-01,Koprencke,Koprenckë,130,4,village,UTC+1,Europe/Tirane
+32663,AL,AL-07,Kolsh,Kolsh,588,2,village,UTC+1,Europe/Tirane
+32664,AL,AL-05,Kolonje,Kolonjë,7519,3,Municipality,UTC+1,Europe/Tirane
+32666,AL,AL-07,Kolesjan,Kolesjan,945,4,village,UTC+1,Europe/Tirane
+32672,AL,AL-06,Kodras,Kodras,193,4,village,UTC+1,Europe/Tirane
+32673,AL,AL-03,Kodovjat,Kodovjat,\N,2,village,UTC+1,Europe/Tirane
+32683,AL,AL-09,Klos,Klos,7873,2,Municipality,UTC+1,Europe/Tirane
+32684,AL,AL-03,Klos,Klos,3262,2,village,UTC+1,Europe/Tirane
+32702,AL,AL-05,Kelcyre,Këlcyra,4400,2,Municipality,UTC+1,Europe/Tirane
+32707,AL,AL-01,Katundas,Katundas,62,4,village,UTC+1,Europe/Tirane
+32710,AL,AL-09,Kastriot,Kastriot,9000,2,village,UTC+1,Europe/Tirane
+32714,AL,AL-01,Karkanjoz,Karkanjoz,467,4,village,UTC+1,Europe/Tirane
+32716,AL,AL-05,Kardhiq,Kardhiqi,\N,2,village,UTC+1,Europe/Tirane
+32719,AL,AL-06,Kapshtice,Kapshticë,1064,4,village,UTC+1,Europe/Tirane
+32720,AL,AL-01,Kapinove,Kapinovë,575,4,village,UTC+1,Europe/Tirane
+32721,AL,AL-01,Kapinove,Kapinovë,78,4,village,UTC+1,Europe/Tirane
+32732,AL,AL-06,Kallamas,Tuminec,694,4,village,UTC+1,Europe/Tirane
+32737,AL,AL-07,Kalis,Kalis,\N,2,village,UTC+1,Europe/Tirane
+32742,AL,AL-01,Kakruke,Kakrukë,277,4,village,UTC+1,Europe/Tirane
+32755,AL,AL-01,Jaupas,Jaupas,66,4,village,UTC+1,Europe/Tirane
+32767,AL,AL-10,Iballe,Iballa,231075,2,City,UTC+1,Europe/Tirane
+32775,AL,AL-03,Hotolisht,Hotolisht,3601,2,village,UTC+1,Europe/Tirane
+32783,AL,AL-09,Homesh,Homesh,1521,4,village,UTC+1,Europe/Tirane
+32786,AL,AL-06,Hocisht,Komuna Hoçisht,1741,2,village,UTC+1,Europe/Tirane
+32791,AL,AL-01,Helmes,Helmës,131,4,village,UTC+1,Europe/Tirane
+32792,AL,AL-06,Helmes,Helmës,290,4,village,UTC+1,Europe/Tirane
+32794,AL,AL-05,Haskove,Haskovë,428,4,village,UTC+1,Europe/Tirane
+32815,AL,AL-03,Gurabardh,Gurabardh,284,4,village,UTC+1,Europe/Tirane
+32825,AL,AL-01,Greve,Grevë,60,4,village,UTC+1,Europe/Tirane
+32826,AL,AL-01,Grepcke,Grepckë,138,4,locality,UTC+1,Europe/Tirane
+32834,AL,AL-03,Gramsh,Gramshi,11556,2,Municipality,UTC+1,Europe/Tirane
+32837,AL,AL-01,Gradec,Gradec,94,4,village,UTC+1,Europe/Tirane
+32838,AL,AL-06,Grace,Gracë,787,4,village,UTC+1,Europe/Tirane
+32843,AL,AL-06,Grabocke,Grabockë,58683,3,City,UTC+1,Europe/Tirane
+32849,AL,AL-03,Gostime,Gostimë,\N,2,village,UTC+1,Europe/Tirane
+32852,AL,AL-01,Gostencke,Gostënckë,78,4,village,UTC+1,Europe/Tirane
+32855,AL,AL-06,Gorica e Vogel,Goricë e Vogël,550,4,locality,UTC+1,Europe/Tirane
+32856,AL,AL-06,Gorice e Madhe,Goricë e Madhe,546,4,village,UTC+1,Europe/Tirane
+32858,AL,AL-05,Goranxi,Goranxi,975,4,village,UTC+1,Europe/Tirane
+32860,AL,AL-06,Gollomboc,Gollomboç,283,4,village,UTC+1,Europe/Tirane
+32862,AL,AL-07,Golaj,Golaj,\N,2,village,UTC+1,Europe/Tirane
+32878,AL,AL-09,Gjorica e Siperme,Gjoricë e Sipërme,\N,2,locality,UTC+1,Europe/Tirane
+32884,AL,AL-09,Gjon,Gjon,548,4,village,UTC+1,Europe/Tirane
+32888,AL,AL-05,Gjirokaster,Gjirokastër,21752,2,Municipality,UTC+1,Europe/Tirane
+32891,AL,AL-03,Gjinar,Gjinar,\N,2,village,UTC+1,Europe/Tirane
+32892,AL,AL-07,Gjinaj,Gjinaj,\N,2,village,UTC+1,Europe/Tirane
+32894,AL,AL-01,Gjergjove,Gjergjovë,85,4,village,UTC+1,Europe/Tirane
+32896,AL,AL-03,Gjergjan,Gjergjan,\N,2,village,UTC+1,Europe/Tirane
+32900,AL,AL-07,Gjegjan,Gjegjan,239556,3,City,UTC+1,Europe/Tirane
+32901,AL,AL-10,Gjegjan,Gjegjan,913,2,village,UTC+1,Europe/Tirane
+32918,AL,AL-07,Gabrice,Gabricë,378,4,village,UTC+1,Europe/Tirane
+32919,AL,AL-01,Fushe Peshtan,Fushë Peshtan,457,4,village,UTC+1,Europe/Tirane
+32920,AL,AL-09,Fushe-Muhurr,Fushë-Muhurr,\N,2,locality,UTC+1,Europe/Tirane
+32921,AL,AL-09,Fushe-Lure,Fushë-Lurë,\N,2,locality,UTC+1,Europe/Tirane
+32923,AL,AL-09,Fushe-Cidhne,Fushë-Çidhën,\N,2,locality,UTC+1,Europe/Tirane
+32924,AL,AL-09,Fushe-Bulqize,Fushë-Bulqizë,\N,2,locality,UTC+1,Europe/Tirane
+32926,AL,AL-10,Fushe-Arrez,Fushë-Arrëz,2438,2,town,UTC+1,Europe/Tirane
+32935,AL,AL-05,Frasher,Frashëri,\N,2,village,UTC+1,Europe/Tirane
+32937,AL,AL-01,Floq,Floq,62,4,village,UTC+1,Europe/Tirane
+32942,AL,AL-06,Fitore,Fitore,351,4,village,UTC+1,Europe/Tirane
+32945,AL,AL-10,Fierze,Fierzë,\N,2,village,UTC+1,Europe/Tirane
+32951,AL,AL-07,Fajze,Fajzë,\N,2,village,UTC+1,Europe/Tirane
+32954,AL,AL-06,Erseke,Erseka,7890,2,town,UTC+1,Europe/Tirane
+32957,AL,AL-03,Elbasan,Elbasani,100903,2,Municipality,UTC+1,Europe/Tirane
+32958,AL,AL-06,Ecmenik,Eçmenik,653,4,village,UTC+1,Europe/Tirane
+32973,AL,AL-06,Drithas,Drithas,3266,4,village,UTC+1,Europe/Tirane
+32975,AL,AL-01,Drenove,Drenovë,145,4,village,UTC+1,Europe/Tirane
+32976,AL,AL-06,Drenove,Drenovë,\N,2,village,UTC+1,Europe/Tirane
+32986,AL,AL-03,Dorez,Dorëz,1932,4,village,UTC+1,Europe/Tirane
+32991,AL,AL-07,Domaj,Domaj,124,4,village,UTC+1,Europe/Tirane
+32992,AL,AL-10,Dom,Dom,579,4,village,UTC+1,Europe/Tirane
+32993,AL,AL-09,Dom,Dom,329,4,village,UTC+1,Europe/Tirane
+32998,AL,AL-01,Dobrushe,Dobrushë,139,4,village,UTC+1,Europe/Tirane
+33000,AL,AL-01,Dobrenj,Dobrenj,72,4,village,UTC+1,Europe/Tirane
+33001,AL,AL-06,Dobranj,Dobranj,598,4,village,UTC+1,Europe/Tirane
+33003,AL,AL-06,Diellas,Diellas,524,4,village,UTC+1,Europe/Tirane
+33004,AL,AL-06,Dishnice,Dishnicë,\N,2,village,UTC+1,Europe/Tirane
+33009,AL,AL-09,Deshat,Deshat,258,4,village,UTC+1,Europe/Tirane
+33014,AL,AL-09,Derjan,Derjan,636,2,village,UTC+1,Europe/Tirane
+33023,AL,AL-01,Gjerbes,Gjerbës,813,2,village,UTC+1,Europe/Tirane
+33025,AL,AL-09,Dars,Dars,1033,4,village,UTC+1,Europe/Tirane
+33029,AL,AL-01,Dardhe,Dardhë,148,4,village,UTC+1,Europe/Tirane
+33030,AL,AL-06,Dardhe,Dardhë,502,4,village,UTC+1,Europe/Tirane
+33035,AL,AL-01,Corovode,Çorovoda,4051,2,town,UTC+1,Europe/Tirane
+33036,AL,AL-01,Corogjaf,Çorogjaf,142,4,locality,UTC+1,Europe/Tirane
+33037,AL,AL-06,Clirim,Çlirim (Kolonjë),\N,2,village,UTC+1,Europe/Tirane
+33038,AL,AL-06,Cipan,Çipan,827,4,village,UTC+1,Europe/Tirane
+33045,AL,AL-06,Cete,Çetë,496,4,village,UTC+1,Europe/Tirane
+33050,AL,AL-01,Cerove,Cerovë,51,4,village,UTC+1,Europe/Tirane
+33054,AL,AL-06,Cerje,Cerjë,252,4,village,UTC+1,Europe/Tirane
+33056,AL,AL-01,Cerice,Cericë,69,4,locality,UTC+1,Europe/Tirane
+33057,AL,AL-01,Cerenisht,Çerenisht,113,4,locality,UTC+1,Europe/Tirane
+33058,AL,AL-09,Cerenec i Poshtem,Çerenec i Poshtëm,723,4,village,UTC+1,Europe/Tirane
+33060,AL,AL-06,Cerava,Çëravë,\N,2,locality,UTC+1,Europe/Tirane
+33063,AL,AL-01,Cepan,Çepan,\N,2,village,UTC+1,Europe/Tirane
+33069,AL,AL-05,Carshove,Çarshovë,\N,2,locality,UTC+1,Europe/Tirane
+33071,AL,AL-06,Cangonj,Cangonj,1240,4,village,UTC+1,Europe/Tirane
+33072,AL,AL-07,Kokaj,Çajë,\N,2,locality,UTC+1,Europe/Tirane
+33074,AL,AL-01,Buzuq,Buzuq,99,4,village,UTC+1,Europe/Tirane
+33076,AL,AL-05,Buz,Buz,\N,2,village,UTC+1,Europe/Tirane
+33082,AL,AL-07,Bushtrice,Bushtricë,607,2,village,UTC+1,Europe/Tirane
+33083,AL,AL-07,Bushat,Bushat,673,4,village,UTC+1,Europe/Tirane
+33084,AL,AL-09,Burrel,Burreli,10862,2,City,UTC+1,Europe/Tirane
+33089,AL,AL-09,Burgajet,Burgajet,1000,4,village,UTC+1,Europe/Tirane
+33092,AL,AL-09,Bulqize,Bulqiza,26826,2,Municipality,UTC+1,Europe/Tirane
+33099,AL,AL-07,Bujan,Bujan,2550,2,village,UTC+1,Europe/Tirane
+33124,AL,AL-03,Bradashesh,Komuna Bradashesh,10700,2,village,UTC+1,Europe/Tirane
+33129,AL,AL-09,Borovjan,Borovjan,352,4,village,UTC+1,Europe/Tirane
+33130,AL,AL-03,Borove,Borovë,258,4,village,UTC+1,Europe/Tirane
+33146,AL,AL-09,Bllace,Bllacë,385,4,village,UTC+1,Europe/Tirane
+33147,AL,AL-06,Blace,Blacë,1304,4,village,UTC+1,Europe/Tirane
+33148,AL,AL-08,Blinisht,Blinisht,312,2,village,UTC+1,Europe/Tirane
+33150,AL,AL-10,Blerim,Blerim,\N,2,village,UTC+1,Europe/Tirane
+33159,AL,AL-06,Bilisht,Bilishti,7287,2,City,UTC+1,Europe/Tirane
+33160,AL,AL-06,Bicke,Bickë,502,4,village,UTC+1,Europe/Tirane
+33161,AL,AL-06,Bicke,Bickë,185,4,village,UTC+1,Europe/Tirane
+33162,AL,AL-07,Bicaj,Bicaj,\N,2,village,UTC+1,Europe/Tirane
+33172,AL,AL-06,Dardhas,Komuna Dardhas,2182,2,village,UTC+1,Europe/Tirane
+33183,AL,AL-01,Belesove,Belesovë,152,4,village,UTC+1,Europe/Tirane
+33186,AL,AL-06,Bejkove,Bejkovë,120,4,village,UTC+1,Europe/Tirane
+33192,AL,AL-06,Barmash,Barmash,\N,2,village,UTC+1,Europe/Tirane
+33194,AL,AL-01,Bargullas,Bargullas,165,4,village,UTC+1,Europe/Tirane
+33203,AL,AL-03,Balez,Balëz,1492,4,village,UTC+1,Europe/Tirane
+33205,AL,AL-05,Ballaban,Ballaban,\N,2,village,UTC+1,Europe/Tirane
+33207,AL,AL-01,Balibardhe,Balibardhë,208,4,village,UTC+1,Europe/Tirane
+33210,AL,AL-01,Backe,Backë,195,4,village,UTC+1,Europe/Tirane
+33214,AL,AL-06,Baban,Baban,1129,4,village,UTC+1,Europe/Tirane
+33220,AL,AL-06,Arrez,Arrëza,600,4,village,UTC+1,Europe/Tirane
+33223,AL,AL-07,Arren,Arrën,\N,2,village,UTC+1,Europe/Tirane
+33225,AL,AL-09,Arras,Arras,3055,2,village,UTC+1,Europe/Tirane
+33237,AL,AL-07,Aliaj,Aliaj,276,4,village,UTC+1,Europe/Tirane
+33245,AL,AL-07,Bytyc,Bytyç,\N,2,locality,UTC+1,Europe/Tirane
+33246,AL,AL-03,Librazhd-Qender,Librazhd,12691,2,locality,UTC+1,Europe/Tirane
+33311,AL,AL-09,Plepa,Plepa,1203,3,City,UTC+1,Europe/Tirane
+33314,AL,AL-03,Funare,Funarë,\N,2,locality,UTC+1,Europe/Tirane
+33316,AL,AL-03,Kusarth,Kusarth,976,4,village,UTC+1,Europe/Tirane
+33386,AL,AL-07,Shpat,Shpat,89,4,village,UTC+1,Europe/Tirane
+33447,AL,AL-03,Lumas,Lumas,837,4,village,UTC+1,Europe/Tirane
+33486,AL,AL-06,Moglice,Moglicë,\N,2,village,UTC+1,Europe/Tirane
+33496,AL,AL-01,Bogove,Bogovë,1098,2,village,UTC+1,Europe/Tirane
+33505,AL,AL-01,Cepan,Çepan,740,3,locality,UTC+1,Europe/Tirane
+33525,AL,AL-01,Luck,Luçk,6257,3,City,UTC+1,Europe/Tirane
+33545,AL,AL-01,Sharove,Sharovë,125,4,locality,UTC+1,Europe/Tirane
+33598,AL,AL-05,Piskove,Piskovë,522,2,village,UTC+1,Europe/Tirane
+33618,AL,AL-12,Lukove,Lukova,\N,2,village,UTC+1,Europe/Tirane
+33621,AL,AL-12,Ksamil,Komuna Ksamil,2994,4,village,UTC+1,Europe/Tirane
+33635,AL,AL-01,Zhitomi i Vogel,Zhitom i Vogël,126,4,locality,UTC+1,Europe/Tirane
+33636,AL,AL-01,Zhitomi i Madh,Zhitom i Madh,205,4,locality,UTC+1,Europe/Tirane
+33639,AL,AL-04,Zharrez,Zharrëz,5236,2,village,UTC+1,Europe/Tirane
+33642,AL,AL-01,Zhapokike,Zhapokikë,84,4,village,UTC+1,Europe/Tirane
+33650,AL,AL-08,Zejmen,Zejmen,1630,2,village,UTC+1,Europe/Tirane
+33655,AL,AL-11,Zall-Herr,Zall-Herr,9389,2,village,UTC+1,Europe/Tirane
+33658,AL,AL-11,Zall-Bastar,Zall-Bastar,3380,2,village,UTC+1,Europe/Tirane
+33666,AL,AL-03,Xherije,Xherije,500,4,village,UTC+1,Europe/Tirane
+33669,AL,AL-02,Xhafzotaj,Xhafzotaj,12381,2,village,UTC+1,Europe/Tirane
+33671,AL,AL-12,Vuno,Vunoi,486,4,locality,UTC+1,Europe/Tirane
+33673,AL,AL-10,Vukpalaj-Bajze,Vukpalaj,768,4,village,UTC+1,Europe/Tirane
+33676,AL,AL-10,Vukatane,Vukatane,1113,4,village,UTC+1,Europe/Tirane
+33682,AL,AL-11,Vrap,Vrapi,3000,4,village,UTC+1,Europe/Tirane
+33683,AL,AL-12,Vranisht,Vranisht,\N,2,village,UTC+1,Europe/Tirane
+33684,AL,AL-07,Vrana,Vrana,6650,3,City,UTC+1,Europe/Tirane
+33688,AL,AL-11,Vore,Vora,7937,2,Municipality,UTC+1,Europe/Tirane
+33689,AL,AL-01,Vokopole,Vokopolë,302,4,village,UTC+1,Europe/Tirane
+33693,AL,AL-12,Vlore,Vlorë,99472,2,Municipality,UTC+1,Europe/Tirane
+33694,AL,AL-01,Vlashuk,Vlashuk,552,4,village,UTC+1,Europe/Tirane
+33699,AL,AL-08,Vinjoll,Vinjoll,450,4,village,UTC+1,Europe/Tirane
+33701,AL,AL-11,Vilez,Vilëz,1265,4,village,UTC+1,Europe/Tirane
+33705,AL,AL-04,Vidhishte,Vidhishtë,2042,4,village,UTC+1,Europe/Tirane
+33710,AL,AL-01,Veterrik,Veteriku,822,4,village,UTC+1,Europe/Tirane
+33719,AL,AL-10,Velipoje,Velipoja,5031,2,village,UTC+1,Europe/Tirane
+33721,AL,AL-01,Veleshnje,Veleshnja,541,4,village,UTC+1,Europe/Tirane
+33724,AL,AL-01,Velcan,Velçan,176,4,village,UTC+1,Europe/Tirane
+33725,AL,AL-01,Velagosht,Velagosht,766,4,village,UTC+1,Europe/Tirane
+33726,AL,AL-01,Velabisht,Velabishti,8453,2,village,UTC+1,Europe/Tirane
+33733,AL,AL-11,Vaqarr,Vaqarri,\N,2,village,UTC+1,Europe/Tirane
+33745,AL,AL-01,Uznove,Uznovë,2569,4,village,UTC+1,Europe/Tirane
+33749,AL,AL-01,Ura Vajgurore,Ura Vajgurore,6648,2,Municipality,UTC+1,Europe/Tirane
+33751,AL,AL-08,Ungrej,Ungrej,\N,2,village,UTC+1,Europe/Tirane
+33752,AL,AL-01,Ullinjas,Ullinjas,781,4,village,UTC+1,Europe/Tirane
+33753,AL,AL-09,Ulez,Ulza,617,2,village,UTC+1,Europe/Tirane
+33768,AL,AL-08,Tresh,Tresh,1914,4,village,UTC+1,Europe/Tirane
+33774,AL,AL-04,Topoje,Topojë,\N,2,village,UTC+1,Europe/Tirane
+33777,AL,AL-11,Tirana,Tirana,403909,1,City,UTC+1,Europe/Tirane
+33779,AL,AL-02,Thumane,Thumanë,2567,2,village,UTC+1,Europe/Tirane
+33780,AL,AL-10,Theth,Thethi,80,4,village,UTC+1,Europe/Tirane
+33786,AL,AL-04,Terbuf,Tërbuf,\N,2,village,UTC+1,Europe/Tirane
+33795,AL,AL-01,Tapi,Tapi,1780,4,village,UTC+1,Europe/Tirane
+33799,AL,AL-01,Syzes,Syzës,681,3,locality,UTC+1,Europe/Tirane
+33801,AL,AL-11,Synej,Komuna Synej,\N,2,village,UTC+1,Europe/Tirane
+33807,AL,AL-02,Sukth,Sukthi,9173,2,City,UTC+1,Europe/Tirane
+33813,AL,AL-04,Strum,Strum,\N,2,locality,UTC+1,Europe/Tirane
+33814,AL,AL-09,Stojan,Stojan,655,4,village,UTC+1,Europe/Tirane
+33817,AL,AL-01,Starove,Starova,1043,4,village,UTC+1,Europe/Tirane
+33822,AL,AL-01,Sqepur,Sqepur,585,4,village,UTC+1,Europe/Tirane
+33824,AL,AL-08,Spiten,Spiten,1692,4,village,UTC+1,Europe/Tirane
+33834,AL,AL-01,Slanice,Slanicë,299,4,village,UTC+1,Europe/Tirane
+33836,AL,AL-08,Skuraj,Skuraj,697,4,village,UTC+1,Europe/Tirane
+33838,AL,AL-01,Skrevan,Skrevan,802,4,village,UTC+1,Europe/Tirane
+33841,AL,AL-01,Sinje,Sinjë,3351,4,village,UTC+1,Europe/Tirane
+33845,AL,AL-11,Sinaballaj,Sinaballaj,\N,2,village,UTC+1,Europe/Tirane
+33849,AL,AL-08,Shullaz,Shullaz,1654,4,village,UTC+1,Europe/Tirane
+33853,AL,AL-02,Shtraze,Shtrazë,277,4,village,UTC+1,Europe/Tirane
+33864,AL,AL-08,Shperdheze,Shpërdhezë,270,4,village,UTC+1,Europe/Tirane
+33876,AL,AL-08,Shkopet,Shkopet,322,4,village,UTC+1,Europe/Tirane
+33877,AL,AL-10,Shkoder,Shkodra,95553,2,Municipality,UTC+1,Europe/Tirane
+33882,AL,AL-11,Shkalle,Shkallë,264,4,village,UTC+1,Europe/Tirane
+33887,AL,AL-02,Shijak,Shijaku,14138,2,Municipality,UTC+1,Europe/Tirane
+33888,AL,AL-03,Sheze,Shezë e Madhe,\N,2,village,UTC+1,Europe/Tirane
+33900,AL,AL-01,Sheq Gajde,Sheq Gajdë,456,3,locality,UTC+1,Europe/Tirane
+33901,AL,AL-01,Sheqes,Sheqës,382,3,locality,UTC+1,Europe/Tirane
+33906,AL,AL-08,Shenkoll,Shënkoll,4149,2,village,UTC+1,Europe/Tirane
+33908,AL,AL-08,Shengjin,Shëngjin,6963,3,town,UTC+1,Europe/Tirane
+33912,AL,AL-11,Shengjergj,Shëngjergj,\N,2,locality,UTC+1,Europe/Tirane
+33927,AL,AL-03,Shales,Shalës,\N,2,village,UTC+1,Europe/Tirane
+33929,AL,AL-10,Nicaj-Shale,Nicaj-Shalë,\N,2,village,UTC+1,Europe/Tirane
+33933,AL,AL-12,Sevaster,Sevaster,\N,2,village,UTC+1,Europe/Tirane
+33939,AL,AL-08,Selite,Selitë,425,2,village,UTC+1,Europe/Tirane
+33941,AL,AL-07,Valbone,Valbonë,\N,2,village,UTC+1,Europe/Tirane
+33945,AL,AL-12,Selenice,Selenica,6912,2,Municipality,UTC+1,Europe/Tirane
+33957,AL,AL-08,Sanxhak,Sanxhak,5013,4,village,UTC+1,Europe/Tirane
+33960,AL,AL-01,Samatice,Samaticë,1249,4,village,UTC+1,Europe/Tirane
+33963,AL,AL-01,Salce-Kozare,Salcë-Kozarë,301,3,locality,UTC+1,Europe/Tirane
+33967,AL,AL-01,Sadovice,Sadovicë,99,4,village,UTC+1,Europe/Tirane
+33968,AL,AL-04,Ruzhdie,Ruzhdije,\N,2,village,UTC+1,Europe/Tirane
+33971,AL,AL-08,Rubik,Rubik,2826,2,town,UTC+1,Europe/Tirane
+33980,AL,AL-11,Rrogozhine,Rrogozhina,7049,2,Municipality,UTC+1,Europe/Tirane
+33982,AL,AL-08,Rile,Rilë,1805,4,village,UTC+1,Europe/Tirane
+33990,AL,AL-08,Rreshen,Rrësheni,9434,2,town,UTC+1,Europe/Tirane
+33991,AL,AL-01,Rerez,Rrërës-Kumaraku,907,3,locality,UTC+1,Europe/Tirane
+33995,AL,AL-02,Rrashbull,Rrashbull,\N,2,village,UTC+1,Europe/Tirane
+33997,AL,AL-03,Rrasa e Siperme,Rrasa e Sipërme,\N,2,locality,UTC+1,Europe/Tirane
+33999,AL,AL-10,Rrapshe-Stare,Rrapsh,813,4,locality,UTC+1,Europe/Tirane
+34002,AL,AL-10,Rrape,Rrapë,\N,2,village,UTC+1,Europe/Tirane
+34007,AL,AL-04,Roskovec,Roskovec,6657,2,Municipality,UTC+1,Europe/Tirane
+34021,AL,AL-04,Remas,Remas,\N,2,village,UTC+1,Europe/Tirane
+34022,AL,AL-01,Remanice,Remanica,378,4,village,UTC+1,Europe/Tirane
+34026,AL,AL-01,Rehovice,Rehovicë,145,4,locality,UTC+1,Europe/Tirane
+34038,AL,AL-04,Radostine,Radostinë,1867,4,village,UTC+1,Europe/Tirane
+34039,AL,AL-12,Radhime,Radhimë,1132,4,village,UTC+1,Europe/Tirane
+34047,AL,AL-10,Qerret,Komuna Qerret,\N,2,locality,UTC+1,Europe/Tirane
+34055,AL,AL-10,Qelez,Qelëz (Pukë),\N,2,locality,UTC+1,Europe/Tirane
+34063,AL,AL-10,Puke,Puka,6495,2,Municipality,UTC+1,Europe/Tirane
+34065,AL,AL-08,Prull,Prull,140,4,village,UTC+1,Europe/Tirane
+34067,AL,AL-01,Protoduar,Protoduar,130,4,village,UTC+1,Europe/Tirane
+34069,AL,AL-05,Progonat,Progonat,\N,2,village,UTC+1,Europe/Tirane
+34073,AL,AL-11,Preze,Prezë,\N,2,village,UTC+1,Europe/Tirane
+34077,AL,AL-01,Poshnje,Poshnjë,7375,2,village,UTC+1,Europe/Tirane
+34079,AL,AL-04,Portez,Njësia administrative Portëz,\N,2,village,UTC+1,Europe/Tirane
+34084,AL,AL-01,Pobrat,Pobrat,1518,4,village,UTC+1,Europe/Tirane
+34088,AL,AL-08,Pllane,Pllanë,2151,4,village,UTC+1,Europe/Tirane
+34092,AL,AL-01,Plashniku-Dy,Plashniku-Dy,236,3,locality,UTC+1,Europe/Tirane
+34093,AL,AL-01,Plashnik i Madh,Plashnik i Madh,83,4,village,UTC+1,Europe/Tirane
+34097,AL,AL-10,Pjetroshan,Pjetroshan,1216,4,village,UTC+1,Europe/Tirane
+34111,AL,AL-11,Peza e Madhe,Peza e Madhe,\N,2,locality,UTC+1,Europe/Tirane
+34112,AL,AL-11,Petrele,Petrelë,5542,2,village,UTC+1,Europe/Tirane
+34118,AL,AL-03,Perparim,Përparim,\N,2,village,UTC+1,Europe/Tirane
+34120,AL,AL-01,Perondi,Perondi,5568,2,village,UTC+1,Europe/Tirane
+34127,AL,AL-03,Peqin,Peqini,8942,2,Municipality,UTC+1,Europe/Tirane
+34138,AL,AL-04,Patos Fshat,Patos-Fshat,22679,4,locality,UTC+1,Europe/Tirane
+34139,AL,AL-04,Patos,Patosi,17114,2,Municipality,UTC+1,Europe/Tirane
+34140,AL,AL-08,Patok,Plazhi i Patokut,964,4,village,UTC+1,Europe/Tirane
+34142,AL,AL-08,Patalej,Patalej,309,4,village,UTC+1,Europe/Tirane
+34143,AL,AL-11,Paskuqan,Paskuqan,\N,2,village,UTC+1,Europe/Tirane
+34144,AL,AL-01,Pashtraj,Pashtraj,168,4,village,UTC+1,Europe/Tirane
+34146,AL,AL-01,Pashalli,Pashalli,742,3,locality,UTC+1,Europe/Tirane
+34148,AL,AL-03,Paper,Papër,6348,2,village,UTC+1,Europe/Tirane
+34151,AL,AL-01,Palikesht,Palikështi,310,4,village,UTC+1,Europe/Tirane
+34154,AL,AL-12,Palase,Palasa,413,4,village,UTC+1,Europe/Tirane
+34160,AL,AL-03,Pajove,Pajovë,7000,2,village,UTC+1,Europe/Tirane
+34162,AL,AL-01,Paftal,Paftal,226,4,village,UTC+1,Europe/Tirane
+34164,AL,AL-01,Otllak,Otllak,4980,2,village,UTC+1,Europe/Tirane
+34166,AL,AL-01,Orizaj,Orizaj,679,4,village,UTC+1,Europe/Tirane
+34167,AL,AL-12,Orikum,Orikumi,2604,2,town,UTC+1,Europe/Tirane
+34171,AL,AL-10,Oblika e Siperme,Oblika e Sipërme,297,4,locality,UTC+1,Europe/Tirane
+34176,AL,AL-12,Novosele,Novoselë,8209,2,village,UTC+1,Europe/Tirane
+34179,AL,AL-02,Nikel,Nikël,9518,2,village,UTC+1,Europe/Tirane
+34182,AL,AL-10,Nicaj-Shosh,Nicaj-Shosh,\N,2,village,UTC+1,Europe/Tirane
+34186,AL,AL-04,Ngracan,Ngraçan,588,2,village,UTC+1,Europe/Tirane
+34190,AL,AL-11,Ndroq,Ndroq,5035,2,village,UTC+1,Europe/Tirane
+34208,AL,AL-11,Murth,Murth,166,4,village,UTC+1,Europe/Tirane
+34231,AL,AL-01,Morave,Moravë,1459,4,village,UTC+1,Europe/Tirane
+34235,AL,AL-01,Molisht,Molisht,390,4,village,UTC+1,Europe/Tirane
+34245,AL,AL-08,Milot,Milot,2157,2,town,UTC+1,Europe/Tirane
+34271,AL,AL-05,Memaliaj,Memaliaj,4951,2,Municipality,UTC+1,Europe/Tirane
+34279,AL,AL-04,Mbrostar-Ure,Mbrostar,\N,2,locality,UTC+1,Europe/Tirane
+34280,AL,AL-01,Mbreshtan,Mbreshtan,280,4,village,UTC+1,Europe/Tirane
+34281,AL,AL-01,Mbolan,Mbolan,216,4,village,UTC+1,Europe/Tirane
+34282,AL,AL-01,Mbjeshove,Mbjeshovë,472,4,village,UTC+1,Europe/Tirane
+34307,AL,AL-02,Manze,Manëz,7185,2,locality,UTC+1,Europe/Tirane
+34308,AL,AL-08,Manati,Manati,1603,4,village,UTC+1,Europe/Tirane
+34310,AL,AL-08,Mamurras,Mamurras,8282,2,town,UTC+1,Europe/Tirane
+34311,AL,AL-02,Maminas,Maminas,1018,2,village,UTC+1,Europe/Tirane
+34315,AL,AL-02,Mallkuc,Mallkuç,5460,3,City,UTC+1,Europe/Tirane
+34326,AL,AL-01,Malas Grope,Malas Gropa,273,3,locality,UTC+1,Europe/Tirane
+34327,AL,AL-01,Malas Breg,Malas Breg,224,3,locality,UTC+1,Europe/Tirane
+34332,AL,AL-01,Magjate,Magjatë,1637,3,locality,UTC+1,Europe/Tirane
+34336,AL,AL-11,Luzi i Vogel,Luzi i Vogël,\N,2,locality,UTC+1,Europe/Tirane
+34339,AL,AL-04,Lushnje,Lushnja,61568,2,Municipality,UTC+1,Europe/Tirane
+34340,AL,AL-08,Lurth,Lurth,312,4,village,UTC+1,Europe/Tirane
+34349,AL,AL-05,Luftinje,Komuna Luftinjë,\N,2,village,UTC+1,Europe/Tirane
+34375,AL,AL-04,Libofshe,Libofshë,\N,2,village,UTC+1,Europe/Tirane
+34376,AL,AL-08,Lezhe,Lezha,18695,2,Municipality,UTC+1,Europe/Tirane
+34381,AL,AL-04,Levan,Levan,738,2,village,UTC+1,Europe/Tirane
+34382,AL,AL-01,Levan,Levan,280,4,village,UTC+1,Europe/Tirane
+34394,AL,AL-07,Lekbibaj,Lekbibaj,\N,2,village,UTC+1,Europe/Tirane
+34397,AL,AL-11,Lekaj,Lekaj,\N,2,village,UTC+1,Europe/Tirane
+34405,AL,AL-01,Lapardha Nje,Lapardha Një,1724,3,locality,UTC+1,Europe/Tirane
+34420,AL,AL-08,Lac,Laçi,14970,2,City,UTC+1,Europe/Tirane
+34421,AL,AL-04,Kute,Kutë,\N,2,village,UTC+1,Europe/Tirane
+34422,AL,AL-01,Kutalli,Kutalli,9643,2,village,UTC+1,Europe/Tirane
+34430,AL,AL-04,Kurjan,Kurjan,\N,2,village,UTC+1,Europe/Tirane
+34436,AL,AL-04,Kuman,Kuman,2013,2,village,UTC+1,Europe/Tirane
+34444,AL,AL-01,Kucove,Kuçova,18166,2,Municipality,UTC+1,Europe/Tirane
+34446,AL,AL-10,Kuc,Kuç,\N,2,village,UTC+1,Europe/Tirane
+34448,AL,AL-01,Kuc,Kuç,403,4,village,UTC+1,Europe/Tirane
+34452,AL,AL-11,Kryevidh,Kryevidh,\N,2,village,UTC+1,Europe/Tirane
+34457,AL,AL-04,Krutja e Poshtme,Krutje e Poshtme,\N,2,locality,UTC+1,Europe/Tirane
+34458,AL,AL-02,Kruje,Kruja,21286,2,Municipality,UTC+1,Europe/Tirane
+34460,AL,AL-11,Krrabe,Krrabë,1177,2,village,UTC+1,Europe/Tirane
+34466,AL,AL-01,Krekez,Krekëz,301,4,village,UTC+1,Europe/Tirane
+34470,AL,AL-05,Krahes,Komuna Krahës,\N,2,village,UTC+1,Europe/Tirane
+34472,AL,AL-01,Kozare,Kozarë,5622,2,village,UTC+1,Europe/Tirane
+34476,AL,AL-12,Kote,Kotë,\N,2,village,UTC+1,Europe/Tirane
+34483,AL,AL-01,Koritez,Koritëz,206,4,village,UTC+1,Europe/Tirane
+34485,AL,AL-10,Kopliku i Siperm,Koplik i Sipërm,1259,4,locality,UTC+1,Europe/Tirane
+34486,AL,AL-10,Koplik,Kopliku,4078,2,town,UTC+1,Europe/Tirane
+34488,AL,AL-01,Konizbalte,Konizbaltë,596,3,locality,UTC+1,Europe/Tirane
+34491,AL,AL-09,Kombesi,Komsi,\N,2,locality,UTC+1,Europe/Tirane
+34494,AL,AL-04,Kolonje,Njësia administrative Kolonjë,5728,2,village,UTC+1,Europe/Tirane
+34497,AL,AL-08,Kolc,Kolsh,\N,2,village,UTC+1,Europe/Tirane
+34501,AL,AL-09,Kokerdhok,Kokërdhok,173,4,village,UTC+1,Europe/Tirane
+34533,AL,AL-11,Kavaje,Kavaja,30012,2,Municipality,UTC+1,Europe/Tirane
+34537,AL,AL-02,Katundi i Ri,Katund i Ri,\N,2,locality,UTC+1,Europe/Tirane
+34539,AL,AL-10,Kastrat,Kastrat,\N,2,village,UTC+1,Europe/Tirane
+34545,AL,AL-11,Kashar,Kashari,\N,2,village,UTC+1,Europe/Tirane
+34552,AL,AL-03,Karine,Karinë,\N,2,village,UTC+1,Europe/Tirane
+34554,AL,AL-04,Karbunara e Vogel,Karbunara e Vogël,\N,2,locality,UTC+1,Europe/Tirane
+34564,AL,AL-11,Kamez,Kamza,61739,2,Municipality,UTC+1,Europe/Tirane
+34565,AL,AL-10,Kamice-Flake,Kamicë-Flakë,957,4,village,UTC+1,Europe/Tirane
+34570,AL,AL-01,Kamcisht,Kamçisht,169,4,village,UTC+1,Europe/Tirane
+34579,AL,AL-08,Kallmeti i Madh,Kallmet i Madh,\N,2,locality,UTC+1,Europe/Tirane
+34580,AL,AL-11,Kallmet,Kallmet,\N,2,village,UTC+1,Europe/Tirane
+34582,AL,AL-10,Kalldrun,Kalldrun,554,4,village,UTC+1,Europe/Tirane
+34586,AL,AL-04,Kalenje,Kalenjë,\N,2,village,UTC+1,Europe/Tirane
+34593,AL,AL-03,Kajan,Kajan,\N,2,village,UTC+1,Europe/Tirane
+34597,AL,AL-08,Kacinar,Kaçinar,\N,2,village,UTC+1,Europe/Tirane
+34602,AL,AL-10,Jubice,Jubicë,572,4,village,UTC+1,Europe/Tirane
+34609,AL,AL-10,Jaran,Jeras,661,4,village,UTC+1,Europe/Tirane
+34616,AL,AL-02,Ishem,Ishëm,\N,2,village,UTC+1,Europe/Tirane
+34623,AL,AL-04,Hysgjokaj,Hysgjokaj,\N,2,village,UTC+1,Europe/Tirane
+34627,AL,AL-10,Hot,Hot,\N,2,village,UTC+1,Europe/Tirane
+34630,AL,AL-01,Hinge,Hingë,762,3,locality,UTC+1,Europe/Tirane
+34631,AL,AL-12,Himare,Himarë,5775,2,Municipality,UTC+1,Europe/Tirane
+34634,AL,AL-11,Helmas,Helmas,\N,2,locality,UTC+1,Europe/Tirane
+34637,AL,AL-04,Hekal,Hekal,\N,2,village,UTC+1,Europe/Tirane
+34639,AL,AL-01,Havaleas,Havaleas,1214,4,village,UTC+1,Europe/Tirane
+34648,AL,AL-02,Hasan,Hasan,\N,2,village,UTC+1,Europe/Tirane
+34658,AL,AL-10,Hajmel,Hajmel,\N,2,village,UTC+1,Europe/Tirane
+34666,AL,AL-09,Gurra e Vogel,Gurra e Vogël,\N,2,locality,UTC+1,Europe/Tirane
+34670,AL,AL-10,Guri i Zi,Guri i Zi,\N,2,village,UTC+1,Europe/Tirane
+34671,AL,AL-01,Guri i Bardhe,Hallaxhia,538,4,village,UTC+1,Europe/Tirane
+34672,AL,AL-08,Gurez,Gurëz,2130,4,village,UTC+1,Europe/Tirane
+34683,AL,AL-10,Gruemire,Gruemirë,\N,2,village,UTC+1,Europe/Tirane
+34691,AL,AL-04,Greshice,Greshicë,\N,2,village,UTC+1,Europe/Tirane
+34693,AL,AL-03,Grekan,Grekan,\N,2,village,UTC+1,Europe/Tirane
+34701,AL,AL-04,Gradishte,Gradishtë,\N,2,village,UTC+1,Europe/Tirane
+34703,AL,AL-03,Gracen,Gracen,\N,2,village,UTC+1,Europe/Tirane
+34705,AL,AL-04,Grabjan,Grabian,\N,2,locality,UTC+1,Europe/Tirane
+34707,AL,AL-11,Gose e Madhe,Gosë e Madhe,\N,2,village,UTC+1,Europe/Tirane
+34713,AL,AL-01,Clirim,Çlirim,1097,4,village,UTC+1,Europe/Tirane
+34716,AL,AL-01,Goraj,Goraj,1714,4,village,UTC+1,Europe/Tirane
+34720,AL,AL-04,Golem,Golem i Madh,6994,2,village,UTC+1,Europe/Tirane
+34726,AL,AL-04,Gobolesh,Gobolesh,1302,4,village,UTC+1,Europe/Tirane
+34735,AL,AL-10,Gjuraj-Boks,Gjuraj-Boks,158,4,hamlet,UTC+1,Europe/Tirane
+34746,AL,AL-03,Gjocaj,Gjoçaj,\N,2,village,UTC+1,Europe/Tirane
+34749,AL,AL-04,Gjinoqare,Gjynaqarë,924,4,village,UTC+1,Europe/Tirane
+34750,AL,AL-03,Gjevor,Gjevor,1884,4,village,UTC+1,Europe/Tirane
+34751,AL,AL-01,Gjoroven,Gjoroveni,540,3,locality,UTC+1,Europe/Tirane
+34753,AL,AL-02,Gjepalaj,Gjepalaj,1310,2,village,UTC+1,Europe/Tirane
+34755,AL,AL-11,Gjecaj-Koder,Gjeçaj-Kodër,2931,4,village,UTC+1,Europe/Tirane
+34759,AL,AL-10,Gjan,Gjan,2727,4,village,UTC+1,Europe/Tirane
+34760,AL,AL-08,"Gjader, Dajc",Gjadëri,2369,4,village,UTC+1,Europe/Tirane
+34765,AL,AL-04,Germenji i Vogel,Gërmenj i Vogël,230,4,village,UTC+1,Europe/Tirane
+34766,AL,AL-04,Germenj i Madh,Gërmenj i Madh,884,4,village,UTC+1,Europe/Tirane
+34768,AL,AL-09,German,Gërman,754,4,village,UTC+1,Europe/Tirane
+34771,AL,AL-01,Gege,Gegë,1571,4,village,UTC+1,Europe/Tirane
+34780,AL,AL-01,Galine,Galinë,211,4,village,UTC+1,Europe/Tirane
+34781,AL,AL-08,Gajush,Gajush,570,4,village,UTC+1,Europe/Tirane
+34782,AL,AL-01,Gajde,Gajdë,596,4,village,UTC+1,Europe/Tirane
+34783,AL,AL-10,Gagu,Gagu,5468,4,village,UTC+1,Europe/Tirane
+34785,AL,AL-11,Fushe-Preze,Fushë-Prezë,537,4,village,UTC+1,Europe/Tirane
+34787,AL,AL-08,Fushekuqe,Fushëkuqe,1058,2,village,UTC+1,Europe/Tirane
+34788,AL,AL-02,Fushe-Kruje,Fushë-Krujë,10458,2,City,UTC+1,Europe/Tirane
+34793,AL,AL-12,Ftere,Fterra,168,4,locality,UTC+1,Europe/Tirane
+34795,AL,AL-04,Fratar,Njësia administrative Fratar,\N,2,village,UTC+1,Europe/Tirane
+34796,AL,AL-01,Frasher,Frashër,254,4,village,UTC+1,Europe/Tirane
+34798,AL,AL-09,Frankth,Frankth,870,4,village,UTC+1,Europe/Tirane
+34799,AL,AL-04,Frakulla e Madhe,Frakull e Madhe,1155,2,village,UTC+1,Europe/Tirane
+34805,AL,AL-08,Fierze,Fierzë,390,4,village,UTC+1,Europe/Tirane
+34806,AL,AL-04,Fier-Shegan,Fier-Shegan,\N,2,locality,UTC+1,Europe/Tirane
+34808,AL,AL-01,Fier Mimar,Fier Mimar,476,4,village,UTC+1,Europe/Tirane
+34811,AL,AL-04,Fier,Fier,56291,2,Municipality,UTC+1,Europe/Tirane
+34814,AL,AL-08,Ferr-Shkopet,Ferr-Shkopet,278,4,village,UTC+1,Europe/Tirane
+34816,AL,AL-01,Feras Kozare,Feras Kozare,168,4,locality,UTC+1,Europe/Tirane
+34822,AL,AL-11,Farka e Madhe,Farkë e Madhe,\N,2,locality,UTC+1,Europe/Tirane
+34828,AL,AL-01,Dushnik,Dushnik,1629,4,village,UTC+1,Europe/Tirane
+34829,AL,AL-12,Shkalle Mavrove,Shkallë Mavrovë,168,4,hamlet,UTC+1,Europe/Tirane
+34839,AL,AL-02,Durres,Durrësi,130566,2,Municipality,UTC+1,Europe/Tirane
+34841,AL,AL-12,Dukati i Ri,Dukati i Ri,322,4,village,UTC+1,Europe/Tirane
+34846,AL,AL-02,Dukagjini i Ri,Dukagjini i Ri,920,4,town,UTC+1,Europe/Tirane
+34847,AL,AL-01,Duhanas,Duhanasi,1274,4,village,UTC+1,Europe/Tirane
+34849,AL,AL-01,Drobonik,Droboniku,615,4,village,UTC+1,Europe/Tirane
+34850,AL,AL-01,Drize,Drizë,593,4,village,UTC+1,Europe/Tirane
+34854,AL,AL-09,Drite,Dritë,452,4,village,UTC+1,Europe/Tirane
+34855,AL,AL-08,Drite,Dritë,863,4,village,UTC+1,Europe/Tirane
+34858,AL,AL-01,Drenovice,Drenovicë,1907,4,village,UTC+1,Europe/Tirane
+34859,AL,AL-04,Drenove,Drenovë,\N,2,village,UTC+1,Europe/Tirane
+34860,AL,AL-04,Drenie,Drenije,1746,4,village,UTC+1,Europe/Tirane
+34862,AL,AL-03,Drangaj,Drangaj,90431,3,village,UTC+1,Europe/Tirane
+34873,AL,AL-01,Donofrose,Donofrosë,729,4,village,UTC+1,Europe/Tirane
+34874,AL,AL-11,Domje,Domje,139,4,hamlet,UTC+1,Europe/Tirane
+34880,AL,AL-10,Dober,Dobër (Malësi e Madhe),693,4,village,UTC+1,Europe/Tirane
+34881,AL,AL-04,Divjake,Divjakë,6957,2,Municipality,UTC+1,Europe/Tirane
+34883,AL,AL-12,Dhermi,Dhërmiu,1800,4,village,UTC+1,Europe/Tirane
+34887,AL,AL-04,Dermenas,Dërmenas,\N,2,village,UTC+1,Europe/Tirane
+34892,AL,AL-08,Delbnisht,Delbnisht,2108,4,village,UTC+1,Europe/Tirane
+34893,AL,AL-10,Vau i Dejes,Vau i Dejës,8117,2,Municipality,UTC+1,Europe/Tirane
+34896,AL,AL-12,Davidaj,Davidaj,688,4,village,UTC+1,Europe/Tirane
+34906,AL,AL-11,Dajt,Njësia administrative Dajt,\N,2,village,UTC+1,Europe/Tirane
+34907,AL,AL-10,Dajc,Dajç,\N,2,village,UTC+1,Europe/Tirane
+34908,AL,AL-08,Dajc,Dajç,\N,2,village,UTC+1,Europe/Tirane
+34910,AL,AL-07,Curraj i Eperm,Curraj i Sipërm,70,4,village,UTC+1,Europe/Tirane
+34912,AL,AL-04,Cukasi i Ri,Çukas i Ri,1193,4,village,UTC+1,Europe/Tirane
+34914,AL,AL-01,Cukalat,Cukalat,3045,2,village,UTC+1,Europe/Tirane
+34915,AL,AL-02,Cudhi Zall,Cudhi Zall,\N,2,village,UTC+1,Europe/Tirane
+34917,AL,AL-04,Corrush,Çorrush,150,4,village,UTC+1,Europe/Tirane
+34931,AL,AL-11,Cete,Çetë,1314,4,village,UTC+1,Europe/Tirane
+34935,AL,AL-03,Cerrik,Cërriku,14269,2,Municipality,UTC+1,Europe/Tirane
+34954,AL,AL-04,Cakran,Cakran,\N,2,village,UTC+1,Europe/Tirane
+34957,AL,AL-10,Bzhete,Bzhetë,3765,3,City,UTC+1,Europe/Tirane
+34961,AL,AL-09,Bushkash,Bushkash,737,4,village,UTC+1,Europe/Tirane
+34962,AL,AL-10,Bushat,Bushat,\N,2,village,UTC+1,Europe/Tirane
+34970,AL,AL-08,Bulshize,Bulshizë,199,4,hamlet,UTC+1,Europe/Tirane
+34971,AL,AL-11,Bulcesh,Bulçesh,1162,4,village,UTC+1,Europe/Tirane
+34975,AL,AL-04,Bubullime,Bubullimë,\N,2,village,UTC+1,Europe/Tirane
+34976,AL,AL-02,Bubq,Bubq,\N,2,village,UTC+1,Europe/Tirane
+34990,AL,AL-10,Breg,Breg,733,4,village,UTC+1,Europe/Tirane
+34991,AL,AL-10,Bratosh,Bratosh,530,4,village,UTC+1,Europe/Tirane
+34992,AL,AL-12,Brataj,Komuna Brataj,2849,2,village,UTC+1,Europe/Tirane
+35006,AL,AL-10,Bogic-Palvar,Bogiç-Palvar,670,4,village,UTC+1,Europe/Tirane
+35017,AL,AL-01,Bistrovice,Bistrovicë,17540,3,City,UTC+1,Europe/Tirane
+35025,AL,AL-01,Bilce,Bilça,870,4,village,UTC+1,Europe/Tirane
+35037,AL,AL-11,Berzhite,Bërzhitë,\N,2,village,UTC+1,Europe/Tirane
+35038,AL,AL-08,Berzane,Bërzanë,181,4,village,UTC+1,Europe/Tirane
+35039,AL,AL-11,Berxull,Bërxullë,\N,2,locality,UTC+1,Europe/Tirane
+35046,AL,AL-10,Berdica e Madhe,Bërdica e Madhe,\N,2,locality,UTC+1,Europe/Tirane
+35047,AL,AL-01,Berat,Berati,62232,2,Municipality,UTC+1,Europe/Tirane
+35051,AL,AL-03,Belsh,Belsh,12952,2,Municipality,UTC+1,Europe/Tirane
+35057,AL,AL-09,Baz,Baz,1153,2,village,UTC+1,Europe/Tirane
+35068,AL,AL-01,Bardhaj,Bardhaj,221,4,village,UTC+1,Europe/Tirane
+35077,AL,AL-01,Banaj,Banaj,2500,4,village,UTC+1,Europe/Tirane
+35082,AL,AL-04,Ballsh,Ballshi,7156,2,City,UTC+1,Europe/Tirane
+35089,AL,AL-04,Ballagat,Ballagat,\N,2,village,UTC+1,Europe/Tirane
+35090,AL,AL-11,Baldushk,Baldushku,\N,2,village,UTC+1,Europe/Tirane
+35094,AL,AL-10,Ivanaj,Ivanaj,789,4,village,UTC+1,Europe/Tirane
+35106,AL,AL-01,Arrez,Arrëz,440,4,village,UTC+1,Europe/Tirane
+35107,AL,AL-12,Armen,Armen,\N,2,village,UTC+1,Europe/Tirane
+35115,AL,AL-04,Aranitas,Aranitas,\N,2,village,UTC+1,Europe/Tirane
+35124,AL,AL-04,Allkaj,Allkaj,\N,2,village,UTC+1,Europe/Tirane
+35127,AL,AL-01,Allambres,Allambrez,1079,4,locality,UTC+1,Europe/Tirane
+35129,AL,AL-08,Alk,Alk,330,4,village,UTC+1,Europe/Tirane
+35251,AL,AL-11,Golem,Golem,\N,2,village,UTC+1,Europe/Tirane
+35253,AL,AL-08,Balldreni i Ri,Balldreni i Ri,\N,2,locality,UTC+1,Europe/Tirane
+35264,AL,AL-10,Aliaj,Aliaj,1033,4,village,UTC+1,Europe/Tirane
+35317,AL,AL-10,Bajze,Bajza,2346,3,locality,UTC+1,Europe/Tirane
+35319,AL,AL-10,Sterbeq,Stërbeq,636,4,village,UTC+1,Europe/Tirane
+35323,AL,AL-10,Grude-Fushe,Grudë-Fushë,\N,2,village,UTC+1,Europe/Tirane
+35361,AL,AL-08,Fushe-Milot,Fushë-Milot,2057,4,village,UTC+1,Europe/Tirane
+35362,AL,AL-08,Uje,Ujë,202,4,hamlet,UTC+1,Europe/Tirane
+35363,AL,AL-09,Lac,Laç,1032,4,village,UTC+1,Europe/Tirane
+35371,AL,AL-11,Koder-Vore,Kodër-Vorë,1568,4,village,UTC+1,Europe/Tirane
+35402,AL,AL-03,Fierze,Komuna Fierzë,\N,2,village,UTC+1,Europe/Tirane
+35404,AL,AL-01,Agim,Agim,258,4,village,UTC+1,Europe/Tirane
+35470,AL,AL-01,Lapardha Dy,Lapardha Dy,1628,3,locality,UTC+1,Europe/Tirane
+35471,AL,AL-01,Rreth Tapi,Rreth Tapi,771,4,village,UTC+1,Europe/Tirane
+35472,AL,AL-04,Dushk,Dushk,\N,2,locality,UTC+1,Europe/Tirane
+35487,AL,AL-01,Ciflik,Çfliku,774,4,village,UTC+1,Europe/Tirane
+35508,AL,AL-01,Gorican,Goriçan,766,4,locality,UTC+1,Europe/Tirane
+35510,AL,AL-01,Vodez,Vodëz,396,4,village,UTC+1,Europe/Tirane
+35515,AL,AL-01,Bregas,Bregas,240,3,locality,UTC+1,Europe/Tirane
+35598,AL,AL-01,Bardhaj i Ri,Bardhaj i Ri,314,4,village,UTC+1,Europe/Tirane
+35606,AL,AL-04,Selite,Selitë,\N,2,village,UTC+1,Europe/Tirane
+35609,AL,AL-12,Vllahine,Komuna Vllahinë,3111,2,village,UTC+1,Europe/Tirane
+35654,AL,AL-07,Bajram Curri,Bajram Curri,5340,2,town,UTC+1,Europe/Tirane
+35656,AL,AL-12,Butrint,Butrint,100,4,locality,UTC+1,Europe/Tirane
+35657,AL,AL-06,"Xhafellare, Gjonc","Xhafellare, Gjonç",50,4,locality,UTC+1,Europe/Tirane
+35658,AL,AL-06,"Rips , Gjonc","Rips , Gjonç",100,4,locality,UTC+1,Europe/Tirane
+35659,AL,AL-06,Evrenezas,Evrenezas,200,4,locality,UTC+1,Europe/Tirane
+35665,AL,AL-07,Tropoje,Tropojë,14189,3,Municipality,UTC+1,Europe/Tirane
+35682,AL,AL-01,Roshnik i Vogel,Roshnik i Vogël,99,4,village,UTC+1,Europe/Tirane
+35683,AL,AL-01,Osmenzeze 1,Osmenzezë 1,181,4,locality,UTC+1,Europe/Tirane
+35684,AL,AL-01,Osmenzeze 2,Osmenzezë 2,166,4,locality,UTC+1,Europe/Tirane
+35685,AL,AL-01,Cete,Çetë,307,4,village,UTC+1,Europe/Tirane
+35686,AL,AL-01,Perparim,Përparim,77,4,village,UTC+1,Europe/Tirane
+35687,AL,AL-01,Lugas,Lugas,88,4,village,UTC+1,Europe/Tirane
+35688,AL,AL-01,Lumas,Lumas,3981,4,village,UTC+1,Europe/Tirane
+35689,AL,AL-01,Qender Skrapar,Qendër Skrapar,2545,3,locality,UTC+1,Europe/Tirane

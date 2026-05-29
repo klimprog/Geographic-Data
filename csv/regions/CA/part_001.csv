@@ -1,0 +1,14 @@
+key,country,name,native_name,capital,population,timezone_utc,timezone_iana
+CA-AB,CA,Alberta,Alberta,325257,3497881,UTC-7,America/Edmonton
+CA-BC,CA,British Columbia,British Columbia,334301,4413973,"UTC-8, UTC-7","America/Fort_Nelson, America/Vancouver, America/Edmonton, America/Los_Angeles, America/Dawson_Creek, America/Creston"
+CA-MB,CA,Manitoba,Manitoba,334973,1193566,UTC-6,"America/Rankin_Inlet, America/Winnipeg"
+CA-NB,CA,New Brunswick/Nouveau-Brunswick,New Brunswick,325875,751250,"UTC-5, UTC-4","America/New_York, America/Moncton"
+CA-NL,CA,Newfoundland and Labrador,Newfoundland and Labrador,335164,508099,"UTC-3:30, UTC-4","America/Goose_Bay, America/St_Johns"
+CA-NS,CA,Nova Scotia,Nova Scotia,335163,935573,UTC-4,"America/Glace_Bay, America/Halifax"
+CA-NT,CA,Northwest Territories,Northwest Territories,335107,31247,UTC-7,"America/Edmonton, America/Inuvik"
+CA-NU,CA,Nunavut,Nunavut,327273,30776,"UTC-5, UTC-4","America/Halifax, America/Iqaluit, America/Atikokan"
+CA-ON,CA,Ontario,Ontario,333878,12861940,"UTC-5, UTC-6","America/Detroit, America/Atikokan, America/Toronto, America/Winnipeg"
+CA-PE,CA,Prince Edward Island,Prince Edward Island,323830,139089,UTC-4,"America/Moncton, America/Halifax"
+CA-QC,CA,Quebec,Quebec,335172,7730612,"UTC-5, UTC-4","America/New_York, America/Iqaluit, America/Halifax, America/Blanc-Sablon, America/Toronto"
+CA-SK,CA,Saskatchewan,Saskatchewan,331544,1006644,"UTC-7, UTC-6","America/Edmonton, America/Regina, America/Swift_Current, America/Winnipeg"
+CA-YT,CA,Yukon,Yukon,334825,33530,UTC-7,"America/Whitehorse, America/Dawson"

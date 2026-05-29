@@ -1,0 +1,992 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+1440901,DZ,DZ-35,Boumerdas,بومرداس,41685,2,Town,UTC+1,Africa/Algiers
+1440909,DZ,DZ-40,Zoui,Zoui,19941,3,Urban Settlement,UTC+1,Africa/Algiers
+1440912,DZ,DZ-26,Zoubiria,الزبيرية,9236,3,Commune,UTC+1,Africa/Algiers
+1440918,DZ,DZ-21,Zitouna,زيتونة,9044,3,Commune,UTC+1,Africa/Algiers
+1440922,DZ,DZ-25,Zighout Youcef,زيغود يوسف,28764,4,hamlet,UTC+1,Africa/Algiers
+1440923,DZ,DZ-18,Ziama Mansouria,زيامة المنصورية,12642,4,hamlet,UTC+1,Africa/Algiers
+1440926,DZ,DZ-22,Zerouala,زروالة,4790,3,Commune,UTC+1,Africa/Algiers
+1440927,DZ,DZ-36,Zerizer,زريزر,11064,3,Commune,UTC+1,Africa/Algiers
+1440928,DZ,DZ-07,Zeribet el Oued,زريبة الوادي,23187,3,Commune,UTC+1,Africa/Algiers
+1440931,DZ,DZ-16,Zeralda,زرالدة,34558,3,Commune,UTC+1,Africa/Algiers
+1440933,DZ,DZ-17,Had Sahary,حد الصحارى,30451,3,Commune,UTC+1,Africa/Algiers
+1440938,DZ,DZ-35,Zemmouri,زموري,26408,3,Commune,UTC+1,Africa/Algiers
+1440939,DZ,DZ-48,Zemoura,زمورة,21770,3,locality,UTC+1,Africa/Algiers
+1440941,DZ,DZ-47,Zelfana,زلفانة,10161,3,Commune,UTC+1,Africa/Algiers
+1440943,DZ,DZ-15,Zekri,زكري,3285,3,Commune,UTC+1,Africa/Algiers
+1440946,DZ,DZ-02,Zeboudja,الزبوجة,26539,3,Commune,UTC+1,Africa/Algiers
+1440952,DZ,DZ-01,Zaouiet Kounta,زاوية كنتة,10076,3,Commune,UTC+1,Africa/Algiers
+1440953,DZ,DZ-49,Zaouiet ed Debarh,زاوية دباغ,5915,4,hamlet,UTC+1,Africa/Algiers
+1440975,DZ,DZ-29,Zahana,زهانة,21850,3,Commune,UTC+1,Africa/Algiers
+1440978,DZ,DZ-35,Zaatra,الزعاترة,3216,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1440981,DZ,DZ-20,Youb,يوب,17355,3,Commune,UTC+1,Africa/Algiers
+1440984,DZ,DZ-15,Yakouren,إعكوران,12203,3,Commune,UTC+1,Africa/Algiers
+1440988,DZ,DZ-42,Larhat,لارهاط,7359,3,Commune,UTC+1,Africa/Algiers
+1440990,DZ,DZ-44,Oued Chorfa,وادي الشرفاء,13353,3,Commune,UTC+1,Africa/Algiers
+1440998,DZ,DZ-16,Verte Rive,Verte Rive,4954,3,Nagar Panchayat,UTC+1,Africa/Algiers
+1440999,DZ,DZ-02,Bir Safsaf,بئر صفصاف,3897,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441001,DZ,DZ-01,Tsabit,تسابيت,8060,3,Commune,UTC+1,Africa/Algiers
+1441003,DZ,DZ-39,Trifaoui,الطريفاوي,8257,3,Commune,UTC+1,Africa/Algiers
+1441009,DZ,DZ-14,Tousnina,توسنينة,12421,3,Commune,UTC+1,Africa/Algiers
+1441010,DZ,DZ-32,Tousmouline,توسمولين,3155,3,Commune,UTC+1,Africa/Algiers
+1441019,DZ,DZ-55,Touggourt,تقرت,128727,2,Urban Settlement,UTC+1,Africa/Algiers
+1441022,DZ,DZ-05,Touffana,Touffana,4113,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441024,DZ,DZ-06,Toudja,توجة,9827,3,Commune,UTC+1,Africa/Algiers
+1441033,DZ,DZ-07,Tolga,طولقة,62028,3,Commune,UTC+1,Africa/Algiers
+1441037,DZ,DZ-26,Seghouane,سغوان,6000,3,Commune,UTC+1,Africa/Algiers
+1441039,DZ,DZ-18,Tleta,Tleta,4279,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441041,DZ,DZ-13,Tlemcen,تلمسان,173531,2,Urban Settlement,UTC+1,Africa/Algiers
+1441043,DZ,DZ-05,T'Kout,تكوت,11161,3,Commune,UTC+1,Africa/Algiers
+1441054,DZ,DZ-15,Tizi Rached,تيزي راشد,17161,3,Commune,UTC+1,Africa/Algiers
+1441055,DZ,DZ-15,Tizi Ouzou,تيزي وزو,139544,2,Province Capital,UTC+1,Africa/Algiers
+1441061,DZ,DZ-15,Tizi-n-Tleta,تيزي نثلاثة,18942,3,Commune,UTC+1,Africa/Algiers
+1441065,DZ,DZ-19,Tizi-n-Bechar,تيزى نبشار,21086,3,Commune,UTC+1,Africa/Algiers
+1441070,DZ,DZ-15,Tizi Gheniff,تيزي غنيف,28687,3,Commune,UTC+1,Africa/Algiers
+1441075,DZ,DZ-29,Tizi,تيزي، معسكر,12923,3,Commune,UTC+1,Africa/Algiers
+1441079,DZ,DZ-34,Tixter,تكستار,10190,3,Commune,UTC+1,Africa/Algiers
+1441084,DZ,DZ-01,Tit,تيط,4417,3,Commune,UTC+1,Africa/Algiers
+1441087,DZ,DZ-38,Tissemsilt,تسمسيلت,75197,2,Province Capital,UTC+1,Africa/Algiers
+1441093,DZ,DZ-15,Tirmitine,تيرمتين,22644,3,Commune,UTC+1,Africa/Algiers
+1441104,DZ,DZ-42,Tipasa,تيبازة,20203,2,locality,UTC+1,Africa/Algiers
+1441105,DZ,DZ-45,Tiout,تيوت,6035,3,Commune,UTC+1,Africa/Algiers
+1441107,DZ,DZ-01,Tilouline,تيلولين,6120,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441111,DZ,DZ-20,Ti-n-Zaouatene,تين ظواتين,4157,3,locality,UTC+0,Africa/Bamako
+1441117,DZ,DZ-06,Tinebdar,ثينبذر,5815,4,village,UTC+1,Africa/Algiers
+1441118,DZ,DZ-37,Tindouf,تندوف,45610,2,Province Capital,UTC+1,Africa/Algiers
+1441120,DZ,DZ-01,Timokten,تيمقتن,1255,4,village,UTC+1,Africa/Algiers
+1441124,DZ,DZ-15,Timizart,تيميزارت,35077,3,Commune,UTC+1,Africa/Algiers
+1441125,DZ,DZ-49,Timimoun,تيميمون,27573,2,Commune,UTC+1,Africa/Algiers
+1441127,DZ,DZ-05,Timgad,تيمقاد,11828,3,Commune,UTC+1,Africa/Algiers
+1441128,DZ,DZ-06,el hed,الحد,31890,4,Town,UTC+1,Africa/Algiers
+1441136,DZ,DZ-05,Tilatou,تيلاطو,3004,3,Commune,UTC+1,Africa/Algiers
+1441140,DZ,DZ-15,Tikobain,Tikobaïn,6712,3,Urban Settlement,UTC+1,Africa/Algiers
+1441145,DZ,DZ-15,Tigzirt,تيقزيرت,11962,3,Commune,UTC+1,Africa/Algiers
+1441148,DZ,DZ-57,Tiguedidine,Tiguedidine,6872,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441151,DZ,DZ-29,Tighenif,تغنيف,39938,3,locality,UTC+1,Africa/Algiers
+1441156,DZ,DZ-06,Tifrit,ثفريث,3395,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441158,DZ,DZ-06,Tifra,تيفرة,8400,3,Commune,UTC+1,Africa/Algiers
+1441167,DZ,DZ-01,Tidmaine,تيطاوين,4442,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441169,DZ,DZ-35,Tidjelabine,تجلابين,18266,3,Commune,UTC+1,Africa/Algiers
+1441176,DZ,DZ-43,Tiberguent,تبرقنت,9282,3,Commune,UTC+1,Africa/Algiers
+1441179,DZ,DZ-06,Tibane,طيبان,5059,3,Commune,UTC+1,Africa/Algiers
+1441180,DZ,DZ-14,Tiaret,تيارت,190089,2,Province Capital,UTC+1,Africa/Algiers
+1441185,DZ,DZ-38,Theniet el Had,ثنية الأحد,27687,3,Commune,UTC+1,Africa/Algiers
+1441186,DZ,DZ-35,Thenia,الثنية,18810,3,Commune,UTC+1,Africa/Algiers
+1441189,DZ,DZ-18,Texenna,تاكسنة,15682,3,Commune,UTC+1,Africa/Algiers
+1441190,DZ,DZ-22,Tessala,تسالة,7499,3,Commune,UTC+1,Africa/Algiers
+1441197,DZ,DZ-46,Terga,تارقة,8228,3,Commune,UTC+1,Africa/Algiers
+1441200,DZ,DZ-20,Tenira,تنيرة,10049,3,Commune,UTC+1,Africa/Algiers
+1441201,DZ,DZ-34,Teniet en Nasr,ثنية النصر,5775,3,Commune,UTC+1,Africa/Algiers
+1441202,DZ,DZ-05,Teniet el Abed,ثنية العابد,11388,3,Commune,UTC+1,Africa/Algiers
+1441204,DZ,DZ-02,Tenes,تنس,35459,3,Commune,UTC+1,Africa/Algiers
+1441210,DZ,DZ-55,Temacine,Temacine,14274,3,Census Town,UTC+1,Africa/Algiers
+1441214,DZ,DZ-43,Telerghma,التلاغمة,38978,4,village,UTC+1,Africa/Algiers
+1441215,DZ,DZ-22,Telagh,تلاغ,34297,3,Commune,UTC+1,Africa/Algiers
+1441218,DZ,DZ-22,Teghalimet,تغاليمت,7549,3,Commune,UTC+1,Africa/Algiers
+1441229,DZ,DZ-12,Tebessa,تبسة,225547,2,Province Capital,UTC+1,Africa/Algiers
+1441230,DZ,DZ-55,Tebesbest,تبسبست,41091,3,Commune,UTC+1,Africa/Algiers
+1441232,DZ,DZ-15,Tazrouts,ثازروتس,3394,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441236,DZ,DZ-11,Tazrouk,تاظروق,4091,3,Commune,UTC+1,Africa/Algiers
+1441237,DZ,DZ-05,Tazoult-Lambese,لامبايزيس,41636,4,hamlet,UTC+1,Africa/Algiers
+1441238,DZ,DZ-01,Tazoult,تازولت,27493,3,Commune,UTC+1,Africa/Algiers
+1441240,DZ,DZ-15,Tazmalt,تازمالت,28891,3,Commune,UTC+1,Africa/Algiers
+1441241,DZ,DZ-06,Tazmalt,تازمالت,28891,4,town,UTC+1,Africa/Algiers
+1441255,DZ,DZ-24,Taya,طاية,10302,3,Commune,UTC+1,Africa/Algiers
+1441256,DZ,DZ-05,Taxlent,تاكسلانت,8605,3,Commune,UTC+1,Africa/Algiers
+1441260,DZ,DZ-34,Tassamert,تاسمرت,5269,4,village,UTC+1,Africa/Algiers
+1441264,DZ,DZ-06,Taskriout,تاسقريوت,16141,3,Commune,UTC+1,Africa/Algiers
+1441273,DZ,DZ-28,Tarmount,تارمونت,9954,3,Commune,UTC+1,Africa/Algiers
+1441275,DZ,DZ-44,Tarik Ibn Ziad,طارق بن زياد، عين الدفلى,10285,3,Commune,UTC+1,Africa/Algiers
+1441279,DZ,DZ-05,Tarhit Ouled Hellal,Tarhit Ouled Hellal,3062,3,locality,UTC+1,Africa/Algiers
+1441300,DZ,DZ-15,Taourirt Mimoun,Taourirt Mimoun,5734,3,Urban Settlement,UTC+1,Africa/Algiers
+1441303,DZ,DZ-06,Taourirt Ighil,تاوريرت آغيل,6653,3,Commune,UTC+1,Africa/Algiers
+1441318,DZ,DZ-35,Taourga,تاورقة,7882,3,Commune,UTC+1,Africa/Algiers
+1441319,DZ,DZ-26,Taourga,تاورقة,22258,3,Town,UTC+1,Africa/Algiers
+1441320,DZ,DZ-41,Taoura,تاورة,18933,3,Commune,UTC+1,Africa/Algiers
+1441322,DZ,DZ-02,Taougrite,تاوقريت,36287,3,Commune,UTC+1,Africa/Algiers
+1441326,DZ,DZ-46,Tamzoura,تامزوغة,9772,3,Commune,UTC+1,Africa/Algiers
+1441328,DZ,DZ-40,Tamza,طامزة,8617,3,Commune,UTC+1,Africa/Algiers
+1441329,DZ,DZ-52,Tamtert,تامترت,1258,3,Commune,UTC+1,Africa/Algiers
+1441331,DZ,DZ-06,Tamokra,تمقرة,4015,3,Commune,UTC+1,Africa/Algiers
+1441333,DZ,DZ-24,Tamlouka,تاملوكة,18894,3,Commune,UTC+1,Africa/Algiers
+1441337,DZ,DZ-01,Tamest,تامست,1133,3,Commune,UTC+1,Africa/Algiers
+1441338,DZ,DZ-02,Tamesguida,تمزقيدة,4591,3,Commune,UTC+1,Africa/Algiers
+1441339,DZ,DZ-26,Tamesguida,تمسقيدة,4591,4,village,UTC+1,Africa/Algiers
+1441343,DZ,DZ-01,Tamentit,تامنطيت,4835,4,locality,UTC+1,Africa/Algiers
+1441344,DZ,DZ-16,Tamentfoust,تامنتفوست,\N,3,village,UTC+1,Africa/Algiers
+1441349,DZ,DZ-15,Tamda,تامدا,3249,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441352,DZ,DZ-15,Tamazirt,تمازيرت,9383,3,Urban Settlement,UTC+1,Africa/Algiers
+1441356,DZ,DZ-11,Tamanghasset,تمنراست,81752,2,locality,UTC+1,Africa/Algiers
+1441358,DZ,DZ-21,Tamalous,تمالوس,41921,3,Commune,UTC+1,Africa/Algiers
+1441391,DZ,DZ-48,Takhemaret,تاخمرت,34124,3,Commune,UTC+1,Africa/Algiers
+1441393,DZ,DZ-10,Takerbouzt,ثقربوزث,11929,3,Urban Settlement,UTC+1,Africa/Algiers
+1441403,DZ,DZ-55,Taibet,الطيبات,20587,3,Commune,UTC+1,Africa/Algiers
+1441407,DZ,DZ-18,Taher,الطاهير,98910,3,Commune,UTC+1,Africa/Algiers
+1441436,DZ,DZ-14,Takhemaret,تاخمرت,34124,4,town,UTC+1,Africa/Algiers
+1441437,DZ,DZ-05,Tagoust,Tagoust,3498,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441448,DZ,DZ-08,Taghit,تاغيث,6411,3,Commune,UTC+1,Africa/Algiers
+1441453,DZ,DZ-06,Tafraout,تافراوت,8901,3,Commune,UTC+1,Africa/Algiers
+1441467,DZ,DZ-17,Tadmit,تعضميت,10359,3,Commune,UTC+1,Africa/Algiers
+1441468,DZ,DZ-15,Tadmait,تادمايت,22838,3,Commune,UTC+1,Africa/Algiers
+1441474,DZ,DZ-43,Tadjenanet,تاجنانت,52658,3,Commune,UTC+1,Africa/Algiers
+1441475,DZ,DZ-02,Tadjena,تاجنة,24413,3,Commune,UTC+1,Africa/Algiers
+1441492,DZ,DZ-26,Tablat,تابلاط,27919,3,Commune,UTC+1,Africa/Algiers
+1441494,DZ,DZ-44,Tabia,طابية,5761,3,Commune,UTC+1,Africa/Algiers
+1441497,DZ,DZ-01,Taberkant,Taberkant,18370,3,Nagar Panchayat,UTC+1,Africa/Algiers
+1441501,DZ,DZ-52,Tabelbala,تبلبالة,5121,3,Commune,UTC+1,Africa/Algiers
+1441512,DZ,DZ-27,Stidia,ستيدية,11965,3,Commune,UTC+1,Africa/Algiers
+1441513,DZ,DZ-16,Staoueli,سطاوالي,23836,3,Commune,UTC+1,Africa/Algiers
+1441516,DZ,DZ-10,Sour el Ghozlane,سور الغزلان,50120,3,Commune,UTC+1,Africa/Algiers
+1441518,DZ,DZ-27,Sour,الصور,22673,3,Commune,UTC+1,Africa/Algiers
+1441519,DZ,DZ-09,Souma,الصومعة,40745,4,locality,UTC+1,Africa/Algiers
+1441522,DZ,DZ-10,Souk el Khemis,سوق الخميس,8003,3,Commune,UTC+1,Africa/Algiers
+1441523,DZ,DZ-35,Souk el Had,سوق الحد,6693,3,Commune,UTC+1,Africa/Algiers
+1441525,DZ,DZ-38,Lardjem,الأرجام,27609,3,Commune,UTC+1,Africa/Algiers
+1441527,DZ,DZ-02,Sidi Abderrahmane,سيدي عبد الرحمن,8350,3,Commune,UTC+1,Africa/Algiers
+1441531,DZ,DZ-41,Souk Ahras,سوق أهراس,155259,2,Province Capital,UTC+1,Africa/Algiers
+1441534,DZ,DZ-16,Souidania,السويدانية,17105,3,Commune,UTC+1,Africa/Algiers
+1441536,DZ,DZ-14,Sougueur,السوقر,74996,3,Commune,UTC+1,Africa/Algiers
+1441544,DZ,DZ-13,Souahlia,السواحلية,22245,3,Commune,UTC+1,Africa/Algiers
+1441545,DZ,DZ-26,Souagui,السواقي,15536,3,Commune,UTC+1,Africa/Algiers
+1441555,DZ,DZ-28,Slim,سليم,5348,3,Commune,UTC+1,Africa/Algiers
+1441558,DZ,DZ-21,Skikda,سكيكدة,182903,2,Urban Settlement,UTC+1,Africa/Algiers
+1441561,DZ,DZ-27,Sirat,سيرات,21677,3,Commune,UTC+1,Africa/Algiers
+1441564,DZ,DZ-35,Si Mustapha,سي مصطفى,12087,3,Commune,UTC+1,Africa/Algiers
+1441570,DZ,DZ-04,Sigus,سيقوس,17598,3,Commune,UTC+1,Africa/Algiers
+1441571,DZ,DZ-29,Sig,سيق,70499,3,Commune,UTC+1,Africa/Algiers
+1441579,DZ,DZ-32,Sidi Tifour,سيدي طيفور,5565,3,Commune,UTC+1,Africa/Algiers
+1441581,DZ,DZ-32,Sidi Slimane,سيدي سليمان,8461,3,Commune,UTC+1,Africa/Algiers
+1441585,DZ,DZ-43,Sidi Salah,Sidi Salah,4769,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441587,DZ,DZ-46,Sidi Safi,سيدي الصافي,7512,3,Commune,UTC+1,Africa/Algiers
+1441590,DZ,DZ-42,Sidi Rached,سيدي راشد,11062,3,Commune,UTC+1,Africa/Algiers
+1441592,DZ,DZ-07,Sidi Okba,سيدي عقبة، الجزائر,33509,3,Commune,UTC+1,Africa/Algiers
+1441594,DZ,DZ-15,Sidi Namane,سيدي نعمان,10688,3,locality,UTC+1,Africa/Algiers
+1441596,DZ,DZ-16,Sidi Moussa,سيدي موسى,47433,3,Commune,UTC+1,Africa/Algiers
+1441603,DZ,DZ-48,Sidi M'Hamed Ben Ali,سيدي امحمد بن علي,20096,3,Commune,UTC+1,Africa/Algiers
+1441604,DZ,DZ-21,Sidi Mezghiche,سيدي مزغيش,25593,3,Commune,UTC+1,Africa/Algiers
+1441606,DZ,DZ-43,Sidi Merouane,سيدي مروان,24109,3,Commune,UTC+1,Africa/Algiers
+1441607,DZ,DZ-13,Sidi Medjahed,سيدي مجاهد,7164,3,Commune,UTC+1,Africa/Algiers
+1441609,DZ,DZ-03,Sidi Makhlouf,سيدي مخلوف,12292,3,Commune,UTC+1,Africa/Algiers
+1441613,DZ,DZ-44,Sidi Lakhdar,سيدي الأخضر,27791,3,Commune,UTC+1,Africa/Algiers
+1441616,DZ,DZ-17,Sidi Ladjel,سيدي لعجال,13661,3,Commune,UTC+1,Africa/Algiers
+1441622,DZ,DZ-32,Sidi Khalifa,Sidi Khalifa,7444,3,Municipality,UTC+1,Africa/Algiers
+1441623,DZ,DZ-22,Sidi Khaled,سيدي خالد,7167,4,village,UTC+1,Africa/Algiers
+1441624,DZ,DZ-51,Sidi Khaled,سيدي خالد,50625,3,Commune,UTC+1,Africa/Algiers
+1441627,DZ,DZ-29,Sidi Kada,سيدي قادة,20614,3,Commune,UTC+1,Africa/Algiers
+1441628,DZ,DZ-14,Sidi Hosni,سيدي حسني,8325,3,Commune,UTC+1,Africa/Algiers
+1441630,DZ,DZ-22,Sidi Hamadouche,سيدي حمادوش,9968,3,Commune,UTC+1,Africa/Algiers
+1441634,DZ,DZ-42,Sidi Ghiles,سيدي غيلاس,15281,3,Commune,UTC+1,Africa/Algiers
+1441636,DZ,DZ-34,Sidi Embarek,سيدي امبارك,11641,3,Commune,UTC+1,Africa/Algiers
+1441643,DZ,DZ-13,Sidi Larbi,Sidi Larbi,3890,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441645,DZ,DZ-31,Sidi ech Chahmi,سيدي الشحمي,35512,3,locality,UTC+1,Africa/Algiers
+1441649,DZ,DZ-35,Sidi Daoud,سيدي داود,16900,3,Commune,UTC+1,Africa/Algiers
+1441652,DZ,DZ-34,Sidi Brahim,سيدي إبراهيم,10371,3,Commune,UTC+1,Africa/Algiers
+1441654,DZ,DZ-22,Sidi Brahim,قمبيطا,10371,4,town,UTC+1,Africa/Algiers
+1441661,DZ,DZ-44,Sidi Bouabida,سيدي بوعبيدة,5382,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441662,DZ,DZ-31,Sidi Benyebka,سيدي بن يبقى,7516,3,Commune,UTC+1,Africa/Algiers
+1441668,DZ,DZ-46,Sidi Ben Adda,سيدي بن عدة,13598,3,Commune,UTC+1,Africa/Algiers
+1441672,DZ,DZ-22,Sidi Bel Abbes,سيدي بلعباس,212935,2,Province Capital,UTC+1,Africa/Algiers
+1441674,DZ,DZ-31,Sidi Bakhti,سيدي بختي,7247,3,Commune,UTC+1,Africa/Algiers
+1441677,DZ,DZ-39,Sidi Aoun,سيدي عون,12235,3,Commune,UTC+1,Africa/Algiers
+1441678,DZ,DZ-57,Sidi Amrane,سيدي عمران,29734,3,Commune,UTC+1,Africa/Algiers
+1441681,DZ,DZ-32,Sidi Ameur,سيدي عامر,12629,3,Commune,UTC+1,Africa/Algiers
+1441684,DZ,DZ-20,Sidi Amar,سيدي اعمر,10906,4,village,UTC+1,Africa/Algiers
+1441687,DZ,DZ-22,Sidi Ali Boussidi,سيدي علي بوسيدي,9715,3,Commune,UTC+1,Africa/Algiers
+1441689,DZ,DZ-29,Sidi Ali Ben Yahia,Sidi Ali Ben Yahia,7639,3,Town,UTC+1,Africa/Algiers
+1441690,DZ,DZ-21,Sidi Ali,سيدي علي,37230,3,Commune,UTC+1,Africa/Algiers
+1441691,DZ,DZ-27,Sidi Ali,سيدي علي,37230,4,town,UTC+1,Africa/Algiers
+1441692,DZ,DZ-02,Sidi Akkacha,سيدي عكاشة,26577,3,Commune,UTC+1,Africa/Algiers
+1441695,DZ,DZ-28,Sidi Aissa,سيدي عيسى,70901,3,Commune,UTC+1,Africa/Algiers
+1441698,DZ,DZ-06,Sidi Aich,سيدي عيش,13775,3,Commune,UTC+1,Africa/Algiers
+1441701,DZ,DZ-13,Sidi Abdelli,سيدي العبدلي,23543,3,Commune,UTC+1,Africa/Algiers
+1441702,DZ,DZ-18,Sidi Abdelaziz,سيدي عبد العزيز,10153,3,Commune,UTC+1,Africa/Algiers
+1441709,DZ,DZ-22,Sfizef,سفيزف,29498,4,Town,UTC+1,Africa/Algiers
+1441710,DZ,DZ-32,Sfissifa,صفيصيفة,4576,3,Commune,UTC+1,Africa/Algiers
+1441713,DZ,DZ-18,Settara,السطارة,15155,3,Commune,UTC+1,Africa/Algiers
+1441714,DZ,DZ-19,Setif,سطيف,288461,2,Province Capital,UTC+1,Africa/Algiers
+1441717,DZ,DZ-05,Seriana,سريانة,15445,3,Commune,UTC+1,Africa/Algiers
+1441720,DZ,DZ-23,Seraidi,سرايدي,7626,3,Commune,UTC+1,Africa/Algiers
+1441723,DZ,DZ-02,Sendjas,سنجاس,29043,3,Commune,UTC+1,Africa/Algiers
+1441726,DZ,DZ-06,Semaoun,سمعون,13616,3,Commune,UTC+1,Africa/Algiers
+1441728,DZ,DZ-17,Selmana,سلمانة,19471,3,Commune,UTC+1,Africa/Algiers
+1441733,DZ,DZ-05,Seggana,سقانة,5769,3,Commune,UTC+1,Africa/Algiers
+1441735,DZ,DZ-41,Sedrata,سدراتة,53268,3,Commune,UTC+1,Africa/Algiers
+1441740,DZ,DZ-06,Seddouk,صدوق,20229,3,Commune,UTC+1,Africa/Algiers
+1441741,DZ,DZ-26,Aziz,عزيز,12500,3,Commune,UTC+1,Africa/Algiers
+1441743,DZ,DZ-13,Sebdou,سبدو,39800,3,Commune,UTC+1,Africa/Algiers
+1441751,DZ,DZ-01,Sbaa,السبع,1875,4,hamlet,UTC+1,Africa/Algiers
+1441752,DZ,DZ-27,Sayada,صيادة,28675,3,Commune,UTC+1,Africa/Algiers
+1441754,DZ,DZ-16,Saoula,السحاولة,16812,3,Commune,UTC+1,Africa/Algiers
+1441755,DZ,DZ-26,Saneg,سانق,4487,3,Commune,UTC+1,Africa/Algiers
+1441758,DZ,DZ-01,Sali,سالي,8543,3,Commune,UTC+1,Africa/Algiers
+1441760,DZ,DZ-21,Salah Bouchaour,صالح بوالشعور,29764,3,Commune,UTC+1,Africa/Algiers
+1441761,DZ,DZ-19,Salah Bey,صالح باي,23339,3,Commune,UTC+1,Africa/Algiers
+1441775,DZ,DZ-20,Saida,سعيدة,142497,2,Urban Settlement,UTC+1,Africa/Algiers
+1441777,DZ,DZ-31,Sahouria,Sahouria,7185,3,Urban Settlement,UTC+1,Africa/Algiers
+1441784,DZ,DZ-13,Sabra,صبرة,28555,3,Commune,UTC+1,Africa/Algiers
+1441794,DZ,DZ-30,Rouissat,الرويسات,69448,3,Commune,UTC+1,Africa/Algiers
+1441795,DZ,DZ-44,Rouina,الروينة,21572,3,Commune,UTC+1,Africa/Algiers
+1441796,DZ,DZ-16,Rouiba,الرويبة,89771,3,Urban Settlement,UTC+1,Africa/Algiers
+1441800,DZ,DZ-43,Rouached,الرواشد,33675,3,Commune,UTC+1,Africa/Algiers
+1441803,DZ,DZ-31,Roseville,Roseville,272858,3,Community Development Block,UTC+1,Africa/Algiers
+1441804,DZ,DZ-24,Roknia,بلدية الركنية,9752,3,Commune,UTC+1,Africa/Algiers
+1441805,DZ,DZ-39,Robbah,الرباح,30446,3,Commune,UTC+1,Africa/Algiers
+1441840,DZ,DZ-13,Remchi,الرمشي,46999,3,Commune,UTC+1,Africa/Algiers
+1441841,DZ,DZ-48,Relizane,غليزان,130094,2,Province Capital,UTC+1,Africa/Algiers
+1441845,DZ,DZ-39,Reguiba,الرقيبة,40367,3,Commune,UTC+1,Africa/Algiers
+1441847,DZ,DZ-16,Reghaia,بلدية الرغاية,54962,3,Commune,UTC+1,Africa/Algiers
+1441849,DZ,DZ-01,Reggane,رقان,20402,3,Commune,UTC+1,Africa/Algiers
+1441851,DZ,DZ-43,Redjas,رجاص,13883,3,Urban Settlement,UTC+1,Africa/Algiers
+1441852,DZ,DZ-14,Rechaiga,الرشايقة,19830,3,Commune,UTC+1,Africa/Algiers
+1441854,DZ,DZ-26,Rebaia,الربعية,5346,3,Commune,UTC+1,Africa/Algiers
+1441859,DZ,DZ-34,Ras el Oued,رأس الوادي,51482,3,Commune,UTC+1,Africa/Algiers
+1441860,DZ,DZ-21,Ras el Ma,رأس الماء,18644,3,Commune,UTC+1,Africa/Algiers
+1441862,DZ,DZ-22,Ras el Ma,رأس الماء,14862,4,town,UTC+1,Africa/Algiers
+1441865,DZ,DZ-05,Ras el Aioun,رأس العيون,34167,3,Commune,UTC+1,Africa/Algiers
+1441870,DZ,DZ-48,Ramka,الرمكة,5138,3,Commune,UTC+1,Africa/Algiers
+1441873,DZ,DZ-14,Rahouia,الرحوية,24983,3,Commune,UTC+1,Africa/Algiers
+1441876,DZ,DZ-04,Rahia,الرحية,2711,3,Commune,UTC+1,Africa/Algiers
+1441879,DZ,DZ-34,Rabta,الرابطة,11012,3,Commune,UTC+1,Africa/Algiers
+1441886,DZ,DZ-16,Rais Hamidou,الرئيس حميدو,29226,3,Commune,UTC+1,Africa/Algiers
+1441895,DZ,DZ-15,Ain Zaouia,عين الزاوية,17320,3,Commune,UTC+1,Africa/Algiers
+1441901,DZ,DZ-26,Ouzera,وزرة,12650,3,Commune,UTC+1,Africa/Algiers
+1441906,DZ,DZ-07,Ourlal,أورلال,7444,3,Commune,UTC+1,Africa/Algiers
+1441921,DZ,DZ-02,Oum Drou,أم الذروع,21326,3,Commune,UTC+1,Africa/Algiers
+1441928,DZ,DZ-04,Oum el Bouaghi,أم البواقي,98615,2,Province Capital,UTC+1,Africa/Algiers
+1441932,DZ,DZ-12,Oum Ali,أم علي، الجزائر,3744,3,Commune,UTC+1,Africa/Algiers
+1441933,DZ,DZ-07,Oumache,أوماش,10424,3,Commune,UTC+1,Africa/Algiers
+1441940,DZ,DZ-44,Ain Bouyahia,عين بويحيى,16213,3,Commune,UTC+1,Africa/Algiers
+1441943,DZ,DZ-17,Ouled Slimane,أولاد سليمان,4116,3,Commune,UTC+1,Africa/Algiers
+1441945,DZ,DZ-09,Ouled Slama Fouaga,Ouled Slama Fouaga,27573,3,locality,UTC+1,Africa/Algiers
+1441962,DZ,DZ-35,Ouled Salem,اولاد سالم,4309,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1441967,DZ,DZ-26,Ouled Said,أولاد السعيد,8219,3,Commune,UTC+1,Africa/Algiers
+1441973,DZ,DZ-25,Ouled Rahmoun,أولاد رحمون,26132,4,town,UTC+1,Africa/Algiers
+1441974,DZ,DZ-10,Ouled Rached,أولاد راشد,9311,3,Commune,UTC+1,Africa/Algiers
+1441975,DZ,DZ-26,Ouled Rabah,أولاد رابح,10681,3,Commune,UTC+1,Africa/Algiers
+1441980,DZ,DZ-35,Ouled Moussa,أولاد موسى,45770,3,Commune,UTC+1,Africa/Algiers
+1441986,DZ,DZ-13,Ouled Mimoun,أولاد ميمون,26389,3,Commune,UTC+1,Africa/Algiers
+1442000,DZ,DZ-26,Ouled Koulla,Ouled Koulla,67864,3,Municipality,UTC+1,Africa/Algiers
+1442002,DZ,DZ-20,Ouled Khaled,أولاد خالد,30484,3,Commune,UTC+1,Africa/Algiers
+1442009,DZ,DZ-04,Ouled Hamla,أولاد حملة,13112,3,Commune,UTC+1,Africa/Algiers
+1442012,DZ,DZ-35,Ouled Haddaj,Ouled Haddaj,29012,3,locality,UTC+1,Africa/Algiers
+1442014,DZ,DZ-16,Ouled Fayet,أولاد فايت,27593,3,Commune,UTC+1,Africa/Algiers
+1442015,DZ,DZ-02,Ouled Fares,أولاد فارس,34891,3,Commune,UTC+1,Africa/Algiers
+1442026,DZ,DZ-02,Ouled Djillali,Ouled Djillali,4484,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1442027,DZ,DZ-51,Ouled Djellal,أولاد جلال,63237,2,Commune,UTC+1,Africa/Algiers
+1442028,DZ,DZ-28,Selmane,أولاد دراج,15043,3,Urban Settlement,UTC+1,Africa/Algiers
+1442033,DZ,DZ-16,Ouled Chebel,أولاد شبل,20006,3,Commune,UTC+1,Africa/Algiers
+1442037,DZ,DZ-35,Ouled Brahim,أولاد إبراهيم,19711,3,Commune,UTC+1,Africa/Algiers
+1442039,DZ,DZ-26,Ouled Brahim,أولاد إبراهيم، الجزائر,10847,4,village,UTC+1,Africa/Algiers
+1442048,DZ,DZ-38,Ouled Bessem,أولاد بسام,10839,3,Commune,UTC+1,Africa/Algiers
+1442073,DZ,DZ-48,Ouled Aiche,أولاد يعيش,8916,3,Commune,UTC+1,Africa/Algiers
+1442074,DZ,DZ-17,Ouled Attia,أولاد عطية,10851,3,Commune,UTC+1,Africa/Algiers
+1442077,DZ,DZ-10,Ouled Amara,Ouled Amara,4030,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1442082,DZ,DZ-02,Ouled Allal,Ouled Allal,6116,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1442087,DZ,DZ-35,Ouled Ali,أولاد علي,3487,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1442090,DZ,DZ-26,Ouled Aissa,أولاد عيسى,7685,3,Commune,UTC+1,Africa/Algiers
+1442104,DZ,DZ-02,Ouled Abbes,أولاد عباس,8578,3,Commune,UTC+1,Africa/Algiers
+1442158,DZ,DZ-49,Oulad Said,أولاد السعيد,3357,4,village,UTC+1,Africa/Algiers
+1442160,DZ,DZ-26,Oulad Rhenam,Oulad Rhenam,16933,3,Census Town,UTC+1,Africa/Algiers
+1442243,DZ,DZ-10,Ouled Sidi Brahim,أولاد سيدي إبراهيم,49803,3,Commune,UTC+1,Africa/Algiers
+1442246,DZ,DZ-18,Oulad Bou Renane,Oulad Bou Renane,5400,3,Census Town,UTC+1,Africa/Algiers
+1442251,DZ,DZ-46,Oulad Bou en Nouar,Oulad Bou en Nouar,7049,3,Census Town,UTC+1,Africa/Algiers
+1442266,DZ,DZ-02,Oulad Ben Ali,Oulad Ben Ali,18195,3,Census Town,UTC+1,Africa/Algiers
+1442306,DZ,DZ-35,Oulad Aissa,أولاد عيسى,9933,3,Census Town,UTC+1,Africa/Algiers
+1442310,DZ,DZ-49,Oulad Aissa,أولاد عيسى,1350,4,locality,UTC+1,Africa/Algiers
+1442322,DZ,DZ-07,Oulach,Oulach,73007,3,Census Town,UTC+1,Africa/Algiers
+1442328,DZ,DZ-19,Ougrina,أوقرينة,10126,3,Census Town,UTC+1,Africa/Algiers
+1442331,DZ,DZ-12,Ouenza,الونزة,52737,3,Commune,UTC+1,Africa/Algiers
+1442333,DZ,DZ-24,Oued Zenati,وادي الزناتي,30156,3,Commune,UTC+1,Africa/Algiers
+1442335,DZ,DZ-39,Oued Touati,Oued Touati,7585,3,Census Town,UTC+1,Africa/Algiers
+1442337,DZ,DZ-31,Oued Tlelat,وادي تليلات,18891,3,Commune,UTC+1,Africa/Algiers
+1442338,DZ,DZ-29,Oued Taria,وادي تاغية,15901,3,Commune,UTC+1,Africa/Algiers
+1442339,DZ,DZ-05,Oued Taga,وادي الطاقة,18116,3,Commune,UTC+1,Africa/Algiers
+1442340,DZ,DZ-16,Oued Smar,وادي السمار,32062,3,Commune,UTC+1,Africa/Algiers
+1442341,DZ,DZ-02,Oued Sly,وادي سلي,38876,3,Commune,UTC+1,Africa/Algiers
+1442345,DZ,DZ-48,Oued Rhiou,وادي ارهيو,63718,3,Commune,UTC+1,Africa/Algiers
+1442346,DZ,DZ-03,Oued Morra,وادي مرة,5700,3,Commune,UTC+1,Africa/Algiers
+1442349,DZ,DZ-28,Oued Ksob,واد القصب,6690,3,Urban Settlement,UTC+1,Africa/Algiers
+1442350,DZ,DZ-06,Oued Ghir,وادي غير,19345,3,Commune,UTC+1,Africa/Algiers
+1442352,DZ,DZ-02,Oued Fodda,وادي الفضة,43117,3,Commune,UTC+1,Africa/Algiers
+1442353,DZ,DZ-48,Oued Essalem,واد السلام,9319,3,Commune,UTC+1,Africa/Algiers
+1442354,DZ,DZ-05,Oued el Ma,وادي الماء,20288,3,Commune,UTC+1,Africa/Algiers
+1442355,DZ,DZ-27,Oued el Kheir,واد الخير,17359,3,Commune,UTC+1,Africa/Algiers
+1442357,DZ,DZ-48,Oued el Djemaa,وادي الجمعة,23480,3,Commune,UTC+1,Africa/Algiers
+1442358,DZ,DZ-23,Oued el Aneb,وادي العنب,21088,3,Commune,UTC+1,Africa/Algiers
+1442359,DZ,DZ-09,Oued el Alleug,وادي العلايق,21146,4,Town,UTC+1,Africa/Algiers
+1442361,DZ,DZ-29,Oued el Abtal,وادي الأبطال,22049,3,Commune,UTC+1,Africa/Algiers
+1442364,DZ,DZ-24,Oued Cheham,وادي الشحم,14043,3,Commune,UTC+1,Africa/Algiers
+1442365,DZ,DZ-46,Oued Berkeche,وادي برقش,4192,3,Commune,UTC+1,Africa/Algiers
+1442366,DZ,DZ-06,Oued Bel Kassem,Oued Bel Kassem,3984,4,village,UTC+1,Africa/Algiers
+1442378,DZ,DZ-48,Ouarizane,واريزان,20069,3,Commune,UTC+1,Africa/Algiers
+1442379,DZ,DZ-30,Ouargla,ورقلة,169928,2,Urban Settlement,UTC+1,Africa/Algiers
+1442381,DZ,DZ-26,Ouamri,وامري,16989,3,Commune,UTC+1,Africa/Algiers
+1442387,DZ,DZ-15,Ouadhia,واضية,15771,3,Commune,UTC+1,Africa/Algiers
+1442390,DZ,DZ-31,Oran,وهران,803329,2,Urban Settlement,UTC+1,Africa/Algiers
+1442393,DZ,DZ-29,Oggaz,عقاز,11140,3,Commune,UTC+1,Africa/Algiers
+1442400,DZ,DZ-30,N'Goussa,النقوسة,16581,3,Commune,UTC+1,Africa/Algiers
+1442401,DZ,DZ-05,N'Gaous,نقاوس,29504,3,Commune,UTC+1,Africa/Algiers
+1442407,DZ,DZ-12,Negrine,نقرين,9445,3,Commune,UTC+1,Africa/Algiers
+1442408,DZ,DZ-13,Nedroma,ندرومة,32498,3,Commune,UTC+1,Africa/Algiers
+1442415,DZ,DZ-39,Nakhla,النخلة,12652,3,Commune,UTC+1,Africa/Algiers
+1442421,DZ,DZ-42,Nador,الناظور،تيبازة,9588,3,Commune,UTC+1,Africa/Algiers
+1442423,DZ,DZ-35,Naciria,الناصرية، بومرداس,22431,3,Commune,UTC+1,Africa/Algiers
+1442424,DZ,DZ-26,Djouab,جواب,9901,3,Commune,UTC+1,Africa/Algiers
+1442425,DZ,DZ-45,Naama,النعامة,16251,2,Province Capital,UTC+1,Africa/Algiers
+1442435,DZ,DZ-40,M'Toussa,متوسة,5981,3,Commune,UTC+1,Africa/Algiers
+1442437,DZ,DZ-28,M'Sila,المسيلة,144811,2,Province Capital,UTC+1,Africa/Algiers
+1442448,DZ,DZ-09,Mouzaia,موزاية,32981,3,Commune,UTC+1,Africa/Algiers
+1442455,DZ,DZ-22,Moulay Slissen,مولاي سليسن,5672,3,Commune,UTC+1,Africa/Algiers
+1442456,DZ,DZ-20,Moulay Larbi,مولاي العربي,11066,3,Commune,UTC+1,Africa/Algiers
+1442465,DZ,DZ-27,Mostaganem,مستغانم,162885,2,Urban Settlement,UTC+1,Africa/Algiers
+1442467,DZ,DZ-12,Morsott,مرسط,17238,3,Commune,UTC+1,Africa/Algiers
+1442478,DZ,DZ-29,Mohammadia,المحمدية,84700,3,Commune,UTC+1,Africa/Algiers
+1442479,DZ,DZ-45,Moghrar,مغرار,3991,3,Commune,UTC+1,Africa/Algiers
+1442481,DZ,DZ-29,Mocta Douz,مقطع دوز,9105,3,Commune,UTC+1,Africa/Algiers
+1442484,DZ,DZ-07,M'Lili,مليلي,6497,3,Commune,UTC+1,Africa/Algiers
+1442491,DZ,DZ-31,Misserghin,مسرغين,25999,3,Commune,UTC+1,Africa/Algiers
+1442494,DZ,DZ-44,Miliana,مليانة,44201,3,Commune,UTC+1,Africa/Algiers
+1442495,DZ,DZ-43,Mila,ميلة,69052,2,Province Capital,UTC+1,Africa/Algiers
+1442502,DZ,DZ-19,Mezloug,مزلوق,11629,3,Commune,UTC+1,Africa/Algiers
+1442505,DZ,DZ-22,Mezaourou,مزاورو,6870,3,Commune,UTC+1,Africa/Algiers
+1442508,DZ,DZ-47,Metlili Chaamba,متليلي الشعانبة,44853,3,locality,UTC+1,Africa/Algiers
+1442509,DZ,DZ-03,Metlili,متليلي,40576,3,Commune,UTC+1,Africa/Algiers
+1442510,DZ,DZ-05,Metkaouak,المتكوك,14304,3,Commune,UTC+1,Africa/Algiers
+1442511,DZ,DZ-49,Metarfa,المطارفة,1262,3,Commune,UTC+1,Africa/Algiers
+1442520,DZ,DZ-42,Messelmoun,مسلمون,7564,3,Commune,UTC+1,Africa/Algiers
+1442523,DZ,DZ-17,Messaad,مسعد,102453,3,Commune,UTC+1,Africa/Algiers
+1442525,DZ,DZ-27,Mesra,ماسرة,25196,3,Commune,UTC+1,Africa/Algiers
+1442527,DZ,DZ-04,Meskiana,مسكيانة,30071,3,Commune,UTC+1,Africa/Algiers
+1442531,DZ,DZ-31,Mers el Kebir,بلدية المرسى الكبير,19068,3,Commune,UTC+1,Africa/Algiers
+1442537,DZ,DZ-05,Merouana,مروانة,47646,3,Commune,UTC+1,Africa/Algiers
+1442539,DZ,DZ-22,Merine,مرين,7705,3,Commune,UTC+1,Africa/Algiers
+1442540,DZ,DZ-08,Meridja,مريجة,592,3,Commune,UTC+1,Africa/Algiers
+1442547,DZ,DZ-42,Merad,مَراد,19916,3,Commune,UTC+1,Africa/Algiers
+1442548,DZ,DZ-21,Menzel el Abtal,منزل الأبطال,5380,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1442550,DZ,DZ-48,Mendes,منداس,15127,3,Commune,UTC+1,Africa/Algiers
+1442554,DZ,DZ-42,Menaceur,مناصر,32580,3,Commune,UTC+1,Africa/Algiers
+1442555,DZ,DZ-05,Menaa,منعة,13510,3,Commune,UTC+1,Africa/Algiers
+1442556,DZ,DZ-28,Melouza,ملوزة,25701,3,Urban Settlement,UTC+1,Africa/Algiers
+1442559,DZ,DZ-06,Mellala,Mellala,7229,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1442560,DZ,DZ-14,Mellakou,ملاكو,13107,3,Commune,UTC+1,Africa/Algiers
+1442565,DZ,DZ-38,Melaab,الملعب,3447,3,Commune,UTC+1,Africa/Algiers
+1442567,DZ,DZ-15,Mekla,مقلع,24237,3,Commune,UTC+1,Africa/Algiers
+1442573,DZ,DZ-07,Mekhadma,مخادمة,5425,3,Commune,UTC+1,Africa/Algiers
+1442578,DZ,DZ-14,Mehdia daira de meghila,مهدية,35334,3,locality,UTC+1,Africa/Algiers
+1442581,DZ,DZ-55,Megarine,مقارين،ورقلة,31711,3,Commune,UTC+1,Africa/Algiers
+1442582,DZ,DZ-09,Meftah,مفتاح,62484,3,Commune,UTC+1,Africa/Algiers
+1442583,DZ,DZ-14,Medroussa,مدروسة,11428,3,Commune,UTC+1,Africa/Algiers
+1442584,DZ,DZ-14,Medrissa,مدريسة,15293,3,Commune,UTC+1,Africa/Algiers
+1442586,DZ,DZ-24,Medjez Sfa,مجاز الصفاء,7707,3,Commune,UTC+1,Africa/Algiers
+1442588,DZ,DZ-28,Medjedel,امجدل,23022,3,Urban Settlement,UTC+1,Africa/Algiers
+1442589,DZ,DZ-34,Medjana,مجانة,22402,3,Commune,UTC+1,Africa/Algiers
+1442590,DZ,DZ-44,Mediouna,مديونة,30744,3,Commune,UTC+1,Africa/Algiers
+1442591,DZ,DZ-48,Mediouna,مديونة,30744,4,town,UTC+1,Africa/Algiers
+1442592,DZ,DZ-05,Medina,المدينة المنورة,4753,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1442593,DZ,DZ-26,Medea,المدية,146574,2,Urban Settlement,UTC+1,Africa/Algiers
+1442594,DZ,DZ-15,Mechtras,مشطراس,12683,3,Commune,UTC+1,Africa/Algiers
+1442947,DZ,DZ-05,Draa Klalouche,ذراع قلالوش,5000,3,locality,UTC+1,Africa/Algiers
+1443367,DZ,DZ-25,Mechtat Barbaiga,Mechtat Barbaïga,19578,3,Census Town,UTC+1,Africa/Algiers
+1443376,DZ,DZ-19,Mechta Asnina,Mechta Asnina,4074,3,Census Town,UTC+1,Africa/Algiers
+1443377,DZ,DZ-19,Mechta Arras,Mechta Arras,6512,3,Census Town,UTC+1,Africa/Algiers
+1443431,DZ,DZ-41,Mechroha,المشروحة,21802,3,Commune,UTC+1,Africa/Algiers
+1443437,DZ,DZ-45,Mecheria,المشرية,65043,3,hamlet,UTC+1,Africa/Algiers
+1443442,DZ,DZ-41,M'Daourouch,مداوروش,41343,3,Commune,UTC+1,Africa/Algiers
+1443443,DZ,DZ-05,M'Cil,M’Cil,3915,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443444,DZ,DZ-07,M'Chouneche,مشونش,10107,3,Commune,UTC+1,Africa/Algiers
+1443446,DZ,DZ-10,M'Chedallah,مشدا الله,24985,3,Commune,UTC+1,Africa/Algiers
+1443451,DZ,DZ-48,Mazouna,مازونة,24205,3,Commune,UTC+1,Africa/Algiers
+1443454,DZ,DZ-27,Mazagran,مزغران,22016,3,Commune,UTC+1,Africa/Algiers
+1443458,DZ,DZ-38,Matmata,Matmata,3549,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443459,DZ,DZ-29,Matemore,مطمور,15170,3,Commune,UTC+1,Africa/Algiers
+1443462,DZ,DZ-29,Mascara,معسكر,108629,2,Urban Settlement,UTC+1,Africa/Algiers
+1443466,DZ,DZ-22,Marhoum,مرحوم,5383,3,Commune,UTC+1,Africa/Algiers
+1443470,DZ,DZ-29,Maoussa,ماوسة,15596,3,Commune,UTC+1,Africa/Algiers
+1443474,DZ,DZ-34,Mansourah,المنصورة,22117,3,Commune,UTC+1,Africa/Algiers
+1443475,DZ,DZ-13,Mansoura,المنصورة,52285,3,Commune,UTC+1,Africa/Algiers
+1443484,DZ,DZ-15,Makouda,ماكودة,28952,3,Commune,UTC+1,Africa/Algiers
+1443495,DZ,DZ-16,Mahelma,المعالمة,20758,3,Commune,UTC+1,Africa/Algiers
+1443501,DZ,DZ-36,Magra,مقرة,39250,3,Commune,UTC+1,Africa/Algiers
+1443502,DZ,DZ-28,Magra,مقرة,39250,4,town,UTC+1,Africa/Algiers
+1443506,DZ,DZ-13,Maghnia,مغنية,114634,3,Commune,UTC+1,Africa/Algiers
+1443515,DZ,DZ-05,Maafa,معافة,2880,3,Commune,UTC+1,Africa/Algiers
+1443525,DZ,DZ-07,Lioua,ليوة,21416,3,Commune,UTC+1,Africa/Algiers
+1443527,DZ,DZ-07,Lichana,ليشانة,9852,3,Commune,UTC+1,Africa/Algiers
+1443529,DZ,DZ-48,Yellel,يلل,38101,3,Commune,UTC+1,Africa/Algiers
+1443538,DZ,DZ-35,Les Issers,يسر,32580,4,locality,UTC+1,Africa/Algiers
+1443540,DZ,DZ-02,Heumis,حميس,4070,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443542,DZ,DZ-26,El Azizia,العزيزية,8432,3,Commune,UTC+1,Africa/Algiers
+1443574,DZ,DZ-15,L'Arbaa Nait Irathen,الأربعاء نايث إيراثن,30609,4,isolated_dwelling,UTC+1,Africa/Algiers
+1443575,DZ,DZ-09,Larbaa,لارباع,76559,3,Commune,UTC+1,Africa/Algiers
+1443578,DZ,DZ-22,Lamtar,لمطار,7530,3,Commune,UTC+1,Africa/Algiers
+1443587,DZ,DZ-10,Lakhdaria,الأخضرية,59746,3,Commune,UTC+1,Africa/Algiers
+1443590,DZ,DZ-48,Lahlef,لحلاف,10264,3,Commune,UTC+1,Africa/Algiers
+1443592,DZ,DZ-03,Laghouat,الأغواط,139560,2,Province Capital,UTC+1,Africa/Algiers
+1443595,DZ,DZ-38,Laayoune,العيون,196331,3,village,UTC+1,Africa/Algiers
+1443598,DZ,DZ-34,Ksour,القصور,11814,3,Commune,UTC+1,Africa/Algiers
+1443605,DZ,DZ-04,Ksar Sbahi,قصر صباحي,11833,3,Commune,UTC+1,Africa/Algiers
+1443610,DZ,DZ-03,Ksar el Hirane,قصر الحيران,23841,3,Commune,UTC+1,Africa/Algiers
+1443612,DZ,DZ-26,Ksar el Boukhari,قصر البخاري,72490,3,Commune,UTC+1,Africa/Algiers
+1443615,DZ,DZ-14,Ksar Chellala,قصر الشلالة,52753,3,Commune,UTC+1,Africa/Algiers
+1443620,DZ,DZ-31,Kristel,كريشتل,3072,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443626,DZ,DZ-39,Kouinine,كوينين,10076,3,Commune,UTC+1,Africa/Algiers
+1443633,DZ,DZ-42,Kolea,القليعة,61643,3,Urban Settlement,UTC+1,Africa/Algiers
+1443637,DZ,DZ-16,Khraicia,بلدية خرايسية,27910,3,Commune,UTC+1,Africa/Algiers
+1443639,DZ,DZ-06,Kherrata,خراطة,17542,3,Commune,UTC+1,Africa/Algiers
+1443643,DZ,DZ-44,El Amra,العامرة,31073,3,Commune,UTC+1,Africa/Algiers
+1443646,DZ,DZ-40,Khenchela,خنشلة,115736,2,Urban Settlement,UTC+1,Africa/Algiers
+1443649,DZ,DZ-38,Khemisti,خميستي,22900,3,Commune,UTC+1,Africa/Algiers
+1443650,DZ,DZ-44,Khemis Miliana,خميس مليانة,84574,3,Commune,UTC+1,Africa/Algiers
+1443651,DZ,DZ-35,Khemis el Khechna,خميس الخشنة,75962,3,Commune,UTC+1,Africa/Algiers
+1443655,DZ,DZ-06,Khelil,خليل,26037,3,Commune,UTC+1,Africa/Algiers
+1443656,DZ,DZ-34,Khelil,خلـيل,15000,4,village,UTC+1,Africa/Algiers
+1443665,DZ,DZ-29,Khalouia,خلوية، معسكر,6159,3,Commune,UTC+1,Africa/Algiers
+1443667,DZ,DZ-20,Khalfallah,Khalfallah,3755,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443669,DZ,DZ-27,Khadra,خضرة,14045,3,Commune,UTC+1,Africa/Algiers
+1443671,DZ,DZ-52,Kerzaz,كرزاز,5028,3,Commune,UTC+1,Africa/Algiers
+1443674,DZ,DZ-21,Kerkera,الكركرة,27177,3,Commune,UTC+1,Africa/Algiers
+1443680,DZ,DZ-08,Kenadsa,القنادسة,13492,3,Commune,UTC+1,Africa/Algiers
+1443689,DZ,DZ-35,Keddara,Keddara,3115,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443690,DZ,DZ-46,Kedadra,Kedadra,5402,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443700,DZ,DZ-18,Kaous,قاوس,26137,3,Commune,UTC+1,Africa/Algiers
+1443701,DZ,DZ-21,Kanoua,قنواع,6995,3,Commune,UTC+1,Africa/Algiers
+1443704,DZ,DZ-48,Kalaa,القلعة,11659,3,Commune,UTC+1,Africa/Algiers
+1443705,DZ,DZ-40,Kais,قايس,32668,3,Commune,UTC+1,Africa/Algiers
+1443709,DZ,DZ-10,Kadiria,قادرية,22327,3,Commune,UTC+1,Africa/Algiers
+1443714,DZ,DZ-18,Jijel,جيجل,134839,2,Province Capital,UTC+1,Africa/Algiers
+1443715,DZ,DZ-48,Djidiouia,جديوية,31996,3,locality,UTC+1,Africa/Algiers
+1443769,DZ,DZ-54,In Guezzam,عين قزام,7045,2,Commune,UTC+1,Africa/Algiers
+1443780,DZ,DZ-33,Illizi,إليزي,15141,2,Province Capital,UTC+1,Africa/Algiers
+1443804,DZ,DZ-52,Igli,إقلي,6758,3,Commune,UTC+1,Africa/Algiers
+1443805,DZ,DZ-06,Ighram,آغرام,15030,3,Commune,UTC+1,Africa/Algiers
+1443806,DZ,DZ-06,Ifri,إفري,3425,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443809,DZ,DZ-15,Iflissen,إفليسن,14311,3,Commune,UTC+1,Africa/Algiers
+1443810,DZ,DZ-15,Ifigha,إيفيغاء,9160,3,Commune,UTC+1,Africa/Algiers
+1443811,DZ,DZ-15,Iferhounene,إيفرحونن,12460,3,Commune,UTC+1,Africa/Algiers
+1443839,DZ,DZ-13,Hennaya,الحناية,33356,3,Commune,UTC+1,Africa/Algiers
+1443844,DZ,DZ-24,Heliopolis,هيليوبوليس,40139,3,Commune,UTC+1,Africa/Algiers
+1443848,DZ,DZ-03,Hassi R'mel,حاسي الرمل,22133,3,Commune,UTC+1,Africa/Algiers
+1443851,DZ,DZ-30,Hassi Messaoud,حاسي مسعود,45147,3,Commune,UTC+1,Africa/Algiers
+1443853,DZ,DZ-31,Hassi Mefsoukh,حاسي مفسوخ,12346,3,Commune,UTC+1,Africa/Algiers
+1443857,DZ,DZ-46,Hassi el Ghella,حاسي الغلة,11700,3,Commune,UTC+1,Africa/Algiers
+1443859,DZ,DZ-31,Assi Bou Nif,Assi Bou Nif,53700,3,locality,UTC+1,Africa/Algiers
+1443863,DZ,DZ-17,Hassi Bahbah,حاسي بحبح,86421,3,Commune,UTC+1,Africa/Algiers
+1443867,DZ,DZ-48,Hassasna,الحساسنة,4039,3,Commune,UTC+1,Africa/Algiers
+1443891,DZ,DZ-19,Hammam Sokhna,حمام السخنة,13439,4,town,UTC+1,Africa/Algiers
+1443894,DZ,DZ-44,Hammam Righa,حمام ريغة,8488,3,Commune,UTC+1,Africa/Algiers
+1443898,DZ,DZ-09,Hammam Melouane,حمام ملوان,6076,3,Commune,UTC+1,Africa/Algiers
+1443900,DZ,DZ-19,Hammam Guergour,حمام قرقور,15853,3,Commune,UTC+1,Africa/Algiers
+1443901,DZ,DZ-12,Hammamet,الحمامات,28536,3,Commune,UTC+1,Africa/Algiers
+1443905,DZ,DZ-46,Hammam Bou Hadjar,حمام أبو حجر,34549,3,Commune,UTC+1,Africa/Algiers
+1443906,DZ,DZ-13,Hammam Boughrara,حمام بوغرارة,11444,3,Commune,UTC+1,Africa/Algiers
+1443909,DZ,DZ-25,Hamma Bouziane,حامة بوزيان,81778,3,Urban Settlement,UTC+1,Africa/Algiers
+1443920,DZ,DZ-43,Hamala,الهملة,11213,3,Commune,UTC+1,Africa/Algiers
+1443922,DZ,DZ-14,Hamadia,حمادية,16463,3,Commune,UTC+1,Africa/Algiers
+1443930,DZ,DZ-42,Hadjout,حجوط,33830,3,Commune,UTC+1,Africa/Algiers
+1443938,DZ,DZ-27,Hadjadj,حجاج,17330,3,Commune,UTC+1,Africa/Algiers
+1443940,DZ,DZ-29,Hacine,حسين، معسكر,10473,3,Commune,UTC+1,Africa/Algiers
+1443948,DZ,DZ-14,Guertoufa,قرطوفة,6658,3,Commune,UTC+1,Africa/Algiers
+1443951,DZ,DZ-05,Guernini,قرنيني,4594,3,Commune,UTC+1,Africa/Algiers
+1443952,DZ,DZ-09,Guergour,Guergoûr,2017,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1443955,DZ,DZ-47,Guerara,القرارة,58572,3,locality,UTC+1,Africa/Algiers
+1443956,DZ,DZ-19,Guenzet,قنزات,3541,3,Commune,UTC+1,Africa/Algiers
+1443960,DZ,DZ-06,Guendouz,قندوز,11247,3,Urban Settlement,UTC+1,Africa/Algiers
+1443964,DZ,DZ-39,Guemar,قمار,48413,3,Urban Settlement,UTC+1,Africa/Algiers
+1443967,DZ,DZ-03,Gueltat Sidi Saad,قلتة سيدي سعد,12567,3,Commune,UTC+1,Africa/Algiers
+1443968,DZ,DZ-24,Guelma,ڤالمة,122219,2,Province Capital,UTC+1,Africa/Algiers
+1443969,DZ,DZ-19,Guellal,قلال,21385,3,Commune,UTC+1,Africa/Algiers
+1443981,DZ,DZ-43,Grarem,القرارم قوقة,28551,3,locality,UTC+1,Africa/Algiers
+1443983,DZ,DZ-09,Graba,Graba,12252,3,Urban Settlement,UTC+1,Africa/Algiers
+1443984,DZ,DZ-42,Gouraya,قوراية,10076,3,Commune,UTC+1,Africa/Algiers
+1443991,DZ,DZ-05,Gosbat,القصبات,17074,3,Commune,UTC+1,Africa/Algiers
+1443992,DZ,DZ-29,Ghriss,غريس,28823,3,Commune,UTC+1,Africa/Algiers
+1443993,DZ,DZ-13,Ghazaouet,الغزوات,31104,3,Commune,UTC+1,Africa/Algiers
+1443994,DZ,DZ-32,Ghassoul,الغاسول,7880,3,Commune,UTC+1,Africa/Algiers
+1443995,DZ,DZ-47,Ghardaia,غرداية,142913,2,Urban Settlement,UTC+1,Africa/Algiers
+1443996,DZ,DZ-31,Gdyel,قديل,35045,3,Commune,UTC+1,Africa/Algiers
+1444002,DZ,DZ-29,Froha,فروحة,13769,3,Commune,UTC+1,Africa/Algiers
+1444004,DZ,DZ-14,Frenda,فرندة,54162,3,Commune,UTC+1,Africa/Algiers
+1444005,DZ,DZ-15,Freha,فريحة,27648,3,Commune,UTC+1,Africa/Algiers
+1444008,DZ,DZ-05,Foum Toub,فم الطوب,6025,3,Commune,UTC+1,Africa/Algiers
+1444012,DZ,DZ-42,Fouka,فوكة,48959,3,Commune,UTC+1,Africa/Algiers
+1444013,DZ,DZ-07,Foughala,فوغالة,12488,3,Commune,UTC+1,Africa/Algiers
+1444015,DZ,DZ-27,Fornaka,فرناكة,16543,3,Commune,UTC+1,Africa/Algiers
+1444021,DZ,DZ-02,Benairia,بنايرية,15697,3,Commune,UTC+1,Africa/Algiers
+1444030,DZ,DZ-19,Fermatou,Fermatou,6769,3,Urban Settlement,UTC+1,Africa/Algiers
+1444032,DZ,DZ-12,Ferkane,فركان,5370,3,Commune,UTC+1,Africa/Algiers
+1444038,DZ,DZ-06,Feraoun,فرعون,21700,4,town,UTC+1,Africa/Algiers
+1444040,DZ,DZ-01,Fenoughil,فنوغيل,6887,3,Commune,UTC+1,Africa/Algiers
+1444043,DZ,DZ-17,Feidh el Botma,Feidh el Botma,26857,3,locality,UTC+1,Africa/Algiers
+1444045,DZ,DZ-43,Fedj M'Zala,Fedj M’Zala,26176,3,locality,UTC+1,Africa/Algiers
+1444048,DZ,DZ-49,Fatis,فاتيس,3209,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1444074,DZ,DZ-31,Es Senia,السانية‎,82506,3,Commune,UTC+1,Africa/Algiers
+1444076,DZ,DZ-21,Es Sebt,السبت,15266,3,Commune,UTC+1,Africa/Algiers
+1444092,DZ,DZ-31,En Nedjma,En Nedjma,51665,3,Urban Settlement,UTC+1,Africa/Algiers
+1444096,DZ,DZ-18,Emir Abdelkader,بلدية الأمير عبد القادر,38468,3,Commune,UTC+1,Africa/Algiers
+1444099,DZ,DZ-36,El Tarf,الطارف,25594,2,Province Capital,UTC+1,Africa/Algiers
+1444108,DZ,DZ-07,El Outaya,لوطاية,11155,3,Commune,UTC+1,Africa/Algiers
+1444110,DZ,DZ-19,El Ouricia,الأوريسية,18087,3,Commune,UTC+1,Africa/Algiers
+1444111,DZ,DZ-21,El Ouloudj,El Ouloûdj,7599,3,Urban Settlement,UTC+1,Africa/Algiers
+1444112,DZ,DZ-18,El Ouldja,العلجة,8592,3,Commune,UTC+1,Africa/Algiers
+1444120,DZ,DZ-39,El Oued,اﻟﻮادى,225967,2,Urban Settlement,UTC+1,Africa/Algiers
+1444122,DZ,DZ-52,El Ouata,الواتة,7343,3,Commune,UTC+1,Africa/Algiers
+1444127,DZ,DZ-26,El Omaria,العمارية,20705,3,Commune,UTC+1,Africa/Algiers
+1444128,DZ,DZ-12,El Ogla,العقلة,17797,3,Commune,UTC+1,Africa/Algiers
+1444141,DZ,DZ-18,El Milia,الميلية,70393,3,Commune,UTC+1,Africa/Algiers
+1444143,DZ,DZ-12,El Mezeraa,المزرعة,4251,3,Commune,UTC+1,Africa/Algiers
+1444151,DZ,DZ-12,El Meridj,المريج,11713,3,Commune,UTC+1,Africa/Algiers
+1444165,DZ,DZ-57,El Meghaier,المغير,39106,2,locality,UTC+1,Africa/Algiers
+1444169,DZ,DZ-48,El Matmar,المطمر، الجزائر,17442,3,Commune,UTC+1,Africa/Algiers
+1444170,DZ,DZ-16,El Marsa,المرسى,12100,3,Commune,UTC+1,Africa/Algiers
+1444180,DZ,DZ-46,El Malah,المالح,19180,3,Commune,UTC+1,Africa/Algiers
+1444187,DZ,DZ-34,El Main,الماين,6238,3,Commune,UTC+1,Africa/Algiers
+1444193,DZ,DZ-05,El Madher,المعذر,18502,3,Commune,UTC+1,Africa/Algiers
+1444202,DZ,DZ-06,El Kseur,القصر,29842,3,Commune,UTC+1,Africa/Algiers
+1444211,DZ,DZ-12,El Kouif,الكويف,17319,3,Commune,UTC+1,Africa/Algiers
+1444213,DZ,DZ-19,El Koudia,El Koudia,15075,3,Urban Settlement,UTC+1,Africa/Algiers
+1444216,DZ,DZ-25,El Khroub,الخروب,90122,3,Commune,UTC+1,Africa/Algiers
+1444220,DZ,DZ-44,El Khemis,الخميس,5405,3,Commune,UTC+1,Africa/Algiers
+1444237,DZ,DZ-29,El Keurt,القرط,4285,3,Commune,UTC+1,Africa/Algiers
+1444238,DZ,DZ-31,El Kerma,الكرمة,23163,3,Commune,UTC+1,Africa/Algiers
+1444253,DZ,DZ-02,El Karimia,الكريمية,28821,3,Commune,UTC+1,Africa/Algiers
+1444255,DZ,DZ-07,El Kantara,القنطرة,11415,3,Commune,UTC+1,Africa/Algiers
+1444256,DZ,DZ-36,El Kala,القالة,35449,3,Commune,UTC+1,Africa/Algiers
+1444258,DZ,DZ-17,El Idrissia,الإدريسية,32900,3,Commune,UTC+1,Africa/Algiers
+1444272,DZ,DZ-19,El Hassi,الحاسي,5175,3,Commune,UTC+1,Africa/Algiers
+1444276,DZ,DZ-28,El Haouch,الحوش,4923,3,Commune,UTC+1,Africa/Algiers
+1444297,DZ,DZ-19,El Hamma,الحامة,12051,3,Commune,UTC+1,Africa/Algiers
+1444300,DZ,DZ-28,El Hamel,الهامل,11018,3,Commune,UTC+1,Africa/Algiers
+1444302,DZ,DZ-09,El Hamdania,الحمدانية,3025,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1444310,DZ,DZ-30,El Hadjira,الحجيرة,27355,3,Commune,UTC+1,Africa/Algiers
+1444314,DZ,DZ-23,El Hadjar,الحجار,37364,3,Commune,UTC+1,Africa/Algiers
+1444321,DZ,DZ-26,El Had,El Had,17211,3,Urban Settlement,UTC+1,Africa/Algiers
+1444322,DZ,DZ-10,El Hachimia,الهاشمية,17322,3,Commune,UTC+1,Africa/Algiers
+1444323,DZ,DZ-19,El Hachichia,الحشيشية,3284,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1444326,DZ,DZ-22,El Hacaiba,الحصيبة,2895,3,Commune,UTC+1,Africa/Algiers
+1444332,DZ,DZ-34,El Guettar,القطارة,15422,3,Commune,UTC+1,Africa/Algiers
+1444345,DZ,DZ-13,El Gor,القور,8539,3,Commune,UTC+1,Africa/Algiers
+1444346,DZ,DZ-58,El Menia,المنيعة,48770,2,Urban Settlement,UTC+1,Africa/Algiers
+1444347,DZ,DZ-29,El Ghomri,الغمري,10043,3,Commune,UTC+1,Africa/Algiers
+1444348,DZ,DZ-03,El Ghicha,الغيشة,6079,3,Commune,UTC+1,Africa/Algiers
+1444353,DZ,DZ-24,El Fedjoudj,الفجوج,9122,3,Commune,UTC+1,Africa/Algiers
+1444355,DZ,DZ-19,El Eulma,العلمة,145380,3,Commune,UTC+1,Africa/Algiers
+1444358,DZ,DZ-31,El Emir Abdelkader,الأمير عبد القادر,4396,3,Commune,UTC+1,Africa/Algiers
+1444363,DZ,DZ-44,Djemaa Ouled Cheikh,جمعة ولاد الشيخ,7534,3,Commune,UTC+1,Africa/Algiers
+1444370,DZ,DZ-31,El Braya,البرية,6076,3,Commune,UTC+1,Africa/Algiers
+1444373,DZ,DZ-30,El Bour,البور,3075,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1444374,DZ,DZ-09,El Bordj,البرج,20711,3,Commune,UTC+1,Africa/Algiers
+1444375,DZ,DZ-29,El Bordj,البرج,20711,4,village,UTC+1,Africa/Algiers
+1444378,DZ,DZ-45,El Biod,البيوض,11525,3,Commune,UTC+1,Africa/Algiers
+1444386,DZ,DZ-32,El Bayadh,البيض,85577,2,Province Capital,UTC+1,Africa/Algiers
+1444402,DZ,DZ-44,El Attaf,العطاف,47279,3,Commune,UTC+1,Africa/Algiers
+1444406,DZ,DZ-03,El Assafia,العسافية,5618,3,Commune,UTC+1,Africa/Algiers
+1444407,DZ,DZ-02,Chlef,الشلف,178616,2,Province Capital,UTC+1,Africa/Algiers
+1444408,DZ,DZ-21,El Arrouch,El Arrouch,33085,4,hamlet,UTC+1,Africa/Algiers
+1444409,DZ,DZ-13,El Aricha,العريشة,6673,3,Commune,UTC+1,Africa/Algiers
+1444422,DZ,DZ-12,El Aouinet,العوينات,32971,3,Commune,UTC+1,Africa/Algiers
+1444426,DZ,DZ-18,El Aouana,العوانة,13273,3,Commune,UTC+1,Africa/Algiers
+1444431,DZ,DZ-31,El Ancor,العنصر,11176,3,Commune,UTC+1,Africa/Algiers
+1444432,DZ,DZ-18,El Ancer,العنصر,20070,3,Commune,UTC+1,Africa/Algiers
+1444433,DZ,DZ-19,El Anasser,العناصر,1504,4,village,UTC+1,Africa/Algiers
+1444435,DZ,DZ-46,El Amria,العامرية,26407,3,Commune,UTC+1,Africa/Algiers
+1444448,DZ,DZ-36,El Aioun,العيون,5347,3,Commune,UTC+1,Africa/Algiers
+1444455,DZ,DZ-09,El Affroun,العفرون,42546,3,Commune,UTC+1,Africa/Algiers
+1444456,DZ,DZ-10,El Adjiba,العجيبية,12486,3,Commune,UTC+1,Africa/Algiers
+1444457,DZ,DZ-16,El Achour,بلدية العاشور,41070,3,Commune,UTC+1,Africa/Algiers
+1444458,DZ,DZ-34,El Achir,اليشير,90717,3,Commune,UTC+1,Africa/Algiers
+1444459,DZ,DZ-34,El Ach,العش,17140,3,Commune,UTC+1,Africa/Algiers
+1444460,DZ,DZ-32,El Abiodh Sidi Cheikh,الأبيض سيدي الشيخ,39283,3,Commune,UTC+1,Africa/Algiers
+1444463,DZ,DZ-44,El Abadia,العبادية، عين الدفلى,34711,3,Commune,UTC+1,Africa/Algiers
+1444474,DZ,DZ-28,Eddis,Eddis,6565,3,Urban Settlement,UTC+1,Africa/Algiers
+1444478,DZ,DZ-02,Ech Chettia,الشطية,114063,3,locality,UTC+1,Africa/Algiers
+1444486,DZ,DZ-36,Drean,الذرعان,46417,3,Commune,UTC+1,Africa/Algiers
+1444487,DZ,DZ-41,Drea,الدريعة,6408,3,Commune,UTC+1,Africa/Algiers
+1444488,DZ,DZ-16,Draria,درارية,44141,3,Commune,UTC+1,Africa/Algiers
+1444493,DZ,DZ-26,Draa Esmar,Draâ Esmar,7465,4,hamlet,UTC+1,Africa/Algiers
+1444494,DZ,DZ-15,Draa el Mizan,ذراع الميزان,40075,3,Commune,UTC+1,Africa/Algiers
+1444496,DZ,DZ-15,Draa Ben Khedda,ذراع بن خدة,31382,3,Commune,UTC+1,Africa/Algiers
+1444498,DZ,DZ-16,Douera,بلدية دويرة,46266,3,Commune,UTC+1,Africa/Algiers
+1444499,DZ,DZ-51,Doucen,الدوسن,26455,3,Commune,UTC+1,Africa/Algiers
+1444523,DZ,DZ-48,Sidi Bouzid,سيدي بوزيد,5191,3,Commune,UTC+1,Africa/Algiers
+1444583,DZ,DZ-29,Guerdjoum,قرجوم,2549,3,Commune,UTC+1,Africa/Algiers
+1444663,DZ,DZ-27,Mekhatria,المخاطرية,17129,3,Commune,UTC+1,Africa/Algiers
+1444733,DZ,DZ-27,Beni Yahi,Beni Yahi,4066,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1444739,DZ,DZ-48,Ben Daoud,بن داود,11632,3,Commune,UTC+1,Africa/Algiers
+1444768,DZ,DZ-42,Douaouda,دواودة,22408,3,Commune,UTC+1,Africa/Algiers
+1444777,DZ,DZ-14,Djilali Ben Amar,جيلالي بن عمار,5443,4,village,UTC+1,Africa/Algiers
+1444791,DZ,DZ-35,Djinet,رأس جنات,21966,3,Commune,UTC+1,Africa/Algiers
+1444792,DZ,DZ-21,Djendel,جندل,30170,3,Commune,UTC+1,Africa/Algiers
+1444793,DZ,DZ-44,Djendel,جندل,30170,4,town,UTC+1,Africa/Algiers
+1444803,DZ,DZ-19,Djemila,جميلة,24145,3,Commune,UTC+1,Africa/Algiers
+1444806,DZ,DZ-40,Djellal,جلال,3089,3,Commune,UTC+1,Africa/Algiers
+1444807,DZ,DZ-17,Djelfa,الجلفة,265833,2,Province Capital,UTC+1,Africa/Algiers
+1444810,DZ,DZ-12,Djedida,Djedida,7310,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1444816,DZ,DZ-24,Djebala,جبالة,8369,3,Commune,UTC+1,Africa/Algiers
+1444817,DZ,DZ-10,Djebahia,الجباحية,15592,3,Commune,UTC+1,Africa/Algiers
+1444822,DZ,DZ-56,Djanet,جانت,14655,2,Commune,UTC+1,Africa/Algiers
+1444825,DZ,DZ-57,Djamaa,جامعة,51899,3,Commune,UTC+1,Africa/Algiers
+1444829,DZ,DZ-25,Didouche Mourad,ديدوش مراد,39109,3,Commune,UTC+1,Africa/Algiers
+1444836,DZ,DZ-22,Dhaya,الضاية,5163,3,Commune,UTC+1,Africa/Algiers
+1444837,DZ,DZ-40,Dhalaa,الضلعة,11439,3,Commune,UTC+1,Africa/Algiers
+1444838,DZ,DZ-26,Derrag,دراق,7273,3,Commune,UTC+1,Africa/Algiers
+1444846,DZ,DZ-35,Dellys,دلّس,29669,3,Commune,UTC+1,Africa/Algiers
+1444867,DZ,DZ-39,Debila,الدبيلة,36834,3,Commune,UTC+1,Africa/Algiers
+1444890,DZ,DZ-16,Dar el Beida,الدار البيضاء,58672,3,Commune,UTC+1,Africa/Algiers
+1444893,DZ,DZ-17,Dar Chioukh,دار الشيوخ,30372,3,Commune,UTC+1,Africa/Algiers
+1444908,DZ,DZ-42,Damous,الداموس,17111,3,Commune,UTC+1,Africa/Algiers
+1444911,DZ,DZ-14,Dahmouni,دحموني,22682,3,Commune,UTC+1,Africa/Algiers
+1444917,DZ,DZ-25,Constantine,قسنطينة,449236,2,Province Capital,UTC+1,Africa/Algiers
+1444923,DZ,DZ-09,Chrea,الشريعة,783,3,Commune,UTC+1,Africa/Algiers
+1444933,DZ,DZ-10,Chorfa,الشرفة,18365,3,Commune,UTC+1,Africa/Algiers
+1444936,DZ,DZ-05,Chir,شير، باتنة,5478,3,Commune,UTC+1,Africa/Algiers
+1444937,DZ,DZ-09,Chiffa,الشفة,23218,3,Commune,UTC+1,Africa/Algiers
+1444940,DZ,DZ-15,Cheurfa,الشرفة,9875,3,Commune,UTC+1,Africa/Algiers
+1444946,DZ,DZ-13,Chetouane,شتوان,43757,3,Commune,UTC+1,Africa/Algiers
+1444947,DZ,DZ-07,Chetma,شتمة,13699,3,Commune,UTC+1,Africa/Algiers
+1444948,DZ,DZ-23,Chetaibi,دائرة شطايبي,8035,3,Commune,UTC+1,Africa/Algiers
+1444951,DZ,DZ-12,Cheria,الشريعة,73720,3,Commune,UTC+1,Africa/Algiers
+1444954,DZ,DZ-42,Cherchell,شرشال,34372,3,Commune,UTC+1,Africa/Algiers
+1444955,DZ,DZ-21,Cheraia,الشرايع,18759,3,Commune,UTC+1,Africa/Algiers
+1444960,DZ,DZ-16,Cheraga,الشراقة,27835,3,Commune,UTC+1,Africa/Algiers
+1444966,DZ,DZ-05,Chemora,الشمرة,17074,3,Commune,UTC+1,Africa/Algiers
+1444967,DZ,DZ-06,Chemini,شميني,18430,3,Commune,UTC+1,Africa/Algiers
+1444969,DZ,DZ-06,Chellata,شلاطة,9770,3,Commune,UTC+1,Africa/Algiers
+1444970,DZ,DZ-26,Chellalat el Adhaouara,شلالة العذاورة,26077,4,hamlet,UTC+1,Africa/Algiers
+1444973,DZ,DZ-28,Chellal,شلال,5411,3,Commune,UTC+1,Africa/Algiers
+1444975,DZ,DZ-43,Chelghoum el Aid,شلغوم العيد,71660,3,hamlet,UTC+1,Africa/Algiers
+1444976,DZ,DZ-18,Chekfa,الشقفة,26553,3,Commune,UTC+1,Africa/Algiers
+1444986,DZ,DZ-09,Chebli,الشبلي,19901,3,Commune,UTC+1,Africa/Algiers
+1444990,DZ,DZ-49,Charouine,شروين,1536,3,Commune,UTC+1,Africa/Algiers
+1444991,DZ,DZ-17,Charef,الشارف,27700,3,Commune,UTC+1,Africa/Algiers
+1444992,DZ,DZ-42,Chaiba,الشعيبة,20427,3,Commune,UTC+1,Africa/Algiers
+1444993,DZ,DZ-26,Chahbounia,الشهبونية,13617,3,Commune,UTC+1,Africa/Algiers
+1444996,DZ,DZ-35,Chabet el Ameur,شعبة العامر,19522,3,Commune,UTC+1,Africa/Algiers
+1445002,DZ,DZ-46,Chaabat el Leham,شعبة اللحم,14475,3,Commune,UTC+1,Africa/Algiers
+1445008,DZ,DZ-03,Brida,بريدة,6395,3,Commune,UTC+1,Africa/Algiers
+1445009,DZ,DZ-32,Brezina,بريزينة,19084,3,Commune,UTC+1,Africa/Algiers
+1445013,DZ,DZ-07,Branis,برانيس,4273,3,Commune,UTC+1,Africa/Algiers
+1445019,DZ,DZ-05,Bouzina,بوزينة,13383,3,Commune,UTC+1,Africa/Algiers
+1445022,DZ,DZ-02,Bouzeghaia,بوزغاية,22590,3,Commune,UTC+1,Africa/Algiers
+1445042,DZ,DZ-31,Bou Tlelis,بوتليليس,26144,4,locality,UTC+1,Africa/Algiers
+1445044,DZ,DZ-36,Bouteldja,بوثلجة,17738,3,Commune,UTC+1,Africa/Algiers
+1445050,DZ,DZ-32,Boussemghoun,بوسمغون,3795,3,Commune,UTC+1,Africa/Algiers
+1445053,DZ,DZ-26,Bouskene,بوسكن,11855,3,Commune,UTC+1,Africa/Algiers
+1445067,DZ,DZ-28,Bou Saada,بوسعادة,111787,3,Commune,UTC+1,Africa/Algiers
+1445073,DZ,DZ-42,Bourkika,بورقيقة,22118,3,Commune,UTC+1,Africa/Algiers
+1445080,DZ,DZ-02,Ain Soltane,عين سلطان,21565,3,Commune,UTC+1,Africa/Algiers
+1445088,DZ,DZ-14,Bounoual,بونوال,3038,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445098,DZ,DZ-05,Boumagueur,بومقر,8474,3,locality,UTC+1,Africa/Algiers
+1445106,DZ,DZ-24,Boumahra Ahmed,بومهرة أحمد,23022,3,Commune,UTC+1,Africa/Algiers
+1445127,DZ,DZ-02,Boukadir,بوقادير,39996,3,Commune,UTC+1,Africa/Algiers
+1445129,DZ,DZ-42,Bou Ismail,بو إسماعيل,40984,3,Commune,UTC+1,Africa/Algiers
+1445132,DZ,DZ-10,Bouira,البويرة,78673,2,Province Capital,UTC+1,Africa/Algiers
+1445134,DZ,DZ-09,Bouinan,بوينان,30271,3,Commune,UTC+1,Africa/Algiers
+1445136,DZ,DZ-40,Bouhmama,بوحمامة,10614,3,Commune,UTC+1,Africa/Algiers
+1445139,DZ,DZ-02,Bou Henni,بوهني,11715,3,Commune,UTC+1,Africa/Algiers
+1445144,DZ,DZ-29,Bou Hanifia el Hamamat,بوحنيفية,27576,4,village,UTC+1,Africa/Algiers
+1445153,DZ,DZ-26,Bougzoul,بوغزول,14095,3,locality,UTC+1,Africa/Algiers
+1445154,DZ,DZ-27,Bouguirat,بوقيراط,31469,3,Commune,UTC+1,Africa/Algiers
+1445156,DZ,DZ-49,Bou Guema,Bou Guema,20061,3,Census Town,UTC+1,Africa/Algiers
+1445157,DZ,DZ-32,Bougtob,بوقطب,18568,4,town,UTC+1,Africa/Algiers
+1445160,DZ,DZ-09,Bougara,بوقرة,51203,3,Commune,UTC+1,Africa/Algiers
+1445161,DZ,DZ-19,Bougaa,بوقاعة,31922,3,Urban Settlement,UTC+1,Africa/Algiers
+1445166,DZ,DZ-31,Boufatis,بوفاطيس,11726,3,Commune,UTC+1,Africa/Algiers
+1445167,DZ,DZ-09,Boufarik,بوفاريك,58452,3,Commune,UTC+1,Africa/Algiers
+1445168,DZ,DZ-21,Bounoghra,Bounoghra,3186,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445171,DZ,DZ-21,Boudoukha,بودوخة,2127,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445172,DZ,DZ-35,Boudouaou,بودواو,56398,3,Commune,UTC+1,Africa/Algiers
+1445174,DZ,DZ-15,Boudjima,بوجيمة,18093,3,Commune,UTC+1,Africa/Algiers
+1445176,DZ,DZ-06,Boudjellil,بوجليل,11486,3,Commune,UTC+1,Africa/Algiers
+1445182,DZ,DZ-35,Boudouaou el Bahri,بودواو البحري,14209,3,Commune,UTC+1,Africa/Algiers
+1445186,DZ,DZ-24,Bouchegouf,بوشقوف,25443,3,Commune,UTC+1,Africa/Algiers
+1445195,DZ,DZ-44,Houasnia,Houasnia,6840,3,Census Town,UTC+1,Africa/Algiers
+1445197,DZ,DZ-21,Bou Aziz,Bou Aziz,54177,3,town,UTC+1,Africa/Algiers
+1445198,DZ,DZ-24,Bouati Mahmoud,بوعاطي محمود,9658,3,Commune,UTC+1,Africa/Algiers
+1445204,DZ,DZ-09,Bou Arfa,Boû Arfa,44143,4,Town,UTC+1,Africa/Algiers
+1445214,DZ,DZ-32,Boualem,بوعلام,7578,3,Commune,UTC+1,Africa/Algiers
+1445225,DZ,DZ-34,Bordj Zemoura,برج زمورة,15039,3,Commune,UTC+1,Africa/Algiers
+1445230,DZ,DZ-33,Bordj Omar Driss,برج عمر إدريس,5736,3,Commune,UTC+1,Africa/Algiers
+1445231,DZ,DZ-10,Bordj Okhriss,برج أوخريص,10467,3,Commune,UTC+1,Africa/Algiers
+1445234,DZ,DZ-35,Bordj Menaiel,برج منايل,64820,3,Commune,UTC+1,Africa/Algiers
+1445242,DZ,DZ-34,Bordj Ghdir,برج الغدير,34136,4,Town,UTC+1,Africa/Algiers
+1445243,DZ,DZ-44,Bordj Emir Khaled,برج الأمير خالد,8598,3,Commune,UTC+1,Africa/Algiers
+1445244,DZ,DZ-16,Bordj el Kiffan,برج الكيفان,123246,3,Commune,UTC+1,Africa/Algiers
+1445247,DZ,DZ-38,Bordj el Emir Abdelkader,برج الأمير عبد القادر,10955,3,Commune,UTC+1,Africa/Algiers
+1445250,DZ,DZ-16,Bordj el Bahri,برج البحري,52816,3,Commune,UTC+1,Africa/Algiers
+1445271,DZ,DZ-34,Bordj Bou Arreridj,برج بوعريريج,168346,2,Province Capital,UTC+1,Africa/Algiers
+1445293,DZ,DZ-15,Boghni,بوغني,54666,3,Commune,UTC+1,Africa/Algiers
+1445294,DZ,DZ-26,Boghar,بوغار,5972,3,Commune,UTC+1,Africa/Algiers
+1445297,DZ,DZ-55,Blidet Amor,بلدة أعمر,14540,3,Commune,UTC+1,Africa/Algiers
+1445298,DZ,DZ-09,Blida,البليدة,331779,2,Urban Settlement,UTC+1,Africa/Algiers
+1445302,DZ,DZ-27,Touahria,الطواهرية,7593,3,Commune,UTC+1,Africa/Algiers
+1445306,DZ,DZ-05,Bitam,بيطام,11855,3,Commune,UTC+1,Africa/Algiers
+1445308,DZ,DZ-07,Biskra,بسكرة,205135,2,Province Capital,UTC+1,Africa/Algiers
+1445309,DZ,DZ-16,Birtouta,بلدية بئر توتة,30575,3,Commune,UTC+1,Africa/Algiers
+1445317,DZ,DZ-16,Birkhadem,بئر خادم,71722,3,Commune,UTC+1,Africa/Algiers
+1445318,DZ,DZ-34,Bir Kasdali,بئر قصد علي,17384,3,Commune,UTC+1,Africa/Algiers
+1445319,DZ,DZ-17,Birine,البيرين,30913,3,Commune,UTC+1,Africa/Algiers
+1445323,DZ,DZ-19,Bir Haddada,بئر حدادة,20860,3,Commune,UTC+1,Africa/Algiers
+1445325,DZ,DZ-10,Bir Ghbalou,بئر غبالو,11016,3,Commune,UTC+1,Africa/Algiers
+1445333,DZ,DZ-31,Bir el Djir,بئر الجير,68032,3,Commune,UTC+1,Africa/Algiers
+1445334,DZ,DZ-12,Bir el Ater,بئر العاتر,77727,3,Commune,UTC+1,Africa/Algiers
+1445337,DZ,DZ-04,Bir Chouhada,بئر الشهداء,9182,3,Commune,UTC+1,Africa/Algiers
+1445352,DZ,DZ-31,Bettioua,بطيوة,18215,3,locality,UTC+1,Africa/Algiers
+1445355,DZ,DZ-36,Besbes,البسباس,66287,3,Commune,UTC+1,Africa/Algiers
+1445356,DZ,DZ-26,Berrouaghia,البرواقية,61611,3,Commune,UTC+1,Africa/Algiers
+1445357,DZ,DZ-04,Berriche,بريش,17609,3,Commune,UTC+1,Africa/Algiers
+1445358,DZ,DZ-47,Berriane,بريان,30200,3,Commune,UTC+1,Africa/Algiers
+1445359,DZ,DZ-23,Berrahal,برحال,19294,3,locality,UTC+1,Africa/Algiers
+1445363,DZ,DZ-28,Berhoum,برهوم,23620,3,Commune,UTC+1,Africa/Algiers
+1445369,DZ,DZ-28,Benzouh,بنزوه,5636,3,Commune,UTC+1,Africa/Algiers
+1445373,DZ,DZ-43,Benyahia Abderrahmane,بن يحيى عبد الرحمان,10052,3,Commune,UTC+1,Africa/Algiers
+1445378,DZ,DZ-28,Ben S'Rour,Ben S’Rour,93830,3,Town,UTC+1,Africa/Algiers
+1445380,DZ,DZ-13,Bensekrane,بن سكران,21283,3,Commune,UTC+1,Africa/Algiers
+1445382,DZ,DZ-09,Ben Salah,بن صالح,6183,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445387,DZ,DZ-35,Ben N'Choud,بن شود,9985,3,locality,UTC+1,Africa/Algiers
+1445391,DZ,DZ-36,Ben Mehidi,ابن مهيدي,28398,3,Commune,UTC+1,Africa/Algiers
+1445399,DZ,DZ-09,Beni Tamou,بني تامو,36228,3,Commune,UTC+1,Africa/Algiers
+1445403,DZ,DZ-26,Beni Slimane,بني سليمان,33779,3,Commune,UTC+1,Africa/Algiers
+1445404,DZ,DZ-26,Beni Slimane,بني سليمان,33779,4,town,UTC+1,Africa/Algiers
+1445407,DZ,DZ-46,Beni Saf,بني صاف,42284,3,Commune,UTC+1,Africa/Algiers
+1445410,DZ,DZ-02,Beni Rached,بني راشد,23449,3,Commune,UTC+1,Africa/Algiers
+1445411,DZ,DZ-44,Barbouche,بربوش,4897,4,village,UTC+1,Africa/Algiers
+1445412,DZ,DZ-08,Beni Ounif,بني ونيف,10732,3,Commune,UTC+1,Africa/Algiers
+1445418,DZ,DZ-13,Beni Mester,بني مستار,19230,3,Commune,UTC+1,Africa/Algiers
+1445419,DZ,DZ-09,Beni Mered,بني مراد,63805,3,Commune,UTC+1,Africa/Algiers
+1445435,DZ,DZ-10,Beni Ikhlef,بنى يخلف,2459,3,Commune,UTC+1,Africa/Algiers
+1445437,DZ,DZ-02,Beni Haoua,بنى حواء,20853,3,Commune,UTC+1,Africa/Algiers
+1445442,DZ,DZ-43,Beni Guecha,بن قشة,2513,3,Commune,UTC+1,Africa/Algiers
+1445443,DZ,DZ-35,Beni Fouda,بني فودة,17667,3,Commune,UTC+1,Africa/Algiers
+1445444,DZ,DZ-19,Beni Fouda,بني فودة,12640,4,village,UTC+1,Africa/Algiers
+1445449,DZ,DZ-15,Beni Douala,بني دوالة,27581,3,Commune,UTC+1,Africa/Algiers
+1445451,DZ,DZ-24,Beni Brahim,Beni Brahim,4718,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445457,DZ,DZ-21,Beni Bechir,بني بشير,9640,3,Commune,UTC+1,Africa/Algiers
+1445458,DZ,DZ-13,Beni Bahdel,بني بهدل,2801,3,Commune,UTC+1,Africa/Algiers
+1445460,DZ,DZ-29,Beniane,البنيان,5581,3,Commune,UTC+1,Africa/Algiers
+1445462,DZ,DZ-35,Beni Amrane,بني عمران,21018,3,Commune,UTC+1,Africa/Algiers
+1445464,DZ,DZ-49,Beni Aissi,بني عيسي,7628,3,Commune,UTC+1,Africa/Algiers
+1445467,DZ,DZ-52,Beni Abbes,بني عباس,10885,2,Commune,UTC+1,Africa/Algiers
+1445468,DZ,DZ-01,Ben Henni,Ben Henni,5259,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445470,DZ,DZ-10,Ben Haroun,بن هارون,3623,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445477,DZ,DZ-01,Bouda,بودة,2349,3,Commune,UTC+1,Africa/Algiers
+1445482,DZ,DZ-22,Ben Badis,بن باديس,20346,3,Commune,UTC+1,Africa/Algiers
+1445483,DZ,DZ-19,Arbaoun,بني عزيز,19383,3,locality,UTC+1,Africa/Algiers
+1445489,DZ,DZ-16,Ben 'Aknoun,بن عكنون,18838,3,Commune,UTC+1,Africa/Algiers
+1445496,DZ,DZ-24,Belkheir,بلخير,17649,3,Commune,UTC+1,Africa/Algiers
+1445506,DZ,DZ-22,Belarbi,بلعربي,8455,3,Commune,UTC+1,Africa/Algiers
+1445510,DZ,DZ-21,Bekkouche Lakhdar,بكوش لخضر,15176,3,Commune,UTC+1,Africa/Algiers
+1445511,DZ,DZ-12,Bekkaria,بكارية,9917,3,Commune,UTC+1,Africa/Algiers
+1445514,DZ,DZ-06,Bejaia,بجاية,177064,2,Province Capital,UTC+1,Africa/Algiers
+1445520,DZ,DZ-10,Bechloul,بشلول,11775,3,Commune,UTC+1,Africa/Algiers
+1445524,DZ,DZ-08,Bechar,بشار,165627,2,Province Capital,UTC+1,Africa/Algiers
+1445532,DZ,DZ-05,Batna,باتنة,290645,2,Province Capital,UTC+1,Africa/Algiers
+1445535,DZ,DZ-05,Barika,بريكة,101617,3,Commune,UTC+1,Africa/Algiers
+1445538,DZ,DZ-06,Barbacha,برباشة,24442,3,Commune,UTC+1,Africa/Algiers
+1445539,DZ,DZ-16,Baraki,براقي,105402,3,Commune,UTC+1,Africa/Algiers
+1445540,DZ,DZ-28,Baniou,بانيو,3089,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445543,DZ,DZ-20,Balloul,بلول,19711,4,town,UTC+1,Africa/Algiers
+1445553,DZ,DZ-35,Baghlia,بغلية,18052,3,Commune,UTC+1,Africa/Algiers
+1445554,DZ,DZ-40,Baghai,بغاي,6676,3,Commune,UTC+1,Africa/Algiers
+1445558,DZ,DZ-16,Bab Ezzouar,باب الزوار,275630,3,Commune,UTC+1,Africa/Algiers
+1445559,DZ,DZ-13,Bab el Assa,باب العسة,10147,3,Commune,UTC+1,Africa/Algiers
+1445560,DZ,DZ-40,Babar,بابار,34844,3,Commune,UTC+1,Africa/Algiers
+1445561,DZ,DZ-16,Baba Hassen,بلدية بابا حسن,23756,3,Commune,UTC+1,Africa/Algiers
+1445565,DZ,DZ-21,Azzaba,عزابة,56922,3,Commune,UTC+1,Africa/Algiers
+1445568,DZ,DZ-15,Azouza,Azouza,5321,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445581,DZ,DZ-15,Azeffoun,أزفون,16847,3,Commune,UTC+1,Africa/Algiers
+1445583,DZ,DZ-15,Azazga,عزازقة,30599,3,Commune,UTC+1,Africa/Algiers
+1445589,DZ,DZ-42,Attatba,حطاطبة,27059,3,Commune,UTC+1,Africa/Algiers
+1445601,DZ,DZ-36,Asfour,عصفور,11447,3,Commune,UTC+1,Africa/Algiers
+1445602,DZ,DZ-31,Arzew,أرزيو,64557,3,Commune,UTC+1,Africa/Algiers
+1445603,DZ,DZ-05,Arris,آريس,36641,3,Commune,UTC+1,Africa/Algiers
+1445607,DZ,DZ-44,Arib,عريب، عين الدفلى,24980,3,Commune,UTC+1,Africa/Algiers
+1445609,DZ,DZ-15,Arhribs,أغريب,23958,3,locality,UTC+1,Africa/Algiers
+1445617,DZ,DZ-35,Arbatache,الأربعطاش,17481,4,Town,UTC+1,Africa/Algiers
+1445618,DZ,DZ-32,Arbaouat,عربوات,4321,3,Commune,UTC+1,Africa/Algiers
+1445622,DZ,DZ-05,Arba,Arba,5565,3,Census Town,UTC+1,Africa/Algiers
+1445626,DZ,DZ-15,Aourir,أورير,5661,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445629,DZ,DZ-01,Aoulef,أولف,21723,3,Commune,UTC+1,Africa/Algiers
+1445633,DZ,DZ-49,Aougrout,أوقروت,9547,3,Commune,UTC+1,Africa/Algiers
+1445634,DZ,DZ-29,Aouf,عوف,7887,3,Commune,UTC+1,Africa/Algiers
+1445635,DZ,DZ-46,Aoubellil,عقب الليل,4722,3,Commune,UTC+1,Africa/Algiers
+1445638,DZ,DZ-10,Aomar,عمر,20532,3,Commune,UTC+1,Africa/Algiers
+1445639,DZ,DZ-06,Aokas,أوقاس,15989,3,Commune,UTC+1,Africa/Algiers
+1445646,DZ,DZ-23,Annaba,عنابة,351877,2,Urban Settlement,UTC+1,Africa/Algiers
+1445648,DZ,DZ-06,Andrieche,Andrièche,5596,3,Census Town,UTC+1,Africa/Algiers
+1445655,DZ,DZ-19,Amoucha,عموشة,22767,3,Commune,UTC+1,Africa/Algiers
+1445656,DZ,DZ-48,Ammi Moussa,عمي موسى,28246,3,Commune,UTC+1,Africa/Algiers
+1445660,DZ,DZ-06,Amizour,أميزور,31694,3,Commune,UTC+1,Africa/Algiers
+1445670,DZ,DZ-06,Amalou,أمالو,8602,3,Commune,UTC+1,Africa/Algiers
+1445671,DZ,DZ-06,Amalou,أملو,8602,4,town,UTC+1,Africa/Algiers
+1445684,DZ,DZ-16,Algiers,الجزائر,2364230,1,Urban Settlement,UTC+1,Africa/Algiers
+1445692,DZ,DZ-06,Akfadou,أكفادو,7358,3,Commune,UTC+1,Africa/Algiers
+1445696,DZ,DZ-06,Akbou,أقبو,52282,3,Commune,UTC+1,Africa/Algiers
+1445698,DZ,DZ-15,Akaoudj,أقاوج,4144,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445699,DZ,DZ-01,Akabli,أقبلي,4409,3,Commune,UTC+1,Africa/Algiers
+1445707,DZ,DZ-06,Ait Smail,آيت إسماعيل,11783,3,Commune,UTC+1,Africa/Algiers
+1445743,DZ,DZ-15,Ait Frah,Aït Frah,3512,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445748,DZ,DZ-15,Ait Djemaa,أيت جمعة,12157,3,Urban Settlement,UTC+1,Africa/Algiers
+1445768,DZ,DZ-15,Ait Aicha,Aït Aïcha,1501,4,locality,UTC+1,Africa/Algiers
+1445779,DZ,DZ-21,'Ain ZouiT,عين زويت,1977,3,Commune,UTC+1,Africa/Algiers
+1445782,DZ,DZ-12,'Ain Zerga,عين الزرقاء,20170,3,Commune,UTC+1,Africa/Algiers
+1445785,DZ,DZ-19,'Ain Zada,عين زادة,1052,4,village,UTC+1,Africa/Algiers
+1445786,DZ,DZ-13,Ain Youcef,عين يوسف,13234,3,Commune,UTC+1,Africa/Algiers
+1445787,DZ,DZ-05,Ain Yagout,عين ياقوت,10856,3,Commune,UTC+1,Africa/Algiers
+1445789,DZ,DZ-19,'Ain Trick,’Aïn Trick,12455,3,Urban Settlement,UTC+1,Africa/Algiers
+1445793,DZ,DZ-05,Ain Touta,عين التوتة,62400,3,Commune,UTC+1,Africa/Algiers
+1445794,DZ,DZ-40,'Ain Touila,عين الطويلة,16845,3,Commune,UTC+1,Africa/Algiers
+1445797,DZ,DZ-44,'Ain Torki,عين تركي,9546,3,Commune,UTC+1,Africa/Algiers
+1445798,DZ,DZ-46,'Ain Tolba,عين الطلبة,12709,3,Commune,UTC+1,Africa/Algiers
+1445801,DZ,DZ-22,'Ain Tindamine,عين تندمين,2476,3,Commune,UTC+1,Africa/Algiers
+1445803,DZ,DZ-46,Ain Temouchent,عين تموشنت,74249,2,Province Capital,UTC+1,Africa/Algiers
+1445809,DZ,DZ-16,Ain Taya,عين طاية,33575,3,Commune,UTC+1,Africa/Algiers
+1445810,DZ,DZ-34,'Ain Taghrout,عين تاغروت,13953,3,Commune,UTC+1,Africa/Algiers
+1445811,DZ,DZ-44,Ain Soltane,عين سلطان,21565,4,town,UTC+1,Africa/Algiers
+1445812,DZ,DZ-25,Ain Smara,عين سمارة,34528,3,Commune,UTC+1,Africa/Algiers
+1445814,DZ,DZ-05,'Ain Sidi Ali,عين سيدي على,10486,3,Commune,UTC+1,Africa/Algiers
+1445817,DZ,DZ-41,'Ain Seynour,’Aïn Seynour,3390,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445818,DZ,DZ-45,Ain Sefra,عين الصفراء,57870,3,Commune,UTC+1,Africa/Algiers
+1445822,DZ,DZ-19,'Ain Roua,عين الروى,11499,3,Commune,UTC+1,Africa/Algiers
+1445826,DZ,DZ-17,Ain Oussera,عين وسارة,101239,4,Town,UTC+1,Africa/Algiers
+1445829,DZ,DZ-19,Ain Oulmene,عين ولمان,62519,3,Commune,UTC+1,Africa/Algiers
+1445834,DZ,DZ-27,Ain Nouissy,عين النويصي,14530,3,Commune,UTC+1,Africa/Algiers
+1445836,DZ,DZ-07,'Ain Naga,عين الناقة,12032,3,Commune,UTC+1,Africa/Algiers
+1445840,DZ,DZ-04,Ain M'Lila,عين مليلة,88441,3,Commune,UTC+1,Africa/Algiers
+1445841,DZ,DZ-19,'Ain Messaoud,’Aïn Messaoud,3518,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445843,DZ,DZ-02,'Ain Merane,دائرة عين مران,42870,3,Commune,UTC+1,Africa/Algiers
+1445848,DZ,DZ-24,'Ain Makhlouf,عين مخلوف,12300,3,Commune,UTC+1,Africa/Algiers
+1445852,DZ,DZ-44,Ain Lechiakh,عين لشياخ,13745,4,village,UTC+1,Africa/Algiers
+1445853,DZ,DZ-10,Ain Laloui,عين العلوي,6738,3,Commune,UTC+1,Africa/Algiers
+1445854,DZ,DZ-46,'Ain Kihal,أولاد دكجال,7402,3,Urban Settlement,UTC+1,Africa/Algiers
+1445856,DZ,DZ-36,Ain Khiar,Aïn Khîar,3589,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445860,DZ,DZ-28,'Ain Khadra,عين الخضراء,29046,3,Commune,UTC+1,Africa/Algiers
+1445861,DZ,DZ-14,'Ain Kermes,عين كرمس,17541,3,Commune,UTC+1,Africa/Algiers
+1445862,DZ,DZ-36,'Ain Kerma,عين الكرمة,14377,3,Commune,UTC+1,Africa/Algiers
+1445865,DZ,DZ-04,Ain Kercha,عين كرشة,32377,3,Commune,UTC+1,Africa/Algiers
+1445875,DZ,DZ-13,'Ain Fezza,عين فزة,11053,3,Commune,UTC+1,Africa/Algiers
+1445877,DZ,DZ-29,'Ain Fekan,عين فكان,11862,3,Commune,UTC+1,Africa/Algiers
+1445878,DZ,DZ-17,Ain Feka,عين فقه,23404,3,Commune,UTC+1,Africa/Algiers
+1445879,DZ,DZ-29,Ain Fares,عين فارس,3184,3,Commune,UTC+1,Africa/Algiers
+1445880,DZ,DZ-04,Ain Fakroun,عين فكرون,57169,3,Commune,UTC+1,Africa/Algiers
+1445888,DZ,DZ-31,'Ain el Turk,عين الترك,37010,3,Commune,UTC+1,Africa/Algiers
+1445889,DZ,DZ-32,'Ain el Orak,عين العراك,1424,3,Commune,UTC+1,Africa/Algiers
+1445891,DZ,DZ-28,'Ain el Melh,عين الملح,39798,3,Commune,UTC+1,Africa/Algiers
+1445896,DZ,DZ-26,'Ain el Kerma,عين الكرمة,7530,3,Commune,UTC+1,Africa/Algiers
+1445897,DZ,DZ-19,'Ain el Kebira,عين الكبيرة,30185,3,Commune,UTC+1,Africa/Algiers
+1445901,DZ,DZ-15,'Ain el Hammam,عين الحمام,20401,3,Commune,UTC+1,Africa/Algiers
+1445903,DZ,DZ-28,Ain el Hadjel,عين الحجل,33046,3,Commune,UTC+1,Africa/Algiers
+1445906,DZ,DZ-20,'Ain el Hadjar,عين الحجر,21009,3,Commune,UTC+1,Africa/Algiers
+1445907,DZ,DZ-14,Ain el Hadid,عين الحديد,15482,3,Commune,UTC+1,Africa/Algiers
+1445913,DZ,DZ-31,Ain el Bya,Aïn el Bya,37241,4,locality,UTC+1,Africa/Algiers
+1445916,DZ,DZ-22,'Ain el Berd,عين البرد,16281,3,Commune,UTC+1,Africa/Algiers
+1445918,DZ,DZ-17,'Ain el Bell,عين الابل,31916,3,locality,UTC+1,Africa/Algiers
+1445921,DZ,DZ-36,'Ain el Assel,عين العسل,16285,3,Commune,UTC+1,Africa/Algiers
+1445922,DZ,DZ-46,Ain el Arbaa,عين الأربعاء,15412,3,Commune,UTC+1,Africa/Algiers
+1445930,DZ,DZ-14,'Ain Deheb,عين الذهب,32371,3,Commune,UTC+1,Africa/Algiers
+1445931,DZ,DZ-44,Ain Defla,عين الدفلى,65453,2,Province Capital,UTC+1,Africa/Algiers
+1445937,DZ,DZ-21,'Ain Charchar,عين شرشار,15725,3,Commune,UTC+1,Africa/Algiers
+1445939,DZ,DZ-21,'Ain Bouziane,عين بوزيان,9591,3,Commune,UTC+1,Africa/Algiers
+1445943,DZ,DZ-27,Ain Boudinar,عين بودينار,6060,3,Commune,UTC+1,Africa/Algiers
+1445944,DZ,DZ-26,'Ain Boucif,عين بوسيف,13703,3,Commune,UTC+1,Africa/Algiers
+1445946,DZ,DZ-10,Ain Bessem,عين بسام,32548,3,Commune,UTC+1,Africa/Algiers
+1445947,DZ,DZ-23,'Ain Berda,عين بوردة,20611,3,Commune,UTC+1,Africa/Algiers
+1445948,DZ,DZ-45,'Ain Ben Khelil,عين بن خليل,10554,3,Commune,UTC+1,Africa/Algiers
+1445949,DZ,DZ-16,'Ain Benian,بلدية عين البنيان,31102,3,Commune,UTC+1,Africa/Algiers
+1445950,DZ,DZ-24,'Ain Ben Beida,عين بن بيضاء,9492,3,Commune,UTC+1,Africa/Algiers
+1445953,DZ,DZ-04,Ain Beida,عين البيضاء,116064,3,Commune,UTC+1,Africa/Algiers
+1445955,DZ,DZ-04,'Ain Babouche,عين ببوش,16129,3,Commune,UTC+1,Africa/Algiers
+1445956,DZ,DZ-19,'Ain Azel,عين آزال,43229,3,Commune,UTC+1,Africa/Algiers
+1445957,DZ,DZ-19,Ain Arnat,عين أرنات,39320,3,Commune,UTC+1,Africa/Algiers
+1445958,DZ,DZ-24,'Ain Arko,’Aïn Arko,3037,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1445961,DZ,DZ-25,'Ain Abid,عين عبيد,29486,3,Commune,UTC+1,Africa/Algiers
+1445962,DZ,DZ-19,'Ain Abessa,عين عباسة,16770,3,Commune,UTC+1,Africa/Algiers
+1445969,DZ,DZ-43,Ahmed Rachedi,أحمد راشدي,15819,3,Commune,UTC+1,Africa/Algiers
+1445973,DZ,DZ-23,Ahmed Bel Hadj,Ahmed Bel Hadj,29629,4,village,UTC+1,Africa/Algiers
+1445993,DZ,DZ-46,Aghlal,آغلال,7023,3,Commune,UTC+1,Africa/Algiers
+1446000,DZ,DZ-03,Aflou,أفلو,97805,3,Commune,UTC+1,Africa/Algiers
+1446002,DZ,DZ-35,Afir,أعفير,13223,3,Commune,UTC+1,Africa/Algiers
+1446014,DZ,DZ-01,Adrar,أدرار,68276,2,Urban Settlement,UTC+1,Africa/Algiers
+1446029,DZ,DZ-02,Abou el Hassan,دائرة أبو الحسن,24022,3,Commune,UTC+1,Africa/Algiers
+1446050,DZ,DZ-11,Abalessa,أبلسة,9163,3,Commune,UTC+1,Africa/Algiers
+1446051,DZ,DZ-08,Abadla,العبادلة,13636,3,Commune,UTC+1,Africa/Algiers
+1446068,DZ,DZ-22,Tenira,تنيرة,10049,4,town,UTC+1,Africa/Algiers
+1446086,DZ,DZ-36,Lac des Oiseaux,بحيرة الطيور,10624,3,Commune,UTC+1,Africa/Algiers
+1446111,DZ,DZ-48,Semmar,السمار,5316,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1446131,DZ,DZ-02,El Kharrouba,الخروبة,10885,3,Commune,UTC+1,Africa/Algiers
+1446192,DZ,DZ-02,Labiod Medjadja,الأبيض مجاجة,14733,3,Commune,UTC+1,Africa/Algiers
+1446275,DZ,DZ-02,Ouled Hamou,Ouled Hamou,5698,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1446383,DZ,DZ-44,Tacheta Zougagha,تاشتة زقاغة,23397,3,Commune,UTC+1,Africa/Algiers
+1446395,DZ,DZ-04,Ain Djasser,عين جاسر,15704,3,Commune,UTC+1,Africa/Algiers
+1446401,DZ,DZ-42,Bouhlou,بوحلو,6347,3,Commune,UTC+1,Africa/Algiers
+1446541,DZ,DZ-35,El Harrach,الحراش,48869,3,Commune,UTC+1,Africa/Algiers
+1446542,DZ,DZ-35,El H'madna,El H’madna,7799,3,Urban Settlement,UTC+1,Africa/Algiers
+1446602,DZ,DZ-27,Djebabra,الجبابرة,3403,3,Commune,UTC+1,Africa/Algiers
+1446709,DZ,DZ-29,Sidi Ziane,سيدي زيان,2671,3,Commune,UTC+1,Africa/Algiers
+1446730,DZ,DZ-20,Sidi Ahmed,سيدي أحمد,14592,3,Commune,UTC+1,Africa/Algiers
+1446780,DZ,DZ-29,Ferraguig,فراقيق,2565,3,Commune,UTC+1,Africa/Algiers
+1446888,DZ,DZ-14,Sidi Bakhti,سيدي بختي,11428,4,village,UTC+1,Africa/Algiers
+1446898,DZ,DZ-48,Dar Ben Abdellah,دار بن عبد الله,3499,3,Commune,UTC+1,Africa/Algiers
+1446929,DZ,DZ-29,Sidi Larbi Belmaktar,Sidi Larbi Belmaktar,500,4,village,UTC+1,Africa/Algiers
+1447160,DZ,DZ-48,Lahmar,لحمر,1969,3,Commune,UTC+1,Africa/Algiers
+1447177,DZ,DZ-48,Souk el Djemaa,Souk el Djemâa,7332,3,Urban Settlement,UTC+1,Africa/Algiers
+1447332,DZ,DZ-44,Bir Ould Khelifa,بئر ولد خليفة,12846,3,Commune,UTC+1,Africa/Algiers
+1447334,DZ,DZ-16,Club des Pins,Club des Pins,2611,3,Urban Settlement,UTC+1,Africa/Algiers
+1447352,DZ,DZ-31,`Ain el Turc,عين الترك,7849,3,Commune,UTC+1,Africa/Algiers
+1447381,DZ,DZ-50,Timiaouine,تيمياوين,4493,3,Commune,UTC+1,Africa/Algiers
+1447382,DZ,DZ-50,Bordj Badji Mokhtar,برج باجي مختار,16437,3,Commune,UTC+1,Africa/Algiers
+1447387,DZ,DZ-19,Babor,بابور,18445,3,Commune,UTC+1,Africa/Algiers
+1447390,DZ,DZ-53,In Salah,عين صالح,32518,3,Commune,UTC+1,Africa/Algiers
+1447394,DZ,DZ-48,Ababsa,دوار البابسة,80,4,hamlet,UTC+1,Africa/Algiers
+1447396,DZ,DZ-48,Rouachdia,Rouachdia,1000,4,locality,UTC+1,Africa/Algiers
+1447397,DZ,DZ-48,Smala,Smala,4000,4,locality,UTC+1,Africa/Algiers
+1447544,DZ,DZ-48,Ain Rahma,عين الرحمة,12095,3,Commune,UTC+1,Africa/Algiers
+1447680,DZ,DZ-27,Safsaf,الصفصاف,13980,3,Commune,UTC+1,Africa/Algiers
+1447685,DZ,DZ-27,Souaflia,السوافلية,17223,3,Commune,UTC+1,Africa/Algiers
+1447750,DZ,DZ-48,Sidi Lazreg,سيدي لزرق,5682,3,Commune,UTC+1,Africa/Algiers
+1447813,DZ,DZ-48,Ouled Khelifa,Ouled Khelifa,4936,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1447895,DZ,DZ-26,Sidi Baizid,سيدي بايزيد,7933,3,Commune,UTC+1,Africa/Algiers
+1447909,DZ,DZ-02,Sobha,صبحة,34455,3,Commune,UTC+1,Africa/Algiers
+1447925,DZ,DZ-44,Djelida,جليدة، عين الدفلى,36076,3,Commune,UTC+1,Africa/Algiers
+1447984,DZ,DZ-44,Taghzout,تاغزوت,13934,3,Commune,UTC+1,Africa/Algiers
+1448080,DZ,DZ-26,Bouaiche,بوعيش,8873,4,village,UTC+1,Africa/Algiers
+1448124,DZ,DZ-26,Hannacha,حناشة,4882,3,Commune,UTC+1,Africa/Algiers
+1448149,DZ,DZ-26,Ouled Bouachra,أولاد بوعشرة,890,3,Commune,UTC+1,Africa/Algiers
+1448156,DZ,DZ-17,Hassi Fedoul,حاسي فدول,13171,3,Commune,UTC+1,Africa/Algiers
+1448243,DZ,DZ-02,Moussadek,مصدق,6380,3,Commune,UTC+1,Africa/Algiers
+1448498,DZ,DZ-44,Sidi Said,مكيسنة,7941,3,Commune,UTC+1,Africa/Algiers
+1448513,DZ,DZ-44,Mekhatria,المخاطرية,17129,4,village,UTC+1,Africa/Algiers
+1448557,DZ,DZ-44,Tiberkanine,تيبركانين,16384,3,Commune,UTC+1,Africa/Algiers
+1448569,DZ,DZ-02,Ouled Ammar,أولاد عمار,8756,3,Commune,UTC+1,Africa/Algiers
+1448572,DZ,DZ-44,Zeddine,زدين,12870,3,Commune,UTC+1,Africa/Algiers
+1448577,DZ,DZ-26,Merabtine,Merabtine,6898,3,Urban Settlement,UTC+1,Africa/Algiers
+1448598,DZ,DZ-26,Drablia,Drablia,3436,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1448603,DZ,DZ-26,Sidi Zahar,سيدي زهار,4318,3,Commune,UTC+1,Africa/Algiers
+1448610,DZ,DZ-26,Ouled Slama,أولاد سلامة,29291,3,Commune,UTC+1,Africa/Algiers
+1448622,DZ,DZ-26,Bouhadjar,بوحجار,20215,3,Commune,UTC+1,Africa/Algiers
+1448648,DZ,DZ-10,Ridane,ريدان,3268,3,Commune,UTC+1,Africa/Algiers
+1448657,DZ,DZ-44,Oued Djemaa,وادي الجمعة,9555,3,Commune,UTC+1,Africa/Algiers
+1448659,DZ,DZ-29,El Guettana,القيطنة,2512,3,Commune,UTC+1,Africa/Algiers
+1448671,DZ,DZ-02,Commune des Beni Bou Attab,Commune des Béni Bou Attab,\N,2,locality,UTC+1,Africa/Algiers
+1448672,DZ,DZ-15,Ait Yahia,أيت يحي,14439,2,Commune,UTC+1,Africa/Algiers
+1448679,DZ,DZ-16,Bourouba,أبو روبة,71661,3,Commune,UTC+1,Africa/Algiers
+1448683,DZ,DZ-16,Oued Koriche,وادي قريش,46182,3,Commune,UTC+1,Africa/Algiers
+1448684,DZ,DZ-25,Ali Mendjeli,Ali Mendjeli,110291,3,locality,UTC+1,Africa/Algiers
+1448686,DZ,DZ-02,Guelaftia,Guelaftia,3188,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1448688,DZ,DZ-19,Ouled Sabor,أولاد صابر,12510,3,Commune,UTC+1,Africa/Algiers
+1448689,DZ,DZ-10,Aghbalou,أغبالو,19517,3,Commune,UTC+1,Africa/Algiers
+1448692,DZ,DZ-26,Tafraout,تافراوت,8901,4,village,UTC+1,Africa/Algiers
+1448700,DZ,DZ-16,El Mouradia,المرادية,22813,3,Commune,UTC+1,Africa/Algiers
+1448701,DZ,DZ-28,Khettouti Sed El Djir,خطوطي سد الجير,7058,3,Commune,UTC+1,Africa/Algiers
+1448705,DZ,DZ-18,District of Taher,District of Taher,60426,2,PPLA2,UTC+1,Africa/Algiers
+1448706,DZ,DZ-21,Collo,القل,35682,3,Commune,UTC+1,Africa/Algiers
+1448707,DZ,DZ-15,Maatkas,المعاتقة,29132,3,Commune,UTC+1,Africa/Algiers
+1448708,DZ,DZ-23,Sidi Amar,سيدي عمار,83254,3,Commune,UTC+1,Africa/Algiers
+1448709,DZ,DZ-39,Douar El Ma,دوار الماء,5543,3,Commune,UTC+1,Africa/Algiers
+1448710,DZ,DZ-30,El Borma,البرمة,3205,3,Commune,UTC+1,Africa/Algiers
+1448712,DZ,DZ-01,Zaouia,الزاوية,3026,3,Urban Settlement,UTC+1,Africa/Algiers
+1448713,DZ,DZ-01,Kasbate El Djena,قصبة الجنة,8009,3,Semi-Urban Settlement,UTC+1,Africa/Algiers
+1448714,DZ,DZ-49,Deldoul,دلدول,1748,3,Commune,UTC+1,Africa/Algiers
+1448715,DZ,DZ-49,Tinerkouk,تينركوك,5915,3,Commune,UTC+1,Africa/Algiers
+1448716,DZ,DZ-49,Ksar Kaddour,قصر قدور,1016,3,Commune,UTC+1,Africa/Algiers
+1448717,DZ,DZ-49,Talmine,طالمين,1067,3,Commune,UTC+1,Africa/Algiers
+1448718,DZ,DZ-01,In Zghmir,إن زغمير,9252,3,Commune,UTC+1,Africa/Algiers

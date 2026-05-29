@@ -1,0 +1,586 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+1508375,ET,ET-SO,Waal,Waal,24000,4,village,UTC+3,Africa/Addis_Ababa
+1508377,ET,ET-SO,Ferfer,Ferfer,26058,3,town,UTC+3,Africa/Addis_Ababa
+1508378,ET,ET-SO,Fadhigaradle,Fadhigaradle,34000,4,town,UTC+3,Africa/Addis_Ababa
+1508400,ET,ET-OR,Ziway,ባቱ,49416,3,Town,UTC+3,Africa/Addis_Ababa
+1508458,ET,ET-AM,Zeha,Zeha,8000,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1508493,ET,ET-TI,Zaban Harbey,Zaban Harbey,439,4,village,UTC+3,Africa/Addis_Ababa
+1508497,ET,ET-OR,Yubdo,ዩብዶ,38858,4,town,UTC+3,Africa/Addis_Ababa
+1508501,ET,ET-OR,Yit'a,Yit’a,9732,3,City,UTC+3,Africa/Addis_Ababa
+1508502,ET,ET-AM,Yismala Giyorgis,ዱርቤቴ,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1508505,ET,ET-OR,Yisak'o,Yisak’o,3394,3,Village,UTC+3,Africa/Addis_Ababa
+1508507,ET,\N,Yirga Ch'efe,Yirga Ch’efē,15118,3,Town,UTC+3,Africa/Addis_Ababa
+1508508,ET,ET-SI,Yirga 'Alem,ይርጋለም,36292,3,Town,UTC+3,Africa/Addis_Ababa
+1508587,ET,ET-OR,Yeka,Yeka,346664,3,Sub City,UTC+3,Africa/Addis_Ababa
+1508594,ET,ET-AM,Yegonfoy,Yegonfoy,1100,4,village,UTC+3,Africa/Addis_Ababa
+1508625,ET,ET-OR,Yayu,ያዩ,52851,3,locality,UTC+3,Africa/Addis_Ababa
+1508636,ET,ET-OR,Yaya,Yaya,3275,3,Village,UTC+3,Africa/Addis_Ababa
+1508655,ET,ET-OR,Yabelo,Yabēlo,36300,3,town,UTC+3,Africa/Addis_Ababa
+1508704,ET,ET-TI,Wik'ro,ውቕሮ,50853,3,locality,UTC+3,Africa/Addis_Ababa
+1508711,ET,ET-AM,Wich'ale,Wich’alē,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1508715,ET,ET-OR,Wezemi,Wezemī,11989,3,Rural Settlement,UTC+3,Africa/Addis_Ababa
+1508761,ET,ET-AM,Werota,ወረታ,37307,3,locality,UTC+3,Africa/Addis_Ababa
+1508774,ET,ET-OR,Werji,Werjī,212,4,village,UTC+3,Africa/Addis_Ababa
+1508790,ET,ET-AM,Were Ilu,Were Īlu,14118,3,village,UTC+3,Africa/Addis_Ababa
+1508806,ET,ET-SO,Warder,Warder,450400,4,locality,UTC+3,Africa/Addis_Ababa
+1508811,ET,ET-OR,Werabu,Werabu,8792,3,Rural Settlement,UTC+3,Africa/Addis_Ababa
+1508821,ET,ET-OR,Wenji,Wenjī,17120,4,Town,UTC+3,Africa/Addis_Ababa
+1508827,ET,ET-SI,Wendo Genet,Wendo Genet,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1508829,ET,ET-SI,Wendo,Wendo,22093,3,locality,UTC+3,Africa/Addis_Ababa
+1508836,ET,\N,Wenago,Wenago,69703,3,village,UTC+3,Africa/Addis_Ababa
+1508849,ET,\N,Welk'it'e,ወልቂጤ,53183,3,locality,UTC+3,Africa/Addis_Ababa
+1508866,ET,ET-OR,Welench'iti,Welench’ītī,26242,3,locality,UTC+3,Africa/Addis_Ababa
+1508878,ET,ET-AM,Weldiya,ወልደያ,75070,3,Town,UTC+3,Africa/Addis_Ababa
+1508918,ET,ET-OR,Wegidi,Wegīdī,6357,3,Village,UTC+3,Africa/Addis_Ababa
+1508943,ET,ET-OR,Wedeso,Wedeso,15174,3,City,UTC+3,Africa/Addis_Ababa
+1509019,ET,ET-SW,Waka,Waka,26500,4,village,UTC+3,Africa/Addis_Ababa
+1509230,ET,\N,Turmi,Turmi,1087,3,village,UTC+3,Africa/Addis_Ababa
+1509277,ET,ET-OR,Tulu Bolo,Tulu Bolo,30000,3,town,UTC+3,Africa/Addis_Ababa
+1509356,ET,ET-OR,Tore,Torē,3405,4,town,UTC+3,Africa/Addis_Ababa
+1509361,ET,\N,T'ora,T’ora,9167,4,town,UTC+3,Africa/Addis_Ababa
+1509368,ET,ET-OR,Tole,ጦሌ,62895,3,locality,UTC+3,Africa/Addis_Ababa
+1509392,ET,ET-AM,T'is Isat,T’īs Isat,39200,3,locality,UTC+3,Africa/Addis_Ababa
+1509426,ET,ET-AM,Tilili,Tīlīlī,40350,3,village,UTC+3,Africa/Addis_Ababa
+1509436,ET,ET-AM,Tikil Dingay,Tikil Dingay,43860,3,locality,UTC+3,Africa/Addis_Ababa
+1509499,ET,ET-SW,Tepi,Tēpī,45765,3,town,UTC+3,Africa/Addis_Ababa
+1509502,ET,ET-AM,Tenta,Tenta,\N,3,village,UTC+3,Africa/Addis_Ababa
+1509573,ET,ET-SO,Teferi Ber,Teferī Ber,\N,3,town,UTC+3,Africa/Addis_Ababa
+1509603,ET,ET-SW,Tarch'a Sodo,ታርጫ,16690,4,locality,UTC+3,Africa/Addis_Ababa
+1509663,ET,ET-OR,Suntu,Suntu,20700,4,locality,UTC+3,Africa/Addis_Ababa
+1509721,ET,ET-OR,Solemo,Solemo,75852,3,locality,UTC+3,Africa/Addis_Ababa
+1509743,ET,\N,Sodo,ወላይታ ሶዶ,150871,3,Village,UTC+3,Africa/Addis_Ababa
+1509776,ET,ET-OR,Sire,Sīrē,15695,4,locality,UTC+3,Africa/Addis_Ababa
+1509819,ET,ET-OR,Sigigo,Sīgīgo,15644,3,City,UTC+3,Africa/Addis_Ababa
+1509844,ET,ET-OR,Shuti,Shutī,11192,3,Village,UTC+3,Africa/Addis_Ababa
+1509847,ET,ET-OR,Shuna,Shuna,3710,3,Village,UTC+3,Africa/Addis_Ababa
+1509852,ET,ET-TI,Shugala,Shugala,18206,3,City,UTC+3,Africa/Addis_Ababa
+1509862,ET,\N,Shone,Shonē,41900,3,locality,UTC+3,Africa/Addis_Ababa
+1509884,ET,ET-TI,Shire,Shirē,128792,3,locality,UTC+3,Africa/Addis_Ababa
+1509888,ET,ET-OR,Shinkurt,Shinkurt,44106,3,Urban District,UTC+3,Africa/Addis_Ababa
+1509889,ET,ET-SO,Shinile,Shinile,8287,4,town,UTC+3,Africa/Addis_Ababa
+1509898,ET,ET-SO,Shilabo,Shilabo,\N,3,city,UTC+3,Africa/Addis_Ababa
+1509913,ET,ET-TI,Sheraro,Sheraro,47825,3,locality,UTC+3,Africa/Addis_Ababa
+1509916,ET,ET-OR,Sheno,Sheno,22900,3,locality,UTC+3,Africa/Addis_Ababa
+1509940,ET,ET-AF,Shehet,Shehēt,16301,3,locality,UTC+3,Africa/Addis_Ababa
+1509955,ET,ET-OR,Shebe,Shebē,3587,3,Village,UTC+3,Africa/Addis_Ababa
+1509961,ET,ET-OR,Shashemene,Shashemene,100454,3,Town,UTC+3,Africa/Addis_Ababa
+1509962,ET,ET-OR,Shashamane,ሻሸመኔ,208400,3,locality,UTC+3,Africa/Addis_Ababa
+1509972,ET,ET-OR,Shambu,Shambu,15354,3,Town,UTC+3,Africa/Addis_Ababa
+1509976,ET,ET-OR,Shakiso,Shakiso,47500,3,town,UTC+3,Africa/Addis_Ababa
+1509999,ET,ET-OR,Sewde,Sewde,10558,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1510018,ET,ET-AM,Serja,Serja,180952,3,Urban District,UTC+3,Africa/Addis_Ababa
+1510030,ET,ET-AM,Serego,Serego,1182,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1510041,ET,ET-AM,Serak'o,Serak’o,8632,3,City,UTC+3,Africa/Addis_Ababa
+1510065,ET,ET-OR,Sendafa,Sendafa,12298,3,Town,UTC+3,Africa/Addis_Ababa
+1510075,ET,ET-TI,Semema,Semema,241,4,hamlet,UTC+3,Africa/Addis_Ababa
+1510098,ET,ET-AM,Sela Dingay,Sela Dingay,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1510099,ET,ET-AM,Sek'ot'a,Sek’ot’a,50300,3,locality,UTC+3,Africa/Addis_Ababa
+1510130,ET,ET-OR,Sek'a,Sek’a,7029,4,locality,UTC+3,Africa/Addis_Ababa
+1510131,ET,ET-SW,Sehki,Sēhkī,4635,3,Village,UTC+3,Africa/Addis_Ababa
+1510151,ET,ET-SO,Segeg,Segeg,44531,3,locality,UTC+3,Africa/Addis_Ababa
+1510176,ET,ET-OR,Sebeta,Sebeta,49331,3,Town,UTC+3,Africa/Addis_Ababa
+1510203,ET,ET-GA,Okuna-Kijang,Okuna-Kijang,76218,3,Urban District,UTC+3,Africa/Addis_Ababa
+1510214,ET,ET-SO,Scec Hosc,Scec Hosc,6411,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1510255,ET,ET-OR,Sambodere,Sambodere,19059,3,USett,UTC+3,Africa/Addis_Ababa
+1510283,ET,\N,Saja,Saja,4973,3,Village,UTC+3,Africa/Addis_Ababa
+1510290,ET,ET-OR,Sagure,Sagurē,39856,3,locality,UTC+3,Africa/Addis_Ababa
+1510350,ET,ET-AM,Robit,Robīt,46459,3,City,UTC+3,Africa/Addis_Ababa
+1510351,ET,ET-AM,Robit,ሽዋሮቢት,39600,4,locality,UTC+3,Africa/Addis_Ababa
+1510359,ET,ET-OR,Robe,Robe,44382,3,Town,UTC+3,Africa/Addis_Ababa
+1510360,ET,ET-OR,Robi,Robi,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1510361,ET,ET-OR,Bale Robe,ባሌ ሮቤ,37891,3,locality,UTC+3,Africa/Addis_Ababa
+1510395,ET,ET-AM,Recha,Rēcha,1292,4,village,UTC+3,Africa/Addis_Ababa
+1510419,ET,ET-TI,Rama,Rama,78571,3,locality,UTC+3,Africa/Addis_Ababa
+1510421,ET,ET-SO,Rahele,Rahele,3769,3,Village,UTC+3,Africa/Addis_Ababa
+1510469,ET,ET-OR,Orbatte,Orbatte,61996,3,City,UTC+3,Africa/Addis_Ababa
+1510480,ET,ET-OR,Omo Nada,ኦሞ ናዳ,248173,3,locality,UTC+3,Africa/Addis_Ababa
+1510502,ET,ET-GA,Oghin,Oghin,14735,3,City,UTC+3,Africa/Addis_Ababa
+1510514,ET,ET-OR,Odo Adegaye,Odo Adegayē,2287,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1510526,ET,ET-OR,Oda Alelu,Oda Alelu,4341,3,Rural Settlement,UTC+3,Africa/Addis_Ababa
+1510601,ET,ET-OR,Nek'emte,ነቀምት,115610,3,locality,UTC+3,Africa/Addis_Ababa
+1510602,ET,ET-OR,Nejo,Nejo,29783,3,locality,UTC+3,Africa/Addis_Ababa
+1510610,ET,ET-OR,Negele,Negele,73100,3,Town,UTC+3,Africa/Addis_Ababa
+1510622,ET,ET-AM,Nefas Mewch'a,ነፋስ መውጫ,44200,3,locality,UTC+3,Africa/Addis_Ababa
+1510632,ET,ET-OR,Nazret,አዳማ,324000,3,locality,UTC+3,Africa/Addis_Ababa
+1510690,ET,ET-SO,Mulu,Mulu,3523,3,Village,UTC+3,Africa/Addis_Ababa
+1510697,ET,ET-SO,Muldata,Muldata,5912,3,Village,UTC+3,Africa/Addis_Ababa
+1510709,ET,ET-OR,Muke Dugda,Muke Dugda,3957,3,Village,UTC+3,Africa/Addis_Ababa
+1510736,ET,ET-AM,Mot'a,ሞጣ,30060,3,village,UTC+3,Africa/Addis_Ababa
+1510740,ET,\N,Morsito,Morsito,59441,3,village,UTC+3,Africa/Addis_Ababa
+1510760,ET,ET-AM,Molale,Molalē,93800,4,town,UTC+3,Africa/Addis_Ababa
+1510766,ET,ET-OR,Mojo,Mojo,1171,4,village,UTC+3,Africa/Addis_Ababa
+1510768,ET,ET-OR,Mojo,ሞጆ,61300,3,locality,UTC+3,Africa/Addis_Ababa
+1510785,ET,ET-SW,Mizan Teferi,Mīzan Teferī,62000,3,locality,UTC+3,Africa/Addis_Ababa
+1510787,ET,\N,Mito,Mīto,3280,4,locality,UTC+3,Africa/Addis_Ababa
+1510821,ET,ET-OR,Mini'ita,Mīnī’īta,5547,3,Village,UTC+3,Africa/Addis_Ababa
+1510838,ET,ET-AF,Mile,ሚሌ,56187,3,locality,UTC+3,Africa/Addis_Ababa
+1510842,ET,ET-TI,Mik'imat' Ariwa,Mik’imat’ Āriwa,6283,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1510853,ET,ET-OR,Migira,Mīgīra,625679,3,Urban District,UTC+3,Africa/Addis_Ababa
+1510857,ET,ET-OR,Mi'eso,Mī’ēso,27700,3,locality,UTC+3,Africa/Addis_Ababa
+1510898,ET,ET-OR,Metu,መቱ,29648,3,Town,UTC+3,Africa/Addis_Ababa
+1510912,ET,ET-AM,Metemma,መተማ,25600,3,locality,UTC+3,Africa/Addis_Ababa
+1510913,ET,ET-AF,Mataka,Mataka,1579,4,locality,UTC+3,Africa/Addis_Ababa
+1510916,ET,ET-TI,Metegol,Metegol,27648,3,City,UTC+3,Africa/Addis_Ababa
+1510924,ET,ET-OR,Metahara,Metahāra,23403,3,town,UTC+3,Africa/Addis_Ababa
+1510946,ET,ET-AM,Mesk'ela,Mesk’ela,3393,3,Village,UTC+3,Africa/Addis_Ababa
+1510960,ET,ET-AF,Mesba Mariam,Mesba Mariam,3112,3,Village,UTC+3,Africa/Addis_Ababa
+1510962,ET,ET-AM,Mertule Maryam,Mertule Maryam,27600,3,locality,UTC+3,Africa/Addis_Ababa
+1510963,ET,ET-OR,Merti,መርቲ,90408,4,locality,UTC+3,Africa/Addis_Ababa
+1510968,ET,ET-AM,Mersa,Mersa,63060,3,town,UTC+3,Africa/Addis_Ababa
+1510996,ET,ET-AM,Mer'awi,Mer’āwī,42200,3,locality,UTC+3,Africa/Addis_Ababa
+1510997,ET,ET-OR,Meraro,Meraro,4307,3,locality,UTC+3,Africa/Addis_Ababa
+1510998,ET,ET-SO,Merar,Merar,6998,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1511052,ET,ET-OR,Mendi,Mendī,27170,3,town,UTC+3,Africa/Addis_Ababa
+1511057,ET,ET-OR,Mendelo,Mendelo,6265,3,Village,UTC+3,Africa/Addis_Ababa
+1511065,ET,ET-OR,Mena,Mena,22100,4,locality,UTC+3,Africa/Addis_Ababa
+1511086,ET,ET-OR,Melka Jebdu,Melka Jebdu,1423,4,village,UTC+3,Africa/Addis_Ababa
+1511091,ET,ET-SO,Melka Chireti,Melka Chireti,102602,3,locality,UTC+3,Africa/Addis_Ababa
+1511094,ET,ET-OR,Meliyu,Melīyu,5482,3,Village,UTC+3,Africa/Addis_Ababa
+1511103,ET,ET-BE,Melca Daboch,Melca Daboch,12530,4,town,UTC+3,Africa/Addis_Ababa
+1511122,ET,ET-OR,Mek'i,Mek’ī,37836,3,village,UTC+3,Africa/Addis_Ababa
+1511125,ET,ET-TI,Mek'ele,መቀሌ,260292,2,locality,UTC+3,Africa/Addis_Ababa
+1511130,ET,ET-AM,Mekane Selam,Mekane Selam,89403,3,town,UTC+3,Africa/Addis_Ababa
+1511135,ET,ET-SW,Meka,Meka,7545,3,Village,UTC+3,Africa/Addis_Ababa
+1511136,ET,ET-SI,Mejo,Mejo,63293,3,locality,UTC+3,Africa/Addis_Ababa
+1511145,ET,ET-AM,Mehal Meda,Mehal Mēda,48793,3,town,UTC+3,Africa/Addis_Ababa
+1511161,ET,ET-OR,Mega,Mēga,6884,3,town,UTC+3,Africa/Addis_Ababa
+1511178,ET,ET-OR,Meda Welabu,ሜዳ ዋለቡ,97532,4,locality,UTC+3,Africa/Addis_Ababa
+1511194,ET,ET-OR,Mechara,Mechara,65003,3,town,UTC+3,Africa/Addis_Ababa
+1511197,ET,ET-TI,Mecarre,Mecarre,254,4,hamlet,UTC+3,Africa/Addis_Ababa
+1511236,ET,ET-TI,Maych'ew,ማይጨው,38393,4,locality,UTC+3,Africa/Addis_Ababa
+1511260,ET,ET-SW,Masha,Masha,29113,3,town,UTC+3,Africa/Addis_Ababa
+1511271,ET,ET-SO,Maruf,Maruf,3011,3,Village,UTC+3,Africa/Addis_Ababa
+1511274,ET,ET-OR,Maru,Maru,57074,3,locality,UTC+3,Africa/Addis_Ababa
+1511276,ET,ET-OR,Maru,Maru,1336,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1511303,ET,ET-SW,Manta,Manta,5356,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1511304,ET,ET-OR,Manso,Manso,7722,3,Village,UTC+3,Africa/Addis_Ababa
+1511309,ET,ET-AM,Mangui,Mangui,24913,3,City,UTC+3,Africa/Addis_Ababa
+1511325,ET,ET-BE,Mambuk,Mambuk,24100,4,locality,UTC+3,Africa/Addis_Ababa
+1511330,ET,ET-SO,Mallic,Mallic,57317,3,City,UTC+3,Africa/Addis_Ababa
+1511345,ET,ET-AM,Maksenyit,Maksenyit,25800,4,locality,UTC+3,Africa/Addis_Ababa
+1511349,ET,ET-AM,Majete,Majetē,\N,3,town,UTC+3,Africa/Addis_Ababa
+1511363,ET,ET-TI,Mai Ciogonte,Mai Ciogonte,1082,4,village,UTC+3,Africa/Addis_Ababa
+1511369,ET,ET-AM,Mahdere Maryam,Mahdere Maryam,1608,3,City,UTC+3,Africa/Addis_Ababa
+1511381,ET,ET-TI,Madira Gebeya,Madira Gebeya,5420,3,Village,UTC+3,Africa/Addis_Ababa
+1511382,ET,ET-TI,Madley,Madley,4886,3,Village,UTC+3,Africa/Addis_Ababa
+1511408,ET,ET-AM,Lumame,Lumamē,20900,4,town,UTC+3,Africa/Addis_Ababa
+1511428,ET,\N,Lots'e,Lots’ē,10084,3,Village,UTC+3,Africa/Addis_Ababa
+1511452,ET,ET-AF,Logiya,Logīya,29385,3,locality,UTC+3,Africa/Addis_Ababa
+1511457,ET,\N,Lobuni,Lobuni,3363,4,locality,UTC+3,Africa/Addis_Ababa
+1511466,ET,ET-OR,Limiti,Limiti,19013,3,City,UTC+3,Africa/Addis_Ababa
+1511494,ET,ET-TI,Leyto,Leyto,66583,3,City,UTC+3,Africa/Addis_Ababa
+1511533,ET,ET-SI,Leku,Leku,31700,3,village,UTC+3,Africa/Addis_Ababa
+1511611,ET,ET-AM,Lalibela,ላሊበላ,39100,3,Town,UTC+3,Africa/Addis_Ababa
+1511646,ET,ET-OR,K'wat,K’wat,2015,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1511651,ET,ET-OR,Kuyu,ቁዩ,121052,4,locality,UTC+3,Africa/Addis_Ababa
+1511655,ET,ET-OR,Kuyera,Kuyera,21100,3,locality,UTC+3,Africa/Addis_Ababa
+1511656,ET,ET-AM,Kuye,Kuyē,601,4,village,UTC+3,Africa/Addis_Ababa
+1511690,ET,ET-SO,Fantaweina,Fantaweina,830,4,village,UTC+3,Africa/Addis_Ababa
+1511696,ET,ET-OR,K'urk'ura,K’urk’ura,451,3,Rural Settlement,UTC+3,Africa/Addis_Ababa
+1511709,ET,ET-AM,Kure,Kurē,5707,3,City,UTC+3,Africa/Addis_Ababa
+1511736,ET,ET-AM,K'una,K’una,14068,3,Village,UTC+3,Africa/Addis_Ababa
+1511764,ET,ET-OR,Kula,Kula,\N,3,town,UTC+3,Africa/Addis_Ababa
+1511769,ET,ET-TI,Kuhila,Kuhila,100,4,hamlet,UTC+3,Africa/Addis_Ababa
+1511783,ET,ET-AM,Kubalge,Kubalgē,25380,3,City,UTC+3,Africa/Addis_Ababa
+1511879,ET,ET-TI,Korem,Korem,33117,3,Town,UTC+3,Africa/Addis_Ababa
+1511901,ET,ET-TI,K'orbeta,K’orbeta,519,4,village,UTC+3,Africa/Addis_Ababa
+1511923,ET,\N,Konso,Konso,4593,3,locality,UTC+3,Africa/Addis_Ababa
+1511954,ET,ET-OR,Kolobo,Kolobo,41461,3,Urban District,UTC+3,Africa/Addis_Ababa
+1511957,ET,\N,K'olito,ሀላባ ዞን,26867,3,locality,UTC+3,Africa/Addis_Ababa
+1511966,ET,ET-AM,K'ola Diba,K’ola Diba,27300,3,locality,UTC+3,Africa/Addis_Ababa
+1511969,ET,ET-OR,Kokosa,ኮኮሳ,71693,3,town,UTC+3,Africa/Addis_Ababa
+1511989,ET,ET-OR,Kofele,Kofelē,18772,3,locality,UTC+3,Africa/Addis_Ababa
+1512019,ET,ET-AA,Kitime,Kitimē,4352,3,Village,UTC+3,Africa/Addis_Ababa
+1512064,ET,ET-AM,K'ilenti,K’īlentī,13043,3,City,UTC+3,Africa/Addis_Ababa
+1512092,ET,ET-OR,Kibre Mengist,Kibre Mengist,47600,3,town,UTC+3,Africa/Addis_Ababa
+1512097,ET,\N,Kibet,Kibet,47970,3,town,UTC+3,Africa/Addis_Ababa
+1512101,ET,ET-OR,AdeleKeyke,Adele Keyke,1638,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1512102,ET,ET-AM,K'ey Gedel,K’ey Gedel,4610,3,Village,UTC+3,Africa/Addis_Ababa
+1512165,ET,ET-OR,Kero,Kero,102072,3,Urban District,UTC+3,Africa/Addis_Ababa
+1512202,ET,ET-DD,Keraru,Keraru,245,4,hamlet,UTC+3,Africa/Addis_Ababa
+1512205,ET,ET-AM,K'eranyo,K’eranyo,13544,3,City,UTC+3,Africa/Addis_Ababa
+1512210,ET,ET-AM,K'erada,K’erada,8094,3,Village,UTC+3,Africa/Addis_Ababa
+1512218,ET,ET-OR,K'enyi,K’enyī,8207,3,Rural Settlement,UTC+3,Africa/Addis_Ababa
+1512234,ET,ET-AM,Kemise,Kemisē,33831,3,locality,UTC+3,Africa/Addis_Ababa
+1512236,ET,ET-OR,K'emet'e,K’emet’ē,168655,3,City,UTC+3,Africa/Addis_Ababa
+1512241,ET,ET-AM,Kombolcha,ኮምቦልቻ,93605,3,Town,UTC+3,Africa/Addis_Ababa
+1512253,ET,\N,Kemba,Kemba,28605,3,town,UTC+3,Africa/Addis_Ababa
+1512272,ET,ET-OR,Kele,Kele,59469,3,locality,UTC+3,Africa/Addis_Ababa
+1512278,ET,ET-SO,K'elafo,K’elafo,11346,4,locality,UTC+3,Africa/Addis_Ababa
+1512320,ET,ET-OR,K'ech'ema,K’ech’ema,61808,3,town,UTC+3,Africa/Addis_Ababa
+1512327,ET,ET-SO,Kebri Dahar,Kebri Dahar,45900,3,locality,UTC+3,Africa/Addis_Ababa
+1512328,ET,ET-SO,K'ebri Beyah,K’ebrī Beyah,11481,3,locality,UTC+3,Africa/Addis_Ababa
+1512339,ET,ET-SI,K'ebalenka,K’ebalenka,86714,3,City,UTC+3,Africa/Addis_Ababa
+1512342,ET,ET-SW,K'ayi,K’ayī,49122,3,City,UTC+3,Africa/Addis_Ababa
+1512348,ET,ET-AA,K'at'ila,K’at’ila,20000,4,town,UTC+3,Africa/Addis_Ababa
+1512351,ET,ET-AM,K'at'a,K’at’a,189898,3,locality,UTC+3,Africa/Addis_Ababa
+1512370,ET,ET-OR,Karamile,Karamīlē,101975,3,town,UTC+3,Africa/Addis_Ababa
+1512372,ET,ET-AM,Kara K'ore,Kara K’orē,7487,3,town,UTC+3,Africa/Addis_Ababa
+1512406,ET,ET-OR,Kake,Kake,51947,3,village,UTC+3,Africa/Addis_Ababa
+1512413,ET,ET-OR,Kachisi,ግንደ በረት,63748,3,locality,UTC+3,Africa/Addis_Ababa
+1512454,ET,\N,Jinka,Jinka,54400,3,locality,UTC+3,Africa/Addis_Ababa
+1512464,ET,ET-OR,Jimma,ጅማ,229237,3,locality,UTC+3,Africa/Addis_Ababa
+1512473,ET,ET-TI,Jijira,Jījīra,155690,3,City,UTC+3,Africa/Addis_Ababa
+1512477,ET,ET-SO,Jijiga,ጅጅጋ,310991,2,Town,UTC+3,Africa/Addis_Ababa
+1512480,ET,ET-BE,Jigmathia,Jigmathia,\N,3,city,UTC+3,Africa/Addis_Ababa
+1512535,ET,ET-OR,JeloBelina,Jelo Belina,95620,3,city,UTC+3,Africa/Addis_Ababa
+1512543,ET,ET-OR,Jeju,ጀጁ,124093,4,locality,UTC+3,Africa/Addis_Ababa
+1512569,ET,ET-OR,Jarso,Jarso,3488290,3,City proper,UTC+3,Africa/Addis_Ababa
+1512593,ET,\N,Jajura,Jajura,54467,3,locality,UTC+3,Africa/Addis_Ababa
+1512597,ET,ET-OR,Jagenfoy,Jagenfoy,152764,3,locality,UTC+3,Africa/Addis_Ababa
+1512617,ET,ET-OR,Iteya,Īteya,31100,4,locality,UTC+3,Africa/Addis_Ababa
+1512650,ET,ET-SI,Irba,Īrba,112673,3,locality,UTC+3,Africa/Addis_Ababa
+1512660,ET,ET-TI,Intich'o,Intich’o,21800,4,locality,UTC+3,Africa/Addis_Ababa
+1512668,ET,\N,Inseno,Insēno,30500,3,locality,UTC+3,Africa/Addis_Ababa
+1512676,ET,ET-AM,Injibara,አማርኛ እና አገውኛ,72535,3,locality,UTC+3,Africa/Addis_Ababa
+1512703,ET,ET-AM,Indo,Indo,798,3,USett,UTC+3,Africa/Addis_Ababa
+1512707,ET,\N,Indibir,እምድብር,6488,3,locality,UTC+3,Africa/Addis_Ababa
+1512717,ET,ET-TI,Inda Silase,እንዳስላሴ,75089,4,locality,UTC+3,Africa/Addis_Ababa
+1512732,ET,ET-TI,Indabaguna,Indabaguna,21400,3,locality,UTC+3,Africa/Addis_Ababa
+1512770,ET,ET-OR,Ilu Danse,Īlu Dansē,55683,3,town,UTC+3,Africa/Addis_Ababa
+1512817,ET,ET-OR,Ijaji,Ījajī,12533,4,village,UTC+3,Africa/Addis_Ababa
+1512821,ET,ET-OR,Ihud Gebeya,ሀሩ(ወረዳ),67262,4,village,UTC+3,Africa/Addis_Ababa
+1512834,ET,ET-AM,Iesembet,Iesembet,174602,3,town,UTC+3,Africa/Addis_Ababa
+1512851,ET,ET-TI,Idaga Hamus,Idaga Hamus,25400,4,locality,UTC+3,Africa/Addis_Ababa
+1512861,ET,ET-AM,Ibnat,Ibnat,27000,3,locality,UTC+3,Africa/Addis_Ababa
+1512875,ET,ET-OR,Huruta,Huruta,27500,3,locality,UTC+3,Africa/Addis_Ababa
+1512917,ET,\N,Hosa'ina,ሆሣዕና,75963,2,locality,UTC+3,Africa/Addis_Ababa
+1512954,ET,ET-OR,Hirna,Hīrna,20463,3,town,UTC+3,Africa/Addis_Ababa
+1512966,ET,ET-TI,Humera,Humera,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1512979,ET,ET-TI,Hidaga Barya,Hidaga Barya,288849,3,City,UTC+3,Africa/Addis_Ababa
+1512994,ET,ET-OR,Hena,Hēna,12411,4,town,UTC+3,Africa/Addis_Ababa
+1513008,ET,ET-AM,Hayk',Hāyk’,28500,3,locality,UTC+3,Africa/Addis_Ababa
+1513038,ET,ET-SO,Hartishek,Hartīshēk,52379,3,locality,UTC+3,Africa/Addis_Ababa
+1513039,ET,ET-SO,Harshin,Harshin,63799,3,locality,UTC+3,Africa/Addis_Ababa
+1513064,ET,ET-OR,Haro Boru,Haro Boru,143448,3,City,UTC+3,Africa/Addis_Ababa
+1513072,ET,ET-AM,Haro,Hāro,42035,3,City,UTC+3,Africa/Addis_Ababa
+1513097,ET,ET-AM,Haria,Haria,56985,3,locality,UTC+3,Africa/Addis_Ababa
+1513100,ET,ET-SO,Hargele,Hargele,66113,3,locality,UTC+3,Africa/Addis_Ababa
+1513106,ET,ET-SO,Harawa,Harawa,3836,4,locality,UTC+3,Africa/Addis_Ababa
+1513110,ET,ET-HA,Harar,ሐረር,154489,2,village,UTC+3,Africa/Addis_Ababa
+1513127,ET,ET-AM,Harbu,Harbu,24500,4,town,UTC+3,Africa/Addis_Ababa
+1513131,ET,ET-SO,Harardighet,Harardighet,195428,3,City,UTC+3,Africa/Addis_Ababa
+1513137,ET,ET-AM,Hara Gebeya,Hāra Gebeya,\N,3,city,UTC+3,Africa/Addis_Ababa
+1513157,ET,ET-AM,Hamus Gebeya,Hāmus Gebeya,713385,3,City,UTC+3,Africa/Addis_Ababa
+1513169,ET,ET-SO,Hammero,Hammero,60477,3,locality,UTC+3,Africa/Addis_Ababa
+1513198,ET,ET-OR,Halela Aluia,Halela Aluia,2625,4,village,UTC+3,Africa/Addis_Ababa
+1513224,ET,ET-SI,Hagere Selam,Hāgere Selam,5169,4,locality,UTC+3,Africa/Addis_Ababa
+1513225,ET,ET-OR,Hagere Hiywet,አምቦ,48171,3,Town,UTC+3,Africa/Addis_Ababa
+1513239,ET,\N,Hadero,Hadero,48000,3,town,UTC+3,Africa/Addis_Ababa
+1513241,ET,ET-OR,Hadami,Hadamī,58826,3,town,UTC+3,Africa/Addis_Ababa
+1513243,ET,ET-OR,Hach'o,Hāch’o,252289,3,City,UTC+3,Africa/Addis_Ababa
+1513271,ET,ET-AM,Gut'mera,Gut’mēra,273582,3,locality,UTC+3,Africa/Addis_Ababa
+1513286,ET,ET-SO,El Bahay,El Bahay,23000,4,village,UTC+3,Africa/Addis_Ababa
+1513287,ET,ET-OR,Gursum,Gursum,52679,3,town,UTC+3,Africa/Addis_Ababa
+1513311,ET,ET-AM,Gurbete,Gurbetē,26500,3,locality,UTC+3,Africa/Addis_Ababa
+1513321,ET,ET-AM,Gur Amba,Gur Āmba,5208,4,town,UTC+3,Africa/Addis_Ababa
+1513331,ET,\N,Guracha,Guracha,103145,3,City,UTC+3,Africa/Addis_Ababa
+1513355,ET,ET-OR,Gundo Meskel,Gundo Meskel,132015,3,town,UTC+3,Africa/Addis_Ababa
+1513399,ET,ET-OR,Gulele,Gulele,267624,3,Sub City,UTC+3,Africa/Addis_Ababa
+1513477,ET,ET-SW,Komtikas,Komtikas,29400,3,locality,UTC+3,Africa/Addis_Ababa
+1513558,ET,ET-AM,Gorgora,ጎርጎራ,4783,4,village,UTC+3,Africa/Addis_Ababa
+1513567,ET,ET-OR,Gore,Gorē,11030,3,town,UTC+3,Africa/Addis_Ababa
+1513577,ET,ET-AM,Gorandu,Gorandu,85557,3,locality,UTC+3,Africa/Addis_Ababa
+1513578,ET,ET-OR,Gora Keteba,Gora Keteba,40859,3,City,UTC+3,Africa/Addis_Ababa
+1513604,ET,ET-OR,Gonfi K'edida,Gonfī K’edīda,77817,3,City,UTC+3,Africa/Addis_Ababa
+1513611,ET,ET-AM,Gonder,ጎንደር ከተማ,207044,3,Town,UTC+3,Africa/Addis_Ababa
+1513758,ET,ET-SO,Gode,Gode,71223,3,city,UTC+3,Africa/Addis_Ababa
+1513788,ET,ET-OR,Gobesa,Gobēsa,53014,3,town,UTC+3,Africa/Addis_Ababa
+1513805,ET,ET-OR,Goba,ጎባ,34369,3,Town,UTC+3,Africa/Addis_Ababa
+1513816,ET,ET-OR,Waliso,Waliso,38394,3,Town,UTC+3,Africa/Addis_Ababa
+1513827,ET,ET-AM,Gishe Abay,ግሽ አባይ,3385,4,locality,UTC+3,Africa/Addis_Ababa
+1513871,ET,ET-OR,Ghinnir,Ghinnir,17102,3,Town,UTC+3,Africa/Addis_Ababa
+1513882,ET,ET-OR,Ginch'i,Gīnch’ī,27867,3,locality,UTC+3,Africa/Addis_Ababa
+1513886,ET,ET-AM,Gimja Bet Maryam,Gimja Bēt Maryam,180393,3,City,UTC+3,Africa/Addis_Ababa
+1513892,ET,\N,Gimbicho,Gīmbīcho,15728,3,locality,UTC+3,Africa/Addis_Ababa
+1513896,ET,ET-OR,Gimbi,Gimbi,31395,3,Town,UTC+3,Africa/Addis_Ababa
+1513904,ET,ET-SO,Raqo,Raqo,25090,4,town,UTC+3,Africa/Addis_Ababa
+1513916,ET,\N,Gidole,Gīdolē,23492,3,town,UTC+3,Africa/Addis_Ababa
+1513935,ET,ET-OR,Gibe,Gībē,1370,4,village,UTC+3,Africa/Addis_Ababa
+1513953,ET,ET-SO,Giadabele,Giadabele,29200,4,town,UTC+3,Africa/Addis_Ababa
+1513957,ET,ET-OR,Ghio,Ghio,98917,3,town,UTC+3,Africa/Addis_Ababa
+1513962,ET,ET-OR,Ghibie,Ghibie,64032,3,town,UTC+3,Africa/Addis_Ababa
+1513966,ET,ET-SO,Gheriale,Gheriale,89692,3,City,UTC+3,Africa/Addis_Ababa
+1513971,ET,ET-SO,Gherber Offer,Gherber Offer,126666,3,locality,UTC+3,Africa/Addis_Ababa
+1513992,ET,ET-AM,Ghedes Micael,Ghedes Micael,9356,3,City,UTC+3,Africa/Addis_Ababa
+1514005,ET,ET-AF,Gawane,Gawanē,11279,4,locality,UTC+3,Africa/Addis_Ababa
+1514010,ET,ET-OR,Getema,Getema,\N,3,town,UTC+3,Africa/Addis_Ababa
+1514014,ET,\N,Gasuba,ገሱባ,16608,2,city,UTC+3,Africa/Addis_Ababa
+1514019,ET,ET-SW,Geisha,Geisha,325115,3,City,UTC+3,Africa/Addis_Ababa
+1514038,ET,ET-TI,Gergember,Gergember,2213,4,village,UTC+3,Africa/Addis_Ababa
+1514099,ET,ET-OR,Genet,Genet,25593,3,locality,UTC+3,Africa/Addis_Ababa
+1514137,ET,ET-OR,Gelila,Gelīla,4170,4,town,UTC+3,Africa/Addis_Ababa
+1514141,ET,ET-OR,Gelemso,Gelemso,34200,3,town,UTC+3,Africa/Addis_Ababa
+1514154,ET,ET-SO,Geladi,Geladī,\N,3,city,UTC+3,Africa/Addis_Ababa
+1514164,ET,ET-OR,Gedo,Gēdo,15400,4,town,UTC+3,Africa/Addis_Ababa
+1514179,ET,ET-SO,Gedeb,Gedeb,24000,3,locality,UTC+3,Africa/Addis_Ababa
+1514182,ET,\N,Gedeb,Gedeb,100531,3,village,UTC+3,Africa/Addis_Ababa
+1514192,ET,ET-OR,Gechi,Gechī,91562,3,town,UTC+3,Africa/Addis_Ababa
+1514199,ET,ET-OR,Gebre Guracha,Gebre Guracha,30536,3,Town,UTC+3,Africa/Addis_Ababa
+1514210,ET,ET-OR,Gebezi,Gebezī,143600,3,City,UTC+3,Africa/Addis_Ababa
+1514240,ET,ET-OR,Gatira,Gatīra,52098,3,village,UTC+3,Africa/Addis_Ababa
+1514258,ET,ET-OR,Gargiere,Gargiere,101396,3,locality,UTC+3,Africa/Addis_Ababa
+1514301,ET,ET-OR,Gangeletta,Gangeletta,53935,3,locality,UTC+3,Africa/Addis_Ababa
+1514316,ET,ET-GA,Gambela,ጋምቤላ,66100,2,Town,UTC+3,Africa/Addis_Ababa
+1514325,ET,ET-OR,Galira,Galīra,64602,3,locality,UTC+3,Africa/Addis_Ababa
+1514363,ET,ET-SI,Gado,Gado,50772,3,locality,UTC+3,Africa/Addis_Ababa
+1514382,ET,ET-OR,Gabdie,Gabdie,55869,3,locality,UTC+3,Africa/Addis_Ababa
+1514387,ET,ET-SO,Gabagaba,Gabagaba,98285,3,locality,UTC+3,Africa/Addis_Ababa
+1514395,ET,ET-AF,Fursi,ሀደሌኤላ አፋር ኢትዮጵያ,35255,4,locality,UTC+3,Africa/Addis_Ababa
+1514402,ET,ET-GA,Pinyudo,Pinyudo,106079,3,City,UTC+3,Africa/Addis_Ababa
+1514407,ET,ET-OR,Funyan Bira,Funyan Bīra,25000,3,locality,UTC+3,Africa/Addis_Ababa
+1514436,ET,\N,Fofa,Fofa,4960,4,town,UTC+3,Africa/Addis_Ababa
+1514457,ET,ET-AM,Finote Selam,ፍኖተ ሰላም,25913,3,Town,UTC+3,Africa/Addis_Ababa
+1514469,ET,ET-OR,Filtu,Fīltu,4972,3,village,UTC+3,Africa/Addis_Ababa
+1514472,ET,ET-AM,Filakit,Filakit,26500,3,locality,UTC+3,Africa/Addis_Ababa
+1514475,ET,ET-SO,Fik,Fik,94272,3,town,UTC+3,Africa/Addis_Ababa
+1514483,ET,ET-OR,Fiche,Fiche,27493,3,Town,UTC+3,Africa/Addis_Ababa
+1514509,ET,ET-AM,Feres Bet,Feres Bēt,53523,3,town,UTC+3,Africa/Addis_Ababa
+1514513,ET,ET-OR,Ferek'esa,Fērek’esa,500,4,village,UTC+3,Africa/Addis_Ababa
+1514532,ET,\N,Felege Neway,Felege Neway,33429,3,Town,UTC+3,Africa/Addis_Ababa
+1514537,ET,ET-OR,Felana,Felana,26200,4,locality,UTC+3,Africa/Addis_Ababa
+1514581,ET,ET-OR,Faille,Faille,177714,3,City,UTC+3,Africa/Addis_Ababa
+1514588,ET,ET-AM,Fafa,Fafa,647972,3,City,UTC+3,Africa/Addis_Ababa
+1514607,ET,ET-SO,Erer,Ērer,48897,3,town,UTC+3,Africa/Addis_Ababa
+1514615,ET,ET-OR,Era,Era,197314,3,locality,UTC+3,Africa/Addis_Ababa
+1514637,ET,ET-SO,Golwayn,Golwayn,20000,4,village,UTC+3,Africa/Addis_Ababa
+1514658,ET,ET-SO,Elanle,Elanle,\N,3,city,UTC+3,Africa/Addis_Ababa
+1514729,ET,ET-OR,Ejere,Ējērē,50695,3,town,UTC+3,Africa/Addis_Ababa
+1514738,ET,ET-AM,Efeson,Ēfēson,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1514745,ET,\N,Echene,Ēchene,19392,3,City,UTC+3,Africa/Addis_Ababa
+1514768,ET,ET-AM,Dure,Durē,3058,3,Urban Settlement,UTC+3,Africa/Addis_Ababa
+1514772,ET,\N,Durame,Durame,45186,3,Town,UTC+3,Africa/Addis_Ababa
+1514792,ET,ET-OR,Duleta,Duleta,21035,3,City,UTC+3,Africa/Addis_Ababa
+1514830,ET,ET-OR,Dufa,Dufa,3710,3,USett,UTC+3,Africa/Addis_Ababa
+1514839,ET,ET-AM,Duch'e,Duch’ē,52571,3,USett,UTC+3,Africa/Addis_Ababa
+1514843,ET,ET-OR,Dubulu,Dubulu,3271,3,USett,UTC+3,Africa/Addis_Ababa
+1514844,ET,ET-AF,Dubti,Dubti,31235,3,town,UTC+3,Africa/Addis_Ababa
+1514854,ET,ET-AF,Duba,Duba,460,3,USett,UTC+3,Africa/Addis_Ababa
+1514856,ET,ET-OR,Duba,Duba,19898,3,USett,UTC+3,Africa/Addis_Ababa
+1514870,ET,ET-OR,Dowreta,Dowreta,3800,3,USett,UTC+3,Africa/Addis_Ababa
+1514877,ET,ET-OR,Doro Wayu,Doro Wayu,1528,3,USett,UTC+3,Africa/Addis_Ababa
+1514879,ET,ET-OR,Doroba,Doroba,196427,3,City,UTC+3,Africa/Addis_Ababa
+1514891,ET,ET-OR,Dongoro K'ere,Dongoro K’erē,217330,3,City,UTC+3,Africa/Addis_Ababa
+1514896,ET,ET-AM,Doncoschi,Doncoschi,177403,3,City,UTC+3,Africa/Addis_Ababa
+1514900,ET,ET-OR,Dolu,Dolu,101622,3,USett,UTC+3,Africa/Addis_Ababa
+1514901,ET,ET-SO,Dolo Odo,Dolo Odo,26323,4,locality,UTC+3,Africa/Addis_Ababa
+1514904,ET,ET-TI,Dolo,Dolo,41400,4,village,UTC+3,Africa/Addis_Ababa
+1514913,ET,\N,Doketu,Doketu,13103,3,USett,UTC+3,Africa/Addis_Ababa
+1514921,ET,\N,Dofo,Dofo,16615,3,USett,UTC+3,Africa/Addis_Ababa
+1514927,ET,ET-OR,Dodola,Dodola,32015,3,Town,UTC+3,Africa/Addis_Ababa
+1514929,ET,ET-GA,Dodi,Dodi,9787,3,USett,UTC+3,Africa/Addis_Ababa
+1514970,ET,ET-DD,Dire Dawa,ድሬዳዋ,342417,2,Chartered City,UTC+3,Africa/Addis_Ababa
+1515064,ET,\N,Dila,ዲላ,59150,3,Town,UTC+3,Africa/Addis_Ababa
+1515079,ET,ET-SO,Dihun,Dihun,25082,4,village,UTC+3,Africa/Addis_Ababa
+1515156,ET,ET-BE,Dibate,Dibate,21300,4,locality,UTC+3,Africa/Addis_Ababa
+1515173,ET,ET-SO,Dewele,Dewelē,3357,4,town,UTC+3,Africa/Addis_Ababa
+1515188,ET,ET-AM,Dessie,ደሴ,229150,3,locality,UTC+3,Africa/Addis_Ababa
+1515189,ET,ET-OR,Dese,Dese,151174,3,Town,UTC+3,Africa/Addis_Ababa
+1515229,ET,ET-OR,Derba,ደርባ,2188,4,town,UTC+3,Africa/Addis_Ababa
+1515231,ET,\N,Derba,Derba,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1515241,ET,ET-OR,Dera,Dēra,30700,3,locality,UTC+3,Africa/Addis_Ababa
+1515242,ET,ET-OR,Dera,ዴራ,87755,3,town,UTC+3,Africa/Addis_Ababa
+1515268,ET,ET-AM,Dengel Ber,Dengel Ber,\N,3,village,UTC+3,Africa/Addis_Ababa
+1515291,ET,ET-SO,Denan,Denan,6135,4,town,UTC+3,Africa/Addis_Ababa
+1515308,ET,ET-OR,Dembi Dolo,Dembī Dolo,29448,3,Town,UTC+3,Africa/Addis_Ababa
+1515323,ET,ET-AM,Dembech'a,ደምበጫ,29800,3,locality,UTC+3,Africa/Addis_Ababa
+1515330,ET,ET-AM,Delgi,Delgī,51255,3,village,UTC+3,Africa/Addis_Ababa
+1515362,ET,ET-AM,Dejen,Dejen,11739,4,town,UTC+3,Africa/Addis_Ababa
+1515372,ET,ET-AM,Degolo,Degolo,65648,3,town,UTC+3,Africa/Addis_Ababa
+1515379,ET,ET-OR,Degem Hambiso,Degem Hambīso,50969,3,town,UTC+3,Africa/Addis_Ababa
+1515383,ET,ET-SO,Degeh Bur,ደገሃቡር,38614,3,locality,UTC+3,Africa/Addis_Ababa
+1515400,ET,ET-OR,Dedo,ዴዶ,288457,3,locality,UTC+3,Africa/Addis_Ababa
+1515405,ET,ET-OR,Deder,Deder,26900,3,town,UTC+3,Africa/Addis_Ababa
+1515425,ET,ET-OR,Bishoftu,ደብረ ዘይት,104215,3,Town,UTC+3,Africa/Addis_Ababa
+1515428,ET,ET-AM,Debre Werk',ደብረ ወርቅ,10579,4,Town,UTC+3,Africa/Addis_Ababa
+1515438,ET,ET-AM,Debre Tabor,ደብረ ታቦር,86504,3,Town,UTC+3,Africa/Addis_Ababa
+1515439,ET,ET-AM,Debre Sina,Debre Sīna,9409,4,town,UTC+3,Africa/Addis_Ababa
+1515446,ET,ET-AM,Debre Mark'os,ደብረ ማርቆስ,100310,4,locality,UTC+3,Africa/Addis_Ababa
+1515457,ET,ET-AM,Debre Birhan,ደብረ ብርሃን,73697,3,Town,UTC+3,Africa/Addis_Ababa
+1515500,ET,ET-AM,Debark',Debark’,35750,3,locality,UTC+3,Africa/Addis_Ababa
+1515512,ET,ET-OR,Daye,Dayē,31000,4,locality,UTC+3,Africa/Addis_Ababa
+1515578,ET,ET-SO,Danot,Danot,47236,4,village,UTC+3,Africa/Addis_Ababa
+1515590,ET,ET-AM,Dangila,ዳንግላ,56000,3,locality,UTC+3,Africa/Addis_Ababa
+1515637,ET,\N,Dalocha,Dalocha,6793,4,village,UTC+3,Africa/Addis_Ababa
+1515740,ET,ET-AM,Dabat,Dabat,19922,4,locality,UTC+3,Africa/Addis_Ababa
+1515825,ET,\N,Ciro,Ciro,69800,4,locality,UTC+3,Africa/Addis_Ababa
+1515920,ET,ET-SO,Chinahsen,Chinahsen,25400,3,locality,UTC+3,Africa/Addis_Ababa
+1515937,ET,ET-SI,Ch'iko,Ch’iko,49500,3,locality,UTC+3,Africa/Addis_Ababa
+1515942,ET,ET-AF,Sifra,Sifra,22400,3,locality,UTC+3,Africa/Addis_Ababa
+1515996,ET,\N,Ch'ench'a,Ch’ench’a,18863,3,locality,UTC+3,Africa/Addis_Ababa
+1516017,ET,ET-OR,Chelenko,Chelenko,44446,3,town,UTC+3,Africa/Addis_Ababa
+1516021,ET,ET-SN,Ch'elelek'tu,Ch’elelek’tu,6912,4,locality,UTC+3,Africa/Addis_Ababa
+1516044,ET,\N,Cheha,Cheha,115951,4,locality,UTC+3,Africa/Addis_Ababa
+1516192,ET,\N,Butajira,ቡታጅራ,33406,3,Town,UTC+3,Africa/Addis_Ababa
+1516240,ET,ET-OR,Burka,Burka,96904,3,town,UTC+3,Africa/Addis_Ababa
+1516249,ET,ET-AM,Bure,Burē,25084,3,locality,UTC+3,Africa/Addis_Ababa
+1516293,ET,\N,Bulk'i,Bulk’ī,5742,4,locality,UTC+3,Africa/Addis_Ababa
+1516321,ET,\N,Bu'i,Bu’ī,6966,3,locality,UTC+3,Africa/Addis_Ababa
+1516421,ET,ET-OR,Bore,ቦሬ (ወረዳ),147185,3,town,UTC+3,Africa/Addis_Ababa
+1516441,ET,\N,Bonke,Bonkē,159089,3,locality,UTC+3,Africa/Addis_Ababa
+1516442,ET,ET-OR,Boni,Bonī,2318,4,village,UTC+3,Africa/Addis_Ababa
+1516446,ET,ET-SW,Bonga,ቦንጋ,20858,2,Town,UTC+3,Africa/Addis_Ababa
+1516471,ET,ET-AM,Bolo,Bolo,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1516477,ET,ET-OR,Bole,Bole,308995,3,Sub City,UTC+3,Africa/Addis_Ababa
+1516508,ET,ET-SO,Boh,Boh,103164,3,locality,UTC+3,Africa/Addis_Ababa
+1516510,ET,ET-SO,Bogol Manyo,Bogol Manyo,7517,4,locality,UTC+3,Africa/Addis_Ababa
+1516519,ET,\N,Bodoacio,Bodoacio,20182,3,Vill,UTC+3,Africa/Addis_Ababa
+1516521,ET,\N,Boditi,ቦዲቲ,54709,3,city,UTC+3,Africa/Addis_Ababa
+1516677,ET,ET-SO,Bike,Bīkē,61740,3,town,UTC+3,Africa/Addis_Ababa
+1516703,ET,ET-AM,Bichena,Bichena,19916,3,Town,UTC+3,Africa/Addis_Ababa
+1516789,ET,\N,Bere Baka,Berē Baka,44502,3,RSett,UTC+3,Africa/Addis_Ababa
+1516796,ET,ET-OR,Berbere,በርበሬ (ወረዳ),90642,3,locality,UTC+3,Africa/Addis_Ababa
+1516839,ET,\N,Bale Hawassa,ባሌ ሀዋሳ,31765,2,city,UTC+3,Africa/Addis_Ababa
+1516860,ET,ET-OR,Bek'oji,Bek’ojī,36800,3,locality,UTC+3,Africa/Addis_Ababa
+1516885,ET,ET-OR,Beigi,Beigi,\N,3,locality,UTC+3,Africa/Addis_Ababa
+1516894,ET,ET-OR,Begi,Bēgī,53452,3,locality,UTC+3,Africa/Addis_Ababa
+1516905,ET,ET-OR,Bedesa,Bedēsa,418368,3,City,UTC+3,Africa/Addis_Ababa
+1516907,ET,\N,Bedesa,Bedesa,21394,3,Town,UTC+3,Africa/Addis_Ababa
+1516908,ET,ET-OR,Bedesa,Bedēsa,27613,3,town,UTC+3,Africa/Addis_Ababa
+1516914,ET,ET-OR,Bedele,በደሌ ከተማ,20293,3,Town,UTC+3,Africa/Addis_Ababa
+1516954,ET,ET-AM,Bati,Batī,37600,3,city,UTC+3,Africa/Addis_Ababa
+1517024,ET,ET-BE,Bambesi,Bambesi,26300,4,locality,UTC+3,Africa/Addis_Ababa
+1517048,ET,ET-AM,Balch',Balch’,1142,4,village,UTC+3,Africa/Addis_Ababa
+1517060,ET,ET-OR,Beko,Beko,18426,3,City,UTC+3,Africa/Addis_Ababa
+1517061,ET,ET-OR,Bako,Bako,56908,3,town,UTC+3,Africa/Addis_Ababa
+1517062,ET,\N,Bako,Bako,20267,3,locality,UTC+3,Africa/Addis_Ababa
+1517073,ET,ET-AM,Bahoch,Bahoch,28251,3,City,UTC+3,Africa/Addis_Ababa
+1517079,ET,ET-AM,Bahir Dar,ባሕር-ዳር,243300,2,Town,UTC+3,Africa/Addis_Ababa
+1517116,ET,ET-OR,Babile,Babīlē,36700,3,locality,UTC+3,Africa/Addis_Ababa
+1517147,ET,ET-SO,Aysha,Aysha,3413,4,locality,UTC+3,Africa/Addis_Ababa
+1517156,ET,ET-AM,Aykel,Āykel,78519,3,town,UTC+3,Africa/Addis_Ababa
+1517163,ET,ET-AM,Ayer,Āyer,203,4,village,UTC+3,Africa/Addis_Ababa
+1517173,ET,ET-OR,Ayana,Āyana,21800,3,locality,UTC+3,Africa/Addis_Ababa
+1517191,ET,ET-OR,Aweday,Āweday,83488,3,town,UTC+3,Africa/Addis_Ababa
+1517198,ET,ET-AF,Awash,Āwash,25690,3,locality,UTC+3,Africa/Addis_Ababa
+1517200,ET,ET-SI,Awasa,ሀዋሳ,279454,2,City,UTC+3,Africa/Addis_Ababa
+1517249,ET,ET-AM,At'aye,Āt’aye,13940,4,village,UTC+3,Africa/Addis_Ababa
+1517265,ET,ET-BE,Asosa,አሶሳ,50106,2,locality,UTC+3,Africa/Addis_Ababa
+1517294,ET,ET-OR,Asendabo,Āsendabo,68851,3,locality,UTC+3,Africa/Addis_Ababa
+1517295,ET,ET-OR,Asela,አሰላ,88679,3,Town,UTC+3,Africa/Addis_Ababa
+1517304,ET,ET-OR,Asbe Teferi,Āsbe Teferī,30772,3,locality,UTC+3,Africa/Addis_Ababa
+1517306,ET,ET-AF,Asaita,Asaita,27726,3,town,UTC+3,Africa/Addis_Ababa
+1517308,ET,ET-OR,Asasa,Āsasa,33345,4,locality,UTC+3,Africa/Addis_Ababa
+1517310,ET,ET-AF,Asale,Asale,1368,4,village,UTC+3,Africa/Addis_Ababa
+1517337,ET,ET-AM,Aro Genda,Āro Genda,2060,4,village,UTC+3,Africa/Addis_Ababa
+1517353,ET,ET-OR,Arjo,Ārjo,9172,4,village,UTC+3,Africa/Addis_Ababa
+1517365,ET,ET-TI,Ari,Ari,306,4,village,UTC+3,Africa/Addis_Ababa
+1517380,ET,ET-AF,Arerti,Arerti,23000,4,locality,UTC+3,Africa/Addis_Ababa
+1517384,ET,ET-OR,Arere,Ārērē,840,4,village,UTC+3,Africa/Addis_Ababa
+1517398,ET,\N,Areka,አረካ,71227,3,city,UTC+3,Africa/Addis_Ababa
+1517432,ET,ET-SI,Arbe Gona,Ārbē Gona,111981,3,town,UTC+3,Africa/Addis_Ababa
+1517438,ET,\N,Arba Minch,አርባ ምንጭ,87940,3,Town,UTC+3,Africa/Addis_Ababa
+1517450,ET,ET-OR,Ararso Areda,Ārarso Āreda,1131,4,village,UTC+3,Africa/Addis_Ababa
+1517474,ET,ET-SO,Arabi,Ārabī,148933,4,locality,UTC+3,Africa/Addis_Ababa
+1517480,ET,ET-OR,Ara Ali,Ara Ali,23000,3,locality,UTC+3,Africa/Addis_Ababa
+1517502,ET,ET-AM,Ankober,Ankober,2485,4,village,UTC+3,Africa/Addis_Ababa
+1517539,ET,ET-AM,And Iyela,Ānd Iyēla,46159,3,Vill,UTC+3,Africa/Addis_Ababa
+1517624,ET,ET-AM,Ambo,Ambo,48171,3,Town,UTC+3,Africa/Addis_Ababa
+1517637,ET,ET-AM,Amba Selis,Āmba Selis,19744,3,City,UTC+3,Africa/Addis_Ababa
+1517647,ET,ET-AM,Amba Giorgis,Amba Giorgis,27300,3,locality,UTC+3,Africa/Addis_Ababa
+1517670,ET,ET-AM,Amajo,Āmajo,21122,3,City,UTC+3,Africa/Addis_Ababa
+1517689,ET,ET-AM,Aliyu Amba,Aliyu Amba,2873,3,locality,UTC+3,Africa/Addis_Ababa
+1517719,ET,ET-OR,'Alem T'ena,‘Alem T’ēna,23700,4,locality,UTC+3,Africa/Addis_Ababa
+1517721,ET,ET-AM,'Alem Ketema,‘Alem Ketema,45942,3,town,UTC+3,Africa/Addis_Ababa
+1517728,ET,ET-OR,'Alemaya,‘Alemaya,63700,3,locality,UTC+3,Africa/Addis_Ababa
+1517741,ET,ET-AM,Alefa,Ālefa,61097,3,locality,UTC+3,Africa/Addis_Ababa
+1517745,ET,ET-OR,Ale,አሌ,64266,4,locality,UTC+3,Africa/Addis_Ababa
+1517759,ET,ET-TI,Alamata,አላማጣ,70400,3,Town,UTC+3,Africa/Addis_Ababa
+1517784,ET,ET-TI,Aksum,አክሱም,55724,3,Town,UTC+3,Africa/Addis_Ababa
+1517883,ET,ET-OR,Hagere Maryam,Hagere Maryam,39903,3,locality,UTC+3,Africa/Addis_Ababa
+1517904,ET,ET-OR,Agaro,አጋሮ,28268,3,Town,UTC+3,Africa/Addis_Ababa
+1517905,ET,ET-OR,Agarfa,Āgarfa,51307,3,town,UTC+3,Africa/Addis_Ababa
+1517945,ET,ET-AM,Afersa,Āfersa,218118,3,City,UTC+3,Africa/Addis_Ababa
+1517949,ET,ET-SO,Afder,Afder,5678,4,locality,UTC+3,Africa/Addis_Ababa
+1517951,ET,ET-SO,Afdem,Āfdem,1554,4,locality,UTC+3,Africa/Addis_Ababa
+1517955,ET,ET-AF,Afambo,አፋምቦ,12078,4,Town,UTC+3,Africa/Addis_Ababa
+1517962,ET,ET-TI,Adwa,አድዋ,85600,3,Town,UTC+3,Africa/Addis_Ababa
+1517971,ET,ET-AF,Adola,Adola,22938,3,Town,UTC+3,Africa/Addis_Ababa
+1518015,ET,ET-AM,Adis Zemen,አዲስ ዘመን,30575,3,Town,UTC+3,Africa/Addis_Ababa
+1518019,ET,ET-AM,Adis K'idame,Ādīs K’idamē,20100,3,locality,UTC+3,Africa/Addis_Ababa
+1518051,ET,ET-OR,Adis 'Alem,Ādīs ‘Alem,13423,4,locality,UTC+3,Africa/Addis_Ababa
+1518053,ET,ET-AA,Addis Ababa,አዲስ አበባ,3308865,1,Chartered City,UTC+3,Africa/Addis_Ababa
+1518073,ET,ET-TI,Adi Momena,Ādī Momena,955,4,village,UTC+3,Africa/Addis_Ababa
+1518144,ET,ET-TI,Adi Gudom,Ādī Gudom,53588,3,locality,UTC+3,Africa/Addis_Ababa
+1518145,ET,ET-TI,Adigrat,አዲግራት,76400,3,Town,UTC+3,Africa/Addis_Ababa
+1518165,ET,ET-SO,Adigala,Ādīgala,5835,4,locality,UTC+3,Africa/Addis_Ababa
+1518180,ET,ET-TI,Adi Da`iro,Ādī Da‘iro,56563,3,town,UTC+3,Africa/Addis_Ababa
+1518253,ET,ET-AM,Adet,Ādēt,33073,3,locality,UTC+3,Africa/Addis_Ababa
+1518262,ET,ET-OR,Adere,Āderē,176870,3,City with Environs,UTC+3,Africa/Addis_Ababa
+1518288,ET,ET-TI,Addi Onfito,Addi Onfito,1072,4,village,UTC+3,Africa/Addis_Ababa
+1518295,ET,ET-TI,Addi Colo,Addi Colo,30269,3,City with Environs,UTC+3,Africa/Addis_Ababa
+1518348,ET,ET-OR,Adaba,Ādaba,82189,3,locality,UTC+3,Africa/Addis_Ababa
+1518359,ET,ET-OR,Ach'lat',Āch’lat’,918,4,village,UTC+3,Africa/Addis_Ababa
+1518416,ET,ET-OR,Abosa,Ābosa,2404,4,village,UTC+3,Africa/Addis_Ababa
+1518420,ET,ET-OR,Abomsa,Ābomsa,72087,3,locality,UTC+3,Africa/Addis_Ababa
+1518421,ET,ET-AM,Abomsa,Abomsa,22829,4,locality,UTC+3,Africa/Addis_Ababa
+1518432,ET,ET-OR,Abiyu,Ābīyu,27590,3,USett,UTC+3,Africa/Addis_Ababa
+1518436,ET,ET-TI,Abiy Adi,Abiy Adi,25158,3,Town,UTC+3,Africa/Addis_Ababa
+1518455,ET,ET-OR,Abeyi,Ābeyī,1151,4,village,UTC+3,Africa/Addis_Ababa
+1518492,ET,ET-AM,Abderafi,Ābderafī,24500,3,locality,UTC+3,Africa/Addis_Ababa
+1518537,ET,ET-TI,Abala,Abala,25300,4,locality,UTC+3,Africa/Addis_Ababa
+1518542,ET,ET-AM,Aba Golja Ager,Āba Golja Āger,196181,3,City with Environs,UTC+3,Africa/Addis_Ababa
+1518574,ET,ET-SO,Harawa,Harawa,11421,4,locality,UTC+3,Africa/Addis_Ababa
+1518577,ET,ET-SO,Qorof,Qorof,37080,4,town,UTC+3,Africa/Addis_Ababa
+1518595,ET,ET-SO,El Bahal,El Bahal,128,4,hamlet,UTC+3,Africa/Addis_Ababa
+1518637,ET,ET-SO,Kahandhale,Kahandhale,18000,4,village,UTC+3,Africa/Addis_Ababa
+1518638,ET,ET-SO,Lasoano,Lasoano,38000,4,town,UTC+3,Africa/Addis_Ababa
+1518639,ET,ET-SO,Neefkuceliye,Neefkuceliye,34000,3,PPL,UTC+3,Africa/Addis_Ababa
+1518640,ET,ET-SO,Yamarugley,Yamarugley,36000,3,locality,UTC+3,Africa/Addis_Ababa
+1518683,ET,ET-TI,Arepok,Arepok,50,4,locality,UTC+3,Africa/Addis_Ababa
+1518684,ET,ET-TI,Awdah,Awdah,50,4,locality,UTC+3,Africa/Addis_Ababa
+1518685,ET,ET-TI,Shaguby,Shaguby,500,3,locality,UTC+3,Africa/Addis_Ababa
+1518698,ET,ET-SO,Duuban,Duuban,15000,4,town,UTC+3,Africa/Addis_Ababa
+1518713,ET,ET-SO,Bare,Barē,54568,3,locality,UTC+3,Africa/Addis_Ababa
+1518818,ET,ET-AF,Samara,ሰመራ,3687,2,locality,UTC+3,Africa/Addis_Ababa
+1518819,ET,\N,Tiya,ጢያ,1937,4,town,UTC+3,Africa/Addis_Ababa
+1518832,ET,\N,Sodo,Sodo,120481,2,Town,UTC+3,Africa/Addis_Ababa
+1518897,ET,ET-GA,Chere,Chere,730,4,village,UTC+3,Africa/Addis_Ababa
+1518909,ET,ET-BE,Dog'ya,Dog’ya,722,4,village,UTC+3,Africa/Addis_Ababa
+1518916,ET,ET-GA,Uoat,Uoat,2432,4,village,UTC+3,Africa/Addis_Ababa
+1518936,ET,ET-BE,Bokholle,Bokholle,5650,4,village,UTC+3,Africa/Addis_Ababa
+1518980,ET,ET-AM,Khidi,Khidi,1148408,3,City,UTC+3,Africa/Addis_Ababa
+1519008,ET,ET-AM,Kobo,Kobo,56100,3,locality,UTC+3,Africa/Addis_Ababa
+1519030,ET,ET-AM,Gerbota,Gerbota,44814,3,City,UTC+3,Africa/Addis_Ababa
+1519053,ET,\N,Amibara,Amibara,63378,3,locality,UTC+3,Africa/Addis_Ababa
+1519071,ET,\N,Debe Weyin,Debe Weyin,71565,3,locality,UTC+3,Africa/Addis_Ababa
+1519123,ET,ET-OR,Arsi Negele,አርሲ ነገሌ,98100,2,locality,UTC+3,Africa/Addis_Ababa
+1519152,ET,ET-SO,Digih Habar Es,Digih Habar Es,22000,3,locality,UTC+3,Africa/Addis_Ababa
+1519167,ET,\N,Kirkos,Kirkos,221234,3,Sub City,UTC+3,Africa/Addis_Ababa
+1519192,ET,ET-OR,Burayu,Burayu,101400,4,town,UTC+3,Africa/Addis_Ababa
+1519193,ET,ET-OR,Guder,Guder,30600,3,PPL,UTC+3,Africa/Addis_Ababa
+1519194,ET,ET-TI,May Cadera,May Cadera,27300,3,locality,UTC+3,Africa/Addis_Ababa
+1519195,ET,ET-AF,Mehoni,Mehoni,29200,3,locality,UTC+3,Africa/Addis_Ababa
+1519196,ET,\N,Shinshicho,Shinshicho,38400,3,PPL,UTC+3,Africa/Addis_Ababa
+1519197,ET,ET-OR,Wonji,Wonji,29200,3,PPL,UTC+3,Africa/Addis_Ababa
+1519198,ET,\N,Worabe,Worabe,17440,3,town,UTC+3,Africa/Addis_Ababa
+1519199,ET,ET-TI,Adebaye,Adebaye,21800,3,PPL,UTC+3,Africa/Addis_Ababa
+1519200,ET,\N,Damboya,Damboya,21800,3,PPL,UTC+3,Africa/Addis_Ababa
+1519201,ET,ET-AM,Ginja Bet,Ginja Bet,24800,3,PPL,UTC+3,Africa/Addis_Ababa
+1519202,ET,ET-OR,Gutin,Gutin,43068,3,town,UTC+3,Africa/Addis_Ababa
+1519203,ET,ET-OR,Kercha,Kercha,37781,3,town,UTC+3,Africa/Addis_Ababa
+1519204,ET,ET-SW,Wacha,Wacha,19400,3,village,UTC+3,Africa/Addis_Ababa
+1519205,ET,ET-AM,Wegeda,Wegeda,55203,3,PPL,UTC+3,Africa/Addis_Ababa
+1519208,ET,\N,Dimtu,ዲምቱ,25294,2,city,UTC+3,Africa/Addis_Ababa
+1519209,ET,\N,Badessa,በዴሳ,35294,2,city,UTC+3,Africa/Addis_Ababa
+1519210,ET,\N,Bombe,ቦምቤ,35611,2,city,UTC+3,Africa/Addis_Ababa
+1519211,ET,\N,Gununo,ጉኑኖ,45317,2,city,UTC+3,Africa/Addis_Ababa
+1519212,ET,\N,Halale,ሃላሌ,\N,2,town,UTC+3,Africa/Addis_Ababa
+1519213,ET,\N,Baqulo Sanyo,በቅሎ ሰኞ,\N,2,city,UTC+3,Africa/Addis_Ababa
+1519214,ET,\N,Lasho,ላሾ,\N,2,town,UTC+3,Africa/Addis_Ababa
+1519215,ET,\N,Tebela,ጠበላ,17538,2,city,UTC+3,Africa/Addis_Ababa
+1519216,ET,\N,Paracho,ፓራቾ,\N,2,town,UTC+3,Africa/Addis_Ababa
+1519217,ET,\N,Hobicha Bada,ሆቢቻ ባዳ,\N,2,town,UTC+3,Africa/Addis_Ababa
+1519218,ET,\N,Shanto,ሻንቶ,15020,2,city,UTC+3,Africa/Addis_Ababa
+1519219,ET,\N,Gara Godo,Gara Godo,\N,3,city,UTC+3,Africa/Addis_Ababa
+1519221,ET,\N,Bitana,ቢጣና,\N,2,town,UTC+3,Africa/Addis_Ababa
+1519226,ET,\N,Lera,Lera,19268,3,City,UTC+3,Africa/Addis_Ababa
+1519230,ET,ET-AF,Demberona,Demberona,29032,3,Vill,UTC+3,Africa/Addis_Ababa
+1519236,ET,\N,Selamber,Selamber,\N,2,locality,UTC+3,Africa/Addis_Ababa
+1519244,ET,ET-OR,HaroResa,Haro Resa,47290,4,Town,UTC+3,Africa/Addis_Ababa
+1519275,ET,ET-OR,Wichiro,Wichiro,9087,4,Town,UTC+3,Africa/Addis_Ababa
+1519277,ET,ET-OR,Gololcha,Gololcha,5626,3,locality,UTC+3,Africa/Addis_Ababa
+1519327,ET,ET-OR,Robeyo,Robeyo,49883,3,City with Environs,UTC+3,Africa/Addis_Ababa
+1519333,ET,ET-OR,Tola,Tola,13273,4,Town,UTC+3,Africa/Addis_Ababa
+1519385,ET,ET-OR,GendeGubo,Gende Gubo,8845,4,Town,UTC+3,Africa/Addis_Ababa
+1519391,ET,ET-OR,Chalechale,Chalechale,104,4,hamlet,UTC+3,Africa/Addis_Ababa

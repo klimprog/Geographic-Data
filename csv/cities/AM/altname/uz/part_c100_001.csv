@@ -1,0 +1,965 @@
+id,city_id,language_key,name
+2748435,35694,uz,Zedea
+2748512,35695,uz,Zaritap
+2748589,35696,uz,Zangakatun
+2748666,35697,uz,Goravan
+2748743,35698,uz,Yegvard
+2748820,35699,uz,Yeghegnavan
+2748897,35700,uz,Yeghegnadzor
+2748974,35701,uz,Yegheg
+2749128,35703,uz,Vostan
+2749205,35704,uz,Vosketap
+2749282,35705,uz,Vernashen
+2749359,35706,uz,Verishen
+2749436,35707,uz,Verin Vac'agan
+2749513,35708,uz,Verin Khotanan
+2749590,35709,uz,Vardavank
+2749667,35710,uz,Vedi
+2749744,35711,uz,Vayk
+2749821,35712,uz,Vardashat
+2749898,35713,uz,Vardanidzor
+2749975,35714,uz,Vardahovit
+2750052,35715,uz,Vaghatin
+2750129,35716,uz,Vahravar
+2750206,35717,uz,Uzhanis
+2750283,35718,uz,Uyts
+2750360,35719,uz,Vorotan
+2750514,35721,uz,"Tsav, Armaniston"
+2750591,35722,uz,Tolors
+2750668,35723,uz,Tegh
+2750745,35724,uz,Vazifa
+2750822,35725,uz,Vanasen
+2750899,35726,uz,Vorotan
+2750976,35727,uz,Tatev (qishloq)
+2751053,35728,uz,Tashtun
+2751130,35729,uz,Taratumb
+2751207,35730,uz,Tandzaver
+2751284,35731,uz,Tandzatap
+2751361,35732,uz,Svarants
+2751438,35733,uz,Surenavan
+2751515,35734,uz,Srashen
+2751592,35735,uz,Spandaryan
+2751669,35736,uz,"Nzhdeh, Armaniston"
+2751746,35737,uz,Sznak
+2751823,35738,uz,Sisian
+2751900,35739,uz,Sisavan
+2751977,35740,uz,Shvanidzor
+2752054,35741,uz,Shurnukh
+2752131,35742,uz,Shrvenants
+2752208,35743,uz,Shishkert
+2752285,35744,uz,Shinuhayr
+2752362,35745,uz,Lusarat
+2752439,35746,uz,Shikahogh
+2752593,35748,uz,Shenatagh
+2752670,35749,uz,Shahumyan
+2752747,35750,uz,Shatin
+2752824,35751,uz,Shamb
+2752901,35752,uz,Shaki
+2752978,35753,uz,Shaghat
+2753055,35754,uz,Shaghap
+2753132,35755,uz,Sevakar
+2753209,35756,uz,Sers
+2753286,35757,uz,Sarnakunk
+2753363,35758,uz,Saravan
+2753440,35759,uz,Salvard
+2753517,35760,uz,"Salli, Armaniston"
+2753671,35762,uz,Rind
+2753825,35764,uz,Por
+2753979,35766,uz,Nor Astgaberd
+2754056,35767,uz,Horbategh
+2754133,35768,uz,Okhtar
+2754210,35769,uz,Nrnadzor
+2754287,35770,uz,Noyakert
+2754364,35771,uz,Nor Kyank
+2754441,35772,uz,Nor Aznaberd
+2754518,35773,uz,Noravan
+2754595,35774,uz,Norashenik
+2754749,35776,uz,Nerkin Khotanan
+2754903,35778,uz,Bargusat
+2754980,35779,uz,Nerkin Hand
+2755057,35780,uz,Dzagikavan
+2755134,35781,uz,Tsghuni
+2755211,35782,uz,Mrgavet
+2755288,35783,uz,Meghri
+2755442,35785,uz,Martiros
+2755519,35786,uz,Tkhkut
+2755596,35787,uz,Malishka
+2755673,35788,uz,"Kashuni, Armaniston"
+2755750,35789,uz,"Lor, Armaniston"
+2755827,35790,uz,Lichk
+2755904,35791,uz,Lernadzor
+2755981,35792,uz,Lehvaz
+2756058,35793,uz,Ishkhanasar
+2756135,35794,uz,"Kuris, Armaniston"
+2756212,35795,uz,Andokavan
+2756289,35796,uz,Kornidzor
+2756366,35797,uz,Torunik
+2756443,35798,uz,P'ok'r Vedi
+2756520,35799,uz,Khoznavar
+2756597,35800,uz,"Khot, Armaniston"
+2756674,35801,uz,Khndzorut
+2756751,35802,uz,Khndzoresk
+2756828,35803,uz,Khnatsakh
+2756905,35804,uz,Khdrants
+2756982,35805,uz,Acanan
+2757059,35806,uz,Khachik
+2757136,35807,uz,Kechut
+2757213,35808,uz,Kavchut
+2757367,35810,uz,Karmrashen
+2757444,35811,uz,Karchevan
+2757521,35812,uz,K'arahunj
+2757598,35813,uz,"Vanek, Armaniston"
+2757675,35814,uz,Karashen
+2757752,35815,uz,Lusashogh
+2757829,35816,uz,Karaglukh
+2757906,35817,uz,Kapan
+2757983,35818,uz,Kaghtsrashen
+2758060,35819,uz,Kaghnut
+2758137,35820,uz,Kajaran
+2758214,35821,uz,Lanjanist
+2758291,35822,uz,Gogt'anik
+2758368,35823,uz,Jermuk
+2758445,35824,uz,Taperakan
+2758522,35825,uz,"Hermon, Armaniston"
+2758599,35826,uz,Kapuyt
+2758676,35827,uz,Gudemnis
+2758753,35828,uz,"Hors, Armaniston"
+2758830,35829,uz,Goris
+2758907,35830,uz,Gorayk
+2758984,35831,uz,Gomk
+2759061,35832,uz,Gomaran
+2759138,35833,uz,Gnishik
+2759215,35834,uz,Gndevaz
+2759292,35835,uz,Gladzor
+2759446,35837,uz,Getat'ag
+2759523,35838,uz,Getap
+2759600,35839,uz,Herher
+2759677,35840,uz,Geghi
+2759754,35841,uz,Geghanush
+2759831,35842,uz,Halidzor
+2759908,35843,uz,Yelpin
+2759985,35844,uz,Dzorastan
+2760062,35845,uz,Tavrus
+2760139,35846,uz,Ditsmayri
+2760216,35847,uz,Arin
+2760293,35848,uz,"Davit Bek, Armaniston"
+2760370,35849,uz,Dastakert
+2760447,35850,uz,Dashtakar
+2760524,35851,uz,Darbas
+2760601,35852,uz,Dalar
+2760755,35854,uz,Chiva
+2760832,35855,uz,Getisen
+2760909,35856,uz,Chapni
+2761063,35858,uz,Chakaten
+2761140,35859,uz,Berdik
+2761217,35860,uz,Burastan
+2761294,35861,uz,Akner (Syunik)
+2761371,35862,uz,Brnakot
+2761448,35863,uz,Tsghuk
+2761525,35864,uz,Bnunis
+2761602,35865,uz,Berkanush
+2761679,35866,uz,Vaghatur
+2761756,35867,uz,Bardzruni
+2761833,35868,uz,Mutsk
+2761910,35869,uz,Bardzravan
+2761987,35870,uz,"Balak, Armaniston"
+2762064,35871,uz,Baghramyan
+2762141,35872,uz,Azatek
+2762218,35873,uz,Azatavan
+2762295,35874,uz,Aygezard
+2762372,35875,uz,Aygepat
+2762449,35876,uz,Aygavan
+2762526,35877,uz,Avshar
+2762603,35878,uz,Hatsavan
+2762680,35879,uz,Ashotavan
+2762757,35880,uz,Artsvanik
+2762834,35881,uz,Artavan
+2762911,35882,uz,Artashat
+2762988,35883,uz,Yeghegis
+2763065,35884,uz,Armas
+2763142,35885,uz,Areni
+2763219,35886,uz,Aravus
+2763296,35887,uz,Arevis
+2763373,35888,uz,Ararat
+2763450,35889,uz,Ararat
+2763527,35890,uz,Arajadzor
+2763604,35891,uz,Antarashat
+2763681,35892,uz,Angeghakot
+2763758,35893,uz,Alvank'
+2763835,35894,uz,Akhlatyan
+2763912,35895,uz,Aghavnadzor
+2763989,35896,uz,Ajabaj
+2764066,35897,uz,Aghvani
+2764143,35898,uz,Aghitu
+2764220,35899,uz,Agarakadzor
+2764297,35900,uz,Agarak
+2764374,35901,uz,Agarak
+2764836,35907,uz,Ltsen
+2764913,35908,uz,Harzis
+2764990,35909,uz,Dzorashen
+2765067,35910,uz,Arpi
+2765529,35916,uz,Aralez
+2765606,35917,uz,Urtsadzor
+2765683,35918,uz,Yeraskh
+2765760,35919,uz,Aghnjadzor
+2765837,35920,uz,Kajarants
+2765914,35921,uz,Lanjar
+2765991,35922,uz,Urtsalanj
+2766068,35923,uz,Mozrov
+2766145,35924,uz,Artabuynk'
+2766222,35925,uz,Zarinja
+2766299,35926,uz,Karmirgyugh
+2766376,35927,uz,Sevaberd
+2766453,35928,uz,Horom
+2766530,35929,uz,Margara
+2766684,35931,uz,Kat'narat
+2766761,35932,uz,Zuygaghbyur
+2766838,35933,uz,Zovashen
+2766992,35935,uz,Zovaber
+2767069,35936,uz,Zorakert
+2767146,35937,uz,"Zorak, Armaniston"
+2767223,35938,uz,Zolakar
+2767300,35939,uz,Sot'k'
+2767377,35940,uz,Zarishat
+2767454,35941,uz,Zar
+2767531,35942,uz,"Yervandashat, Armaniston"
+2767608,35943,uz,Yernjatap
+2767685,35944,uz,Erevan
+2767762,35945,uz,"Yerazgavors, Armaniston"
+2767839,35946,uz,Yeraskhahun
+2767916,35947,uz,Yeranos
+2767993,35948,uz,Yenokavan
+2768147,35950,uz,Yeghnik
+2768224,35951,uz,Yeghegnut
+2768301,35952,uz,Yeghegnut
+2768378,35953,uz,Echmiadzin
+2768455,35954,uz,Yeghvard
+2768532,35955,uz,Yeghnajur
+2768609,35956,uz,Lcavan
+2768686,35957,uz,Yaghdan
+2768763,35958,uz,Voskevaz
+2768840,35959,uz,Voskevan
+2768917,35960,uz,Vosketas
+2768994,35961,uz,Voskepar
+2769071,35962,uz,Voskehat
+2769148,35963,uz,Voskehask
+2769225,35964,uz,Voghjaberd
+2769302,35965,uz,Voghji
+2769379,35966,uz,Axpradzor
+2769533,35968,uz,Verin Sorza
+2769610,35969,uz,Verin Sasnashen
+2769687,35970,uz,Zorakan
+2769764,35971,uz,Verin Karmiraghbyur
+2769841,35972,uz,Verin Getashen
+2769918,35973,uz,Verin Dvin
+2769995,35974,uz,Verin Bazmaberd
+2770072,35975,uz,Verin Artashat
+2770149,35976,uz,Vazashen
+2770226,35977,uz,Varser
+2770303,35978,uz,Vardenut
+2770380,35979,uz,Vardenis
+2770457,35980,uz,Vardenis
+2770534,35981,uz,Vardenik
+2770611,35982,uz,Vardashen
+2770688,35983,uz,Vardanashen
+2770765,35984,uz,Vardaghbyur
+2770842,35985,uz,Vardakar
+2770919,35986,uz,Vardablur
+2770996,35987,uz,Vanevan
+2771073,35988,uz,"Vahan, Armaniston"
+2771150,35989,uz,Vahramaberd
+2771227,35990,uz,Vaghashen
+2771304,35991,uz,Vahagni
+2771381,35992,uz,Ushi
+2771458,35993,uz,Urut
+2771535,35994,uz,Ujan
+2771612,35995,uz,T't'ujur
+2771766,35997,uz,T'umanyan
+2771843,35998,uz,Tufashen
+2771920,35999,uz,Ttujur
+2771997,36000,uz,Lusahovit
+2772074,36001,uz,"Tsovinar, Armaniston"
+2772151,36002,uz,Tsovazard
+2772228,36003,uz,Tsovak
+2772305,36004,uz,Tsovagyugh
+2772382,36005,uz,Tsoghamarg
+2772459,36006,uz,Tsilkar
+2772536,36007,uz,Tsater
+2772613,36008,uz,Tsapatagh
+2772690,36009,uz,Tsamakasar
+2772844,36011,uz,Tsakkar
+2772921,36012,uz,Tsaghkunk
+2772998,36013,uz,Tsaghkunk
+2773075,36014,uz,Tsaghkavan
+2773152,36015,uz,Verin Tsaghkavan
+2773229,36016,uz,Tsaghkashen
+2773306,36017,uz,Tsaghkashen
+2773383,36018,uz,Tsaghkashat
+2773460,36019,uz,Tsaghkasar
+2773537,36020,uz,Tsaghkahovit
+2773614,36021,uz,Tsaghkaber
+2773691,36022,uz,Tsaghkadzor
+2773768,36023,uz,Tretuk'
+2773845,36024,uz,Tavus
+2773922,36025,uz,Torosgyugh
+2773999,36026,uz,Torfavan
+2774076,36027,uz,Tlik
+2774153,36028,uz,T'egenik'
+2774230,36029,uz,Teghut
+2774307,36030,uz,Teger
+2774384,36031,uz,Tsovasar
+2774461,36032,uz,T'avsut
+2774538,36033,uz,Tashir
+2774692,36035,uz,Gegasar
+2774769,36036,uz,Berdashen
+2774923,36038,uz,Tandzut
+2775077,36040,uz,Tallbisah
+2775154,36041,uz,Getahovit
+2775231,36042,uz,Goghovit
+2775308,36043,uz,Sverdlov (Armaniston)
+2775385,36044,uz,Suser
+2775462,36045,uz,Stepanavan
+2775539,36046,uz,Spitak
+2775616,36047,uz,Spandaryan
+2775693,36048,uz,Pagagbyur
+2775847,36050,uz,"Alashkert, Armaniston"
+2775924,36051,uz,Sorik
+2776001,36052,uz,"Solak, Armaniston"
+2776078,36053,uz,Sizavet
+2776155,36054,uz,"Sis, Armaniston"
+2776232,36055,uz,"Sipan, Armaniston"
+2776309,36056,uz,Paghakn
+2776386,36057,uz,Shoghakat
+2776463,36058,uz,Shnogh
+2776540,36059,uz,"Shirakavan, Armaniston"
+2776617,36060,uz,"Shirak, Armaniston"
+2776694,36061,uz,Shgharshik
+2776771,36062,uz,Shenkani
+2776848,36063,uz,Senavan
+2776925,36064,uz,Shenavan
+2777002,36065,uz,Shenavan
+2777079,36066,uz,Shahumyan
+2777156,36067,uz,Satvan
+2777233,36068,uz,Satjrek'
+2777310,36069,uz,Samut
+2777387,36070,uz,Shamlugh
+2777464,36071,uz,Samiram
+2777541,36072,uz,Shaghik
+2777618,36073,uz,Sevkar
+2777695,36074,uz,Sevan
+2777772,36075,uz,"Semyonovka, Armaniston"
+2777849,36076,uz,Verin Sasunik
+2777926,36077,uz,Sarukhan
+2778003,36078,uz,Sarnaghbyur
+2778080,36079,uz,Sarigyugh
+2778157,36080,uz,Sarchapet
+2778234,36081,uz,Saratovka
+2778311,36082,uz,Saratak
+2778388,36083,uz,Sarapat
+2778465,36084,uz,Saramej
+2778542,36085,uz,Saralanj
+2778619,36086,uz,Argalant
+2778696,36087,uz,Argalant
+2778773,36088,uz,Saralanj
+2778850,36089,uz,Nor Khachakap
+2778927,36090,uz,Sarakap
+2779004,36091,uz,Sarahart
+2779081,36092,uz,Kaniashir
+2779158,36093,uz,Sanahin
+2779235,36094,uz,Geghakert
+2779312,36095,uz,Salut
+2779389,36096,uz,Saghmosavan
+2779466,36097,uz,Rya Taza
+2779543,36098,uz,Geghashen
+2779620,36099,uz,Ranchpar
+2779697,36100,uz,"Pushkino, Armaniston"
+2779774,36101,uz,Ptghni
+2779851,36102,uz,Ptghunk
+2779928,36103,uz,Pshatavan
+2780005,36104,uz,Proshyan
+2780082,36105,uz,Privolnoye
+2780159,36106,uz,Pokr Sepasar
+2780236,36107,uz,Pokr Sariar
+2780313,36108,uz,P'ok'r Masrik
+2780390,36109,uz,Pokr Mantash
+2780467,36110,uz,Pokr Ayrum
+2780544,36111,uz,Zoravan
+2780621,36112,uz,Pokrashen
+2780698,36113,uz,Ptgavan
+2780775,36114,uz,Petrovka
+2780852,36115,uz,Pemzashen
+2780929,36116,uz,P'arpi
+2781006,36117,uz,Paravakar
+2781083,36118,uz,P'arak'ar
+2781160,36119,uz,P'anik
+2781237,36120,uz,P'ambak
+2781314,36121,uz,P'ambak
+2781391,36122,uz,Hovuni
+2781468,36123,uz,Hovtasen
+2781545,36124,uz,Hovnanadzor
+2781622,36125,uz,Hovit
+2781699,36126,uz,Oshakan
+2781776,36127,uz,Mijnatun
+2781853,36128,uz,Orgov
+2781930,36129,uz,Xobardzi
+2782007,36130,uz,"Sardarapat, Armaniston"
+2782084,36131,uz,Ohanavan
+2782161,36132,uz,Odzun
+2782238,36133,uz,Nurnus
+2782315,36134,uz,Noyemberyan
+2782392,36135,uz,Novoseltsovo
+2782469,36136,uz,Nor Kyank'
+2782546,36137,uz,Nor Kharberd
+2782623,36138,uz,Nor Gyugh
+2782700,36139,uz,Nor Geghi
+2782777,36140,uz,Getik
+2782854,36141,uz,Norashen
+2782931,36142,uz,Norashen
+2783008,36143,uz,Norasen
+2783085,36144,uz,Norashen
+2783162,36145,uz,Norashen
+2783239,36146,uz,Na Artik
+2783316,36147,uz,Nor Armavir
+2783470,36149,uz,Noramut
+2783547,36150,uz,Noramarg
+2783624,36151,uz,Norakert
+2783701,36152,uz,Norakert
+2783778,36153,uz,Noratus
+2783855,36154,uz,Nohchacan
+2783932,36155,uz,Norabak
+2784009,36156,uz,Nigavan
+2784086,36157,uz,Dastadem
+2784163,36158,uz,Nerk'in Sorza
+2784240,36159,uz,Nerkin Sasnashen
+2784317,36160,uz,Nerkin Karmiraghbyur
+2784394,36161,uz,Nerkin Getashen
+2784471,36162,uz,Nerkin Bazmaberd
+2784548,36163,uz,Artsvanist
+2784625,36164,uz,Aknaghbyur
+2784779,36166,uz,Neghots
+2784856,36167,uz,Navur
+2784933,36168,uz,"Nalbandyan, Armaniston"
+2785010,36169,uz,Sirakamut
+2785087,36170,uz,Nahapetavan
+2785164,36171,uz,Musayelyan
+2785241,36172,uz,"Basen, Armaniston"
+2785318,36173,uz,Kaypak
+2785395,36174,uz,Mughni
+2785472,36175,uz,Hovtamej
+2785549,36176,uz,Mrgastan
+2785626,36177,uz,Mrgashen
+2785703,36178,uz,Mrgashat
+2785780,36179,uz,Mrganush
+2785857,36180,uz,Yeghipatrush
+2785934,36181,uz,Movses
+2786011,36182,uz,Mxchyan
+2786088,36183,uz,"Mirak, Armaniston"
+2786165,36184,uz,Mikhayelovka
+2786242,36185,uz,Metsamor (qishloq)
+2786319,36186,uz,Mets Sepasar
+2786396,36187,uz,Mets Sariar
+2786473,36188,uz,Mets Parni
+2786550,36189,uz,Mets Masrik
+2786627,36190,uz,Mets Mantash
+2786704,36191,uz,Mets Ayrum
+2786781,36192,uz,Metsavan
+2786858,36193,uz,Metsamor
+2786935,36194,uz,Merdzavan
+2787012,36195,uz,Melikgyugh
+2787089,36196,uz,Meghrashen
+2787166,36197,uz,Meghrashat
+2787243,36198,uz,Meghvahovit
+2787320,36199,uz,Meghradzor
+2787397,36200,uz,Medovka
+2787474,36201,uz,"Mayakovski, Armaniston"
+2787551,36202,uz,Mastara
+2787628,36203,uz,Masis (qishloq)
+2787705,36204,uz,Martuni
+2787782,36205,uz,Martuni
+2787859,36206,uz,Marts
+2787936,36207,uz,Marmarashen
+2788013,36208,uz,Marmashen
+2788090,36209,uz,Marmarik
+2788167,36210,uz,Margahovit
+2788244,36211,uz,Maralik
+2788398,36213,uz,Bovadzor
+2788475,36214,uz,Mayisyan
+2788552,36215,uz,Gtashen
+2788629,36216,uz,"Madina, Armaniston"
+2788706,36217,uz,Lusagbyur
+2788783,36218,uz,Lusaghbyur
+2788860,36219,uz,Lusakert
+2788937,36220,uz,Lusagyugh
+2789014,36221,uz,Lusagyugh
+2789091,36222,uz,Lusadzor
+2789168,36223,uz,Lukashin
+2789245,36224,uz,Lorut
+2789322,36225,uz,Lori berd
+2789399,36226,uz,Lchkadzor
+2789476,36227,uz,Lichk
+2789553,36228,uz,Lernut
+2789630,36229,uz,Lernavan
+2789707,36230,uz,Lernarot
+2789784,36231,uz,Lernapat
+2789861,36232,uz,Lernapar
+2789938,36233,uz,Lernantsk
+2790015,36234,uz,Lernantsk
+2790092,36235,uz,Lernanist
+2790169,36236,uz,Lernakert
+2790246,36237,uz,Lernakert
+2790323,36238,uz,Lermontovo
+2790400,36239,uz,Khoronk
+2790477,36240,uz,Lejan
+2790554,36241,uz,Lchashen
+2790631,36242,uz,Lchap
+2790708,36243,uz,Lanjik
+2790785,36244,uz,Lanjaghbyur
+2790862,36245,uz,Debedavan
+2790939,36246,uz,Zovk
+2791016,36247,uz,Hatis
+2791093,36248,uz,Garnarich
+2791170,36249,uz,Urasar
+2791247,36250,uz,Kutakan
+2791324,36251,uz,Kut
+2791401,36252,uz,Kurtan
+2791478,36253,uz,Arjahovit
+2791555,36254,uz,Kruglaya shishka
+2791632,36255,uz,K'uc'ak
+2791709,36256,uz,Krashen
+2791786,36257,uz,Krasar
+2791863,36258,uz,Koti
+2791940,36259,uz,Kotayk'
+2792017,36260,uz,Kosh
+2792094,36261,uz,Gorgoch
+2792171,36262,uz,Koghb
+2792248,36263,uz,Getavan
+2792325,36264,uz,Dzyunashogh
+2792402,36265,uz,Vanadzor
+2792479,36266,uz,Amrakits
+2792556,36267,uz,Khnkoyan
+2792633,36268,uz,Hnaberd
+2792710,36269,uz,Hnaberd
+2792787,36270,uz,Khashtarak
+2792864,36271,uz,Xachpar
+2792941,36272,uz,Xachardzan
+2793018,36273,uz,Xachaghbyur
+2793095,36274,uz,"Keti, Armaniston"
+2793172,36275,uz,Kak'avasar
+2793249,36276,uz,Ghazanchi
+2793326,36277,uz,Katnaghbyur
+2793403,36278,uz,Katnaghbyur
+2793480,36279,uz,Katnaghbyur
+2793557,36280,uz,Kat'najur
+2793634,36281,uz,Karnut
+2793711,36282,uz,Karmravan
+2793788,36283,uz,Karmrasen
+2793865,36284,uz,Karmrasen
+2793942,36285,uz,Karmrakar
+2794019,36286,uz,Koghes
+2794096,36287,uz,K'arinj
+2794173,36288,uz,Karenis
+2794250,36289,uz,Karcagbyur
+2794327,36290,uz,Karbi
+2794404,36291,uz,K'arasamb
+2794481,36292,uz,Karanlukh
+2794558,36293,uz,Karakert
+2794712,36295,uz,Karadzor
+2794789,36296,uz,Karaberd
+2794866,36297,uz,Karaberd
+2794943,36298,uz,Kaputan
+2795020,36299,uz,Kaps
+2795097,36300,uz,Kanakeravan
+2795174,36301,uz,Kanac'ut
+2795328,36303,uz,"Kamo, Armaniston"
+2795405,36304,uz,Gavar
+2795482,36305,uz,Kamkhut
+2795559,36306,uz,Kalavan
+2795636,36307,uz,K'agsi
+2795713,36308,uz,Kakhakn
+2795790,36309,uz,Kakavadzor
+2795867,36310,uz,Kachachkut
+2795944,36311,uz,Ddmasar
+2796021,36312,uz,Jaghatsadzor
+2796098,36313,uz,Itsakar
+2796175,36314,uz,Isahakyan
+2796252,36315,uz,Irind
+2796329,36316,uz,Mayisyan
+2796406,36317,uz,Shahumyan
+2796483,36318,uz,Dastadem
+2796560,36319,uz,Hogmik
+2796637,36320,uz,Ijevan
+2796714,36321,uz,Hrazdan
+2796791,36322,uz,Hovtun
+2796868,36323,uz,Armavir
+2796945,36324,uz,Hayanist
+2797022,36325,uz,Xatsik
+2797099,36326,uz,Xaghartsin
+2797176,36327,uz,Gyumri
+2797253,36328,uz,Tsaghkut
+2797330,36329,uz,Gyulagarak
+2797407,36330,uz,Kamaris
+2797484,36331,uz,Kanch
+2797561,36332,uz,Gusanagyugh
+2797638,36333,uz,Ghukasavan
+2797715,36334,uz,Gegamasar
+2797792,36335,uz,Gugark'
+2797869,36336,uz,Tsiatsan
+2797946,36337,uz,Gosh
+2798100,36339,uz,Goght
+2798177,36340,uz,Gogavan
+2798254,36341,uz,Gogaran
+2798408,36343,uz,Ghazaravan
+2798485,36344,uz,Aznvadzor
+2798562,36345,uz,Getk
+2798639,36346,uz,"Kirants, Armaniston"
+2798716,36347,uz,Getazat
+2798793,36348,uz,Getashen
+2798870,36349,uz,Getap'
+2798947,36350,uz,Getap
+2799024,36351,uz,Getamej
+2799101,36352,uz,Gargar
+2799178,36353,uz,Gegharot
+2799255,36354,uz,"Geghard, Armaniston"
+2799332,36355,uz,Geganist
+2799409,36356,uz,Geghanist
+2799486,36357,uz,Geghadzor
+2799563,36358,uz,Gegadir
+2799640,36359,uz,Geghadir
+2799717,36360,uz,Gegharkunik
+2799794,36361,uz,Gegamabak
+2799871,36362,uz,Geghakar
+2799948,36363,uz,Geghamavan
+2800025,36364,uz,Garnahovit
+2800102,36365,uz,Garni
+2800179,36366,uz,Gharibjanyan
+2800256,36367,uz,"Gagarin, Armaniston"
+2800333,36368,uz,"Fantan, Armaniston"
+2800410,36369,uz,Fioletovo
+2800487,36370,uz,Dzoravank
+2800564,36371,uz,Dzorashen
+2800641,36372,uz,Dzoramut
+2800718,36373,uz,Dzoraghbyur
+2800795,36374,uz,Dzorakap
+2800872,36375,uz,Dzoraget
+2800949,36376,uz,Dzoragyugh
+2801026,36377,uz,Dzoragyugh
+2801103,36378,uz,Dzoraglukh
+2801180,36379,uz,Dzithankov
+2801257,36380,uz,Jujevan
+2801334,36381,uz,Jrvezh
+2801411,36382,uz,Jrashen
+2801488,36383,uz,Jrasen
+2801565,36384,uz,Jrashen
+2801642,36385,uz,Jrarat
+2801719,36386,uz,Jrarat
+2801796,36387,uz,Jrarat
+2801873,36388,uz,Jrap'i
+2801950,36389,uz,Jrahovit
+2802027,36390,uz,Jradzor
+2802104,36391,uz,Jraber
+2802181,36392,uz,Berk'aber
+2802258,36393,uz,Jiliza
+2802335,36394,uz,Jil
+2802412,36395,uz,Janfida
+2802489,36396,uz,Jamshlu
+2802566,36397,uz,Jajur
+2802720,36399,uz,"Dvin, Armaniston"
+2802797,36400,uz,Dsegh
+2802874,36401,uz,Drakhtik
+2802951,36402,uz,Dprabak
+2803028,36403,uz,Dovegh
+2803105,36404,uz,Doghs
+2803182,36405,uz,Ditavan
+2803259,36406,uz,"Ditak, Armaniston"
+2803336,36407,uz,Dilijan
+2803413,36408,uz,Dian
+2803490,36409,uz,Charchakis
+2803567,36410,uz,"Debet, Armaniston"
+2803644,36411,uz,Ddmashen
+2803721,36412,uz,Davtashen (village)
+2803798,36413,uz,"Dasht, Armaniston"
+2803875,36414,uz,Darpas
+2803952,36415,uz,Darik
+2804029,36416,uz,Darbnik
+2804106,36417,uz,Daranak
+2804183,36418,uz,Aygehat
+2804260,36419,uz,Dalarik
+2804337,36420,uz,Choratan
+2804414,36421,uz,Chochkan
+2804491,36422,uz,Chknagh
+2804568,36423,uz,Chkalovka
+2804645,36424,uz,C'kalov
+2804722,36425,uz,Chinchin
+2804799,36426,uz,"Chinari, Armaniston"
+2804876,36427,uz,Mak'enis
+2804953,36428,uz,Charentsavan
+2805030,36429,uz,Chambarak
+2805107,36430,uz,Bjni
+2805184,36431,uz,Byureghavan
+2805261,36432,uz,Byurakan
+2805338,36433,uz,Buzhakan
+2805415,36434,uz,Blagodarnoye
+2805492,36435,uz,Berkashat
+2805569,36436,uz,Berkarat
+2805646,36437,uz,Berdkunk
+2805723,36438,uz,Berdavan
+2805800,36439,uz,Berd
+2805877,36440,uz,Beniamin
+2805954,36441,uz,Bazum
+2806031,36442,uz,Bazmaghbyur
+2806185,36444,uz,"Bayandur, Armaniston"
+2806262,36445,uz,Bavra
+2806339,36446,uz,Gandzak
+2806416,36447,uz,Bashgyugh
+2806493,36448,uz,Barepat
+2806570,36449,uz,Barekamavan
+2806647,36450,uz,Bandivan
+2806724,36451,uz,Byuravan
+2806801,36452,uz,Bambakashat
+2806878,36453,uz,Balahovit
+2806955,36454,uz,Bagravan
+2807032,36455,uz,Bagratashen
+2807109,36456,uz,Baghanis
+2807186,36457,uz,Azatashen
+2807263,36458,uz,Azatan
+2807340,36459,uz,"Azat, Armaniston"
+2807417,36460,uz,Hayt'ag
+2807494,36461,uz,Ayrum
+2807571,36462,uz,Ayrk
+2807648,36463,uz,Hayravank
+2807725,36464,uz,Hayrenyats
+2807802,36465,uz,Haykavan
+2807879,36466,uz,Haykavan
+2807956,36467,uz,Haykasar
+2808033,36468,uz,Haykadzor
+2808110,36469,uz,Aygut
+2808187,36470,uz,Aygestan
+2808264,36471,uz,"Aygeshat, Khoy"
+2808341,36472,uz,Aygeshat
+2808418,36473,uz,Aknalich
+2808495,36474,uz,Aygepar
+2808572,36475,uz,Aygehovit
+2808649,36476,uz,Aygedzor
+2808726,36477,uz,Aygabats
+2808880,36479,uz,Lernamerdz
+2808957,36480,uz,Metsadzor
+2809034,36481,uz,Avshen
+2809111,36482,uz,Avazan
+2809188,36483,uz,Avaj
+2809265,36484,uz,Hatsik
+2809342,36485,uz,Xatsavan
+2809419,36486,uz,Hatsashen
+2809573,36488,uz,Artimet
+2809650,36489,uz,At'an
+2809727,36490,uz,Astghadzor
+2809804,36491,uz,Ashtarak
+2809881,36492,uz,Ashotsk
+2809958,36493,uz,Asnak
+2810035,36494,uz,Arzni
+2810112,36495,uz,Arzakan
+2810189,36496,uz,Artsvashen
+2810343,36498,uz,Artsni
+2810420,36499,uz,Art'ik
+2810497,36500,uz,Arteni
+2810574,36501,uz,Artavaz
+2810651,36502,uz,Hartavan
+2810728,36503,uz,Hart'asen
+2810805,36504,uz,Artashavan
+2810882,36505,uz,Artashar
+2810959,36506,uz,Artanish
+2811036,36507,uz,Hart'agyug
+2811113,36508,uz,Arshaluys
+2811190,36509,uz,Arp'unk'
+2811267,36510,uz,Arpeni
+2811344,36511,uz,Armanis
+2811421,36512,uz,Arinj
+2811498,36513,uz,Haric
+2811575,36514,uz,Argel
+2811652,36515,uz,Argavand
+2811729,36516,uz,Argavand
+2811806,36517,uz,Arevsat
+2811883,36518,uz,Arevshat
+2811960,36519,uz,Arevik
+2812037,36520,uz,Arevik
+2812114,36521,uz,Arevatsag
+2812191,36522,uz,Arevashogh
+2812268,36523,uz,Arevashat
+2812345,36524,uz,Areguni
+2812422,36525,uz,Aregnadem
+2812499,36526,uz,T'at'ul
+2812576,36527,uz,Ardvi
+2812653,36528,uz,Ardenis
+2812730,36529,uz,Arjut
+2812807,36530,uz,Arcis
+2812884,36531,uz,"Arbat, Armaniston"
+2812961,36532,uz,Arazap
+2813038,36533,uz,"Arapi, Armaniston"
+2813115,36534,uz,"Aramus, Armaniston"
+2813192,36535,uz,Araks (Vagharshapat)
+2813269,36536,uz,Arayi
+2813346,36537,uz,Aragyugh
+2813423,36538,uz,Aragats
+2813500,36539,uz,Aragatsavan
+2813577,36540,uz,Aragats
+2813654,36541,uz,Apnagyugh
+2813731,36542,uz,Apaven
+2813808,36543,uz,Aparan
+2813885,36544,uz,Apaga
+2813962,36545,uz,Anushavan
+2814039,36546,uz,Antarut
+2814116,36547,uz,Antaramej
+2814193,36548,uz,Antaramut
+2814270,36549,uz,Hankavan
+2814347,36550,uz,Anipemza
+2814424,36551,uz,Amoj
+2814501,36552,uz,Amasia
+2814578,36553,uz,Amasia
+2814655,36554,uz,Alvar (Armaniston)
+2814732,36555,uz,"Alaverdi, Armaniston"
+2814809,36556,uz,Lernajur
+2814886,36557,uz,Alapars
+2814963,36558,uz,Alagyaz
+2815040,36559,uz,Akunk (Aragatsotn)
+2815117,36560,uz,Akunk
+2815194,36561,uz,"Akunk, Aragatsotn"
+2815271,36562,uz,"Akori, Armaniston"
+2815348,36563,uz,Akner
+2815425,36564,uz,Hako
+2815502,36565,uz,Akhuryan kayaran
+2815579,36566,uz,Akhurik
+2815656,36567,uz,P'yunik
+2815733,36568,uz,Varagavan
+2815810,36569,uz,Hagt'anak
+2815887,36570,uz,Akhtala (qishloq)
+2815964,36571,uz,Haghpat
+2816041,36572,uz,Ahnidzor
+2816118,36573,uz,Hovk'
+2816195,36574,uz,Aghavnatun
+2816272,36575,uz,Aghavnadzor
+2816349,36576,uz,Hagvi
+2816426,36577,uz,Aghin
+2816503,36578,uz,Aghvorik
+2816580,36579,uz,Aghdzk
+2816657,36580,uz,Aghberk
+2816734,36581,uz,Aghavnavank
+2816811,36582,uz,Tsaghkalanj
+2816888,36583,uz,Gandzakar
+2816965,36584,uz,Agarak
+2817042,36585,uz,Agarakavan
+2817119,36586,uz,Agarak
+2817196,36587,uz,Zovasar
+2817273,36588,uz,Vardadzor
+2817350,36589,uz,Achajur
+2817427,36590,uz,Abovyan
+2817504,36591,uz,Abovyan
+2817581,36592,uz,Vardablur
+2817658,36593,uz,Bardzrashen
+2817735,36594,uz,Nshavan
+2817812,36595,uz,Norabats
+2818351,36602,uz,Bendik
+2818505,36604,uz,Azatamut
+2818582,36605,uz,T'egut
+2818659,36606,uz,Artsvaberd
+2818736,36607,uz,Lernagog
+2818813,36608,uz,Aruch
+2818890,36609,uz,Nor Yerznka
+2818967,36610,uz,Aragatsotn
+2819044,36611,uz,Sasunik
+2819121,36612,uz,Zovuni
+2819198,36613,uz,Kasax
+2819275,36614,uz,Baghramyan
+2819352,36615,uz,Myasnikyan
+2819429,36616,uz,Bagaran
+2819506,36617,uz,Hushakert
+2819583,36618,uz,Lenughi
+2819660,36619,uz,Zart'onk'
+2819737,36620,uz,Metsamor (qishloq)
+2819814,36621,uz,"Gay, Armaniston"
+2819891,36622,uz,Baghramyan (Parakar)
+2819968,36623,uz,Musaler
+2820045,36624,uz,Darakert
+2820122,36625,uz,Dashtavan
+2820199,36626,uz,"Nizami, Armaniston"
+2820276,36627,uz,"Ayntap, Armaniston"
+2820353,36628,uz,Az Zanami
+2820430,36629,uz,Geghhovit
+2820507,36630,uz,Taronik
+2820584,36631,uz,Aratasen
+2820661,36632,uz,Aknashen
+2820738,36633,uz,"Haykashen, Armaniston"
+2820815,36634,uz,Hovtashat
+2820892,36635,uz,"Sayat-Nova, Armaniston"
+2820969,36636,uz,Voskehat
+2821046,36637,uz,"Griboyedov, Armaniston"
+2821123,36638,uz,Amberd
+2821200,36639,uz,Aygek
+2821277,36640,uz,"Ferik, Armaniston"
+2821354,36641,uz,Sip'anik
+2821431,36642,uz,Nor Yedesia
+2821508,36643,uz,Nor Amanos
+2821585,36644,uz,Nor Artamet
+2821662,36645,uz,T'airov
+2821739,36646,uz,Verin Ptgni
+2821816,36647,uz,Jrambar
+2821893,36648,uz,Hovtashen
+2821970,36649,uz,"Dimitrov, Armaniston"
+2822047,36650,uz,Arak'savan
+2822124,36651,uz,Mrgavet
+2822201,36652,uz,Arevabuyr
+2822278,36653,uz,Nor Kyurin
+2822355,36654,uz,Getapnya
+2822432,36655,uz,Deghdzut
+2822509,36656,uz,Lanjazat
+2822586,36657,uz,Lusakunk'
+2822663,36658,uz,Narek
+2822740,36659,uz,Vanand
+2822817,36660,uz,Karmir Aghek
+2822894,36661,uz,Noravan
+2822971,36662,uz,"Khanjyan, Armaniston"
+2823048,36663,uz,Nor Kesaria
+2823125,36664,uz,Karathah
+2823202,36665,uz,Nor Ughi
+2823279,36666,uz,Ginevet
+2823356,36667,uz,Arayi Hoghamaser
+2823664,36671,uz,Sadunts
+2823741,36672,uz,Deghdzavan
+2823818,36673,uz,Senik
+2823895,36674,uz,Argina
+2823972,36675,uz,Artamet
+2824049,36676,uz,Arevadasht
+2825050,36689,uz,Vahagnadzor
+2826667,36710,uz,Aygevan
+2826744,36711,uz,Arak's
+2826821,36712,uz,Kogbavan
+2826898,36713,uz,Talvorik
+2827514,36721,uz,Nairi
+2828361,36732,uz,Khnusik
+2828746,36737,uz,Dprevank
+2829593,36748,uz,Partizak
+2829978,36753,uz,Otevan
+2830286,36757,uz,Aniavan
+2830979,36766,uz,Hart'asen
+2832365,36784,uz,Lusakn
+2833520,36799,uz,Arevut
+2833674,36801,uz,Nor Artagers
+2833828,36803,uz,Norapat
+2834213,36808,uz,Jrarbi
+2834367,36810,uz,"Paruyr Sevak, Armaniston"
+2834983,36818,uz,Shoghakn
+2836061,36832,uz,Saragyug
+2836138,36833,uz,Byurakn
+2837139,36846,uz,Lernahovit
+2837832,36855,uz,K'arkop'
+2839757,36880,uz,Getargel
+2843607,36930,uz,Xatsikavan
+2843684,36931,uz,Jajuravan
+2844762,36945,uz,Nerkin Xndzoresk
+2844839,36946,uz,Acarkut
+2844916,36947,uz,Kayan
+2845994,36961,uz,Antarasen
+2846225,36964,uz,Syunik'
+2846302,36965,uz,Babikavan
+2846379,36966,uz,Dzoraget
+2846456,36967,uz,Armavir
+2846533,36968,uz,Mont'eavan
+2846610,36969,uz,Ughedzor

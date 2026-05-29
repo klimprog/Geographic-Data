@@ -1,0 +1,25 @@
+key,country,name,native_name,capital,population,timezone_utc,timezone_iana
+EC-A,EC,Provincia del Azuay,Azuay,1454005,712127,UTC-5,America/Guayaquil
+EC-B,EC,Provincia de Bolivar,Bolívar,1453413,183641,UTC-5,America/Guayaquil
+EC-C,EC,Provincia del Carchi,Carchi,1448985,164524,UTC-5,"America/Guayaquil, America/Bogota"
+EC-D,EC,Orellana,Provincia de Orellana,1450230,136396,UTC-5,"America/Guayaquil, America/Lima"
+EC-E,EC,Provincia de Esmeraldas,Esmeraldas,1453617,534092,UTC-5,"America/Guayaquil, America/Bogota"
+EC-F,EC,Canar,Provincia de Cañar,1454755,58185,UTC-5,America/Guayaquil
+EC-G,EC,Provincia del Guayas,Guayas,1453379,3645483,UTC-5,America/Guayaquil
+EC-H,EC,Chimborazo,Provincia de Chimborazo,1450047,458581,UTC-5,America/Guayaquil
+EC-I,EC,Provincia de Imbabura,Imbabura,1451722,398244,UTC-5,America/Guayaquil
+EC-L,EC,Provincia de Loja,Loja,1451113,\N,UTC-5,"America/Guayaquil, America/Lima"
+EC-M,EC,Provincia de Manabi,Manabí,1450345,\N,UTC-5,America/Guayaquil
+EC-N,EC,Provincia de Napo,Napo,1449108,103697,UTC-5,America/Guayaquil
+EC-O,EC,Provincia de El Oro,El Oro,1451035,600659,UTC-5,"America/Guayaquil, America/Lima"
+EC-P,EC,Provincia de Pichincha,Pichincha,\N,2576287,UTC-5,America/Guayaquil
+EC-R,EC,Provincia de Los Rios,Provincia de Los Ríos,1454751,778115,UTC-5,America/Guayaquil
+EC-S,EC,Morona Santiago,Morona Santiago,1451038,147940,UTC-5,America/Guayaquil
+EC-SD,EC,Provincia de Santo Domingo de los Tsachilas,Santo Domingo de los Tsáchilas,1449401,368013,UTC-5,America/Guayaquil
+EC-SE,EC,Provincia de Santa Elena,Santa Elena,1449483,308693,UTC-5,America/Guayaquil
+EC-T,EC,Tungurahua,Provincia de Tungurahua,1454866,581389,UTC-5,America/Guayaquil
+EC-U,EC,Provincia de Sucumbios,Sucumbíos,1451453,176472,UTC-5,"America/Guayaquil, America/Bogota"
+EC-W,EC,Provincia de Galapagos,Archipiélago de Galápagos,1450243,25124,UTC-6,Pacific/Galapagos
+EC-X,EC,Provincia de Cotopaxi,Cotopaxi,1451241,409205,UTC-5,America/Guayaquil
+EC-Y,EC,Pastaza,Provincia de Pastaza,1450137,83933,UTC-5,"America/Guayaquil, America/Lima"
+EC-Z,EC,Zamora Chinchipe,Zamora Chinchipe,1448772,91376,UTC-5,"America/Guayaquil, America/Lima"

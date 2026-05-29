@@ -1,0 +1,242 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+3510238,NI,NI-MN,Zambrano,Zambrano,713,4,village,UTC-6,America/Managua
+3510247,NI,NI-MD,Yalaguina,Yalagüina,2265,2,Municipality,UTC-6,America/Managua
+3510251,NI,NI-AN,Yabaltara,Yabaltara,80,4,locality,UTC-6,America/Managua
+3510254,NI,NI-NS,Wiwili,Wiwilí de Nueva Segovia,6955,2,Town,UTC-6,America/Managua
+3510263,NI,NI-AN,Waspan,Waspán,6721,2,Municipality,UTC-6,America/Managua
+3510265,NI,NI-AN,Waslala,Waslala,6668,2,Municipality,UTC-6,America/Managua
+3510279,NI,NI-CO,Villa Sandino,Villa Sandino,7799,2,Municipality,UTC-6,America/Managua
+3510281,NI,NI-CI,Villanueva,Villa Nueva,29051,2,Municipality,UTC-6,America/Managua
+3510291,NI,NI-CI,Venecia,Venecia,283,4,hamlet,UTC-6,America/Managua
+3510302,NI,NI-MN,Valle San Francisco,Valle San Francisco,2219,4,isolated_dwelling,UTC-6,America/Managua
+3510349,NI,NI-CA,Tupilapa,Tupilapa,158,4,village,UTC-6,America/Managua
+3510356,NI,NI-AN,Tuapi,Tuapí,583,4,village,UTC-6,America/Managua
+3510360,NI,NI-MD,Totogalpa,Totogalpa,7096,2,Municipality,UTC-6,America/Managua
+3510365,NI,NI-CI,Tonala,Tonalá,8987,2,town,UTC-6,America/Managua
+3510371,NI,NI-RI,Tola,Tola,4227,2,Municipality,UTC-6,America/Managua
+3510372,NI,NI-MS,Tisma,Tisma,5182,2,Municipality,UTC-6,America/Managua
+3510373,NI,NI-MN,Tipitapa,Tipitapa,80368,2,Municipality,UTC-6,America/Managua
+3510380,NI,NI-MN,Ticuantepe,Ticuantepe (cabecera),13209,2,Municipality,UTC-6,America/Managua
+3510382,NI,NI-BO,Teustepe,Teustepe (Ciudad),4287,2,Municipality,UTC-6,America/Managua
+3510384,NI,NI-MT,Terrabona,Terrabona (cabecera),2701,2,Municipality,UTC-6,America/Managua
+3510389,NI,NI-MD,Telpaneca,Telpaneca,2954,2,Municipality,UTC-6,America/Managua
+3510390,NI,NI-LE,Telica,Telica,8776,2,Municipality,UTC-6,America/Managua
+3510424,NI,NI-MD,Somoto,Somoto,20587,2,Municipality,UTC-6,America/Managua
+3510425,NI,NI-CI,Somotillo,Somotillo,15385,2,Municipality,UTC-6,America/Managua
+3510430,NI,NI-AN,Siuna,Siuna,16056,2,Municipality,UTC-6,America/Managua
+3510436,NI,NI-CA,Marvin Corrales,Marvin Corrales,4595,4,village,UTC-6,America/Managua
+3510443,NI,NI-MT,Sebaco,Sébaco,20261,2,Municipality,UTC-6,America/Managua
+3510453,NI,NI-CI,Santo Tomas del Norte,Santo Tomás del Norte,919,2,Municipality,UTC-6,America/Managua
+3510455,NI,NI-CO,Santo Tomas,Santo Tomás,14809,2,Municipality,UTC-6,America/Managua
+3510458,NI,NI-CO,Santo Domingo,Santo Domingo,5827,2,Municipality,UTC-6,America/Managua
+3510463,NI,NI-MN,Santiago,Santiago,23848,4,town,UTC-6,America/Managua
+3510467,NI,NI-CI,Santa Teresa,Santa Teresa,18553,3,Municipality,UTC-6,America/Managua
+3510475,NI,NI-CA,Santa Teresa,Santa Teresa,16891,2,town,UTC-6,America/Managua
+3510477,NI,NI-LE,Santa Rosa del Penon,Santa Rosa del Peñón,6221,2,Municipality,UTC-6,America/Managua
+3510512,NI,NI-NS,Santa Maria,Santa María,720,2,Municipality,UTC-6,America/Managua
+3510524,NI,NI-BO,Santa Lucia,Santa Lucía,1958,2,Municipality,UTC-6,America/Managua
+3510539,NI,NI-MN,San Jose de La Montana,San José de La Montaña,592,4,village,UTC-6,America/Managua
+3510596,NI,NI-JI,San Sebastian de Yali,San Sebastián de Yalí,5625,2,Municipality,UTC-6,America/Managua
+3510603,NI,NI-MT,San Ramon,San Ramón,2827,2,Municipality,UTC-6,America/Managua
+3510610,NI,NI-MN,San Rafael del Sur,San Rafael del Sur,36127,2,Municipality,UTC-6,America/Managua
+3510611,NI,NI-JI,San Rafael del Norte,San Rafael del Norte,5876,2,Municipality,UTC-6,America/Managua
+3510615,NI,NI-CO,San Pedro de Lovago,San Pedro de Lóvago,6555,2,Municipality,UTC-6,America/Managua
+3510616,NI,NI-CI,San Pedro del Norte,San Pedro del Norte,5054,2,Municipality,UTC-6,America/Managua
+3510637,NI,NI-CI,San Pablo,San Pablo,32187,3,Municipality,UTC-6,America/Managua
+3510642,NI,NI-ES,San Nicolas,San Nicolás,4567,2,Municipality,UTC-6,America/Managua
+3510650,NI,NI-SJ,San Miguelito,San Miguelito,4181,2,Municipality,UTC-6,America/Managua
+3510662,NI,NI-CA,San Marcos,San Marcos,26183,2,Municipality,UTC-6,America/Managua
+3510672,NI,NI-MD,San Lucas,San Lucas,1517,2,Municipality,UTC-6,America/Managua
+3510673,NI,NI-CI,San Lucas,San Lucas,840,4,village,UTC-6,America/Managua
+3510676,NI,NI-BO,San Lorenzo,San Lorenzo,8694,2,Municipality,UTC-6,America/Managua
+3510684,NI,NI-MD,San Juan de Rio Coco,San Juan del Río Coco,3820,2,Municipality,UTC-6,America/Managua
+3510685,NI,NI-MS,San Juan de Oriente,San Juan de Oriente,2111,2,Municipality,UTC-6,America/Managua
+3510686,NI,NI-RI,San Juan del Sur,San Juan del Sur,11266,2,Municipality,UTC-6,America/Managua
+3510687,NI,NI-SJ,Grey Town,San Juan de Nicaragua,642,2,Town,UTC-6,America/Managua
+3510688,NI,NI-ES,San Juan de Limay,San Juan de Limay,4997,2,Municipality,UTC-6,America/Managua
+3510699,NI,NI-BO,San Jose de los Remates,San José de los Remates,2115,2,Municipality,UTC-6,America/Managua
+3510702,NI,NI-MD,San Jose de Cusmapa,San José de Cusmapa,1419,2,Municipality,UTC-6,America/Managua
+3510704,NI,NI-JI,San Jose de Bocay,San José de Bocay,6377,2,Municipality,UTC-6,America/Managua
+3510726,NI,NI-RI,San Jorge,San Jorge,7591,2,Municipality,UTC-6,America/Managua
+3510734,NI,NI-MT,San Isidro,San Isidro,14147,2,Municipality,UTC-6,America/Managua
+3510753,NI,NI-MN,San Francisco Libre,San Francisco Libre,6738,2,Municipality,UTC-6,America/Managua
+3510755,NI,NI-CI,San Francisco del Norte,San Francisco del Norte,7087,2,Municipality,UTC-6,America/Managua
+3510765,NI,NI-NS,San Fernando,San Fernando,3899,2,Municipality,UTC-6,America/Managua
+3510766,NI,NI-GR,La Trinidad,La Trinidad,22704,3,Municipality,UTC-6,America/Managua
+3510775,NI,NI-AS,Sandy Bay Sirpi,Sandy Bay,1491,4,village,UTC-6,America/Managua
+3510776,NI,NI-MT,San Dionisio,San Dionisio,3910,2,Municipality,UTC-6,America/Managua
+3510790,NI,NI-SJ,San Carlos,San Carlos,13451,2,Municipality,UTC-6,America/Managua
+3510799,NI,NI-MN,San Benito,San Benito,1150,4,village,UTC-6,America/Managua
+3510808,NI,NI-LE,Monte Redondo,Monte Redondo,1035,4,village,UTC-6,America/Managua
+3510829,NI,NI-LE,Salinas Grandes,Salinas Grandes,147,4,village,UTC-6,America/Managua
+3510850,NI,NI-RI,Rivas,Rivas,42375,2,Municipality,UTC-6,America/Managua
+3510859,NI,NI-MT,Rio Blanco,Río Blanco,17018,2,Municipality,UTC-6,America/Managua
+3510864,NI,NI-AS,Rama,El Rama,20456,2,Town,UTC-6,America/Managua
+3510870,NI,NI-NS,Quilali,Quilalí,13590,2,Municipality,UTC-6,America/Managua
+3510872,NI,NI-LE,Quezalguaque,Quezalguaque,5283,2,Municipality,UTC-6,America/Managua
+3510874,NI,NI-LE,Quebrada Seca,Quebrada Seca,28677,3,Municipality,UTC-6,America/Managua
+3510885,NI,NI-AN,Puerto Viejo,Puerto Viejo,15913,3,Municipality,UTC-6,America/Managua
+3510886,NI,NI-LE,Puerto Sandino,Puerto Sandino,3389,4,village,UTC-6,America/Managua
+3510888,NI,NI-CI,Puerto Morazan,Puerto Morazán,7671,3,Municipality,UTC-6,America/Managua
+3510889,NI,NI-LE,Puerto Momotombo,Puerto Momotombo,3103,4,village,UTC-6,America/Managua
+3510892,NI,NI-AN,Puerto Cabezas,Puerto Cabezas,33635,2,Municipality,UTC-6,America/Managua
+3510897,NI,NI-ES,Pueblo Nuevo,Pueblo Nuevo,4608,2,Municipality,UTC-6,America/Managua
+3510901,NI,NI-AN,Prinzapolka,Prinzapolka,406,2,Municipality,UTC-6,America/Managua
+3510910,NI,NI-RI,Potosi,Potosí,8563,2,Municipality,UTC-6,America/Managua
+3510911,NI,NI-CI,Posoltega,Posoltega,6403,2,Municipality,UTC-6,America/Managua
+3510915,NI,NI-LE,Poneloya,Poneloya,2232,4,village,UTC-6,America/Managua
+3510916,NI,NI-MN,Pochomil,Pochomil,1227,4,village,UTC-6,America/Managua
+3510932,NI,NI-JI,El Cua,El Cuá,35648,2,Municipality,UTC-6,America/Managua
+3510957,NI,NI-MD,Palacaguina,Palacagüina,8252,2,Municipality,UTC-6,America/Managua
+3510964,NI,NI-AS,Orinoco,Orinoco,2000,4,village,UTC-6,America/Managua
+3510970,NI,NI-NS,Ocotal,Ocotal,40118,2,Municipality,UTC-6,America/Managua
+3510974,NI,NI-AS,El Tortuguero,El Tortuguero,1515,2,Municipality,UTC-6,America/Managua
+3510975,NI,NI-AS,Nueva Guinea,Nueva Guinea,52929,2,Municipality,UTC-6,America/Managua
+3510977,NI,NI-MS,Niquinohomo,Niquinohomo,11290,2,Municipality,UTC-6,America/Managua
+3510978,NI,NI-MS,Nindiri,Nindirí (cabecera),12193,2,Municipality,UTC-6,America/Managua
+3510984,NI,NI-MS,Nandasmo,Nandasmo,8833,2,Municipality,UTC-6,America/Managua
+3510986,NI,NI-GR,Nandaime,Nandaimé,20810,2,Municipality,UTC-6,America/Managua
+3510991,NI,NI-LE,Nagarote,Nagarote,29287,2,Municipality,UTC-6,America/Managua
+3510994,NI,NI-MT,Muy Muy,Muy Muy,4839,2,Municipality,UTC-6,America/Managua
+3510996,NI,NI-NS,Murra,Murra,1179,2,Municipality,UTC-6,America/Managua
+3510997,NI,NI-AN,Mulukuku,Mulukuku,40987,2,Municipality,UTC-6,America/Managua
+3511002,NI,NI-AS,Muelle de los Bueyes,Muelle de los Bueyes,3587,2,Municipality,UTC-6,America/Managua
+3511003,NI,NI-NS,Mozonte,Mozonte,2338,2,Municipality,UTC-6,America/Managua
+3511004,NI,NI-RI,Moyogalpa,Moyogalpa,7287,2,Municipality,UTC-6,America/Managua
+3511005,NI,NI-SJ,Morrito,Morrito,1843,2,Municipality,UTC-6,America/Managua
+3511014,NI,NI-MT,Monte Grande,Monte Grande,700,4,village,UTC-6,America/Managua
+3511021,NI,NI-AS,Monkey Point,Monkey Point,224,4,village,UTC-6,America/Managua
+3511041,NI,NI-MT,Matiguas,Matiguás (cabecera),10523,2,Municipality,UTC-6,America/Managua
+3511042,NI,NI-MN,Mateare,Mateare,42957,2,Municipality,UTC-6,America/Managua
+3511045,NI,NI-MT,Matagalpa,Matagalpa,131533,2,Municipality,UTC-6,America/Managua
+3511049,NI,NI-MS,Masaya,Masaya,144298,2,Municipality,UTC-6,America/Managua
+3511050,NI,NI-MS,Masatepe,Masatepe,26518,2,Municipality,UTC-6,America/Managua
+3511053,NI,NI-MN,Masachapa,Masachapa,5000,4,village,UTC-6,America/Managua
+3511060,NI,NI-MN,Managua,Managua,1030926,1,Municipality,UTC-6,America/Managua
+3511062,NI,NI-LE,Malpaisillo,Malpaisillo,8364,2,town,UTC-6,America/Managua
+3511070,NI,NI-NS,Macuelizo,Macuelizo,374,2,Municipality,UTC-6,America/Managua
+3511075,NI,NI-LE,Los Zarzales,Los Zarzales,1650,4,village,UTC-6,America/Managua
+3511081,NI,NI-LE,Nuevo Renacer,Nuevo Renacer,1024,4,village,UTC-6,America/Managua
+3511170,NI,NI-CO,Llano Grande,Llano Grande,1024,4,village,UTC-6,America/Managua
+3511186,NI,NI-LE,Leon,León,156438,2,Municipality,UTC-6,America/Managua
+3511208,NI,NI-ES,La Trinidad,La Trinidad,12852,2,town,UTC-6,America/Managua
+3511223,NI,NI-MD,Las Sabanas,La Sabana,2697,2,Municipality,UTC-6,America/Managua
+3511233,NI,NI-BO,Laguna de San Onofre,Laguna de San Onofre,89489,3,Municipality,UTC-6,America/Managua
+3511241,NI,NI-LE,Las Penitas,Las Peñitas,721,4,village,UTC-6,America/Managua
+3511262,NI,NI-CI,Las Mercedes,Las Mercedes,12949,3,Municipality,UTC-6,America/Managua
+3511272,NI,NI-MN,Las Maderas,Las Maderas,3700,4,village,UTC-6,America/Managua
+3511277,NI,NI-LE,Las Lajitas,Las Lajtas,25367,4,village,UTC-6,America/Managua
+3511290,NI,NI-CI,Las Enramadas,Mechapa,790,4,locality,UTC-6,America/Managua
+3511328,NI,NI-LE,Larreynaga,Larreynaga,7703,3,Municipality,UTC-6,America/Managua
+3511329,NI,NI-AN,Rosita,Rosita,24031,3,Municipality,UTC-6,America/Managua
+3511330,NI,NI-AN,La Rosa Grande,La Rosa Grande,750,4,village,UTC-6,America/Managua
+3511336,NI,NI-MT,La Remonta,La Remonta,121434,3,Municipality,UTC-6,America/Managua
+3511338,NI,NI-MT,La Reina,La Reyna,20377,4,town,UTC-6,America/Managua
+3511364,NI,NI-BO,Las Penitas,La Peñita,1220,4,village,UTC-6,America/Managua
+3511367,NI,NI-CA,La Paz de Carazo,La Paz de Carazo,2454,2,Municipality,UTC-6,America/Managua
+3511368,NI,NI-LE,La Paz Centro,La Paz Centro,23481,2,Municipality,UTC-6,America/Managua
+3511369,NI,NI-JI,La Pavona Abajo,La Pavona Abajo,365,4,village,UTC-6,America/Managua
+3511370,NI,NI-MT,La Patriota,La Patriota,485,4,village,UTC-6,America/Managua
+3511386,NI,NI-MN,Las Mojarras,Las Mojarras,1406,4,village,UTC-6,America/Managua
+3511398,NI,NI-CO,La Libertad,La Libertad,4007,2,Municipality,UTC-6,America/Managua
+3511413,NI,NI-AS,Pearl City,Pearl City,6809,2,town,UTC-6,America/Managua
+3511459,NI,NI-AS,La Cruz de Rio Grande,La Cruz de Río Grande,1669,2,Municipality,UTC-6,America/Managua
+3511466,NI,NI-CA,La Conquista,La Conquista,2348,2,Municipality,UTC-6,America/Managua
+3511467,NI,NI-JI,La Concordia,La Concordia,2249,2,Municipality,UTC-6,America/Managua
+3511474,NI,NI-MS,La Concepcion,La Concepción,6946,2,Municipality,UTC-6,America/Managua
+3511505,NI,NI-CA,La Boquita,La Boquita,527,4,village,UTC-6,America/Managua
+3511530,NI,NI-AS,Kukra Hill,Kukra Hill,6492,2,Municipality,UTC-6,America/Managua
+3511536,NI,NI-AN,Krukira,Krukira,861,4,village,UTC-6,America/Managua
+3511540,NI,NI-AN,Klark,Klark,208124,3,Municipality,UTC-6,America/Managua
+3511550,NI,NI-AS,Karawala,Karawala,802,2,town,UTC-6,America/Managua
+3511559,NI,NI-CO,Juigalpa,Juigalpa,52596,2,Municipality,UTC-6,America/Managua
+3511566,NI,NI-CI,Jiquilillo,Jiquililo,4142,4,village,UTC-6,America/Managua
+3511567,NI,NI-CA,Jinotepe,Jinotepe,34476,2,Municipality,UTC-6,America/Managua
+3511568,NI,NI-JI,Jinotega,Jinotega City,123548,2,Municipality,UTC-6,America/Managua
+3511576,NI,NI-NS,Jalapa,Jalapa,24037,2,Municipality,UTC-6,America/Managua
+3511623,NI,NI-GR,Granada,Granada,96971,2,Municipality,UTC-6,America/Managua
+3511626,NI,NI-CI,Manzanillo,Manzanillo,35435,3,Municipality,UTC-6,America/Managua
+3511634,NI,NI-ES,Esteli,Estelí,111513,2,Municipality,UTC-6,America/Managua
+3511637,NI,NI-AN,Esquipulas,Esquipulas,18166,3,Municipality,UTC-6,America/Managua
+3511639,NI,NI-MT,Esquipulas,Esquipulas (cabecera),3500,2,town,UTC-6,America/Managua
+3511662,NI,NI-CI,El Viejo,El Viejo,53504,2,Municipality,UTC-6,America/Managua
+3511670,NI,NI-MT,El Tuma,El Tuma,1220,4,village,UTC-6,America/Managua
+3511682,NI,NI-LE,El Transito,El Tránsito,1113,4,village,UTC-6,America/Managua
+3511699,NI,NI-LE,El Tamarindo,El Tamarindo,325,4,village,UTC-6,America/Managua
+3511714,NI,NI-LE,El Sauce,El Sauce,21866,2,Municipality,UTC-6,America/Managua
+3511730,NI,NI-CA,El Rosario,El Rosario,2638,2,town,UTC-6,America/Managua
+3511731,NI,NI-CA,El Rosario,El Rosario,2991,3,Municipality,UTC-6,America/Managua
+3511750,NI,NI-CI,El Realejo,El Realejo (cabacera),7523,2,Municipality,UTC-6,America/Managua
+3511810,NI,NI-RI,El Ostional,El Ostional,396,4,village,UTC-6,America/Managua
+3511839,NI,NI-MN,Ciudad El Doral,Ciudad El Doral,\N,3,village,UTC-6,America/Managua
+3511860,NI,NI-BO,El Jicaro,El Jícaro,33265,3,Municipality,UTC-6,America/Managua
+3511862,NI,NI-LE,El Jicaral,El Jicaral,1446,2,Municipality,UTC-6,America/Managua
+3511896,NI,NI-RI,El Gigante,El Gigante,322,4,village,UTC-6,America/Managua
+3511913,NI,NI-MN,15 de Septiembre,15 de Septiembre,1300,4,village,UTC-6,America/Managua
+3511924,NI,NI-MN,El Crucero,El Crucero,16351,2,Municipality,UTC-6,America/Managua
+3511963,NI,NI-SJ,El Castillo de La Concepcion,El Castillo,735,4,Town,UTC-6,America/Managua
+3511964,NI,NI-MT,El Castillo,El Castillo,43365,3,Municipality,UTC-6,America/Managua
+3512001,NI,NI-AS,Bluefields Bluff,El Bluff,1833,4,locality,UTC-6,America/Managua
+3512016,NI,NI-CO,Los Copeles,Los Copeles,5406,4,hamlet,UTC-6,America/Managua
+3512017,NI,NI-RI,El Astillero,El Astillero,982,4,village,UTC-6,America/Managua
+3512028,NI,NI-SJ,El Almendro,El Almendro,2737,2,Municipality,UTC-6,America/Managua
+3512039,NI,NI-CA,Dolores,Dolores,7065,2,Municipality,UTC-6,America/Managua
+3512040,NI,NI-GR,Diriomo,Diriomo,10113,2,Municipality,UTC-6,America/Managua
+3512041,NI,NI-CA,Diriamba,Diriamba,35008,2,Municipality,UTC-6,America/Managua
+3512042,NI,NI-GR,Diria,Diriá,3903,2,Municipality,UTC-6,America/Managua
+3512044,NI,NI-NS,Dipilto,Dipilto,467,2,Municipality,UTC-6,America/Managua
+3512064,NI,NI-RI,Cuascoto,Cuascoto,7533,3,Municipality,UTC-6,America/Managua
+3512066,NI,NI-CO,San Francisco de Cuapa,San Francisco de Cuapa,2400,2,Municipality,UTC-6,America/Managua
+3512067,NI,NI-MT,Los Cuajiniquiles,Los Cuajiniquiles,128505,3,Municipality,UTC-6,America/Managua
+3512072,NI,NI-AS,South End,South End,8011,4,village,UTC-6,America/Managua
+3512073,NI,NI-CI,Corinto,Corinto,18917,2,Municipality,UTC-6,America/Managua
+3512077,NI,NI-ES,Condega,Condega,11000,2,Municipality,UTC-6,America/Managua
+3512088,NI,NI-CO,Comalapa,Comalapa,1473,2,Municipality,UTC-6,America/Managua
+3512099,NI,NI-NS,El Jicaro,El Jícaro,6700,2,town,UTC-6,America/Managua
+3512100,NI,NI-MT,Ciudad Dario,Ciudad Dario,14982,2,Municipality,UTC-6,America/Managua
+3512101,NI,NI-NS,Ciudad Antigua,Ciudad Antigua,1787,2,Municipality,UTC-6,America/Managua
+3512103,NI,NI-CI,Cinco Pinos,Cinco Pinos,988,2,Municipality,UTC-6,America/Managua
+3512108,NI,NI-CI,Chinandega,Chinandega,126387,2,Municipality,UTC-6,America/Managua
+3512109,NI,NI-CI,Chichigalpa,Chichigalpa,41465,2,Municipality,UTC-6,America/Managua
+3512113,NI,NI-MT,Chaguitillo,Chagüitillo,2349,4,village,UTC-6,America/Managua
+3512124,NI,NI-MS,Catarina,Catarina,2327,2,Municipality,UTC-6,America/Managua
+3512128,NI,NI-LE,Caserio Abra Vieja,Caserío Abra Vieja,113503,3,Municipality,UTC-6,America/Managua
+3512131,NI,NI-CA,Casares,Casares,1351,4,village,UTC-6,America/Managua
+3512138,NI,NI-MN,Villa El Carmen,Villa Carlos Fonseca,5219,2,Municipality,UTC-6,America/Managua
+3512139,NI,NI-RI,Cardenas,Cárdenas,1204,2,Municipality,UTC-6,America/Managua
+3512161,NI,NI-BO,Camoapa,Camoapa,16653,2,Municipality,UTC-6,America/Managua
+3512166,NI,NI-LE,Cabo de Horno,Cabo de Horno,11690,3,Municipality,UTC-6,America/Managua
+3512175,NI,NI-RI,Buenos Aires,Buenos Aires,1964,2,Municipality,UTC-6,America/Managua
+3512192,NI,NI-AN,Bonanza,Bonanza,7229,2,Municipality,UTC-6,America/Managua
+3512194,NI,NI-AS,Bocana de Paiwas,Bocana de Paiwas,7872,2,Municipality,UTC-6,America/Managua
+3512195,NI,NI-SJ,Boca de Sabalos,Boca de Sábalos,2834,2,town,UTC-6,America/Managua
+3512197,NI,NI-BO,Boaquito,Boaquito,537,4,village,UTC-6,America/Managua
+3512199,NI,NI-BO,Boaco,Boaco,29046,2,Municipality,UTC-6,America/Managua
+3512200,NI,NI-AS,Bluefields,Bluefields,49453,2,Municipality,UTC-6,America/Managua
+3512208,NI,NI-CI,Bellavista,Bellavista,85710,3,Municipality,UTC-6,America/Managua
+3512211,NI,NI-RI,Belen,Belén,10922,2,Municipality,UTC-6,America/Managua
+3512213,NI,NI-MS,Barrio Pio XII,Barrio Pío XII,1730,4,locality,UTC-6,America/Managua
+3512230,NI,NI-RI,Balque,Balgüe,1233,4,locality,UTC-6,America/Managua
+3512242,NI,NI-AN,Auastara,Awastara,1231,4,village,UTC-6,America/Managua
+3512244,NI,NI-BO,Cuisala,Cuisalà,427,4,village,UTC-6,America/Managua
+3512258,NI,NI-MT,Apompua,Apompuá,850,4,village,UTC-6,America/Managua
+3512279,NI,NI-RI,Altagracia,Altagracia,4906,3,Municipality,UTC-6,America/Managua
+3512281,NI,NI-AN,Alamikambang,Alamikambang,1481,2,town,UTC-6,America/Managua
+3512291,NI,NI-CO,Acoyapa,Acoyapa,10563,2,Municipality,UTC-6,America/Managua
+3512292,NI,NI-LE,Achuapa,Achuapa,8548,2,Municipality,UTC-6,America/Managua
+3512315,NI,NI-MT,Las Pozas,Las Pozas,590,4,village,UTC-6,America/Managua
+3512326,NI,NI-MN,Ciudad Sandino,Ciudad Sandino,95973,2,Municipality,UTC-6,America/Managua
+3512335,NI,NI-LE,Miramar,Miramar,451,4,village,UTC-6,America/Managua
+3512337,NI,NI-JI,Las Praderas,Las Praderas,7836,2,town,UTC-6,America/Managua
+3512413,NI,NI-CA,El Silo,El Silo,16989,4,town,UTC-6,America/Managua
+3512497,NI,NI-RI,Santa Cruz,Santa Cruz,396,4,village,UTC-6,America/Managua
+3512499,NI,NI-JI,Santa Maia de Pantasma,Santa Maía de Pantasma,\N,2,locality,UTC-6,America/Managua
+3512505,NI,NI-SJ,Mancarron,Mancarrón,317,4,town,UTC-6,America/Managua
+3512506,NI,NI-JI,Wiwili de Jinotega,Wiwilí de Jinotega,45664,2,Municipality,UTC-6,America/Managua
+3512520,NI,NI-CO,El Coral,El Coral,5448,2,Municipality,UTC-6,America/Managua
+3512521,NI,NI-AS,El Ayote,El Ayote,12215,2,Municipality,UTC-6,America/Managua
+3512522,NI,NI-MT,La Dalia,La Dalia,5925,2,town,UTC-6,America/Managua
+3512523,NI,NI-MT,Rancho Grande,Rancho Grande,22500,2,Municipality,UTC-6,America/Managua
+3512544,NI,\N,Playa Hermosa,Playa Hermosa,558,4,village,UTC-6,America/Managua
+3512550,NI,NI-JI,Pantasma,Pantasma,\N,2,locality,UTC-6,America/Managua
+3512553,NI,NI-RI,El Nacascolo,El Nacascolo,129,4,PPL,UTC-6,America/Managua

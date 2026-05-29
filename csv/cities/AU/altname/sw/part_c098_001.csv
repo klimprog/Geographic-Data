@@ -1,0 +1,5307 @@
+id,city_id,language_key,name
+6714927,87207,sw,Yunta
+6715081,87209,sw,Yundi
+6715312,87212,sw,Yumali
+6715389,87213,sw,Yuendumu
+6715620,87216,sw,Youngs
+6715928,87220,sw,Yornup
+6716159,87223,sw,Yorketown
+6716236,87224,sw,York
+6716313,87225,sw,Yoongarillup
+6716467,87227,sw,Yirrkala
+6716698,87230,sw,Yerecoin
+6716929,87233,sw,Yelverton
+6717160,87236,sw,Yeelanna
+6717237,87237,sw,Yealering
+6717545,87241,sw,Yarloop
+6717776,87244,sw,Yanmah
+6717853,87245,sw,Yankalilla
+6717930,87246,sw,Kyan Pin
+6718315,87251,sw,Yallunda Flat
+6718469,87253,sw,Yallingup
+6718546,87254,sw,Yalgoo
+6718854,87258,sw,Wyndham
+6718931,87259,sw,Wynarka
+6719085,87261,sw,Wyalkatchem
+6719316,87264,sw,Wundowie
+6719470,87266,sw,Wudinna
+6719547,87267,sw,Wubin
+6719855,87271,sw,Woomera
+6720009,87273,sw,Wool Bay
+6720086,87274,sw,Woogenellup
+6720240,87276,sw,Woodside
+6720625,87281,sw,Woodchester
+6720702,87282,sw,Woodanilling
+6720779,87283,sw,Wonnerup
+6720856,87284,sw,Wongulla
+6720933,87285,sw,Wongan Hills
+6721087,87287,sw,Wokurna
+6721164,87288,sw,Wokalup
+6721395,87291,sw,Witchcliffe
+6721472,87292,sw,Wistow
+6721549,87293,sw,Wisanger
+6721626,87294,sw,Wirrulla
+6721703,87295,sw,Wirrabara
+6721934,87298,sw,Windsor
+6722165,87301,sw,Wiluna
+6722396,87304,sw,Wilmington
+6722473,87305,sw,Willyaroo
+6722550,87306,sw,Willunga
+6722858,87310,sw,Williamstown
+6723012,87312,sw,Williams
+6723166,87314,sw,Wilga
+6723243,87315,sw,Wild Horse Plains
+6723397,87317,sw,Wickepin
+6723551,87319,sw,Whyalla
+6723782,87322,sw,Whites Flat
+6723859,87323,sw,Whim Creek
+6724244,87328,sw,West Toodyay
+6724321,87329,sw,Westonia
+6724706,87334,sw,Wellington Mill
+6724783,87335,sw,Wellington East
+6724860,87336,sw,Wellington
+6725245,87341,sw,Weetulta
+6725399,87343,sw,Wauraltee
+6725553,87345,sw,Wattle Flat
+6725784,87348,sw,Watheroo
+6725861,87349,sw,Waterloo
+6725938,87350,sw,Wasleys
+6726323,87355,sw,Warramboo
+6726554,87358,sw,Waroona
+6726631,87359,sw,Warooka
+6726785,87361,sw,Ward Belt
+6726939,87363,sw,Warburton
+6727016,87364,sw,Warburto
+6727170,87366,sw,Wannamal
+6727247,87367,sw,Wanilla
+6727324,87368,sw,Wangary
+6727401,87369,sw,Wandering
+6727478,87370,sw,Wandearah East
+6727709,87373,sw,Walpole
+6727863,87375,sw,Wall Flat
+6727940,87376,sw,Wallaroo Mines
+6728017,87377,sw,Wallaroo
+6728094,87378,sw,Walker Flat
+6728171,87379,sw,Walkaway
+6728248,87380,sw,Walgoolan
+6728402,87382,sw,Waikerie
+6728479,87383,sw,Wagin
+6728941,87389,sw,Wadderin
+6729018,87390,sw,Vine Vale
+6729172,87392,sw,Victor Harbor
+6729249,87393,sw,Verdun
+6729326,87394,sw,Venus Bay
+6729788,87400,sw,Urania
+6729942,87402,sw,Uraidla
+6730019,87403,sw,Ungarra
+6730327,87407,sw,Two Wells
+6730481,87409,sw,Warmun
+6730558,87410,sw,Tungkillo
+6730635,87411,sw,Tumby Bay
+6731097,87417,sw,Truro
+6731405,87421,sw,Trayning
+6731867,87427,sw,Tooperang
+6732252,87432,sw,"Toodyay, Australia Magharibi"
+6732329,87433,sw,Tincurrin
+6732483,87435,sw,Tickera
+6732637,87437,sw,Three Springs
+6732714,87438,sw,The Range
+6733176,87444,sw,Terowie
+6733407,87447,sw,Tenterden
+6733561,87449,sw,Tennant Creek
+6733638,87450,sw,Templers
+6733715,87451,sw,Telowie
+6733869,87453,sw,Tea Tree Gully
+6734023,87455,sw,Taylorville
+6734177,87457,sw,Tarlee
+6734408,87460,sw,Tarcowie
+6734562,87462,sw,Tanunda
+6734639,87463,sw,Tanami
+6734716,87464,sw,Tammin
+6734793,87465,sw,Tambellup
+6735101,87469,sw,Tailem Bend
+6735178,87470,sw,Swan Reach
+6735255,87471,sw,Swanport
+6735794,87478,sw,Streaky Bay
+6735871,87479,sw,Strathalbyn
+6736410,87486,sw,Stockwell
+6736487,87487,sw,Stockport
+6736564,87488,sw,Stirling
+6736872,87492,sw,Stansbury
+6736949,87493,sw,Springton
+6737103,87495,sw,Spencers Brook
+6737334,87498,sw,Spalding
+6737565,87501,sw,South Tammin
+6737642,87502,sw,South Quairading
+6737796,87504,sw,South Kumminin
+6737950,87506,sw,South Kilkerran
+6738027,87507,sw,Kalamunda Kusini
+6738104,87508,sw,Southern Cross
+6738181,87509,sw,Southern Brook
+6738566,87514,sw,Snowtown
+6738643,87515,sw,Smoky Bay
+6738951,87519,sw,Sherlock
+6739182,87522,sw,Shea-Oak Log
+6739259,87523,sw,Denham
+6739336,87524,sw,Shackleton
+6739490,87526,sw,Sedan
+6739567,87527,sw,Second Valley
+6739721,87529,sw,Scott Creek
+6739952,87532,sw,Scaddan
+6740029,87533,sw,Sandstone
+6740183,87535,sw,Sandilands
+6740260,87536,sw,Sanderston
+6740337,87537,sw,Sandergrove
+6740491,87539,sw,Salter Springs
+6740645,87541,sw,Salmon Gums
+6740722,87542,sw,Salisbury
+6741030,87546,sw,Saddleworth
+6741261,87549,sw,Rudall
+6741338,87550,sw,Roxby Downs
+6741415,87551,sw,Rowland Flat
+6741569,87553,sw,Rothsay
+6741646,87554,sw,Roseworthy
+6741723,87555,sw,Rosetown
+6741800,87556,sw,Rosedale
+6741877,87557,sw,Rosa Brook
+6741954,87558,sw,Roelands
+6742031,87559,sw,Roebourne
+6742185,87561,sw,Rockleigh
+6742262,87562,sw,Rockingham
+6742416,87564,sw,Robertstown
+6742493,87565,sw,Robe
+6742570,87566,sw,Riverton
+6742801,87569,sw,Rhynie
+6742955,87571,sw,Reeves Plains
+6743186,87574,sw,Redhill
+6743263,87575,sw,Red Creek
+6743340,87576,sw,Redbanks
+6743494,87578,sw,Ravensthorpe
+6743648,87580,sw,Ranford
+6743802,87582,sw,Ramco
+6743879,87583,sw,Quorn
+6744033,87585,sw,Quinninup
+6744187,87587,sw,Quindalup
+6744341,87589,sw,Qualeup
+6744495,87591,sw,Qualco
+6744572,87592,sw,Quairading
+6744726,87594,sw,Pygery
+6745111,87599,sw,Matarajio Hill
+6745188,87600,sw,Prospect
+6745342,87602,sw,Bei ya bandari
+6745419,87603,sw,Port Wakefield
+6745496,87604,sw,Port Vincent
+6745573,87605,sw,Port Victoria
+6745650,87606,sw,Port Rickaby
+6745727,87607,sw,Port Pirie
+6745804,87608,sw,Port Neill
+6745881,87609,sw,Port Moorowie
+6746112,87612,sw,Port Lincoln
+6746189,87613,sw,Port Kenny
+6746266,87614,sw,Port Julia
+6746420,87616,sw,Port Hedland
+6746497,87617,sw,Port Germein
+6746651,87619,sw,Port Clinton
+6746728,87620,sw,Port Broughton
+6746882,87622,sw,Port Augusta
+6746959,87623,sw,Porongurup
+6747113,87625,sw,Popanyinning
+6747190,87626,sw,Poonindie
+6747267,87627,sw,Poochera
+6747421,87629,sw,Ponde
+6747498,87630,sw,Pompoota
+6747575,87631,sw,Point Turton
+6747652,87632,sw,Point Sturt
+6747729,87633,sw,Point Samson
+6747806,87634,sw,Point Pass
+6747960,87636,sw,Pithara
+6748191,87639,sw,Pinkertons Plains
+6748268,87640,sw,Pinjarra
+6748345,87641,sw,Pingrup
+6748422,87642,sw,Pingelly
+6748499,87643,sw,Pingaring
+6748576,87644,sw,Pinery
+6748653,87645,sw,Pine Point
+6748730,87646,sw,Pine Creek
+6749192,87652,sw,Piesseville
+6749269,87653,sw,Picton Junction
+6749423,87655,sw,Piawaning
+6749577,87657,sw,Peterborough
+6749654,87658,sw,Perth
+6749731,87659,sw,Perponda
+6749885,87661,sw,Perenjori
+6749962,87662,sw,Penong
+6750039,87663,sw,Penneshaw
+6750193,87665,sw,Pemberton
+6750347,87667,sw,Pekina
+6750578,87670,sw,Pearlah
+6750655,87671,sw,Pearce
+6750809,87673,sw,Pekes
+6750963,87675,sw,Paynes Find
+6751040,87676,sw,Paskeville
+6751117,87677,sw,Parryville
+6751425,87681,sw,Paris Creek
+6751810,87686,sw,Palmer
+6751887,87687,sw,Pallamana
+6751964,87688,sw,Palgarup
+6752118,87690,sw,Owen
+6752195,87691,sw,Orroroo
+6752349,87693,sw,Oodnadatta
+6752503,87695,sw,Onslow
+6752580,87696,sw,Ongerup
+6752811,87699,sw,Ogilvie
+6753273,87705,sw,Nyabing
+6753427,87707,sw,Nuriootpa
+6753735,87711,sw,Nungarin
+6753812,87712,sw,Ujumbe wa Numbular
+6753966,87714,sw,Nullagine
+6754351,87719,sw,Norton Summit
+6754582,87722,sw,North Shields
+6755121,87729,sw,North Dandalup
+6755198,87730,sw,Northcliffe
+6755429,87733,sw,Northampton
+6755506,87734,sw,Northam
+6755583,87735,sw,Norseman
+6755737,87737,sw,Nornalup
+6755891,87739,sw,Normanville
+6756276,87744,sw,Nokaning
+6756353,87745,sw,Noggerup
+6756507,87747,sw,Nildottie
+6756584,87748,sw,Nhulunbuy
+6756661,87749,sw,Ngapala
+6756815,87751,sw,New Norcia
+6756892,87752,sw,Newman
+6756969,87753,sw,Newlands
+6757046,87754,sw,Newdegate
+6757431,87759,sw,Nelshaby
+6757662,87762,sw,Needilup
+6757816,87764,sw,Neales Flat
+6758047,87767,sw,Narrung
+6758124,87768,sw,Narrogin
+6758201,87769,sw,Narrikup
+6758278,87770,sw,Narridy
+6758355,87771,sw,Narra Tarra
+6758509,87773,sw,Narembeen
+6758663,87775,sw,Napperby
+6758740,87776,sw,Napier
+6758817,87777,sw,Nantawarra
+6758894,87778,sw,Nanson
+6759048,87780,sw,Nannup
+6759202,87782,sw,Nangkita
+6759279,87783,sw,Nangeenan
+6759664,87788,sw,Nairne
+6759895,87791,sw,Nabawa
+6759972,87792,sw,Myponga
+6760126,87794,sw,Mypolonga
+6760434,87798,sw,Mji wa Murray
+6760511,87799,sw,Murray Bridge
+6760665,87801,sw,Murdinga
+6760742,87802,sw,Murbko
+6760819,87803,sw,Muradup
+6761050,87806,sw,Mundoora
+6761281,87809,sw,Mumballup
+6761358,87810,sw,Mullewa
+6761435,87811,sw,Mullalyup
+6761589,87813,sw,Mukinbudin
+6761743,87815,sw,Mudamuckla
+6761820,87816,sw,Muchea
+6761974,87818,sw,Mlima Torrens
+6762128,87820,sw,Mlima Vernon
+6762205,87821,sw,Mount Palmer
+6762359,87823,sw,Mount McKenzie
+6762513,87825,sw,Mount Magnet
+6762744,87828,sw,Mount Kokeby
+6762821,87829,sw,Mount Isa
+6763129,87833,sw,Mount Hardey
+6763591,87839,sw,Mount Crawford
+6763745,87841,sw,Mount Compass
+6763899,87843,sw,Mount Benson
+6764053,87845,sw,Mount Barker
+6764130,87846,sw,Mount Barker
+6764284,87848,sw,Moulyinning
+6764438,87850,sw,Mosman Park
+6764823,87855,sw,Morgan
+6765054,87858,sw,Morawa
+6765131,87859,sw,Moppa
+6765362,87862,sw,Moorlands
+6765439,87863,sw,Moorine Rock
+6765516,87864,sw,Moroura
+6765593,87865,sw,Moonyoonooka
+6765670,87866,sw,Moonta
+6766055,87871,sw,Mooliabeenee
+6766286,87874,sw,Monteith
+6766440,87876,sw,Montacute
+6766671,87879,sw,Monarto South
+6766748,87880,sw,Monarto
+6766902,87882,sw,Mogumber
+6766979,87883,sw,Moculta
+6767210,87886,sw,Mitcham
+6767364,87888,sw,Mintaro
+6767518,87890,sw,Minnipa
+6767672,87892,sw,Minlaton
+6767749,87893,sw,Mingenew
+6768057,87897,sw,Miltalie
+6768211,87899,sw,Miling
+6768288,87900,sw,Milendella
+6768365,87901,sw,Milang
+6768519,87903,sw,Middleton
+6768750,87906,sw,Metricup
+6768827,87907,sw,Merriton
+6768904,87908,sw,Merredin
+6769135,87911,sw,Menzies
+6769212,87912,sw,Meningie
+6769366,87914,sw,Melrose
+6769520,87916,sw,Meelon
+6769597,87917,sw,Meekatharra
+6769674,87918,sw,Meckering
+6769751,87919,sw,Meadows
+6769982,87922,sw,McHarg Creek
+6770136,87924,sw,Mayanup
+6770290,87926,sw,Mataranka
+6770444,87928,sw,Marvel Loch
+6770598,87930,sw,Marree
+6770675,87931,sw,Marradong
+6770829,87933,sw,Marrabel
+6771060,87936,sw,Marion Bay
+6771137,87937,sw,Marion
+6771291,87939,sw,Margaret River
+6771522,87942,sw,Marble Bar
+6771599,87943,sw,Marbelup
+6771753,87945,sw,Marananga
+6771907,87947,sw,Manoora
+6771984,87948,sw,Mannum
+6772061,87949,sw,Mannanarie
+6772215,87951,sw,Manjimup
+6772292,87952,sw,Maningrida
+6772369,87953,sw,Mangalo
+6772446,87954,sw,Mandurah
+6772985,87961,sw,Mallala
+6773216,87964,sw,Maitland
+6773524,87968,sw,Macclesfield
+6773678,87970,sw,Lyndoch
+6773832,87972,sw,Lumeah
+6773909,87973,sw,Ludlow
+6773986,87974,sw,Lower Light
+6774063,87975,sw,Lower Chittering
+6774140,87976,sw,Lowden
+6774294,87978,sw,Louth Bay
+6774602,87982,sw,Long Plains
+6774987,87987,sw,Kufuli
+6775064,87988,sw,Lochiel
+6775141,87989,sw,Lobethal
+6775372,87992,sw,Lipson
+6775603,87995,sw,Linden
+6775834,87998,sw,Light Pass
+6775911,87999,sw,Lewiston
+6775988,88000,sw,Leonora
+6776065,88001,sw,Lenswood
+6776296,88004,sw,Leigh Creek
+6776450,88006,sw,Laverton
+6776681,88009,sw,Laura
+6776758,88010,sw,Latham
+6776912,88012,sw,Langhorne Creek
+6777297,88017,sw,Lake Plains
+6777374,88018,sw,Lake King
+6777451,88019,sw,Lake Grace
+6777913,88025,sw,Kyancutta
+6778144,88028,sw,Kwinana
+6778375,88031,sw,Kurrawang
+6778606,88034,sw,Kununurra
+6779068,88040,sw,Kulpara
+6779222,88042,sw,Kulin
+6779299,88043,sw,Kulikup
+6779607,88047,sw,Kukerin
+6779761,88049,sw,Kuitpo
+6779915,88051,sw,Kudardup
+6779992,88052,sw,Kronkup
+6780069,88053,sw,Korunye
+6780146,88054,sw,Korrelocking
+6780300,88056,sw,Korbel
+6780377,88057,sw,Koppio
+6780531,88059,sw,Koorda
+6780762,88062,sw,Koonibba
+6780839,88063,sw,Koongawa
+6780993,88065,sw,Koomberkine
+6781070,88066,sw,Koolywurtie
+6781147,88067,sw,Koolunga
+6781301,88069,sw,Kookynie
+6781378,88070,sw,Koojan
+6781455,88071,sw,Konnongorring
+6781686,88074,sw,Kondinin
+6781840,88076,sw,Kojonup
+6782148,88080,sw,Kitchener
+6782302,88082,sw,Kirup
+6782456,88084,sw,Kingston Kusini Mashariki
+6782687,88087,sw,Kingscote
+6782918,88090,sw,Kimba
+6783226,88094,sw,Kielpa
+6783303,88095,sw,Keyneton
+6783534,88098,sw,Kersbrook
+6783688,88100,sw,Kentdale
+6783919,88103,sw,Kendenup
+6783996,88104,sw,Kellerberrin
+6784381,88109,sw,Katherine
+6784458,88110,sw,Katanning
+6784535,88111,sw,Karridale
+6784612,88112,sw,Karranadgin
+6784766,88114,sw,Karoonda
+6784997,88117,sw,Karlgarin
+6785074,88118,sw,Karkoo
+6785305,88121,sw,Kapunda
+6785459,88123,sw,Kanmantoo
+6785536,88124,sw,Kangaroo Flat
+6785844,88128,sw,Kalgoorlie
+6785921,88129,sw,Kalbarri
+6785998,88130,sw,Kalannie
+6786152,88132,sw,Kainton
+6786229,88133,sw,Kadina
+6786460,88136,sw,Jupiter Creek
+6786922,88142,sw,Jingalup
+6787076,88144,sw,Jilakin
+6787153,88145,sw,Jervois
+6787230,88146,sw,Jennapullin
+6787307,88147,sw,Jennacubbine
+6787538,88150,sw,Jardee
+6787615,88151,sw,Jamestown
+6787769,88153,sw,Jacup
+6787846,88154,sw,Jacobs Well
+6788000,88156,sw,Isseka
+6788077,88157,sw,Irwin
+6788154,88158,sw,Iron Knob
+6788462,88162,sw,Inman Valley
+6788693,88165,sw,Inglewood
+6788847,88167,sw,Hyden
+6789155,88171,sw,Hoyleton
+6789309,88173,sw,Howatharra
+6789386,88174,sw,Houghton
+6789694,88178,sw,Hopetoun
+6789848,88180,sw,Hope Forest
+6790387,88187,sw,Hoddy Well
+6790541,88189,sw,Hines Hill
+6790618,88190,sw,Hindmarsh Valley
+6790695,88191,sw,Hindmarsh Island
+6790772,88192,sw,Highbury
+6790849,88193,sw,Hester
+6791157,88197,sw,Hawker
+6791311,88199,sw,Haslam
+6791388,88200,sw,Harvey
+6791465,88201,sw,Hartley
+6791542,88202,sw,Harrogate
+6791619,88203,sw,Harrismith
+6791850,88206,sw,Hampden
+6792004,88208,sw,Hamley Bridge
+6792081,88209,sw,Hamilton
+6792158,88210,sw,Hameli
+6792235,88211,sw,Halls Creek
+6792389,88213,sw,Hallett
+6792466,88214,sw,Halbury
+6792697,88217,sw,Hahndorf
+6792774,88218,sw,Gutha
+6792851,88219,sw,Gumeracha
+6793236,88224,sw,Greenough
+6793313,88225,sw,Greenock
+6793544,88228,sw,Greenhills
+6793621,88229,sw,Greenbushes
+6793698,88230,sw,Grass Valley
+6793775,88231,sw,Grass Patch
+6794006,88234,sw,Cramphorne
+6794545,88241,sw,Goomalling
+6794622,88242,sw,Goolwa
+6794853,88245,sw,Gomersal
+6795084,88248,sw,Gnowangerup
+6795238,88250,sw,Glenlynn
+6795315,88251,sw,Gladstone
+6795469,88253,sw,Gingin
+6795777,88257,sw,Gibson
+6796008,88260,sw,Geraldton
+6796085,88261,sw,Georgetown
+6796239,88263,sw,Gawler River
+6796316,88264,sw,Gawler
+6796393,88265,sw,Gascoyne Junction
+6796855,88271,sw,Gabbin
+6797086,88274,sw,Freeling
+6797240,88276,sw,Frankland
+6797317,88277,sw,Fowlers Bay
+6797625,88281,sw,Forest Range
+6797702,88282,sw,Forest Grove
+6797779,88283,sw,Fords
+6798010,88286,sw,Flaxley
+6798241,88289,sw,Fitzroy Crossing
+6798395,88291,sw,Finniss
+6798472,88292,sw,Finke
+6799165,88301,sw,Eudunda
+6799242,88302,sw,Eucla
+6799396,88304,sw,Esperance
+6799550,88306,sw,Encounter Bay
+6799781,88309,sw,Emu Bay
+6800012,88312,sw,Elliston
+6800089,88313,sw,Elliott
+6800474,88318,sw,Edithburgh
+6800551,88319,sw,Edillilie
+6800628,88320,sw,Eden Valley
+6800705,88321,sw,Echunga
+6801244,88328,sw,Eastbrook
+6801321,88329,sw,East Beverley
+6801475,88331,sw,Dwellingup
+6801629,88333,sw,Dutton
+6801783,88335,sw,Duranillin
+6801860,88336,sw,Dunsborough
+6802014,88338,sw,Dumbleyung
+6802091,88339,sw,Dulbelling
+6802322,88342,sw,Dudinin
+6802476,88344,sw,Duck Ponds
+6802630,88346,sw,Dublin
+6802861,88349,sw,Dowerin
+6803246,88354,sw,Doodlakine
+6803400,88356,sw,Donnybrook
+6803554,88358,sw,Dongara
+6803631,88359,sw,Dinninup
+6803708,88360,sw,Dingabledinga
+6804093,88365,sw,Derby
+6804170,88366,sw,Denmark
+6804247,88367,sw,Port Denison
+6804324,88368,sw,Denial Bay
+6804401,88369,sw,Delamere
+6804555,88371,sw,Deanmill
+6804940,88376,sw,Daveyston
+6805171,88379,sw,Darwin
+6805479,88383,sw,Darke Peak
+6805556,88384,sw,Darkan
+6805633,88385,sw,Dardanup
+6805941,88389,sw,Dandaragan
+6806018,88390,sw,Dampier
+6806249,88393,sw,Dalwallinu
+6806557,88397,sw,Dajarra
+6806711,88399,sw,Cygnet River
+6806788,88400,sw,Cuthbert
+6806865,88401,sw,Currency Creek
+6806942,88402,sw,Curramulka
+6807096,88404,sw,Cunliffe
+6807327,88407,sw,Cunderdin
+6807404,88408,sw,Cummins
+6807558,88410,sw,Culburra
+6807635,88411,sw,Cue
+6807712,88412,sw,Cudlee Creek
+6807866,88414,sw,Cuballing
+6807943,88415,sw,Crystal Brook
+6808020,88416,sw,Crossman
+6808097,88417,sw,Cromer
+6808174,88418,sw,Cranbrook
+6808482,88422,sw,Cowirra
+6808636,88424,sw,Cowell
+6808790,88426,sw,Cowaramup
+6809021,88429,sw,Coulta
+6809098,88430,sw,Cottesloe
+6809252,88432,sw,Cosmo Newbery
+6809329,88433,sw,Cortlinye
+6809406,88434,sw,Corrigin
+6809483,88435,sw,Corny Point
+6809791,88439,sw,Copley
+6810022,88442,sw,Coorow
+6810176,88444,sw,Coorabie
+6810330,88446,sw,Coondle
+6810484,88448,sw,Coonalpyn
+6810561,88449,sw,Coomunga
+6810638,88450,sw,Coomberdale
+6810715,88451,sw,Coomandook
+6810792,88452,sw,Coolup
+6810869,88453,sw,Coolgardie
+6811100,88456,sw,Cooke Plains
+6811177,88457,sw,Cookernup
+6811331,88459,sw,Coobowie
+6811408,88460,sw,Coober Pedy
+6811639,88463,sw,Condowie
+6811793,88465,sw,Concordia
+6812255,88471,sw,Collie Burn
+6812332,88472,sw,Collie
+6812563,88475,sw,Cockatoo Valley
+6812717,88477,sw,Cleve
+6813025,88481,sw,Clare
+6813179,88483,sw,Clackline
+6813487,88487,sw,Chittering
+6813872,88492,sw,Cherryville
+6813949,88493,sw,Cherry Tree Pool
+6814180,88496,sw,Charleston
+6814642,88502,sw,Ceduna
+6814796,88504,sw,Cartmeticup
+6815489,88513,sw,Carnarvon
+6815566,88514,sw,Carnamah
+6815951,88519,sw,Carey Gully
+6816567,88527,sw,Capel
+6816798,88530,sw,Canna
+6817183,88535,sw,Camooweal
+6817260,88536,sw,Cambrai
+6817491,88539,sw,Caloote
+6817568,88540,sw,Callington
+6817645,88541,sw,Calingiri
+6817953,88545,sw,Cadoux
+6818030,88546,sw,Cadell
+6818184,88548,sw,Butler
+6818261,88549,sw,Bute
+6818338,88550,sw,Busselton
+6818569,88553,sw,Burracoppin
+6818646,88554,sw,Burra
+6818800,88556,sw,Burketown
+6818954,88558,sw,Burekup
+6819339,88563,sw,Buntine
+6819493,88565,sw,Bunji
+6819878,88570,sw,Bundaleer
+6819955,88571,sw,Bunbury
+6820340,88576,sw,Bull Creek
+6820417,88577,sw,Bullaring
+6820879,88583,sw,Brunswick Junction
+6820956,88584,sw,Bruce Rock
+6821187,88587,sw,Brownlow
+6821341,88589,sw,Broomehill
+6821418,88590,sw,Broome
+6821495,88591,sw,Brookton
+6822034,88598,sw,Brinkworth
+6822111,88599,sw,Brinkley
+6822342,88602,sw,Brighton
+6822496,88604,sw,Bridgewater
+6822573,88605,sw,Bridgetown
+6822650,88606,sw,Brentwood
+6822727,88607,sw,Bramley
+6822958,88610,sw,Bradbury
+6823035,88611,sw,Boyup Brook
+6823112,88612,sw,Boyanup
+6823189,88613,sw,Bowmans
+6823343,88615,sw,Bowhill
+6823497,88617,sw,Bowes
+6823651,88619,sw,Bowelling
+6823728,88620,sw,Boundain
+6823805,88621,sw,Boulia
+6823882,88622,sw,Boscabel
+6823959,88623,sw,Borroloola
+6824036,88624,sw,Bornholm
+6824113,88625,sw,Borden
+6824575,88631,sw,Booleroo Centre
+6824652,88632,sw,Booleroo
+6825037,88637,sw,Booborowie
+6825422,88642,sw,Bolgart
+6825576,88644,sw,Boddington
+6825653,88645,sw,Bodallin
+6825730,88646,sw,Blyth
+6825884,88648,sw,Blinman
+6825961,88649,sw,Bletchley
+6826038,88650,sw,Blakiston
+6826115,88651,sw,Black Springs
+6826423,88655,sw,Birdwood
+6826500,88656,sw,Birdum
+6826577,88657,sw,Birdsville
+6826654,88658,sw,Binnu
+6826731,88659,sw,Bindi Bindi
+6826885,88661,sw,Biggs Flat
+6827039,88663,sw,Beverley
+6827116,88664,sw,Betheli
+6827193,88665,sw,Bethania
+6827501,88669,sw,Benjinup
+6827578,88670,sw,Benger
+6827809,88673,sw,Bencubbin
+6827886,88674,sw,Belvidere
+6828271,88679,sw,Bejoording
+6828425,88681,sw,Beetaloo Valley
+6828579,88683,sw,Besevler
+6828656,88684,sw,Bedourie
+6828964,88688,sw,Beaufort
+6829041,88689,sw,Beacon
+6829118,88690,sw,Batchelor
+6829195,88691,sw,Basket Range
+6829734,88698,sw,Barossa Goldfields
+6829811,88699,sw,Baroota
+6830042,88702,sw,Barabba
+6830504,88708,sw,Ballidu
+6830735,88711,sw,Balingup
+6830812,88712,sw,Balhannah
+6830889,88713,sw,Balgowan
+6830966,88714,sw,Balgo Hill
+6831197,88717,sw,Balbarrup
+6831274,88718,sw,Balaklava
+6831428,88720,sw,Bakers Hill
+6831890,88726,sw,Babakin
+6832044,88728,sw,Avon
+6832198,88730,sw,Augusta
+6832275,88731,sw,Auburn
+6832506,88734,sw,Ashton
+6832583,88735,sw,Ashbourne
+6832814,88738,sw,Arthurton
+6832891,88739,sw,Arthur River
+6832968,88740,sw,Arrino
+6833045,88741,sw,Arno Bay
+6833199,88743,sw,Ardrossan
+6833276,88744,sw,Ardath
+6833353,88745,sw,Appila
+6833584,88748,sw,Angas Valley
+6833661,88749,sw,Angaston
+6833738,88750,sw,Angas Plains
+6834046,88754,sw,Mto wa Amerika
+6834123,88755,sw,Amata
+6834200,88756,sw,Altona
+6834277,88757,sw,Alma
+6834354,88758,sw,Allingham
+6834508,88760,sw,Allendale North
+6834585,88761,sw,Allanson
+6834739,88763,sw,Alice Springs
+6834816,88764,sw,Alford
+6835047,88767,sw,Albany
+6835124,88768,sw,Ajana
+6835201,88769,sw,Agery
+6835278,88770,sw,Adelaide River
+6835355,88771,sw,Adelaide
+6835509,88773,sw,Manypeaks
+6835740,88776,sw,Binningup
+6835894,88778,sw,Parham
+6836356,88784,sw,Lancelin
+6836433,88785,sw,Seabird
+6836510,88786,sw,Guilderton
+6836664,88788,sw,East Fremantle
+6836741,88789,sw,Claremont
+6837049,88793,sw,Cervantes
+6837126,88794,sw,Jurien Bay
+6837203,88795,sw,Leeman
+6837434,88798,sw,Horrocks
+6837511,88799,sw,Green Head
+6837665,88801,sw,Exmouth
+6837742,88802,sw,Alyangula
+6837819,88803,sw,Tulka
+6838050,88806,sw,Boigu
+6838204,88808,sw,Zeehan
+6838281,88809,sw,Zara
+6838358,88810,sw,Yuruga
+6838743,88815,sw,Yungaburra
+6839128,88820,sw,Yulecart
+6839205,88821,sw,Yuleba
+6839359,88823,sw,Yowrie
+6839513,88825,sw,Young
+6839667,88827,sw,Youanmite
+6839744,88828,sw,York Plains
+6839821,88829,sw,Yorklea
+6840052,88832,sw,Yolla
+6840129,88833,sw,Yinnar South
+6840206,88834,sw,Yinnar
+6840745,88841,sw,Yetman
+6840822,88842,sw,Yetholme
+6840976,88844,sw,Yerrinbool
+6841207,88847,sw,Yerra
+6841284,88848,sw,Yerong Creek
+6841438,88850,sw,Yeppoon
+6841515,88851,sw,Yeoval
+6841592,88852,sw,Yeodene
+6841669,88853,sw,Yengarie
+6841746,88854,sw,Yendon
+6841823,88855,sw,Yenda
+6842208,88860,sw,Yelgun
+6842285,88861,sw,Yelarbon
+6842593,88865,sw,Yea
+6842978,88870,sw,Yass
+6843055,88871,sw,Yarwun
+6843209,88873,sw,Yarrowyck
+6843286,88874,sw,Yarrowitch
+6843363,88875,sw,Yarroweyah
+6843748,88880,sw,Yarrie Lake
+6843825,88881,sw,Yarrawonga
+6843979,88883,sw,Yarrawalla
+6844056,88884,sw,Yarras
+6844287,88887,sw,Yarranlea
+6844518,88890,sw,Yarraman
+6844595,88891,sw,Yarram
+6844749,88893,sw,Yarragon
+6844903,88895,sw,Yarraford
+6844980,88896,sw,Yarraden
+6845365,88901,sw,Yarra
+6845442,88902,sw,Yarpturk
+6845673,88905,sw,Yarck
+6845904,88908,sw,Yapeen
+6846289,88913,sw,Yangery
+6846366,88914,sw,Yangan
+6846443,88915,sw,Yandoit
+6846674,88918,sw,Yanderra
+6846751,88919,sw,Yandaran
+6846828,88920,sw,Yanco
+6846982,88922,sw,Yanac
+6847136,88924,sw,Yambuna
+6847290,88926,sw,Yambuk
+6847521,88929,sw,Yamba
+6847829,88933,sw,Yallourn
+6848214,88938,sw,Yallaroi
+6848445,88941,sw,Yalca
+6848599,88943,sw,Yalboroo
+6848676,88944,sw,Yalangur
+6848984,88948,sw,Yahl Paddock
+6849292,88952,sw,Yackandandah
+6849369,88953,sw,Yabba North
+6849446,88954,sw,Yaapeet
+6849523,88955,sw,Yaamba
+6849677,88957,sw,Wyuna
+6849831,88959,sw,Wyreema
+6849908,88960,sw,Wyrallah
+6849985,88961,sw,Wynyard
+6850062,88962,sw,Wyndham
+6850293,88965,sw,Wye River
+6850678,88970,sw,Wycheproof
+6850909,88973,sw,Wybong
+6850986,88974,sw,Wyberba
+6851217,88977,sw,Wyandra
+6851448,88980,sw,Wyalong
+6851602,88982,sw,Wuuluman
+6851756,88984,sw,Wurruk
+6851833,88985,sw,Wurdiboluc
+6852064,88988,sw,Wunkar
+6852141,88989,sw,Wunghnu
+6852526,88994,sw,Wuk Wuk
+6852757,88997,sw,Wowan
+6853142,89002,sw,Woreen
+6853219,89003,sw,Wootton
+6853527,89007,sw,Wooroolin
+6853681,89009,sw,Woorndoo
+6853758,89010,sw,Woorinen North
+6853835,89011,sw,Woorinen
+6853912,89012,sw,Wooreen
+6854297,89017,sw,Wooragee
+6854374,89018,sw,Woorabinda
+6854451,89019,sw,Woondum
+6854528,89020,sw,Woomelang
+6854605,89021,sw,Woombah
+6854682,89022,sw,Woomargama
+6854913,89025,sw,Woolsthorpe
+6855144,89028,sw,Woolooga
+6855221,89029,sw,Woolomin
+6855375,89031,sw,Wooli
+6855452,89032,sw,Woolgoolga
+6855606,89034,sw,Woolbrook
+6855760,89036,sw,Woolamai
+6855914,89038,sw,Wood Wood
+6856068,89040,sw,Woodview
+6856145,89041,sw,Woodvale
+6856376,89044,sw,Woodstock
+6856453,89045,sw,Woodsreef
+6856607,89047,sw,Woodside
+6856684,89048,sw,Woodsdale
+6856915,89051,sw,Woodleigh
+6857146,89054,sw,Woodhill
+6857300,89056,sw,Woodgate
+6857454,89058,sw,Woodford
+6857608,89060,sw,Woodend
+6857685,89061,sw,Woodenbong
+6857839,89063,sw,Woodburn
+6857916,89064,sw,Woodbridge
+6858224,89068,sw,Won Wron
+6858532,89072,sw,Wonthaggi
+6858609,89073,sw,Wongwibinda
+6858994,89078,sw,Wongarbon
+6859148,89080,sw,Wongabel
+6859225,89081,sw,Wondecla
+6859302,89082,sw,Wondai
+6859379,89083,sw,Wonbah
+6859456,89084,sw,Womina
+6859610,89086,sw,Womboota
+6859918,89090,sw,Wombat
+6860072,89092,sw,Wolvi
+6860149,89093,sw,South Wolumla
+6860226,89094,sw,Wolumla
+6860380,89096,sw,Wolseley
+6860457,89097,sw,Wollun
+6860534,89098,sw,Wollongbar
+6860611,89099,sw,Wollomombi
+6860765,89101,sw,Wollar
+6860919,89103,sw,Woleebee
+6861227,89107,sw,Wodonga
+6861458,89110,sw,Wittitrin
+6861689,89113,sw,Wirrinya
+6861766,89114,sw,Wirrimbi
+6862228,89120,sw,Winwill
+6862305,89121,sw,Winton
+6862382,89122,sw,Winton
+6862459,89123,sw,Winton
+6862613,89125,sw,Winslow
+6862690,89126,sw,Winnindoo
+6862844,89128,sw,Winnaleah
+6862921,89129,sw,Winkleigh
+6862998,89130,sw,Winkie
+6863152,89132,sw,Wingham
+6863229,89133,sw,Wingen
+6863306,89134,sw,Wingello
+6863537,89137,sw,Windorah
+6863691,89139,sw,Windeyer
+6863768,89140,sw,Windermere
+6863845,89141,sw,Windermere
+6863922,89142,sw,Windera
+6863999,89143,sw,Windellama
+6864230,89146,sw,Winchelsea
+6864307,89147,sw,Wimbledon
+6864538,89150,sw,Wilton
+6864615,89151,sw,Wilsons Plains
+6864923,89155,sw,Wilmot
+6865000,89156,sw,Willung South
+6865077,89157,sw,Willung
+6865231,89159,sw,Willow Tree
+6865308,89160,sw,Willow Grove
+6865616,89164,sw,Willina
+6865770,89166,sw,Williamsdale
+6866001,89169,sw,Willawarrin
+6866078,89170,sw,Willaura
+6866155,89171,sw,Willatook
+6866309,89173,sw,Willala
+6866540,89176,sw,Wilkesdale
+6866771,89179,sw,Wildes Meadow
+6866925,89181,sw,Wilcannia
+6867002,89182,sw,Wilby
+6867156,89184,sw,Wilberforce
+6867310,89186,sw,Wieambilla
+6867541,89189,sw,Widdin
+6867618,89190,sw,Wickliffe
+6867695,89191,sw,Wiangaree
+6867849,89193,sw,Whorouly South
+6867926,89194,sw,Whorouly
+6868003,89195,sw,Whoota
+6868157,89197,sw,Whitton
+6868234,89198,sw,Whittingham
+6868311,89199,sw,Whitfield
+6868542,89202,sw,White Rock
+6868696,89204,sw,Whitemore
+6868773,89205,sw,Whitemark
+6868850,89206,sw,Whiteman Creek
+6869158,89210,sw,Whitefoord
+6869235,89211,sw,White Cliffs
+6869543,89215,sw,Whiporie
+6869620,89216,sw,Whian Whian
+6869697,89217,sw,Whetstone
+6869851,89219,sw,Wheeo
+6869928,89220,sw,Wheatvale
+6870082,89222,sw,Wharparilla
+6870236,89224,sw,Weymouth
+6870467,89227,sw,West Wyalong
+6870544,89228,sw,Westwood
+6870698,89230,sw,West Strahan
+6870775,89231,sw,West Ridgeley
+6871083,89235,sw,West Kentish
+6871314,89238,sw,Westerway
+6871391,89239,sw,Western Junction
+6871622,89242,sw,Westcourt
+6871930,89246,sw,Westbury
+6872161,89249,sw,Westbrook
+6872238,89250,sw,Wesley Vale
+6872315,89251,sw,Werris Creek
+6872469,89253,sw,Werombi
+6872546,89254,sw,Werneth
+6872623,89255,sw,Weranga
+6872777,89257,sw,Wentworth
+6872854,89258,sw,Wensleydale
+6872931,89259,sw,Wengenville
+6873008,89260,sw,Welshpool
+6873085,89261,sw,Welshmans Reef
+6873239,89263,sw,Wellsford
+6873393,89265,sw,Wellington
+6873470,89266,sw,Wellingrove
+6874240,89276,sw,Weipa
+6874317,89277,sw,Weilmoringle
+6874548,89280,sw,Wee Waa
+6874625,89281,sw,Weethalle
+6874702,89282,sw,Weetaliba
+6874779,89283,sw,Weetah
+6874856,89284,sw,Weerite
+6874933,89285,sw,Weering
+6875087,89287,sw,Weemelah
+6875164,89288,sw,Weegena
+6875549,89293,sw,Wedderburn
+6875626,89294,sw,Wedderburn
+6876011,89299,sw,Waukivory
+6876242,89302,sw,Wauchope
+6876396,89304,sw,Waubra
+6876704,89308,sw,Wattle Hill
+6876858,89310,sw,Wattle Grove
+6877012,89312,sw,Wattle Flat
+6877089,89313,sw,Wattle Flat
+6877243,89315,sw,Wattle Bank
+6877320,89316,sw,Wattamondara
+6877551,89319,sw,Watsonville
+6877628,89320,sw,Watsons Creek
+6877859,89323,sw,Waterloo
+6878090,89326,sw,Waterfall
+6878244,89328,sw,Watchem
+6878475,89331,sw,Warwick
+6878629,89333,sw,Wartook
+6878706,89334,sw,Warrubullen
+6878783,89335,sw,Warroo
+6878860,89336,sw,Warrong
+6878937,89337,sw,Warrnambool
+6879014,89338,sw,Warrion
+6879322,89342,sw,Warrenbayne
+6879399,89343,sw,Warren
+6879553,89345,sw,Warrell Creek
+6880015,89351,sw,Warral
+6880092,89352,sw,Warrak
+6880169,89353,sw,Warrah Ridge
+6880246,89354,sw,Warrah Creek
+6880400,89356,sw,Warragul
+6880554,89358,sw,Warraderry
+6880631,89359,sw,Warracknabeal
+6880862,89362,sw,Warra
+6881170,89366,sw,Warncoort
+6881478,89370,sw,Warkworth
+6881709,89373,sw,Warialda
+6881940,89376,sw,Wareek
+6882017,89377,sw,Wards River
+6882248,89380,sw,Wardell
+6882479,89383,sw,Waratah
+6882710,89386,sw,Wapengo
+6883018,89390,sw,Wantabadgery
+6883172,89392,sw,Wannon
+6883480,89396,sw,Wangoom
+6883788,89400,sw,Wangaratta
+6883865,89401,sw,Wanganella
+6884096,89404,sw,Wandsworth
+6884173,89405,sw,Wando Vale
+6884327,89407,sw,Wandong
+6884481,89409,sw,Wandoan
+6884712,89412,sw,Wandilo
+6884789,89413,sw,Wandiligong
+6885251,89419,sw,Wanaaring
+6885867,89427,sw,Walwa
+6886021,89429,sw,Walterhall
+6886175,89431,sw,Walpeup
+6886252,89432,sw,Walpa
+6886406,89434,sw,Walmer
+6886714,89438,sw,Wallumbilla
+6886791,89439,sw,Wallington
+6887099,89443,sw,Wallerawang
+6887176,89444,sw,Wallendbeen
+6887253,89445,sw,Walla Walla
+6887330,89446,sw,Wallaville
+6887484,89448,sw,Wallarobba
+6887561,89449,sw,Wallangra
+6887638,89450,sw,Wallangarra
+6887946,89454,sw,Wallan
+6888331,89459,sw,Wallacedale
+6888408,89460,sw,Wallace
+6888485,89461,sw,Wallabadah
+6888639,89463,sw,Walkerston
+6888793,89465,sw,Walgett
+6888870,89466,sw,Walcha Road
+6888947,89467,sw,Walcha
+6889024,89468,sw,Walbundrie
+6889101,89469,sw,Wakool
+6889409,89473,sw,Wahring
+6889486,89474,sw,Wahgunyah
+6889948,89480,sw,Wadeville
+6890333,89485,sw,Waaia
+6890564,89488,sw,Violet Town
+6890641,89489,sw,Vinifera
+6890718,89490,sw,Vincent
+6890872,89492,sw,Villeneuve
+6890949,89493,sw,Bonde la Ushindi
+6891103,89495,sw,Victoria Park
+6891411,89499,sw,Verona
+6891565,89501,sw,Veresdale
+6891642,89502,sw,Ventnor
+6891950,89506,sw,Vasey
+6892104,89508,sw,Valla Beach
+6892181,89509,sw,Valery
+6892258,89510,sw,Valentine Plains
+6892335,89511,sw,Valencia Creek
+6892566,89514,sw,Utungun
+6892720,89516,sw,Urunga
+6893028,89520,sw,Urbenville
+6893413,89525,sw,Urana
+6893490,89526,sw,Uralla
+6893644,89528,sw,Upsalls Creek
+6893875,89531,sw,Upper Tenthill
+6894029,89533,sw,Upper Stone
+6894260,89536,sw,Upper Rouchel
+6894337,89537,sw,Upper Rollands Plains
+6894645,89541,sw,Upper Natone
+6895107,89547,sw,Upper Manilla
+6895184,89548,sw,Upper Lurg
+6895338,89550,sw,Upper Horseshoe Creek
+6895415,89551,sw,Upper Gundowring
+6895569,89553,sw,Upper Freestone
+6895800,89556,sw,Upper Corindi
+6895877,89557,sw,Upper Colo
+6896031,89559,sw,Upper Castra
+6896416,89564,sw,Upper Blessington
+6896647,89567,sw,Upper Barron
+6896724,89568,sw,Upotipotpon
+6896955,89571,sw,Ungarie
+6897186,89574,sw,Underbool
+6897340,89576,sw,Undera
+6897417,89577,sw,Umbiram
+6897494,89578,sw,Ulverstone
+6897802,89582,sw,Ultima
+6897956,89584,sw,Ulmarra
+6898187,89587,sw,Ulladulla
+6898341,89589,sw,Ulimambri
+6898495,89591,sw,Ulan
+6898957,89597,sw,Tringham
+6899111,89599,sw,Tyrendarra
+6899188,89600,sw,Tyntynder South
+6899342,89602,sw,Tyntynder
+6899419,89603,sw,Tyndale
+6899573,89605,sw,Tylden
+6899650,89606,sw,Tyers
+6899881,89609,sw,Tyagarah
+6899958,89610,sw,Tsatak
+6900035,89611,sw,Two Mile Flat
+6900189,89613,sw,Tweed Heads
+6900651,89619,sw,Turrawan
+6900805,89621,sw,Tuross Head
+6900882,89622,sw,Turondale
+6901113,89625,sw,Turners Flat
+6901190,89626,sw,Turlinjah
+6901344,89628,sw,Turallin
+6901498,89630,sw,Tunnack
+6901652,89632,sw,Tungamull
+6901729,89633,sw,Tungamah
+6901806,89634,sw,Tuncurry
+6901883,89635,sw,Tuncester
+6901960,89636,sw,Tunbridge
+6902037,89637,sw,Tumut
+6902114,89638,sw,Tumoulin
+6902268,89640,sw,Tummaville
+6902345,89641,sw,Tumblong
+6902422,89642,sw,Tumbarumba
+6902576,89644,sw,Tullymorgan
+6902653,89645,sw,Tully
+6902730,89646,sw,Tullibigeal
+6902807,89647,sw,Tullera
+6902884,89648,sw,Tullamore
+6902961,89649,sw,Tullah
+6903192,89652,sw,Tuena
+6903346,89654,sw,Tuckurimba
+6903500,89656,sw,Tucki
+6903577,89657,sw,Tucabia
+6903731,89659,sw,Tubbul
+6903962,89662,sw,Trunkey Creek
+6904039,89663,sw,Trungley Hall
+6904116,89664,sw,Trundle
+6904270,89666,sw,Trowutta
+6904424,89668,sw,Trida
+6904578,89670,sw,Triangle Flat
+6904809,89673,sw,Triabunna
+6905040,89676,sw,Tresco
+6905117,89677,sw,Trentham East
+6905194,89678,sw,Trentham
+6905425,89681,sw,Tregeagle
+6905502,89682,sw,Trebonne
+6905656,89684,sw,Trawool
+6905733,89685,sw,Trawalla
+6905887,89687,sw,Traveston
+6905964,89688,sw,Traralgon South
+6906041,89689,sw,Traralgon
+6906118,89690,sw,Trangie
+6906272,89692,sw,Tragowel
+6906426,89694,sw,Trafalgar South
+6906503,89695,sw,Trafalgar East
+6906580,89696,sw,Trafalgar
+6906657,89697,sw,Towrang
+6906811,89699,sw,Towong
+6906888,89700,sw,Saint Johnsville
+6907042,89702,sw,Tower Hill
+6907273,89705,sw,Towamba
+6907581,89709,sw,Tottenham
+6907889,89713,sw,Torrumbarry
+6908043,89715,sw,Torrington
+6908120,89716,sw,Torrens Creek
+6908197,89717,sw,Torquay
+6908351,89719,sw,Torbanlea
+6908428,89720,sw,Topi Topi
+6908582,89722,sw,Topaz
+6908736,89724,sw,Toowoomba
+6908813,89725,sw,Jitotol
+6908890,89726,sw,Toothdale
+6908967,89727,sw,Tooraweenah
+6909121,89729,sw,Toyota
+6909275,89731,sw,Toongi
+6909429,89733,sw,Toongabbie
+6909737,89737,sw,Tomika
+6909968,89740,sw,Toolondo
+6910045,89741,sw,Toolleen
+6910122,89742,sw,Tooleybuc
+6910276,89744,sw,Toolangi
+6910353,89745,sw,Toolamba West
+6910430,89746,sw,Toolamba
+6910507,89747,sw,Toogoom
+6910584,89748,sw,Toogoolawah
+6910661,89749,sw,Toogong
+6910738,89750,sw,Tooborac
+6910815,89751,sw,Toobeah
+6910892,89752,sw,Toobanna
+6911200,89756,sw,Tongio
+6911431,89759,sw,Tongala
+6911585,89761,sw,Tomki
+6911739,89763,sw,Tomingley
+6911816,89764,sw,Tomewin
+6911893,89765,sw,Tomerong
+6912124,89768,sw,Tomakin
+6912278,89770,sw,Tolmie
+6912355,89771,sw,Tolga
+6912432,89772,sw,Tocumwal
+6912586,89774,sw,Tirroan
+6912663,89775,sw,Tirrannaville
+6912817,89777,sw,Tintinara
+6912894,89778,sw,Tintenbar
+6912971,89779,sw,Tintaldra
+6913125,89781,sw,Tinonee
+6913202,89782,sw,Tingoora
+6913356,89784,sw,Tingha
+6913433,89785,sw,Tinderbox
+6913510,89786,sw,Tin Can Bay
+6913587,89787,sw,Tinamba
+6913741,89789,sw,Timor
+6913818,89790,sw,Timor
+6913895,89791,sw,Timmering
+6914049,89793,sw,Timboon
+6914511,89799,sw,Tilpa
+6914665,89801,sw,Tilbuster
+6914742,89802,sw,Tilba Tilba
+6914896,89804,sw,Tichborne
+6914973,89805,sw,Tibooburra
+6915127,89807,sw,Tiaro
+6915589,89813,sw,Thulimbah
+6915666,89814,sw,Thuddungra
+6915743,89815,sw,Three Moon
+6915820,89816,sw,Thredbo
+6916051,89819,sw,Thorpdale
+6916128,89820,sw,Thornton
+6916282,89822,sw,Thora
+6916436,89824,sw,Thoona
+6916744,89828,sw,Thirlstane
+6916821,89829,sw,Thirlmere
+6917206,89834,sw,The Summit
+6917283,89835,sw,The Sisters
+6917514,89838,sw,The Rock
+6917591,89839,sw,Khriask
+6917668,89840,sw,Theresa Park
+6917745,89841,sw,The Pocket
+6917822,89842,sw,Theodore
+6917899,89843,sw,The Oaks
+6918130,89846,sw,The Lagoon
+6918361,89849,sw,The Gums
+6918900,89856,sw,Theebine
+6918977,89857,sw,The Channon
+6919131,89859,sw,The Branch
+6919285,89861,sw,Thargomindah
+6919362,89862,sw,Thangool
+6919593,89865,sw,Thallon
+6919901,89869,sw,"Texas, Goodiwindi"
+6919978,89870,sw,Tewkesbury
+6920055,89871,sw,Teviotville
+6920132,89872,sw,Teven
+6920209,89873,sw,Tetoora Road
+6920286,89874,sw,Terry Hie Hie
+6920440,89876,sw,Terramungamine
+6920517,89877,sw,Terragon
+6920825,89881,sw,Terip Terip
+6920902,89882,sw,Teridgerie
+6921056,89884,sw,Terang
+6921441,89889,sw,Tenterfield
+6921595,89891,sw,Tennyson
+6921749,89893,sw,Tempy
+6921826,89894,sw,Templin
+6921980,89896,sw,Temora
+6922134,89898,sw,Tellebang
+6922365,89901,sw,Telegraph Point
+6922442,89902,sw,Telangatuk East
+6922827,89907,sw,Teesdale
+6922981,89909,sw,Tea Tree
+6923058,89910,sw,Teal Point
+6923212,89912,sw,Tea Gardens
+6923289,89913,sw,Taylors Flat
+6923366,89914,sw,Taylors Arm
+6923751,89919,sw,Taunton
+6923905,89921,sw,Tatyoon
+6923982,89922,sw,Tatura
+6924059,89923,sw,Tatong
+6924136,89924,sw,Tathra
+6924213,89925,sw,Tatham
+6924367,89927,sw,Tarzali
+6924521,89929,sw,Tarwin Lower
+6924675,89931,sw,Tarwin
+6924906,89934,sw,Tarrington
+6925137,89937,sw,Tarrawingee
+6925214,89938,sw,Tarraville
+6925291,89939,sw,Tarra Valley
+6925676,89944,sw,Tarpeena
+6925753,89945,sw,Taroom
+6925830,89946,sw,Tarong
+6925907,89947,sw,Tarnagulla
+6925984,89948,sw,Tarlo
+6926138,89950,sw,Targinnie
+6926292,89952,sw,Taree
+6926677,89957,sw,Taranna
+6926985,89961,sw,Taralga
+6927216,89964,sw,Tarago
+6927293,89965,sw,Taradale
+6927447,89967,sw,Tara
+6927755,89971,sw,Tantanoola
+6927909,89973,sw,Tannymorel
+6928140,89976,sw,Tanjil South
+6928217,89977,sw,Tanja
+6928371,89979,sw,Tangorin
+6928679,89983,sw,Tangambalanga
+6928756,89984,sw,Tandur
+6928833,89985,sw,Tandarra
+6928910,89986,sw,Tanby
+6928987,89987,sw,Tamworth
+6929295,89991,sw,Taminick
+6929372,89992,sw,Tambo Upper
+6929526,89994,sw,Tambo
+6929603,89995,sw,Tambar Springs
+6929757,89997,sw,Tamban
+6929988,90000,sw,Talmalmo
+6930142,90002,sw,Tallygaroopna
+6930219,90003,sw,Tallong
+6930296,90004,sw,Tallimba
+6930373,90005,sw,Tallawang
+6930450,90006,sw,Tallarook
+6930527,90007,sw,Tallangatta
+6930681,90009,sw,Tallandoon
+6930912,90012,sw,Talgarno
+6931297,90017,sw,Talbot
+6931374,90018,sw,Talbingo
+6931528,90020,sw,Talarm
+6931682,90022,sw,Takura
+6931759,90023,sw,Takone
+6931990,90026,sw,Tahmoor
+6932221,90029,sw,Taggerty
+6932298,90030,sw,Tabulam
+6932452,90032,sw,Tabooba
+6932606,90034,sw,Tabilk
+6932683,90035,sw,Tabbita
+6933299,90043,sw,Sydney
+6933376,90044,sw,Swifts Creek
+6933684,90048,sw,Swansea
+6933761,90049,sw,Swan Reach
+6933915,90051,sw,Swanpool
+6933992,90052,sw,Swan Marsh
+6934069,90053,sw,Swan Hill
+6934146,90054,sw,Swan Creek
+6934223,90055,sw,Swan Bay
+6934300,90056,sw,Sutton Town
+6934377,90057,sw,Sutton Grange
+6934454,90058,sw,Sutton Forest
+6934608,90060,sw,Sutton
+6934839,90063,sw,Surges Bay
+6934993,90065,sw,Surat
+6935070,90066,sw,Suntop
+6935301,90069,sw,Sunnyside
+6935455,90071,sw,Sunny Corner
+6935532,90072,sw,Summerholm
+6935609,90073,sw,Sulphur Creek
+6935840,90076,sw,Stubbo
+6935917,90077,sw,Stuart Town
+6935994,90078,sw,Stuarts Point
+6936071,90079,sw,Stuart Mill
+6936148,90080,sw,Strzelecki
+6936379,90083,sw,Stroud Road
+6936456,90084,sw,Stroud
+6936610,90086,sw,Mto Streatham
+6936841,90089,sw,Strathmerton
+6936995,90091,sw,Strathkellar
+6937072,90092,sw,Strathdownie
+6937303,90095,sw,Strath Creek
+6937380,90096,sw,Strathbogie
+6937534,90098,sw,Strathblane
+6937611,90099,sw,Strathallan
+6937688,90100,sw,Stratford
+6937842,90102,sw,Strangways
+6937919,90103,sw,Strahan
+6937996,90104,sw,Stradbroke
+6938073,90105,sw,Stowport
+6938535,90111,sw,Stony Creek
+6938612,90112,sw,Stony Creek
+6939074,90118,sw,Stonehenge
+6939151,90119,sw,Stonehenge
+6939305,90121,sw,Stockyard
+6939382,90122,sw,Stockinbingal
+6939459,90123,sw,Stockdale
+6939613,90125,sw,Stewarts River
+6939844,90128,sw,Stewarton
+6940152,90132,sw,Port Stephens
+6940306,90134,sw,Steiglitz
+6940460,90136,sw,Stawell
+6940614,90138,sw,Staughton Vale
+6940691,90139,sw,Stanwell
+6940768,90140,sw,Stanthorpe
+6940845,90141,sw,Stannum
+6940922,90142,sw,Stannifer
+6941076,90144,sw,Stanmore
+6941153,90145,sw,Stanley
+6941230,90146,sw,Stanley
+6941384,90148,sw,Stanhope
+6941461,90149,sw,Stanbridge
+6941538,90150,sw,Stanborough
+6941615,90151,sw,Stamford
+6942000,90156,sw,Spring Terrace
+6942077,90157,sw,Springsure
+6942308,90160,sw,Spring Ridge
+6942385,90161,sw,Springmount
+6942462,90162,sw,Springhurst
+6942539,90163,sw,Spring Hill
+6942616,90164,sw,Spring Hill
+6942693,90165,sw,Springfield
+6942770,90166,sw,Springfield
+6943001,90169,sw,Springdale
+6943078,90170,sw,Spring Creek
+6943232,90172,sw,Seaforth
+6943309,90173,sw,Springbrook
+6943463,90175,sw,Spreyton
+6943540,90176,sw,Sprent
+6943617,90177,sw,Speed
+6943925,90181,sw,Southwood
+6944233,90185,sw,South Riana
+6944464,90188,sw,Leongatha Kusini
+6944618,90190,sw,South Johnstone
+6945003,90195,sw,Southgate
+6945080,90196,sw,Southern Cross
+6945234,90198,sw,Southbrook
+6945311,90199,sw,Mkono wa Kusini
+6945465,90201,sw,Somerton
+6945542,90202,sw,Somerset
+6945850,90206,sw,Sofala
+6946004,90208,sw,Snug
+6946235,90211,sw,Snake Valley
+6946389,90213,sw,Smythesdale
+6946466,90214,sw,Smythes Creek
+6946543,90215,sw,Smithtown
+6946620,90216,sw,Smithton
+6946928,90220,sw,Smeaton
+6947159,90223,sw,Sleepy Hollow
+6947467,90227,sw,Sladevale
+6947544,90228,sw,Skipton
+6947621,90229,sw,Skillion Flat
+6947698,90230,sw,Skenes Creek
+6947775,90231,sw,Sisters Creek
+6947929,90233,sw,Singleton
+6948237,90237,sw,Silverton
+6948314,90238,sw,Silverspur
+6948468,90240,sw,Silkwood
+6948776,90244,sw,Sidmouth
+6949315,90251,sw,Sherwood
+6949469,90253,sw,Shepparton
+6949623,90255,sw,She Oaks
+6949700,90256,sw,Shellharbour
+6949777,90257,sw,Shelford
+6949931,90259,sw,Shelbourne
+6950008,90260,sw,Sheffield
+6950316,90264,sw,Sharon
+6950393,90265,sw,Shannon Vale
+6950470,90266,sw,Shannon Brook
+6950547,90267,sw,Shady Creek
+6950778,90270,sw,Seymour
+6950855,90271,sw,Sexton
+6950932,90272,sw,Severnlea
+6951086,90274,sw,Seventeen Seventy
+6951163,90275,sw,Serviceton
+6951240,90276,sw,Serpentine
+6951317,90277,sw,Septimus
+6951394,90278,sw,Selwyn
+6951625,90281,sw,Selbourne
+6951702,90282,sw,Segenhoe
+6951779,90283,sw,Elandsbaai
+6951856,90284,sw,Sedgwick
+6951933,90285,sw,Uwanja wa Sedge
+6952010,90286,sw,Sebastopol
+6952087,90287,sw,Sebastian
+6952164,90288,sw,Sea View
+6952241,90289,sw,Seaton
+6952318,90290,sw,Seaspray
+6952395,90291,sw,Sea Lake
+6952703,90295,sw,Scottville
+6952780,90296,sw,Scottsdale
+6952857,90297,sw,Scotts Creek
+6952934,90298,sw,Scotsburn
+6953011,90299,sw,Scone
+6953319,90303,sw,Scamander
+6953473,90305,sw,Savernake
+6953550,90306,sw,Saumarez
+6953704,90308,sw,Sassafras
+6953858,90310,sw,Sarsfield
+6953935,90311,sw,Sarina
+6954089,90313,sw,Sapphire
+6954166,90314,sw,San Remo
+6954320,90316,sw,Sandy Point
+6954551,90319,sw,Sandy Flat
+6954628,90320,sw,Sandy Creek
+6954936,90324,sw,Sandigo
+6955244,90328,sw,Sandford
+6955321,90329,sw,Sandfly
+6955398,90330,sw,Sandalwood
+6955552,90332,sw,Samsonvale
+6955629,90333,sw,Samaria
+6955706,90334,sw,Saltwater River
+6956091,90339,sw,Salisbury Plains
+6956245,90341,sw,Salisbury
+6956322,90342,sw,Sale
+6956476,90344,sw,Mtakatifu Marys
+6956630,90346,sw,Mtakatifu Leonards
+6956707,90347,sw,Mtakatifu Lawrence
+6956784,90348,sw,Mtakatifu James
+6956861,90349,sw,St Helens
+6957092,90352,sw,Saint Germains
+6957400,90356,sw,Mtakatifu Arnaud
+6957554,90358,sw,Mtakatifu Albano
+6957631,90359,sw,Sailors Falls
+6958093,90365,sw,Rylstone
+6958170,90366,sw,Rye Park
+6958324,90368,sw,Ryanston
+6958478,90370,sw,Ruthven
+6958555,90371,sw,Rutherglen
+6958709,90373,sw,Rushworth
+6958786,90374,sw,Rupanyup
+6958863,90375,sw,Runnymede
+6958940,90376,sw,Running Stream
+6959248,90380,sw,Raga
+6959325,90381,sw,Ruffy
+6959402,90382,sw,Rubyvale
+6959479,90383,sw,Ruby
+6959556,90384,sw,Royston
+6959633,90385,sw,Royalla
+6959710,90386,sw,Rowsley
+6959864,90388,sw,Rowena
+6959941,90389,sw,Rowella
+6960095,90391,sw,Rous Mill
+6960480,90396,sw,Rossville
+6960557,90397,sw,Rossmoya
+6960788,90400,sw,Rossi
+6960865,90401,sw,Rossglen
+6960942,90402,sw,Ross Creek
+6961173,90405,sw,Ross
+6961250,90406,sw,Rosewood
+6961327,90407,sw,Rosevears
+6961404,90408,sw,Rose Valley
+6961481,90409,sw,Rosevale
+6961943,90415,sw,Rosehill
+6962020,90416,sw,Rosedale
+6962097,90417,sw,Rosedale
+6962174,90418,sw,Rosedale
+6962251,90419,sw,Rosebrook
+6962405,90421,sw,Rosebery
+6962559,90423,sw,Rosebank
+6962790,90426,sw,Ropeley
+6962867,90427,sw,Rookhurst
+6962944,90428,sw,Romsey
+6963021,90429,sw,Roma
+6963098,90430,sw,Rolleston
+6963175,90431,sw,Rollands Plains
+6963252,90432,sw,Roland
+6963406,90434,sw,Rokewood
+6963483,90435,sw,Rokeby
+6963637,90437,sw,Roger River
+6963868,90440,sw,Rocky River
+6964099,90443,sw,Rocky Glen
+6964484,90448,sw,Rocky Cape
+6964638,90450,sw,Rock Valley
+6964946,90454,sw,Rockmount
+6965100,90456,sw,Rocklyn
+6965177,90457,sw,Rockley
+6965254,90458,sw,Rockhampton
+6965331,90459,sw,Rock Flat
+6965408,90460,sw,Rochford
+6965485,90461,sw,Rochester
+6965562,90462,sw,Rob Roy
+6965793,90465,sw,Robertson
+6965870,90466,sw,Roadvale
+6965947,90467,sw,Riverslea
+6966024,90468,sw,Riverside
+6966255,90471,sw,Riverleigh
+6966332,90472,sw,Rita Island
+6966409,90473,sw,Ringarooma
+6966486,90474,sw,Rileys Hill
+6966640,90476,sw,Ridgley
+6966794,90478,sw,Riddell
+6967025,90481,sw,Richmond
+6967179,90483,sw,Richmond
+6967410,90486,sw,Riana
+6967487,90487,sw,Rhyndaston
+6967641,90489,sw,Rhyll
+6967795,90491,sw,Rheola
+6968103,90495,sw,Repton
+6968257,90497,sw,Renmark West
+6968334,90498,sw,Renmark North
+6968411,90499,sw,Renmark
+6968565,90501,sw,Rendelsham
+6968796,90504,sw,Reidsdale
+6968950,90506,sw,Reid River
+6969412,90512,sw,Reedy Creek
+6969489,90513,sw,Reedy Creek
+6969566,90514,sw,Mwamba Mwekundu
+6969643,90515,sw,Red Range
+6969720,90516,sw,Redpa
+6970028,90520,sw,Red Hill
+6970259,90523,sw,Redesdale
+6970336,90524,sw,Red Cliffs
+6970413,90525,sw,Redcastle
+6970721,90529,sw,Redbank
+6970798,90530,sw,Raywood
+6970875,90531,sw,Raymond Island
+6970952,90532,sw,Rawsonville
+6971183,90535,sw,Rawdon Island
+6971260,90536,sw,Rawbelle
+6971414,90538,sw,Ravenswood
+6971491,90539,sw,Ravenswood
+6971568,90540,sw,Ravenshoe
+6971722,90542,sw,Ravensbourne
+6971953,90545,sw,Rathdowney
+6972030,90546,sw,Rappville
+6972107,90547,sw,Rannock
+6972261,90549,sw,Rankins Springs
+6972569,90553,sw,Ranelagh
+6972646,90554,sw,Rand
+6972723,90555,sw,Ranceby
+6973031,90559,sw,Raleigh
+6973108,90560,sw,Rainbow Flat
+6973185,90561,sw,Upinde wa mvua
+6973262,90562,sw,Railton
+6973339,90563,sw,Raglan
+6973493,90565,sw,Raglan
+6973955,90571,sw,Quirindi
+6974032,90572,sw,Quipolly
+6974263,90575,sw,Quinalow
+6974340,90576,sw,Quilpie
+6974571,90579,sw,Queenstown
+6974725,90581,sw,Queenscliff
+6974879,90583,sw,Queanbeyan
+6975033,90585,sw,Quantong
+6975110,90586,sw,Quandialla
+6975264,90588,sw,Quamby Brook
+6975418,90590,sw,Quambone
+6975495,90591,sw,Quambatook
+6975572,90592,sw,Quaama
+6975726,90594,sw,Pyramul
+6975803,90595,sw,Pyramid Hill
+6976111,90599,sw,Pyengana
+6976188,90600,sw,Pyap
+6976265,90601,sw,Pyalong
+6976342,90602,sw,Putty
+6976419,90603,sw,Purrumbete Kusini
+6976496,90604,sw,Purnim
+6977343,90615,sw,Puckapunyal
+6977497,90617,sw,Proston
+6977574,90618,sw,Proserpine
+6977882,90622,sw,Princetown
+6978036,90624,sw,Pretty Pine
+6978267,90627,sw,Preolenna
+6978344,90628,sw,Prenzlau
+6978421,90629,sw,Premer
+6978498,90630,sw,Premaydena
+6978575,90631,sw,Pratten
+6978729,90633,sw,Prairie
+6978806,90634,sw,Prairie
+6978883,90635,sw,Pozieres
+6979345,90641,sw,Pound Creek
+6979576,90644,sw,Port Welshpool
+6979653,90645,sw,Port Sorell
+6979730,90646,sw,Port Macquarie
+6979807,90647,sw,Port MacDonnell
+6979961,90649,sw,Portland
+6980038,90650,sw,Portland
+6980115,90651,sw,Port Huon
+6980192,90652,sw,Port Franklin
+6980269,90653,sw,Port Fairy
+6980346,90654,sw,Porters Retreat
+6980423,90655,sw,Port Douglas
+6980500,90656,sw,Port Campbell
+6980654,90658,sw,Port Arthur
+6980731,90659,sw,Portarlington
+6980885,90661,sw,Bandari ya Albert
+6980962,90662,sw,Porepunkah
+6981116,90664,sw,Poowong North
+6981193,90665,sw,Poowong East
+6981270,90666,sw,Poowong
+6981347,90667,sw,Pootilla
+6981501,90669,sw,Pooncarie
+6981655,90671,sw,Pooginagoric
+6981809,90673,sw,Pompapiel
+6981886,90674,sw,Pomonal
+6981963,90675,sw,Pomeroy
+6982040,90676,sw,Pomborneit
+6982425,90681,sw,Pleystowe
+6982502,90682,sw,Plenty
+6982579,90683,sw,Pleasant Hills
+6982887,90687,sw,Plainland
+6982964,90688,sw,Pittsworth
+6983349,90693,sw,Pirron Yallock
+6983426,90694,sw,Piries
+6983580,90696,sw,Pipers River
+6983657,90697,sw,Pipers Creek
+6983734,90698,sw,Pipers Brook
+6983811,90699,sw,Piora
+6983965,90701,sw,Pinnaroo
+6984042,90702,sw,Pinnacle
+6984273,90705,sw,Piney Range
+6984350,90706,sw,West Pine Road
+6984504,90708,sw,Pine Ridge
+6984658,90710,sw,Pine Lodge
+6985043,90715,sw,Pindimar
+6985197,90717,sw,Pimpinio
+6985274,90718,sw,Pimlico
+6985351,90719,sw,Pilton
+6985505,90721,sw,Pilliga
+6985582,90722,sw,Pillar Valley
+6985659,90723,sw,Pilerwa
+6985967,90727,sw,Piggabeen
+6986275,90731,sw,Picton
+6986352,90732,sw,Picola
+6986737,90737,sw,Piangil
+6986891,90739,sw,Piambong
+6986968,90740,sw,Piallaway
+6987045,90741,sw,Piallamore
+6987276,90744,sw,Phillip
+6987353,90745,sw,Pheasant Creek
+6987661,90749,sw,Peterborough
+6987738,90750,sw,Perthville
+6987815,90751,sw,Perth
+6987892,90752,sw,Perseverance
+6988046,90754,sw,Perry Bridge
+6988123,90755,sw,Peronne
+6988354,90758,sw,Peranga
+6988508,90760,sw,Pentland
+6988585,90761,sw,Penshurst
+6988662,90762,sw,Penrose
+6988739,90763,sw,Penola
+6988816,90764,sw,Pennyroyal
+6988970,90766,sw,Penguin
+6989201,90769,sw,Pembrooke
+6989355,90771,sw,Pelverata
+6989817,90777,sw,Pejar
+6989894,90778,sw,Peeramon
+6990048,90780,sw,Peel
+6990279,90783,sw,Peechelba
+6990510,90786,sw,Pechey
+6990587,90787,sw,Peakview
+6990664,90788,sw,Peak Hill
+6990741,90789,sw,Peak Crossing
+6990818,90790,sw,Peacock Siding
+6990972,90792,sw,Paynesville
+6991049,90793,sw,Paxton
+6991280,90796,sw,Pawleena
+6991434,90798,sw,Patyah
+6991511,90799,sw,Patho
+6991742,90802,sw,Paterson
+6991819,90803,sw,Patchewollock
+6991896,90804,sw,Pata
+6992512,90812,sw,Parrakie
+6992820,90816,sw,Parkham
+6992974,90818,sw,Parkes
+6993051,90819,sw,Parilla
+6993205,90821,sw,Parattah
+6993436,90824,sw,Pappinbarra
+6993667,90827,sw,Panmure
+6993821,90829,sw,Panitya
+6994052,90832,sw,Pambula
+6994129,90833,sw,Paloona
+6994206,90834,sw,Palmvale
+6994745,90841,sw,Pallamallawa
+6994822,90842,sw,Pallal
+6994976,90844,sw,Palen Creek
+6995515,90851,sw,Oxley
+6995746,90854,sw,Owens Gap
+6995823,90855,sw,Owens Creek
+6995900,90856,sw,Owanyilla
+6996054,90858,sw,Overland Corner
+6996131,90859,sw,Ovens
+6996208,90860,sw,Ouyen
+6996285,90861,sw,Outtrim
+6996362,90862,sw,Ouse
+6996670,90866,sw,Ottaba
+6996901,90869,sw,Osbornes Flat
+6997286,90874,sw,Orielton
+6997363,90875,sw,Orford
+6997440,90876,sw,Orford
+6997517,90877,sw,Orbost
+6997671,90879,sw,Chungwa
+6997825,90881,sw,Opossum Bay
+6997902,90882,sw,Ophir
+6998133,90885,sw,Ota
+6998826,90894,sw,Oolong
+6998980,90896,sw,Ondit
+6999057,90897,sw,Omeo
+6999442,90902,sw,Longwood ya zamani
+6999596,90904,sw,Old Junee
+6999673,90905,sw,Lancefield
+6999904,90908,sw,Old Bonalbo
+6999981,90909,sw,Old Bar
+7000289,90913,sw,Ogmore
+7000443,90915,sw,O'Connell
+7000751,90919,sw,Obley
+7000905,90921,sw,Oberon
+7001136,90924,sw,Oatlands
+7001290,90926,sw,Oakwood
+7001367,90927,sw,Oakwood
+7001752,90932,sw,Oaklands
+7001829,90933,sw,Oakhurst
+7002060,90936,sw,Oakey
+7002137,90937,sw,Oakenden
+7002214,90938,sw,Oakdale
+7002368,90940,sw,Nyngan
+7002522,90942,sw,Nymboida
+7002599,90943,sw,Nymagee
+7002907,90947,sw,Nyah West
+7002984,90948,sw,Nyah
+7003138,90950,sw,Nurrabiel
+7003677,90957,sw,Nundle
+7003831,90959,sw,Numurkah
+7003908,90960,sw,Numulgi
+7003985,90961,sw,Numinbah
+7004062,90962,sw,Numeralla
+7004216,90964,sw,Numbugga
+7004447,90967,sw,Numbaa
+7004524,90968,sw,Nullawil
+7004601,90969,sw,Nullawarre
+7004755,90971,sw,Nullamanna
+7004909,90973,sw,Nugent
+7005140,90976,sw,Nubeena
+7005217,90977,sw,Nubba
+7005602,90982,sw,Nowendoc
+7005679,90983,sw,Nowa Nowa
+7005833,90985,sw,Norwin
+7005910,90986,sw,Norway
+7006141,90989,sw,Northwood
+7006295,90991,sw,North Tumbulgum
+7006526,90994,sw,North Motton
+7006911,90999,sw,Haven Kaskazini
+7007219,91003,sw,Northdown
+7007296,91004,sw,North Dorrigo
+7007912,91012,sw,Norong
+7008066,91014,sw,Normanton
+7008143,91015,sw,Noradjuha
+7008451,91019,sw,Noorinbee
+7008528,91020,sw,Noorat
+7008913,91025,sw,Nook
+7008990,91026,sw,Noojee
+7009144,91028,sw,Nobbys Creek
+7009221,91029,sw,Nobby
+7009375,91031,sw,Nirranda
+7009606,91034,sw,Nintingbool
+7010145,91041,sw,Nimmitabel
+7010222,91042,sw,Nimbin
+7010299,91043,sw,Nilma North
+7010376,91044,sw,Nilma
+7010530,91046,sw,Nile
+7010761,91049,sw,Nietta
+7010915,91051,sw,Nicholson
+7010992,91052,sw,Nicholls Rivulet
+7011146,91054,sw,Nhill
+7011377,91057,sw,Newtown
+7011531,91059,sw,Newstead
+7011685,91061,sw,Newrybar
+7011762,91062,sw,Newry
+7011839,91063,sw,New Residence
+7011916,91064,sw,Neurea
+7012070,91066,sw,New Norfolk
+7012224,91068,sw,New Mexico
+7012301,91069,sw,Newmerella
+7012378,91070,sw,Newlyn North
+7012455,91071,sw,Newlyn
+7012532,91072,sw,Koreelah Mpya
+7012609,91073,sw,New Italy
+7012763,91075,sw,Newhaven
+7012840,91076,sw,Newham
+7012917,91077,sw,Newfield
+7013071,91079,sw,Newcastle
+7013225,91081,sw,Newbury
+7013302,91082,sw,New Brighton
+7013379,91083,sw,Newbridge
+7013456,91084,sw,Newbridge
+7013533,91085,sw,Neville
+7013610,91086,sw,Nevertire
+7013764,91088,sw,Neurum
+7013841,91089,sw,Neuarpurr
+7013918,91090,sw,Netherdale
+7013995,91091,sw,Nethercote
+7014072,91092,sw,Netherby
+7014457,91097,sw,Nerriga
+7014842,91102,sw,Nelson
+7014919,91103,sw,Nelligen
+7015073,91105,sw,Neilrex
+7015227,91107,sw,Neilborough
+7015304,91108,sw,Neika
+7015458,91110,sw,Neerim South
+7015535,91111,sw,Neerim East
+7015612,91112,sw,Neerim
+7015843,91115,sw,Nebo
+7015920,91116,sw,Neath
+7016074,91118,sw,Nayook
+7016228,91120,sw,Navigators
+7016305,91121,sw,Navarre
+7016382,91122,sw,Naughtons Gap
+7016536,91124,sw,Natte Yallock
+7016613,91125,sw,Natone
+7016690,91126,sw,National Park
+7016767,91127,sw,Natimuk
+7016921,91129,sw,Nashua
+7016998,91130,sw,Nashdale
+7017152,91132,sw,Narromine
+7017383,91135,sw,Narrawong
+7017460,91136,sw,Narrawa
+7017691,91139,sw,Narrandera
+7017999,91143,sw,Narracan
+7018076,91144,sw,Narraburra
+7018230,91146,sw,Narrabri
+7018461,91149,sw,Narooma
+7018538,91150,sw,Naroghio
+7018923,91155,sw,Naringal
+7019308,91160,sw,Nareen
+7019462,91162,sw,Naradhan
+7019539,91163,sw,Naracoorte
+7019616,91164,sw,Naracoopa
+7019770,91166,sw,Napoleons
+7020155,91171,sw,Nanneella
+7020309,91173,sw,Nangwee
+7020386,91174,sw,Nangus
+7020540,91176,sw,Nandi
+7020848,91180,sw,Nanango
+7021002,91182,sw,Nana Glen
+7021079,91183,sw,Nambucca Heads
+7021156,91184,sw,Nambucca
+7021233,91185,sw,Nambrok
+7021387,91187,sw,Nalangil
+7021618,91190,sw,Nagambie
+7021772,91192,sw,Nabowla
+7021926,91194,sw,Nabiac
+7022311,91199,sw,Mystic Park
+7022465,91201,sw,Myrtleville
+7022542,91202,sw,Myrtleford
+7022696,91204,sw,Myrrhee
+7022773,91205,sw,Myrniong
+7023158,91210,sw,Mylestom
+7023312,91212,sw,Yamy
+7023543,91215,sw,Myalla
+7023697,91217,sw,Myall
+7023774,91218,sw,Muttama
+7023851,91219,sw,Muttaburra
+7023928,91220,sw,Mutchilba
+7024005,91221,sw,Muswellbrook
+7024082,91222,sw,Musk Vale
+7024313,91225,sw,Murtoa
+7024467,91227,sw,Murrurundi
+7024621,91229,sw,Murrumburrah
+7024698,91230,sw,Murrumbucca
+7024775,91231,sw,Murrumbateman
+7024929,91233,sw,Murroon
+7025006,91234,sw,Murringo
+7025083,91235,sw,Murrindindi
+7025314,91238,sw,Murrayville
+7025391,91239,sw,Murray Upper
+7025468,91240,sw,Murrawee
+7025622,91242,sw,Murrami
+7025699,91243,sw,Murrah
+7025930,91246,sw,Murrabit
+7026084,91248,sw,Murphys Creek
+7026161,91249,sw,Murmungee
+7026238,91250,sw,Murgon
+7026315,91251,sw,Murgheboluc
+7026392,91252,sw,Murga
+7026469,91253,sw,Murdunna
+7026546,91254,sw,Murchison East
+7026623,91255,sw,Murchison
+7026777,91257,sw,Munyabla
+7026931,91259,sw,Munro
+7027085,91261,sw,Mungindi
+7027393,91265,sw,Mungar
+7027624,91268,sw,Mungallala
+7027701,91269,sw,Mundulla
+7027778,91270,sw,Mundubbera
+7027932,91272,sw,Mundoona
+7028240,91276,sw,Mundarlo
+7028394,91278,sw,Munbilla
+7028471,91279,sw,Mummulgum
+7028625,91281,sw,Mumbil
+7028702,91282,sw,Mumbannar
+7028779,91283,sw,Mulwala
+7029010,91286,sw,Mullumbimby
+7029087,91287,sw,Mullion Creek
+7029164,91288,sw,Mullet Creek
+7029318,91290,sw,Mullengandra
+7029395,91291,sw,Mullaley
+7029472,91292,sw,Mulgowie
+7029549,91293,sw,Mulgildie
+7029780,91296,sw,Mulbring
+7030011,91299,sw,Mudgegonga
+7030165,91301,sw,Mudgee
+7030396,91304,sw,Muckleford
+7030473,91305,sw,Muckatah
+7030704,91308,sw,Moyston
+7030935,91311,sw,Moyhu
+7031089,91313,sw,Mowbray Park
+7031243,91315,sw,Moutajup
+7031320,91316,sw,Mourilyan Harbour
+7031397,91317,sw,Mourilyan
+7031474,91318,sw,Al Mawqabah
+7031551,91319,sw,Mount Whitestone
+7031628,91320,sw,Mount Wallace
+7031705,91321,sw,Mount Walker
+7031936,91324,sw,Mount Tyson
+7032013,91325,sw,Mount Sylvia
+7032244,91328,sw,Mount Seymour
+7032321,91329,sw,Mount Schank
+7032475,91331,sw,Mount Russell
+7032552,91332,sw,Mount Rowan
+7032706,91334,sw,Mount Perry
+7032783,91335,sw,Mount Pelion
+7032860,91336,sw,Mount Ossa
+7033245,91341,sw,Mount Moriac
+7033322,91342,sw,Mount Morgan
+7033399,91343,sw,Mount Molloy
+7033476,91344,sw,Mlima Mitchell
+7033553,91345,sw,Mount Mercer
+7033630,91346,sw,Mount Mcintyre
+7033784,91348,sw,Mount Martin
+7033938,91350,sw,Mount Marshall
+7034400,91356,sw,Mount Lloyd
+7034477,91357,sw,Mount Larcom
+7034708,91360,sw,Mount Julian
+7034862,91362,sw,Mount Jukes
+7035016,91364,sw,Mount Hunter
+7035247,91367,sw,Mount Hallen
+7035401,91369,sw,Mount George
+7035478,91370,sw,Mount Garnet
+7035555,91371,sw,Mount Gambier
+7035709,91373,sw,Mount Frome
+7035786,91374,sw,Mount Fox
+7035863,91375,sw,Mount Fairy
+7036171,91379,sw,Mount Egerton
+7036248,91380,sw,Mount Edwards
+7036325,91381,sw,Mount Eccles
+7036479,91383,sw,Mount Direction
+7037018,91390,sw,Mount Coolon
+7037326,91394,sw,Mount Charlton
+7037480,91396,sw,Mount Carbine
+7037557,91397,sw,Mount Bute
+7037634,91398,sw,Mount Burr
+7037788,91400,sw,Mount Berryman
+7037942,91402,sw,Mount Beauty
+7038096,91404,sw,Mount Alford
+7038173,91405,sw,Mtazamo wa Mlima
+7038250,91406,sw,Mountain Creek
+7038481,91409,sw,Moulamein
+7038712,91412,sw,Moss Vale
+7038789,91413,sw,Mossman
+7038866,91414,sw,Mossiface
+7038943,91415,sw,Mossgiel
+7039328,91420,sw,Morwell
+7039405,91421,sw,Morven
+7039482,91422,sw,Morven
+7039559,91423,sw,Moruya Heads
+7039636,91424,sw,Moruya
+7039713,91425,sw,Morundah
+7039867,91427,sw,Mortons Creek
+7040098,91430,sw,Mortlake
+7040329,91433,sw,Morrison
+7040406,91434,sw,Mororo
+7040714,91438,sw,Morinish
+7040791,91439,sw,Barabara ya Moriarty
+7040868,91440,sw,Moriac
+7041022,91442,sw,Moresby
+7041330,91446,sw,Mokre
+7041638,91450,sw,Morans Crossing
+7041792,91452,sw,Kale Morago
+7042100,91456,sw,Moorwatha
+7042177,91457,sw,Mooroopna North
+7042254,91458,sw,Mooroopna
+7042408,91460,sw,Moorook
+7042562,91462,sw,Moorngag
+7042870,91466,sw,Moorland
+7042947,91467,sw,Moorland
+7043332,91472,sw,Moore
+7043409,91473,sw,Moore
+7043563,91475,sw,Mooralla
+7043640,91476,sw,Moorabool
+7044025,91481,sw,Moonford
+7044102,91482,sw,Moonee Beach
+7044179,91483,sw,Mooneba
+7044256,91484,sw,Moondooner
+7044487,91487,sw,Moonbi
+7044564,91488,sw,Moonbah
+7044718,91490,sw,Moonan Flat
+7044872,91492,sw,Moonambel
+7045180,91496,sw,Moolboolaman
+7045488,91500,sw,Moogara
+7045565,91501,sw,Mooga
+7045719,91503,sw,Mooball
+7045796,91504,sw,Montumana
+7046027,91507,sw,Monto
+7046104,91508,sw,Montgomery
+7046181,91509,sw,Montefiores
+7046258,91510,sw,Monteagle
+7046335,91511,sw,Rodriguez
+7046412,91512,sw,Montagu
+7046720,91516,sw,Monkerai
+7046797,91517,sw,Mongogarie
+7046874,91518,sw,Mongarlowe
+7047105,91521,sw,Monegeetta
+7047259,91523,sw,Mondure
+7047490,91526,sw,Monash
+7047644,91528,sw,Molyullah
+7047721,91529,sw,Moltema
+7047875,91531,sw,Molong
+7048029,91533,sw,Mollongghip
+7048183,91535,sw,Moliagul
+7048337,91537,sw,Molesworth
+7048414,91538,sw,Mole River
+7048491,91539,sw,Mole Creek
+7048953,91545,sw,Mogriguy
+7049184,91548,sw,Mogo
+7049415,91551,sw,Mogilla
+7049492,91552,sw,Mogendoura
+7049569,91553,sw,Moe
+7049646,91554,sw,Modewarre
+7049877,91557,sw,Moama
+7049954,91558,sw,Miva
+7050108,91560,sw,Omitama
+7050339,91563,sw,Mittagong
+7050416,91564,sw,Mitre
+7050493,91565,sw,Mitiamo
+7050570,91566,sw,Mitchellstown
+7050801,91569,sw,Mitchells Flat
+7050878,91570,sw,Mitchell
+7050955,91571,sw,Mitchell
+7051109,91573,sw,Missabotti
+7051186,91574,sw,Mirrool
+7051417,91577,sw,Mirriwinni
+7051494,91578,sw,Miriam Vale
+7051571,91579,sw,Mirboo North
+7051725,91581,sw,Mirboo
+7051879,91583,sw,Mirani
+7052187,91587,sw,Minyip
+7052264,91588,sw,Minore
+7052572,91592,sw,Mininera
+7052649,91593,sw,Minimbah
+7052726,91594,sw,Minimay
+7052803,91595,sw,Minhamite
+7052957,91597,sw,Mingela
+7053034,91598,sw,Mingay
+7053111,91599,sw,Mingary
+7053188,91600,sw,Minerva
+7053419,91603,sw,Minden
+7053573,91605,sw,Minbun
+7053650,91606,sw,Mimosa
+7053881,91609,sw,Milvale
+7053958,91610,sw,Milton
+7054035,91611,sw,Milroy
+7054112,91612,sw,Milparinka
+7054266,91614,sw,Milman
+7054343,91615,sw,Milltown
+7054420,91616,sw,Millthorpe
+7054574,91618,sw,Millmerran
+7054651,91619,sw,Millingandi
+7054805,91621,sw,Millicent
+7054882,91622,sw,Millfield
+7055036,91624,sw,Millbrook
+7055113,91625,sw,Milbong
+7055190,91626,sw,Millaa Millaa
+7055344,91628,sw,Milford
+7055421,91629,sw,Maili
+7055575,91631,sw,Mildura
+7055652,91632,sw,Milbrulong
+7055729,91633,sw,Milawa
+7055806,91634,sw,Mila
+7056037,91637,sw,Miepoll
+7056114,91638,sw,Miena
+7056191,91639,sw,Midginbil
+7056345,91641,sw,Midgenoo
+7056422,91642,sw,Midgee
+7056576,91644,sw,Middleton
+7056730,91646,sw,Middle Tarwin
+7057192,91652,sw,Michelago
+7057423,91655,sw,Mia Mia
+7057500,91656,sw,Miallo
+7057654,91658,sw,Metz
+7057731,91659,sw,Metung
+7057808,91660,sw,Methul
+7057885,91661,sw,Metcalfe
+7058039,91663,sw,Merton
+7058270,91666,sw,Merrygoen
+7058424,91668,sw,Merriwagga
+7058501,91669,sw,Merriwa
+7058578,91670,sw,Merimbula
+7058809,91673,sw,Merrijig
+7058886,91674,sw,Merrigum
+7059040,91676,sw,Merino
+7059117,91677,sw,Meringandan
+7059271,91679,sw,Merinda
+7059425,91681,sw,Meredith
+7059579,91683,sw,Merbein West
+7059656,91684,sw,Merbein South
+7059733,91685,sw,Merbein
+7059887,91687,sw,Mepunga East
+7060041,91689,sw,Menindee
+7060118,91690,sw,Mengha
+7060195,91691,sw,Mendooran
+7060272,91692,sw,Menangle
+7060349,91693,sw,Mena Creek
+7060426,91694,sw,Memerambi
+7060580,91696,sw,Melton Mowbray
+7060657,91697,sw,Melrose
+7060888,91700,sw,Mella
+7061042,91702,sw,Melbourne
+7061273,91705,sw,Megan
+7061350,91706,sw,Meerschaum Vale
+7061504,91708,sw,Meerlieu
+7061812,91712,sw,Merah North
+7061889,91713,sw,Meeniyan
+7062197,91717,sw,Meander
+7062274,91718,sw,Meandarra
+7062351,91719,sw,Meadowvale
+7062582,91722,sw,McMillans
+7062659,91723,sw,McMahons Reef
+7062736,91724,sw,McLeans Ridges
+7062890,91726,sw,McKinlay
+7063044,91728,sw,McKenzie Creek
+7063121,91729,sw,McKees Hill
+7063198,91730,sw,McIlwraith
+7064045,91741,sw,Mayers Flat
+7064353,91745,sw,Mawbanna
+7064507,91747,sw,Maude
+7064584,91748,sw,Maude
+7064661,91749,sw,Matong
+7064738,91750,sw,Mathoura
+7064815,91751,sw,Mathinna
+7065046,91754,sw,Massie
+7065200,91756,sw,Maryvale
+7065277,91757,sw,Maryvale
+7065354,91758,sw,Marysville
+7065431,91759,sw,Maryland
+7065508,91760,sw,Maryborough
+7065585,91761,sw,Maryborough
+7065739,91763,sw,Marungi
+7065893,91765,sw,Marulan
+7066124,91768,sw,Marraweeney
+7066201,91769,sw,Marrawah
+7066278,91770,sw,Marrar
+7066355,91771,sw,Maroondan
+7066432,91772,sw,Maroona
+7066509,91773,sw,Maroon
+7066586,91774,sw,Marong
+7066740,91776,sw,Marnoo
+7066894,91778,sw,Marmor
+7067048,91780,sw,Marlo
+7067202,91782,sw,Marlborough
+7067279,91783,sw,Markwell
+7067587,91787,sw,Marian
+7067664,91788,sw,Margate
+7067741,91789,sw,Mareeba
+7067895,91791,sw,Mardan
+7067972,91792,sw,Marcus Hill
+7068203,91795,sw,Marama
+7068280,91796,sw,Manyung
+7068588,91800,sw,Manumbar
+7068819,91803,sw,Mansfield
+7069050,91806,sw,Mannus
+7069127,91807,sw,Mannibadar
+7069281,91809,sw,Mannerim
+7069435,91811,sw,Manilla
+7069512,91812,sw,Manildra
+7069743,91815,sw,Mangalore
+7069820,91816,sw,Mangalore
+7070128,91820,sw,Mandurang South
+7070205,91821,sw,Mandurang
+7070282,91822,sw,Mandurama
+7070436,91824,sw,Mandemar
+7070513,91825,sw,Mandagery
+7070590,91826,sw,Manar
+7070667,91827,sw,Manangatang
+7070744,91828,sw,Ma Ma Creek
+7070975,91831,sw,Malmsbury
+7071283,91835,sw,Mallanganee
+7071360,91836,sw,Mallacoota
+7071437,91837,sw,Maleny
+7071591,91839,sw,Maldon
+7071899,91843,sw,Malbina
+7071976,91844,sw,Malanda
+7072361,91849,sw,Majors Creek
+7072515,91851,sw,Majorca
+7072592,91852,sw,Maitland
+7072669,91853,sw,Mairjimmy
+7072823,91855,sw,Maindample
+7072900,91856,sw,Maimuru
+7072977,91857,sw,Mailors Flat
+7073054,91858,sw,Maidenwell
+7073516,91864,sw,Maffra West Upper
+7073593,91865,sw,Maffra
+7074132,91872,sw,Macorna
+7074209,91873,sw,Maclean
+7074440,91876,sw,Maclagan
+7074517,91877,sw,Macksville
+7074671,91879,sw,Macknade
+7074748,91880,sw,Mackay
+7074825,91881,sw,Macedon
+7074902,91882,sw,McDesme
+7074979,91883,sw,Macarthur
+7075056,91884,sw,Macalister
+7075210,91886,sw,Lyrup
+7075364,91888,sw,Lyonville
+7075749,91893,sw,Lyndhurst
+7075980,91896,sw,Lynch's Creek
+7076057,91897,sw,Lymington
+7076211,91899,sw,Lurg
+7076365,91901,sw,Lulworth
+7076519,91903,sw,Lue
+7076827,91907,sw,Lucindale
+7076904,91908,sw,Lucinda
+7076981,91909,sw,Lucaston
+7077289,91913,sw,Loxton
+7077443,91915,sw,Lowood
+7077520,91916,sw,Lowmead
+7077597,91917,sw,Low Head
+7077674,91918,sw,Lowesdale
+7077751,91919,sw,Lower Tully
+7077905,91921,sw,Lower Southgate
+7078983,91935,sw,Botobolar ya chini
+7079060,91936,sw,Lower Boro
+7079214,91938,sw,Lower Barrington
+7079599,91943,sw,Loveday
+7079753,91945,sw,Louth
+7079984,91948,sw,Lostock
+7080215,91951,sw,Lorne
+7080292,91952,sw,Lorne
+7080369,91953,sw,Lorinna
+7080446,91954,sw,Loorana
+7080523,91955,sw,Loomberah
+7080600,91956,sw,Longwood
+7080754,91958,sw,Longwarry North
+7080985,91961,sw,Longreach
+7081062,91962,sw,Long Pocket
+7081216,91964,sw,Longley Chini
+7081293,91965,sw,Longley
+7081370,91966,sw,Longford
+7081447,91967,sw,Longford
+7081601,91969,sw,Long Flat
+7081678,91970,sw,Longerenong
+7081755,91971,sw,Londrigan
+7081832,91972,sw,Loira
+7081909,91973,sw,Logan
+7082063,91975,sw,Lockyer
+7082140,91976,sw,Lockwood
+7082294,91978,sw,Locksley
+7082371,91979,sw,Locksley
+7082448,91980,sw,Lockington
+7082525,91981,sw,Lockhart
+7082756,91984,sw,Loch Lomond
+7082833,91985,sw,Lochiel
+7082910,91986,sw,Lochaber
+7082987,91987,sw,Loch
+7083295,91991,sw,Llangothlin
+7083526,91994,sw,Liverpool
+7083603,91995,sw,Little Swanport
+7083680,91996,sw,Little Plain
+7083988,92000,sw,Little Billabong
+7084142,92002,sw,Lithgow
+7084219,92003,sw,Litchfield
+7084296,92004,sw,Liston
+7084373,92005,sw,Lismore
+7084450,92006,sw,Lismore
+7084989,92013,sw,Linville
+7085066,92014,sw,Linton
+7085297,92017,sw,Lindenow South
+7085374,92018,sw,Lindenow
+7085605,92021,sw,Linburn
+7085759,92023,sw,Limevale
+7085836,92024,sw,Chokaa
+7085990,92026,sw,Limbri
+7086221,92029,sw,Lilydale
+7086298,92030,sw,Lilliput
+7086452,92032,sw,Lillimur
+7086606,92034,sw,Lillian Rock
+7086683,92035,sw,Lileah
+7086760,92036,sw,Lightning Ridge
+7086837,92037,sw,Liffey
+7086914,92038,sw,Lietinna
+7087068,92040,sw,Lidster
+7087376,92044,sw,Leycester
+7087453,92045,sw,Leyburn
+7087530,92046,sw,Lexton
+7087684,92048,sw,Lewis Ponds
+7087915,92051,sw,Levendale
+7088223,92055,sw,Lethe Brook
+7088300,92056,sw,Lethbridge
+7088377,92057,sw,Leslie Manor
+7088685,92061,sw,Leongatha
+7088839,92063,sw,Leneva
+7088993,92065,sw,Lemnos
+7089224,92068,sw,Leitchville
+7089301,92069,sw,Leigh Creek
+7089455,92071,sw,Leichardt
+7089609,92073,sw,Legume
+7089686,92074,sw,Legerwood
+7089763,92075,sw,Legana
+7089840,92076,sw,Lefroy
+7089917,92077,sw,Leeville
+7089994,92078,sw,Leeton
+7090379,92083,sw,Learmonth
+7090764,92088,sw,Leadville
+7090995,92091,sw,Lawrence
+7091226,92094,sw,Lavers Hill
+7091380,92096,sw,Lauriston
+7091457,92097,sw,Camden Haven
+7091688,92100,sw,Laura
+7091765,92101,sw,Launceston
+7091842,92102,sw,Latrobe
+7091919,92103,sw,Lascelles
+7091996,92104,sw,Larras Lee
+7092073,92105,sw,Larpent
+7092150,92106,sw,Larnook
+7092381,92109,sw,Laravale
+7092612,92112,sw,Lapoinya
+7092766,92114,sw,Lannercost
+7093074,92118,sw,Langshaw
+7093459,92123,sw,Langkoop
+7093690,92126,sw,Landsborough
+7093998,92130,sw,Lancaster
+7094075,92131,sw,Lamplough
+7094152,92132,sw,Lamington
+7094229,92133,sw,Lameroo
+7094383,92135,sw,Lal Lal
+7094537,92137,sw,Lalla
+7094691,92139,sw,Lalbert
+7094845,92141,sw,Lake Tyers
+7094922,92142,sw,Lakesland
+7094999,92143,sw,Lakeside
+7095076,92144,sw,Lakes Entrance
+7095230,92146,sw,Lake Rowan
+7095923,92155,sw,Lake Clarendon
+7096000,92156,sw,Ziwa Charm
+7096077,92157,sw,Lake Cargelligo
+7096154,92158,sw,Lake Bolac
+7096231,92159,sw,Lake Boga
+7096308,92160,sw,Lake Bathurst
+7096385,92161,sw,Laidley
+7096539,92163,sw,Lah
+7096693,92165,sw,Lagoon Pocket
+7096770,92166,sw,Laggan
+7097155,92171,sw,Lady Barron
+7097232,92172,sw,Lacmalac
+7097309,92173,sw,Lachlan
+7097386,92174,sw,Laceby
+7097463,92175,sw,Labertouche
+7097540,92176,sw,Laang
+7097617,92177,sw,Laanecoorie
+7097771,92179,sw,Kyvalley
+7097925,92181,sw,Kyoomba
+7098002,92182,sw,Kyogle
+7098079,92183,sw,Kynuna
+7098156,92184,sw,Kyneton
+7098541,92189,sw,Kybybolite
+7098772,92192,sw,Kyalite
+7098849,92193,sw,Kyabram
+7098926,92194,sw,Kuttabul
+7099080,92196,sw,Kurting
+7099234,92198,sw,Kurrajong Heights
+7099542,92202,sw,Kureen
+7099619,92203,sw,Kuranda
+7099773,92205,sw,Kunwarara
+7100004,92208,sw,Kunghur
+7100081,92209,sw,Kungala
+7100235,92211,sw,Kundabung
+7100389,92213,sw,Kunama
+7100466,92214,sw,Kumbia
+7100543,92215,sw,Kumbarilla
+7100697,92217,sw,Kulpi
+7100851,92219,sw,Kulgun
+7101082,92222,sw,Krowera
+7101236,92224,sw,Krawarree
+7101313,92225,sw,Krambach
+7101390,92226,sw,Koyuga
+7101621,92229,sw,Kowguran
+7101775,92231,sw,Kowanyama
+7101929,92233,sw,Koumala
+7102006,92234,sw,Kotupna
+7102083,92235,sw,Kotta
+7102160,92236,sw,Korweinguboora
+7102237,92237,sw,Korumburra South
+7102314,92238,sw,Korumburra
+7102545,92241,sw,Koroop
+7102622,92242,sw,Korong Vale
+7102699,92243,sw,Koroit
+7102776,92244,sw,Koriella
+7102930,92246,sw,Kootingal
+7103007,92247,sw,Kooroongarra
+7103161,92249,sw,Koornalla
+7103238,92250,sw,Koorlong
+7103546,92254,sw,Koorawatha
+7103777,92257,sw,Koopamurra
+7103854,92258,sw,Koonya
+7103931,92259,sw,Koonwarra
+7104008,92260,sw,Koonorigan
+7104085,92261,sw,Koondrook
+7104701,92269,sw,Konongwootong
+7104778,92270,sw,Kongwak
+7104855,92271,sw,Kongorong
+7105163,92275,sw,Kolora
+7105702,92282,sw,Kogan
+7105933,92285,sw,Koah
+7106010,92286,sw,Knowsley
+7106318,92290,sw,Knockrow
+7106549,92293,sw,Klori
+7106626,92294,sw,Kleinton
+7106934,92298,sw,Kirkstall
+7107088,92300,sw,Kiora
+7107165,92301,sw,Kioloa
+7107396,92304,sw,Kinleymore
+7107704,92308,sw,King Valley
+7107781,92309,sw,Kingsvale
+7107858,92310,sw,Kingstown
+7107935,92311,sw,Kingston
+7108012,92312,sw,Kingston
+7108089,92313,sw,Kingsthorpe
+7108166,92314,sw,Kings Plains
+7108320,92316,sw,Kings Creek
+7108628,92320,sw,Kinglake
+7108705,92321,sw,Kingaroy
+7108859,92323,sw,Kindred
+7109013,92325,sw,Kinchela
+7109167,92327,sw,Kimberley
+7109398,92330,sw,Kilmore East
+7109475,92331,sw,Kilmore
+7109629,92333,sw,Kilmany
+7109706,92334,sw,Killawarra
+7109860,92336,sw,Killarney
+7110014,92338,sw,Killarney
+7110245,92341,sw,Kilkivan
+7110553,92345,sw,Kilcunda
+7110630,92346,sw,Kilcoy
+7110707,92347,sw,Kilbirnie
+7110784,92348,sw,Kikoira
+7110861,92349,sw,Kiewa
+7110938,92350,sw,Kickabil
+7111092,92352,sw,Kiata
+7111169,92353,sw,Kianga
+7111400,92356,sw,Kiama
+7111477,92357,sw,Kialla West
+7111554,92358,sw,Kialla East
+7111708,92360,sw,Kiah
+7111785,92361,sw,Khancoban
+7112093,92365,sw,Kew
+7112247,92367,sw,Kettering
+7112324,92368,sw,Kerry
+7112478,92370,sw,Kerrisdale
+7112632,92372,sw,Kernot
+7112709,92373,sw,Kergunyah
+7112786,92374,sw,Kerang
+7112863,92375,sw,Keppoch
+7112940,92376,sw,Keppel Sands
+7113094,92378,sw,Kentville
+7113171,92379,sw,Kentucky South
+7113248,92380,sw,Kentucky
+7113479,92383,sw,Kennedy
+7113787,92387,sw,Kendall
+7113941,92389,sw,Kempton
+7114018,92390,sw,Kempsey
+7114095,92391,sw,Kelvin View
+7114172,92392,sw,Kelvin
+7114249,92393,sw,Kelso
+7114480,92396,sw,Kellys Plains
+7114711,92399,sw,Kuelluece
+7114865,92401,sw,Keith Hall
+7114942,92402,sw,Keith
+7115019,92403,sw,Keilira
+7115173,92405,sw,Keera
+7115327,92407,sw,Keely
+7115481,92409,sw,Kayuga
+7115635,92411,sw,Kawarren
+7115866,92414,sw,Katunga
+7115943,92415,sw,Katoomba
+7116020,92416,sw,Katandra
+7116097,92417,sw,Katamatite
+7116251,92419,sw,Karumba
+7116867,92427,sw,Kaarimba
+7116944,92428,sw,Kariah
+7117021,92429,sw,Kardella South
+7117098,92430,sw,Kardella
+7117252,92432,sw,Karara
+7117560,92436,sw,Kaoota
+7117637,92437,sw,Kanyapella
+7117868,92440,sw,Kanumbra
+7117945,92441,sw,Kaniva
+7118099,92443,sw,Kangiara
+7118176,92444,sw,Kangaroo Valley
+7118330,92446,sw,Kangaroo Creek
+7118407,92447,sw,Kangaloon
+7118484,92448,sw,Kandos
+7118561,92449,sw,Kandanga Juu
+7118638,92450,sw,Kandanga
+7118715,92451,sw,Kancoona
+7119177,92457,sw,Kameruka
+7119254,92458,sw,Kamarooka
+7119331,92459,sw,Kamarah
+7119408,92460,sw,Kalunga
+7119485,92461,sw,Kalpowar
+7119716,92464,sw,Kalkite
+7119793,92465,sw,Halkevleri
+7119870,92466,sw,Kalimna
+7119947,92467,sw,Kalbar
+7120101,92469,sw,Kalapa
+7120178,92470,sw,Kalangadoo
+7120409,92473,sw,Kairi
+7120563,92475,sw,Kaimkillenbun
+7120717,92477,sw,Kabra
+7120794,92478,sw,Kaban
+7120871,92479,sw,Jung
+7120948,92480,sw,Junee Reefs
+7121025,92481,sw,Junee
+7121102,92482,sw,Jundah
+7121256,92484,sw,Junabee
+7121333,92485,sw,Jumbunna
+7121487,92487,sw,Julia Creek
+7121564,92488,sw,Julatten
+7121641,92489,sw,Jugiong
+7121795,92491,sw,Judbury
+7121949,92493,sw,Josephville
+7122180,92496,sw,Jondaryan
+7122334,92498,sw,Johnsonville
+7122411,92499,sw,Johanna
+7122719,92503,sw,Joanna
+7122796,92504,sw,Joadja Creek
+7122873,92505,sw,Jinghi Jinghi
+7122950,92506,sw,Jingellic
+7123104,92508,sw,Jindivick
+7123181,92509,sw,Jindera
+7123335,92511,sw,Jindabyne
+7123489,92513,sw,Jimna
+7123797,92517,sw,Jiggi
+7123951,92519,sw,Jetsonville
+7124028,92520,sw,Jervis Bay
+7124182,92522,sw,Jerseyville
+7124259,92523,sw,Jerrys Plains
+7124490,92526,sw,Jerrawa
+7124567,92527,sw,Jerilderie
+7124644,92528,sw,Yeriko
+7124721,92529,sw,Yeriko
+7124798,92530,sw,Jerangle
+7124875,92531,sw,Jeparit
+7125106,92534,sw,Jennings
+7125260,92536,sw,Jellat Jellat
+7125414,92538,sw,Jeetho
+7125568,92540,sw,Jeeralang Junction
+7125645,92541,sw,Jeeralang
+7125953,92545,sw,Jarvisfield
+7126184,92548,sw,Japoonvale
+7126415,92551,sw,Jandowae
+7126569,92553,sw,Jamieson
+7126646,92554,sw,Jambin
+7126877,92557,sw,Jaggan
+7127031,92559,sw,Jackson
+7127185,92561,sw,Jack River
+7127339,92563,sw,Jackadgery
+7127416,92564,sw,Jabuk
+7127570,92566,sw,Iveragh
+7127647,92567,sw,Ivanhoe
+7127878,92570,sw,Isisford
+7128109,92573,sw,Irymple
+7128186,92574,sw,Irvinebank
+7128263,92575,sw,Irrewillipe
+7128340,92576,sw,Irrewarra
+7128725,92581,sw,Irishtown
+7128802,92582,sw,Iraak
+7128879,92583,sw,Ipswich
+7129264,92588,sw,Inverloch
+7129341,92589,sw,Inverleigh
+7129418,92590,sw,Invergordon
+7129495,92591,sw,Inverell
+7129880,92596,sw,Innot Hot Springs
+7129957,92597,sw,Innisplain
+7130034,92598,sw,Innisfail
+7130188,92600,sw,Innamincka
+7130265,92601,sw,Injune
+7130342,92602,sw,Ingliston
+7130419,92603,sw,Inglewood
+7130496,92604,sw,Inglewood
+7130727,92607,sw,Ingham
+7130804,92608,sw,Ingebyra
+7131112,92612,sw,Imbil
+7131189,92613,sw,Iluka
+7131266,92614,sw,Illowa
+7131574,92618,sw,Illawarra
+7131651,92619,sw,Illabo
+7131805,92621,sw,Ilfracombe
+7131882,92622,sw,Ilford
+7131959,92623,sw,Ilbilbie
+7132036,92624,sw,Ilarwill
+7132113,92625,sw,Iguana Creek
+7132421,92629,sw,Hynam
+7132883,92635,sw,Huskisson
+7133114,92638,sw,Huonville
+7133191,92639,sw,Huonbrook
+7133268,92640,sw,Huon
+7133422,92642,sw,Huntingdon
+7133807,92647,sw,Humula
+7133961,92649,sw,Hughenden
+7134038,92650,sw,Hoya
+7134115,92651,sw,Howth
+7134192,92652,sw,Howqua
+7134269,92653,sw,Howlong
+7134346,92654,sw,Howes Valley
+7134423,92655,sw,Howes Creek
+7134577,92657,sw,Howard
+7134885,92661,sw,Hoskinstown
+7134962,92662,sw,Horton
+7135039,92663,sw,Horton
+7135116,92664,sw,Horsham
+7135193,92665,sw,Horseshoe Creek
+7135655,92671,sw,Hopetoun
+7135732,92672,sw,Hopefield
+7135886,92674,sw,Mbao za nyumbani
+7136040,92676,sw,Home Rule
+7136194,92678,sw,Khomedeh
+7136271,92679,sw,Home Hill
+7136656,92684,sw,Holwell
+7137426,92694,sw,Holbrook
+7137503,92695,sw,Hodgson
+7137580,92696,sw,Hodgleigh
+7137811,92699,sw,Hobart
+7137888,92700,sw,Hivesville
+7137965,92701,sw,Hirstglen
+7138119,92703,sw,Hillwood
+7138273,92705,sw,Hillview
+7138350,92706,sw,Hill Top
+7138427,92707,sw,Hillston
+7138504,92708,sw,Hillside
+7138735,92711,sw,Hillgrove
+7138812,92712,sw,Hill End
+7138889,92713,sw,Hill End
+7138966,92714,sw,Hilldene
+7139043,92715,sw,Hilldale
+7139120,92716,sw,Hillcrest
+7139274,92718,sw,Nyanda za juu
+7139505,92721,sw,Highclere
+7139582,92722,sw,High Camp
+7139736,92724,sw,Hickeys Creek
+7139967,92727,sw,Heywood
+7140121,92729,sw,Hexham
+7140275,92731,sw,Hesket
+7140429,92733,sw,Herons Creek
+7140506,92734,sw,Hernani
+7140814,92738,sw,Herberton
+7140891,92739,sw,Hepburn Springs
+7140968,92740,sw,Hepburn
+7141045,92741,sw,Henty
+7141122,92742,sw,Henty
+7141199,92743,sw,Henrietta
+7141430,92746,sw,Herrdon
+7141584,92748,sw,Helidon
+7141815,92751,sw,Helens Hill
+7141969,92753,sw,Hedley
+7142046,92754,sw,Heddon Greta
+7142123,92755,sw,Hebel
+7142277,92757,sw,Heathmere
+7142431,92759,sw,Heathcote
+7142585,92761,sw,Healesville
+7142739,92763,sw,Hazelwood
+7142893,92765,sw,Hazelgrove
+7143124,92768,sw,Hay Point
+7143278,92770,sw,Hay
+7143432,92772,sw,Hawks Nest
+7143509,92773,sw,Hawkins Creek
+7143663,92775,sw,Hawkesdale
+7143817,92777,sw,Havelock
+7144048,92780,sw,Hatton Vale
+7144202,92782,sw,Hatherleigh
+7144279,92783,sw,Hat Head
+7144433,92785,sw,Harwood
+7144741,92789,sw,Harston
+7144818,92790,sw,Harrow
+7144895,92791,sw,Harrisville
+7145126,92794,sw,Harrington
+7145203,92795,sw,Harrietville
+7145434,92798,sw,Harlin
+7145511,92799,sw,Hargraves
+7145588,92800,sw,Harford
+7145665,92801,sw,Harefield
+7145819,92803,sw,Harcourt
+7145896,92804,sw,Bonde la Furaha
+7146050,92806,sw,Hanwood
+7146127,92807,sw,Hansonville
+7146358,92810,sw,Hannaford
+7146435,92811,sw,Hanging Rock
+7146589,92813,sw,Hampton
+7146743,92815,sw,Hampshire
+7146897,92817,sw,Hamilton
+7146974,92818,sw,Hamilton
+7147128,92820,sw,Haly Creek
+7147282,92822,sw,Hallston
+7147359,92823,sw,Halls Gap
+7147436,92824,sw,Hallora
+7147513,92825,sw,Ukumbi
+7147590,92826,sw,Halifax
+7147744,92828,sw,Halfway Creek
+7147821,92829,sw,Hagley
+7147898,92830,sw,Hadspen
+7148052,92832,sw,Haden
+7148129,92833,sw,Haddon
+7148283,92835,sw,Gympie
+7148360,92836,sw,Gymbowen
+7148514,92838,sw,Gwabegar
+7148668,92840,sw,Guyra
+7149130,92846,sw,Gurrundah
+7149361,92849,sw,Gurley
+7149669,92853,sw,Gunns Plains
+7149823,92855,sw,Gunningbland
+7149900,92856,sw,Gunning
+7149977,92857,sw,Gunnewin
+7150208,92860,sw,Gunnedah
+7150439,92863,sw,Gungal
+7150593,92865,sw,Gundy
+7150747,92867,sw,Gundowring
+7150901,92869,sw,Gundiah
+7150978,92870,sw,Gundary
+7151055,92871,sw,Gundaroo
+7151132,92872,sw,Gundagai
+7151209,92873,sw,Gunbower
+7151517,92877,sw,Gunalda
+7151594,92878,sw,Gum Scrub
+7151671,92879,sw,Gumlu
+7151748,92880,sw,Gumble
+7151825,92881,sw,Guluguba
+7152133,92885,sw,Gulgong
+7152287,92887,sw,Gulf Creek
+7152364,92888,sw,Gular
+7152518,92890,sw,Guildford
+7152672,92892,sw,Grove
+7152903,92895,sw,Grong Grong
+7152980,92896,sw,Grogan
+7153211,92899,sw,Griffith
+7153288,92900,sw,Greymare
+7153365,92901,sw,Grevillia
+7153442,92902,sw,Gretna
+7153519,92903,sw,Greta West
+7153596,92904,sw,Greta South
+7153673,92905,sw,Greta
+7153750,92906,sw,Gresford
+7153827,92907,sw,Grenville
+7153904,92908,sw,Grenfell
+7153981,92909,sw,Greigs Flat
+7154443,92915,sw,Greenwich Park
+7154520,92916,sw,Greenwell Point
+7154597,92917,sw,Greenwald
+7154751,92919,sw,Greens Creek
+7154828,92920,sw,Greens Beach
+7154905,92921,sw,Greenridge
+7154982,92922,sw,Green Pigeon
+7155059,92923,sw,Greenmount
+7155213,92925,sw,Greenland
+7155367,92927,sw,Greenhill
+7155444,92928,sw,Green Hill
+7155521,92929,sw,Greenethorpe
+7155598,92930,sw,Greendale
+7155752,92932,sw,Great Western
+7155906,92934,sw,Graytown
+7156214,92938,sw,Kijivu
+7156445,92941,sw,Gravesend
+7156522,92942,sw,Gravelly Beach
+7156599,92943,sw,Grattai
+7156676,92944,sw,Grassy
+7156753,92945,sw,Grassmere
+7156907,92947,sw,Granya
+7156984,92948,sw,Grantville
+7157061,92949,sw,Grantham
+7157292,92952,sw,Graman
+7157446,92954,sw,Grahamstown
+7157600,92956,sw,Grahams Creek
+7157754,92958,sw,Grafton
+7157985,92961,sw,Gracemere
+7158062,92962,sw,Grabben Gullen
+7158293,92965,sw,Gowrie Junction
+7158370,92966,sw,Gowrie
+7158832,92972,sw,Cowan
+7158986,92974,sw,Goulds Country
+7159140,92976,sw,Goulburn Weir
+7159217,92977,sw,Goulburn
+7159371,92979,sw,Gosheni
+7159525,92981,sw,Goroke
+7159679,92983,sw,Gormandale
+7159833,92985,sw,Gordon Brook
+7159910,92986,sw,Gordon
+7159987,92987,sw,Gordon
+7160064,92988,sw,Goranba
+7160141,92989,sw,Gorae West
+7160218,92990,sw,Gorae
+7160372,92992,sw,Goovigen
+7160449,92993,sw,Gootchie
+7160680,92996,sw,Goornong
+7161065,93001,sw,Goorambat
+7161142,93002,sw,Gooramadda
+7161219,93003,sw,Goonumbla
+7161296,93004,sw,Goonoo Goonoo
+7161450,93006,sw,Goonengerry
+7161758,93010,sw,Goondiwindi
+7161989,93013,sw,Goomeri
+7162066,93014,sw,Goomburra
+7162374,93018,sw,Goomalibee
+7162451,93019,sw,Gooloogong
+7162528,93020,sw,Goolmangar
+7162605,93021,sw,Goolma
+7162682,93022,sw,Goolgowi
+7162836,93024,sw,Goodwood
+7162990,93026,sw,Goodooga
+7163067,93027,sw,Tumaini jema
+7163144,93028,sw,Goodger
+7163221,93029,sw,Gooburrum
+7163298,93030,sw,Gobarralong
+7163606,93034,sw,Gollan
+7163683,93035,sw,Gol Gol
+7163837,93037,sw,Golspie
+7163991,93039,sw,Golden Valley
+7164145,93041,sw,Gold Coast
+7164299,93043,sw,Gogeldrie
+7164376,93044,sw,Gogango
+7164453,93045,sw,Godfreys Creek
+7164530,93046,sw,Gocup
+7164607,93047,sw,Gobur
+7164761,93049,sw,Gnotuk
+7164838,93050,sw,Gnarwarre
+7164992,93052,sw,Gloucester
+7165223,93055,sw,Glen William
+7165454,93058,sw,Glen Ugie
+7165531,93059,sw,Glenthompson
+7165685,93061,sw,Glenroy
+7165762,93062,sw,Glenrowan
+7165993,93065,sw,Glenreagh
+7166070,93066,sw,Glenquarry
+7166224,93068,sw,Glen Park
+7166301,93069,sw,Glenormiston South
+7166378,93070,sw,Glenormiston North
+7166455,93071,sw,Glenore Grove
+7166532,93072,sw,Glenorchy
+7166609,93073,sw,Glenora
+7166763,93075,sw,Glen Niven
+7166994,93078,sw,Glenmorgan
+7167225,93081,sw,Glenmaggie
+7167302,93082,sw,Glenlyon
+7167687,93087,sw,Glenlee
+7167918,93090,sw,Glen Innes
+7167995,93091,sw,Gleniffer
+7168072,93092,sw,Glen Huon
+7168149,93093,sw,Glenhope
+7168380,93096,sw,Glengarry West
+7168457,93097,sw,Glengarry
+7168534,93098,sw,Glengarry
+7168611,93099,sw,Glenfyne
+7168688,93100,sw,Glen Forbes
+7168765,93101,sw,Glenfern
+7168919,93103,sw,Glenellen
+7168996,93104,sw,Glen Elgin
+7169073,93105,sw,Gleneagle
+7169150,93106,sw,Glendon Brook
+7169304,93108,sw,Glendevie
+7169458,93110,sw,Glendaruel
+7169612,93112,sw,Glen Creek
+7169766,93114,sw,Glencoe
+7169843,93115,sw,Glencoe
+7170074,93118,sw,Glenburnie
+7170151,93119,sw,Glenburn
+7170536,93124,sw,Glenaroua
+7170613,93125,sw,Glen Alvie
+7170767,93127,sw,Glen Alice
+7170921,93129,sw,Glenaladale
+7170998,93130,sw,Glaziers Bay
+7171075,93131,sw,Glastonbury
+7171306,93134,sw,Glanmire
+7171383,93135,sw,Glan Devon
+7171537,93137,sw,Glamorgan Vale
+7171614,93138,sw,Gladstone
+7171691,93139,sw,Gladstone
+7171768,93140,sw,Gladstone
+7171922,93142,sw,Gisborne
+7171999,93143,sw,Girvan
+7172076,93144,sw,Giru
+7172153,93145,sw,Girrel
+7172307,93147,sw,Girgarre East
+7172615,93151,sw,Gingkin
+7172692,93152,sw,Gin Gin
+7172846,93154,sw,Gindie
+7172923,93155,sw,Gilmore
+7173154,93158,sw,Gillieston
+7173924,93168,sw,Gilgandra
+7174001,93169,sw,Gilgai
+7174232,93172,sw,Giffard
+7174309,93173,sw,Gidley
+7174386,93174,sw,Gidginbung
+7174848,93180,sw,Gheringhap
+7175002,93182,sw,Geurie
+7175156,93184,sw,Gerogery
+7175233,93185,sw,Geranium
+7175310,93186,sw,Gerang Gerung
+7175387,93187,sw,Gerangamete
+7175464,93188,sw,Georgica
+7175618,93190,sw,George Town
+7175695,93191,sw,Georgetown
+7175772,93192,sw,Georges Plains
+7175849,93193,sw,Georges Creek
+7176003,93195,sw,Genoa
+7176465,93201,sw,Gellibrand
+7176619,93203,sw,Geham
+7176696,93204,sw,Geeveston
+7176927,93207,sw,Geelong
+7177312,93212,sw,Gayndah
+7177389,93213,sw,Gawler
+7177620,93216,sw,Gatton
+7177774,93218,sw,Garvoc
+7177928,93220,sw,Garradunga
+7178005,93221,sw,Garra
+7178236,93224,sw,Garland
+7178313,93225,sw,Garibaldi
+7178390,93226,sw,Gargett
+7178467,93227,sw,Garfield
+7178544,93228,sw,Garema
+7178621,93229,sw,Gardners Bay
+7178698,93230,sw,Garden Island Creek
+7178775,93231,sw,Garah
+7178852,93232,sw,Gapsted
+7179083,93235,sw,Gannawarra
+7179160,93236,sw,Ganmain
+7179391,93239,sw,Galston
+7179468,93240,sw,Galore
+7179545,93241,sw,Galong
+7179776,93244,sw,Gulargambone
+7180007,93247,sw,Gainsborough
+7180161,93249,sw,Gaeta
+7180392,93252,sw,Furner
+7180469,93253,sw,Fumina South
+7180700,93256,sw,Fullerton
+7180854,93258,sw,Fulham
+7180931,93259,sw,Fryerstown
+7181085,93261,sw,Frogmore
+7181162,93262,sw,Freshwater Creek
+7181393,93265,sw,Freestone
+7181470,93266,sw,Freeburgh
+7181547,93267,sw,Frederickton
+7181778,93270,sw,Franklinford
+7181855,93271,sw,Franklin
+7181932,93272,sw,Frankford
+7182009,93273,sw,Frances
+7182086,93274,sw,Frampton
+7182240,93276,sw,Framlingham
+7182394,93278,sw,Foxdale
+7182548,93280,sw,Fosterville
+7182625,93281,sw,Fosterton
+7182702,93282,sw,Foster
+7182779,93283,sw,Forth
+7182856,93284,sw,Forster
+7182933,93285,sw,Forsayth
+7183010,93286,sw,Forrest
+7183164,93288,sw,Forge Creek
+7183395,93291,sw,Forest Hill
+7183549,93293,sw,Msitu
+7183626,93294,sw,Fordsdale
+7183780,93296,sw,Forcett
+7183934,93298,sw,Forbes
+7184011,93299,sw,Flynn
+7184165,93301,sw,Flowery Gully
+7184242,93302,sw,Flowerdale
+7184319,93303,sw,Flowerdale
+7184473,93305,sw,Flinders
+7184704,93308,sw,Fletcher
+7184781,93309,sw,Flagstone Creek
+7185782,93322,sw,Fish Creek
+7185859,93323,sw,Finley
+7186013,93325,sw,Fingal
+7186167,93327,sw,Finch Hatton
+7186321,93329,sw,Fifield
+7186552,93332,sw,Fernvale
+7186629,93333,sw,Fernside
+7186706,93334,sw,Fernmount
+7186783,93335,sw,Fernleigh
+7187014,93338,sw,Fern Hill
+7187322,93342,sw,Fernbank
+7187630,93346,sw,Fentonbury
+7187861,93349,sw,Federal
+7188015,93351,sw,Fawcett
+7188169,93353,sw,Fassifern Valley
+7188554,93358,sw,Farleigh
+7188631,93359,sw,Faraday
+7188785,93361,sw,Falmouth
+7188862,93362,sw,Falls Creek
+7189016,93364,sw,Fairylands
+7189093,93365,sw,Fairy Hill
+7189170,93366,sw,Fairy Dell
+7189632,93372,sw,Exton
+7189709,93373,sw,Exeter
+7189863,93375,sw,Ewingsdale
+7190017,93377,sw,Everton
+7190402,93382,sw,Evans Head
+7190479,93383,sw,Evansford
+7190556,93384,sw,Evandale
+7190633,93385,sw,Euston
+7190787,93387,sw,Eurongilly
+7190864,93388,sw,Euroley
+7190941,93389,sw,Eurobodalla
+7191018,93390,sw,Eurobin
+7191095,93391,sw,Euroa
+7191403,93395,sw,Eureka
+7191557,93397,sw,Euramo
+7191788,93400,sw,Eurack
+7191942,93402,sw,Eungella
+7192019,93403,sw,Eungai Creek
+7192173,93405,sw,Eumungerie
+7192327,93407,sw,Eulomogo
+7192404,93408,sw,Eulo
+7192481,93409,sw,Euleilah
+7192712,93412,sw,Eukey
+7192789,93413,sw,Eugowra
+7192866,93414,sw,Euchareena
+7193020,93416,sw,Euabalong
+7193097,93417,sw,Ettrick
+7193328,93420,sw,Eton
+7193405,93421,sw,Etna Creek
+7193482,93422,sw,Essington
+7193636,93424,sw,Eskdale
+7193713,93425,sw,Esk
+7193944,93428,sw,Eromanga
+7194175,93431,sw,Erigolia
+7194252,93432,sw,Erica
+7194329,93433,sw,Epping
+7194406,93434,sw,Eppalock
+7194637,93437,sw,Ensay
+7194791,93439,sw,Enngonia
+7195099,93443,sw,Enfield
+7195253,93445,sw,Emu Vale
+7195330,93446,sw,Emu Park
+7195484,93448,sw,Emu Creek
+7195715,93451,sw,Empire Vale
+7195869,93453,sw,Emmaville
+7195946,93454,sw,Emita
+7196023,93455,sw,Emerald Hill
+7196100,93456,sw,Zamaradi
+7196177,93457,sw,Eltham
+7196331,93459,sw,Elsmore
+7196408,93460,sw,Elphinstone
+7196485,93461,sw,Elphinstone
+7196639,93463,sw,Elong Elong
+7196716,93464,sw,Elmore
+7196793,93465,sw,Elmhurst
+7196870,93466,sw,Elliott Heads
+7196947,93467,sw,Elliott
+7197178,93470,sw,Ellinbank
+7197255,93471,sw,Elliminyt
+7197332,93472,sw,Ellerston
+7197409,93473,sw,Ellerslie
+7197563,93475,sw,Ellendale
+7197640,93476,sw,Ellenborough
+7197717,93477,sw,Ellangowan
+7197794,93478,sw,Ellangowan
+7197948,93480,sw,Elizabeth Town
+7198025,93481,sw,Elingamite North
+7198102,93482,sw,Elingamite
+7198256,93484,sw,Electrona
+7198333,93485,sw,Eldorado
+7198487,93487,sw,Elderslie
+7198641,93489,sw,Elbow Valley
+7198795,93491,sw,El Arish
+7198949,93493,sw,Elaine
+7199103,93495,sw,Einasleigh
+7199334,93498,sw,Eildon
+7199411,93499,sw,Eidsvold
+7199719,93503,sw,Eganstown
+7199873,93505,sw,Edi Upper
+7199950,93506,sw,Edith Creek
+7200027,93507,sw,Edith
+7200104,93508,sw,Edi
+7200181,93509,sw,Edgeroi
+7200335,93511,sw,Edgecombe
+7200412,93512,sw,Edenhope
+7200489,93513,sw,Edeni
+7200566,93514,sw,Eddington
+7200643,93515,sw,Ecklin South
+7200720,93516,sw,Echuca Village
+7200797,93517,sw,Echuca
+7200951,93519,sw,Ebor
+7201028,93520,sw,Ebden
+7201182,93522,sw,Eatonsville
+7201567,93527,sw,East Kangaloon
+7202106,93534,sw,Earlston
+7202183,93535,sw,Eagle Point
+7202337,93537,sw,Eaglehawk Neck
+7202414,93538,sw,Dysart
+7202799,93543,sw,Durras
+7202876,93544,sw,Durong
+7203030,93546,sw,Duri
+7203107,93547,sw,Durham Ox
+7203492,93552,sw,Dunorlan
+7203569,93553,sw,Dunoon
+7203646,93554,sw,Dunolly
+7203723,93555,sw,Dunnstown
+7204108,93560,sw,Dunkeld
+7204339,93563,sw,Dungowan
+7204416,93564,sw,Dungog
+7204493,93565,sw,Dungarubba
+7204647,93567,sw,Dunedoo
+7204724,93568,sw,Dundurrabin
+7204878,93570,sw,Dundee
+7205032,93572,sw,Dundas
+7205263,93575,sw,Duncans Creek
+7205417,93577,sw,Dunbogan
+7205571,93579,sw,Dunalley
+7205648,93580,sw,Dunach
+7205802,93582,sw,Dum Dum
+7205956,93584,sw,Dumbalk North
+7206033,93585,sw,Dumbalk
+7206110,93586,sw,Dumaresq
+7206264,93588,sw,Dululu
+7206649,93593,sw,Dulacca
+7206726,93594,sw,Dugandan
+7206880,93596,sw,Dudley Kusini
+7207111,93599,sw,Ducklo
+7207265,93601,sw,Dubbo
+7207342,93602,sw,Duaringa
+7207419,93603,sw,Drysdale
+7207727,93607,sw,Drummond
+7207958,93610,sw,Drumborg
+7208112,93612,sw,Drouin West
+7208266,93614,sw,Drouin
+7208497,93617,sw,Dromedary
+7208574,93618,sw,Dripstone
+7208651,93619,sw,Drinan
+7208728,93620,sw,Drillham
+7208959,93623,sw,Dreeite
+7209113,93625,sw,Drake
+7209267,93627,sw,Dows Creek
+7209344,93628,sw,Downsfield
+7209421,93629,sw,Dover
+7209498,93630,sw,Hifadhi ya Douglas
+7209575,93631,sw,Douglas
+7209652,93632,sw,Doubtful Creek
+7209729,93633,sw,Dorroughby
+7209806,93634,sw,Dorrigo
+7210037,93637,sw,Doon Doon
+7210191,93639,sw,Dookie
+7210268,93640,sw,Dooen
+7210576,93644,sw,Donald
+7210884,93648,sw,Dollar
+7211115,93651,sw,Docker
+7211192,93652,sw,Dobies Bight
+7211423,93655,sw,Djuan
+7211577,93657,sw,Dixie
+7211654,93658,sw,Dixalea
+7211731,93659,sw,Dittmer
+7211962,93662,sw,Dirranbandi
+7212116,93664,sw,Dinoga
+7212270,93666,sw,Dingwall
+7212424,93668,sw,Dingo
+7212501,93669,sw,Dingee
+7212578,93670,sw,Dimbulah
+7212655,93671,sw,Dimboola
+7213040,93676,sw,Dignams Creek
+7213194,93678,sw,Digby
+7213271,93679,sw,Didcot
+7213502,93682,sw,Devonport
+7213733,93685,sw,Deviot
+7213964,93688,sw,Devereux Creek
+7214041,93689,sw,Devenish
+7214118,93690,sw,Deuchar
+7214426,93694,sw,Derwent
+7214580,93696,sw,Derrinallum
+7214657,93697,sw,Derrinal
+7214888,93700,sw,Dereel
+7214965,93701,sw,Derby
+7215196,93704,sw,Denver
+7215273,93705,sw,Dennington
+7215350,93706,sw,Dennes Point
+7215427,93707,sw,Denman
+7215504,93708,sw,Denison
+7215658,93710,sw,Deniliquin
+7215812,93712,sw,Delungra
+7215966,93714,sw,Deloraine
+7216197,93717,sw,Delegate
+7216428,93720,sw,Degilbo
+7216505,93721,sw,Deer Vale
+7216659,93723,sw,Deepwater
+7216736,93724,sw,Deep Lead
+7217044,93728,sw,Dederang
+7217121,93729,sw,Deddington
+7217198,93730,sw,Deans Marsh
+7217275,93731,sw,Dean
+7217506,93734,sw,Daysdale
+7217660,93736,sw,Daylesford
+7217737,93737,sw,Dayboro
+7218045,93741,sw,Dartmouth
+7218199,93743,sw,Dartmoor
+7218430,93746,sw,Darraweith Guim
+7218584,93748,sw,Daroobalgie
+7218661,93749,sw,Darnum
+7218738,93750,sw,Darlington Point
+7218815,93751,sw,Darlington
+7219200,93756,sw,Dargo
+7219354,93758,sw,Dareton
+7219585,93761,sw,Darbalara
+7219739,93763,sw,Daradgee
+7220509,93773,sw,Danbulla
+7220586,93774,sw,Dalyston
+7220663,93775,sw,Dalysford
+7220817,93777,sw,Dalveen
+7220894,93778,sw,Dalton
+7221356,93784,sw,Dallarnil
+7221587,93787,sw,Dalgety
+7221741,93789,sw,Dalby
+7221895,93791,sw,Daisy Hill
+7222049,93793,sw,Daintree
+7222126,93794,sw,Dagun
+7222203,93795,sw,Dadswells Bridge
+7222511,93799,sw,Cygnet
+7222896,93804,sw,Currowan
+7222973,93805,sw,Currie
+7223281,93809,sw,Currawang
+7223358,93810,sw,Currarong
+7223512,93812,sw,Curra Creek
+7223589,93813,sw,Currabubula
+7223666,93814,sw,Curra
+7223743,93815,sw,Curlewis
+7223820,93816,sw,Curlewis
+7223897,93817,sw,Curdie Vale
+7224051,93819,sw,Curban
+7224205,93821,sw,Cunningham
+7224282,93822,sw,Cunnamulla
+7224513,93825,sw,Cumnock
+7224667,93827,sw,Cumborah
+7224821,93829,sw,Cumbalum
+7225206,93834,sw,Cullen Bullen
+7225514,93838,sw,Culgoa
+7225591,93839,sw,Culcairn
+7225899,93843,sw,Cudgewa
+7225976,93844,sw,Cudgera Creek
+7226053,93845,sw,Cu GJong
+7226130,93846,sw,Cudgee
+7226284,93848,sw,Cudal
+7226592,93852,sw,Crudine
+7226669,93853,sw,Croydon
+7226746,93854,sw,Croxton East
+7226900,93856,sw,Crowther
+7226977,93857,sw,Kiota cha Kunguru
+7227131,93859,sw,Crowlands
+7227285,93861,sw,Crossover
+7227362,93862,sw,Crossley
+7227439,93863,sw,Croppa Creek
+7227516,93864,sw,Crookwell
+7227670,93866,sw,Crooble
+7227901,93869,sw,Croftby
+7228132,93872,sw,Creswick
+7228209,93873,sw,Cressy
+7228286,93874,sw,Cressy
+7228363,93875,sw,Crescent Head
+7228440,93876,sw,Creighton Creek
+7228748,93880,sw,Crawford
+7228902,93882,sw,Craven
+7229056,93884,sw,Cranbrook
+7229441,93889,sw,Cradoc
+7229518,93890,sw,Cracow
+7229672,93892,sw,Crabbes Creek
+7229749,93893,sw,Cowwarr
+7229903,93895,sw,Cowra
+7229980,93896,sw,Cowper
+7230288,93900,sw,Cowes
+7230442,93902,sw,Coutts Crossing
+7230519,93903,sw,Couridjah
+7230673,93905,sw,Courabyra
+7230904,93908,sw,Cottonvale
+7231212,93912,sw,Costerfield
+7231289,93913,sw,Cosgrove
+7231366,93914,sw,Corunna
+7231443,93915,sw,Oryu-dong
+7231597,93917,sw,Corowa
+7231674,93918,sw,Cororooke
+7231751,93919,sw,Corop
+7231905,93921,sw,Corobimilla
+7231982,93922,sw,Cornwall
+7232213,93925,sw,Corndale
+7232367,93927,sw,Corinella
+7232444,93928,sw,Corindi
+7232521,93929,sw,Corindhap
+7232598,93930,sw,Corfield
+7232752,93932,sw,Corella
+7232906,93934,sw,Corerepe
+7233060,93936,sw,Cordelia
+7233137,93937,sw,Cordalba
+7233291,93939,sw,Coramba
+7233368,93940,sw,Coral Ville
+7233445,93941,sw,Coraki
+7233522,93942,sw,Coragulac
+7233830,93946,sw,Copping
+7233984,93948,sw,Copmanhurst
+7234061,93949,sw,Copeton
+7234292,93952,sw,Cooyar
+7234369,93953,sw,Cooyal
+7234446,93954,sw,Coowonga
+7234523,93955,sw,Cootralantra
+7234600,93956,sw,Cootamundra
+7234985,93961,sw,Coopers Shoot
+7235216,93964,sw,Coopernook
+7235293,93965,sw,Cooperabung
+7235678,93970,sw,Tomondo
+7235755,93971,sw,Coonawarra
+7235832,93972,sw,Coonamble
+7235909,93973,sw,Coonabarabran
+7235986,93974,sw,Coominya
+7236217,93977,sw,Cooma
+7236294,93978,sw,Cooma
+7236371,93979,sw,Coolringdon
+7236525,93981,sw,Coolongolook
+7236756,93984,sw,Coolbie
+7236833,93985,sw,Coolatai
+7236910,93986,sw,Coolangatta
+7236987,93987,sw,Coolamon
+7237141,93989,sw,Coolah
+7237295,93991,sw,Coolac
+7237372,93992,sw,Coolabunia
+7237449,93993,sw,Coolabah
+7237526,93994,sw,Cooktown
+7237603,93995,sw,Cookardinia
+7237680,93996,sw,Cookamidgera
+7238142,94002,sw,Connewarre
+7238219,94003,sw,Connells Point
+7238373,94005,sw,Conmurra
+7238681,94009,sw,Congupna
+7238912,94012,sw,Condobolin
+7238989,94013,sw,Condamine
+7239066,94014,sw,Condah
+7239143,94015,sw,Conargo
+7239374,94018,sw,Compton
+7239451,94019,sw,Comobella
+7239528,94020,sw,Commissioners Creek
+7239682,94022,sw,Comet
+7239759,94023,sw,Come By Chance
+7239836,94024,sw,Comboyne
+7239990,94026,sw,Combara
+7240067,94027,sw,Combaning
+7240298,94030,sw,Columboola
+7240452,94032,sw,Colo Vale
+7240529,94033,sw,Colosseum
+7240760,94036,sw,Collinsville
+7240914,94038,sw,Collie
+7240991,94039,sw,Collerina
+7241145,94041,sw,Collector
+7241222,94042,sw,Collarenebri
+7241299,94043,sw,Colinton
+7241376,94044,sw,Colinton
+7241453,94045,sw,Colinroobie
+7241530,94046,sw,Colignan
+7241761,94049,sw,Coles Bay
+7241838,94050,sw,Coleraine
+7241915,94051,sw,Colebrook
+7241992,94052,sw,Coldstream
+7242146,94054,sw,Colbinabbin
+7242223,94055,sw,Colac
+7242300,94056,sw,Coimadai
+7242454,94058,sw,Cohuna
+7242531,94059,sw,Coghills Creek
+7242608,94060,sw,Coffs Harbour
+7242685,94061,sw,Coffee Camp
+7242762,94062,sw,Coen
+7242916,94064,sw,Codrington
+7243224,94068,sw,Cockburn
+7243455,94071,sw,Cobungra
+7243532,94072,sw,Cobrico
+7243609,94073,sw,Cobram
+7243686,94074,sw,Cobdogla
+7243763,94075,sw,Cobden
+7244071,94079,sw,Cobbadah
+7244148,94080,sw,Cobaw
+7244302,94082,sw,Cobargo
+7244379,94083,sw,Cobar
+7244456,94084,sw,Cobains
+7244533,94085,sw,Coalville
+7244610,94086,sw,Coalstoun Lakes
+7244687,94087,sw,Coaldale
+7244841,94089,sw,Clydesdale
+7244918,94090,sw,Clydebank
+7244995,94091,sw,Clybucca
+7245072,94092,sw,Clunes
+7245149,94093,sw,Clunes
+7245226,94094,sw,Clumber
+7245380,94096,sw,Cloyna
+7245534,94098,sw,Cloverlea
+7245842,94102,sw,Cloncurry
+7245996,94104,sw,Clintonvale
+7246227,94107,sw,Clifton
+7246612,94112,sw,Clermont
+7246689,94113,sw,Clergate
+7246843,94115,sw,Clear Lake
+7247228,94120,sw,Claude Road
+7247305,94121,sw,Clarkes Hill
+7247536,94124,sw,Clarendon
+7247613,94125,sw,Clarence Town
+7247767,94127,sw,Clare
+7247921,94129,sw,Clandulla
+7248075,94131,sw,Clairview
+7248152,94132,sw,Wollongong
+7248229,94133,sw,Cinnabar
+7248460,94136,sw,Chudleigh
+7248614,94138,sw,Christmas Hills
+7249076,94144,sw,Chinchilla
+7249230,94146,sw,Chiltern Valley
+7249307,94147,sw,Chiltern
+7249538,94150,sw,Childers
+7249615,94151,sw,Childers
+7250077,94157,sw,Chetwynd
+7250154,94158,sw,Cheshunt
+7250231,94159,sw,Cherry Tree Hill
+7250539,94163,sw,Chepstowe
+7250770,94166,sw,Kisiwa cha Chatsworth
+7250847,94167,sw,Chatsbury
+7251001,94169,sw,Charters Towers
+7251155,94171,sw,Charlwood
+7251232,94172,sw,Charlton
+7251309,94173,sw,Charlotte Bay
+7251463,94175,sw,Charleville
+7251540,94176,sw,Charbon
+7251848,94180,sw,Chambigne
+7252002,94182,sw,Chakola
+7252233,94185,sw,Cessnock
+7252310,94186,sw,Ceres
+7252464,94188,sw,Tilba ya kati
+7252772,94192,sw,Cedar Point
+7252926,94194,sw,Cecil Plains
+7253003,94195,sw,Cawongla
+7253080,94196,sw,Cawdor
+7253234,94198,sw,Caveside
+7253311,94199,sw,Cavendish
+7253696,94204,sw,Cathcart
+7253927,94207,sw,Castlemaine
+7254004,94208,sw,Castle Doyle
+7254158,94210,sw,Casterton
+7254235,94211,sw,Castella
+7254312,94212,sw,Cassowary
+7254466,94214,sw,Cassilis
+7254620,94216,sw,Casino
+7254697,94217,sw,Cashmore
+7254851,94219,sw,Carwarp
+7254928,94220,sw,Carstairs
+7255082,94222,sw,Carruchan
+7255159,94223,sw,Carrs Creek Junction
+7255467,94227,sw,Carroll
+7255621,94229,sw,Carrick
+7255698,94230,sw,Carrick
+7255775,94231,sw,Carrathool
+7256083,94235,sw,Carrajung Lower
+7256160,94236,sw,Carrajung
+7256237,94237,sw,Carpendeit
+7256314,94238,sw,Caroona
+7256391,94239,sw,Carool
+7256622,94242,sw,Carngham
+7256776,94244,sw,Carmila
+7256930,94246,sw,Carlsruhe
+7257007,94247,sw,Carlisle River
+7257084,94248,sw,Carisbrook
+7257161,94249,sw,Carinda
+7257315,94251,sw,Cargo
+7257469,94253,sw,Cardwell
+7257546,94254,sw,Carcoar
+7257700,94256,sw,Carboor
+7257854,94258,sw,Carapook
+7257931,94259,sw,Carapooee
+7258008,94260,sw,Caramut
+7258162,94262,sw,Carag Carag
+7258239,94263,sw,Caragabal
+7258316,94264,sw,Carabost
+7258393,94265,sw,Captains Flat
+7258547,94267,sw,Capertee
+7258855,94271,sw,Capella
+7259009,94273,sw,Cape Clear
+7259163,94275,sw,Cape Bridgewater
+7259240,94276,sw,Cape Barren Island
+7259471,94279,sw,Canungra
+7259625,94281,sw,Canowindra
+7259933,94285,sw,Cann River
+7260087,94287,sw,Cannonvale
+7260318,94290,sw,Cannawigara
+7260472,94292,sw,Cania
+7260626,94294,sw,Candelo
+7260703,94295,sw,Canberra
+7261165,94301,sw,Camperdown
+7261396,94304,sw,Campbell Town
+7261473,94305,sw,Campbelltown
+7261550,94306,sw,Campbelltown
+7262012,94312,sw,Campania
+7262243,94315,sw,Camerons Pocket
+7262397,94317,sw,Cameby
+7262474,94318,sw,Cambrian Hill
+7262551,94319,sw,Cambooya
+7262705,94321,sw,Camboon
+7262782,94322,sw,Camberwell
+7262859,94323,sw,Cambewarra
+7263013,94325,sw,Calulu
+7263244,94328,sw,Caloola
+7263321,94329,sw,Calliope
+7263552,94332,sw,Callignee
+7263629,94333,sw,Callide
+7264091,94339,sw,Calivil
+7264322,94342,sw,Calen
+7264476,94344,sw,Calarie
+7264553,94345,sw,Cairns
+7264630,94346,sw,Kafey
+7265092,94352,sw,Cabarlah
+7265323,94355,sw,Bywong
+7265400,94356,sw,Byron Bay
+7265554,94358,sw,Byrock
+7265785,94361,sw,Byrneside
+7266016,94364,sw,Bylands
+7266478,94370,sw,Byaduk North
+7266555,94371,sw,Byaduk
+7266632,94372,sw,Yabarak
+7266709,94373,sw,Buxton
+7266786,94374,sw,Buxton
+7266863,94375,sw,Buxton
+7267094,94378,sw,Butchers Creek
+7267248,94380,sw,Bushy Park
+7267402,94382,sw,Bushfield
+7267556,94384,sw,Burua
+7267633,94385,sw,Burrungule
+7267787,94387,sw,Burrumbuttock
+7267941,94389,sw,Burrumbeet
+7268480,94396,sw,Burren Junction
+7268634,94398,sw,Burrawang
+7268711,94399,sw,Burrapine
+7269019,94403,sw,Burragate
+7269096,94404,sw,Burraga
+7269173,94405,sw,Burradoo
+7269327,94407,sw,Burnt Bridge
+7269558,94410,sw,Burnie
+7269635,94411,sw,Burnett Heads
+7269789,94413,sw,Burncluith
+7269866,94414,sw,Burnbank
+7270251,94419,sw,Burdett
+7270328,94420,sw,Burcher
+7270636,94424,sw,Bunnan
+7270713,94425,sw,Bunnaloo
+7270944,94428,sw,Bungwahl
+7271021,94429,sw,Bungunya
+7271175,94431,sw,Bungowannah
+7271252,94432,sw,Bungonia
+7271406,94434,sw,Bungeworgorai
+7271483,94435,sw,Bungendore
+7271714,94438,sw,Bung Bong
+7271791,94439,sw,Bungawalbin
+7271945,94441,sw,Bungaree
+7272099,94443,sw,Bungalally
+7272176,94444,sw,Bungadoo
+7272407,94447,sw,Bundook
+7272484,94448,sw,Bunding
+7272638,94450,sw,Bundella
+7272715,94451,sw,Bundarra
+7272792,94452,sw,Bundanoon
+7273023,94455,sw,Bundalong
+7273100,94456,sw,Bundalaguah
+7273254,94458,sw,Bundaberg
+7273331,94459,sw,Bunburra
+7273408,94460,sw,Bunbartha
+7273562,94462,sw,Bumberrah
+7273639,94463,sw,Bumbaldry
+7273716,94464,sw,Buln Buln East
+7273793,94465,sw,Buln Buln
+7273870,94466,sw,Bullyard
+7274255,94471,sw,Bullioh
+7274486,94474,sw,Bullengarook
+7274717,94477,sw,Bullawa Creek
+7274794,94478,sw,Bullarto
+7274871,94479,sw,Bullarook
+7275333,94485,sw,Bulga
+7275487,94487,sw,Bulart
+7275564,94488,sw,Bulahdelah
+7275641,94489,sw,Bukkulla
+7275949,94493,sw,Bugaldie
+7276026,94494,sw,Buffalo River
+7276103,94495,sw,Nyati
+7276334,94498,sw,Buekruece
+7276411,94499,sw,Budgee Budgee
+7276642,94502,sw,Buckrabanyule
+7276796,94504,sw,Buckley
+7276950,94506,sw,Buckland
+7277258,94510,sw,Buckaroo
+7277335,94511,sw,Buckajo
+7277489,94513,sw,Buchan South
+7277643,94515,sw,Buchan
+7277874,94518,sw,Bucca
+7278028,94520,sw,Buaraba
+7278105,94521,sw,Buangor
+7278336,94524,sw,Bruthen
+7278490,94526,sw,Brushgrove
+7278567,94527,sw,Brunswick Heads
+7278644,94528,sw,Brungle
+7278952,94532,sw,Brucknell
+7279106,94534,sw,Bruarong
+7279183,94535,sw,Broxburn
+7279260,94536,sw,Browns Plains
+7279337,94537,sw,Brownlow Hill
+7279414,94538,sw,Broulee
+7279645,94541,sw,Broughton
+7279722,94542,sw,Broughton
+7279876,94544,sw,Brooweena
+7279953,94545,sw,Broomfield
+7280107,94547,sw,Brooloo
+7280261,94549,sw,Brookstead
+7280492,94552,sw,Brooklyn
+7280569,94553,sw,Brooklet
+7280723,94555,sw,Brookfield
+7281031,94559,sw,Bromley
+7281185,94561,sw,Bromelton
+7281262,94562,sw,Brombin
+7281416,94564,sw,Broken Hill
+7281493,94565,sw,Broke
+7281570,94566,sw,Brogo
+7281801,94569,sw,Brodies Plains
+7281955,94571,sw,Brocklesby
+7282032,94572,sw,Brocklehurst
+7282109,94573,sw,Maji mapana
+7282186,94574,sw,Maji mapana
+7282417,94577,sw,Broadmarsh
+7282494,94578,sw,Broadford
+7282725,94581,sw,Brisbane
+7283110,94586,sw,Brimpaen
+7283187,94587,sw,Brimin
+7283341,94589,sw,Brim
+7283418,94590,sw,Brightview
+7283495,94591,sw,Bright
+7283649,94593,sw,Brigalow
+7283726,94594,sw,Brierfield
+7283803,94595,sw,Bridport
+7283880,94596,sw,Bridgman
+7283957,94597,sw,Bridgewater
+7284034,94598,sw,Bridgenorth
+7284188,94600,sw,Bribbaree
+7284265,94601,sw,Briagolong
+7284419,94603,sw,Brewongle
+7284573,94605,sw,Brewarrina
+7284727,94607,sw,Breeza
+7284804,94608,sw,Breelong
+7284881,94609,sw,Bredbo
+7284958,94610,sw,Bream Creek
+7285266,94614,sw,Breadalbane
+7285343,94615,sw,Breadalbane
+7285420,94616,sw,Brays Creek
+7285574,94618,sw,Braunstone
+7285728,94620,sw,Branxholme
+7285805,94621,sw,Branxholm
+7285959,94623,sw,Brandy Creek
+7286113,94625,sw,Brandon
+7286190,94626,sw,Braidwood
+7286421,94629,sw,Bradvale
+7286652,94632,sw,Bracknell
+7286729,94633,sw,Bracewell
+7286883,94635,sw,Boyneside
+7286960,94636,sw,Boyne Island
+7287037,94637,sw,Boynedale
+7287114,94638,sw,Boyland
+7287268,94640,sw,Boyd Town
+7287730,94646,sw,Bowraville
+7287807,94647,sw,Bowral
+7287961,94649,sw,Bowning
+7288500,94656,sw,Bowenville
+7288577,94657,sw,Bowenvale
+7288731,94659,sw,Bowen
+7288808,94660,sw,Bowan Park
+7289039,94663,sw,Bourke
+7289116,94664,sw,Boundary Bend
+7289270,94666,sw,Bothwell
+7289347,94667,sw,Bostocks Creek
+7289424,94668,sw,Borung
+7289578,94670,sw,Bororen
+7289655,94671,sw,Boro
+7289732,94672,sw,Borenore
+7289809,94673,sw,Boree Creek
+7289886,94674,sw,Bordertown
+7290271,94679,sw,Boralma
+7290425,94681,sw,Booyong
+7290502,94682,sw,Booyal
+7290964,94688,sw,Bootawa
+7291041,94689,sw,Boosey Kusini
+7291195,94691,sw,Boort
+7291272,94692,sw,Boorowa
+7291503,94695,sw,Booroolite
+7291580,94696,sw,Boorolong
+7291734,94698,sw,Boorhaman
+7291888,94700,sw,Borani
+7291965,94701,sw,Booral
+7292042,94702,sw,Boonooroo
+7292504,94708,sw,Boondooma
+7292889,94713,sw,Boonah
+7292966,94714,sw,Boompa
+7293197,94717,sw,Boomi
+7293351,94719,sw,Boomanoomana
+7294044,94728,sw,Boolarra South
+7294121,94729,sw,Boolarra
+7294275,94731,sw,Boolambayte
+7294352,94732,sw,Bookham
+7294506,94734,sw,Bohodukhivka
+7294583,94735,sw,Bony Mountain
+7294660,94736,sw,Bonville
+7294737,94737,sw,Bonshaw
+7294814,94738,sw,Bonnie Doon
+7294968,94740,sw,Bongeen
+7295045,94741,sw,Bonegilla
+7295430,94746,sw,Bonalbo
+7295584,94748,sw,Bombala
+7295815,94751,sw,Bolwarra
+7296123,94755,sw,Bollon
+7296200,94756,sw,Bolivia
+7296277,94757,sw,Bolinda
+7296508,94760,sw,Boisdale
+7296739,94763,sw,Boho South
+7296816,94764,sw,Boho
+7296970,94766,sw,Bohena Creek
+7297047,94767,sw,Bohena
+7297355,94771,sw,Boggabri
+7297432,94772,sw,Boggabilla
+7297586,94774,sw,Bogan Gate
+7297740,94776,sw,Bodangora
+7297817,94777,sw,Bodalla
+7297894,94778,sw,Bochara
+7298048,94780,sw,Bobinawarrah
+7298356,94784,sw,Boat Harbour
+7298587,94787,sw,Blythdale
+7298741,94789,sw,Bluff
+7298818,94790,sw,Mlima wa Bluu
+7298895,94791,sw,Knobo ya Bluu
+7298972,94792,sw,Blowhard
+7299280,94796,sw,Bloomsbury
+7299434,94798,sw,Blighty
+7299511,94799,sw,Blessington
+7299588,94800,sw,Blenheim
+7299665,94801,sw,Blayney
+7299973,94805,sw,Blantyre
+7300127,94807,sw,Blandford
+7300204,94808,sw,Bland
+7300281,94809,sw,Blanchview
+7300358,94810,sw,Blampied
+7300512,94812,sw,Blakebrook
+7300743,94815,sw,Blair Athol
+7300974,94818,sw,Blackwood Creek
+7301051,94819,sw,Blackwood
+7301128,94820,sw,Blackwater
+7301282,94822,sw,Blackville
+7301436,94824,sw,Black Springs
+7301513,94825,sw,Black Springs
+7301590,94826,sw,Black River
+7301744,94828,sw,Black Mountain
+7301898,94830,sw,Blackmans Point
+7302052,94832,sw,Black Hills
+7302129,94833,sw,Blackheath
+7302437,94837,sw,Blackbutt
+7302514,94838,sw,Blackall
+7302668,94840,sw,Bishopsbourne
+7302976,94844,sw,Birregurra
+7303130,94846,sw,Birralee
+7303438,94850,sw,Birchip
+7303515,94851,sw,Binya
+7303592,94852,sw,Binnum
+7303669,94853,sw,Binnaway
+7303746,94854,sw,Binna Burra
+7303823,94855,sw,Binjour
+7303900,94856,sw,Biniguy
+7303977,94857,sw,Binginwarri
+7304285,94861,sw,Bingara
+7304516,94864,sw,Bindi
+7304593,94865,sw,Binda
+7304747,94867,sw,Binalong
+7304824,94868,sw,Bimbi
+7304978,94870,sw,Bilyana
+7305055,94871,sw,Bilpin
+7305132,94872,sw,Biloela
+7305209,94873,sw,Billinudgel
+7305286,94874,sw,Billimari
+7305594,94878,sw,Biggenden
+7305671,94879,sw,Biggara
+7305748,94880,sw,Bigga
+7305902,94882,sw,Biddon
+7305979,94883,sw,Biddeston
+7306133,94885,sw,Bicheno
+7306210,94886,sw,Biboohra
+7306287,94887,sw,Bibbenluke
+7306364,94888,sw,Biala
+7306518,94890,sw,Bexhill
+7306749,94893,sw,Beula
+7306826,94894,sw,Beula
+7306980,94896,sw,Betley
+7307057,94897,sw,Bethungra
+7307134,94898,sw,Bethanga
+7307211,94899,sw,Bet Bet
+7307288,94900,sw,Bessiebelle
+7307365,94901,sw,Beryl
+7307519,94903,sw,Berrys Creek
+7307827,94907,sw,Berry
+7307904,94908,sw,Berriwillock
+7308058,94910,sw,Berringa
+7308212,94912,sw,Berrima
+7308289,94913,sw,Berrigan
+7308366,94914,sw,Berridale
+7308443,94915,sw,Beri
+7308597,94917,sw,Berremangra
+7308828,94920,sw,Bermagui
+7308905,94921,sw,Bergalia
+7309136,94924,sw,Beremboke
+7309213,94925,sw,Berat
+7309367,94927,sw,Berajondo
+7309444,94928,sw,Bentley
+7309675,94931,sw,Ben Lomond
+7309752,94932,sw,Benloch
+7309983,94935,sw,Benholme
+7310060,94936,sw,Bengworden
+7310214,94938,sw,Bendoura
+7310291,94939,sw,Bendolba
+7310368,94940,sw,Bendoc
+7310445,94941,sw,Bendigo
+7310522,94942,sw,Bendick Murrell
+7310753,94945,sw,Bendemeer
+7310907,94947,sw,Benayeo
+7310984,94948,sw,Benarkin
+7311061,94949,sw,Benaraby
+7311215,94951,sw,Benandarah
+7311292,94952,sw,Benambra
+7311369,94953,sw,Benalla
+7311446,94954,sw,Bena
+7311600,94956,sw,Bemerside
+7311677,94957,sw,Bemboka
+7311985,94961,sw,Bellingham
+7312062,94962,sw,Bellingen
+7312139,94963,sw,Bellimbopinni
+7312447,94967,sw,Bellbrook
+7312524,94968,sw,Bellbrae
+7312832,94972,sw,Bellata
+7312986,94974,sw,Bellarine
+7313063,94975,sw,Bellangry
+7313140,94976,sw,Kengele
+7313217,94977,sw,Belgravia
+7313294,94978,sw,Belford
+7313756,94984,sw,Beggan Beggan
+7313833,94985,sw,Bega
+7314064,94988,sw,Beechworth
+7314141,94989,sw,Beechwood
+7314218,94990,sw,Beechmont
+7314295,94991,sw,Beech Forest
+7314372,94992,sw,Beecher
+7314449,94993,sw,Beebo
+7314526,94994,sw,Bekeagac
+7314603,94995,sw,Bedgerebong
+7314680,94996,sw,Bective
+7314757,94997,sw,Beckom
+7314911,94999,sw,Beauty Point
+7315065,95001,sw,Beaufort
+7315142,95002,sw,Beaudesert
+7315527,95007,sw,Bealiba
+7315604,95008,sw,Beaconsfield
+7315681,95009,sw,Beachport
+7315758,95010,sw,Baynton
+7315912,95012,sw,Baw Baw
+7315989,95013,sw,Bauple
+7316143,95015,sw,Batlow
+7316220,95016,sw,Bathurst
+7316297,95017,sw,Bathumi
+7316374,95018,sw,Batesford
+7316451,95019,sw,Batemans Bay
+7316682,95022,sw,Bass
+7316759,95023,sw,Baryulgil
+7316836,95024,sw,Barwon Heads
+7316913,95025,sw,Barwon Downs
+7317067,95027,sw,Barwite
+7317144,95028,sw,Bartle Frere
+7317298,95030,sw,Barry
+7317529,95033,sw,Barrington
+7317606,95034,sw,Barrington
+7318145,95041,sw,Barraganyatti
+7318222,95042,sw,Barraba
+7318299,95043,sw,Barooga
+7318376,95044,sw,Barongarook
+7318530,95046,sw,Barney View
+7318684,95048,sw,Barnawartha
+7318915,95051,sw,Barmera
+7318992,95052,sw,Barmedman
+7319146,95054,sw,Bayt Jabir
+7319454,95058,sw,Barkers Vale
+7319531,95059,sw,Barkers Creek
+7319685,95061,sw,Baringhup
+7319839,95063,sw,Barham
+7319916,95064,sw,Bargo
+7320070,95066,sw,Barfold
+7320224,95068,sw,Barellan
+7320301,95069,sw,Baree
+7320455,95071,sw,Barcaldine
+7320609,95073,sw,Baranduda
+7320686,95074,sw,Baralaba
+7320840,95076,sw,Baradine
+7320917,95077,sw,Bapaume
+7321225,95081,sw,Bannockburn
+7321379,95083,sw,Bannister
+7321456,95084,sw,Bannerton
+7321764,95088,sw,Bangerang
+7321918,95090,sw,Bangalow
+7322149,95093,sw,Bancroft
+7322303,95095,sw,Ndizi
+7322534,95098,sw,Bambra
+7322611,95099,sw,Bambaroo
+7322688,95100,sw,Bamawm Extension
+7322765,95101,sw,Bamawm
+7322919,95103,sw,Bamaga
+7323073,95105,sw,Balranald
+7323227,95107,sw,Balmoral
+7323304,95108,sw,Balmoral Village
+7323535,95111,sw,Balmattum
+7323612,95112,sw,Ballyrogan
+7323766,95114,sw,Ballina
+7323843,95115,sw,Ballimore
+7323920,95116,sw,Balliang East
+7323997,95117,sw,Balliang
+7324074,95118,sw,Ballengarra
+7324151,95119,sw,Ballendella
+7324228,95120,sw,Balldale
+7324305,95121,sw,Ballarat
+7324459,95123,sw,Ballangeich
+7324536,95124,sw,Ballandean
+7324613,95125,sw,Ballan
+7324767,95127,sw,Balladoran
+7325075,95131,sw,Baldry
+7325306,95134,sw,Bald Hills
+7325537,95137,sw,Baldersleigh
+7325691,95139,sw,Baking Board
+7325768,95140,sw,Bakers Swamp
+7325845,95141,sw,Bakers Creek
+7325999,95143,sw,Bajool
+7326076,95144,sw,Bairnsdale
+7326230,95146,sw,Bailieston
+7326384,95148,sw,Bagshot
+7326461,95149,sw,Bagotville
+7326692,95152,sw,Bagdad
+7326769,95153,sw,Baffle Creek
+7326923,95155,sw,Baerami
+7327308,95160,sw,Baddaginnie
+7327462,95162,sw,Back Plains
+7327539,95163,sw,Backmede
+7327770,95166,sw,Bacchus Marsh
+7327847,95167,sw,Babinda
+7328001,95169,sw,Baan Baa
+7328155,95171,sw,Ayr
+7328232,95172,sw,Aylmerton
+7328309,95173,sw,Axedale
+7328694,95178,sw,Avondale
+7328771,95179,sw,Avoca
+7328925,95181,sw,\N
+7329002,95182,sw,Avenel
+7329156,95184,sw,Austral Eden
+7329464,95188,sw,Augathella
+7329541,95189,sw,Auburn Vale
+7329695,95191,sw,Aubigny
+7329772,95192,sw,Atholwood
+7330003,95195,sw,Athlone
+7330080,95196,sw,Atherton
+7330157,95197,sw,Ashley
+7330234,95198,sw,Ashford
+7330388,95200,sw,Ashby
+7330542,95202,sw,Ascot
+7330773,95205,sw,Arthurs Seat
+7330850,95206,sw,Arthurs Creek
+7331081,95209,sw,Arnold
+7331312,95212,sw,Armstrong
+7331389,95213,sw,Armidale
+7331466,95214,sw,Armatree
+7331620,95216,sw,Ariah Park
+7331697,95217,sw,Argyle
+7331851,95219,sw,Argoon
+7331928,95220,sw,Argents Hill
+7332236,95224,sw,Ardmona
+7332313,95225,sw,Ardlethan
+7332390,95226,sw,Arding
+7332467,95227,sw,Ardglen
+7332852,95232,sw,Arcadia
+7332929,95233,sw,Arawata
+7333006,95234,sw,Aratula
+7333083,95235,sw,Ararati
+7333237,95237,sw,Aramara
+7333314,95238,sw,Aramac
+7333391,95239,sw,Araluen
+7333468,95240,sw,Arakoon
+7333930,95246,sw,Apsley
+7334007,95247,sw,Apsley
+7334161,95249,sw,Apple Tree Creek
+7334238,95250,sw,Applethorpe
+7334546,95254,sw,Appin
+7334623,95255,sw,Apollo Bay
+7334777,95257,sw,Antwerp
+7335008,95260,sw,Antigua
+7335085,95261,sw,Anthony
+7335393,95265,sw,Anglesea
+7335547,95267,sw,Angledale
+7335778,95270,sw,Anduramba
+7335932,95272,sw,Ami
+7336086,95274,sw,Ancona
+7336163,95275,sw,Anakie
+7336317,95277,sw,Amphitheatre
+7336548,95280,sw,Amiens
+7336702,95282,sw,Amherst
+7336779,95283,sw,Amby
+7336856,95284,sw,Ambrose
+7337010,95286,sw,Amamoor
+7337087,95287,sw,Alvir
+7337164,95288,sw,Alva
+7337241,95289,sw,Alumy Creek
+7337472,95292,sw,Alstonville
+7337626,95294,sw,Alpine
+7337703,95295,sw,Alpha
+7337780,95296,sw,Aloomba
+7337857,95297,sw,Alonnah
+7338011,95299,sw,Almurta
+7338165,95301,sw,Almaden
+7338319,95303,sw,Alma
+7338396,95304,sw,Allworth
+7338473,95305,sw,Allora
+7338550,95306,sw,Alligator Creek
+7338627,95307,sw,Allestree
+7338704,95308,sw,Allendale East
+7338781,95309,sw,Allendale
+7338858,95310,sw,Alleena
+7338935,95311,sw,Allansford
+7339012,95312,sw,Allans Flat
+7339243,95315,sw,Allan
+7339320,95316,sw,Allambee South
+7339705,95321,sw,Alexandra
+7339859,95323,sw,Alectown
+7339936,95324,sw,Aldershot
+7340013,95325,sw,Aldavilla
+7340090,95326,sw,Alcomie
+7340167,95327,sw,Albury
+7340244,95328,sw,Alberton West
+7340398,95330,sw,Alberton
+7340475,95331,sw,Albert
+7340783,95335,sw,Airly
+7340860,95336,sw,\N
+7341091,95339,sw,Adventure Bay
+7341168,95340,sw,Adjungbilly
+7341245,95341,sw,Adelong
+7341322,95342,sw,Adelaide Lead
+7341399,95343,sw,Addington
+7341476,95344,sw,Adavale
+7341630,95346,sw,Adaminaby
+7341784,95348,sw,Acheron
+7342092,95352,sw,Aberfoyle
+7342246,95354,sw,Aberdeen
+7342477,95357,sw,Abbotsham
+7343016,95364,sw,Kayena
+7343632,95372,sw,South Mission Beach
+7343940,95376,sw,Boydtown
+7344017,95377,sw,Sisters Beach
+7344094,95378,sw,Moorleah
+7344171,95379,sw,Oldina
+7344248,95380,sw,Cuprona
+7345326,95394,sw,Wujal Wujal
+7345403,95395,sw,Bloomfield
+7346173,95405,sw,Buckland
+7346327,95407,sw,Palmerston
+7346404,95408,sw,Tom Price
+7346481,95409,sw,Airlie Beach
+7346712,95412,sw,Hervey Bay
+7346789,95413,sw,Yulara
+7346866,95414,sw,Moranbah
+7346943,95415,sw,Heyfield
+7347020,95416,sw,Karratha
+7347328,95420,sw,Agnes Water
+7347482,95422,sw,Kooralbyn
+7347713,95425,sw,Clifton Beach
+7347867,95427,sw,Joondalup
+7348021,95429,sw,Lovedale
+7348098,95430,sw,Middlemount
+7348252,95432,sw,Lord Howe Island
+7348329,95433,sw,Tieri
+7348483,95435,sw,Mount Buller
+7348714,95438,sw,Andamooka
+7348945,95441,sw,Blanchetown
+7349330,95446,sw,Mango Hill
+7349484,95448,sw,Vincentia
+7349715,95451,sw,Mlima wa Tamborine
+7349869,95453,sw,Rainbow Beach
+7349946,95454,sw,Yallingup Siding
+7350023,95455,sw,Cow Bay
+7350254,95458,sw,Mossman Gorge
+7350331,95459,sw,Oak Beach
+7350408,95460,sw,Ghuba ya Coral
+7350485,95461,sw,Goolwa Beach
+7350562,95462,sw,Goolwa South
+7350639,95463,sw,North Shore
+7350793,95465,sw,Logan City
+7350870,95466,sw,Parramatta
+7351024,95468,sw,Oxley Flats
+7351101,95469,sw,Narbethong
+7351178,95470,sw,Heybridge
+7351255,95471,sw,Smiths Lake
+7351409,95473,sw,South Durras
+7351486,95474,sw,Bremer Bay
+7351563,95475,sw,Kinka Beach
+7351794,95478,sw,Kurrimine Beach
+7351948,95480,sw,Menah
+7352102,95482,sw,Jabiru
+7352179,95483,sw,Oyster Cove
+7352256,95484,sw,Phillip Island
+7352333,95485,sw,Adelaide Hills
+7352641,95489,sw,McAlinden
+7352718,95490,sw,Allynbrook
+7352872,95492,sw,Lower Macdonald
+7352949,95493,sw,Anglers Reach
+7353026,95494,sw,Yalata
+7353103,95495,sw,Island Beach
+7353257,95497,sw,Bostobrick
+7353334,95498,sw,St Georges Basin
+7353411,95499,sw,Shoalhaven Heads
+7353565,95501,sw,Coffin Bay
+7353642,95502,sw,Suffolk Park
+7353719,95503,sw,Papunya
+7353796,95504,sw,Binalong Bay
+7353873,95505,sw,Long Forest
+7353950,95506,sw,Hopetoun Park
+7354104,95508,sw,Pentland Hills
+7354412,95512,sw,Warrill View
+7354489,95513,sw,Coleyville
+7354643,95515,sw,Obum Obum
+7354720,95516,sw,Allandale
+7354797,95517,sw,Cannon Creek
+7354874,95518,sw,Wallaces Creek
+7354951,95519,sw,Bunjurgen
+7355028,95520,sw,Frenches Creek
+7355105,95521,sw,Coochin
+7355182,95522,sw,Moogerah
+7355259,95523,sw,Tawi la Kaskazini
+7355336,95524,sw,Mlima Morris
+7355644,95528,sw,Kalimna West
+7355721,95529,sw,Darlington
+7355798,95530,sw,Peaceful Bay
+7355875,95531,sw,Upper Crystal Creek
+7356029,95533,sw,Whyanbeel
+7356183,95535,sw,Goodwood Island
+7356337,95537,sw,Bardi
+7356414,95538,sw,Campwin Beach
+7356568,95540,sw,Churchill
+7356645,95541,sw,Clifton Grove
+7356722,95542,sw,Basin View
+7356876,95544,sw,Bellbridge
+7357030,95546,sw,Arrawarra
+7357184,95548,sw,Bidyadanga Community
+7357261,95549,sw,Bonny Hills
+7357338,95550,sw,Booral
+7357492,95552,sw,Brooms Head
+7357569,95553,sw,Burrum Heads
+7357646,95554,sw,Cabarita
+7357723,95555,sw,Callala Bay
+7357800,95556,sw,Cooloola Cove
+7357877,95557,sw,Coomba Park
+7357954,95558,sw,Coongulla
+7358108,95560,sw,Craignish
+7358185,95561,sw,Cremorne
+7358339,95563,sw,Diamond Beach
+7358416,95564,sw,Dundowran
+7358493,95565,sw,Dundowran Beach
+7358647,95567,sw,Fishermans Paradise
+7358724,95568,sw,Galiwinku
+7358801,95569,sw,Glenden
+7358955,95571,sw,Goombungee
+7359032,95572,sw,Grasstree Beach
+7359263,95575,sw,Moore Park
+7359340,95576,sw,Mossy Point
+7359417,95577,sw,Hope Vale
+7359494,95578,sw,Hyland Park
+7359571,95579,sw,Innes Park
+7359725,95581,sw,Kalamia Estate
+7359802,95582,sw,Kalaru
+7359879,95583,sw,Kalkarindji
+7359956,95584,sw,Kaltukatjara
+7360187,95587,sw,Kings Point
+7360264,95588,sw,Kintore
+7360418,95590,sw,Lake Tabourie
+7360649,95593,sw,Loch Sport
+7360726,95594,sw,Long Beach
+7360803,95595,sw,Manning Point
+7360880,95596,sw,Maydena
+7361034,95598,sw,Napranum
+7361111,95599,sw,New Mapoon
+7361265,95601,sw,Old Erowal Bay
+7361342,95602,sw,Tannum Sands
+7361419,95603,sw,Tarraganda
+7361496,95604,sw,Taylors Beach
+7361573,95605,sw,Palumpa
+7361650,95606,sw,Peppermint Grove Beach
+7361727,95607,sw,Bonde la Perisher
+7361804,95608,sw,Pirlangimpi
+7361881,95609,sw,Rawson
+7361958,95610,sw,River Heads
+7362035,95611,sw,Safety Beach
+7362343,95615,sw,Santa Teresa
+7362497,95617,sw,Silverdale
+7362651,95619,sw,South Golden Beach
+7362805,95621,sw,The Palms
+7362882,95622,sw,Tura Beach
+7362959,95623,sw,Turners Beach
+7363036,95624,sw,Umagico
+7363113,95625,sw,Venus Bay
+7363190,95626,sw,Wangan
+7363344,95628,sw,Waterview Heights
+7363421,95629,sw,Westbury
+7363498,95630,sw,Pwani Nyeupe
+7363575,95631,sw,Willow Vale
+7363729,95633,sw,Withcott
+7363806,95634,sw,Wongaling Beach
+7363883,95635,sw,Wooroowoolgan
+7363960,95636,sw,Yungngora
+7364037,95637,sw,Belmont
+7364114,95638,sw,Cape Paterson
+7364268,95640,sw,Central Coast
+7364345,95641,sw,Cherbourg
+7364422,95642,sw,Coleambally
+7364499,95643,sw,Barunga
+7364576,95644,sw,Bawley Point
+7364653,95645,sw,Bayulu
+7364730,95646,sw,Beagle Bay
+7364807,95647,sw,Belyuen
+7364961,95649,sw,Agnes Banks
+7365038,95650,sw,Alpurrurulam
+7365115,95651,sw,Amoonguna
+7365192,95652,sw,Ampilatwatja
+7365269,95653,sw,Angourie
+7365346,95654,sw,"Jumuiya ya Angurugu, Anindilyakwa"
+7365423,95655,sw,Bingil Bay
+7365500,95656,sw,Bouldercombe
+7365577,95657,sw,Bowen Mountain
+7365654,95658,sw,Buronga
+7365731,95659,sw,Cabramurra
+7365808,95660,sw,Coronet Bay
+7365962,95662,sw,Dalmeny
+7366039,95663,sw,Daly River
+7366116,95664,sw,Hermannsburg
+7366193,95665,sw,Doomadgee
+7366270,95666,sw,Dysart
+7366347,95667,sw,Eneabba
+7366424,95668,sw,Exeter
+7366501,95669,sw,Fingal Bay
+7366578,95670,sw,Flying Fish Point
+7366655,95671,sw,Gapuwiyak
+7366809,95673,sw,Gulmarrad
+7366963,95675,sw,Hamilton Island
+7367040,95676,sw,Gununa
+7367194,95678,sw,Kalumburu
+7367271,95679,sw,Minjilang
+7367425,95681,sw,Kurmond
+7367502,95682,sw,Lajamanu
+7367579,95683,sw,Lake Cathie
+7367656,95684,sw,Leinster
+7367733,95685,sw,Lennox Head
+7367810,95686,sw,Lockhart River
+7367887,95687,sw,Looma
+7367964,95688,sw,Malua Bay
+7368041,95689,sw,Milikapiti
+7368118,95690,sw,Milingimbi
+7368195,95691,sw,Modanville
+7368272,95692,sw,Nangwarry
+7368349,95693,sw,Nathalia
+7368426,95694,sw,Ngukurr
+7368503,95695,sw,North Arm Cove
+7368580,95696,sw,Ocean Shores
+7368657,95697,sw,Oenpelli
+7368811,95699,sw,Stieglitz
+7368888,95700,sw,Stratham
+7368965,95701,sw,Sussex Inlet
+7369042,95702,sw,Tapitallee
+7369119,95703,sw,Pannawonica
+7369196,95704,sw,Paraburdoo
+7369273,95705,sw,Peppimenarti
+7369427,95707,sw,Pormpuraaw
+7369504,95708,sw,Ramingining
+7369581,95709,sw,Robinvale
+7369658,95710,sw,Kisiwa cha Rottnest
+7369812,95712,sw,Sarina Beach
+7369889,95713,sw,Scotts Head
+7369966,95714,sw,South West Rocks
+7370043,95715,sw,Thursday Island
+7370120,95716,sw,Timber Creek
+7370197,95717,sw,Tully Heads
+7370274,95718,sw,"Umbakumba, Anindilyakwa"
+7370351,95719,sw,Wallabi Point
+7370428,95720,sw,Warraber Islet
+7370505,95721,sw,Warragamba
+7370582,95722,sw,Warruwi
+7370659,95723,sw,Wickham
+7370736,95724,sw,Wooloweyah
+7370967,95727,sw,Glen Aplin
+7371275,95731,sw,Masig Island
+7371506,95734,sw,Willyung
+7371583,95735,sw,Abergowrie
+7371660,95736,sw,Brownlow KI
+7371737,95737,sw,Airville
+7371891,95739,sw,Warrenup
+7372045,95741,sw,Cape Jervis
+7372276,95744,sw,Goldsborough
+7372507,95747,sw,Southend
+7372738,95750,sw,Erowal Bay
+7372815,95751,sw,Jerramungup
+7372969,95753,sw,Lansdowne
+7373046,95754,sw,Mission Beach
+7373123,95755,sw,Newwell
+7373277,95757,sw,Jiji la Cockburn
+7373662,95762,sw,Cardigan Village
+7373816,95764,sw,Kambalda West
+7373893,95765,sw,Lake Conjola
+7373970,95766,sw,Conjola Park
+7374047,95767,sw,North Pinjarra
+7374124,95768,sw,North Rothbury
+7374201,95769,sw,Pambula Beach
+7374278,95770,sw,Yallourn North
+7374355,95771,sw,Cradle Mountain
+7374432,95772,sw,Kordabup
+7374509,95773,sw,Seddon
+7374586,95774,sw,Cape Tribulation
+7374663,95775,sw,Blueys Beach
+7374740,95776,sw,Stokes Bay
+7374817,95777,sw,Springbank
+7374894,95778,sw,Diwan
+7374971,95779,sw,Karatta
+7375048,95780,sw,Castle Forbes Bay
+7375125,95781,sw,Yanakie
+7375202,95782,sw,Rosa Glen
+7375356,95784,sw,Nungurner
+7375664,95788,sw,Pidachry
+7376357,95797,sw,Carpenter's Rocks
+7376434,95798,sw,Blackfellows Caves
+7376511,95799,sw,Nene Valley
+7377820,95816,sw,Pegarah
+7377974,95818,sw,Kennett River
+7378128,95820,sw,Bears Lagoon
+7378205,95821,sw,Ravenswood South
+7378359,95823,sw,Glenmore
+7378513,95825,sw,Hazeldene
+7378667,95827,sw,Neerim Junction
+7378744,95828,sw,Thornton
+7378821,95829,sw,Caniambo
+7378898,95830,sw,Katandra West
+7379206,95834,sw,Macs Cove
+7379591,95839,sw,Agnes
+7379899,95843,sw,Rosewhite
+7379976,95844,sw,Mudgeegonga
+7380053,95845,sw,Ziwa Hume Kijiji
+7380207,95847,sw,Tallangatta Valley
+7380361,95849,sw,Smoko
+7380438,95850,sw,Falls Creek
+7380669,95853,sw,East Sale
+7380823,95855,sw,Pwani ya dhahabu
+7380977,95857,sw,Mount Taylor
+7381054,95858,sw,Wiseleigh
+7381824,95868,sw,Wairewa
+7381901,95869,sw,Bete Bolong
+7381978,95870,sw,Jarrahmond
+7382055,95871,sw,Memana
+7382286,95874,sw,Bemm River
+7386521,95929,sw,Wonboyn
+7388292,95952,sw,Akolele
+7388523,95955,sw,Poatina
+7388677,95957,sw,Yarrahapinni
+7388754,95958,sw,Lockwood South
+7399303,96095,sw,Mount Victoria
+7399688,96100,sw,Chorregon
+7404308,96160,sw,Willoughby
+7404924,96168,sw,Lochinvar
+7407234,96198,sw,Dalbeg
+7407773,96205,sw,Glenavon
+7408928,96220,sw,Willows
+7411546,96254,sw,Pasha
+7419477,96357,sw,Mulambin
+7423481,96409,sw,Silky Oak
+7423558,96410,sw,Cardstone
+7423712,96412,sw,East Palmerston
+7423789,96413,sw,Eubenangee
+7423866,96414,sw,North Johnstone
+7424328,96420,sw,Boogan
+7424636,96424,sw,Bluewater
+7424867,96427,sw,Barratta
+7425175,96431,sw,Fregon
+7427254,96458,sw,Bulman
+7428948,96480,sw,Wandawuy
+7434338,96550,sw,Mapoon
+7442423,96655,sw,Cockatoo
+7444348,96680,sw,Running Creek
+7448044,96728,sw,Degarra
+7449122,96742,sw,Kundat Djaru Community
+7450739,96763,sw,Wangkatjungka Community
+7451355,96771,sw,Kupartiya Community
+7452279,96783,sw,Meringur
+7452356,96784,sw,Werrimull
+7452433,96785,sw,Cullulleraine
+7452510,96786,sw,Sunset Strip
+7452587,96787,sw,Monak
+7452664,96788,sw,Nangiloc
+7452741,96789,sw,Wemen
+7452818,96790,sw,Goodnight
+7454512,96812,sw,Glenwood
+7455436,96824,sw,Bilbul
+7456129,96833,sw,Upinde wa mvua
+7461750,96906,sw,Bawang
+7461904,96908,sw,Cunningar
+7464291,96939,sw,Fairfield
+7465523,96955,sw,Glenview
+7465754,96958,sw,Darbys Falls
+7465831,96959,sw,Wyangala
+7465985,96961,sw,Muroomba
+7469373,97005,sw,Hobbys Yards
+7469527,97007,sw,Reids Flat
+7470528,97020,sw,Blakney Creek
+7470605,97021,sw,Avoca
+7471606,97034,sw,Yarra Glen
+7472222,97042,sw,Woodlands
+7472376,97044,sw,Virginia
+7472453,97045,sw,Jomalchen
+7473069,97053,sw,Quialigo
+7476226,97094,sw,Turill
+7478074,97118,sw,High Range
+7478228,97120,sw,Medway
+7478767,97127,sw,Rosedale
+7478998,97130,sw,Callala Beach
+7479537,97137,sw,Manobalai
+7479691,97139,sw,East Gresford
+7479768,97140,sw,Banden Grove
+7479999,97143,sw,Seal Rocks
+7480153,97145,sw,Dartbrook
+7487468,97240,sw,Vivonne Bay
+7490009,97273,sw,Cunningham
+7490394,97278,sw,Gulnare
+7492396,97304,sw,Farrell Flats
+7492550,97306,sw,Brukunga
+7495784,97348,sw,Greenways Landing
+7497324,97368,sw,Field
+7498017,97377,sw,Coombe
+7499865,97401,sw,Mshikaji
+7500943,97415,sw,Wonuarra
+7503407,97447,sw,Jerdacuttup
+7503946,97454,sw,Coomalbidgup
+7504177,97457,sw,Dalyup
+7504947,97467,sw,Condingup
+7508181,97509,sw,Myalup
+7508797,97517,sw,Westdale
+7509875,97531,sw,Rocky Gully
+7511877,97557,sw,Boxwood Hill
+7512493,97565,sw,Gin Gin
+7512878,97570,sw,North Star
+7513956,97584,sw,Purlewaugh
+7515034,97598,sw,Braefield
+7515265,97601,sw,Warialda Rail
+7515419,97603,sw,Coolmunda
+7515958,97610,sw,Yarramundi
+7516805,97621,sw,Marengo
+7517498,97630,sw,Collombatti
+7517575,97631,sw,Millbank
+7518114,97638,sw,Billys Creek
+7518499,97643,sw,Gurranang
+7518730,97646,sw,Myrtle Creek
+7519577,97657,sw,Tamrookum
+7519808,97660,sw,Palmwood
+7519962,97662,sw,Marom Creek
+7520116,97664,sw,Minnie Water
+7520501,97669,sw,Olympic Dam Village
+7521271,97679,sw,Arkaroola Village
+7522965,97701,sw,Kianga
+7523273,97705,sw,Mondonio
+7523812,97712,sw,Dakenba
+7524659,97723,sw,Mungungo
+7526045,97741,sw,Formartin
+7526584,97748,sw,Springside
+7526661,97749,sw,Athol
+7526969,97753,sw,Dimbir
+7527200,97756,sw,Kinkuna
+7527508,97760,sw,Tansey
+7527585,97761,sw,Boonara
+7527816,97764,sw,Lilydale
+7527970,97766,sw,Somerset Dam
+7528201,97769,sw,Eurong
+7528509,97773,sw,Tuan
+7531974,97818,sw,Indulkana
+7532051,97819,sw,Marla
+7536440,97876,sw,Mulan
+7536517,97877,sw,Kiwirrkurra
+7536594,97878,sw,Gregory
+7536748,97880,sw,Georgina
+7537441,97889,sw,Tenindewa
+7538596,97904,sw,Bindoon
+7539289,97913,sw,Wagga Wagga
+7540213,97925,sw,Kununoppin
+7540675,97931,sw,Koolyanobbing
+7541060,97936,sw,Mount Burges
+7542446,97954,sw,Cundeelee
+7542831,97959,sw,Murchison
+7543062,97962,sw,Useless Loop
+7543986,97974,sw,Brunswick
+7545218,97990,sw,Aberdeen
+7545372,97992,sw,Paradiso
+7545680,97996,sw,Staverton
+7545834,97998,sw,Sunnyside
+7545911,97999,sw,Stowport Upper
+7546142,98002,sw,Spalford
+7546681,98009,sw,Milabena
+7546758,98010,sw,Togari
+7547143,98015,sw,South Bruny
+7548221,98029,sw,North Scottsdale
+7548452,98032,sw,Reedy Marsh
+7548837,98037,sw,Talawah
+7548991,98039,sw,Westwood
+7549299,98043,sw,Pwani ya Spring
+7549376,98044,sw,Grindelwald
+7549453,98045,sw,Bingie
+7549761,98049,sw,Forest Creek
+7549992,98052,sw,Lower Daintree
+7550069,98053,sw,Anniebrook
+7550377,98057,sw,Wadeye
+7550454,98058,sw,Diamondvale
+7550531,98059,sw,Carrolls Creek
+7550608,98060,sw,Mount Tully
+7550839,98063,sw,Pelican Lagoon
+7551147,98067,sw,Canningvale
+7551224,98068,sw,Morgan Park
+7551378,98070,sw,Pine Creek
+7551455,98071,sw,Electra
+7551609,98073,sw,Avoca
+7552071,98079,sw,Rosegarland
+7552225,98081,sw,Hayes
+7552533,98085,sw,Lonnayale
+7553611,98099,sw,Police Point
+7553842,98102,sw,Lunawanna
+7554073,98105,sw,Birchs Bay
+7554612,98112,sw,Baudin Beach
+7554843,98115,sw,Lake George
+7554920,98116,sw,Gwambygine
+7555074,98118,sw,Nulkaba
+7555305,98121,sw,Murrigal
+7555459,98123,sw,Rockingham
+7556614,98138,sw,Rosenthal Heights
+7556999,98143,sw,Kents Lagoon
+7557076,98144,sw,Silverdale
+7557153,98145,sw,Limestone Ridges
+7557230,98146,sw,Milora
+7557307,98147,sw,Moola
+7557769,98153,sw,Padthaway
+7557846,98154,sw,Bramston Beach
+7558154,98158,sw,Texas
+7558462,98162,sw,North Walpole
+7558539,98163,sw,North West Cape
+7558616,98164,sw,Mount Surprise
+7558847,98167,sw,Bonnie Doon
+7558924,98168,sw,Shannonvale
+7559001,98169,sw,Killaloe
+7559463,98175,sw,Howitt
+7560002,98182,sw,New Harbourline
+7560233,98185,sw,Cowley Beach
+7560464,98188,sw,Rocky Point
+7560541,98189,sw,Mowbray
+7560926,98194,sw,Goolwa North
+7561311,98199,sw,Gibb
+7561542,98202,sw,Misonobari
+7561696,98204,sw,Garden Island
+7561773,98205,sw,Cape Jaffa
+7561850,98206,sw,Fernbank Creek
+7561927,98207,sw,Dookie College
+7562081,98209,sw,Dales Creek
+7562389,98213,sw,Cosgrove South
+7562466,98214,sw,Portland West
+7562543,98215,sw,Invermay
+7562620,98216,sw,Agnew
+7562774,98218,sw,Mjusi
+7562851,98219,sw,Ningaloo
+7562928,98220,sw,Eighty Mile Beach
+7563082,98222,sw,Sunshine Coast
+7563159,98223,sw,Willalooka
+7563313,98225,sw,Roebuck
+7563544,98228,sw,East Trinity
+7563929,98233,sw,Marrakai
+7564083,98235,sw,Punsand
+7564545,98241,sw,Cape Gloucester
+7564776,98244,sw,Boeill Creek
+7564853,98245,sw,Barnes
+7564930,98246,sw,Calimo
+7565084,98248,sw,Burraboi
+7565546,98254,sw,Burnside
+7565777,98257,sw,Boodarie
+7566008,98260,sw,Inskip
+7566085,98261,sw,Langsborough
+7566162,98262,sw,West Arnhem
+7566316,98264,sw,South Plantation
+7566470,98266,sw,Moffatdale
+7567009,98273,sw,Cobourg
+7567086,98274,sw,Hervey Range
+7567394,98278,sw,Coconuts
+7567471,98279,sw,Coquette Point
+7567625,98281,sw,Goondi Bend
+7567702,98282,sw,Goondi Hill
+7567933,98285,sw,Stoters Hill
+7568087,98287,sw,Upper Daradgee
+7568241,98289,sw,Parawa
+7568318,98290,sw,Wilyabrup
+7568395,98291,sw,Werai
+7568472,98292,sw,Watervale
+7568549,98293,sw,Rocky Plain
+7568703,98295,sw,Rewan
+7568857,98297,sw,Arcadia Valley
+7568934,98298,sw,Tinaroo
+7569242,98302,sw,Packers Camp
+7569319,98303,sw,Wrights Creek
+7569473,98305,sw,Wirrina Cove
+7569858,98310,sw,Emugalan
+7570166,98314,sw,Mer Island
+7570397,98317,sw,South Guyra
+7570782,98322,sw,Sugarloaf
+7570936,98324,sw,Glen Martin
+7571398,98330,sw,Blythewood
+7571475,98331,sw,West Coolup
+7571552,98332,sw,Warawarrup
+7571783,98335,sw,Lower Wonga
+7572707,98347,sw,Silver Valley
+7573015,98351,sw,Howards Grass
+7573092,98352,sw,Lagoon Grass
+7573246,98354,sw,Terania Creek
+7573323,98355,sw,Anindilyakwa
+7573477,98357,sw,Mitchell Plateau
+7573708,98360,sw,Tannum Sands - Boyne Island
+7573785,98361,sw,Jam Jarrup
+7573862,98362,sw,Wellstead
+7573939,98363,sw,William Bay
+7574016,98364,sw,Bundabah
+7574093,98365,sw,Hervey Bay
+7574478,98370,sw,Maragle
+7574632,98372,sw,Pulletop
+7575017,98377,sw,Wee Jasper
+7577789,98413,sw,Break o'day
+7577866,98414,sw,Glenayr
+7578559,98423,sw,Kalamunda
+7578867,98427,sw,Canyonleigh
+7578944,98428,sw,Pottsville
+7579329,98433,sw,West Kempsey
+7579791,98439,sw,Midway Point
+7580715,98451,sw,Karratha Industrial Estate
+7580946,98454,sw,Boomerang Beach
+7581023,98455,sw,Ocean Beach
+7581331,98459,sw,Skennars Head
+7581408,98460,sw,Trunding
+7581485,98461,sw,Newlands Arm
+7581639,98463,sw,Wallaga Lake
+7581716,98464,sw,Nowra Hill
+7581870,98466,sw,Qunaba
+7581947,98467,sw,Kambalda East
+7582024,98468,sw,Wattle Ponds
+7582101,98469,sw,Bunya Mountains
+7582178,98470,sw,Thrumster
+7582486,98474,sw,New Berrima
+7582640,98476,sw,Taromeo
+7582717,98477,sw,Morangup
+7582871,98479,sw,Sunlands
+7582948,98480,sw,Kearsley
+7583102,98482,sw,Goughs Bay
+7583256,98484,sw,Toll
+7583333,98485,sw,South Gundurimba
+7583410,98486,sw,Kiama Heights
+7583487,98487,sw,The Honeysuckles
+7583718,98490,sw,Myrup
+7583872,98492,sw,Captain Creek
+7583949,98493,sw,Moorak
+7584103,98495,sw,Murrays Beach
+7584180,98496,sw,Euthulla
+7584257,98497,sw,Horse Camp
+7584334,98498,sw,Horseshoe Lagoon
+7584411,98499,sw,Wimbledon Heights
+7584488,98500,sw,Black Point
+7584642,98502,sw,Berrambool
+7584719,98503,sw,Thompson Beach
+7584873,98505,sw,Sunderland Bay
+7585181,98509,sw,Mkono wa Kusini
+7586798,98530,sw,Red Ridge
+7587568,98540,sw,West Coraki
+7589108,98560,sw,Woodford Island
+7590417,98577,sw,Maloneys Beach
+7590571,98579,sw,McDougalls Hill
+7590648,98580,sw,Yerusalemu
+7590725,98581,sw,Wallagoot
+7590802,98582,sw,Dolphin Sands
+7590879,98583,sw,Scotsdale
+7590956,98584,sw,Eagle Bay
+7591033,98585,sw,Kingston On Murray
+7591187,98587,sw,Ellesmere
+7591264,98588,sw,Moonta Mines
+7591341,98589,sw,Fredericksfield
+7591418,98590,sw,Woongarra
+7591495,98591,sw,Kangaroo Gully
+7591572,98592,sw,Braemeadows
+7591726,98594,sw,East Nanango
+7591803,98595,sw,Naturaliste
+7591880,98596,sw,Jalbarragup
+7591957,98597,sw,Lake Bunga
+7592034,98598,sw,Quorrobolong
+7592111,98599,sw,Mount Tarampa
+7592265,98601,sw,Renwick
+7592419,98603,sw,Evelyn
+7592496,98604,sw,Etty Bay
+7592573,98605,sw,Turkey Beach
+7592727,98607,sw,OB Flat
+7592804,98608,sw,Gracetown
+7592958,98610,sw,South Isis
+7593035,98611,sw,Lonesome Creek
+7593112,98612,sw,Miara
+7593189,98613,sw,Renmark South
+7593266,98614,sw,Ilparpa
+7593420,98616,sw,Pinks Beach
+7593497,98617,sw,Welcome Creek
+7593574,98618,sw,Mirador
+7593805,98621,sw,Mountain River
+7593959,98623,sw,Commissariat Point
+7594113,98625,sw,Dotswood
+7594190,98626,sw,Tingun
+7594267,98627,sw,Yacka
+7594421,98629,sw,Nilgen
+7594498,98630,sw,Donovans
+7594575,98631,sw,Wurdong Heights
+7594652,98632,sw,Ambergate
+7594729,98633,sw,Yippin Creek
+7594806,98634,sw,Munglinup
+7594883,98635,sw,Mystery Bay
+7594960,98636,sw,Warnertown
+7595037,98637,sw,Moggs Creek
+7595114,98638,sw,Rodds Bay
+7595268,98640,sw,James Well
+7595422,98642,sw,Karakin
+7595499,98643,sw,Laidley South
+7595576,98644,sw,Wyomi
+7595653,98645,sw,McLoughlins Beach
+7595807,98647,sw,Mount Beppo
+7595884,98648,sw,Tiatukia
+7596038,98650,sw,Dumbarton
+7596115,98651,sw,Wonglepong
+7596192,98652,sw,Potato Point
+7596269,98653,sw,East Moonta
+7596346,98654,sw,Waranga Shores
+7596423,98655,sw,Echuca West
+7596500,98656,sw,Pukatja
+7596654,98658,sw,Dale
+7596808,98660,sw,Nerong
+7596885,98661,sw,Lake Bennett
+7596962,98662,sw,Dunmora
+7597039,98663,sw,Alstonvale
+7597270,98666,sw,Coomoora
+7597424,98668,sw,Avalon
+7597501,98669,sw,Tenby Point
+7597732,98672,sw,Verona Sands
+7597809,98673,sw,Victoria Plantation
+7597886,98674,sw,Marybrook
+7597963,98675,sw,Morganville
+7598117,98677,sw,Boat Harbour Beach
+7598271,98679,sw,Sunday Creek
+7598348,98680,sw,Koonoomoo
+7598425,98681,sw,Hellyer
+7598656,98684,sw,Goldie
+7598733,98685,sw,Winya
+7598810,98686,sw,Sandy Camp
+7598964,98688,sw,Picton East
+7599195,98691,sw,Yongala
+7599272,98692,sw,Totness
+7599349,98693,sw,Ballard
+7599426,98694,sw,Anmatjere
+7599580,98696,sw,Dundathu
+7599734,98698,sw,Eggs and Bacon Bay
+7599811,98699,sw,Chilcotts Grass
+7599888,98700,sw,Ramco Heights
+7599965,98701,sw,Woodside Beach
+7600042,98702,sw,Guerilla Bay
+7600119,98703,sw,Breamlea
+7600196,98704,sw,Nahrunda
+7600273,98705,sw,Redbournberry
+7600350,98706,sw,Doonbah
+7600427,98707,sw,Chelmsford
+7600504,98708,sw,Neerdie
+7600581,98709,sw,Huon Creek
+7600658,98710,sw,Burramine
+7600735,98711,sw,Sevenhill
+7600812,98712,sw,Jeremadra
+7600889,98713,sw,Savage River
+7601043,98715,sw,Tinnanbar
+7601120,98716,sw,Uriarra Village
+7601197,98717,sw,Woodlane
+7601351,98719,sw,Tuntable Creek
+7601505,98721,sw,Rocky Camp
+7601582,98722,sw,Penwortham
+7601659,98723,sw,Kirwans Bridge
+7601736,98724,sw,Gowrie Mountain
+7601890,98726,sw,Camden Head
+7602121,98729,sw,Seppeltsfield
+7602198,98730,sw,Matta Flat
+7602275,98731,sw,Mimili
+7602352,98732,sw,Dingup
+7602429,98733,sw,Allenview
+7602506,98734,sw,Scotchtown
+7602583,98735,sw,Moomin
+7602660,98736,sw,Siesta Park
+7602737,98737,sw,Pimpimbudgee
+7602814,98738,sw,Fishermans Reach
+7602891,98739,sw,Mount Arthur
+7602968,98740,sw,Lennard Brook
+7603045,98741,sw,Abels Bay
+7603122,98742,sw,Sloping Main
+7603276,98744,sw,Armstrong Beach
+7603661,98749,sw,Millmerran Downs
+7603738,98750,sw,Coonabidgee
+7603815,98751,sw,Rous
+7603892,98752,sw,Horse Creek
+7604046,98754,sw,James Creek
+7604662,98762,sw,Murray Bridge South
+7604739,98763,sw,Robertsons Beach
+7604816,98764,sw,Kimbolton
+7604970,98766,sw,Elrington
+7605124,98768,sw,Kauring
+7605201,98769,sw,Burrundulla
+7605355,98771,sw,Kinchant Dam
+7605432,98772,sw,Dingo Pocket
+7605509,98773,sw,Moy Pocket
+7605586,98774,sw,Monjingup
+7605663,98775,sw,Pipalyatjara
+7605740,98776,sw,Kinvara
+7605817,98777,sw,Wongyarra
+7605894,98778,sw,New Park
+7605971,98779,sw,Banks Pocket
+7606048,98780,sw,Milbrodale
+7606125,98781,sw,Darts Creek
+7606202,98782,sw,Mabuiag Island
+7606356,98784,sw,Wallu
+7606433,98785,sw,Moranding
+7606510,98786,sw,Moojebing
+7606895,98791,sw,Nariel Valley
+7607049,98793,sw,Kanoona
+7607126,98794,sw,Harolds Cross
+7607280,98796,sw,Zeerust
+7607511,98799,sw,Shepherds Flat
+7607588,98800,sw,Hester Brook
+7607665,98801,sw,Giants Creek
+7607742,98802,sw,The Marra
+7607819,98803,sw,Preston Settlement
+7608050,98806,sw,Castle Rock
+7608204,98808,sw,Coomboona
+7608281,98809,sw,Murrays Bridge
+7608358,98810,sw,Pioneers Rest
+7608435,98811,sw,Castle Donnington
+7608589,98813,sw,Mungay Creek
+7608666,98814,sw,Hamilton Creek
+7608743,98815,sw,Erudgere
+7608820,98816,sw,Wooyung
+7608897,98817,sw,Vaughan
+7608974,98818,sw,Stone Well
+7609128,98820,sw,McLeods Shoot
+7609205,98821,sw,Glengarrie
+7609282,98822,sw,South Forest
+7609359,98823,sw,Trenayr
+7609436,98824,sw,Wonwondah
+7609513,98825,sw,Shell Pocket
+7609590,98826,sw,Warri
+7609667,98827,sw,Bimbimbie
+7609744,98828,sw,Marys Creek
+7609821,98829,sw,Mead
+7609898,98830,sw,Mount Doran
+7610052,98832,sw,O'Reilly
+7610129,98833,sw,Mlima Liebig
+7610283,98835,sw,Hawson
+7610360,98836,sw,Horfield
+7610437,98837,sw,Mogareeka
+7610514,98838,sw,Glendon
+7610745,98841,sw,Lower Pappinbarra
+7610822,98842,sw,Pallinup
+7610899,98843,sw,Bungarby
+7611053,98845,sw,Willunga Hill
+7611130,98846,sw,Narrogin Valley
+7611361,98849,sw,Kinnoul
+7611592,98852,sw,Mount Barker Summit
+7611669,98853,sw,Kerrie
+7611746,98854,sw,Bakers Beach
+7611823,98855,sw,Grasstree Hill
+7611900,98856,sw,Trentham Cliffs
+7611977,98857,sw,St Arnaud East
+7612054,98858,sw,Repentance Creek
+7612131,98859,sw,Wallamore
+7612208,98860,sw,Coongbar
+7612285,98861,sw,West Mooreville
+7612362,98862,sw,College View
+7612516,98864,sw,Upper Copmanhurst
+7612593,98865,sw,Murraydale
+7612670,98866,sw,Whorouly East
+7612824,98868,sw,Yessabah
+7612901,98869,sw,Toolong
+7612978,98870,sw,Barwidgee
+7613055,98871,sw,Westmar
+7613132,98872,sw,Frogs Hollow
+7613209,98873,sw,Myrtlebank
+7613286,98874,sw,Ryeford
+7613440,98876,sw,Alberta
+7613594,98878,sw,Middle Falbrook
+7613671,98879,sw,Kilgin
+7613748,98880,sw,Florina
+7613825,98881,sw,Loxford
+7614056,98884,sw,Edgcumbe Beach
+7614364,98888,sw,Machi
+7614441,98889,sw,Mullamuddy
+7614595,98891,sw,Flaggy Creek
+7614749,98893,sw,Hazelvale
+7614903,98895,sw,Roughit
+7614980,98896,sw,Central Macdonald
+7615134,98898,sw,Gillentown
+7615365,98901,sw,Flagstaff
+7615442,98902,sw,Coral Bank
+7615673,98905,sw,Adams Estate
+7615750,98906,sw,Dutton Way
+7615904,98908,sw,The Pinnacles
+7615981,98909,sw,North Blackwood
+7616135,98911,sw,Bona Vista
+7616289,98913,sw,Tesbury
+7616366,98914,sw,Scotchmans Lead
+7616443,98915,sw,Mooroopna North West
+7616597,98917,sw,Coxs Creek
+7616674,98918,sw,Gradys Creek
+7616751,98919,sw,Silverleigh
+7616828,98920,sw,Boegruepek
+7617136,98924,sw,Tewinga
+7617290,98926,sw,Summer Island
+7617367,98927,sw,Petwood
+7617521,98929,sw,Reedy Swamp
+7617598,98930,sw,Middle Point
+7618214,98938,sw,Abba River
+7618291,98939,sw,Old Plains
+7618368,98940,sw,Wattle Springs
+7618676,98944,sw,Warragai Creek
+7618753,98945,sw,Tumut Plains
+7619061,98949,sw,Edenville
+7619292,98952,sw,Kalka
+7619446,98954,sw,Woottating
+7619754,98958,sw,Merritts Creek
+7619908,98960,sw,Nillup
+7619985,98961,sw,Chocolyn
+7620062,98962,sw,Jindong
+7620139,98963,sw,Gonn Crossing
+7620370,98966,sw,Lake Argyle
+7620447,98967,sw,Dixvale
+7621140,98976,sw,Charley Creek
+7621217,98977,sw,Chasm Creek
+7621602,98982,sw,Pola Creek
+7621679,98983,sw,Skibo
+7622295,98991,sw,North Kukerin
+7622988,99000,sw,Kilgra
+7623142,99002,sw,Russells Bridge
+7623219,99003,sw,Upper Coopers Creek
+7623681,99009,sw,Gowrie Little Plain
+7623758,99010,sw,Katrine
+7623912,99012,sw,Nuggetty
+7623989,99013,sw,Beenaam Valley
+7624220,99016,sw,Wilsons Hill
+7624528,99020,sw,Hampden Hall
+7624682,99022,sw,Burlong
+7624836,99024,sw,Pomborneit North
+7625144,99028,sw,Patchs Beach
+7625452,99032,sw,Wanganui
+7625760,99036,sw,Dalswinton
+7625837,99037,sw,Murra Warra
+7625914,99038,sw,Marshdale
+7626222,99042,sw,Duroby
+7626453,99045,sw,Bombowlee Creek
+7626607,99047,sw,Newcastle Waters
+7626992,99052,sw,Knights Hill
+7627069,99053,sw,Kirkconnell
+7627454,99058,sw,Nullawarre North
+7627531,99059,sw,Porcupine
+7627608,99060,sw,Purrawunda
+7627685,99061,sw,Lagrange
+7627762,99062,sw,West Bungawalbin
+7628301,99069,sw,Irvington
+7628532,99072,sw,Larrimah
+7629456,99084,sw,Wolgan Valley
+7629764,99088,sw,Yellow Pinch
+7629841,99089,sw,Sastra
+7630534,99098,sw,Petermann
+7631612,99112,sw,Tallangatta East
+7631843,99115,sw,Greta Main
+7633075,99131,sw,Coojar
+7634307,99147,sw,Vinegar Hill
+7634615,99151,sw,Roslynmead
+7635924,99168,sw,Bungeet West
+7636155,99171,sw,Cape Borda
+7638542,99202,sw,Wylies Flat
+7639928,99220,sw,Ghan
+7641083,99235,sw,Willow Banks
+7649476,99344,sw,Bonde la Furaha
+7649707,99347,sw,Moorebank
+7649938,99350,sw,Stradbroke
+7651863,99375,sw,Glenfinnan
+7656406,99434,sw,Kiah Lodge
+7656791,99439,sw,El Paso
+7657253,99445,sw,Avonside
+7657330,99446,sw,Little Buckenderra
+7657946,99454,sw,Kara
+7658562,99462,sw,Hill Top
+7660025,99481,sw,Langi Kal Kal
+7660102,99482,sw,Shelburne
+7660333,99485,sw,Cataby
+7661873,99505,sw,Bridgewater On Loddon
+7661950,99506,sw,Badgingarra
+7662027,99507,sw,Mito mitatu
+7662104,99508,sw,Stanage
+7662181,99509,sw,Mount Maria
+7662258,99510,sw,Weeroona Island
+7662412,99512,sw,Coverty
+7662489,99513,sw,Thalgarrah
+7662643,99515,sw,Camballin
+7662720,99516,sw,Spring Grove
+7662951,99519,sw,Nunile
+7663028,99520,sw,Nerada
+7663105,99521,sw,Wooderson
+7663182,99522,sw,Akaroa
+7663259,99523,sw,Borzanga
+7663336,99524,sw,Boxers Creek
+7663413,99525,sw,Mona Park
+7663490,99526,sw,Murrays Run
+7663644,99528,sw,Murray Downs
+7663721,99529,sw,Watagan
+7663798,99530,sw,Carlotta
+7663875,99531,sw,Woodend North
+7663952,99532,sw,Sandy Ridges
+7664029,99533,sw,Middle Brook
+7664106,99534,sw,Kirknie
+7664183,99535,sw,Woodmillar
+7664260,99536,sw,Staghorn Flat
+7664337,99537,sw,Jack Mweusi
+7664414,99538,sw,Iwantja
+7664568,99540,sw,Orange Creek
+7664799,99543,sw,Calder
+7664953,99545,sw,Boorara Brook
+7665030,99546,sw,Sugarloaf Creek
+7665107,99547,sw,Marchmont
+7665184,99548,sw,Derri Derra
+7665261,99549,sw,Carneys Creek
+7665492,99552,sw,Reids Flat
+7665569,99553,sw,Greenview
+7665646,99554,sw,Black Snake
+7665723,99555,sw,Mackenzie River
+7665800,99556,sw,Kingsdale
+7665877,99557,sw,Bogie
+7665954,99558,sw,MacGillivray
+7666031,99559,sw,Pinkawillinie
+7666108,99560,sw,Nulla Vale
+7666185,99561,sw,Eviron
+7666339,99563,sw,Groper Creek
+7666493,99565,sw,Hibernia
+7666801,99569,sw,Goodar
+7667032,99572,sw,Benair
+7667109,99573,sw,Kanigan
+7667263,99575,sw,Glen Cairn
+7667340,99576,sw,Walkers Point
+7667494,99578,sw,Bullcamp
+7667648,99580,sw,Cundinup
+7667725,99581,sw,Merivale
+7667879,99583,sw,Cold Harbour
+7667956,99584,sw,Chances Plain
+7668033,99585,sw,Fox
+7668110,99586,sw,Buckra Bendinni
+7668187,99587,sw,Mount Thorley
+7668264,99588,sw,Glenrae
+7668341,99589,sw,Great Marlow
+7668418,99590,sw,Wallaroo Plain
+7668495,99591,sw,Khosh Bulduk
+7668572,99592,sw,Howick
+7668649,99593,sw,Mundulla West
+7668880,99596,sw,Tantawangalo
+7669034,99598,sw,Magdala
+7669111,99599,sw,Bookaar
+7669265,99601,sw,Martindale
+7669496,99604,sw,Boors Plain
+7669650,99606,sw,Oaky Creek
+7669727,99607,sw,Lymwood
+7669804,99608,sw,Cope
+7669881,99609,sw,Everton Upper
+7670035,99611,sw,Piturie
+7670112,99612,sw,Ingoldsby
+7670266,99614,sw,Murray Bridge North
+7670343,99615,sw,Barmoya
+7670574,99618,sw,Arcturus
+7670728,99620,sw,Goolhi
+7670882,99622,sw,Orion
+7670959,99623,sw,Googa Creek
+7671036,99624,sw,Driffield
+7671113,99625,sw,Kickabil
+7671190,99626,sw,North Yalgogrin
+7671267,99627,sw,Conara
+7671344,99628,sw,Pike River
+7671652,99632,sw,Dyraaba
+7671806,99634,sw,Kyneton South
+7671883,99635,sw,West River
+7671960,99636,sw,Dalrymple Creek
+7672268,99640,sw,Red Hills
+7672499,99643,sw,Port Gawler
+7672653,99645,sw,Damasko
+7672730,99646,sw,Mungabunda
+7672807,99647,sw,St Ronans
+7672884,99648,sw,Mummel
+7672961,99649,sw,Stonyford
+7673038,99650,sw,Marthaguy
+7673423,99655,sw,Wyaga
+7673577,99657,sw,Green Range
+7673654,99658,sw,Upper Pappinbarra
+7673731,99659,sw,Merkanooka
+7673962,99662,sw,Waitui
+7674039,99663,sw,Crinum
+7674193,99665,sw,Taloumbi
+7674270,99666,sw,Thowgla Valley
+7674347,99667,sw,Glenbawn
+7674578,99670,sw,Jemalong
+7674732,99672,sw,Warrami
+7674963,99675,sw,Kohinoor
+7675194,99678,sw,Wyuna East
+7675348,99680,sw,Frankfield
+7675425,99681,sw,Yarrawa
+7675579,99683,sw,Marys Mount
+7675887,99687,sw,Nirranda South
+7676195,99691,sw,Harris River
+7676272,99692,sw,Wondalli
+7676349,99693,sw,Warnoah
+7676426,99694,sw,Mount Hardman
+7676580,99696,sw,Cairns Bay
+7676734,99698,sw,Ercildoune
+7676965,99701,sw,Bambun
+7677273,99705,sw,Tarramba
+7677350,99706,sw,Old Grevillia
+7677427,99707,sw,Ruabon
+7677504,99708,sw,Mulla Creek
+7677581,99709,sw,Upper Warren
+7677735,99711,sw,Boomey
+7677812,99712,sw,Nattai
+7678813,99725,sw,Benolong
+7678890,99726,sw,Pamayu
+7679044,99728,sw,Nirimba
+7679198,99730,sw,Gineroi
+7679583,99735,sw,Scott River
+7679814,99738,sw,Warding East
+7679968,99740,sw,Muskerry
+7680276,99744,sw,Doctor George Mountain
+7681200,99756,sw,Rockley Mount
+7681354,99758,sw,Cassini
+7681431,99759,sw,Woodlane
+7681662,99762,sw,Bondi Hill
+7682432,99772,sw,Richmond Hill
+7697139,99963,sw,Belvedere
+7705147,100067,sw,Nindooinbah
+7705917,100077,sw,Lucas Junction
+7716466,100214,sw,Upper Main Arm
+7723473,100305,sw,Coolgardie
+7725552,100332,sw,Theresa Creek
+7725860,100336,sw,Hogarth Range
+7727554,100358,sw,Pigtree
+7728401,100369,sw,Research Farm Number Two
+7730711,100399,sw,Wooroowoolgen
+7732559,100423,sw,Shield Bend
+7732713,100425,sw,Devlins Villa
+7735177,100457,sw,Wonga Park
+7735331,100459,sw,Cedar Vale
+7745880,100596,sw,Cherry Tree
+7750423,100655,sw,Willowvale
+7750885,100661,sw,Kingswood
+7751886,100674,sw,Brooklands
+7752425,100681,sw,Gladfield
+7752964,100688,sw,Ocean Grove
+7753118,100690,sw,Lumina
+7755582,100722,sw,Mtazamo wa Mlima
+7759047,100767,sw,Lumina
+7759124,100768,sw,Mount Bryan
+7759278,100770,sw,Flaxman Valley
+7759663,100775,sw,Ebenezer
+7759740,100776,sw,Ninnes
+7759894,100778,sw,Penrice
+7759971,100779,sw,Krondorf
+7760125,100781,sw,Grace Plains
+7760202,100782,sw,Barabara za Kuvuka
+7760587,100787,sw,Langlo
+7761511,100799,sw,Kurrajong
+7761742,100802,sw,King Island
+7762820,100816,sw,Burringbar
+7763513,100825,sw,Melville

@@ -1,0 +1,10 @@
+key,country,name,native_name,capital,population,timezone_utc,timezone_iana
+UM-67,UM,Johnston Atoll,Johnston Atoll,\N,\N,UTC-10,Pacific/Honolulu
+UM-71,UM,Midway Atoll,Midway Islands,\N,\N,UTC-11,Pacific/Midway
+UM-76,UM,Navassa Island,Navassa Island,\N,\N,UTC-11,Pacific/Midway
+UM-79,UM,Wake Atoll,Wake Island,\N,150,UTC+12,Pacific/Wake
+UM-81,UM,Baker Island,Baker Island,\N,\N,"UTC-11, UTC+12","Pacific/Midway, Pacific/Wake"
+UM-84,UM,Howland Island,Howland Island,\N,\N,UTC-11,Pacific/Midway
+UM-86,UM,Jarvis Island,Jarvis Island,\N,\N,"UTC-11, UTC+12","Pacific/Midway, Pacific/Wake"
+UM-89,UM,Kingman Reef,Kingman Reef,\N,\N,UTC-11,Pacific/Midway
+UM-95,UM,Palmyra Atoll,Palmyra Atoll,\N,10,UTC-11,Pacific/Midway

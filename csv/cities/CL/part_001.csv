@@ -1,0 +1,1087 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+405210,CL,CL-VS,Zapallar,Zapallar,2042,3,Municipality,UTC-4,America/Santiago
+405211,CL,CL-NB,Yungay,Yungay,10884,3,City,UTC-4,America/Santiago
+405212,CL,CL-BI,Yumbel,Yumbel,11111,3,City,UTC-4,America/Santiago
+405213,CL,CL-ML,Yerbas Buenas,Yerbas Buenas,3009,3,Town,UTC-4,America/Santiago
+405214,CL,CL-VS,Vina del Mar,Viña del Mar,331492,3,City,UTC-4,America/Santiago
+405215,CL,CL-AR,Villarrica,Villarrica,32557,3,City,UTC-4,America/Santiago
+405216,CL,CL-VS,Villa Alemana,Villa Alemana,131131,3,City,UTC-4,America/Santiago
+405217,CL,CL-ML,Villa Alegre,Vilcún,9000,3,City,UTC-4,America/Santiago
+405218,CL,CL-AR,Vilcun,Vilcún,7829,3,City,UTC-4,America/Santiago
+405219,CL,CL-CO,Vicuna,Vicuña,15820,3,City,UTC-4,America/Santiago
+405220,CL,CL-AR,Victoria,Victoria,24664,3,City,UTC-4,America/Santiago
+405221,CL,CL-ML,Vichuquen,Vichuquén,366,3,Village,UTC-4,America/Santiago
+405222,CL,CL-VS,Valparaiso,Valparaíso,282448,2,City,UTC-4,America/Santiago
+405223,CL,CL-AT,Vallenar,Vallenar,44895,2,City,UTC-4,America/Santiago
+405224,CL,CL-LR,Valdivia,Valdivia,150048,2,City,UTC-4,America/Santiago
+405226,CL,CL-BI,Tucapel,Tucapel,3029,3,Town,UTC-4,America/Santiago
+405227,CL,CL-NB,Treguaco,Treguaco,2398,3,Town,UTC-4,America/Santiago
+405228,CL,CL-AR,Traiguen,Traiguén,14381,3,City,UTC-4,America/Santiago
+405229,CL,CL-AI,Tortel,Tortel,487,3,Municipality,UTC-3,America/Coyhaique
+405230,CL,CL-BI,Tome,Tomé,42312,3,City,UTC-4,America/Santiago
+405231,CL,CL-AR,Tolten,Toltén,10126,3,Municipality,UTC-4,America/Santiago
+405232,CL,CL-AN,Tocopilla,Tocopilla,24460,2,City,UTC-4,America/Santiago
+405233,CL,CL-BI,Tirua,Tirúa,2521,3,Town,UTC-4,America/Santiago
+405234,CL,CL-AP,Timar,Timar,57,4,hamlet,UTC-4,America/Santiago
+405235,CL,CL-RM,Tiltil,Tiltil,5632,3,City,UTC-4,America/Santiago
+405236,CL,CL-AT,Tierra Amarilla,Tierra Amarilla,9857,3,City,UTC-4,America/Santiago
+405237,CL,CL-AR,Teodoro Schmidt,Teodoro Schmidt,2850,3,Town,UTC-4,America/Santiago
+405238,CL,CL-ML,Teno,Teno,8148,3,City,UTC-4,America/Santiago
+405239,CL,CL-AR,Temuco,Temuco,238129,2,City,UTC-4,America/Santiago
+405240,CL,CL-TA,Tarapaca,Tarapacá,121,4,hamlet,UTC-4,America/Santiago
+405242,CL,CL-AN,Taltal,Taltal,11027,3,City,UTC-4,America/Santiago
+405243,CL,CL-BI,Talcahuano,Talcahuano,154333,3,City,UTC-4,America/Santiago
+405244,CL,CL-ML,Talca,Talca,216076,2,City,UTC-4,America/Santiago
+405245,CL,CL-RM,Talagante,Talagante,55203,2,City,UTC-4,America/Santiago
+405248,CL,CL-AP,Socoroma,Socoroma,75,4,hamlet,UTC-4,America/Santiago
+405249,CL,CL-AN,Sierra Gorda,Sierra Gorda,508,3,Village,UTC-4,America/Santiago
+405251,CL,CL-LI,San Vicente de Tagua Tagua,San Vicente de Tagua Tagua,20827,3,City,UTC-4,America/Santiago
+405252,CL,CL-RM,Santiago,Santiago de Chile,5283656,1,City,UTC-4,America/Santiago
+405253,CL,CL-VS,Santa Maria,Santa María,7637,3,City,UTC-4,America/Santiago
+405254,CL,CL-BI,Santa Juana,Santa Juana,10028,3,City,UTC-4,America/Santiago
+405256,CL,CL-LI,Santa Cruz,Santa Cruz,28754,3,City,UTC-4,America/Santiago
+405257,CL,CL-BI,Santa Barbara,Sta Bárbara,7943,3,City,UTC-4,America/Santiago
+405258,CL,CL-BI,San Rosendo,Choshuenco,2880,3,City,UTC-4,America/Santiago
+405259,CL,CL-RM,San Ramon,S Ramón,3078,3,Town,UTC-4,America/Santiago
+405260,CL,CL-ML,San Rafael,San Rafael,5649,3,City,UTC-4,America/Santiago
+405261,CL,CL-AN,San Pedro de Atacama,San Pedro de Atacama,5347,3,City,UTC-4,America/Santiago
+405262,CL,CL-RM,San Pedro,San Pedro,2374,3,Town,UTC-4,America/Santiago
+405264,CL,CL-LL,San Pablo,San Pablo,4940,3,City,UTC-4,America/Santiago
+405265,CL,CL-NB,San Nicolas,San Nicolás,2843,3,Town,UTC-4,America/Santiago
+405266,CL,CL-LL,San Juan de la Costa,San Juan de la Costa,7794,3,Municipality,UTC-4,America/Santiago
+405268,CL,CL-RM,San Jose de Maipo,S José de Maipo,6230,3,City,UTC-4,America/Santiago
+405269,CL,CL-ML,San Javier,San Javier de Loncomilla,29017,3,City,UTC-4,America/Santiago
+405270,CL,CL-NB,San Gregorio,San Gregorio,1278,3,Town,UTC-4,America/Santiago
+405271,CL,CL-LI,San Francisco de Mostazal,San Francisco de Mostazal,12719,3,City,UTC-4,America/Santiago
+405272,CL,CL-VS,San Felipe,San Felipe,63357,2,City,UTC-4,America/Santiago
+405273,CL,CL-NB,San Fabian de Alico,San Fabián de Alico,1807,2,Town,UTC-4,America/Santiago
+405274,CL,CL-VS,San Esteban,San Esteban,11031,3,City,UTC-4,America/Santiago
+405275,CL,CL-ML,San Clemente,San Clemente,21557,3,City,UTC-4,America/Santiago
+405276,CL,CL-NB,San Carlos,San Carlos,31888,2,City,UTC-4,America/Santiago
+405277,CL,CL-RM,San Bernardo,San Bernardo,290334,2,City,UTC-4,America/Santiago
+405278,CL,CL-NB,San Antonio,San Antonio,261,4,hamlet,UTC-4,America/Santiago
+405279,CL,CL-VS,San Antonio,San Antonio,86957,3,City,UTC-4,America/Santiago
+405280,CL,CL-CO,Salamanca,Salamanca,13265,3,City,UTC-4,America/Santiago
+405281,CL,CL-ML,Sagrada Familia,Sagrada Familia,3389,3,Town,UTC-4,America/Santiago
+405282,CL,CL-ML,Romeral,Romeral,7388,3,City,UTC-4,America/Santiago
+405283,CL,CL-LL,Rio Negro,Río Negro,6921,3,City,UTC-4,America/Santiago
+405284,CL,CL-LR,Rio Bueno,Río Bueno,16909,3,City,UTC-4,America/Santiago
+405286,CL,CL-ML,Retiro,Retiro,5584,3,City,UTC-4,America/Santiago
+405287,CL,CL-LI,Requinoa,Requínoa,10996,3,City,UTC-4,America/Santiago
+405288,CL,CL-LI,Rengo,Rengo,38100,3,City,UTC-4,America/Santiago
+405289,CL,CL-RM,Renca,Renca,150894,3,Municipality,UTC-4,America/Santiago
+405290,CL,CL-AR,Renaico,Renaico,6546,3,City,UTC-4,America/Santiago
+405291,CL,CL-ML,Rauco,Rauco,7043,3,City,UTC-4,America/Santiago
+405292,CL,CL-NB,Ranquil,Ránquil,6185,3,Municipality,UTC-4,America/Santiago
+405293,CL,CL-LI,Rancagua,Rancagua,231370,2,City,UTC-4,America/Santiago
+405294,CL,CL-TA,Quistagama,Quistagama,82,4,hamlet,UTC-4,America/Santiago
+405295,CL,CL-NB,Quirihue,Quirihue,9365,2,City,UTC-4,America/Santiago
+405296,CL,CL-VS,Quintero,Quintero,26247,3,City,UTC-4,America/Santiago
+405297,CL,CL-LI,Quinta de Tilcoco,Quinta de Tilcoco,7425,3,City,UTC-4,America/Santiago
+405299,CL,CL-LL,Quinchao,Quinchao,4201,3,Municipality,UTC-4,America/Santiago
+405300,CL,CL-VS,Quilpue,Quilpué,147991,2,City,UTC-4,America/Santiago
+405301,CL,CL-VS,Quillota,Quillota,72143,2,City,UTC-4,America/Santiago
+405302,CL,CL-NB,Quillon,Quillón,14134,3,City,UTC-4,America/Santiago
+405303,CL,CL-BI,Quilleco,Quilleco,2035,3,Town,UTC-4,America/Santiago
+405305,CL,CL-AN,Quillagua,Quillagua,141,4,hamlet,UTC-4,America/Santiago
+405306,CL,CL-RM,Quilicura,Quilicura,216229,3,Municipality,UTC-4,America/Santiago
+405307,CL,CL-ML,Quile,Quile,66,4,hamlet,UTC-4,America/Santiago
+405308,CL,CL-BI,Quilaco,Quilaco,1998,3,Town,UTC-4,America/Santiago
+405309,CL,CL-LL,Quemchi,Quemchi,2496,3,Town,UTC-4,America/Santiago
+405310,CL,CL-LL,Queilen,Queilén,2315,3,Town,UTC-4,America/Santiago
+405311,CL,CL-AP,Putre,Putre,1716,2,Town,UTC-4,America/Santiago
+405312,CL,CL-VS,Putaendo,Putaendo,6722,3,City,UTC-4,America/Santiago
+405313,CL,CL-LL,Purranque,Purranque,17162,3,City,UTC-4,America/Santiago
+405314,CL,CL-AR,Puren,Ñipas,7524,3,City,UTC-4,America/Santiago
+405315,CL,CL-LL,Puqueldon,Puqueldón,668,3,Village,UTC-4,America/Santiago
+405316,CL,CL-MA,Punta Arenas,Punta Arenas,119704,2,City,UTC-3,America/Punta_Arenas
+405317,CL,CL-CO,Punitaqui,Punitaqui,5700,3,City,UTC-4,America/Santiago
+405318,CL,CL-LI,Pumanque,Pumanque,719,3,Village,UTC-4,America/Santiago
+405320,CL,CL-MA,Puerto Williams,Puerto Williams,1757,2,City,UTC-4,America/Santiago
+405322,CL,CL-LL,Puerto Varas,Puerto Varas,26172,3,City,UTC-4,America/Santiago
+405323,CL,CL-AR,Saavedra,Puerto Saavedra,12124,3,Municipality,UTC-4,America/Santiago
+405324,CL,CL-LL,Quellon,Quellón,19688,3,City,UTC-4,America/Santiago
+405325,CL,CL-LL,Puerto Octay,Puerto Octay,1911,3,Town,UTC-4,America/Santiago
+405326,CL,CL-MA,Puerto Natales,Puerto Natales,20000,3,City,UTC-3,America/Punta_Arenas
+405327,CL,CL-LL,Puerto Montt,Puerto Montt,171939,2,City,UTC-4,America/Santiago
+405328,CL,CL-AI,Puerto Cisnes,Puerto Cisnes,2558,3,Town,UTC-3,America/Coyhaique
+405329,CL,CL-AI,Puerto Aysen,Puerto Aysén,16936,2,City,UTC-3,America/Coyhaique
+405330,CL,CL-RM,Puente Alto,Puente Alto,568106,2,City,UTC-4,America/Santiago
+405331,CL,CL-AR,Pucon,Buscarlo,22246,3,City,UTC-4,America/Santiago
+405332,CL,CL-VS,Puchuncavi,Puchuncaví,5271,3,City,UTC-4,America/Santiago
+405333,CL,CL-RM,Providencia,Providencia,147826,2,Municipality,UTC-4,America/Santiago
+405335,CL,CL-TA,Pozo Almonte,Pozo Almonte,9836,2,City,UTC-4,America/Santiago
+405336,CL,CL-MA,Porvenir,Porvenir,5943,2,City,UTC-3,America/Punta_Arenas
+405337,CL,CL-NB,Portezuelo,Portezuelo,1893,3,Town,UTC-4,America/Santiago
+405338,CL,CL-AP,Poconchile,Poconchile,50,4,hamlet,UTC-4,America/Santiago
+405339,CL,CL-LR,Lago Ranco,Lago Ranco,2065,3,Town,UTC-4,America/Santiago
+405340,CL,CL-LI,Placilla,Placilla,2310,3,Town,UTC-4,America/Santiago
+405341,CL,CL-AR,Pitrufquen,Pitrufquén,16754,3,City,UTC-4,America/Santiago
+405342,CL,CL-TA,Pisagua,Pisagua,365,4,hamlet,UTC-4,America/Santiago
+405343,CL,CL-RM,Pirque,Pirque,2993,3,City,UTC-4,America/Santiago
+405344,CL,CL-NB,Pinto,Pinto,4117,3,Town,UTC-4,America/Santiago
+405345,CL,CL-LI,Pichilemu,Pichilemu,13346,3,City,UTC-4,America/Santiago
+405346,CL,CL-LI,Pichidegua,Pichidegua,5416,3,City,UTC-4,America/Santiago
+405347,CL,CL-TA,Pica,Pica,3876,2,Town,UTC-4,America/Santiago
+405348,CL,CL-LI,Peumo,Peumo,8595,3,City,UTC-4,America/Santiago
+405349,CL,CL-VS,Petorca,Petorca,2726,3,Town,UTC-4,America/Santiago
+405351,CL,CL-AR,Perquenco,Perquenco,3608,3,Town,UTC-4,America/Santiago
+405352,CL,CL-LI,Peralillo,Peralillo,5164,3,City,UTC-4,America/Santiago
+405353,CL,CL-BI,Penco,Penco,46718,3,City,UTC-4,America/Santiago
+405354,CL,CL-ML,Pencahue,Pencahue,2901,3,Town,UTC-4,America/Santiago
+405355,CL,CL-RM,Penalolen,Peñalolén,247603,3,Municipality,UTC-4,America/Santiago
+405356,CL,CL-RM,Penaflor,Peñaflor,84315,3,City,UTC-4,America/Santiago
+405357,CL,CL-NB,Pemuco,Pemuco,4279,3,Town,UTC-4,America/Santiago
+405358,CL,CL-ML,Pelarco,Pelarco,2582,3,Town,UTC-4,America/Santiago
+405359,CL,CL-ML,Parral,Parral,28836,3,City,UTC-4,America/Santiago
+405360,CL,CL-LI,Paredones,Paredones,1840,3,Town,UTC-4,America/Santiago
+405361,CL,CL-VS,Papudo,Papudo,3858,3,Town,UTC-4,America/Santiago
+405362,CL,CL-VS,Panquehue,Panquehue,3806,3,Town,UTC-4,America/Santiago
+405363,CL,CL-LR,Panguipulli,Panguipulli,11091,3,City,UTC-4,America/Santiago
+405364,CL,CL-LI,Palmilla,Palmilla,2317,3,Town,UTC-4,America/Santiago
+405365,CL,CL-LL,Palena,Palena,1062,3,Town,UTC-4,America/Santiago
+405366,CL,CL-RM,Paine,Villa Alegre de Paine,32819,3,City,UTC-4,America/Santiago
+405367,CL,CL-LR,Paillaco,Paillaco,11296,3,City,UTC-4,America/Santiago
+405368,CL,CL-CO,Paiguano,Paihuano,2586,3,Village,UTC-4,America/Santiago
+405369,CL,CL-AR,Padre Las Casas,Padre Las Casas,42020,3,City,UTC-4,America/Santiago
+405370,CL,CL-RM,Padre Hurtado,Padre Hurtado,63250,3,City,UTC-4,America/Santiago
+405371,CL,CL-TA,Pachica,Pachica,168,4,hamlet,UTC-4,America/Santiago
+405373,CL,CL-CO,Ovalle,Ovalle,77138,2,City,UTC-4,America/Santiago
+405374,CL,CL-LL,Osorno,Osorno,145744,2,City,UTC-4,America/Santiago
+405375,CL,CL-VS,Olmue,Olmué,12248,3,City,UTC-4,America/Santiago
+405376,CL,CL-AN,Ollaguee,Ollagüe,240,3,Municipality,UTC-4,America/Santiago
+405377,CL,CL-LI,Olivar,Olivar Alto,14194,3,Municipality,UTC-4,America/Santiago
+405378,CL,CL-TA,Oficina Victoria,Oficina Victoria,83,4,locality,UTC-4,America/Santiago
+405379,CL,CL-AN,Maria Elena,María Elena,4902,3,Town,UTC-4,America/Santiago
+405380,CL,CL-AR,Nueva Imperial,Nueva Imperial,18764,3,City,UTC-4,America/Santiago
+405381,CL,CL-VS,Nogales,Nogales,8718,3,City,UTC-4,America/Santiago
+405382,CL,CL-NB,Niquen,Ñiquén,11532,3,Municipality,UTC-4,America/Santiago
+405383,CL,CL-NB,Ninhue,Ninhue,1609,3,Town,UTC-4,America/Santiago
+405384,CL,CL-BI,Negrete,Negrete,4844,3,Town,UTC-4,America/Santiago
+405385,CL,CL-LI,Navidad,Navidad,1002,3,Village,UTC-4,America/Santiago
+405386,CL,CL-LI,Nancagua,Rancagua,9007,3,City,UTC-4,America/Santiago
+405388,CL,CL-BI,Nacimiento,Nacimiento,22608,3,City,UTC-4,America/Santiago
+405389,CL,CL-BI,Mulchen,Mulchén,23278,3,City,UTC-4,America/Santiago
+405390,CL,CL-TA,Moquella,Moquella,106,4,hamlet,UTC-4,America/Santiago
+405391,CL,CL-CO,Monte Patria,Monte Patria,10239,3,City,UTC-4,America/Santiago
+405394,CL,CL-ML,Molina,Molina,28775,3,City,UTC-4,America/Santiago
+405396,CL,CL-RM,Melipilla,Melipilla,67656,2,City,UTC-4,America/Santiago
+405397,CL,CL-AR,Melipeuco,Melipeuco,2728,3,Town,UTC-4,America/Santiago
+405398,CL,CL-AN,Mejillones,Mejillones,13104,3,City,UTC-4,America/Santiago
+405399,CL,CL-LL,Maullin,Maullín,3940,3,Town,UTC-4,America/Santiago
+405400,CL,CL-ML,Maule,Maule,7203,3,City,UTC-4,America/Santiago
+405401,CL,CL-TA,Matilla,Matilla,503,3,Village,UTC-4,America/Santiago
+405402,CL,CL-RM,Maria Pinto,María Pinto,1962,3,Town,UTC-4,America/Santiago
+405404,CL,CL-LI,Marchihue,Marchigüe,2269,3,Town,UTC-4,America/Santiago
+405405,CL,CL-TA,Mamina,Mamiña,248,4,hamlet,UTC-4,America/Santiago
+405406,CL,CL-VS,Maitencillo,Maitencillo,2391,3,Town,UTC-4,America/Santiago
+405407,CL,CL-RM,Maipu,Maipú,532251,3,Municipality,UTC-4,America/Santiago
+405408,CL,CL-LR,Mafil,Máfil,4379,3,Town,UTC-4,America/Santiago
+405409,CL,CL-RM,Macul,Macul,123420,3,Municipality,UTC-4,America/Santiago
+405410,CL,CL-LI,Machali,Machalí,45620,3,City,UTC-4,America/Santiago
+405411,CL,CL-AR,Lumaco,Lumaco,1408,3,Town,UTC-4,America/Santiago
+405412,CL,CL-BI,Lota,Lota,43272,3,City,UTC-4,America/Santiago
+405413,CL,CL-CO,Los Vilos,Los Vilos,13816,3,City,UTC-4,America/Santiago
+405414,CL,CL-AR,Los Sauces,Los Sauces,4362,3,Town,UTC-4,America/Santiago
+405417,CL,CL-LI,Los Perales,Los Perales,322,3,Hamlet,UTC-4,America/Santiago
+405418,CL,CL-LL,Los Muermos,Los Muermos,7902,3,City,UTC-4,America/Santiago
+405419,CL,CL-AT,Los Molles,Los Molles,494,3,Village,UTC-4,America/Santiago
+405420,CL,CL-LR,Los Lagos,Los Lagos,9512,3,City,UTC-4,America/Santiago
+405421,CL,CL-CO,Los Condores,Los Cóndores,114,4,hamlet,UTC-4,America/Santiago
+405422,CL,CL-RM,Los Cerrillos,Los Cerrillos,1097,3,Village,UTC-4,America/Santiago
+405426,CL,CL-BI,Los Angeles,Los Ángeles,143023,2,City,UTC-4,America/Santiago
+405427,CL,CL-VS,Los Andes,Los Andes,59388,3,City,UTC-4,America/Santiago
+405428,CL,CL-BI,Los Alamos,Los Álamos,15244,3,City,UTC-4,America/Santiago
+405429,CL,CL-AR,Lonquimay,Lonquimay,3620,3,Town,UTC-4,America/Santiago
+405430,CL,CL-ML,Longavi,Longaví,7165,3,City,UTC-4,America/Santiago
+405431,CL,CL-AR,Loncoche,Loncoche,15447,3,City,UTC-4,America/Santiago
+405432,CL,CL-LI,Lolol,Lolol,2401,3,Town,UTC-4,America/Santiago
+405433,CL,CL-VS,Lo Gallardo,Lo Gallardo,2323,3,Town,UTC-4,America/Santiago
+405434,CL,CL-RM,Lo Barnechea,Barnechea,109778,3,Municipality,UTC-4,America/Santiago
+405435,CL,CL-LL,Llanquihue,Llanquihue,12945,3,City,UTC-4,America/Santiago
+405436,CL,CL-VS,Llaillay,Llay-Llay,17461,3,City,UTC-4,America/Santiago
+405437,CL,CL-AP,Linderos,Linderos,101,4,hamlet,UTC-4,America/Santiago
+405438,CL,CL-ML,Linares,Linares,72194,2,City,UTC-4,America/Santiago
+405439,CL,CL-TA,Limaxina,Limaxiña,64,4,hamlet,UTC-4,America/Santiago
+405440,CL,CL-VS,Limache,Limache,41546,3,City,UTC-4,America/Santiago
+405441,CL,CL-ML,Licanten,Licantén,3245,3,Town,UTC-4,America/Santiago
+405442,CL,CL-BI,Lebu,Lebu,21653,2,City,UTC-4,America/Santiago
+405443,CL,CL-AR,Lautaro,Lautaro,24604,3,City,UTC-4,America/Santiago
+405444,CL,CL-LR,La Union,La Unión,26298,2,City,UTC-4,America/Santiago
+405445,CL,CL-TA,La Tirana,La Tirana,837,3,Village,UTC-4,America/Santiago
+405448,CL,CL-CO,La Serena,La Serena,195382,2,City,UTC-4,America/Santiago
+405449,CL,CL-LI,Las Cabras,Las Cabras,8070,3,City,UTC-4,America/Santiago
+405451,CL,CL-RM,La Reina,Lareina,96811,3,Municipality,UTC-4,America/Santiago
+405452,CL,CL-CO,La Pampa,La Pampa,368,3,Hamlet,UTC-4,America/Santiago
+405453,CL,CL-LR,Lanco,Lanco,8521,3,City,UTC-4,America/Santiago
+405454,CL,CL-RM,Lampa,Lampa,44300,3,City,UTC-4,America/Santiago
+405455,CL,CL-VS,La Ligua,La Ligua,19127,3,City,UTC-4,America/Santiago
+405456,CL,CL-BI,Laja,La Laja,16320,3,Municipality,UTC-4,America/Santiago
+405457,CL,CL-TA,La Huayca,La Huayca,304,3,Village,UTC-4,America/Santiago
+405459,CL,CL-CO,La Higuera,La Higuera,1251,3,Town,UTC-4,America/Santiago
+405460,CL,CL-RM,La Granja,La Granja,120920,3,Municipality,UTC-4,America/Santiago
+405461,CL,CL-AI,Lago Verde,Lago Verde,869,3,Municipality,UTC-3,America/Coyhaique
+405462,CL,CL-BI,Florida,Florida,4373,3,Town,UTC-4,America/Santiago
+405463,CL,CL-RM,La Florida,Florida,386307,3,Municipality,UTC-4,America/Santiago
+405464,CL,CL-VS,La Floresta,La Floresta,56,4,hamlet,UTC-4,America/Santiago
+405465,CL,CL-LI,La Estrella,La Estrella,1219,3,Town,UTC-4,America/Santiago
+405466,CL,CL-VS,La Cruz,La Cruz,19408,3,City,UTC-4,America/Santiago
+405467,CL,CL-VS,La Calera,La Calera,48647,3,City,UTC-4,America/Santiago
+405471,CL,CL-RM,Isla de Maipo,Isla de Maipo,13692,3,City,UTC-4,America/Santiago
+405472,CL,CL-TA,Iquique,Iquique,199587,2,City,UTC-4,America/Santiago
+405474,CL,CL-ML,Iloca,Iloca,1430,3,Town,UTC-4,America/Santiago
+405475,CL,CL-CO,Illapel,Illapel,20751,2,City,UTC-4,America/Santiago
+405476,CL,CL-CO,Hurtado,Hurtado,283,4,hamlet,UTC-4,America/Santiago
+405477,CL,CL-AT,Huasco,Huasco,7071,3,City,UTC-4,America/Santiago
+405478,CL,CL-TA,Huara,Huara,1272,2,Town,UTC-4,America/Santiago
+405479,CL,CL-BI,Hualpen,Hualpén,90704,3,City,UTC-4,America/Santiago
+405480,CL,CL-ML,Hualane,Hualañe,5667,3,Town,UTC-4,America/Santiago
+405481,CL,CL-VS,Hijuelas,Hijuelas,9712,3,City,UTC-4,America/Santiago
+405483,CL,CL-TA,Huatacondo,Huatacondo,55,4,hamlet,UTC-4,America/Santiago
+405485,CL,CL-BI,Hualqui,Hualqui,19838,3,City,UTC-4,America/Santiago
+405487,CL,CL-LI,Guadalao,Guadalao,168,4,hamlet,UTC-4,America/Santiago
+405488,CL,CL-LI,Graneros,Graneros,25990,3,City,UTC-4,America/Santiago
+405489,CL,CL-AR,Gorbea,Gorbea,8592,3,City,UTC-4,America/Santiago
+405490,CL,CL-AP,General Lagos,General Lagos,740,3,Municipality,UTC-4,America/Santiago
+405491,CL,CL-AR,Galvarino,Galvarino,4224,3,Town,UTC-4,America/Santiago
+405492,CL,CL-LR,Futrono,Futrono,7095,3,City,UTC-4,America/Santiago
+405493,CL,CL-LL,Futaleufu,Futaleufú,1831,3,Town,UTC-4,America/Santiago
+405494,CL,CL-LL,Fresia,Fresia,7361,3,City,UTC-4,America/Santiago
+405495,CL,CL-AT,Freirina,Freirina,3504,3,Town,UTC-4,America/Santiago
+405496,CL,CL-AR,Freire,Freire,6755,3,Town,UTC-4,America/Santiago
+405497,CL,CL-RM,Estacion Colina,Colina,3937,3,Town,UTC-4,America/Santiago
+405498,CL,CL-AP,Esquina,Esquiña,54,4,hamlet,UTC-4,America/Santiago
+405499,CL,CL-RM,Lo Espejo,Lo Espejo,100694,3,Municipality,UTC-4,America/Santiago
+405500,CL,CL-AR,Ercilla,Ercilla,2302,3,Town,UTC-4,America/Santiago
+405502,CL,CL-ML,Empedrado,Empedrado,3005,3,Town,UTC-4,America/Santiago
+405503,CL,CL-VS,El Tabo,El Tabo,11210,3,City,UTC-4,America/Santiago
+405504,CL,CL-LI,El Sauce,El Sauce,718,3,Village,UTC-4,America/Santiago
+405505,CL,CL-ML,El Rincon,El Rincón,410,3,Village,UTC-4,America/Santiago
+405506,CL,CL-VS,El Quisco,El Quisco,16461,3,City,UTC-4,America/Santiago
+405508,CL,CL-RM,El Monte,El Monte,28229,3,City,UTC-4,America/Santiago
+405510,CL,CL-ML,El # Emboque,El Emboque,1251,3,Town,UTC-4,America/Santiago
+405512,CL,CL-NB,El Carmen,El Carmen,5609,3,Town,UTC-4,America/Santiago
+405514,CL,CL-VS,El Asilo,El Asilo,231,4,hamlet,UTC-4,America/Santiago
+405515,CL,CL-LI,Donihue,Doñihue,14602,3,Municipality,UTC-4,America/Santiago
+405516,CL,CL-AT,Diego de Almagro,Diego de Almagro,10574,3,City,UTC-4,America/Santiago
+405518,CL,CL-LL,Dalcahue,Dalcahue,7120,3,City,UTC-4,America/Santiago
+405519,CL,CL-AP,Cuya,Cuya,87,2,hamlet,UTC-4,America/Santiago
+405520,CL,CL-ML,Curico,Curicó,103676,2,City,UTC-4,America/Santiago
+405522,CL,CL-ML,Curepto,Curepto,3261,3,Town,UTC-4,America/Santiago
+405523,CL,CL-AR,Curarrehue,Curarrehue,2148,3,Town,UTC-4,America/Santiago
+405524,CL,CL-BI,Curanilahue,Curanilahue,30375,3,City,UTC-4,America/Santiago
+405525,CL,CL-LL,Curaco de Velez,Curaco de Vélez,977,3,Village,UTC-4,America/Santiago
+405526,CL,CL-RM,Curacavi,Curacaví,25479,3,City,UTC-4,America/Santiago
+405527,CL,CL-AR,Curacautin,Curacautín,12758,3,City,UTC-4,America/Santiago
+405528,CL,CL-AR,Cunco,Cunco,7882,3,City,UTC-4,America/Santiago
+405529,CL,CL-RM,Culitrin,Culitrín,497,4,hamlet,UTC-4,America/Santiago
+405530,CL,CL-LI,Coya,Coya,2513,3,Town,UTC-4,America/Santiago
+405532,CL,CL-LR,Corral,Corral,3485,3,Town,UTC-4,America/Santiago
+405533,CL,CL-BI,Coronel,Coronel,111238,3,City,UTC-4,America/Santiago
+405534,CL,CL-CO,Coquimbo,Coquimbo,204068,2,City,UTC-4,America/Santiago
+405536,CL,CL-AT,Copiapo,Copiapó,150804,2,City,UTC-4,America/Santiago
+405537,CL,CL-BI,Contulmo,Contulmo,3061,3,Town,UTC-4,America/Santiago
+405538,CL,CL-ML,Constitucion,Constitución,35970,3,City,UTC-4,America/Santiago
+405539,CL,CL-VS,Concon,Concón,42600,3,City,UTC-4,America/Santiago
+405540,CL,CL-BI,Concepcion,Concepción,223574,2,City,UTC-4,America/Santiago
+405542,CL,CL-CO,Combarbala,Combarbalá,5915,3,City,UTC-4,America/Santiago
+405543,CL,CL-LI,Coltauco,Coltauco,12924,3,Municipality,UTC-4,America/Santiago
+405544,CL,CL-AR,Collipulli,Collipulli,16284,3,City,UTC-4,America/Santiago
+405545,CL,CL-RM,Colina,Colina,124210,2,City,UTC-4,America/Santiago
+405547,CL,CL-TA,Colchane,Colchane,1500,2,Municipality,UTC-4,America/Santiago
+405548,CL,CL-ML,Colbun,Colbún,7300,3,City,UTC-4,America/Santiago
+405549,CL,CL-LI,Coinco,Coinco,3369,3,Town,UTC-4,America/Santiago
+405550,CL,CL-NB,Coihueco,Coihueco,9097,3,City,UTC-4,America/Santiago
+405551,CL,CL-BI,Colhue,Colhue,363,3,Hamlet,UTC-4,America/Santiago
+405553,CL,CL-AI,Coyhaique,Coyhaique,47727,2,City,UTC-3,America/Coyhaique
+405554,CL,CL-NB,Coelemu,Coelemu,10297,3,City,UTC-4,America/Santiago
+405555,CL,CL-AP,Codpa,Codpa,208,4,hamlet,UTC-4,America/Santiago
+405556,CL,CL-LI,Codegua,Codegua,6975,3,City,UTC-4,America/Santiago
+405557,CL,CL-AI,Cochrane,Cochrane,2789,3,Town,UTC-3,America/Coyhaique
+405559,CL,CL-LL,Cochamo,Cochamó,625,3,Village,UTC-4,America/Santiago
+405560,CL,CL-NB,Cobquecura,Cobquecura,1706,3,Town,UTC-4,America/Santiago
+405561,CL,CL-TA,Chusmiza,Chusmiza,70,4,hamlet,UTC-4,America/Santiago
+405562,CL,CL-LL,Chonchi,Chonchi,5632,3,City,UTC-4,America/Santiago
+405563,CL,CL-AR,Cholchol,Cholchol,4118,3,Town,UTC-4,America/Santiago
+405565,CL,CL-LI,Chimbarongo,Chimbarongo,17276,3,City,UTC-4,America/Santiago
+405566,CL,CL-NB,Chillan Viejo,Chillán Viejo,27359,3,City,UTC-4,America/Santiago
+405567,CL,CL-NB,Chillan,Chillán,164270,2,City,UTC-4,America/Santiago
+405569,CL,CL-AI,Chile Chico,Chile Chico,3058,2,Town,UTC-3,America/Coyhaique
+405570,CL,CL-BI,Chiguayante,Chiguayante,85633,3,City,UTC-4,America/Santiago
+405571,CL,CL-LI,Chepica,Chépica,6192,3,City,UTC-4,America/Santiago
+405572,CL,CL-CO,Chillepin,Chillepín,1550,3,Town,UTC-4,America/Santiago
+405574,CL,CL-TA,Chapiquilta,Chapiquilta,70,4,hamlet,UTC-4,America/Santiago
+405575,CL,CL-ML,Chanco,Chanco,3893,3,Town,UTC-4,America/Santiago
+405576,CL,CL-AT,Chanaral,Chañaral,10634,2,City,UTC-4,America/Santiago
+405577,CL,CL-TA,Chanavayita,Chanavayita,603,3,Village,UTC-4,America/Santiago
+405579,CL,CL-LL,Chaiten,Chaitén,3347,3,Town,UTC-4,America/Santiago
+405580,CL,CL-RM,Chada,Chada,1156,3,Town,UTC-4,America/Santiago
+405581,CL,CL-ML,Cauquenes,Cauquenes,33151,3,City,UTC-4,America/Santiago
+405582,CL,CL-VS,Catemu,Catemu,10018,3,City,UTC-4,America/Santiago
+405583,CL,CL-LL,Castro,Castro,33417,3,City,UTC-4,America/Santiago
+405584,CL,CL-VS,Casablanca,Casablanca,18347,3,City,UTC-4,America/Santiago
+405585,CL,CL-VS,Cartagena,Cartagena,20007,3,City,UTC-4,America/Santiago
+405587,CL,CL-AR,Carahue,Carahue,11600,3,City,UTC-4,America/Santiago
+405588,CL,CL-VS,Caracoles,Caracoles,590,3,Village,UTC-4,America/Santiago
+405589,CL,CL-CO,Canela,Canela,9319,3,Municipality,UTC-4,America/Santiago
+405590,CL,CL-TA,Camina,Camiña,459,2,Village,UTC-4,America/Santiago
+405591,CL,CL-MA,Cameron,Cámeron,96,2,hamlet,UTC-3,America/Punta_Arenas
+405592,CL,CL-AP,Camarones,Camarones,606,3,Municipality,UTC-4,America/Santiago
+405593,CL,CL-VS,Calle Larga,Calle Larga,10877,3,City,UTC-4,America/Santiago
+405594,CL,CL-AT,Caldera,Caldera,16150,3,City,UTC-4,America/Santiago
+405595,CL,CL-LL,Calbuco,Calbuco,15903,3,City,UTC-4,America/Santiago
+405596,CL,CL-AN,Calama,Calama,157575,2,City,UTC-4,America/Santiago
+405597,CL,CL-BI,Cabrero,Cabrero,16745,3,City,UTC-4,America/Santiago
+405598,CL,CL-VS,Cabildo,Cabildo,10909,3,City,UTC-4,America/Santiago
+405599,CL,CL-NB,Bulnes,Bulnes,12136,2,City,UTC-4,America/Santiago
+405600,CL,CL-RM,Buin,Buin,65607,3,City,UTC-4,America/Santiago
+405601,CL,CL-AP,Belen,Belén,55,4,hamlet,UTC-4,America/Santiago
+405602,CL,CL-AN,Baquedano,Baquedano,858,2,Village,UTC-4,America/Santiago
+405603,CL,CL-AP,Arica,Arica,202131,2,City,UTC-4,America/Santiago
+405604,CL,CL-BI,Arauco,Arauco,17615,3,City,UTC-4,America/Santiago
+405605,CL,CL-BI,Antuco,Antuco,2111,3,Town,UTC-4,America/Santiago
+405606,CL,CL-AN,Antofagasta,Antofagasta,385812,2,City,UTC-4,America/Santiago
+405607,CL,CL-AR,Angol,Angol,48148,2,City,UTC-4,America/Santiago
+405608,CL,CL-CO,Andacollo,Andacollo,9989,3,City,UTC-4,America/Santiago
+405609,CL,CL-LL,Ancud,Ancud,28162,3,City,UTC-4,America/Santiago
+405610,CL,CL-TA,Alto Hospicio,Alto Hospicio,138424,2,City,UTC-4,America/Santiago
+405611,CL,CL-AT,Alto del Carmen,Alto del Carmen,554,3,Village,UTC-4,America/Santiago
+405612,CL,CL-VS,Algarrobo,Algarrobo,10217,3,City,UTC-4,America/Santiago
+405615,CL,CL-BI,Canete,Cañete,19398,3,City,UTC-4,America/Santiago
+405617,CL,CL-VS,Hanga Roa,Hanga Roa,5234,2,Town,UTC-6,Pacific/Easter
+405619,CL,CL-BI,San Pedro de la Paz,San Pedro de la Paz,131521,3,City,UTC-4,America/Santiago
+405620,CL,CL-RM,Recoleta,Recoleta,165663,3,Municipality,UTC-4,America/Santiago
+405621,CL,CL-RM,La Pintana,La Pintana,188980,3,Municipality,UTC-4,America/Santiago
+405622,CL,CL-RM,Lo Prado,Lo Prado,102078,3,Municipality,UTC-4,America/Santiago
+405623,CL,CL-MA,Torres del Paine,Torres del Paine,564,3,Municipality,UTC-3,America/Punta_Arenas
+405624,CL,CL-LI,San Fernando,San Fernando,58367,3,City,UTC-4,America/Santiago
+405625,CL,CL-AT,Vallenar,Vallenar,\N,2,locality,UTC-4,America/Santiago
+405626,CL,CL-AP,Puro Chile,Puro Chile,64,4,hamlet,UTC-4,America/Santiago
+405627,CL,CL-AP,Santa Rosa,Santa Rosa,362,3,Town,UTC-4,America/Santiago
+405629,CL,CL-MA,Timaukel,Timaukel,245,3,Municipality,UTC-3,America/Punta_Arenas
+405630,CL,CL-LI,Termas del Flaco,Termas del Flaco,141,4,hamlet,UTC-4,America/Santiago
+405632,CL,CL-AI,Villa O'higgins,Villa O'Higgins,481,3,Village,UTC-3,America/Coyhaique
+405635,CL,CL-LR,El Llolly,El Llolly,508,4,village,UTC-4,America/Santiago
+405638,CL,CL-LR,Santa Rosa Grande,Santa Rosa Grande,273,4,hamlet,UTC-4,America/Santiago
+405639,CL,CL-LR,Santa Rosa Chica,Santa Rosa Chica,246,4,hamlet,UTC-4,America/Santiago
+405640,CL,CL-LR,Dollinco,Dollinco,258,3,Indigenous Community,UTC-4,America/Santiago
+405643,CL,CL-LR,Puerto Las Rosas,Puerto Las Rosas,99,4,hamlet,UTC-4,America/Santiago
+405645,CL,CL-LR,Los Chilcos,Los Chilcos,173,4,hamlet,UTC-4,America/Santiago
+405646,CL,CL-LR,Puerto Nuevo,Puerto Nuevo,601,4,village,UTC-4,America/Santiago
+405647,CL,CL-LR,Arquilhue,Arquilhue,90,4,hamlet,UTC-4,America/Santiago
+405652,CL,CL-LR,Hueinahue,Hueinahue,125,4,hamlet,UTC-4,America/Santiago
+405655,CL,CL-LR,Filuco,Filuco,50,4,hamlet,UTC-4,America/Santiago
+405658,CL,CL-LL,Nueva Esperanza,Nueva Esperanza,677,3,Village,UTC-4,America/Santiago
+405660,CL,CL-LL,Entre Lagos,Entre Lagos,5027,3,City,UTC-4,America/Santiago
+405664,CL,CL-LL,Puerto Chalupa,Puerto Chalupa,52,4,hamlet,UTC-4,America/Santiago
+405671,CL,CL-LL,Piedras Negras,Piedras Negras,73,4,hamlet,UTC-4,America/Santiago
+405673,CL,CL-LL,Las Gaviotas,Las Gaviotas,190,3,Hamlet,UTC-4,America/Santiago
+405675,CL,CL-LL,San Manuel,San Manuel,987,3,Village,UTC-4,America/Santiago
+405682,CL,CL-AR,Gualpin,Gualpín,2058,3,Town,UTC-4,America/Santiago
+405685,CL,CL-AR,Santa Ana,Santa Ana,412,3,Village,UTC-4,America/Santiago
+405694,CL,CL-AR,Corte Alto,Corte Alto,931,3,Town,UTC-4,America/Santiago
+405696,CL,CL-AR,El Porvenir,El Porvenir,966,3,Village,UTC-4,America/Santiago
+405703,CL,CL-AR,Coipue,Coipué,308,4,hamlet,UTC-4,America/Santiago
+405704,CL,CL-AR,Santa Cecilia,Santa Cecilia,928,3,Suburban Settlement,UTC-4,America/Santiago
+405708,CL,CL-AR,Santa Amelia,Santa Amelia,648,3,Village,UTC-4,America/Santiago
+405711,CL,CL-AR,Caupolican,Caupolicán,548,3,Village,UTC-4,America/Santiago
+405713,CL,CL-AR,La Frontera,La Frontera,58,4,hamlet,UTC-4,America/Santiago
+405717,CL,CL-AR,Mune Bajo,Mune Bajo,177,4,hamlet,UTC-4,America/Santiago
+405727,CL,CL-AR,Las Vegas,Las Vegas,320,3,Suburban Settlement,UTC-4,America/Santiago
+405730,CL,CL-AR,Tres Esquinas,Tres Esquinas,919,3,Village,UTC-4,America/Santiago
+405739,CL,CL-AR,Boroa Norte,Boroa Norte,137,4,hamlet,UTC-4,America/Santiago
+405740,CL,CL-AR,Boroa Sur,Boroa Sur,111,4,hamlet,UTC-4,America/Santiago
+405746,CL,CL-AR,Huellanto,Huellanto,135,4,hamlet,UTC-4,America/Santiago
+405755,CL,CL-AR,Santa Victoria,Santa Victoria,612,3,Village,UTC-4,America/Santiago
+405757,CL,CL-AR,Piren Bajo,Pirén Bajo,161,4,hamlet,UTC-4,America/Santiago
+405760,CL,CL-AR,Nancul,Ñancul,1531,3,Town,UTC-4,America/Santiago
+405786,CL,CL-LR,Cuyinhue,Cuyinhue,82,4,hamlet,UTC-4,America/Santiago
+405791,CL,CL-LR,Dollinco,Dollinco,457,4,hamlet,UTC-4,America/Santiago
+405793,CL,CL-LR,Loncotraro,Loncotraro,321,3,Hamlet,UTC-4,America/Santiago
+405810,CL,CL-LR,San Pedro,San Pedro,111,4,hamlet,UTC-4,America/Santiago
+405818,CL,CL-LR,Melefquen,Melefquén,844,3,Village,UTC-4,America/Santiago
+405819,CL,CL-LR,El Mirador,El Mirador,885,3,Village,UTC-4,America/Santiago
+405822,CL,CL-LR,Puerto Calafquen,Puerto Calafquén,131,4,hamlet,UTC-4,America/Santiago
+405827,CL,CL-LR,Los Pinos,Los Pinos,344,3,Village,UTC-4,America/Santiago
+405833,CL,CL-LR,Catripulli,Catripulli,302,3,Village,UTC-4,America/Santiago
+405839,CL,CL-LR,Santa Fe,Santa Fé,2726,3,Town,UTC-4,America/Santiago
+405845,CL,CL-LR,La Montana,La Montaña,374,3,Hamlet,UTC-4,America/Santiago
+405849,CL,CL-LR,Dollinco,Dollinco,113,4,hamlet,UTC-4,America/Santiago
+405851,CL,CL-LR,Puyumen,Puyumén,80,4,hamlet,UTC-4,America/Santiago
+405852,CL,CL-LR,Los Pellines,Los Pellines,1333,3,Town,UTC-4,America/Santiago
+405853,CL,CL-LR,Calfuco,Calfuco,67,4,hamlet,UTC-4,America/Santiago
+405857,CL,CL-LR,Santa Elvira,Santa Elvira,59,4,hamlet,UTC-4,America/Santiago
+405861,CL,CL-LR,Santa Isabel,Santa Isabel,561,3,Village,UTC-4,America/Santiago
+405864,CL,CL-LR,Los Ciruelos,Los Ciruelos,223,3,Suburban Settlement,UTC-4,America/Santiago
+405865,CL,CL-LR,Los Robles,Los Robles,333,3,Hamlet,UTC-4,America/Santiago
+405889,CL,CL-LR,Huidif,Huidif,53,4,hamlet,UTC-4,America/Santiago
+405890,CL,CL-LR,Santa Julia,Santa Julia,335,3,Hamlet,UTC-4,America/Santiago
+405892,CL,CL-LR,Las Huellas,Las Huellas,155,4,hamlet,UTC-4,America/Santiago
+405893,CL,CL-LR,Punahue,Punahue,151,4,hamlet,UTC-4,America/Santiago
+405896,CL,CL-LR,El Vergel,El Vergel,56,4,hamlet,UTC-4,America/Santiago
+405900,CL,CL-LR,La Pena,La Peña,314,3,Village,UTC-4,America/Santiago
+405907,CL,CL-LR,Santa Elena,Santa Elena,4873,3,Town,UTC-4,America/Santiago
+405916,CL,CL-LR,San Guillermo,San Guillermo,379,3,Hamlet,UTC-4,America/Santiago
+405917,CL,CL-LR,Pucara,Pucará,88,4,hamlet,UTC-4,America/Santiago
+405919,CL,CL-LR,La Pellinada,La Pellinada,206,4,hamlet,UTC-4,America/Santiago
+405929,CL,CL-AR,La Primavera,La Primavera,406,3,Village,UTC-4,America/Santiago
+405935,CL,CL-AR,Namoncahue,Namoncahue,74,4,hamlet,UTC-4,America/Santiago
+405941,CL,CL-AR,Bellavista,Bellavista,821,3,Suburban Settlement,UTC-4,America/Santiago
+405943,CL,CL-AR,Conquil,Cónquil,466,4,hamlet,UTC-4,America/Santiago
+405948,CL,CL-AR,Quetroleufu,Quetroleufu,52,4,hamlet,UTC-4,America/Santiago
+405954,CL,CL-AR,Altamira,Altamira,81,4,hamlet,UTC-4,America/Santiago
+405962,CL,CL-AR,Candelaria,Candelaria,702,4,hamlet,UTC-4,America/Santiago
+405964,CL,CL-AR,El Volcan,El Volcán,399,4,hamlet,UTC-4,America/Santiago
+405966,CL,CL-AR,El Turbio,El Turbio,59,4,hamlet,UTC-4,America/Santiago
+405967,CL,CL-AR,Villa San Pedro,Villa San Pedro,198,4,hamlet,UTC-4,America/Santiago
+405969,CL,CL-AR,Llafenco,Llafenco,459,4,hamlet,UTC-4,America/Santiago
+405970,CL,CL-AR,Coilaco Alto,Coilaco Alto,115,4,hamlet,UTC-4,America/Santiago
+405980,CL,CL-AR,Refugio Villarrica,Refugio Villarrica,768,4,village,UTC-4,America/Santiago
+405982,CL,CL-AR,Las Rosas,Las Rosas,343,3,Hamlet,UTC-4,America/Santiago
+405984,CL,CL-AR,Loncofilo,Loncofilo,51,4,hamlet,UTC-4,America/Santiago
+405986,CL,CL-AR,Huililco,Huililco,80,4,village,UTC-4,America/Santiago
+405987,CL,CL-AR,Huincapalihue,Huincapalihue,101,4,hamlet,UTC-4,America/Santiago
+405991,CL,CL-AR,Reduccion Quinco,Reducción Quinco,3385,4,village,UTC-4,America/Santiago
+405992,CL,CL-AR,Reduccion Melilahuen,Reducción Melilahuen,3396,4,village,UTC-4,America/Santiago
+405995,CL,CL-LR,San Jose,San José,1102,3,Village,UTC-4,America/Santiago
+405997,CL,CL-LR,La Chepica,La Chépica,75,4,isolated_dwelling,UTC-4,America/Santiago
+405998,CL,CL-LR,Cajon Negro,Cajón Negro,203,4,village,UTC-4,America/Santiago
+406010,CL,CL-LR,Conaripe Alto,Coñaripe Alto,86,4,hamlet,UTC-4,America/Santiago
+406011,CL,CL-LR,Conaripe Bajo,Coñaripe Bajo,123,4,hamlet,UTC-4,America/Santiago
+406017,CL,CL-LR,Llonquen,Llonquén,230,4,hamlet,UTC-4,America/Santiago
+406024,CL,CL-LR,Reduccion Punahue,Reducción Punahue,2470,4,village,UTC-4,America/Santiago
+406026,CL,CL-LR,Truful,Truful,306,4,village,UTC-4,America/Santiago
+406027,CL,CL-LR,Quebrada Honda,Quebrada Honda,2048,4,village,UTC-4,America/Santiago
+406038,CL,CL-AR,Canada,Canadá,105,4,hamlet,UTC-4,America/Santiago
+406039,CL,CL-AR,Mapunanco,Mapuñanco,457,4,village,UTC-4,America/Santiago
+406041,CL,CL-AR,Plazuela,Plazuela,739,3,Village,UTC-4,America/Santiago
+406042,CL,CL-AR,Las Piedras,Las Piedras,318,3,Hamlet,UTC-4,America/Santiago
+406043,CL,CL-AR,Jauja,Jauja,405,4,village,UTC-4,America/Santiago
+406044,CL,CL-AR,Amargos,Amargos,1779,4,village,UTC-4,America/Santiago
+406049,CL,CL-BI,Pemehue,Pemehue,70,4,hamlet,UTC-4,America/Santiago
+406050,CL,CL-BI,Reduccion Malla Quepuca,Reducción Malla Quepuca,218,4,village,UTC-4,America/Santiago
+406053,CL,CL-BI,El Barco,El Barco,112,4,hamlet,UTC-4,America/Santiago
+406054,CL,CL-BI,Los Guindos,Los Guindos,1337,4,village,UTC-4,America/Santiago
+406056,CL,CL-AR,Encinar,Encinar,608,4,village,UTC-4,America/Santiago
+406057,CL,CL-AR,La Selva,La Selva,578,4,village,UTC-4,America/Santiago
+406061,CL,CL-AR,Baltimore,Baltimore,166,4,hamlet,UTC-4,America/Santiago
+406064,CL,CL-AR,Santa Clara,Santa Clara,2434,3,Town,UTC-4,America/Santiago
+406066,CL,CL-AR,Prado de Cato,Prado de Cato,1562,4,village,UTC-4,America/Santiago
+406071,CL,CL-AR,Ontario,Ontario,66,4,hamlet,UTC-4,America/Santiago
+406072,CL,CL-AR,Las Mariposas,Las Mariposas,1389,3,Town,UTC-4,America/Santiago
+406073,CL,CL-AR,La Selva,La Selva,52,4,hamlet,UTC-4,America/Santiago
+406075,CL,CL-AR,Manzanar,Manzanar,354,3,Hamlet,UTC-4,America/Santiago
+406077,CL,CL-AR,Frutillar,Frutillar,7614,3,City,UTC-4,America/Santiago
+406079,CL,CL-AR,Santa Marta,Santa Marta,378,3,Village,UTC-4,America/Santiago
+406081,CL,CL-AR,Callin,Callín,2271,4,village,UTC-4,America/Santiago
+406082,CL,CL-AR,Tolguaca,Tolguaca,113,4,hamlet,UTC-4,America/Santiago
+406085,CL,CL-AR,San Pedro,San Pedro,241,4,village,UTC-4,America/Santiago
+406087,CL,CL-AR,San Luis,San Luis,706,3,Village,UTC-4,America/Santiago
+406088,CL,CL-AR,Santa Teresa,Santa Teresa,495,3,Hamlet,UTC-4,America/Santiago
+406089,CL,CL-AR,El Rosario,El Rosario,379,3,Village,UTC-4,America/Santiago
+406090,CL,CL-AR,Miraflores,Miraflores,869,3,Village,UTC-4,America/Santiago
+406093,CL,CL-AR,Huillinlebu,Huillinlebú,378,4,village,UTC-4,America/Santiago
+406094,CL,CL-AR,Pehuenco,Pehuenco,347,4,village,UTC-4,America/Santiago
+406095,CL,CL-AR,Balseadero Caracoles,Balseadero Caracoles,461,4,village,UTC-4,America/Santiago
+406098,CL,CL-AR,Zapadores,Zapadores,100,4,hamlet,UTC-4,America/Santiago
+406100,CL,CL-AR,Dillo,Dillo,53,4,hamlet,UTC-4,America/Santiago
+406105,CL,CL-AR,Reduccion Cheuque,Reducción Cheuque,1473,4,village,UTC-4,America/Santiago
+406106,CL,CL-AR,Reduccion Amaza,Reducción Amaza,444,4,village,UTC-4,America/Santiago
+406107,CL,CL-AR,Reduccion Lincopan,Reducción Lincopán,503,4,village,UTC-4,America/Santiago
+406109,CL,CL-AR,La Reserva,La Reserva,590,4,village,UTC-4,America/Santiago
+406111,CL,CL-AR,Santa Elena,Santa Elena,550,4,village,UTC-4,America/Santiago
+406114,CL,CL-AR,Reduccion Corrotue,Reducción Corrotue,201,4,village,UTC-4,America/Santiago
+406115,CL,CL-AR,El Manzano,El Manzano,1715,3,Town,UTC-4,America/Santiago
+406123,CL,CL-AR,La Angostura,La Angostura,865,4,village,UTC-4,America/Santiago
+406128,CL,CL-AR,Tres Esquinas,Tres Esquinas,2199,4,village,UTC-4,America/Santiago
+406129,CL,CL-AR,San Antonio,San Antonio,752,4,village,UTC-4,America/Santiago
+406130,CL,CL-AR,Los Aromos,Los Aromos,71,4,hamlet,UTC-4,America/Santiago
+406132,CL,CL-AR,Santa Ema,Santa Ema,255,4,hamlet,UTC-4,America/Santiago
+406139,CL,CL-AR,Las Vertientes,Las Vertientes,347,3,Village,UTC-4,America/Santiago
+406161,CL,CL-AR,San Lorenzo,San Lorenzo,372,3,Hamlet,UTC-4,America/Santiago
+406163,CL,CL-AR,Sierra Nevada,Sierra Nevada,76,4,hamlet,UTC-4,America/Santiago
+406165,CL,CL-AR,Porvenir,Porvenir,6263,3,City,UTC-4,America/Santiago
+406180,CL,CL-AR,Cancura,Cancura,887,3,Village,UTC-4,America/Santiago
+406190,CL,CL-AR,La Aurora,La Aurora,864,3,Suburban Settlement,UTC-4,America/Santiago
+406191,CL,CL-AR,Villa Garcia,Villa García,131,4,hamlet,UTC-4,America/Santiago
+406203,CL,CL-AR,Santa Ines,Santa Inés,465,3,Village,UTC-4,America/Santiago
+406205,CL,CL-AR,Santa Sofia,Santa Sofía,624,3,Village,UTC-4,America/Santiago
+406217,CL,CL-BI,Coihueco,Coihueco,97,4,hamlet,UTC-4,America/Santiago
+406219,CL,CL-BI,Villa Rivas,Villa Rivas,430,3,Village,UTC-4,America/Santiago
+406233,CL,CL-AR,San Patricio,San Patricio,907,3,Village,UTC-4,America/Santiago
+406242,CL,CL-AR,Agua Buena,Agua Buena,1216,3,Town,UTC-4,America/Santiago
+406245,CL,CL-BI,Tranaquepe,Tranaquepe,886,3,Indigenous Community,UTC-4,America/Santiago
+406247,CL,CL-BI,Huillinco,Huillinco,465,3,Village,UTC-4,America/Santiago
+406248,CL,CL-BI,Grano de Trigo,Grano de Trigo,54,4,hamlet,UTC-4,America/Santiago
+406254,CL,CL-AR,La Laguna,La Laguna,663,3,Village,UTC-4,America/Santiago
+406255,CL,CL-AR,La Union,La Unión,123,4,hamlet,UTC-4,America/Santiago
+406267,CL,CL-AR,San Miguel,San Miguel,73145,3,Village,UTC-4,America/Santiago
+406270,CL,CL-BI,Canigual,Canigual,89,4,hamlet,UTC-4,America/Santiago
+406277,CL,CL-AR,Los Laureles,Los Laureles,2717,3,Town,UTC-4,America/Santiago
+406286,CL,CL-AR,Quichamahuida,Quichamahuida,68,4,hamlet,UTC-4,America/Santiago
+406291,CL,CL-AR,El Prado,El Prado,372,3,Village,UTC-4,America/Santiago
+406322,CL,CL-AR,El Maiten,El Maitén,2082,3,Town,UTC-4,America/Santiago
+406324,CL,CL-AR,Las Palmas,Las Palmas,831,3,Hamlet,UTC-4,America/Santiago
+406325,CL,CL-AR,Quino,Quino,500,3,Village,UTC-4,America/Santiago
+406329,CL,CL-AR,San Enrique,San Enrique,363,3,Village,UTC-4,America/Santiago
+406341,CL,CL-BI,Los Maquis,Los Maquis,292,3,Village,UTC-4,America/Santiago
+406342,CL,CL-AR,El Retiro,El Retiro,328,3,Village,UTC-4,America/Santiago
+406357,CL,CL-AR,El Capricho,El Capricho,230,4,hamlet,UTC-4,America/Santiago
+406376,CL,CL-AR,Las Araucarias,Las Araucarias,400,3,Suburban Settlement,UTC-4,America/Santiago
+406379,CL,CL-AR,Santo Domingo,Santo Domingo,6696,3,City,UTC-4,America/Santiago
+406394,CL,CL-AR,Colonia Lautaro,Colonia Lautaro,149,4,hamlet,UTC-4,America/Santiago
+406407,CL,CL-AR,Dinamarca,Dinamarca,122,4,hamlet,UTC-4,America/Santiago
+406409,CL,CL-AR,Chacamo,Chacamo,79,4,hamlet,UTC-4,America/Santiago
+406411,CL,CL-AR,Buenos Aires,Buenos Aires,346,3,Village,UTC-4,America/Santiago
+406431,CL,CL-AR,Rinconada,Rinconada,8839,3,City,UTC-4,America/Santiago
+406442,CL,CL-AR,Rucadiuca,Rucadiuca,64,4,hamlet,UTC-4,America/Santiago
+406451,CL,CL-AR,Santa Lucia,Santa Lucía,649,3,Village,UTC-4,America/Santiago
+406463,CL,CL-AR,Santa Margarita,Santa Margarita,542,3,Village,UTC-4,America/Santiago
+406472,CL,CL-AR,Santa Teresa,Santa Teresa,25544,3,City,UTC-4,America/Santiago
+406475,CL,CL-AR,Santa Anselma,Santa Anselma,154,4,hamlet,UTC-4,America/Santiago
+406480,CL,CL-AR,Pailacoyan,Pailacoyán,88,4,hamlet,UTC-4,America/Santiago
+406501,CL,CL-AR,Niagara,Niágara,129,4,hamlet,UTC-4,America/Santiago
+406502,CL,CL-AR,Puello,Puello,64,4,hamlet,UTC-4,America/Santiago
+406524,CL,CL-AR,Quepe,Quepe,1756,3,Town,UTC-4,America/Santiago
+406533,CL,CL-AR,Huichahue,Huichahue,51,4,hamlet,UTC-4,America/Santiago
+406547,CL,CL-AR,Arauco,Arauco,84,4,hamlet,UTC-4,America/Santiago
+406559,CL,CL-AR,El Esfuerzo,El Esfuerzo,328,3,Village,UTC-4,America/Santiago
+406560,CL,CL-BI,Culenco,Culenco,185,4,hamlet,UTC-4,America/Santiago
+406562,CL,CL-BI,San Isidro,San Isidro,310,3,Suburban Settlement,UTC-4,America/Santiago
+406566,CL,CL-BI,La Cabana,La Cabaña,87,4,hamlet,UTC-4,America/Santiago
+406567,CL,CL-BI,El Roble,El Roble,333,4,hamlet,UTC-4,America/Santiago
+406568,CL,CL-BI,Chillancito,Chillancito,199,3,Village,UTC-4,America/Santiago
+406570,CL,CL-BI,Paraguay,Paraguay,69,4,hamlet,UTC-4,America/Santiago
+406572,CL,CL-BI,Los Molinos,Los Molinos,1767,3,Town,UTC-4,America/Santiago
+406576,CL,CL-BI,El Aromo,El Aromo,404,4,hamlet,UTC-4,America/Santiago
+406577,CL,CL-BI,Mortandad,Mortandad,589,4,hamlet,UTC-4,America/Santiago
+406579,CL,CL-BI,Notros,Notros,267,4,village,UTC-4,America/Santiago
+406580,CL,CL-BI,San Gerardo,San Gerardo,404,3,Village,UTC-4,America/Santiago
+406581,CL,CL-BI,El Olivar,El Olivar,333,3,Village,UTC-4,America/Santiago
+406582,CL,CL-BI,El Alamo,El Álamo,163,4,hamlet,UTC-4,America/Santiago
+406583,CL,CL-BI,Santa Olga,Santa Olga,2173,3,Village,UTC-4,America/Santiago
+406586,CL,CL-BI,Villa Mercedes,Villa Mercedes,1516,3,Town,UTC-4,America/Santiago
+406587,CL,CL-BI,El Huerton,El Huertón,340,3,Hamlet,UTC-4,America/Santiago
+406588,CL,CL-BI,El Peral,El Peral,901,3,Village,UTC-4,America/Santiago
+406589,CL,CL-BI,Cunibal Oriente,Cuñibal Oriente,110,4,hamlet,UTC-4,America/Santiago
+406590,CL,CL-BI,La Perla,La Perla,326,4,hamlet,UTC-4,America/Santiago
+406592,CL,CL-BI,Santa Cruz,Santa Cruz,228,4,village,UTC-4,America/Santiago
+406593,CL,CL-BI,El Pino,El Pino,420,3,Village,UTC-4,America/Santiago
+406597,CL,CL-BI,San Sebastian,San Sebastián,275,3,Village,UTC-4,America/Santiago
+406598,CL,CL-BI,Las Garzas,Las Garzas,398,3,Suburban Settlement,UTC-4,America/Santiago
+406601,CL,CL-BI,El Clavo,El Clavo,131,4,village,UTC-4,America/Santiago
+406602,CL,CL-BI,Santa Amalia,Santa Amalia,1008,3,Town,UTC-4,America/Santiago
+406603,CL,CL-BI,El Parron,El Parrón,275,3,Village,UTC-4,America/Santiago
+406605,CL,CL-BI,Los Junquillos,Los Junquillos,681,4,hamlet,UTC-4,America/Santiago
+406606,CL,CL-BI,Rucalhue,Rucalhue,281,4,hamlet,UTC-4,America/Santiago
+406615,CL,CL-BI,Las Cachanas,Las Cachañas,60,4,hamlet,UTC-4,America/Santiago
+406616,CL,CL-BI,Santa Adriana,Santa Adriana,191,4,hamlet,UTC-4,America/Santiago
+406618,CL,CL-BI,Bellavista,Bellavista,115,4,hamlet,UTC-4,America/Santiago
+406619,CL,CL-BI,Los Nogales,Los Nogales,455,3,Village,UTC-4,America/Santiago
+406620,CL,CL-BI,Santa Luisa,Santa Luisa,440,3,Suburban Settlement,UTC-4,America/Santiago
+406621,CL,CL-BI,Pilhuen,Pilhuén,79,4,hamlet,UTC-4,America/Santiago
+406624,CL,CL-BI,Santa Monica,Santa Mónica,777,3,Town,UTC-4,America/Santiago
+406632,CL,CL-AR,Agua Buena,Agua Buena,111,4,hamlet,UTC-4,America/Santiago
+406635,CL,CL-BI,Chorrillos,Chorrillos,200,4,town,UTC-4,America/Santiago
+406639,CL,CL-BI,Puerto Sur,Puerto Sur,825,3,Village,UTC-4,America/Santiago
+406640,CL,CL-BI,El Patagual,El Patagual,394,3,Hamlet,UTC-4,America/Santiago
+406641,CL,CL-BI,Chacayal,Chacayal,439,3,Town,UTC-4,America/Santiago
+406647,CL,CL-BI,La Calle,La Calle,85,4,hamlet,UTC-4,America/Santiago
+406648,CL,CL-BI,Mareucho,Mareucho,69,4,hamlet,UTC-4,America/Santiago
+406651,CL,CL-BI,Pinihue,Piñihue,55,4,hamlet,UTC-4,America/Santiago
+406652,CL,CL-BI,Aguada Gomero,Aguada Gomero,58,4,hamlet,UTC-4,America/Santiago
+406654,CL,CL-BI,El Manzano,El Manzano,1320,4,village,UTC-4,America/Santiago
+406655,CL,CL-BI,Cambrales,Cambrales,557,4,hamlet,UTC-4,America/Santiago
+406656,CL,CL-BI,Coihueco,Coihueco,1429,4,village,UTC-4,America/Santiago
+406657,CL,CL-BI,Obras de Rio Claro,Obras de Río Claro,249,4,hamlet,UTC-4,America/Santiago
+406659,CL,CL-BI,Cortijo,Cortijo,169,4,hamlet,UTC-4,America/Santiago
+406662,CL,CL-BI,Punta Lavapie,Punta Lavapié,772,3,Village,UTC-4,America/Santiago
+406664,CL,CL-BI,Tubul,Tubul,1722,3,Village,UTC-4,America/Santiago
+406670,CL,CL-BI,Mardonal,Mardoñal,123,4,isolated_dwelling,UTC-4,America/Santiago
+406671,CL,CL-BI,La Quebrada,La Quebrada,76,4,hamlet,UTC-4,America/Santiago
+406672,CL,CL-BI,Santa Rosa de Choihue,Santa Rosa de Choihue,134,4,hamlet,UTC-4,America/Santiago
+406674,CL,CL-BI,Batuco,Batuco,17974,3,City,UTC-4,America/Santiago
+406677,CL,CL-BI,Chillancito,Chillancito,285,4,hamlet,UTC-4,America/Santiago
+406689,CL,CL-BI,Loma Larga,Loma Larga,96,4,hamlet,UTC-4,America/Santiago
+406694,CL,CL-BI,Codigua,Codigua,429,3,Village,UTC-4,America/Santiago
+406695,CL,CL-BI,Las Corrientes,Las Corrientes,86,4,hamlet,UTC-4,America/Santiago
+406697,CL,CL-BI,Coihue,Coihue,639,3,Town,UTC-4,America/Santiago
+406702,CL,CL-BI,Cruz de Piedra,Cruz de Piedra,329,4,village,UTC-4,America/Santiago
+406703,CL,CL-BI,Puente Perales,Puente Perales,321,3,Hamlet,UTC-4,America/Santiago
+406704,CL,CL-BI,Las Palmas,Las Palmas,437,4,village,UTC-4,America/Santiago
+406705,CL,CL-BI,Penablanca,Peñablanca,229,4,village,UTC-4,America/Santiago
+406706,CL,CL-BI,La Aguada,La Aguada,716,3,Village,UTC-4,America/Santiago
+406707,CL,CL-BI,El Naranjo,El Naranjo,634,3,Indigenous Community,UTC-4,America/Santiago
+406708,CL,CL-BI,Santa Rosa,Santa Rosa,105,4,hamlet,UTC-4,America/Santiago
+406710,CL,CL-BI,El Rosal,El Rosal,275,3,Village,UTC-4,America/Santiago
+406711,CL,CL-BI,Salto del Laja,Salto del Laja,930,4,hamlet,UTC-4,America/Santiago
+406714,CL,CL-BI,Yanes,Yanes,284,4,village,UTC-4,America/Santiago
+406715,CL,CL-BI,El Guape,El Guape,322,3,Hamlet,UTC-4,America/Santiago
+406717,CL,CL-BI,Quidico,Quidico,509,3,Village,UTC-4,America/Santiago
+406720,CL,CL-BI,Las Puentes,Las Puentes,165,4,hamlet,UTC-4,America/Santiago
+406730,CL,CL-BI,San Jeronimo,San Jerónimo,57,4,hamlet,UTC-4,America/Santiago
+406733,CL,CL-BI,Las Corrientes,Las Corrientes,97,4,hamlet,UTC-4,America/Santiago
+406737,CL,CL-BI,Chequenal,Chequenal,79,4,hamlet,UTC-4,America/Santiago
+406744,CL,CL-BI,Santa Elena,Santa Elena,497,4,village,UTC-4,America/Santiago
+406745,CL,CL-BI,Cancha Rayada,Cancha Rayada,107,4,hamlet,UTC-4,America/Santiago
+406747,CL,CL-BI,Santa Elcira,Santa Elcira,64,4,hamlet,UTC-4,America/Santiago
+406752,CL,CL-BI,Quiapo,Quiapo,61,4,hamlet,UTC-4,America/Santiago
+406753,CL,CL-BI,Villarrica,Villarrica,83,4,hamlet,UTC-4,America/Santiago
+406758,CL,CL-BI,San Enrique,San Enrique,282,4,village,UTC-4,America/Santiago
+406759,CL,CL-BI,Las Puertas,Las Puertas,4642,4,village,UTC-4,America/Santiago
+406761,CL,CL-BI,Cabrera,Cabrera,1963,4,town,UTC-4,America/Santiago
+406763,CL,CL-BI,Bajos Los Rios,Bajos Los Ríos,2497,4,village,UTC-4,America/Santiago
+406765,CL,CL-BI,San Roque,San Roque,312,3,Hamlet,UTC-4,America/Santiago
+406766,CL,CL-BI,Santa Lucia,Santa Lucía,787,4,village,UTC-4,America/Santiago
+406768,CL,CL-BI,Arinco,Arinco,94,4,hamlet,UTC-4,America/Santiago
+406771,CL,CL-BI,Los Robles,Los Robles,257,4,hamlet,UTC-4,America/Santiago
+406772,CL,CL-BI,Las Quilas,Las Quilas,210,4,hamlet,UTC-4,America/Santiago
+406773,CL,CL-BI,Las Quintas,Las Quintas,497,4,hamlet,UTC-4,America/Santiago
+406774,CL,CL-BI,Virquenco,Virquenco,1448,3,Town,UTC-4,America/Santiago
+406777,CL,CL-BI,Santa Magdalena,Santa Magdalena,95,4,hamlet,UTC-4,America/Santiago
+406778,CL,CL-BI,Los Varones,Los Varones,100,4,hamlet,UTC-4,America/Santiago
+406782,CL,CL-BI,Los Altunes,Los Altunes,140,4,hamlet,UTC-4,America/Santiago
+406784,CL,CL-BI,Los Rios,Los Ríos,427,4,village,UTC-4,America/Santiago
+406787,CL,CL-BI,Las Heras,Las Heras,1333,3,locality,UTC-4,America/Santiago
+406788,CL,CL-BI,Cifuentes,Cifuentes,54,4,hamlet,UTC-4,America/Santiago
+406789,CL,CL-BI,El Durazno,El Durazno,312,3,Hamlet,UTC-4,America/Santiago
+406798,CL,CL-BI,Coihue,Coihue,1202,4,village,UTC-4,America/Santiago
+406799,CL,CL-BI,Las Mercedes,Las Mercedes,1131,3,Town,UTC-4,America/Santiago
+406800,CL,CL-BI,Santa Emilia,Santa Emilia,467,3,Village,UTC-4,America/Santiago
+406802,CL,CL-BI,Santa Ines,Santa Inés,93,4,hamlet,UTC-4,America/Santiago
+406805,CL,CL-BI,Santa Rosa,Santa Rosa,1168,4,village,UTC-4,America/Santiago
+406809,CL,CL-BI,Cerro Alto,Cerro Alto,6478,3,City,UTC-4,America/Santiago
+406815,CL,CL-AR,Loma del Toro,Loma del Toro,624,4,village,UTC-4,America/Santiago
+406818,CL,CL-AR,La Querencia,La Querencia,255,4,village,UTC-4,America/Santiago
+406820,CL,CL-BI,Vaqueria,Vaquería,335,3,Village,UTC-4,America/Santiago
+406821,CL,CL-BI,Miraflores,Miraflores,159,4,hamlet,UTC-4,America/Santiago
+406822,CL,CL-BI,Bureo,Bureo,318,4,hamlet,UTC-4,America/Santiago
+406825,CL,CL-BI,San Jose de Biobio,San José de Biobío,233,4,hamlet,UTC-4,America/Santiago
+406828,CL,CL-BI,Ranquilco,Ranquilco,183,4,hamlet,UTC-4,America/Santiago
+406829,CL,CL-BI,Sara de Lebu,Sara de Lebu,329,4,hamlet,UTC-4,America/Santiago
+406831,CL,CL-BI,Quelihue,Quelihue,93,4,hamlet,UTC-4,America/Santiago
+406834,CL,CL-BI,Morguilla,Morguilla,54,4,hamlet,UTC-4,America/Santiago
+406838,CL,CL-BI,La Aguada,La Aguada,52,4,hamlet,UTC-4,America/Santiago
+406843,CL,CL-BI,Don Alfonso,Don Alfonso,2205,4,village,UTC-4,America/Santiago
+406845,CL,CL-AR,Los Alpes,Los Alpes,3048,4,town,UTC-4,America/Santiago
+406849,CL,CL-AR,La Paz,La Paz,637,3,Village,UTC-4,America/Santiago
+406852,CL,CL-AR,El Almendro,El Almendro,198,4,hamlet,UTC-4,America/Santiago
+406855,CL,CL-AR,Parronal,Parronal,285,3,Hamlet,UTC-4,America/Santiago
+406856,CL,CL-BI,San Luis de Malven,San Luis de Malvén,114,4,hamlet,UTC-4,America/Santiago
+406858,CL,CL-BI,Palermo,Palermo,391,3,Village,UTC-4,America/Santiago
+406859,CL,CL-BI,Licura,Licura,111,4,hamlet,UTC-4,America/Santiago
+406860,CL,CL-BI,Las Golondrinas,Las Golondrinas,497,3,Village,UTC-4,America/Santiago
+406876,CL,CL-BI,Peleco,Peleco,612,4,hamlet,UTC-4,America/Santiago
+406880,CL,CL-BI,Reputo,Reputo,64,4,hamlet,UTC-4,America/Santiago
+406883,CL,CL-BI,San Ernesto,San Ernesto,285,4,hamlet,UTC-4,America/Santiago
+406885,CL,CL-AR,Los Toldos,Los Toldos,56,4,hamlet,UTC-4,America/Santiago
+406887,CL,CL-AR,San Ramon,San Ramón,355,4,village,UTC-4,America/Santiago
+406891,CL,CL-AR,Santa Elena,Santa Elena,263,4,hamlet,UTC-4,America/Santiago
+406894,CL,CL-AR,Esperanza,Esperanza,396,3,Village,UTC-4,America/Santiago
+406896,CL,CL-AR,Angostura,Angostura,1763,3,Town,UTC-4,America/Santiago
+406909,CL,CL-AR,San Vicente,San Vicente,325,3,Village,UTC-4,America/Santiago
+406920,CL,CL-ML,Los Copihues,Los Copihues,89,4,hamlet,UTC-4,America/Santiago
+406921,CL,CL-ML,Valle Hermoso,Valle Hermoso,4061,3,Town,UTC-4,America/Santiago
+406923,CL,CL-ML,La Palmera,La Palmera,704,3,Village,UTC-4,America/Santiago
+406926,CL,CL-ML,La Florida,La Florida,134,4,hamlet,UTC-4,America/Santiago
+406928,CL,CL-ML,Las Praderas,Las Praderas,370,4,village,UTC-4,America/Santiago
+406930,CL,CL-ML,Las Mercedes,Las Mercedes,242,4,hamlet,UTC-4,America/Santiago
+406931,CL,CL-ML,Paihuen,Paihuén,366,3,Hamlet,UTC-4,America/Santiago
+406932,CL,CL-ML,San Isidro,San Isidro,225,4,hamlet,UTC-4,America/Santiago
+406933,CL,CL-ML,Santa Isabel,Santa Isabel,654,4,village,UTC-4,America/Santiago
+406935,CL,CL-ML,Los Cristales,Los Cristales,2064,3,Town,UTC-4,America/Santiago
+406939,CL,CL-ML,La Tercera,La Tercera,509,4,hamlet,UTC-4,America/Santiago
+406940,CL,CL-ML,El Llano,El Llano,1516,3,Town,UTC-4,America/Santiago
+406941,CL,CL-ML,El Carmen,El Carmen,748,4,hamlet,UTC-4,America/Santiago
+406942,CL,CL-ML,La Quinta,La Quinta,591,4,village,UTC-4,America/Santiago
+406943,CL,CL-ML,Huelonco,Huelonco,214,4,hamlet,UTC-4,America/Santiago
+406944,CL,CL-ML,El Transito,El Tránsito,709,3,Town,UTC-4,America/Santiago
+406953,CL,CL-BI,Belen Grande,Belén Grande,2263,4,village,UTC-4,America/Santiago
+406959,CL,CL-ML,Yiyahue,Yiyahue,143,4,hamlet,UTC-4,America/Santiago
+406960,CL,CL-ML,San Marcos,San Marcos,378,3,Village,UTC-4,America/Santiago
+406963,CL,CL-ML,La Orilla,La Orilla,501,3,Village,UTC-4,America/Santiago
+406970,CL,CL-ML,Rincon Valdes,Rincón Valdés,199,4,hamlet,UTC-4,America/Santiago
+406972,CL,CL-ML,Santa Delfina,Santa Delfina,224,4,hamlet,UTC-4,America/Santiago
+406973,CL,CL-ML,Santa Amalia,Santa Amalia,5398,4,village,UTC-4,America/Santiago
+406975,CL,CL-ML,San Jose,San José,322,4,hamlet,UTC-4,America/Santiago
+406985,CL,CL-BI,Santa Rita,Santa Rita,512,3,Village,UTC-4,America/Santiago
+406988,CL,CL-ML,Renaico,Renaico,144,4,hamlet,UTC-4,America/Santiago
+406993,CL,CL-ML,San Alberto,San Alberto,19273,3,Town,UTC-4,America/Santiago
+406995,CL,CL-BI,Chacay,Chacay,353,4,hamlet,UTC-4,America/Santiago
+406999,CL,CL-ML,Lavadero,Lavadero,3475,4,village,UTC-4,America/Santiago
+407005,CL,CL-ML,Catillo,Catillo,736,4,village,UTC-4,America/Santiago
+407008,CL,CL-ML,San Alejo,San Alejo,92,4,hamlet,UTC-4,America/Santiago
+407009,CL,CL-ML,Loma de Vasquez,Loma de Vásquez,54,4,hamlet,UTC-4,America/Santiago
+407010,CL,CL-ML,Los Canelos,Los Canelos,417,3,Suburban Settlement,UTC-4,America/Santiago
+407019,CL,CL-BI,Huenutil de la Cabreria,Huenutil de la Cabrería,417,4,hamlet,UTC-4,America/Santiago
+407023,CL,CL-BI,Los Galpones,Los Galpones,205,4,hamlet,UTC-4,America/Santiago
+407024,CL,CL-BI,Los Galpones,Los Galpones,2183,4,town,UTC-4,America/Santiago
+407025,CL,CL-BI,Zemita,Zemita,256,4,hamlet,UTC-4,America/Santiago
+407026,CL,CL-BI,El Durazno,El Durazno,161,4,hamlet,UTC-4,America/Santiago
+407027,CL,CL-BI,El Palo,El Palo,74,4,hamlet,UTC-4,America/Santiago
+407028,CL,CL-BI,Las Bandurrias,Las Bandurrias,867,4,village,UTC-4,America/Santiago
+407031,CL,CL-BI,Santa Isabel,Santa Isabel,182,4,hamlet,UTC-4,America/Santiago
+407033,CL,CL-BI,Rinconada,Rinconada,174,4,hamlet,UTC-4,America/Santiago
+407036,CL,CL-BI,Romeral,Romeral,1319,4,town,UTC-4,America/Santiago
+407037,CL,CL-BI,Chacayal,Chacayal,217,4,village,UTC-4,America/Santiago
+407039,CL,CL-BI,La Flor,La Flor,1010,4,village,UTC-4,America/Santiago
+407040,CL,CL-BI,Maitenal,Maitenal,1975,4,village,UTC-4,America/Santiago
+407042,CL,CL-BI,Ranquililahue,Ranquililahue,9028,4,town,UTC-4,America/Santiago
+407045,CL,CL-BI,Las Mariposas,Las Mariposas,1599,4,village,UTC-4,America/Santiago
+407046,CL,CL-BI,Las Nieves,Las Nieves,99,4,hamlet,UTC-4,America/Santiago
+407048,CL,CL-BI,Las Pataguas,Las Pataguas,505,3,Village,UTC-4,America/Santiago
+407049,CL,CL-BI,Santa Fresia,Santa Fresia,6771,4,town,UTC-4,America/Santiago
+407051,CL,CL-BI,Los Olivos,Los Olivos,303,3,Village,UTC-4,America/Santiago
+407058,CL,CL-BI,La Junta,La Junta,1073,3,Town,UTC-4,America/Santiago
+407059,CL,CL-BI,Cerrillos,Cerrillos,1509,3,Town,UTC-4,America/Santiago
+407062,CL,CL-BI,Las Lumas,Las Lumas,76,4,hamlet,UTC-4,America/Santiago
+407066,CL,CL-BI,Los Canelos,Los Canelos,93,4,hamlet,UTC-4,America/Santiago
+407067,CL,CL-BI,Las Raices,Las Raíces,275,4,village,UTC-4,America/Santiago
+407071,CL,CL-BI,El Calvario,El Calvario,217,4,hamlet,UTC-4,America/Santiago
+407078,CL,CL-BI,Lo Franco,Lo Franco,69,4,hamlet,UTC-4,America/Santiago
+407079,CL,CL-BI,Villaseca,Villaseca,548,3,Village,UTC-4,America/Santiago
+407082,CL,CL-BI,Los Castanos,Los Castaños,460,3,Village,UTC-4,America/Santiago
+407083,CL,CL-BI,San Jose,San José,85,4,hamlet,UTC-4,America/Santiago
+407086,CL,CL-BI,Las Trancas,Las Trancas,286,4,hamlet,UTC-4,America/Santiago
+407087,CL,CL-BI,Termas de Chillan,Termas de Chillán,79,4,hamlet,UTC-4,America/Santiago
+407090,CL,CL-ML,La Batalla,La Batalla,333,4,hamlet,UTC-4,America/Santiago
+407091,CL,CL-ML,Pangue,Pangue,359,3,Indigenous Community,UTC-4,America/Santiago
+407094,CL,CL-ML,La Ovejeria,La Ovejería,1399,4,town,UTC-4,America/Santiago
+407097,CL,CL-ML,Las Mercedes,Las Mercedes,538,4,village,UTC-4,America/Santiago
+407100,CL,CL-ML,La Esmeralda Sur,La Esmeralda Sur,92,4,hamlet,UTC-4,America/Santiago
+407101,CL,CL-ML,El Manzano,El Manzano,349,4,hamlet,UTC-4,America/Santiago
+407104,CL,CL-ML,Monte Alegre,Monte Alegre,150,4,hamlet,UTC-4,America/Santiago
+407110,CL,CL-ML,Robleria,Roblería,227,4,hamlet,UTC-4,America/Santiago
+407112,CL,CL-ML,San Gabriel,San Gabriel,579,3,Village,UTC-4,America/Santiago
+407117,CL,CL-BI,Miramar,Miramar,61,4,hamlet,UTC-4,America/Santiago
+407121,CL,CL-ML,San Daniel,San Daniel,4049,4,village,UTC-4,America/Santiago
+407123,CL,CL-ML,Santa Ema,Santa Ema,199,4,hamlet,UTC-4,America/Santiago
+407129,CL,CL-ML,Tropezon,Tropezón,8501,4,town,UTC-4,America/Santiago
+407130,CL,CL-ML,Cancha Alegre,Cancha Alegre,66,4,hamlet,UTC-4,America/Santiago
+407131,CL,CL-ML,Buena Esperanza,Buena Esperanza,356,3,Village,UTC-4,America/Santiago
+407132,CL,CL-ML,El Alamo,El Álamo,1354,4,village,UTC-4,America/Santiago
+407151,CL,CL-BI,Taucu,Taucú,113,4,hamlet,UTC-4,America/Santiago
+407166,CL,CL-BI,San Jose,San José,122,4,hamlet,UTC-4,America/Santiago
+407169,CL,CL-BI,La Palizada,La Palizada,7059,3,Urban Locality,UTC-4,America/Santiago
+407170,CL,CL-BI,Las Heras,Las Heras,1561,3,Rural Locality,UTC-4,America/Santiago
+407177,CL,CL-BI,Junquillar,Junquillar,326,3,Village,UTC-4,America/Santiago
+407181,CL,CL-BI,Belen Chico,Belén Chico,104,4,hamlet,UTC-4,America/Santiago
+407182,CL,CL-BI,El Carmen,El Carmen,12277,3,PPL,UTC-4,America/Santiago
+407183,CL,CL-BI,Callejones,Callejones,461,3,Village,UTC-4,America/Santiago
+407194,CL,CL-BI,La Isla,La Isla,124,4,hamlet,UTC-4,America/Santiago
+407196,CL,CL-BI,Culenco,Culenco,57,4,hamlet,UTC-4,America/Santiago
+407199,CL,CL-BI,El Trapiche,El Trapiche,371,3,Village,UTC-4,America/Santiago
+407202,CL,CL-BI,Alto Perales,Alto Perales,136,4,hamlet,UTC-4,America/Santiago
+407204,CL,CL-BI,Meipo,Meipo,85,4,hamlet,UTC-4,America/Santiago
+407212,CL,CL-BI,Cana Dulce,Caña Dulce,155,4,hamlet,UTC-4,America/Santiago
+407213,CL,CL-BI,San Jose,San José,206,4,hamlet,UTC-4,America/Santiago
+407214,CL,CL-BI,Quirao,Quirao,287,4,hamlet,UTC-4,America/Santiago
+407217,CL,CL-BI,Reloca,Reloca,509,3,Village,UTC-4,America/Santiago
+407218,CL,CL-BI,Pangue,Pangue,61,4,hamlet,UTC-4,America/Santiago
+407227,CL,CL-BI,El Descanso,El Descanso,330,3,Suburban Settlement,UTC-4,America/Santiago
+407239,CL,CL-BI,Las Nieves,Las Nieves,55,4,hamlet,UTC-4,America/Santiago
+407242,CL,CL-BI,Panguilemu,Panguilemu,123,4,hamlet,UTC-4,America/Santiago
+407247,CL,CL-BI,Dadinco,Dadinco,348,3,Village,UTC-4,America/Santiago
+407248,CL,CL-BI,Santa Ana,Santa Ana,56,4,hamlet,UTC-4,America/Santiago
+407249,CL,CL-BI,Santa Rosa,Santa Rosa,391,4,hamlet,UTC-4,America/Santiago
+407252,CL,CL-BI,Puente Nuble,Puente Ñuble,2392,3,Town,UTC-4,America/Santiago
+407255,CL,CL-BI,Punta de Parra,Punta de Parra,1111,3,Town,UTC-4,America/Santiago
+407258,CL,CL-BI,Chuponal,Chuponal,77,4,hamlet,UTC-4,America/Santiago
+407259,CL,CL-BI,Los Quillayes,Los Quillayes,88,4,hamlet,UTC-4,America/Santiago
+407262,CL,CL-BI,Chillancito,Chillancito,198,4,hamlet,UTC-4,America/Santiago
+407263,CL,CL-BI,San Carlitos,San Carlitos,116,4,hamlet,UTC-4,America/Santiago
+407268,CL,CL-BI,San Ignacio de Palomares,San Ignacio de Palomares,356,3,Village,UTC-4,America/Santiago
+407269,CL,CL-BI,Capilla de Ranquil,Capilla de Ranquil,83,4,hamlet,UTC-4,America/Santiago
+407270,CL,CL-BI,Lomas Coloradas,Lomas Coloradas,69,4,hamlet,UTC-4,America/Santiago
+407271,CL,CL-BI,El Centro,El Centro,202,4,hamlet,UTC-4,America/Santiago
+407272,CL,CL-BI,El Sauce,El Sauce,312,4,hamlet,UTC-4,America/Santiago
+407273,CL,CL-BI,Quinchamali,Quinchamalí,1131,3,Town,UTC-4,America/Santiago
+407276,CL,CL-BI,Los Colihues,Los Colihues,318,3,Hamlet,UTC-4,America/Santiago
+407277,CL,CL-BI,Malloa,Malloa,1480,3,Town,UTC-4,America/Santiago
+407279,CL,CL-BI,San Jorge,San Jorge,448,3,Village,UTC-4,America/Santiago
+407290,CL,CL-BI,Roa,Roa,102,4,hamlet,UTC-4,America/Santiago
+407295,CL,CL-BI,Puerto Coyanco,Puerto Coyanco,206,4,hamlet,UTC-4,America/Santiago
+407302,CL,CL-BI,Las Pataguas,Las Pataguas,177,4,hamlet,UTC-4,America/Santiago
+407304,CL,CL-BI,Santa Filomena,Santa Filomena,623,3,Village,UTC-4,America/Santiago
+407306,CL,CL-BI,Boyen Chico,Boyén Chico,231,4,hamlet,UTC-4,America/Santiago
+407311,CL,CL-BI,Agua de la Gloria,Agua de la Gloria,229,4,hamlet,UTC-4,America/Santiago
+407312,CL,CL-BI,Chaimavida,Chaimávida,557,4,village,UTC-4,America/Santiago
+407315,CL,CL-BI,San Miguel,San Miguel,111,4,hamlet,UTC-4,America/Santiago
+407327,CL,CL-BI,Pueblo Seco,Pueblo Seco,2872,3,Town,UTC-4,America/Santiago
+407330,CL,CL-BI,El Caracol,El Caracol,225,4,hamlet,UTC-4,America/Santiago
+407331,CL,CL-BI,Montenegro,Montenegro,620,3,Village,UTC-4,America/Santiago
+407340,CL,CL-BI,Los Placeres,Los Placeres,330,3,Suburban Settlement,UTC-4,America/Santiago
+407344,CL,CL-BI,Copiulemu,Copiulemu,721,3,Village,UTC-4,America/Santiago
+407350,CL,CL-BI,San Antonio de Cuda,San Antonio de Cuda,93,4,hamlet,UTC-4,America/Santiago
+407352,CL,CL-BI,El Macal,El Macal,207,4,hamlet,UTC-4,America/Santiago
+407354,CL,CL-BI,Los Tilos,Los Tilos,395,3,Village,UTC-4,America/Santiago
+407373,CL,CL-BI,Lomas de Angol,Lomas de Angol,211,4,hamlet,UTC-4,America/Santiago
+407375,CL,CL-BI,Valle Hermoso,Valle Hermoso,333,4,hamlet,UTC-4,America/Santiago
+407376,CL,CL-BI,Chequenes,Chequenes,74,4,hamlet,UTC-4,America/Santiago
+407383,CL,CL-BI,El Cascajo,El Cascajo,343,3,Hamlet,UTC-4,America/Santiago
+407385,CL,CL-RM,El Asiento,El Asiento,601,3,Village,UTC-4,America/Santiago
+407386,CL,CL-LI,Callejones,Callejones,292,4,hamlet,UTC-4,America/Santiago
+407387,CL,CL-LI,San Joaquin,San Joaquín,305,3,Hamlet,UTC-4,America/Santiago
+407390,CL,CL-LI,El Arrozal,El Arrozal,222,4,hamlet,UTC-4,America/Santiago
+407392,CL,CL-LI,Tuncahue,Tuncahue,86,4,hamlet,UTC-4,America/Santiago
+407396,CL,CL-LI,La Media Luna de Codegua,La Media Luna de Codegua,79,4,hamlet,UTC-4,America/Santiago
+407405,CL,CL-LI,El Crucero,El Crucero,396,3,Village,UTC-4,America/Santiago
+407408,CL,CL-LI,El Ciruelo,El Ciruelo,62,4,hamlet,UTC-4,America/Santiago
+407409,CL,CL-LI,Chumaco,Chumaco,356,4,hamlet,UTC-4,America/Santiago
+407412,CL,CL-LI,Parron,Parrón,1200,4,village,UTC-4,America/Santiago
+407413,CL,CL-LI,Rio Claro,Río Claro,846,3,Village,UTC-4,America/Santiago
+407419,CL,CL-LI,Rinconada de Malambo,Rinconada de Malambo,819,3,Hamlet,UTC-4,America/Santiago
+407421,CL,CL-LI,San Agustin,San Agustín,216,4,hamlet,UTC-4,America/Santiago
+407422,CL,CL-LI,Pidihuinco Alto,Pidihuinco Alto,89,4,hamlet,UTC-4,America/Santiago
+407428,CL,CL-LI,La Gatera,La Gatera,171,4,hamlet,UTC-4,America/Santiago
+407430,CL,CL-ML,Las Liras,Las Liras,447,3,Village,UTC-4,America/Santiago
+407431,CL,CL-ML,El Rincon,El Rincón,77,4,hamlet,UTC-4,America/Santiago
+407432,CL,CL-ML,San Jose,San José,268,4,hamlet,UTC-4,America/Santiago
+407433,CL,CL-ML,La Estrella,La Estrella,176,4,hamlet,UTC-4,America/Santiago
+407434,CL,CL-ML,El Manzano,El Manzano,127,4,hamlet,UTC-4,America/Santiago
+407435,CL,CL-ML,La Union,La Unión,308,4,hamlet,UTC-4,America/Santiago
+407436,CL,CL-ML,La Ballica,La Ballica,84,4,hamlet,UTC-4,America/Santiago
+407437,CL,CL-ML,El Culenar,El Culenar,68,4,hamlet,UTC-4,America/Santiago
+407440,CL,CL-ML,Calpun,Calpún,208,4,hamlet,UTC-4,America/Santiago
+407441,CL,CL-ML,Culenar,Culenar,19332,3,City,UTC-4,America/Santiago
+407445,CL,CL-ML,La Orilla,La Orilla,184,4,hamlet,UTC-4,America/Santiago
+407447,CL,CL-ML,Huelon Alto,Huelón Alto,149,4,hamlet,UTC-4,America/Santiago
+407452,CL,CL-ML,Las Garzas,Las Garzas,50,4,hamlet,UTC-4,America/Santiago
+407457,CL,CL-ML,Deuca,Deuca,109,4,hamlet,UTC-4,America/Santiago
+407459,CL,CL-ML,Llongocura,Llongocura,100,4,hamlet,UTC-4,America/Santiago
+407466,CL,CL-ML,Botalcura,Botalcura,239,4,hamlet,UTC-4,America/Santiago
+407470,CL,CL-ML,El Raiboncillo,El Raiboncillo,1130,4,village,UTC-4,America/Santiago
+407471,CL,CL-ML,Carrizalillo,Carrizalillo,106,4,hamlet,UTC-4,America/Santiago
+407478,CL,CL-ML,El Rodeo,El Rodeo,707,3,Village,UTC-4,America/Santiago
+407485,CL,CL-ML,Las Pitras,Las Pitras,68,4,hamlet,UTC-4,America/Santiago
+407497,CL,CL-ML,Corinto,Corinto,605,3,Village,UTC-4,America/Santiago
+407498,CL,CL-ML,Villa Costa Blanca,Villa Costa Blanca,215,4,village,UTC-4,America/Santiago
+407503,CL,CL-ML,Lagunillas,Lagunillas,535,3,Village,UTC-4,America/Santiago
+407504,CL,CL-ML,Las Corrientes,Las Corrientes,249,4,hamlet,UTC-4,America/Santiago
+407508,CL,CL-ML,Los Maquis,Los Maquis,50,4,hamlet,UTC-4,America/Santiago
+407517,CL,CL-ML,Las Garzas,Las Garzas,71,4,hamlet,UTC-4,America/Santiago
+407519,CL,CL-ML,Pueblecillo,Pueblecillo,256,3,Village,UTC-4,America/Santiago
+407520,CL,CL-ML,Batuco,Batuco,128,4,hamlet,UTC-4,America/Santiago
+407528,CL,CL-ML,Pan de Azucar,Pan de Azúcar,212,3,Hamlet,UTC-4,America/Santiago
+407530,CL,CL-ML,Punchema,Punchema,140,4,hamlet,UTC-4,America/Santiago
+407531,CL,CL-ML,Nicaragua,Nicaragua,113,4,hamlet,UTC-4,America/Santiago
+407532,CL,CL-ML,Quirimavida,Quirimávida,89,4,hamlet,UTC-4,America/Santiago
+407540,CL,CL-ML,Tapihue,Tapihue,498,3,Village,UTC-4,America/Santiago
+407553,CL,CL-ML,Requegua,Requegua,1472,3,Town,UTC-4,America/Santiago
+407570,CL,CL-ML,Las Cruces,Las Cruces,6052,3,City,UTC-4,America/Santiago
+407571,CL,CL-ML,Huimeo,Huimeo,254,4,hamlet,UTC-4,America/Santiago
+407572,CL,CL-ML,Quilicura,Quilicura,107,4,hamlet,UTC-4,America/Santiago
+407576,CL,CL-ML,Perquilauquen,Perquilauquén,631,4,village,UTC-4,America/Santiago
+407584,CL,CL-ML,Esquina Mocha,Esquina Mocha,182,4,hamlet,UTC-4,America/Santiago
+407587,CL,CL-ML,Camarico,Camarico,441,3,Village,UTC-4,America/Santiago
+407594,CL,CL-ML,San Jorge,San Jorge,84,4,hamlet,UTC-4,America/Santiago
+407595,CL,CL-ML,La Aldea,La Aldea,64,4,hamlet,UTC-4,America/Santiago
+407596,CL,CL-ML,Santa Sofia,Santa Sofía,677,4,hamlet,UTC-4,America/Santiago
+407600,CL,CL-ML,Las Delicias,Las Delicias,544,3,Town,UTC-4,America/Santiago
+407601,CL,CL-ML,San Camilo,San Camilo,450,3,Suburban Settlement,UTC-4,America/Santiago
+407607,CL,CL-ML,Llanquimay,Llanquimay,863,4,village,UTC-4,America/Santiago
+407609,CL,CL-LI,Lagunillas,Lagunillas,197,4,hamlet,UTC-4,America/Santiago
+407612,CL,CL-RM,Loica Arriba,Loica Arriba,215,4,hamlet,UTC-4,America/Santiago
+407619,CL,CL-RM,La Alfalfa,La Alfalfa,111,4,hamlet,UTC-4,America/Santiago
+407620,CL,CL-RM,El Llano,El Llano,176,4,hamlet,UTC-4,America/Santiago
+407621,CL,CL-RM,La Poblacion,La Población,137,4,hamlet,UTC-4,America/Santiago
+407623,CL,CL-RM,Agua Fria,Agua Fría,226,4,village,UTC-4,America/Santiago
+407625,CL,CL-LI,Rincon Polcura,Rincón Polcura,810,4,village,UTC-4,America/Santiago
+407627,CL,CL-LI,Alto Tuman,Alto Tumán,62,4,hamlet,UTC-4,America/Santiago
+407629,CL,CL-LI,Poco a Poco,Poco a Poco,242,4,village,UTC-4,America/Santiago
+407632,CL,CL-LI,San Roberto,San Roberto,684,3,Village,UTC-4,America/Santiago
+407633,CL,CL-LI,Alamo,Álamo,2397,4,village,UTC-4,America/Santiago
+407638,CL,CL-LI,Los Morros,Los Morros,457,3,Village,UTC-4,America/Santiago
+407641,CL,CL-LI,Santa Ines,Santa Inés,1389,4,village,UTC-4,America/Santiago
+407643,CL,CL-RM,Las Juntas,Las Juntas,71,4,hamlet,UTC-4,America/Santiago
+407648,CL,CL-LI,Los Aromos,Los Aromos,744,4,village,UTC-4,America/Santiago
+407650,CL,CL-LI,El Parron,El Parrón,2159,4,village,UTC-4,America/Santiago
+407651,CL,CL-LI,Casas Viejas,Casas Viejas,411,3,Hamlet,UTC-4,America/Santiago
+407653,CL,CL-LI,Vista Hermosa,Vista Hermosa,320,3,Village,UTC-4,America/Santiago
+407657,CL,CL-LI,Las Quiscas,Las Quiscas,112,4,hamlet,UTC-4,America/Santiago
+407666,CL,CL-LI,San Miguel de Viluco,San Miguel de Viluco,1971,4,village,UTC-4,America/Santiago
+407667,CL,CL-LI,Calle Cadenas,Calle Cadenas,161,4,hamlet,UTC-4,America/Santiago
+407668,CL,CL-LI,Santa Lucia,Santa Lucía,344,4,village,UTC-4,America/Santiago
+407669,CL,CL-LI,Santa Amelia,Santa Amelia,686,4,village,UTC-4,America/Santiago
+407671,CL,CL-LI,San Ricardo,San Ricardo,1151,4,village,UTC-4,America/Santiago
+407675,CL,CL-LI,Bellavista,Bellavista,486,4,village,UTC-4,America/Santiago
+407679,CL,CL-LI,La Pitra,La Pitra,121,4,hamlet,UTC-4,America/Santiago
+407680,CL,CL-LI,El Molino,El Molino,379,4,village,UTC-4,America/Santiago
+407681,CL,CL-LI,Santa Margarita,Santa Margarita,2671,4,village,UTC-4,America/Santiago
+407684,CL,CL-LI,Loreto,Loreto,551,3,Suburban Settlement,UTC-4,America/Santiago
+407685,CL,CL-LI,Santa Victoria,Santa Victoria,348,4,hamlet,UTC-4,America/Santiago
+407686,CL,CL-LI,Patria Nueva,Patria Nueva,194,4,hamlet,UTC-4,America/Santiago
+407687,CL,CL-LI,Santa Ana de Huique,Santa Ana de Huique,200,4,hamlet,UTC-4,America/Santiago
+407688,CL,CL-LI,Los Yuyos,Los Yuyos,187,4,hamlet,UTC-4,America/Santiago
+407689,CL,CL-LI,Santa Matilde,Santa Matilde,1084,3,Village,UTC-4,America/Santiago
+407691,CL,CL-LI,La Argentina,La Argentina,451,4,village,UTC-4,America/Santiago
+407692,CL,CL-LI,El Niche,El Niche,409,4,village,UTC-4,America/Santiago
+407693,CL,CL-LI,Lo Barrera,Lo Barrera,223,4,hamlet,UTC-4,America/Santiago
+407694,CL,CL-LI,El Salvador,El Salvador,2064,3,Town,UTC-4,America/Santiago
+407695,CL,CL-LI,El Llano de La Cruz,El Llano de La Cruz,96,4,hamlet,UTC-4,America/Santiago
+407696,CL,CL-LI,Rinconada del Tambo,Rinconada del Tambo,110,4,hamlet,UTC-4,America/Santiago
+407699,CL,CL-LI,Barrancas,Barrancas,459,3,Village,UTC-4,America/Santiago
+407700,CL,CL-LI,El Potrero,El Potrero,209,4,hamlet,UTC-4,America/Santiago
+407703,CL,CL-LI,Mata Redonda,Mata Redonda,149,4,hamlet,UTC-4,America/Santiago
+407708,CL,CL-LI,Agua Santa,Agua Santa,707,3,Hamlet,UTC-4,America/Santiago
+407709,CL,CL-LI,Los Mayos,Los Mayos,225,4,hamlet,UTC-4,America/Santiago
+407711,CL,CL-LI,Las Tinajas,Las Tinajas,367,4,village,UTC-4,America/Santiago
+407715,CL,CL-LI,Salto de Agua,Salto de Agua,54,4,hamlet,UTC-4,America/Santiago
+407716,CL,CL-LI,La Villa,La Villa,2302,4,town,UTC-4,America/Santiago
+407717,CL,CL-LI,Los Boldos,Los Boldos,474,3,Village,UTC-4,America/Santiago
+407718,CL,CL-LI,La Granja,La Granja,407,4,hamlet,UTC-4,America/Santiago
+407719,CL,CL-LI,La Ruca,La Ruca,1053,4,locality,UTC-4,America/Santiago
+407726,CL,CL-LI,Cardonal,Cardonal,578,3,Hamlet,UTC-4,America/Santiago
+407730,CL,CL-LI,Las Hijuelas,Las Hijuelas,163,4,hamlet,UTC-4,America/Santiago
+407732,CL,CL-LI,La Matanza,La Matanza,741,4,village,UTC-4,America/Santiago
+407733,CL,CL-LI,Tierra Chilena,Tierra Chilena,233,4,hamlet,UTC-4,America/Santiago
+407735,CL,CL-ML,Los Cardos,Los Cardos,65,4,hamlet,UTC-4,America/Santiago
+407738,CL,CL-ML,El Huertin,El Huertin,348,4,village,UTC-4,America/Santiago
+407740,CL,CL-LI,La Puntilla,La Puntilla,55,4,hamlet,UTC-4,America/Santiago
+407742,CL,CL-ML,Rincon de Morales,Rincón de Morales,165,4,hamlet,UTC-4,America/Santiago
+407743,CL,CL-ML,Quelmen,Quelmén,732,4,village,UTC-4,America/Santiago
+407744,CL,CL-ML,Santa Rebeca,Santa Rebeca,423,3,Village,UTC-4,America/Santiago
+407746,CL,CL-ML,La Vina,La Viña,688,3,Village,UTC-4,America/Santiago
+407748,CL,CL-ML,Concaven,Concavén,284,4,village,UTC-4,America/Santiago
+407749,CL,CL-ML,Espinalillo,Espinalillo,116,4,hamlet,UTC-4,America/Santiago
+407750,CL,CL-ML,Los Sauces,Los Sauces,146,4,hamlet,UTC-4,America/Santiago
+407753,CL,CL-ML,Barba Rubia,Barba Rubia,169,4,hamlet,UTC-4,America/Santiago
+407754,CL,CL-ML,Camarico,Camarico,83,4,hamlet,UTC-4,America/Santiago
+407755,CL,CL-ML,El Alamo,El Álamo,401,4,village,UTC-4,America/Santiago
+407756,CL,CL-ML,El Cobre,El Cobre,236,3,Village,UTC-4,America/Santiago
+407759,CL,CL-ML,El Valle,El Valle,188,3,Village,UTC-4,America/Santiago
+407761,CL,CL-ML,Piedra Blanca,Piedra Blanca,295,4,hamlet,UTC-4,America/Santiago
+407763,CL,CL-ML,Santa Isabel,Santa Isabel,339,4,village,UTC-4,America/Santiago
+407767,CL,CL-ML,Olivar Bajo,Olivar Bajo,699,3,Town,UTC-4,America/Santiago
+407768,CL,CL-ML,Olivar Alto,Olivar Alto,1400,3,Town,UTC-4,America/Santiago
+407769,CL,CL-ML,Santa Susana,Santa Susana,644,3,Village,UTC-4,America/Santiago
+407770,CL,CL-ML,Falda de la Piedra,Falda de la Piedra,163,4,hamlet,UTC-4,America/Santiago
+407772,CL,CL-ML,Idahue Bajo,Idahue Bajo,3285,4,village,UTC-4,America/Santiago
+407773,CL,CL-ML,Quelmen,Quelmen,106,4,hamlet,UTC-4,America/Santiago
+407775,CL,CL-ML,Santa Elena,Santa Elena,137,4,hamlet,UTC-4,America/Santiago
+407776,CL,CL-ML,Las Mercedes,Las Mercedes,568,4,village,UTC-4,America/Santiago
+407777,CL,CL-ML,Convento Viejo,Convento Viejo,236,4,hamlet,UTC-4,America/Santiago
+407778,CL,CL-ML,San Adolfo,San Adolfo,213,4,village,UTC-4,America/Santiago
+407779,CL,CL-ML,El Boldal,El Boldal,394,3,Village,UTC-4,America/Santiago
+407780,CL,CL-LI,El Cajon,El Cajón,285,3,Hamlet,UTC-4,America/Santiago
+407781,CL,CL-LI,El Peral,El Peral,125,4,hamlet,UTC-4,America/Santiago
+407782,CL,CL-AI,San Manuel,San Manuel,159506,3,isolated_dwelling,UTC-3,America/Coyhaique
+407783,CL,CL-AI,Rauco,Rauco,245,4,village,UTC-3,America/Coyhaique
+407791,CL,CL-AI,El Arenal del Veinticinco,El Arenal del 25,190,4,hamlet,UTC-3,America/Coyhaique
+407796,CL,CL-AI,Los Leones,Los Leones,382,3,Hamlet,UTC-3,America/Coyhaique
+407805,CL,CL-AI,El Salto,El Salto,258,4,hamlet,UTC-3,America/Coyhaique
+407806,CL,CL-AI,El Pangal,El Pangal,172,4,hamlet,UTC-3,America/Coyhaique
+407807,CL,CL-AI,Rio Blanco,Río Blanco,63,4,hamlet,UTC-3,America/Coyhaique
+407811,CL,CL-AI,Las Mellizas,Las Mellizas,1435,4,village,UTC-3,America/Coyhaique
+407817,CL,CL-AI,La Rosita,La Rosita,1424,4,village,UTC-3,America/Coyhaique
+407818,CL,CL-AI,San Cristobal,San Cristóbal,1198,4,village,UTC-3,America/Coyhaique
+407820,CL,CL-AI,El Balseo,El Balseo,73,4,hamlet,UTC-3,America/Coyhaique
+407830,CL,CL-AI,Chacabuco,Chacabuco,432,3,Village,UTC-3,America/Coyhaique
+407835,CL,CL-AI,China Muerta,China Muerta,190,4,hamlet,UTC-3,America/Coyhaique
+407836,CL,CL-AI,El Hungaro,El Húngaro,279,4,village,UTC-3,America/Coyhaique
+407839,CL,CL-AI,El Maiten,El Maitén,171,4,hamlet,UTC-3,America/Coyhaique
+407844,CL,CL-AI,Los Corrales,Los Corrales,651,4,village,UTC-3,America/Coyhaique
+407849,CL,CL-AI,La Esperanza,La Esperanza,506,4,village,UTC-3,America/Coyhaique
+407852,CL,CL-AI,Las Canoas,Las Canoas,809,4,village,UTC-3,America/Coyhaique
+407853,CL,CL-AI,El Progreso,El Progreso,370,3,Hamlet,UTC-3,America/Coyhaique
+407856,CL,CL-AI,Campo de Urrutia,Campo de Urrutia,89,4,hamlet,UTC-3,America/Coyhaique
+407860,CL,CL-AI,Paso Hondo,Paso Hondo,213,4,village,UTC-3,America/Coyhaique
+407865,CL,CL-TA,Los Verdes,Los Verdes,199,4,hamlet,UTC-4,America/Santiago
+407866,CL,CL-AN,El Vigia,El Vigía,2268,4,village,UTC-4,America/Santiago
+407868,CL,CL-AT,Las Bombas,Las Bombas,1261,4,village,UTC-4,America/Santiago
+407870,CL,CL-AT,Villa del Cerro,Villa del Cerro,204,4,village,UTC-4,America/Santiago
+407874,CL,CL-VS,Corolmo,Corolmo,527,4,village,UTC-4,America/Santiago
+407876,CL,CL-VS,El Maqui,El Maqui,264,4,hamlet,UTC-4,America/Santiago
+407877,CL,CL-VS,Santa Rosa de Colmo,Santa Rosa de Colmo,498,3,Hamlet,UTC-4,America/Santiago
+407878,CL,CL-VS,Mauco,Mauco,162,4,hamlet,UTC-4,America/Santiago
+407879,CL,CL-VS,Purehue,Purehue,247,4,hamlet,UTC-4,America/Santiago
+407880,CL,CL-RM,Lo Marin,Lo Marín,129,4,hamlet,UTC-4,America/Santiago
+407881,CL,CL-VS,Los Faroles,Los Faroles,65,4,hamlet,UTC-4,America/Santiago
+407883,CL,CL-VS,El Escorial,El Escorial,590,3,Village,UTC-4,America/Santiago
+407884,CL,CL-VS,El Porvenir,El Porvenir,855,4,village,UTC-4,America/Santiago
+407885,CL,CL-VS,Las Palmas,Las Palmas,631,4,hamlet,UTC-4,America/Santiago
+407886,CL,CL-VS,Villa Prat,Villa Prat,2704,3,Town,UTC-4,America/Santiago
+407887,CL,CL-VS,Rabuco,Rabuco,2298,3,Town,UTC-4,America/Santiago
+407891,CL,CL-VS,La Higuera,La Higuera,1261,4,village,UTC-4,America/Santiago
+407892,CL,CL-VS,El Llano,El Llano,1745,4,village,UTC-4,America/Santiago
+407893,CL,CL-VS,La Colonia,La Colonia,205,4,hamlet,UTC-4,America/Santiago
+407897,CL,CL-VS,El Carmen,El Carmen,428,4,village,UTC-4,America/Santiago
+407899,CL,CL-VS,La Vega,La Vega,640,3,Village,UTC-4,America/Santiago
+407900,CL,CL-VS,Los Molinos,Los Molinos,515,4,hamlet,UTC-4,America/Santiago
+407902,CL,CL-VS,Calle Larga,Calle Larga,96,4,hamlet,UTC-4,America/Santiago
+407904,CL,CL-VS,Santa Julia,Santa Julia,306,4,village,UTC-4,America/Santiago
+407906,CL,CL-VS,Los Molles,Los Molles,665,4,village,UTC-4,America/Santiago
+407909,CL,CL-VS,Pichicuy,Pichicuy,579,3,Village,UTC-4,America/Santiago
+407916,CL,CL-CO,Cerrillos,Cerrillos,1567,4,village,UTC-4,America/Santiago
+407918,CL,CL-CO,Yolita,Yolita,317,4,village,UTC-4,America/Santiago
+407919,CL,CL-CO,Valdivia,Valdivia,2268,4,village,UTC-4,America/Santiago
+407920,CL,CL-CO,Carachilla,Carachilla,380,3,Village,UTC-4,America/Santiago
+407922,CL,CL-CO,Pulpica Bajo,Pulpica Bajo,62,4,hamlet,UTC-4,America/Santiago
+407923,CL,CL-CO,Moraleda,Moraleda,331,4,village,UTC-4,America/Santiago
+407927,CL,CL-VS,Las Taguas,Las Taguas,664,4,village,UTC-4,America/Santiago
+407931,CL,CL-VS,La Capilla,La Capilla,80,4,hamlet,UTC-4,America/Santiago
+407937,CL,CL-RM,Los Panguiles,Los Panguiles,422,4,village,UTC-4,America/Santiago
+407938,CL,CL-RM,Santa Emilia,Santa Emilia,874,4,village,UTC-4,America/Santiago
+407939,CL,CL-RM,La Estrella,La Estrella,248,4,hamlet,UTC-4,America/Santiago
+407941,CL,CL-VS,Las Pataguas,Las Patagüas,633,4,hamlet,UTC-4,America/Santiago
+407942,CL,CL-VS,El Membrillo,El Membrillo,169,4,hamlet,UTC-4,America/Santiago
+407944,CL,CL-RM,Bollenar,Bollenar,5317,3,City,UTC-4,America/Santiago
+407946,CL,CL-RM,El Penon,El Peñón,1523,3,Town,UTC-4,America/Santiago
+407947,CL,CL-RM,Las Acacias,Las Acacias,412,3,Village,UTC-4,America/Santiago
+407948,CL,CL-RM,Codigua,Codigua,671,4,village,UTC-4,America/Santiago
+407949,CL,CL-RM,Santa Laura,Santa Laura,68,4,hamlet,UTC-4,America/Santiago
+407951,CL,CL-RM,Carmen Bajo,Carmen Bajo,566,3,Village,UTC-4,America/Santiago
+407956,CL,CL-RM,San Juan de Popeta,San Juan de Popeta,403,4,hamlet,UTC-4,America/Santiago
+407957,CL,CL-VS,Bobadillo,Bobadillo,560,4,hamlet,UTC-4,America/Santiago
+407958,CL,CL-LI,Punta Alta,Punta Alta,232,4,hamlet,UTC-4,America/Santiago
+407959,CL,CL-RM,La Manga,La Manga,467,4,hamlet,UTC-4,America/Santiago
+407960,CL,CL-RM,Los Culenes,Los Culenes,174,4,hamlet,UTC-4,America/Santiago
+407964,CL,CL-RM,Nihue,Nihue,359,4,village,UTC-4,America/Santiago
+407966,CL,CL-RM,El Molino,El Molino,691,4,hamlet,UTC-4,America/Santiago
+407967,CL,CL-AT,Desvio,Desvío,301,4,hamlet,UTC-4,America/Santiago
+407968,CL,CL-TA,Rio Seco,Río Seco,145,3,Village,UTC-4,America/Santiago
+407969,CL,CL-TA,Playa Blanca,Playa Blanca,85,4,hamlet,UTC-4,America/Santiago
+407970,CL,CL-TA,Colonia Pintados,Colonia Pintados,143,4,hamlet,UTC-4,America/Santiago
+407971,CL,CL-TA,Saina,Saiña,56,4,hamlet,UTC-4,America/Santiago
+407972,CL,CL-TA,Baquedano,Baquedano,587,3,Village,UTC-4,America/Santiago
+407973,CL,CL-LL,Lenca,Lenca,1075,3,Hamlet,UTC-4,America/Santiago
+407974,CL,CL-LL,Colonia Rio Sur,Colonia Río Sur,483,3,Hamlet,UTC-4,America/Santiago
+407975,CL,CL-LL,San Rafael,San Rafael,237,4,hamlet,UTC-4,America/Santiago
+407976,CL,CL-AP,Azapa Chico,Azapa Chico,236,4,hamlet,UTC-4,America/Santiago
+407977,CL,CL-AP,Tignamar Viejo,Tignámar Viejo,723,4,hamlet,UTC-4,America/Santiago
+407982,CL,CL-CO,Quilitapia,Quilitapia,451,3,Village,UTC-4,America/Santiago
+407983,CL,CL-CO,Arboleda Grande,Arboleda Grande,113,4,hamlet,UTC-4,America/Santiago
+407985,CL,CL-LL,Rio Frio,Río Frío,230,4,hamlet,UTC-4,America/Santiago
+407986,CL,CL-AR,Los Boldos,Los Boldos,91,4,hamlet,UTC-4,America/Santiago
+407987,CL,CL-AR,Quinenahuin,Quiñenahuín,62,4,hamlet,UTC-4,America/Santiago
+407990,CL,CL-AR,Allipen,Allipén,182,4,hamlet,UTC-4,America/Santiago
+407991,CL,CL-BI,Guallali,Guallalí,170,4,hamlet,UTC-4,America/Santiago
+407992,CL,CL-AR,Llanquen,Llanquén,56,4,hamlet,UTC-4,America/Santiago
+407993,CL,CL-BI,Canteras,Canteras,2013,4,village,UTC-4,America/Santiago
+407994,CL,CL-BI,Villucura,Villucura,144,4,hamlet,UTC-4,America/Santiago
+407996,CL,CL-BI,Biobio,Biobío,224,4,village,UTC-4,America/Santiago
+407999,CL,CL-BI,Cayucupil,Cayucupil,271,3,Village,UTC-4,America/Santiago
+408000,CL,CL-BI,Lanalhue,Lanalhue,113,4,hamlet,UTC-4,America/Santiago
+408001,CL,CL-BI,Niquen,Ñiquén,291,4,village,UTC-4,America/Santiago
+408004,CL,CL-BI,Recinto,Recinto,956,4,village,UTC-4,America/Santiago
+408005,CL,CL-BI,Los Puquios,Los Puquios,193,4,hamlet,UTC-4,America/Santiago
+408006,CL,CL-BI,San Isidro,San Isidro,279,4,village,UTC-4,America/Santiago
+408007,CL,CL-BI,Colmuyao,Colmuyao,94,4,hamlet,UTC-4,America/Santiago
+408009,CL,CL-BI,Santa Clara,Santa Clara,2368,4,village,UTC-4,America/Santiago
+408011,CL,CL-BI,Paso Hondo,Paso Hondo,77,4,hamlet,UTC-4,America/Santiago
+408013,CL,CL-ML,La Mina,La Mina,379,3,Village,UTC-4,America/Santiago
+408014,CL,CL-ML,Macal,Macal,90,4,hamlet,UTC-4,America/Santiago
+408015,CL,CL-ML,Pelluhue,Pelluhue,2905,3,Town,UTC-4,America/Santiago
+408016,CL,CL-LI,La Punta,La Punta,7460,3,City,UTC-4,America/Santiago
+408017,CL,CL-RM,Alhue,Alhué,6835,3,Municipality,UTC-4,America/Santiago
+408018,CL,CL-LI,El Manzano,El Manzano,122,4,hamlet,UTC-4,America/Santiago
+408019,CL,CL-LI,Litueche,Litueche,3336,3,Town,UTC-4,America/Santiago
+408021,CL,CL-LI,Tunca del Medio,Tunca del Medio,313,4,hamlet,UTC-4,America/Santiago
+408024,CL,CL-ML,Majadilla,Majadilla,137,4,hamlet,UTC-4,America/Santiago
+408026,CL,CL-RM,Chicureo,Chicureo,13748,3,City,UTC-4,America/Santiago
+408030,CL,CL-TA,Caramucho,Caramucho,215,4,hamlet,UTC-4,America/Santiago
+408034,CL,CL-TA,Caleta Chipana,Caleta Chipana,84,4,hamlet,UTC-4,America/Santiago
+408035,CL,CL-TA,Altos de Playa Blanca,Altos de Playa Blanca,715,3,Village,UTC-4,America/Santiago
+408036,CL,CL-LL,Quillaipe,Quillaipe,470,3,Hamlet,UTC-4,America/Santiago
+408037,CL,CL-LL,Mision San Juan de la Costa,Misión San Juan de la Costa,79,4,hamlet,UTC-4,America/Santiago
+408045,CL,CL-NB,Copiulemu,Copiulemu,89,4,hamlet,UTC-4,America/Santiago

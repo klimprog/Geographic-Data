@@ -1,0 +1,84 @@
+key,country,name,native_name,capital,population,timezone_utc,timezone_iana
+RU-AD,RU,Respublika Adygeya,Адыгея,3952231,439996,UTC+3,Europe/Moscow
+RU-AL,RU,Respublika Altay,Алтай,4027117,206168,"UTC+3, UTC+7","Europe/Moscow, Asia/Barnaul"
+RU-ALT,RU,Altayskiy Kray,Алтайский Край,4029773,2586976,UTC+7,"Asia/Barnaul, Asia/Novosibirsk"
+RU-AMU,RU,Amur Oblast,Амурская Область,4039342,830103,"UTC+8, UTC+10, UTC+9","Asia/Vladivostok, Asia/Chita, Asia/Yakutsk, Asia/Shanghai"
+RU-ARK,RU,Arkhangelsk Oblast,Архангельская Область,3991288,1262043,UTC+3,Europe/Moscow
+RU-AST,RU,Astrakhan Oblast,Астраханская Область,3990856,1010073,"UTC+3, UTC+4","Europe/Astrakhan, Europe/Moscow, Europe/Volgograd"
+RU-BA,RU,Bashkortostan,Башкортостан,3915511,4072292,"UTC+5, UTC+3","Asia/Yekaterinburg, Europe/Moscow"
+RU-BEL,RU,Belgorod Oblast,Белгородская Область,3989008,1511603,"UTC+3, UTC+2","Europe/Kyiv, Europe/Moscow"
+RU-BRY,RU,Bryansk Oblast,Брянская Область,3984130,1278217,"UTC+3, UTC+2","Europe/Kyiv, Europe/Moscow"
+RU-BU,RU,Respublika Buryatiya,Бурятия,4033260,963335,"UTC+8, UTC+9","Asia/Chita, Asia/Irkutsk"
+RU-CE,RU,Chechenskaya Respublika,Чечня,3974164,1210000,UTC+3,Europe/Moscow
+RU-CHE,RU,Chelyabinsk Oblast,Челябинская,4028334,3476217,"UTC+5, UTC+3","Asia/Yekaterinburg, Europe/Moscow, Asia/Tashkent"
+RU-CHU,RU,Chukotskiy Avtonomnyy Okrug,Чукотский АО,4042616,50133,UTC+12,Asia/Anadyr
+RU-CU,RU,Chuvashskaya Respublika,Чувашия,3982770,1301226,UTC+3,Europe/Moscow
+RU-DA,RU,Dagestan,Дагестан,3955073,2576531,UTC+3,"Europe/Moscow, Europe/Volgograd"
+RU-IN,RU,Respublika Ingushetiya,Ингушетия,4046650,499502,UTC+3,Europe/Moscow
+RU-IRK,RU,Irkutsk Oblast,Иркутская Область,4037931,2428750,"UTC+8, UTC+3, UTC+9, UTC+7","Europe/Moscow, Asia/Krasnoyarsk, Asia/Yakutsk, Asia/Irkutsk"
+RU-IVA,RU,Ivanovo Oblast,Ивановская Область,3972044,1061651,UTC+3,Europe/Moscow
+RU-KAM,RU,Kamchatka Krai,Камчатский край,4041387,322079,"UTC+12, UTC+10","Asia/Anadyr, Asia/Ust-Nera, Asia/Kamchatka"
+RU-KB,RU,Kabardino-Balkarskaya Respublika,Кабардино-Балкария,3948662,928519,UTC+3,Europe/Moscow
+RU-KC,RU,Karachayevo-Cherkesiya,Карачаево-Черкессия,3982377,434488,UTC+3,Europe/Moscow
+RU-KDA,RU,Krasnodarskiy Kray,Краснодарский край,3962521,5191490,UTC+3,"Europe/Simferopol, Europe/Moscow"
+RU-KEM,RU,Kemerovo Oblast,Кузба́сс,4025811,2827246,UTC+7,"Asia/Krasnoyarsk, Asia/Barnaul, Asia/Tomsk, Asia/Novokuznetsk, Asia/Novosibirsk"
+RU-KGD,RU,Kaliningrad Oblast,Калининградская Область,3971206,941873,UTC+2,Europe/Kaliningrad
+RU-KGN,RU,Kurgan Oblast,Курганская Область,4024218,910807,"UTC+5, UTC+3","Asia/Yekaterinburg, Europe/Moscow"
+RU-KHA,RU,Khabarovskiy Kray,Хабаровский Край,4037618,1394490,"UTC+8, UTC+10, UTC+9","Asia/Irkutsk, Asia/Ust-Nera, Asia/Khandyga, Asia/Vladivostok, Asia/Yakutsk"
+RU-KHM,RU,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,Ханты-Мансийский АО,4025764,1460892,"UTC+5, UTC+3, UTC+7","Asia/Yekaterinburg, Europe/Moscow, Asia/Tomsk"
+RU-KIR,RU,Kirov Oblast,Кировская Область,3967072,1457862,"UTC+5, UTC+3, UTC+4","Europe/Samara, Europe/Kirov, Asia/Yekaterinburg, Europe/Moscow"
+RU-KK,RU,Respublika Khakasiya,Хакасия,4030603,532403,UTC+7,Asia/Krasnoyarsk
+RU-KL,RU,Kalmykiya,Калмыкия,3978197,284668,"UTC+3, UTC+4","Europe/Astrakhan, Europe/Moscow, Europe/Volgograd"
+RU-KLU,RU,Kaluga Oblast,Калужская Область,3970963,1030145,"UTC+5, UTC+3","Asia/Yekaterinburg, Europe/Moscow"
+RU-KO,RU,Komi,Коми,3919572,901189,UTC+3,"Europe/Kirov, Europe/Moscow"
+RU-KOS,RU,Kostroma Oblast,Костромская Область,3963643,667562,UTC+3,"Europe/Kirov, Europe/Moscow"
+RU-KR,RU,Respublika Kareliya,Карелия,3938036,632533,UTC+3,Europe/Moscow
+RU-KRS,RU,Kursk Oblast,Курская Область,3959604,1207091,"UTC+3, UTC+2","Europe/Kyiv, Europe/Moscow"
+RU-KYA,RU,Krasnoyarskiy Kray,Красноярский Край,4024652,2845899,"UTC+8, UTC+7","Asia/Novokuznetsk, Asia/Krasnoyarsk, Asia/Irkutsk"
+RU-LEN,RU,Leningrad Oblast,Ленинградская область,\N,1778857,"UTC+3, UTC+2","Europe/Kaliningrad, Europe/Moscow"
+RU-LIP,RU,Lipetsk Oblast,Липецкая Область,3957279,1173513,UTC+3,Europe/Moscow
+RU-MAG,RU,Magadan Oblast,Магаданская Область,4041759,156996,"UTC+12, UTC+11","Asia/Anadyr, Asia/Magadan"
+RU-ME,RU,Respublika Mariy-El,Марий Эл,3906165,696459,UTC+3,"Europe/Kirov, Europe/Moscow"
+RU-MO,RU,Respublika Mordoviya,Мордовия,3929645,868531,"UTC+3, UTC+4","Europe/Moscow, Europe/Ulyanovsk"
+RU-MOS,RU,Moscow Oblast,Московская область,\N,7095120,UTC+3,Europe/Moscow
+RU-MOW,RU,Moskva,Москва,\N,11503501,UTC+3,Europe/Moscow
+RU-MUR,RU,Murmansk Oblast,Мурманская Область,3949211,841894,UTC+3,Europe/Moscow
+RU-NEN,RU,Nenetskiy Avtonomnyy Okrug,Ненецкий АО,3948563,42090,"UTC+5, UTC+3","Asia/Yekaterinburg, Europe/Moscow"
+RU-NGR,RU,Novgorod Oblast,Новгородская Область,3945376,634111,UTC+3,Europe/Moscow
+RU-NIZ,RU,Nizhny Novgorod Oblast,Нижегородской,3946335,3310597,UTC+3,"Europe/Kirov, Europe/Moscow"
+RU-NVS,RU,Novosibirsk Oblast,Новосибирская Область,4021221,2665911,"UTC+5, UTC+6, UTC+7","Asia/Yekaterinburg, Asia/Barnaul, Asia/Novosibirsk, Asia/Omsk"
+RU-OMS,RU,Omsk Oblast,Омская Область,4020833,2054238,"UTC+5, UTC+6","Asia/Yekaterinburg, Asia/Omsk"
+RU-ORE,RU,Orenburg Oblast,Оренбургская Область,3941912,2033072,"UTC+5, UTC+3, UTC+4","Europe/Samara, Asia/Yekaterinburg, Europe/Moscow"
+RU-ORL,RU,Oryol Oblast,Орловщина,3941918,848808,UTC+3,Europe/Moscow
+RU-PER,RU,Perm Krai,Пермский край,3939086,2819421,"UTC+5, UTC+4","Europe/Samara, Asia/Yekaterinburg"
+RU-PNZ,RU,Penza Oblast,Пензенская Область,3939359,1433768,"UTC+3, UTC+4","Europe/Saratov, Europe/Moscow, Europe/Ulyanovsk"
+RU-PRI,RU,Primorskiy Kray,Приморский Край,4032641,2021901,"UTC+10, UTC+9","Asia/Vladivostok, Asia/Chita, Asia/Khandyga, Asia/Yakutsk"
+RU-PSK,RU,Pskov Oblast,Псковская Область,3933749,673423,"UTC+3, UTC+2","Europe/Kaliningrad, Europe/Moscow"
+RU-ROS,RU,Rostov Oblast,Ростовская Область,3931526,4397303,"UTC+3, UTC+2","Europe/Kyiv, Europe/Moscow, Europe/Volgograd"
+RU-RYA,RU,Ryazan Oblast,Рязанская Область,3930689,1197310,UTC+3,Europe/Moscow
+RU-SA,RU,Republic of Sakha (Yakutia),Саха (Якутия),4032548,918293,"UTC+8, UTC+10, UTC+9, UTC+11","Asia/Irkutsk, Asia/Ust-Nera, Asia/Vladivostok, Asia/Yakutsk, Asia/Magadan"
+RU-SAK,RU,Sakhalin Oblast,Сахалин,4040645,497973,"UTC+11, UTC+7","Asia/Sakhalin, Asia/Krasnoyarsk, Asia/Barnaul, Asia/Magadan"
+RU-SAM,RU,Samara Oblast,Самарская Область,3929938,3201272,"UTC+5, UTC+3, UTC+4","Europe/Samara, Europe/Moscow, Asia/Yekaterinburg, Europe/Saratov, Europe/Ulyanovsk"
+RU-SAR,RU,Saratovskaya Oblast,Саратовская Область,3929632,2648495,"UTC+5, UTC+3, UTC+4, UTC+6","Europe/Samara, Europe/Moscow, Asia/Yekaterinburg, Europe/Saratov, Asia/Omsk, Europe/Volgograd"
+RU-SE,RU,North Ossetia-Alania,Северная Осетия,3910985,722902,UTC+3,Europe/Moscow
+RU-SMO,RU,Smolensk Oblast,Смоленская Область,3924470,1022035,UTC+3,Europe/Moscow
+RU-SPE,RU,Sankt-Peterburg,Санкт-Петербург,3929730,4879566,UTC+3,Europe/Moscow
+RU-STA,RU,Stavropol Kray,Ставрополье,3921448,2799600,UTC+3,Europe/Moscow
+RU-SVE,RU,Sverdlovsk Oblast,Свердловская Область,4014637,4412629,UTC+5,Asia/Yekaterinburg
+RU-TA,RU,Tatarstan,Татарстан,3969227,3786488,"UTC+5, UTC+3, UTC+4","Europe/Samara, Europe/Moscow, Asia/Yekaterinburg, Europe/Ulyanovsk, Europe/Kirov"
+RU-TAM,RU,Tambov Oblast,Тамбовская Область,3919198,1143906,"UTC+3, UTC+4","Europe/Saratov, Europe/Moscow"
+RU-TOM,RU,Tomsk Oblast,Томская Область,4016622,1049069,"UTC+5, UTC+7","Asia/Novokuznetsk, Asia/Yekaterinburg, Asia/Tomsk"
+RU-TUL,RU,Tula Oblast,Тульская Область,3916181,1628465,UTC+3,Europe/Moscow
+RU-TVE,RU,Tver Oblast,Тверская Область,3915844,1425582,UTC+3,Europe/Moscow
+RU-TY,RU,Respublika Tyva,Республика Тыва,4024013,307930,UTC+7,Asia/Krasnoyarsk
+RU-TYU,RU,Tyumen Oblast,Тюмень,4016253,1316577,"UTC+5, UTC+6","Asia/Yekaterinburg, Asia/Omsk"
+RU-UD,RU,Udmurtskaya Respublika,Удмуртия,3971659,1552897,"UTC+5, UTC+3, UTC+4, UTC+7","Europe/Samara, Europe/Moscow, Asia/Tomsk, Asia/Yekaterinburg, Europe/Kirov"
+RU-ULY,RU,Ulyanovsk Oblast,Ульяновская Область,3915221,1350713,"UTC+3, UTC+4","Europe/Moscow, Europe/Samara, Europe/Saratov, Europe/Ulyanovsk"
+RU-VGG,RU,Volgograd Oblast,Волгоградская Область,3910631,2610161,"UTC+3, UTC+4","Europe/Saratov, Europe/Astrakhan, Europe/Moscow, Europe/Volgograd"
+RU-VLA,RU,Vladimirskaya Oblast',Владимирская область,3910983,1443693,UTC+3,Europe/Moscow
+RU-VLG,RU,Vologda Oblast,Вологодская Область,3910396,1245037,UTC+3,"Europe/Kirov, Europe/Moscow"
+RU-VOR,RU,Voronezh Oblast,Воронежская Область,3910119,2345910,"UTC+3, UTC+4","Europe/Saratov, Europe/Moscow, Europe/Volgograd"
+RU-YAN,RU,Yamalo-Nenetskiy Avtonomnyy Okrug,Ямало-Ненецкий АО,4018906,522904,UTC+5,Asia/Yekaterinburg
+RU-YAR,RU,Yaroslavl Oblast,Ярославская Область,3907792,1338750,UTC+3,Europe/Moscow
+RU-YEV,RU,Yevrey (Jewish) Autonomous Oblast,Еврейская АО,4039356,176558,UTC+10,Asia/Vladivostok
+RU-ZAB,RU,Transbaikal Territory,Забайкальский Край,4038746,1107107,"UTC+8, UTC+9","Asia/Chita, Asia/Irkutsk"

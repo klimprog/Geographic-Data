@@ -1,0 +1,965 @@
+id,city_id,language_key,name
+2748365,35694,az,Zeytə
+2748442,35695,az,Paşalı
+2748519,35696,az,Çanaxçı
+2748596,35697,az,Goravan
+2748673,35698,az,Yeğvard
+2748750,35699,az,Şidli
+2748827,35700,az,Yeğeqnadzor
+2748904,35701,az,Şabadin
+2749058,35703,az,Bəcəyəzli
+2749135,35704,az,Şirazlı
+2749212,35705,az,Başkənd
+2749289,35706,az,Verişen
+2749366,35707,az,Verin Vac'agan
+2749443,35708,az,Yuzarı Xotanan
+2749520,35709,az,Yuxarı Gödəkli
+2749597,35710,az,Vedi
+2749674,35711,az,Vayk
+2749751,35712,az,Qaşqa
+2749828,35713,az,Seyidlər kəndi
+2749905,35714,az,Gülüdüzü
+2749982,35715,az,Vağudi
+2750059,35716,az,Vağravar
+2750136,35717,az,Ucanis
+2750213,35718,az,Uz
+2750290,35719,az,Urud
+2750444,35721,az,Tsab
+2750521,35722,az,Tulus
+2750598,35723,az,Tex
+2750675,35724,az,Tapşırıq
+2750752,35725,az,Vanasen
+2750829,35726,az,Tatevges
+2750906,35727,az,Tatev
+2750983,35728,az,Taştun
+2751060,35729,az,Dərətumb
+2751137,35730,az,Tandzaver
+2751214,35731,az,Tənzətap
+2751291,35732,az,Suvaranats
+2751368,35733,az,Surenavan
+2751445,35734,az,Kilsəkənd
+2751522,35735,az,Qalacıq
+2751599,35736,az,Sofulu
+2751676,35737,az,Sznak
+2751753,35738,az,Sisian
+2751830,35739,az,Yengicə
+2751907,35740,az,Şvanidzor
+2751984,35741,az,Şurnux
+2752061,35742,az,Şrvenants
+2752138,35743,az,Şişkert
+2752215,35744,az,Şinuayr
+2752292,35745,az,Lusarat
+2752369,35746,az,Şıxovuz
+2752523,35748,az,Şinadağ
+2752600,35749,az,Yuva
+2752677,35750,az,Həsənkənd
+2752754,35751,az,Şamb
+2752831,35752,az,Şəki
+2752908,35753,az,Şalat
+2752985,35754,az,Şahablı
+2753062,35755,az,Sevakar
+2753139,35756,az,Sers
+2753216,35757,az,Saybalı
+2753293,35758,az,Terp
+2753370,35759,az,Əlili
+2753447,35760,az,Sallı
+2753601,35762,az,Rind
+2753755,35764,az,Por
+2753909,35766,az,Nor Astgaberd
+2753986,35767,az,Orbatex
+2754063,35768,az,Oxtar
+2754140,35769,az,Nrnadzor
+2754217,35770,az,Xalisa
+2754294,35771,az,Nor Qyank
+2754371,35772,az,Nor Aznaberd
+2754448,35773,az,Noravan
+2754525,35774,az,Noraşenik
+2754679,35776,az,Aşağı Xotanan
+2754833,35778,az,Bargusat
+2754910,35779,az,Nerk'in Hand
+2754987,35780,az,Müsəlləm
+2755064,35781,az,Murğuz
+2755141,35782,az,Gödəkli
+2755218,35783,az,Meğri
+2755372,35785,az,Martiros
+2755449,35786,az,Maralzəmi
+2755526,35787,az,Malışka
+2755603,35788,az,Maldaş
+2755680,35789,az,Lor
+2755757,35790,az,Lichk
+2755834,35791,az,Kürdkənd
+2755911,35792,az,Lehvaz
+2755988,35793,az,Qızılcıq
+2756065,35794,az,Kuris
+2756142,35795,az,Andokavan
+2756219,35796,az,Kornidzor
+2756296,35797,az,Şıxlar
+2756373,35798,az,P'ok'r Vedi
+2756450,35799,az,Xoznavar
+2756527,35800,az,Xot
+2756604,35801,az,Almalı
+2756681,35802,az,Xınzırək
+2756758,35803,az,Xnatsax
+2756835,35804,az,Xdrans
+2756912,35805,az,Xalac
+2756989,35806,az,Xaçik
+2757066,35807,az,Quşçu
+2757143,35808,az,Qovşud
+2757297,35810,az,Kotanlı
+2757374,35811,az,Kərçivan
+2757451,35812,az,Qaraunc
+2757528,35813,az,Qaradığa
+2757605,35814,az,Qaraşen
+2757682,35815,az,Lusashogh
+2757759,35816,az,Qaraqulax
+2757836,35817,az,Kapan
+2757913,35818,az,Kağtsraşen
+2757990,35819,az,Qaxnut
+2758067,35820,az,Qacaran
+2758144,35821,az,Qədirli
+2758221,35822,az,Qabaxlı
+2758298,35823,az,Cermuk
+2758375,35824,az,Kirov
+2758452,35825,az,Qovuşuq
+2758529,35826,az,Gabud
+2758606,35827,az,Qudemnis
+2758683,35828,az,Hors
+2758760,35829,az,Gorus
+2758837,35830,az,Bazarçay
+2758914,35831,az,Komk
+2758991,35832,az,Gomaran
+2759068,35833,az,Gənəşik
+2759145,35834,az,Qndevaz
+2759222,35835,az,Qladzor
+2759376,35837,az,Getat'ag
+2759453,35838,az,Qoytur
+2759530,35839,az,Herher
+2759607,35840,az,Gığı
+2759684,35841,az,Geghanush
+2759761,35842,az,Qalidzor
+2759838,35843,az,Yelpin
+2759915,35844,az,Axtaxana
+2759992,35845,az,Tavrus
+2760069,35846,az,Ditsmayri
+2760146,35847,az,Daylaxlı
+2760223,35848,az,David Bəy
+2760300,35849,az,Dəstəgird
+2760377,35850,az,Daşlı
+2760454,35851,az,Dərəbas
+2760531,35852,az,Dəlilər
+2760685,35854,az,Çivə
+2760762,35855,az,Getisen
+2760839,35856,az,Capni
+2760993,35858,az,Çakaten
+2761070,35859,az,Berdik
+2761147,35860,az,Qarahəmzəli
+2761224,35861,az,Akner
+2761301,35862,az,Brnakot
+2761378,35863,az,Borisovka
+2761455,35864,az,Bnunis
+2761532,35865,az,Oğurbəyli
+2761609,35866,az,Bayandur
+2761686,35867,az,Sultanbəy
+2761763,35868,az,Məzrə
+2761840,35869,az,Yeritsatumb
+2761917,35870,az,Balak
+2761994,35871,az,Başnalı
+2762071,35872,az,Azadeğ
+2762148,35873,az,Ciğdamlı
+2762225,35874,az,Darğalı
+2762302,35875,az,Məsimli
+2762379,35876,az,Reyhanlı
+2762456,35877,az,Avşar
+2762533,35878,az,Sisyan (kənd)
+2762610,35879,az,Ağkənd
+2762687,35880,az,Artsvanik
+2762764,35881,az,Cul
+2762841,35882,az,Artaşat
+2762918,35883,az,Alagöz
+2762995,35884,az,Armaş
+2763072,35885,az,Arpa
+2763149,35886,az,Ərəvus
+2763226,35887,az,Ərəfsə
+2763303,35888,az,Ararat
+2763380,35889,az,Dəvəli
+2763457,35890,az,Araqadzor
+2763534,35891,az,Dortnu
+2763611,35892,az,Angeğakot
+2763688,35893,az,Alvank'
+2763765,35894,az,Əxlətyan
+2763842,35895,az,Aynazur
+2763919,35896,az,Acıbac
+2763996,35897,az,Ağvan
+2764073,35898,az,Ağdü
+2764150,35899,az,Ağyar
+2764227,35900,az,Əkərək
+2764304,35901,az,Əkərək
+2764766,35907,az,Ltsen
+2764843,35908,az,Harzis
+2764920,35909,az,Dzoraşen
+2764997,35910,az,Ərpi
+2765459,35916,az,Qaralar
+2765536,35917,az,Urtsadzor
+2765613,35918,az,Arazdəyən
+2765690,35919,az,Ağkənd
+2765767,35920,az,Kajarants
+2765844,35921,az,Lanjar
+2765921,35922,az,Keşişverən
+2765998,35923,az,Moz
+2766075,35924,az,Erdəpin
+2766152,35925,az,Zərincə
+2766229,35926,az,Karmirgyugh
+2766306,35927,az,Qaraqala
+2766383,35928,az,Horom
+2766460,35929,az,Marqara
+2766614,35931,az,Kat'narat
+2766691,35932,az,Ciftəli
+2766768,35933,az,Dəlləkli
+2766922,35935,az,Yayıcı
+2766999,35936,az,Balıqlı
+2767076,35937,az,Zəngilər
+2767153,35938,az,Zolaxaç
+2767230,35939,az,Zod
+2767307,35940,az,Qoncalı
+2767384,35941,az,Zar
+2767461,35942,az,Xeyirbəyli
+2767538,35943,az,Qarabulaq
+2767615,35944,az,İrəvan
+2767692,35945,az,Aralıq
+2767769,35946,az,Quru Araz
+2767846,35947,az,Eranos
+2767923,35948,az,Enok'avan
+2768077,35950,az,Dədəli
+2768154,35951,az,Qamışqut
+2768231,35952,az,Molla Bədəl
+2768308,35953,az,Üçkilsə
+2768385,35954,az,Yeğvard
+2768462,35955,az,Çivinli
+2768539,35956,az,Lcavan
+2768616,35957,az,Yağdan
+2768693,35958,az,Qızıldəmir
+2768770,35959,az,Xoşkotan
+2768847,35960,az,Quldərviş
+2768924,35961,az,Əskipara
+2769001,35962,az,Patrinc
+2769078,35963,az,Molla Musa
+2769155,35964,az,Voxçaberd
+2769232,35965,az,Oxçuoğlu
+2769309,35966,az,Axpradzor (Yuxarı Zağalı)
+2769463,35968,az,Yuxarı Şorca
+2769540,35969,az,Yuxarı Qaraqoymaz
+2769617,35970,az,Yuxarı Körpülü
+2769694,35971,az,Verin Karmiraxpür
+2769771,35972,az,Yuxarı Adyaman
+2769848,35973,az,Verin Dvin
+2769925,35974,az,Verin Bazmaberd
+2770002,35975,az,Verin Artasat
+2770079,35976,az,Vazaşen
+2770156,35977,az,Çırçır
+2770233,35978,az,Şirəqala
+2770310,35979,az,Güllücə
+2770387,35980,az,Basarkeçər
+2770464,35981,az,Aşağı Gözəldərə
+2770541,35982,az,Mehrablı
+2770618,35983,az,Çubuxçu
+2770695,35984,az,Vardagbyur
+2770772,35985,az,Tomardaş
+2770849,35986,az,Cəngi
+2770926,35987,az,Şəfəq (Kərkibaş)
+2771003,35988,az,Orconikidze
+2771080,35989,az,Aşağı Qanlıca
+2771157,35990,az,Abdalağalı
+2771234,35991,az,Şahəli
+2771311,35992,az,Uşi
+2771388,35993,az,Urud
+2771465,35994,az,Ucan
+2771542,35995,az,Tucur
+2771696,35997,az,T'umanyan
+2771773,35998,az,Armudlu (Şörəyel)
+2771850,35999,az,İmirli
+2771927,36000,az,Tsrviz
+2772004,36001,az,Kolagirən
+2772081,36002,az,Hacı Muxan
+2772158,36003,az,Aşağı Zağalı
+2772235,36004,az,Çubuxlu
+2772312,36005,az,Cızıxlar
+2772389,36006,az,Tsilkar
+2772466,36007,az,Tsater
+2772543,36008,az,Tsapatağ
+2772620,36009,az,Tsamakasar
+2772774,36011,az,Tsakkar
+2772851,36012,az,Tsaghkunk
+2772928,36013,az,Tsaghkunk
+2773005,36014,az,Tsaxkavan
+2773082,36015,az,Saxkavan
+2773159,36016,az,Təkərli
+2773236,36017,az,Kərimkənd
+2773313,36018,az,Hacıdur
+2773390,36019,az,Yuxarı Pirtikan
+2773467,36020,az,Hacı Xəlil
+2773544,36021,az,Avdıbəy
+2773621,36022,az,Dərəçiçək
+2773698,36023,az,İnəkdağı
+2773775,36024,az,Tavus
+2773852,36025,az,Gürcüeli
+2773929,36026,az,Qanlı
+2774006,36027,az,Tlik
+2774083,36028,az,T'egenik'
+2774160,36029,az,T'egut
+2774237,36030,az,Teger
+2774314,36031,az,Təzəkənd
+2774391,36032,az,T'avsut
+2774468,36033,az,Vorontsovka
+2774622,36035,az,Gegasar
+2774699,36036,az,Təpəkənd
+2774853,36038,az,Armudlu
+2775007,36040,az,Talbişah
+2775084,36041,az,Getahovit
+2775161,36042,az,Təknəli
+2775238,36043,az,Heydərbəy
+2775315,36044,az,Birinci Qılıcyataq
+2775392,36045,az,Cəlaloğlu
+2775469,36046,az,Spitak
+2775546,36047,az,Qulucan
+2775623,36048,az,Pagagbyur
+2775777,36050,az,Kərimarx
+2775854,36051,az,Zorba
+2775931,36052,az,Solak
+2776008,36053,az,Korbulaq
+2776085,36054,az,Sarvanlar
+2776162,36055,az,Kürd Pəmbi
+2776239,36056,az,Sultanabad
+2776316,36057,az,Şorca
+2776393,36058,az,Şınıx
+2776470,36059,az,Dovşanqışlaq
+2776547,36060,az,Qonaqqıran
+2776624,36061,az,Şqarşik
+2776701,36062,az,Korbulaq
+2776778,36063,az,Qızılörən
+2776855,36064,az,Bulxer
+2776932,36065,az,Kələkarx
+2777009,36066,az,Molla Dursun
+2777086,36067,az,Nərimanlı
+2777163,36068,az,Qoşabulaq
+2777240,36069,az,Şamud
+2777317,36070,az,Şamlıq
+2777394,36071,az,Şəmirəm
+2777471,36072,az,Qarabulaq
+2777548,36073,az,Qaradaş
+2777625,36074,az,Yelenovka
+2777702,36075,az,Semyonovka
+2777779,36076,az,Verin Sasunik
+2777856,36077,az,Dəliqardaş
+2777933,36078,az,Söyüdlü (Şörəyel)
+2778010,36079,az,Sarıgüh
+2778087,36080,az,Sərçəbed
+2778164,36081,az,Saratovka
+2778241,36082,az,İmirxan
+2778318,36083,az,Samurlu
+2778395,36084,az,Çotur
+2778472,36085,az,Göyyoxuş
+2778549,36086,az,Başkənd (Şörəyel)
+2778626,36087,az,Argalant
+2778703,36088,az,Tulnəbi
+2778780,36089,az,Saral
+2778857,36090,az,Bozdoğan
+2778934,36091,az,Güllücə
+2779011,36092,az,Kaniasir
+2779088,36093,az,Sanahin
+2779165,36094,az,Samaqar
+2779242,36095,az,Salut
+2779319,36096,az,Sağmosavan
+2779396,36097,az,Kondaxsaz
+2779473,36098,az,Çatqıran
+2779550,36099,az,Rəncbər
+2779627,36100,az,Rus Gərgəri
+2779704,36101,az,Ptxni
+2779781,36102,az,Ptghunk
+2779858,36103,az,İydəli
+2779935,36104,az,Proşyan
+2780012,36105,az,Privolnoye
+2780089,36106,az,Kiçik Şiştəpə
+2780166,36107,az,Kiçik Sarıyal
+2780243,36108,az,Kiçik Məzrə
+2780320,36109,az,Kiçik Arıxvəli
+2780397,36110,az,Poqr Ayrum
+2780474,36111,az,Zoravan
+2780551,36112,az,Kiçik Kəti
+2780628,36113,az,Ptgavan
+2780705,36114,az,Qurdqala
+2780782,36115,az,Mahmudcuq
+2780859,36116,az,P'arpi
+2780936,36117,az,Paravakar
+2781013,36118,az,P'arak'ar
+2781090,36119,az,Kaftarlı
+2781167,36120,az,P'ambak
+2781244,36121,az,Pəmbək
+2781321,36122,az,Yasovul
+2781398,36123,az,Kutniqışlaq
+2781475,36124,az,Hovnanadzor
+2781552,36125,az,Hovit
+2781629,36126,az,Oşakan
+2781706,36127,az,Quruboğaz
+2781783,36128,az,Orqov
+2781860,36129,az,Hobardzi
+2781937,36130,az,Sərdarabad
+2782014,36131,az,Ohanavan
+2782091,36132,az,Uzunlar
+2782168,36133,az,Nurnus
+2782245,36134,az,Barana
+2782322,36135,az,Novoseltsovo
+2782399,36136,az,Məçitli
+2782476,36137,az,Nə də Kharberd
+2782553,36138,az,Təzəkənd
+2782630,36139,az,Çatqıran
+2782707,36140,az,Yeni Başkənd
+2782784,36141,az,Boqdanovka
+2782861,36142,az,Noraşen
+2782938,36143,az,Saçlı
+2783015,36144,az,Əfəndi
+2783092,36145,az,Kürdkəndi
+2783169,36146,az,Nor Art'ik
+2783246,36147,az,Yeni Armavir
+2783400,36149,az,Qaraqala
+2783477,36150,az,Noramarg
+2783554,36151,az,Norakert
+2783631,36152,az,Norakert
+2783708,36153,az,Noradüz
+2783785,36154,az,Nor Açin
+2783862,36155,az,Əzizli
+2783939,36156,az,Danagirməz
+2784016,36157,az,Dastadem
+2784093,36158,az,Aşağı Şorca
+2784170,36159,az,Aşağı Qarakoymaz
+2784247,36160,az,Nerkin Karmiraxpür
+2784324,36161,az,Aşağı Adyaman
+2784401,36162,az,Aşağı Ağcaqala
+2784478,36163,az,Artsvanist
+2784555,36164,az,Aşağı Ağdan
+2784709,36166,az,Negots
+2784786,36167,az,Navur
+2784863,36168,az,Böyük Şəhriyar
+2784940,36169,az,Sirakamut
+2785017,36170,az,Xaçakilsə
+2785094,36171,az,Bozyoxuş
+2785171,36172,az,Böyük Kəpənək
+2785248,36173,az,Mülki
+2785325,36174,az,Ad Dar Qibal əl `Ulya
+2785402,36175,az,Muğan
+2785479,36176,az,Hacılar
+2785556,36177,az,Mrqaşen
+2785633,36178,az,Keçili
+2785710,36179,az,Zöhrablı
+2785787,36180,az,Damcılı
+2785864,36181,az,Mosesqex
+2785941,36182,az,Mxçyan
+2786018,36183,az,Mirək
+2786095,36184,az,Mixaylovka
+2786172,36185,az,Qəmərli
+2786249,36186,az,Böyük Şiştəpə
+2786326,36187,az,Böyük Sarıyal
+2786403,36188,az,Bəykənd
+2786480,36189,az,Böyük Məzrə
+2786557,36190,az,Böyük Arıxvəli
+2786634,36191,az,Kiçik Ayrım
+2786711,36192,az,Şahnəzər
+2786788,36193,az,Metsamor
+2786865,36194,az,Merdzavan
+2786942,36195,az,Məlikkənd
+2787019,36196,az,Qazançı (Şörəyel)
+2787096,36197,az,Qaraməmməd
+2787173,36198,az,Qaraisa
+2787250,36199,az,Tayçarıq
+2787327,36200,az,Medovka
+2787404,36201,az,Şahab
+2787481,36202,az,Mastara
+2787558,36203,az,Uluxanlı
+2787635,36204,az,Martuni
+2787712,36205,az,Martuni
+2787789,36206,az,Marts
+2787866,36207,az,Ağhəmzəli
+2787943,36208,az,Yuxarı Qanlıca
+2788020,36209,az,Paşakənd
+2788097,36210,az,Bozgöy
+2788174,36211,az,Molla Göyçə
+2788328,36213,az,Bovadzor
+2788405,36214,az,Ortakilsə
+2788482,36215,az,Mağaracıq
+2788559,36216,az,Mədinə
+2788636,36217,az,Lusagbyur
+2788713,36218,az,Suvanverdi
+2788790,36219,az,Talıboğlu
+2788867,36220,az,Qaranlıq
+2788944,36221,az,Aşağı Türkmənli
+2789021,36222,az,Qaranlıqdərə
+2789098,36223,az,Lukaşin
+2789175,36224,az,Lorut
+2789252,36225,az,Loru Berd
+2789329,36226,az,Calakənd
+2789406,36227,az,Gölkənd
+2789483,36228,az,Arıxvəli
+2789560,36229,az,Lernavan
+2789637,36230,az,Maqda
+2789714,36231,az,Hacıqara
+2789791,36232,az,Lernapar
+2789868,36233,az,Çorlu
+2789945,36234,az,Lernantsk
+2790022,36235,az,Yuxarı Axta
+2790099,36236,az,Şirvancıq
+2790176,36237,az,Kəsikbaş
+2790253,36238,az,Lermontovo
+2790330,36239,az,Yuxarı Əylənli
+2790407,36240,az,Lecan
+2790484,36241,az,Ördəkli
+2790561,36242,az,Ağzıbir
+2790638,36243,az,Musluqlu
+2790715,36244,az,Küzəcik
+2790792,36245,az,Debedavan
+2790869,36246,az,Güllücə
+2790946,36247,az,Kənkan
+2791023,36248,az,Garnaric
+2791100,36249,az,Urasar
+2791177,36250,az,Canəhməd
+2791254,36251,az,Zarkənd
+2791331,36252,az,Kurtan
+2791408,36253,az,Qursalı
+2791485,36254,az,Kruqlaya Şişka
+2791562,36255,az,Əlikiçik
+2791639,36256,az,Ağkilsə (Şörəyel)
+2791716,36257,az,Qurdbulaq
+2791793,36258,az,Şavarşevan
+2791870,36259,az,Yelqovan
+2791947,36260,az,Qoş
+2792024,36261,az,Qorçulu
+2792101,36262,az,Qoxb
+2792178,36263,az,Getavan
+2792255,36264,az,Cücəkənd
+2792332,36265,az,Böyük Qarakilsə
+2792409,36266,az,Nikolayevka
+2792486,36267,az,Qaraboya
+2792563,36268,az,Qırxdəyirman
+2792640,36269,az,Torpaqqala
+2792717,36270,az,Həştərək
+2792794,36271,az,Xaçpar
+2792871,36272,az,Xaçardzan
+2792948,36273,az,Xaçağbyur
+2793025,36274,az,Böyük Keyti
+2793102,36275,az,Kak'avasar
+2793179,36276,az,Qazançı
+2793256,36277,az,Katnaghbyur
+2793333,36278,az,Katnaghbyur
+2793410,36279,az,Katnaghbyur
+2793487,36280,az,Kat'najur
+2793564,36281,az,Dirəklər
+2793641,36282,az,Karmravan
+2793718,36283,az,Karmrasen
+2793795,36284,az,Qırmızılı
+2793872,36285,az,Dərbənd
+2793949,36286,az,Koğes
+2794026,36287,az,K'arinj
+2794103,36288,az,Gümüş
+2794180,36289,az,Gödəkbulaq
+2794257,36290,az,Karbi
+2794334,36291,az,K'arasamb
+2794411,36292,az,Karanlukh
+2794488,36293,az,K'arakert
+2794642,36295,az,Əfəndi
+2794719,36296,az,Sarımsaxlı
+2794796,36297,az,K'araberd
+2794873,36298,az,Göykilsə
+2794950,36299,az,Kaps
+2795027,36300,az,Murad təpə
+2795104,36301,az,Kanac'ut
+2795258,36303,az,Hacı Nəzər
+2795335,36304,az,Kəvər
+2795412,36305,az,Çaxmaq
+2795489,36306,az,Əmirxeyir
+2795566,36307,az,K'agsi
+2795643,36308,az,Qaraiman
+2795720,36309,az,Kakavadzor
+2795797,36310,az,Kaçaçkut
+2795874,36311,az,Qabaqtəpə
+2795951,36312,az,Sarıyaqub
+2796028,36313,az,İtsakar
+2796105,36314,az,Qarabulaq
+2796182,36315,az,İrind
+2796259,36316,az,Maisyan
+2796336,36317,az,Vartana
+2796413,36318,az,İlməzli
+2796490,36319,az,Hogmik
+2796567,36320,az,İcevan
+2796644,36321,az,Aşağı Axta
+2796721,36322,az,Baytar
+2796798,36323,az,Sərdarabad
+2796875,36324,az,Qaraqışlaq
+2796952,36325,az,Hatsik
+2797029,36326,az,Haghartsin
+2797106,36327,az,Gümrü
+2797183,36328,az,Güllücə
+2797260,36329,az,Güləkərək
+2797337,36330,az,Kamaris
+2797414,36331,az,Kanç
+2797491,36332,az,Qapılı
+2797568,36333,az,Kalara
+2797645,36334,az,Şişqaya
+2797722,36335,az,Yaqublu (Pəmbək)
+2797799,36336,az,Qrampa
+2797876,36337,az,Qoş
+2798030,36339,az,Qoqt
+2798107,36340,az,Dəmirçilər
+2798184,36341,az,Goran
+2798338,36343,az,Nəzərəvan
+2798415,36344,az,Aznvadzor
+2798492,36345,az,Daharlı
+2798569,36346,az,Günən
+2798646,36347,az,Ağcaqışlaq
+2798723,36348,az,Cəfərabad
+2798800,36349,az,Qasıməli
+2798877,36350,az,Qarqulaq
+2798954,36351,az,Kətran
+2799031,36352,az,Qarqar
+2799108,36353,az,Keşişkənd
+2799185,36354,az,Artız
+2799262,36355,az,Qolqat
+2799339,36356,az,Göykümbət
+2799416,36357,az,Geghadzor
+2799493,36358,az,Gegadir
+2799570,36359,az,Kərpicli
+2799647,36360,az,Geğarkunik
+2799724,36361,az,Qayabaşı
+2799801,36362,az,Subatan
+2799878,36363,az,Şəhriz
+2799955,36364,az,Adıyaman
+2800032,36365,az,Baş Gərni
+2800109,36366,az,Aleksandrovka
+2800186,36367,az,Qaqarin
+2800263,36368,az,Fantan
+2800340,36369,az,Fioletovo
+2800417,36370,az,Qaraqaya
+2800494,36371,az,Üçüncü Qarakilsə
+2800571,36372,az,Evli
+2800648,36373,az,Tacirabaq
+2800725,36374,az,Boğazkəsən (Şörəyel)
+2800802,36375,az,Kolagirən
+2800879,36376,az,Aşağı Pirtikan
+2800956,36377,az,Vəliağalı
+2801033,36378,az,Gülablı
+2801110,36379,az,Bəzirxana
+2801187,36380,az,Cucevan
+2801264,36381,az,Crvej
+2801341,36382,az,Vardnav
+2801418,36383,az,Jrasen
+2801495,36384,az,Jrasen
+2801572,36385,az,Jrarat
+2801649,36386,az,Jrarat
+2801726,36387,az,Yuxarı Qarxun
+2801803,36388,az,Jrap'i
+2801880,36389,az,Cəbəçili
+2801957,36390,az,Jradzor
+2802034,36391,az,Jraber
+2802111,36392,az,Berk'aber
+2802188,36393,az,Cilizə
+2802265,36394,az,Cil
+2802342,36395,az,Canfida
+2802419,36396,az,Kiçik Camışlı
+2802496,36397,az,Jajur
+2802650,36399,az,Aşağı Düyün
+2802727,36400,az,Dsex
+2802804,36401,az,Toxluca
+2802881,36402,az,Çaykənd
+2802958,36403,az,Dovex
+2803035,36404,az,Doghs
+2803112,36405,az,Rəvazlı
+2803189,36406,az,Ditak
+2803266,36407,az,Dilican
+2803343,36408,az,Dian
+2803420,36409,az,Carcaris
+2803497,36410,az,Xaçkənd
+2803574,36411,az,Ddmaşen
+2803651,36412,az,Əylənli
+2803728,36413,az,Daşlı (Eçmiədzin)
+2803805,36414,az,Darbaz
+2803882,36415,az,Öksüz
+2803959,36416,az,Kiçik Şöllü Dəmirçi
+2804036,36417,az,Dərə
+2804113,36418,az,Aygehad
+2804190,36419,az,Dalarik
+2804267,36420,az,Çoratan
+2804344,36421,az,Çoçkan
+2804421,36422,az,Samadərviş
+2804498,36423,az,Zeynalağalı
+2804575,36424,az,C'kalov
+2804652,36425,az,Çinçin
+2804729,36426,az,Çinari
+2804806,36427,az,Mak'enis
+2804883,36428,az,Çarentsavan
+2804960,36429,az,Çəmbərək
+2805037,36430,az,Bjni
+2805114,36431,az,Aşirabad
+2805191,36432,az,Byurakan
+2805268,36433,az,Babakişi
+2805345,36434,az,Blaqodarnoye
+2805422,36435,az,Berkaşat
+2805499,36436,az,Berk'arat
+2805576,36437,az,Ağqala
+2805653,36438,az,Berdavan
+2805730,36439,az,Tovuzqala
+2805807,36440,az,Çilovxanlı
+2805884,36441,az,Bozabdal
+2805961,36442,az,Təkiyə
+2806115,36444,az,Bayandur
+2806192,36445,az,Bavra
+2806269,36446,az,Gandzak
+2806346,36447,az,Başköy
+2806423,36448,az,Bəriabad
+2806500,36449,az,Qurumsulu
+2806577,36450,az,Bəndovan
+2806654,36451,az,Yuxarı Qoylasar
+2806731,36452,az,Molla Bayazid
+2806808,36453,az,Məəgüb
+2806885,36454,az,Buğdaşen
+2806962,36455,az,Ləmbəli
+2807039,36456,az,Bağanıs
+2807116,36457,az,Azadaşen
+2807193,36458,az,Kiçik Qarakilsə
+2807270,36459,az,Azad
+2807347,36460,az,Hayt'ag
+2807424,36461,az,Böyük Ayrım
+2807501,36462,az,Daşkənd
+2807578,36463,az,Əyrivəng
+2807655,36464,az,Sonqurlu
+2807732,36465,az,Bacoğlu
+2807809,36466,az,Haykavan
+2807886,36467,az,Haykasar
+2807963,36468,az,Qoşavəng
+2808040,36469,az,Gölkənd
+2808117,36470,az,Ayaslı
+2808194,36471,az,Hacıqara
+2808271,36472,az,Quzugüdən
+2808348,36473,az,Ayğırgöl
+2808425,36474,az,Aytəpər
+2808502,36475,az,Ayqeovit
+2808579,36476,az,Qulalı
+2808656,36477,az,İlxıyabı
+2808810,36479,az,Lernamerdz
+2808887,36480,az,Siçanlı
+2808964,36481,az,Çobanmaz
+2809041,36482,az,Göysu
+2809118,36483,az,Avan
+2809195,36484,az,Toparlı
+2809272,36485,az,Hatsavan
+2809349,36486,az,Sabunçu
+2809503,36488,az,Əlibəyli
+2809580,36489,az,Atan
+2809657,36490,az,Ağqıraq
+2809734,36491,az,Əştərək
+2809811,36492,az,Qızıl Qoç
+2809888,36493,az,Aşnak
+2809965,36494,az,Ərzni
+2810042,36495,az,Ərzəkənd
+2810119,36496,az,Başkənd
+2810273,36498,az,Qızılkilsə
+2810350,36499,az,Ərtik
+2810427,36500,az,Boğutlu
+2810504,36501,az,Təkəli
+2810581,36502,az,Qarakilsə
+2810658,36503,az,Düzxaraba
+2810735,36504,az,İlançalan
+2810812,36505,az,Fəthabad
+2810889,36506,az,Ardanış
+2810966,36507,az,Hart'agyug
+2811043,36508,az,Körpəli
+2811120,36509,az,Arp'unk'
+2811197,36510,az,Arp'eni
+2811274,36511,az,Ərmənis
+2811351,36512,az,Ərinc
+2811428,36513,az,Qıpçaq (Şörəyel)
+2811505,36514,az,Lusakert
+2811582,36515,az,Cəfərabad
+2811659,36516,az,Uzunoba
+2811736,36517,az,Yekanlar
+2811813,36518,az,Aşağı Ağbaş
+2811890,36519,az,Çaybasar (Ağbaba)
+2811967,36520,az,Ağcaarx
+2812044,36521,az,Qaçağan
+2812121,36522,az,Çikdamal
+2812198,36523,az,Ağ Baş
+2812275,36524,az,Sədənağac
+2812352,36525,az,Qaraçanta
+2812429,36526,az,Pirmələk
+2812506,36527,az,Ardvi
+2812583,36528,az,Göllü
+2812660,36529,az,Arçut
+2812737,36530,az,Ərciz
+2812814,36531,az,Arbat
+2812891,36532,az,Evcilər
+2812968,36533,az,Ocaqqulu
+2813045,36534,az,Ərəmus
+2813122,36535,az,Aşağı Qarxun
+2813199,36536,az,Bazarcıq
+2813276,36537,az,Qaracoran
+2813353,36538,az,Qəzənfər
+2813430,36539,az,Alagöz
+2813507,36540,az,Araqatlar
+2813584,36541,az,Apnagyugh
+2813661,36542,az,Sarıyar
+2813738,36543,az,Abaran
+2813815,36544,az,Yuxarı Türkmənli
+2813892,36545,az,Bəykənd
+2813969,36546,az,İnəkli
+2814046,36547,az,Antaramej
+2814123,36548,az,Kolagirən
+2814200,36549,az,Misxana
+2814277,36550,az,Anipemza
+2814354,36551,az,Amoç
+2814431,36552,az,Amasia
+2814508,36553,az,Amasiya
+2814585,36554,az,Düzkənd
+2814662,36555,az,Allahverdi
+2814739,36556,az,Hallavar
+2814816,36557,az,Alparas
+2814893,36558,az,Alagöz
+2814970,36559,az,Gözlü
+2815047,36560,az,Akunk
+2815124,36561,az,Akunk
+2815201,36562,az,Ak'ori
+2815278,36563,az,Akner
+2815355,36564,az,Hako
+2815432,36565,az,Düzkənd
+2815509,36566,az,Türk Qarakilsəsi
+2815586,36567,az,P'yunik
+2815663,36568,az,Axum
+2815740,36569,az,Hagt'anak
+2815817,36570,az,Aşağı Axtala
+2815894,36571,az,Ağpat
+2815971,36572,az,Ahnidzor
+2816048,36573,az,Hovk'
+2816125,36574,az,Aqavnatun
+2816202,36575,az,Babakişi
+2816279,36576,az,Hagvi
+2816356,36577,az,Ağin
+2816433,36578,az,Yeniyol
+2816510,36579,az,Ağdzk
+2816587,36580,az,Ağbulaq
+2816664,36581,az,Salah
+2816741,36582,az,Ağcaqala
+2816818,36583,az,Qandzakar
+2816895,36584,az,Əkərək
+2816972,36585,az,Əkərək
+2817049,36586,az,Əkərək
+2817126,36587,az,Zovasar
+2817203,36588,az,Adamxan
+2817280,36589,az,Haçasu
+2817357,36590,az,Ellər
+2817434,36591,az,Yuxarı Ağbaş
+2817511,36592,az,Vardablur
+2817588,36593,az,Bitlicə
+2817665,36594,az,Alpava
+2817742,36595,az,Yengicə
+2818281,36602,az,Bendik
+2818435,36604,az,Azatamut
+2818512,36605,az,T'egut
+2818589,36606,az,Artsvaberd
+2818666,36607,az,Lernagog
+2818743,36608,az,Talış
+2818820,36609,az,Nor Yerznka
+2818897,36610,az,Aragatsotn
+2818974,36611,az,Sasunik
+2819051,36612,az,Zovuni
+2819128,36613,az,Kasax
+2819205,36614,az,Bagramyan
+2819282,36615,az,Myasnikyan
+2819359,36616,az,Hacı Bayram
+2819436,36617,az,Şahvarut
+2819513,36618,az,Aşağı Əylənli
+2819590,36619,az,Zart'onk'
+2819667,36620,az,Qəmərli
+2819744,36621,az,Aşağı Xatınarx
+2819821,36622,az,Bagramyan
+2819898,36623,az,Musaler
+2819975,36624,az,Hacı Elləz
+2820052,36625,az,Dastavan
+2820129,36626,az,Yuxarı Necili
+2820206,36627,az,Təzəkənd
+2820283,36628,az,Az Zanami
+2820360,36629,az,Qaranlıq
+2820437,36630,az,Kiçik Zeyvə
+2820514,36631,az,Aratasen
+2820591,36632,az,Yuxarı Xatınarx
+2820668,36633,az,Qarğabazarı
+2820745,36634,az,Şöllü Mehmandar
+2820822,36635,az,Aşağı Necili
+2820899,36636,az,Oskehat
+2820976,36637,az,Aralıq Kolanlı
+2821053,36638,az,Firəng kəndi
+2821130,36639,az,Aygek
+2821207,36640,az,Ferik
+2821284,36641,az,Sip'anik
+2821361,36642,az,Nor Edesia
+2821438,36643,az,Nor Amanos
+2821515,36644,az,Nor Artamet
+2821592,36645,az,T'airov
+2821669,36646,az,Verin Ptgni
+2821746,36647,az,Jrambar
+2821823,36648,az,Muğanlı
+2821900,36649,az,Aşağı Qoylasar
+2821977,36650,az,Arak'savan
+2822054,36651,az,Qaradağlı
+2822131,36652,az,Xarratlı
+2822208,36653,az,Nor Kyurin
+2822285,36654,az,Getap'nya
+2822362,36655,az,Değdzut
+2822439,36656,az,Cənnətli
+2822516,36657,az,Tuskulu
+2822593,36658,az,Narek
+2822670,36659,az,Vanand
+2822747,36660,az,Karmir Agek
+2822824,36661,az,Noravan
+2822901,36662,az,Xancyan
+2822978,36663,az,Nor Kesaria
+2823055,36664,az,Karathah
+2823132,36665,az,Nor Uği
+2823209,36666,az,Ginevet
+2823286,36667,az,Arayi Hoghamaser
+2823594,36671,az,Sadunts
+2823671,36672,az,Değdzavan
+2823748,36673,az,Senik
+2823825,36674,az,Argina
+2823902,36675,az,Artamet
+2823979,36676,az,Arevadast
+2824980,36689,az,Vahagnadzor
+2826597,36710,az,Aygevan
+2826674,36711,az,Arak's
+2826751,36712,az,Kogbavan
+2826828,36713,az,Talvorik
+2827444,36721,az,Nairi
+2828291,36732,az,Qoytul
+2828676,36737,az,Dprevank'
+2829523,36748,az,Partizak
+2829908,36753,az,Ot'evan
+2830216,36757,az,Aniavan
+2830909,36766,az,Zəngəzur
+2832295,36784,az,Lusakn
+2833450,36799,az,Düzkənd
+2833604,36801,az,Nor Artagers
+2833758,36803,az,Norapat
+2834143,36808,az,Jrarbi
+2834297,36810,az,Paruyr Sevak
+2834913,36818,az,Şoqakn
+2835991,36832,az,Saragyug
+2836068,36833,az,Güllübulaq
+2837069,36846,az,Lernahovit
+2837762,36855,az,K'arkop'
+2839687,36880,az,Getargel
+2843537,36930,az,Hatsikavan
+2843614,36931,az,Jajuravan
+2844692,36945,az,Nerkin Xndzoresk
+2844769,36946,az,Acarkut
+2844846,36947,az,Kayan
+2845924,36961,az,Antarasen
+2846155,36964,az,Sünik
+2846232,36965,az,Babikavan
+2846309,36966,az,Dzoraget
+2846386,36967,az,Armavir
+2846463,36968,az,Mont'eavan
+2846540,36969,az,Ughedzor

@@ -1,0 +1,250 @@
+key,name,native_name,capital,population,timezone_utc,timezone_iana,phoneCode,language_key,language_second_key,currency
+AD,Andorra,Andorra,49,77006,UTC+1,Europe/Andorra,+376,ca,en,EUR
+AE,United Arab Emirates,الإمارات العربية المتحدة,317,9630959,UTC+4,Asia/Dubai,+971,ar,en,AED
+AF,Afghanistan,افغانستان,12063,37172386,UTC+4:30,Asia/Kabul,+93,fa,en,AFN
+AG,Antigua and Barbuda,Antigua and Barbuda,31390,96286,UTC-4,America/Antigua,+1-268,en,\N,XCD
+AI,Anguilla,Anguilla,31511,13254,UTC-4,America/Anguilla,+1-264,en,\N,XCD
+AL,Albania,Shqipëri,33777,2866376,UTC+1,Europe/Tirane,+355,sq,en,ALL
+AM,Armenia,Հայաստան,35944,3090500,UTC+4,Asia/Yerevan,+374,hy,en,AMD
+AO,Angola,Angola,40199,30809762,UTC+1,Africa/Luanda,+244,pt,en,AOA
+AQ,Antarctica,\N,\N,\N,"UTC+8, UTC+7, UTC+10, UTC+5, UTC+12, UTC-3, UTC+3, UTC+0","Antarctica/Casey, Antarctica/Davis, Antarctica/DumontDUrville, Antarctica/Mawson, Antarctica/McMurdo, Antarctica/Palmer, Antarctica/Rothera, Antarctica/Syowa, Antarctica/Troll, Antarctica/Vostok",\N,\N,\N,\N
+AR,Argentina,Argentina,54345,44494502,UTC-3,"America/Argentina/Buenos_Aires, America/Argentina/Catamarca, America/Argentina/Cordoba, America/Argentina/Jujuy, America/Argentina/La_Rioja, America/Argentina/Mendoza, America/Argentina/Rio_Gallegos, America/Argentina/Salta, America/Argentina/San_Juan, America/Argentina/San_Luis, America/Argentina/Tucuman, America/Argentina/Ushuaia",+54,es,en,ARS
+AS,American Samoa,American Samoa,67582,55465,UTC-11,Pacific/Pago_Pago,+1-684,en,sm,USD
+AT,Austria,Österreich,69042,8847037,UTC+1,Europe/Vienna,+43,de,en,EUR
+AU,Australia,Australia,94295,24992369,"UTC+10, UTC+9:30, UTC+8:45, UTC+10:30, UTC+8","Antarctica/Macquarie, Australia/Adelaide, Australia/Brisbane, Australia/Broken_Hill, Australia/Darwin, Australia/Eucla, Australia/Hobart, Australia/Lindeman, Australia/Lord_Howe, Australia/Melbourne, Australia/Perth, Australia/Sydney",+61,en,\N,AUD
+AW,Aruba,Aruba,100836,105845,UTC-4,America/Aruba,+297,nl,en,AWG
+AX,Aland Islands,Åland,100998,26711,UTC+2,Europe/Mariehamn,+358-18,sv,en,EUR
+AZ,Azerbaijan,Azərbaycan,104872,10224900,UTC+4,Asia/Baku,+994,az,en,AZN
+BA,Bosnia and Herzegovina,Bosna i Hercegovina,106710,3323929,UTC+1,Europe/Sarajevo,+387,bs,en,BAM
+BB,Barbados,Barbados,125548,286641,UTC-4,America/Barbados,+1-246,en,\N,BBD
+BD,Bangladesh,বাংলাদেশ,125807,161356039,UTC+6,Asia/Dhaka,+880,bn,en,BDT
+BE,Belgium,België,185225,11422068,UTC+1,Europe/Brussels,+32,nl,en,EUR
+BF,Burkina Faso,Burkina Faso,190321,19751535,UTC+0,Africa/Ouagadougou,+226,fr,en,XOF
+BG,Bulgaria,България,198413,7000039,UTC+2,Europe/Sofia,+359,bg,en,BGN
+BH,Bahrain,البحرين,203264,1569439,UTC+3,Asia/Bahrain,+973,ar,en,BHD
+BI,Burundi,Burundi,203588,11175378,UTC+2,Africa/Bujumbura,+257,fr,en,BIF
+BJ,Benin,Bénin,205463,11485048,UTC+1,Africa/Porto-Novo,+229,fr,en,XOF
+BL,Saint Barthelemy,Saint-Barthélemy,208258,8450,UTC-4,America/St_Barthelemy,+590,fr,en,EUR
+BM,Bermuda,Bermuda,208289,63968,UTC-4,Atlantic/Bermuda,+1-441,en,pt,BMD
+BN,Brunei,Brunei,208494,428962,UTC+8,Asia/Brunei,+673,ms,en,BND
+BO,Bolivia,Bolivia,210675,11353142,UTC-4,America/La_Paz,+591,es,en,BOB
+BQ,"Bonaire, Saint Eustatius and Saba",Caribisch Nederland,234124,18012,UTC-4,America/Kralendijk,+599,nl,en,USD
+BR,Brazil,Brasil,261160,209469333,"UTC-3, UTC-4, UTC-5, UTC-2","America/Araguaina, America/Bahia, America/Belem, America/Boa_Vista, America/Campo_Grande, America/Cuiaba, America/Eirunepe, America/Fortaleza, America/Maceio, America/Manaus, America/Noronha, America/Porto_Velho, America/Recife, America/Rio_Branco, America/Santarem, America/Sao_Paulo",+55,pt,en,BRL
+BS,Bahamas,Bahamas,294749,385640,UTC-5,America/Nassau,+1-242,en,\N,BSD
+BT,Bhutan,འབྲུག,294994,754394,UTC+6,Asia/Thimphu,+975,dz,en,BTN
+BV,Bouvet Island,\N,\N,\N,\N,\N,\N,\N,\N,NOK
+BW,Botswana,Botswana,295579,2254126,UTC+2,Africa/Gaborone,+267,en,tn,BWP
+BY,Belarus,Беларусь,301513,9485386,UTC+3,Europe/Minsk,+375,be,en,BYN
+BZ,Belize,Belize,321555,383071,UTC-6,America/Belize,+501,en,es,BZD
+CA,Canada,Canada,330539,37058856,"UTC-5, UTC-4, UTC-7, UTC-6, UTC-3:30, UTC-8","America/Atikokan, America/Blanc-Sablon, America/Cambridge_Bay, America/Creston, America/Dawson, America/Dawson_Creek, America/Edmonton, America/Fort_Nelson, America/Glace_Bay, America/Goose_Bay, America/Halifax, America/Inuvik, America/Iqaluit, America/Moncton, America/Rankin_Inlet, America/Regina, America/Resolute, America/St_Johns, America/Swift_Current, America/Toronto, America/Vancouver, America/Whitehorse, America/Winnipeg",+1,en,fr,CAD
+CC,Cocos Islands,Kepulauan Cocos (Keeling),336635,628,UTC+6:30,Indian/Cocos,+61,ms,en,AUD
+CD,Democratic Republic of the Congo,République Démocratique du Congo,355306,84068091,"UTC+1, UTC+2","Africa/Kinshasa, Africa/Lubumbashi",+243,fr,en,CDF
+CF,Central African Republic,République Centrafricaine,378566,4666377,UTC+1,Africa/Bangui,+236,fr,en,XAF
+CG,Republic of the Congo,République du Congo,382875,5244363,UTC+1,Africa/Brazzaville,+242,fr,en,XAF
+CH,Switzerland,Schweiz,387900,8516543,UTC+1,Europe/Zurich,+41,de,en,CHF
+CI,Ivory Coast,Côte d’Ivoire,393511,25069229,UTC+0,Africa/Abidjan,+225,fr,en,XOF
+CK,Cook Islands,Cook Islands,405179,21388,UTC-10,Pacific/Rarotonga,+682,en,mi,NZD
+CL,Chile,Chile,405252,18729160,"UTC-3, UTC-4, UTC-6","America/Coyhaique, America/Punta_Arenas, America/Santiago, Pacific/Easter",+56,es,en,CLP
+CM,Cameroon,Cameroon,408226,25216237,UTC+1,Africa/Douala,+237,en,fr,XAF
+CN,China,中国,461469,1411778724,"UTC+8, UTC+6","Asia/Shanghai, Asia/Urumqi",+86,zh,en,CNY
+CO,Colombia,Colombia,1304041,49648685,UTC-5,America/Bogota,+57,es,en,COP
+CR,Costa Rica,Costa Rica,1323581,4999441,UTC-6,America/Costa_Rica,+506,es,en,CRC
+CU,Cuba,Cuba,1329729,11338138,UTC-5,America/Havana,+53,es,en,CUP
+CV,Cabo Verde,Cabo Verde,1334702,543767,UTC-1,Atlantic/Cape_Verde,+238,pt,en,CVE
+CW,Curacao,Curaçao,1336874,159849,UTC-4,America/Curacao,+599,nl,en,XCG
+CX,Christmas Island,Christmas Island,1336925,1500,UTC+7,Indian/Christmas,+61,en,zh,AUD
+CY,Cyprus,Κύπρος,1337169,1189265,UTC+2,"Asia/Famagusta, Asia/Nicosia",+357,el,en,EUR
+CZ,Czechia,Česko,1343263,10625695,UTC+1,Europe/Prague,+420,cs,en,CZK
+DE,Germany,Deutschland,1419391,82927922,UTC+1,"Europe/Berlin, Europe/Busingen",+49,de,en,EUR
+DJ,Djibouti,Djibouti,1426444,958920,UTC+3,Africa/Djibouti,+253,fr,en,DJF
+DK,Denmark,Danmark,1430051,5797446,UTC+1,Europe/Copenhagen,+45,da,en,DKK
+DM,Dominica,Dominica,1432958,71625,UTC-4,America/Dominica,+1-767,en,\N,XCD
+DO,Dominican Republic,República Dominicana,1433361,10627165,UTC-4,America/Santo_Domingo,+1-809 and 1-829,es,en,DOP
+DZ,Algeria,الجزائر,1445684,42228429,UTC+1,Africa/Algiers,+213,ar,en,DZD
+EC,Ecuador,Ecuador,1450101,17084357,"UTC-5, UTC-6","America/Guayaquil, Pacific/Galapagos",+593,es,en,USD
+EE,Estonia,Eesti,1460121,1320884,UTC+2,Europe/Tallinn,+372,et,en,EUR
+EG,Egypt,مصر,1470961,98423595,UTC+2,Africa/Cairo,+20,ar,en,EGP
+EH,Western Sahara,الصحراء الغربية,1477880,273008,UTC+0,Africa/El_Aaiun,+212,ar,en,MAD
+ER,Eritrea,Eretria,1478406,6209262,UTC+3,Africa/Asmara,+291,aa,en,ERN
+ES,Spain,España,1496113,46723749,"UTC+1, UTC+0","Africa/Ceuta, Atlantic/Canary, Europe/Madrid",+34,es,en,EUR
+ET,Ethiopia,ኢትዮጵያ,1518053,109224559,UTC+3,Africa/Addis_Ababa,+251,am,en,ETB
+FI,Finland,Suomi,1529206,5518050,UTC+2,Europe/Helsinki,+358,fi,en,EUR
+FJ,Fiji,Fiji,1544107,883483,UTC+12,Pacific/Fiji,+679,en,fj,FJD
+FK,Falkland Islands,Falkland Islands,1546010,2638,UTC-3,Atlantic/Stanley,+500,en,\N,FKP
+FM,Micronesia,Federated States of Micronesia,1546171,112640,"UTC+10, UTC+11","Pacific/Chuuk, Pacific/Kosrae, Pacific/Pohnpei",+691,en,\N,USD
+FO,Faroe Islands,Føroyar,1546543,48497,UTC+0,Atlantic/Faroe,+298,fo,en,DKK
+FR,France,France,1563872,66987244,UTC+1,Europe/Paris,+33,fr,en,EUR
+GA,Gabon,Gabon,1628711,2119275,UTC+1,Africa/Libreville,+241,fr,en,XAF
+GB,United Kingdom,United Kingdom,1636706,66488991,UTC+0,Europe/London,+44,en,cy,GBP
+GD,Grenada,Grenada,1662740,111454,UTC-4,America/Grenada,+1-473,en,\N,XCD
+GE,Georgia,საქართველო,1663729,3704500,UTC+4,Asia/Tbilisi,+995,ka,en,GEL
+GF,French Guiana,Guyane Française,1668546,195506,UTC-3,America/Cayenne,+594,fr,en,EUR
+GG,Guernsey,Guernsey,1668804,65228,UTC+0,Europe/Guernsey,+44-1481,en,\N,GBP
+GH,Ghana,Ghana,1678753,29767108,UTC+0,Africa/Accra,+233,en,ak,GHS
+GI,Gibraltar,Gibraltar,1684898,33718,UTC+1,Europe/Gibraltar,+350,en,es,GIP
+GL,Greenland,Kalaallit Nunaat,1684967,56025,"UTC+0, UTC-2, UTC-4","America/Danmarkshavn, America/Nuuk, America/Scoresbysund, America/Thule",+299,kl,en,DKK
+GM,Gambia,The Gambia,1686984,2280102,UTC+0,Africa/Banjul,+220,en,wo,GMD
+GN,Guinea,Guinée,1692589,12414318,UTC+0,Africa/Conakry,+224,fr,en,GNF
+GP,Guadeloupe,Guadeloupe,1694298,443000,UTC-4,America/Guadeloupe,+590,fr,en,EUR
+GQ,Equatorial Guinea,Guinea Ecuatorial,1697214,1308974,UTC+1,Africa/Malabo,+240,es,en,XAF
+GR,Greece,Ελλάδα,1704609,10727668,UTC+2,Europe/Athens,+30,el,en,EUR
+GS,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,1711346,30,UTC-2,Atlantic/South_Georgia,\N,en,\N,GBP
+GT,Guatemala,Guatemala,1716199,17247807,UTC-6,America/Guatemala,+502,es,en,GTQ
+GU,Guam,Guam,1727117,165768,UTC+10,Pacific/Guam,+1-671,en,ch,USD
+GW,Guinea-Bissau,Guiné-Bissau,1730558,1874309,UTC+0,Africa/Bissau,+245,pt,en,XOF
+GY,Guyana,Guyana,1731455,779004,UTC-4,America/Guyana,+592,en,\N,GYD
+HK,Hong Kong,香港,1732647,7396076,UTC+8,Asia/Hong_Kong,+852,zh,en,HKD
+HM,Heard Island and McDonald Islands,\N,\N,\N,\N,\N,\N,\N,\N,AUD
+HN,Honduras,Honduras,1733564,9587522,UTC-6,America/Tegucigalpa,+504,es,en,HNL
+HR,Croatia,Republika Hrvatska,1745353,3871833,UTC+1,Europe/Zagreb,+385,hr,en,EUR
+HT,Haiti,Ayiti,1757862,11123176,UTC-5,America/Port-au-Prince,+509,ht,en,HTG
+HU,Hungary,Magyarország,1775858,9768785,UTC+1,Europe/Budapest,+36,hu,en,HUF
+ID,Indonesia,Indonesia,1790455,267663435,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak",+62,id,en,IDR
+IE,Ireland,Ireland,2032575,4853506,UTC+0,Europe/Dublin,+353,en,ga,EUR
+IL,Israel,ישראל,2039058,8883800,UTC+2,Asia/Jerusalem,+972,he,en,ILS
+IM,Isle of Man,Isle of Man,2040299,84077,UTC+0,Europe/Isle_of_Man,+44-1624,en,gv,GBP
+IN,India,India,2046994,1352617328,UTC+5:30,Asia/Kolkata,+91,en,hi,INR
+IO,British Indian Ocean Territory,British Indian Ocean Territory,2586629,4000,UTC+6,Indian/Chagos,+246,en,\N,USD
+IQ,Iraq,العراق,2591580,38433600,UTC+3,Asia/Baghdad,+964,ar,en,IQD
+IR,Iran,ایران,2634811,81800269,UTC+3:30,Asia/Tehran,+98,fa,en,IRR
+IS,Iceland,Ísland,2677299,353574,UTC+0,Atlantic/Reykjavik,+354,is,en,ISK
+IT,Italy,Italia,2683324,60431283,UTC+1,Europe/Rome,+39,it,en,EUR
+JE,Jersey,Jersey,2735616,90812,UTC+0,Europe/Jersey,+44-1534,en,fr,GBP
+JM,Jamaica,Jamaica,2736566,2934855,UTC-5,America/Jamaica,+1-876,en,\N,JMD
+JO,Jordan,الأردن,2739354,9956011,UTC+3,Asia/Amman,+962,ar,en,JOD
+JP,Japan,日本,2740950,126529100,UTC+9,Asia/Tokyo,+81,ja,en,JPY
+KE,Kenya,Kenya,2773784,51393010,UTC+3,Africa/Nairobi,+254,en,sw,KES
+KG,Kyrgyzstan,Кыргызстан,2779878,6315800,UTC+6,Asia/Bishkek,+996,ky,en,KGS
+KH,Cambodia,កម្ពុជា,2781610,16249798,UTC+7,Asia/Phnom_Penh,+855,km,en,KHR
+KI,Kiribati,Kiribati,2792879,115847,"UTC+13, UTC+14, UTC+12","Pacific/Kanton, Pacific/Kiritimati, Pacific/Tarawa",+686,en,\N,AUD
+KM,Comoros,جزر القمر,2793015,832322,UTC+3,Indian/Comoro,+269,ar,en,KMF
+KN,Saint Kitts and Nevis,Saint Kitts and Nevis,2793474,52441,UTC-4,America/St_Kitts,+1-869,en,\N,XCD
+KP,North Korea,북한,2798347,25549819,UTC+9,Asia/Pyongyang,+850,ko,en,KPW
+KR,South Korea,대한민국,2828111,51635256,UTC+9,Asia/Seoul,+82,ko,en,KRW
+KW,Kuwait,الكويت,2885348,4137309,UTC+3,Asia/Kuwait,+965,ar,en,KWD
+KY,Cayman Islands,Cayman Islands,2885435,64174,UTC-5,America/Cayman,+1-345,en,\N,KYD
+KZ,Kazakhstan,Қазақстан,2893383,18276499,UTC+5,"Asia/Almaty, Asia/Aqtau, Asia/Aqtobe, Asia/Atyrau, Asia/Oral, Asia/Qostanay, Asia/Qyzylorda",+7,kk,en,KZT
+LA,Laos,ລາວ,2898848,7061507,UTC+7,Asia/Vientiane,+856,lo,en,LAK
+LB,Lebanon,لبنان,2913780,6848925,UTC+2,Asia/Beirut,+961,ar,en,LBP
+LC,Saint Lucia,Saint Lucia,2915544,181889,UTC-4,America/St_Lucia,+1-758,en,\N,XCD
+LI,Liechtenstein,Liechtenstein,2915663,37910,UTC+1,Europe/Vaduz,+423,de,en,CHF
+LK,Sri Lanka,ශ්‍රී ලංකාව,2927941,21670000,UTC+5:30,Asia/Colombo,+94,si,en,LKR
+LR,Liberia,Liberia,2935281,4818977,UTC+0,Africa/Monrovia,+231,en,\N,LRD
+LS,Lesotho,Lesotho,2939895,2108132,UTC+2,Africa/Maseru,+266,en,st,LSL
+LT,Lithuania,Lietuva,2940485,2789533,UTC+2,Europe/Vilnius,+370,lt,en,EUR
+LU,Luxembourg,Lëtzebuerg,2960902,607728,UTC+1,Europe/Luxembourg,+352,lb,en,EUR
+LV,Latvia,Latvija,2962339,1926542,UTC+2,Europe/Riga,+371,lv,en,EUR
+LY,Libya,ليبيا,2969030,6678567,UTC+2,Africa/Tripoli,+218,ar,en,LYD
+MA,Morocco,المغرب,2973418,36029138,UTC+0,Africa/Casablanca,+212,ar,en,MAD
+MC,Monaco,Monaco,3015186,38682,UTC+1,Europe/Monaco,+377,fr,en,EUR
+MD,Moldova,Republica Moldova,3016417,3545883,UTC+2,Europe/Chisinau,+373,ro,en,MDL
+ME,Montenegro,Црна Гора,3017271,622345,UTC+1,Europe/Podgorica,+382,sr,en,EUR
+MF,Saint Martin,Saint-Martin,3020457,37264,UTC-4,America/Marigot,+590,fr,en,EUR
+MG,Madagascar,Madagascar,3033262,26262368,UTC+3,Indian/Antananarivo,+261,fr,en,MGA
+MH,Marshall Islands,Aolepān Aorōkin M̧ajeļ,3044619,58413,UTC+12,"Pacific/Kwajalein, Pacific/Majuro",+692,mh,en,USD
+MK,North Macedonia,Северна Македонија,3044994,2082958,UTC+1,Europe/Skopje,+389,mk,en,MKD
+ML,Mali,Mali,3056165,19077690,UTC+0,Africa/Bamako,+223,fr,en,XOF
+MM,Myanmar,မြန်မာ,3100921,53708395,UTC+6:30,Asia/Yangon,+95,my,en,MMK
+MN,Mongolia,Монгол,3116063,3170208,"UTC+7, UTC+8","Asia/Hovd, Asia/Ulaanbaatar",+976,mn,en,MNT
+MO,Macao,澳门,3117208,631636,UTC+8,Asia/Macau,+853,zh,en,MOP
+MP,Northern Mariana Islands,Hilagang Kapuluang Mariana,3117235,56882,UTC+10,Pacific/Saipan,+1-670,tl,en,USD
+MQ,Martinique,Martinique,3117627,432900,UTC-4,America/Martinique,+596,fr,en,EUR
+MR,Mauritania,موريتانيا,3118484,4403319,UTC+0,Africa/Nouakchott,+222,ar,en,MRU
+MS,Montserrat,Montserrat,3125719,9341,UTC-4,America/Montserrat,+1-664,en,\N,XCD
+MT,Malta,Malta,3125762,483530,UTC+1,Europe/Malta,+356,mt,en,EUR
+MU,Mauritius,Mauritius,3126010,1265303,UTC+4,Indian/Mauritius,+230,en,fr,MUR
+MV,Maldives,ދިވެހިރާއްޖެ,3126447,515696,UTC+5,Indian/Maldives,+960,dv,en,MVR
+MW,Malawi,Malaŵi,3129015,17563749,UTC+2,Africa/Blantyre,+265,ny,en,MWK
+MX,Mexico,México,3148584,126190788,"UTC-6, UTC-5, UTC-7, UTC-8","America/Bahia_Banderas, America/Cancun, America/Chihuahua, America/Ciudad_Juarez, America/Hermosillo, America/Matamoros, America/Mazatlan, America/Merida, America/Mexico_City, America/Monterrey, America/Ojinaga, America/Tijuana",+52,es,en,MXN
+MY,Malaysia,Malaysia,3389708,31528585,UTC+8,"Asia/Kuala_Lumpur, Asia/Kuching",+60,ms,en,MYR
+MZ,Mozambique,Moçambique,3417332,29495962,UTC+2,Africa/Maputo,+258,pt,en,MZN
+NA,Namibia,Namibia,3432921,2448255,UTC+1,Africa/Windhoek,+264,en,af,NAD
+NC,New Caledonia,Nouvelle-Calédonie,3435691,284060,UTC+11,Pacific/Noumea,+687,fr,en,XPF
+NE,Niger,Niger,3437665,22442948,UTC+1,Africa/Niamey,+227,fr,en,XOF
+NF,Norfolk Island,Norfolk Island,3449115,1828,UTC+11,Pacific/Norfolk,+672,en,\N,AUD
+NG,Nigeria,Nigeria,3479987,195874740,UTC+1,Africa/Lagos,+234,en,ha,NGN
+NI,Nicaragua,Nicaragua,3511060,6465513,UTC-6,America/Managua,+505,es,en,NIO
+NL,The Netherlands,Nederland,3518889,17231017,UTC+1,Europe/Amsterdam,+31,nl,en,EUR
+NO,Norway,Norge,3522394,5314336,UTC+1,Europe/Oslo,+47,no,en,NOK
+NP,Nepal,नेपाल,3532121,28087871,UTC+5:45,Asia/Kathmandu,+977,ne,en,NPR
+NR,Nauru,Naoero,3541529,12704,UTC+12,Pacific/Nauru,+674,na,en,AUD
+NU,Niue,Niue,3541562,2166,UTC-11,Pacific/Niue,+683,en,\N,NZD
+NZ,New Zealand,New Zealand,3541690,4885500,"UTC+12, UTC+12:45","Pacific/Auckland, Pacific/Chatham",+64,en,mi,NZD
+OM,Oman,عُمان,3544509,4829483,UTC+4,Asia/Muscat,+968,ar,en,OMR
+PA,Panama,Panamá,3550593,4176873,UTC-5,America/Panama,+507,es,en,PAB
+PE,Peru,Perú,3574725,31989256,UTC-5,America/Lima,+51,es,en,PEN
+PF,French Polynesia,Polynésie française,3607610,277679,"UTC-9, UTC-9:30, UTC-10","Pacific/Gambier, Pacific/Marquesas, Pacific/Tahiti",+689,fr,en,XPF
+PG,Papua New Guinea,Papua New Guinea,3610714,8606316,"UTC+11, UTC+10","Pacific/Bougainville, Pacific/Port_Moresby",+675,en,ho,PGK
+PH,Philippines,Pilipinas,3633393,106651922,UTC+8,Asia/Manila,+63,tl,en,PHP
+PK,Pakistan,پاکستان,3675439,212215030,UTC+5,Asia/Karachi,+92,ur,en,PKR
+PL,Poland,Polska,3811280,37978548,UTC+1,Europe/Warsaw,+48,pl,en,PLN
+PM,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,3853805,7012,UTC-3,America/Miquelon,+508,fr,en,EUR
+PN,Pitcairn,Pitcairn Islands,3853813,46,UTC-8,Pacific/Pitcairn,+870,en,\N,NZD
+PR,Puerto Rico,Puerto Rico,3855628,3195153,UTC-4,America/Puerto_Rico,+1-787 and 1-939,en,es,USD
+PS,Palestinian Territory,فلسطين,3856815,4569087,UTC+2,"Asia/Gaza, Asia/Hebron",+970,ar,en,ILS
+PT,Portugal,Portugal,3860626,10281762,"UTC-1, UTC+0","Atlantic/Azores, Atlantic/Madeira, Europe/Lisbon",+351,pt,en,EUR
+PW,Palau,Palau,3873698,17907,UTC+9,Pacific/Palau,+680,en,ja,USD
+PY,Paraguay,Paraguay,3875283,6956071,UTC-3,America/Asuncion,+595,es,en,PYG
+QA,Qatar,قطر,3876749,2781677,UTC+3,Asia/Qatar,+974,ar,en,QAR
+RE,Reunion,La Réunion,3876878,776948,UTC+4,Indian/Reunion,+262,fr,en,EUR
+RO,Romania,România,3890797,19473936,UTC+2,Europe/Bucharest,+40,ro,en,RON
+RS,Serbia,Србија,3895796,6982084,UTC+1,Europe/Belgrade,+381,sr,en,RSD
+RU,Russia,Россия,3949626,144478050,"UTC+12, UTC+7, UTC+9, UTC+8, UTC+11, UTC+6, UTC+10, UTC+5, UTC+4, UTC+2, UTC+3","Asia/Anadyr, Asia/Barnaul, Asia/Chita, Asia/Irkutsk, Asia/Kamchatka, Asia/Khandyga, Asia/Krasnoyarsk, Asia/Magadan, Asia/Novokuznetsk, Asia/Novosibirsk, Asia/Omsk, Asia/Sakhalin, Asia/Srednekolymsk, Asia/Tomsk, Asia/Ust-Nera, Asia/Vladivostok, Asia/Yakutsk, Asia/Yekaterinburg, Europe/Astrakhan, Europe/Kaliningrad, Europe/Kirov, Europe/Moscow, Europe/Samara, Europe/Saratov, Europe/Ulyanovsk, Europe/Volgograd",+7,ru,en,RUB
+RW,Rwanda,U Rwanda,4090588,12301939,UTC+2,Africa/Kigali,+250,rw,en,RWF
+SA,Saudi Arabia,المملكة العربية السعودية,4093446,33699947,UTC+3,Asia/Riyadh,+966,ar,en,SAR
+SB,Solomon Islands,Solomon Islands,4098462,652858,UTC+11,Pacific/Guadalcanal,+677,en,\N,SBD
+SC,Seychelles,Seychelles,4099154,96762,UTC+4,Indian/Mahe,+248,en,fr,SCR
+SD,Sudan,السودان,4102954,41801533,UTC+2,Africa/Khartoum,+249,ar,en,SDG
+SE,Sweden,Sverige,4112922,10183175,UTC+1,Europe/Stockholm,+46,sv,en,SEK
+SG,Singapore,Singapore,4134849,5638676,UTC+8,Asia/Singapore,+65,en,ms,SGD
+SH,Saint Helena,St. Helena,4134985,7460,UTC+0,Atlantic/St_Helena,+290,en,\N,SHP
+SI,Slovenia,Slovenija,4136653,2067372,UTC+1,Europe/Ljubljana,+386,sl,en,EUR
+SJ,Svalbard and Jan Mayen,Svalbard og Jan Mayen,4141379,2550,UTC+1,Arctic/Longyearbyen,+47,no,en,NOK
+SK,Slovakia,Slovensko,4146057,5447011,UTC+1,Europe/Bratislava,+421,sk,en,EUR
+SL,Sierra Leone,Sierra Leone,4152184,7650154,UTC+0,Africa/Freetown,+232,en,\N,SLE
+SM,San Marino,San Marino,4160674,33785,UTC+1,Europe/San_Marino,+378,it,en,EUR
+SN,Senegal,Sénégal,4168487,15854360,UTC+0,Africa/Dakar,+221,fr,en,XOF
+SO,Somalia,Soomaaliya,4172804,15008154,UTC+3,Africa/Mogadishu,+252,so,en,SOS
+SR,Suriname,Suriname,4176291,575991,UTC-3,America/Paramaribo,+597,nl,en,SRD
+SS,South Sudan,South Sudan,4178312,8260490,UTC+2,Africa/Juba,+211,en,\N,SSP
+ST,Sao Tome and Principe,São Tomé e Príncipe,4181939,197700,UTC+0,Africa/Sao_Tome,+239,pt,en,STN
+SV,El Salvador,El Salvador,4182819,6420744,UTC-6,America/El_Salvador,+503,es,en,USD
+SX,Sint Maarten,Sint-Maarten,4185960,40654,UTC-4,America/Lower_Princes,+599,nl,en,XCG
+SY,Syria,سوريا,4190819,16906283,UTC+3,Asia/Damascus,+963,ar,en,SYP
+SZ,Eswatini,Eswatini,4196313,1136191,UTC+2,Africa/Mbabane,+268,en,ss,SZL
+TC,Turks and Caicos Islands,Turks and Caicos Islands,4196984,37665,UTC-5,America/Grand_Turk,+1-649,en,\N,USD
+TD,Chad,Tchad,4200419,15477751,UTC+1,Africa/Ndjamena,+235,fr,en,XAF
+TF,French Southern Territories,Terres Australes et Antarctiques Françaises,4209226,140,UTC+5,Indian/Kerguelen,\N,fr,en,EUR
+TG,Togo,Togo,4210585,7889094,UTC+0,Africa/Lome,+228,fr,en,XOF
+TH,Thailand,ไทย,4229864,69428524,UTC+7,Asia/Bangkok,+66,th,en,THB
+TJ,Tajikistan,Тоҷикистон,4301700,9100837,UTC+5,Asia/Dushanbe,+992,tg,en,TJS
+TK,Tokelau,Tokelau,\N,1466,UTC+13,Pacific/Fakaofo,+690,en,\N,NZD
+TL,Timor Leste,Timor-Leste,4303318,1267972,UTC+9,Asia/Dili,+670,pt,en,USD
+TM,Turkmenistan,Türkmenistan,4306785,5850908,UTC+5,Asia/Ashgabat,+993,tk,en,TMT
+TN,Tunisia,تونس,4308038,11565204,UTC+1,Africa/Tunis,+216,ar,en,TND
+TO,Tonga,Tonga,4309823,103197,UTC+13,Pacific/Tongatapu,+676,to,en,TOP
+TR,Turkey,Türkiye Cumhuriyeti,4332682,82319724,UTC+3,Europe/Istanbul,+90,tr,en,TRY
+TT,Trinidad and Tobago,Trinidad and Tobago,4362702,1389858,UTC-4,America/Port_of_Spain,+1-868,en,fr,TTD
+TV,Tuvalu,Tuvalu,4363058,11508,UTC+12,Pacific/Funafuti,+688,en,sm,AUD
+TW,Taiwan,台灣,4365098,23451837,UTC+8,Asia/Taipei,+886,zh,en,TWD
+TZ,Tanzania,Tanzania,4384582,56318348,UTC+3,Africa/Dar_es_Salaam,+255,sw,en,TZS
+UA,Ukraine,Україна,4400267,44622516,"UTC+2, UTC+3","Europe/Kyiv, Europe/Simferopol",+380,uk,en,UAH
+UG,Uganda,Uganda,4422470,42723139,UTC+3,Africa/Kampala,+256,en,lg,UGX
+UM,United States Minor Outlying Islands,United States Minor Outlying Islands,\N,\N,"UTC-11, UTC+12","Pacific/Midway, Pacific/Wake",+1,en,\N,USD
+US,United States,United States,4438923,327167434,"UTC-10, UTC-9, UTC-7, UTC-6, UTC-5, UTC-8","America/Adak, America/Anchorage, America/Boise, America/Chicago, America/Denver, America/Detroit, America/Indiana/Indianapolis, America/Indiana/Knox, America/Indiana/Marengo, America/Indiana/Petersburg, America/Indiana/Tell_City, America/Indiana/Vevay, America/Indiana/Vincennes, America/Indiana/Winamac, America/Juneau, America/Kentucky/Louisville, America/Kentucky/Monticello, America/Los_Angeles, America/Menominee, America/Metlakatla, America/New_York, America/Nome, America/North_Dakota/Beulah, America/North_Dakota/Center, America/North_Dakota/New_Salem, America/Phoenix, America/Sitka, America/Yakutat, Pacific/Honolulu",+1,en,es,USD
+UY,Uruguay,Uruguay,4598931,3449299,UTC-3,America/Montevideo,+598,es,en,UYU
+UZ,Uzbekistan,O‘zbekiston,4601801,32955400,UTC+5,"Asia/Samarkand, Asia/Tashkent",+998,uz,en,UZS
+VA,Vatican,Status Civitatis Vaticanæ,4607547,921,UTC+1,Europe/Vatican,+379,la,en,EUR
+VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,4607579,110211,UTC-4,America/St_Vincent,+1-784,en,fr,XCD
+VE,Venezuela,Venezuela,4619416,28870195,UTC-4,America/Caracas,+58,es,en,VES
+VG,British Virgin Islands,British Virgin Islands,4628415,29802,UTC-4,America/Tortola,+1-284,en,\N,USD
+VI,U.S. Virgin Islands,U.S. Virgin Islands,4628544,106977,UTC-4,America/St_Thomas,+1-340,en,\N,USD
+VN,Vietnam,Việt Nam,4644219,95540395,UTC+7,Asia/Ho_Chi_Minh,+84,vi,en,VND
+VU,Vanuatu,Vanuatu,4670171,292680,UTC+11,Pacific/Efate,+678,bi,en,VUV
+WF,Wallis and Futuna,Wallis-et-Futuna,4671737,16025,UTC+12,Pacific/Wallis,+681,fr,en,XPF
+WS,Samoa,Samoa,4672065,196130,UTC+13,Pacific/Apia,+685,sm,en,WST
+YE,Yemen,اليمن,4673185,28498687,UTC+3,Asia/Aden,+967,ar,en,YER
+YT,Mayotte,Mayotte,4749526,279471,UTC+3,Indian/Mayotte,+262,fr,en,EUR
+ZA,South Africa,iNingizimu Afrika,4752435,57779622,UTC+2,Africa/Johannesburg,+27,zu,en,ZAR
+ZM,Zambia,Zambia,4769729,17351822,UTC+2,Africa/Lusaka,+260,en,ny,ZMW
+ZW,Zimbabwe,Zimbabwe,4775516,16868409,UTC+2,Africa/Harare,+263,en,sn,ZWG

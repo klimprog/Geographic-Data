@@ -1,0 +1,539 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+3856286,PS,\N,Shukat as Sufi,شوكة الصوفي,10566,4,locality,UTC+2,Asia/Gaza
+3856287,PS,\N,Saknat az Zarqa',Saknat az Zarqā’,2787,3,Locality,UTC+2,Asia/Gaza
+3856288,PS,\N,Rafiah Yam,رفياح يام,949,4,village,UTC+2,Asia/Gaza
+3856289,PS,\N,Rafah,رفح,126305,2,Urban Locality,UTC+2,Asia/Gaza
+3856292,PS,\N,An Nusayrat,النصيرات,45487,3,Urban Locality,UTC+2,Asia/Gaza
+3856295,PS,\N,Khuza'ah,خزاعة,9023,4,locality,UTC+2,Asia/Gaza
+3856296,PS,\N,Khan Yunis,خان يونس,187872,2,Urban Locality,UTC+2,Asia/Gaza
+3856297,PS,\N,Jabalya,جباليا,144714,3,City proper,UTC+2,Asia/Gaza
+3856298,PS,\N,Gaza,غزة,494741,2,Urban Locality,UTC+2,Asia/Gaza
+3856299,PS,\N,Dayr al Balah,دير البلح,59504,2,Urban Locality,UTC+2,Asia/Gaza
+3856300,PS,\N,Bayt Lahya,بيت لاهيا,59540,3,locality,UTC+2,Asia/Gaza
+3856301,PS,\N,Bayt Hanun,بيت حنون,37392,3,Urban Locality,UTC+2,Asia/Gaza
+3856302,PS,\N,Bani Suhayla,بني سهيلا,31272,3,Urban Locality,UTC+2,Asia/Gaza
+3856303,PS,\N,An Nazlah,النزلة,2284,4,locality,UTC+2,Asia/Gaza
+3856305,PS,\N,Al Fukhkhari,الفخاري,5954,3,Urban Locality,UTC+2,Asia/Gaza
+3856306,PS,\N,Al Burayj,البريج,34951,3,Urban Locality,UTC+2,Asia/Gaza
+3856307,PS,\N,'Abasan al Kabirah,عبسان الكبيرة,18163,3,Urban Locality,UTC+2,Asia/Gaza
+3856308,PS,\N,Zububah,زبوبه,2063,4,locality,UTC+2,Asia/Hebron
+3856309,PS,\N,Zabdah,زبدة,933,4,locality,UTC+2,Asia/Hebron
+3856310,PS,\N,Zayta,زيتا,3052,4,locality,UTC+2,Asia/Hebron
+3856311,PS,\N,Zayta Jamma'in,زيتا جماعين,2092,4,locality,UTC+2,Asia/Hebron
+3856312,PS,\N,Az Zawiyah,الزاوية,761,4,locality,UTC+2,Asia/Hebron
+3856313,PS,\N,Zawata,زواتا,1855,3,Rural Locality,UTC+2,Asia/Hebron
+3856315,PS,\N,Za'tarah,زعترة,6210,4,locality,UTC+2,Asia/Hebron
+3856318,PS,\N,Yatta,يطا,63511,3,Urban Locality,UTC+2,Asia/Hebron
+3856319,PS,\N,Yatma,يتما,2897,3,Rural Locality,UTC+2,Asia/Hebron
+3856320,PS,\N,Yasuf,ياسوف,1604,3,Rural Locality,UTC+2,Asia/Hebron
+3856321,PS,\N,Yasid,ياصيد,2226,3,Rural Locality,UTC+2,Asia/Hebron
+3856323,PS,\N,Yanun,يانون,101,3,Rural Locality,UTC+2,Asia/Hebron
+3856324,PS,\N,Yabrud,يبرود,575,3,Rural Locality,UTC+2,Asia/Hebron
+3856325,PS,\N,Ya'bad,يعبد,14745,3,Urban Locality,UTC+2,Asia/Hebron
+3856327,PS,\N,Wadi Fukin,وادي فوكين,1153,3,Rural Locality,UTC+2,Asia/Hebron
+3856329,PS,\N,'Urif,‘Ūrīf,2890,3,Rural Locality,UTC+2,Asia/Hebron
+3856330,PS,\N,Umm Safa,أم صفا,604,3,Rural Locality,UTC+2,Asia/Hebron
+3856331,PS,\N,Umm at Tut,أم التوت,977,3,Rural Locality,UTC+2,Asia/Hebron
+3856332,PS,\N,Umm al 'Amd,أم العمد,150,4,locality,UTC+2,Asia/Hebron
+3856333,PS,\N,Udalah,أودلا,1123,4,locality,UTC+2,Asia/Hebron
+3856335,PS,\N,Turmus'ayya,ترمسعيا,3686,4,locality,UTC+2,Asia/Hebron
+3856336,PS,\N,Turah ash Sharqiyah,طورة الشرقية,172,4,locality,UTC+2,Asia/Hebron
+3856337,PS,\N,Turah al Gharbiyah,طورة الغربية,907,4,locality,UTC+2,Asia/Hebron
+3856338,PS,\N,Tulkarm,طولكرم,64532,3,Urban Locality,UTC+2,Asia/Hebron
+3856339,PS,\N,Tubas,طوباس,18511,2,Urban Locality,UTC+2,Asia/Hebron
+3856340,PS,\N,Tilfit,تلفيت,235,4,locality,UTC+2,Asia/Hebron
+3856341,PS,\N,Ti'innik,تعنك,988,3,Rural Locality,UTC+2,Asia/Hebron
+3856342,PS,\N,Tayasir,تياسير,2323,3,Rural Locality,UTC+2,Asia/Hebron
+3856343,PS,\N,Tawas,طواس,204,3,Rural Locality,UTC+2,Asia/Hebron
+3856344,PS,\N,Tarqumya,ترقوميا,14202,4,locality,UTC+2,Asia/Hebron
+3856345,PS,\N,At Tarm,الطرم,365,3,locality,UTC+2,Asia/Hebron
+3856346,PS,\N,Tannin,تنين,164,3,Rural Locality,UTC+2,Asia/Hebron
+3856348,PS,\N,Tammun,طمون,10119,3,Urban Locality,UTC+2,Asia/Hebron
+3856349,PS,\N,Talluzah,طلوزة,2604,4,locality,UTC+2,Asia/Hebron
+3856350,PS,\N,Till,تل,4605,4,locality,UTC+2,Asia/Hebron
+3856351,PS,\N,Talfit,تلفيت,2906,3,Rural Locality,UTC+2,Asia/Hebron
+3856352,PS,\N,Taffuh,تفوح,9480,3,Urban Locality,UTC+2,Asia/Hebron
+3856355,PS,\N,Surif City,صوريف,2827,3,Locality,UTC+2,Asia/Hebron
+3856356,PS,\N,Surda,صردا,1017,3,Rural Locality,UTC+2,Asia/Hebron
+3856358,PS,\N,Suba,صوبا,97,3,Rural Locality,UTC+2,Asia/Hebron
+3856359,PS,\N,Siris,سيريس,4898,3,Rural Locality,UTC+2,Asia/Hebron
+3856360,PS,\N,Sir,صير,735,3,Rural Locality,UTC+2,Asia/Hebron
+3856361,PS,\N,Sinjil,سنجل,5557,3,Urban Locality,UTC+2,Asia/Hebron
+3856362,PS,\N,As Simya,السيميا,598,3,Locality,UTC+2,Asia/Hebron
+3856363,PS,\N,Silwad,سلواد,7006,3,Urban Locality,UTC+2,Asia/Hebron
+3856364,PS,\N,Silat az Zahr,سيلة الظهر,6079,4,locality,UTC+2,Asia/Hebron
+3856365,PS,\N,Silat al Harithiyah,سيلة الحارثية,9557,4,locality,UTC+2,Asia/Hebron
+3856367,PS,\N,Sa'ir,سعير,19249,3,Urban Locality,UTC+2,Asia/Hebron
+3856370,PS,\N,Shuqba,شقبا,4188,3,Rural Locality,UTC+2,Asia/Hebron
+3856372,PS,\N,Shufah,شوفة,2174,3,locality,UTC+2,Asia/Hebron
+3856373,PS,\N,Sharafat,شرفات,750,3,Locality,UTC+2,Asia/Hebron
+3856374,PS,\N,Shabtin,شبتين,833,3,Rural Locality,UTC+2,Asia/Hebron
+3856375,PS,\N,Sayda,صيدا,2988,4,locality,UTC+2,Asia/Hebron
+3856377,PS,\N,Sartah,صرطة,2516,4,locality,UTC+2,Asia/Hebron
+3856378,PS,\N,Sarrah,صرة,2810,4,locality,UTC+2,Asia/Hebron
+3856379,PS,\N,Sanur,صانور,4141,3,Rural Locality,UTC+2,Asia/Hebron
+3856380,PS,\N,Sannirya,سنيريا,2887,4,locality,UTC+2,Asia/Hebron
+3856381,PS,\N,Salim,سالم,4940,3,Urban Locality,UTC+2,Asia/Hebron
+3856382,PS,\N,Salfit,سلفيت,10182,3,Urban Locality,UTC+2,Asia/Hebron
+3856383,PS,\N,Saffarin,سفارين,753,3,Rural Locality,UTC+2,Asia/Hebron
+3856384,PS,\N,Saffa,صفا,3904,3,Rural Locality,UTC+2,Asia/Hebron
+3856386,PS,\N,Sabastiyah,سبسطية,2823,3,locality,UTC+2,Asia/Hebron
+3856387,PS,\N,Rummanah,رمنة,3275,4,locality,UTC+2,Asia/Hebron
+3856388,PS,\N,Rujayb,روجيب,3805,4,locality,UTC+2,Asia/Hebron
+3856389,PS,\N,Ras Karkar,راس كركر,1641,3,Rural Locality,UTC+2,Asia/Hebron
+3856390,PS,\N,Rantis,رنتيس,2795,3,Rural Locality,UTC+2,Asia/Hebron
+3856391,PS,\N,Rammun,رمون,3101,3,Rural Locality,UTC+2,Asia/Hebron
+3856392,PS,\N,Ramin,رامين,2040,3,Rural Locality,UTC+2,Asia/Hebron
+3856393,PS,\N,Ramallah,رام الله,41439,3,Urban Locality,UTC+2,Asia/Hebron
+3856396,PS,\N,Rafat,رافات,1952,4,locality,UTC+2,Asia/Hebron
+3856397,PS,\N,Rafat,رافات,2061,3,Rural Locality,UTC+2,Asia/Hebron
+3856398,PS,\N,Raba,رابا,2951,3,Rural Locality,UTC+2,Asia/Hebron
+3856400,PS,\N,Qusrah,قصرة,4316,4,locality,UTC+2,Asia/Hebron
+3856401,PS,\N,Qusin,قوصين,1691,3,Rural Locality,UTC+2,Asia/Hebron
+3856402,PS,\N,Qirah,قيرة,1131,3,locality,UTC+2,Asia/Hebron
+3856403,PS,\N,Qibyah,قبيه,4761,4,locality,UTC+2,Asia/Hebron
+3856404,PS,\N,Qatanah,قطنه,7274,4,locality,UTC+2,Asia/Hebron
+3856405,PS,\N,'Innab al Kabir,عناب الكبير,330,4,locality,UTC+2,Asia/Hebron
+3856406,PS,\N,Qaryut,قريوت,2434,3,Rural Locality,UTC+2,Asia/Hebron
+3856407,PS,\N,Qarawat Bani Zayd,قراوة بني زيد,2673,4,locality,UTC+2,Asia/Hebron
+3856408,PS,\N,Qarawat Bani Hasan,قراوة بني حسان,3761,4,hamlet,UTC+2,Asia/Hebron
+3856409,PS,\N,Qalqilyah,قلقيلية,43212,3,Urban Locality,UTC+2,Asia/Hebron
+3856410,PS,\N,Qalandiya,قلنديا,1169,3,Rural Locality,UTC+2,Asia/Hebron
+3856411,PS,\N,Qaffin,قفين,9590,3,Urban Locality,UTC+2,Asia/Hebron
+3856412,PS,\N,Qabatiyah,قباطية,19197,3,Urban Locality,UTC+2,Asia/Hebron
+3856413,PS,\N,Qabalan,قبلان,7043,3,Urban Locality,UTC+2,Asia/Hebron
+3856415,PS,\N,Nuba,نوبا,4328,3,Urban Locality,UTC+2,Asia/Hebron
+3856416,PS,\N,Nisf Jubayl,نصف جبيل,390,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856417,PS,\N,Ni'lin,نعلين,4815,3,Urban Locality,UTC+2,Asia/Hebron
+3856419,PS,\N,Nazlat 'Isa,نزلة عيسى,2308,3,Rural Locality,UTC+2,Asia/Hebron
+3856421,PS,\N,Nahhalin,نحالين,6215,3,Urban Locality,UTC+2,Asia/Hebron
+3856422,PS,\N,Nahal Kalya,كاليا,440,3,locality,UTC+2,Asia/Hebron
+3856424,PS,\N,Nablus,نابلس,153588,2,Urban Locality,UTC+2,Asia/Hebron
+3856425,PS,\N,Al Muwarraq,المورق,839,3,Rural Locality,UTC+2,Asia/Hebron
+3856427,PS,\N,Mikhmas,مخماس,1461,3,Rural Locality,UTC+2,Asia/Hebron
+3856428,PS,\N,Misliyah,مسلية,2187,4,locality,UTC+2,Asia/Hebron
+3856429,PS,\N,Mirkah,مركة,1592,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856430,PS,\N,Bani Zayd ash Sharqiyah,مزارع النوباني,5015,3,locality,UTC+2,Asia/Hebron
+3856431,PS,\N,Maythalun,ميثلون,6804,4,locality,UTC+2,Asia/Hebron
+3856434,PS,\N,Mashah,مسحة,1982,4,locality,UTC+2,Asia/Hebron
+3856435,PS,\N,Marj Na'jah,مرج نعجة,706,4,locality,UTC+2,Asia/Hebron
+3856436,PS,\N,Marda,مردا,2259,3,Rural Locality,UTC+2,Asia/Hebron
+3856438,PS,\N,Al Malih,المالح,364,3,Rural Locality,UTC+2,Asia/Hebron
+3856440,PS,\N,Majdal Bani Fadil,مجدل بني فاضل,2122,3,Rural Locality,UTC+2,Asia/Hebron
+3856441,PS,\N,Madama,مادما,1735,3,Rural Locality,UTC+2,Asia/Hebron
+3856443,PS,\N,Al Lubban ash Sharqiyah,اللبن الشرقية,2439,4,locality,UTC+2,Asia/Hebron
+3856444,PS,\N,Qawawis,قواويس,31,3,Rural Locality,UTC+2,Asia/Hebron
+3856445,PS,\N,Kur,كور,260,3,Rural Locality,UTC+2,Asia/Hebron
+3856446,PS,\N,Kufayrit,كفيرت,2376,4,locality,UTC+2,Asia/Hebron
+3856448,PS,\N,Kifil Haris,كفل حارس,3132,4,locality,UTC+2,Asia/Hebron
+3856449,PS,\N,Qila' Zayta,قلاع زيتا,889,3,locality,UTC+2,Asia/Hebron
+3856451,PS,\N,Zahr al 'Abd,ظهر العبد,359,4,locality,UTC+2,Asia/Hebron
+3856452,PS,\N,Wadi ad Dabi',وادي الضبع,406,4,locality,UTC+2,Asia/Hebron
+3856454,PS,\N,Umm Salmunah,أم سلمونة,933,4,locality,UTC+2,Asia/Hebron
+3856455,PS,\N,Ar Ramadin,الرماضين,3232,3,Rural Locality,UTC+2,Asia/Hebron
+3856457,PS,\N,Umm ar Rihan,أم الريحان,366,3,Rural Locality,UTC+2,Asia/Hebron
+3856460,PS,\N,Khirbat Sir,خربة صير,442,4,locality,UTC+2,Asia/Hebron
+3856465,PS,\N,Ras at Tirah,راس الطيرة,389,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856466,PS,\N,Ras 'Atiyah,راس عطية,2129,4,locality,UTC+2,Asia/Hebron
+3856469,PS,\N,Qalqas,قلقس,1421,3,Rural Locality,UTC+2,Asia/Hebron
+3856470,PS,\N,Khirbat Qays,خربة قيس,224,4,locality,UTC+2,Asia/Hebron
+3856472,PS,\N,Imrish,إمريش,1640,3,locality,UTC+2,Asia/Hebron
+3856474,PS,\N,Marah Rabbah,مراح رباح,1303,4,locality,UTC+2,Asia/Hebron
+3856475,PS,\N,Ad Dab'ah,الضبعة,331,3,locality,UTC+2,Asia/Hebron
+3856477,PS,\N,Kashdah,كشدة,66,4,locality,UTC+2,Asia/Hebron
+3856478,PS,\N,Kurzah,كرزة,759,4,locality,UTC+2,Asia/Hebron
+3856479,PS,\N,Khirbat Kardalah,Khirbat Kardalah,212,4,village,UTC+2,Asia/Hebron
+3856481,PS,\N,Kafa,كفا,400,3,Rural Locality,UTC+2,Asia/Hebron
+3856485,PS,\N,Dayr ar Razih,دير الرازح,294,4,locality,UTC+2,Asia/Hebron
+3856487,PS,\N,Dayr al 'Asal at Tahta,دير العسل التحتا,547,4,locality,UTC+2,Asia/Hebron
+3856488,PS,\N,Dayr al 'Asal al Fawqa,دير العسل الفوقا,1574,4,locality,UTC+2,Asia/Hebron
+3856490,PS,\N,Bayt Ta'mar,بيت تعمر,1214,3,locality,UTC+2,Asia/Hebron
+3856491,PS,\N,Khallat Sakarya,خلة سكاريا,183,4,locality,UTC+2,Asia/Hebron
+3856494,PS,\N,Bayt Mirsim,بيت مرسم,313,3,locality,UTC+2,Asia/Jerusalem
+3856495,PS,\N,Bayt Hasan,بيت حسن,1109,4,locality,UTC+2,Asia/Hebron
+3856496,PS,\N,Bayt 'Awwa,بيت عوا,2371,3,Locality,UTC+2,Asia/Hebron
+3856497,PS,\N,Bayt Amin,بيت أمين,998,4,locality,UTC+2,Asia/Hebron
+3856498,PS,\N,Khara'ib Umm al Lahm,خرائب أم اللحم,360,4,locality,UTC+2,Asia/Hebron
+3856500,PS,\N,Jannatah,جناتة,5348,3,Urban Locality,UTC+2,Asia/Hebron
+3856502,PS,\N,Khirbat 'Atuf,خربة عطوف,168,4,locality,UTC+2,Asia/Hebron
+3856504,PS,\N,Tarramah,طرامة,622,4,locality,UTC+2,Asia/Hebron
+3856505,PS,\N,Sikkah,سكة,842,4,hamlet,UTC+2,Asia/Hebron
+3856508,PS,\N,Ash Shaykh Sa'd,الشيخ سعد,1932,3,locality,UTC+2,Asia/Hebron
+3856510,PS,\N,Bayt ar Rush at Tahta,بيت الروش التحتا,367,3,locality,UTC+2,Asia/Hebron
+3856511,PS,\N,Bayt ar Rush al Fawqa,بيت الروش الفوقا,964,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856512,PS,\N,'Akkabah,عكابة,252,4,locality,UTC+2,Asia/Hebron
+3856513,PS,\N,Nazlat ash Shaykh Zayd,نزلة الشيخ زيد,696,3,locality,UTC+2,Asia/Hebron
+3856517,PS,\N,Al Mutillah,المطلة,291,3,locality,UTC+2,Asia/Hebron
+3856519,PS,\N,An Nassariyah,النصارية,1568,3,locality,UTC+2,Asia/Hebron
+3856521,PS,\N,Kharbatha al Misbah,خربثا المصباح,5141,3,Rural Locality,UTC+2,Asia/Hebron
+3856522,PS,\N,Al Majd,المجد,1896,3,Rural Locality,UTC+2,Asia/Hebron
+3856527,PS,\N,Karmah,كرمة,1365,4,locality,UTC+2,Asia/Hebron
+3856528,PS,\N,Al Jarushiyah,الجاروشية,924,3,locality,UTC+2,Asia/Hebron
+3856535,PS,\N,Al Burj,البرج,2381,3,locality,UTC+2,Asia/Hebron
+3856537,PS,\N,Khirbat al 'Awja' at Tahta,خربة الأشقر,3487,3,Locality,UTC+2,Asia/Hebron
+3856538,PS,\N,Khirbat al Ashqar,خربة الأشقر,311,4,locality,UTC+2,Asia/Hebron
+3856539,PS,\N,Shuyukh al 'Arrub,شيوخ العروب,1527,3,Rural Locality,UTC+2,Asia/Hebron
+3856540,PS,\N,Al 'Aqrabaniyah,العقربانية,990,3,locality,UTC+2,Asia/Hebron
+3856543,PS,\N,Khirbat ad Dayr,خربة الدير,260,4,locality,UTC+2,Asia/Hebron
+3856546,PS,\N,Khirbat Abu Falah,خربة أبو فلاح,3961,4,locality,UTC+2,Asia/Hebron
+3856548,PS,\N,Khirbat 'Abd Allah al Yunis,خربة عبد الله اليونس,136,4,village,UTC+2,Asia/Hebron
+3856549,PS,\N,Kharbatha Bani Harith,خربثا بني حارث,2808,3,Rural Locality,UTC+2,Asia/Hebron
+3856550,PS,\N,Kharas,خاراس,6885,3,Urban Locality,UTC+2,Asia/Hebron
+3856552,PS,\N,Khallat al Mayyah,خلة المية,1391,4,locality,UTC+2,Asia/Hebron
+3856553,PS,\N,Kubar,كوبر,3546,4,locality,UTC+2,Asia/Hebron
+3856554,PS,\N,Kafr Zibad,كفر زيباد,1068,3,Rural Locality,UTC+2,Asia/Hebron
+3856555,PS,\N,Kafr Thulth,كفر ثلث,4912,3,Rural Locality,UTC+2,Asia/Hebron
+3856556,PS,\N,Kafr Sur,كفر صور,1107,3,Rural Locality,UTC+2,Asia/Hebron
+3856557,PS,\N,Kafr Rumman,كفر رمان,466,4,locality,UTC+2,Asia/Hebron
+3856558,PS,\N,Kafr Ra'i,كفر راعي,7276,3,Urban Locality,UTC+2,Asia/Hebron
+3856559,PS,\N,Kafr Qud,كفر قود,1129,3,Rural Locality,UTC+2,Asia/Hebron
+3856560,PS,\N,Kafr Qallil,كفر قليل,2421,3,Rural Locality,UTC+2,Asia/Hebron
+3856561,PS,\N,Kafr Qaddum,كفر قدوم,3328,3,Rural Locality,UTC+2,Asia/Hebron
+3856563,PS,\N,Kafr Malik,كفر مالك,2903,3,Rural Locality,UTC+2,Asia/Hebron
+3856564,PS,\N,Kafr Laqif,كفر لاقف,846,3,Rural Locality,UTC+2,Asia/Hebron
+3856565,PS,\N,Kafr Jammal,كفر جمال,2481,3,Rural Locality,UTC+2,Asia/Hebron
+3856566,PS,\N,Kafr Dan,كفر دان,4967,3,Urban Locality,UTC+2,Asia/Hebron
+3856567,PS,\N,Kafr 'Ayn,كفر عين,1720,4,locality,UTC+2,Asia/Hebron
+3856568,PS,\N,Kafr al Labad,كفر اللبد,3915,3,Rural Locality,UTC+2,Asia/Hebron
+3856569,PS,\N,Kafr ad Dik,كفر الديك,4986,3,Rural Locality,UTC+2,Asia/Hebron
+3856570,PS,\N,Kafr 'Abbush,كفر عبوش,1466,3,Rural Locality,UTC+2,Asia/Hebron
+3856572,PS,\N,Jurish,جوريش,1385,3,Rural Locality,UTC+2,Asia/Hebron
+3856573,PS,\N,Jurat ash Sham'ah,جورة الشمعة,1472,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856575,PS,\N,Al Judayyidah,الجديدة,4681,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856576,PS,\N,Jit,جيت,2243,3,Rural Locality,UTC+2,Asia/Hebron
+3856577,PS,\N,Jiljiliya,جلجيليا,731,4,hamlet,UTC+2,Asia/Hebron
+3856578,PS,\N,Jifna,جفنا,1693,3,Rural Locality,UTC+2,Asia/Hebron
+3856579,PS,\N,Jibiya,جيبيا,146,3,Rural Locality,UTC+2,Asia/Hebron
+3856580,PS,\N,Jayyus,جيوس,3196,3,Rural Locality,UTC+2,Asia/Hebron
+3856581,PS,\N,Jarba',جنين,133,3,Locality,UTC+2,Asia/Hebron
+3856582,PS,\N,Janin,جنين,37342,3,Urban Locality,UTC+2,Asia/Hebron
+3856584,PS,\N,Jammalah,جمالة,1664,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856585,PS,\N,Jamma'in,جماعين,6158,3,Urban Locality,UTC+2,Asia/Hebron
+3856586,PS,\N,Jalud,جالود,459,3,Rural Locality,UTC+2,Asia/Hebron
+3856587,PS,\N,Jalqamus,جلقموس,1968,3,Rural Locality,UTC+2,Asia/Hebron
+3856588,PS,\N,Jalbun,جلبون,2421,3,Rural Locality,UTC+2,Asia/Hebron
+3856590,PS,\N,Al Jalamah,الجلمة,2035,4,locality,UTC+2,Asia/Hebron
+3856591,PS,\N,Jaba',جبع,9402,3,Urban Locality,UTC+2,Asia/Hebron
+3856592,PS,\N,Jaba',جبع,3214,3,Rural Locality,UTC+2,Asia/Hebron
+3856593,PS,\N,'Izbat at Tabib,عزبة الطبيب,228,3,Rural Locality,UTC+2,Asia/Hebron
+3856594,PS,\N,'Aslah,عسلة,845,4,locality,UTC+2,Asia/Hebron
+3856595,PS,\N,Iskaka,إسكاكة,1050,3,Rural Locality,UTC+2,Asia/Hebron
+3856597,PS,\N,'Iraq Burin,عراق بورين,760,3,Rural Locality,UTC+2,Asia/Hebron
+3856598,PS,\N,Immatin,إماتين,2368,3,Rural Locality,UTC+2,Asia/Hebron
+3856599,PS,\N,'Illar,علار,6681,3,Urban Locality,UTC+2,Asia/Hebron
+3856601,PS,\N,Ijnisinya,إجنسنيا,500,3,Rural Locality,UTC+2,Asia/Hebron
+3856602,PS,\N,Idhna,إذنا,18727,3,Urban Locality,UTC+2,Asia/Hebron
+3856603,PS,\N,Ibziq,إبزيق,208,3,Rural Locality,UTC+2,Asia/Hebron
+3856604,PS,\N,Huwwarah,حوارة,5633,4,locality,UTC+2,Asia/Hebron
+3856605,PS,\N,Husan,Ḩūsān,5543,3,Urban Locality,UTC+2,Asia/Hebron
+3856607,PS,\N,Khirbat Humsah,خربة حمصة,131,4,locality,UTC+2,Asia/Hebron
+3856610,PS,\N,Hizma,حزما,5916,3,Urban Locality,UTC+2,Asia/Hebron
+3856612,PS,\N,Haris,حارس,2967,3,Rural Locality,UTC+2,Asia/Hebron
+3856613,PS,\N,Halhul,حلحول,21076,3,Urban Locality,UTC+2,Asia/Hebron
+3856614,PS,\N,Hajjah,حجة,2444,4,locality,UTC+2,Asia/Hebron
+3856616,PS,\N,Hablah,حبلة,5945,4,locality,UTC+2,Asia/Hebron
+3856618,PS,\N,Khirbat al Fakhit,خربة الفخيت,228,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856619,PS,\N,Far'un,فرعون,3072,3,Rural Locality,UTC+2,Asia/Hebron
+3856620,PS,\N,Firasin,فرخة,27,3,Rural Locality,UTC+2,Asia/Hebron
+3856621,PS,\N,Farkhah,فرخة,1351,4,locality,UTC+2,Asia/Hebron
+3856622,PS,\N,Far'ata,فرعتا,634,3,locality,UTC+2,Asia/Hebron
+3856623,PS,\N,Faqqu'ah,فقوعة,3426,3,locality,UTC+2,Asia/Hebron
+3856624,PS,\N,Falamyah,فلامية,625,4,hamlet,UTC+2,Asia/Hebron
+3856625,PS,\N,Fahmah,فحمة,2369,4,locality,UTC+2,Asia/Hebron
+3856626,PS,\N,Dura al Qar',دورا قرع,2858,3,Rural Locality,UTC+2,Asia/Hebron
+3856627,PS,\N,Dura,دورا,20835,3,Urban Locality,UTC+2,Asia/Hebron
+3856628,PS,\N,Duma,دوما,2157,3,Rural Locality,UTC+2,Asia/Hebron
+3856630,PS,\N,Dayr Sharaf,دير شرف,2681,4,locality,UTC+2,Asia/Hebron
+3856631,PS,\N,Dayr Qiddis,دير قديس,1916,4,locality,UTC+2,Asia/Hebron
+3856632,PS,\N,Dayr Nizam,دير نظام,867,4,locality,UTC+2,Asia/Hebron
+3856633,PS,\N,Khirbat Dayr Musa,دير جرير,340,3,PPL,UTC+2,Asia/Hebron
+3856634,PS,\N,Dayr Jarir,دير جرير,4156,4,locality,UTC+2,Asia/Hebron
+3856635,PS,\N,Dayr Istiya,دير إستيا,3730,4,locality,UTC+2,Asia/Hebron
+3856636,PS,\N,Dayr Ibzi',دير إبزيع,2041,4,locality,UTC+2,Asia/Hebron
+3856637,PS,\N,Dayr Ghazalah,دير غزالة,884,4,locality,UTC+2,Asia/Hebron
+3856639,PS,\N,Dayr Dibwan,دير دبوان,6692,4,locality,UTC+2,Asia/Hebron
+3856640,PS,\N,Dayr Ballut,دير بلوط,3566,4,locality,UTC+2,Asia/Hebron
+3856641,PS,\N,Dayr as Sudan,دير السودان,2104,4,locality,UTC+2,Asia/Hebron
+3856644,PS,\N,Dayr al Hatab,دير الحطب,2194,4,locality,UTC+2,Asia/Hebron
+3856645,PS,\N,Dayr al Ghusun,دير الغصون,9187,4,locality,UTC+2,Asia/Hebron
+3856646,PS,\N,Dayr Abu Mash'al,دير أبو مشعل,3475,4,locality,UTC+2,Asia/Hebron
+3856647,PS,\N,Dayr Abu Da'if,دير أبو ضعيف,5506,4,locality,UTC+2,Asia/Hebron
+3856649,PS,\N,Bruqin,بروقين,3793,3,Rural Locality,UTC+2,Asia/Hebron
+3856650,PS,\N,Birqin,برقين,5730,3,Urban Locality,UTC+2,Asia/Hebron
+3856651,PS,\N,Burqah,برقة,3631,4,locality,UTC+2,Asia/Hebron
+3856652,PS,\N,Burqah,برقة,2238,4,locality,UTC+2,Asia/Hebron
+3856653,PS,\N,Burin,بورين,2500,3,Rural Locality,UTC+2,Asia/Hebron
+3856654,PS,\N,Burham,برهام,608,3,Rural Locality,UTC+2,Asia/Hebron
+3856655,PS,\N,Budrus,بدرس,1380,3,Rural Locality,UTC+2,Asia/Hebron
+3856657,PS,\N,Bir Zayt,بير زيت,6398,4,locality,UTC+2,Asia/Hebron
+3856658,PS,\N,Bir Nabala,بير نبالا,4776,3,Urban Locality,UTC+2,Asia/Hebron
+3856659,PS,\N,Khirbat Bir al 'Idd,خربة بير العد,117,4,locality,UTC+2,Asia/Hebron
+3856660,PS,\N,Bil'in,بلعين,1678,3,Rural Locality,UTC+2,Asia/Hebron
+3856661,PS,\N,Biddu,بدو,6180,3,Urban Locality,UTC+2,Asia/Hebron
+3856662,PS,\N,Bidya,بديا,8065,4,locality,UTC+2,Asia/Hebron
+3856663,PS,\N,Bazzaryah,بزاريه,2091,4,hamlet,UTC+2,Asia/Hebron
+3856664,PS,\N,Bayt Wazan,بيت وزن,1046,4,locality,UTC+2,Asia/Hebron
+3856665,PS,\N,Bayt 'Ur at Tahta,بيت عور التحتا,4313,4,locality,UTC+2,Asia/Hebron
+3856666,PS,\N,Bayt 'Ur al Fawqa,بيت عور الفوقا,852,4,locality,UTC+2,Asia/Hebron
+3856667,PS,\N,Baytunya,بيتونيا,12822,3,locality,UTC+2,Asia/Hebron
+3856668,PS,\N,Bayt Imrin,بيت إمرين,2794,3,locality,UTC+2,Asia/Hebron
+3856669,PS,\N,Bayt Surik,بيت سوريك,3705,4,hamlet,UTC+2,Asia/Hebron
+3856670,PS,\N,Bayt Sira,بيت سيرا,2744,4,locality,UTC+2,Asia/Hebron
+3856671,PS,\N,Bayt Sahur,بيت ساحور,14921,3,locality,UTC+2,Asia/Hebron
+3856673,PS,\N,Bayt Qad,بيت قاد,1430,4,locality,UTC+2,Asia/Hebron
+3856675,PS,\N,Bayt Liqya,بيت لقيا,7795,4,locality,UTC+2,Asia/Hebron
+3856676,PS,\N,Bayt Lid,بيت ليد,5740,4,locality,UTC+2,Asia/Hebron
+3856677,PS,\N,Bethlehem,بيت لحم,29019,2,Urban Locality,UTC+2,Asia/Hebron
+3856678,PS,\N,Bayt Kahil,بيت كاحل,3184,3,Locality,UTC+2,Asia/Hebron
+3856679,PS,\N,Bayt Jala,بيت جالا,16183,3,isolated_dwelling,UTC+2,Asia/Hebron
+3856680,PS,\N,Bayt 'Anan,بيت عنان,3946,3,locality,UTC+2,Asia/Hebron
+3856681,PS,\N,Baytin,بيتين,2948,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856682,PS,\N,Bayt Ummar,بيت أومر,12238,4,locality,UTC+2,Asia/Hebron
+3856683,PS,\N,Al Ittihad,بيتللو,2978,4,locality,UTC+2,Asia/Hebron
+3856684,PS,\N,Bayt Iksa,بيت إكسا,1734,4,locality,UTC+2,Asia/Hebron
+3856685,PS,\N,Bayt Ijza,بيت إجزا,692,4,locality,UTC+2,Asia/Hebron
+3856686,PS,\N,Bayt Iba,بيت إيبا,3175,4,locality,UTC+2,Asia/Hebron
+3856687,PS,\N,Bayt Hanina,بيت حنينا,27000,4,locality,UTC+2,Asia/Hebron
+3856689,PS,\N,Bayt Furik,بيت فوريك,10108,4,locality,UTC+2,Asia/Hebron
+3856690,PS,\N,Bayt Fajjar,بيت فجار,10579,4,locality,UTC+2,Asia/Hebron
+3856691,PS,\N,Bayt Duqqu,بيت دقو,1637,4,locality,UTC+2,Asia/Hebron
+3856692,PS,\N,Bayt Dajan,بيت دجن,3487,4,locality,UTC+2,Asia/Hebron
+3856693,PS,\N,Bayt Ula,بيت أولا,9159,4,locality,UTC+2,Asia/Hebron
+3856697,PS,\N,Bayta al Fawqa,بتير,8535,3,locality,UTC+2,Asia/Hebron
+3856698,PS,\N,Battir,بتير,4092,3,Rural Locality,UTC+2,Asia/Hebron
+3856699,PS,\N,Barta'ah ash Sharqiyah,برطعة الشرقية,4126,3,locality,UTC+2,Asia/Hebron
+3856701,PS,\N,Bardalah,بردلة,1612,4,locality,UTC+2,Asia/Hebron
+3856702,PS,\N,Baqah ash Sharqiyah,باقة الشرقية,4165,4,locality,UTC+2,Asia/Hebron
+3856703,PS,\N,Baqat al Hatab,باقة الحطب,1624,3,Rural Locality,UTC+2,Asia/Hebron
+3856705,PS,\N,Bani Na'im,بني نعيم,19783,3,Urban Locality,UTC+2,Asia/Hebron
+3856706,PS,\N,Balatah,مخيم بلاطة,17146,3,locality,UTC+2,Asia/Hebron
+3856708,PS,\N,Bal'a,بلعا,6545,3,locality,UTC+2,Asia/Hebron
+3856709,PS,\N,'Azzun,عزون,7727,3,Urban Locality,UTC+2,Asia/Hebron
+3856710,PS,\N,Az Zawiyah,الزاوية,4917,3,locality,UTC+2,Asia/Hebron
+3856711,PS,\N,Az Zahiriyah,الظاهرية,27616,3,Urban Locality,UTC+2,Asia/Hebron
+3856712,PS,\N,Az Zababidah,الزبابدة,3751,3,locality,UTC+2,Asia/Hebron
+3856713,PS,\N,'Azmut,عزموط,2622,3,Rural Locality,UTC+2,Asia/Hebron
+3856714,PS,\N,'Ayn Yabrud,عين يبرود,2959,4,locality,UTC+2,Asia/Hebron
+3856715,PS,\N,'Ayn Sinya,عين سينيا,701,4,locality,UTC+2,Asia/Hebron
+3856716,PS,\N,'Ayn Qiniya,عين قينيا,801,4,locality,UTC+2,Asia/Hebron
+3856717,PS,\N,'Ayn 'Arik,عين عريك,1546,4,locality,UTC+2,Asia/Hebron
+3856718,PS,\N,'Aynabus,عينبوس,2315,4,locality,UTC+2,Asia/Hebron
+3856719,PS,\N,Usarin,أوصرين,1595,4,locality,UTC+2,Asia/Hebron
+3856720,PS,\N,'Awarta,عورتا,6309,3,Rural Locality,UTC+2,Asia/Hebron
+3856722,PS,\N,At Tirah,الطيرة,1340,4,locality,UTC+2,Asia/Hebron
+3856723,PS,\N,'Attil,عتيل,10100,3,Urban Locality,UTC+2,Asia/Hebron
+3856724,PS,\N,At Taybah,الطيبة,2129,3,locality,UTC+2,Asia/Hebron
+3856725,PS,\N,At Taybah,الطيبة,1433,3,locality,UTC+2,Asia/Hebron
+3856726,PS,\N,'Atarah,عطارة,2240,4,locality,UTC+2,Asia/Hebron
+3856727,PS,\N,'Atarut,قلنديا,25595,4,locality,UTC+2,Asia/Hebron
+3856728,PS,\N,As Sawiyah,الساوية,2236,3,locality,UTC+2,Asia/Hebron
+3856729,PS,\N,As Samu',السموع,22683,3,Urban Locality,UTC+2,Asia/Hebron
+3856730,PS,\N,'Asirah ash Shamaliyah,عصيرة الشمالية,7475,4,locality,UTC+2,Asia/Hebron
+3856731,PS,\N,'Asirah al Qibliyah,عصيرة القبلية,2341,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856732,PS,\N,Ash Shuyukh,الشيوخ,8151,3,Urban Locality,UTC+2,Asia/Hebron
+3856733,PS,\N,Ash Shuhada',الشهداء,1727,3,Rural Locality,UTC+2,Asia/Hebron
+3856737,PS,\N,Artas,أرطاس,3552,3,Rural Locality,UTC+2,Asia/Hebron
+3856739,PS,\N,Ar Rihiyah,الريحية,3369,4,locality,UTC+2,Asia/Hebron
+3856740,PS,\N,Ar Ras,الراس,535,3,Rural Locality,UTC+2,Asia/Hebron
+3856741,PS,\N,'Arranah,عرانة,1972,4,locality,UTC+2,Asia/Hebron
+3856742,PS,\N,Ar Ramah,الرامة,953,3,locality,UTC+2,Asia/Hebron
+3856743,PS,\N,Ar Ram wa Dahiyat al Barid,الرام وضاحية البريد,24838,3,locality,UTC+2,Asia/Hebron
+3856744,PS,\N,'Arrabah,عرابة,9703,4,locality,UTC+2,Asia/Hebron
+3856745,PS,\N,Jericho,أريحا,21457,2,Urban Locality,UTC+2,Asia/Hebron
+3856746,PS,\N,Al 'Araqa,العرقة,2135,3,Rural Locality,UTC+2,Asia/Hebron
+3856747,PS,\N,'Arabbunah,عربونة,800,4,locality,UTC+2,Asia/Hebron
+3856748,PS,\N,'Aqraba,عقربا,7707,3,Rural Locality,UTC+2,Asia/Hebron
+3856750,PS,\N,'Anzah,عنزة,1851,4,locality,UTC+2,Asia/Hebron
+3856751,PS,\N,An Nuway'imah,النويعمة,1229,3,locality,UTC+2,Asia/Hebron
+3856752,PS,\N,An Nazlah ash Sharqiyah,النزلة الشرقية,1500,4,locality,UTC+2,Asia/Hebron
+3856753,PS,\N,An Nazlah al Wusta,النزلة الوسطى,337,4,locality,UTC+2,Asia/Hebron
+3856754,PS,\N,An Nazlah al Gharbiyah,النزلة الغربية,929,4,locality,UTC+2,Asia/Hebron
+3856755,PS,\N,An Naqurah,الناقورة,1528,4,locality,UTC+2,Asia/Hebron
+3856757,PS,\N,An Nabi Salih,النبي صالح,525,3,Rural Locality,UTC+2,Asia/Hebron
+3856758,PS,\N,An Nabi Ilyas,النبي إلياس,1157,4,locality,UTC+2,Asia/Hebron
+3856759,PS,\N,'Anin,عنين,3647,3,Rural Locality,UTC+2,Asia/Hebron
+3856760,PS,\N,'Anata,عناتا,14433,3,Urban Locality,UTC+2,Asia/Hebron
+3856761,PS,\N,'Anabta,عنبتا,7185,3,Urban Locality,UTC+2,Asia/Hebron
+3856762,PS,\N,'Ammuryah,عمورية,299,4,locality,UTC+2,Asia/Hebron
+3856763,PS,\N,Al Yamun,اليامون,16164,3,Urban Locality,UTC+2,Asia/Hebron
+3856764,PS,\N,Al Qubaybah,القبيبة,2008,4,hamlet,UTC+2,Asia/Hebron
+3856765,PS,\N,Al Mughayyir,المغير,2175,4,locality,UTC+2,Asia/Hebron
+3856766,PS,\N,Al Mughayyir,المغير,2328,3,Rural Locality,UTC+2,Asia/Hebron
+3856767,PS,\N,Al Midyah,المدية,1284,4,locality,UTC+2,Asia/Hebron
+3856768,PS,\N,Al Mazra'ah ash Sharqiyah,المزرعة الشرقية,4435,3,locality,UTC+2,Asia/Hebron
+3856769,PS,\N,Az Zaytuniyah,الزيتونية,6107,3,locality,UTC+2,Asia/Hebron
+3856771,PS,\N,Al Lubban al Gharbi,اللبن الغربي,1456,3,Rural Locality,UTC+2,Asia/Hebron
+3856772,PS,\N,Al Khadir,الخضر,9003,4,locality,UTC+2,Asia/Hebron
+3856773,PS,\N,Hebron,الخليل,201063,2,Urban Locality,UTC+2,Asia/Hebron
+3856775,PS,\N,Al Jib,الجيب,4505,3,Urban Locality,UTC+2,Asia/Hebron
+3856776,PS,\N,Al Janiyah,الجانية,1147,3,Locality,UTC+2,Asia/Hebron
+3856779,PS,\N,Al Hashimiyah,الهاشمية,1038,3,locality,UTC+2,Asia/Hebron
+3856780,PS,\N,Al Funduq,الفندق,747,3,Rural Locality,UTC+2,Asia/Hebron
+3856781,PS,\N,Al Fasayil,الفصايل,1064,4,locality,UTC+2,Asia/Hebron
+3856782,PS,\N,Al Fandaqumiyah,الفتدقومية,3266,4,locality,UTC+2,Asia/Hebron
+3856783,PS,\N,Al Birah,البيرة,40869,3,Urban Locality,UTC+2,Asia/Hebron
+3856784,PS,\N,Al 'Ayzariyah,العيزرية,17455,3,locality,UTC+2,Asia/Hebron
+3856785,PS,\N,Al 'Awja,العوجا,4067,3,locality,UTC+2,Asia/Hebron
+3856786,PS,\N,Al 'Attarah,العطارة,1145,3,locality,UTC+2,Asia/Hebron
+3856788,PS,\N,'Ajjul,عجول,1220,3,Rural Locality,UTC+2,Asia/Hebron
+3856789,PS,\N,'Ajjah,عجة,4995,4,locality,UTC+2,Asia/Hebron
+3856790,PS,\N,'Ayn ad Duyuk al Fawqa,عين الديوك الفوقا,810,4,locality,UTC+2,Asia/Hebron
+3856791,PS,\N,'Ibwayn,عبوين,3077,4,locality,UTC+2,Asia/Hebron
+3856793,PS,\N,Abu Qashsh,أبو قش,1385,4,locality,UTC+2,Asia/Hebron
+3856794,PS,\N,Abu Dis,أبو ديس,11753,3,Urban Locality,UTC+2,Asia/Hebron
+3856795,PS,\N,'Abud,‘Ābūd,2056,3,Rural Locality,UTC+2,Asia/Hebron
+3856798,PS,\N,'Aba,‘Ābā,202,3,Rural Locality,UTC+2,Asia/Hebron
+3856801,PS,\N,An Nasr,النصر,6211,4,locality,UTC+2,Asia/Gaza
+3856802,PS,\N,'Abasan al Jadidah,عبسان الصغيرة,5984,4,locality,UTC+2,Asia/Gaza
+3856803,PS,\N,Al Qararah,القرارة,18200,3,Urban Locality,UTC+2,Asia/Gaza
+3856804,PS,\N,Umm an Nasr,أم النصر,2763,4,locality,UTC+2,Asia/Gaza
+3856807,PS,\N,Madinat al 'Awdah,مدينة العودة,7433,4,hamlet,UTC+2,Asia/Gaza
+3856808,PS,\N,Juhr ad Dik,جحر الديك,2880,4,locality,UTC+2,Asia/Gaza
+3856809,PS,\N,Az Zuwaydah,الزوايدة,16688,4,isolated_dwelling,UTC+2,Asia/Gaza
+3856810,PS,\N,Al Musaddar,المصدر,1845,3,Rural Locality,UTC+2,Asia/Gaza
+3856811,PS,\N,Wadi as Salqa,وادي السلقا,4660,3,Urban Locality,UTC+2,Asia/Gaza
+3856814,PS,\N,Al Mughraqah,المغراقه,6448,4,locality,UTC+2,Asia/Gaza
+3856816,PS,\N,Karney Shomron,الطيبة,\N,2,locality,UTC+2,Asia/Hebron
+3856818,PS,\N,Taybeh,الطيبة، رام الله,1452,4,locality,UTC+2,Asia/Hebron
+3856819,PS,\N,Bir Nabala,بير نبالا,850,4,locality,UTC+2,Asia/Hebron
+3856821,PS,\N,Huwara,حوارة,5093,4,locality,UTC+2,Asia/Hebron
+3856822,PS,\N,Ni'lin,نعلين,4573,4,locality,UTC+2,Asia/Hebron
+3856823,PS,\N,Kafr Rai,كفر راعي,2823,4,locality,UTC+2,Asia/Hebron
+3856824,PS,\N,Qarawat Bani Hassan,قراوة بني حسان,4302,3,Rural Locality,UTC+2,Asia/Hebron
+3856825,PS,\N,Bal'a,بلعا,7822,4,locality,UTC+2,Asia/Hebron
+3856827,PS,\N,As-Sawahira ash-Sharqiya,السواحرة الشرقية,6204,3,Urban Locality,UTC+2,Asia/Hebron
+3856828,PS,\N,Al-Ubeidiya,العبيدية,14460,3,Urban Locality,UTC+2,Asia/Hebron
+3856829,PS,\N,Tuqu',تقوع,4661,3,Urban Locality,UTC+2,Asia/Hebron
+3856830,PS,\N,Bani Na'im,بني نعيم,\N,3,locality,UTC+2,Asia/Hebron
+3856831,PS,\N,Idhna,إذنا,52460,3,PPL,UTC+2,Asia/Hebron
+3856834,PS,\N,Azzoun,عزون,8498,4,locality,UTC+2,Asia/Hebron
+3856835,PS,\N,Khuza'a,شوكة الصوفي,11388,3,Rural Locality,UTC+2,Asia/Gaza
+3856837,PS,\N,Shokat as-Sufi,شوكة الصوفي,15000,4,locality,UTC+2,Asia/Gaza
+3856838,PS,\N,Al-Mughraqa,المغراقة,8267,3,Rural Locality,UTC+2,Asia/Gaza
+3856840,PS,\N,Ya'bad,يعبد,7500,3,isolated_dwelling,UTC+2,Asia/Hebron
+3856842,PS,\N,Deir Ghassaneh,دير غسانة,1461,4,locality,UTC+2,Asia/Hebron
+3856846,PS,\N,Tekoa,تكواع,4315,3,locality,UTC+2,Asia/Hebron
+3856849,PS,\N,Jamma'in,جَمّاعِين,1965,4,locality,UTC+2,Asia/Hebron
+3856852,PS,\N,al-Kum,الكوم,2016,3,Rural Locality,UTC+2,Asia/Hebron
+3856854,PS,\N,Hadab al-Fawwar,حدب الفوار,2354,3,Rural Locality,UTC+2,Asia/Hebron
+3856856,PS,\N,As-Sura,الصرة، الخليل,3941,3,Rural Locality,UTC+2,Asia/Hebron
+3856857,PS,\N,Beit ar-Rush al-Fauqa,بيت الروش الفوقا,1385,3,Rural Locality,UTC+2,Asia/Hebron
+3856858,PS,\N,Al Rashaydeh,بيت تعمر,2060,3,locality,UTC+2,Asia/Hebron
+3856860,PS,\N,Beit Ta'mir,بيت تعمر,1596,3,Rural Locality,UTC+2,Asia/Hebron
+3856861,PS,\N,Ash Shawawra,الشواورة,4161,3,Rural Locality,UTC+2,Asia/Hebron
+3856864,PS,\N,Al-Zahra',الزهراء,5338,4,locality,UTC+2,Asia/Gaza
+3856866,PS,\N,al-Mudawwar,al-Mudawwar,267,3,Rural Locality,UTC+2,Asia/Hebron
+3856867,PS,\N,Azun Atme,عزون عتمة,1746,4,locality,UTC+2,Asia/Hebron
+3856874,PS,\N,Dar Salah,دار صلاح,4588,3,Rural Locality,UTC+2,Asia/Hebron
+3856875,PS,\N,Khalayel Allouz,Khalayel Allouz,369,3,Locality,UTC+2,Asia/Hebron
+3856880,PS,\N,Kharbatha al-Misbah,خربتا المصباح,771,4,locality,UTC+2,Asia/Hebron
+3856888,PS,\N,Al Masqufah,المسقوفة,258,3,locality,UTC+2,Asia/Hebron
+3856889,PS,\N,Al Hafasi,الحفاصي,156,4,locality,UTC+2,Asia/Hebron
+3856890,PS,\N,Khirbat Jubarah,خربة جبارة,290,4,locality,UTC+2,Asia/Hebron
+3856891,PS,\N,'Arab Abu Fardah,عرب أبو فردة,115,4,locality,UTC+2,Asia/Hebron
+3856892,PS,\N,Jinsafut,جنصافوط,2089,3,Rural Locality,UTC+2,Asia/Hebron
+3856893,PS,\N,'Arab ar Ramadin al Janubi,عرب الرمضين الجنوبي,219,3,Rural Locality,UTC+2,Asia/Hebron
+3856894,PS,\N,'Arab ar Ramadin ash Shamali,عرب الرمضين الشمالي,84,3,Rural Locality,UTC+2,Asia/Hebron
+3856895,PS,\N,Wadi ar Rasha,وادي الرشا,153,3,Rural Locality,UTC+2,Asia/Hebron
+3856896,PS,\N,'Izbat Jal'ud,عزبة جلعود,111,3,Rural Locality,UTC+2,Asia/Hebron
+3856897,PS,\N,'Izbat Salman,عزبة سلمان,713,3,Rural Locality,UTC+2,Asia/Hebron
+3856899,PS,\N,Bani Zayd,بني زيد,5441,3,locality,UTC+2,Asia/Hebron
+3856901,PS,\N,Badiw al Mu'arrajat,بدو المعرجات,743,4,locality,UTC+2,Asia/Hebron
+3856905,PS,\N,'Izbat al Khilal,عزبة الخلال,140,3,Rural Locality,UTC+2,Asia/Hebron
+3856908,PS,\N,'Izbat Abu Adam,عزبة أبو آدم,7,3,Rural Locality,UTC+2,Asia/Hebron
+3856910,PS,\N,Al Ka'abinah (Tajammu' Badawi),الكعابنه,688,3,locality,UTC+2,Asia/Hebron
+3856911,PS,\N,Az Za'ayyim,الزعيم,3373,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856912,PS,\N,'Arab al Jahalin,عرب الجهالين,715,3,Rural Locality,UTC+2,Asia/Hebron
+3856919,PS,\N,Wadi al-Joz,وادي الجوز,13000,3,locality,UTC+2,Asia/Hebron
+3856922,PS,\N,Al 'Ubaydiyah,العبيدية,10618,3,locality,UTC+2,Asia/Hebron
+3856923,PS,\N,Khallat an Nu'man,خلة النعمان,1397,4,locality,UTC+2,Asia/Hebron
+3856924,PS,\N,Al Khas,الخاص,389,3,Rural Locality,UTC+2,Asia/Hebron
+3856925,PS,\N,Al Haddadiyah,الحدادية,53,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856927,PS,\N,Khallat Hamamah,خلة حمامة,1397,4,locality,UTC+2,Asia/Hebron
+3856929,PS,\N,Ad Dawhah,الدوحة,9631,4,locality,UTC+2,Asia/Hebron
+3856930,PS,\N,Khallat al Luzah,خلة اللوزة,571,4,locality,UTC+2,Asia/Hebron
+3856931,PS,\N,Wadi Rahhal,وادي رحال,1401,3,Rural Locality,UTC+2,Asia/Hebron
+3856932,PS,\N,Jubbit adh Dhib,جبة الذيب,160,4,locality,UTC+2,Asia/Hebron
+3856933,PS,\N,Khallat al Haddad,خلة الحداد,402,4,locality,UTC+2,Asia/Hebron
+3856934,PS,\N,Wadi an Nis,وادي النيص,762,3,Rural Locality,UTC+2,Asia/Hebron
+3856935,PS,\N,Marah Ma'alla,مراح معلا,676,3,Rural Locality,UTC+2,Asia/Hebron
+3856936,PS,\N,Al Manshiyah,المنشية,428,4,locality,UTC+2,Asia/Hebron
+3856937,PS,\N,Al Maniyah,المنية,999,3,locality,UTC+2,Asia/Hebron
+3856938,PS,\N,Kisan,كيسان,448,3,Rural Locality,UTC+2,Asia/Hebron
+3856939,PS,\N,'Arab ar Rashaydah,عرب الرشايدة,1435,4,locality,UTC+2,Asia/Hebron
+3856948,PS,\N,Al Haddadiyah,الحدادية,544,3,Locality,UTC+2,Asia/Hebron
+3856961,PS,\N,Al Halqum,الحلقوم,266,3,Rural Locality,UTC+2,Asia/Hebron
+3856962,PS,\N,Khallat al Qaranin,خلة القرانين,55,3,Locality,UTC+2,Asia/Hebron
+3856966,PS,\N,Jala,جالا,245,3,Rural Locality,UTC+2,Asia/Hebron
+3856967,PS,\N,Hatta,حتا,878,4,locality,UTC+2,Asia/Hebron
+3856968,PS,\N,Bayt 'Inun,بيت عينون,1782,4,locality,UTC+2,Asia/Hebron
+3856969,PS,\N,Bayt Maqdum,بيت مقدوم,2568,3,locality,UTC+2,Asia/Hebron
+3856970,PS,\N,Al Buq'ah,البقعة,1200,3,locality,UTC+2,Asia/Hebron
+3856971,PS,\N,Al Buwayrah,البويرة,684,3,locality,UTC+2,Asia/Hebron
+3856972,PS,\N,Khallat ad Dar,خلة الدار,2153,4,locality,UTC+2,Asia/Hebron
+3856973,PS,\N,Dayr Samit,دير سامت,6144,4,locality,UTC+2,Asia/Hebron
+3856974,PS,\N,Khallat al Musafir,الرواعين,214,4,locality,UTC+2,Asia/Hebron
+3856975,PS,\N,Khirbat as Salamah,خربة السلامة,365,3,Locality,UTC+2,Asia/Hebron
+3856976,PS,\N,Wadi 'Ubayd,وادي عبيد,128,4,isolated_dwelling,UTC+2,Asia/Hebron
+3856977,PS,\N,Fuqayqis,فقيقيس,267,4,hamlet,UTC+2,Asia/Hebron
+3856978,PS,\N,Marah al Baqqar,مراح البقار,212,3,Rural Locality,UTC+2,Asia/Hebron
+3856979,PS,\N,Al Hilah,الحيلة,1258,3,locality,UTC+2,Asia/Hebron
+3856980,PS,\N,Wadi ash Shajinah,وادي الشاجنة,704,4,locality,UTC+2,Asia/Hebron
+3856981,PS,\N,As Surrah,الصورة,1896,3,locality,UTC+2,Asia/Hebron
+3856982,PS,\N,Zif,زيف,835,3,Rural Locality,UTC+2,Asia/Hebron
+3856983,PS,\N,Khallat al 'Aqd,خلة العقد,268,4,locality,UTC+2,Asia/Hebron
+3856984,PS,\N,Al Buwayb,البويب,598,3,locality,UTC+2,Asia/Hebron
+3856985,PS,\N,Hadb al 'Alqah,حدب العلقة,631,4,locality,UTC+2,Asia/Hebron
+3856986,PS,\N,Bayt 'Amrah,بيت عمرة,2133,4,locality,UTC+2,Asia/Hebron
+3856987,PS,\N,Umm ad Daraj,الزويدين,801,4,locality,UTC+2,Asia/Hebron
+3856988,PS,\N,Umm ash Shaqhan,أم الشقحان,292,4,locality,UTC+2,Asia/Hebron
+3856989,PS,\N,Khayr wa Shuyush wal Hadidiyah,خير وشيوش والحديدية,373,4,locality,UTC+2,Asia/Hebron
+3856990,PS,\N,Ad Dayrat,الديرات,783,3,locality,UTC+2,Asia/Hebron
+3856991,PS,\N,Khashm ad Daraj,الهذالين,597,4,village,UTC+2,Asia/Hebron
+3856992,PS,\N,Rabud,رابود,2228,3,Rural Locality,UTC+2,Asia/Hebron
+3856993,PS,\N,Umm Lasafa,أم لصفا,840,4,locality,UTC+2,Asia/Hebron
+3856994,PS,\N,Umm al Khayr,الفقير,508,4,locality,UTC+2,Asia/Hebron
+3856995,PS,\N,Al Karmil,الكرمل,3685,3,Rural Locality,UTC+2,Asia/Hebron
+3856996,PS,\N,Khallat Salih,خلة صالح,1077,4,locality,UTC+2,Asia/Hebron
+3856997,PS,\N,At Tuwani,التواني,321,3,Rural Locality,UTC+2,Asia/Hebron
+3856998,PS,\N,Ma'in,معين,452,4,hamlet,UTC+2,Asia/Hebron
+3856999,PS,\N,An Najadah,النجادة,407,3,locality,UTC+2,Asia/Hebron
+3857000,PS,\N,Mintaqat Shi'ib al Batin,منطقة شعب الباطن,135,4,locality,UTC+2,Asia/Hebron
+3857001,PS,\N,Wadi al 'Amayir,وادي العماير,474,4,locality,UTC+2,Asia/Hebron
+3857002,PS,\N,Khirbat Tawil ash Shih,خربة طويل الشيح,179,4,locality,UTC+2,Asia/Hebron
+3857003,PS,\N,Imnizil,إمنيزل,384,3,locality,UTC+2,Asia/Hebron
+3857004,PS,\N,'Arab al Furayjat,عرب الفريجات,563,4,locality,UTC+2,Asia/Hebron
+3857010,PS,\N,Hamrush,حمروش,53,3,Rural Locality,UTC+2,Asia/Hebron
+3857011,PS,\N,Umm al Butm,أم البطم,82,3,Rural Locality,UTC+2,Asia/Hebron
+3857012,PS,\N,Qafan al Khamis,قفان الخميس,8445,3,Locality,UTC+2,Asia/Hebron
+3857017,PS,\N,Wadi ar Rim,وادي الريم,224,3,Rural Locality,UTC+2,Asia/Hebron
+3857029,PS,\N,Wadi as Sadah,وادي السادة,369,3,Locality,UTC+2,Asia/Hebron
+3857031,PS,\N,Birin,بيرين,150,3,Rural Locality,UTC+2,Asia/Hebron
+3857042,PS,\N,Maghayir al 'Abid,مغاير العبيد,316,3,Locality,UTC+2,Asia/Hebron
+3857043,PS,\N,Zahr al Malih,ظهر المالح,196,4,isolated_dwelling,UTC+2,Asia/Hebron
+3857044,PS,\N,Umm Dar,أم دار,550,3,Rural Locality,UTC+2,Asia/Hebron
+3857045,PS,\N,Al Khuljan,الخلجان,503,3,Rural Locality,UTC+2,Asia/Hebron
+3857046,PS,\N,Imriha,إمريحا,418,3,locality,UTC+2,Asia/Hebron
+3857047,PS,\N,Bir al Basha,بير الباشا,1291,3,Rural Locality,UTC+2,Asia/Hebron
+3857048,PS,\N,Wadi Du'uq,وادي دعوق,122,4,locality,UTC+2,Asia/Hebron
+3857049,PS,\N,Al Mansurah,المنصورة,171,4,locality,UTC+2,Asia/Hebron
+3857050,PS,\N,Al 'Asa'sah,العصاعصة,458,3,locality,UTC+2,Asia/Hebron
+3857066,PS,\N,Al Badhan,الباذان,2458,3,Rural Locality,UTC+2,Asia/Hebron
+3857067,PS,\N,'Ayn Shibli,عين شبلي,331,4,locality,UTC+2,Asia/Hebron
+3857068,PS,\N,Ar Rajman,الرجمان,16,3,Rural Locality,UTC+2,Asia/Hebron
+3857074,PS,\N,'Ayn al Bayda,عين البيضا,1145,4,locality,UTC+2,Asia/Hebron
+3857075,PS,\N,Al Farisiyah,الفارسية,149,4,locality,UTC+2,Asia/Hebron
+3857076,PS,\N,Ath Thaghrah,الثغرة,538,3,locality,UTC+2,Asia/Hebron
+3857077,PS,\N,Al 'Aqbah,العقبة,102,4,locality,UTC+2,Asia/Hebron
+3857078,PS,\N,Khirbat ar Ras al Ahmar,خربة الراس الأحمر,176,4,locality,UTC+2,Asia/Hebron
+3857079,PS,\N,Az Zubaydat,الزبيدات,1403,3,locality,UTC+2,Asia/Hebron
+3857080,PS,\N,Marj al Ghazal,مرج الغزال,200,3,Rural Locality,UTC+2,Asia/Hebron
+3857081,PS,\N,Al Jiftlik,الجفتلك,3666,3,Rural Locality,UTC+2,Asia/Hebron
+3857082,PS,\N,An Nabi Musa,النبي موسى,305,3,Rural Locality,UTC+2,Asia/Hebron
+3857089,PS,\N,Al Ma'sarah,المعصرة,793,3,locality,UTC+2,Asia/Hebron
+3857090,PS,\N,Khursa,خرسا,3388,3,Rural Locality,UTC+2,Asia/Hebron
+3857097,PS,\N,Oranit,أورانيت,7580,4,village,UTC+2,Asia/Hebron
+3857107,PS,\N,Vered Yeriho,فيريد يريحو,364,3,locality,UTC+2,Asia/Hebron
+3857112,PS,\N,Itamar,Itamar,1238,3,PPL,UTC+2,Asia/Hebron
+3857115,PS,\N,Beit El,Beit El,6042,3,PPL,UTC+2,Asia/Hebron
+3857116,PS,\N,Ganei Modi'in,Ganei Modi'in,2488,3,PPL,UTC+2,Asia/Hebron

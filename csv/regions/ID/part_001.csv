@@ -1,0 +1,46 @@
+key,country,name,native_name,capital,population,timezone_utc,timezone_iana
+ID-AC,ID,Nanggroe Aceh Darussalam Province,\N,1778317,\N,UTC+7,Asia/Jakarta
+ID-BA,ID,Provinsi Bali,\N,1791669,\N,UTC+8,Asia/Makassar
+ID-BB,ID,Kepulauan Bangka Belitung,\N,1784916,\N,UTC+7,Asia/Jakarta
+ID-BE,ID,Propinsi Bengkulu,\N,1793861,\N,UTC+7,Asia/Jakarta
+ID-BT,ID,Banten,\N,1782249,\N,UTC+7,Asia/Jakarta
+ID-GO,ID,Provinsi Gorontalo,\N,1790864,\N,UTC+8,Asia/Makassar
+ID-JA,ID,Provinsi Jambi,\N,1790431,\N,UTC+7,Asia/Jakarta
+ID-JB,ID,Jawa Barat,\N,1794465,\N,UTC+7,Asia/Jakarta
+ID-JI,ID,Jawa Timur,\N,1781247,\N,"UTC+8, UTC+7","Asia/Pontianak, Asia/Jakarta, Asia/Makassar"
+ID-JK,ID,Daerah Khusus Ibukota Jakarta,\N,\N,\N,UTC+7,Asia/Jakarta
+ID-JT,ID,Provinsi Jawa Tengah,\N,1782422,\N,UTC+7,Asia/Jakarta
+ID-JW,ID,Jawa,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-KA,ID,Kalimantan,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-KB,ID,Provinsi Kalimantan Barat,\N,1783879,\N,UTC+7,"Asia/Pontianak, Asia/Ho_Chi_Minh, Asia/Jakarta"
+ID-KI,ID,Provinsi Kalimantan Timur,\N,1782928,\N,"UTC+8, UTC+7","Asia/Pontianak, Asia/Kuching, Asia/Makassar"
+ID-KR,ID,Provinsi Kepulauan Riau,\N,\N,\N,UTC+7,"Asia/Pontianak, Asia/Jakarta"
+ID-KS,ID,Provinsi Kalimantan Selatan,\N,1794391,\N,"UTC+8, UTC+7","Asia/Pontianak, Asia/Makassar"
+ID-KT,ID,Provinsi Kalimantan Tengah,\N,1785192,\N,"UTC+8, UTC+7","Asia/Pontianak, Asia/Jakarta, Asia/Makassar"
+ID-KU,ID,North Kalimantan,\N,1780635,\N,UTC+8,Asia/Makassar
+ID-LA,ID,Provinsi Lampung,\N,1780714,\N,UTC+7,Asia/Jakarta
+ID-MA,ID,Provinsi Maluku,\N,1795040,\N,UTC+9,Asia/Jayapura
+ID-ML,ID,Maluku,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-MU,ID,North Maluku,\N,1781822,\N,"UTC+8, UTC+9","Asia/Jayapura, Asia/Makassar"
+ID-NB,ID,West Nusa Tenggara,\N,1786709,\N,"UTC+8, UTC+7","Asia/Jakarta, Asia/Makassar"
+ID-NT,ID,East Nusa Tenggara,\N,1827973,\N,"UTC+8, UTC+7","Asia/Jakarta, Asia/Makassar"
+ID-NU,ID,Nusa Tenggara,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-PA,ID,Provinsi Papua,\N,1828189,\N,UTC+9,Asia/Jayapura
+ID-PB,ID,Provinsi Papua Barat,\N,1786911,\N,UTC+9,Asia/Jayapura
+ID-PD,ID,Papua Barat Daya,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-PE,ID,Papua Pengunungan,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-PP,ID,Papua,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-PS,ID,Papua Selatan,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-PT,ID,Papua Tengah,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-RI,ID,Provinsi Riau,\N,1784404,\N,UTC+7,"Asia/Pontianak, Asia/Jakarta"
+ID-SA,ID,Sulawesi Utara,\N,1787019,\N,UTC+8,Asia/Makassar
+ID-SB,ID,Provinsi Sumatera Barat,\N,1785386,\N,UTC+7,Asia/Jakarta
+ID-SG,ID,Sulawesi Tenggara,\N,1788983,\N,UTC+8,Asia/Makassar
+ID-SL,ID,Sulawesi,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-SM,ID,Sumatera,\N,\N,\N,"UTC+7, UTC+9, UTC+8","Asia/Jakarta, Asia/Jayapura, Asia/Makassar, Asia/Pontianak"
+ID-SN,ID,Provinsi Sulawesi Selatan,\N,1779613,\N,UTC+8,Asia/Makassar
+ID-SR,ID,Provinsi Sulawesi Barat,\N,1787023,\N,UTC+8,Asia/Makassar
+ID-SS,ID,Sumatera Selatan,\N,1785159,\N,UTC+7,Asia/Jakarta
+ID-ST,ID,Sulawesi Tengah,\N,1785141,\N,UTC+8,"Asia/Singapore, Asia/Makassar"
+ID-SU,ID,North Sumatra,\N,1777695,\N,UTC+7,"Asia/Pontianak, Asia/Jakarta"
+ID-YO,ID,Daerah Istimewa Yogyakarta,\N,1778751,\N,UTC+7,Asia/Jakarta

@@ -1,0 +1,2256 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+1662974,GE,GE-SJ,Abastumani,აბასთუმანი,987,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1662977,GE,GE-RL,Seva,სევა,84,3,Village,UTC+4,Asia/Tbilisi
+1662981,GE,GE-RL,Zvareti,ზვარეთი,351,3,Village,UTC+4,Asia/Tbilisi
+1662982,GE,GE-IM,Zvare,ზვარე,279,3,Village,UTC+4,Asia/Tbilisi
+1662986,GE,GE-AJ,Zundaga,ზუნდაგა,299,3,Village,UTC+4,Asia/Tbilisi
+1662987,GE,GE-SZ,Zugdidi,ზუგდიდი,58002,2,Municipality,UTC+4,Asia/Tbilisi
+1662988,GE,GE-RL,Zudali,ზუდალი,32,3,Village,UTC+4,Asia/Tbilisi
+1662989,GE,GE-SZ,Zumi,ზუმი,995,3,Village,UTC+4,Asia/Tbilisi
+1662990,GE,GE-RL,Zubi,ზუბი,640,3,Village,UTC+4,Asia/Tbilisi
+1662992,GE,GE-IM,Zovreti,ზოვრეთი,1513,3,Village,UTC+4,Asia/Tbilisi
+1662993,GE,GE-MM,Zot'ik'iantk'ari,ზოტიკიანთკარი,62,4,locality,UTC+4,Asia/Tbilisi
+1662995,GE,GE-GU,Zomleti,ზომლეთი,281,3,Village,UTC+4,Asia/Tbilisi
+1662996,GE,GE-RL,Zogishi,ზოგიში,148,3,Village,UTC+4,Asia/Tbilisi
+1662997,GE,GE-IM,Zodi,ზოდი,1483,3,Village,UTC+4,Asia/Tbilisi
+1662999,GE,\N,Znaur,ყორნისი,755,3,locality,UTC+4,Asia/Tbilisi
+1663001,GE,GE-KK,Zirbiti,ზირბითი,39,3,Village,UTC+4,Asia/Tbilisi
+1663002,GE,GE-SJ,Zik'ilia,ზიკილია,412,4,village,UTC+4,Asia/Tbilisi
+1663003,GE,GE-KA,Ziari,ზიარი,44,3,Village,UTC+4,Asia/Tbilisi
+1663005,GE,GE-MM,Zhozhoni,Zhozhoni,1,3,Village,UTC+4,Asia/Tbilisi
+1663006,GE,GE-IM,Zhoneti,ჟონეთი,334,3,Village,UTC+4,Asia/Tbilisi
+1663008,GE,GE-MM,Zhinvali,ჟინვალი,2376,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1663009,GE,GE-SZ,Zhinota,ჟინოთა,9,3,Village,UTC+4,Asia/Tbilisi
+1663011,GE,GE-SJ,Zhdanovi,ჟდანოვი,393,3,Village,UTC+4,Asia/Tbilisi
+1663012,GE,GE-RL,Zhashkva,ჟაშქვა,34,3,Village,UTC+4,Asia/Tbilisi
+1663013,GE,GE-AJ,Zhanivri,ჟანივრი,101,3,Village,UTC+4,Asia/Tbilisi
+1663014,GE,GE-SZ,Zhamushi,ჟამუში,25,3,Village,UTC+4,Asia/Tbilisi
+1663016,GE,GE-SZ,Zhibiani,ჟიბიანი,87,3,Village,UTC+4,Asia/Tbilisi
+1663017,GE,GE-SZ,Zhabeshi,ჟაბეში,90,3,Village,UTC+4,Asia/Tbilisi
+1663018,GE,GE-SK,Zghuderi,ზღუდერი,210,3,Village,UTC+4,Asia/Tbilisi
+1663021,GE,GE-IM,Zestaponi,ზესტაფონი,23353,2,Municipality,UTC+4,Asia/Tbilisi
+1663023,GE,GE-RL,Zeskho,ზესხო,5,3,Village,UTC+4,Asia/Tbilisi
+1663024,GE,\N,Zerti,Zerti,2439,3,Village,UTC+4,Asia/Tbilisi
+1663026,GE,GE-MM,Zenubani,ზენუბანი,9,3,Village,UTC+4,Asia/Tbilisi
+1663027,GE,GE-AB,Zenobani,ზენობანი,120,3,Village,UTC+4,Asia/Tbilisi
+1663029,GE,GE-AJ,Zeniti,ზენითი,764,3,Village,UTC+4,Asia/Tbilisi
+1663030,GE,GE-SZ,Zeni,ზენი,1263,3,Village,UTC+4,Asia/Tbilisi
+1663032,GE,GE-AJ,Zendidi,ზენდიდი,297,3,Village,UTC+4,Asia/Tbilisi
+1663033,GE,GE-MM,Zenamkhari,ზენამხარი,5,3,Village,UTC+4,Asia/Tbilisi
+1663035,GE,GE-RL,Zemo Zhoshkha,ზემო ჟოშხა,164,3,Village,UTC+4,Asia/Tbilisi
+1663040,GE,GE-MM,Zemo Ubani,ზემო უბანი,8,3,Village,UTC+4,Asia/Tbilisi
+1663043,GE,GE-AB,Zemo Ts'q'aro,ზემო წყარო,150,4,locality,UTC+4,Asia/Tbilisi
+1663046,GE,GE-KK,Zemo Teleti,ზემო თელეთი,890,3,Village,UTC+4,Asia/Tbilisi
+1663047,GE,GE-GU,Zemo Surebi,ზემო სურები,1,3,Village,UTC+4,Asia/Tbilisi
+1663048,GE,GE-SK,Zemo Sobisi,ზემო სობისი,482,3,Village,UTC+4,Asia/Tbilisi
+1663050,GE,GE-SJ,Zemo Skhvilisi,ზემო სხვილისი,278,3,Village,UTC+4,Asia/Tbilisi
+1663051,GE,GE-RL,Zemo-Skhvava,Zemo Skhvava,56,3,Village,UTC+4,Asia/Tbilisi
+1663052,GE,GE-GU,Zemo Shukhuti,ზემო შუხუთი,359,3,Village,UTC+4,Asia/Tbilisi
+1663053,GE,GE-MM,Zemo Shuakhevi,ზემო შუახევი,132,3,Village,UTC+4,Asia/Tbilisi
+1663054,GE,\N,Zemo-Shakshaketi,Zemo Shakshaketi,127,3,Village,UTC+4,Asia/Tbilisi
+1663055,GE,GE-KK,Zemo Sarali,ზემო სარალი,883,3,Village,UTC+4,Asia/Tbilisi
+1663059,GE,GE-SK,Zemo Rene,ზემო რენე,249,3,Village,UTC+4,Asia/Tbilisi
+1663060,GE,\N,Zemo Rekha,Zemo Rekha,261,3,Village,UTC+4,Asia/Tbilisi
+1663061,GE,GE-AB,Zemo P'shap'i,ზემო ფშაფი,930,3,locality,UTC+4,Asia/Tbilisi
+1663062,GE,GE-GU,Zemo Partskhma,ზემო ფარცხმა,720,3,Village,UTC+4,Asia/Tbilisi
+1663064,GE,GE-SK,Zemo Osiauri,ზემო ოსიაური,1059,3,Village,UTC+4,Asia/Tbilisi
+1663065,GE,GE-KK,Zemo Orozmani,ზემო ორზმანი,624,3,Village,UTC+4,Asia/Tbilisi
+1663069,GE,GE-SK,Zemo Nikozi,ზემო ნიქოზი,643,3,Village,UTC+4,Asia/Tbilisi
+1663070,GE,GE-MM,Zemo Nichbisi,ზემო ნიჩბისი,208,3,Village,UTC+4,Asia/Tbilisi
+1663071,GE,GE-GU,Zemo Natanebi,ზემო ნატანები,1174,3,Village,UTC+4,Asia/Tbilisi
+1663072,GE,GE-KA,Zemo Nashovari,ზემო ნაშოვარი,360,3,Village,UTC+4,Asia/Tbilisi
+1663074,GE,GE-KA,Zemo Mskhalgori,ზემო მსხალგორი,513,3,Village,UTC+4,Asia/Tbilisi
+1663075,GE,GE-SK,Zemo-Monasteri,Zemo-Monasteri,50,4,locality,UTC+4,Asia/Tbilisi
+1663077,GE,GE-MM,Zemo Mleta,ზემო მლეთა,99,3,Village,UTC+4,Asia/Tbilisi
+1663078,GE,GE-SZ,Zemo Marghi,ზემო მარღი,50,3,Village,UTC+4,Asia/Tbilisi
+1663083,GE,GE-KA,Zemo Machkhaani,ზემო მაჩხაანი,1826,3,Village,UTC+4,Asia/Tbilisi
+1663090,GE,GE-SK,Zemo Ksovrisi,ზემო ქსოვრისი,2,3,Village,UTC+4,Asia/Tbilisi
+1663093,GE,GE-KK,Zemo Arkevani,ზემო არქევანი,467,3,Village,UTC+4,Asia/Tbilisi
+1663097,GE,GE-SK,Zemo Khviti,ზემო ხვითი,627,3,Village,UTC+4,Asia/Tbilisi
+1663098,GE,GE-SK,Zemo Khvedureti,ზემო ხვედურეთი,1188,3,Village,UTC+4,Asia/Tbilisi
+1663100,GE,GE-MM,Zemo Khorkhi,ზემო ხორხი,22,3,Village,UTC+4,Asia/Tbilisi
+1663101,GE,GE-KA,Zemo Khodasheni,ზემო ხოდაშენი,868,3,Village,UTC+4,Asia/Tbilisi
+1663102,GE,GE-KA,Khiza,ხიზა,75,3,Village,UTC+4,Asia/Tbilisi
+1663105,GE,GE-KA,Zemo Khechili,ზემო ხეჩილი,47,3,Village,UTC+4,Asia/Tbilisi
+1663109,GE,GE-KA,Zemo Kedi,ზემო ქედი,1826,3,Village,UTC+4,Asia/Tbilisi
+1663114,GE,GE-AB,Zemo Gulripshi,ზემო გულრიფში,1106,3,locality,UTC+4,Asia/Tbilisi
+1663119,GE,GE-SJ,Zemo Enteli,ზემო ენთელი,173,3,Village,UTC+4,Asia/Tbilisi
+1663125,GE,GE-SK,Zemo Chocheti,ზემო ჩოჩეთი,444,3,Village,UTC+4,Asia/Tbilisi
+1663127,GE,GE-GU,Zemo Chibati,ზემო ჩიბათი,300,3,Village,UTC+4,Asia/Tbilisi
+1663129,GE,GE-SK,Zemo Brolosani,ზემო ბროლოსანი,97,3,Village,UTC+4,Asia/Tbilisi
+1663130,GE,GE-SK,Zemo Boshuri,ზემო ბოშური,132,3,Village,UTC+4,Asia/Tbilisi
+1663131,GE,\N,Zemo-Bolkvi,Zemo Bolkvi,272,3,Village,UTC+4,Asia/Tbilisi
+1663133,GE,GE-KA,Zemo Bodbe,ზემო ბოდბე,424,3,Village,UTC+4,Asia/Tbilisi
+1663135,GE,GE-SZ,Zemo Bia,ზემო ბია,32,3,Village,UTC+4,Asia/Tbilisi
+1663136,GE,GE-RL,Zemo Bari,ზემო ბარი,36,3,Village,UTC+4,Asia/Tbilisi
+1663137,GE,GE-AB,Zemo-Barghebi,ზემო ბარღები,1159,3,locality,UTC+4,Asia/Tbilisi
+1663139,GE,GE-AB,Zemo Azhara,ზემო ფჟარა,322,3,locality,UTC+4,Asia/Tbilisi
+1663143,GE,GE-KA,Zemo Alvani,ზემო ალვანი,3306,3,Village,UTC+4,Asia/Tbilisi
+1663147,GE,GE-AJ,Kveda Agara,ქვედა აგარა,109,3,Village,UTC+4,Asia/Tbilisi
+1663148,GE,GE-SK,Zemo Adzvisi,ზემო აძვისი,88,3,Village,UTC+4,Asia/Tbilisi
+1663154,GE,GE-IM,Zeindari,ზეინდარი,971,3,Village,UTC+4,Asia/Tbilisi
+1663155,GE,GE-SK,Zeghduleti,ზეღდულეთი,872,3,Village,UTC+4,Asia/Tbilisi
+1663158,GE,GE-KA,Zegaani,ზეგაანი,443,3,Village,UTC+4,Asia/Tbilisi
+1663159,GE,GE-IM,Zedubani,ზედუბანი,246,3,Village,UTC+4,Asia/Tbilisi
+1663165,GE,GE-IM,Zeda Zegani,ზედა ზეგანი,196,3,Village,UTC+4,Asia/Tbilisi
+1663166,GE,GE-SZ,Zeda Vedi,ზედა ვედი,21,3,Village,UTC+4,Asia/Tbilisi
+1663168,GE,GE-IM,Zeda Vani,ზედა ვანი,910,3,Village,UTC+4,Asia/Tbilisi
+1663169,GE,GE-AJ,Sachino,საჩინო,838,3,Village,UTC+4,Asia/Tbilisi
+1663170,GE,GE-GU,Zeda Uchkhubi,ზედა უჩხუბი,335,3,Village,UTC+4,Asia/Tbilisi
+1663174,GE,GE-RL,Zeda Tlughi,ზემო თლუღი,40,3,Village,UTC+4,Asia/Tbilisi
+1663176,GE,GE-RL,Zeda Shavra,ზედა შავრა,74,3,Village,UTC+4,Asia/Tbilisi
+1663177,GE,GE-AJ,Zeda Sameba,ზედა სამება,597,3,Village,UTC+4,Asia/Tbilisi
+1663178,GE,GE-IM,Zeda Sakara,ზედა საქარა,2099,3,Village,UTC+4,Asia/Tbilisi
+1663179,GE,GE-RL,Zeda Sairme,ზედა საირმე,156,3,Village,UTC+4,Asia/Tbilisi
+1663180,GE,GE-IM,Zeda Rgani,ზედა რგანი,182,3,Village,UTC+4,Asia/Tbilisi
+1663181,GE,GE-IM,Zeda Orghuli,ზედა ორღული,508,3,Village,UTC+4,Asia/Tbilisi
+1663183,GE,GE-IM,Zeda Mukedi,ზედა მუქედი,298,3,Village,UTC+4,Asia/Tbilisi
+1663184,GE,GE-IM,Zeda Meskheti,ზედა მესხეთი,1043,3,Village,UTC+4,Asia/Tbilisi
+1663185,GE,GE-AJ,Zeda Makhuntseti,ზედა მახუნცეთი,203,3,Village,UTC+4,Asia/Tbilisi
+1663186,GE,GE-RL,Zeda Lukhvano,ზედა ლუხვანო,102,3,Village,UTC+4,Asia/Tbilisi
+1663189,GE,\N,Zeda-Kondidi,Zeda Kondidi,308,3,Village,UTC+4,Asia/Tbilisi
+1663192,GE,GE-IM,Zeda Ilemi,ზედა ილემი,307,3,Village,UTC+4,Asia/Tbilisi
+1663193,GE,GE-RL,Zeda Ghvirishi,ზედა ღვირიში,38,3,Village,UTC+4,Asia/Tbilisi
+1663194,GE,GE-RL,Zeda Ghvardia,ზედა ღვარდია,42,3,Village,UTC+4,Asia/Tbilisi
+1663195,GE,GE-IM,Zeda Gordi,ზედა გორდი,397,3,Village,UTC+4,Asia/Tbilisi
+1663196,GE,GE-IM,Zeda Gora,ზედა გორა,399,3,Village,UTC+4,Asia/Tbilisi
+1663200,GE,GE-GU,Zeda Dzimiti,ზედა ძიმითი,330,3,Village,UTC+4,Asia/Tbilisi
+1663201,GE,GE-IM,Zeda Dimi,ზედა დიმი,425,3,Village,UTC+4,Asia/Tbilisi
+1663202,GE,GE-AJ,Dagva,დაგვა,2032,3,Village,UTC+4,Asia/Tbilisi
+1663207,GE,GE-IM,Zeda Bzvani,ზედა ბზვანი,371,3,Village,UTC+4,Asia/Tbilisi
+1663208,GE,GE-AJ,Zeda Bzubzu,ზედა ბზუბზუ,306,3,Village,UTC+4,Asia/Tbilisi
+1663209,GE,GE-IM,Zeda Beretisa,ზედა ბერეთისა,328,3,Village,UTC+4,Asia/Tbilisi
+1663210,GE,GE-GU,Zeda Bakhvi,ზედა ბახვი,839,3,Village,UTC+4,Asia/Tbilisi
+1663211,GE,GE-IM,Zeda Alisubani,ზედა ალისუბანი,603,3,Village,UTC+4,Asia/Tbilisi
+1663212,GE,GE-AJ,Zeda Akhalsheni,ზედა ახალშენი,1474,3,Village,UTC+4,Asia/Tbilisi
+1663213,GE,GE-RL,Zeda Aghvi,ზედა აღვი,37,3,Village,UTC+4,Asia/Tbilisi
+1663215,GE,GE-SJ,Zarzma,ზარზმა,321,3,Village,UTC+4,Asia/Tbilisi
+1663216,GE,GE-IM,Zarnadzeebi,ზარნაძეები,336,3,Village,UTC+4,Asia/Tbilisi
+1663217,GE,GE-MM,Zaridzeebi,ზარიძეები,298,3,Village,UTC+4,Asia/Tbilisi
+1663218,GE,GE-SZ,Zardlashi,ზარდლაში,10,3,Village,UTC+4,Asia/Tbilisi
+1663220,GE,GE-IM,Zarati,ზარათი,314,3,Village,UTC+4,Asia/Tbilisi
+1663221,GE,GE-IM,Zarani,ზარანი,158,3,Village,UTC+4,Asia/Tbilisi
+1663222,GE,GE-RL,Zaragula,ზარაგულა,42,3,Village,UTC+4,Asia/Tbilisi
+1663224,GE,GE-SJ,Zanavi,ზანავი,297,3,Village,UTC+4,Asia/Tbilisi
+1663226,GE,GE-SZ,Zana,ზანა,292,3,Village,UTC+4,Asia/Tbilisi
+1663228,GE,GE-AJ,Zamleti,ზამლეთი,115,3,Village,UTC+4,Asia/Tbilisi
+1663233,GE,GE-MM,Zakaro,ზაქარო,558,3,Village,UTC+4,Asia/Tbilisi
+1663234,GE,GE-MM,Zahesi,Zahesi,5200,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1663235,GE,GE-SZ,Zagari,ზაგარი,15,3,Village,UTC+4,Asia/Tbilisi
+1663236,GE,GE-AB,Zagani,ზაგანი,359,3,locality,UTC+4,Asia/Tbilisi
+1663240,GE,GE-SJ,Erinja,ერინჯა,50,3,Village,UTC+4,Asia/Tbilisi
+1663246,GE,GE-SJ,Epremovk'a,ეფრემოვკა,137,4,locality,UTC+4,Asia/Tbilisi
+1663253,GE,GE-AB,Vladimirovka,ვლადიმიროვკა,907,3,Village,UTC+4,Asia/Tbilisi
+1663254,GE,GE-SJ,Vladimirovk'a,ვლადიმიროვკა,137,4,village,UTC+4,Asia/Tbilisi
+1663256,GE,GE-SZ,Vichnashi,ვიჩნაში,18,3,Village,UTC+4,Asia/Tbilisi
+1663258,GE,GE-MM,Vedzatkhevi,Vedzatkhevi,18,3,Village,UTC+4,Asia/Tbilisi
+1663261,GE,GE-MM,Veshagurni,ვეშაგურნი,24,3,Village,UTC+4,Asia/Tbilisi
+1663265,GE,GE-KA,Verona,ვერონა,57,3,Village,UTC+4,Asia/Tbilisi
+1663266,GE,GE-AJ,Vernebi,ვერნები,253,3,Village,UTC+4,Asia/Tbilisi
+1663267,GE,GE-KA,Verkhvis Mindori,ვერხვის მინდორი,156,3,Village,UTC+4,Asia/Tbilisi
+1663268,GE,GE-MM,Verkhveli,ვერხველი,19,3,Village,UTC+4,Asia/Tbilisi
+1663271,GE,GE-AB,Zemo Eshera,ზემო ეშერა,1052,3,locality,UTC+4,Asia/Tbilisi
+1663279,GE,GE-SK,Velistsikhe,ველისციხე,4508,3,Village,UTC+4,Asia/Tbilisi
+1663283,GE,GE-AB,Veli,ველი,72,4,locality,UTC+4,Asia/Tbilisi
+1663285,GE,GE-RL,Velevi,ველევი,95,3,Village,UTC+4,Asia/Tbilisi
+1663286,GE,\N,Velebi,Velebi,12,3,Village,UTC+4,Asia/Tbilisi
+1663288,GE,GE-KA,Vejini,ვეჯინი,2935,3,Village,UTC+4,Asia/Tbilisi
+1663289,GE,GE-KA,Vedzebi,ვეძები,7,3,Village,UTC+4,Asia/Tbilisi
+1663291,GE,GE-MM,Vedzatkheva,ვეძათხევა,44,3,Village,UTC+4,Asia/Tbilisi
+1663292,GE,GE-SK,Vedreba,ვედრება,182,3,Village,UTC+4,Asia/Tbilisi
+1663294,GE,GE-KA,Vazisubani,ვაზისუბანი,2862,3,Village,UTC+4,Asia/Tbilisi
+1663295,GE,GE-MM,Vaziani,ვაზიანი,3686,3,Village,UTC+4,Asia/Tbilisi
+1663298,GE,GE-AJ,Kvemo Vashlovani,Vashlovani,1044,3,Village,UTC+4,Asia/Tbilisi
+1663300,GE,GE-MM,Vashlobi,ვაშლობი,10,3,Village,UTC+4,Asia/Tbilisi
+1663301,GE,GE-KA,Vashliani,ვაშლიანი,19,3,Village,UTC+4,Asia/Tbilisi
+1663302,GE,GE-IM,Vashlevi,ვაშლევი,209,3,Village,UTC+4,Asia/Tbilisi
+1663304,GE,GE-AJ,Varjanauli,ვარჯანაული,104,3,Village,UTC+4,Asia/Tbilisi
+1663305,GE,GE-MM,Vartsla,ვარცლა,4,3,Village,UTC+4,Asia/Tbilisi
+1663306,GE,GE-IM,Vartsikhe,ვარციხე,1559,3,Village,UTC+4,Asia/Tbilisi
+1663307,GE,GE-MM,Varsimaani,Varsimaani,80,3,Village,UTC+4,Asia/Tbilisi
+1663310,GE,GE-SJ,Varkhani,ვარხანი,671,3,Village,UTC+4,Asia/Tbilisi
+1663311,GE,GE-SK,Variani,ვარიანი,1469,3,Village,UTC+4,Asia/Tbilisi
+1663312,GE,GE-SJ,Vargavi,ვარგავი,53,3,Village,UTC+4,Asia/Tbilisi
+1663313,GE,GE-SJ,Varevani,ვარევანი,570,3,Village,UTC+4,Asia/Tbilisi
+1663316,GE,GE-MM,Vardisubani,ვარდისუბანი,1347,3,Village,UTC+4,Asia/Tbilisi
+1663320,GE,GE-IM,Vardigora,ვარდიგორა,416,3,Village,UTC+4,Asia/Tbilisi
+1663321,GE,GE-SJ,Vardgineti,ვარდგინეთი,118,3,Village,UTC+4,Asia/Tbilisi
+1663323,GE,GE-AB,Varch'a,ვარჭა,2677,3,locality,UTC+4,Asia/Tbilisi
+1663324,GE,GE-KA,Vanta,ვანთა,937,3,Village,UTC+4,Asia/Tbilisi
+1663325,GE,GE-GU,Vaniskedi,ვანისქედი,215,3,Village,UTC+4,Asia/Tbilisi
+1663327,GE,GE-IM,Vani,ვანი,4112,2,Municipality,UTC+4,Asia/Tbilisi
+1663332,GE,GE-KK,Vanati,ვანათი,510,3,Village,UTC+4,Asia/Tbilisi
+1663335,GE,GE-AJ,Vanadzeebi,ვანაძეები,196,3,Village,UTC+4,Asia/Tbilisi
+1663338,GE,GE-SJ,Vale,ვალე,4858,3,Town,UTC+4,Asia/Tbilisi
+1663341,GE,GE-KA,Vakiri,ვაქირი,1950,3,Village,UTC+4,Asia/Tbilisi
+1663344,GE,GE-IM,Vakhani,ვახანი,381,3,Village,UTC+4,Asia/Tbilisi
+1663345,GE,GE-SZ,Vakha,ვახა,280,3,Village,UTC+4,Asia/Tbilisi
+1663347,GE,GE-AB,Vak'e,ვაკე,221,3,locality,UTC+4,Asia/Tbilisi
+1663348,GE,GE-TB,Vake,Vake,504,3,Village,UTC+4,Asia/Tbilisi
+1663352,GE,GE-SK,Vaq'a,ვაყა,1160,4,locality,UTC+4,Asia/Tbilisi
+1663353,GE,GE-AJ,Vaio,ვაიო,409,3,Village,UTC+4,Asia/Tbilisi
+1663354,GE,GE-AJ,Varjanisi,ვარჯანისი,185,3,Village,UTC+4,Asia/Tbilisi
+1663355,GE,GE-SJ,Vachiani,ვაჩიანი,1801,3,Village,UTC+4,Asia/Tbilisi
+1663357,GE,GE-KA,Uzuntala,უზუნთალა,1786,3,Village,UTC+4,Asia/Tbilisi
+1663359,GE,GE-RL,Utskheri,უცხერი,128,3,Village,UTC+4,Asia/Tbilisi
+1663361,GE,GE-RL,Usholta,უშოლთა,21,3,Village,UTC+4,Asia/Tbilisi
+1663362,GE,GE-SZ,Ushkhvanari,უშხვანარი,150,3,Village,UTC+4,Asia/Tbilisi
+1663363,GE,GE-MM,Usharni,უშარნი,2,3,Village,UTC+4,Asia/Tbilisi
+1663364,GE,GE-SZ,Ushapati,უშაფათი,389,3,Village,UTC+4,Asia/Tbilisi
+1663366,GE,GE-KK,Useinkendi,უსეინქენდი,62,3,Village,UTC+4,Asia/Tbilisi
+1663367,GE,GE-RL,Usakhelo,უსახელო,952,3,Village,UTC+4,Asia/Tbilisi
+1663370,GE,GE-SK,Urtkhva,ურთხვა,176,3,Village,UTC+4,Asia/Tbilisi
+1663371,GE,GE-AB,Urta,Urta,752,3,Village,UTC+4,Asia/Tbilisi
+1663374,GE,GE-GU,Ureki,ურეკი,1520,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1663376,GE,GE-SK,Urbnisi,ურბნისი,1109,3,Village,UTC+4,Asia/Tbilisi
+1663377,GE,GE-RL,Uravi,ურავი,295,3,Village,UTC+4,Asia/Tbilisi
+1663378,GE,GE-SJ,Uraveli,ურაველი,660,3,Village,UTC+4,Asia/Tbilisi
+1663379,GE,\N,Upureti,Upureti,18,3,Village,UTC+4,Asia/Tbilisi
+1663381,GE,GE-SK,Uplistsikhe,უფლისციხე,728,3,Village,UTC+4,Asia/Tbilisi
+1663382,GE,GE-SJ,Unts'a,უნწა,275,4,locality,UTC+4,Asia/Tbilisi
+1663383,GE,GE-MM,Undilaantkari,Undilaantkari,24,3,Village,UTC+4,Asia/Tbilisi
+1663385,GE,GE-KA,Ch'iauri,ჭიაური,1044,3,locality,UTC+4,Asia/Tbilisi
+1663391,GE,GE-IM,Ukhuti,უხუთი,375,3,Village,UTC+4,Asia/Tbilisi
+1663392,GE,GE-MM,Ukhati,უხათი,9,3,Village,UTC+4,Asia/Tbilisi
+1663401,GE,GE-SZ,Ughvali,უღვალი,5,3,Village,UTC+4,Asia/Tbilisi
+1663404,GE,GE-IM,Udzlouri,უძლოური,19,3,Village,UTC+4,Asia/Tbilisi
+1663405,GE,GE-MM,Udzilaurta,უძილაურთა,15,3,Village,UTC+4,Asia/Tbilisi
+1663406,GE,GE-SJ,Ujmana,უჯმანა,255,3,Village,UTC+4,Asia/Tbilisi
+1663407,GE,GE-KA,Ujarma,უჯარმა,445,3,Village,UTC+4,Asia/Tbilisi
+1663408,GE,GE-SJ,Ude,უდე,2728,3,Village,UTC+4,Asia/Tbilisi
+1663409,GE,GE-KA,Udabno,უდაბნო,597,3,Village,UTC+4,Asia/Tbilisi
+1663410,GE,GE-AJ,Uchkho,უჩხო,328,3,Village,UTC+4,Asia/Tbilisi
+1663411,GE,GE-AJ,Uchkhiti,უჩხითი,260,3,Village,UTC+4,Asia/Tbilisi
+1663412,GE,GE-SZ,Uchashona,უჩაშონა,315,3,Village,UTC+4,Asia/Tbilisi
+1663413,GE,GE-IM,Uchameti,უჩამეთი,47,3,Village,UTC+4,Asia/Tbilisi
+1663414,GE,GE-IM,Ubisi,უბისი,276,3,Village,UTC+4,Asia/Tbilisi
+1663416,GE,GE-MM,Ubani,უბანი,8,3,Village,UTC+4,Asia/Tbilisi
+1663421,GE,GE-SK,Tvaurebi,თვაურები,81,3,Village,UTC+4,Asia/Tbilisi
+1663423,GE,GE-IM,Tvalueti,თვალუეთი,255,3,Village,UTC+4,Asia/Tbilisi
+1663424,GE,GE-MM,Tvalivi,თვალივი,59,4,locality,UTC+4,Asia/Tbilisi
+1663425,GE,GE-SK,Tvaladi,თვალადი,489,3,Village,UTC+4,Asia/Tbilisi
+1663426,GE,GE-IM,Tuzi,თუზი,1060,3,Village,UTC+4,Asia/Tbilisi
+1663433,GE,GE-KA,Tulari,თულარი,3147,3,Village,UTC+4,Asia/Tbilisi
+1663437,GE,GE-SZ,Tsvane,ცვანე,394,3,Village,UTC+4,Asia/Tbilisi
+1663438,GE,GE-IM,Tsutskhvati,ცუცხვათი,671,3,Village,UTC+4,Asia/Tbilisi
+1663446,GE,GE-SK,Tsotskhnara,ცოცხნარა,294,3,Village,UTC+4,Asia/Tbilisi
+1663449,GE,GE-KK,Tsopi,ცოფი,596,3,Village,UTC+4,Asia/Tbilisi
+1663458,GE,GE-KA,Tsnori,წნორი,4784,3,City,UTC+4,Asia/Tbilisi
+1663459,GE,GE-SJ,Ts'nisi,წნისი,613,4,locality,UTC+4,Asia/Tbilisi
+1663469,GE,GE-MM,Tskhvedieti,ცხვედიეთი,2,3,Village,UTC+4,Asia/Tbilisi
+1663470,GE,GE-MM,Tskhvarich'amia,ცხვარიჭამია,57,4,village,UTC+4,Asia/Tbilisi
+1663472,GE,GE-RL,Tskhumaldi,ცხუმალდი,5,3,Village,UTC+4,Asia/Tbilisi
+1663476,GE,GE-SK,Tskhramukha,ცხრამუხა,1728,3,Village,UTC+4,Asia/Tbilisi
+1663477,GE,GE-AJ,Tskhrapona,ცხრაფონა,698,3,Village,UTC+4,Asia/Tbilisi
+1663478,GE,GE-IM,Tskhomareti,ცხომარეთი,126,3,Village,UTC+4,Asia/Tbilisi
+1663479,GE,GE-KK,Tsqnet'i,წყნეთი,7166,3,locality,UTC+4,Asia/Tbilisi
+1663480,GE,GE-AJ,Tskhmorisi,ცხმორისი,600,3,Village,UTC+4,Asia/Tbilisi
+1663481,GE,GE-RL,Tskhmori,ცხმორი,31,3,Village,UTC+4,Asia/Tbilisi
+1663483,GE,GE-SK,Ts'khinvali,ცხინვალი,30000,3,Town,UTC+4,Asia/Tbilisi
+1663487,GE,GE-IM,Tskhentaro,ცხენთარო,630,3,Village,UTC+4,Asia/Tbilisi
+1663488,GE,GE-AJ,Tskhemna,ცხემნა,156,3,Village,UTC+4,Asia/Tbilisi
+1663489,GE,GE-GU,Tskhemliskhidi,ცხემლისხიდი,446,3,Village,UTC+4,Asia/Tbilisi
+1663490,GE,GE-AJ,Tskhemlisi,ცხემლისი,179,3,Village,UTC+4,Asia/Tbilisi
+1663493,GE,\N,Tskhaveri,Tskhaveri,28,3,Village,UTC+4,Asia/Tbilisi
+1663495,GE,GE-IM,Tskhami,ცხამი,503,3,Village,UTC+4,Asia/Tbilisi
+1663505,GE,GE-SZ,Tsizeti,ციზეთი,259,3,Village,UTC+4,Asia/Tbilisi
+1663508,GE,GE-IM,Tsitskiuri,ციცქიური,186,3,Village,UTC+4,Asia/Tbilisi
+1663509,GE,\N,Tsitskhvari,Tsitskhvari,18,3,Village,UTC+4,Asia/Tbilisi
+1663512,GE,GE-MM,Ts'its'amuri,წიწამური,124,4,locality,UTC+4,Asia/Tbilisi
+1663516,GE,GE-SK,Ts'itelubani,წითელუბანი,100,4,locality,UTC+4,Asia/Tbilisi
+1663517,GE,GE-KK,Kvemo Kvishiani,წითელუბანი,23,3,Village,UTC+4,Asia/Tbilisi
+1663518,GE,\N,Tsitelsopeli,Tsitelsopeli,695,3,Village,UTC+4,Asia/Tbilisi
+1663522,GE,GE-KA,Khornabuji,ხორნაბუჯი,2095,3,Village,UTC+4,Asia/Tbilisi
+1663523,GE,GE-KA,Sabatlo,საბათლო,391,3,Village,UTC+4,Asia/Tbilisi
+1663543,GE,GE-SJ,Ts'inubani,წინუბანი,241,4,locality,UTC+4,Asia/Tbilisi
+1663544,GE,GE-SJ,Ts'inubani,წინუბანი,251,4,locality,UTC+4,Asia/Tbilisi
+1663552,GE,GE-AJ,Tsinareti,ცინარეთი,184,3,Village,UTC+4,Asia/Tbilisi
+1663554,GE,GE-KA,Ts'inandali,წინანდალი,2675,4,Town,UTC+4,Asia/Tbilisi
+1663561,GE,GE-SZ,Tsilori,ცილორი,398,3,Village,UTC+4,Asia/Tbilisi
+1663565,GE,GE-MM,Tsikhisubani,ციხისუბანი,172,3,Village,UTC+4,Asia/Tbilisi
+1663572,GE,GE-AJ,Tsikhisdziri,ციხისძირი,1932,3,Village,UTC+4,Asia/Tbilisi
+1663573,GE,GE-SJ,Tsikhisjvari,ციხისჯვარი,466,3,Village,UTC+4,Asia/Tbilisi
+1663574,GE,GE-IM,Tsikhia,ციხია,92,3,Village,UTC+4,Asia/Tbilisi
+1663575,GE,GE-MM,Tsikhevdavi,ციხევდავი,88,3,Village,UTC+4,Asia/Tbilisi
+1663585,GE,GE-SJ,Tsemi,ცემი,246,3,Village,UTC+4,Asia/Tbilisi
+1663590,GE,GE-SK,Tsedani,ცედანი,59,3,Village,UTC+4,Asia/Tbilisi
+1663592,GE,GE-MM,Tsdo,ცდო,17,3,Village,UTC+4,Asia/Tbilisi
+1663594,GE,GE-SZ,Tsatskhvi,ცაცხვი,843,3,Village,UTC+4,Asia/Tbilisi
+1663601,GE,GE-RL,Tsana,ცანა,57,3,Village,UTC+4,Asia/Tbilisi
+1663604,GE,GE-KK,Tsalka,წალკა,3518,2,Municipality,UTC+4,Asia/Tbilisi
+1663605,GE,GE-SZ,Tsaleri,ცალერი,5,3,Village,UTC+4,Asia/Tbilisi
+1663606,GE,GE-SZ,Tsalenjikha,წალენჯიხა,6042,2,Municipality,UTC+4,Asia/Tbilisi
+1663607,GE,GE-SZ,Tsaldashi,ცალდაში,41,3,Village,UTC+4,Asia/Tbilisi
+1663609,GE,GE-SZ,Tsalanari,ცალანარი,35,3,Village,UTC+4,Asia/Tbilisi
+1663613,GE,GE-RL,Tsakhi,ცახი,64,3,Village,UTC+4,Asia/Tbilisi
+1663614,GE,GE-SJ,Ts'akhani,წახანი,228,4,locality,UTC+4,Asia/Tbilisi
+1663615,GE,GE-SZ,Tsaishi,ცაიში,1526,3,Village,UTC+4,Asia/Tbilisi
+1663616,GE,GE-SK,Ts'aghvli,წაღვლი,538,4,locality,UTC+4,Asia/Tbilisi
+1663617,GE,GE-SJ,Tsaghveri,წაღვერი,676,4,Town,UTC+4,Asia/Tbilisi
+1663618,GE,GE-RL,Tsageri,ცაგერი,1014,2,Municipality,UTC+4,Asia/Tbilisi
+1663619,GE,GE-AB,Tsagera,ცაგერა,28,3,Village,UTC+4,Asia/Tbilisi
+1663628,GE,GE-MM,Tsabaurta,ცაბაურთა,1,3,Village,UTC+4,Asia/Tbilisi
+1663629,GE,GE-KK,Trialeti,თრიალეთი,604,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1663630,GE,GE-SK,Trekhvi,თრეხვი,20,3,Village,UTC+4,Asia/Tbilisi
+1663631,GE,GE-MM,Trani,თრანი,88,3,Village,UTC+4,Asia/Tbilisi
+1663632,GE,GE-AB,Tqvarch'eli,ტყვარჩელი,5103,2,locality,UTC+4,Asia/Tbilisi
+1663633,GE,GE-IM,Tqibuli,ტყიბული,13201,2,Town,UTC+4,Asia/Tbilisi
+1663635,GE,GE-SJ,Totkhami,თოთხანი,167,3,Village,UTC+4,Asia/Tbilisi
+1663637,GE,GE-SZ,Totani,თოთანი,7,3,Village,UTC+4,Asia/Tbilisi
+1663638,GE,\N,Tortiza,Tortiza,882,3,Village,UTC+4,Asia/Tbilisi
+1663639,GE,GE-SZ,Torsa,თორსა,535,3,Village,UTC+4,Asia/Tbilisi
+1663641,GE,GE-SJ,Toria,თორია,491,3,Village,UTC+4,Asia/Tbilisi
+1663642,GE,GE-SJ,Tori,თორი,17,3,Village,UTC+4,Asia/Tbilisi
+1663643,GE,GE-MM,Torelaani,თორელაანი,16,3,Village,UTC+4,Asia/Tbilisi
+1663645,GE,GE-MM,Toncha,ტონჩა,2,3,Village,UTC+4,Asia/Tbilisi
+1663649,GE,GE-MM,Tolenji,თოლენჯი,208,3,Village,UTC+4,Asia/Tbilisi
+1663654,GE,GE-MM,Tokholcha,თოხოლჩა,22,3,Village,UTC+4,Asia/Tbilisi
+1663655,GE,GE-KA,Tokhliauri,თოხლიაური,983,3,Village,UTC+4,Asia/Tbilisi
+1663660,GE,GE-SJ,Tmogvi,თმოგვი,301,3,Village,UTC+4,Asia/Tbilisi
+1663670,GE,GE-RL,Tkhmori,თხმორი,36,3,Village,UTC+4,Asia/Tbilisi
+1663671,GE,GE-GU,Tkhinvali,თხინვალი,733,3,Village,UTC+4,Asia/Tbilisi
+1663672,GE,GE-TB,Tkhinvala,თხინვალა,357,3,Village,UTC+4,Asia/Tbilisi
+1663675,GE,GE-AJ,Kveda Tkhilvana,Tkhilvana,313,3,Village,UTC+4,Asia/Tbilisi
+1663677,GE,GE-MM,Tkhilovani,თხილოვანი,12,3,Village,UTC+4,Asia/Tbilisi
+1663678,GE,GE-AJ,Tkhilnari,თხილნარი,2239,3,Village,UTC+4,Asia/Tbilisi
+1663679,GE,GE-GU,Tkhilagani,თხილაგანი,38,3,Village,UTC+4,Asia/Tbilisi
+1663683,GE,GE-SJ,T'q'emlana,ტყემლანა,303,4,locality,UTC+4,Asia/Tbilisi
+1663688,GE,GE-MM,T'q'arshet'i,ტყარშეტი,107,4,village,UTC+4,Asia/Tbilisi
+1663690,GE,GE-KA,Tivi,თივი,327,3,Village,UTC+4,Asia/Tbilisi
+1663693,GE,GE-SJ,Tiseli,თისელი,147,3,Village,UTC+4,Asia/Tbilisi
+1663699,GE,GE-SK,T'ighva,თიღვა,273,4,locality,UTC+4,Asia/Tbilisi
+1663701,GE,GE-MM,Tianeti,თიანეთი,3549,2,Municipality,UTC+4,Asia/Tbilisi
+1663702,GE,GE-SK,Tezi,თეზი,738,3,Village,UTC+4,Asia/Tbilisi
+1663704,GE,GE-MM,Tezami,თეზამი,24,3,Village,UTC+4,Asia/Tbilisi
+1663705,GE,GE-KK,Tetritsqaro,ქვიშიანი,3792,2,Town,UTC+4,Asia/Tbilisi
+1663707,GE,GE-MM,Tetrakheva,თეთრახევა,39,3,Village,UTC+4,Asia/Tbilisi
+1663708,GE,GE-IM,Terjola,თერჯოლა,4888,2,Municipality,UTC+4,Asia/Tbilisi
+1663709,GE,GE-IM,Ternali,თერნალი,774,3,Village,UTC+4,Asia/Tbilisi
+1663713,GE,GE-TB,Telovani,თელოვანი,59,3,Village,UTC+4,Asia/Tbilisi
+1663715,GE,GE-KA,Telavi,თელავი,19875,2,Municipality,UTC+4,Asia/Tbilisi
+1663716,GE,GE-SK,Teladgori,თელადგორი,211,3,Village,UTC+4,Asia/Tbilisi
+1663719,GE,GE-KA,Tela,თელა,779,3,Village,UTC+4,Asia/Tbilisi
+1663723,GE,GE-MM,Tegeraanebi,თეგერაანები,61,3,Village,UTC+4,Asia/Tbilisi
+1663724,GE,GE-SK,Tedzmiskhevi,თეძმისხევი,132,3,Village,UTC+4,Asia/Tbilisi
+1663725,GE,GE-KK,Tejisi,თეჯისი,243,3,Village,UTC+4,Asia/Tbilisi
+1663729,GE,GE-TB,Tbilisi,თბილისი,1118035,1,Region-Level City,UTC+4,Asia/Tbilisi
+1663731,GE,GE-SK,Tbeti,ტბეთი,539,3,Village,UTC+4,Asia/Tbilisi
+1663735,GE,GE-KK,Tamala Kharaba,თაზახარაბა,47,3,Village,UTC+4,Asia/Tbilisi
+1663736,GE,GE-KK,Tazakendi,თაზაქენდი,2076,3,Village,UTC+4,Asia/Tbilisi
+1663738,GE,GE-SZ,Tavrali,თავრალი,4,3,Village,UTC+4,Asia/Tbilisi
+1663742,GE,GE-IM,Tavasa,თავასა,282,3,Village,UTC+4,Asia/Tbilisi
+1663744,GE,GE-SK,Tatanaantubani,თათანაანთუბანი,166,3,Village,UTC+4,Asia/Tbilisi
+1663745,GE,GE-KK,Mukhrana,მუხრანა,679,3,Village,UTC+4,Asia/Tbilisi
+1663749,GE,GE-RL,Targameuli,თარგამეული,248,3,Village,UTC+4,Asia/Tbilisi
+1663754,GE,\N,Tandilaantkari,თანდილაანთკარი,14,3,Village,UTC+4,Asia/Tbilisi
+1663759,GE,GE-KK,Tamarisi,თამარისი,1100,3,Village,UTC+4,Asia/Tbilisi
+1663760,GE,GE-KA,Tamariani,თამარიანი,694,3,Village,UTC+4,Asia/Tbilisi
+1663761,GE,GE-SK,Tamarasheni,თამარაშენი,401,3,Village,UTC+4,Asia/Tbilisi
+1663766,GE,GE-KK,Takalo,თექალი,1536,3,Village,UTC+4,Asia/Tbilisi
+1663768,GE,GE-SK,Takhtisdziri,თახთისძირი,458,3,Village,UTC+4,Asia/Tbilisi
+1663769,GE,GE-SJ,Takhcha,თახჩა,47,3,Village,UTC+4,Asia/Tbilisi
+1663771,GE,GE-SZ,Taia,თაია,555,3,Village,UTC+4,Asia/Tbilisi
+1663772,GE,GE-SK,Tagveti,თაგვეთი,56,3,Village,UTC+4,Asia/Tbilisi
+1663773,GE,GE-AJ,Tago,თაგო,294,3,Village,UTC+4,Asia/Tbilisi
+1663776,GE,GE-RL,Tabori,თაბორი,81,3,Village,UTC+4,Asia/Tbilisi
+1663777,GE,GE-SJ,T'abats'q'uri,ტაბაწყური,560,4,locality,UTC+4,Asia/Tbilisi
+1663781,GE,GE-TB,T'abakhmela,ტაბახმელა,2073,4,locality,UTC+4,Asia/Tbilisi
+1663783,GE,GE-IM,Tabagrebi,თაბაგრები,586,3,Village,UTC+4,Asia/Tbilisi
+1663784,GE,GE-KA,Davitiani,სვობოდნოე,498,3,Village,UTC+4,Asia/Tbilisi
+1663785,GE,\N,Sviri,Sviri,436,3,Village,UTC+4,Asia/Tbilisi
+1663786,GE,GE-SJ,Sviri,სვირი,436,4,locality,UTC+4,Asia/Tbilisi
+1663787,GE,GE-SZ,Svipi,სვიფი,123,3,Village,UTC+4,Asia/Tbilisi
+1663789,GE,GE-KA,Svideba,სვიდება,230,3,Village,UTC+4,Asia/Tbilisi
+1663792,GE,GE-SK,Sveri,Sveri,750,3,Village,UTC+4,Asia/Tbilisi
+1663794,GE,GE-SK,Sveneti,სვენეთი,1383,3,Village,UTC+4,Asia/Tbilisi
+1663795,GE,GE-RL,Surmushi,სურმუში,143,4,village,UTC+4,Asia/Tbilisi
+1663796,GE,GE-SK,Surami,სურამი,7302,3,Sett,UTC+4,Asia/Tbilisi
+1663797,GE,GE-GU,Supsa,სუფსა,273,3,Village,UTC+4,Asia/Tbilisi
+1663799,GE,GE-IM,Sulori,სულორი,702,3,Village,UTC+4,Asia/Tbilisi
+1663800,GE,GE-AB,Sulevo,სულევო,880,3,locality,UTC+4,Asia/Tbilisi
+1663801,GE,GE-SJ,Sulda,სულდა,726,3,Village,UTC+4,Asia/Tbilisi
+1663803,GE,GE-IM,Sukhcha,სუხჩა,237,3,Village,UTC+4,Asia/Tbilisi
+1663804,GE,GE-SZ,Sujuna,სუჯუნა,1117,3,Village,UTC+4,Asia/Tbilisi
+1663813,GE,GE-IM,Sormoni,სორმონი,306,3,Village,UTC+4,Asia/Tbilisi
+1663814,GE,GE-RL,Sori,სორი,194,3,Village,UTC+4,Asia/Tbilisi
+1663815,GE,GE-RL,Sorgiti,სორგითი,4,3,Village,UTC+4,Asia/Tbilisi
+1663817,GE,GE-MM,Sondisvela,სონდისველა,16,3,Village,UTC+4,Asia/Tbilisi
+1663818,GE,GE-MM,Sonda,სონდა,15,3,Village,UTC+4,Asia/Tbilisi
+1663821,GE,GE-SZ,Soli,სოლი,92,3,Village,UTC+4,Asia/Tbilisi
+1663822,GE,GE-AB,Sokhumi,სოხუმი,64559,2,city,UTC+3,Europe/Moscow
+1663823,GE,GE-KK,Sogutlo,სოღუთლო,25,3,Village,UTC+4,Asia/Tbilisi
+1663825,GE,GE-MM,Sodeve,სოდევე,7,3,Village,UTC+4,Asia/Tbilisi
+1663826,GE,GE-IM,Sochkheti,სოჩხეთი,346,3,Village,UTC+4,Asia/Tbilisi
+1663827,GE,GE-MM,Sno,სნო,263,3,Village,UTC+4,Asia/Tbilisi
+1663837,GE,GE-SJ,Skhvilisi,სხვილისი,1033,3,Village,UTC+4,Asia/Tbilisi
+1663839,GE,GE-MM,Skhlovani,Skhlovani,9,3,Village,UTC+4,Asia/Tbilisi
+1663841,GE,GE-SK,Skhliti,Skhliti,105,3,Village,UTC+4,Asia/Tbilisi
+1663843,GE,GE-RL,Skhieri,სხიერი,3,3,Village,UTC+4,Asia/Tbilisi
+1663844,GE,GE-AJ,Skhepi,სხეფი,190,3,Village,UTC+4,Asia/Tbilisi
+1663846,GE,GE-RL,Skhanari,სხანარი,4,3,Village,UTC+4,Asia/Tbilisi
+1663853,GE,GE-SZ,Siriachkoni,სირიაჩქონი,13,3,Village,UTC+4,Asia/Tbilisi
+1663854,GE,GE-MM,Siontgori,სიონთგორი,49,3,Village,UTC+4,Asia/Tbilisi
+1663855,GE,GE-MM,Sioni,სიონი,551,4,village,UTC+4,Asia/Tbilisi
+1663856,GE,GE-MM,Sioni,სიონი,299,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1663859,GE,GE-AJ,Sindieti,სინდიეთი,162,3,Village,UTC+4,Asia/Tbilisi
+1663861,GE,GE-MM,Simoniantkhevi,სიმონიანთხევი,258,3,Village,UTC+4,Asia/Tbilisi
+1663862,GE,GE-IM,Zeda Simoneti,ზედა სიმონეთი,1349,3,Village,UTC+4,Asia/Tbilisi
+1663863,GE,GE-AJ,Simoneti,სიმონეთი,258,3,Village,UTC+4,Asia/Tbilisi
+1663864,GE,GE-AJ,Silibauri,სილიბაური,117,3,Village,UTC+4,Asia/Tbilisi
+1663865,GE,GE-GU,Silauri,სილაური,531,3,Village,UTC+4,Asia/Tbilisi
+1663866,GE,GE-IM,Siktarva,სიქთარვა,1148,3,Village,UTC+4,Asia/Tbilisi
+1663868,GE,GE-KA,Sighnaghi,სიღნაღი,1896,2,Municipality,UTC+4,Asia/Tbilisi
+1663869,GE,GE-MM,Sijanani,სიჯანანი,1,3,Village,UTC+4,Asia/Tbilisi
+1663870,GE,GE-SZ,Sidianari,სიდიანარი,10,3,Village,UTC+4,Asia/Tbilisi
+1663874,GE,GE-KK,Shulaveri,შულავერი,1551,3,Village,UTC+4,Asia/Tbilisi
+1663876,GE,GE-IM,Shukruti,შუქრუთი,559,3,Village,UTC+4,Asia/Tbilisi
+1663878,GE,GE-IM,Shubani,შუბანი,228,3,Village,UTC+4,Asia/Tbilisi
+1663884,GE,GE-GU,Shua Surebi,შუა სურები,178,3,Village,UTC+4,Asia/Tbilisi
+1663885,GE,GE-AJ,Shuasopeli,შუასოფელი,130,3,Village,UTC+4,Asia/Tbilisi
+1663886,GE,GE-RL,Shua Skhvava,შუა სხვავა,73,3,Village,UTC+4,Asia/Tbilisi
+1663888,GE,GE-MM,Shuapkho,შუაფხო,35,3,Village,UTC+4,Asia/Tbilisi
+1663889,GE,GE-GU,Shua Partskhma,შუა ფარცხმა,653,3,Village,UTC+4,Asia/Tbilisi
+1663890,GE,GE-SZ,Shua Nosiri,შუა ნოსირი,235,3,Village,UTC+4,Asia/Tbilisi
+1663891,GE,GE-AB,Shuamta,Shuamta,1307,3,Village,UTC+4,Asia/Tbilisi
+1663897,GE,GE-SZ,Shua Khorshi,შუა ხორში,337,3,Village,UTC+4,Asia/Tbilisi
+1663898,GE,GE-AJ,Shuakhevi,შუახევი,637,2,Municipality,UTC+4,Asia/Tbilisi
+1663899,GE,GE-KK,Samadlo,სამადლო,82,3,Village,UTC+4,Asia/Tbilisi
+1663901,GE,GE-IM,Shua Gubi,შუა გუბი,113,3,Village,UTC+4,Asia/Tbilisi
+1663902,GE,GE-IM,Gora,გორა,11,3,Village,UTC+4,Asia/Tbilisi
+1663903,GE,GE-AJ,Shuaghele,შუაღელე,734,3,Village,UTC+4,Asia/Tbilisi
+1663904,GE,GE-GU,Shua Amaghleba,შუა ამაღლება,735,3,Village,UTC+4,Asia/Tbilisi
+1663908,GE,GE-RL,Shua Aghvi,შუა აღვი,43,3,Village,UTC+4,Asia/Tbilisi
+1663914,GE,GE-AB,Shroma,შრომა,100,3,Village,UTC+4,Asia/Tbilisi
+1663915,GE,GE-RL,Jvarisa,ჯვარისა,249,3,Village,UTC+4,Asia/Tbilisi
+1663920,GE,GE-IM,Shorapani,შორაპანი,1638,3,Village,UTC+4,Asia/Tbilisi
+1663921,GE,GE-IM,Shomakheti,შომახეთი,771,3,Village,UTC+4,Asia/Tbilisi
+1663924,GE,GE-RL,Shkmeri,შქმერი,31,3,Village,UTC+4,Asia/Tbilisi
+1663925,GE,GE-RL,Shkhivana,შხივანა,18,3,Village,UTC+4,Asia/Tbilisi
+1663927,GE,GE-SZ,Shkedi,Shkedi,140,3,Village,UTC+4,Asia/Tbilisi
+1663931,GE,GE-KK,Chrdilisubani,შიპიაკი,141,3,Village,UTC+4,Asia/Tbilisi
+1663932,GE,GE-KK,Shindlari,შინდლარი,302,3,Village,UTC+4,Asia/Tbilisi
+1663933,GE,GE-SK,Shindisi,შინდისი,2667,3,Village,UTC+4,Asia/Tbilisi
+1663936,GE,GE-KA,Shilda,შილდა,3927,3,Village,UTC+4,Asia/Tbilisi
+1663937,GE,GE-KK,Shikhilo,შიხილო,83,3,Village,UTC+4,Asia/Tbilisi
+1663939,GE,GE-KA,Shibliani,შიბლიანი,456,3,Village,UTC+4,Asia/Tbilisi
+1663941,GE,GE-RL,Sheubani,შეუბანი,53,3,Village,UTC+4,Asia/Tbilisi
+1663943,GE,GE-SK,Shertuli,შერთული,319,3,Village,UTC+4,Asia/Tbilisi
+1663944,GE,GE-KA,Shenako,შენაქო,4,3,Village,UTC+4,Asia/Tbilisi
+1663945,GE,GE-GU,Shemokmedi,შემოქმედი,1322,3,Village,UTC+4,Asia/Tbilisi
+1663952,GE,GE-SK,Shavshvebi,შავშვები,740,3,Village,UTC+4,Asia/Tbilisi
+1663955,GE,GE-KK,Shaumiani,შაუმიანი,4173,3,Village,UTC+4,Asia/Tbilisi
+1663957,GE,GE-KA,Shashiani,შაშიანი,2342,3,Village,UTC+4,Asia/Tbilisi
+1663958,GE,GE-MM,Sharmiani,შარმიანი,3,3,Village,UTC+4,Asia/Tbilisi
+1663962,GE,GE-KK,Shamta,შამთა,8,3,Village,UTC+4,Asia/Tbilisi
+1663963,GE,GE-SZ,Shamgona,შამგონა,1605,3,Village,UTC+4,Asia/Tbilisi
+1663964,GE,\N,Shamadela,Shamadela,493,3,Village,UTC+4,Asia/Tbilisi
+1663966,GE,GE-MM,Shalik'iantk'ari,შალიკიანთკარი,62,4,locality,UTC+4,Asia/Tbilisi
+1663967,GE,GE-IM,Shalauri,შალაური,2186,3,Village,UTC+4,Asia/Tbilisi
+1663969,GE,GE-KA,Shakriani,შაქრიანი,377,3,Village,UTC+4,Asia/Tbilisi
+1663971,GE,GE-KK,Shakhmarlo,შახმარლო,231,3,Village,UTC+4,Asia/Tbilisi
+1663972,GE,GE-AB,Shapranovo,შაფრანოვო,93,4,locality,UTC+4,Asia/Tbilisi
+1663974,GE,GE-SZ,Sgurishi,სგურიში,159,3,Village,UTC+4,Asia/Tbilisi
+1663975,GE,GE-MM,Seturni,სეთურნი,55,3,Village,UTC+4,Asia/Tbilisi
+1663976,GE,GE-KA,Serodani,სეროდანი,10,3,Village,UTC+4,Asia/Tbilisi
+1663977,GE,GE-SZ,Sergieti,სეგიეთი,512,3,Village,UTC+4,Asia/Tbilisi
+1663979,GE,GE-IM,Serbaisi,სერბაისი,165,3,Village,UTC+4,Asia/Tbilisi
+1663980,GE,GE-SZ,Sepieti,სეფიეთი,877,3,Village,UTC+4,Asia/Tbilisi
+1663981,GE,GE-MM,Sepe,სეფე,25,3,Village,UTC+4,Asia/Tbilisi
+1663982,GE,GE-KK,Senebi,სენები,154,3,Village,UTC+4,Asia/Tbilisi
+1663983,GE,GE-SZ,Senaki,სენაკი,26296,2,Municipality,UTC+4,Asia/Tbilisi
+1663985,GE,GE-KK,Seidgojalo,სეიდგოჯალო,501,3,Village,UTC+4,Asia/Tbilisi
+1663987,GE,GE-IM,Zeda Sazano,ზედა საზანო,1260,3,Village,UTC+4,Asia/Tbilisi
+1663989,GE,GE-IM,Savane,სავანე,1908,3,Village,UTC+4,Asia/Tbilisi
+1663993,GE,GE-KK,Satskhenisi,საცხენისი,432,3,Village,UTC+4,Asia/Tbilisi
+1663997,GE,GE-SK,Satsikhuri,საციხური,346,3,Village,UTC+4,Asia/Tbilisi
+1664000,GE,GE-MM,Satovle,სათოვლე,1,3,Village,UTC+4,Asia/Tbilisi
+1664001,GE,GE-SJ,Satkhe,სათხე,1516,3,Village,UTC+4,Asia/Tbilisi
+1664003,GE,GE-SK,Sative,სათივე,188,3,Village,UTC+4,Asia/Tbilisi
+1664005,GE,GE-SK,Satemo,სათემო,582,3,Village,UTC+4,Asia/Tbilisi
+1664006,GE,GE-MM,Saskhori,სასხორი,332,3,Village,UTC+4,Asia/Tbilisi
+1664007,GE,\N,Sasireti,Sasireti,494,3,Village,UTC+4,Asia/Tbilisi
+1664008,GE,GE-SK,Sasireti,სასირეთი,494,4,village,UTC+4,Asia/Tbilisi
+1664009,GE,GE-SZ,Sashurghaio,საშურღაიო,199,3,Village,UTC+4,Asia/Tbilisi
+1664011,GE,GE-MM,Sashaburo,საშაბურო,61,3,Village,UTC+4,Asia/Tbilisi
+1664012,GE,GE-RL,Sasashi,სასაში,182,3,Village,UTC+4,Asia/Tbilisi
+1664013,GE,GE-KA,Sasadilo,სასადილო,80,3,Village,UTC+4,Asia/Tbilisi
+1664015,GE,GE-KK,Sartich'ala,სართიჭალა,6009,4,locality,UTC+4,Asia/Tbilisi
+1664016,GE,GE-AJ,Sarpi,სარფი,826,3,Village,UTC+4,Asia/Tbilisi
+1664017,GE,GE-SJ,Saro,სარო,162,3,Village,UTC+4,Asia/Tbilisi
+1664019,GE,\N,Sarkveletubani,Sarkveletubani,103,3,Village,UTC+4,Asia/Tbilisi
+1664020,GE,GE-KK,Sark'ineti,სარკინეთი,96,4,locality,UTC+4,Asia/Tbilisi
+1664022,GE,GE-SK,Saribari,სარიბარი,19,3,Village,UTC+4,Asia/Tbilisi
+1664023,GE,GE-IM,Sargveshi,სარგვეში,233,3,Village,UTC+4,Asia/Tbilisi
+1664025,GE,GE-IM,Sarbevi,სარბევი,547,3,Village,UTC+4,Asia/Tbilisi
+1664027,GE,GE-SZ,Sarakoni,სარაქონი,740,3,Village,UTC+4,Asia/Tbilisi
+1664029,GE,GE-KK,Sapudzvrebi,საფუძვრები,27,3,Village,UTC+4,Asia/Tbilisi
+1664031,GE,GE-SZ,Sabeselio,საბესელიო,372,3,Village,UTC+4,Asia/Tbilisi
+1664032,GE,GE-KK,Santa,სანტა,39,3,Village,UTC+4,Asia/Tbilisi
+1664033,GE,GE-RL,Sanorchi,სანორჩი,59,3,Village,UTC+4,Asia/Tbilisi
+1664034,GE,GE-KA,Saniore,სანიორე,735,3,Village,UTC+4,Asia/Tbilisi
+1664035,GE,GE-SK,Sanebeli,სანებელი,201,3,Village,UTC+4,Asia/Tbilisi
+1664037,GE,GE-KA,Sanavardo,სანავარდო,840,3,Village,UTC+4,Asia/Tbilisi
+1664038,GE,GE-IM,Sanakhshire,სანახშირე,162,3,Village,UTC+4,Asia/Tbilisi
+1664042,GE,GE-IM,Samtredia,სამტრედია,26032,2,Municipality,UTC+4,Asia/Tbilisi
+1664043,GE,GE-RL,Samtisi,სამთისი,8,3,Village,UTC+4,Asia/Tbilisi
+1664044,GE,GE-SK,Samtavisi,სამთავისი,677,3,Village,UTC+4,Asia/Tbilisi
+1664046,GE,GE-KK,Samshvilde,სამშვილდე,443,3,Village,UTC+4,Asia/Tbilisi
+1664047,GE,GE-AJ,Samoleti,სამოლეთი,58,3,Village,UTC+4,Asia/Tbilisi
+1664051,GE,GE-SZ,Samikao,სამიქაო,549,3,Village,UTC+4,Asia/Tbilisi
+1664052,GE,GE-KK,Samghereti,სამღერეთი,385,3,Village,UTC+4,Asia/Tbilisi
+1664053,GE,GE-GU,Sameba,სამება,1732,3,Village,UTC+4,Asia/Tbilisi
+1664054,GE,GE-AB,Salkhino,სალხინო,729,3,Village,UTC+4,Asia/Tbilisi
+1664057,GE,GE-IM,Salieti,სალიეთი,231,3,Village,UTC+4,Asia/Tbilisi
+1664058,GE,GE-AJ,Salibauri,სალიბაური,1214,3,Village,UTC+4,Asia/Tbilisi
+1664063,GE,GE-MM,Salajuri,სალაჯური,38,3,Village,UTC+4,Asia/Tbilisi
+1664065,GE,\N,Sakvikvinio,Sakvikvinio,704,3,Village,UTC+4,Asia/Tbilisi
+1664068,GE,GE-SJ,Saq'uneti,საყუნეთი,472,4,locality,UTC+4,Asia/Tbilisi
+1664069,GE,GE-IM,Saq'ulia,საყულია,1869,3,locality,UTC+4,Asia/Tbilisi
+1664075,GE,GE-SZ,Sakorkio,საქორქიო,20,3,Village,UTC+4,Asia/Tbilisi
+1664079,GE,GE-KA,Sakobo,საქობო,1583,3,Village,UTC+4,Asia/Tbilisi
+1664082,GE,GE-SZ,Sakirio,საქირიო,409,3,Village,UTC+4,Asia/Tbilisi
+1664083,GE,GE-SK,Sakire,Sakire,954,3,Village,UTC+4,Asia/Tbilisi
+1664089,GE,GE-SZ,Sakharbedio,სახარბედიო,288,3,Village,UTC+4,Asia/Tbilisi
+1664097,GE,GE-IM,Sakasria,საქასრია,323,3,Village,UTC+4,Asia/Tbilisi
+1664098,GE,GE-SK,Sakasheti,საქაშეთი,883,3,Village,UTC+4,Asia/Tbilisi
+1664099,GE,GE-IM,Sakarikedi,საქარიქედი,225,3,Village,UTC+4,Asia/Tbilisi
+1664104,GE,GE-SK,Sakadagiano,საქადაგიანო,1268,3,Village,UTC+4,Asia/Tbilisi
+1664105,GE,GE-IM,Sairme,საირმე,81,3,Village,UTC+4,Asia/Tbilisi
+1664107,GE,GE-SZ,Sagvazavo,საგვაზაო,445,3,Village,UTC+4,Asia/Tbilisi
+1664108,GE,GE-SZ,Saghvamichavo,საღვამიჩავო,285,3,Village,UTC+4,Asia/Tbilisi
+1664109,GE,GE-MM,Saguramo,საგურამო,1921,3,Village,UTC+4,Asia/Tbilisi
+1664112,GE,GE-SZ,Sagvaramio,საგვარამიო,481,3,Village,UTC+4,Asia/Tbilisi
+1664113,GE,GE-SJ,Saghrdze,საღრძე,275,3,Village,UTC+4,Asia/Tbilisi
+1664114,GE,GE-SK,Sagholasheni,საღოლაშენი,452,3,Village,UTC+4,Asia/Tbilisi
+1664117,GE,GE-KA,Sagarejo,საგარეჯო,10575,2,Municipality,UTC+4,Asia/Tbilisi
+1664118,GE,GE-KK,Saghrasheni,საღრაშენი,176,3,Village,UTC+4,Asia/Tbilisi
+1664119,GE,GE-IM,Saghandzile,საღანძილე,365,3,Village,UTC+4,Asia/Tbilisi
+1664120,GE,GE-SJ,Saghamo,საღამო,153,3,Village,UTC+4,Asia/Tbilisi
+1664122,GE,GE-KK,Saparlo,საფარლო,329,3,Village,UTC+4,Asia/Tbilisi
+1664125,GE,GE-IM,Sajavakho,საჯავახო,658,3,Village,UTC+4,Asia/Tbilisi
+1664126,GE,GE-KK,Saja,საჯა,43,3,Village,UTC+4,Asia/Tbilisi
+1664127,GE,GE-SJ,Sadzeli,საძელი,381,3,Village,UTC+4,Asia/Tbilisi
+1664129,GE,GE-RL,Sadmeli,სადმელი,529,3,Village,UTC+4,Asia/Tbilisi
+1664130,GE,GE-SJ,Sadgeri,სადგერი,325,3,Village,UTC+4,Asia/Tbilisi
+1664131,GE,GE-KK,Sadakhlo,სადახლო,7337,3,Village,UTC+4,Asia/Tbilisi
+1664134,GE,GE-IM,Sachkheuri,საჩხეური,72,3,Village,UTC+4,Asia/Tbilisi
+1664135,GE,GE-IM,Sachkhere,საჩხერე,6053,2,Municipality,UTC+4,Asia/Tbilisi
+1664138,GE,GE-SZ,Sachikobavo,საჩიქობაო,40,3,Village,UTC+4,Asia/Tbilisi
+1664141,GE,GE-KA,Sachale,საჩალე,35,3,Village,UTC+4,Asia/Tbilisi
+1664145,GE,GE-KA,Sabue,საბუე,1163,3,Village,UTC+4,Asia/Tbilisi
+1664155,GE,GE-IM,Sabe,საბე,122,3,Village,UTC+4,Asia/Tbilisi
+1664156,GE,GE-SZ,Sabazho,Sabazho,1448,3,Village,UTC+4,Asia/Tbilisi
+1664159,GE,GE-SZ,Saalanio-Sapachulio,საალანიო–საფაჩულიო,99,3,Village,UTC+4,Asia/Tbilisi
+1664160,GE,GE-SZ,Saadanaio,სადადიანო,14,3,Village,UTC+4,Asia/Tbilisi
+1664161,GE,GE-SJ,Rveli,რველი,622,3,Village,UTC+4,Asia/Tbilisi
+1664163,GE,GE-KK,Rustavi,რუსთავი,127795,2,City,UTC+4,Asia/Tbilisi
+1664164,GE,GE-KA,Rusiani,რუსიანი,61,3,Village,UTC+4,Asia/Tbilisi
+1664165,GE,GE-SK,Rusaantubani,რუსაანთუბანი,85,3,Village,UTC+4,Asia/Tbilisi
+1664166,GE,GE-IM,Rupoti,რუფოთი,1459,3,Village,UTC+4,Asia/Tbilisi
+1664167,GE,GE-SZ,Rukhi,რუხი,2784,3,Village,UTC+4,Asia/Tbilisi
+1664169,GE,GE-SK,Ruisi,რუისი,5139,3,Village,UTC+4,Asia/Tbilisi
+1664172,GE,GE-IM,Rtskhilati,რცხილათი,450,3,Village,UTC+4,Asia/Tbilisi
+1664174,GE,GE-IM,Rondishi,რონდიში,28,3,Village,UTC+4,Asia/Tbilisi
+1664175,GE,GE-IM,Romaneti,რომანეთი,276,3,Village,UTC+4,Asia/Tbilisi
+1664177,GE,GE-IM,Rokhi,როხი,1667,3,Village,UTC+4,Asia/Tbilisi
+1664179,GE,GE-SJ,Rodionovk'a,ფარავანი,277,3,locality,UTC+4,Asia/Tbilisi
+1664180,GE,GE-IM,Rodinauli,როდინაული,728,3,Village,UTC+4,Asia/Tbilisi
+1664181,GE,GE-IM,Rioni,რიონი,1160,3,Village,UTC+4,Asia/Tbilisi
+1664187,GE,GE-IM,Rgani,რგანი,1316,3,Village,UTC+4,Asia/Tbilisi
+1664191,GE,GE-KK,Rekha,რეხა,328,3,Village,UTC+4,Asia/Tbilisi
+1664195,GE,GE-SK,Rbona,რბონა,5,3,Village,UTC+4,Asia/Tbilisi
+1664198,GE,GE-AJ,Rakvta,რაქვთა,316,3,Village,UTC+4,Asia/Tbilisi
+1664199,GE,GE-KA,Kvareli,ყვარელი,9496,2,Municipality,UTC+4,Asia/Tbilisi
+1664201,GE,GE-IM,Puti,ფუთი,1564,3,Village,UTC+4,Asia/Tbilisi
+1664203,GE,GE-MM,Pudznari,ფუძნარი,3,3,Village,UTC+4,Asia/Tbilisi
+1664205,GE,GE-SK,Ptsa,ფცა,853,3,Village,UTC+4,Asia/Tbilisi
+1664208,GE,GE-RL,Psori,ფსორი,6,3,Village,UTC+4,Asia/Tbilisi
+1664209,GE,GE-AB,Pskhu,ფსხუ,898,4,locality,UTC+4,Asia/Tbilisi
+1664210,GE,GE-KA,Pshaveli,ფშაველი,1624,3,Village,UTC+4,Asia/Tbilisi
+1664218,GE,GE-SZ,Potskho,ფოცხო,776,3,Village,UTC+4,Asia/Tbilisi
+1664219,GE,GE-SZ,Poti,ფოთი,41175,2,City,UTC+4,Asia/Tbilisi
+1664220,GE,GE-IM,Pona,ფონა,44,3,Village,UTC+4,Asia/Tbilisi
+1664221,GE,GE-KA,Zemo Pona,ფონა,92,3,Village,UTC+4,Asia/Tbilisi
+1664226,GE,GE-SK,Podaani,ფოდაანი,730,3,Village,UTC+4,Asia/Tbilisi
+1664227,GE,GE-SK,Plavismani,ფლავისმანი,1423,3,Village,UTC+4,Asia/Tbilisi
+1664228,GE,GE-SK,Plavi,ფლავი,961,3,Village,UTC+4,Asia/Tbilisi
+1664230,GE,GE-SK,Pkhvenisi,ფხვენისი,967,3,Village,UTC+4,Asia/Tbilisi
+1664232,GE,GE-MM,Pkhundavi,ფხუნდავი,9,3,Village,UTC+4,Asia/Tbilisi
+1664233,GE,GE-SJ,Pkhero,ფხერო,114,3,Village,UTC+4,Asia/Tbilisi
+1664234,GE,GE-MM,Pkhelshe,ფხელშე,167,3,Village,UTC+4,Asia/Tbilisi
+1664235,GE,GE-SK,Pitsesi,ფიცესი,8,3,Village,UTC+4,Asia/Tbilisi
+1664239,GE,\N,Pirveli Maisi,Pirveli Maisi,661,3,Village,UTC+4,Asia/Tbilisi
+1664244,GE,GE-AB,P'irveli Ot'obaia,პირველი ოტობაია,2772,4,village,UTC+4,Asia/Tbilisi
+1664247,GE,GE-SZ,Meore Nosiri,მეორე ნოსირი,719,3,Village,UTC+4,Asia/Tbilisi
+1664261,GE,GE-KA,Pichkhovani,ფიჩხოვანი,286,3,Village,UTC+4,Asia/Tbilisi
+1664262,GE,GE-KA,Pichkhibogiri,ფიჩხიბოგირი,84,3,Village,UTC+4,Asia/Tbilisi
+1664265,GE,GE-MM,P'et'riani,პეტრიანი,91,4,locality,UTC+4,Asia/Tbilisi
+1664267,GE,GE-IM,Persati,ფერსათი,2463,3,Village,UTC+4,Asia/Tbilisi
+1664268,GE,GE-SJ,Persa,ფერსა,223,3,Village,UTC+4,Asia/Tbilisi
+1664271,GE,GE-IM,Pereta,ფერეთა,663,3,Village,UTC+4,Asia/Tbilisi
+1664308,GE,\N,Patara-Khurvaleti,Patara Khurvaleti,414,3,Village,UTC+4,Asia/Tbilisi
+1664338,GE,GE-MM,Pasanauri,ფასანაური,1366,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1664339,GE,GE-IM,Partskhnali,ფარცხნალი,254,3,Village,UTC+4,Asia/Tbilisi
+1664340,GE,GE-KK,Partskhisi,ფარცხისი,259,3,Village,UTC+4,Asia/Tbilisi
+1664343,GE,GE-AB,Parnauti,ფარნაუთი,684,3,locality,UTC+4,Asia/Tbilisi
+1664344,GE,GE-SZ,Pari,ფარი,80,3,Village,UTC+4,Asia/Tbilisi
+1664345,GE,GE-RL,Paravneshi,ფარავნეში,6,3,Village,UTC+4,Asia/Tbilisi
+1664346,GE,GE-RL,Parakheti,ფარახეთი,49,3,Village,UTC+4,Asia/Tbilisi
+1664354,GE,GE-RL,Panaga,ფანაგა,44,3,Village,UTC+4,Asia/Tbilisi
+1664355,GE,GE-GU,Pampaleti,ფამფალეთი,411,3,Village,UTC+4,Asia/Tbilisi
+1664356,GE,GE-SZ,Paledi,ფალედი,1,3,Village,UTC+4,Asia/Tbilisi
+1664360,GE,GE-SZ,Palazoni,ფალაზონი,389,3,Village,UTC+4,Asia/Tbilisi
+1664364,GE,GE-MM,Pakhviji,ფახვიჯი,3,3,Village,UTC+4,Asia/Tbilisi
+1664365,GE,GE-SZ,Pakhulani,ფახულანი,273,3,Village,UTC+4,Asia/Tbilisi
+1664366,GE,GE-GU,Ozurgeti,ოზურგეთი,13935,2,Municipality,UTC+4,Asia/Tbilisi
+1664367,GE,GE-KK,Ozni,ოზნი,485,3,Village,UTC+4,Asia/Tbilisi
+1664369,GE,GE-KA,Ozhio,ოჟიო,680,3,Village,UTC+4,Asia/Tbilisi
+1664370,GE,GE-KA,Ozaani,ოზაანი,833,3,Village,UTC+4,Asia/Tbilisi
+1664372,GE,GE-SK,Ortasheni,ორთაშენი,568,3,Village,UTC+4,Asia/Tbilisi
+1664373,GE,GE-KA,Otaraani,ოთარაანი,19,3,Village,UTC+4,Asia/Tbilisi
+1664374,GE,GE-AB,Otap'i,Otap’i,150,4,locality,UTC+4,Asia/Tbilisi
+1664375,GE,GE-SJ,Ota,ოთა,324,3,Village,UTC+4,Asia/Tbilisi
+1664377,GE,GE-KA,Osiauri,ოსიაური,8,3,Village,UTC+4,Asia/Tbilisi
+1664378,GE,GE-SJ,Oshora,ოშორა,531,3,Village,UTC+4,Asia/Tbilisi
+1664379,GE,GE-SZ,Orulu,ორულუ,793,3,Village,UTC+4,Asia/Tbilisi
+1664380,GE,GE-SK,Ortubani,ორთუბანი,72,3,Village,UTC+4,Asia/Tbilisi
+1664381,GE,\N,Ortsva,Ortsva,232,3,Village,UTC+4,Asia/Tbilisi
+1664383,GE,GE-SZ,Orsant'ia,ორსანტია,1200,4,locality,UTC+4,Asia/Tbilisi
+1664385,GE,GE-SK,Ormotsi,ორმოცი,35,3,Village,UTC+4,Asia/Tbilisi
+1664386,GE,GE-GU,Ormeti,ორმეთი,347,3,Village,UTC+4,Asia/Tbilisi
+1664387,GE,GE-KK,Ormasheni,ორმაშენი,88,3,Village,UTC+4,Asia/Tbilisi
+1664389,GE,GE-RL,Orkhvi,ორხვი,167,3,Village,UTC+4,Asia/Tbilisi
+1664390,GE,GE-MM,Orkhevi,ორხევი,235,3,Village,UTC+4,Asia/Tbilisi
+1664392,GE,GE-SJ,Orgora,ორგორა,117,3,Village,UTC+4,Asia/Tbilisi
+1664396,GE,\N,Giorgeti,Giorgeti,607,3,Village,UTC+4,Asia/Tbilisi
+1664397,GE,GE-KK,Saimerlo,ქვიშიანი,1237,3,Village,UTC+4,Asia/Tbilisi
+1664398,GE,GE-SJ,Orojalari,ოროჯოლარი,763,3,Village,UTC+4,Asia/Tbilisi
+1664399,GE,GE-SJ,Orja,ორჯა,519,3,Village,UTC+4,Asia/Tbilisi
+1664402,GE,GE-KK,Orbeti,ორბეთი,234,3,Village,UTC+4,Asia/Tbilisi
+1664403,GE,GE-RL,Orbeli,ორბელი,705,3,Village,UTC+4,Asia/Tbilisi
+1664404,GE,GE-SJ,Orali,ორალი,237,3,Village,UTC+4,Asia/Tbilisi
+1664405,GE,GE-IM,Oragveti,ორაგვეთი,2,3,Village,UTC+4,Asia/Tbilisi
+1664406,GE,GE-GU,Oragve,ორაგვე,43,3,Village,UTC+4,Asia/Tbilisi
+1664407,GE,GE-IM,Opurchkheti,ოფურჩხეთი,719,3,Village,UTC+4,Asia/Tbilisi
+1664409,GE,GE-KK,Opreti,ოფრეთი,80,3,Village,UTC+4,Asia/Tbilisi
+1664410,GE,GE-IM,Didi Opeti,დიდი ოფეთი,144,3,Village,UTC+4,Asia/Tbilisi
+1664411,GE,GE-SZ,Opachkhapu,ოფაჩხაფუ,81,3,Village,UTC+4,Asia/Tbilisi
+1664412,GE,GE-SZ,Onoghia,ონოღია,778,3,Village,UTC+4,Asia/Tbilisi
+1664413,GE,GE-RL,Oni,ონი,3156,2,Municipality,UTC+4,Asia/Tbilisi
+1664414,GE,GE-IM,Onjokheti,ონჯოხეთი,90,3,Village,UTC+4,Asia/Tbilisi
+1664417,GE,GE-KA,Onanauri,ონანაური,447,3,Village,UTC+4,Asia/Tbilisi
+1664418,GE,GE-GU,Ompareti,ომფარეთი,491,3,Village,UTC+4,Asia/Tbilisi
+1664420,GE,GE-MM,Omaraani,ომარაანი,92,3,Village,UTC+4,Asia/Tbilisi
+1664421,GE,\N,Omalo,ომალო,37,3,Village,UTC+4,Asia/Tbilisi
+1664423,GE,GE-SK,Olozi,ოლოზი,77,3,Village,UTC+4,Asia/Tbilisi
+1664424,GE,GE-KK,Berta,ბერთა,152,3,Village,UTC+4,Asia/Tbilisi
+1664425,GE,GE-SJ,Olaverdi,ოლავერდი,694,3,Village,UTC+4,Asia/Tbilisi
+1664426,GE,GE-AJ,Oladauri,ოლადაური,146,3,Village,UTC+4,Asia/Tbilisi
+1664431,GE,GE-IM,Chkhari-Matskhovari,ოქტომბერი,568,3,Village,UTC+4,Asia/Tbilisi
+1664432,GE,GE-KA,Zinobiani,ოქტომბერი,337,3,Village,UTC+4,Asia/Tbilisi
+1664436,GE,GE-SK,Okrosopeli,ოქროსოფელი,10,3,Village,UTC+4,Asia/Tbilisi
+1664437,GE,GE-GU,Okroskedi,ოქროსქედი,209,3,Village,UTC+4,Asia/Tbilisi
+1664440,GE,GE-IM,Okona,ოქონა,743,3,Village,UTC+4,Asia/Tbilisi
+1664444,GE,GE-IM,Okhomira,ოხომირა,21,3,Village,UTC+4,Asia/Tbilisi
+1664450,GE,GE-SZ,Oireme,ოირემე,785,3,Village,UTC+4,Asia/Tbilisi
+1664452,GE,GE-MM,Odzisi,ოძისი,513,3,Village,UTC+4,Asia/Tbilisi
+1664453,GE,GE-IM,Ojola,ოჯოლა,140,3,Village,UTC+4,Asia/Tbilisi
+1664456,GE,GE-IM,Odilauri,ოდილაური,908,3,Village,UTC+4,Asia/Tbilisi
+1664460,GE,GE-AJ,Ochkhamuri,ოჩხამური,3493,3,Sett,UTC+4,Asia/Tbilisi
+1664461,GE,GE-SZ,Oche,ოჩე,283,3,Village,UTC+4,Asia/Tbilisi
+1664462,GE,GE-AB,Ochamchire,ოჩამჩირე,5267,2,City,UTC+4,Asia/Tbilisi
+1664463,GE,GE-SZ,Obuji,ობუჯი,706,3,Village,UTC+4,Asia/Tbilisi
+1664465,GE,GE-IM,Nunisi,ნუნისი,48,3,Village,UTC+4,Asia/Tbilisi
+1664470,GE,GE-AB,Akhali Atoni,ახალი ათონი,1518,3,locality,UTC+4,Asia/Tbilisi
+1664472,GE,GE-AB,Beslakhuba,ბესლახუბა,839,3,locality,UTC+4,Asia/Tbilisi
+1664474,GE,GE-SZ,Nosiri,ნოსირი,796,3,Village,UTC+4,Asia/Tbilisi
+1664475,GE,GE-SZ,Norio,ნორიო,3756,3,Village,UTC+4,Asia/Tbilisi
+1664479,GE,GE-SZ,Nogha,ნოღა,402,3,Village,UTC+4,Asia/Tbilisi
+1664481,GE,GE-IM,Kvemo Nogha,Kvemo Nogha,227,3,Village,UTC+4,Asia/Tbilisi
+1664483,GE,GE-SZ,Najakhavo,ნაჯახავო,1054,3,Village,UTC+4,Asia/Tbilisi
+1664484,GE,GE-SZ,Nojikhevi,ნოჯიხევი,996,3,Village,UTC+4,Asia/Tbilisi
+1664485,GE,GE-MM,Noja,ნოჯა,6,3,Village,UTC+4,Asia/Tbilisi
+1664486,GE,GE-SZ,Nodashi,ნოდაში,4,3,Village,UTC+4,Asia/Tbilisi
+1664487,GE,GE-SZ,Nochkhoni,ნოჩხონი,269,3,Village,UTC+4,Asia/Tbilisi
+1664488,GE,GE-SZ,Nobulevi,ნობულევი,121,3,Village,UTC+4,Asia/Tbilisi
+1664498,GE,GE-SJ,Ninotsminda,ნინოწმინდა,5333,2,Municipality,UTC+4,Asia/Tbilisi
+1664499,GE,GE-GU,Ninoshvili,ნინოშვილი,318,3,Village,UTC+4,Asia/Tbilisi
+1664501,GE,GE-KA,Ninigori,ნინიგორი,502,3,Village,UTC+4,Asia/Tbilisi
+1664505,GE,GE-RL,Nigvznara,ნიგვზნარა,59,3,Village,UTC+4,Asia/Tbilisi
+1664506,GE,GE-IM,Nigvzara,ნიგვზარა,592,3,Village,UTC+4,Asia/Tbilisi
+1664507,GE,GE-IM,Nigozeti,ნიგოზეთი,446,3,Village,UTC+4,Asia/Tbilisi
+1664508,GE,GE-SK,Nigoza,ნიგოზა,123,3,Village,UTC+4,Asia/Tbilisi
+1664510,GE,GE-GU,Nigoiti,ნიგოითი,615,3,Village,UTC+4,Asia/Tbilisi
+1664511,GE,GE-AJ,Nigazeuli,ნიგაზეული,706,3,Village,UTC+4,Asia/Tbilisi
+1664512,GE,GE-RL,Nigavzebi,ნიგავზები,29,3,Village,UTC+4,Asia/Tbilisi
+1664513,GE,GE-SK,Niabi,ნიაბი,225,3,Village,UTC+4,Asia/Tbilisi
+1664514,GE,GE-GU,Niabauri,ნიაბაური,553,3,Village,UTC+4,Asia/Tbilisi
+1664515,GE,GE-SZ,Nesguni,ნესგუნი,121,3,Village,UTC+4,Asia/Tbilisi
+1664516,GE,GE-IM,Nergeeti,ნერგეეთი,1001,3,Village,UTC+4,Asia/Tbilisi
+1664518,GE,GE-AJ,Nenia,ნენია,604,3,Village,UTC+4,Asia/Tbilisi
+1664520,GE,GE-MM,Nedzikhi,ნეძიხი,32,3,Village,UTC+4,Asia/Tbilisi
+1664521,GE,GE-IM,Nebodziri,ნებოძირი,324,3,Village,UTC+4,Asia/Tbilisi
+1664523,GE,GE-KK,Nazarlo,ნაზარლო,4850,3,Village,UTC+4,Asia/Tbilisi
+1664525,GE,GE-KA,Naendrovali,ნაენდროვალი,95,3,Village,UTC+4,Asia/Tbilisi
+1664526,GE,GE-KK,Navtiani,ნავთიანი,10,3,Village,UTC+4,Asia/Tbilisi
+1664531,GE,GE-IM,Navardzeti,ნავარძეთი,997,3,Village,UTC+4,Asia/Tbilisi
+1664534,GE,GE-RL,Natsuli,ნაცული,61,3,Village,UTC+4,Asia/Tbilisi
+1664541,GE,GE-SK,Natsargora,ნაცარგორა,201,3,Village,UTC+4,Asia/Tbilisi
+1664545,GE,GE-SZ,Nashtkoli,ნაშთქოლი,19,3,Village,UTC+4,Asia/Tbilisi
+1664546,GE,GE-KA,Nasamkhrali,ნასამხრალი,576,3,Village,UTC+4,Asia/Tbilisi
+1664548,GE,GE-KK,Nardevani,ნარდევანი,1055,3,Village,UTC+4,Asia/Tbilisi
+1664552,GE,GE-SZ,Napichkhovo,ნაფიჩხოვო,628,3,Village,UTC+4,Asia/Tbilisi
+1664553,GE,GE-KA,Napareuli,ნაფარეული,2003,3,Village,UTC+4,Asia/Tbilisi
+1664555,GE,GE-MM,Navazi,ნაოზი,573,3,Village,UTC+4,Asia/Tbilisi
+1664556,GE,GE-KK,Naosari,ნაოსარი,24,3,Village,UTC+4,Asia/Tbilisi
+1664557,GE,GE-SJ,Naokhrebi,ნაოხრები,488,3,Village,UTC+4,Asia/Tbilisi
+1664560,GE,GE-KA,Naniani,ნანიანი,506,3,Village,UTC+4,Asia/Tbilisi
+1664562,GE,GE-SJ,Naminauri,ნამინაური,130,3,Village,UTC+4,Asia/Tbilisi
+1664563,GE,GE-AJ,Namlisevi,ნამლისევი,158,3,Village,UTC+4,Asia/Tbilisi
+1664566,GE,GE-RL,Namanevi,ნამანევი,32,3,Village,UTC+4,Asia/Tbilisi
+1664567,GE,GE-IM,Namokhvani,ნამოხვანი,147,3,Village,UTC+4,Asia/Tbilisi
+1664570,GE,GE-SJ,Nakurdevi,ნაქურდევი,93,3,Village,UTC+4,Asia/Tbilisi
+1664577,GE,GE-SZ,Nakra,Naki,178,3,Village,UTC+4,Asia/Tbilisi
+1664579,GE,GE-SZ,Nakhunavo,ნახუნავო,333,3,Village,UTC+4,Asia/Tbilisi
+1664580,GE,GE-IM,Nakhshirghele,ნახშირღელე,1432,3,Village,UTC+4,Asia/Tbilisi
+1664583,GE,GE-IM,Nakhakhulevi,ნახახულევი,681,3,Village,UTC+4,Asia/Tbilisi
+1664585,GE,GE-SJ,Nakalakevi,ნაქალაქევი,426,3,Village,UTC+4,Asia/Tbilisi
+1664588,GE,GE-SZ,Nagvazu,ნაგვაზუ,52,3,Village,UTC+4,Asia/Tbilisi
+1664589,GE,GE-AJ,Naghvarevi,ნაღვარევი,178,3,Village,UTC+4,Asia/Tbilisi
+1664592,GE,GE-SZ,Naguru,ნაგურუ,320,3,Village,UTC+4,Asia/Tbilisi
+1664593,GE,GE-MM,Naghvarevi,ნაღვარევი,55,4,village,UTC+4,Asia/Tbilisi
+1664595,GE,GE-GU,Nagomari,ნაგომარი,365,3,Village,UTC+4,Asia/Tbilisi
+1664596,GE,GE-GU,Naghobilevi,ნაღობილევი,730,3,Village,UTC+4,Asia/Tbilisi
+1664598,GE,GE-IM,Nagarevi,ნაგარევი,279,3,Village,UTC+4,Asia/Tbilisi
+1664599,GE,GE-IM,Nadzva,ნაძვა,20,3,Village,UTC+4,Asia/Tbilisi
+1664602,GE,GE-KA,Naduknari,ნადუქნარი,12,3,Village,UTC+4,Asia/Tbilisi
+1664603,GE,GE-SZ,Nalkorvali,ნალქორვალი,17,3,Village,UTC+4,Asia/Tbilisi
+1664606,GE,GE-MM,Nadibaani,ნადიბანი,52,3,Village,UTC+4,Asia/Tbilisi
+1664608,GE,GE-RL,Nadarbazevi,Nadarbazevi,203,3,Village,UTC+4,Asia/Tbilisi
+1664611,GE,GE-MM,Nadaburi,Nadaburi,369,3,Village,UTC+4,Asia/Tbilisi
+1664615,GE,GE-IM,Naboslevi,ნაბოსლევი,412,3,Village,UTC+4,Asia/Tbilisi
+1664616,GE,GE-GU,Nabeghlavi,ნაბეღლავი,195,3,Village,UTC+4,Asia/Tbilisi
+1664619,GE,GE-SK,Nabakevi,Nabakevi,423,3,Village,UTC+4,Asia/Tbilisi
+1664624,GE,GE-GU,Mziani,მზიანი,263,3,Village,UTC+4,Asia/Tbilisi
+1664625,GE,GE-SJ,Mzetamze,მზეთამზე,346,3,Village,UTC+4,Asia/Tbilisi
+1664626,GE,GE-AB,Miusera,მიუსერა,55,4,locality,UTC+4,Asia/Tbilisi
+1664628,GE,GE-SZ,Muzhava,მუჟავა,298,3,Village,UTC+4,Asia/Tbilisi
+1664629,GE,GE-MM,Mutso,მუცო,15,3,Village,UTC+4,Asia/Tbilisi
+1664631,GE,GE-KK,Potskhveriani,ფოცხვერიანი,391,3,Village,UTC+4,Asia/Tbilisi
+1664632,GE,GE-SJ,Muskhi,მუსხი,707,3,Village,UTC+4,Asia/Tbilisi
+1664633,GE,GE-KK,Mushevani,მუშევანი,905,3,Village,UTC+4,Asia/Tbilisi
+1664636,GE,GE-SJ,Murjakheti,მურჯახეთი,331,3,Village,UTC+4,Asia/Tbilisi
+1664640,GE,GE-MM,Muko,მუქო,13,3,Village,UTC+4,Asia/Tbilisi
+1664641,GE,GE-AB,Mukhuri,მუხური,1238,3,Village,UTC+4,Asia/Tbilisi
+1664644,GE,GE-SZ,Mukhurcha,მუხურჩა,372,3,Village,UTC+4,Asia/Tbilisi
+1664645,GE,GE-IM,Mukhura,მუხურა,1412,3,Village,UTC+4,Asia/Tbilisi
+1664646,GE,GE-KK,Mukhrovani,მუხროვანი,175,3,Village,UTC+4,Asia/Tbilisi
+1664647,GE,GE-KK,Mukhranteleti,მუხრანთელეთი,120,3,Village,UTC+4,Asia/Tbilisi
+1664648,GE,GE-MM,Mukhrani,მუხრანი,6197,3,Village,UTC+4,Asia/Tbilisi
+1664649,GE,GE-RL,Mukhli,მუხლი,33,3,Village,UTC+4,Asia/Tbilisi
+1664650,GE,GE-SK,Mukhileti,მუხილეთი,2,3,Village,UTC+4,Asia/Tbilisi
+1664652,GE,GE-KK,Mukhati,მუხათი,524,3,Village,UTC+4,Asia/Tbilisi
+1664653,GE,GE-MM,Mukhatgverdi,მუხათგვერდი,203,3,Village,UTC+4,Asia/Tbilisi
+1664654,GE,GE-SZ,Mukhashera,მუხაშურა,5,3,Village,UTC+4,Asia/Tbilisi
+1664660,GE,GE-MM,Muguda,მუგუდა,60,3,Village,UTC+4,Asia/Tbilisi
+1664662,GE,GE-SJ,Mugareti,მუგარეთი,331,3,Village,UTC+4,Asia/Tbilisi
+1664663,GE,GE-KK,Mughanlo,მუღანლო,4210,3,Village,UTC+4,Asia/Tbilisi
+1664664,GE,GE-KK,Guguti,გუგუთი,127,3,Village,UTC+4,Asia/Tbilisi
+1664665,GE,GE-IM,Mujireti,მუჯირეთი,79,3,Village,UTC+4,Asia/Tbilisi
+1664666,GE,GE-MM,Mtskheta,მცხეთა,7509,2,Municipality,UTC+4,Asia/Tbilisi
+1664672,GE,GE-IM,Mtisdziri,მთისძირი,1393,3,Village,UTC+4,Asia/Tbilisi
+1664678,GE,GE-MM,Mskhaldidi,მსხალდიდი,603,3,Village,UTC+4,Asia/Tbilisi
+1664679,GE,GE-KA,Mshvidobiani,მშვიდობიანი,532,3,Village,UTC+4,Asia/Tbilisi
+1664680,GE,GE-MM,Mshralkhevi,მშრალხევი,14,3,Village,UTC+4,Asia/Tbilisi
+1664687,GE,GE-IM,Mordzgveti,მორძგვეთი,231,3,Village,UTC+4,Asia/Tbilisi
+1664689,GE,GE-AJ,Moprineti,მოფრინეთი,103,3,Village,UTC+4,Asia/Tbilisi
+1664690,GE,GE-SZ,Mongiri,მონგირი,838,3,Village,UTC+4,Asia/Tbilisi
+1664692,GE,GE-MM,Monasteri,Monasteri,195,3,Village,UTC+4,Asia/Tbilisi
+1664694,GE,GE-IM,Moliti,მოლითი,215,3,Village,UTC+4,Asia/Tbilisi
+1664695,GE,GE-SJ,Moliti,მოლითი,215,4,locality,UTC+4,Asia/Tbilisi
+1664696,GE,GE-KK,Molaoghli,მოლაოღლი,1091,3,Village,UTC+4,Asia/Tbilisi
+1664697,GE,GE-AB,Mokvi,მოქვი,939,4,locality,UTC+4,Asia/Tbilisi
+1664698,GE,GE-IM,Mokhva,მოხვა,271,3,Village,UTC+4,Asia/Tbilisi
+1664699,GE,GE-IM,Mokhorotubani,მოხოროთუბანი,128,3,Village,UTC+4,Asia/Tbilisi
+1664700,GE,GE-SK,Mokhisi,მოხისი,1296,3,Village,UTC+4,Asia/Tbilisi
+1664702,GE,GE-SJ,Mokhe,მოხე,254,3,Village,UTC+4,Asia/Tbilisi
+1664703,GE,GE-SZ,Mokhashi,მოხაში,275,3,Village,UTC+4,Asia/Tbilisi
+1664704,GE,GE-SZ,Moidanakhe,მოიდანახე,785,3,Village,UTC+4,Asia/Tbilisi
+1664705,GE,GE-SZ,Mogiri,მოგირი,137,3,Village,UTC+4,Asia/Tbilisi
+1664706,GE,GE-IM,Modzvi,მოძვი,738,3,Village,UTC+4,Asia/Tbilisi
+1664707,GE,GE-SJ,Modega,მოდეგა,163,3,Village,UTC+4,Asia/Tbilisi
+1664709,GE,GE-AJ,Mnatobi,მნათობი,678,3,Village,UTC+4,Asia/Tbilisi
+1664710,GE,GE-MM,Mlashe,მლაშე,423,3,Village,UTC+4,Asia/Tbilisi
+1664716,GE,GE-MM,Misaktsieli,მისაქციელი,2100,3,Village,UTC+4,Asia/Tbilisi
+1664717,GE,\N,Mirzaani,Mirzaani,433,3,Village,UTC+4,Asia/Tbilisi
+1664719,GE,GE-AJ,Mirveti,მირვეთი,57,3,Village,UTC+4,Asia/Tbilisi
+1664722,GE,\N,Miriani,Miriani,81,3,Village,UTC+4,Asia/Tbilisi
+1664727,GE,GE-SJ,Minadze,მინაძე,418,3,Village,UTC+4,Asia/Tbilisi
+1664729,GE,GE-AJ,Milisi,მილისი,123,3,Village,UTC+4,Asia/Tbilisi
+1664734,GE,GE-AB,Mikelripshi,მიქელრიფში,190,4,locality,UTC+4,Asia/Tbilisi
+1664735,GE,GE-MM,Mikeliani,მიქელიანი,60,3,Village,UTC+4,Asia/Tbilisi
+1664736,GE,GE-IM,Mikeleponi,მიქელეფონი,400,3,Village,UTC+4,Asia/Tbilisi
+1664737,GE,GE-SZ,Mikava,მიქავა,393,3,Village,UTC+4,Asia/Tbilisi
+1664738,GE,GE-MM,Migriaulta,მიგრიაულთა,8,3,Village,UTC+4,Asia/Tbilisi
+1664741,GE,GE-IM,Mghvimevi,მღვიმევი,570,3,Village,UTC+4,Asia/Tbilisi
+1664742,GE,GE-MM,Mgliani,მგლიანი,5,3,Village,UTC+4,Asia/Tbilisi
+1664743,GE,GE-SK,Mghebriani,მღებრიანი,4,3,Village,UTC+4,Asia/Tbilisi
+1664746,GE,GE-SK,Metekhi,Metekhi,2105,3,Village,UTC+4,Asia/Tbilisi
+1664747,GE,GE-SK,Met'ekhi,მეტეხი,2105,4,locality,UTC+4,Asia/Tbilisi
+1664748,GE,GE-SZ,Mestia,მესტია,2438,2,Municipality,UTC+4,Asia/Tbilisi
+1664750,GE,GE-SZ,Mesame Balda,მესამე ბალდა,341,3,Village,UTC+4,Asia/Tbilisi
+1664753,GE,GE-AJ,Merisi,მერისი,300,3,Village,UTC+4,Asia/Tbilisi
+1664754,GE,GE-GU,Meria,მერია,1494,3,Village,UTC+4,Asia/Tbilisi
+1664755,GE,GE-IM,Merevi,მერევი,336,3,Village,UTC+4,Asia/Tbilisi
+1664756,GE,GE-SK,Mereti,მერეთი,966,3,Village,UTC+4,Asia/Tbilisi
+1664757,GE,GE-SJ,Merenia,მერენია,860,3,Village,UTC+4,Asia/Tbilisi
+1664758,GE,GE-IM,Merjevi,მერჯევი,1449,3,Village,UTC+4,Asia/Tbilisi
+1664761,GE,GE-IM,Meore Sviri,მეორე სვირი,3356,3,Village,UTC+4,Asia/Tbilisi
+1664764,GE,GE-IM,Meore Obcha,მეორე ობჩა,821,3,Village,UTC+4,Asia/Tbilisi
+1664765,GE,GE-SZ,Meore Mokhashi,მეორე მოხაში,139,3,Village,UTC+4,Asia/Tbilisi
+1664769,GE,GE-KK,Meore Kesalo,მეორე ქესალო,1353,3,Village,UTC+4,Asia/Tbilisi
+1664770,GE,GE-SZ,Meore Guripuli,მეორე გურიფული,429,3,Village,UTC+4,Asia/Tbilisi
+1664771,GE,GE-SZ,Meore Gurdzemi,მეორე გურძემი,235,3,Village,UTC+4,Asia/Tbilisi
+1664774,GE,GE-SZ,Meore Balda,მეორე ბალდა,363,3,Village,UTC+4,Asia/Tbilisi
+1664776,GE,GE-MM,Meneso,მენესო,96,3,Village,UTC+4,Asia/Tbilisi
+1664780,GE,GE-IM,Melusheeti,მელუშეეთი,131,3,Village,UTC+4,Asia/Tbilisi
+1664781,GE,GE-RL,Melura,მელურა,28,3,Village,UTC+4,Asia/Tbilisi
+1664782,GE,GE-GU,Melekeduri,მელექედური,1170,3,Village,UTC+4,Asia/Tbilisi
+1664783,GE,GE-RL,Mele,მელე,116,3,Village,UTC+4,Asia/Tbilisi
+1664784,GE,GE-IM,Melauri,მელაური,217,3,Village,UTC+4,Asia/Tbilisi
+1664785,GE,GE-KA,Melaani,მელაანი,1079,3,Village,UTC+4,Asia/Tbilisi
+1664786,GE,GE-IM,Mekvena,მექვენა,134,3,Village,UTC+4,Asia/Tbilisi
+1664787,GE,GE-SK,Mekheti,მეხეთი,2,3,Village,UTC+4,Asia/Tbilisi
+1664788,GE,GE-AJ,Mekhelashvilebi,მეხელაშვილები,156,3,Village,UTC+4,Asia/Tbilisi
+1664792,GE,\N,Medzibna,Medzibna,188,3,Village,UTC+4,Asia/Tbilisi
+1664794,GE,GE-SZ,Medani,მედანი,328,3,Village,UTC+4,Asia/Tbilisi
+1664795,GE,GE-IM,Mechkheturi,მეჩხეთური,268,3,Village,UTC+4,Asia/Tbilisi
+1664796,GE,GE-IM,Mechkheri,მეჩხერი,81,3,Village,UTC+4,Asia/Tbilisi
+1664797,GE,GE-RL,Mebetsi,მებეცი,69,3,Village,UTC+4,Asia/Tbilisi
+1664800,GE,GE-RL,Mazhieti,მაჟიეთი,24,3,Village,UTC+4,Asia/Tbilisi
+1664802,GE,GE-SZ,Mazeri,მაზერი,330,3,Village,UTC+4,Asia/Tbilisi
+1664803,GE,GE-RL,Mazashi,მაზაში,48,3,Village,UTC+4,Asia/Tbilisi
+1664804,GE,GE-SZ,Kveda Mazandara,მაზანდარა,680,3,Village,UTC+4,Asia/Tbilisi
+1664806,GE,GE-MM,Matura,მათურა,1,3,Village,UTC+4,Asia/Tbilisi
+1664808,GE,GE-SZ,Matskhvarishi,საცხვარისი,185,3,Village,UTC+4,Asia/Tbilisi
+1664810,GE,GE-IM,Matkhoji,მათხოჯი,1389,3,Village,UTC+4,Asia/Tbilisi
+1664811,GE,GE-KA,Mat'ani,მატანი,4451,3,locality,UTC+4,Asia/Tbilisi
+1664812,GE,\N,Mashnaari,მაშნაარი,483,3,Village,UTC+4,Asia/Tbilisi
+1664813,GE,GE-KK,Mashavera,მაშავერა,649,3,Village,UTC+4,Asia/Tbilisi
+1664814,GE,GE-SZ,Martvili,მარტვილი,4863,2,Municipality,UTC+4,Asia/Tbilisi
+1664820,GE,GE-KK,Mart'q'opi,მარტყოფი,7397,4,locality,UTC+4,Asia/Tbilisi
+1664822,GE,GE-KK,Marneuli,მარნეული,26400,2,Municipality,UTC+4,Asia/Tbilisi
+1664823,GE,GE-KA,Mariamjvari,მარიამჯვარი,9,3,Village,UTC+4,Asia/Tbilisi
+1664824,GE,GE-RL,Margvishi,მარგვიში,22,3,Village,UTC+4,Asia/Tbilisi
+1664825,GE,GE-IM,Marelisi,მარელისი,375,3,Village,UTC+4,Asia/Tbilisi
+1664829,GE,GE-SZ,Marani,მარანი,1153,3,Village,UTC+4,Asia/Tbilisi
+1664831,GE,GE-SK,Marana,მარანა,526,3,Village,UTC+4,Asia/Tbilisi
+1664833,GE,GE-AJ,Maradidi,მარადიდი,328,3,Village,UTC+4,Asia/Tbilisi
+1664835,GE,GE-KK,Manglisi,მანგლისი,1673,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1664837,GE,GE-IM,Mandaeti,მანდაეთი,818,3,Village,UTC+4,Asia/Tbilisi
+1664838,GE,GE-KA,Manavi,მანავი,2854,3,Village,UTC+4,Asia/Tbilisi
+1664839,GE,GE-MM,Manaseuri,Manaseuri,19,3,Village,UTC+4,Asia/Tbilisi
+1664843,GE,GE-KK,Mamulo,მამულო,51,3,Village,UTC+4,Asia/Tbilisi
+1664845,GE,GE-KK,Mamishlo,მამიშლო,332,3,Village,UTC+4,Asia/Tbilisi
+1664846,GE,GE-RL,Mami,მამი,31,3,Village,UTC+4,Asia/Tbilisi
+1664847,GE,GE-GU,Mamati,მამათი,254,3,Village,UTC+4,Asia/Tbilisi
+1664848,GE,GE-MM,Mamadaanebi,მამადაანები,51,3,Village,UTC+4,Asia/Tbilisi
+1664852,GE,GE-AJ,Makhvilauri,მახვილაური,593,3,Village,UTC+4,Asia/Tbilisi
+1664853,GE,GE-RL,Makhura,მახურა,47,3,Village,UTC+4,Asia/Tbilisi
+1664855,GE,GE-AJ,Makho,მახო,2479,3,Village,UTC+4,Asia/Tbilisi
+1664856,GE,GE-AJ,Makhinjauri,მახინჯაური,2736,3,Village,UTC+4,Asia/Tbilisi
+1664858,GE,GE-SZ,Makhati,მახათი,33,3,Village,UTC+4,Asia/Tbilisi
+1664859,GE,GE-IM,Makhatauri,მახათაური,610,3,Village,UTC+4,Asia/Tbilisi
+1664860,GE,GE-RL,Makhashi,მახაში,260,3,Village,UTC+4,Asia/Tbilisi
+1664865,GE,GE-IM,Makatubani,მაქათუბანი,324,3,Village,UTC+4,Asia/Tbilisi
+1664866,GE,\N,Makarta,Makarta,40,3,Village,UTC+4,Asia/Tbilisi
+1664867,GE,GE-IM,Maisauri,მაისაური,87,3,Village,UTC+4,Asia/Tbilisi
+1664868,GE,GE-SZ,Maidani,მაიდანი,707,3,Village,UTC+4,Asia/Tbilisi
+1664870,GE,GE-MM,Magraneti,მაგრანეთი,224,3,Village,UTC+4,Asia/Tbilisi
+1664876,GE,GE-SZ,Magardeli,მაგარდელი,60,3,Village,UTC+4,Asia/Tbilisi
+1664877,GE,GE-GU,Machkhvareti,მაჩხვარეთი,525,3,Village,UTC+4,Asia/Tbilisi
+1664880,GE,GE-SJ,Mach'at'ia,მთჭატია,767,3,locality,UTC+4,Asia/Tbilisi
+1664881,GE,GE-IM,Shrosha,შროშა,400,3,Village,UTC+4,Asia/Tbilisi
+1664883,GE,GE-AB,Machara,Machara,2640,3,locality,UTC+4,Asia/Tbilisi
+1664885,GE,GE-AB,Likhni,ლიხნი,524,4,village,UTC+4,Asia/Tbilisi
+1664886,GE,GE-MM,Lutkhubi,ლუთხუბი,23,3,Village,UTC+4,Asia/Tbilisi
+1664887,GE,GE-SK,Luli,ლული,1,3,Village,UTC+4,Asia/Tbilisi
+1664888,GE,GE-RL,Luji,ლუჯი,73,3,Village,UTC+4,Asia/Tbilisi
+1664894,GE,GE-AJ,Lomanauri,ლომანაური,121,3,Village,UTC+4,Asia/Tbilisi
+1664896,GE,GE-KK,Livadi,ლივადი,80,3,Village,UTC+4,Asia/Tbilisi
+1664898,GE,GE-MM,Lisi,ლისი,598,3,Village,UTC+4,Asia/Tbilisi
+1664899,GE,GE-MM,Lisho,ლიშო,62,3,Village,UTC+4,Asia/Tbilisi
+1664902,GE,GE-RL,Likheti,ლიხეთი,295,3,Village,UTC+4,Asia/Tbilisi
+1664903,GE,GE-GU,Likhauri,ლიხაური,952,3,Village,UTC+4,Asia/Tbilisi
+1664904,GE,\N,Libani,ლიბანი,31,3,Village,UTC+4,Asia/Tbilisi
+1664905,GE,GE-AB,Lidzava,ლიძავა,1612,4,locality,UTC+4,Asia/Tbilisi
+1664907,GE,GE-SZ,Lia,ლია,1523,3,Village,UTC+4,Asia/Tbilisi
+1664908,GE,GE-KK,Lezhbadini,ლეჟბადინი,962,3,Village,UTC+4,Asia/Tbilisi
+1664909,GE,GE-SZ,Lezgara,ლეზგარა,41,3,Village,UTC+4,Asia/Tbilisi
+1664911,GE,GE-SZ,Levakhane,ლევახანე,104,3,Village,UTC+4,Asia/Tbilisi
+1664912,GE,GE-RL,Leusheri,ლეუშერი,48,3,Village,UTC+4,Asia/Tbilisi
+1664915,GE,GE-SZ,Letsitskhvaie,ლეციცხვაიე,364,3,Village,UTC+4,Asia/Tbilisi
+1664916,GE,GE-SZ,Letsave,ლეცავე,158,3,Village,UTC+4,Asia/Tbilisi
+1664918,GE,GE-SZ,Leskhulukhe,ლესხულუხე,167,3,Village,UTC+4,Asia/Tbilisi
+1664919,GE,GE-RL,Lesindi,ლესინდი,52,3,Village,UTC+4,Asia/Tbilisi
+1664922,GE,GE-SZ,Leshamuge,ლეშამუდე,276,3,Village,UTC+4,Asia/Tbilisi
+1664923,GE,GE-AB,Leselidze,ლესელიძე,969,3,locality,UTC+4,Asia/Tbilisi
+1664924,GE,GE-SZ,Lesale,ლესალე,169,3,Village,UTC+4,Asia/Tbilisi
+1664925,GE,GE-GU,Lesa,ლესა,1152,3,Village,UTC+4,Asia/Tbilisi
+1664926,GE,GE-SZ,Lepochkhue,ლეფოჩხუე,434,3,Village,UTC+4,Asia/Tbilisi
+1664928,GE,GE-RL,Lentekhi,ლენტეხი,5000,2,Municipality,UTC+4,Asia/Tbilisi
+1664932,GE,GE-KK,Zemo Kvishiani,ქვიშიანი,38,3,Village,UTC+4,Asia/Tbilisi
+1664933,GE,GE-RL,Lemzagori,ლემზაგორი,79,3,Village,UTC+4,Asia/Tbilisi
+1664934,GE,GE-SZ,Lemsia,ლემსია,139,3,Village,UTC+4,Asia/Tbilisi
+1664936,GE,GE-MM,Lelovani,ლელოვანი,196,3,Village,UTC+4,Asia/Tbilisi
+1664939,GE,GE-KA,Leliani,ლელიანი,578,3,Village,UTC+4,Asia/Tbilisi
+1664940,GE,GE-IM,Leladziseuli,ლელაძისეული,161,3,Village,UTC+4,Asia/Tbilisi
+1664946,GE,GE-SZ,Lalkhorali,ლალხორალი,24,3,Village,UTC+4,Asia/Tbilisi
+1664947,GE,GE-SZ,Lekhaindravo,ლეხაინდრავო,754,3,Village,UTC+4,Asia/Tbilisi
+1664948,GE,GE-SZ,Lekarde,ლექარდე,168,3,Village,UTC+4,Asia/Tbilisi
+1664951,GE,GE-IM,Leghvani,ლეღვანი,679,3,Village,UTC+4,Asia/Tbilisi
+1664952,GE,GE-IM,Leghva,ლეღვა,2081,3,Village,UTC+4,Asia/Tbilisi
+1664955,GE,GE-SZ,Legogie,ლეგოგიე,98,3,Village,UTC+4,Asia/Tbilisi
+1664956,GE,GE-SZ,Legakhare,ლეგახარე,588,3,Village,UTC+4,Asia/Tbilisi
+1664957,GE,GE-SZ,Lejike,ლეჯიქე,174,3,Village,UTC+4,Asia/Tbilisi
+1664958,GE,GE-SZ,Ledzadzame,ლეძაძამე,230,3,Village,UTC+4,Asia/Tbilisi
+1664960,GE,GE-SZ,Ledarsale,ლედარსარე,501,3,Village,UTC+4,Asia/Tbilisi
+1664961,GE,GE-KA,Lechuri,ლეჩური,88,3,Village,UTC+4,Asia/Tbilisi
+1664964,GE,GE-SZ,Lebache,ლებაჩე,238,3,Village,UTC+4,Asia/Tbilisi
+1664965,GE,GE-SZ,Leakhale,ლეახალე,58,3,Village,UTC+4,Asia/Tbilisi
+1664966,GE,GE-GU,Laituri,ლაითური,2961,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1664967,GE,GE-MM,Lausha,ლაუშა,7,3,Village,UTC+4,Asia/Tbilisi
+1664968,GE,GE-RL,Latsoria,ლაცორია,90,3,Village,UTC+4,Asia/Tbilisi
+1664970,GE,GE-RL,Lasuriashi,ლასურიაში,235,3,Village,UTC+4,Asia/Tbilisi
+1664971,GE,GE-RL,Laskhana,ლასხანა,60,3,Village,UTC+4,Asia/Tbilisi
+1664972,GE,GE-SZ,Lashtkhveri,ლაშთხვერი,92,3,Village,UTC+4,Asia/Tbilisi
+1664973,GE,GE-SZ,Lashkhreri,ლაშხრერი,8,3,Village,UTC+4,Asia/Tbilisi
+1664974,GE,GE-IM,Lashis Igoreti,ლაშის იგორეთი,93,3,Village,UTC+4,Asia/Tbilisi
+1664976,GE,GE-SK,Lashe,Lashe,395,3,Village,UTC+4,Asia/Tbilisi
+1664978,GE,GE-SZ,Larilari,ლარილარი,83,3,Village,UTC+4,Asia/Tbilisi
+1664980,GE,GE-RL,Larchvali,ლარჩვალი,95,3,Village,UTC+4,Asia/Tbilisi
+1664982,GE,GE-SZ,Lara,ლარა,240,3,Village,UTC+4,Asia/Tbilisi
+1664983,GE,GE-KA,Lapniani,ლაფნიანი,118,3,Village,UTC+4,Asia/Tbilisi
+1664984,GE,GE-IM,Lapeti,ლაფეთი,35,3,Village,UTC+4,Asia/Tbilisi
+1664989,GE,GE-GU,Lanchkhuti,ლანჩხუთი,6356,2,Municipality,UTC+4,Asia/Tbilisi
+1664990,GE,GE-MM,Lamovani,ლამოვანი,170,3,Village,UTC+4,Asia/Tbilisi
+1664991,GE,GE-SZ,Lankhvri,ლანხვრი,19,3,Village,UTC+4,Asia/Tbilisi
+1664994,GE,GE-KA,Kvemo Lambalo,Lambalo,3021,3,Village,UTC+4,Asia/Tbilisi
+1664999,GE,GE-SZ,Lakhushdi,ლახუშდი,84,3,Village,UTC+4,Asia/Tbilisi
+1665000,GE,GE-IM,Lakhundara,ლახუნდერა,365,3,Village,UTC+4,Asia/Tbilisi
+1665001,GE,GE-SZ,Lakhiri,ლახირი,83,3,Village,UTC+4,Asia/Tbilisi
+1665002,GE,GE-RL,Lakhepa,ლახეფა,25,3,Village,UTC+4,Asia/Tbilisi
+1665004,GE,\N,Lakhani,Lakhani,4,3,Village,UTC+4,Asia/Tbilisi
+1665005,GE,GE-SZ,Lakhamula,ლახამულა,82,3,Village,UTC+4,Asia/Tbilisi
+1665008,GE,GE-SZ,Lahili,ლაილი,6,3,Village,UTC+4,Asia/Tbilisi
+1665009,GE,GE-RL,Lailashi,ლაილაში,262,3,Village,UTC+4,Asia/Tbilisi
+1665010,GE,GE-RL,Lagvanta,ლაგვანთა,72,3,Village,UTC+4,Asia/Tbilisi
+1665011,GE,GE-KA,Lagodekhi,ლაგოდეხი,6160,2,Municipality,UTC+4,Asia/Tbilisi
+1665013,GE,GE-RL,Lajana,ლაჯანა,95,3,Village,UTC+4,Asia/Tbilisi
+1665015,GE,GE-SZ,Ladreri,ლადრერი,37,3,Village,UTC+4,Asia/Tbilisi
+1665016,GE,GE-RL,Lachta,ლაჩთა,171,3,Village,UTC+4,Asia/Tbilisi
+1665020,GE,GE-AJ,Labaidzeebi,ლაბაიძეები,225,3,Village,UTC+4,Asia/Tbilisi
+1665021,GE,GE-KK,Akhalsheni,ქვიშიანი,1966,3,Village,UTC+4,Asia/Tbilisi
+1665026,GE,GE-SK,Kvishkheti,ქვიშხეთი,1699,3,Village,UTC+4,Asia/Tbilisi
+1665027,GE,GE-RL,Kvishari,ქვიშარი,125,3,Village,UTC+4,Asia/Tbilisi
+1665033,GE,GE-IM,Kvilishori,ქვილიშორი,692,3,Village,UTC+4,Asia/Tbilisi
+1665036,GE,GE-GU,Kviani,ქვიანი,715,3,Village,UTC+4,Asia/Tbilisi
+1665039,GE,GE-SK,Kveshi,ქვეში,950,3,Village,UTC+4,Asia/Tbilisi
+1665041,GE,GE-MM,Kvesheti,ქვეშეთი,257,3,Village,UTC+4,Asia/Tbilisi
+1665045,GE,GE-GU,Kvenobani,ქვენობანი,669,3,Village,UTC+4,Asia/Tbilisi
+1665046,GE,GE-AB,Kvenobani,Kvenobani,19200,3,city,UTC+4,Asia/Tbilisi
+1665048,GE,GE-SK,Kvenaplavi,ქვენაფლავი,146,3,Village,UTC+4,Asia/Tbilisi
+1665050,GE,GE-RL,Kvemo Zhoshkha,ქვემო ჟოშხა,129,3,Village,UTC+4,Asia/Tbilisi
+1665059,GE,GE-KK,Kvemo Teleti,ქვემო თელეთი,798,3,Village,UTC+4,Asia/Tbilisi
+1665060,GE,GE-SK,Kvemo Sobisi,ქვემო სობისი,481,3,Village,UTC+4,Asia/Tbilisi
+1665062,GE,GE-GU,Kvemo Shukhuti,ქვემო შუხუთი,1248,3,Village,UTC+4,Asia/Tbilisi
+1665063,GE,GE-MM,Kvemo Shuakhevi,ქვემო შუახევი,91,3,Village,UTC+4,Asia/Tbilisi
+1665064,GE,GE-SK,Kvemo Shavshvebi,ქვემო შავშვები,193,3,Village,UTC+4,Asia/Tbilisi
+1665065,GE,GE-MM,Kvemo Sharakhevi,ქვემო შარახევი,19,3,Village,UTC+4,Asia/Tbilisi
+1665066,GE,\N,Kvemo-Shakshaketi,Kvemo Shakshaketi,271,3,Village,UTC+4,Asia/Tbilisi
+1665067,GE,GE-KK,Kvemo Sarali,ქვემო სარალი,1370,3,Village,UTC+4,Asia/Tbilisi
+1665071,GE,GE-SK,Kvemo Rieti,ქვემო რიეთი,295,3,Village,UTC+4,Asia/Tbilisi
+1665072,GE,GE-SK,Kvemo Rene,ქვემო რენე,221,3,Village,UTC+4,Asia/Tbilisi
+1665073,GE,\N,Kvemo-Rekha,Kvemo Rekha,675,3,Village,UTC+4,Asia/Tbilisi
+1665076,GE,GE-SK,Kvemo Osiauri,ქვემო ოსიაური,734,3,Village,UTC+4,Asia/Tbilisi
+1665077,GE,GE-KK,Kvemo Orozmani,ქვემო ოროზმანი,361,3,Village,UTC+4,Asia/Tbilisi
+1665080,GE,GE-SK,Kvemo Nikozi,ქვემო ნიქოზი,575,3,Village,UTC+4,Asia/Tbilisi
+1665081,GE,GE-MM,Kvemo Nichbisi,ქვემო ნიჩბისი,603,3,Village,UTC+4,Asia/Tbilisi
+1665082,GE,GE-KA,Kvemo Nashovari,ქვემო ნაშოვარი,456,3,Village,UTC+4,Asia/Tbilisi
+1665083,GE,GE-MM,Kvemo Nakalakari,ქვემო ნაქალაქარი,118,3,Village,UTC+4,Asia/Tbilisi
+1665084,GE,GE-AB,Mekhadiri,მეხადირი,137,4,locality,UTC+4,Asia/Tbilisi
+1665086,GE,GE-KA,Kvemo Mskhalgori,ქვემო მსხალგორი,444,3,Village,UTC+4,Asia/Tbilisi
+1665089,GE,GE-MM,Kvemo Mleta,ქვემო მლეთა,64,3,Village,UTC+4,Asia/Tbilisi
+1665090,GE,GE-SZ,Kvemo Marghi,ქვემო მარღი,135,3,Village,UTC+4,Asia/Tbilisi
+1665095,GE,GE-KA,Kvemo Machkhaani,ქვემო მაჩხაანი,609,3,Village,UTC+4,Asia/Tbilisi
+1665097,GE,GE-SK,Leteti,ლეთეთი,190,3,Village,UTC+4,Asia/Tbilisi
+1665101,GE,GE-KK,Kvemo Arkevani,ქვემო არქევანი,769,3,Village,UTC+4,Asia/Tbilisi
+1665105,GE,\N,Kvemo-Khviti,Kvemo Khviti,927,3,Village,UTC+4,Asia/Tbilisi
+1665106,GE,GE-SK,Kvemo Khvedureti,ქვემო ხვედურეთი,941,3,Village,UTC+4,Asia/Tbilisi
+1665108,GE,GE-MM,Kvemo Khorkhi,ქვემო ხორხი,13,3,Village,UTC+4,Asia/Tbilisi
+1665109,GE,GE-KA,Kvemo Khodasheni,ქვემო ხოდაშენი,1277,3,Village,UTC+4,Asia/Tbilisi
+1665110,GE,GE-IM,Kvemo Khevi,ქვემო ხევი,126,3,Village,UTC+4,Asia/Tbilisi
+1665111,GE,GE-GU,Kvemo Kheti,ქვემო ხეთი,380,3,Village,UTC+4,Asia/Tbilisi
+1665112,GE,GE-KA,Kvemo Khechili,ქვემო ხეჩილი,160,3,Village,UTC+4,Asia/Tbilisi
+1665113,GE,GE-KK,Khareba,ხარება,268,3,Village,UTC+4,Asia/Tbilisi
+1665116,GE,GE-KA,Kvemo Kedi,ქვემო ქედი,1153,3,Village,UTC+4,Asia/Tbilisi
+1665126,GE,GE-SJ,Kvemo Enteli,ქვემო ენთელი,350,3,Village,UTC+4,Asia/Tbilisi
+1665129,GE,GE-SK,K'vemo Dzaghina,K’vemo Dzaghina,50,4,locality,UTC+4,Asia/Tbilisi
+1665132,GE,GE-SK,Kvemo Chocheti,ქვემო ჩოჩეთი,488,3,Village,UTC+4,Asia/Tbilisi
+1665133,GE,GE-GU,Kvemo Chibati,ქვემო ჩიბათი,915,3,Village,UTC+4,Asia/Tbilisi
+1665136,GE,GE-SK,Kvemo Brolosani,ქვემო ბროლოსანი,118,3,Village,UTC+4,Asia/Tbilisi
+1665137,GE,GE-SK,Kvemo Boshuri,ქვემო ბოშური,77,3,Village,UTC+4,Asia/Tbilisi
+1665138,GE,GE-KK,Kvemo Bolnisi,ქვემო ბოლნისი,4162,3,Village,UTC+4,Asia/Tbilisi
+1665139,GE,GE-KA,Kvemo Bolkvi,ქვემო ბოლქვი,132,3,Village,UTC+4,Asia/Tbilisi
+1665141,GE,GE-KA,Kvemo Bodbe,ქვემო ბოდბე,2287,3,Village,UTC+4,Asia/Tbilisi
+1665143,GE,GE-RL,Kvemo Bari,ქვემო ბარი,50,3,Village,UTC+4,Asia/Tbilisi
+1665147,GE,\N,Kvemo-Artsevi,Kvemo Artsevi,606,3,Village,UTC+4,Asia/Tbilisi
+1665151,GE,GE-KA,Kvemo Alvani,ქვემო ალვანი,2489,3,Village,UTC+4,Asia/Tbilisi
+1665154,GE,GE-SK,Kvemo Akhalsopeli,ქვემო ახალსოფელი,655,3,Village,UTC+4,Asia/Tbilisi
+1665156,GE,GE-AJ,Zeda Agara,ზედა აგარა,106,3,Village,UTC+4,Asia/Tbilisi
+1665157,GE,GE-SK,Kvemo Adzvisi,ქვემო აძვისი,111,3,Village,UTC+4,Asia/Tbilisi
+1665159,GE,GE-IM,Kveletubani,ქველეთუბანი,108,3,Village,UTC+4,Asia/Tbilisi
+1665163,GE,GE-RL,Kvedi,ქვედი,86,3,Village,UTC+4,Asia/Tbilisi
+1665164,GE,GE-IM,Kveda Zegani,ქვედა ზეგანი,258,3,Village,UTC+4,Asia/Tbilisi
+1665165,GE,GE-SZ,Kveda Vedi,ქვედა ვედი,81,3,Village,UTC+4,Asia/Tbilisi
+1665173,GE,GE-RL,Kveda Tlughi,ქვემო თლუღი,186,3,Village,UTC+4,Asia/Tbilisi
+1665175,GE,GE-IM,Kveda Simoneti,ქვედა სიმონეთი,2027,3,Village,UTC+4,Asia/Tbilisi
+1665176,GE,GE-RL,Kveda Shavra,ქვედა შავრა,42,3,Village,UTC+4,Asia/Tbilisi
+1665177,GE,GE-IM,Kveda Sazano,ქვედა საზანო,1334,3,Village,UTC+4,Asia/Tbilisi
+1665178,GE,GE-IM,Kveda Sakara,ქვედა საქარა,1989,3,Village,UTC+4,Asia/Tbilisi
+1665179,GE,GE-RL,Kveda Sairme,ქვედა საირმე,34,3,Village,UTC+4,Asia/Tbilisi
+1665180,GE,GE-IM,Kveda Orghuli,ქვედა ორღული,648,3,Village,UTC+4,Asia/Tbilisi
+1665183,GE,GE-IM,Kveda Mukedi,ქვედა მუქედი,282,3,Village,UTC+4,Asia/Tbilisi
+1665184,GE,GE-IM,Kveda Meskheti,ქვედა მესხეთი,1074,3,Village,UTC+4,Asia/Tbilisi
+1665185,GE,GE-GU,Kveda Mamati,ქვედა მამათი,163,3,Village,UTC+4,Asia/Tbilisi
+1665186,GE,GE-AJ,Kveda Makhuntseti,ქვედა მახუნცეთი,439,3,Village,UTC+4,Asia/Tbilisi
+1665187,GE,GE-RL,Kveda Lukhvano,ქვედა ლუხვანო,85,3,Village,UTC+4,Asia/Tbilisi
+1665188,GE,GE-SZ,Kveda Luha,ქვედა ლუჰა,26,3,Village,UTC+4,Asia/Tbilisi
+1665189,GE,GE-IM,Lichi,ლიჩი,170,3,Village,UTC+4,Asia/Tbilisi
+1665195,GE,GE-IM,Kveda Ilemi,ქვედა ილემი,525,3,Village,UTC+4,Asia/Tbilisi
+1665196,GE,GE-RL,Kveda Ghvirishi,ქვედა ღვირიში,117,3,Village,UTC+4,Asia/Tbilisi
+1665197,GE,GE-RL,Kveda Ghvardia,ქვედა ღვარდია,9,3,Village,UTC+4,Asia/Tbilisi
+1665198,GE,GE-IM,Kveda Gordi,ქვედა გორდი,320,3,Village,UTC+4,Asia/Tbilisi
+1665199,GE,GE-IM,Kveda Gora,ქვედა გორა,957,3,Village,UTC+4,Asia/Tbilisi
+1665201,GE,GE-GU,Kveda Dzimiti,ქვედა ძიმითი,885,3,Village,UTC+4,Asia/Tbilisi
+1665202,GE,GE-AJ,Kveda Dagva,ქვედა დაგვა,545,3,Village,UTC+4,Asia/Tbilisi
+1665205,GE,GE-SZ,Kveda Chkhorots'q'u,ქვედა ჩხოროწყუ,4357,4,locality,UTC+4,Asia/Tbilisi
+1665208,GE,GE-IM,Kveda Bzvani,ქვედა ბზვანი,1090,3,Village,UTC+4,Asia/Tbilisi
+1665209,GE,GE-AJ,Kveda Bzubzu,ქვედა ბზუბზუ,261,3,Village,UTC+4,Asia/Tbilisi
+1665210,GE,GE-IM,Kveda Beretisa,ქვედა ბერეთისა,495,3,Village,UTC+4,Asia/Tbilisi
+1665211,GE,GE-GU,Kveda Bakhvi,ქვედა ბახვი,681,3,Village,UTC+4,Asia/Tbilisi
+1665212,GE,GE-IM,Kveda Alisubani,ქვედა ალისუბანი,1033,3,Village,UTC+4,Asia/Tbilisi
+1665213,GE,GE-RL,Kveda Aghvi,ქვედა აღვი,193,3,Village,UTC+4,Asia/Tbilisi
+1665215,GE,GE-IM,Kvebi,ქვები,219,3,Village,UTC+4,Asia/Tbilisi
+1665219,GE,GE-IM,Kvatsikhe,ქვაციხე,451,3,Village,UTC+4,Asia/Tbilisi
+1665221,GE,GE-SK,Kvatetri,ქვათეთრი,116106,3,Village,UTC+4,Asia/Tbilisi
+1665225,GE,\N,Kvarkhiti,Kvarkhiti,379,3,Village,UTC+4,Asia/Tbilisi
+1665235,GE,GE-RL,Kvaisi,კვაისა,237,4,Town,UTC+4,Asia/Tbilisi
+1665238,GE,GE-SJ,Kvabiskhevi,ქვაბისხევი,429,3,Village,UTC+4,Asia/Tbilisi
+1665239,GE,GE-GU,Kvabgha,ქვაბღა,329,3,Village,UTC+4,Asia/Tbilisi
+1665244,GE,GE-AJ,Kutauri,ქუთაური,23,3,Village,UTC+4,Asia/Tbilisi
+1665245,GE,GE-IM,Kutaisi,ქუთაისი,137357,2,City,UTC+4,Asia/Tbilisi
+1665248,GE,GE-MM,Kushkhevi,ქუშხევი,16,3,Village,UTC+4,Asia/Tbilisi
+1665252,GE,GE-KK,Kutliari,ქუთლიარი,1413,3,Village,UTC+4,Asia/Tbilisi
+1665256,GE,GE-AJ,Kurduli,ქურდული,151,3,Village,UTC+4,Asia/Tbilisi
+1665258,GE,GE-KA,K'urdghelauri,კურდღელაური,3962,4,locality,UTC+4,Asia/Tbilisi
+1665259,GE,GE-SZ,Kurashi,ქურაში,15,3,Village,UTC+4,Asia/Tbilisi
+1665264,GE,GE-MM,Kumlistsikhe,ქუმლისციხე,35,3,Village,UTC+4,Asia/Tbilisi
+1665270,GE,GE-IM,Kulashi,კულაში,1569,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1665282,GE,GE-MM,Kubriaantk'ari,ქუბრიაანთკარი,155,4,locality,UTC+4,Asia/Tbilisi
+1665284,GE,GE-MM,Ksovrisi,ქსოვრისი,1268,3,Village,UTC+4,Asia/Tbilisi
+1665285,GE,GE-KK,Ksovreti,ქსოვრეთი,14,3,Village,UTC+4,Asia/Tbilisi
+1665286,GE,GE-MM,Ksani,ქსანი,2962,3,Village,UTC+4,Asia/Tbilisi
+1665289,GE,GE-IM,Kroli,ქროლი,49,3,Village,UTC+4,Asia/Tbilisi
+1665292,GE,GE-KA,Sataple,სათაფლე,74,3,Village,UTC+4,Asia/Tbilisi
+1665294,GE,GE-KK,Kotishi,ქოთიში,111,3,Village,UTC+4,Asia/Tbilisi
+1665297,GE,GE-SK,Kotanto,Kotanto,22556,3,Urban Township (Zhen),UTC+4,Asia/Tbilisi
+1665299,GE,GE-AJ,Kosopeli,ქოსოფელი,72,3,Village,UTC+4,Asia/Tbilisi
+1665302,GE,\N,Koshka,Koshka,242,3,Village,UTC+4,Asia/Tbilisi
+1665303,GE,GE-MM,Koseli,ქოსელი,1,3,Village,UTC+4,Asia/Tbilisi
+1665304,GE,GE-KK,Kosalari,ქოსალარი,608,3,Village,UTC+4,Asia/Tbilisi
+1665311,GE,GE-RL,Korta,ქორთა,9,3,Village,UTC+4,Asia/Tbilisi
+1665316,GE,GE-MM,Korogho,ქოროღო,6,3,Village,UTC+4,Asia/Tbilisi
+1665317,GE,GE-SK,Qornisi,ყორნისი,208,4,locality,UTC+4,Asia/Tbilisi
+1665321,GE,GE-KA,Koreti,ქორეთი,1348,3,Village,UTC+4,Asia/Tbilisi
+1665323,GE,GE-RL,Korenishi,ქორენიში,77,3,Village,UTC+4,Asia/Tbilisi
+1665324,GE,GE-SK,Kordi,ქორდი,728,3,Village,UTC+4,Asia/Tbilisi
+1665331,GE,\N,Konchkati,კონჭკათი,805,3,Village,UTC+4,Asia/Tbilisi
+1665332,GE,GE-AB,K'amani,კამანი,100,4,locality,UTC+4,Asia/Tbilisi
+1665335,GE,GE-SZ,Kolobani,ქოლობანი,600,3,Village,UTC+4,Asia/Tbilisi
+1665337,GE,GE-AB,K'olkhida,კოლხიდა,3102,4,Town,UTC+4,Asia/Tbilisi
+1665343,GE,GE-AJ,Kokoleti,ქოქოლეთი,71,3,Village,UTC+4,Asia/Tbilisi
+1665354,GE,GE-KK,Kojori,კოჯორი,1232,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1665357,GE,GE-SK,K'odists'q'aro,კოდისწყარო,14281,4,town,UTC+4,Asia/Tbilisi
+1665360,GE,GE-SK,Kodibina,Kodibina,11453,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1665362,GE,GE-KA,Kodalo,ქოდალო,346,3,Village,UTC+4,Asia/Tbilisi
+1665369,GE,GE-AJ,Kobuleti,ქობულეთი,18298,2,Municipality,UTC+4,Asia/Tbilisi
+1665370,GE,GE-AJ,Kobuleti,ქობულეთი,2098,4,locality,UTC+4,Asia/Tbilisi
+1665371,GE,\N,Kobiantkari,Kobiantkari,399,3,locality,UTC+4,Asia/Tbilisi
+1665387,GE,GE-SJ,K'lde,კლდე,768,4,locality,UTC+4,Asia/Tbilisi
+1665392,GE,GE-KK,Q'izil-Ajlo,ყიზილ-აჯლო,7291,4,locality,UTC+4,Asia/Tbilisi
+1665404,GE,GE-KA,Kist'auri,ქისტაური,1729,4,locality,UTC+4,Asia/Tbilisi
+1665415,GE,GE-GU,Baghlepi,ბაღლეფი,367,3,Village,UTC+4,Asia/Tbilisi
+1665416,GE,\N,Kirovi,Kirovi,859,3,Village,UTC+4,Asia/Tbilisi
+1665417,GE,GE-SJ,K'irovak'ani,კიროვაკანი,331,3,locality,UTC+4,Asia/Tbilisi
+1665420,GE,GE-KK,K'irikhlo,კირიხლო,31218,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1665428,GE,GE-SK,Kindzati,ქინძათი,304,3,Village,UTC+4,Asia/Tbilisi
+1665435,GE,GE-SJ,Kikineti,ქიქინეთი,151,3,Village,UTC+4,Asia/Tbilisi
+1665438,GE,GE-AJ,Kidzinidzeebi,ქიძინიძეები,345,3,Village,UTC+4,Asia/Tbilisi
+1665443,GE,\N,Khvtse,Khvtse,113411,3,City (Shi),UTC+4,Asia/Tbilisi
+1665444,GE,GE-SJ,Ghvtismshobeli,ღვთისმშობელი,17,3,Village,UTC+4,Asia/Tbilisi
+1665445,GE,GE-SK,Khviti,ხვითი,218,3,Village,UTC+4,Asia/Tbilisi
+1665446,GE,GE-IM,Khvashiti,ხვაშითი,36,3,Village,UTC+4,Asia/Tbilisi
+1665447,GE,GE-GU,Khvarbeti,ხვარბეთი,673,3,Village,UTC+4,Asia/Tbilisi
+1665448,GE,GE-IM,Khvani,ხვანი,163,3,Village,UTC+4,Asia/Tbilisi
+1665450,GE,GE-AJ,Khutsubani,ხუცუბანი,3483,3,Village,UTC+4,Asia/Tbilisi
+1665453,GE,GE-RL,Khuruti,ხურუთი,43,3,Village,UTC+4,Asia/Tbilisi
+1665454,GE,GE-MM,Khurtisi,ხურთისი,47,3,Village,UTC+4,Asia/Tbilisi
+1665455,GE,GE-IM,Khunevi,ხუნევი,436,3,Village,UTC+4,Asia/Tbilisi
+1665456,GE,GE-IM,Khunjulauri,ხუნჯულაური,285,3,Village,UTC+4,Asia/Tbilisi
+1665458,GE,GE-AJ,Khulo,ხულო,915,2,Municipality,UTC+4,Asia/Tbilisi
+1665459,GE,GE-SJ,Khulgumo,ხულგუმო,1004,3,Village,UTC+4,Asia/Tbilisi
+1665462,GE,GE-SK,Khtsisi,ხცისი,424,3,Village,UTC+4,Asia/Tbilisi
+1665463,GE,GE-MM,Khramists'q'aro,ხრამისწყარო,19764,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1665464,GE,GE-GU,Khrialeti,ხრიალეთი,1533,3,Village,UTC+4,Asia/Tbilisi
+1665465,GE,GE-IM,Khresili,ხრესილი,274,3,Village,UTC+4,Asia/Tbilisi
+1665466,GE,GE-IM,Khreiti,ხრეითი,1644,3,Village,UTC+4,Asia/Tbilisi
+1665467,GE,GE-SZ,Khosrari,ხოსრარი,11,3,Village,UTC+4,Asia/Tbilisi
+1665469,GE,GE-SK,Khovle,ხოვლე,1449,3,Village,UTC+4,Asia/Tbilisi
+1665474,GE,GE-MM,Khoshara,ხოშარა,4,3,Village,UTC+4,Asia/Tbilisi
+1665475,GE,GE-SZ,Didi Khorshi,Khorsha,175,3,Village,UTC+4,Asia/Tbilisi
+1665476,GE,GE-KA,Khorkheli,ხორხელი,267,3,Village,UTC+4,Asia/Tbilisi
+1665477,GE,GE-IM,Khoriti,ხორითი,90,3,Village,UTC+4,Asia/Tbilisi
+1665478,GE,GE-GU,Khoreti,ხორეთი,251,3,Village,UTC+4,Asia/Tbilisi
+1665479,GE,GE-IM,Khorchana,ხორჩანა,62,3,Village,UTC+4,Asia/Tbilisi
+1665480,GE,GE-KA,Khorbalo,ხორბალო,45,3,Village,UTC+4,Asia/Tbilisi
+1665481,GE,GE-RL,Khopuri,ხოფური,102,3,Village,UTC+4,Asia/Tbilisi
+1665484,GE,GE-IM,Khoni,ხონი,9892,2,Municipality,UTC+4,Asia/Tbilisi
+1665486,GE,GE-IM,Khomuli,ხომული,1510,3,Village,UTC+4,Asia/Tbilisi
+1665487,GE,GE-MM,Khomi,ხომი,18,3,Village,UTC+4,Asia/Tbilisi
+1665488,GE,GE-AB,Kholodnaia-Rech'ka,ხოლოდნაია რეჩკა,1624,3,locality,UTC+4,Asia/Tbilisi
+1665489,GE,GE-KK,Khokhmeli,ხოხმელი,59,3,Village,UTC+4,Asia/Tbilisi
+1665491,GE,GE-KK,Khojorni,ხოჯორნი,635,3,Village,UTC+4,Asia/Tbilisi
+1665492,GE,GE-RL,Khoji,ხოჯი,87,3,Village,UTC+4,Asia/Tbilisi
+1665495,GE,GE-SZ,Khobi,ხობი,4536,2,Municipality,UTC+4,Asia/Tbilisi
+1665496,GE,GE-MM,Khiznebi,ხიზნები,22,3,Village,UTC+4,Asia/Tbilisi
+1665498,GE,GE-KA,Khizabavra,ხიზაბავრა,585,3,Village,UTC+4,Asia/Tbilisi
+1665501,GE,GE-RL,Khirkhonisi,ხირხონისი,24,3,Village,UTC+4,Asia/Tbilisi
+1665502,GE,GE-MM,Khirausha,ხირაუშა,1,3,Village,UTC+4,Asia/Tbilisi
+1665504,GE,GE-RL,Khimshi,ხიმში,178,3,Village,UTC+4,Asia/Tbilisi
+1665506,GE,GE-AJ,Khikhadziri,ხიხაძირი,455,3,Village,UTC+4,Asia/Tbilisi
+1665507,GE,GE-GU,Khidmaghala,ხიდმაღალა,756,3,Village,UTC+4,Asia/Tbilisi
+1665508,GE,GE-SK,Khidistavi,ხისითავი,3539,3,Village,UTC+4,Asia/Tbilisi
+1665512,GE,GE-IM,Khidi,ხიდი,113,3,Village,UTC+4,Asia/Tbilisi
+1665513,GE,GE-RL,Khideshlebi,ხიდეშლები,29,3,Village,UTC+4,Asia/Tbilisi
+1665514,GE,GE-IM,Khidari,ხიდარი,598,3,Village,UTC+4,Asia/Tbilisi
+1665515,GE,GE-MM,Khevsurtsopeli,ხევსურთსოფელი,215,3,Village,UTC+4,Asia/Tbilisi
+1665517,GE,GE-AB,Khevi,Khevi,243,3,Village,UTC+4,Asia/Tbilisi
+1665520,GE,GE-SJ,Khevasheni,ხევაშენი,270,3,Village,UTC+4,Asia/Tbilisi
+1665522,GE,GE-SZ,Khetsera,ხეცერა,261,3,Village,UTC+4,Asia/Tbilisi
+1665523,GE,GE-SK,Khet'agurovi,ხეთაგუროვი,850,4,locality,UTC+4,Asia/Tbilisi
+1665524,GE,GE-SZ,Kheta,ხეთა,364,3,Village,UTC+4,Asia/Tbilisi
+1665526,GE,GE-SJ,Khertvisi,ხერთვისი,1000,3,Village,UTC+4,Asia/Tbilisi
+1665527,GE,GE-SZ,Kherkhvashi,ხერხვაში,1,3,Village,UTC+4,Asia/Tbilisi
+1665528,GE,GE-SJ,Kheoti,ხეოთი,255,3,Village,UTC+4,Asia/Tbilisi
+1665529,GE,GE-MM,Kheoba,ხეობა,100,3,Village,UTC+4,Asia/Tbilisi
+1665531,GE,GE-IM,Khemaghali,ხემაღალი,135,3,Village,UTC+4,Asia/Tbilisi
+1665532,GE,GE-AJ,Khelvachauri,ხელვაჩაური,26293,2,Municipality,UTC+4,Asia/Tbilisi
+1665533,GE,GE-SK,Kheltubani,ხელთუბანი,3340,3,Village,UTC+4,Asia/Tbilisi
+1665534,GE,GE-SZ,Khelra,ხელრა,25,3,Village,UTC+4,Asia/Tbilisi
+1665535,GE,GE-RL,Kheledi,ხელედი,258,3,Village,UTC+4,Asia/Tbilisi
+1665538,GE,GE-AB,Kheivani,ხეივანი,3096,3,locality,UTC+4,Asia/Tbilisi
+1665539,GE,GE-RL,Kheiti,ხეითი,3,3,Village,UTC+4,Asia/Tbilisi
+1665541,GE,GE-SZ,Khe,ხე,4,3,Village,UTC+4,Asia/Tbilisi
+1665542,GE,GE-SJ,Khaveti,ხავეთი,276,3,Village,UTC+4,Asia/Tbilisi
+1665543,GE,GE-SK,Khashuri,ხაშური,26460,2,Municipality,UTC+4,Asia/Tbilisi
+1665544,GE,GE-AB,Khashupse,ხაშუფსე,217,4,locality,UTC+4,Asia/Tbilisi
+1665545,GE,GE-KA,Khashmi,ხაშმი,1632,3,Village,UTC+4,Asia/Tbilisi
+1665548,GE,GE-MM,Kharkheti,ხარხეთი,31,3,Village,UTC+4,Asia/Tbilisi
+1665550,GE,GE-RL,Kharistvali,ხარისთვალი,23,3,Village,UTC+4,Asia/Tbilisi
+1665551,GE,GE-RL,Kharistvala,ხარისთვალა,65,4,locality,UTC+4,Asia/Tbilisi
+1665552,GE,GE-SJ,Kharjami,ხარჯამი,137,3,Village,UTC+4,Asia/Tbilisi
+1665555,GE,GE-AJ,Kharaula,ხარაულა,639,3,Village,UTC+4,Asia/Tbilisi
+1665557,GE,GE-IM,Khani,ხანი,525,3,Village,UTC+4,Asia/Tbilisi
+1665558,GE,GE-KK,Khanjigazlo,ხანჯიგაზლო,380,3,Village,UTC+4,Asia/Tbilisi
+1665559,GE,GE-KK,Khando,ხანდო,1090,3,Village,UTC+4,Asia/Tbilisi
+1665566,GE,GE-IM,Khalipauri,ხალიფაური,402,3,Village,UTC+4,Asia/Tbilisi
+1665567,GE,GE-AJ,Khala,ხალა,1503,3,Village,UTC+4,Asia/Tbilisi
+1665568,GE,GE-SJ,Khak'i,ხაკი,70,4,locality,UTC+4,Asia/Tbilisi
+1665571,GE,GE-MM,Khakhabo,ხახაბო,1,3,Village,UTC+4,Asia/Tbilisi
+1665573,GE,GE-MM,Khaisho,ხაიშო,1,3,Village,UTC+4,Asia/Tbilisi
+1665574,GE,GE-SZ,Khaishi,ხაიში,491,3,Village,UTC+4,Asia/Tbilisi
+1665575,GE,GE-GU,Khajalia,ხაჯალია,1018,3,Village,UTC+4,Asia/Tbilisi
+1665576,GE,GE-MM,Khadoelebi,ხადოელები,28,3,Village,UTC+4,Asia/Tbilisi
+1665580,GE,GE-RL,Khacheshi,ხაჩეში,18,3,Village,UTC+4,Asia/Tbilisi
+1665582,GE,GE-SZ,Khabume,ხაბუმე,1413,3,Village,UTC+4,Asia/Tbilisi
+1665583,GE,GE-AJ,Khabelashvilebi,ხაბელაშვილები,262,3,Village,UTC+4,Asia/Tbilisi
+1665586,GE,GE-KA,Kevkhiani,ქევხიანი,117,3,Village,UTC+4,Asia/Tbilisi
+1665591,GE,GE-KA,Keshalo,ქეშალო,3237,3,Village,UTC+4,Asia/Tbilisi
+1665593,GE,GE-KK,Kesalo,ქესალო,4793,3,Village,UTC+4,Asia/Tbilisi
+1665596,GE,GE-SK,Kere,ქერე,709,3,Village,UTC+4,Asia/Tbilisi
+1665597,GE,GE-MM,Kerana,ქერანა,16,3,Village,UTC+4,Asia/Tbilisi
+1665602,GE,GE-SK,Kemperi,ქემფერი,350,3,Village,UTC+4,Asia/Tbilisi
+1665610,GE,GE-AJ,Kekhovani,Kekhovani,143,3,Village,UTC+4,Asia/Tbilisi
+1665612,GE,GE-AJ,Kedlebi,ქედლები,964,3,Village,UTC+4,Asia/Tbilisi
+1665613,GE,GE-AJ,Kedkedi,ქედქედი,458,3,Village,UTC+4,Asia/Tbilisi
+1665614,GE,GE-RL,Kedisubani,ქედისუბანი,57,3,Village,UTC+4,Asia/Tbilisi
+1665617,GE,GE-SZ,Kedani,ქედანი,4,3,Village,UTC+4,Asia/Tbilisi
+1665618,GE,GE-AJ,Keda,ქედა,7778,2,Municipality,UTC+4,Asia/Tbilisi
+1665622,GE,GE-KK,Kazreti,კაზრეთი,5452,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1665624,GE,GE-MM,Stepantsminda,Step’antsminda,1552,2,Urban Settlement,UTC+4,Asia/Tbilisi
+1665629,GE,GE-SJ,Q'aurma,ყაურმა,302,3,locality,UTC+4,Asia/Tbilisi
+1665631,GE,GE-IM,K'atskhi,კაცხი,2000,4,locality,UTC+4,Asia/Tbilisi
+1665636,GE,GE-KA,Kasristsqali,კასრისწყალი,214,3,Village,UTC+4,Asia/Tbilisi
+1665637,GE,GE-SK,Kaspi,კასპი,13919,2,Municipality,UTC+4,Asia/Tbilisi
+1665638,GE,GE-SZ,Kashveti,ქაშუეთი,125,3,Village,UTC+4,Asia/Tbilisi
+1665643,GE,GE-SZ,Kartvani,ქართვანი,53,3,Village,UTC+4,Asia/Tbilisi
+1665644,GE,GE-SJ,Kartsebi,ქარცები,110,3,Village,UTC+4,Asia/Tbilisi
+1665649,GE,GE-MM,Q'arsimaantk'ari,ყარსიმაანთკარი,53,4,locality,UTC+4,Asia/Tbilisi
+1665651,GE,GE-MM,Karkushaani,ქარქუშაანი,55,3,Village,UTC+4,Asia/Tbilisi
+1665652,GE,GE-MM,K'ark'ucha,კარკუჩა,50,4,locality,UTC+4,Asia/Tbilisi
+1665654,GE,GE-KK,Kariani,ქარიანი,93,3,Village,UTC+4,Asia/Tbilisi
+1665656,GE,GE-MM,Kareltk'ari,ქარელთკარი,9305,3,Urban Township (Zhen),UTC+4,Asia/Tbilisi
+1665657,GE,GE-KA,K'ardenakhi,კარდენახი,3873,4,locality,UTC+4,Asia/Tbilisi
+1665661,GE,GE-KK,Sabereti,საბერეთი,53,3,Village,UTC+4,Asia/Tbilisi
+1665671,GE,GE-KK,Its'ria,იწრია,177,4,locality,UTC+4,Asia/Tbilisi
+1665675,GE,\N,Kaprashiani,Kaprashiani,34,3,Village,UTC+4,Asia/Tbilisi
+1665690,GE,GE-SJ,Sameba,სამება,66,4,locality,UTC+4,Asia/Tbilisi
+1665691,GE,GE-MM,Kalilo,ქალილო,48,3,Village,UTC+4,Asia/Tbilisi
+1665699,GE,GE-GU,Kakuti,ქაქუთი,1211,3,Village,UTC+4,Asia/Tbilisi
+1665707,GE,GE-SK,Kakatikau,Kakatikau,1461,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1665722,GE,GE-SK,Java,ჯავა,803,2,Settlement,UTC+4,Asia/Tbilisi
+1665723,GE,GE-SZ,Ienashi,იენაში,227,3,Village,UTC+4,Asia/Tbilisi
+1665724,GE,GE-SZ,Ieli,იელი,44,3,Village,UTC+4,Asia/Tbilisi
+1665726,GE,GE-SJ,Ivlit'a,ივლიტა,227,4,locality,UTC+4,Asia/Tbilisi
+1665728,GE,GE-IM,Ivaneuli,ივანეული,18,3,Village,UTC+4,Asia/Tbilisi
+1665729,GE,GE-IM,Ivandidi,ივანდიდი,1668,3,Village,UTC+4,Asia/Tbilisi
+1665730,GE,GE-IM,Itskisi,იცქისი,399,3,Village,UTC+4,Asia/Tbilisi
+1665734,GE,GE-IM,Itkhvisi,ითხვისი,1882,3,Village,UTC+4,Asia/Tbilisi
+1665735,GE,GE-RL,Isunderi,ისუნდერი,94,3,Village,UTC+4,Asia/Tbilisi
+1665736,GE,GE-SZ,Isula,ისულა,528,3,Village,UTC+4,Asia/Tbilisi
+1665738,GE,GE-IM,Isriti,ისრითი,654,3,Village,UTC+4,Asia/Tbilisi
+1665742,GE,GE-RL,Iri,ირი,43,3,Village,UTC+4,Asia/Tbilisi
+1665743,GE,GE-KK,Irganchai,ირგანჩაი,2014,3,Village,UTC+4,Asia/Tbilisi
+1665744,GE,GE-AJ,Iremadzeebi,ირემაძეები,453,3,Village,UTC+4,Asia/Tbilisi
+1665745,GE,GE-SZ,Iprari,იფრარი,14,3,Village,UTC+4,Asia/Tbilisi
+1665747,GE,GE-SK,Ipnara,იფნარა,6,3,Village,UTC+4,Asia/Tbilisi
+1665748,GE,GE-SZ,Ipkhi,იფხი,35,3,Village,UTC+4,Asia/Tbilisi
+1665749,GE,GE-SZ,Kveda Ipari,ქვედა იფარი,33,3,Village,UTC+4,Asia/Tbilisi
+1665750,GE,GE-KA,Iormughanlo,მუღანლო,2169,4,locality,UTC+4,Asia/Tbilisi
+1665751,GE,GE-MM,Iori,იორი,7,3,Village,UTC+4,Asia/Tbilisi
+1665755,GE,GE-MM,Ino,ინო,1,3,Village,UTC+4,Asia/Tbilisi
+1665756,GE,GE-KA,Ingeti,ინგეთი,12,3,Village,UTC+4,Asia/Tbilisi
+1665761,GE,GE-IM,Inashauri,ინაშაური,509,3,Village,UTC+4,Asia/Tbilisi
+1665762,GE,GE-KK,Imiri,იმირი,1235,3,Village,UTC+4,Asia/Tbilisi
+1665764,GE,GE-IM,Imerukhuti,იმერუხუთი,223,3,Village,UTC+4,Asia/Tbilisi
+1665767,GE,GE-KK,Imera,იმერა,317,3,Village,UTC+4,Asia/Tbilisi
+1665771,GE,GE-KK,Ilmazlo,ილმაზლო,998,3,Village,UTC+4,Asia/Tbilisi
+1665780,GE,GE-SJ,Ijareti,იჯარეთი,262,3,Village,UTC+4,Asia/Tbilisi
+1665781,GE,GE-SJ,Idumala,იდუმალა,299,3,Village,UTC+4,Asia/Tbilisi
+1665782,GE,GE-SZ,Idliani,იდლიანი,292,3,Village,UTC+4,Asia/Tbilisi
+1665783,GE,GE-SK,Idleti,იდლეთი,263,3,Village,UTC+4,Asia/Tbilisi
+1665784,GE,GE-MM,Iarajulebi,იარაჯულები,123,3,Village,UTC+4,Asia/Tbilisi
+1665785,GE,GE-GU,Ianeuli,იანეული,385,3,Village,UTC+4,Asia/Tbilisi
+1665786,GE,GE-GU,Ianeti,იანეთი,2016,3,Village,UTC+4,Asia/Tbilisi
+1665787,GE,GE-KK,Iaghuplo,იაღუფლო,478,3,Village,UTC+4,Asia/Tbilisi
+1665791,GE,GE-SK,Ghvlevi,ღვლევი,190,3,Village,UTC+4,Asia/Tbilisi
+1665797,GE,GE-KA,Gvimriani,გვიმრიანი,246,3,Village,UTC+4,Asia/Tbilisi
+1665798,GE,\N,Gvimbalauri,Gvimbalauri,746,3,Village,UTC+4,Asia/Tbilisi
+1665799,GE,GE-SZ,Gvimaroni,გვიმარონი,361,3,Village,UTC+4,Asia/Tbilisi
+1665800,GE,GE-MM,Gvidake,გვიდაქე,17,3,Village,UTC+4,Asia/Tbilisi
+1665801,GE,GE-RL,Ghviara,ღვიარა,162,3,Village,UTC+4,Asia/Tbilisi
+1665802,GE,GE-KK,Ghvevi,ღვევი,14,3,Village,UTC+4,Asia/Tbilisi
+1665803,GE,GE-RL,Gveso,გვესო,135,3,Village,UTC+4,Asia/Tbilisi
+1665806,GE,GE-SK,Gverdzineti,გვერძინეთი,92,3,Village,UTC+4,Asia/Tbilisi
+1665807,GE,\N,Gverdisubani,Gverdisubani,34,3,Village,UTC+4,Asia/Tbilisi
+1665809,GE,GE-MM,Gveleti,გველეთი,1,3,Village,UTC+4,Asia/Tbilisi
+1665812,GE,GE-IM,Ghvedi,ღვედი,71,3,Village,UTC+4,Asia/Tbilisi
+1665813,GE,GE-SZ,Ghvebra,ღვებრა,10,3,Village,UTC+4,Asia/Tbilisi
+1665814,GE,GE-SZ,Ghvebaldi,ღვებალდი,26,3,Village,UTC+4,Asia/Tbilisi
+1665815,GE,GE-IM,Gvazauri,გვაზაური,348,3,Village,UTC+4,Asia/Tbilisi
+1665816,GE,GE-SK,Ghvarebi,ღვარები,24,3,Village,UTC+4,Asia/Tbilisi
+1665817,GE,GE-AJ,Gvara,გვარა,1089,3,Village,UTC+4,Asia/Tbilisi
+1665820,GE,GE-AB,Gvandra,გვანდრა,97,4,locality,UTC+4,Asia/Tbilisi
+1665821,GE,GE-AB,Ghvada,ღვადა,371,3,locality,UTC+4,Asia/Tbilisi
+1665822,GE,GE-GU,Guturi,გუთური,880,3,Village,UTC+4,Asia/Tbilisi
+1665826,GE,GE-IM,Gurna,გურნა,419,3,Village,UTC+4,Asia/Tbilisi
+1665828,GE,GE-KA,Gurjaani,გურჯაანი,8647,2,Municipality,UTC+4,Asia/Tbilisi
+1665830,GE,GE-GU,Gurianta,გურიანი,1215,3,Village,UTC+4,Asia/Tbilisi
+1665831,GE,GE-KA,Kvemo Gurgeniani,ქვემო გურგენიანი,357,3,Village,UTC+4,Asia/Tbilisi
+1665832,GE,GE-AJ,Gurdzauli,Gurdzauli,115,3,Village,UTC+4,Asia/Tbilisi
+1665838,GE,GE-IM,Gundaeti,გუნდაეთი,240,3,Village,UTC+4,Asia/Tbilisi
+1665839,GE,GE-AJ,Gundauri,გუნდაური,218,3,Village,UTC+4,Asia/Tbilisi
+1665841,GE,GE-RL,Ghunda,ღუნდა,12,3,Village,UTC+4,Asia/Tbilisi
+1665844,GE,GE-IM,Gumbra,გუმბრა,2381,3,Village,UTC+4,Asia/Tbilisi
+1665845,GE,GE-KK,Gumbati,გუმბათი,479,3,Village,UTC+4,Asia/Tbilisi
+1665846,GE,GE-IM,Gumati,გუმათი,426,3,Village,UTC+4,Asia/Tbilisi
+1665847,GE,GE-SZ,Gulukheti,გულუხეთი,318,3,Village,UTC+4,Asia/Tbilisi
+1665848,GE,GE-AB,Gulripshi,გულრიფში,3775,2,Sett,UTC+4,Asia/Tbilisi
+1665851,GE,GE-RL,Gulida,გულიდი,59,3,Village,UTC+4,Asia/Tbilisi
+1665853,GE,GE-GU,Guliani,გურიანი,397,3,Village,UTC+4,Asia/Tbilisi
+1665854,GE,GE-MM,Ghuli,ღული,10,3,Village,UTC+4,Asia/Tbilisi
+1665857,GE,GE-MM,Ghulelebi,ღულელები,260,3,Village,UTC+4,Asia/Tbilisi
+1665858,GE,GE-AJ,Gulebi,გულები,235,3,Village,UTC+4,Asia/Tbilisi
+1665859,GE,GE-KK,Giulbakhi,გიულბახი,245,3,Village,UTC+4,Asia/Tbilisi
+1665863,GE,GE-KA,Gujareti,გუჯარეთი,27,3,Village,UTC+4,Asia/Tbilisi
+1665865,GE,GE-MM,Gudrukhi,გუდრუხი,53,3,Village,UTC+4,Asia/Tbilisi
+1665868,GE,GE-AB,Gudauta,გუდაუთა,8712,2,City,UTC+4,Asia/Tbilisi
+1665869,GE,GE-MM,Gudauri,გუდაური,54,3,Village,UTC+4,Asia/Tbilisi
+1665870,GE,GE-IM,Gudatubani,გუდათუბანი,1,3,Village,UTC+4,Asia/Tbilisi
+1665872,GE,GE-AJ,Gudasakho,გუდასახო,163,3,Village,UTC+4,Asia/Tbilisi
+1665873,GE,GE-KK,Gudarekhi,გუდარეხი,12,3,Village,UTC+4,Asia/Tbilisi
+1665874,GE,GE-MM,Gudarakhi,გუდარახი,2,3,Village,UTC+4,Asia/Tbilisi
+1665875,GE,GE-MM,Gudani,გუდანი,22,3,Village,UTC+4,Asia/Tbilisi
+1665876,GE,GE-MM,Gudanelebi,გუდანელები,50,3,Village,UTC+4,Asia/Tbilisi
+1665877,GE,GE-SK,Gudaleti,გუდალეთი,142,3,Village,UTC+4,Asia/Tbilisi
+1665880,GE,GE-RL,Ghu,ღუ,34,3,Village,UTC+4,Asia/Tbilisi
+1665884,GE,GE-SZ,Grigolishi,გრიგოლიში,509,3,Village,UTC+4,Asia/Tbilisi
+1665885,GE,GE-GU,Grigoleti,გრიგოლეთი,261,3,Village,UTC+4,Asia/Tbilisi
+1665887,GE,GE-IM,Grigalati,გრიგალათი,370,3,Village,UTC+4,Asia/Tbilisi
+1665888,GE,GE-KA,Gremi,გრემი,791,3,Village,UTC+4,Asia/Tbilisi
+1665889,GE,GE-SJ,Ghreli,ღრელი,394,3,Village,UTC+4,Asia/Tbilisi
+1665891,GE,GE-AB,Grebeshok'i,გრებეშოკი,254,3,locality,UTC+4,Asia/Tbilisi
+1665892,GE,GE-MM,Grdzelvelebi,გრძელველები,7,3,Village,UTC+4,Asia/Tbilisi
+1665894,GE,GE-GU,Ghrmaghele,ღრმაღელე,835,3,Village,UTC+4,Asia/Tbilisi
+1665896,GE,GE-KK,Ghoubani,ღოუბანი,516,3,Village,UTC+4,Asia/Tbilisi
+1665897,GE,GE-SJ,Ghortubani,ღორთუბანი,100,3,Village,UTC+4,Asia/Tbilisi
+1665898,GE,GE-MM,Gorovani,გოროვანი,457,3,Village,UTC+4,Asia/Tbilisi
+1665899,GE,GE-IM,Gormaghali,გორმაღალი,420,3,Village,UTC+4,Asia/Tbilisi
+1665900,GE,GE-RL,Gorisubani,გორისუბანი,36,3,Village,UTC+4,Asia/Tbilisi
+1665901,GE,GE-MM,Goristsikhe,გორისციხე,187,3,Village,UTC+4,Asia/Tbilisi
+1665902,GE,GE-IM,Gorisa,გორისა,1087,3,Village,UTC+4,Asia/Tbilisi
+1665904,GE,GE-SK,Gori,გორი,46240,2,Municipality,UTC+4,Asia/Tbilisi
+1665905,GE,GE-SJ,Gorguli,გორგული,155,3,Village,UTC+4,Asia/Tbilisi
+1665907,GE,GE-AJ,Gorgadzeebi,გორგაძეები,1298,3,Village,UTC+4,Asia/Tbilisi
+1665908,GE,GE-IM,Ghoresha,ღორეშა,767,3,Village,UTC+4,Asia/Tbilisi
+1665909,GE,GE-SJ,Gorelovk'a,გროელოვკა,700,4,locality,UTC+4,Asia/Tbilisi
+1665910,GE,GE-SJ,Ghordze,ღორძე,227,3,Village,UTC+4,Asia/Tbilisi
+1665912,GE,GE-AJ,Gobroneti,გობრონეთი,251,3,Village,UTC+4,Asia/Tbilisi
+1665913,GE,GE-MM,Gorana,გორანა,169,3,Village,UTC+4,Asia/Tbilisi
+1665914,GE,GE-KA,Gorana,გორანა,74,4,village,UTC+4,Asia/Tbilisi
+1665916,GE,GE-GU,Goraberezhouli,გორაბერეჟოული,628,3,Village,UTC+4,Asia/Tbilisi
+1665920,GE,GE-IM,Ghona,ღონა,796,3,Village,UTC+4,Asia/Tbilisi
+1665923,GE,GE-RL,Gomi,გომი,1128,3,Village,UTC+4,Asia/Tbilisi
+1665925,GE,GE-SK,Gomi,გომი,1128,4,locality,UTC+4,Asia/Tbilisi
+1665926,GE,GE-SK,Kvemo Gomi,გომი,884,3,Village,UTC+4,Asia/Tbilisi
+1665929,GE,GE-SK,Gombori,გომბორი,681,3,Village,UTC+4,Asia/Tbilisi
+1665930,GE,GE-KA,Gombori,გომბორი,39141,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1665931,GE,GE-SJ,Gomaro,გომარო,406,3,Village,UTC+4,Asia/Tbilisi
+1665932,GE,GE-AJ,Gomarduli,გომარდული,290,3,Village,UTC+4,Asia/Tbilisi
+1665933,GE,GE-SJ,Gomani,გომანი,913,3,Village,UTC+4,Asia/Tbilisi
+1665934,GE,GE-KK,Golteti,გოლთეთი,385,3,Village,UTC+4,Asia/Tbilisi
+1665935,GE,GE-KK,Gholovani,ღოლოვანი,22,3,Village,UTC+4,Asia/Tbilisi
+1665936,GE,GE-IM,Golatubani,გოლათუბანი,70,3,Village,UTC+4,Asia/Tbilisi
+1665939,GE,GE-KK,Gokhnari,გოხნარი,25,3,Village,UTC+4,Asia/Tbilisi
+1665942,GE,GE-RL,Gogoleti,გოგოლეთი,15,3,Village,UTC+4,Asia/Tbilisi
+1665943,GE,GE-GU,Gogolesubani,გოგოლესუბანი,858,3,Village,UTC+4,Asia/Tbilisi
+1665944,GE,GE-MM,Gogolaurta,გოგოლაურთა,8,3,Village,UTC+4,Asia/Tbilisi
+1665946,GE,GE-IM,Gogni,გოგნი,448,3,Village,UTC+4,Asia/Tbilisi
+1665947,GE,GE-MM,Gognauri,გოგნაური,29,3,Village,UTC+4,Asia/Tbilisi
+1665948,GE,GE-GU,Gogieti,გოგიეთი,151,3,Village,UTC+4,Asia/Tbilisi
+1665949,GE,GE-AJ,Goginauri,გოგინაური,251,3,Village,UTC+4,Asia/Tbilisi
+1665951,GE,GE-SJ,Gogasheni,გოგაშენი,272,3,Village,UTC+4,Asia/Tbilisi
+1665952,GE,GE-AJ,Gogadzeebi,გოგაძეები,143,3,Village,UTC+4,Asia/Tbilisi
+1665953,GE,GE-MM,Gojiaanebi,გოჯიაანები,70,3,Village,UTC+4,Asia/Tbilisi
+1665954,GE,GE-IM,Ghodora,ღოდორა,150,3,Village,UTC+4,Asia/Tbilisi
+1665955,GE,GE-SZ,Godogani,გოდოგანი,1462,3,Village,UTC+4,Asia/Tbilisi
+1665958,GE,GE-RL,Ghobi,ღობი,1,3,Village,UTC+4,Asia/Tbilisi
+1665959,GE,GE-RL,Glola,გლოლა,279,3,Village,UTC+4,Asia/Tbilisi
+1665960,GE,GE-TB,Gldani,გლდანი,3669,3,Village,UTC+4,Asia/Tbilisi
+1665964,GE,GE-SJ,Giorgits'minda,გიორგიწმინდა,316,4,locality,UTC+4,Asia/Tbilisi
+1665965,GE,\N,Giorgitsminda,Giorgitsminda,2307,3,Village,UTC+4,Asia/Tbilisi
+1665967,GE,GE-SZ,Gimozgonjili,გიმოზგონჯილი,585,3,Village,UTC+4,Asia/Tbilisi
+1665969,GE,GE-RL,Ghebi,ღები,296,3,Village,UTC+4,Asia/Tbilisi
+1665971,GE,\N,Gezati,Gezati,337,3,Village,UTC+4,Asia/Tbilisi
+1665972,GE,GE-SZ,Gheshderi,ღეშდერი,17,3,Village,UTC+4,Asia/Tbilisi
+1665978,GE,GE-RL,Gendushi,გენდუში,27,3,Village,UTC+4,Asia/Tbilisi
+1665979,GE,GE-IM,Gelaveri,გელავერი,99,3,Village,UTC+4,Asia/Tbilisi
+1665980,GE,\N,Gelauri,Gelauri,108,3,Village,UTC+4,Asia/Tbilisi
+1665982,GE,GE-IM,Gelati,გელათი,408,3,Village,UTC+4,Asia/Tbilisi
+1665983,GE,\N,Gelati,გელათი,205,4,village,UTC+4,Asia/Tbilisi
+1665984,GE,GE-AJ,Geladzeebi,გელაძეები,328,3,Village,UTC+4,Asia/Tbilisi
+1665986,GE,GE-IM,Geguti,გეგუთი,5049,3,Village,UTC+4,Asia/Tbilisi
+1665987,GE,GE-AJ,Gegelidzeebi,გეგელიძეები,428,3,Village,UTC+4,Asia/Tbilisi
+1665988,GE,GE-SZ,Gejeti,გეჯეთი,878,3,Village,UTC+4,Asia/Tbilisi
+1665989,GE,GE-IM,Gedsamania,გედსამანია,313,3,Village,UTC+4,Asia/Tbilisi
+1665996,GE,GE-MM,Gavazi,გავაზი,2945,3,Village,UTC+4,Asia/Tbilisi
+1665999,GE,GE-SZ,Gashperdi,გაშფერდი,622,3,Village,UTC+4,Asia/Tbilisi
+1666001,GE,GE-SK,Gharta,ღართა,15,3,Village,UTC+4,Asia/Tbilisi
+1666004,GE,\N,Gariqula,Gariqula,435,3,Village,UTC+4,Asia/Tbilisi
+1666005,GE,GE-RL,Ghari,ღარი,349,3,Village,UTC+4,Asia/Tbilisi
+1666009,GE,GE-KK,Gardabani,გარდაბანი,11870,2,Municipality,UTC+4,Asia/Tbilisi
+1666011,GE,GE-MM,Garbani,გარბანი,329,3,Village,UTC+4,Asia/Tbilisi
+1666012,GE,GE-SZ,Garakha,გარახა,575,3,Village,UTC+4,Asia/Tbilisi
+1666014,GE,GE-AB,Gantiadi,განთიადი,5009,3,Village,UTC+4,Asia/Tbilisi
+1666016,GE,GE-IM,Didi Gantiadi,დიდი განთიადი,244,3,Village,UTC+4,Asia/Tbilisi
+1666020,GE,GE-IM,Ghaniri,ღანირი,1130,3,Village,UTC+4,Asia/Tbilisi
+1666022,GE,GE-KA,Ganjala,განჯალა,2243,3,Village,UTC+4,Asia/Tbilisi
+1666023,GE,GE-SJ,Gandza,განძა,2558,3,Village,UTC+4,Asia/Tbilisi
+1666025,GE,\N,Ganatleba,განათლება,376,3,Village,UTC+4,Asia/Tbilisi
+1666026,GE,GE-AB,Ganarjiis Mukhuri,განარჯიის მუხური,1354,3,Village,UTC+4,Asia/Tbilisi
+1666027,GE,GE-AB,Ganakhleba,Ganakhleba,1479,3,Village,UTC+4,Asia/Tbilisi
+1666028,GE,GE-AB,Ganakhleba,განაზლება,457,3,Village,UTC+4,Asia/Tbilisi
+1666029,GE,GE-GU,Amaghleba,ამაღლება,1052,3,Village,UTC+4,Asia/Tbilisi
+1666032,GE,GE-MM,Gamsi,გამსი,20,3,Village,UTC+4,Asia/Tbilisi
+1666033,GE,GE-SZ,Gamoghma Zanati,გამოღმა ზანათი,691,3,Village,UTC+4,Asia/Tbilisi
+1666034,GE,GE-SZ,Gamoghma Shua Khorga,გამოღმა შუა ხორგა,573,3,Village,UTC+4,Asia/Tbilisi
+1666036,GE,GE-IM,Gamoghma Nogha,გამოღმა ნოღა,147,3,Village,UTC+4,Asia/Tbilisi
+1666039,GE,GE-IM,Gamoghma Boslevi,გამოღმა ბოსლევი,397,3,Village,UTC+4,Asia/Tbilisi
+1666041,GE,GE-KK,Gamarjveba,გამარჯვება,4670,3,Village,UTC+4,Asia/Tbilisi
+1666044,GE,GE-AB,Gali,გალი,7460,2,City,UTC+4,Asia/Tbilisi
+1666045,GE,GE-MM,Galavani,გალავანი,503,3,Village,UTC+4,Asia/Tbilisi
+1666046,GE,GE-GU,Gaguri,გაგური,181,3,Village,UTC+4,Asia/Tbilisi
+1666047,GE,GE-RL,Gagulechi,გაგულეჩი,149,3,Village,UTC+4,Asia/Tbilisi
+1666048,GE,GE-AB,Gagra,გაგრა,11786,2,City,UTC+4,Asia/Tbilisi
+1666049,GE,GE-SZ,Gaghma Zanati,გაღმა ზანათი,507,3,Village,UTC+4,Asia/Tbilisi
+1666051,GE,GE-SZ,Gaghma Shua Khorga,გაღმა შუა ხორგა,407,3,Village,UTC+4,Asia/Tbilisi
+1666052,GE,GE-SZ,Gaghma Sajijao,გაღმა საჯიჯაო,378,3,Village,UTC+4,Asia/Tbilisi
+1666054,GE,GE-IM,Gaghma Nogha,გაღმა ნოღა,105,3,Village,UTC+4,Asia/Tbilisi
+1666056,GE,GE-GU,Gaghma Dvabzu,გაღმა დვაბზუ,772,3,Village,UTC+4,Asia/Tbilisi
+1666058,GE,GE-AB,Gagida,გაგიდა,708,3,locality,UTC+4,Asia/Tbilisi
+1666059,GE,GE-SJ,Ghado,ღადო,480,3,Village,UTC+4,Asia/Tbilisi
+1666061,GE,GE-RL,Ghadishi,ღადიში,58,3,Village,UTC+4,Asia/Tbilisi
+1666062,GE,GE-IM,Gadidi,გადიდი,109,3,Village,UTC+4,Asia/Tbilisi
+1666063,GE,GE-RL,Gadamshi,გადამში,2,3,Village,UTC+4,Asia/Tbilisi
+1666068,GE,GE-AJ,Peria,ფერია,1830,3,Village,UTC+4,Asia/Tbilisi
+1666070,GE,GE-KK,T'alaveri,ტალავერი,5038,4,locality,UTC+4,Asia/Tbilisi
+1666071,GE,GE-AJ,Pachkha,ფაჩხა,545,3,Village,UTC+4,Asia/Tbilisi
+1666074,GE,GE-MM,Etvalisi,ეთვალისი,10,3,Village,UTC+4,Asia/Tbilisi
+1666086,GE,GE-AB,Eshera,ეშერა,2136,4,locality,UTC+4,Asia/Tbilisi
+1666091,GE,GE-SK,Ergneti,რგნეთი,500,3,Village,UTC+4,Asia/Tbilisi
+1666093,GE,GE-AJ,Erge,ერგე,569,3,Village,UTC+4,Asia/Tbilisi
+1666096,GE,GE-IM,Ereta,ერეთა,81,3,Village,UTC+4,Asia/Tbilisi
+1666098,GE,GE-MM,Ereda,ერედა,510,3,Village,UTC+4,Asia/Tbilisi
+1666100,GE,GE-KA,Eniseli,ენისელი,1424,3,Village,UTC+4,Asia/Tbilisi
+1666101,GE,GE-KK,Enageti,ენაგეთი,329,3,Village,UTC+4,Asia/Tbilisi
+1666109,GE,GE-MM,Ebnisi,ებნისი,142,3,Village,UTC+4,Asia/Tbilisi
+1666111,GE,GE-TB,Vedzisi,ვეძისი,53,3,Village,UTC+4,Asia/Tbilisi
+1666114,GE,GE-MM,Nok'orna,ნოკორნა,86,4,locality,UTC+4,Asia/Tbilisi
+1666115,GE,GE-KK,Dzveli Marabda,ძველი მარაბდა,346,3,Village,UTC+4,Asia/Tbilisi
+1666116,GE,GE-KK,Dzveli Kveshi,ძველი ქვეში,1199,3,Village,UTC+4,Asia/Tbilisi
+1666117,GE,\N,Dzveli Khibula,Dzveli Khibula,712,3,Village,UTC+4,Asia/Tbilisi
+1666118,GE,GE-MM,Dzveli Kanda,ძველი ქანდა,1106,3,Village,UTC+4,Asia/Tbilisi
+1666119,GE,GE-MM,Dzveli Burghuli,ძველი ბურღული,23,3,Village,UTC+4,Asia/Tbilisi
+1666120,GE,GE-KA,Dzveli Anaga,Dzvelanaga,1465,3,Village,UTC+4,Asia/Tbilisi
+1666121,GE,GE-SZ,Dzveli Abasha,ძველი აბაშა,859,3,Village,UTC+4,Asia/Tbilisi
+1666122,GE,GE-SJ,Dzveli,ძველი,371,3,Village,UTC+4,Asia/Tbilisi
+1666123,GE,GE-IM,Dzulukhi,ძულუხი,418,3,Village,UTC+4,Asia/Tbilisi
+1666126,GE,GE-IM,Dzmuisi,ძმუისი,143,3,Village,UTC+4,Asia/Tbilisi
+1666127,GE,GE-AJ,Dzmagula,ძმაგულა,184,3,Village,UTC+4,Asia/Tbilisi
+1666128,GE,GE-SK,Dzlevijvari,ძლევიჯვარი,788,3,Village,UTC+4,Asia/Tbilisi
+1666129,GE,\N,Dzirula,Dzirula,84,3,Village,UTC+4,Asia/Tbilisi
+1666131,GE,GE-IM,Dzirovani,ძიროვანი,275,3,Village,UTC+4,Asia/Tbilisi
+1666134,GE,GE-GU,Dzirjumati,ძირჯუმათი,189,3,Village,UTC+4,Asia/Tbilisi
+1666135,GE,GE-RL,Dzirageuli,ძირაგეული,237,3,Village,UTC+4,Asia/Tbilisi
+1666137,GE,GE-SZ,Dziguri,ძიგური,151,3,Village,UTC+4,Asia/Tbilisi
+1666138,GE,\N,Dzibakhevi,Dzibakhevi,104,3,Village,UTC+4,Asia/Tbilisi
+1666140,GE,GE-MM,Jvarisubani,ჯვარისუბანი,19316,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1666142,GE,GE-AJ,Jvariketi,ჯვარიქეთი,97,3,Village,UTC+4,Asia/Tbilisi
+1666143,GE,GE-SZ,Jvari,ჯვარი,2354,3,Village,UTC+4,Asia/Tbilisi
+1666146,GE,GE-MM,Juta,ჯუთა,26,3,Village,UTC+4,Asia/Tbilisi
+1666148,GE,GE-AJ,Jumushauri,ჯუმუშაური,67,3,Village,UTC+4,Asia/Tbilisi
+1666149,GE,GE-SZ,Jumiti,ჯუმითი,411,3,Village,UTC+4,Asia/Tbilisi
+1666150,GE,GE-SZ,Jumi,ჯუმი,1200,3,Village,UTC+4,Asia/Tbilisi
+1666151,GE,GE-GU,Jumati,ჯუმათი,345,3,Village,UTC+4,Asia/Tbilisi
+1666152,GE,GE-SJ,Julgha,ჯულღა,200,3,Village,UTC+4,Asia/Tbilisi
+1666153,GE,GE-MM,Jughisi,ჯუღისი,29,3,Village,UTC+4,Asia/Tbilisi
+1666154,GE,GE-KA,Jughaani,ჯუღაანი,178,3,Village,UTC+4,Asia/Tbilisi
+1666155,GE,GE-KA,Jugaani,ჯუგაანი,2107,3,Village,UTC+4,Asia/Tbilisi
+1666157,GE,GE-IM,Jria,ჯრია,198,3,Village,UTC+4,Asia/Tbilisi
+1666159,GE,GE-KK,Jorjiashvili,ჯორჯიაშვილი,721,3,Village,UTC+4,Asia/Tbilisi
+1666160,GE,GE-IM,Jonia,ჯონია,46,3,Village,UTC+4,Asia/Tbilisi
+1666161,GE,GE-IM,Jolkheeti,ჯოლხეეთი,167,3,Village,UTC+4,Asia/Tbilisi
+1666162,GE,GE-SZ,Jolevi,ჯოლევი,543,3,Village,UTC+4,Asia/Tbilisi
+1666169,GE,GE-KA,Jimiti,ჯიმითი,1205,3,Village,UTC+4,Asia/Tbilisi
+1666174,GE,GE-SZ,Jikha,ჯიხა,249,3,Village,UTC+4,Asia/Tbilisi
+1666176,GE,GE-SJ,Jigrasheni,ჯიგრაშენი,784,3,Village,UTC+4,Asia/Tbilisi
+1666177,GE,GE-MM,Jighaura,ჯიღაურა,175,3,Village,UTC+4,Asia/Tbilisi
+1666178,GE,GE-MM,Jijeti,ჯიჯეთი,101,3,Village,UTC+4,Asia/Tbilisi
+1666179,GE,GE-IM,Jgilati,ჯგილათი,42,3,Village,UTC+4,Asia/Tbilisi
+1666182,GE,GE-SZ,Jgali,ჯგალი,1022,3,Village,UTC+4,Asia/Tbilisi
+1666183,GE,GE-MM,Jervalidzeebi,ჯერვალიძეები,3,3,Village,UTC+4,Asia/Tbilisi
+1666185,GE,GE-SK,Jebiri,ჯებირი,623,3,Village,UTC+4,Asia/Tbilisi
+1666187,GE,GE-KK,Javakhi,ჯავახი,423,3,Village,UTC+4,Asia/Tbilisi
+1666193,GE,GE-GU,Jap'ana,ჯაპანა,306,4,locality,UTC+4,Asia/Tbilisi
+1666194,GE,GE-KK,Jankhoshi,ჯანხოში,2,3,Village,UTC+4,Asia/Tbilisi
+1666196,GE,GE-KK,Jandara,ჯანდარა,1468,3,Village,UTC+4,Asia/Tbilisi
+1666199,GE,GE-IM,Jalaurta,ჯალაურთა,1144,3,Village,UTC+4,Asia/Tbilisi
+1666203,GE,GE-RL,Zhakhunderi,ჯახუნდერი,161,3,Village,UTC+4,Asia/Tbilisi
+1666204,GE,GE-MM,Jaghmiani,ჯაღმიანი,56,3,Village,UTC+4,Asia/Tbilisi
+1666205,GE,GE-SZ,Jaghira,ჯაღირა,237,3,Village,UTC+4,Asia/Tbilisi
+1666207,GE,GE-AJ,Jabnidzeebi,ჯაბნიძეები,427,3,Village,UTC+4,Asia/Tbilisi
+1666208,GE,GE-IM,Dzevri,ძევრი,590,3,Village,UTC+4,Asia/Tbilisi
+1666209,GE,GE-SK,Dzevera,ძევერა,1141,3,Village,UTC+4,Asia/Tbilisi
+1666211,GE,GE-MM,Dzegvi,ძეგვი,2876,3,Village,UTC+4,Asia/Tbilisi
+1666212,GE,GE-RL,Dzeglevi,ძეგლევი,53,4,locality,UTC+4,Asia/Tbilisi
+1666214,GE,GE-IM,Dzedzileti,ძეძილეთი,197,3,Village,UTC+4,Asia/Tbilisi
+1666216,GE,GE-MM,Dzebniaurebi,ძებნიაურები,142,3,Village,UTC+4,Asia/Tbilisi
+1666220,GE,GE-MM,Dzalisi,ძალისი,2104,3,Village,UTC+4,Asia/Tbilisi
+1666222,GE,GE-SJ,Dviri,დვირი,712,3,Village,UTC+4,Asia/Tbilisi
+1666223,GE,GE-SK,Dvani,დვანი,763,3,Village,UTC+4,Asia/Tbilisi
+1666225,GE,GE-GU,Dvabzu,დვაბზუ,1171,3,Village,UTC+4,Asia/Tbilisi
+1666226,GE,\N,Duzagrama,დუზაგრამა,621,3,Village,UTC+4,Asia/Tbilisi
+1666227,GE,GE-IM,Dutskhuni,დუცხუნი,109,3,Village,UTC+4,Asia/Tbilisi
+1666228,GE,GE-MM,Dusheti,დუშეთი,7389,2,Municipality,UTC+4,Asia/Tbilisi
+1666230,GE,GE-SZ,Durghena,დურღენა,700,3,Village,UTC+4,Asia/Tbilisi
+1666233,GE,GE-IM,Dunta,დუნთა,133,3,Village,UTC+4,Asia/Tbilisi
+1666234,GE,GE-SK,Dumatskhovi,დუმაცხოვი,111,3,Village,UTC+4,Asia/Tbilisi
+1666235,GE,GE-MM,Dumatskho,დუმაცხო,10,3,Village,UTC+4,Asia/Tbilisi
+1666236,GE,GE-KA,Duisi,დუისი,2354,3,Village,UTC+4,Asia/Tbilisi
+1666237,GE,GE-MM,Duluzaurebi,დულუზაურები,58,3,Village,UTC+4,Asia/Tbilisi
+1666238,GE,GE-MM,Dudaurebi,დუდაურები,19,3,Village,UTC+4,Asia/Tbilisi
+1666240,GE,GE-SK,Dre,დრე,16,3,Village,UTC+4,Asia/Tbilisi
+1666242,GE,GE-IM,Drbo,დრბო,43,3,Village,UTC+4,Asia/Tbilisi
+1666243,GE,GE-AB,Dranda,Dranda,3205,4,locality,UTC+4,Asia/Tbilisi
+1666244,GE,GE-SK,Doesi,დოესი,2323,3,Village,UTC+4,Asia/Tbilisi
+1666247,GE,GE-MM,Doreulebi,დორეულები,69,3,Village,UTC+4,Asia/Tbilisi
+1666250,GE,GE-MM,Dolosha,დოლოშა,27,3,Village,UTC+4,Asia/Tbilisi
+1666251,GE,GE-AJ,Dologani,დოლოგანი,417,3,Village,UTC+4,Asia/Tbilisi
+1666252,GE,GE-SZ,Dolasvipi,დოლასვიფი,55,3,Village,UTC+4,Asia/Tbilisi
+1666253,GE,GE-MM,Dolaskedi,დოლასქედი,77,3,Village,UTC+4,Asia/Tbilisi
+1666254,GE,GE-SK,Doghlauri,დოღლაური,75,3,Village,UTC+4,Asia/Tbilisi
+1666256,GE,GE-SK,Dodota,Dodota,53695,3,locality,UTC+4,Asia/Tbilisi
+1666260,GE,GE-IM,Dobiro,დობირო,137,3,Village,UTC+4,Asia/Tbilisi
+1666261,GE,GE-IM,Dobiro,Dobiro,2657,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1666262,GE,GE-SZ,Doberazeni,დობერაზენი,217,3,Village,UTC+4,Asia/Tbilisi
+1666265,GE,GE-KK,Jvara,ჯვარა,3038,4,locality,UTC+4,Asia/Tbilisi
+1666266,GE,GE-KK,Dmanisi,დმანისი,11050,2,Municipality,UTC+4,Asia/Tbilisi
+1666267,GE,\N,Dmanisi,დმანისი,2915,3,locality,UTC+4,Asia/Tbilisi
+1666268,GE,GE-SZ,Dizi,დიზი,65,3,Village,UTC+4,Asia/Tbilisi
+1666269,GE,GE-SK,Ditsi,დიცი,1072,3,Village,UTC+4,Asia/Tbilisi
+1666271,GE,GE-SK,Dirbi,დირბი,2569,3,Village,UTC+4,Asia/Tbilisi
+1666272,GE,GE-AJ,Diok'nisi,დიოკნისი,7725,4,Town,UTC+4,Asia/Tbilisi
+1666273,GE,GE-IM,Dimi,დიმი,3251,3,Village,UTC+4,Asia/Tbilisi
+1666275,GE,GE-SJ,Dilisk'a,დილისკა,2374,3,locality,UTC+4,Asia/Tbilisi
+1666278,GE,GE-MM,Dikhcho,დიხჩო,3,3,Village,UTC+4,Asia/Tbilisi
+1666280,GE,GE-IM,Dikhashkho,დიხაშხო,1041,3,Village,UTC+4,Asia/Tbilisi
+1666282,GE,\N,Dikhagudzuba,Dikhagudzuba,6,3,Village,UTC+4,Asia/Tbilisi
+1666283,GE,GE-TB,Dighomi,დიღომი,7497,3,Village,UTC+4,Asia/Tbilisi
+1666284,GE,GE-IM,Didvela,დიდველა,661,3,Village,UTC+4,Asia/Tbilisi
+1666285,GE,\N,Didvake,Didvake,175,3,Village,UTC+4,Asia/Tbilisi
+1666292,GE,GE-KK,Didi Toneti,დიდი თონეთი,499,3,Village,UTC+4,Asia/Tbilisi
+1666294,GE,GE-SJ,Didi Smada,დიდი სმადა,271,3,Village,UTC+4,Asia/Tbilisi
+1666297,GE,GE-SJ,Didi Samsari,დიდი სამსარი,337,3,Village,UTC+4,Asia/Tbilisi
+1666298,GE,GE-SK,Didi Plevi,დიდი ფლევი,390,3,Village,UTC+4,Asia/Tbilisi
+1666300,GE,GE-SZ,Didi Nedzi,დიდი ნეძი,752,3,Village,UTC+4,Asia/Tbilisi
+1666301,GE,GE-KK,Didi Mughanlo,დიდი მუღანლო,1286,3,Village,UTC+4,Asia/Tbilisi
+1666303,GE,GE-SK,Didi Mejvriskhevi,დიდი მეჯვრისხევი,2329,3,Village,UTC+4,Asia/Tbilisi
+1666304,GE,GE-KK,Didi Lilo,დიდი ლილო,2883,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1666308,GE,\N,Didi-Khurvaleti,Didi Khurvaleti,352,3,Village,UTC+4,Asia/Tbilisi
+1666309,GE,GE-SJ,Khorenia,ხორენია,504,3,Village,UTC+4,Asia/Tbilisi
+1666310,GE,GE-SK,Didi Khavleti,დიდი ხავლეთი,35,3,Village,UTC+4,Asia/Tbilisi
+1666311,GE,GE-SJ,Didi Khanchali,დიდი ხანჩალი,1233,3,Village,UTC+4,Asia/Tbilisi
+1666312,GE,GE-SK,Didi Khalebi,დიდი ხალები,26,3,Village,UTC+4,Asia/Tbilisi
+1666314,GE,GE-KK,Didi Iraga,დიდი ირაგა,161,3,Village,UTC+4,Asia/Tbilisi
+1666315,GE,GE-SZ,Didi Inchkhuri,დიდი ინჩხური,607,3,Village,UTC+4,Asia/Tbilisi
+1666317,GE,GE-IM,Didi Gubi,დიდი გუბი,793,3,Village,UTC+4,Asia/Tbilisi
+1666319,GE,GE-SK,Didi Gorijvari,დიდი გორიჯვარი,65,3,Village,UTC+4,Asia/Tbilisi
+1666320,GE,GE-SJ,Didi Gondrio,დიდი კონდური,990,3,Village,UTC+4,Asia/Tbilisi
+1666322,GE,\N,Didi Garejvari,Didi Garejvari,711,3,Village,UTC+4,Asia/Tbilisi
+1666323,GE,GE-IM,Didi Jikhaishi,დიდი ჯიხაიში,3359,3,Village,UTC+4,Asia/Tbilisi
+1666326,GE,GE-KK,Didi Dmanisi,დიდი დმანისი,650,3,Village,UTC+4,Asia/Tbilisi
+1666328,GE,GE-RL,Didi Chorjo,დიდი ჩორჯო,176,3,Village,UTC+4,Asia/Tbilisi
+1666330,GE,GE-KA,Didi Chailuri,დიდი ჩაილური,850,3,Village,UTC+4,Asia/Tbilisi
+1666331,GE,GE-KK,Didi Begliari,დიდი ბეგლიარი,356,3,Village,UTC+4,Asia/Tbilisi
+1666333,GE,GE-SJ,Didi Arakali,დიდი არაქალი,643,3,Village,UTC+4,Asia/Tbilisi
+1666334,GE,GE-TB,Didgori,დიდგორი,99,3,Village,UTC+4,Asia/Tbilisi
+1666340,GE,GE-SJ,Dgvari,დგვარი,224,3,Village,UTC+4,Asia/Tbilisi
+1666341,GE,GE-AJ,Dghvani,დღვანი,284,3,Village,UTC+4,Asia/Tbilisi
+1666342,GE,GE-SZ,Dghvana,დღვანა,253,3,Village,UTC+4,Asia/Tbilisi
+1666343,GE,GE-SZ,Dghvaba,დღვაბა,237,3,Village,UTC+4,Asia/Tbilisi
+1666344,GE,GE-IM,Dghnorisa,დღნორისა,321,3,Village,UTC+4,Asia/Tbilisi
+1666345,GE,GE-MM,Dgnali,დგნალი,29,3,Village,UTC+4,Asia/Tbilisi
+1666347,GE,GE-SZ,Devra,დევრა,36,3,Village,UTC+4,Asia/Tbilisi
+1666348,GE,GE-MM,Devenaantkhevi,დევენაანთხევი,132,3,Village,UTC+4,Asia/Tbilisi
+1666350,GE,GE-SJ,Dertseli,დერცელი,255,3,Village,UTC+4,Asia/Tbilisi
+1666352,GE,GE-IM,Derchi,დერჩი,159,3,Village,UTC+4,Asia/Tbilisi
+1666353,GE,GE-KK,Khakhalajvari,ხახალაჯვარი,213,3,Village,UTC+4,Asia/Tbilisi
+1666356,GE,GE-RL,Dekhviri,დეხვირი,179,3,Village,UTC+4,Asia/Tbilisi
+1666358,GE,GE-IM,Deisi,დეისი,154,3,Village,UTC+4,Asia/Tbilisi
+1666359,GE,GE-SK,Degeula,დეგეულა,125,3,Village,UTC+4,Asia/Tbilisi
+1666361,GE,GE-KA,Dedoplistsqaro,დედოფლისწყარო,12130,2,Municipality,UTC+4,Asia/Tbilisi
+1666362,GE,GE-KA,Dedisperuli,დედისფერული,31,3,Village,UTC+4,Asia/Tbilisi
+1666363,GE,GE-IM,Dedalauri,დედალაური,949,3,Village,UTC+4,Asia/Tbilisi
+1666365,GE,GE-MM,Daviturni,დავითურნი,2,3,Village,UTC+4,Asia/Tbilisi
+1666367,GE,GE-SZ,Davberi,დავბერი,12,3,Village,UTC+4,Asia/Tbilisi
+1666368,GE,GE-MM,Davati,დავათი,157,3,Village,UTC+4,Asia/Tbilisi
+1666369,GE,GE-MM,Datvisi,დათვისი,10,3,Village,UTC+4,Asia/Tbilisi
+1666371,GE,GE-KK,Dashbashi,დაშბაში,295,3,Village,UTC+4,Asia/Tbilisi
+1666372,GE,GE-KA,Dartlo,დართლო,9,3,Village,UTC+4,Asia/Tbilisi
+1666375,GE,GE-AJ,Darchidzeebi,დარჩიძეები,276,3,Village,UTC+4,Asia/Tbilisi
+1666376,GE,\N,Darcheti,დარჩეთი,409,3,Village,UTC+4,Asia/Tbilisi
+1666377,GE,GE-SZ,Darcheli,დარჩელი,2781,3,Village,UTC+4,Asia/Tbilisi
+1666378,GE,GE-KK,Darbazi,დარბაზი,1604,3,Village,UTC+4,Asia/Tbilisi
+1666381,GE,GE-IM,Dapnari,დაფნარი,541,3,Village,UTC+4,Asia/Tbilisi
+1666383,GE,GE-AJ,Dandalo,დანდალო,347,3,Village,UTC+4,Asia/Tbilisi
+1666387,GE,GE-KK,Damia-Geurarkhi,დამიაგიურარხი,1939,3,Village,UTC+4,Asia/Tbilisi
+1666390,GE,GE-SJ,Damala,დამალა,1234,4,locality,UTC+4,Asia/Tbilisi
+1666391,GE,GE-KK,Dalari,დალარი,178,3,Village,UTC+4,Asia/Tbilisi
+1666397,GE,GE-KK,Dagheti,დაღეთი,101,3,Village,UTC+4,Asia/Tbilisi
+1666398,GE,GE-KK,Dagarakhlo,დაგარახლო,447,3,Village,UTC+4,Asia/Tbilisi
+1666400,GE,GE-SJ,Dadeshi,დადეში,760,3,Village,UTC+4,Asia/Tbilisi
+1666401,GE,GE-SJ,Dabnia,დაბნია,127,3,Village,UTC+4,Asia/Tbilisi
+1666402,GE,GE-GU,Dablatsikhe,დაბლაციხე,279,3,Village,UTC+4,Asia/Tbilisi
+1666403,GE,GE-IM,Dablagomi,დაბლაგომი,895,3,Village,UTC+4,Asia/Tbilisi
+1666406,GE,GE-IM,Dabadzveli,დაბაძველი,333,3,Village,UTC+4,Asia/Tbilisi
+1666408,GE,GE-SJ,Daba,დაბა,194,3,Village,UTC+4,Asia/Tbilisi
+1666410,GE,GE-SJ,Ch'vinta,ჭვინთა,241,4,locality,UTC+4,Asia/Tbilisi
+1666411,GE,GE-SZ,Chvibiani,ჩვიბიანი,27,3,Village,UTC+4,Asia/Tbilisi
+1666418,GE,GE-SZ,Chvabiani,ჩვაბიანი,111,3,Village,UTC+4,Asia/Tbilisi
+1666421,GE,GE-IM,Chuneshi,ჩუნეში,27,3,Village,UTC+4,Asia/Tbilisi
+1666422,GE,GE-SJ,Chunchkha,ჩუნჩხა,324,3,Village,UTC+4,Asia/Tbilisi
+1666431,GE,GE-IM,Chrdili,ჩრდილი,351,3,Village,UTC+4,Asia/Tbilisi
+1666434,GE,GE-IM,Ch'orvila,ჭორვილა,1451,4,locality,UTC+4,Asia/Tbilisi
+1666437,GE,GE-MM,Chorchani,ჩორჩანი,264,3,Village,UTC+4,Asia/Tbilisi
+1666439,GE,GE-SK,Chorchana,ჩორჩანა,62,3,Village,UTC+4,Asia/Tbilisi
+1666444,GE,GE-GU,Chometi,ჩომეთი,174,3,Village,UTC+4,Asia/Tbilisi
+1666445,GE,GE-KK,Choliani,ჩოლმანი,64,3,Village,UTC+4,Asia/Tbilisi
+1666448,GE,GE-GU,Cholabargi,ჩოლაბარგი,433,3,Village,UTC+4,Asia/Tbilisi
+1666451,GE,GE-MM,Chokhelni,ჩოხელნი,21,3,Village,UTC+4,Asia/Tbilisi
+1666452,GE,GE-GU,Chokhatauri,ჩოხატაური,1738,2,Municipality,UTC+4,Asia/Tbilisi
+1666455,GE,GE-GU,Chochkhati,ჩოჩხათი,580,3,Village,UTC+4,Asia/Tbilisi
+1666459,GE,GE-MM,Chobalaurni,ჩობალაურნი,2,3,Village,UTC+4,Asia/Tbilisi
+1666462,GE,GE-SZ,Chkvaleri,ჩქვალერი,409,3,Village,UTC+4,Asia/Tbilisi
+1666463,GE,GE-RL,Chkumi,ჩქუმი,86,3,Village,UTC+4,Asia/Tbilisi
+1666468,GE,GE-MM,Chkhuba,ჩხუბა,2,3,Village,UTC+4,Asia/Tbilisi
+1666469,GE,GE-SZ,Chkhoushi,ჩხოუში,1064,3,Village,UTC+4,Asia/Tbilisi
+1666472,GE,GE-SZ,Chkhorotsqu,ჩხოროწყუ,11336,2,Municipality,UTC+4,Asia/Tbilisi
+1666473,GE,GE-SZ,Chkhoria,ჩხორია,968,3,Village,UTC+4,Asia/Tbilisi
+1666475,GE,GE-IM,Chkheri,ჩხერი,295,3,Village,UTC+4,Asia/Tbilisi
+1666476,GE,GE-IM,Chkhenishi,ჩხენიში,553,3,Village,UTC+4,Asia/Tbilisi
+1666478,GE,GE-IM,Chkhari,ჩხარი,643,3,Village,UTC+4,Asia/Tbilisi
+1666481,GE,GE-AB,Chkhalta,ჩხალთა,140,4,locality,UTC+4,Asia/Tbilisi
+1666490,GE,GE-SJ,Chitakhevi,ჩითახევი,176,3,Village,UTC+4,Asia/Tbilisi
+1666493,GE,GE-MM,Chirik'i,ჩირიკი,52046,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1666494,GE,GE-MM,Chirdili,ჩირდილი,8,3,Village,UTC+4,Asia/Tbilisi
+1666495,GE,GE-MM,Chirdileliantk'ari,ჩირდილელიანთკარი,21320,4,town,UTC+4,Asia/Tbilisi
+1666498,GE,GE-MM,Chinti,ჩინთი,188,3,Village,UTC+4,Asia/Tbilisi
+1666510,GE,GE-AB,Ch'lou,ჭლოუ,1609,4,locality,UTC+4,Asia/Tbilisi
+1666512,GE,GE-AJ,Chikuneti,ჩიქუნეთი,349,3,Village,UTC+4,Asia/Tbilisi
+1666514,GE,GE-IM,Chikhori,ჩიხორი,398,3,Village,UTC+4,Asia/Tbilisi
+1666516,GE,GE-RL,Chikhareshi,ჩიხარეში,158,3,Village,UTC+4,Asia/Tbilisi
+1666517,GE,GE-IM,Chikha,ჩიხა,1981,3,Village,UTC+4,Asia/Tbilisi
+1666521,GE,GE-KA,Chigho,ჩიღო,2,3,Village,UTC+4,Asia/Tbilisi
+1666523,GE,GE-AB,Chigripshi,ჩიგრიფში,285,3,locality,UTC+4,Asia/Tbilisi
+1666528,GE,GE-IM,Chiatura,ჭიათურა,12777,2,Municipality,UTC+4,Asia/Tbilisi
+1666534,GE,GE-SZ,Ch'eri,ჭერი,81,4,locality,UTC+4,Asia/Tbilisi
+1666536,GE,\N,Cheremi,ჭერემი,28,3,Village,UTC+4,Asia/Tbilisi
+1666547,GE,GE-MM,Ch'artali,ჭარტალი,16993,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1666551,GE,GE-KA,Charekauli,ჩარექაული,10,3,Village,UTC+4,Asia/Tbilisi
+1666552,GE,GE-MM,Chargali,ჩარგალი,69,3,Village,UTC+4,Asia/Tbilisi
+1666554,GE,GE-MM,Chardakhi,ჩარდახი,700,3,Village,UTC+4,Asia/Tbilisi
+1666557,GE,GE-AJ,Chao,ჩაო,212,3,Village,UTC+4,Asia/Tbilisi
+1666560,GE,GE-SK,Changilari,Changilari,264,3,Village,UTC+4,Asia/Tbilisi
+1666565,GE,GE-AJ,Chanchkhalo,ჩანჩხალო,486,3,Village,UTC+4,Asia/Tbilisi
+1666566,GE,GE-GU,Chancheti,ჩანჩეთი,154,3,Village,UTC+4,Asia/Tbilisi
+1666567,GE,GE-GU,Ch'anch'ati,ჭანჭათი,499,4,locality,UTC+4,Asia/Tbilisi
+1666569,GE,GE-KK,Chanakhchi,ჩანახჩი,248,3,Village,UTC+4,Asia/Tbilisi
+1666571,GE,GE-SJ,Chamdzvrala,ნაგვაზაო,466,3,Village,UTC+4,Asia/Tbilisi
+1666573,GE,GE-IM,Chalkheeti,ჩალხეეთი,2,3,Village,UTC+4,Asia/Tbilisi
+1666579,GE,GE-KA,Chalaubani,ჩალაუბანი,897,3,Village,UTC+4,Asia/Tbilisi
+1666584,GE,\N,Chala,Chala,676,3,Village,UTC+4,Asia/Tbilisi
+1666588,GE,GE-AJ,Chakvistavi,ჩაქვისთავი,60,3,Village,UTC+4,Asia/Tbilisi
+1666590,GE,GE-AJ,Chakvi,ჩაქვი,7509,3,Sett,UTC+4,Asia/Tbilisi
+1666593,GE,GE-GU,Jvartskhma,ჯვარცხმა,491,3,Village,UTC+4,Asia/Tbilisi
+1666596,GE,GE-KA,Chaduniani,ჩადუნიანი,729,3,Village,UTC+4,Asia/Tbilisi
+1666598,GE,\N,Chachubeti,Chachubeti,11,3,Village,UTC+4,Asia/Tbilisi
+1666599,GE,GE-KA,Chachkhriala,ჩაჩხრიალა,35,3,Village,UTC+4,Asia/Tbilisi
+1666601,GE,GE-SJ,Ch'ach'araki,ჭაჭარაქი,395,4,locality,UTC+4,Asia/Tbilisi
+1666605,GE,GE-KA,Chabinaani,ჩაბინაანი,143,3,Village,UTC+4,Asia/Tbilisi
+1666607,GE,GE-MM,Chabano,ჩაბანო,174,3,Village,UTC+4,Asia/Tbilisi
+1666608,GE,GE-AB,Bzipi,ბზიფი,4820,3,locality,UTC+4,Asia/Tbilisi
+1666610,GE,GE-IM,Bziauri,ბზიაური,68,3,Village,UTC+4,Asia/Tbilisi
+1666611,GE,GE-GU,Bzholieti,ბჟოლიეთი,208,3,Village,UTC+4,Asia/Tbilisi
+1666612,GE,GE-IM,Bzhinevi,ბჟინევი,518,3,Village,UTC+4,Asia/Tbilisi
+1666617,GE,GE-SJ,Buzaveti,ბუზავეთი,190,3,Village,UTC+4,Asia/Tbilisi
+1666618,GE,GE-SK,Buzala,ბუზალა,140,4,locality,UTC+4,Asia/Tbilisi
+1666619,GE,GE-IM,Bueti,ბუეთი,122,3,Village,UTC+4,Asia/Tbilisi
+1666620,GE,GE-AJ,Buturauli,ბუთურაული,403,3,Village,UTC+4,Asia/Tbilisi
+1666623,GE,GE-GU,Burnati,ბურნათი,271,3,Village,UTC+4,Asia/Tbilisi
+1666624,GE,GE-KK,Burnasheti,ბურნაშეთი,488,3,Village,UTC+4,Asia/Tbilisi
+1666628,GE,GE-MM,Buriani,ბურიანი,15,3,Village,UTC+4,Asia/Tbilisi
+1666629,GE,GE-KA,Zemo Burdiani,ბურდიანი,32,3,Village,UTC+4,Asia/Tbilisi
+1666630,GE,GE-KK,Brdazori,ბრდაზორი,38,3,Village,UTC+4,Asia/Tbilisi
+1666632,GE,\N,Bulitsqu,Bulitsqu,743,3,Village,UTC+4,Asia/Tbilisi
+1666634,GE,GE-SZ,Bulishi,ბულიში,431,3,Village,UTC+4,Asia/Tbilisi
+1666635,GE,GE-SK,Bulbulistsikhe,ბულბულისციხე,123,3,Village,UTC+4,Asia/Tbilisi
+1666636,GE,GE-MM,Bulachauri,ბულაჩაური,546,3,Village,UTC+4,Asia/Tbilisi
+1666637,GE,GE-GU,Buksieti,ბუქსიეთი,64,3,Village,UTC+4,Asia/Tbilisi
+1666639,GE,\N,Buknari,Buknari,1166,3,Village,UTC+4,Asia/Tbilisi
+1666641,GE,GE-KA,Bukhurta,ბუხურთა,7376,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1666643,GE,GE-IM,Bughnara,ბუღნარა,249,3,Village,UTC+4,Asia/Tbilisi
+1666644,GE,GE-RL,Bugeuli,ბუგეული,315,3,Village,UTC+4,Asia/Tbilisi
+1666646,GE,GE-SJ,Bughasheni,ბუღაშენი,460,3,Village,UTC+4,Asia/Tbilisi
+1666647,GE,GE-KA,Bughaani,ბუღაანი,6,3,Village,UTC+4,Asia/Tbilisi
+1666651,GE,GE-MM,Buchaani,ბუჩაანი,24,3,Village,UTC+4,Asia/Tbilisi
+1666652,GE,\N,Brotsleti,Brotsleti,527,3,Village,UTC+4,Asia/Tbilisi
+1666653,GE,GE-IM,Broliskedi,ბროლისქედი,284,3,Village,UTC+4,Asia/Tbilisi
+1666655,GE,GE-SK,Brili,Brili,313,3,Village,UTC+4,Asia/Tbilisi
+1666656,GE,GE-SK,Brili,ბრილი,313,4,locality,UTC+4,Asia/Tbilisi
+1666658,GE,GE-SK,Breti,ბრეთი,899,3,Village,UTC+4,Asia/Tbilisi
+1666659,GE,GE-SK,Bredza,ბრეძა,496,3,Village,UTC+4,Asia/Tbilisi
+1666661,GE,GE-SK,Bozhami,ბოჟამი,185,3,Village,UTC+4,Asia/Tbilisi
+1666662,GE,GE-SJ,Bozali,ბრზალი,174,3,Village,UTC+4,Asia/Tbilisi
+1666665,GE,GE-IM,Gaghma Boslevi,გაღმა ბოსლევი,271,3,Village,UTC+4,Asia/Tbilisi
+1666666,GE,GE-KK,Boslebi,ბოსლები,397,3,Village,UTC+4,Asia/Tbilisi
+1666668,GE,GE-MM,Boseli,ბოსელი,2,3,Village,UTC+4,Asia/Tbilisi
+1666669,GE,GE-IM,Bosela,ბოსელა,178,3,Village,UTC+4,Asia/Tbilisi
+1666671,GE,GE-RL,Bortso,ბორცო,23,3,Village,UTC+4,Asia/Tbilisi
+1666672,GE,GE-SJ,Borjomi,ბორჯომი,12537,2,Municipality,UTC+4,Asia/Tbilisi
+1666673,GE,GE-IM,Boriti,ბორითი,557,3,Village,UTC+4,Asia/Tbilisi
+1666676,GE,GE-KK,Borbalo,ბორბალო,248,3,Village,UTC+4,Asia/Tbilisi
+1666679,GE,GE-KK,Bolnisi,ბოლნისი,11131,2,Municipality,UTC+4,Asia/Tbilisi
+1666680,GE,GE-KK,Bolnisi,ბოლნისი,1534,4,locality,UTC+4,Asia/Tbilisi
+1666683,GE,GE-KK,Bogvi,ბოგვი,170,3,Village,UTC+4,Asia/Tbilisi
+1666684,GE,GE-SZ,Bogreshi,ბოგრეში,79,3,Village,UTC+4,Asia/Tbilisi
+1666686,GE,GE-GU,Bogili,ბოგილი,236,3,Village,UTC+4,Asia/Tbilisi
+1666687,GE,GE-KA,Mzisguli,მზისგული,578,3,Village,UTC+4,Asia/Tbilisi
+1666688,GE,GE-MM,Bokchvilo,ბოქჩვილო,1,3,Village,UTC+4,Asia/Tbilisi
+1666689,GE,GE-SJ,Boga,ბოგა,169,3,Village,UTC+4,Asia/Tbilisi
+1666690,GE,GE-AJ,Bodzauri,ბოძაური,524,3,Village,UTC+4,Asia/Tbilisi
+1666691,GE,GE-MM,Bodorna,ბოდორნა,140,3,Village,UTC+4,Asia/Tbilisi
+1666692,GE,\N,Bodbiskhevi,ბოდბისხევი,2665,3,Village,UTC+4,Asia/Tbilisi
+1666694,GE,GE-MM,Bodakheva,ბოდახევა,11,3,Village,UTC+4,Asia/Tbilisi
+1666697,GE,GE-SZ,Boboti,ბობოთი,539,3,Village,UTC+4,Asia/Tbilisi
+1666700,GE,GE-SK,Bobnevi,ბობნევი,156,3,Village,UTC+4,Asia/Tbilisi
+1666701,GE,GE-SK,Bnavisi,ბნავისი,212,3,Village,UTC+4,Asia/Tbilisi
+1666703,GE,GE-MM,Blo,ბლო,1,3,Village,UTC+4,Asia/Tbilisi
+1666704,GE,GE-AB,Blaburkhva,ბლაბურხვა,151,4,locality,UTC+4,Asia/Tbilisi
+1666708,GE,GE-MM,Biso,ბისო,2,3,Village,UTC+4,Asia/Tbilisi
+1666712,GE,GE-SK,Biisi,ბიისი,30,3,Village,UTC+4,Asia/Tbilisi
+1666713,GE,GE-IM,Bigha,ბიღა,367,3,Village,UTC+4,Asia/Tbilisi
+1666714,GE,GE-SK,Bijnisi,ბიჯნისი,268,3,Village,UTC+4,Asia/Tbilisi
+1666715,GE,GE-AB,Bich'vinta,ბიჭვინთა,4164,3,Town,UTC+4,Asia/Tbilisi
+1666716,GE,GE-MM,Bichnigauri,ბიჩნიგაური,424,3,Village,UTC+4,Asia/Tbilisi
+1666718,GE,GE-SZ,Bia-Sashonio,ბია-საშონიო,207,3,Village,UTC+4,Asia/Tbilisi
+1666719,GE,GE-SZ,Bia,ბია,380,3,Village,UTC+4,Asia/Tbilisi
+1666720,GE,GE-IM,Bezhatubani,ბეჟათუბანი,37,3,Village,UTC+4,Asia/Tbilisi
+1666721,GE,GE-SJ,Bezhano,ბეჟანო,877,3,Village,UTC+4,Asia/Tbilisi
+1666723,GE,GE-MM,Bevreti,ბევრეთი,51,3,Village,UTC+4,Asia/Tbilisi
+1666724,GE,GE-MM,Bets'ents'urebi,ბეწენწურები,25781,3,Urban Township (Zhen),UTC+4,Asia/Tbilisi
+1666725,GE,GE-RL,Betlevi,ბეთლევი,37,3,Village,UTC+4,Asia/Tbilisi
+1666726,GE,GE-SZ,Betlemi,ბეთლემი,226,3,Village,UTC+4,Asia/Tbilisi
+1666728,GE,GE-IM,Besiauri,ბესიაური,31,3,Village,UTC+4,Asia/Tbilisi
+1666729,GE,GE-KK,Beshtasheni,ბეშთაშენი,335,3,Village,UTC+4,Asia/Tbilisi
+1666730,GE,GE-AJ,Beselashvilebi,ბესელაშვილები,143,3,Village,UTC+4,Asia/Tbilisi
+1666732,GE,GE-SK,Bershueti,ერშუეთი,837,3,Village,UTC+4,Asia/Tbilisi
+1666736,GE,\N,Berdzenauli,Berdzenauli,511,3,Village,UTC+4,Asia/Tbilisi
+1666738,GE,GE-IM,Bentkoula,ბენთქოულა,13,3,Village,UTC+4,Asia/Tbilisi
+1666739,GE,GE-MM,Benian-Begoni,ბენიან-ბეგონი,12,3,Village,UTC+4,Asia/Tbilisi
+1666741,GE,GE-SJ,Benara,ბენარა,201,3,Village,UTC+4,Asia/Tbilisi
+1666743,GE,GE-KA,Beburiani,ბებურიანი,480,3,Village,UTC+4,Asia/Tbilisi
+1666748,GE,GE-KK,Beitarabchi,ბეითარაფჩი,462,3,Village,UTC+4,Asia/Tbilisi
+1666749,GE,GE-IM,Beghlevi,ბეღლევი,235,3,Village,UTC+4,Asia/Tbilisi
+1666750,GE,GE-SK,Beghleti,ბეღლეთი,578,3,Village,UTC+4,Asia/Tbilisi
+1666753,GE,GE-MM,Bedoni,ბედონი,110,3,Village,UTC+4,Asia/Tbilisi
+1666754,GE,GE-AB,Bedia,ბედია,228,4,locality,UTC+4,Asia/Tbilisi
+1666757,GE,GE-SK,Bebnisi,ბებნისი,1251,3,Village,UTC+4,Asia/Tbilisi
+1666759,GE,GE-MM,Bazaleti,ბაზალეთი,758,3,Village,UTC+4,Asia/Tbilisi
+1666761,GE,GE-KK,Baitalo,ბაითალო,329,3,Village,UTC+4,Asia/Tbilisi
+1666762,GE,GE-SJ,Bavra,ბავრა,873,3,Village,UTC+4,Asia/Tbilisi
+1666763,GE,GE-RL,Bavari,ბავარი,11,3,Village,UTC+4,Asia/Tbilisi
+1666764,GE,GE-AJ,Batumi,ბათუმი,165761,2,City,UTC+4,Asia/Tbilisi
+1666767,GE,GE-SZ,Bataria,Bataria,467,3,Village,UTC+4,Asia/Tbilisi
+1666768,GE,GE-AB,Besleti,ბესლეთი,2198,4,locality,UTC+4,Asia/Tbilisi
+1666769,GE,GE-GU,Basileti,ბასილეთი,324,3,Village,UTC+4,Asia/Tbilisi
+1666770,GE,GE-KK,Bareti,ბარეთი,397,3,Village,UTC+4,Asia/Tbilisi
+1666771,GE,GE-SZ,Bashi,ბაში,1250,3,Village,UTC+4,Asia/Tbilisi
+1666775,GE,GE-SZ,Barshi,ბარში,54,3,Village,UTC+4,Asia/Tbilisi
+1666777,GE,GE-AB,Barmishi,ბარმიში,390,3,locality,UTC+4,Asia/Tbilisi
+1666779,GE,GE-MM,Barisakho,ბარისახო,153,3,Village,UTC+4,Asia/Tbilisi
+1666780,GE,GE-RL,Bareuli,ბარეული,71,3,Village,UTC+4,Asia/Tbilisi
+1666781,GE,GE-IM,Bardubani,ბარდუბანი,1113,3,Village,UTC+4,Asia/Tbilisi
+1666782,GE,GE-RL,Bardnala,ბარდნალა,183,3,Village,UTC+4,Asia/Tbilisi
+1666783,GE,GE-AJ,Baratauli,ბარათაული,308,3,Village,UTC+4,Asia/Tbilisi
+1666784,GE,GE-SJ,Baraleti,ბარალეთი,770,3,Village,UTC+4,Asia/Tbilisi
+1666786,GE,GE-MM,Bantsuri,ბანცური,41,3,Village,UTC+4,Asia/Tbilisi
+1666787,GE,GE-IM,Banoja,ბანოჯა,1641,3,Village,UTC+4,Asia/Tbilisi
+1666788,GE,GE-SK,Bani,ბანი,2,3,Village,UTC+4,Asia/Tbilisi
+1666789,GE,GE-IM,Bangveti,ბენგვეთი,35,3,Village,UTC+4,Asia/Tbilisi
+1666790,GE,GE-SZ,Bandza,ბანძა,1099,3,Village,UTC+4,Asia/Tbilisi
+1666793,GE,\N,Balta,ბალთა,85,3,Village,UTC+4,Asia/Tbilisi
+1666795,GE,GE-SJ,Balkho,ბალხო,467,3,Village,UTC+4,Asia/Tbilisi
+1666799,GE,GE-KA,Balghojiani,ბალღოჯიანი,719,3,Village,UTC+4,Asia/Tbilisi
+1666800,GE,GE-MM,Balebiskhevi,ბალებისხევი,54,3,Village,UTC+4,Asia/Tbilisi
+1666801,GE,GE-SJ,Balanta,ბალანთა,155,3,Village,UTC+4,Asia/Tbilisi
+1666802,GE,GE-SJ,Bolajuri,ბოლაჯური,770,3,Village,UTC+4,Asia/Tbilisi
+1666803,GE,GE-AJ,Baladzeebi,ბალაძეები,116,3,Village,UTC+4,Asia/Tbilisi
+1666805,GE,GE-KA,Bak'urtsikhe,ბაკურციხე,2574,4,locality,UTC+4,Asia/Tbilisi
+1666807,GE,\N,Bakurianis Andeziti,ბაკურიანის ანდეზიტი,352,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1666808,GE,GE-SJ,Bakuriani,ბაკურიანი,1848,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1666812,GE,GE-GU,Bokhvauri,ბოხვაური,1056,3,Village,UTC+4,Asia/Tbilisi
+1666813,GE,GE-IM,Bakhioti,ბახიოთი,246,3,Village,UTC+4,Asia/Tbilisi
+1666814,GE,GE-KK,Bakhchalari,ბახჩალარი,70,3,Village,UTC+4,Asia/Tbilisi
+1666815,GE,GE-MM,Bakhani,ბახანი,10,3,Village,UTC+4,Asia/Tbilisi
+1666816,GE,GE-KA,Baisubani,ბაისუბანი,888,3,Village,UTC+4,Asia/Tbilisi
+1666817,GE,GE-GU,Baileti,ბაილეთი,274,3,Village,UTC+4,Asia/Tbilisi
+1666818,GE,GE-KK,Baidari,ბაიდარი,882,3,Village,UTC+4,Asia/Tbilisi
+1666819,GE,GE-SZ,Bagvdanari,ბაგვდანარი,80,3,Village,UTC+4,Asia/Tbilisi
+1666820,GE,GE-AB,Baghnari,ბაღნარი,334,3,locality,UTC+4,Asia/Tbilisi
+1666821,GE,GE-AB,Baghmarani,ბაღმარანი,185,3,Village,UTC+4,Asia/Tbilisi
+1666823,GE,GE-IM,Bagineti,ბაგინეთი,8,3,Village,UTC+4,Asia/Tbilisi
+1666826,GE,GE-IM,Baghdati,ბაღდათი,3440,2,Municipality,UTC+4,Asia/Tbilisi
+1666827,GE,GE-GU,Baghdadi,ბაღდადი,678,3,Village,UTC+4,Asia/Tbilisi
+1666828,GE,\N,Bagdadi,Bagdadi,4564,4,town,UTC+4,Asia/Tbilisi
+1666829,GE,GE-MM,Baga,ბაგა,142,3,Village,UTC+4,Asia/Tbilisi
+1666830,GE,GE-IM,Bajiti,ბაჯითი,520,3,Village,UTC+4,Asia/Tbilisi
+1666831,GE,GE-RL,Bajikhevi,ბაჯიხევი,20,3,Village,UTC+4,Asia/Tbilisi
+1666832,GE,GE-RL,Baji,ბაჯი,109,3,Village,UTC+4,Asia/Tbilisi
+1666835,GE,GE-AB,Babushara,ბაბუშარა,2696,3,locality,UTC+4,Asia/Tbilisi
+1666836,GE,GE-IM,Baboti,ბაბოთი,18,3,Village,UTC+4,Asia/Tbilisi
+1666838,GE,GE-IM,Babi,ბაბი,62,3,Village,UTC+4,Asia/Tbilisi
+1666839,GE,GE-KA,Babaneuri,ბაბანეური,137,3,Village,UTC+4,Asia/Tbilisi
+1666841,GE,GE-SJ,Azmana,აზმანა,205,3,Village,UTC+4,Asia/Tbilisi
+1666843,GE,GE-SJ,Azavreti,აზავრეთი,1161,3,Village,UTC+4,Asia/Tbilisi
+1666844,GE,GE-AB,Azanta,აზანთა,66,4,locality,UTC+4,Asia/Tbilisi
+1666845,GE,GE-KK,Aiazmi,აიაზმი,415,3,Village,UTC+4,Asia/Tbilisi
+1666846,GE,GE-KK,Avranlo,ავრანლო,789,3,Village,UTC+4,Asia/Tbilisi
+1666847,GE,GE-SK,Avnevi,ავნევი,1022,4,locality,UTC+4,Asia/Tbilisi
+1666848,GE,GE-SK,Avlevi,ავლევი,349,3,Village,UTC+4,Asia/Tbilisi
+1666850,GE,GE-MM,Avenisi,ავენისი,2,3,Village,UTC+4,Asia/Tbilisi
+1666855,GE,GE-SJ,Ats'q'uri,აწყური,47167,3,Urban Township (Zhen),UTC+4,Asia/Tbilisi
+1666856,GE,GE-GU,Atsana,აცანა,586,3,Village,UTC+4,Asia/Tbilisi
+1666862,GE,GE-AB,Somkhuri Atara,სომხური ათარა,110,4,locality,UTC+4,Asia/Tbilisi
+1666863,GE,GE-AB,Atara,ათარა,665,3,locality,UTC+4,Asia/Tbilisi
+1666864,GE,GE-KK,Asureti,ასურეთი,978,3,Village,UTC+4,Asia/Tbilisi
+1666867,GE,GE-SJ,Aspindza,ასპინძა,3263,2,Municipality,UTC+4,Asia/Tbilisi
+1666868,GE,GE-SJ,Aspara,ასფარა,107,3,Village,UTC+4,Asia/Tbilisi
+1666877,GE,GE-SJ,Arzne,არზნე,85,3,Village,UTC+4,Asia/Tbilisi
+1666879,GE,GE-KK,Nakhiduri,ნახიდური,3686,3,Village,UTC+4,Asia/Tbilisi
+1666880,GE,GE-SZ,Artskheli,არცხელი,65,3,Village,UTC+4,Asia/Tbilisi
+1666884,GE,GE-KA,Artana,ართანა,819,3,Village,UTC+4,Asia/Tbilisi
+1666885,GE,GE-MM,Arsha,არშა,440,3,Village,UTC+4,Asia/Tbilisi
+1666886,GE,GE-KK,Araplo,არაფლო,854,3,Village,UTC+4,Asia/Tbilisi
+1666887,GE,GE-MM,Armazi,არმაზციხე,83,4,locality,UTC+4,Asia/Tbilisi
+1666892,GE,GE-IM,Argveti,არგვეთი,752,3,Village,UTC+4,Asia/Tbilisi
+1666893,GE,GE-IM,Argveta,არგვეთა,1329,3,Village,UTC+4,Asia/Tbilisi
+1666895,GE,GE-MM,Arghuni,არღუნი,163,3,Village,UTC+4,Asia/Tbilisi
+1666896,GE,GE-KA,Argokhi,არგოხი,224,3,Village,UTC+4,Asia/Tbilisi
+1666897,GE,GE-KA,Areshperani,არეშფერანი,278,3,Village,UTC+4,Asia/Tbilisi
+1666898,GE,GE-KK,Arjevan-Sarvani,არჯევან-სარვანი,547,3,Village,UTC+4,Asia/Tbilisi
+1666900,GE,GE-KK,Ardisubani,არდისუბანი,138,3,Village,UTC+4,Asia/Tbilisi
+1666904,GE,GE-GU,Archeuli,არჩეული,352,3,Village,UTC+4,Asia/Tbilisi
+1666905,GE,GE-MM,Arboeti,არბოეთი,12,3,Village,UTC+4,Asia/Tbilisi
+1666907,GE,\N,Arbo,Arbo,293,3,Village,UTC+4,Asia/Tbilisi
+1666909,GE,GE-SK,Arashenda,არაშენდა,1109,3,Village,UTC+4,Asia/Tbilisi
+1666915,GE,GE-AB,Arasadzikhi,არასაძიხი,409,3,locality,UTC+4,Asia/Tbilisi
+1666916,GE,GE-MM,Aranisi,არანისი,70,3,Village,UTC+4,Asia/Tbilisi
+1666917,GE,GE-SJ,Arali,არალი,1324,3,Village,UTC+4,Asia/Tbilisi
+1666918,GE,GE-AB,Arak'ichi,არაკიჩი,873,3,locality,UTC+4,Asia/Tbilisi
+1666919,GE,GE-MM,Arakhveti,არახვეთი,205,3,Village,UTC+4,Asia/Tbilisi
+1666920,GE,GE-KK,Dzedzvnariani,ძეძვნარიანი,411,3,Village,UTC+4,Asia/Tbilisi
+1666921,GE,GE-SJ,Aragva,არაგვა,861,3,Village,UTC+4,Asia/Tbilisi
+1666922,GE,GE-AB,Aradu,არადუ,6320,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1666924,GE,GE-SK,Aradeti,არადეთი,432,3,Village,UTC+4,Asia/Tbilisi
+1666927,GE,GE-MM,Apsho,აფშო,1,3,Village,UTC+4,Asia/Tbilisi
+1666928,GE,GE-SJ,Apnia,აფნია,160,3,Village,UTC+4,Asia/Tbilisi
+1666929,GE,GE-SJ,Apieti,აფიეთი,59,3,Village,UTC+4,Asia/Tbilisi
+1666930,GE,GE-KA,Apeni,აფენი,1555,3,Village,UTC+4,Asia/Tbilisi
+1666933,GE,GE-AB,Anukhva,ანუხვა,393,3,locality,UTC+4,Asia/Tbilisi
+1666938,GE,GE-SJ,Ani,ანი,348,3,Village,UTC+4,Asia/Tbilisi
+1666940,GE,GE-SJ,Andriats'minda,ანდრიაწმინდა,295,4,locality,UTC+4,Asia/Tbilisi
+1666944,GE,GE-MM,Andaki,ანდაქი,17,3,Village,UTC+4,Asia/Tbilisi
+1666945,GE,GE-SJ,Anda,ანდა,74,3,Village,UTC+4,Asia/Tbilisi
+1666947,GE,GE-MM,Ananuri,ანანური,336,3,Village,UTC+4,Asia/Tbilisi
+1666948,GE,GE-SZ,Anaklia,ანაკლია,1331,3,Village,UTC+4,Asia/Tbilisi
+1666949,GE,\N,Anaga,ანაგა,2002,3,Village,UTC+4,Asia/Tbilisi
+1666951,GE,GE-AB,Amt'q'eli,ამტყელი,397,3,locality,UTC+4,Asia/Tbilisi
+1666952,GE,GE-IM,Amsaisi,ამსაისი,64,3,Village,UTC+4,Asia/Tbilisi
+1666954,GE,GE-KK,Amlevi,ამლევი,8,3,Village,UTC+4,Asia/Tbilisi
+1666955,GE,GE-SJ,Amkheri,ამხერი,97,3,Village,UTC+4,Asia/Tbilisi
+1666956,GE,GE-MM,Zemo Amirni,ზემო ამირნი,66,3,Village,UTC+4,Asia/Tbilisi
+1666957,GE,GE-MM,Amgha,ამღა,8,3,Village,UTC+4,Asia/Tbilisi
+1666958,GE,GE-RL,Ambrolauri,ამბროლაური,2223,2,Municipality,UTC+4,Asia/Tbilisi
+1666959,GE,GE-KK,Ambartapa,ამბართაფა,700,3,Village,UTC+4,Asia/Tbilisi
+1666961,GE,GE-KK,Amamlo,ამამლო,1100,3,Village,UTC+4,Asia/Tbilisi
+1666964,GE,GE-AB,Alpuri,ალპური,278,3,locality,UTC+4,Asia/Tbilisi
+1666968,GE,GE-MM,Almasiani,ალმასიანი,22,3,Village,UTC+4,Asia/Tbilisi
+1666972,GE,GE-SK,Ali,ალი,1068,3,Village,UTC+4,Asia/Tbilisi
+1666973,GE,GE-AB,Algiti,ალგითი,658,3,locality,UTC+4,Asia/Tbilisi
+1666974,GE,GE-KK,Algeti,ალგეთი,4253,3,Village,UTC+4,Asia/Tbilisi
+1666975,GE,GE-KK,Algeti,ალგეთი,8974,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1666979,GE,GE-AB,Aleksandrovk'a,ალექსანდროვკა,783,3,locality,UTC+4,Asia/Tbilisi
+1666981,GE,GE-IM,Alaverdi,ალავერდი,100,3,Village,UTC+4,Asia/Tbilisi
+1666982,GE,GE-KA,Alaverdi,ალავერდი,100,4,locality,UTC+4,Asia/Tbilisi
+1666984,GE,GE-SJ,Alatumani,ალათუმანი,388,3,Village,UTC+4,Asia/Tbilisi
+1666986,GE,GE-AJ,Alambari,ალამბარი,1837,3,Village,UTC+4,Asia/Tbilisi
+1666988,GE,GE-AB,Alakhadzi,ალახაძი,2876,4,Town,UTC+4,Asia/Tbilisi
+1666991,GE,GE-AB,Akvaskia,აკვასკია,575,3,locality,UTC+4,Asia/Tbilisi
+1666995,GE,GE-AJ,Akutsa,აქუცა,262,3,Village,UTC+4,Asia/Tbilisi
+1666996,GE,GE-MM,Ak'usho,აკუშო,41487,3,Urban Township (Zhen),UTC+4,Asia/Tbilisi
+1667003,GE,GE-SZ,Akhuti,ახუთი,849,3,Village,UTC+4,Asia/Tbilisi
+1667006,GE,GE-KA,Akhshnis Velebi,ახშნისველები,227,3,Village,UTC+4,Asia/Tbilisi
+1667007,GE,GE-KA,Akhshaani,ახშანი,236,3,Village,UTC+4,Asia/Tbilisi
+1667008,GE,GE-RL,Akhsargina,Akhsargina,63,4,village,UTC+4,Asia/Tbilisi
+1667009,GE,\N,Akhrisi,Akhrisi,638,3,Village,UTC+4,Asia/Tbilisi
+1667010,GE,GE-AJ,Akho,ახო,594,3,Village,UTC+4,Asia/Tbilisi
+1667011,GE,GE-KA,Akhmeta,ახმეტა,7117,2,Municipality,UTC+4,Asia/Tbilisi
+1667014,GE,GE-MM,Akhieli,ახიელი,6,3,Village,UTC+4,Asia/Tbilisi
+1667017,GE,GE-KA,Akhasheni,ახაშენი,2420,3,Village,UTC+4,Asia/Tbilisi
+1667018,GE,GE-IM,Akhalubani,ახალუბანი,435,3,Village,UTC+4,Asia/Tbilisi
+1667025,GE,GE-SJ,Akhaltsikhe,ახალციხე,17372,2,Municipality,UTC+4,Asia/Tbilisi
+1667026,GE,GE-AB,Akhalsopeli,ახალსოფელი,4158,3,Village,UTC+4,Asia/Tbilisi
+1667027,GE,GE-AB,Akhalsop'eli,Akhalsop’eli,133732,3,City (Shi),UTC+4,Asia/Tbilisi
+1667032,GE,GE-SZ,Akhalsopeli,ახალსოფელი,713,4,village,UTC+4,Asia/Tbilisi
+1667041,GE,GE-KK,Akhalsopeli,ახალსოფელი,1549,4,village,UTC+4,Asia/Tbilisi
+1667056,GE,GE-SJ,Akhalkalaki,ახალქალაქი,8826,2,Municipality,UTC+4,Asia/Tbilisi
+1667058,GE,GE-KK,Akhali Zirbiti,ახალი ზირბითი,52,3,Village,UTC+4,Asia/Tbilisi
+1667059,GE,GE-IM,Akhali Terjola,ახალი თერჯოლა,1170,3,Village,UTC+4,Asia/Tbilisi
+1667060,GE,GE-IM,Sadguri Sviri,ახალი სვირი,367,3,Village,UTC+4,Asia/Tbilisi
+1667061,GE,GE-KK,Akhali Samgori,ახალი სამგორი,1870,3,Village,UTC+4,Asia/Tbilisi
+1667064,GE,GE-MM,Akhali Osebi,ახალი ოსები,4,3,Village,UTC+4,Asia/Tbilisi
+1667065,GE,GE-MM,Akhali Nichbisi,ახალი ნიჩბისი,624,3,Village,UTC+4,Asia/Tbilisi
+1667066,GE,GE-KK,Akhali Marabda,ახალი მარაბდა,173,3,Village,UTC+4,Asia/Tbilisi
+1667067,GE,GE-KK,Akhlomakhmudlo,ახლომახმუდლო,554,3,Village,UTC+4,Asia/Tbilisi
+1667068,GE,GE-KK,Akhlolalo,ახლოლალო,690,3,Village,UTC+4,Asia/Tbilisi
+1667071,GE,\N,Akhali-Khurvaleti,Akhali Khurvaleti,34,3,Village,UTC+4,Asia/Tbilisi
+1667072,GE,GE-SJ,Akhali Khulgumo,ახალი ხულგუმო,136,3,Village,UTC+4,Asia/Tbilisi
+1667074,GE,GE-MM,Akhali Burghuli,ახალი ბურღული,29,3,Village,UTC+4,Asia/Tbilisi
+1667075,GE,GE-AB,Stantsiya Novyy Afon,ახალი ათონი,26636,4,locality,UTC+4,Asia/Tbilisi
+1667076,GE,GE-SZ,Akhali Abastumani,ახალაბასთუმანი,2084,3,Village,UTC+4,Asia/Tbilisi
+1667077,GE,GE-MM,Akhalgori,ახალგორი,1420,2,Settlement,UTC+4,Asia/Tbilisi
+1667082,GE,GE-SJ,Akhaldaba,ახალდაბა,1775,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1667084,GE,GE-AJ,Akhaldaba,ახალდაბა,3640,3,locality,UTC+4,Asia/Tbilisi
+1667085,GE,GE-IM,Akhalbediseuli,ახალბედისეული,315,3,Village,UTC+4,Asia/Tbilisi
+1667086,GE,GE-MM,Akhadi,ახოდი,6,3,Village,UTC+4,Asia/Tbilisi
+1667087,GE,GE-KK,Akha,ახა,47,3,Village,UTC+4,Asia/Tbilisi
+1667090,GE,GE-AB,Odishi,აკაფა,942,3,Village,UTC+4,Asia/Tbilisi
+1667092,GE,GE-AB,Agudzera,აგუძერა,1499,4,locality,UTC+4,Asia/Tbilisi
+1667093,GE,GE-AB,Agubedia,აგუბედია,1864,3,locality,UTC+4,Asia/Tbilisi
+1667096,GE,GE-SK,Aghaiani,აღაიანი,1505,3,Village,UTC+4,Asia/Tbilisi
+1667098,GE,GE-SK,Agarebi,აგარები,139,3,Village,UTC+4,Asia/Tbilisi
+1667099,GE,GE-AB,Agarak'i,აგარაკი,672,3,locality,UTC+4,Asia/Tbilisi
+1667100,GE,\N,Agaraki,Agaraki,144,3,Village,UTC+4,Asia/Tbilisi
+1667102,GE,GE-SK,Agara,აგარა,3173,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1667103,GE,GE-SJ,Agara,აგარა,348,4,locality,UTC+4,Asia/Tbilisi
+1667107,GE,GE-SJ,Agana,აგანა,580,3,Village,UTC+4,Asia/Tbilisi
+1667110,GE,GE-AB,Adzyubzha,აძიუბჟა,1072,3,locality,UTC+4,Asia/Tbilisi
+1667113,GE,\N,Adzvi,Adzvi,353,3,Village,UTC+4,Asia/Tbilisi
+1667116,GE,GE-AB,Adzkhida,აძხიდა,175,4,locality,UTC+4,Asia/Tbilisi
+1667121,GE,GE-AJ,Ach'aris Aghmarti,აჭარისაღმართი,24848,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1667126,GE,GE-SJ,Adigeni,ადიგენი,1191,2,Municipality,UTC+4,Asia/Tbilisi
+1667127,GE,GE-AJ,Adadzeebi,ადაძეები,176,3,Village,UTC+4,Asia/Tbilisi
+1667128,GE,GE-AB,Achmarda,აჩმარლა,230,3,locality,UTC+4,Asia/Tbilisi
+1667130,GE,GE-MM,Achkhot'i,აჩხოტი,167,4,locality,UTC+4,Asia/Tbilisi
+1667132,GE,GE-AB,Achigvara,აჩიგვარა,1032,3,locality,UTC+4,Asia/Tbilisi
+1667136,GE,GE-AB,Ach'andara,აჭანდარა,1226,3,locality,UTC+4,Asia/Tbilisi
+1667139,GE,GE-AB,Abzhaq'va,აბჟაყვა,665,4,locality,UTC+4,Asia/Tbilisi
+1667141,GE,GE-SJ,Abuli,აბული,535,3,Village,UTC+4,Asia/Tbilisi
+1667145,GE,GE-AB,Ablukhvara,თბლუხვარა,100,4,locality,UTC+4,Asia/Tbilisi
+1667146,GE,\N,Abisistavi,Abisistavi,138,3,Village,UTC+4,Asia/Tbilisi
+1667147,GE,GE-SK,Abisi,აბისი,399,3,Village,UTC+4,Asia/Tbilisi
+1667150,GE,GE-AB,Abgharkhuki,აბღარხუქი,1024,3,locality,UTC+4,Asia/Tbilisi
+1667152,GE,GE-KK,Abeliani,აბელიანი,151,3,Village,UTC+4,Asia/Tbilisi
+1667153,GE,GE-SZ,Abedati,აბედათი,541,3,Village,UTC+4,Asia/Tbilisi
+1667154,GE,GE-KK,Javshaniani,ჯავშანიანი,476,3,Village,UTC+4,Asia/Tbilisi
+1667159,GE,GE-SZ,Abasha,აბაშა,5439,2,Municipality,UTC+4,Asia/Tbilisi
+1667160,GE,GE-RL,Abari,აბარი,122,3,Village,UTC+4,Asia/Tbilisi
+1667161,GE,GE-RL,Abanoeti,აბანოეთი,102,3,Village,UTC+4,Asia/Tbilisi
+1667162,GE,GE-MM,Abano,აბანო,121,3,Village,UTC+4,Asia/Tbilisi
+1667164,GE,GE-AB,Abakhuamts'a,აბახუამწა,16485,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1667166,GE,GE-AB,Aats'i,ააცი,1061,3,locality,UTC+4,Asia/Tbilisi
+1667181,GE,GE-SZ,Ingiri,ინგირი,4049,3,Village,UTC+4,Asia/Tbilisi
+1667189,GE,\N,Makharia,Makharia,370,3,Village,UTC+4,Asia/Tbilisi
+1667191,GE,\N,Etseri,Etseri,1206,3,Village,UTC+4,Asia/Tbilisi
+1667205,GE,GE-MM,Prezeti,ფრეზეთი,725,3,Village,UTC+4,Asia/Tbilisi
+1667206,GE,GE-KK,Aghmamedlo,აღმამედლო,2289,3,Village,UTC+4,Asia/Tbilisi
+1667214,GE,GE-AB,Genikey,Genikey,27644,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1667220,GE,GE-AB,P'rimorsk'oe,პრიმორსკოე,2573,4,Town,UTC+4,Asia/Tbilisi
+1667222,GE,GE-AB,Atsijkva,აციჯქვა,454,3,locality,UTC+4,Asia/Tbilisi
+1667224,GE,GE-SK,Pukhaantubani,ფუხაანთუბანი,56,3,Village,UTC+4,Asia/Tbilisi
+1667227,GE,GE-SK,Kvakhvreli,ქვახვრელი,2091,3,Village,UTC+4,Asia/Tbilisi
+1667237,GE,GE-KK,Khramhesi,ხრამჰესი,65,3,Village,UTC+4,Asia/Tbilisi
+1667238,GE,GE-KK,Bediani,ბედიანი,146,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1667242,GE,GE-KK,Abrameti,აბრამეთი,6,3,Village,UTC+4,Asia/Tbilisi
+1667275,GE,GE-KK,Bazaklo,ბაზაქლო,532,3,Village,UTC+4,Asia/Tbilisi
+1667289,GE,GE-MM,Khoptsa,ხოფცა,37,3,Village,UTC+4,Asia/Tbilisi
+1667296,GE,GE-IM,Sairkhe,საირხე,1994,3,Village,UTC+4,Asia/Tbilisi
+1667298,GE,GE-IM,Koreti,ქორეთი,1348,4,locality,UTC+4,Asia/Tbilisi
+1667315,GE,GE-SZ,Chazhashi,ჩაჟაში,28,3,Village,UTC+4,Asia/Tbilisi
+1667318,GE,GE-RL,Lampalashi,ლამფალაში,29,3,Village,UTC+4,Asia/Tbilisi
+1667330,GE,GE-IM,Nebiereti,ნებიერეთი,13,3,Village,UTC+4,Asia/Tbilisi
+1667340,GE,GE-IM,Zemo Nogha,ზემო ნოღა,293,3,Village,UTC+4,Asia/Tbilisi
+1667342,GE,GE-MM,Mosabruni,მოსაბრუნი,281,4,village,UTC+4,Asia/Tbilisi
+1667345,GE,\N,Koda,Koda,3062,3,Village,UTC+4,Asia/Tbilisi
+1667358,GE,GE-MM,Bindaurta,ბინდაურთა,2,3,Village,UTC+4,Asia/Tbilisi
+1667359,GE,GE-MM,Kobulo,ქობულო,8,3,Village,UTC+4,Asia/Tbilisi
+1667370,GE,\N,Petriani,Petriani,91,3,Village,UTC+4,Asia/Tbilisi
+1667373,GE,GE-MM,Khevsha,ხევშა,19,3,Village,UTC+4,Asia/Tbilisi
+1667399,GE,\N,Kotianeti,Kotianeti,479,3,Village,UTC+4,Asia/Tbilisi
+1667402,GE,GE-IM,Vazisubani,ვაზისუბანი,476,4,village,UTC+4,Asia/Tbilisi
+1667413,GE,GE-SZ,Nageberavo,ნაგებერავო,256,3,Village,UTC+4,Asia/Tbilisi
+1667416,GE,GE-IM,Khiblari,ხიბლარი,732,3,Village,UTC+4,Asia/Tbilisi
+1667427,GE,GE-RL,Leksura,ლექსურა,157,3,Village,UTC+4,Asia/Tbilisi
+1667428,GE,GE-RL,Lamanashuri,ლამანაშური,20,3,Village,UTC+4,Asia/Tbilisi
+1667432,GE,GE-RL,Kulbaki,ქულბაქი,131,3,Village,UTC+4,Asia/Tbilisi
+1667439,GE,\N,Kursebi,Kursebi,1603,3,Village,UTC+4,Asia/Tbilisi
+1667441,GE,GE-IM,Mukhiani,მუხიანი,1058,3,Village,UTC+4,Asia/Tbilisi
+1667443,GE,GE-IM,Saimedo,საიმედო,190,3,Village,UTC+4,Asia/Tbilisi
+1667445,GE,GE-SZ,Khalde,ხალდე,3,3,Village,UTC+4,Asia/Tbilisi
+1667471,GE,GE-SZ,Lashkhrashi,ლაშხრაში,2,3,Village,UTC+4,Asia/Tbilisi
+1667474,GE,GE-AB,Bzibta,ბზიბთა,4835,3,locality,UTC+4,Asia/Tbilisi
+1667475,GE,GE-AB,Gagrap'sta,გაგრაფსტა,147,4,locality,UTC+4,Asia/Tbilisi
+1667476,GE,GE-AB,Ipnari,იფნარი,2719,3,Village,UTC+4,Asia/Tbilisi
+1667477,GE,GE-AB,Arasadzikhi,არასაძიხი,190,4,locality,UTC+4,Asia/Tbilisi
+1667478,GE,GE-AB,Akvara,აყვარა,1164,3,locality,UTC+4,Asia/Tbilisi
+1667480,GE,GE-AB,Rapits'a,რაფიწა,238,3,locality,UTC+4,Asia/Tbilisi
+1667481,GE,GE-AB,At'idzt'a,ათიძთა,1785,3,locality,UTC+4,Asia/Tbilisi
+1667514,GE,GE-AB,Amzara,ამზარა,200,4,locality,UTC+4,Asia/Tbilisi
+1667518,GE,GE-GU,Nigvziani,ნიგვზიანი,1046,3,Village,UTC+4,Asia/Tbilisi
+1667547,GE,GE-SZ,Narazeni,ნარაზენი,2345,4,locality,UTC+4,Asia/Tbilisi
+1667548,GE,GE-SZ,Tikori,თიქორი,37,3,Village,UTC+4,Asia/Tbilisi
+1667550,GE,GE-SZ,Barjashi,ბარჯაში,8,3,Village,UTC+4,Asia/Tbilisi
+1667552,GE,GE-RL,Lesema,ლესემა,81,3,Village,UTC+4,Asia/Tbilisi
+1667553,GE,GE-RL,Mananauri,მანანაური,2,3,Village,UTC+4,Asia/Tbilisi
+1667554,GE,GE-RL,Nanari,ნანარი,101,3,Village,UTC+4,Asia/Tbilisi
+1667555,GE,GE-RL,Gvimbrala,გვიმბრალა,77,3,Village,UTC+4,Asia/Tbilisi
+1667556,GE,GE-AB,Ts'abliani,წაბლიანი,80,4,locality,UTC+4,Asia/Tbilisi
+1667557,GE,GE-AB,K'ult'ubani,კულტუბანი,866,3,locality,UTC+4,Asia/Tbilisi
+1667558,GE,GE-AB,Ts'alk'ot'i,Lkoti,724,3,locality,UTC+4,Asia/Tbilisi
+1667559,GE,GE-AB,Zegani,ზეგანი,85,3,Village,UTC+4,Asia/Tbilisi
+1667560,GE,GE-AB,Otradnoe,ოტრადნოე,1055,3,locality,UTC+4,Asia/Tbilisi
+1667561,GE,GE-AB,Imerkhevi,იმერხევი,26,3,Village,UTC+4,Asia/Tbilisi
+1667576,GE,GE-SZ,Zeda Lia,ზედა ლია,402,3,Village,UTC+4,Asia/Tbilisi
+1667577,GE,GE-SZ,Lekharchile,ლეხარჩილე,176,3,Village,UTC+4,Asia/Tbilisi
+1667578,GE,GE-SZ,Uluria,ულურია,275,3,Village,UTC+4,Asia/Tbilisi
+1667580,GE,GE-SZ,Nakhurtsilavo,ნახურცილავო,265,3,Village,UTC+4,Asia/Tbilisi
+1667581,GE,GE-RL,Kveda Tsageri,ქვედა ცაგერი,970,3,Village,UTC+4,Asia/Tbilisi
+1667582,GE,GE-RL,Mravaldzali,მრავალძალი,7,3,Village,UTC+4,Asia/Tbilisi
+1667583,GE,GE-SZ,Zemo Kvaloni,ზემო ქვალონი,145,3,Village,UTC+4,Asia/Tbilisi
+1667585,GE,GE-SZ,Gakhomela,გახომელა,508,3,Village,UTC+4,Asia/Tbilisi
+1667586,GE,GE-IM,Tsqaltubo,წყალტუბო,13589,2,Municipality,UTC+4,Asia/Tbilisi
+1667589,GE,GE-IM,Salominao,სალომინაო,782,3,Village,UTC+4,Asia/Tbilisi
+1667591,GE,GE-GU,Naruja,ნარუჯა,1827,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1667592,GE,GE-AJ,Khino,ხინო,1,3,Village,UTC+4,Asia/Tbilisi
+1667594,GE,GE-AJ,Inasharidzeebi,ინაშარიძეები,200,3,Village,UTC+4,Asia/Tbilisi
+1667596,GE,GE-AJ,Godgadzeebi,გოდგაძეები,91,3,Village,UTC+4,Asia/Tbilisi
+1667597,GE,GE-SJ,Abastumani,აბასთუმანი,842,4,locality,UTC+4,Asia/Tbilisi
+1667601,GE,GE-SJ,Bak'urianis Andezit'i,ბაკურიანის ანდეზიტი,1085,4,locality,UTC+4,Asia/Tbilisi
+1667605,GE,GE-AJ,Akhalsopeli,ახალსოფელი,2241,4,locality,UTC+4,Asia/Tbilisi
+1667607,GE,GE-AJ,Sharabidzeebi,შარაბიძეები,1019,3,Village,UTC+4,Asia/Tbilisi
+1667609,GE,GE-SK,Teliani,თელიანი,981,3,Village,UTC+4,Asia/Tbilisi
+1667610,GE,GE-KA,Vachnadziani,ვაჩნაძიანი,1529,3,Village,UTC+4,Asia/Tbilisi
+1667614,GE,GE-KK,Lemshveniera,ლემშვენიერა,1642,3,Village,UTC+4,Asia/Tbilisi
+1667620,GE,\N,Verkhviani,ვერხვიანი,495,3,Village,UTC+4,Asia/Tbilisi
+1667621,GE,\N,Badiauri,ბადიაური,1286,3,Village,UTC+4,Asia/Tbilisi
+1667624,GE,GE-SJ,Vardzia,ვარძია,500,3,Village,UTC+4,Asia/Tbilisi
+1667625,GE,GE-KA,Dadik'urta,დიდიკურტა,3999,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1667634,GE,GE-MM,Maghrani,მაღრანი,75,3,Village,UTC+4,Asia/Tbilisi
+1667636,GE,GE-MM,Tkhiliana,თხილიანა,53,3,Village,UTC+4,Asia/Tbilisi
+1667639,GE,GE-MM,Tsikhiani,ციხიანი,2,3,Village,UTC+4,Asia/Tbilisi
+1667641,GE,GE-MM,Iukho,იუხო,2,3,Village,UTC+4,Asia/Tbilisi
+1667642,GE,GE-MM,Chokhi,ჩოხი,17,3,Village,UTC+4,Asia/Tbilisi
+1667653,GE,GE-MM,Mejilaurni,მეჯილაურნი,1,3,Village,UTC+4,Asia/Tbilisi
+1667655,GE,GE-MM,Khiliana,ხილიანა,22,3,Village,UTC+4,Asia/Tbilisi
+1667660,GE,GE-MM,Meliaskhevi,მელიასხევი,71,3,Village,UTC+4,Asia/Tbilisi
+1667667,GE,GE-AB,Kelasuri,კელასური,1373,4,locality,UTC+4,Asia/Tbilisi
+1667669,GE,GE-AB,Alekseyevka,Alekseyevka,42858,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1667670,GE,GE-AB,Tkhubun,თხუბუნი,450,4,locality,UTC+4,Asia/Tbilisi
+1667672,GE,\N,Merkheuli,Merkheuli,839,3,locality,UTC+4,Asia/Tbilisi
+1667676,GE,GE-AB,Zemo-Machara,ზემო მაჭარა,684,3,locality,UTC+4,Asia/Tbilisi
+1667719,GE,GE-AB,Labra,Labra,566,3,locality,UTC+4,Asia/Tbilisi
+1667736,GE,GE-MM,Totiaurni,თოთიაურნი,16,3,Village,UTC+4,Asia/Tbilisi
+1667737,GE,GE-MM,K'orsha,კორშა,69,4,locality,UTC+4,Asia/Tbilisi
+1667750,GE,\N,Mumlaantkari,Mumlaantkari,112,3,Village,UTC+4,Asia/Tbilisi
+1667753,GE,\N,Kvemo-Ikorta,იკორთა,176,4,locality,UTC+4,Asia/Tbilisi
+1667759,GE,GE-KA,Sheerteba,შეერთება,233,3,Village,UTC+4,Asia/Tbilisi
+1667763,GE,GE-MM,Akhali K'adoeti,ახალი კადოეთი,79,4,locality,UTC+4,Asia/Tbilisi
+1667766,GE,GE-MM,Kedeloba,ქედელობა,71,3,Village,UTC+4,Asia/Tbilisi
+1667767,GE,GE-MM,Okruaani,ოქრუაანი,2,3,Village,UTC+4,Asia/Tbilisi
+1667775,GE,\N,Kakhati,Kakhati,4024,3,Village,UTC+4,Asia/Tbilisi
+1667782,GE,\N,Chikhu,Chikhu,299,3,Village,UTC+4,Asia/Tbilisi
+1667788,GE,GE-SZ,Narazeni,ნარაზენი,2345,3,Village,UTC+4,Asia/Tbilisi
+1667796,GE,\N,Skuria,Skuria,92,3,Village,UTC+4,Asia/Tbilisi
+1667817,GE,GE-AB,Ch'q'onkhumla,ჭყონხუმლა,15427,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1667819,GE,GE-SZ,Kalaghali,ქალაღალი,292,3,Village,UTC+4,Asia/Tbilisi
+1667831,GE,\N,Kortskheli,Kortskheli,883,3,Village,UTC+4,Asia/Tbilisi
+1667837,GE,GE-GU,Moedani,მოედანი,351,3,Village,UTC+4,Asia/Tbilisi
+1667838,GE,GE-GU,Shromisubani,შრომისუბანი,350,3,Village,UTC+4,Asia/Tbilisi
+1667839,GE,GE-GU,Jikhanjiri,ჯიხანჯირი,365,3,Village,UTC+4,Asia/Tbilisi
+1667841,GE,GE-AB,Demerchentsi,დემერჩენცი,326,3,locality,UTC+4,Asia/Tbilisi
+1667853,GE,GE-AB,Zemo Khevi,ზემო ხევი,135,3,Village,UTC+4,Asia/Tbilisi
+1667856,GE,GE-AB,Gruzinskoye Ushchel'ye,გრუზინსკოე-უშჩელიე,518,3,locality,UTC+4,Asia/Tbilisi
+1667857,GE,GE-AB,Ojibina,ოჯიბინა,129,4,locality,UTC+4,Asia/Tbilisi
+1667858,GE,GE-AB,Vashlovani,ვაშლოვანი,473,3,Village,UTC+4,Asia/Tbilisi
+1667859,GE,GE-AB,Tsodnisk'ari,ცოდნისკარი,116,4,locality,UTC+4,Asia/Tbilisi
+1667860,GE,GE-AB,K'ldiani,კლდიანი,138,4,locality,UTC+4,Asia/Tbilisi
+1667861,GE,GE-AB,Mukhnari,მუხნარი,193,4,locality,UTC+4,Asia/Tbilisi
+1667862,GE,GE-AB,Orekhovo,ორეხოვო,88,4,locality,UTC+4,Asia/Tbilisi
+1667864,GE,GE-AB,Meore Bighazhiashta,მეორე ბიღაჟიაშთა,1564,3,locality,UTC+4,Asia/Tbilisi
+1667867,GE,GE-AJ,Zeda Tkhilnari,ზედა თხილნარი,761,3,Village,UTC+4,Asia/Tbilisi
+1667869,GE,GE-AJ,Kheghru,ხეღრუ,557,3,Village,UTC+4,Asia/Tbilisi
+1667872,GE,GE-AJ,Kveda Sameba,ქვედა სამება,1160,3,Village,UTC+4,Asia/Tbilisi
+1667873,GE,GE-AJ,Gogmachauri,გოგმაჩაური,53,3,Village,UTC+4,Asia/Tbilisi
+1667874,GE,GE-AB,Aibgha,აიბგა,255,3,locality,UTC+4,Asia/Tbilisi
+1667878,GE,GE-GU,Motsvnari,მოცვნარი,873,3,Village,UTC+4,Asia/Tbilisi
+1667884,GE,GE-AJ,Shevaburi,შევაბური,89,3,Village,UTC+4,Asia/Tbilisi
+1667887,GE,GE-AJ,Sikhalidzeebi,სიხალიძეები,148,3,Village,UTC+4,Asia/Tbilisi
+1667888,GE,GE-AJ,Chaisubani,ჩაისუბანი,2847,3,Village,UTC+4,Asia/Tbilisi
+1667891,GE,\N,Ushguli,უშგული,228,4,village,UTC+4,Asia/Tbilisi
+1667898,GE,GE-SZ,Leburtskhila,ლებურცხილა,34,3,Village,UTC+4,Asia/Tbilisi
+1667901,GE,GE-SZ,Saadamio,საადამიო,121,3,Village,UTC+4,Asia/Tbilisi
+1667904,GE,GE-SZ,Saesebuo,საესებუო,133,3,Village,UTC+4,Asia/Tbilisi
+1667907,GE,GE-RL,Durashi,დურაში,30,3,Village,UTC+4,Asia/Tbilisi
+1667909,GE,GE-AB,Khurcha,ხურჩა,535,3,Village,UTC+4,Asia/Tbilisi
+1667910,GE,GE-SZ,Legogine,ლეგოგიე,195,3,Village,UTC+4,Asia/Tbilisi
+1667911,GE,GE-SZ,Lejolikhe,ლეჯოლიხე,210,3,Village,UTC+4,Asia/Tbilisi
+1667913,GE,GE-SZ,Lekobale,ლექობალე,204,3,Village,UTC+4,Asia/Tbilisi
+1667914,GE,GE-SZ,Lesajaie,ლესაჯაიე,194,3,Village,UTC+4,Asia/Tbilisi
+1667916,GE,GE-SZ,Olori,ოლორი,264,3,Village,UTC+4,Asia/Tbilisi
+1667920,GE,GE-SZ,Sameskhio,სამესხიო,333,3,Village,UTC+4,Asia/Tbilisi
+1667924,GE,GE-GU,Tavsurebi,თავსურები,48,3,Village,UTC+4,Asia/Tbilisi
+1667925,GE,GE-GU,Mamulari,მამულარი,126,3,Village,UTC+4,Asia/Tbilisi
+1667928,GE,GE-GU,Shvelaur-Tsitsibauri,შველაურ-ციციბაური,52,3,Village,UTC+4,Asia/Tbilisi
+1667930,GE,GE-GU,Gaghma Dobiro,გაღმა დობირო,27,3,Village,UTC+4,Asia/Tbilisi
+1667931,GE,GE-GU,Gogouri,გოგოური,50,3,Village,UTC+4,Asia/Tbilisi
+1667933,GE,GE-KA,Akhmeta,ახმეტა,6823,3,locality,UTC+4,Asia/Tbilisi
+1667934,GE,GE-IM,Kharagauli,ხარაგაული,1965,2,Municipality,UTC+4,Asia/Tbilisi
+1667936,GE,GE-SK,Kareli,Kareli,22323,2,Municipality,UTC+4,Asia/Tbilisi
+1667937,GE,GE-AJ,Agota,აგოთა,122,3,Village,UTC+4,Asia/Tbilisi
+1667938,GE,GE-AJ,Arsenauli,არსენაული,89,3,Village,UTC+4,Asia/Tbilisi
+1667939,GE,GE-AJ,Masaura,მასაური,588,3,Village,UTC+4,Asia/Tbilisi
+1667941,GE,GE-AJ,Sirabidzeebi,სირაბიძეები,252,3,Village,UTC+4,Asia/Tbilisi
+1667945,GE,GE-AJ,Jalabashvilebi,ჯალაბაშვილე,310,3,Village,UTC+4,Asia/Tbilisi
+1667946,GE,GE-AJ,Mosiashvilebi,მოსიაშვილები,169,3,Village,UTC+4,Asia/Tbilisi
+1667957,GE,GE-AJ,Mintadzeebi,მინთაძეები,175,3,Village,UTC+4,Asia/Tbilisi
+1667958,GE,GE-AJ,Ghorjomi,ღორჯომი,95,3,Village,UTC+4,Asia/Tbilisi
+1667972,GE,GE-AJ,Zeda Tkhilvana,Zeda Tkhilvana,293,3,Village,UTC+4,Asia/Tbilisi
+1667974,GE,GE-AJ,Merchkheti,Merchkheti,117,3,Village,UTC+4,Asia/Tbilisi
+1667975,GE,GE-GU,Junmere,Junmere,146,3,Village,UTC+4,Asia/Tbilisi
+1667985,GE,GE-GU,Gamoghma Dobiro,Gamoghma Dobiro,22,3,Village,UTC+4,Asia/Tbilisi
+1667992,GE,GE-GU,Nasakirali,Nasak’irali,2728,3,Urban Settlement,UTC+4,Asia/Tbilisi
+1667993,GE,GE-GU,Mshvidobauri,მშვიდობაური,251,3,Village,UTC+4,Asia/Tbilisi
+1667995,GE,GE-GU,Zhanaura,Zhanaura,156,3,Village,UTC+4,Asia/Tbilisi
+1667996,GE,GE-GU,Shatiri,შათირი,152,3,Village,UTC+4,Asia/Tbilisi
+1667997,GE,GE-SZ,Bulvani,ბულვანი,337,3,Village,UTC+4,Asia/Tbilisi
+1667998,GE,GE-SZ,Tkhmelari,Tkhmelari,253,3,Village,UTC+4,Asia/Tbilisi
+1667999,GE,GE-SZ,Lemikave,Lemikave,424,3,Village,UTC+4,Asia/Tbilisi
+1668003,GE,GE-SZ,Majvdieri,მაჯვდიერი,14,3,Village,UTC+4,Asia/Tbilisi
+1668004,GE,GE-SZ,Gvalderi,გვალდერი,4,3,Village,UTC+4,Asia/Tbilisi
+1668009,GE,GE-RL,Babili,ბაბილი,151,3,Village,UTC+4,Asia/Tbilisi
+1668010,GE,\N,Khirsa,Khirsa,359,3,Village,UTC+4,Asia/Tbilisi
+1668014,GE,\N,Ganisi,Ganisi,4,3,Village,UTC+4,Asia/Tbilisi
+1668015,GE,\N,Nafetvrebi,Nafetvrebi,500,3,locality,UTC+4,Asia/Tbilisi
+1668017,GE,GE-KA,Kotekhi,Kotekhi,500,3,locality,UTC+4,Asia/Tbilisi
+1668018,GE,GE-AJ,Gogiashvilebi,გოგიაშვილები,194,3,Village,UTC+4,Asia/Tbilisi
+1668025,GE,GE-AJ,Goginidzeebi,გოგინიძეები,95,3,Village,UTC+4,Asia/Tbilisi
+1668033,GE,GE-AJ,Ternali,თერნალი,9962,4,town,UTC+4,Asia/Tbilisi
+1668035,GE,GE-AJ,Tsivadzeebi,ცივაძეები,243,3,Village,UTC+4,Asia/Tbilisi
+1668038,GE,GE-AJ,Murvaneti,მურვანეთი,189,3,Village,UTC+4,Asia/Tbilisi
+1668039,GE,GE-AJ,Ombolo,ომბოლო,204,3,Village,UTC+4,Asia/Tbilisi
+1668041,GE,GE-AJ,Shushaneti,შუშანეთი,146,3,Village,UTC+4,Asia/Tbilisi
+1668042,GE,GE-AJ,Dzablaveti,ძაბლავეთი,167,3,Village,UTC+4,Asia/Tbilisi
+1668043,GE,GE-AJ,Zanakidzeebi,ზანაქიძეები,1873,3,Village,UTC+4,Asia/Tbilisi
+1668044,GE,GE-AJ,Avgia,ავგია,846,3,Village,UTC+4,Asia/Tbilisi
+1668045,GE,GE-AJ,Duadzeebi,დუაძეები,409,3,Village,UTC+4,Asia/Tbilisi
+1668046,GE,GE-AJ,Elelidzeebi,ელელიძეები,114,3,Village,UTC+4,Asia/Tbilisi
+1668048,GE,GE-AJ,Boghauri,ბოღაური,158,3,Village,UTC+4,Asia/Tbilisi
+1668050,GE,GE-AJ,Ghorjomeladzeebi,ღორჯომელაძეები,211,3,Village,UTC+4,Asia/Tbilisi
+1668051,GE,GE-AJ,Zemo Vashlovani,ზემო ვაშლოვანი,383,3,Village,UTC+4,Asia/Tbilisi
+1668053,GE,GE-AJ,Oshanakhevi,ოშანახევი,50,3,Village,UTC+4,Asia/Tbilisi
+1668054,GE,GE-AJ,Akhali Ubani,ახალი უბანი,251,3,Village,UTC+4,Asia/Tbilisi
+1668057,GE,GE-TB,Betania,ბეთანია,30,3,Village,UTC+4,Asia/Tbilisi
+1668059,GE,GE-TB,Zurgovana,ზურგოვანა,131,3,Village,UTC+4,Asia/Tbilisi
+1668060,GE,GE-TB,Nasaguri,ნასაგური,1509,3,Village,UTC+4,Asia/Tbilisi
+1668065,GE,GE-GU,Shua Isnari,შუა ისნარი,293,3,Village,UTC+4,Asia/Tbilisi
+1668068,GE,GE-IM,Alismereti,ალისმერეთი,5,3,Village,UTC+4,Asia/Tbilisi
+1668073,GE,GE-IM,Tvrini,თვრინი,589,3,Village,UTC+4,Asia/Tbilisi
+1668075,GE,GE-IM,Ajameti,აჯამეთი,296,3,Village,UTC+4,Asia/Tbilisi
+1668076,GE,GE-IM,Saghvine,საღვინე,240,3,Village,UTC+4,Asia/Tbilisi
+1668077,GE,GE-IM,Sasakhle,სასახლე,587,3,Village,UTC+4,Asia/Tbilisi
+1668078,GE,GE-IM,Shimshilakedi,შიმშილაქედი,439,3,Village,UTC+4,Asia/Tbilisi
+1668080,GE,GE-IM,Dzlourdaneti,ძლოურდანეთი,119,3,Village,UTC+4,Asia/Tbilisi
+1668085,GE,GE-IM,Separeti,სეფარეთი,109,3,Village,UTC+4,Asia/Tbilisi
+1668086,GE,GE-IM,Gamochinebuli,გამოჩინებული,158,3,Village,UTC+4,Asia/Tbilisi
+1668090,GE,GE-IM,Jiktubani,ჯიქთუბანი,208,3,Village,UTC+4,Asia/Tbilisi
+1668096,GE,GE-IM,Ghvitori,ღვითორი,181,3,Village,UTC+4,Asia/Tbilisi
+1668097,GE,GE-IM,Begiauri,ბეგიაური,144,3,Village,UTC+4,Asia/Tbilisi
+1668100,GE,GE-IM,Gharikhevi,ღარიხევი,130,3,Village,UTC+4,Asia/Tbilisi
+1668106,GE,GE-IM,Japarauli,ჯაფარაული,183,3,Village,UTC+4,Asia/Tbilisi
+1668107,GE,GE-IM,Islari,ისლარი,137,3,Village,UTC+4,Asia/Tbilisi
+1668108,GE,GE-IM,Ghudumekedi,ღუდუმექედი,35,3,Village,UTC+4,Asia/Tbilisi
+1668110,GE,GE-IM,Kharabauli,ხარაბაული,24,3,Village,UTC+4,Asia/Tbilisi
+1668111,GE,GE-IM,Lepilie,ლეფილიე,23,3,Village,UTC+4,Asia/Tbilisi
+1668115,GE,GE-KA,Khveliandro,ხველიანდრო,2,3,Village,UTC+4,Asia/Tbilisi
+1668127,GE,GE-KA,Pirosmani,ფიროსმანი,569,3,Village,UTC+4,Asia/Tbilisi
+1668129,GE,GE-KA,Kvemo Pona,ქვემო ფონა,133,3,Village,UTC+4,Asia/Tbilisi
+1668130,GE,GE-KA,Dona,დონა,61,3,Village,UTC+4,Asia/Tbilisi
+1668131,GE,GE-KA,Kvemo Samgori,ქვემო სამგორი,66,3,Village,UTC+4,Asia/Tbilisi
+1668133,GE,GE-KA,Erisimedi,ერისიმედი,317,3,Village,UTC+4,Asia/Tbilisi
+1668134,GE,GE-KA,Shorokhi,შოროხი,350,3,Village,UTC+4,Asia/Tbilisi
+1668136,GE,GE-KK,Disveli,დისველი,397,3,Village,UTC+4,Asia/Tbilisi
+1668141,GE,GE-KK,Savaneti,სავანეთი,1412,3,Village,UTC+4,Asia/Tbilisi
+1668143,GE,GE-KK,Gamarjveba I,გამარჯვება I,313,3,Village,UTC+4,Asia/Tbilisi
+1668147,GE,GE-KK,Mzianeti,მზიანეთი,233,3,Village,UTC+4,Asia/Tbilisi
+1668148,GE,GE-KK,Nagebi,ნაგები,397,3,Village,UTC+4,Asia/Tbilisi
+1668149,GE,GE-KK,Angrevani,ანგრევანი,47,3,Village,UTC+4,Asia/Tbilisi
+1668150,GE,GE-KK,P'ant'iani,პანტიანი,37573,3,Urban Township (Zhen),UTC+4,Asia/Tbilisi
+1668151,GE,GE-KK,Mamishlari,მამიშლარი,76,3,Village,UTC+4,Asia/Tbilisi
+1668152,GE,GE-KK,Meore Salamaleiki,მეორე სალამალეიქი,16,3,Village,UTC+4,Asia/Tbilisi
+1668164,GE,GE-KK,Burma,ბურმა,148,3,Village,UTC+4,Asia/Tbilisi
+1668165,GE,GE-KK,Khuldara,ხულდარა,915,3,Village,UTC+4,Asia/Tbilisi
+1668168,GE,GE-KK,Khikhani,ხიხანი,504,3,Village,UTC+4,Asia/Tbilisi
+1668170,GE,GE-KK,Norgiuli,ნორგიული,436,3,Village,UTC+4,Asia/Tbilisi
+1668172,GE,GE-MM,Tsivts'q'aro,ცივწყარო,260,4,locality,UTC+4,Asia/Tbilisi
+1668174,GE,GE-MM,Lazviani,ლაზვიანი,67,3,Village,UTC+4,Asia/Tbilisi
+1668175,GE,GE-MM,Abanoskhevi,აბანოსხევი,399,3,Village,UTC+4,Asia/Tbilisi
+1668176,GE,GE-MM,Bakakurebi,ბაქაქურები,80,3,Village,UTC+4,Asia/Tbilisi
+1668177,GE,GE-MM,Akhalaani,ახალაანი,13,3,Village,UTC+4,Asia/Tbilisi
+1668178,GE,GE-MM,Akhali T'oncha,ახალი ტონჩა,201,4,PPL,UTC+4,Asia/Tbilisi
+1668179,GE,GE-MM,Mezvriantk'ari,მეზვრიანთკარი,79,4,locality,UTC+4,Asia/Tbilisi
+1668182,GE,GE-MM,Karaulebi,ქარაულები,6,3,Village,UTC+4,Asia/Tbilisi
+1668183,GE,GE-MM,Migriaulebi,მიგრიაულები,3,3,Village,UTC+4,Asia/Tbilisi
+1668185,GE,GE-MM,Badaani,ბადაანი,8,3,Village,UTC+4,Asia/Tbilisi
+1668187,GE,GE-MM,Sajinibo,საჯინიბო,22,3,Village,UTC+4,Asia/Tbilisi
+1668188,GE,GE-MM,Tetraulebi,თეთრაულები,16,3,Village,UTC+4,Asia/Tbilisi
+1668189,GE,GE-MM,Sakhevi,სახევი,5,3,Village,UTC+4,Asia/Tbilisi
+1668191,GE,GE-MM,Zurabebi,ზურაბები,53,3,Village,UTC+4,Asia/Tbilisi
+1668198,GE,GE-MM,Nakhshirgora,ნახშირგორა,8,3,Village,UTC+4,Asia/Tbilisi
+1668200,GE,GE-RL,Kheria,ხერია,5,3,Village,UTC+4,Asia/Tbilisi
+1668201,GE,GE-RL,Lagharvashi,ლაღარვაში,9,3,Village,UTC+4,Asia/Tbilisi
+1668202,GE,GE-RL,Naghomari,ნაღომარი,15,3,Village,UTC+4,Asia/Tbilisi
+1668204,GE,GE-RL,Benieri,ბენიერი,2,3,Village,UTC+4,Asia/Tbilisi
+1668205,GE,GE-RL,Lashkharashi,ლაშხარაში,17,3,Village,UTC+4,Asia/Tbilisi
+1668206,GE,GE-RL,Akhali Chordi,ახალი ჩორდი,15,3,Village,UTC+4,Asia/Tbilisi
+1668207,GE,GE-RL,Gona,გონა,2,3,Village,UTC+4,Asia/Tbilisi
+1668208,GE,GE-RL,P'at'ara Ghebi,პატარა ღები,128,4,PPL,UTC+4,Asia/Tbilisi
+1668209,GE,GE-RL,Kvedrula,ქვედრულა,9,3,Village,UTC+4,Asia/Tbilisi
+1668211,GE,GE-RL,Doghurashi,დოღურაში,13,3,Village,UTC+4,Asia/Tbilisi
+1668213,GE,GE-SZ,Lekajaie,ლექაჯაიე,422,3,Village,UTC+4,Asia/Tbilisi
+1668215,GE,GE-SZ,Saberulavo,საბერულავო,200,3,Village,UTC+4,Asia/Tbilisi
+1668218,GE,GE-SZ,Zeda Luha,ზედა ლუჰა,34,3,Village,UTC+4,Asia/Tbilisi
+1668219,GE,GE-SZ,Lukhi,ლუხი,43,3,Village,UTC+4,Asia/Tbilisi
+1668221,GE,GE-SZ,Lebaghature,ლებაღათურე,248,3,Village,UTC+4,Asia/Tbilisi
+1668222,GE,GE-SZ,Zeda Sachino,ზედა საჩინო,193,3,Village,UTC+4,Asia/Tbilisi
+1668224,GE,GE-SJ,Imertubani,იმერთუბანი,210,3,Village,UTC+4,Asia/Tbilisi
+1668227,GE,GE-SJ,Zazalo,ზაზალო,35,3,Village,UTC+4,Asia/Tbilisi
+1668228,GE,GE-SJ,Mirashkhani,მირაშხანი,312,3,Village,UTC+4,Asia/Tbilisi
+1668229,GE,GE-SJ,Pia,ფია,97,3,Village,UTC+4,Asia/Tbilisi
+1668230,GE,GE-SJ,Gelsunda,გელსუნდა,63,3,Village,UTC+4,Asia/Tbilisi
+1668231,GE,GE-SJ,Nijgori,ნიჯგორი,294,3,Village,UTC+4,Asia/Tbilisi
+1668233,GE,GE-SJ,Abatkhevi,აბათხევი,185,3,Village,UTC+4,Asia/Tbilisi
+1668236,GE,GE-SK,Gagloaantubani,გაგლოაანთუბანი,17,3,Village,UTC+4,Asia/Tbilisi
+1668237,GE,GE-SK,Gaichaantubani,გაიჩაანთუბანი,2,3,Village,UTC+4,Asia/Tbilisi
+1668238,GE,GE-SK,Tkhinala,თხინალა,1,3,Village,UTC+4,Asia/Tbilisi
+1668240,GE,GE-SK,Varianis Meurneoba,ვარიანის მეურნეობა,383,3,Village,UTC+4,Asia/Tbilisi
+1668243,GE,GE-SK,Akhalkhiza,ახალხიზა,385,3,Village,UTC+4,Asia/Tbilisi
+1668251,GE,GE-SK,Chobalauri,ჩობალაური,148,3,Village,UTC+4,Asia/Tbilisi
+1668253,GE,GE-SK,Perma,ფერმა,1058,3,Village,UTC+4,Asia/Tbilisi
+1668254,GE,GE-SK,Togoiani,თოგოიანი,75,3,Village,UTC+4,Asia/Tbilisi
+1668256,GE,GE-SK,Lavriskhevi,ლავრისხევი,18,3,Village,UTC+4,Asia/Tbilisi
+1668257,GE,GE-SK,Apnisi,აფნისი,29,3,Village,UTC+4,Asia/Tbilisi
+1668259,GE,GE-SK,Gulik'aantubani,გულიკაანთუბანი,1695,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1668260,GE,GE-SK,Bretis Meurneoba,ბრეთის მეურნეობა,422,3,Village,UTC+4,Asia/Tbilisi
+1668267,GE,GE-SK,Savanisubani,სავანისუბანი,271,3,Village,UTC+4,Asia/Tbilisi
+1668276,GE,GE-KA,Zemo Gurgeniani,ზემო გურგენიანი,444,3,Village,UTC+4,Asia/Tbilisi
+1668278,GE,GE-SZ,Ets'eri,ეწერი,3427,3,Rural Township (Xiang),UTC+4,Asia/Tbilisi
+1668279,GE,GE-SZ,Zeda Mazandara,ზედა მაზანდარა,492,3,Village,UTC+4,Asia/Tbilisi
+1668290,GE,GE-SZ,Lakhami,ლახამი,168,3,Village,UTC+4,Asia/Tbilisi
+1668294,GE,GE-IM,Gvimrala,გვიმრალა,275,3,Village,UTC+4,Asia/Tbilisi
+1668295,GE,GE-IM,Gezruli,გეზრული,32353,3,Village,UTC+4,Asia/Tbilisi
+1668298,GE,GE-MM,Tsikhissopeli,ციხისსოფელი,8,3,Village,UTC+4,Asia/Tbilisi
+1668299,GE,GE-SZ,Zemo Vedi,ზემო ვედი,11,3,Village,UTC+4,Asia/Tbilisi
+1668300,GE,GE-SZ,Sagvichio,საგვიჩიო,531,3,Village,UTC+4,Asia/Tbilisi
+1668301,GE,GE-SZ,Lekarche,ლექარჩე,102,3,Village,UTC+4,Asia/Tbilisi
+1668305,GE,GE-AB,Azhara,აჟარა,196,4,PPL,UTC+4,Asia/Tbilisi

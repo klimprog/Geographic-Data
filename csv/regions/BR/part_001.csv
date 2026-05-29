@@ -1,0 +1,28 @@
+key,country,name,native_name,capital,population,timezone_utc,timezone_iana
+BR-AC,BR,Acre,Acre,266330,732793,UTC-5,"America/Rio_Branco, America/Eirunepe"
+BR-AL,BR,Alagoas,Alagoas,240568,3120922,UTC-3,"America/Maceio, America/Recife"
+BR-AM,BR,Amazonas,Amazonas,266605,3480937,"UTC-3, UTC-5, UTC-4","America/Porto_Velho, America/Eirunepe, America/Fortaleza, America/Manaus, America/Santarem"
+BR-AP,BR,Amapa,Amapá,240582,668689,UTC-3,America/Belem
+BR-BA,BR,Bahia,Bahia,252399,14175341,UTC-3,"America/Maceio, America/Fortaleza, America/Sao_Paulo, America/Recife, America/Araguaina, America/Bahia"
+BR-CE,BR,Ceara,Ceará,242366,8448055,UTC-3,"America/Fortaleza, America/Recife"
+BR-DF,BR,Federal District,Distrito Federal,\N,2648532,UTC-3,America/Sao_Paulo
+BR-ES,BR,Espirito Santo,Espírito Santo,249648,3512672,UTC-3,"America/Sao_Paulo, America/Bahia"
+BR-GO,BR,Goias,Goiás,258135,6004045,"UTC-3, UTC-4","America/Sao_Paulo, America/Cuiaba"
+BR-MA,BR,Maranhao,Maranhão,236180,6569683,UTC-3,"America/Fortaleza, America/Belem"
+BR-MG,BR,Minas Gerais,Minas Gerais,261721,19595309,UTC-3,"America/Sao_Paulo, America/Bahia"
+BR-MS,BR,Mato Grosso do Sul,Mato Grosso do Sul,260498,2505088,"UTC-3, UTC-4","America/Campo_Grande, America/Sao_Paulo, America/Cuiaba"
+BR-MT,BR,Mato Grosso,Mato Grosso,259281,3033991,"UTC-3, UTC-4","America/Campo_Grande, America/Sao_Paulo, America/Cuiaba, America/Santarem"
+BR-PA,BR,Para,Pará,246292,7588078,UTC-3,"America/Fortaleza, America/Belem, America/Araguaina, America/Santarem"
+BR-PB,BR,Paraiba,Paraíba,241386,3766834,UTC-3,"America/Fortaleza, America/Recife"
+BR-PE,BR,Pernambuco,Pernambuco,237751,8796032,"UTC-3, UTC-2","America/Noronha, America/Maceio, America/Fortaleza, America/Recife, America/Bahia"
+BR-PI,BR,Piaui,Piauí,235045,3119015,UTC-3,"America/Fortaleza, America/Bahia"
+BR-PR,BR,Parana,Paraná,259257,10439601,UTC-3,"America/Sao_Paulo, America/Santarem"
+BR-RJ,BR,Rio de Janeiro,Rio de Janeiro,252727,15993583,UTC-3,America/Sao_Paulo
+BR-RN,BR,Rio Grande do Norte,Rio Grande do Norte,239548,3168133,UTC-3,America/Fortaleza
+BR-RO,BR,Rondonia,Rondônia,266382,1560501,UTC-4,"America/Manaus, America/Cuiaba, America/Porto_Velho"
+BR-RR,BR,Roraima,Roraima,267038,451227,UTC-4,"America/Boa_Vista, America/Manaus"
+BR-RS,BR,Rio Grande do Sul,Rio Grande do Sul,253726,10695532,UTC-3,America/Sao_Paulo
+BR-SC,BR,Santa Catarina,Santa Catarina,258472,6249682,UTC-3,America/Sao_Paulo
+BR-SE,BR,Sergipe,Sergipe,262612,2068031,UTC-3,"America/Maceio, America/Bahia"
+BR-SP,BR,Sao Paulo,São Paulo,251251,41252160,"UTC-3, UTC-4","America/Campo_Grande, America/Sao_Paulo"
+BR-TO,BR,Tocantins,Tocantins,263331,1383453,UTC-3,"America/Araguaina, America/Fortaleza, America/Belem, America/Sao_Paulo"

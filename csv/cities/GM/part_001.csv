@@ -1,0 +1,550 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+1685104,GM,GM-W,Old Yundum,Old Yundum,12042,4,town,UTC+0,Africa/Banjul
+1685105,GM,GM-W,Yundum,Yundum,13092,4,town,UTC+0,Africa/Banjul
+1685108,GM,GM-M,Yoro Ya,Yoro Ya,78,4,locality,UTC+0,Africa/Banjul
+1685117,GM,GM-N,Yallal Ba,Yallal Ba,140779,3,City,UTC+0,Africa/Banjul
+1685118,GM,GM-N,Yallal,Yallal,512,4,locality,UTC+0,Africa/Banjul
+1685119,GM,GM-L,Wurokang,Wurokang,532,4,village,UTC+0,Africa/Banjul
+1685134,GM,GM-M,Wellingara Momodou,Wellingara Momodou,260,4,locality,UTC+0,Africa/Banjul
+1685137,GM,GM-M,Wellingara Ello,Wellingara Ello,221,4,locality,UTC+0,Africa/Banjul
+1685138,GM,GM-M,Wellingara Bubacarr Bah,Wellingara Bubacarr Bah,283,4,locality,UTC+0,Africa/Banjul
+1685139,GM,GM-L,Wellingara Ba,Wellingara Ba,1476,4,locality,UTC+0,Africa/Banjul
+1685141,GM,GM-M,Wellingara Adama,Wellingara Adama,219,4,locality,UTC+0,Africa/Banjul
+1685142,GM,GM-M,Wellingara,Wellingara,7912,4,village,UTC+0,Africa/Banjul
+1685144,GM,GM-N,Wellingara,Wellingara,1799,4,village,UTC+0,Africa/Banjul
+1685146,GM,GM-N,Wellingara,Wellingara,61559,3,Municipality,UTC+0,Africa/Banjul
+1685147,GM,GM-W,Welingara,Welingara,14025,4,village,UTC+0,Africa/Banjul
+1685149,GM,GM-M,Wassu,Wassu,1380,4,town,UTC+0,Africa/Banjul
+1685153,GM,GM-U,Walliba Kunda,Walliba Kunda,646,4,village,UTC+0,Africa/Banjul
+1685154,GM,GM-N,Walalan,Walalan,296,4,locality,UTC+0,Africa/Banjul
+1685159,GM,GM-U,Ture Kunda,Ture Kunda,1404,4,village,UTC+0,Africa/Banjul
+1685160,GM,GM-N,Turan,Turan,648,4,village,UTC+0,Africa/Banjul
+1685161,GM,GM-W,Tunjina,Tunjina,11249,3,Municipality,UTC+0,Africa/Banjul
+1685162,GM,GM-U,Tumbul Tanga,Tumbul Tanga,553,4,village,UTC+0,Africa/Banjul
+1685165,GM,GM-W,Tujering,Tujering,4435,4,Town,UTC+0,Africa/Banjul
+1685168,GM,GM-U,Tuba-Wuli,Tuba-Wuli,697,4,locality,UTC+0,Africa/Banjul
+1685175,GM,GM-U,Tubanding,Tubanding,120,4,locality,UTC+0,Africa/Banjul
+1685181,GM,GM-W,Tubakuta,Tubakuta,1349,4,village,UTC+0,Africa/Banjul
+1685183,GM,GM-M,Tuba Koto,Tuba Koto,667,4,locality,UTC+0,Africa/Banjul
+1685190,GM,GM-M,Tuba,tuba,582,4,locality,UTC+0,Africa/Banjul
+1685194,GM,GM-M,Torro,Torro,75,4,locality,UTC+0,Africa/Banjul
+1685199,GM,GM-L,Toranka Bantang,Toranka Bantang,177,4,hamlet,UTC+0,Africa/Banjul
+1685200,GM,GM-L,Toniataba,Toniataba,1755,4,village,UTC+0,Africa/Banjul
+1685201,GM,GM-M,Toben,Toben,80,4,village,UTC+0,Africa/Banjul
+1685204,GM,GM-U,Tinkinjo,Tinkinjo,334,4,village,UTC+0,Africa/Banjul
+1685205,GM,GM-M,Timpa,Timpa,57,4,village,UTC+0,Africa/Banjul
+1685207,GM,GM-U,Timbintu,Timbintu,62,4,hamlet,UTC+0,Africa/Banjul
+1685211,GM,GM-M,Tento Malick Bah,Tento Malick Bah,87,4,village,UTC+0,Africa/Banjul
+1685216,GM,GM-L,Tendaba,Tendaba,420,4,village,UTC+0,Africa/Banjul
+1685218,GM,GM-U,Temanto Sana,Temanto Sana,174220,3,City,UTC+0,Africa/Banjul
+1685222,GM,GM-U,Temanto,Temanto,158,4,locality,UTC+0,Africa/Banjul
+1685224,GM,GM-N,Tawa Kaltu,Tawa Kaltu,182,4,locality,UTC+0,Africa/Banjul
+1685228,GM,GM-L,Tankular,Tankular,913,4,village,UTC+0,Africa/Banjul
+1685229,GM,GM-M,Tankong Kunda,Tankong Kunda,342,4,village,UTC+0,Africa/Banjul
+1685230,GM,GM-N,Tankanto,Tankanto,36,3,Municipality,UTC+0,Africa/Banjul
+1685232,GM,GM-W,Tanji,Tanji,17441,4,village,UTC+0,Africa/Banjul
+1685234,GM,GM-M,Tandi Wollof,Tandi Wollof,456,4,locality,UTC+0,Africa/Banjul
+1685236,GM,GM-M,Tandi,Tandi,237,4,village,UTC+0,Africa/Banjul
+1685241,GM,GM-M,Tamba Nani,Tamba Nani,756,4,village,UTC+0,Africa/Banjul
+1685242,GM,GM-N,Tambana,Tambana,773,4,village,UTC+0,Africa/Banjul
+1685244,GM,GM-N,Tamba Koto,Tamba Koto,276,4,locality,UTC+0,Africa/Banjul
+1685246,GM,GM-N,Tally Ya,Tally Ya,157,4,village,UTC+0,Africa/Banjul
+1685247,GM,GM-N,Tallen,Tallen,308,4,locality,UTC+0,Africa/Banjul
+1685251,GM,GM-N,Talen Pol,Talen Pol,415,4,village,UTC+0,Africa/Banjul
+1685255,GM,GM-M,Taifa Amadou,Taifa Amadou,318,4,locality,UTC+0,Africa/Banjul
+1685259,GM,GM-N,Taiba,Taiba,114,4,locality,UTC+0,Africa/Banjul
+1685273,GM,GM-L,Tabanani,Tabanani,173,4,hamlet,UTC+0,Africa/Banjul
+1685279,GM,GM-L,Sutukung,Sutukung,1506,4,locality,UTC+0,Africa/Banjul
+1685280,GM,GM-U,Sutukoba,Sutukoba,2693,4,village,UTC+0,Africa/Banjul
+1685283,GM,GM-U,Sun Kunda,Sun Kunda,1306,4,locality,UTC+0,Africa/Banjul
+1685284,GM,GM-L,Sumbundu,Sumbundu,226,4,village,UTC+0,Africa/Banjul
+1685287,GM,GM-W,Suma Kunda Koto,Suma Kunda Koto,391,4,hamlet,UTC+0,Africa/Banjul
+1685292,GM,GM-M,Sulolor,Sulolor,787,4,locality,UTC+0,Africa/Banjul
+1685293,GM,GM-M,Sukuta,Sukuta,1364,4,village,UTC+0,Africa/Banjul
+1685294,GM,GM-L,Sukuta,Sukuta,552,4,locality,UTC+0,Africa/Banjul
+1685296,GM,GM-W,Sukuta,Sukuta,43726,3,Municipality,UTC+0,Africa/Banjul
+1685298,GM,GM-M,Sukur,Sukur,440,4,locality,UTC+0,Africa/Banjul
+1685300,GM,GM-N,Sukoto Fula,Sukoto Fula,83,4,locality,UTC+0,Africa/Banjul
+1685301,GM,GM-U,Sudowol,Sudowol,1502,3,Barangay,UTC+0,Africa/Banjul
+1685302,GM,GM-N,Suarra Kunda,Suarra Kunda,31094,3,Municipality,UTC+0,Africa/Banjul
+1685304,GM,GM-U,Sotuma Sairey,Sotuma Sairey,4499,3,Barangay,UTC+0,Africa/Banjul
+1685306,GM,GM-U,Sotuma,Sotuma,291,4,village,UTC+0,Africa/Banjul
+1685308,GM,GM-M,Sotokoi,Sotokoi,165,4,village,UTC+0,Africa/Banjul
+1685313,GM,GM-M,Sor Kunda,Sor Kunda,3955,4,village,UTC+0,Africa/Banjul
+1685317,GM,GM-W,Somita,Somita,2541,4,village,UTC+0,Africa/Banjul
+1685318,GM,GM-L,Soma,Soma,11050,4,town,UTC+0,Africa/Banjul
+1685322,GM,GM-W,Sittanunku,Sittanunku,2163,4,village,UTC+0,Africa/Banjul
+1685326,GM,GM-W,Sintet,Sintet,979,4,village,UTC+0,Africa/Banjul
+1685328,GM,GM-U,Sinsu Njiebeh,Sinsu Njiebeh,2407,4,village,UTC+0,Africa/Banjul
+1685332,GM,GM-W,Sinki,Sinki,2354,4,village,UTC+0,Africa/Banjul
+1685336,GM,GM-U,Sinchu Sara,Sinchu Sara,55,4,locality,UTC+0,Africa/Banjul
+1685341,GM,GM-M,Sinchu Musa,Sinchu Musa,1026,4,village,UTC+0,Africa/Banjul
+1685347,GM,GM-M,Sinchu Gundo,Sinchu Gundo,378,4,hamlet,UTC+0,Africa/Banjul
+1685352,GM,GM-M,Sinchu Dembel,Sinchu Dembel,221,4,locality,UTC+0,Africa/Banjul
+1685356,GM,GM-M,Sinchu Bora,Sinchu Bora,250,4,locality,UTC+0,Africa/Banjul
+1685357,GM,GM-M,Sinchu Boggal,Sinchu Boggal,6115,3,Barangay,UTC+0,Africa/Banjul
+1685358,GM,GM-M,Sinchu Baya,Sinchu Baya,262,4,locality,UTC+0,Africa/Banjul
+1685359,GM,GM-M,Sinchu Bamba,Sinchu Bamba,297,4,village,UTC+0,Africa/Banjul
+1685363,GM,GM-U,Sinchang Saradu,Sinchang Saradu,2277,4,village,UTC+0,Africa/Banjul
+1685373,GM,GM-M,Simbara Kai,Simbara Kai,27929,3,Municipality,UTC+0,Africa/Banjul
+1685378,GM,GM-N,Si Kunda,Si Kunda,124965,3,Municipality,UTC+0,Africa/Banjul
+1685379,GM,GM-L,Si Kunda,Si Kunda,1344,4,village,UTC+0,Africa/Banjul
+1685381,GM,GM-N,Sika Bajonkoto,Sika Bajonkoto,9650,3,Municipality,UTC+0,Africa/Banjul
+1685383,GM,GM-U,Sifula,Sifula,121,4,hamlet,UTC+0,Africa/Banjul
+1685384,GM,GM-W,Sifoe,Sifoe,6015,4,village,UTC+0,Africa/Banjul
+1685385,GM,GM-L,Sibito,Sibito,680,4,village,UTC+0,Africa/Banjul
+1685387,GM,GM-M,Sibanor,Sibanor,2052,4,village,UTC+0,Africa/Banjul
+1685391,GM,GM-M,Sering Sahor,Sering Sahor,37643,3,Municipality,UTC+0,Africa/Banjul
+1685393,GM,GM-B,Serekunda,Serrekunda,340000,4,locality,UTC+0,Africa/Banjul
+1685394,GM,GM-L,Seno Bajonki,Seno Bajonki,439,4,village,UTC+0,Africa/Banjul
+1685395,GM,GM-U,Sendebo,Sendebo,1049,4,village,UTC+0,Africa/Banjul
+1685397,GM,GM-W,Selety,Selety,1712,4,village,UTC+0,Africa/Banjul
+1685400,GM,GM-L,Sasita,Sasita,747,4,village,UTC+0,Africa/Banjul
+1685401,GM,GM-M,Saruja,Saruja,1959,4,village,UTC+0,Africa/Banjul
+1685406,GM,GM-U,Sare Yoro Yeli,Sare Yoro Yeli,5894,4,village,UTC+0,Africa/Banjul
+1685408,GM,GM-M,Sare Yoro Egge,Sare Yoro Egge,6546,4,village,UTC+0,Africa/Banjul
+1685418,GM,GM-U,Sare Silere,Sare Silere,15577,3,Municipality,UTC+0,Africa/Banjul
+1685421,GM,GM-U,Sare Sandi,Sare Sandi,174,4,hamlet,UTC+0,Africa/Banjul
+1685422,GM,GM-M,Sare Sambel Kunda,Sare Sambel Kunda,6022,4,village,UTC+0,Africa/Banjul
+1685433,GM,GM-L,Sare Sajo,Sare Sajo,208,4,village,UTC+0,Africa/Banjul
+1685434,GM,GM-L,Sare Saidy,Sare Saidy,128,4,village,UTC+0,Africa/Banjul
+1685442,GM,GM-M,Sare Nyagna,Sare Nyagna,59601,3,Barangay,UTC+0,Africa/Banjul
+1685448,GM,GM-U,Sare Ngaba,Sare Ngaba,213,4,village,UTC+0,Africa/Banjul
+1685451,GM,GM-U,Sare Musa,Sare Musa,69,4,locality,UTC+0,Africa/Banjul
+1685454,GM,GM-M,Sare Modu Bah,Sare Modu Bah,3914,3,Barangay,UTC+0,Africa/Banjul
+1685460,GM,GM-U,Sare Maunde,Sare Maunde,15660,3,Barangay,UTC+0,Africa/Banjul
+1685461,GM,GM-N,Sare Marie,Sare Marie,1654,4,village,UTC+0,Africa/Banjul
+1685465,GM,GM-M,Sare Malang,Sare Malang,184,4,village,UTC+0,Africa/Banjul
+1685470,GM,GM-M,Sare Louba,Sare Louba,204,4,village,UTC+0,Africa/Banjul
+1685476,GM,GM-M,Sare Kannen,Sare Kannen,4412,3,Municipality,UTC+0,Africa/Banjul
+1685484,GM,GM-U,Sare Jatta,Sare Jatta,179,4,village,UTC+0,Africa/Banjul
+1685485,GM,GM-M,Sare Jarje,Sare Jarje,134,4,locality,UTC+0,Africa/Banjul
+1685487,GM,GM-U,Sare Jallow,Sare Jallow,146,4,locality,UTC+0,Africa/Banjul
+1685488,GM,GM-M,Sare Jabel,Sare Jabel,237,4,village,UTC+0,Africa/Banjul
+1685497,GM,GM-U,Sare Ganya,Sare Ganya,87,4,village,UTC+0,Africa/Banjul
+1685508,GM,GM-M,Sare Debo,Sare Debo,284,4,locality,UTC+0,Africa/Banjul
+1685510,GM,GM-M,Sare Dadi,Sare Dadi,186,4,locality,UTC+0,Africa/Banjul
+1685517,GM,GM-U,Sare Bona,Sare Bona,189,4,locality,UTC+0,Africa/Banjul
+1685520,GM,GM-U,Sare Biram,Sare Biram,51,4,village,UTC+0,Africa/Banjul
+1685524,GM,GM-U,Sare Bakary,Sare Bakary,172,4,locality,UTC+0,Africa/Banjul
+1685527,GM,GM-L,Sare Babu,Sare Babu,76,4,village,UTC+0,Africa/Banjul
+1685531,GM,GM-M,Sare Abdou,Sare Abdou,64,4,village,UTC+0,Africa/Banjul
+1685532,GM,GM-N,Sara Mama,Sara Mama,16888,3,Municipality,UTC+0,Africa/Banjul
+1685533,GM,GM-N,Sara Kunda,Sara Kunda,1316,4,village,UTC+0,Africa/Banjul
+1685535,GM,GM-M,Sapu,Sapu,444,4,locality,UTC+0,Africa/Banjul
+1685537,GM,GM-W,Sanyang,Sanyang,15090,4,village,UTC+0,Africa/Banjul
+1685538,GM,GM-U,Sanunding,Sanunding,945,3,locality,UTC+0,Africa/Banjul
+1685541,GM,GM-M,Santanto Omar Kande,Santanto Omar Kande,3193,3,Barangay,UTC+0,Africa/Banjul
+1685542,GM,GM-M,Santanto Mawdo Bambe,Santanto Mawdo Bambe,5233,4,village,UTC+0,Africa/Banjul
+1685543,GM,GM-M,Santanto Jamuya Kande,Santanto Jamuya Kande,419,4,village,UTC+0,Africa/Banjul
+1685544,GM,GM-M,Santanto Bubu Tabanding,Santanto Bubu Tabanding,601,4,village,UTC+0,Africa/Banjul
+1685551,GM,GM-L,Sankwia,Sankwia,1831,4,village,UTC+0,Africa/Banjul
+1685555,GM,GM-L,Sankandi,Sankandi,581,4,village,UTC+0,Africa/Banjul
+1685566,GM,GM-L,Sandeng,Sandeng,306,4,village,UTC+0,Africa/Banjul
+1685568,GM,GM-M,Sanda,Sanda,226,4,village,UTC+0,Africa/Banjul
+1685577,GM,GM-W,Sanchaba,Sanchaba,108463,3,Municipality,UTC+0,Africa/Banjul
+1685578,GM,GM-M,Sam Ngaien,Sam Ngaien,270,4,locality,UTC+0,Africa/Banjul
+1685587,GM,GM-M,Sami,Sami,2794,4,village,UTC+0,Africa/Banjul
+1685590,GM,GM-W,Sambuya,Sambuya,5727,3,Barangay,UTC+0,Africa/Banjul
+1685592,GM,GM-M,Sambel Kunda,Sambel Kunda,409,4,village,UTC+0,Africa/Banjul
+1685603,GM,GM-M,Sambang,Sambang,899,4,village,UTC+0,Africa/Banjul
+1685605,GM,GM-N,Samba Musu,Samba Musu,64,4,locality,UTC+0,Africa/Banjul
+1685606,GM,GM-U,Samba Kunda,Samba Kunda,193,4,locality,UTC+0,Africa/Banjul
+1685610,GM,GM-M,Sambai Kunda,Sambai Kunda,1929,4,village,UTC+0,Africa/Banjul
+1685611,GM,GM-M,Salikeni,Salikeni,173,4,village,UTC+0,Africa/Banjul
+1685612,GM,GM-N,Salikene,Salikene,3403,4,locality,UTC+0,Africa/Banjul
+1685613,GM,GM-U,Salikene,Salikene,88,4,hamlet,UTC+0,Africa/Banjul
+1685615,GM,GM-W,Sala,Sala,7595,3,Barangay,UTC+0,Africa/Banjul
+1685620,GM,GM-M,Safalu,Safalu,188,4,village,UTC+0,Africa/Banjul
+1685625,GM,GM-U,Sabi,Sabi,7738,4,village,UTC+0,Africa/Banjul
+1685629,GM,GM-N,Saba,Saba,1974,4,locality,UTC+0,Africa/Banjul
+1685634,GM,GM-N,Polodi,Polodi,38858,3,Municipality,UTC+0,Africa/Banjul
+1685644,GM,GM-U,Perai,Perai,1026,4,village,UTC+0,Africa/Banjul
+1685649,GM,GM-M,Pateh Sam,Pateh Sam,1164,4,village,UTC+0,Africa/Banjul
+1685651,GM,GM-N,Passi Mut,Passi Mut,216,4,village,UTC+0,Africa/Banjul
+1685652,GM,GM-U,Passimu,Passimu,1116,4,village,UTC+0,Africa/Banjul
+1685655,GM,GM-N,Passi Challi,Passi Challi,797,4,village,UTC+0,Africa/Banjul
+1685657,GM,GM-M,Pappa,Pappa,230,4,locality,UTC+0,Africa/Banjul
+1685660,GM,GM-M,Panchang Madi Fana,Panchang Madi Fana,307,4,hamlet,UTC+0,Africa/Banjul
+1685671,GM,GM-M,Palaka,Palaka,145,4,locality,UTC+0,Africa/Banjul
+1685676,GM,GM-M,Pakan,Pakan,193,4,locality,UTC+0,Africa/Banjul
+1685677,GM,GM-L,Pakali Nding,Pakali Nding,2537,3,locality,UTC+0,Africa/Banjul
+1685680,GM,GM-M,Pakala,Pakala,450,4,locality,UTC+0,Africa/Banjul
+1685687,GM,GM-B,Old Jeswang,Old Jeswang,9064,3,locality,UTC+0,Africa/Banjul
+1685692,GM,GM-W,Nyofelleh Madina,Nyofelleh Madina,46608,3,Municipality,UTC+0,Africa/Banjul
+1685695,GM,GM-M,Nyangan,Nyangan,30763,3,Municipality,UTC+0,Africa/Banjul
+1685697,GM,GM-U,Nyamanari,Nyamanari,2090,4,town,UTC+0,Africa/Banjul
+1685700,GM,GM-W,Nyaffy,Nyaffy,261,4,locality,UTC+0,Africa/Banjul
+1685707,GM,GM-N,No Kunda,No Kunda,1913,4,village,UTC+0,Africa/Banjul
+1685713,GM,GM-L,Njolfen,Njolfen,428,4,village,UTC+0,Africa/Banjul
+1685716,GM,GM-M,Njogoben,Njogoben,100,4,locality,UTC+0,Africa/Banjul
+1685718,GM,GM-M,Njoben Tukulor,Njoben Tukulor,160,4,locality,UTC+0,Africa/Banjul
+1685723,GM,GM-L,Njoba Kunda,Njoba Kunda,162,4,locality,UTC+0,Africa/Banjul
+1685727,GM,GM-U,Njie Kunda,Njie Kunda,236,3,locality,UTC+0,Africa/Banjul
+1685733,GM,GM-U,Njarinjufa,Njarinjufa,75,4,locality,UTC+0,Africa/Banjul
+1685738,GM,GM-M,Njama Fafa Sise,Njama Fafa Sise,6907,3,Barangay,UTC+0,Africa/Banjul
+1685741,GM,GM-M,Njallal,Njallal,484,4,village,UTC+0,Africa/Banjul
+1685746,GM,GM-M,Njai Kunda,Njai Kunda,103,4,locality,UTC+0,Africa/Banjul
+1685755,GM,GM-M,Nioro Demba Njie,Nioro Demba Njie,184954,3,City,UTC+0,Africa/Banjul
+1685758,GM,GM-L,Nioro,Nioro,1746,4,locality,UTC+0,Africa/Banjul
+1685760,GM,GM-W,Nila Koto,Nila Koto,8624,3,Barangay,UTC+0,Africa/Banjul
+1685773,GM,GM-M,Ngike,Ngike,63,4,locality,UTC+0,Africa/Banjul
+1685780,GM,GM-M,Ngeden,Ngeden,219,4,locality,UTC+0,Africa/Banjul
+1685781,GM,GM-M,N'Gayen,N’Gayen,330,4,locality,UTC+0,Africa/Banjul
+1685782,GM,GM-M,Ngawar,Ngawar,8877,3,Barangay,UTC+0,Africa/Banjul
+1685793,GM,GM-W,Nema Kunku,Nema Kunku,17603,4,locality,UTC+0,Africa/Banjul
+1685798,GM,GM-M,Nema,Nema,301,4,village,UTC+0,Africa/Banjul
+1685801,GM,GM-N,Nduren,Nduren,142,4,hamlet,UTC+0,Africa/Banjul
+1685805,GM,GM-N,Ndowen,Ndowen,134,4,locality,UTC+0,Africa/Banjul
+1685810,GM,GM-W,Ndimbuya Romba,Ndimbuya Romba,2319,4,village,UTC+0,Africa/Banjul
+1685823,GM,GM-L,Naneko,Naneko,159,4,locality,UTC+0,Africa/Banjul
+1685827,GM,GM-U,Musa Kunda,Musa Kunda,168,4,locality,UTC+0,Africa/Banjul
+1685831,GM,GM-L,Munku Talla,Munku Talla,71,3,Municipality,UTC+0,Africa/Banjul
+1685836,GM,GM-U,Modu Jawo Kunda,Modu Jawo Kunda,140,4,locality,UTC+0,Africa/Banjul
+1685842,GM,GM-U,Missira,Missira,98,4,village,UTC+0,Africa/Banjul
+1685848,GM,GM-M,Misira,Misira,471,4,village,UTC+0,Africa/Banjul
+1685850,GM,GM-N,Misira,Misira,3006,4,village,UTC+0,Africa/Banjul
+1685851,GM,GM-N,Misira,Misira,83,4,village,UTC+0,Africa/Banjul
+1685865,GM,GM-N,Memmeh,Memmeh,493,4,village,UTC+0,Africa/Banjul
+1685867,GM,GM-N,Medina Sotokoi,Medina Sotokoi,4257,3,Barangay,UTC+0,Africa/Banjul
+1685875,GM,GM-N,Medina Modum,Medina Modum,69296,3,Municipality,UTC+0,Africa/Banjul
+1685878,GM,GM-N,Medina Kanuma,Medina Kanuma,764,4,locality,UTC+0,Africa/Banjul
+1685880,GM,GM-M,Medina-Duisi,Medina-Duisi,89840,3,Municipality,UTC+0,Africa/Banjul
+1685886,GM,GM-U,Mbye Kunda,Mbye Kunda,271,4,hamlet,UTC+0,Africa/Banjul
+1685904,GM,GM-N,Mbamori Kunda,Mbamori Kunda,212,4,locality,UTC+0,Africa/Banjul
+1685918,GM,GM-W,Mayork,Mayork,528,4,village,UTC+0,Africa/Banjul
+1685922,GM,GM-L,Massembe,Massembe,938,4,village,UTC+0,Africa/Banjul
+1685923,GM,GM-M,Marsai,Marsai,39447,4,town,UTC+0,Africa/Banjul
+1685925,GM,GM-W,Marige,Marige,48815,3,Municipality,UTC+0,Africa/Banjul
+1685926,GM,GM-W,Mariama Kunda,Mariama Kunda,3000,4,village,UTC+0,Africa/Banjul
+1685927,GM,GM-M,Mara Magai,Mara Magai,709,4,locality,UTC+0,Africa/Banjul
+1685931,GM,GM-L,Mansa Konko,Mansa Konko,1978,2,village,UTC+0,Africa/Banjul
+1685934,GM,GM-M,Manna,manna,435,4,Town,UTC+0,Africa/Banjul
+1685936,GM,GM-M,Manjaharr,Manjaharr,41585,4,town,UTC+0,Africa/Banjul
+1685938,GM,GM-U,Mane Kunda,Mane Kunda,11238,3,Municipality,UTC+0,Africa/Banjul
+1685940,GM,GM-W,Manduar,Manduar,2255,4,village,UTC+0,Africa/Banjul
+1685942,GM,GM-W,Mandinari,Mandinari,10273,3,locality,UTC+0,Africa/Banjul
+1685944,GM,GM-L,Mandina,Mandina,170,4,village,UTC+0,Africa/Banjul
+1685949,GM,GM-U,Mamadi Sisi,Mamadi Sisi,2862,4,village,UTC+0,Africa/Banjul
+1685977,GM,GM-M,Madina Tunjang,Madina Tunjang,797,4,locality,UTC+0,Africa/Banjul
+1685984,GM,GM-M,Madina Njugari,Madina Njugari,400,4,village,UTC+0,Africa/Banjul
+1685986,GM,GM-M,Madina Njaien,Madina Njaien,1889,4,village,UTC+0,Africa/Banjul
+1685988,GM,GM-M,Madina Madi,Madina Madi,259,4,locality,UTC+0,Africa/Banjul
+1685989,GM,GM-U,Madina Kuta,Madina Kuta,102,4,locality,UTC+0,Africa/Banjul
+1685992,GM,GM-U,Madina Fula Kunda,Madina Fula Kunda,242,4,village,UTC+0,Africa/Banjul
+1685995,GM,GM-U,Madina Bala,Madina Bala,185,4,locality,UTC+0,Africa/Banjul
+1685998,GM,GM-M,Madina,Madina,765,4,locality,UTC+0,Africa/Banjul
+1686002,GM,GM-L,Madina,Madina,589,4,locality,UTC+0,Africa/Banjul
+1686004,GM,GM-U,Madina,Madina,39746,3,Municipality,UTC+0,Africa/Banjul
+1686007,GM,GM-M,Madina,Madina,49479,3,Municipality,UTC+0,Africa/Banjul
+1686009,GM,GM-U,Madina,Madina,13155,4,town,UTC+0,Africa/Banjul
+1686013,GM,GM-M,Madiana,Madiana,6069,4,village,UTC+0,Africa/Banjul
+1686019,GM,GM-M,Mabali Kotor,Mabali Kotor,7267,4,village,UTC+0,Africa/Banjul
+1686033,GM,GM-M,Leba Sasuna,Leba Sasuna,1035,4,village,UTC+0,Africa/Banjul
+1686038,GM,GM-W,Latri Sabiji,Latri Sabiji,18747,3,locality,UTC+0,Africa/Banjul
+1686039,GM,GM-M,Larlagoi,Larlagoi,18466,3,Municipality,UTC+0,Africa/Banjul
+1686041,GM,GM-N,Lang Sarr,Lang Sarr,80,4,village,UTC+0,Africa/Banjul
+1686042,GM,GM-M,Lamoi,Lamoi,121,4,village,UTC+0,Africa/Banjul
+1686043,GM,GM-M,Lamin Koto,Lamin Koto,407,4,village,UTC+0,Africa/Banjul
+1686044,GM,GM-W,Lamin,"Lamin, Western Division, Gambia",31133,4,town,UTC+0,Africa/Banjul
+1686045,GM,GM-N,Lamin,"Lamin, North Bank Division, Gambia",24797,3,Barangay,UTC+0,Africa/Banjul
+1686046,GM,GM-M,Lama,lama,182,4,locality,UTC+0,Africa/Banjul
+1686050,GM,GM-M,Kuyarang,Kuyarang,8257,3,Barangay,UTC+0,Africa/Banjul
+1686052,GM,GM-U,Kusun,Kusun,3509,3,Barangay,UTC+0,Africa/Banjul
+1686054,GM,GM-N,Kusassa,Kusassa,12636,3,Barangay,UTC+0,Africa/Banjul
+1686055,GM,GM-M,Kusalang,Kusalang,251,4,village,UTC+0,Africa/Banjul
+1686059,GM,GM-M,Kur Kur Yoro Mballow,Kur Kur Yoro Mballow,306,4,locality,UTC+0,Africa/Banjul
+1686065,GM,GM-M,Kununku,Kununku,210,4,village,UTC+0,Africa/Banjul
+1686066,GM,GM-M,Kunting,Kunting,1204,3,Municipality,UTC+0,Africa/Banjul
+1686068,GM,GM-M,Kuntaur,Kuntaur,2534,4,town,UTC+0,Africa/Banjul
+1686078,GM,GM-W,Kunkujang,Kunkujang,65071,3,Municipality,UTC+0,Africa/Banjul
+1686083,GM,GM-U,Kundam Fode,Kundam Fode,619,4,village,UTC+0,Africa/Banjul
+1686084,GM,GM-U,Kundam Demba,Kundam Demba,396,4,hamlet,UTC+0,Africa/Banjul
+1686087,GM,GM-U,Kunda,Kunda,1015,4,village,UTC+0,Africa/Banjul
+1686089,GM,GM-N,Kumbijae,Kumbijae,623,4,locality,UTC+0,Africa/Banjul
+1686091,GM,GM-U,Kumbija,Kumbija,1760,4,locality,UTC+0,Africa/Banjul
+1686096,GM,GM-L,Kuli Kunda,Kuli Kunda,556,4,village,UTC+0,Africa/Banjul
+1686097,GM,GM-U,Kulari,Kulari,7227,4,village,UTC+0,Africa/Banjul
+1686099,GM,GM-U,Kukuyel,Kukuyel,152,4,locality,UTC+0,Africa/Banjul
+1686100,GM,GM-M,Kujew,Kujew,206,4,locality,UTC+0,Africa/Banjul
+1686101,GM,GM-M,Kudang Tenda,Kudang Tenda,360,4,village,UTC+0,Africa/Banjul
+1686102,GM,GM-M,Kudang,Kudang,73847,3,City,UTC+0,Africa/Banjul
+1686103,GM,GM-M,Kucha,Kucha,123,4,locality,UTC+0,Africa/Banjul
+1686110,GM,GM-U,Kossemar Momadu Sutu,Kossemar Momadu Sutu,281,4,locality,UTC+0,Africa/Banjul
+1686114,GM,GM-U,Korro Jula Kunda,Korro Jula Kunda,323,4,locality,UTC+0,Africa/Banjul
+1686115,GM,GM-N,Konti Kunda Sukoto,Konti Kunda Sukoto,1148,4,village,UTC+0,Africa/Banjul
+1686116,GM,GM-N,Konti Kunda Niji,Konti Kunda Niji,830,4,village,UTC+0,Africa/Banjul
+1686117,GM,GM-M,Konteh,Konteh,59,4,village,UTC+0,Africa/Banjul
+1686123,GM,GM-L,Kolior,Kolior,49073,3,Municipality,UTC+0,Africa/Banjul
+1686132,GM,GM-U,Koina Tenda,Koina Tenda,23568,3,Barangay,UTC+0,Africa/Banjul
+1686133,GM,GM-U,Koina,Koina,4089,4,village,UTC+0,Africa/Banjul
+1686134,GM,GM-L,Kohel,Kohel,66,4,hamlet,UTC+0,Africa/Banjul
+1686135,GM,GM-M,Kofa,Kofa,84,4,village,UTC+0,Africa/Banjul
+1686136,GM,GM-U,Kobotor,Kobotor,157,4,hamlet,UTC+0,Africa/Banjul
+1686142,GM,GM-N,Kinteh Kunda,Kinteh Kunda,592,4,locality,UTC+0,Africa/Banjul
+1686150,GM,GM-M,Kewel,Cape bushbuck,92,4,locality,UTC+0,Africa/Banjul
+1686151,GM,GM-N,Ket Kuli,Ket Kuli,2235,4,village,UTC+0,Africa/Banjul
+1686159,GM,GM-M,Ker Waka,Ker Waka,3047,4,village,UTC+0,Africa/Banjul
+1686184,GM,GM-M,Kerr Sait Maram,Kerr Sait Maram,1488,4,village,UTC+0,Africa/Banjul
+1686187,GM,GM-N,Ker Ousman Buso,Ker Ousman Buso,42533,3,Municipality,UTC+0,Africa/Banjul
+1686208,GM,GM-M,Ker Mamour Fatim,Ker Mamour Fatim,1942,4,village,UTC+0,Africa/Banjul
+1686209,GM,GM-N,Ker Mama Hugo,Ker Mama Hugo,569,4,village,UTC+0,Africa/Banjul
+1686220,GM,GM-N,Ker Katim,Ker Katim,1528,4,village,UTC+0,Africa/Banjul
+1686221,GM,GM-N,Ker Juma,Ker Juma,836,4,village,UTC+0,Africa/Banjul
+1686234,GM,GM-N,Ker Illo Buya,Ker Illo Buya,104233,3,Municipality,UTC+0,Africa/Banjul
+1686236,GM,GM-N,Ker Hardo,Ker Hardo,16305,3,Barangay,UTC+0,Africa/Banjul
+1686246,GM,GM-M,Kerewan,Kerewan,2427,4,village,UTC+0,Africa/Banjul
+1686247,GM,GM-M,Kerewan,Kerewan,297,4,village,UTC+0,Africa/Banjul
+1686248,GM,GM-N,Kerewan,Kerewan,5485,2,village,UTC+0,Africa/Banjul
+1686252,GM,GM-U,Kerewan,Kerewan,1668,4,Town,UTC+0,Africa/Banjul
+1686258,GM,GM-M,Ker Chaindu,Ker Chaindu,1562,4,village,UTC+0,Africa/Banjul
+1686270,GM,GM-W,Ker Bakary,Ker Bakary,573,4,village,UTC+0,Africa/Banjul
+1686279,GM,GM-L,Keneba,Keneba,1775,4,village,UTC+0,Africa/Banjul
+1686281,GM,GM-L,Kemoto,Kemoto,453,4,village,UTC+0,Africa/Banjul
+1686282,GM,GM-N,Kekuta Kunda,Kekuta Kunda,370,4,village,UTC+0,Africa/Banjul
+1686294,GM,GM-N,Katchang,Katchang,1741,4,locality,UTC+0,Africa/Banjul
+1686295,GM,GM-M,Katamina,Katamina,573,4,village,UTC+0,Africa/Banjul
+1686299,GM,GM-M,Kataba Omar Ndow,Kataba Omar Ndow,147,4,locality,UTC+0,Africa/Banjul
+1686303,GM,GM-M,Kass Yallal,Kass Yallal,229,3,Barangay,UTC+0,Africa/Banjul
+1686304,GM,GM-M,Kass Wollof,Kass Wollof,1109,4,locality,UTC+0,Africa/Banjul
+1686311,GM,GM-W,Kartung,Kartung,4101,4,village,UTC+0,Africa/Banjul
+1686316,GM,GM-M,Karantaba Tukulor,Karantaba Tukulor,1051,4,village,UTC+0,Africa/Banjul
+1686318,GM,GM-M,Karantaba Tabokoto,Karantaba Tabokoto,26029,3,Municipality,UTC+0,Africa/Banjul
+1686319,GM,GM-M,Karantaba Dutu Koto,Karantaba Dutu Koto,2547,3,Barangay,UTC+0,Africa/Banjul
+1686320,GM,GM-M,Karantaba,Karantaba,1753,4,hamlet,UTC+0,Africa/Banjul
+1686323,GM,GM-L,Karantaba,Karantaba,1372,4,village,UTC+0,Africa/Banjul
+1686335,GM,GM-U,Kanube,Kanube,20176,3,Municipality,UTC+0,Africa/Banjul
+1686337,GM,GM-L,Kantong Kunda,Kantong Kunda,456,4,village,UTC+0,Africa/Banjul
+1686340,GM,GM-W,Kansambou,Kansambou,295,4,hamlet,UTC+0,Africa/Banjul
+1686347,GM,GM-W,Kanjibat,Kanjibat,136,4,village,UTC+0,Africa/Banjul
+1686350,GM,GM-W,Kanilai,Kanilai,836,4,village,UTC+0,Africa/Banjul
+1686354,GM,GM-B,Kanifing,Kanifing,17159,4,town,UTC+0,Africa/Banjul
+1686355,GM,GM-W,Kangwalli,Kangwalli,34931,3,Municipality,UTC+0,Africa/Banjul
+1686363,GM,GM-U,Kamunakore,Kamunakore,1843,4,village,UTC+0,Africa/Banjul
+1686374,GM,GM-M,Kambi,Kambi,95,4,locality,UTC+0,Africa/Banjul
+1686386,GM,GM-N,Kalataba,Kalataba,103,4,locality,UTC+0,Africa/Banjul
+1686387,GM,GM-W,Kalang,Kalang,95,4,village,UTC+0,Africa/Banjul
+1686388,GM,GM-W,Kalagi,Kalagi,2825,4,locality,UTC+0,Africa/Banjul
+1686389,GM,GM-W,Kaimbujae NDing,Kaimbujae NDing,9161,4,village,UTC+0,Africa/Banjul
+1686396,GM,GM-L,Kaiaf,Kaiaf,1819,4,village,UTC+0,Africa/Banjul
+1686397,GM,GM-M,Kahow,Kahow,409,4,locality,UTC+0,Africa/Banjul
+1686401,GM,GM-W,Kafuta,Kafuta,1539,4,village,UTC+0,Africa/Banjul
+1686414,GM,GM-U,Jurro Kunda,Jurro Kunda,206,4,locality,UTC+0,Africa/Banjul
+1686417,GM,GM-U,Jum Bakary,Jum Bakary,136,4,village,UTC+0,Africa/Banjul
+1686422,GM,GM-L,Jula Kunda,Jula Kunda,283,4,village,UTC+0,Africa/Banjul
+1686423,GM,GM-N,Jufureh,Jufureh,406,4,locality,UTC+0,Africa/Banjul
+1686430,GM,GM-W,Jorem,Jorem,382,4,locality,UTC+0,Africa/Banjul
+1686433,GM,GM-L,Jomarr,Jomarr,230,4,village,UTC+0,Africa/Banjul
+1686435,GM,GM-M,Jockul,Jockul,378,4,village,UTC+0,Africa/Banjul
+1686436,GM,GM-L,Jobe Kunda,Jobe Kunda,75,3,Municipality,UTC+0,Africa/Banjul
+1686441,GM,GM-L,Jiroff,Jiroff,613,4,locality,UTC+0,Africa/Banjul
+1686451,GM,GM-L,Jiffin,Jiffin,729,4,village,UTC+0,Africa/Banjul
+1686452,GM,GM-N,Jiffet,Jiffet,170,4,locality,UTC+0,Africa/Banjul
+1686453,GM,GM-L,Jifarong,Jifarong,1038,4,village,UTC+0,Africa/Banjul
+1686457,GM,GM-M,Jessadi Tenda,Jessadi Tenda,318,3,Barangay,UTC+0,Africa/Banjul
+1686458,GM,GM-M,Jessadi,Jessadi,461,4,village,UTC+0,Africa/Banjul
+1686459,GM,GM-N,Jeriko,Jeriko,603,4,hamlet,UTC+0,Africa/Banjul
+1686462,GM,GM-L,Jenoi,Jenoi,1254,4,village,UTC+0,Africa/Banjul
+1686463,GM,GM-U,Jendeh,Jendeh,161,4,locality,UTC+0,Africa/Banjul
+1686467,GM,GM-M,Jawbe,Jawbe,4679,4,village,UTC+0,Africa/Banjul
+1686470,GM,GM-L,Jatta Kunda,Jatta Kunda,81,4,hamlet,UTC+0,Africa/Banjul
+1686472,GM,GM-W,Jatikoi,Jatikoi,215,4,locality,UTC+0,Africa/Banjul
+1686474,GM,GM-L,Jassong,Jassong,742,4,village,UTC+0,Africa/Banjul
+1686475,GM,GM-L,Jasobo,Jasobo,267,4,village,UTC+0,Africa/Banjul
+1686478,GM,GM-W,Jarrol,Jarrol,788,4,village,UTC+0,Africa/Banjul
+1686479,GM,GM-M,Jarreng,Jarreng,2705,4,village,UTC+0,Africa/Banjul
+1686491,GM,GM-L,Janneh Kunda,Janneh Kunda,795,4,village,UTC+0,Africa/Banjul
+1686496,GM,GM-W,Janding Jilahar,Janding Jilahar,496,4,village,UTC+0,Africa/Banjul
+1686501,GM,GM-U,Jamwelly,Jamwelly,99880,3,City,UTC+0,Africa/Banjul
+1686502,GM,GM-M,Jamwell,Jamwell,3746,4,village,UTC+0,Africa/Banjul
+1686507,GM,GM-N,Jammeh Kunda,Jammeh Kunda,137,4,village,UTC+0,Africa/Banjul
+1686508,GM,GM-W,Jamisa,Jamisa,9962,3,locality,UTC+0,Africa/Banjul
+1686512,GM,GM-W,Jambanjali,Jambanjali,6343,3,locality,UTC+0,Africa/Banjul
+1686516,GM,GM-N,Jamal Mballo,Jamal Mballo,122,4,locality,UTC+0,Africa/Banjul
+1686538,GM,GM-M,Jalo Kunda Fula,Jalo Kunda Fula,5011,3,Barangay,UTC+0,Africa/Banjul
+1686539,GM,GM-M,Jalo Kunda Demba Sira,Jalo Kunda Demba Sira,161,4,locality,UTC+0,Africa/Banjul
+1686546,GM,GM-M,Jallow Koto,Jallow Koto,1587,4,village,UTC+0,Africa/Banjul
+1686547,GM,GM-N,Jali Kunda,Jali Kunda,313145,3,Municipality,UTC+0,Africa/Banjul
+1686548,GM,GM-L,Jali,jali,1024,4,village,UTC+0,Africa/Banjul
+1686559,GM,GM-L,Jalaba,Jalaba,13726,3,Municipality,UTC+0,Africa/Banjul
+1686567,GM,GM-M,Jakhaly,Jakhaly,1793,4,locality,UTC+0,Africa/Banjul
+1686570,GM,GM-M,Jakaba,Jakaba,837,4,village,UTC+0,Africa/Banjul
+1686572,GM,GM-M,Jailan,Jailan,404,4,village,UTC+0,Africa/Banjul
+1686577,GM,GM-U,Jaha Madina,Jaha Madina,132,4,locality,UTC+0,Africa/Banjul
+1686580,GM,GM-M,Jagle,Jagle,163,4,locality,UTC+0,Africa/Banjul
+1686582,GM,GM-W,Jagel,Jagel,6969,3,Municipality,UTC+0,Africa/Banjul
+1686584,GM,GM-L,Jabisa,Jabisa,276,4,locality,UTC+0,Africa/Banjul
+1686587,GM,GM-U,Jababa,Jababa,549,4,village,UTC+0,Africa/Banjul
+1686590,GM,GM-N,India,India,529,4,locality,UTC+0,Africa/Banjul
+1686594,GM,GM-M,Hoi,Hoi,1478,4,village,UTC+0,Africa/Banjul
+1686598,GM,GM-M,Hamdalie,Hamdalie,236,4,village,UTC+0,Africa/Banjul
+1686602,GM,GM-N,Hamdalai,Hamdalai,249,4,village,UTC+0,Africa/Banjul
+1686613,GM,GM-U,Gunjur Kuta,Gunjur Kuta,1566,4,village,UTC+0,Africa/Banjul
+1686614,GM,GM-N,Gunjur,Gunjur,1327,4,village,UTC+0,Africa/Banjul
+1686615,GM,GM-W,Gunjur,Gunjur,22741,3,Municipality,UTC+0,Africa/Banjul
+1686621,GM,GM-U,Giroba Kunda,Giroba Kunda,513,4,locality,UTC+0,Africa/Banjul
+1686628,GM,GM-M,Gidda,giddha,455,4,village,UTC+0,Africa/Banjul
+1686630,GM,GM-W,Ghana Town,Ghana Town,1328,4,village,UTC+0,Africa/Banjul
+1686631,GM,GM-M,Janjanbureh,Janjanbureh,3998,2,Municipality,UTC+0,Africa/Banjul
+1686636,GM,GM-U,Gayo,Gayo,3593,4,village,UTC+0,Africa/Banjul
+1686638,GM,GM-U,Garawol,Garawol,10547,3,locality,UTC+0,Africa/Banjul
+1686641,GM,GM-U,Gambissar,Gambissar,13371,3,locality,UTC+0,Africa/Banjul
+1686643,GM,GM-N,Gallo Ya,Gallo Ya,99,4,locality,UTC+0,Africa/Banjul
+1686645,GM,GM-M,Galleh Manda,Galleh Manda,1872,4,locality,UTC+0,Africa/Banjul
+1686652,GM,GM-W,Fula Kunda,Fula Kunda,26125,3,Municipality,UTC+0,Africa/Banjul
+1686672,GM,GM-U,Fatako,Fatako,203,4,locality,UTC+0,Africa/Banjul
+1686674,GM,GM-M,Fass Njama,Fass Njama,5191,3,Barangay,UTC+0,Africa/Banjul
+1686677,GM,GM-M,Fass,Fass,826,4,village,UTC+0,Africa/Banjul
+1686678,GM,GM-N,Fass,Fass,278,4,village,UTC+0,Africa/Banjul
+1686679,GM,GM-N,Fass,Fass,3020,4,town,UTC+0,Africa/Banjul
+1686690,GM,GM-U,Farato,Farato,7602,4,hamlet,UTC+0,Africa/Banjul
+1686693,GM,GM-N,Farafenni,Farafenni,32883,3,town,UTC+0,Africa/Banjul
+1686699,GM,GM-N,Famori,Famori,1689,4,village,UTC+0,Africa/Banjul
+1686704,GM,GM-M,Fadia Kunda,Fadia Kunda,124,4,locality,UTC+0,Africa/Banjul
+1686705,GM,GM-N,Essau,Essau,6640,4,village,UTC+0,Africa/Banjul
+1686709,GM,GM-W,Duonki,Duonki,38070,3,Municipality,UTC+0,Africa/Banjul
+1686710,GM,GM-N,Duniajoe,Duniajoe,34243,4,town,UTC+0,Africa/Banjul
+1686712,GM,GM-U,Dumfoya,Dumfoya,112,4,locality,UTC+0,Africa/Banjul
+1686713,GM,GM-L,Dumbutu,Dumbuto,825,4,locality,UTC+0,Africa/Banjul
+1686718,GM,GM-L,Dongoro Nding,Dongoro Nding,74,4,locality,UTC+0,Africa/Banjul
+1686719,GM,GM-L,Dongoro Ba,Dongoro Ba,629,4,village,UTC+0,Africa/Banjul
+1686722,GM,GM-N,Dobo,Dobo,535,4,village,UTC+0,Africa/Banjul
+1686723,GM,GM-M,Dobbo,Dobbo,723,4,village,UTC+0,Africa/Banjul
+1686725,GM,GM-W,Djifanga,Djifanga,3566,3,Barangay,UTC+0,Africa/Banjul
+1686726,GM,GM-W,Djalabango,Djalabango,8139,4,town,UTC+0,Africa/Banjul
+1686727,GM,GM-B,Dippa Kunda,Dippa Kunda,21190,4,village,UTC+0,Africa/Banjul
+1686728,GM,GM-N,Dipa Kunda Wollof,Dipa Kunda Wollof,66718,3,Municipality,UTC+0,Africa/Banjul
+1686729,GM,GM-L,Dinkirai,Dinkirai,2481,4,village,UTC+0,Africa/Banjul
+1686731,GM,GM-U,Dinguiri,Dinguiri,6370,4,village,UTC+0,Africa/Banjul
+1686732,GM,GM-M,Dingirie,Dingirie,512,4,Town,UTC+0,Africa/Banjul
+1686735,GM,GM-L,Diganteh,Diganteh,701,4,locality,UTC+0,Africa/Banjul
+1686740,GM,GM-U,Diabugu Basilla,Diabugu Basilla,1199,4,locality,UTC+0,Africa/Banjul
+1686741,GM,GM-U,Diabugu,Diabugu,3722,4,locality,UTC+0,Africa/Banjul
+1686748,GM,GM-M,Denton,Denton,1712,4,Town,UTC+0,Africa/Banjul
+1686749,GM,GM-M,Demfai Njaga,Demfai Njaga,385,4,locality,UTC+0,Africa/Banjul
+1686752,GM,GM-U,Demba Wendu,Demba Wendu,189,4,locality,UTC+0,Africa/Banjul
+1686757,GM,GM-M,Demba Kunda,Demba Kunda,185,4,locality,UTC+0,Africa/Banjul
+1686758,GM,GM-U,Demba Kunda,Demba Kunda,4817,4,locality,UTC+0,Africa/Banjul
+1686760,GM,GM-M,Demba Kali,Demba Kali,166,3,Municipality,UTC+0,Africa/Banjul
+1686763,GM,GM-M,Demba Cheesay,Demba Cheesay,483,4,village,UTC+0,Africa/Banjul
+1686764,GM,GM-L,Demati Kunda,Demati Kunda,302,4,locality,UTC+0,Africa/Banjul
+1686766,GM,GM-W,Dau Dula,Dau Dula,252,4,village,UTC+0,Africa/Banjul
+1686767,GM,GM-M,Dasilami,Dasilami,2777,4,village,UTC+0,Africa/Banjul
+1686768,GM,GM-N,Dasilami,Dasilami,1660,4,village,UTC+0,Africa/Banjul
+1686777,GM,GM-M,Darusalam,Darusalam,26783,3,Municipality,UTC+0,Africa/Banjul
+1686779,GM,GM-N,Darusalam,Darusalam,249,4,locality,UTC+0,Africa/Banjul
+1686781,GM,GM-N,Daru Rilwan,Daru Rilwan,1045,4,village,UTC+0,Africa/Banjul
+1686783,GM,GM-N,Daru Lohen,Daru Lohen,245,4,hamlet,UTC+0,Africa/Banjul
+1686787,GM,GM-N,Daru,Daru,136,4,locality,UTC+0,Africa/Banjul
+1686792,GM,GM-U,Darsilami,Darsilami,326,4,Town,UTC+0,Africa/Banjul
+1686797,GM,GM-M,Dankunku,Dankunku,1641,4,village,UTC+0,Africa/Banjul
+1686798,GM,GM-U,Dandugu,Dandugu,282,4,locality,UTC+0,Africa/Banjul
+1686801,GM,GM-N,Dai Mandinka,Dai Mandinka,295,4,village,UTC+0,Africa/Banjul
+1686802,GM,GM-N,Dafa,Dafa,190,4,locality,UTC+0,Africa/Banjul
+1686803,GM,GM-L,Dabatu,Dabatu,93,4,locality,UTC+0,Africa/Banjul
+1686805,GM,GM-U,Daba Kunda,Daba Kunda,1302,4,locality,UTC+0,Africa/Banjul
+1686807,GM,GM-M,Choya,Choya,187,4,village,UTC+0,Africa/Banjul
+1686808,GM,GM-N,Chisay,Chisay,194,4,village,UTC+0,Africa/Banjul
+1686809,GM,GM-N,Chilla,Chilla,1249,4,locality,UTC+0,Africa/Banjul
+1686814,GM,GM-N,Checken,Checken,140,4,locality,UTC+0,Africa/Banjul
+1686815,GM,GM-M,Charno Musa,Charno Musa,2007,4,village,UTC+0,Africa/Banjul
+1686817,GM,GM-M,Charjel,Charjel,381,4,locality,UTC+0,Africa/Banjul
+1686819,GM,GM-M,Charen,Charen,30268,3,Municipality,UTC+0,Africa/Banjul
+1686821,GM,GM-U,Changally Chewdu,Changally Chewdu,348,4,village,UTC+0,Africa/Banjul
+1686822,GM,GM-M,Changai,Changai,496,4,village,UTC+0,Africa/Banjul
+1686824,GM,GM-U,Chamoi,Chamoi,472,4,village,UTC+0,Africa/Banjul
+1686826,GM,GM-M,Chamen Baka,Chamen Baka,149,4,village,UTC+0,Africa/Banjul
+1686831,GM,GM-M,Chalen,Chalen,60,4,locality,UTC+0,Africa/Banjul
+1686832,GM,GM-M,Cha Kunda,Cha Kunda,700,4,village,UTC+0,Africa/Banjul
+1686833,GM,GM-W,Chabai,Chabai,288,4,locality,UTC+0,Africa/Banjul
+1686834,GM,GM-M,Carrols Wharf,Carrols Wharf,73,4,locality,UTC+0,Africa/Banjul
+1686835,GM,GM-W,Bwiam,Bwiam,1919,4,village,UTC+0,Africa/Banjul
+1686836,GM,GM-M,Busura,Busura,215,4,locality,UTC+0,Africa/Banjul
+1686838,GM,GM-U,Busura,Busura,125,4,locality,UTC+0,Africa/Banjul
+1686840,GM,GM-W,Busumbala,Busumbala,20009,4,town,UTC+0,Africa/Banjul
+1686842,GM,GM-W,Busanehkai,Busanehkai,407,4,village,UTC+0,Africa/Banjul
+1686845,GM,GM-W,Burock,Burock,2751,4,village,UTC+0,Africa/Banjul
+1686846,GM,GM-L,Bureng,Bureng,1472,4,village,UTC+0,Africa/Banjul
+1686847,GM,GM-N,Burang Ya,Burang Ya,33614,3,Municipality,UTC+0,Africa/Banjul
+1686853,GM,GM-M,Buntung,Buntung,69,4,locality,UTC+0,Africa/Banjul
+1686856,GM,GM-M,Buniadu,Buniadu,766,4,locality,UTC+0,Africa/Banjul
+1686858,GM,GM-W,Buniadu,Buniadu,37952,3,Municipality,UTC+0,Africa/Banjul
+1686861,GM,GM-L,Bulufula,Bulufula,1782,4,village,UTC+0,Africa/Banjul
+1686862,GM,GM-W,Bulok,Bulok,40585,3,Municipality,UTC+0,Africa/Banjul
+1686864,GM,GM-W,Bulengart,Bulengart,317,4,locality,UTC+0,Africa/Banjul
+1686865,GM,GM-W,Bulanjor,Bulanjor,439,4,village,UTC+0,Africa/Banjul
+1686868,GM,GM-L,Buiba Musa Sallah,Buiba Musa Sallah,41596,3,Municipality,UTC+0,Africa/Banjul
+1686870,GM,GM-L,Buiba Mandinka,Buiba Mandinka,503,4,locality,UTC+0,Africa/Banjul
+1686872,GM,GM-M,Buduk,Buduk,334,4,locality,UTC+0,Africa/Banjul
+1686874,GM,GM-L,Budayell,Budayell,83891,3,Municipality,UTC+0,Africa/Banjul
+1686876,GM,GM-W,Brumen,Brumen,296,4,locality,UTC+0,Africa/Banjul
+1686878,GM,GM-W,Brufut,Brufut,27664,4,village,UTC+0,Africa/Banjul
+1686879,GM,GM-M,Brikama Nding,Brikama Nding,1092,4,village,UTC+0,Africa/Banjul
+1686880,GM,GM-M,Brikama Ba,Brikama Ba,5086,4,town,UTC+0,Africa/Banjul
+1686883,GM,GM-L,Brikama,Brikama,65,4,locality,UTC+0,Africa/Banjul
+1686884,GM,GM-W,Brikama,Brikama,87467,2,town,UTC+0,Africa/Banjul
+1686885,GM,GM-U,Brifu,Brifu,1292,4,village,UTC+0,Africa/Banjul
+1686888,GM,GM-M,Bowe,Bowe,1345,4,village,UTC+0,Africa/Banjul
+1686892,GM,GM-U,Boro Modi Bane,Boro Modi Bane,207,4,hamlet,UTC+0,Africa/Banjul
+1686893,GM,GM-U,Boro Majang Kunda,Boro Majang Kunda,1021,4,village,UTC+0,Africa/Banjul
+1686895,GM,GM-M,Boraba,Boraba,468,4,village,UTC+0,Africa/Banjul
+1686898,GM,GM-W,Bondali Tenda,Bondali Tenda,182,4,hamlet,UTC+0,Africa/Banjul
+1686905,GM,GM-N,Birong Kunda,Birong Kunda,148,4,locality,UTC+0,Africa/Banjul
+1686907,GM,GM-L,Biranoya,Biranoya,53,4,hamlet,UTC+0,Africa/Banjul
+1686916,GM,GM-U,Berry Narbeh,Barry Nabeh,152,4,locality,UTC+0,Africa/Banjul
+1686918,GM,GM-N,Beretto,Beretto,168,4,Town,UTC+0,Africa/Banjul
+1686927,GM,GM-M,Bati Yungo,Bati Yungo,138,4,locality,UTC+0,Africa/Banjul
+1686928,GM,GM-M,Bati Ndar,Bati Ndar,822,4,locality,UTC+0,Africa/Banjul
+1686930,GM,GM-M,Bati Jaha,Bati Jaha,427,4,Town,UTC+0,Africa/Banjul
+1686933,GM,GM-W,Batending Kajara,Batending Kajara,32081,3,Municipality,UTC+0,Africa/Banjul
+1686934,GM,GM-L,Batelling,Batelling,347,4,village,UTC+0,Africa/Banjul
+1686935,GM,GM-N,Bassik,Bassik,270,4,village,UTC+0,Africa/Banjul
+1686936,GM,GM-U,Basse Santa Su,Basse Santa Su,14380,2,town,UTC+0,Africa/Banjul
+1686937,GM,GM-W,Bassen Kansana,Bassen Kansana,11425,3,Municipality,UTC+0,Africa/Banjul
+1686939,GM,GM-W,Basori,Basori,770,4,village,UTC+0,Africa/Banjul
+1686940,GM,GM-U,Base Nding,Base Nding,11376,4,town,UTC+0,Africa/Banjul
+1686943,GM,GM-N,Barra,"Barra, the Gambia",5672,4,town,UTC+0,Africa/Banjul
+1686946,GM,GM-L,Baro Kunda,Baro Kunda,1991,4,village,UTC+0,Africa/Banjul
+1686951,GM,GM-M,Barajali Tenda,Barajali Tenda,143,4,locality,UTC+0,Africa/Banjul
+1686954,GM,GM-U,Banto Nding,Bantunding,999,3,Municipality,UTC+0,Africa/Banjul
+1686958,GM,GM-M,Bantanto Musa Bah,Bantanto Musa Bah,415,4,locality,UTC+0,Africa/Banjul
+1686967,GM,GM-M,Bantanto,Bantanto,326,4,village,UTC+0,Africa/Banjul
+1686968,GM,GM-L,Bantanjang,Bantanjang,63,4,locality,UTC+0,Africa/Banjul
+1686969,GM,GM-M,Bantango Koto,Bantango Koto,293,4,Town,UTC+0,Africa/Banjul
+1686972,GM,GM-N,Bantang Killing,Bantang Killing,792,4,locality,UTC+0,Africa/Banjul
+1686977,GM,GM-M,Bansang,Bansang,8572,4,town,UTC+0,Africa/Banjul
+1686980,GM,GM-U,Bankuwule,Bankuwule,4078,4,village,UTC+0,Africa/Banjul
+1686983,GM,GM-W,Banjul NDing,Banjul NDing,7110,3,locality,UTC+0,Africa/Banjul
+1686984,GM,GM-B,Banjul,Banjul,34589,1,City proper,UTC+0,Africa/Banjul
+1686985,GM,GM-U,Banja,Banja,7175,4,village,UTC+0,Africa/Banjul
+1686989,GM,GM-M,Bani,Bani,524,4,locality,UTC+0,Africa/Banjul
+1686993,GM,GM-M,Bangherr,Bangherr,212,4,locality,UTC+0,Africa/Banjul
+1686994,GM,GM-U,Bangasiya Fali,Bangasiya Fali,59,4,locality,UTC+0,Africa/Banjul
+1687002,GM,GM-N,Bambali,Bambali,1255,4,village,UTC+0,Africa/Banjul
+1687003,GM,GM-M,Bamba Kolong,Bamba Kolong,70,4,village,UTC+0,Africa/Banjul
+1687005,GM,GM-L,Bambako,Bambako,381,4,village,UTC+0,Africa/Banjul
+1687011,GM,GM-N,Balingho,Balingho,252,4,village,UTC+0,Africa/Banjul
+1687017,GM,GM-W,Bakoti,Bakoti,20314,3,locality,UTC+0,Africa/Banjul
+1687021,GM,GM-N,Bakang,Bakang,458,4,locality,UTC+0,Africa/Banjul
+1687025,GM,GM-U,Bakadagy,Bakadaji,1979,4,locality,UTC+0,Africa/Banjul
+1687029,GM,GM-W,Bajonkoto,Bajonkoto,82737,3,Municipality,UTC+0,Africa/Banjul
+1687031,GM,GM-W,Bajiran,Bajiran,59,4,village,UTC+0,Africa/Banjul
+1687034,GM,GM-L,Bajana,Bajana,907,4,village,UTC+0,Africa/Banjul
+1687038,GM,GM-W,Bajagar Dumbutu,Bajagar Dumbutu,18636,3,Municipality,UTC+0,Africa/Banjul
+1687042,GM,GM-M,Bai N'Ding,Bai N’Ding,1080,4,village,UTC+0,Africa/Banjul
+1687051,GM,GM-U,Badja Kunda,Baja Kunda,5671,4,town,UTC+0,Africa/Banjul
+1687052,GM,GM-U,Badari,Badarri,600,4,village,UTC+0,Africa/Banjul
+1687053,GM,GM-M,Babou Jobe,Babou Jobe,236,4,locality,UTC+0,Africa/Banjul
+1687057,GM,GM-M,Anias Kunda,Anias Kunda,123,4,locality,UTC+0,Africa/Banjul
+1687059,GM,GM-W,Amdalai,Amdalai,1245,3,locality,UTC+0,Africa/Banjul
+1687065,GM,GM-U,Alohungari,Alohungari,6726,3,locality,UTC+0,Africa/Banjul
+1687069,GM,GM-N,Aljamdu Kanteh Kunda,Aljamdu Kanteh Kunda,2020,4,village,UTC+0,Africa/Banjul
+1687073,GM,GM-N,Alicali Kunda,Alicali Kunda,876,4,village,UTC+0,Africa/Banjul
+1687077,GM,GM-N,Albadarr,Albreda,1829,4,locality,UTC+0,Africa/Banjul
+1687080,GM,GM-W,Abuko,Abuko,8089,4,town,UTC+0,Africa/Banjul
+1687095,GM,GM-N,Mbanta Su,Mbanta Su,73,4,hamlet,UTC+0,Africa/Banjul
+1687096,GM,GM-N,Kerr Madi,Kerr Madi,51,4,village,UTC+0,Africa/Banjul
+1687102,GM,\N,Bakau Wasulun,Bakau Wasulun,4255,3,locality,UTC+0,Africa/Banjul
+1687104,GM,GM-B,Talinding,Talinding,48687,3,locality,UTC+0,Africa/Banjul
+1687105,GM,GM-W,Sinchu Alagi,Sinchu Alagi,19672,3,locality,UTC+0,Africa/Banjul
+1687106,GM,GM-W,Sinchu Sorry,Sinchu Sorry,7687,4,village,UTC+0,Africa/Banjul

@@ -1,0 +1,657 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+1336938,CY,CY-05,Statos-Agios Fotios,Στατός-Άγιος Φώτιος,249,3,Community,UTC+2,Asia/Nicosia
+1336939,CY,CY-01,Pano Pyrgos,Πάνω Πύργος,31,3,Community,UTC+2,Asia/Nicosia
+1336940,CY,CY-05,Nea Dimmata,Νέα Δήμματα,31,3,Community,UTC+2,Asia/Nicosia
+1336941,CY,CY-04,Protaras,Πρωταράς,20230,3,locality,UTC+2,Asia/Famagusta
+1336945,CY,CY-04,Agios Nikolaos,Άγιος Νικόλαος,60,3,Community,UTC+2,Asia/Famagusta
+1336946,CY,CY-04,Kapsalos,Κάψαλος,6660,3,Quarter,UTC+2,Asia/Famagusta
+1336949,CY,CY-06,Agios Georgios,Άγιος Γεώργιος,128,3,Community,UTC+2,Asia/Famagusta
+1336952,CY,CY-03,Zygi,Ζύγι,526,3,Community,UTC+2,Asia/Nicosia
+1336953,CY,CY-02,Zoopigi,Ζωοπηγή,207,3,Community,UTC+2,Asia/Nicosia
+1336954,CY,CY-02,Zakaki,Ζακάκι,3119,3,Quarter,UTC+2,Asia/Nicosia
+1336955,CY,CY-02,Ypsonas,Ύψωνας,7348,3,Municipality,UTC+2,Asia/Nicosia
+1336956,CY,CY-05,Giolou,Γιόλου,764,3,Community,UTC+2,Asia/Nicosia
+1336957,CY,CY-04,Aigialousa,Γιαλούσα,2519,3,Municipality,UTC+2,Asia/Famagusta
+1336958,CY,CY-05,Gialia,Γιαλιά,165,3,Community,UTC+2,Asia/Nicosia
+1336959,CY,CY-02,Gerovasa,Γεροβάσα,58,4,locality,UTC+2,Asia/Nicosia
+1336960,CY,CY-05,Geroskipou (quarter),Γεροσκήπου,1551,2,locality,UTC+2,Asia/Nicosia
+1336961,CY,CY-01,Gerolakkos,Γερόλακκος,2353,3,Municipality,UTC+2,Asia/Nicosia
+1336962,CY,CY-02,Germasogeia,Γερμασόγεια,17327,3,Municipality,UTC+2,Asia/Nicosia
+1336963,CY,CY-01,Geri,Γέρι,8235,3,Municipality,UTC+2,Asia/Nicosia
+1336964,CY,CY-02,Gerasa,Γεράσα,85,3,Community,UTC+2,Asia/Nicosia
+1336965,CY,CY-04,Gerani,Γεράνι,180,3,Village,UTC+2,Asia/Famagusta
+1336966,CY,CY-01,Gerakies,Γερακιές,128,3,Community,UTC+2,Asia/Nicosia
+1336967,CY,CY-04,Genagra,Γέναγρα,406,3,Village,UTC+2,Asia/Famagusta
+1336968,CY,CY-03,Xylotymbou,Ξυλοτύμβου,3593,3,locality,UTC+2,Asia/Nicosia
+1336969,CY,CY-03,Xylofagou,Ξυλοφάγου,6000,3,Community,UTC+2,Asia/Nicosia
+1336970,CY,CY-01,Xyliatos,Ξυλιάτος,126,3,Community,UTC+2,Asia/Nicosia
+1336972,CY,CY-01,Tseri,Τσέρι,5498,3,Municipality,UTC+2,Asia/Nicosia
+1336973,CY,CY-01,Frodisia,Φροδίσια,75,4,locality,UTC+2,Asia/Nicosia
+1336974,CY,CY-05,Vretsia,Βρέτσια,317,3,locality,UTC+2,Asia/Nicosia
+1336975,CY,CY-06,Vouno,Βουνό,255,3,Village,UTC+2,Asia/Famagusta
+1336976,CY,CY-02,Vouni,Βουνί,149,3,Community,UTC+2,Asia/Nicosia
+1336977,CY,CY-03,Voroklini,Ορόκλινη,3446,3,Community,UTC+2,Asia/Nicosia
+1336978,CY,CY-01,Voni,Βώνη,285,3,Village,UTC+2,Asia/Nicosia
+1336979,CY,CY-04,Vokolida,Βοκολίδα,657,3,Village,UTC+2,Asia/Famagusta
+1336980,CY,CY-01,Vyzakia,Βυζακιά,370,3,Community,UTC+2,Asia/Nicosia
+1336981,CY,CY-04,Vitsada,Βιτσάδα,230,3,Village,UTC+2,Asia/Famagusta
+1336982,CY,CY-02,Vikla,Βίκλα,22,3,Community,UTC+2,Asia/Nicosia
+1336983,CY,CY-03,Vavla,Βάβλα,50,3,Community,UTC+2,Asia/Nicosia
+1336984,CY,CY-03,Vavatsinia,Βαβατσινιά,89,3,Community,UTC+2,Asia/Nicosia
+1336985,CY,CY-04,Vatili,Βατιλή,2071,3,Municipality,UTC+2,Asia/Famagusta
+1336986,CY,CY-04,Vothylakas,Βοθύλακας,385,4,locality,UTC+2,Asia/Famagusta
+1336987,CY,CY-06,Vasileia,Βασίλεια,2091,3,Village,UTC+2,Asia/Famagusta
+1336988,CY,CY-04,Vasili,Βασίλι,416,3,Village,UTC+2,Asia/Famagusta
+1336989,CY,CY-02,Vasa,Βάσα,362,3,Community,UTC+2,Asia/Nicosia
+1336990,CY,CY-02,Vasa,Βάσα,134,4,locality,UTC+2,Asia/Nicosia
+1336991,CY,CY-01,Variseia,Βαρίσεια,94,4,hamlet,UTC+2,Asia/Nicosia
+1336992,CY,CY-01,Tymvou,Τύμβου,538,3,Village,UTC+2,Asia/Nicosia
+1336993,CY,CY-05,Tsada,Τσάδα,893,3,Community,UTC+2,Asia/Nicosia
+1336994,CY,CY-04,Trypimeni,Τρυπημένη,314,3,Village,UTC+2,Asia/Famagusta
+1336995,CY,CY-03,Troulloi,Τρούλλοι,1078,3,Community,UTC+2,Asia/Nicosia
+1336996,CY,CY-02,Troodos,Τρόοδος,\N,2,locality,UTC+2,Asia/Nicosia
+1336997,CY,CY-02,Treis Elies,Τρείς Ελιές,68,3,Community,UTC+2,Asia/Nicosia
+1336998,CY,CY-05,Trimithousa,Τριμιθούσα,97,4,locality,UTC+2,Asia/Nicosia
+1336999,CY,CY-05,Tremithousa,Τρεμιθούσα,772,3,Community,UTC+2,Asia/Nicosia
+1337000,CY,CY-06,Trimithi,Τριμίθι,720,3,Village,UTC+2,Asia/Famagusta
+1337001,CY,CY-02,Trimiklini,Τριμήκληνη,227,3,Community,UTC+2,Asia/Nicosia
+1337003,CY,CY-04,Trikomo,Τρίκωμο,4490,3,Municipality,UTC+2,Asia/Famagusta
+1337004,CY,CY-03,Tremetousia,Τρεμετουσιά,273,3,Village,UTC+2,Asia/Nicosia
+1337005,CY,CY-06,Trapeza,Τράπεζα,47,3,Village,UTC+2,Asia/Famagusta
+1337006,CY,CY-05,Trachypedoula,Τραχυπέδουλα,86,3,Community,UTC+2,Asia/Nicosia
+1337007,CY,CY-02,Trachoni,Τραχώνι,263,4,locality,UTC+2,Asia/Nicosia
+1337008,CY,\N,Trachoni,Τραχώνι,4113,3,Community,UTC+2,Asia/Famagusta
+1337009,CY,CY-03,Tochni,Τόχνη,388,3,Community,UTC+2,Asia/Nicosia
+1337010,CY,CY-05,Timi,Τίμη,939,3,Community,UTC+2,Asia/Nicosia
+1337011,CY,CY-06,Thermeia,Θέρμεια,94,4,locality,UTC+2,Asia/Famagusta
+1337012,CY,CY-05,Theletra,Θελέτρα,221,3,Community,UTC+2,Asia/Nicosia
+1337013,CY,CY-03,Tersefanou,Τερσεφάνου,1018,3,Community,UTC+2,Asia/Nicosia
+1337014,CY,CY-05,Tera,Τέρα,149,3,Community,UTC+2,Asia/Nicosia
+1337015,CY,CY-01,Temvria,Τεμβριά,476,3,Community,UTC+2,Asia/Nicosia
+1337016,CY,CY-06,Templos,Τέμπλος,302,3,Village,UTC+2,Asia/Famagusta
+1337017,CY,CY-04,Tavrou,Ταύρου,267,3,Village,UTC+2,Asia/Famagusta
+1337018,CY,CY-05,Tala,Τάλα,1655,3,Community,UTC+2,Asia/Nicosia
+1337019,CY,CY-01,Syrianochori,Συριανοχώρι,850,3,Village,UTC+2,Asia/Nicosia
+1337020,CY,CY-04,Sygkrasi,Σύγκραση,264,4,locality,UTC+2,Asia/Famagusta
+1337021,CY,CY-02,Sykopetra,Συκόπετρα,140,3,Community,UTC+2,Asia/Nicosia
+1337023,CY,CY-04,Stylloi,Στύλλοι,447,3,Village,UTC+2,Asia/Famagusta
+1337024,CY,CY-01,Strovolos,Στρόβολος,67904,2,Municipality,UTC+2,Asia/Nicosia
+1337025,CY,CY-05,Stroumpi,Στρουμπί,526,3,Community,UTC+2,Asia/Nicosia
+1337026,CY,CY-04,Strongylos,Στρογγυλός,295,3,Village,UTC+2,Asia/Famagusta
+1337027,CY,CY-05,Steni,Στενή,130,3,Community,UTC+2,Asia/Nicosia
+1337028,CY,CY-05,Stavrokonnou,Σταυροκόννου,106,3,Community,UTC+2,Asia/Nicosia
+1337030,CY,CY-02,Spitali,Σπιτάλι,196,3,Community,UTC+2,Asia/Nicosia
+1337031,CY,CY-01,Spilia,Σπήλια,169,3,Community,UTC+2,Asia/Nicosia
+1337032,CY,CY-04,Spathariko,Σπαθαρικό,390,3,Village,UTC+2,Asia/Famagusta
+1337033,CY,CY-04,Sotira,Σωτήρα,1276,3,locality,UTC+2,Asia/Famagusta
+1337034,CY,CY-02,Sotira,Σωτήρα,4444,3,Municipality,UTC+2,Asia/Nicosia
+1337035,CY,CY-03,Softades,Σοφτάδες,37,3,Community,UTC+2,Asia/Nicosia
+1337036,CY,CY-01,Skouriotissa,Σκουριώτισσα,20,3,Community,UTC+2,Asia/Nicosia
+1337037,CY,CY-05,Skoulli,Σκούλλη,80,3,Community,UTC+2,Asia/Nicosia
+1337038,CY,CY-01,Skylloura,Σκυλλούρα,730,3,Village,UTC+2,Asia/Nicosia
+1337039,CY,CY-03,Skarinou,Σκαρίνου,256,3,Community,UTC+2,Asia/Nicosia
+1337040,CY,CY-06,Sysklipos,Σύσκληπος,200,3,Village,UTC+2,Asia/Famagusta
+1337041,CY,CY-04,Sinta,Σίντα,1745,3,Municipality,UTC+2,Asia/Famagusta
+1337042,CY,CY-01,Sinaoros,Σινάορος,232,3,Community,UTC+2,Asia/Nicosia
+1337043,CY,CY-05,Simou,Σίμου,193,3,Community,UTC+2,Asia/Nicosia
+1337044,CY,CY-02,Silikou,Σιλίκου,126,3,Community,UTC+2,Asia/Nicosia
+1337045,CY,CY-01,Sia,Σιά,553,3,Community,UTC+2,Asia/Nicosia
+1337046,CY,CY-01,Selladi tou Appi,Σελλάδι του Άππη,53,4,locality,UTC+2,Asia/Nicosia
+1337047,CY,CY-01,Agios Ioannis Selemani,Άγιος Ιωάννης Σελέμανη,90,4,locality,UTC+2,Asia/Nicosia
+1337048,CY,CY-01,Saranti,Σαράντι,59,3,Community,UTC+2,Asia/Nicosia
+1337049,CY,CY-05,Sarama,Σαραμά,95,4,locality,UTC+2,Asia/Nicosia
+1337050,CY,CY-02,Sanida,Σανίδα,55,3,Community,UTC+2,Asia/Nicosia
+1337051,CY,CY-04,Santalaris,Σανταλάρης,61,3,Village,UTC+2,Asia/Famagusta
+1337052,CY,CY-05,Salamiou,Σαλαμιού,264,3,Community,UTC+2,Asia/Nicosia
+1337054,CY,CY-04,Rizokarpaso,Ριζοκάρπασο,3955,3,Municipality,UTC+2,Asia/Famagusta
+1337056,CY,CY-02,Pyrgos,Πύργος Λεμεσού,1407,3,Community,UTC+2,Asia/Nicosia
+1337057,CY,CY-03,Pyrga,Πυργά,591,3,Community,UTC+2,Asia/Nicosia
+1337058,CY,CY-03,Pyla,Πύλα,1434,3,Community,UTC+2,Asia/Nicosia
+1337059,CY,CY-01,Psimolofou,Ψιμολόφου,1686,3,Community,UTC+2,Asia/Nicosia
+1337060,CY,CY-04,Psyllatos,Ψυλλάτος,392,4,locality,UTC+2,Asia/Famagusta
+1337061,CY,CY-03,Psevdas,Ψευδάς,1070,3,Community,UTC+2,Asia/Nicosia
+1337062,CY,CY-03,Psematismenos,Ψεματισμένος,221,3,Community,UTC+2,Asia/Nicosia
+1337063,CY,CY-05,Psathi,Ψάθι,102,3,Community,UTC+2,Asia/Nicosia
+1337064,CY,CY-02,Prodromos,Πρόδρομος,314,3,locality,UTC+2,Asia/Nicosia
+1337065,CY,CY-05,Prodromi,Προδρόμι,278,3,locality,UTC+2,Asia/Nicosia
+1337066,CY,CY-05,Praitori,Πραιτώρι,55,3,Community,UTC+2,Asia/Nicosia
+1337067,CY,CY-04,Prastio,Πραστιό,107,3,Community,UTC+2,Asia/Famagusta
+1337068,CY,CY-01,Prastio,Πραστιό,237,4,locality,UTC+2,Asia/Nicosia
+1337069,CY,CY-02,Prastio,Πραστιό,156,4,locality,UTC+2,Asia/Nicosia
+1337070,CY,CY-02,Prastio,Πραστιό,247,3,locality,UTC+2,Asia/Nicosia
+1337071,CY,CY-02,Potamitissa,Ποταμίτισσα,73,3,Community,UTC+2,Asia/Nicosia
+1337072,CY,CY-02,Potamiou,Ποταμιού,36,3,Community,UTC+2,Asia/Nicosia
+1337073,CY,CY-01,Potamia,Ποταμιά,433,3,Community,UTC+2,Asia/Nicosia
+1337074,CY,CY-01,Potami,Ποτάμι,570,3,Community,UTC+2,Asia/Nicosia
+1337075,CY,CY-05,Pomos,Πωμός,556,3,Community,UTC+2,Asia/Nicosia
+1337076,CY,CY-01,Polystypos,Πολύστυπος,181,3,Community,UTC+2,Asia/Nicosia
+1337077,CY,CY-01,Politiko,Πολιτικό,384,3,Community,UTC+2,Asia/Nicosia
+1337078,CY,CY-05,Polis,Πόλις,1975,3,Municipality,UTC+2,Asia/Nicosia
+1337079,CY,CY-05,Polemi,Πολέμι,809,2,Community,UTC+2,Asia/Nicosia
+1337081,CY,CY-01,Platanistasa,Πλατανιστάσα,180,3,Community,UTC+2,Asia/Nicosia
+1337082,CY,CY-04,Platanissos,Πλατανισσός,89,3,Village,UTC+2,Asia/Famagusta
+1337083,CY,CY-02,Platanisteia,Πλατανίστεια,45,3,Community,UTC+2,Asia/Nicosia
+1337085,CY,CY-04,Platani,Πλατάνι,226,3,Village,UTC+2,Asia/Famagusta
+1337087,CY,CY-01,Pigenia,Πηγένια,129,3,Community,UTC+2,Asia/Nicosia
+1337088,CY,CY-02,Pissouri,Πισσούρι,1078,3,Community,UTC+2,Asia/Nicosia
+1337089,CY,CY-06,Pileri,Πιλέρι,156,3,Village,UTC+2,Asia/Famagusta
+1337090,CY,CY-01,Fterikoudi,Φτερικούδι,148,3,Community,UTC+2,Asia/Nicosia
+1337091,CY,CY-06,Ftericha,Φτέριχα,93,3,Village,UTC+2,Asia/Famagusta
+1337092,CY,CY-04,Frenaros,Φρέναρος,3450,3,Community,UTC+2,Asia/Famagusta
+1337093,CY,CY-06,Fota,Φότα,411,3,Village,UTC+2,Asia/Famagusta
+1337094,CY,CY-04,Flamoudi,Φλαμούδι,214,3,Village,UTC+2,Asia/Famagusta
+1337095,CY,CY-05,Fyti,Φύτη,101,3,Community,UTC+2,Asia/Nicosia
+1337096,CY,CY-05,Foinikas,Φοίνικας,96,4,locality,UTC+2,Asia/Nicosia
+1337097,CY,CY-02,Foinikaria,Φοινικάρια,254,3,Community,UTC+2,Asia/Nicosia
+1337098,CY,CY-02,Foini,Φοινί,464,3,Community,UTC+2,Asia/Nicosia
+1337099,CY,CY-05,Philousa Khrysokhous,Φιλούσα,96,4,locality,UTC+2,Asia/Nicosia
+1337100,CY,CY-05,Philousa Kelokedharon,Φιλούσα,96,4,locality,UTC+2,Asia/Nicosia
+1337101,CY,CY-01,Fyllia,Φυλλιά,355,4,locality,UTC+2,Asia/Nicosia
+1337102,CY,CY-01,Fikardou,Φικάρδου,14,3,Community,UTC+2,Asia/Nicosia
+1337103,CY,CY-02,Fasoula,Φασούλα,538,3,Community,UTC+2,Asia/Nicosia
+1337104,CY,CY-05,Fasoula,Φασούλα,62,4,locality,UTC+2,Asia/Nicosia
+1337105,CY,CY-01,Farmakas,Φαρμακάς,462,3,Community,UTC+2,Asia/Nicosia
+1337106,CY,CY-05,Faleia,Φάλια,4,3,Community,UTC+2,Asia/Nicosia
+1337107,CY,CY-05,Pegeia,Πέγεια,2462,3,Municipality,UTC+2,Asia/Nicosia
+1337108,CY,CY-03,Petrofani,Πετροφάνι,42,3,Community,UTC+2,Asia/Nicosia
+1337109,CY,CY-01,Petra tou Digeni,Πέτρα του Διγενή,273,3,Village,UTC+2,Asia/Nicosia
+1337110,CY,CY-01,Petra,Πέτρα,739,4,locality,UTC+2,Asia/Nicosia
+1337111,CY,CY-04,Perivolia,Περιβόλια,99,4,locality,UTC+2,Asia/Famagusta
+1337112,CY,CY-03,Perivolia,Περιβόλια,1876,3,Community,UTC+2,Asia/Nicosia
+1337113,CY,CY-01,Peristeronari,Περιστερωνάρι,142,3,Village,UTC+2,Asia/Nicosia
+1337115,CY,CY-01,Peristerona,Περιστερώνα,2190,3,Community,UTC+2,Asia/Nicosia
+1337116,CY,CY-05,Peristerona,Περιστερώνα,289,3,locality,UTC+2,Asia/Nicosia
+1337117,CY,CY-03,Pergamos,Πέργαμος,7604,2,Community,UTC+2,Asia/Nicosia
+1337118,CY,CY-02,Pera Pedi,Πέρα Πεδί,187,3,Community,UTC+2,Asia/Nicosia
+1337119,CY,CY-01,Pera Chorio,Πέρα Χωριό,3002,3,Community,UTC+2,Asia/Nicosia
+1337120,CY,CY-01,Pera,Πέρα,1060,3,Community,UTC+2,Asia/Nicosia
+1337121,CY,CY-01,Pentageia,Πεντάγεια,769,3,Village,UTC+2,Asia/Nicosia
+1337122,CY,CY-05,Pentalia,Πενταλιά,71,3,Community,UTC+2,Asia/Nicosia
+1337123,CY,CY-03,Pentakomo,Πεντάκωμο,603,3,Community,UTC+2,Asia/Nicosia
+1337124,CY,CY-02,Pelendri,Πελένδρι,1102,3,Community,UTC+2,Asia/Nicosia
+1337125,CY,CY-05,Pelathousa,Πελαθούσα,52,3,Community,UTC+2,Asia/Nicosia
+1337126,CY,CY-01,Pedoulas,Πεδουλάς,199,3,Community,UTC+2,Asia/Nicosia
+1337127,CY,CY-04,Patriki,Πατρίκι,467,3,Village,UTC+2,Asia/Famagusta
+1337129,CY,CY-02,Parekklisha,Παρεκκλησιά,1382,3,locality,UTC+2,Asia/Nicosia
+1337130,CY,CY-02,Paramytha,Παραμύθα,343,3,Community,UTC+2,Asia/Nicosia
+1337131,CY,CY-04,Paralimni,Παραλίμνι,11836,3,Municipality,UTC+2,Asia/Famagusta
+1337132,CY,CY-05,Paphos,Πάφος,36976,2,Municipality,UTC+2,Asia/Nicosia
+1337133,CY,CY-01,Pano Zodeia,Πάνω Ζώδεια,709,4,locality,UTC+2,Asia/Nicosia
+1337134,CY,CY-02,Pano Polemidia,Πάνω Πολεμίδια,3600,3,Community,UTC+2,Asia/Nicosia
+1337135,CY,CY-02,Pano Platres,Πάνω Πλάτρες,201,3,Community,UTC+2,Asia/Nicosia
+1337136,CY,CY-01,Pano Flasou,Φλάσου,265,3,locality,UTC+2,Asia/Nicosia
+1337137,CY,CY-05,Pano Panagia,Πάνω Παναγία,564,3,Community,UTC+2,Asia/Nicosia
+1337138,CY,CY-03,Pano Lefkara,Πάνω Λεύκαρα,957,3,Municipality,UTC+2,Asia/Nicosia
+1337139,CY,CY-01,Pano Koutrafas,Πάνω Κουτραφάς,47,3,Community,UTC+2,Asia/Nicosia
+1337140,CY,CY-02,Pano Kivides,Πάνω Κιβίδες,703,3,Community,UTC+2,Asia/Nicosia
+1337141,CY,CY-06,Pano Dikomo,Πάνω Δίκωμο,416,3,Village,UTC+2,Asia/Famagusta
+1337142,CY,CY-01,Pano Deftera,Πάνω Δευτερά,1983,3,Community,UTC+2,Asia/Nicosia
+1337143,CY,CY-05,Pano Arodes,Πάνω Αρόδες,126,3,Community,UTC+2,Asia/Nicosia
+1337144,CY,CY-05,Pano Archimandrita,Πάνω Αρχιμανδρίτα,44,3,Community,UTC+2,Asia/Nicosia
+1337146,CY,CY-05,Pano Akourdaleia,Πάνω Ακουρδάλια,31,3,Community,UTC+2,Asia/Nicosia
+1337147,CY,CY-06,Panagra,Πάναγρα,220,3,Village,UTC+2,Asia/Famagusta
+1337148,CY,CY-02,Palodeia,Παλόδεια,762,3,Community,UTC+2,Asia/Nicosia
+1337149,CY,CY-06,Palaiosofos,Παλαιόσοφος,136,4,locality,UTC+2,Asia/Famagusta
+1337150,CY,CY-02,Palaiomylos,Παλαιόμυλος,32,3,Community,UTC+2,Asia/Nicosia
+1337151,CY,CY-01,Palaiometocho,Παλαιομέτοχο,4447,3,Community,UTC+2,Asia/Nicosia
+1337152,CY,CY-01,Palaikythro,Παλαίκυθρο,860,3,Village,UTC+2,Asia/Nicosia
+1337153,CY,CY-01,Palaichori,Παλαιχώρι,520,3,Community,UTC+2,Asia/Nicosia
+1337154,CY,CY-01,Pachyammos,Παχύαμμος,101,3,Community,UTC+2,Asia/Nicosia
+1337155,CY,CY-02,Pachna,Πάχνα,1008,3,Community,UTC+2,Asia/Nicosia
+1337156,CY,CY-04,Ovgoros,Όβγορος,294,3,Village,UTC+2,Asia/Famagusta
+1337157,CY,CY-01,Orounta,Ορούντα,639,3,Community,UTC+2,Asia/Nicosia
+1337159,CY,CY-03,Ormidhia,Ορμήδεια,2704,3,locality,UTC+2,Asia/Nicosia
+1337160,CY,CY-06,Orga,Όργα,180,3,Village,UTC+2,Asia/Famagusta
+1337161,CY,CY-03,Ora,Ορά,189,3,Community,UTC+2,Asia/Nicosia
+1337162,CY,CY-02,Omodos,Όμοδος,332,3,Community,UTC+2,Asia/Nicosia
+1337163,CY,CY-03,Odou,Οδοú,183,3,Community,UTC+2,Asia/Nicosia
+1337164,CY,CY-01,Nisou,Νήσου,1298,3,Community,UTC+2,Asia/Nicosia
+1337165,CY,CY-01,Oikos,Οίκος,195,3,Community,UTC+2,Asia/Nicosia
+1337166,CY,CY-05,Nikokleia,Νικόκλεια,110,3,Community,UTC+2,Asia/Nicosia
+1337167,CY,CY-01,Nikitas,Νικήτας,333,3,Village,UTC+2,Asia/Nicosia
+1337168,CY,CY-01,Nikitari,Νικητάρι,442,3,Community,UTC+2,Asia/Nicosia
+1337169,CY,CY-01,Nicosia,Λευκωσία,200452,1,Municipality,UTC+2,Asia/Nicosia
+1337170,CY,CY-04,Neta,Νέτα,110,3,Village,UTC+2,Asia/Famagusta
+1337171,CY,CY-01,Neo Chorio,Νέο Χωριό,522,3,Community,UTC+2,Asia/Nicosia
+1337172,CY,CY-05,Neo Chorio,Νέο Χωριό,472,3,locality,UTC+2,Asia/Nicosia
+1337173,CY,CY-05,Nata,Νατά,169,3,Community,UTC+2,Asia/Nicosia
+1337174,CY,CY-06,Myrtou,Μύρτου,705,3,Village,UTC+2,Asia/Famagusta
+1337175,CY,CY-01,Moutoullas,Μουτουλλάς,307,3,Community,UTC+2,Asia/Nicosia
+1337176,CY,CY-02,Mouttagiaka,Μουτταγιάκα,2818,3,Community,UTC+2,Asia/Nicosia
+1337177,CY,CY-04,Mousoulita,Μουσουλίτα,293,3,Village,UTC+2,Asia/Famagusta
+1337178,CY,CY-05,Mousere,Μούσερε,24,3,Community,UTC+2,Asia/Nicosia
+1337180,CY,CY-03,Mosfiloti,Μοσφιλωτή,1158,3,Community,UTC+2,Asia/Nicosia
+1337181,CY,CY-01,Mosfileri,Μοσφιλερή,87,4,locality,UTC+2,Asia/Nicosia
+1337182,CY,CY-01,Morfou,Μόρφου,9542,3,Community,UTC+2,Asia/Nicosia
+1337184,CY,CY-01,Mora,Μόρα,498,3,Village,UTC+2,Asia/Nicosia
+1337185,CY,CY-02,Moniatis,Μονιάτης,312,3,Community,UTC+2,Asia/Nicosia
+1337186,CY,CY-02,Moni,Μονή,403,3,Community,UTC+2,Asia/Nicosia
+1337187,CY,CY-04,Monarga,Μοναργά,178,3,Village,UTC+2,Asia/Famagusta
+1337188,CY,CY-02,Monagroulli,Μοναγρούλλι,492,3,Community,UTC+2,Asia/Nicosia
+1337189,CY,CY-02,Monagri,Μονάγρι,191,3,Community,UTC+2,Asia/Nicosia
+1337190,CY,CY-01,Mitsero,Μιτσερό,742,3,Community,UTC+2,Asia/Nicosia
+1337191,CY,CY-05,Miliou,Μηλιού,85,3,Community,UTC+2,Asia/Nicosia
+1337192,CY,CY-01,Mylikouri,Μυλικούρι,41,3,Community,UTC+2,Asia/Nicosia
+1337193,CY,CY-05,Milia,Μηλιά,6,3,Community,UTC+2,Asia/Nicosia
+1337194,CY,CY-04,Milia,Μηλιά,643,4,locality,UTC+2,Asia/Famagusta
+1337195,CY,CY-01,Mia Milia,Μιά Μηλιά,2328,3,Village,UTC+2,Asia/Nicosia
+1337196,CY,CY-05,Mesogi,Μεσόγη,1469,3,Community,UTC+2,Asia/Nicosia
+1337197,CY,CY-02,Mesa Geitonia,Μέσα Γειτονιά,8180,3,Municipality,UTC+2,Asia/Nicosia
+1337198,CY,CY-05,Mesana,Μέσανα,52,3,Community,UTC+2,Asia/Nicosia
+1337199,CY,CY-05,Mesa Chorio,Μέσα Χωριό,586,3,Community,UTC+2,Asia/Nicosia
+1337201,CY,CY-03,Menogeia,Μενόγεια,51,3,Community,UTC+2,Asia/Nicosia
+1337202,CY,CY-03,Meneou,Μενεού,1248,3,Quarter,UTC+2,Asia/Nicosia
+1337203,CY,CY-03,Melouseia,Μελούσεια,301,3,Village,UTC+2,Asia/Nicosia
+1337204,CY,CY-03,Melini,Μελίνη,74,3,Community,UTC+2,Asia/Nicosia
+1337205,CY,CY-05,Melandra,Μελάνδρα,156,4,locality,UTC+2,Asia/Nicosia
+1337206,CY,CY-04,Melanarga,Μελάναργα,100,3,Village,UTC+2,Asia/Famagusta
+1337207,CY,CY-05,Meladeia,Μελάδεια,20,2,Community,UTC+2,Asia/Nicosia
+1337208,CY,CY-03,Mazotos,Μαζωτός,818,3,Community,UTC+2,Asia/Nicosia
+1337210,CY,CY-02,Mathikoloni,Μαθικολώνη,115,3,Community,UTC+2,Asia/Nicosia
+1337211,CY,CY-01,Mathiatis,Μαθιάτης,605,3,Community,UTC+2,Asia/Nicosia
+1337212,CY,CY-01,Masari,Μάσαρη,132,3,Village,UTC+2,Asia/Nicosia
+1337213,CY,CY-03,Maroni,Μαρώνι,543,3,Community,UTC+2,Asia/Nicosia
+1337214,CY,CY-05,Maronas,Μάρωνας,116,4,locality,UTC+2,Asia/Nicosia
+1337215,CY,CY-03,Mari,Μαρί,185,3,Community,UTC+2,Asia/Nicosia
+1337217,CY,CY-01,Margi,Μαργί,104,3,Community,UTC+2,Asia/Nicosia
+1337218,CY,CY-04,Marathovounos,Μαραθόβουνος,1158,3,Village,UTC+2,Asia/Famagusta
+1337219,CY,CY-05,Marathounta,Μαραθούντα,316,3,Community,UTC+2,Asia/Nicosia
+1337220,CY,CY-04,Maratha,Μαράθα,49,3,Village,UTC+2,Asia/Famagusta
+1337221,CY,CY-02,Mandria,Μανδριά,705,3,Community,UTC+2,Asia/Nicosia
+1337222,CY,CY-05,Mandria,Μανδριά,382,3,locality,UTC+2,Asia/Nicosia
+1337223,CY,CY-04,Mandres,Μάνδρες,262,4,locality,UTC+2,Asia/Famagusta
+1337224,CY,CY-01,Mandres,Μάνδρες,254,4,locality,UTC+2,Asia/Nicosia
+1337226,CY,CY-05,Mamountali,Μαμούνταλη,15,3,Community,UTC+2,Asia/Nicosia
+1337227,CY,CY-05,Mamonia,Μαμώνια,45,3,Community,UTC+2,Asia/Nicosia
+1337228,CY,CY-01,Mammari,Mámmari,1122,3,Community,UTC+2,Asia/Nicosia
+1337229,CY,CY-04,Melounta,Μελούντα,182,3,Village,UTC+2,Asia/Famagusta
+1337230,CY,CY-01,Malounta,Μαλούντα,341,3,Community,UTC+2,Asia/Nicosia
+1337232,CY,CY-02,Malia,Μαλιά,63,3,Community,UTC+2,Asia/Nicosia
+1337233,CY,CY-04,Makrasyka,Μακράσυκα,345,3,Village,UTC+2,Asia/Famagusta
+1337234,CY,CY-05,Makounta,Μακούντα,61,3,Community,UTC+2,Asia/Nicosia
+1337235,CY,CY-01,Lythrodontas,Λυθροδόντας,2736,3,Community,UTC+2,Asia/Nicosia
+1337236,CY,CY-04,Lythragkomi,Λυθράγκωμη,275,4,locality,UTC+2,Asia/Famagusta
+1337237,CY,CY-05,Lysos,Λυσός,268,3,Community,UTC+2,Asia/Nicosia
+1337238,CY,CY-04,Lysi,Λύση,2073,3,Municipality,UTC+2,Asia/Famagusta
+1337239,CY,CY-01,Lympia,Λύμπια,2262,3,Community,UTC+2,Asia/Nicosia
+1337240,CY,CY-02,Louvaras,Λουβαράς,387,3,Community,UTC+2,Asia/Nicosia
+1337241,CY,CY-01,Loutros,Λουτρός,93,3,Village,UTC+2,Asia/Nicosia
+1337242,CY,CY-01,Louroukina,Λουρουκίνα,390,3,Municipality,UTC+2,Asia/Nicosia
+1337243,CY,CY-05,Loukrounou,Λουκρούνου,13,3,Community,UTC+2,Asia/Nicosia
+1337244,CY,CY-02,Lofou,Λόφου,45,3,Community,UTC+2,Asia/Nicosia
+1337245,CY,CY-06,Livera,Λιβερά,170,3,Village,UTC+2,Asia/Famagusta
+1337247,CY,CY-03,Livadia,Λιβάδια,5329,3,Municipality,UTC+2,Asia/Nicosia
+1337248,CY,CY-01,Livadia,Λιβάδια,232573,3,Municipality,UTC+2,Asia/Nicosia
+1337249,CY,CY-05,Livadi,Λιβάδι,124,4,locality,UTC+2,Asia/Nicosia
+1337250,CY,CY-04,Liopetri,Λιοπέτρι,4005,3,Community,UTC+2,Asia/Famagusta
+1337251,CY,CY-01,Linou,Ληνού,216,3,Community,UTC+2,Asia/Nicosia
+1337252,CY,CY-01,Limnitis,Λιμνίτης,458,3,Village,UTC+2,Asia/Nicosia
+1337253,CY,CY-04,Limnia,Λιμνιά,975,3,Village,UTC+2,Asia/Famagusta
+1337254,CY,CY-02,Limnatis,Λιμνάτης,288,3,Community,UTC+2,Asia/Nicosia
+1337255,CY,CY-02,Limassol,Lemesós,130985,2,Municipality,UTC+2,Asia/Nicosia
+1337256,CY,CY-05,Letymvou,Λετύμπου,249,3,Community,UTC+2,Asia/Nicosia
+1337257,CY,CY-04,Leonarisso,Λεονάρισσο,1166,3,Village,UTC+2,Asia/Famagusta
+1337258,CY,CY-05,Lemona,Λεμώνα,57,3,Community,UTC+2,Asia/Nicosia
+1337259,CY,CY-02,Lemithou,Λεμίθου,112,3,Community,UTC+2,Asia/Nicosia
+1337260,CY,CY-05,Lempa,Λέμπα,453,3,Community,UTC+2,Asia/Nicosia
+1337261,CY,CY-04,Lefkonoiko,Λευκόνοικο,2784,3,Municipality,UTC+2,Asia/Famagusta
+1337262,CY,CY-01,Lefka,Λεύκα,7835,3,Municipality,UTC+2,Asia/Nicosia
+1337263,CY,CY-01,Lazanias,Λαζανιάς,40,3,Community,UTC+2,Asia/Nicosia
+1337264,CY,CY-03,Lageia,Λάγια,29,3,Community,UTC+2,Asia/Nicosia
+1337265,CY,CY-01,Latsia,Λατσιά,9498,3,Municipality,UTC+2,Asia/Nicosia
+1337266,CY,CY-05,Lasa,Λάσα,81,3,Community,UTC+2,Asia/Nicosia
+1337267,CY,CY-06,Larnakas tis Lapithou,Λάρνακας της Λαπήθου,566,4,locality,UTC+2,Asia/Famagusta
+1337268,CY,CY-03,Larnaca,Λάρνακα,51766,2,Municipality,UTC+2,Asia/Nicosia
+1337269,CY,CY-06,Lapithos,Λάπηθος,5215,3,Municipality,UTC+2,Asia/Famagusta
+1337270,CY,CY-05,Lapithiou,Λαπηθιού,126,4,locality,UTC+2,Asia/Nicosia
+1337271,CY,CY-04,Lapathos,Λάπαθος,450,3,Village,UTC+2,Asia/Famagusta
+1337272,CY,CY-02,Laneia,Λάνεια,235,3,Community,UTC+2,Asia/Nicosia
+1337273,CY,CY-01,Lagoudera,Λαγουδερά,150,3,Community,UTC+2,Asia/Nicosia
+1337275,CY,CY-01,Kythrea,Κυθρέα,7080,3,Municipality,UTC+2,Asia/Nicosia
+1337276,CY,CY-06,Kyrenia,Κερύνεια,33207,2,Municipality,UTC+2,Asia/Famagusta
+1337277,CY,CY-01,Kyra,Κυρά,317,3,Village,UTC+2,Asia/Nicosia
+1337278,CY,CY-02,Kyperounta,Κυπερούντα,1466,3,Community,UTC+2,Asia/Nicosia
+1337279,CY,CY-05,Kritou Terra,Κρήτου Τέρρα,95,4,locality,UTC+2,Asia/Nicosia
+1337280,CY,CY-05,Kritou Marottou,Κρήτου Μαρόττου,77,3,Community,UTC+2,Asia/Nicosia
+1337281,CY,CY-06,Krini,Κρηνί,361,3,Village,UTC+2,Asia/Famagusta
+1337282,CY,CY-04,Krideia,Κρίδεια,172,3,Village,UTC+2,Asia/Famagusta
+1337283,CY,CY-06,Koutsoventis,Κουτσοβέντης,106,3,Village,UTC+2,Asia/Famagusta
+1337285,CY,CY-01,Kourou Monastiri,Κουρού Μοναστήρι,208,3,Village,UTC+2,Asia/Nicosia
+1337286,CY,CY-04,Kouklia,Κούκλια,208,4,locality,UTC+2,Asia/Famagusta
+1337287,CY,CY-05,Kouklia,Κούκλια,795,3,Community,UTC+2,Asia/Nicosia
+1337288,CY,CY-02,Kouka,Κουκά,9,3,Community,UTC+2,Asia/Nicosia
+1337289,CY,CY-02,Korfi,Κορφή,173,3,Community,UTC+2,Asia/Nicosia
+1337290,CY,CY-04,Koroveia,Κορόβεια,198,3,Village,UTC+2,Asia/Famagusta
+1337291,CY,CY-03,Kornos,Kórnos,1943,3,Community,UTC+2,Asia/Nicosia
+1337292,CY,CY-04,Kornokipos,Κορνόκηπος,376,3,Village,UTC+2,Asia/Famagusta
+1337293,CY,CY-06,Kormakitis,Κορμακίτης,309,3,Village,UTC+2,Asia/Famagusta
+1337294,CY,CY-01,Korakou,Κοράκου,508,3,Community,UTC+2,Asia/Nicosia
+1337295,CY,CY-03,Kofinou,Κοφίνου,1339,3,Community,UTC+2,Asia/Nicosia
+1337296,CY,CY-05,Konia,Κονιά,1579,3,Community,UTC+2,Asia/Nicosia
+1337297,CY,CY-06,Kontemenos,Κοντέμενος,317,3,Village,UTC+2,Asia/Famagusta
+1337298,CY,CY-04,Kontea,Κοντέα,756,3,Village,UTC+2,Asia/Famagusta
+1337299,CY,CY-04,Komi,Κώμη,1906,3,Municipality,UTC+2,Asia/Famagusta
+1337300,CY,CY-04,Koma tou Gialou,Κώμα του Γιαλού,708,3,Village,UTC+2,Asia/Famagusta
+1337301,CY,CY-03,Kolossi,Κολόσσι,5162,3,Community,UTC+2,Asia/Nicosia
+1337302,CY,CY-05,Koloni,Κολώνη,264,2,Quarter,UTC+2,Asia/Nicosia
+1337303,CY,CY-01,Kokkinotrimithia,Κοκκινοτριμιθιά,4020,3,Community,UTC+2,Asia/Nicosia
+1337304,CY,CY-01,Kokkina,Κόκκινα,213,4,village,UTC+2,Asia/Nicosia
+1337305,CY,CY-01,Kotsiatis,Κοτσιάτης,126,3,Community,UTC+2,Asia/Nicosia
+1337306,CY,CY-04,Knodara,Κνώδαρα,454,3,Village,UTC+2,Asia/Famagusta
+1337307,CY,CY-02,Klonari,Κλωνάρι,19,3,Community,UTC+2,Asia/Nicosia
+1337308,CY,CY-01,Klirou,Κλήρου,1623,3,Community,UTC+2,Asia/Nicosia
+1337309,CY,CY-06,Klepini,Κλεπίνη,388,3,Village,UTC+2,Asia/Famagusta
+1337310,CY,CY-03,Klavdia,Κλαυδιά,444,3,Community,UTC+2,Asia/Nicosia
+1337311,CY,CY-03,Kivisili,Κιβισίλι,241,3,Community,UTC+2,Asia/Nicosia
+1337312,CY,CY-03,Kiti,Κίτι,4207,3,Community,UTC+2,Asia/Nicosia
+1337313,CY,CY-05,Kidasi,Κιδάσι,15,3,Community,UTC+2,Asia/Nicosia
+1337314,CY,CY-02,Kissousa,Κισσούσα,6,3,Community,UTC+2,Asia/Nicosia
+1337315,CY,CY-05,Kissonerga,Κισσόνεργα,1736,3,Community,UTC+2,Asia/Nicosia
+1337316,CY,CY-05,Kinousa,Κινούσα,75,4,locality,UTC+2,Asia/Nicosia
+1337317,CY,CY-05,Kilinia,Κοιλίνια,93,4,locality,UTC+2,Asia/Nicosia
+1337318,CY,CY-05,Koili,Κοίλη,466,3,Community,UTC+2,Asia/Nicosia
+1337319,CY,CY-02,Koilani,Κοιλάνι,280,3,Community,UTC+2,Asia/Nicosia
+1337320,CY,CY-04,Koilanemos,Κοιλάνεμος,74,3,Village,UTC+2,Asia/Famagusta
+1337321,CY,CY-05,Chrysochou,Χρυσοχού,124,3,Community,UTC+2,Asia/Nicosia
+1337322,CY,CY-01,Chrysiliou,Χρυσηλιού,214,3,Village,UTC+2,Asia/Nicosia
+1337324,CY,CY-05,Choulou,Χούλου,173,3,Community,UTC+2,Asia/Nicosia
+1337325,CY,CY-05,Choli,Χόλη,70,3,Community,UTC+2,Asia/Nicosia
+1337326,CY,CY-05,Choletria,Χολέτρια,252,3,Community,UTC+2,Asia/Nicosia
+1337327,CY,CY-05,Chlorakas,Χλώρακας,5020,3,Community,UTC+2,Asia/Nicosia
+1337328,CY,CY-03,Choirokoitia,Χοιροκοιτία,531,3,Community,UTC+2,Asia/Nicosia
+1337329,CY,CY-06,Charkeia,Χάρκεια,278,3,Village,UTC+2,Asia/Famagusta
+1337330,CY,CY-02,Chandria,Χανδριά,214,3,Community,UTC+2,Asia/Nicosia
+1337332,CY,CY-02,Alassa,Άλασσα,210,3,Community,UTC+2,Asia/Nicosia
+1337333,CY,CY-06,Kiomourtzou,Κιόμουρτζου,67,3,Village,UTC+2,Asia/Famagusta
+1337334,CY,CY-05,Kelokedara,Κελοκέδαρα,215,3,Community,UTC+2,Asia/Nicosia
+1337335,CY,CY-03,Kellia,Κελλιά,380,3,Community,UTC+2,Asia/Nicosia
+1337336,CY,CY-02,Kellaki,Κελλάκι,282,3,Community,UTC+2,Asia/Nicosia
+1337337,CY,CY-05,Kedares,Κέδαρες,72,3,Community,UTC+2,Asia/Nicosia
+1337338,CY,CY-06,Ozankoey,Οζανκόι,1909,3,Village,UTC+2,Asia/Famagusta
+1337339,CY,CY-01,Katydata,Κατύδατα,152,3,Community,UTC+2,Asia/Nicosia
+1337340,CY,CY-01,Kato Zodeia,Κάτω Ζώδεια,882,4,locality,UTC+2,Asia/Nicosia
+1337342,CY,CY-04,Pyrga,Πυργά,417,4,locality,UTC+2,Asia/Famagusta
+1337343,CY,CY-01,Kato Pyrgos,Κάτω Πύργος,1094,3,Community,UTC+2,Asia/Nicosia
+1337344,CY,CY-02,Kato Polemidia,Κάτω Πολεμίδια,23174,3,Municipality,UTC+2,Asia/Nicosia
+1337345,CY,CY-02,Kato Platres,Κάτω Πλάτρες,146,3,Community,UTC+2,Asia/Nicosia
+1337346,CY,CY-01,Kato Flasou,Κάτω Φλάσου,300,3,locality,UTC+2,Asia/Nicosia
+1337347,CY,CY-02,Kato Mylos,Κάτω Μύλος,66,3,Community,UTC+2,Asia/Nicosia
+1337348,CY,CY-01,Kato Moni,Κάτω Μονή,309,3,Community,UTC+2,Asia/Nicosia
+1337349,CY,CY-03,Kato Lefkara,Κάτω Λεύκαρα,123,3,Community,UTC+2,Asia/Nicosia
+1337350,CY,CY-01,Kato Lakatameia,Κάτω Λακατάμεια,20900,2,locality,UTC+2,Asia/Nicosia
+1337351,CY,CY-01,Kato Koutrafas,Κάτω Κουτραφάς,64,3,Community,UTC+2,Asia/Nicosia
+1337352,CY,CY-01,Katokopia,Κατωκοπιά,817,3,Village,UTC+2,Asia/Nicosia
+1337354,CY,CY-03,Kato Drys,Κάτω Δρυς,119,3,Community,UTC+2,Asia/Nicosia
+1337355,CY,CY-06,Kato Dikomo,Κάτω Δίκωμο,3553,3,Village,UTC+2,Asia/Famagusta
+1337356,CY,CY-01,Kato Deftera,Κάτω Δευτερά,1706,3,Community,UTC+2,Asia/Nicosia
+1337357,CY,CY-05,Kato Arodes,Κάτω Αρόδες,46,3,Community,UTC+2,Asia/Nicosia
+1337359,CY,CY-02,Kato Amiantos,Κάτω Αμίαντος,229,3,locality,UTC+2,Asia/Nicosia
+1337360,CY,CY-05,Kato Akourdhalia,Κάτω Ακουρδάλια,65,4,locality,UTC+2,Asia/Nicosia
+1337361,CY,CY-05,Kathikas,Κάθηκας,413,3,Community,UTC+2,Asia/Nicosia
+1337362,CY,CY-01,Kataliontas,Καταλιόντας,19,3,Community,UTC+2,Asia/Nicosia
+1337363,CY,CY-06,Karpaseia,Καρπάσεια,188,3,Village,UTC+2,Asia/Famagusta
+1337364,CY,CY-06,Karmi,Κάρμι,354,3,Municipality,UTC+2,Asia/Famagusta
+1337365,CY,CY-01,Karavostasi,Καραβοστάσι,1333,3,Town,UTC+2,Asia/Nicosia
+1337366,CY,CY-06,Karavas,Καραβάς,4202,3,Municipality,UTC+2,Asia/Famagusta
+1337367,CY,CY-05,Karamoullides,Καραμούλληδες,40,3,Community,UTC+2,Asia/Nicosia
+1337368,CY,CY-06,Karakoumi,Καράκουμι,722,3,Village,UTC+2,Asia/Famagusta
+1337369,CY,CY-02,Kapileio,Καπηλειό,47,3,Community,UTC+2,Asia/Nicosia
+1337370,CY,CY-01,Kapedes,Καπέδες,566,3,Community,UTC+2,Asia/Nicosia
+1337371,CY,CY-04,Kantara,Καντάρα,21,3,Municipality,UTC+2,Asia/Famagusta
+1337372,CY,CY-05,Kannaviou,Κανναβιού,151,3,Community,UTC+2,Asia/Nicosia
+1337373,CY,CY-01,Kannavia,Καννάβια,175,3,Community,UTC+2,Asia/Nicosia
+1337374,CY,CY-01,Kanli,Κανλί,163,3,Village,UTC+2,Asia/Nicosia
+1337375,CY,CY-02,Kantou,Καντού,441,3,Community,UTC+2,Asia/Nicosia
+1337376,CY,CY-02,Kaminaria,Καμινάρια,97,3,Community,UTC+2,Asia/Nicosia
+1337377,CY,CY-06,Kampyli,Καμπυλή,175,3,Village,UTC+2,Asia/Famagusta
+1337378,CY,CY-01,Kampos,Κάμπος,445,3,Community,UTC+2,Asia/Nicosia
+1337379,CY,CY-01,Kampia,Καμπιά,436,3,Community,UTC+2,Asia/Nicosia
+1337380,CY,CY-01,Kampi,Καμπί,95,3,Community,UTC+2,Asia/Nicosia
+1337381,CY,CY-01,Kalyvakia,Καλυβάκια,187,3,Village,UTC+2,Asia/Nicosia
+1337382,CY,CY-04,Kalopsida,Καλοψίδα,566,3,Village,UTC+2,Asia/Famagusta
+1337383,CY,CY-01,Kalopanagiotis,Καλοπαναγιώτης,282,3,Community,UTC+2,Asia/Nicosia
+1337384,CY,CY-01,Kalo Chorio,Καπούτη,418,4,hamlet,UTC+2,Asia/Nicosia
+1337387,CY,CY-03,Kalo Chorio,Κάλο Χωριό,1534,3,Community,UTC+2,Asia/Nicosia
+1337388,CY,CY-02,Kalo Chorio,Καλό Χωριό,451,3,locality,UTC+2,Asia/Nicosia
+1337389,CY,CY-06,Kalograia,Καλογραία,471,3,Village,UTC+2,Asia/Famagusta
+1337390,CY,CY-05,Kallepia,Καλλέπεια,326,4,locality,UTC+2,Asia/Nicosia
+1337391,CY,CY-01,Kaliana,Καλιάνα,195,3,Community,UTC+2,Asia/Nicosia
+1337392,CY,CY-03,Kalavasos,Καλαβασός,706,3,Community,UTC+2,Asia/Nicosia
+1337393,CY,CY-01,Kakopetria,Κακοπετριά,1255,3,Community,UTC+2,Asia/Nicosia
+1337394,CY,CY-05,Kios,Κιος,204,4,locality,UTC+2,Asia/Nicosia
+1337395,CY,CY-05,Inia,Ίνεια,385,4,locality,UTC+2,Asia/Nicosia
+1337397,CY,CY-04,Gypsou,Γύψου,704,3,Village,UTC+2,Asia/Famagusta
+1337398,CY,CY-01,Gourri,Γούρρη,235,3,Community,UTC+2,Asia/Nicosia
+1337399,CY,CY-04,Goufes,Γούφες,194,3,Village,UTC+2,Asia/Famagusta
+1337400,CY,CY-05,Goudi,Γουδί,169,3,Community,UTC+2,Asia/Nicosia
+1337401,CY,CY-01,Kazivera,Καζιβερά,594,3,Village,UTC+2,Asia/Nicosia
+1337402,CY,CY-01,Kioneli,Κιόνελι,11671,3,Municipality,UTC+2,Asia/Nicosia
+1337403,CY,CY-04,Gastria,Γαστριά,366,3,Village,UTC+2,Asia/Famagusta
+1337404,CY,CY-04,Galinoporni,Γαληνόπορνη,464,3,Village,UTC+2,Asia/Famagusta
+1337405,CY,CY-01,Galini,Γαληνή,583,4,locality,UTC+2,Asia/Nicosia
+1337406,CY,CY-04,Galateia,Γαλάτεια,2306,3,Municipality,UTC+2,Asia/Famagusta
+1337407,CY,CY-05,Galataria,Γαλαταριά,128,3,Community,UTC+2,Asia/Nicosia
+1337408,CY,CY-01,Galata,Γαλάτα,648,3,Community,UTC+2,Asia/Nicosia
+1337409,CY,CY-04,Gaidouras,Γαϊδουράς,282,4,locality,UTC+2,Asia/Famagusta
+1337410,CY,CY-04,Famagusta,Αμμόχωστος,42526,2,Municipality,UTC+2,Asia/Famagusta
+1337411,CY,CY-01,Aglantzia,Αγλαντζιά,20772,3,Municipality,UTC+2,Asia/Nicosia
+1337412,CY,CY-01,Exo Metochi,Έξω Μετόχι,601,3,Village,UTC+2,Asia/Nicosia
+1337413,CY,CY-01,Evrychou,Ευρύχου,857,3,Community,UTC+2,Asia/Nicosia
+1337415,CY,CY-02,Avdimou,Αυδήμου,610,3,Community,UTC+2,Asia/Nicosia
+1337416,CY,CY-02,Erimi,Ερήμη,1493,3,Community,UTC+2,Asia/Nicosia
+1337417,CY,CY-01,Episkopeio,Επισκοπειό,533,3,Community,UTC+2,Asia/Nicosia
+1337418,CY,CY-05,Episkopi,Επισκοπή,2250,3,Community,UTC+2,Asia/Nicosia
+1337419,CY,CY-02,Episkopi,Επισκοπή,1612,4,locality,UTC+2,Asia/Nicosia
+1337420,CY,CY-01,Epicho,Επιχό,423,4,locality,UTC+2,Asia/Nicosia
+1337421,CY,CY-04,Eptakomi,Επτακώμη,853,3,Village,UTC+2,Asia/Famagusta
+1337422,CY,CY-02,Eptagoneia,Επταγώνεια,343,3,Community,UTC+2,Asia/Nicosia
+1337423,CY,CY-04,Egkomi,Έγκωμη,10393,4,locality,UTC+2,Asia/Famagusta
+1337424,CY,CY-05,Emba,Έμπα,4519,4,locality,UTC+2,Asia/Nicosia
+1337425,CY,CY-01,Agioi Iliofotoi,Άγιοι Ηλιόφωτοι,111,3,Community,UTC+2,Asia/Nicosia
+1337426,CY,CY-05,Eledio,Ελεδιώ,29,3,Community,UTC+2,Asia/Nicosia
+1337427,CY,CY-06,Elia,Ελιά,1299,3,Village,UTC+2,Asia/Famagusta
+1337428,CY,CY-01,Elia,Ελιά,437,4,locality,UTC+2,Asia/Nicosia
+1337431,CY,CY-02,Dymes,Δύμες,171,3,Community,UTC+2,Asia/Nicosia
+1337432,CY,CY-05,Dhrymou,Δρύμου,110,4,locality,UTC+2,Asia/Nicosia
+1337433,CY,CY-05,Dhrousha,Δρούσια,403,3,locality,UTC+2,Asia/Nicosia
+1337434,CY,CY-03,Dhromolaxia,Δρομολαξιά,5240,3,locality,UTC+2,Asia/Nicosia
+1337435,CY,CY-05,Drinia,Δρυνιά,191,4,locality,UTC+2,Asia/Nicosia
+1337436,CY,CY-02,Doros,Δωρός,120,3,Community,UTC+2,Asia/Nicosia
+1337437,CY,CY-02,Dora,Δωρά,192,3,Community,UTC+2,Asia/Nicosia
+1337438,CY,CY-06,Diorios,Διόριος,694,3,Village,UTC+2,Asia/Famagusta
+1337439,CY,CY-02,Dierona,Διερώνα,266,3,Community,UTC+2,Asia/Nicosia
+1337440,CY,CY-04,Deryneia,Δερύνεια,5695,3,Municipality,UTC+2,Asia/Famagusta
+1337441,CY,CY-01,Deneia,Δένεια,317,3,Community,UTC+2,Asia/Nicosia
+1337442,CY,CY-04,Davlos,Δαυλός,432,3,Village,UTC+2,Asia/Famagusta
+1337443,CY,CY-01,Dali,Δάλι,9218,3,Municipality,UTC+2,Asia/Nicosia
+1337444,CY,CY-03,Delikipos,Δελίκηπος,37,3,Community,UTC+2,Asia/Nicosia
+1337445,CY,CY-02,Tserkezoi,Τσερκέζοι,48,3,Community,UTC+2,Asia/Nicosia
+1337446,CY,CY-04,Kiados,Κιάδος,543,4,locality,UTC+2,Asia/Famagusta
+1337447,CY,CY-01,Tsakistra,Τσακίστρα,112,3,Community,UTC+2,Asia/Nicosia
+1337448,CY,CY-04,Bogazi,Bogázi,1023,3,Village,UTC+2,Asia/Famagusta
+1337449,CY,CY-01,Beikioi,Béïkioï,82,3,Village,UTC+2,Asia/Nicosia
+1337450,CY,CY-06,Belapais,Bélapaïs,781,3,Village,UTC+2,Asia/Famagusta
+1337451,CY,CY-04,Agios Georgios,Άγιος Γεώργιος,395,4,locality,UTC+2,Asia/Famagusta
+1337453,CY,CY-01,Agios Georgios Kafkallou,Άγιος Γεώργιος Καυκάλλου,29,3,Community,UTC+2,Asia/Nicosia
+1337454,CY,CY-02,Agios Georgios,Άγιος Γεώργιος,182,4,locality,UTC+2,Asia/Nicosia
+1337455,CY,CY-05,Agios Georgios,Άγιος Γεώργιος,158,4,locality,UTC+2,Asia/Nicosia
+1337456,CY,CY-01,Ayios Vasilios,Άγιος Βασίλειος,338,4,locality,UTC+2,Asia/Nicosia
+1337457,CY,CY-03,Agios Tychon,Άγιος Τύχων,2204,3,Community,UTC+2,Asia/Nicosia
+1337458,CY,CY-02,Agios Thomas,Άγιος Θωμάς,30,3,Community,UTC+2,Asia/Nicosia
+1337459,CY,CY-02,Agios Therapon,Άγιος Θεράπων,183,3,Community,UTC+2,Asia/Nicosia
+1337460,CY,CY-04,Agios Theodoros,Άγιος Θεόδωρος,665,3,Community,UTC+2,Asia/Famagusta
+1337463,CY,CY-02,Agios Theodoros,Άγιος Θεόδωρος,383,3,locality,UTC+2,Asia/Nicosia
+1337464,CY,CY-03,Agios Theodoros,Άγιος Θεόδωρος,777,3,locality,UTC+2,Asia/Nicosia
+1337465,CY,CY-04,Agios Symeon,Άγιος Συμεών,172,3,Village,UTC+2,Asia/Famagusta
+1337466,CY,CY-01,Agios Sozomenos,Άγιος Σωζόμενος,5,3,Community,UTC+2,Asia/Nicosia
+1337467,CY,CY-04,Agios Sergios,Άγιος Σέργιος,3863,3,Municipality,UTC+2,Asia/Famagusta
+1337469,CY,CY-02,Agios Pavlos,Άγιος Παύλος,156,3,Community,UTC+2,Asia/Nicosia
+1337470,CY,CY-04,Agios Nikolaos,Άγιος Νικόλαος,205,4,locality,UTC+2,Asia/Famagusta
+1337471,CY,CY-01,Agios Nikolaos,Άγιος Νικόλαος,63,4,locality,UTC+2,Asia/Nicosia
+1337472,CY,CY-05,Agios Nikolaos,Άγιος Νικόλαος,373,3,locality,UTC+2,Asia/Nicosia
+1337474,CY,CY-02,Agios Mamas,Άγιος Μάμας,112,3,Community,UTC+2,Asia/Nicosia
+1337475,CY,CY-02,Agios Konstantinos,Άγιος Κωνσταντίνος,169,3,Community,UTC+2,Asia/Nicosia
+1337476,CY,CY-04,Agios Chariton,Άγιος Χαρίτων,79,3,Village,UTC+2,Asia/Famagusta
+1337477,CY,CY-05,Agios Isidoros,Άγιος Ισίδωρος,12,3,Community,UTC+2,Asia/Nicosia
+1337478,CY,CY-01,Agios Ioannis,Άγιος Ιωάννης,474,3,Community,UTC+2,Asia/Nicosia
+1337479,CY,CY-02,Agios Ioannis,Άγιος Ιωάννης,481,3,locality,UTC+2,Asia/Nicosia
+1337480,CY,CY-05,Agios Ioannis,Άγιος Ιωάννης,301,3,locality,UTC+2,Asia/Nicosia
+1337481,CY,CY-04,Agios Iakovos,Άγιος Ιάκωβος,213,3,Village,UTC+2,Asia/Famagusta
+1337482,CY,CY-04,Agios Efstathios,Άγιος Ευστάθιος,57,3,Village,UTC+2,Asia/Famagusta
+1337483,CY,CY-06,Agios Ermolaos,Άγιος Ερμόλαος,352,3,Village,UTC+2,Asia/Famagusta
+1337484,CY,CY-01,Agios Epifanios,Άγιος Επιφάνιος,449,3,Community,UTC+2,Asia/Nicosia
+1337485,CY,CY-01,Agios Epifanios,Άγιος Επιφάνιος,296,3,locality,UTC+2,Asia/Nicosia
+1337486,CY,CY-06,Agios Epiktitos,Άγιος Επίκτητος,3215,3,Municipality,UTC+2,Asia/Famagusta
+1337488,CY,CY-01,Agios Dometios,Άγιος Δομέτιος,12502,3,Municipality,UTC+2,Asia/Nicosia
+1337489,CY,CY-02,Agios Dimitrios,Άγιος Δημήτριος,57,3,Community,UTC+2,Asia/Nicosia
+1337490,CY,CY-05,Agios Dimitrianos,Άγιος Δημητριανός,89,3,Community,UTC+2,Asia/Nicosia
+1337491,CY,CY-02,Agios Athanasios,Άγιος Αθανάσιος,8640,3,Municipality,UTC+2,Asia/Nicosia
+1337493,CY,CY-04,Agios Andronikos,Άγιος Ανδρόνικος,188,4,locality,UTC+2,Asia/Famagusta
+1337494,CY,CY-06,Agios Amvrosios,Άγιος Αμβρόσιος,1114,4,locality,UTC+2,Asia/Famagusta
+1337495,CY,CY-02,Agios Amvrosios,Άγιος Αμβρόσιος,304,3,Community,UTC+2,Asia/Nicosia
+1337496,CY,CY-03,Agioi Vavatsinias,Άγιοι Βαβατσινιάς,97,3,Community,UTC+2,Asia/Nicosia
+1337497,CY,CY-01,Agioi Trimithias,Άγιοι Τριμιθιάς,1193,3,Community,UTC+2,Asia/Nicosia
+1337498,CY,CY-01,Agia Varvara,Αγία Βαρβάρα,796,3,locality,UTC+2,Asia/Nicosia
+1337499,CY,CY-05,Agia Varvara,Αγία Βαρβάρα,172,3,Community,UTC+2,Asia/Nicosia
+1337500,CY,CY-04,Agia Trias,Αγία Τριάς,1943,3,Quarter,UTC+2,Asia/Famagusta
+1337501,CY,CY-02,Agia Fylaxis,Αγία Φύλα,7780,3,Quarter,UTC+2,Asia/Nicosia
+1337502,CY,CY-04,Ayia Napa,Αγία Νάπα,2746,4,town,UTC+2,Asia/Famagusta
+1337503,CY,CY-05,Agia Marinouda,Αγία Μαρινούδα,230,3,Community,UTC+2,Asia/Nicosia
+1337504,CY,CY-01,Agia Marina,Αγία Μαρίνα,591,3,Community,UTC+2,Asia/Nicosia
+1337505,CY,CY-05,Agia Marina,Αγία Μαρίνα,448,3,locality,UTC+2,Asia/Nicosia
+1337508,CY,CY-06,Agia Eirini,Αγία Ειρήνη,236,4,locality,UTC+2,Asia/Nicosia
+1337509,CY,CY-01,Agia Eirini,Αγία Ειρήνη,51,3,Community,UTC+2,Asia/Nicosia
+1337510,CY,CY-03,Agia Anna,Αγία Άννα,262,3,Community,UTC+2,Asia/Nicosia
+1337511,CY,CY-01,Agia,Αγιά,619,3,Village,UTC+2,Asia/Nicosia
+1337512,CY,CY-05,Axylou,Αξύλου,63,3,Community,UTC+2,Asia/Nicosia
+1337513,CY,CY-01,Avlona,Αυλώνα,367,3,Village,UTC+2,Asia/Nicosia
+1337514,CY,CY-04,Avgorou,Αυγόρου,4549,3,Community,UTC+2,Asia/Famagusta
+1337515,CY,CY-04,Avgolida,Αυγολίδα,105,3,Village,UTC+2,Asia/Famagusta
+1337516,CY,CY-03,Avdellero,Αβδελλερό,136,3,Community,UTC+2,Asia/Nicosia
+1337518,CY,CY-04,Achna,Άχνα,2043,3,Community,UTC+2,Asia/Famagusta
+1337519,CY,CY-03,Athienou,Αθηένου,4823,3,Municipality,UTC+2,Asia/Nicosia
+1337520,CY,CY-01,Astromeritis,Αστρομερίτης,2328,3,Community,UTC+2,Asia/Nicosia
+1337521,CY,CY-05,Asprogia,Ασπρογιά,56,3,Community,UTC+2,Asia/Nicosia
+1337522,CY,CY-06,Asomatos,Ασώματος,348,4,locality,UTC+2,Asia/Famagusta
+1337523,CY,CY-02,Asomatos,Ασώματος,403,3,Community,UTC+2,Asia/Nicosia
+1337524,CY,CY-01,Askas,Ασκάς,195,3,Community,UTC+2,Asia/Nicosia
+1337526,CY,CY-04,Askeia,Άσκεια,1676,4,locality,UTC+2,Asia/Famagusta
+1337527,CY,CY-02,Asgata,Ασγάτα,406,3,Community,UTC+2,Asia/Nicosia
+1337528,CY,CY-04,Artemi,Αρτέμι,124,4,locality,UTC+2,Asia/Famagusta
+1337529,CY,CY-03,Yigitler,Άρσος Λάρνακας,327,3,Village,UTC+2,Asia/Nicosia
+1337530,CY,CY-02,Arsos,Άρσος,466,3,Community,UTC+2,Asia/Nicosia
+1337531,CY,CY-04,Arnadi,Αρναδί,276,3,Village,UTC+2,Asia/Famagusta
+1337532,CY,CY-05,Armou,Άρμου,357,3,Community,UTC+2,Asia/Nicosia
+1337533,CY,CY-05,Arminou,Αρμίνου,29,3,Community,UTC+2,Asia/Nicosia
+1337534,CY,CY-02,Armenokhori,Αρμενοχώρι,174,4,locality,UTC+2,Asia/Nicosia
+1337535,CY,CY-01,Ergates,Εργάτες,1656,3,Community,UTC+2,Asia/Nicosia
+1337536,CY,CY-01,Argaki,Αργάκι,828,3,Village,UTC+2,Asia/Nicosia
+1337537,CY,CY-05,Argaka,Αργάκα,953,3,Community,UTC+2,Asia/Nicosia
+1337538,CY,CY-04,Ardana,Άρδανα,371,3,Village,UTC+2,Asia/Famagusta
+1337539,CY,CY-02,Arakapas,Αρακαπάς,304,3,Community,UTC+2,Asia/Nicosia
+1337540,CY,CY-03,Aradippou,Αραδίππου,18141,3,Municipality,UTC+2,Asia/Nicosia
+1337541,CY,CY-01,Arediou,Αρεδιού,1129,3,Community,UTC+2,Asia/Nicosia
+1337542,CY,CY-02,Apsiou,Αψιού,214,3,Community,UTC+2,Asia/Nicosia
+1337544,CY,CY-01,Apliki,Απλίκι,83,3,Community,UTC+2,Asia/Nicosia
+1337545,CY,CY-03,Aplanta,Απλάντα,23,3,Community,UTC+2,Asia/Nicosia
+1337546,CY,CY-04,Afanteia,Αφάντεια,604,3,Village,UTC+2,Asia/Famagusta
+1337547,CY,CY-02,Apesia,Απεσιά,342,3,Community,UTC+2,Asia/Nicosia
+1337548,CY,CY-02,Anogyra,Ανώγυρα,291,3,Community,UTC+2,Asia/Nicosia
+1337549,CY,CY-01,Angolemi,Αγγολέμι,185,3,Village,UTC+2,Asia/Nicosia
+1337550,CY,CY-03,Anglisides,Αγγλισίδες,898,3,Community,UTC+2,Asia/Nicosia
+1337551,CY,CY-04,Angastina,Αγγαστίνα,556,3,Village,UTC+2,Asia/Famagusta
+1337552,CY,CY-05,Androlikou,Ανδρολίκου,155,3,Community,UTC+2,Asia/Nicosia
+1337553,CY,CY-01,Anageia,Ανάγεια,1553,3,Community,UTC+2,Asia/Nicosia
+1337554,CY,CY-05,Anavargos,Αναβαργός,1369,3,Quarter,UTC+2,Asia/Nicosia
+1337555,CY,CY-05,Anarita,Αναρίτα,631,3,Community,UTC+2,Asia/Nicosia
+1337556,CY,CY-03,Anafotida,Αναφωτίδα,683,3,Community,UTC+2,Asia/Nicosia
+1337557,CY,CY-01,Analiontas,Αναλιόντας,313,3,Community,UTC+2,Asia/Nicosia
+1337558,CY,CY-05,Anadiou,Αναδιού,17,3,Community,UTC+2,Asia/Nicosia
+1337559,CY,CY-01,Ampelikou,Αμπελικού,320,3,Village,UTC+2,Asia/Nicosia
+1337560,CY,CY-05,Amargeti,Αμαργέτη,194,3,Community,UTC+2,Asia/Nicosia
+1337562,CY,CY-01,Alona,Άλωνα,134,3,Community,UTC+2,Asia/Nicosia
+1337563,CY,CY-04,Aloda,Αλόδα,55,3,Village,UTC+2,Asia/Famagusta
+1337564,CY,CY-01,Alithinou,Αληθινού,9,3,Community,UTC+2,Asia/Nicosia
+1337565,CY,CY-03,Alethriko,Αλεθρικό,827,3,Community,UTC+2,Asia/Nicosia
+1337566,CY,CY-02,Alektora,Αλέκτορα,80,3,Community,UTC+2,Asia/Nicosia
+1337567,CY,CY-03,Alaminos,Αλαμινός,307,3,Community,UTC+2,Asia/Nicosia
+1337568,CY,CY-01,Alampra,Αλάμπρα,1192,3,Community,UTC+2,Asia/Nicosia
+1337569,CY,CY-02,Akrounta,Ακρούντα,360,3,Community,UTC+2,Asia/Nicosia
+1337570,CY,CY-05,Akoursos,Ακουρσός,157,3,Community,UTC+2,Asia/Nicosia
+1337571,CY,CY-04,Acheritou,Αχερίτου,1721,3,Community,UTC+2,Asia/Famagusta
+1337572,CY,CY-05,Acheleia,Αχέλεια,119,3,Community,UTC+2,Asia/Nicosia
+1337573,CY,CY-02,Akapnou,Ακαπνού,34,3,Community,UTC+2,Asia/Nicosia
+1337574,CY,CY-04,Akanthou,Ακανθού,1483,3,Municipality,UTC+2,Asia/Famagusta
+1337575,CY,CY-01,Akaki,Ακάκι,2769,3,Community,UTC+2,Asia/Nicosia
+1337576,CY,CY-02,Agros,Αγρός,874,3,Community,UTC+2,Asia/Nicosia
+1337578,CY,CY-01,Agrokipia,Αγροκηπιά,450,3,Community,UTC+2,Asia/Nicosia
+1337579,CY,CY-02,Agridia,Αγρίδια,126,3,Community,UTC+2,Asia/Nicosia
+1337580,CY,CY-06,Agridaki,Αγριδάκι,173,3,Village,UTC+2,Asia/Famagusta
+1337581,CY,CY-06,Agirda,Αγίρδα,184,4,locality,UTC+2,Asia/Famagusta
+1337584,CY,CY-01,Meniko,Μένικο,1023,3,Community,UTC+2,Asia/Nicosia
+1337589,CY,CY-01,Agios Andreas,Άγιος Ανδρέας,5667,3,Quarter,UTC+2,Asia/Nicosia
+1337590,CY,CY-02,Omonoia,Ομόνοια,3733,3,Quarter,UTC+2,Asia/Nicosia
+1337591,CY,CY-02,Tsiflikoudia,Τσιφλικούδια,647,3,Quarter,UTC+2,Asia/Nicosia
+1337593,CY,CY-02,Apostolos Andreas,Απόστολος Ανδρέας,9563,3,Quarter,UTC+2,Asia/Nicosia
+1337594,CY,CY-02,Apostoloi Petros kai Pavlos,Απόστολοι Πέτρος και Παύλος,10256,3,Quarter,UTC+2,Asia/Nicosia
+1337596,CY,CY-02,Agia Napa,Αγία Νάπα,2622,3,Municipality,UTC+2,Asia/Nicosia
+1337597,CY,CY-02,Agios Antonios,Άγιος Αντώνιος,2925,3,Quarter,UTC+2,Asia/Nicosia
+1337599,CY,CY-02,Arnaoutogeitonia,Αρναουτογειτονιά,940,3,PPL,UTC+2,Asia/Nicosia
+1337600,CY,CY-02,Katholiki,Καθολική,5046,3,Quarter,UTC+2,Asia/Nicosia
+1337601,CY,CY-02,Saint Paraskevi,Αγία Παρασκευή,1906,3,PPL,UTC+2,Asia/Nicosia
+1337602,CY,CY-02,Ayios Athanasios (quarter),Άγιος Αθανάσιος,6985,3,locality,UTC+2,Asia/Nicosia
+1337603,CY,CY-02,Ayios Georgios Fragkoudi,Άγιος Γεώργιος Φραγκούδη,948,3,locality,UTC+2,Asia/Nicosia
+1337604,CY,CY-02,Ayios Stylianos,Άγιος Στυλιανός,2685,3,PPL,UTC+2,Asia/Nicosia
+1337605,CY,CY-02,Apostle Lyke,Απόστολος Λουκάς,1650,3,locality,UTC+2,Asia/Nicosia
+1337606,CY,CY-02,Germasogeia River,Ποταμός Γερμασόγειας,4061,3,locality,UTC+2,Asia/Nicosia
+1337608,CY,CY-02,Apostle Barnabas,Απόστολος Βαρνάβας,3132,4,Town,UTC+2,Asia/Nicosia
+1337609,CY,CY-02,Archangel Michael,Αρχάγγελος Μιχαήλ,2642,3,locality,UTC+2,Asia/Nicosia
+1337610,CY,CY-02,Makarios C,Μακάριος Γ΄,4854,4,Town,UTC+2,Asia/Nicosia
+1337611,CY,CY-02,Panagia Evangelistria (Polemidhia),Παναγία Ευαγγελίστρια,3696,3,Quarter,UTC+2,Asia/Nicosia
+1337612,CY,CY-05,Geroskipou,Δήμος Γεροσκήπου,5697,3,Municipality,UTC+2,Asia/Nicosia
+1337613,CY,CY-03,Larnaca Municipality,Δήμος Λάρνακας,12482,3,locality,UTC+2,Asia/Nicosia
+1337614,CY,CY-03,Dromolaxia-Meneou Municipality,Δήμος Δρομολαξιάς-Μενεού,600,3,locality,UTC+2,Asia/Nicosia
+1337615,CY,CY-04,Agios Georgios,Άγιος Γεώργιος,683,4,Town,UTC+2,Asia/Famagusta
+1337616,CY,CY-04,Stavros,Σταυρός,1777,3,Quarter,UTC+2,Asia/Famagusta
+1337617,CY,CY-04,Agia Zoni,Αγία Ζώνη,2732,3,Quarter,UTC+2,Asia/Famagusta
+1337619,CY,CY-04,Akropolis,Ακρόπολις,1263,3,locality,UTC+2,Asia/Famagusta
+1337620,CY,CY-04,Chrysospiliotissa,Χρυσοσπηλιώτισσα,1220,4,Town,UTC+2,Asia/Famagusta
+1337622,CY,CY-04,Agios Nikolaos,Άγιος Νικόλαος,1100,3,locality,UTC+2,Asia/Famagusta
+1337623,CY,CY-04,Agios Loukas,Άγιος Λουκάς,388,3,locality,UTC+2,Asia/Famagusta
+1337632,CY,CY-06,Agia Paraskevi,Αγία Παρασκευή,15024,3,Quarter,UTC+2,Asia/Nicosia
+1337637,CY,CY-06,Prodromos,Πρόδρομος,89,3,Community,UTC+2,Asia/Nicosia
+1337639,CY,CY-01,Agios Georgios,Άγιος Γεώργιος,9274,3,locality,UTC+2,Asia/Nicosia
+1337640,CY,CY-01,Agios Pavlos,Άγιος Παύλος,2858,3,locality,UTC+2,Asia/Nicosia
+1337641,CY,CY-01,Agioi Konstantinos kai Eleni,Άγιοι Κωνσταντίνος και Ελένη,3658,3,Quarter,UTC+2,Asia/Nicosia
+1337642,CY,CY-01,Panagia Evangelistria,Παναγία Ευαγγελίστρια,6360,3,locality,UTC+2,Asia/Nicosia
+1337643,CY,CY-01,Agia Paraskevi,Αγία Παρασκευή,11771,3,PPL,UTC+2,Asia/Nicosia
+1337644,CY,CY-01,Agios Nikolaos,Άγιος Νικόλαος,3752,3,PPL,UTC+2,Asia/Nicosia
+1337646,CY,CY-01,Archangelos - Anthoupoli,Αρχάγγελος-Ανθούπολη,12048,3,Quarter,UTC+2,Asia/Nicosia
+1337647,CY,CY-01,Agios Georgios,Άγιος Γεώργιος,8914,3,locality,UTC+2,Asia/Nicosia
+1337648,CY,CY-01,Agios Eleftherios,Άγιος Ελευθέριος,2442,3,Quarter,UTC+2,Asia/Nicosia
+1337649,CY,CY-01,Agios Vasileios,Άγιος Βασίλειος,18665,3,Quarter,UTC+2,Asia/Nicosia
+1337650,CY,CY-01,Agios Dimitrios,Άγιος Δημήτριος,10284,3,PPL,UTC+2,Asia/Nicosia
+1337651,CY,CY-01,Apostolos Varnavas kai Agios Makarios,Απόστολος Βαρνάβας και Άγιος Μακάριος,12292,3,Quarter,UTC+2,Asia/Nicosia
+1337652,CY,CY-01,Ethnomartyras Kyprianos,Εθνομάρτυρας Κυπριανός,1886,3,Quarter,UTC+2,Asia/Nicosia
+1337653,CY,CY-01,Stavros,Σταυρός,1508,3,locality,UTC+2,Asia/Nicosia
+1337654,CY,CY-01,Chryseleousa,Χρυσελεούσα,16324,3,Quarter,UTC+2,Asia/Nicosia
+1337656,CY,CY-01,Ayios Antonios,Άγιος Αντώνιος,1531,3,PPL,UTC+2,Asia/Nicosia
+1337657,CY,CY-01,Agios Ioannis,Άγιος Ιωάννης,668,3,locality,UTC+2,Asia/Nicosia
+1337658,CY,CY-01,Agios Kassianos,Άγιος Κασσιανός,257,3,Quarter,UTC+2,Asia/Nicosia
+1337659,CY,CY-01,Agios Savvas,Άγιος Σάββας,589,3,Quarter,UTC+2,Asia/Nicosia
+1337660,CY,CY-05,Ayia Marina Kelokedharon,Αγία Μαρίνα Κελοκεδάρων,170,4,locality,UTC+2,Asia/Nicosia
+1337661,CY,CY-05,Tsada - Tremithousa - Tala (Borders),Tsada - Tremithousa - Tala (Borders),\N,2,locality,UTC+2,Europe/Athens
+1337662,CY,CY-05,Paphos Municipality,Δήμος Πάφου,7394,3,locality,UTC+2,Asia/Nicosia
+1337663,CY,CY-05,Ayios Theodoros,Άγιος Θεόδωρος,11030,3,locality,UTC+2,Asia/Nicosia
+1337664,CY,CY-05,Polis,Πόλη Χρυσοχούς,1005,3,locality,UTC+2,Asia/Nicosia
+1337665,CY,CY-05,Ayios Pavlos,Άγιος Παύλος,5774,3,locality,UTC+2,Asia/Nicosia
+1337666,CY,CY-03,Arsos,Άρσος,349,4,locality,UTC+2,Asia/Nicosia
+1337667,CY,CY-03,Agioi Anargyroi I,Άγιοι Ανάργυροι Ι,1204,3,Quarter,UTC+2,Asia/Nicosia
+1337668,CY,CY-03,Agioi Anargyroi II,Άγιοι Ανάργυροι ΙΙ,1281,3,Quarter,UTC+2,Asia/Nicosia
+1337670,CY,CY-03,Agios Fanourios,Άγιος Φανούριος,8854,3,Quarter,UTC+2,Asia/Nicosia
+1337671,CY,CY-03,Apostolos Loukas,Απόστολος Λουκάς,7143,3,Quarter,UTC+2,Asia/Nicosia
+1337673,CY,CY-03,Vlachos,Βλάχος,3217,3,Quarter,UTC+2,Asia/Nicosia
+1337674,CY,CY-03,Kamares,Καμάρες,519,3,Quarter,UTC+2,Asia/Nicosia
+1337675,CY,CY-03,Kokkines,Κόκκινες,1495,3,Quarter,UTC+2,Asia/Nicosia
+1337676,CY,CY-03,Sotiros,Σωτήρος,13332,3,Quarter,UTC+2,Asia/Nicosia
+1337678,CY,CY-03,Chrysopolitissa,Χρυσοπολίτισσα,7938,3,Quarter,UTC+2,Asia/Nicosia

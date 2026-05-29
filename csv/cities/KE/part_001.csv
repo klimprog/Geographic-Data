@@ -1,0 +1,2542 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+2772515,KE,KE-28,Miritini,Miritini,63,3,Locality,UTC+3,Africa/Nairobi
+2772516,KE,KE-18,Sombe,Sombe,239,3,Locality,UTC+3,Africa/Nairobi
+2772518,KE,KE-39,Zare,Zare,65,3,Locality,UTC+3,Africa/Nairobi
+2772519,KE,KE-22,Zaikone,Zaikone,170,3,Locality,UTC+3,Africa/Nairobi
+2772520,KE,KE-16,Zacharia,Zacharia,879,3,Locality,UTC+3,Africa/Nairobi
+2772521,KE,KE-26,Yururu,Yururu,40,3,Locality,UTC+3,Africa/Nairobi
+2772523,KE,KE-38,Yimbo,Yimbo,1583,3,Commune,UTC+3,Africa/Nairobi
+2772524,KE,KE-40,Yedi,Yedi,129,3,Locality,UTC+3,Africa/Nairobi
+2772530,KE,KE-13,Yamogo,Yamogo,368,3,Locality,UTC+3,Africa/Nairobi
+2772531,KE,KE-22,Yamalwa,Yamalwa,2794,3,Commune,UTC+3,Africa/Nairobi
+2772533,KE,KE-38,Yala,Yala,3237,3,Urban Center,UTC+3,Africa/Nairobi
+2772534,KE,KE-40,Yaka,Yaka,65,3,Locality,UTC+3,Africa/Nairobi
+2772535,KE,KE-02,Yaganek,Yaganek,35,3,Locality,UTC+3,Africa/Nairobi
+2772537,KE,KE-39,Wundanyi,Wundanyi,8310,3,Urban Center,UTC+3,Africa/Nairobi
+2772538,KE,KE-39,Wumari,Wote,1065,3,Commune,UTC+3,Africa/Nairobi
+2772539,KE,KE-23,Wote,Wote,19725,2,Urban Center,UTC+3,Africa/Nairobi
+2772542,KE,KE-21,Witu,Witu,5380,3,Locality,UTC+3,Africa/Nairobi
+2772545,KE,KE-18,Wikililye,Wikililye,58,3,Locality,UTC+3,Africa/Nairobi
+2772546,KE,KE-08,Wiga,Wiga,1557,3,Commune,UTC+3,Africa/Nairobi
+2772549,KE,KE-22,Wetaa,Wetaa,512,3,Commune,UTC+3,Africa/Nairobi
+2772550,KE,KE-39,Wesu,Wesu,314,3,Locality,UTC+3,Africa/Nairobi
+2772551,KE,KE-39,Weruga,Weruga,268,4,village,UTC+3,Africa/Nairobi
+2772552,KE,KE-41,Weru,Weru,31,3,Locality,UTC+3,Africa/Nairobi
+2772558,KE,KE-07,Welaluit Dardesa,Dardesa,688,3,Locality,UTC+3,Africa/Nairobi
+2772559,KE,KE-29,Weithaga,Webuye,62,3,Locality,UTC+3,Africa/Nairobi
+2772560,KE,KE-03,Webuye,Webuye,42642,3,Urban Center,UTC+3,Africa/Nairobi
+2772562,KE,KE-08,God Keyo,God Keyo,299,3,Locality,UTC+3,Africa/Nairobi
+2772564,KE,KE-38,Wayaga,Wayaga,547,3,Locality,UTC+3,Africa/Nairobi
+2772570,KE,KE-14,Watamu,Watamu,27857,3,Urban Center,UTC+3,Africa/Nairobi
+2772577,KE,KE-23,Wanzauni,Wanzauni,320,3,Locality,UTC+3,Africa/Nairobi
+2772578,KE,KE-13,Wanyaga,Wanyaga,67,3,Locality,UTC+3,Africa/Nairobi
+2772585,KE,KE-15,Wanguru,Wanguru,51722,3,Urban Center,UTC+3,Africa/Nairobi
+2772586,KE,KE-45,Wangulu,Wangulu,123,3,Locality,UTC+3,Africa/Nairobi
+2772592,KE,KE-08,Wangapala,Wangapala,1115,3,Commune,UTC+3,Africa/Nairobi
+2772600,KE,KE-22,Wamunyu,Wamunyu,2190,3,Urban Center,UTC+3,Africa/Nairobi
+2772606,KE,KE-37,Wamba,Wamba,4580,3,Urban Center,UTC+3,Africa/Nairobi
+2772607,KE,KE-36,Wamagana,Wamagana,336,3,Locality,UTC+3,Africa/Nairobi
+2772610,KE,KE-03,Walanga,Walanga,151,3,Locality,UTC+3,Africa/Nairobi
+2772612,KE,KE-46,Wajir,Wajir,90116,2,Urban Center,UTC+3,Africa/Nairobi
+2772613,KE,KE-30,Waithaka,Waithaka,43,3,Locality,UTC+3,Africa/Nairobi
+2772618,KE,KE-08,Wagwe,Wagwe,2912,3,Commune,UTC+3,Africa/Nairobi
+2772619,KE,KE-13,Waguthu,Waguthu,243,3,Locality,UTC+3,Africa/Nairobi
+2772620,KE,KE-38,Wagusu,Wagusu,4638,3,Commune,UTC+3,Africa/Nairobi
+2772621,KE,KE-08,Wangajo,Wangajo,995,3,Commune,UTC+3,Africa/Nairobi
+2772624,KE,KE-08,Wachara,Wachara,24,3,Locality,UTC+3,Africa/Nairobi
+2772626,KE,KE-13,Wabuga,Wabuga,35,3,Locality,UTC+3,Africa/Nairobi
+2772629,KE,KE-23,Vulueni,Vulueni,472,3,Locality,UTC+3,Africa/Nairobi
+2772631,KE,KE-18,Voo,Voi,1738,3,Locality,UTC+3,Africa/Nairobi
+2772632,KE,KE-39,Voi,Voi,53353,3,Urban Center,UTC+3,Africa/Nairobi
+2772635,KE,KE-19,Vitsangalaweni,Vitsangalaweni,28967,3,City,UTC+3,Africa/Nairobi
+2772636,KE,KE-14,Vitengeni,Vitengeni,375,3,Locality,UTC+3,Africa/Nairobi
+2772638,KE,KE-14,Vipingo,Vipingo,12183,3,Urban Center,UTC+3,Africa/Nairobi
+2772641,KE,KE-19,Vikinduni,Vihiga,3430,3,Commune,UTC+3,Africa/Nairobi
+2772642,KE,KE-11,Vihiga,Vihiga,108,3,Locality,UTC+3,Africa/Nairobi
+2772643,KE,KE-45,Vihiga,Vihiga,119644,3,town,UTC+3,Africa/Nairobi
+2772645,KE,KE-45,Vigina,Vigina,4608,3,Commune,UTC+3,Africa/Nairobi
+2772646,KE,KE-14,Vifanjoni,Vifanjoni,5019,3,Commune,UTC+3,Africa/Nairobi
+2772649,KE,KE-14,Uyombo,Uyombo,24132,3,City,UTC+3,Africa/Nairobi
+2772650,KE,KE-38,Uyoma,Uyoma,40,3,Locality,UTC+3,Africa/Nairobi
+2772653,KE,KE-23,Uvete,Uvete,5240,3,Commune,UTC+3,Africa/Nairobi
+2772654,KE,KE-23,Utuneni,Utuneni,2829,3,Locality,UTC+3,Africa/Nairobi
+2772658,KE,KE-23,Utangwa,Utangwa,78,3,Locality,UTC+3,Africa/Nairobi
+2772659,KE,KE-28,Utange,Utange,1348,3,Locality,UTC+3,Africa/Nairobi
+2772661,KE,KE-23,Utaati,Utaati,38,3,Locality,UTC+3,Africa/Nairobi
+2772662,KE,KE-18,Usueni,Usueni,1399,3,Commune,UTC+3,Africa/Nairobi
+2772663,KE,KE-38,Usingo,Usingo,418,3,Locality,UTC+3,Africa/Nairobi
+2772665,KE,KE-14,Ushingo,Ushingo,117,3,Locality,UTC+3,Africa/Nairobi
+2772666,KE,KE-08,Usao,Usao,185,3,Locality,UTC+3,Africa/Nairobi
+2772667,KE,KE-13,Urumathi,Urumathi,353,3,Locality,UTC+3,Africa/Nairobi
+2772668,KE,KE-38,Uriri,Uriri,19,3,Locality,UTC+3,Africa/Nairobi
+2772669,KE,KE-27,Uriri,Uriri,4951,3,Commune,UTC+3,Africa/Nairobi
+2772672,KE,KE-29,Gatara,Gatara,1321,3,Commune,UTC+3,Africa/Nairobi
+2772675,KE,KE-08,Unga,Unga,1285,3,Commune,UTC+3,Africa/Nairobi
+2772677,KE,KE-29,Umbui,Umbui,350,3,Locality,UTC+3,Africa/Nairobi
+2772679,KE,KE-38,Umala,Umala,248,3,Locality,UTC+3,Africa/Nairobi
+2772680,KE,KE-38,Ulumbi,Ulumbi,1542,3,Commune,UTC+3,Africa/Nairobi
+2772682,KE,KE-23,Ulu,Ulu,122,3,Locality,UTC+3,Africa/Nairobi
+2772683,KE,KE-27,Ulro,Ulro,271,3,Locality,UTC+3,Africa/Nairobi
+2772685,KE,KE-19,Ukunda,Ukunda,77686,3,Urban Center,UTC+3,Africa/Nairobi
+2772689,KE,KE-38,Uholo,Buholo,905,3,Commune,UTC+3,Africa/Nairobi
+2772690,KE,KE-38,Ogunja,Ogunja,7060,3,locality,UTC+3,Africa/Nairobi
+2772693,KE,KE-22,Uamaini,Uamaini,88,3,Locality,UTC+3,Africa/Nairobi
+2772694,KE,KE-23,Uaani,Uaani,2544,3,Locality,UTC+3,Africa/Nairobi
+2772695,KE,KE-13,Twin Rivers Estate,Twin Rivers Estate,52,3,Locality,UTC+3,Africa/Nairobi
+2772697,KE,KE-23,Tututha,Tututha,43,3,Locality,UTC+3,Africa/Nairobi
+2772701,KE,KE-44,Turbo,Turbo,2559,3,Urban Center,UTC+3,Africa/Nairobi
+2772703,KE,KE-35,Turasha,Turasha,28,3,Locality,UTC+3,Africa/Nairobi
+2772706,KE,KE-40,Tuni,Tuni,45,3,Locality,UTC+3,Africa/Nairobi
+2772707,KE,KE-41,Tungu,Tungu,14,3,Locality,UTC+3,Africa/Nairobi
+2772709,KE,KE-44,Tumeiyo,Tumeiyo,1192,3,Commune,UTC+3,Africa/Nairobi
+2772713,KE,KE-32,Tulon,Tulon,658,3,Locality,UTC+3,Africa/Nairobi
+2772714,KE,KE-18,Tulia,Tulia,523,3,Locality,UTC+3,Africa/Nairobi
+2772715,KE,KE-35,Tulaga,Tulaga,121,4,hamlet,UTC+3,Africa/Nairobi
+2772716,KE,KE-40,Tula,Tula,135,3,Locality,UTC+3,Africa/Nairobi
+2772722,KE,KE-14,Tsangalaweni,Tsangalaweni,389,3,Locality,UTC+3,Africa/Nairobi
+2772724,KE,KE-01,Torongo,Torongo,32,3,Locality,UTC+3,Africa/Nairobi
+2772725,KE,KE-26,Tuuru,Tuuru,48,3,Locality,UTC+3,Africa/Nairobi
+2772726,KE,KE-13,Toritu,Toritu,56,3,Locality,UTC+3,Africa/Nairobi
+2772732,KE,KE-33,Tokitok,Tokitok,227,3,Locality,UTC+3,Africa/Nairobi
+2772735,KE,KE-18,Tiva,Tiva,130,3,Locality,UTC+3,Africa/Nairobi
+2772736,KE,KE-40,Titila,Titila,709,3,Commune,UTC+3,Africa/Nairobi
+2772741,KE,KE-13,Tinganga,Tinganga,6059,3,locality,UTC+3,Africa/Nairobi
+2772742,KE,KE-16,Tinga,Tinga,153,3,Locality,UTC+3,Africa/Nairobi
+2772745,KE,KE-01,Timboiwo,Timboiwo,180,3,Locality,UTC+3,Africa/Nairobi
+2772747,KE,KE-26,Timau,Timau,10571,3,Urban Center,UTC+3,Africa/Nairobi
+2772748,KE,KE-32,Tilolwa,Tilolwa,641,3,Locality,UTC+3,Africa/Nairobi
+2772753,KE,KE-13,Tiekunu,Tiekunu,12864,3,City,UTC+3,Africa/Nairobi
+2772757,KE,KE-20,Thuthuriki,Thuthuriki,1051,3,Commune,UTC+3,Africa/Nairobi
+2772758,KE,KE-17,Thur Gem,Thur Gem,36,3,Locality,UTC+3,Africa/Nairobi
+2772759,KE,KE-17,Thurdibuoro,Thurdibuoro,38,3,Locality,UTC+3,Africa/Nairobi
+2772764,KE,KE-26,Thumbereria,Thumbereria,32,3,Locality,UTC+3,Africa/Nairobi
+2772770,KE,KE-23,Thomeandu,Thomeandu,385,3,Locality,UTC+3,Africa/Nairobi
+2772771,KE,KE-41,Thuita,Thuita,154,3,Locality,UTC+3,Africa/Nairobi
+2772774,KE,KE-41,Nthirani,Nthirani,92,4,hamlet,UTC+3,Africa/Nairobi
+2772775,KE,KE-22,Thinu,Thinu,120,3,Locality,UTC+3,Africa/Nairobi
+2772779,KE,KE-29,Thika Valley,Thika,159,3,Locality,UTC+3,Africa/Nairobi
+2772780,KE,KE-30,Thika,Thika,143379,3,Urban Center,UTC+3,Africa/Nairobi
+2772786,KE,KE-26,Theera,Theera,974,3,Locality,UTC+3,Africa/Nairobi
+2772792,KE,KE-29,Thanju,Thanju,71,3,Locality,UTC+3,Africa/Nairobi
+2772793,KE,KE-23,Thangi,Thangi,156,3,Locality,UTC+3,Africa/Nairobi
+2772796,KE,KE-36,Thangathe,Thangathe,2014,3,Commune,UTC+3,Africa/Nairobi
+2772798,KE,KE-29,Thamara,Thamara,1591,3,Commune,UTC+3,Africa/Nairobi
+2772800,KE,KE-15,Thaita,Thaita,1543,3,Locality,UTC+3,Africa/Nairobi
+2772801,KE,KE-36,Zaina,Zaina,72,3,Locality,UTC+3,Africa/Nairobi
+2772802,KE,KE-26,Thaie,Thaie,486,3,Locality,UTC+3,Africa/Nairobi
+2772803,KE,KE-29,Thagare,Thagare,445,3,Locality,UTC+3,Africa/Nairobi
+2772804,KE,KE-29,Thaara,Thaara,220,3,Locality,UTC+3,Africa/Nairobi
+2772806,KE,KE-36,Tetu,Tetu,860,3,Locality,UTC+3,Africa/Nairobi
+2772807,KE,KE-40,Teso,Teso,138,3,Locality,UTC+3,Africa/Nairobi
+2772810,KE,KE-03,Teremi,Teremi,2840,3,Commune,UTC+3,Africa/Nairobi
+2772812,KE,KE-01,Tenges,Tenges,1617,3,Locality,UTC+3,Africa/Nairobi
+2772818,KE,KE-23,Tawa,Taveta,214,3,Locality,UTC+3,Africa/Nairobi
+2772819,KE,KE-39,Taveta,Taveta,17698,3,Urban Center,UTC+3,Africa/Nairobi
+2772820,KE,KE-19,Taru,Taru,341,3,Commune,UTC+3,Africa/Nairobi
+2772821,KE,KE-47,Tartar Mission,Tarbaj,2822,3,Commune,UTC+3,Africa/Nairobi
+2772822,KE,KE-46,Tarbaj,Tarbaj,3146,3,Urban Center,UTC+3,Africa/Nairobi
+2772823,KE,KE-27,Taranganya,Taranganya,177,3,Locality,UTC+3,Africa/Nairobi
+2772824,KE,KE-27,Taragai,Taragai,98,3,Locality,UTC+3,Africa/Nairobi
+2772825,KE,KE-01,Tangulbei,Tangulbei,300,3,Locality,UTC+3,Africa/Nairobi
+2772826,KE,KE-32,Tangaratwet,Tangaratwet,714,4,village,UTC+3,Africa/Nairobi
+2772827,KE,KE-20,Tandare,Tandare,10387,3,Commune,UTC+3,Africa/Nairobi
+2772833,KE,KE-31,Taloa,Taloa,1228,3,Commune,UTC+3,Africa/Nairobi
+2772836,KE,KE-01,Talai,Tala,1158,3,Locality,UTC+3,Africa/Nairobi
+2772837,KE,KE-22,Tala,Tekwa Ruins,11446,3,Urban Center,UTC+3,Africa/Nairobi
+2772838,KE,KE-21,Takwa Milinga,Tekwa Ruins,316,3,Locality,UTC+3,Africa/Nairobi
+2772839,KE,KE-14,Takaungu,Takaungu,10760,3,Locality,UTC+3,Africa/Nairobi
+2772841,KE,KE-32,Tobolwa,Tobolwa,82,3,Locality,UTC+3,Africa/Nairobi
+2772842,KE,KE-26,Tabata,Tabaka,197,3,Locality,UTC+3,Africa/Nairobi
+2772843,KE,KE-16,Tabaka,Tabaka,2910,3,Urban Center,UTC+3,Africa/Nairobi
+2772849,KE,KE-23,Syengoni,Syengoni,205,3,Locality,UTC+3,Africa/Nairobi
+2772852,KE,KE-12,Sunny Brook,Sunny Brook,204,3,Locality,UTC+3,Africa/Nairobi
+2772854,KE,KE-27,Suna,Suna,190,3,Locality,UTC+3,Africa/Nairobi
+2772856,KE,KE-40,Sumai,Sultan Hamud,143,3,Locality,UTC+3,Africa/Nairobi
+2772857,KE,KE-23,Sultan Hamud,Sultan Hamud,8718,3,Urban Center,UTC+3,Africa/Nairobi
+2772859,KE,KE-31,Subukia,Subukia,10344,3,Urban Center,UTC+3,Africa/Nairobi
+2772863,KE,KE-35,South Kinangop,South Kinangop,3929,4,village,UTC+3,Africa/Nairobi
+2772866,KE,KE-02,Sotik,Chamagel,4194,3,Urban Center,UTC+3,Africa/Nairobi
+2772869,KE,KE-12,Sosiot,Sosiot,62,3,Locality,UTC+3,Africa/Nairobi
+2772870,KE,KE-12,Sorget,Sorget,85,3,Locality,UTC+3,Africa/Nairobi
+2772871,KE,KE-31,Songoni,Songoni,299,3,Locality,UTC+3,Africa/Nairobi
+2772876,KE,KE-12,Sondu,Sondu,6869,3,Urban Center,UTC+3,Africa/Nairobi
+2772878,KE,\N,Sololo,Sololo,7683,3,Urban Center,UTC+3,Africa/Nairobi
+2772879,KE,KE-02,Solyot,Solyot,2792,3,Commune,UTC+3,Africa/Nairobi
+2772885,KE,KE-18,Skwata,Skwata,974,3,Locality,UTC+3,Africa/Nairobi
+2772886,KE,KE-21,Siyu,Siyu,115,3,Locality,UTC+3,Africa/Nairobi
+2772890,KE,KE-12,Sitotwet,Sitotwet,945,3,Commune,UTC+3,Africa/Nairobi
+2772891,KE,KE-03,Sidikho,Sidikho,1828,4,village,UTC+3,Africa/Nairobi
+2772894,KE,KE-04,Sisenye,Sisenye,121,3,Locality,UTC+3,Africa/Nairobi
+2772895,KE,KE-01,Sirwa,Sirwa,293,3,Locality,UTC+3,Africa/Nairobi
+2772896,KE,KE-32,Sirono,Sirono,72,3,Locality,UTC+3,Africa/Nairobi
+2772897,KE,KE-34,Sironga,Sirisia,29,3,Locality,UTC+3,Africa/Nairobi
+2772898,KE,KE-03,Sirisia,Sirisia,2096,3,Urban Center,UTC+3,Africa/Nairobi
+2772900,KE,KE-04,Sirisia,Sirisia,944,3,Locality,UTC+3,Africa/Nairobi
+2772901,KE,KE-17,Siriba,Siriba,65,3,Locality,UTC+3,Africa/Nairobi
+2772902,KE,KE-03,Sirende,Sirende,2667,3,Commune,UTC+3,Africa/Nairobi
+2772903,KE,KE-38,Saranga,Saranga,42,3,Locality,UTC+3,Africa/Nairobi
+2772904,KE,KE-03,Sipala,Sipala,41,3,Locality,UTC+3,Africa/Nairobi
+2772910,KE,KE-14,Sinoia,Sinoia,2920,3,Commune,UTC+3,Africa/Nairobi
+2772912,KE,KE-12,Singaronik,Singore,184,3,Locality,UTC+3,Africa/Nairobi
+2772914,KE,KE-08,Sindo,Sindo,10286,3,Urban Center,UTC+3,Africa/Nairobi
+2772919,KE,KE-10,Simba,Simba,2504,4,town,UTC+3,Africa/Nairobi
+2772934,KE,KE-11,Sigalagala,Sigalagala,118,3,Locality,UTC+3,Africa/Nairobi
+2772940,KE,KE-03,Sibembe,Sibembe,142,3,Locality,UTC+3,Africa/Nairobi
+2772941,KE,KE-45,Sibala,Sibala,161,3,Locality,UTC+3,Africa/Nairobi
+2772942,KE,KE-17,Sianda,Sianda,4110,3,Commune,UTC+3,Africa/Nairobi
+2772944,KE,KE-06,Siakago,Siakago,4315,3,Urban Center,UTC+3,Africa/Nairobi
+2772945,KE,KE-11,Shiveye,Shiveye,106,4,hamlet,UTC+3,Africa/Nairobi
+2772946,KE,KE-11,Shivakala,Shivakala,171,4,hamlet,UTC+3,Africa/Nairobi
+2772947,KE,KE-11,Shitsitswi,Shitsitswi,186,3,Locality,UTC+3,Africa/Nairobi
+2772948,KE,KE-11,Shirugu,Shirugu,126,3,Locality,UTC+3,Africa/Nairobi
+2772949,KE,KE-11,Shirotsa,Shirotsa,276,3,Locality,UTC+3,Africa/Nairobi
+2772955,KE,KE-11,Shinyalu,Shinyalu,459,3,Locality,UTC+3,Africa/Nairobi
+2772959,KE,KE-19,Shimoni,Shimoni,2374,3,Locality,UTC+3,Africa/Nairobi
+2772960,KE,KE-28,Shimo la Tewa,Shimo la Tewa,1017,3,Commune,UTC+3,Africa/Nairobi
+2772961,KE,KE-11,Shumanyiro,Shumanyiro,3669,3,Commune,UTC+3,Africa/Nairobi
+2772962,KE,KE-11,Shikutse,Shikutse,237,3,Locality,UTC+3,Africa/Nairobi
+2772972,KE,KE-11,Shibuli,Shibuli,51,3,Locality,UTC+3,Africa/Nairobi
+2772974,KE,KE-11,Shianda,Shianda,7502,3,Urban Center,UTC+3,Africa/Nairobi
+2772975,KE,KE-11,Shiamololi,Shiamololi,284,3,Locality,UTC+3,Africa/Nairobi
+2772977,KE,KE-39,Shelemba,Shelemba,1722,3,Commune,UTC+3,Africa/Nairobi
+2772978,KE,KE-21,Shela,Shela,50,3,Locality,UTC+3,Africa/Nairobi
+2772984,KE,KE-11,Shamusingiri,Shamusingiri,367,3,Locality,UTC+3,Africa/Nairobi
+2772988,KE,KE-14,Shambweni,Shambweni,96,3,Locality,UTC+3,Africa/Nairobi
+2772989,KE,KE-19,Shambini,Shambini,69,3,Locality,UTC+3,Africa/Nairobi
+2772993,KE,KE-14,Shakadulo,Shakadulo,221,3,Locality,UTC+3,Africa/Nairobi
+2772998,KE,KE-08,Sero,Sero,8018,3,Commune,UTC+3,Africa/Nairobi
+2772999,KE,KE-01,Serkonghun,Serkonghun,231,3,Locality,UTC+3,Africa/Nairobi
+2773000,KE,KE-03,Siritany,Siritany,3531,3,Commune,UTC+3,Africa/Nairobi
+2773003,KE,KE-01,Seretunin,Serem,93,3,Locality,UTC+3,Africa/Nairobi
+2773004,KE,KE-45,Serem,Serem,3984,3,Urban Center,UTC+3,Africa/Nairobi
+2773006,KE,KE-16,Sengera,Sengera,396,3,Locality,UTC+3,Africa/Nairobi
+2773007,KE,KE-22,Sengani,Sengani,1719,3,Commune,UTC+3,Africa/Nairobi
+2773008,KE,KE-45,Senende,Senende,75,3,Locality,UTC+3,Africa/Nairobi
+2773010,KE,KE-08,Sena,Sena,7483,3,City,UTC+3,Africa/Nairobi
+2773015,KE,KE-08,Seka,Seka,42,3,Locality,UTC+3,Africa/Nairobi
+2773018,KE,KE-38,Sega,Sega,4179,3,Urban Center,UTC+3,Africa/Nairobi
+2773021,KE,KE-08,Saye,Saye,235,3,Locality,UTC+3,Africa/Nairobi
+2773022,KE,KE-19,Sawa Sawa,Sawa Sawa,6608,3,Locality,UTC+3,Africa/Nairobi
+2773026,KE,KE-47,Sasak,Sasak,170,3,Locality,UTC+3,Africa/Nairobi
+2773027,KE,KE-07,Sarim,Sarim,225,3,Locality,UTC+3,Africa/Nairobi
+2773028,KE,KE-27,Sare,Sare,86,3,Locality,UTC+3,Africa/Nairobi
+2773029,KE,KE-40,Sarbuye,Sarbuye,203,3,Locality,UTC+3,Africa/Nairobi
+2773032,KE,KE-05,Sangurur,Sangurur,710,3,Commune,UTC+3,Africa/Nairobi
+2773033,KE,KE-17,Sangoburu,Sangoburu,437,3,Locality,UTC+3,Africa/Nairobi
+2773037,KE,KE-08,Sangla,Sangla,112,3,Locality,UTC+3,Africa/Nairobi
+2773038,KE,KE-03,Sangalo,Sangalo,1286,3,Commune,UTC+3,Africa/Nairobi
+2773041,KE,KE-10,Samuli,Samuli,29,3,Locality,UTC+3,Africa/Nairobi
+2773047,KE,\N,Samburu,Samburu,145,3,Locality,UTC+3,Africa/Nairobi
+2773049,KE,KE-01,Salabani,Salabani,279,3,Locality,UTC+3,Africa/Nairobi
+2773052,KE,KE-10,Sajiloni,Sajiloni,895,3,Locality,UTC+3,Africa/Nairobi
+2773053,KE,KE-29,Saint Marys,Saint Marys,583,3,Locality,UTC+3,Africa/Nairobi
+2773054,KE,KE-40,Sailoni,Sailoni,293,3,Locality,UTC+3,Africa/Nairobi
+2773055,KE,KE-40,Saidibabo,Saidibabo,154,3,Locality,UTC+3,Africa/Nairobi
+2773057,KE,KE-15,Sagana,Sagana,11203,3,Urban Center,UTC+3,Africa/Nairobi
+2773061,KE,KE-01,Sacho,Sacho,75,3,Locality,UTC+3,Africa/Nairobi
+2773063,KE,KE-27,Saberi,Saberi,62,3,Locality,UTC+3,Africa/Nairobi
+2773065,KE,KE-01,Sabatia,Sabatia,887,3,Locality,UTC+3,Africa/Nairobi
+2773066,KE,KE-45,Sabatia,Saba Saba,1061,3,Locality,UTC+3,Africa/Nairobi
+2773067,KE,KE-29,Saba Saba,Saba Saba,2438,3,Urban Center,UTC+3,Africa/Nairobi
+2773070,KE,KE-29,Rwegetha,Rwegetha,7500,3,City,UTC+3,Africa/Nairobi
+2773073,KE,KE-36,Rutura,Rutura,122,3,Locality,UTC+3,Africa/Nairobi
+2773074,KE,KE-30,Ruthimitu,Ruthimitu,54,3,Locality,UTC+3,Africa/Nairobi
+2773077,KE,KE-02,Ruseya,Ruseya,2599,3,Commune,UTC+3,Africa/Nairobi
+2773078,KE,KE-14,Ruruma,Ruruma,206,3,Locality,UTC+3,Africa/Nairobi
+2773080,KE,KE-36,Ruringu,Ruringu,291,3,Locality,UTC+3,Africa/Nairobi
+2773081,KE,KE-29,Ruri,Ruri,40,3,Locality,UTC+3,Africa/Nairobi
+2773084,KE,KE-06,Runyenjes,Runyenjes,4943,3,Urban Center,UTC+3,Africa/Nairobi
+2773087,KE,KE-20,Rumuruti,Rumuruti,13056,2,Urban Center,UTC+3,Africa/Nairobi
+2773088,KE,KE-38,Ruma,Ruma,163,3,Locality,UTC+3,Africa/Nairobi
+2773093,KE,KE-36,Rukira,Rukira,103,3,Locality,UTC+3,Africa/Nairobi
+2773094,KE,KE-15,Rukenya,Rukenya,357,4,village,UTC+3,Africa/Nairobi
+2773096,KE,KE-29,Rukanga,Rukanga,120,4,village,UTC+3,Africa/Nairobi
+2773098,KE,KE-13,Ruiru,Ruiru,236961,3,Urban Center,UTC+3,Africa/Nairobi
+2773101,KE,KE-26,Ruiga,Ruiga,1311,3,Commune,UTC+3,Africa/Nairobi
+2773104,KE,KE-04,Rudacha,Rudacha,347,3,Locality,UTC+3,Africa/Nairobi
+2773106,KE,KE-21,Rubu,Rubu,115,3,Locality,UTC+3,Africa/Nairobi
+2773107,KE,KE-15,Ruangondu,Ruangondu,240,3,Locality,UTC+3,Africa/Nairobi
+2773110,KE,KE-13,Ruaka,Ruaka,3722,3,Commune,UTC+3,Africa/Nairobi
+2773111,KE,KE-08,Rowo,Rowo,132,3,Locality,UTC+3,Africa/Nairobi
+2773115,KE,KE-27,Rongo,Rongai,20688,3,Urban Center,UTC+3,Africa/Nairobi
+2773116,KE,KE-31,Rongai,Rongai,30471,3,Urban Center,UTC+3,Africa/Nairobi
+2773117,KE,KE-10,Rombo,Rombo,3854,3,Urban Center,UTC+3,Africa/Nairobi
+2773121,KE,KE-13,Roi,Roi,42,3,Locality,UTC+3,Africa/Nairobi
+2773122,KE,KE-13,Riuki,Riuki,163,3,Locality,UTC+3,Africa/Nairobi
+2773127,KE,KE-13,Rironi,Rironi,5544,3,Urban Center,UTC+3,Africa/Nairobi
+2773129,KE,KE-16,Riondonga,Riondonga,46,3,Locality,UTC+3,Africa/Nairobi
+2773130,KE,KE-16,Riomoro,Riomoro,492,3,Locality,UTC+3,Africa/Nairobi
+2773131,KE,KE-16,Rioma,Rioma,625,3,Locality,UTC+3,Africa/Nairobi
+2773134,KE,KE-34,Rikenye,Rikenye,117,3,Locality,UTC+3,Africa/Nairobi
+2773135,KE,KE-34,Rigoma,Rigoma,496,3,Locality,UTC+3,Africa/Nairobi
+2773137,KE,KE-26,Kilindini,Kilindini,86,3,Locality,UTC+3,Africa/Nairobi
+2773150,KE,KE-08,Reru,Reru,222,3,Locality,UTC+3,Africa/Nairobi
+2773155,KE,KE-01,Ravine Settlement,Ravine Settlement,40,3,Locality,UTC+3,Africa/Nairobi
+2773159,KE,KE-17,Rata,Rata,1204,3,Commune,UTC+3,Africa/Nairobi
+2773165,KE,KE-08,Rapedhi,Rapedhi,534,3,Commune,UTC+3,Africa/Nairobi
+2773168,KE,KE-08,Rangwe,Rangwe,53,3,Locality,UTC+3,Africa/Nairobi
+2773169,KE,KE-13,Renguti,Renguti,256,3,Locality,UTC+3,Africa/Nairobi
+2773172,KE,KE-27,Ranen,Ranen,2243,3,Commune,UTC+3,Africa/Nairobi
+2773173,KE,KE-18,Randani,Randani,335,3,Locality,UTC+3,Africa/Nairobi
+2773178,KE,KE-24,Ramu,Ramu,35644,3,locality,UTC+3,Africa/Nairobi
+2773180,KE,KE-16,Ramasha,Ramasha,275,3,Locality,UTC+3,Africa/Nairobi
+2773181,KE,KE-38,Ramogi,Ramogi,599,3,Commune,UTC+3,Africa/Nairobi
+2773184,KE,KE-38,Rambula,Rambula,1158,3,Commune,UTC+3,Africa/Nairobi
+2773185,KE,KE-17,Rambara,Rambara,77,3,Locality,UTC+3,Africa/Nairobi
+2773190,KE,KE-14,Ramada,Ramada,112,3,Locality,UTC+3,Africa/Nairobi
+2773193,KE,KE-08,Ralang,Ralang,63,3,Locality,UTC+3,Africa/Nairobi
+2773195,KE,KE-27,Rakwaro,Rakwaro,133,3,Locality,UTC+3,Africa/Nairobi
+2773196,KE,KE-08,Rakwaro,Rakwaro,173,3,Locality,UTC+3,Africa/Nairobi
+2773197,KE,KE-38,Ragoum,Ragoum,340,3,Locality,UTC+3,Africa/Nairobi
+2773199,KE,KE-41,Raguta,Raguta,138,3,Locality,UTC+3,Africa/Nairobi
+2773200,KE,KE-27,Ragoda,Ragoda,48,3,Locality,UTC+3,Africa/Nairobi
+2773202,KE,KE-17,Ragen,Ragen,208,3,Locality,UTC+3,Africa/Nairobi
+2773207,KE,KE-08,Rachar,Rachar,95,3,Locality,UTC+3,Africa/Nairobi
+2773210,KE,KE-27,Rabuor,Rabuor,191,3,Locality,UTC+3,Africa/Nairobi
+2773211,KE,KE-17,Rabuor,Rabuor,2942,3,Urban Center,UTC+3,Africa/Nairobi
+2773212,KE,KE-08,Rabango,Rabango,64,3,Locality,UTC+3,Africa/Nairobi
+2773214,KE,KE-08,Pundo's Village,Pundo’s Village,223,3,Locality,UTC+3,Africa/Nairobi
+2773215,KE,KE-40,Bondeni,Bondeni,9696,3,City,UTC+3,Africa/Nairobi
+2773217,KE,KE-47,Ptoyo,Ptoyo,46,3,Locality,UTC+3,Africa/Nairobi
+2773220,KE,KE-33,Poroko,Poroko,331,3,Locality,UTC+3,Africa/Nairobi
+2773223,KE,KE-12,Poiywek,Poiywek,1126,3,Commune,UTC+3,Africa/Nairobi
+2773226,KE,KE-38,Pap Godero,Pap Godero,479,3,Locality,UTC+3,Africa/Nairobi
+2773228,KE,KE-28,Pendeza,Pendeza,3199,3,Locality,UTC+3,Africa/Nairobi
+2773229,KE,KE-40,Pendeza,Pendeza,6275,3,City,UTC+3,Africa/Nairobi
+2773230,KE,KE-14,Penda Kula,Penda Kula,495,3,Locality,UTC+3,Africa/Nairobi
+2773233,KE,KE-17,Pau Akuche,Pau Akuche,102,3,Locality,UTC+3,Africa/Nairobi
+2773234,KE,KE-27,Paulo,Pate,116,3,Locality,UTC+3,Africa/Nairobi
+2773236,KE,KE-17,Paponditi,Paponditi,146,3,Locality,UTC+3,Africa/Nairobi
+2773239,KE,KE-14,Pangani,Pangani,126,4,hamlet,UTC+3,Africa/Nairobi
+2773240,KE,KE-21,Pandanguo,Pandanguo,152,3,Locality,UTC+3,Africa/Nairobi
+2773244,KE,KE-08,Pala,Pala,783,3,Locality,UTC+3,Africa/Nairobi
+2773246,KE,KE-08,Oyugis,Oyugis,19947,3,Urban Center,UTC+3,Africa/Nairobi
+2773248,KE,KE-27,Oyani,Oyani,100,4,village,UTC+3,Africa/Nairobi
+2773250,KE,KE-27,Ouma's Village,Ouma’s Village,4657,3,Commune,UTC+3,Africa/Nairobi
+2773251,KE,KE-08,Othoro,Othoro,123,3,Locality,UTC+3,Africa/Nairobi
+2773252,KE,KE-08,Ototo,Ototo,75,3,Locality,UTC+3,Africa/Nairobi
+2773253,KE,KE-27,Otinga,Otinga,3900,3,Commune,UTC+3,Africa/Nairobi
+2773257,KE,KE-36,Othaya,Othaya,6650,3,Urban Center,UTC+3,Africa/Nairobi
+2773258,KE,KE-27,Otati,Otati,129,3,Locality,UTC+3,Africa/Nairobi
+2773264,KE,KE-08,Osure,Osure,329,3,Locality,UTC+3,Africa/Nairobi
+2773265,KE,KE-27,Osogo,Osogo,49,3,Locality,UTC+3,Africa/Nairobi
+2773266,KE,KE-08,Osodo,Osodo,107,3,Locality,UTC+3,Africa/Nairobi
+2773267,KE,KE-21,Oseni,Oseni,88,4,hamlet,UTC+3,Africa/Nairobi
+2773271,KE,KE-17,Oruga,Oruga,1363,3,Commune,UTC+3,Africa/Nairobi
+2773273,KE,KE-27,Oruba,Ortum,207,3,Locality,UTC+3,Africa/Nairobi
+2773274,KE,KE-47,Ortum,Ortum,3372,3,Urban Center,UTC+3,Africa/Nairobi
+2773275,KE,KE-43,Oropoi,Oropoi,197,3,Locality,UTC+3,Africa/Nairobi
+2773276,KE,KE-02,Orokiet,Orokiet,32,3,Locality,UTC+3,Africa/Nairobi
+2773278,KE,KE-08,Oridi,Oridi,1576,3,Locality,UTC+3,Africa/Nairobi
+2773279,KE,KE-08,Oriang,Oriang,300,3,Locality,UTC+3,Africa/Nairobi
+2773280,KE,KE-08,Oriang,Oriang,230,3,Locality,UTC+3,Africa/Nairobi
+2773293,KE,KE-08,Ongalo,Ongalo,55,3,Locality,UTC+3,Africa/Nairobi
+2773300,KE,KE-08,Omoche,Omoche,19223,3,City,UTC+3,Africa/Nairobi
+2773302,KE,KE-17,Ombeyi,Ombeyi,329,3,Locality,UTC+3,Africa/Nairobi
+2773303,KE,KE-17,Ombaka,Ombaka,50,3,Locality,UTC+3,Africa/Nairobi
+2773304,KE,KE-08,Oluso,Oluso,6668,3,Commune,UTC+3,Africa/Nairobi
+2773312,KE,KE-33,Olulung'a,Olulung’a,5609,3,locality,UTC+3,Africa/Nairobi
+2773314,KE,KE-33,Olokurto,Olokurto,186,3,Locality,UTC+3,Africa/Nairobi
+2773315,KE,KE-10,Oloitokitok,Oloitokitok,10568,3,PPL,UTC+3,Africa/Nairobi
+2773316,KE,KE-10,Oloiserri,Oloiserri,380,3,Locality,UTC+3,Africa/Nairobi
+2773317,KE,KE-20,Ol Ng'arua,Ol Ng’arua,281,3,Locality,UTC+3,Africa/Nairobi
+2773319,KE,KE-35,Ol Mogogo,Ol Mogogo,184,3,Locality,UTC+3,Africa/Nairobi
+2773321,KE,KE-10,Olkeramatian,Ol Joro Orok,2902,3,Locality,UTC+3,Africa/Nairobi
+2773322,KE,KE-35,Ol Joro Orok,Ol Joro Orok,2116,3,Urban Center,UTC+3,Africa/Nairobi
+2773323,KE,KE-32,Lessos,Lessos,629,3,Locality,UTC+3,Africa/Nairobi
+2773324,KE,KE-10,Olepolos,Olepolos,1135,4,village,UTC+3,Africa/Nairobi
+2773326,KE,KE-31,Olenguruone,Olenguruone,2787,3,Urban Center,UTC+3,Africa/Nairobi
+2773334,KE,KE-08,Okok,Okok,600,3,Locality,UTC+3,Africa/Nairobi
+2773335,KE,KE-23,Okia,Okia,1295,3,Locality,UTC+3,Africa/Nairobi
+2773341,KE,KE-17,Ojola,Ojola,2333,3,Commune,UTC+3,Africa/Nairobi
+2773342,KE,KE-08,Ogilo,Ogembo,152,3,Locality,UTC+3,Africa/Nairobi
+2773343,KE,KE-16,Ogembo,Ogembo,3901,3,Urban Center,UTC+3,Africa/Nairobi
+2773344,KE,KE-08,Ogango,Ogango,190,3,Locality,UTC+3,Africa/Nairobi
+2773346,KE,KE-08,Ogama,Ogama,50,3,Locality,UTC+3,Africa/Nairobi
+2773353,KE,KE-17,Obwolo,Obwolo,148,3,Locality,UTC+3,Africa/Nairobi
+2773358,KE,KE-40,Obo,Obo,127,3,Locality,UTC+3,Africa/Nairobi
+2773359,KE,KE-27,Obila's Village,Obila’s Village,1220,3,Locality,UTC+3,Africa/Nairobi
+2773360,KE,KE-08,Obera,Obera,221,4,village,UTC+3,Africa/Nairobi
+2773361,KE,KE-08,Obanga,Obanga,234,3,Locality,UTC+3,Africa/Nairobi
+2773364,KE,KE-17,Obambo,Obambo,40,3,Locality,UTC+3,Africa/Nairobi
+2773366,KE,KE-08,Obado,Obado,864,3,Locality,UTC+3,Africa/Nairobi
+2773367,KE,KE-23,Nzuuni,Nzuuni,148,3,Locality,UTC+3,Africa/Nairobi
+2773373,KE,KE-18,Nzewani,Nzewani,69,3,Locality,UTC+3,Africa/Nairobi
+2773374,KE,KE-22,Nzeveni,Nzeveni,149,3,Locality,UTC+3,Africa/Nairobi
+2773376,KE,KE-18,Nzeewani,Nzeewani,752,3,Locality,UTC+3,Africa/Nairobi
+2773378,KE,KE-18,Nzamba,Nzamba,41,3,Locality,UTC+3,Africa/Nairobi
+2773379,KE,KE-22,Nzaini,Nzaini,3339,3,Commune,UTC+3,Africa/Nairobi
+2773383,KE,KE-14,Nyundo,Nyundo,330,3,Locality,UTC+3,Africa/Nairobi
+2773385,KE,KE-16,Nyatuani,Nyatuani,68,3,Locality,UTC+3,Africa/Nairobi
+2773387,KE,KE-38,Nyilima,Nyilima,99,3,Locality,UTC+3,Africa/Nairobi
+2773389,KE,KE-36,Nyeri,Nyeri,80081,2,Urban Center,UTC+3,Africa/Nairobi
+2773392,KE,KE-08,Nyawita,Nyawita,239,3,Locality,UTC+3,Africa/Nairobi
+2773394,KE,KE-08,Nyatindo,Nyatindo,41,3,Locality,UTC+3,Africa/Nairobi
+2773395,KE,KE-17,Nyatigo,Nyatigo,73,3,Locality,UTC+3,Africa/Nairobi
+2773396,KE,KE-29,Nyati,Nyali,185900,4,locality,UTC+3,Africa/Nairobi
+2773397,KE,KE-13,Nyathuna,Nyathuna,24,3,Locality,UTC+3,Africa/Nairobi
+2773398,KE,KE-16,Nyataro,Nyataro,171,4,village,UTC+3,Africa/Nairobi
+2773400,KE,KE-08,Nyasore,Nyasore,267,3,Locality,UTC+3,Africa/Nairobi
+2773402,KE,KE-08,Nyarongi,Nyarongi,244,4,village,UTC+3,Africa/Nairobi
+2773403,KE,KE-16,Nyaronge,Nyaronge,404,3,Locality,UTC+3,Africa/Nairobi
+2773407,KE,KE-34,Nyaramba,Nyaramba,116,4,hamlet,UTC+3,Africa/Nairobi
+2773408,KE,KE-27,Nyarach,Nyarach,120,4,hamlet,UTC+3,Africa/Nairobi
+2773409,KE,KE-11,Nyapora,Nyapora,396,3,Locality,UTC+3,Africa/Nairobi
+2773411,KE,KE-16,Nyanturago,Nyanturago,298,3,locality,UTC+3,Africa/Nairobi
+2773413,KE,KE-08,Nyangwethe,Nyangwethe,97,3,Locality,UTC+3,Africa/Nairobi
+2773414,KE,KE-16,Nyangweta,Nyangweta,95,3,Locality,UTC+3,Africa/Nairobi
+2773416,KE,KE-08,Nyangweso,Nyangweso,351,3,Locality,UTC+3,Africa/Nairobi
+2773417,KE,KE-38,Nyangweso,Nyangweso,372,3,Locality,UTC+3,Africa/Nairobi
+2773418,KE,KE-40,Nyangwani,Nyangwani,86,3,Locality,UTC+3,Africa/Nairobi
+2773419,KE,KE-06,Nyangwa,Nyangusu,114,3,Locality,UTC+3,Africa/Nairobi
+2773420,KE,KE-16,Nyangusu,Nyangoso,3590,3,Urban Center,UTC+3,Africa/Nairobi
+2773421,KE,KE-21,Nyangoro,Nyangoro,46,3,Locality,UTC+3,Africa/Nairobi
+2773426,KE,KE-08,Nyangiela,Nyangiela,868,3,Commune,UTC+3,Africa/Nairobi
+2773430,KE,KE-15,Nyangati,Nyangati,75,3,Locality,UTC+3,Africa/Nairobi
+2773434,KE,KE-08,Nyandiwa,Nyandiwa,4033,4,village,UTC+3,Africa/Nairobi
+2773440,KE,KE-38,Nyamonye,Nyamonye,35,3,Locality,UTC+3,Africa/Nairobi
+2773443,KE,KE-38,Nyamninia,Nyamninia,90,3,Locality,UTC+3,Africa/Nairobi
+2773444,KE,KE-34,Nyamiranga,Nyamira,156,3,Locality,UTC+3,Africa/Nairobi
+2773445,KE,KE-34,Nyamira,Nyamira,10000,2,Urban Center,UTC+3,Africa/Nairobi
+2773447,KE,KE-38,Nyamira,Nyamira,5296,3,Commune,UTC+3,Africa/Nairobi
+2773452,KE,KE-16,Nyambunwa,Nyambunwa,13405,3,locality,UTC+3,Africa/Nairobi
+2773493,KE,KE-36,Nyakahuho,Nyakahuho,1440,3,Commune,UTC+3,Africa/Nairobi
+2773494,KE,KE-35,Nyaituga,Nyahururu,72,3,Locality,UTC+3,Africa/Nairobi
+2773495,KE,KE-20,Nyahururu,Nyahururu,37650,3,Urban Center,UTC+3,Africa/Nairobi
+2773507,KE,KE-34,Nyachogochogo,Nyachogochogo,456,3,Locality,UTC+3,Africa/Nairobi
+2773519,KE,KE-16,Nyabiosi,Nyabiosi,166,3,Locality,UTC+3,Africa/Nairobi
+2773520,KE,KE-34,Nyabiosi,Nyabiosi,82,4,hamlet,UTC+3,Africa/Nairobi
+2773521,KE,KE-27,Nyabikongori,Nyabikongori,73,3,Locality,UTC+3,Africa/Nairobi
+2773522,KE,KE-27,Nyabikaye,Nyabikaye,73,3,Locality,UTC+3,Africa/Nairobi
+2773524,KE,KE-38,Nyabera,Nyabera,34,3,Locality,UTC+3,Africa/Nairobi
+2773526,KE,KE-27,Nyabera,Nyabera,435,3,Locality,UTC+3,Africa/Nairobi
+2773527,KE,KE-38,Nyabeda,Nyabeda,452,3,Locality,UTC+3,Africa/Nairobi
+2773528,KE,KE-27,Nyabassi,Nyabasi,628,3,Commune,UTC+3,Africa/Nairobi
+2773529,KE,KE-22,Nyaani,Nyaani,72,3,Locality,UTC+3,Africa/Nairobi
+2773531,KE,KE-19,Nunguni,Nunguni,453,3,Locality,UTC+3,Africa/Nairobi
+2773532,KE,KE-23,Nunguni,Nunguni,2266,3,Urban Center,UTC+3,Africa/Nairobi
+2773534,KE,KE-33,Ntuka,Ntuka,3218,3,Commune,UTC+3,Africa/Nairobi
+2773535,KE,KE-17,Nyong ong'a,Nyong ong’a,35,3,Locality,UTC+3,Africa/Nairobi
+2773538,KE,KE-23,Nthia,Nthia,6626,3,Commune,UTC+3,Africa/Nairobi
+2773542,KE,KE-34,Ntana,Nosuguro,771,3,Locality,UTC+3,Africa/Nairobi
+2773543,KE,KE-01,Nosuguro,Nosuguro,101,3,Locality,UTC+3,Africa/Nairobi
+2773544,KE,KE-08,North Ruri,North Ruri,161,3,Locality,UTC+3,Africa/Nairobi
+2773547,KE,KE-25,North Horr,North Horr,5177,3,Urban Center,UTC+3,Africa/Nairobi
+2773549,KE,KE-01,Noiwe,Noiwe,24821,3,District-level City,UTC+3,Africa/Nairobi
+2773552,KE,KE-26,Nkubu,Nkubu,7675,3,Urban Center,UTC+3,Africa/Nairobi
+2773554,KE,KE-26,Nkabune,Njoro,196,3,Locality,UTC+3,Africa/Nairobi
+2773555,KE,KE-31,Njoro,Njoro,42173,3,Urban Center,UTC+3,Africa/Nairobi
+2773557,KE,KE-29,Njora,Njora,669,4,hamlet,UTC+3,Africa/Nairobi
+2773559,KE,KE-13,Njiku,Njiku,106,3,Locality,UTC+3,Africa/Nairobi
+2773567,KE,KE-40,Malindi ya Ngwena,Ngwena,125,3,Locality,UTC+3,Africa/Nairobi
+2773575,KE,KE-29,Ngurueni,Ngurueni,49,3,Locality,UTC+3,Africa/Nairobi
+2773577,KE,KE-18,Nguni,Nguni,1331,3,Commune,UTC+3,Africa/Nairobi
+2773582,KE,KE-36,Gumba,Gumba,49,3,Locality,UTC+3,Africa/Nairobi
+2773583,KE,KE-23,Nguluni,Nguluni,220,3,Locality,UTC+3,Africa/Nairobi
+2773590,KE,KE-23,Ngoto,Ngoto,55,3,Locality,UTC+3,Africa/Nairobi
+2773593,KE,KE-13,Ngorongo,Ngorongo,51,3,Locality,UTC+3,Africa/Nairobi
+2773594,KE,KE-13,Ngoriundito,Ngoriundito,170,3,Locality,UTC+3,Africa/Nairobi
+2773597,KE,KE-06,Ngunyumu,Ngunyumu,260,3,Locality,UTC+3,Africa/Nairobi
+2773599,KE,KE-10,Ngong,Ngong,102323,3,Urban Center,UTC+3,Africa/Nairobi
+2773600,KE,KE-29,Ngonda,Ngonda,153,3,Locality,UTC+3,Africa/Nairobi
+2773601,KE,KE-14,Ngomeni,Ngomeni,157,3,Locality,UTC+3,Africa/Nairobi
+2773604,KE,KE-19,Ngombani,Ngombani,29,3,Locality,UTC+3,Africa/Nairobi
+2773605,KE,KE-22,Ngoleni,Ngoleni,4753,3,Commune,UTC+3,Africa/Nairobi
+2773606,KE,KE-34,Ng'oino,Ng’oino,126,3,Locality,UTC+3,Africa/Nairobi
+2773607,KE,KE-06,Ngoche,Ngoche,298,3,Locality,UTC+3,Africa/Nairobi
+2773613,KE,KE-18,Ngiluni,Ngiluni,313,3,Locality,UTC+3,Africa/Nairobi
+2773614,KE,KE-22,Ngiini,Ngiini,553,3,Locality,UTC+3,Africa/Nairobi
+2773616,KE,KE-13,Ngewa,Ngewa,2452,3,Urban Center,UTC+3,Africa/Nairobi
+2773621,KE,KE-41,Ngeru,Ngeru,123,3,Locality,UTC+3,Africa/Nairobi
+2773623,KE,KE-27,Ngere,Ngere,573,3,Locality,UTC+3,Africa/Nairobi
+2773625,KE,KE-08,Ngere,Ngere,348,3,Locality,UTC+3,Africa/Nairobi
+2773630,KE,KE-13,Ngemwa,Ngemwa,17,3,Locality,UTC+3,Africa/Nairobi
+2773631,KE,KE-32,Ngebugoryo,Ngebugoryo,75,3,Locality,UTC+3,Africa/Nairobi
+2773637,KE,KE-18,Gathune,Ngathune,291,3,Locality,UTC+3,Africa/Nairobi
+2773643,KE,KE-43,Nganukonharengak,Nganukonharengak,71,3,Locality,UTC+3,Africa/Nairobi
+2773644,KE,KE-19,Nganja,Nganja,385,3,Locality,UTC+3,Africa/Nairobi
+2773645,KE,KE-22,Ngangani,Ngangani,71,3,Locality,UTC+3,Africa/Nairobi
+2773646,KE,KE-06,Ngandure,Ngandure,3128,3,Commune,UTC+3,Africa/Nairobi
+2773647,KE,KE-36,Ngandu,Ngandu,374,3,Locality,UTC+3,Africa/Nairobi
+2773649,KE,KE-36,Ngamwa,Ngamwa,272,3,Locality,UTC+3,Africa/Nairobi
+2773650,KE,KE-01,Ngambo,Ngambo,377,3,Locality,UTC+3,Africa/Nairobi
+2773651,KE,KE-39,Ngambinyi,Ngambinyi,64,3,Locality,UTC+3,Africa/Nairobi
+2773652,KE,KE-22,Ngamba,Ngamba,455,4,hamlet,UTC+3,Africa/Nairobi
+2773653,KE,KE-13,Ngababa,Ngababa,7649,3,Commune,UTC+3,Africa/Nairobi
+2773655,KE,KE-31,Nessuiet,Nessuiet,39,3,Locality,UTC+3,Africa/Nairobi
+2773657,KE,KE-06,Nembure,Nembure,340,3,Locality,UTC+3,Africa/Nairobi
+2773658,KE,KE-13,Nembu,Nembu,94,3,Locality,UTC+3,Africa/Nairobi
+2773659,KE,KE-19,Nzovuni,Nzovuni,95,3,Locality,UTC+3,Africa/Nairobi
+2773660,KE,KE-14,Ndzovuni,Ndzovuni,83,3,Locality,UTC+3,Africa/Nairobi
+2773661,KE,KE-18,Nduu Ndune,Nduu Ndune,75,3,Locality,UTC+3,Africa/Nairobi
+2773665,KE,KE-16,Nduru,Nduru,1579,3,Locality,UTC+3,Africa/Nairobi
+2773668,KE,KE-40,Nduru,Nduru,633,3,Locality,UTC+3,Africa/Nairobi
+2773670,KE,KE-32,Ndurio,Ndurio,142,3,Locality,UTC+3,Africa/Nairobi
+2773671,KE,KE-13,Ndurarua,Ndurarua,34,3,Locality,UTC+3,Africa/Nairobi
+2773673,KE,KE-36,Ndunyu,Ndunyu,142,3,Locality,UTC+3,Africa/Nairobi
+2773674,KE,KE-15,Ndunduini,Ndunduini,298,3,Locality,UTC+3,Africa/Nairobi
+2773680,KE,KE-36,Nduma,Nduma,1834,3,Commune,UTC+3,Africa/Nairobi
+2773681,KE,KE-23,Nduluni,Nduluni,196,3,Locality,UTC+3,Africa/Nairobi
+2773682,KE,KE-23,Nduluku,Nduluku,152,3,Locality,UTC+3,Africa/Nairobi
+2773683,KE,KE-33,Ntulelei,Ndulele,87,3,Locality,UTC+3,Africa/Nairobi
+2773684,KE,KE-23,Ndovoini,Ndovoini,158,3,Locality,UTC+3,Africa/Nairobi
+2773686,KE,KE-38,Ndori,Ndori,3770,3,Urban Center,UTC+3,Africa/Nairobi
+2773687,KE,KE-16,Ndonyo,Ndonyo,72,3,Locality,UTC+3,Africa/Nairobi
+2773690,KE,KE-15,Ndomba,Ndomba,55,3,Locality,UTC+3,Africa/Nairobi
+2773691,KE,KE-23,Ndolo,Ndolo,4200,3,Commune,UTC+3,Africa/Nairobi
+2773692,KE,KE-27,Ndiwa,Ndiwa,54,3,Locality,UTC+3,Africa/Nairobi
+2773694,KE,KE-13,Ndiuini,Ndiuini,275,3,Locality,UTC+3,Africa/Nairobi
+2773696,KE,KE-17,Ndiru,Ndiru,71,3,Locality,UTC+3,Africa/Nairobi
+2773698,KE,KE-15,Ndindiruku,Ndindiruku,13450,3,City,UTC+3,Africa/Nairobi
+2773699,KE,KE-36,Ndimaini,Ndimaini,178,3,Locality,UTC+3,Africa/Nairobi
+2773700,KE,KE-39,Ndile,Ndile,319,3,Locality,UTC+3,Africa/Nairobi
+2773702,KE,KE-35,Ndiara,Ndiara,68,3,Locality,UTC+3,Africa/Nairobi
+2773705,KE,KE-08,Ndhiwa,Ndhiwa,4762,3,Urban Center,UTC+3,Africa/Nairobi
+2773706,KE,KE-13,Nderu,Nderu,97,3,Locality,UTC+3,Africa/Nairobi
+2773710,KE,KE-33,Ndengenishi,Ndengenishi,35,3,Locality,UTC+3,Africa/Nairobi
+2773711,KE,KE-03,Ndengelwa,Ndengelwa,222,3,Locality,UTC+3,Africa/Nairobi
+2773712,KE,KE-38,Ndenga,Ndenga,486,3,Locality,UTC+3,Africa/Nairobi
+2773713,KE,KE-13,Ndenderu,Ndenderu,3642,3,Commune,UTC+3,Africa/Nairobi
+2773717,KE,KE-19,Ndavaya,Ndavaya,413,3,Locality,UTC+3,Africa/Nairobi
+2773718,KE,KE-23,Ndauni,Ndauni,62,3,Locality,UTC+3,Africa/Nairobi
+2773721,KE,KE-01,Ndau,Ndau,194,3,Locality,UTC+3,Africa/Nairobi
+2773722,KE,KE-36,Ndathi,Ndathi,1960,3,Commune,UTC+3,Africa/Nairobi
+2773723,KE,KE-13,Ndarugu,Ndarugu,423,3,Locality,UTC+3,Africa/Nairobi
+2773730,KE,KE-21,Ndambwe,Ndambwe,665,3,Locality,UTC+3,Africa/Nairobi
+2773733,KE,KE-29,Ndakaini,Ndakaini,3083,3,Commune,UTC+3,Africa/Nairobi
+2773736,KE,KE-13,Nazareth,Nazareth,2366,3,Commune,UTC+3,Africa/Nairobi
+2773744,KE,KE-14,Nasibu,Nasibu,17,3,Locality,UTC+3,Africa/Nairobi
+2773746,KE,KE-16,Masakwe,Masakwe,766,3,Commune,UTC+3,Africa/Nairobi
+2773748,KE,KE-36,Naro Moru,Naro Moru,8558,3,Urban Center,UTC+3,Africa/Nairobi
+2773749,KE,KE-33,Narok,Narok,59203,2,Urban Center,UTC+3,Africa/Nairobi
+2773752,KE,KE-20,Nanyuki,Nanyuki,36142,3,Urban Center,UTC+3,Africa/Nairobi
+2773757,KE,KE-11,Nanganda,Nanganda,138,3,Locality,UTC+3,Africa/Nairobi
+2773759,KE,KE-32,Nandi Hills,Nandi Hills,8032,3,Urban Center,UTC+3,Africa/Nairobi
+2773763,KE,KE-03,Namwacha,Namwacha,169,3,Locality,UTC+3,Africa/Nairobi
+2773769,KE,KE-03,Nambami,Nambale,64,4,locality,UTC+3,Africa/Nairobi
+2773770,KE,KE-04,Nambare,Nambale,1154,3,Locality,UTC+3,Africa/Nairobi
+2773771,KE,KE-11,Nambacha,Nambacha,27,3,Locality,UTC+3,Africa/Nairobi
+2773773,KE,KE-03,Namangofulo,Namangofulo,830,3,Commune,UTC+3,Africa/Nairobi
+2773780,KE,KE-31,Nakuru,Nakuru,307990,2,Urban Center,UTC+3,Africa/Nairobi
+2773782,KE,KE-47,Nakhang,Naivasha,454,3,Locality,UTC+3,Africa/Nairobi
+2773783,KE,KE-31,Naivasha,Naivasha,91993,3,Urban Center,UTC+3,Africa/Nairobi
+2773784,KE,KE-30,Nairobi,Nairobi,3138295,1,Locality,UTC+3,Africa/Nairobi
+2773785,KE,KE-33,Nairagi Enkare,Nairagie Ngare,778,3,Locality,UTC+3,Africa/Nairobi
+2773789,KE,KE-13,Nachu,Nachu,173,3,Locality,UTC+3,Africa/Nairobi
+2773790,KE,KE-43,Nabeiye,Nabeiye,1539,3,Commune,UTC+3,Africa/Nairobi
+2773791,KE,KE-26,Naathu,Naathu,22,3,Locality,UTC+3,Africa/Nairobi
+2773795,KE,KE-22,Myanyani,Myanyani,94,3,Locality,UTC+3,Africa/Nairobi
+2773796,KE,KE-03,Myanga,Mianga,277,3,Locality,UTC+3,Africa/Nairobi
+2773803,KE,KE-18,Mwingi,Mwingi District,17025,3,Urban Center,UTC+3,Africa/Nairobi
+2773804,KE,KE-40,Mwina,Mwina,287,3,Locality,UTC+3,Africa/Nairobi
+2773807,KE,KE-03,Mwibale,Mwibale,131,3,Locality,UTC+3,Africa/Nairobi
+2773811,KE,KE-13,Mweri,Mweri,144,3,Locality,UTC+3,Africa/Nairobi
+2773812,KE,KE-19,Mwereni,Mwereni,19,3,Locality,UTC+3,Africa/Nairobi
+2773813,KE,KE-03,Mwembula,Mweiga,60,3,Locality,UTC+3,Africa/Nairobi
+2773814,KE,KE-36,Mweiga,Mweiga,3609,3,Urban Center,UTC+3,Africa/Nairobi
+2773815,KE,KE-23,Mweani,Mweani,69,3,Locality,UTC+3,Africa/Nairobi
+2773816,KE,KE-23,Mwea,Mwea,79,3,Locality,UTC+3,Africa/Nairobi
+2773817,KE,KE-18,Mwe,Mwe,275,3,Locality,UTC+3,Africa/Nairobi
+2773818,KE,KE-21,Mwazi,Mwazi,296,3,Locality,UTC+3,Africa/Nairobi
+2773821,KE,KE-39,Mwatate,Mwatate,9572,2,Urban Center,UTC+3,Africa/Nairobi
+2773823,KE,KE-19,Mwarongo,Marongo,1464,3,Commune,UTC+3,Africa/Nairobi
+2773825,KE,KE-14,Mwarakaya,Mwarakaya,38,3,Locality,UTC+3,Africa/Nairobi
+2773826,KE,KE-19,Mwapala,Mwapala,72,3,Locality,UTC+3,Africa/Nairobi
+2773827,KE,KE-11,Mwanza,Mwanza,111,3,Locality,UTC+3,Africa/Nairobi
+2773831,KE,KE-19,Mwangoni,Mwangoni,86,3,Locality,UTC+3,Africa/Nairobi
+2773832,KE,KE-41,Mwangarimwe,Mwangareme,236,3,Locality,UTC+3,Africa/Nairobi
+2773833,KE,KE-14,Mwando wa Panya,Mwando wa Panya,358,3,Locality,UTC+3,Africa/Nairobi
+2773834,KE,KE-28,Mwandoni,Mwandoni,235,3,Locality,UTC+3,Africa/Nairobi
+2773837,KE,KE-19,Mwandimu,Mwandimu,23,3,Locality,UTC+3,Africa/Nairobi
+2773839,KE,KE-40,Mwanathamba,Mwanathumba,219,3,Locality,UTC+3,Africa/Nairobi
+2773848,KE,KE-19,Mwaluvanga,Mwaluvanga,9686,3,City,UTC+3,Africa/Nairobi
+2773849,KE,KE-14,Mwalilo,Mwalilo,30,3,Locality,UTC+3,Africa/Nairobi
+2773850,KE,KE-14,Mwalili,Mwalili,39,3,Locality,UTC+3,Africa/Nairobi
+2773851,KE,KE-22,Mwala,Mwala,181896,3,PPL,UTC+3,Africa/Nairobi
+2773853,KE,KE-14,Mwakunde,Mwakunde,210,3,Locality,UTC+3,Africa/Nairobi
+2773854,KE,KE-28,Mwakirunge ya Pwani,Mwachirunje ya Pwani,96,3,Locality,UTC+3,Africa/Nairobi
+2773860,KE,KE-29,Mwagu,Mwagu,85,3,Locality,UTC+3,Africa/Nairobi
+2773861,KE,KE-14,Mwaga,Mwaga,119,3,Locality,UTC+3,Africa/Nairobi
+2773862,KE,KE-19,Mwaembe,Mwaembe,51,3,Locality,UTC+3,Africa/Nairobi
+2773863,KE,KE-39,Mwachawaza,Mwachawaza,4819,3,Commune,UTC+3,Africa/Nairobi
+2773866,KE,KE-14,Mwabaya Nyundo,Mwabaya Nyundo,1887,3,Commune,UTC+3,Africa/Nairobi
+2773868,KE,KE-22,Mwaasua,Mwaasua,128,3,Locality,UTC+3,Africa/Nairobi
+2773873,KE,KE-38,Muweri,Muweri,1924,3,Commune,UTC+3,Africa/Nairobi
+2773879,KE,KE-23,Mutyambua,Mutyambua,69,3,Locality,UTC+3,Africa/Nairobi
+2773880,KE,KE-32,Mutwot,Mutwot,104,3,Locality,UTC+3,Africa/Nairobi
+2773887,KE,KE-23,Mutulani,Mutulani,12617,3,City,UTC+3,Africa/Nairobi
+2773889,KE,KE-22,Kwa Mutula,Kwa Mutula,224,3,Locality,UTC+3,Africa/Nairobi
+2773890,KE,KE-18,Mutukya,Mutukya,64,3,Locality,UTC+3,Africa/Nairobi
+2773892,KE,KE-26,Mutuati,Mutuati,232440,3,village,UTC+3,Africa/Nairobi
+2773894,KE,KE-11,Mutsuma,Mutsuma,45,3,Locality,UTC+3,Africa/Nairobi
+2773896,KE,KE-22,Mutondoni,Mutondoni,105,3,Locality,UTC+3,Africa/Nairobi
+2773900,KE,KE-36,Mutitu,Mutitu,236,3,Locality,UTC+3,Africa/Nairobi
+2773902,KE,KE-15,Mutitu,Mutitu,42,3,Locality,UTC+3,Africa/Nairobi
+2773913,KE,KE-13,Muthure,Muthure,26816,3,City,UTC+3,Africa/Nairobi
+2773914,KE,KE-18,Muthue,Muthue,362,3,Locality,UTC+3,Africa/Nairobi
+2773915,KE,KE-36,Muthua-ini,Muthua-ini,674,3,Commune,UTC+3,Africa/Nairobi
+2773921,KE,KE-20,Muthengera,Muthengera,164,3,Locality,UTC+3,Africa/Nairobi
+2773924,KE,KE-26,Muthangene,Muthangene,283,3,locality,UTC+3,Africa/Nairobi
+2773929,KE,KE-30,Mutei,Mutei,1159,3,Commune,UTC+3,Africa/Nairobi
+2773934,KE,KE-04,Musoma,Musoma,217,3,Locality,UTC+3,Africa/Nairobi
+2773935,KE,KE-11,Musoli,Musoli,23,3,Locality,UTC+3,Africa/Nairobi
+2773938,KE,KE-03,Musikoma,Musikoma,1232,3,Commune,UTC+3,Africa/Nairobi
+2773941,KE,KE-06,Mushamba,Mushamba,667,3,Locality,UTC+3,Africa/Nairobi
+2773946,KE,KE-18,Musengo,Musengo,271,3,Locality,UTC+3,Africa/Nairobi
+2773951,KE,KE-23,Musalala,Musalala,83,3,Locality,UTC+3,Africa/Nairobi
+2773956,KE,KE-13,Mureria,Mureria,159,3,Locality,UTC+3,Africa/Nairobi
+2773961,KE,KE-47,Murua Nyangai,Murua Nyangai,266,3,Locality,UTC+3,Africa/Nairobi
+2773962,KE,KE-35,Muruaki Settlement,Muruaki Settlement,114,3,Locality,UTC+3,Africa/Nairobi
+2773963,KE,KE-11,Muroni,Muroni,113,3,Locality,UTC+3,Africa/Nairobi
+2773964,KE,KE-14,Muritu,Muritu,1699,3,Commune,UTC+3,Africa/Nairobi
+2773965,KE,KE-29,Muriranjas,Muriranjas,34,3,Locality,UTC+3,Africa/Nairobi
+2773966,KE,KE-06,Muringari,Muringari,856,3,Commune,UTC+3,Africa/Nairobi
+2773967,KE,KE-15,Murinduko,Murinduko,67,3,Locality,UTC+3,Africa/Nairobi
+2773968,KE,KE-43,Muriling,Muriling,330,3,Locality,UTC+3,Africa/Nairobi
+2773969,KE,KE-11,Murhanda,Murhanda,814,3,Locality,UTC+3,Africa/Nairobi
+2773971,KE,KE-11,Mureko,Mureko,60,3,Locality,UTC+3,Africa/Nairobi
+2773972,KE,KE-11,Muregu,Muregu,87,3,Locality,UTC+3,Africa/Nairobi
+2773973,KE,KE-29,Murarandia Two,Murarandia Two,153,3,Locality,UTC+3,Africa/Nairobi
+2773974,KE,KE-29,Murarandia,Murang'a,53,3,Locality,UTC+3,Africa/Nairobi
+2773975,KE,KE-29,Murang'a,Murang'a,43314,2,Urban Center,UTC+3,Africa/Nairobi
+2773978,KE,KE-35,Munyeki,Munyeki,89,3,Locality,UTC+3,Africa/Nairobi
+2773979,KE,KE-36,Munyange Two,Munyange Two,174,3,Locality,UTC+3,Africa/Nairobi
+2773980,KE,KE-36,Munyange One,Munyange One,195,3,Locality,UTC+3,Africa/Nairobi
+2773981,KE,KE-36,Munyange,Munyange,90,3,Locality,UTC+3,Africa/Nairobi
+2773983,KE,KE-29,Mununga,Mununga,456,3,Locality,UTC+3,Africa/Nairobi
+2773987,KE,KE-40,Munguvini,Munguvini,165,3,Locality,UTC+3,Africa/Nairobi
+2773990,KE,KE-04,Mungatsi,Mungatsi,67,3,Locality,UTC+3,Africa/Nairobi
+2773991,KE,KE-29,Mungaria,Mungaria,400,3,Locality,UTC+3,Africa/Nairobi
+2773998,KE,KE-04,Mundika,Mundika,143,3,Locality,UTC+3,Africa/Nairobi
+2774000,KE,KE-11,Mundeku,Mundeku,32,3,Locality,UTC+3,Africa/Nairobi
+2774001,KE,KE-11,Mudaa,Mudaa,177,3,Locality,UTC+3,Africa/Nairobi
+2774002,KE,KE-23,Munathi,Munathi,750,3,Locality,UTC+3,Africa/Nairobi
+2774003,KE,KE-04,Munami,Mumias,125,3,Locality,UTC+3,Africa/Nairobi
+2774004,KE,KE-11,Mumias,Mumias,45485,3,Urban Center,UTC+3,Africa/Nairobi
+2774005,KE,KE-23,Mumela,Mumela,103,3,Locality,UTC+3,Africa/Nairobi
+2774006,KE,KE-23,Mumbuni,Mumbuni,41,3,Locality,UTC+3,Africa/Nairobi
+2774007,KE,KE-22,Mumbuni,Mumbuni,294,3,Locality,UTC+3,Africa/Nairobi
+2774011,KE,KE-16,Muma,Muma,139,3,Locality,UTC+3,Africa/Nairobi
+2774012,KE,KE-11,Mulwanda,Mulwanda,512,3,Locality,UTC+3,Africa/Nairobi
+2774015,KE,KE-14,Mulunguni,Mulunguni,586,3,Locality,UTC+3,Africa/Nairobi
+2774016,KE,KE-23,Mulumini,Mulot,1000,3,Locality,UTC+3,Africa/Nairobi
+2774017,KE,KE-02,Mulot,Mulot,3149,3,Urban Center,UTC+3,Africa/Nairobi
+2774018,KE,KE-27,Mulo,Mulo,55,3,Locality,UTC+3,Africa/Nairobi
+2774020,KE,KE-39,Mulemwa,Mulemwa,775,3,Locality,UTC+3,Africa/Nairobi
+2774024,KE,KE-22,Mulaani,Mulaani,30,3,Locality,UTC+3,Africa/Nairobi
+2774026,KE,KE-22,Mukuyuni,Mukuyuni,108,3,Locality,UTC+3,Africa/Nairobi
+2774027,KE,KE-41,Mukuuni,Mukuuni,49,3,Locality,UTC+3,Africa/Nairobi
+2774028,KE,KE-01,Mukutan,Mukutan,104,3,Locality,UTC+3,Africa/Nairobi
+2774029,KE,KE-47,Makuss,Mugus,34,3,Locality,UTC+3,Africa/Nairobi
+2774030,KE,KE-36,Mukuruweini,Mukuruweini,162,3,Locality,UTC+3,Africa/Nairobi
+2774033,KE,KE-27,Mukuro,Mukuro,248,3,Locality,UTC+3,Africa/Nairobi
+2774034,KE,KE-29,Mukuria,Mukuria,92,3,Locality,UTC+3,Africa/Nairobi
+2774035,KE,KE-14,Mukunguni,Mukunguni,1739,3,Commune,UTC+3,Africa/Nairobi
+2774036,KE,KE-29,Mukungai,Mukungai,106,3,Locality,UTC+3,Africa/Nairobi
+2774038,KE,KE-11,Mukulusi,Mukulusi,347,3,Locality,UTC+3,Africa/Nairobi
+2774039,KE,KE-36,Mukui,Mukui,432,3,Locality,UTC+3,Africa/Nairobi
+2774040,KE,KE-36,Mukore,Mukore,199,3,Locality,UTC+3,Africa/Nairobi
+2774042,KE,KE-45,Mukingi,Mukingi,35,3,Locality,UTC+3,Africa/Nairobi
+2774043,KE,KE-15,Mukinduri,Mukinduri,49,3,Locality,UTC+3,Africa/Nairobi
+2774045,KE,KE-03,Mukhweya,Mukhweya,735,3,Locality,UTC+3,Africa/Nairobi
+2774046,KE,KE-11,Mukhonje,Mukhonje,78,3,Locality,UTC+3,Africa/Nairobi
+2774050,KE,KE-15,Mukarara,Mukarara,588,3,Locality,UTC+3,Africa/Nairobi
+2774051,KE,KE-29,Mukarara,Mukarara,53,3,Locality,UTC+3,Africa/Nairobi
+2774053,KE,KE-29,Mukangu,Mukangu,31,3,Locality,UTC+3,Africa/Nairobi
+2774056,KE,KE-23,Muiu,Muiu,82,3,Locality,UTC+3,Africa/Nairobi
+2774057,KE,KE-23,Muiu,Muiu,71,3,Locality,UTC+3,Africa/Nairobi
+2774058,KE,KE-22,Muisuni,Muisuni,56,3,Locality,UTC+3,Africa/Nairobi
+2774060,KE,KE-18,Mui,Mui,77,3,Locality,UTC+3,Africa/Nairobi
+2774062,KE,KE-17,Muhoroni,Muhoroni,15217,3,Urban Center,UTC+3,Africa/Nairobi
+2774063,KE,KE-03,Muhanda,Muhanda,35,3,Locality,UTC+3,Africa/Nairobi
+2774064,KE,KE-19,Muhaka Mbavu,Muhaka Mbavu,283,3,Locality,UTC+3,Africa/Nairobi
+2774065,KE,KE-01,Mugurin,Mugurin,184,3,Locality,UTC+3,Africa/Nairobi
+2774066,KE,KE-32,Mugundoi,Mugundoi,149,4,village,UTC+3,Africa/Nairobi
+2774067,KE,KE-29,Mugumoini,Mugumoini,154,3,Locality,UTC+3,Africa/Nairobi
+2774068,KE,KE-29,Mugumoini,Mugomoini,141,3,Locality,UTC+3,Africa/Nairobi
+2774069,KE,KE-15,Mugumoini,Mugumoini,153,3,Locality,UTC+3,Africa/Nairobi
+2774072,KE,KE-19,Mugome,Mugome,57,3,Locality,UTC+3,Africa/Nairobi
+2774073,KE,KE-11,Mugomari,Mugomari,113,3,Locality,UTC+3,Africa/Nairobi
+2774075,KE,KE-29,Mugeka,Mugeka,123,3,Locality,UTC+3,Africa/Nairobi
+2774076,KE,KE-40,Mugani,Mugani,232,3,Commune,UTC+3,Africa/Nairobi
+2774078,KE,KE-19,Mudomo,Mudomo,132,3,Locality,UTC+3,Africa/Nairobi
+2774081,KE,KE-26,Muchene,Muchiene,414,3,Locality,UTC+3,Africa/Nairobi
+2774082,KE,KE-03,Muchi,Muchi,93,3,Locality,UTC+3,Africa/Nairobi
+2774083,KE,KE-13,Muchatha,Muchatha,51,3,Locality,UTC+3,Africa/Nairobi
+2774087,KE,KE-23,Muangini,Muangini,379,3,Locality,UTC+3,Africa/Nairobi
+2774095,KE,KE-19,Mtsangatifu,Msangatifu,346,3,Locality,UTC+3,Africa/Nairobi
+2774097,KE,\N,Mtongwe,Mtongwe,303,3,Locality,UTC+3,Africa/Nairobi
+2774098,KE,KE-14,Mtondia,Mtito Andei,67,3,Locality,UTC+3,Africa/Nairobi
+2774099,KE,KE-23,Mtito Andei,Mtito Andei,5626,3,Urban Center,UTC+3,Africa/Nairobi
+2774100,KE,KE-19,Mteza,Mteza,124,3,Locality,UTC+3,Africa/Nairobi
+2774101,KE,KE-47,Matembur,Mtembur,109,3,Locality,UTC+3,Africa/Nairobi
+2774106,KE,KE-21,Msanga,Msambweni,303,3,Locality,UTC+3,Africa/Nairobi
+2774107,KE,KE-19,Msambweni,Msambweni,14951,3,Urban Center,UTC+3,Africa/Nairobi
+2774110,KE,KE-39,Mragua,Mrugua,32,3,Locality,UTC+3,Africa/Nairobi
+2774111,KE,KE-19,Mrima,Mrima,61,3,Locality,UTC+3,Africa/Nairobi
+2774112,KE,KE-39,Mrangi,Mrangi,351,3,Locality,UTC+3,Africa/Nairobi
+2774113,KE,KE-25,Moyale,Moyale,47850,3,Urban Center,UTC+3,Africa/Nairobi
+2774114,KE,KE-14,Moya,Moya,177,3,Locality,UTC+3,Africa/Nairobi
+2774115,KE,KE-16,Motonto,Motonto,426,3,Locality,UTC+3,Africa/Nairobi
+2774118,KE,KE-32,Mosoriot,Mosoriot,71,3,Locality,UTC+3,Africa/Nairobi
+2774120,KE,KE-32,Mosombor,Mosocho,127,3,Locality,UTC+3,Africa/Nairobi
+2774121,KE,KE-16,Mosocho,Mosocho,1927,3,Urban Center,UTC+3,Africa/Nairobi
+2774123,KE,KE-10,Mosiro,Mosiro,56,3,Locality,UTC+3,Africa/Nairobi
+2774126,KE,KE-47,Morkwijit,Morkwijit,43,3,Locality,UTC+3,Africa/Nairobi
+2774127,KE,KE-33,Morijo Narok,Morijo Narok,57,3,Locality,UTC+3,Africa/Nairobi
+2774128,KE,KE-33,Morijo,Morijo,71,3,Locality,UTC+3,Africa/Nairobi
+2774129,KE,KE-27,Mori,Mori,759,3,Locality,UTC+3,Africa/Nairobi
+2774132,KE,KE-12,Mombwo,Mombwo,44,3,Locality,UTC+3,Africa/Nairobi
+2774133,KE,KE-18,Mombasa,Mombasa,74,3,Locality,UTC+3,Africa/Nairobi
+2774134,KE,KE-28,Mombasa,Mombasa,1208333,2,Urban Center,UTC+3,Africa/Nairobi
+2774136,KE,KE-31,Molo,Molo,48356,3,Urban Center,UTC+3,Africa/Nairobi
+2774138,KE,KE-21,Mokowe,Makowe,4249,3,Urban Center,UTC+3,Africa/Nairobi
+2774146,KE,KE-16,Mogonga,Mogonga,3628,3,Urban Center,UTC+3,Africa/Nairobi
+2774148,KE,KE-01,Mogotio,Mogotio,13366,3,Urban Center,UTC+3,Africa/Nairobi
+2774167,KE,KE-31,Keringet,Keringet,4774,3,Urban Center,UTC+3,Africa/Nairobi
+2774187,KE,KE-26,Mitunguu,Mitungugu,3293,4,town,UTC+3,Africa/Nairobi
+2774222,KE,KE-40,Minjila,Minjila,27,3,Locality,UTC+3,Africa/Nairobi
+2774223,KE,KE-44,Mimosa,Mimosa,619,3,Locality,UTC+3,Africa/Nairobi
+2774232,KE,KE-26,Mikinduri,Mikinduri,194,3,Locality,UTC+3,Africa/Nairobi
+2774235,KE,KE-36,Miirini,Miirini,35,3,Locality,UTC+3,Africa/Nairobi
+2774241,KE,KE-13,Miguta,Miguta,298,3,Locality,UTC+3,Africa/Nairobi
+2774242,KE,KE-27,Migori,Migori,53454,2,Urban Center,UTC+3,Africa/Nairobi
+2774243,KE,KE-08,Migori,Migori,69,3,Locality,UTC+3,Africa/Nairobi
+2774244,KE,KE-38,Migoko,Migoko,33,3,Locality,UTC+3,Africa/Nairobi
+2774245,KE,KE-39,Miereni,Miereni,243,3,Locality,UTC+3,Africa/Nairobi
+2774246,KE,KE-19,Miguneni,Mienzeni,100,3,Locality,UTC+3,Africa/Nairobi
+2774247,KE,KE-03,Miendo,Miendo,43,3,Locality,UTC+3,Africa/Nairobi
+2774251,KE,KE-26,Miathene,Miathene,400,3,Locality,UTC+3,Africa/Nairobi
+2774253,KE,KE-22,Miumbuni,Miumbuni,31,3,Locality,UTC+3,Africa/Nairobi
+2774257,KE,KE-39,Mgambonyi,Mgambonyi,346,3,Locality,UTC+3,Africa/Nairobi
+2774258,KE,KE-14,Mgamboni,Mgamboni,147,3,Locality,UTC+3,Africa/Nairobi
+2774259,KE,KE-10,Meto,Meto,32,3,Locality,UTC+3,Africa/Nairobi
+2774263,KE,KE-10,Merueshi,Meru,113,3,Locality,UTC+3,Africa/Nairobi
+2774264,KE,KE-26,Meru,Meru,80191,2,Urban Center,UTC+3,Africa/Nairobi
+2774265,KE,KE-09,Merti,Merti,10990,3,Urban Center,UTC+3,Africa/Nairobi
+2774266,KE,\N,Merille,Merille,3000,4,village,UTC+3,Africa/Nairobi
+2774267,KE,KE-02,Merigi,Merigi,208,3,Locality,UTC+3,Africa/Nairobi
+2774268,KE,KE-13,Meretha,Meretha,147,3,Locality,UTC+3,Africa/Nairobi
+2774271,KE,KE-02,Mengit,Mengit,612,3,Locality,UTC+3,Africa/Nairobi
+2774272,KE,KE-38,Memba,Memba,309,3,Locality,UTC+3,Africa/Nairobi
+2774273,KE,KE-31,Malewa,Malewa,33,3,Locality,UTC+3,Africa/Nairobi
+2774279,KE,KE-39,Mdundonyi,Mdundonyi,1705,3,Commune,UTC+3,Africa/Nairobi
+2774281,KE,KE-04,Mbwekas,Mbweka,379,3,Locality,UTC+3,Africa/Nairobi
+2774283,KE,KE-19,Mbuyuni,Mbuyuni,43,3,Locality,UTC+3,Africa/Nairobi
+2774284,KE,KE-14,Mbuyuni,Mbuyuni,223,3,Locality,UTC+3,Africa/Nairobi
+2774290,KE,KE-23,Mbumbuni,Mbumbuni,1061,3,Commune,UTC+3,Africa/Nairobi
+2774295,KE,KE-29,Mbugua,Mbugua,3067,3,Commune,UTC+3,Africa/Nairobi
+2774299,KE,KE-23,Mbooni,Mbooni,160,3,Locality,UTC+3,Africa/Nairobi
+2774305,KE,KE-18,Mbitini,Mbitini,59,3,Locality,UTC+3,Africa/Nairobi
+2774307,KE,KE-08,Mbita,Mbita Point,10508,3,Urban Center,UTC+3,Africa/Nairobi
+2774315,KE,KE-18,Mbengeleni,Mbengeleni,212,3,Locality,UTC+3,Africa/Nairobi
+2774318,KE,KE-19,Mbegani,Mbegani,959,3,Commune,UTC+3,Africa/Nairobi
+2774326,KE,KE-13,Mbari,Mbari,102527,3,District-level City,UTC+3,Africa/Nairobi
+2774327,KE,KE-14,Mbaoni,Mbaoni,167,3,Locality,UTC+3,Africa/Nairobi
+2774328,KE,KE-45,Mbale,Mbale,38702,2,Urban Center,UTC+3,Africa/Nairobi
+2774329,KE,KE-40,Mbalambala,Mbalambala,1305,3,Commune,UTC+3,Africa/Nairobi
+2774331,KE,KE-22,Mbaikini,Mbaikini,213,3,Locality,UTC+3,Africa/Nairobi
+2774335,KE,KE-19,Mazola,Maziwa Matatu,323,3,Locality,UTC+3,Africa/Nairobi
+2774337,KE,KE-19,Mazeras,Mazeras,16254,3,Urban Center,UTC+3,Africa/Nairobi
+2774338,KE,KE-03,Mayanja,Mayanja,12,3,Locality,UTC+3,Africa/Nairobi
+2774339,KE,KE-03,Mayanja,Mayanja,217,3,Locality,UTC+3,Africa/Nairobi
+2774341,KE,KE-35,Mawingo,Mawingo,1190,3,Commune,UTC+3,Africa/Nairobi
+2774347,KE,KE-18,Mavia,Mavia,8574,3,City,UTC+3,Africa/Nairobi
+2774348,KE,KE-41,Mautini,Mautini,2310,3,Commune,UTC+3,Africa/Nairobi
+2774349,KE,KE-28,Maunguja,Mau Narok,42,3,Locality,UTC+3,Africa/Nairobi
+2774350,KE,KE-31,Mau Narok,Mau Narok,11806,3,Urban Center,UTC+3,Africa/Nairobi
+2774351,KE,KE-23,Maumba,Maua,118,3,Locality,UTC+3,Africa/Nairobi
+2774352,KE,KE-26,Maua,Maua,22121,3,Urban Center,UTC+3,Africa/Nairobi
+2774353,KE,KE-22,Matuu,Matuu,12073,3,Urban Center,UTC+3,Africa/Nairobi
+2774357,KE,KE-22,Matungulu,Matungulu,763,3,Commune,UTC+3,Africa/Nairobi
+2774360,KE,KE-11,Matundu,Matunda,129,3,Locality,UTC+3,Africa/Nairobi
+2774361,KE,KE-44,Matunda,Matunda,10807,3,Urban Center,UTC+3,Africa/Nairobi
+2774362,KE,KE-19,Matumbi,Matumbi,2247,3,Commune,UTC+3,Africa/Nairobi
+2774364,KE,KE-13,Matuguta,Matuguta,38,3,Locality,UTC+3,Africa/Nairobi
+2774365,KE,KE-19,Matuga,Matuga,97158,3,Locality,UTC+3,Africa/Nairobi
+2774367,KE,KE-14,Matsavini,Matsavini,170,3,Locality,UTC+3,Africa/Nairobi
+2774368,KE,KE-14,Matsangoni,Matsangoni,2823,3,City,UTC+3,Africa/Nairobi
+2774369,KE,KE-11,Matsakha,Matsakha,2104,3,Commune,UTC+3,Africa/Nairobi
+2774370,KE,KE-16,Matongo,Matongo,638,3,Commune,UTC+3,Africa/Nairobi
+2774377,KE,KE-21,Matironi,Matironi,725,3,Commune,UTC+3,Africa/Nairobi
+2774378,KE,KE-11,Matioli,Matioli,43,3,Locality,UTC+3,Africa/Nairobi
+2774379,KE,KE-18,Matinyani,Matinyani,240,3,Locality,UTC+3,Africa/Nairobi
+2774380,KE,KE-35,Matindiri Settlement,Matindiri Settlement,1137,3,Commune,UTC+3,Africa/Nairobi
+2774382,KE,KE-23,Matiliku,Matiliku,403,3,Locality,UTC+3,Africa/Nairobi
+2774387,KE,KE-23,Matiani,Matiani,3787,3,Commune,UTC+3,Africa/Nairobi
+2774390,KE,KE-15,Mathiga,Mathiga,4704,3,City,UTC+3,Africa/Nairobi
+2774391,KE,KE-23,Mathiani,Mathiani,627,3,Commune,UTC+3,Africa/Nairobi
+2774393,KE,KE-22,Mathatani,Mathatani,560,3,Locality,UTC+3,Africa/Nairobi
+2774398,KE,KE-15,Mathangauta,Mathangauta,1061,3,Commune,UTC+3,Africa/Nairobi
+2774399,KE,KE-23,Matha,Matha,5227,3,Commune,UTC+3,Africa/Nairobi
+2774400,KE,KE-11,Matete,Matete,247,3,Locality,UTC+3,Africa/Nairobi
+2774401,KE,KE-22,Matetani,Matetani,1105,3,Commune,UTC+3,Africa/Nairobi
+2774402,KE,KE-41,Materi,Materi,166,3,Locality,UTC+3,Africa/Nairobi
+2774403,KE,KE-03,Mateka,Mateka,4557,3,Commune,UTC+3,Africa/Nairobi
+2774404,KE,KE-32,Mateget,Mateget,2184,3,Commune,UTC+3,Africa/Nairobi
+2774405,KE,KE-34,Mateget,Mateget,2441,3,Commune,UTC+3,Africa/Nairobi
+2774406,KE,KE-04,Matayo,Matayos,935,3,Commune,UTC+3,Africa/Nairobi
+2774408,KE,KE-27,Matare,Matare,2502,3,Commune,UTC+3,Africa/Nairobi
+2774409,KE,KE-15,Matandara,Matandara,77,3,Locality,UTC+3,Africa/Nairobi
+2774410,KE,KE-06,Matakari,Matakari,289,3,Locality,UTC+3,Africa/Nairobi
+2774411,KE,KE-13,Mataara,Mataara,136,3,Locality,UTC+3,Africa/Nairobi
+2774413,KE,KE-34,Masusa,Masusa,234,4,hamlet,UTC+3,Africa/Nairobi
+2774415,KE,KE-23,Masumba,Masumba,199,4,isolated_dwelling,UTC+3,Africa/Nairobi
+2774416,KE,KE-16,Masongo,Masongo,226,3,Locality,UTC+3,Africa/Nairobi
+2774418,KE,KE-23,Masokani,Masokani,37,3,Locality,UTC+3,Africa/Nairobi
+2774423,KE,KE-16,Masimba,Masii,2058,3,Urban Center,UTC+3,Africa/Nairobi
+2774424,KE,KE-22,Masii,Masii,3653,3,Urban Center,UTC+3,Africa/Nairobi
+2774425,KE,KE-10,Mashuru,Mashuru,144,3,Locality,UTC+3,Africa/Nairobi
+2774426,KE,KE-10,Mashuru,Mashuru,304,3,Locality,UTC+3,Africa/Nairobi
+2774427,KE,KE-21,Mashundwani,Mashundwani,489,3,Locality,UTC+3,Africa/Nairobi
+2774428,KE,KE-39,Mashanda,Mashanda,2525,3,Commune,UTC+3,Africa/Nairobi
+2774429,KE,KE-06,Mashamba,Maseno,287,3,Locality,UTC+3,Africa/Nairobi
+2774430,KE,KE-17,Maseno,Maseno,6771,3,Urban Center,UTC+3,Africa/Nairobi
+2774431,KE,KE-33,Masandare,Masandare,61,3,Locality,UTC+3,Africa/Nairobi
+2774432,KE,KE-23,Masalani Camp,Masalani,103,3,Locality,UTC+3,Africa/Nairobi
+2774433,KE,KE-40,Masalani,Masalani,43642,3,Urban Center,UTC+3,Africa/Nairobi
+2774437,KE,KE-27,Masaba,Masaba,8178,3,City,UTC+3,Africa/Nairobi
+2774439,KE,KE-19,Maruvesa,Maruvesa,238,3,Locality,UTC+3,Africa/Nairobi
+2774441,KE,KE-29,Marumi,Marumi,652,3,Locality,UTC+3,Africa/Nairobi
+2774443,KE,KE-08,Marucha,Marucha,2585,3,Commune,UTC+3,Africa/Nairobi
+2774445,KE,KE-25,Marsabit,Marsabit,17127,2,Urban Center,UTC+3,Africa/Nairobi
+2774446,KE,KE-27,Maroo,Maroo,42,3,Locality,UTC+3,Africa/Nairobi
+2774449,KE,KE-03,Marobo,Marobo,3116,3,Locality,UTC+3,Africa/Nairobi
+2774453,KE,KE-17,Mariwa,Mariwa,38,3,Locality,UTC+3,Africa/Nairobi
+2774459,KE,KE-16,Marigwa,Marigwa,90,3,Locality,UTC+3,Africa/Nairobi
+2774462,KE,KE-01,Marigat,Marigat,9395,3,Urban Center,UTC+3,Africa/Nairobi
+2774464,KE,KE-26,Mariene,Mariene,456,3,Locality,UTC+3,Africa/Nairobi
+2774465,KE,KE-41,Mariani,Mariakani,102,3,Locality,UTC+3,Africa/Nairobi
+2774466,KE,KE-14,Mariakani,Mariakani,31715,3,Urban Center,UTC+3,Africa/Nairobi
+2774470,KE,KE-14,Marereni,Marereni,7085,3,Urban Center,UTC+3,Africa/Nairobi
+2774472,KE,KE-19,Marere,Marere,47,3,Locality,UTC+3,Africa/Nairobi
+2774474,KE,KE-11,Marenyo,Marenyo,32,3,Locality,UTC+3,Africa/Nairobi
+2774475,KE,KE-40,Marembo,Marembo,79,3,Locality,UTC+3,Africa/Nairobi
+2774477,KE,KE-31,Marashoni,Marashoni,91,3,Locality,UTC+3,Africa/Nairobi
+2774478,KE,KE-21,Mararui,Mararui,143,3,Locality,UTC+3,Africa/Nairobi
+2774482,KE,KE-39,Maranu,Maranu,2427,3,Commune,UTC+3,Africa/Nairobi
+2774484,KE,KE-16,Marani,Marani,883,3,Locality,UTC+3,Africa/Nairobi
+2774485,KE,KE-38,Maranda,Maralal,207,3,Locality,UTC+3,Africa/Nairobi
+2774486,KE,KE-37,Maralal,Maralal,31350,2,Urban Center,UTC+3,Africa/Nairobi
+2774487,KE,KE-29,Maragua,Maragua,8597,3,Urban Center,UTC+3,Africa/Nairobi
+2774490,KE,KE-29,Maragi,Maragi,125,3,Locality,UTC+3,Africa/Nairobi
+2774492,KE,KE-04,Marach,Marach,286,3,Locality,UTC+3,Africa/Nairobi
+2774510,KE,KE-23,Manooni,Manooni,229,3,Locality,UTC+3,Africa/Nairobi
+2774513,KE,KE-13,Mangu,Mangu,182,3,Locality,UTC+3,Africa/Nairobi
+2774515,KE,KE-23,Mangelete,Mangelete,293,3,Locality,UTC+3,Africa/Nairobi
+2774516,KE,KE-19,Mangawani,Mangawani,142,3,Locality,UTC+3,Africa/Nairobi
+2774519,KE,KE-21,Mangai,Mangai,318,3,Locality,UTC+3,Africa/Nairobi
+2774520,KE,KE-34,Manga,Manga,63,3,Locality,UTC+3,Africa/Nairobi
+2774524,KE,KE-24,Mandera,Mandera,74091,2,Urban Center,UTC+3,Africa/Nairobi
+2774532,KE,KE-03,Malomonye,Malomonye,177,3,Locality,UTC+3,Africa/Nairobi
+2774534,KE,KE-14,Malindi,Malindi,117735,3,Urban Center,UTC+3,Africa/Nairobi
+2774537,KE,KE-03,Malikisi,Malikisi,4319,4,Town,UTC+3,Africa/Nairobi
+2774539,KE,KE-40,Malibati,Malibati,64,3,Locality,UTC+3,Africa/Nairobi
+2774540,KE,KE-23,Malibani,Malibani,471,3,Locality,UTC+3,Africa/Nairobi
+2774541,KE,KE-35,Malewa,Malewa,1519,3,Commune,UTC+3,Africa/Nairobi
+2774542,KE,KE-38,Malele,Malele,233,3,Locality,UTC+3,Africa/Nairobi
+2774543,KE,KE-19,Maledi,Maledi,108,3,Locality,UTC+3,Africa/Nairobi
+2774544,KE,KE-11,Malava,Malava,5131,3,Urban Center,UTC+3,Africa/Nairobi
+2774547,KE,KE-14,Malamba,Malamba,3013,3,Commune,UTC+3,Africa/Nairobi
+2774548,KE,KE-03,Malaha,Malaha,2630,3,Commune,UTC+3,Africa/Nairobi
+2774549,KE,KE-11,Malaha,Malaba,1394,3,Commune,UTC+3,Africa/Nairobi
+2774550,KE,KE-04,Malaba,Malaba,8383,3,Urban Center,UTC+3,Africa/Nairobi
+2774552,KE,KE-05,Makwa,Makwa,127,3,Locality,UTC+3,Africa/Nairobi
+2774554,KE,KE-29,Makuyu,Makuyu,191,3,Locality,UTC+3,Africa/Nairobi
+2774555,KE,KE-29,Makuyu,Makuyu,165,3,Locality,UTC+3,Africa/Nairobi
+2774557,KE,KE-47,Makutano,Makutano,28469,3,Urban Center,UTC+3,Africa/Nairobi
+2774559,KE,KE-22,Makutano,Makutano,12396,3,Urban Center,UTC+3,Africa/Nairobi
+2774563,KE,KE-18,Makueni,Makueni,671,3,Locality,UTC+3,Africa/Nairobi
+2774564,KE,KE-23,Makueni Boma,Makueni Boma,20681,4,Town,UTC+3,Africa/Nairobi
+2774571,KE,KE-19,Makobe,Makobe,65,3,Locality,UTC+3,Africa/Nairobi
+2774572,KE,KE-41,Makithi,Makithi,61,3,Locality,UTC+3,Africa/Nairobi
+2774574,KE,KE-23,Makindu,Makindu,15038,3,Urban Center,UTC+3,Africa/Nairobi
+2774576,KE,KE-02,Makimenyi,Makimenyi,484,4,village,UTC+3,Africa/Nairobi
+2774577,KE,KE-11,Makhukhuni,Makhukhuni,178,3,Locality,UTC+3,Africa/Nairobi
+2774582,KE,KE-06,Makengi,Makenge,1491,3,Commune,UTC+3,Africa/Nairobi
+2774589,KE,KE-34,Makairo,Makairo,1161,3,Commune,UTC+3,Africa/Nairobi
+2774591,KE,KE-21,Majunguni,Majunguni,93,3,Locality,UTC+3,Africa/Nairobi
+2774593,KE,KE-14,Maji ya Chumvi,Maji ya Chumvi,497,3,Commune,UTC+3,Africa/Nairobi
+2774597,KE,KE-33,Maji Moto,Maji Moto,1074,3,Commune,UTC+3,Africa/Nairobi
+2774598,KE,KE-16,Maji-Mazuri,Maji-Mazuri,544,3,Locality,UTC+3,Africa/Nairobi
+2774601,KE,KE-21,Majengo,Majengo,139,3,Locality,UTC+3,Africa/Nairobi
+2774603,KE,KE-45,Majengo,Majengo,11913,3,Urban Center,UTC+3,Africa/Nairobi
+2774606,KE,KE-22,Maiyuni,Maiyuni,186,3,Locality,UTC+3,Africa/Nairobi
+2774607,KE,KE-23,Maiani,Maiani,138,3,Locality,UTC+3,Africa/Nairobi
+2774608,KE,KE-29,Mairi,Mairi,42,3,Locality,UTC+3,Africa/Nairobi
+2774609,KE,KE-29,Mairi,Mairi,34,3,Locality,UTC+3,Africa/Nairobi
+2774610,KE,KE-20,Maina,Maina,971,3,Locality,UTC+3,Africa/Nairobi
+2774611,KE,KE-35,Mai Mahoro,Mai Maharo,370,3,Locality,UTC+3,Africa/Nairobi
+2774612,KE,KE-10,Mailua,Mailua,3207,3,Commune,UTC+3,Africa/Nairobi
+2774613,KE,KE-23,Maikuu,Maikuu,46,3,Locality,UTC+3,Africa/Nairobi
+2774617,KE,KE-19,Mahuruni,Mahuruni,356,3,Locality,UTC+3,Africa/Nairobi
+2774620,KE,KE-35,Mahindu,Mahindu,201,3,Locality,UTC+3,Africa/Nairobi
+2774621,KE,KE-36,Mahiga,Mahiga,3074,3,Commune,UTC+3,Africa/Nairobi
+2774622,KE,KE-11,Mahiakato,Mahiakato,75,3,Locality,UTC+3,Africa/Nairobi
+2774631,KE,KE-08,Maguta,Maguta,173,3,Locality,UTC+3,Africa/Nairobi
+2774640,KE,KE-27,Magongo Giribe,Magongo Giribe,153,3,Locality,UTC+3,Africa/Nairobi
+2774641,KE,KE-19,Magongo,Magongo,1399,3,Commune,UTC+3,Africa/Nairobi
+2774643,KE,KE-35,Magomano,Magomano,266,3,Locality,UTC+3,Africa/Nairobi
+2774644,KE,KE-19,Magodi,Magina,235,3,Locality,UTC+3,Africa/Nairobi
+2774645,KE,KE-13,Magina,Magina,122,3,Locality,UTC+3,Africa/Nairobi
+2774646,KE,KE-16,Magenche,Magenche,375,3,Locality,UTC+3,Africa/Nairobi
+2774647,KE,KE-16,Magena Marabu,Magena,3505,3,PPL,UTC+3,Africa/Nairobi
+2774648,KE,KE-08,Magena,Magena,3505,3,Urban Center,UTC+3,Africa/Nairobi
+2774655,KE,KE-10,Magadi,Magadi,14529,4,town,UTC+3,Africa/Nairobi
+2774662,KE,KE-07,Mado Gashi,Mado Gashi,11814,3,Urban Center,UTC+3,Africa/Nairobi
+2774665,KE,KE-39,Madabogo,Madabogo,67,3,Locality,UTC+3,Africa/Nairobi
+2774666,KE,KE-19,Mackinnon Road,Mackinnon Road,3901,3,Urban Center,UTC+3,Africa/Nairobi
+2774668,KE,KE-16,Mochengo,Mochengo,49,3,Locality,UTC+3,Africa/Nairobi
+2774672,KE,KE-22,Machakos,Machakos,63767,2,Urban Center,UTC+3,Africa/Nairobi
+2774673,KE,KE-03,Machakha,Machakha,783,3,Commune,UTC+3,Africa/Nairobi
+2774677,KE,KE-12,Mabasi,Mabasi,193,3,Locality,UTC+3,Africa/Nairobi
+2774681,KE,KE-04,Lwero,Lwei,699,3,Commune,UTC+3,Africa/Nairobi
+2774683,KE,KE-11,Lwanda,Lwanda,607,3,Commune,UTC+3,Africa/Nairobi
+2774698,KE,KE-13,Lusigeti,Lusigeti,551,3,Locality,UTC+3,Africa/Nairobi
+2774699,KE,KE-39,Lushangonyi,Lushangonyi,65,3,Locality,UTC+3,Africa/Nairobi
+2774700,KE,KE-11,Lurambi,Lurambi,350,3,Locality,UTC+3,Africa/Nairobi
+2774702,KE,KE-08,Luora,Luora,143,3,Locality,UTC+3,Africa/Nairobi
+2774703,KE,KE-11,Lunza,Lunza,2182,3,Commune,UTC+3,Africa/Nairobi
+2774706,KE,KE-19,Lunga-Lunga,Lunga-Lunga,2536,3,Urban Center,UTC+3,Africa/Nairobi
+2774708,KE,KE-12,Kipkelion,Lumbwa,2952,4,town,UTC+3,Africa/Nairobi
+2774712,KE,KE-14,Lukongo,Lukongo,145,3,Locality,UTC+3,Africa/Nairobi
+2774714,KE,KE-11,Lukango,Lukango,155,4,village,UTC+3,Africa/Nairobi
+2774718,KE,KE-04,Lugulu,Lugulu,40894,4,village,UTC+3,Africa/Nairobi
+2774720,KE,KE-02,Lugumek,Lugumek,67,3,Locality,UTC+3,Africa/Nairobi
+2774721,KE,KE-07,Lughena,Lughena,286,3,Locality,UTC+3,Africa/Nairobi
+2774726,KE,KE-11,Lubinu,Lubinu,439,3,Locality,UTC+3,Africa/Nairobi
+2774733,KE,KE-04,Luanda,Luanda,10053,4,Town,UTC+3,Africa/Nairobi
+2774734,KE,KE-45,Luanda,Luanda,13319,3,Urban Center,UTC+3,Africa/Nairobi
+2774737,KE,KE-10,Luanat,Luanat,187,3,Locality,UTC+3,Africa/Nairobi
+2774748,KE,KE-43,Lorukumu,Lorugumu,73,3,Locality,UTC+3,Africa/Nairobi
+2774753,KE,KE-12,Londiani,Londiani,4758,3,Urban Center,UTC+3,Africa/Nairobi
+2774758,KE,KE-32,Lolkeringet,Lolkeringet,3085,3,Commune,UTC+3,Africa/Nairobi
+2774759,KE,KE-43,Lolimo,Lolimo,43,3,Locality,UTC+3,Africa/Nairobi
+2774760,KE,KE-33,Lolgorien,Lolgorien,3056,3,Locality,UTC+3,Africa/Nairobi
+2774761,KE,KE-31,Loldia,Loldia,2523,3,Commune,UTC+3,Africa/Nairobi
+2774762,KE,KE-43,Lokwa Kangole,Lokwakangole,419,3,Locality,UTC+3,Africa/Nairobi
+2774764,KE,KE-43,Lokitaung,Lokitaung,28,3,Locality,UTC+3,Africa/Nairobi
+2774765,KE,KE-47,Lokitanyala,Lokichogio,259,3,Locality,UTC+3,Africa/Nairobi
+2774766,KE,KE-43,Lokichokio,Lokichogio,11626,3,Town,UTC+3,Africa/Nairobi
+2774767,KE,KE-43,Lokichar,Lokichar,12676,3,Urban Center,UTC+3,Africa/Nairobi
+2774770,KE,KE-01,Logumukum,Logumukum,863,3,Locality,UTC+3,Africa/Nairobi
+2774772,KE,KE-43,Lodwar,Lodwar,74736,2,Urban Center,UTC+3,Africa/Nairobi
+2774773,KE,KE-37,Lodungokwe,Lodungokwe,21995,3,City,UTC+3,Africa/Nairobi
+2774776,KE,KE-19,Livundoni,Livundoni,1354,3,Commune,UTC+3,Africa/Nairobi
+2774777,KE,KE-12,Litein,Litein,13403,3,Urban Center,UTC+3,Africa/Nairobi
+2774779,KE,KE-13,Limuru,Limuru,68784,3,Urban Center,UTC+3,Africa/Nairobi
+2774782,KE,KE-08,Ligisa,Ligisa,428,3,Locality,UTC+3,Africa/Nairobi
+2774784,KE,KE-38,Lieta,Lieta,2947,4,village,UTC+3,Africa/Nairobi
+2774787,KE,KE-11,Lidambiza,Lidambiza,33,3,Locality,UTC+3,Africa/Nairobi
+2774790,KE,KE-35,Leshau,Leshau,70,3,Locality,UTC+3,Africa/Nairobi
+2774794,KE,KE-22,Lema,Lema,526,3,Locality,UTC+3,Africa/Nairobi
+2774795,KE,KE-05,Lelboinet,Lelboinet,86,3,Locality,UTC+3,Africa/Nairobi
+2774797,KE,KE-17,Lela,Lela,42,3,Locality,UTC+3,Africa/Nairobi
+2774799,KE,KE-40,Leka,Leka,183,3,Locality,UTC+3,Africa/Nairobi
+2774800,KE,KE-26,Leeta,Leeta,28,3,Locality,UTC+3,Africa/Nairobi
+2774804,KE,KE-10,Laset,Laset,273,3,Locality,UTC+3,Africa/Nairobi
+2774807,KE,KE-26,Lare,Lare,2782,3,Locality,UTC+3,Africa/Nairobi
+2774809,KE,KE-33,Langata Sein,Ongata Rongai,78,3,Locality,UTC+3,Africa/Nairobi
+2774810,KE,KE-10,Ongata Rongai,Ongata Rongai,172569,3,Urban Center,UTC+3,Africa/Nairobi
+2774813,KE,KE-21,Lamu,Lamu,24955,2,Urban Center,UTC+3,Africa/Nairobi
+2774815,KE,KE-08,Lala,Laisamis,80,3,Locality,UTC+3,Africa/Nairobi
+2774816,KE,KE-25,Laisamis,Laisamis,5047,3,Urban Center,UTC+3,Africa/Nairobi
+2774817,KE,KE-20,Lairagwan,Lairagwan,181,3,Locality,UTC+3,Africa/Nairobi
+2774820,KE,KE-03,Laboot,Laboot,383,4,village,UTC+3,Africa/Nairobi
+2774821,KE,KE-23,Kyuu,Kyuu,324,3,Locality,UTC+3,Africa/Nairobi
+2774822,KE,KE-18,Kyuso,Kyuso,123,3,Locality,UTC+3,Africa/Nairobi
+2774823,KE,KE-23,Kyumbe,Kyumbe,1616,3,Commune,UTC+3,Africa/Nairobi
+2774824,KE,KE-22,Kyuluni,Kyuluni,356,3,Locality,UTC+3,Africa/Nairobi
+2774826,KE,KE-23,Kyooni,Kyooni,31,3,Locality,UTC+3,Africa/Nairobi
+2774827,KE,KE-18,Kyome,Kyome,232,3,Locality,UTC+3,Africa/Nairobi
+2774832,KE,KE-22,Kyevaluki,Kyevaluki,435,3,Locality,UTC+3,Africa/Nairobi
+2774834,KE,KE-06,Kyeni,Kyeni,32,3,Locality,UTC+3,Africa/Nairobi
+2774835,KE,KE-23,Kyemundu,Kyemundu,70,3,Locality,UTC+3,Africa/Nairobi
+2774836,KE,KE-22,Kyawango,Kyawango,167,3,Locality,UTC+3,Africa/Nairobi
+2774838,KE,KE-23,Kyathani,Kyathani,228,3,Locality,UTC+3,Africa/Nairobi
+2774839,KE,KE-15,Kianjege,Kianjege,1079,3,Commune,UTC+3,Africa/Nairobi
+2774844,KE,KE-22,Kyangala,Kyangala,491,3,Locality,UTC+3,Africa/Nairobi
+2774851,KE,KE-23,Kyamue,Kyamue,3172,3,Commune,UTC+3,Africa/Nairobi
+2774855,KE,KE-23,Kyambeke,Kyambeke,68,3,Locality,UTC+3,Africa/Nairobi
+2774857,KE,KE-22,Kyakivoa,Kyakivoa,345,3,Locality,UTC+3,Africa/Nairobi
+2774861,KE,KE-08,Kwayo,Kwayo,383,3,Commune,UTC+3,Africa/Nairobi
+2774864,KE,KE-39,Kwaringoi,Kwaringoi,136,3,Locality,UTC+3,Africa/Nairobi
+2774865,KE,KE-42,Kwanza,Kwanza,46,3,Locality,UTC+3,Africa/Nairobi
+2774871,KE,KE-22,Kwandani,Kwandani,131,3,Locality,UTC+3,Africa/Nairobi
+2774872,KE,KE-23,Kwamutula,Kwamutula,82,3,Locality,UTC+3,Africa/Nairobi
+2774873,KE,KE-23,Kwa Mukonyo,Kwa Mukonyo,114,3,Locality,UTC+3,Africa/Nairobi
+2774876,KE,KE-23,Kwamakuli,Kwa Makuli,1288,3,Commune,UTC+3,Africa/Nairobi
+2774877,KE,KE-19,Kwale,Kwale,10063,2,Urban Center,UTC+3,Africa/Nairobi
+2774883,KE,KE-47,Kwaisagat,Kwaisagat,103,3,Locality,UTC+3,Africa/Nairobi
+2774892,KE,KE-15,Kutus,Kutus,9143,3,Urban Center,UTC+3,Africa/Nairobi
+2774893,KE,KE-22,Kusyomuomo,Kusyomuomo,73,3,Locality,UTC+3,Africa/Nairobi
+2774894,KE,KE-19,Kusitawi,Kusitawi,8017,3,Commune,UTC+3,Africa/Nairobi
+2774896,KE,KE-17,Kusa,Kusa,60,3,Locality,UTC+3,Africa/Nairobi
+2774899,KE,KE-32,Kurgung,Kurgung,92,3,Locality,UTC+3,Africa/Nairobi
+2774900,KE,KE-01,Kures,Kures,1489,3,Commune,UTC+3,Africa/Nairobi
+2774901,KE,KE-47,Kanyao,Kanyao,259,3,Locality,UTC+3,Africa/Nairobi
+2774906,KE,KE-27,Kuna,Kuna,100,3,Locality,UTC+3,Africa/Nairobi
+2774907,KE,KE-27,Kumoni,Kumoni,357,3,Locality,UTC+3,Africa/Nairobi
+2774908,KE,KE-27,Kumoni,Kumoni,49,3,Locality,UTC+3,Africa/Nairobi
+2774914,KE,KE-36,Kuhora Twana,Kuhora Twana,386,3,Locality,UTC+3,Africa/Nairobi
+2774916,KE,KE-27,Kubweye,Kubweye,155,4,village,UTC+3,Africa/Nairobi
+2774917,KE,KE-09,Kubi Turkana,Kubi Turkana,214,3,Locality,UTC+3,Africa/Nairobi
+2774921,KE,KE-32,Koyo,Koyo,38,3,Locality,UTC+3,Africa/Nairobi
+2774923,KE,KE-08,Kowidi,Kowidi,41,3,Locality,UTC+3,Africa/Nairobi
+2774929,KE,KE-32,Kosirai,Kosirai,251,3,Locality,UTC+3,Africa/Nairobi
+2774932,KE,KE-04,Korturu,Korturu,603,3,Commune,UTC+3,Africa/Nairobi
+2774935,KE,KE-40,Korokora,Korokora,394,3,Locality,UTC+3,Africa/Nairobi
+2774937,KE,KE-31,Korikabemitik,Korikabemitik,74,3,Commune,UTC+3,Africa/Nairobi
+2774943,KE,KE-22,Konza,Konza,2004,4,town,UTC+3,Africa/Nairobi
+2774956,KE,KE-27,Komomange,Komomange,54,3,Locality,UTC+3,Africa/Nairobi
+2774959,KE,KE-21,Kombo Kombo,Kombo Kombo,171,3,Locality,UTC+3,Africa/Nairobi
+2774960,KE,KE-17,Kombewa,Kombewa,114,3,Locality,UTC+3,Africa/Nairobi
+2774962,KE,KE-32,Kombe,Kombe,135,3,Locality,UTC+3,Africa/Nairobi
+2774964,KE,KE-01,Kolowa,Kolowa,86,3,Locality,UTC+3,Africa/Nairobi
+2774968,KE,KE-23,Kola,Kola,58,3,Locality,UTC+3,Africa/Nairobi
+2774969,KE,KE-32,Kokwet,Kokwet,79,3,Locality,UTC+3,Africa/Nairobi
+2774970,KE,KE-27,Kokuro,Kokuro,2037,3,Commune,UTC+3,Africa/Nairobi
+2774972,KE,KE-04,Kokale,Kokale,166,3,Locality,UTC+3,Africa/Nairobi
+2774975,KE,KE-40,Koito,Koito,1407,3,Locality,UTC+3,Africa/Nairobi
+2774976,KE,KE-05,Koitilial,Koitilial,197,3,Locality,UTC+3,Africa/Nairobi
+2774977,KE,KE-32,Koiprak,Koiprak,1069,3,Commune,UTC+3,Africa/Nairobi
+2774981,KE,KE-06,Kogari,Kogari,370,3,Locality,UTC+3,Africa/Nairobi
+2774985,KE,KE-04,Kacholia,Kacholia,44,3,Locality,UTC+3,Africa/Nairobi
+2774988,KE,KE-08,Kobila,Kobila,507,3,Locality,UTC+3,Africa/Nairobi
+2774990,KE,KE-14,Kizurini,Kizurini,76,3,Locality,UTC+3,Africa/Nairobi
+2774992,KE,KE-18,Kivyuni,Kivyuni,206,3,Locality,UTC+3,Africa/Nairobi
+2774999,KE,KE-22,Kivani,Kivani,39,3,Locality,UTC+3,Africa/Nairobi
+2775000,KE,KE-22,Kivandini,Kivandini,292,3,Commune,UTC+3,Africa/Nairobi
+2775005,KE,\N,Kiunga,Kiunga,1542,3,Commune,UTC+3,Africa/Nairobi
+2775018,KE,KE-45,Kituru,Kituru,3535,3,Locality,UTC+3,Africa/Nairobi
+2775020,KE,KE-03,Kituni,Kituni,9605,3,City,UTC+3,Africa/Nairobi
+2775022,KE,KE-18,Kitundumo,Kitundumo,652,3,Locality,UTC+3,Africa/Nairobi
+2775024,KE,KE-12,Kitumbe,Kitumbe,268,3,Locality,UTC+3,Africa/Nairobi
+2775028,KE,KE-23,Kituiuni,Kitui,157,3,Locality,UTC+3,Africa/Nairobi
+2775029,KE,KE-18,Kitui,Kitui,29062,2,Urban Center,UTC+3,Africa/Nairobi
+2775030,KE,KE-19,Kitsantse,Kitsantse,32,3,Locality,UTC+3,Africa/Nairobi
+2775033,KE,KE-23,Kitonyoni,Kitonyoni,629,3,Locality,UTC+3,Africa/Nairobi
+2775034,KE,KE-22,Kitonyini,Kitonyini,173,3,Locality,UTC+3,Africa/Nairobi
+2775040,KE,KE-22,Kitie,Kitie,1468,3,Commune,UTC+3,Africa/Nairobi
+2775041,KE,KE-06,Kithunguri,Kithunguri,243,3,Locality,UTC+3,Africa/Nairobi
+2775043,KE,KE-23,Kithungo,Kithungo,143,3,Locality,UTC+3,Africa/Nairobi
+2775049,KE,KE-22,Kithimani,Kithimani,2923,3,Urban Center,UTC+3,Africa/Nairobi
+2775050,KE,KE-22,Kithii,Kithii,4304,3,PPL,UTC+3,Africa/Nairobi
+2775051,KE,KE-26,Kitheo,Kitheo,55,3,Locality,UTC+3,Africa/Nairobi
+2775058,KE,KE-22,Kiteta,Kiteta,75,3,Locality,UTC+3,Africa/Nairobi
+2775059,KE,KE-40,Kitere,Kitere,178,3,Locality,UTC+3,Africa/Nairobi
+2775068,KE,KE-42,Kitale,Kitale,162169,2,Urban Center,UTC+3,Africa/Nairobi
+2775069,KE,KE-03,Kitale,Kitale,119,3,Locality,UTC+3,Africa/Nairobi
+2775073,KE,KE-17,Kisumu,Kisumu,397957,2,Urban Center,UTC+3,Africa/Nairobi
+2775078,KE,KE-23,Kisingo,Kisingo,112,3,Locality,UTC+3,Africa/Nairobi
+2775080,KE,KE-01,Kisanana,Kisimachande,409,3,Locality,UTC+3,Africa/Nairobi
+2775082,KE,KE-16,Kisii,Kisii,112417,2,Urban Center,UTC+3,Africa/Nairobi
+2775085,KE,KE-10,Kiserian,Kiserian,76903,3,Urban Center,UTC+3,Africa/Nairobi
+2775086,KE,KE-08,Kisegi,Kisaoni,921,3,Commune,UTC+3,Africa/Nairobi
+2775087,KE,KE-28,Kisauni,Kisauni,65,3,Locality,UTC+3,Africa/Nairobi
+2775089,KE,KE-29,Kirwara,Kirwara,4148,3,City,UTC+3,Africa/Nairobi
+2775091,KE,KE-36,Kirurumi,Kirurumi,174,3,Locality,UTC+3,Africa/Nairobi
+2775093,KE,KE-29,Kirundu,Kirundu,7149,3,Commune,UTC+3,Africa/Nairobi
+2775094,KE,KE-14,Kirumbi,Kirumbi,90,3,Locality,UTC+3,Africa/Nairobi
+2775095,KE,KE-36,Kirungi,Kirungi,451,3,Commune,UTC+3,Africa/Nairobi
+2775102,KE,KE-13,Kiroe,Kiroe,1117,3,Commune,UTC+3,Africa/Nairobi
+2775103,KE,KE-45,Kiritu,Kiritu,102,3,Locality,UTC+3,Africa/Nairobi
+2775105,KE,KE-29,Kiriti,Kiriti,527,3,Locality,UTC+3,Africa/Nairobi
+2775107,KE,KE-13,Kiriri,Kiriri,154,3,Locality,UTC+3,Africa/Nairobi
+2775113,KE,KE-29,Kirimiri,Kirimiri,161,3,Locality,UTC+3,Africa/Nairobi
+2775114,KE,KE-29,Kirimamwaro,Kirimamwaro,104,3,Locality,UTC+3,Africa/Nairobi
+2775117,KE,KE-06,Kirima,Kirima,90,3,Locality,UTC+3,Africa/Nairobi
+2775118,KE,KE-20,Kirima,Kirima,31,3,Locality,UTC+3,Africa/Nairobi
+2775120,KE,KE-13,Kiriko,Kiriko,238,3,Locality,UTC+3,Africa/Nairobi
+2775121,KE,KE-15,Kiriko,Kiriko,64,3,Locality,UTC+3,Africa/Nairobi
+2775123,KE,KE-06,Kirigo,Kirigo,91,3,Locality,UTC+3,Africa/Nairobi
+2775124,KE,KE-15,Kirigi,Kirigi,583,3,Locality,UTC+3,Africa/Nairobi
+2775125,KE,KE-06,Kirigi,Kirigi,475,3,Commune,UTC+3,Africa/Nairobi
+2775129,KE,KE-29,Kiriaini,Kiriaini,3779,3,Urban Center,UTC+3,Africa/Nairobi
+2775130,KE,KE-29,Kiriaini,Kiriaini,389,3,Locality,UTC+3,Africa/Nairobi
+2775133,KE,KE-26,Kiri,Kiri,198,3,Locality,UTC+3,Africa/Nairobi
+2775135,KE,KE-36,Kiriti,Kiriti,767,3,Locality,UTC+3,Africa/Nairobi
+2775137,KE,KE-29,Kirere,Kirere,747,3,Locality,UTC+3,Africa/Nairobi
+2775138,KE,KE-13,Kirenga,Kirenga,733,3,Commune,UTC+3,Africa/Nairobi
+2775141,KE,KE-13,Kirangari,Kirangari,166,3,Locality,UTC+3,Africa/Nairobi
+2775143,KE,KE-39,Kipusi,Kipusi,37,3,Locality,UTC+3,Africa/Nairobi
+2775149,KE,KE-12,Kiptewit,Kiptewit,277,3,Locality,UTC+3,Africa/Nairobi
+2775150,KE,KE-12,Kiptere,Kiptere,151,3,Locality,UTC+3,Africa/Nairobi
+2775155,KE,KE-02,Kipsonoi,Kipsonoi,982,3,Commune,UTC+3,Africa/Nairobi
+2775156,KE,KE-12,Kipsitet,Kipsitet,474,3,Locality,UTC+3,Africa/Nairobi
+2775158,KE,KE-32,Kipsamoite,Kipsamoite,64,3,Locality,UTC+3,Africa/Nairobi
+2775160,KE,KE-02,Kiplokji,Kiplokji,512,3,Locality,UTC+3,Africa/Nairobi
+2775161,KE,KE-02,Kiplelji,Kiplelji,162,3,Locality,UTC+3,Africa/Nairobi
+2775163,KE,KE-02,Kipkiyen,Kipkiyen,748,3,Commune,UTC+3,Africa/Nairobi
+2775165,KE,KE-02,Kipkelat,Kipkelat,104,3,Locality,UTC+3,Africa/Nairobi
+2775169,KE,KE-40,Kipini,Kipini,4114,3,Urban Center,UTC+3,Africa/Nairobi
+2775170,KE,KE-40,Kipendi,Kipendi,172,3,Locality,UTC+3,Africa/Nairobi
+2775177,KE,KE-23,Kiongwani,Kiongwani,1149,4,village,UTC+3,Africa/Nairobi
+2775179,KE,KE-16,Kionduso,Kionduso,432,3,Locality,UTC+3,Africa/Nairobi
+2775183,KE,KE-16,Kegogi,Kegogi,1838,3,Commune,UTC+3,Africa/Nairobi
+2775185,KE,KE-22,Kinyaata,Kinyaata,1198,3,Commune,UTC+3,Africa/Nairobi
+2775187,KE,KE-23,Kinyambu,Kinyambu,952,3,Locality,UTC+3,Africa/Nairobi
+2775189,KE,KE-40,Kinyadu,Kinyadu,89,3,Locality,UTC+3,Africa/Nairobi
+2775193,KE,KE-45,Kinu,Kinu,217,3,Locality,UTC+3,Africa/Nairobi
+2775194,KE,KE-26,Kinoro,Kinoro,485,3,Locality,UTC+3,Africa/Nairobi
+2775197,KE,KE-22,Kinoi,Kinna,22428,3,Locality,UTC+3,Africa/Nairobi
+2775198,KE,KE-09,Kinna,Kinna,11175,3,Urban Center,UTC+3,Africa/Nairobi
+2775199,KE,KE-32,Kingoror,Kingoror,84,3,Locality,UTC+3,Africa/Nairobi
+2775200,KE,KE-13,Kinari,Kinari,3444,3,Commune,UTC+3,Africa/Nairobi
+2775203,KE,KE-19,Kinangoni,Kinango,1899,3,Commune,UTC+3,Africa/Nairobi
+2775204,KE,KE-19,Kinango,Kinango,8070,3,Urban Center,UTC+3,Africa/Nairobi
+2775205,KE,KE-14,Kinango,Kinango,417,3,Locality,UTC+3,Africa/Nairobi
+2775206,KE,KE-14,Kinane,Kihancha,78,3,Locality,UTC+3,Africa/Nairobi
+2775207,KE,KE-27,Kihancha,Kehancha,6746,3,Commune,UTC+3,Africa/Nairobi
+2775209,KE,KE-18,Kimuu,Kimuu,208,3,Locality,UTC+3,Africa/Nairobi
+2775211,KE,KE-13,Kimunyu,Kimunyu,144,3,Locality,UTC+3,Africa/Nairobi
+2775220,KE,KE-02,Kimolwet,Kimolwet,130385,3,District-level City,UTC+3,Africa/Nairobi
+2775221,KE,KE-03,Kimobo,Kimobo,181,3,Locality,UTC+3,Africa/Nairobi
+2775224,KE,KE-01,Kimnai,Kiminini,2482,3,Commune,UTC+3,Africa/Nairobi
+2775225,KE,KE-42,Kiminini,Kiminini,16560,3,Urban Center,UTC+3,Africa/Nairobi
+2775228,KE,KE-32,Kiminda,Kiminda,946,3,Commune,UTC+3,Africa/Nairobi
+2775230,KE,KE-03,Kimilili,Kimilili,56050,3,Urban Center,UTC+3,Africa/Nairobi
+2775231,KE,KE-13,Kimende,Kimbimbi,4356,3,Urban Center,UTC+3,Africa/Nairobi
+2775232,KE,KE-15,Kimbimbi,Kimbimbi,6826,3,Urban Center,UTC+3,Africa/Nairobi
+2775235,KE,KE-29,Kimathi,Kimathi,1068,3,Locality,UTC+3,Africa/Nairobi
+2775236,KE,KE-21,Kimara Maganga,Mbwara Maganga,172,3,Locality,UTC+3,Africa/Nairobi
+2775237,KE,KE-02,Kimargis,Kimargis,41,3,Locality,UTC+3,Africa/Nairobi
+2775238,KE,KE-32,Kimaren,Kimaren,39,3,Locality,UTC+3,Africa/Nairobi
+2775239,KE,KE-18,Kimangau,Kimangau,38,3,Locality,UTC+3,Africa/Nairobi
+2775241,KE,KE-10,Kimana,Kimana,10116,3,Urban Center,UTC+3,Africa/Nairobi
+2775242,KE,KE-03,Kimalewa,Kimalewa,65,3,Locality,UTC+3,Africa/Nairobi
+2775243,KE,KE-39,Kimala,Kimala,753,3,Locality,UTC+3,Africa/Nairobi
+2775249,KE,KE-18,Kilonzo,Kilonzo,54,3,Locality,UTC+3,Africa/Nairobi
+2775250,KE,KE-23,Kilome,Kilome,79,3,Locality,UTC+3,Africa/Nairobi
+2775255,KE,KE-23,Kilili,Kilili,58,3,Locality,UTC+3,Africa/Nairobi
+2775256,KE,KE-23,Kilili,Kilili,64,3,Locality,UTC+3,Africa/Nairobi
+2775257,KE,KE-21,Kililani,Kililani,132,3,Locality,UTC+3,Africa/Nairobi
+2775258,KE,KE-12,Kileges,Kilifi,46,3,Locality,UTC+3,Africa/Nairobi
+2775259,KE,KE-14,Kilifi,Kilifi,74270,2,Urban Center,UTC+3,Africa/Nairobi
+2775261,KE,KE-19,Kilibasi,Kilibasi,62,3,Locality,UTC+3,Africa/Nairobi
+2775262,KE,KE-33,Kilgoris,Kilgoris,10845,3,Urban Center,UTC+3,Africa/Nairobi
+2775267,KE,KE-23,Kilala,Kilala,33,3,Locality,UTC+3,Africa/Nairobi
+2775270,KE,KE-13,Kikuyu,Kikuyu,257045,3,Urban Center,UTC+3,Africa/Nairobi
+2775273,KE,KE-23,Kikumini,Kikumini,232,4,village,UTC+3,Africa/Nairobi
+2775276,KE,KE-21,Kikoni,Kikoni,130,3,Locality,UTC+3,Africa/Nairobi
+2775278,KE,KE-19,Kikoneni,Kikoneni,29,3,Locality,UTC+3,Africa/Nairobi
+2775281,KE,KE-23,Kikoko,Kikima,83,3,Locality,UTC+3,Africa/Nairobi
+2775282,KE,KE-23,Kikima,Kikima,3269,3,Urban Center,UTC+3,Africa/Nairobi
+2775283,KE,KE-22,Kikawani,Kikambala,59,3,Locality,UTC+3,Africa/Nairobi
+2775285,KE,KE-14,Kijiwetanga,Kijiwetanga,122,3,Locality,UTC+3,Africa/Nairobi
+2775286,KE,KE-14,Kijipwa,Kijipwa,143,3,Locality,UTC+3,Africa/Nairobi
+2775287,KE,KE-34,Kajaur,Kajaur,263,3,locality,UTC+3,Africa/Nairobi
+2775289,KE,KE-31,Kijabe,Kijabe,4679,3,Urban Center,UTC+3,Africa/Nairobi
+2775290,KE,KE-26,Kiirua,Kiirua,2158,3,Urban Center,UTC+3,Africa/Nairobi
+2775291,KE,KE-29,Kiriangoro,Kiriangoro,42,3,Locality,UTC+3,Africa/Nairobi
+2775304,KE,KE-13,Kihara,Kihara,778,3,Commune,UTC+3,Africa/Nairobi
+2775307,KE,KE-29,Kigumo,Kigumo,10720,3,City,UTC+3,Africa/Nairobi
+2775309,KE,KE-06,Kiguambiti,Kiguambiti,181,3,Locality,UTC+3,Africa/Nairobi
+2775310,KE,KE-29,Kigoro,Kigoro,337,3,Locality,UTC+3,Africa/Nairobi
+2775311,KE,KE-13,Kigongo,Kigongo,48,3,Locality,UTC+3,Africa/Nairobi
+2775312,KE,KE-29,Kigongo,Kigongo,409,3,Locality,UTC+3,Africa/Nairobi
+2775315,KE,KE-36,Kigogo-ini,Kigogo-ini,57,3,Locality,UTC+3,Africa/Nairobi
+2775320,KE,KE-13,Kiganjo,Kiganjo,167,3,Locality,UTC+3,Africa/Nairobi
+2775322,KE,KE-36,Kiganjo,Kiganjo,4009,3,Urban Center,UTC+3,Africa/Nairobi
+2775324,KE,KE-03,Kigai,Kigai,2429,3,Commune,UTC+3,Africa/Nairobi
+2775326,KE,KE-39,Kifumbu,Kifumbu,34,3,Locality,UTC+3,Africa/Nairobi
+2775327,KE,KE-41,Kiereni,Kiereni,2383,3,Commune,UTC+3,Africa/Nairobi
+2775329,KE,KE-41,Kieni,Kieni,74,3,Locality,UTC+3,Africa/Nairobi
+2775331,KE,KE-26,Kiegoi,Kiegoi,245,3,Locality,UTC+3,Africa/Nairobi
+2775335,KE,KE-21,Kiduruni,Kiduruni,131,3,Locality,UTC+3,Africa/Nairobi
+2775340,KE,KE-23,Kibwezi,Kibwezi,8143,3,Urban Center,UTC+3,Africa/Nairobi
+2775342,KE,KE-32,Kibwareng,Kibwareng,195,4,village,UTC+3,Africa/Nairobi
+2775345,KE,KE-29,Kibutha,Kibutha,122,3,Locality,UTC+3,Africa/Nairobi
+2775348,KE,KE-03,Kibuk,Kibuk,309,3,Locality,UTC+3,Africa/Nairobi
+2775349,KE,KE-41,Kibugwa,Kibugwa,69,3,Locality,UTC+3,Africa/Nairobi
+2775350,KE,KE-19,Kibuguni,Kibuguni,370,3,Locality,UTC+3,Africa/Nairobi
+2775352,KE,KE-03,Kiboywa,Kiboywa,909,3,Commune,UTC+3,Africa/Nairobi
+2775360,KE,KE-15,Kibirigwi,Kibirigwi,61,3,Locality,UTC+3,Africa/Nairobi
+2775362,KE,KE-15,Kibingoti,Kibingoti,491,3,Locality,UTC+3,Africa/Nairobi
+2775363,KE,KE-01,Kibingor,Kibingor,221,3,Locality,UTC+3,Africa/Nairobi
+2775365,KE,KE-03,Kibingai,Kibingai,799,3,Commune,UTC+3,Africa/Nairobi
+2775366,KE,KE-03,Kibingei,Kibingei,1418,3,Locality,UTC+3,Africa/Nairobi
+2775367,KE,KE-17,Kibigori,Kibigori,144,3,Locality,UTC+3,Africa/Nairobi
+2775372,KE,KE-14,Kibarani,Kibarani,139,3,Locality,UTC+3,Africa/Nairobi
+2775375,KE,KE-19,Kibandaongo,Kibandaongo,1467,3,Commune,UTC+3,Africa/Nairobi
+2775376,KE,KE-45,Kibagara,Kibagara,101,3,Locality,UTC+3,Africa/Nairobi
+2775377,KE,KE-03,Kibabii,Kibabii,182,3,Locality,UTC+3,Africa/Nairobi
+2775385,KE,KE-29,Kiawambeu,Kiawambeu,128,3,Locality,UTC+3,Africa/Nairobi
+2775386,KE,KE-36,Kiawaithanji,Kiawaithanji,1285,3,Commune,UTC+3,Africa/Nairobi
+2775392,KE,KE-15,Kianyaga,Kianyaga,2974,3,Urban Center,UTC+3,Africa/Nairobi
+2775398,KE,KE-15,Kianjiru,Kianjiru,231,3,Locality,UTC+3,Africa/Nairobi
+2775399,KE,KE-15,Kianjege,Kianjege,631,3,Commune,UTC+3,Africa/Nairobi
+2775400,KE,KE-26,Kianjai,Kianjai,257,3,Locality,UTC+3,Africa/Nairobi
+2775404,KE,KE-06,Kiangungi,Kiangungi,135,3,Locality,UTC+3,Africa/Nairobi
+2775406,KE,KE-29,Kiangoma,Kiangoma,442,3,Locality,UTC+3,Africa/Nairobi
+2775407,KE,KE-36,Kiangoma,Kiangoma,426,4,village,UTC+3,Africa/Nairobi
+2775410,KE,KE-13,Kiangima,Kiangima,19,3,Locality,UTC+3,Africa/Nairobi
+2775411,KE,KE-36,Kiangararu,Kiangararu,160,4,hamlet,UTC+3,Africa/Nairobi
+2775413,KE,KE-15,Kiangai,God's Hill,59,3,Locality,UTC+3,Africa/Nairobi
+2775417,KE,KE-36,Kiandongoro,Kiandongoro,39,3,Locality,UTC+3,Africa/Nairobi
+2775419,KE,KE-15,Kianderi,Kianderi,129,3,Locality,UTC+3,Africa/Nairobi
+2775420,KE,KE-36,Kianderi,Kianderi,147,4,hamlet,UTC+3,Africa/Nairobi
+2775421,KE,KE-15,Kiandai,Kiandai,149,3,Locality,UTC+3,Africa/Nairobi
+2775423,KE,KE-13,Kiamworia,Kiamworia,73,3,Locality,UTC+3,Africa/Nairobi
+2775426,KE,KE-36,Kiamwathi,Kiamwathi,143,3,Locality,UTC+3,Africa/Nairobi
+2775429,KE,KE-29,Kiamuturi,Kiamuturi,449,3,Locality,UTC+3,Africa/Nairobi
+2775439,KE,KE-29,Kiambuthia,Kiambuthia,51,3,Locality,UTC+3,Africa/Nairobi
+2775441,KE,KE-13,Kiambu,Kiambu,147870,2,Urban Center,UTC+3,Africa/Nairobi
+2775447,KE,KE-36,Kiamariga,Kiamariga,273,3,Locality,UTC+3,Africa/Nairobi
+2775454,KE,KE-29,Kiairathe,Kiairathe,1235,4,village,UTC+3,Africa/Nairobi
+2775455,KE,KE-13,Kiahuria,Kiahuria,685,3,Locality,UTC+3,Africa/Nairobi
+2775462,KE,KE-27,Kiaboroti,Kiaboroti,65,3,Locality,UTC+3,Africa/Nairobi
+2775463,KE,KE-34,Kiabonyoru,Kiabonyoru,35,3,Locality,UTC+3,Africa/Nairobi
+2775464,KE,KE-11,Khwisero,Khwisero,113294,4,town,UTC+3,Africa/Nairobi
+2775473,KE,KE-06,Kevote,Kevote,66,3,Locality,UTC+3,Africa/Nairobi
+2775474,KE,KE-06,Kevoe,Kevoe,47,3,Locality,UTC+3,Africa/Nairobi
+2775475,KE,KE-23,Kevanda,Kevanda,49,3,Locality,UTC+3,Africa/Nairobi
+2775477,KE,KE-32,Kesengei,Kesengei,99,3,Locality,UTC+3,Africa/Nairobi
+2775478,KE,KE-40,Kesanguri,Kesanguri,43,3,Locality,UTC+3,Africa/Nairobi
+2775480,KE,KE-15,Kerugoya,Kerugoya,30045,2,Urban Center,UTC+3,Africa/Nairobi
+2775481,KE,KE-34,Karota,Karota,307,3,Locality,UTC+3,Africa/Nairobi
+2775483,KE,KE-02,Keroncho,Keroka,154,3,Locality,UTC+3,Africa/Nairobi
+2775484,KE,KE-34,Keroka,Keroka,10881,3,Urban Center,UTC+3,Africa/Nairobi
+2775487,KE,KE-31,Kerisa,Kerisa,387,3,Locality,UTC+3,Africa/Nairobi
+2775489,KE,KE-06,Kerie,Kerie,37,3,Locality,UTC+3,Africa/Nairobi
+2775491,KE,KE-12,Kericho,Kericho,53804,2,Urban Center,UTC+3,Africa/Nairobi
+2775492,KE,KE-41,Keria,Keria,2437,4,village,UTC+3,Africa/Nairobi
+2775493,KE,KE-13,Kereita,Kereita,63,3,Locality,UTC+3,Africa/Nairobi
+2775494,KE,KE-12,Keongo,Keongo,338,3,Locality,UTC+3,Africa/Nairobi
+2775495,KE,KE-18,Kenze,Kenze,75,3,Locality,UTC+3,Africa/Nairobi
+2775497,KE,KE-16,Kenyenya,Kenyenya,2698,3,Urban Center,UTC+3,Africa/Nairobi
+2775499,KE,KE-22,Kenplains,Kenplains,3230,3,Commune,UTC+3,Africa/Nairobi
+2775502,KE,KE-08,Kendu Bay,Kendu Bay,3249,3,Urban Center,UTC+3,Africa/Nairobi
+2775503,KE,KE-34,Kemera,Kemera,183,3,Locality,UTC+3,Africa/Nairobi
+2775505,KE,KE-02,Kembu,Kembu,28,3,Locality,UTC+3,Africa/Nairobi
+2775507,KE,KE-45,Kegondi,Kegondi,29,3,Locality,UTC+3,Africa/Nairobi
+2775509,KE,KE-06,Kegaa,Kegaa,261,3,Locality,UTC+3,Africa/Nairobi
+2775510,KE,KE-23,Kee,Kee,60,3,Locality,UTC+3,Africa/Nairobi
+2775515,KE,KE-34,Kebirigo,Kebirigo,4711,3,Urban Center,UTC+3,Africa/Nairobi
+2775516,KE,KE-34,Kebirichi,Kebirichi,6485,3,City,UTC+3,Africa/Nairobi
+2775519,KE,KE-34,Kebabe,Kebabe,868,3,Locality,UTC+3,Africa/Nairobi
+2775520,KE,KE-27,Kea,Kea,221,3,Locality,UTC+3,Africa/Nairobi
+2775521,KE,KE-34,Kea,Kea,96,3,Locality,UTC+3,Africa/Nairobi
+2775522,KE,KE-14,Kazoli,Kazoli,88,3,Locality,UTC+3,Africa/Nairobi
+2775523,KE,KE-14,Kasikini,Kasikini,153,3,Locality,UTC+3,Africa/Nairobi
+2775525,KE,KE-14,Kayafungo,Kayafungo,1650,3,Commune,UTC+3,Africa/Nairobi
+2775526,KE,KE-14,Kayafungo,Kayafungo,72,3,Locality,UTC+3,Africa/Nairobi
+2775527,KE,KE-22,Kawethei,Kawethei,118,3,Locality,UTC+3,Africa/Nairobi
+2775528,KE,KE-29,Kaweru,Kaweru,997,3,Locality,UTC+3,Africa/Nairobi
+2775529,KE,KE-18,Kawelu,Kawelu,418,3,Locality,UTC+3,Africa/Nairobi
+2775531,KE,KE-23,Kawala,Kawala,6633,3,Commune,UTC+3,Africa/Nairobi
+2775533,KE,KE-18,Kavyongo,Kavyongo,248,3,Commune,UTC+3,Africa/Nairobi
+2775535,KE,KE-14,Kavuluni,Kavuluni,113,3,Locality,UTC+3,Africa/Nairobi
+2775541,KE,KE-18,Kavaini,Kavaini,5365,3,Commune,UTC+3,Africa/Nairobi
+2775542,KE,KE-23,Kauti,Kauti,497,3,Commune,UTC+3,Africa/Nairobi
+2775546,KE,KE-23,Kaumoni,Kaumoni,390,3,Locality,UTC+3,Africa/Nairobi
+2775548,KE,KE-18,Kaui,Kaui,827,3,locality,UTC+3,Africa/Nairobi
+2775549,KE,KE-19,Kaufumbani,Kaufumbani,1826,3,Locality,UTC+3,Africa/Nairobi
+2775553,KE,KE-23,Katulye,Katulye,236,3,Locality,UTC+3,Africa/Nairobi
+2775555,KE,KE-22,Katulani,Katulani,307,3,Locality,UTC+3,Africa/Nairobi
+2775557,KE,KE-18,Katse,Katse,55,3,Locality,UTC+3,Africa/Nairobi
+2775558,KE,KE-18,Katothya,Katothia,198,3,Locality,UTC+3,Africa/Nairobi
+2775561,KE,KE-18,Kathiani,Kathiani,4304,3,Urban Center,UTC+3,Africa/Nairobi
+2775562,KE,KE-06,Kathunguri,Kathungure,336,3,Locality,UTC+3,Africa/Nairobi
+2775566,KE,KE-06,Kathugu,Kathugu,82,3,Locality,UTC+3,Africa/Nairobi
+2775567,KE,KE-23,Kathonzweni,Kathonzweni,292,4,village,UTC+3,Africa/Nairobi
+2775571,KE,KE-18,Kathivo,Kathivo,838,3,Commune,UTC+3,Africa/Nairobi
+2775572,KE,KE-26,Kathi,Kathi,233,3,Locality,UTC+3,Africa/Nairobi
+2775573,KE,KE-26,Katheri,Katheri,443,4,hamlet,UTC+3,Africa/Nairobi
+2775575,KE,KE-41,Kathenaugi,Kathenaugi,298,3,Locality,UTC+3,Africa/Nairobi
+2775577,KE,KE-22,Katheka,Katheka,35,3,Locality,UTC+3,Africa/Nairobi
+2775583,KE,KE-22,Kathama,Kathama,195,3,Locality,UTC+3,Africa/Nairobi
+2775591,KE,KE-22,Katangi,Katangi,84,3,Locality,UTC+3,Africa/Nairobi
+2775598,KE,KE-22,Kasolongo,Kasolongo,300,3,Locality,UTC+3,Africa/Nairobi
+2775600,KE,KE-01,Kasisit,Kasisit,1223,3,Commune,UTC+3,Africa/Nairobi
+2775602,KE,KE-18,Kasyelia,Kasilia,112,3,Locality,UTC+3,Africa/Nairobi
+2775604,KE,KE-14,Kasidi,Kasidi,213,3,Locality,UTC+3,Africa/Nairobi
+2775611,KE,KE-13,Karweti,Karweti,1004,3,Commune,UTC+3,Africa/Nairobi
+2775613,KE,KE-29,Karuru One,Karuru One,1669,3,Commune,UTC+3,Africa/Nairobi
+2775614,KE,KE-06,Karurumo,Karurumo,166,3,Locality,UTC+3,Africa/Nairobi
+2775615,KE,KE-29,Karurumo,Karuruma,149,3,Locality,UTC+3,Africa/Nairobi
+2775616,KE,KE-13,Karuri,Karuri,194342,3,Urban Center,UTC+3,Africa/Nairobi
+2775619,KE,KE-29,Karuri,Karuri,11868,3,Locality,UTC+3,Africa/Nairobi
+2775621,KE,KE-13,Karura Kanyungu,Karura Kanyungu,426,3,Locality,UTC+3,Africa/Nairobi
+2775623,KE,KE-13,Karura,Karura,337,3,Locality,UTC+3,Africa/Nairobi
+2775630,KE,KE-36,Karundu,Karundu,71,3,Locality,UTC+3,Africa/Nairobi
+2775631,KE,KE-44,Karuna,Karuna,219,3,Locality,UTC+3,Africa/Nairobi
+2775636,KE,KE-29,Karugia,Karugya,9039,3,City,UTC+3,Africa/Nairobi
+2775639,KE,KE-29,Karua,Karua,67,3,Locality,UTC+3,Africa/Nairobi
+2775643,KE,KE-15,Kariru,Kariru,291,3,Locality,UTC+3,Africa/Nairobi
+2775644,KE,KE-29,Karirau,Karirau,64,3,Locality,UTC+3,Africa/Nairobi
+2775646,KE,KE-36,Karingaini,Karingaini,848,3,Commune,UTC+3,Africa/Nairobi
+2775649,KE,KE-13,Karinga,Karinga,317,3,Locality,UTC+3,Africa/Nairobi
+2775677,KE,KE-36,Karatina,Karatina,23552,3,Urban Center,UTC+3,Africa/Nairobi
+2775710,KE,KE-03,Kaptalelia,Kaptalelia,1298,3,Commune,UTC+3,Africa/Nairobi
+2775712,KE,KE-12,Kapsuset,Kapuset,1372,3,Commune,UTC+3,Africa/Nairobi
+2775713,KE,KE-05,Kapsowar,Kapsowar,9152,3,Urban Center,UTC+3,Africa/Nairobi
+2775714,KE,KE-45,Kapsotik,Kapsoit,92,3,Locality,UTC+3,Africa/Nairobi
+2775715,KE,KE-12,Kapsoit,Kapsoit,3545,3,Urban Center,UTC+3,Africa/Nairobi
+2775721,KE,KE-12,Kapsimbiri,Kapsimbiri,535,3,Commune,UTC+3,Africa/Nairobi
+2775722,KE,KE-12,Kapsigirio,Kapsigirio,379,3,Commune,UTC+3,Africa/Nairobi
+2775724,KE,KE-12,Kapsarok,Kap Sarok,75,3,Locality,UTC+3,Africa/Nairobi
+2775726,KE,KE-32,Kapsaos,Kapsaos,44,3,Locality,UTC+3,Africa/Nairobi
+2775729,KE,KE-12,Kapsegut,Kapsabet,56,3,Locality,UTC+3,Africa/Nairobi
+2775730,KE,KE-32,Kapsabet,Kapsabet,29958,2,Urban Center,UTC+3,Africa/Nairobi
+2775732,KE,KE-42,Kapolet,Kapolet,29,3,Locality,UTC+3,Africa/Nairobi
+2775733,KE,KE-32,Kapnyemisa,Kapnyemisa,937,3,Commune,UTC+3,Africa/Nairobi
+2775738,KE,KE-32,Kapkuong,Kapkuong,31,3,Locality,UTC+3,Africa/Nairobi
+2775741,KE,KE-12,Kapkisiara,Kapkisiara,128,3,Locality,UTC+3,Africa/Nairobi
+2775742,KE,KE-02,Kapkimolwa,Kapkimolwa,16720,3,City,UTC+3,Africa/Nairobi
+2775743,KE,KE-01,Kapkiam,Kapkiam,1396,3,Commune,UTC+3,Africa/Nairobi
+2775747,KE,KE-12,Kapkatet,Kapkatet,2484,3,Urban Center,UTC+3,Africa/Nairobi
+2775750,KE,KE-01,Kapkalelwa,Kapkalelwa,75,3,Locality,UTC+3,Africa/Nairobi
+2775751,KE,KE-38,Kapiyo,Kapenguria,539,3,Locality,UTC+3,Africa/Nairobi
+2775752,KE,KE-47,Kapenguria,Kapenguria,184,2,Locality,UTC+3,Africa/Nairobi
+2775753,KE,KE-01,Kapedo,Kapedo,140,4,locality,UTC+3,Africa/Nairobi
+2775754,KE,KE-32,Kapchorua,Kapcherop,65,3,Locality,UTC+3,Africa/Nairobi
+2775755,KE,KE-42,Kapcherop,Kapcherop,3240,3,Urban Center,UTC+3,Africa/Nairobi
+2775756,KE,KE-05,Kapchorwa,Kapchorewe,1154,3,Commune,UTC+3,Africa/Nairobi
+2775757,KE,KE-01,Kapchomuswo,Kapchomuswo,169,3,Locality,UTC+3,Africa/Nairobi
+2775758,KE,KE-01,Kapchepkor,Kapchepkor,128,3,Locality,UTC+3,Africa/Nairobi
+2775763,KE,KE-18,Kanziku,Kanziku,520,3,Locality,UTC+3,Africa/Nairobi
+2775765,KE,KE-22,Kanzalu,Kanzalu,102,3,Locality,UTC+3,Africa/Nairobi
+2775767,KE,KE-29,Kanyuira,Kanyuira,102,3,Locality,UTC+3,Africa/Nairobi
+2775768,KE,KE-13,Kanyore,Kanyore,2743,3,Commune,UTC+3,Africa/Nairobi
+2775783,KE,KE-35,Kanyagia Settlement,Kanyagia Settlement,145,3,Locality,UTC+3,Africa/Nairobi
+2775784,KE,KE-08,Kanyadhiang,Kanyadhiang,50,3,Locality,UTC+3,Africa/Nairobi
+2775789,KE,KE-13,Kanjuku,Kanjuku,498,3,Locality,UTC+3,Africa/Nairobi
+2775790,KE,KE-41,Kanjuki,Kanjuki,133,3,Locality,UTC+3,Africa/Nairobi
+2775791,KE,KE-41,Kanjoro,Kanjoro,28,3,Locality,UTC+3,Africa/Nairobi
+2775793,KE,KE-40,Kanjonja,Kanjonja,33,3,Locality,UTC+3,Africa/Nairobi
+2775794,KE,KE-13,Kanjiru,Kanjiru,1042,3,Locality,UTC+3,Africa/Nairobi
+2775795,KE,KE-13,Kanjai,Kanjai,129,3,Locality,UTC+3,Africa/Nairobi
+2775796,KE,KE-06,Kanja,Kanja,2073,3,Commune,UTC+3,Africa/Nairobi
+2775797,KE,KE-18,Kaningo,Kaningo,427,3,Locality,UTC+3,Africa/Nairobi
+2775801,KE,KE-22,Kangundo,Kangundo,10258,3,Urban Center,UTC+3,Africa/Nairobi
+2775802,KE,KE-13,Kangoya,Kangoya,133,3,Locality,UTC+3,Africa/Nairobi
+2775803,KE,KE-36,Kangoru,Kangoru,460,3,Locality,UTC+3,Africa/Nairobi
+2775806,KE,KE-18,Kangonde,Kangonde,26,3,Locality,UTC+3,Africa/Nairobi
+2775807,KE,KE-15,Kangocho,Kangocho,804,3,Locality,UTC+3,Africa/Nairobi
+2775808,KE,KE-18,Kango,Kango,1211,3,Commune,UTC+3,Africa/Nairobi
+2775809,KE,KE-22,Kango,Kango,140,3,Locality,UTC+3,Africa/Nairobi
+2775810,KE,KE-06,Kangethia,Kangethia,188,3,Locality,UTC+3,Africa/Nairobi
+2775813,KE,KE-29,Kangema,Kangema,6424,3,Urban Center,UTC+3,Africa/Nairobi
+2775814,KE,KE-15,Kangaru,Kangaru,384,3,Locality,UTC+3,Africa/Nairobi
+2775815,KE,KE-06,Kangaru,Kangaru,49,3,Locality,UTC+3,Africa/Nairobi
+2775816,KE,KE-29,Kangare,Kangare,2067,3,Locality,UTC+3,Africa/Nairobi
+2775818,KE,KE-15,Kangaita,Kangaita,1743,3,Commune,UTC+3,Africa/Nairobi
+2775819,KE,KE-36,Kangaita,Kangaita,1482,3,Commune,UTC+3,Africa/Nairobi
+2775820,KE,KE-15,Kangai,Kangai,1674,3,Commune,UTC+3,Africa/Nairobi
+2775821,KE,KE-27,Kanga,Kanga,220,3,Locality,UTC+3,Africa/Nairobi
+2775822,KE,KE-22,Kandumbu,Kandumbu,241,4,hamlet,UTC+3,Africa/Nairobi
+2775823,KE,KE-15,Kandongu,Kandongo,56,3,Locality,UTC+3,Africa/Nairobi
+2775824,KE,KE-23,Kandolo,Kandolo,137,3,Locality,UTC+3,Africa/Nairobi
+2775825,KE,KE-13,Kandogo,Kandogo,66,3,Locality,UTC+3,Africa/Nairobi
+2775827,KE,KE-29,Kanderendu,Kanderendu,82,4,village,UTC+3,Africa/Nairobi
+2775828,KE,KE-29,Kandegenye,Kandegenye,87,3,Locality,UTC+3,Africa/Nairobi
+2775830,KE,KE-06,Kandare,Kandara,57,3,Locality,UTC+3,Africa/Nairobi
+2775831,KE,KE-29,Kandara,Kandara,914,4,village,UTC+3,Africa/Nairobi
+2775843,KE,KE-06,Kamutongi,Kamutongi,1260,3,Commune,UTC+3,Africa/Nairobi
+2775846,KE,KE-03,Kamusukiet,Kamusukiet,41,3,Locality,UTC+3,Africa/Nairobi
+2775847,KE,KE-03,Kamusinga,Kamisinga,390,3,Locality,UTC+3,Africa/Nairobi
+2775848,KE,KE-13,Kamunyuini,Kamunyuini,3498,3,Commune,UTC+3,Africa/Nairobi
+2775850,KE,KE-36,Kamunyaka,Kamunyaka,326,3,Locality,UTC+3,Africa/Nairobi
+2775851,KE,KE-47,Kamunono,Kamunono,92,3,Locality,UTC+3,Africa/Nairobi
+2775853,KE,KE-02,Kamungei,Kamungei,118,3,Locality,UTC+3,Africa/Nairobi
+2775854,KE,KE-29,Kamune,Kamune,248,3,Locality,UTC+3,Africa/Nairobi
+2775855,KE,KE-18,Kamunaka,Kamunaka,75,4,hamlet,UTC+3,Africa/Nairobi
+2775856,KE,KE-18,Kamulu,Kamulu,1590,3,Commune,UTC+3,Africa/Nairobi
+2775860,KE,KE-02,Kamugeno,Kamugeno,176,3,Locality,UTC+3,Africa/Nairobi
+2775866,KE,KE-09,Kampi Ya Sheikh Omar,Kampi Ya Sheikh Omar,105,3,Locality,UTC+3,Africa/Nairobi
+2775868,KE,KE-13,Kampi Ya Njemi,Kampi ya Njemi,702,3,Locality,UTC+3,Africa/Nairobi
+2775869,KE,KE-14,Kampi ya Kerenzeni,Kampi ya Kerengenzi,98,3,Locality,UTC+3,Africa/Nairobi
+2775870,KE,KE-09,Kampi Ya Juu,Kampi Ya Juu,240,3,Locality,UTC+3,Africa/Nairobi
+2775874,KE,KE-13,Kamondo,Kamondo,250,3,Locality,UTC+3,Africa/Nairobi
+2775877,KE,KE-32,Kamobo,Kamobo,245,3,Locality,UTC+3,Africa/Nairobi
+2775887,KE,KE-23,Kambuu,Kambuu,946,3,Commune,UTC+3,Africa/Nairobi
+2775921,KE,KE-18,Kalundu,Kalundu,1154,3,Locality,UTC+3,Africa/Nairobi
+2775926,KE,KE-14,Kaloleni,Kaloleni,7016,3,Urban Center,UTC+3,Africa/Nairobi
+2775934,KE,KE-18,Kalimbui,Kalimbui,137,3,Locality,UTC+3,Africa/Nairobi
+2775950,KE,KE-14,Kalaluwe,Kalaluwe,8252,3,Commune,UTC+3,Africa/Nairobi
+2775958,KE,KE-43,Kakuma,Kakuma,22984,3,Urban Center,UTC+3,Africa/Nairobi
+2775969,KE,KE-08,Kakelo Ringa,Kakelo Ringa,103,3,Locality,UTC+3,Africa/Nairobi
+2775974,KE,KE-11,Kakamega,Kakamega,99503,2,Urban Center,UTC+3,Africa/Nairobi
+2775983,KE,KE-10,Kajiado,Kajiado,24678,2,Urban Center,UTC+3,Africa/Nairobi
+2775990,KE,KE-29,Kairo,Kairo,422,3,Locality,UTC+3,Africa/Nairobi
+2776005,KE,KE-22,Kaiani,Kaiani,39,3,Locality,UTC+3,Africa/Nairobi
+2776006,KE,KE-29,Kahuti,Kahuti,71,3,Locality,UTC+3,Africa/Nairobi
+2776036,KE,KE-15,Kagumo,Kagumo,3673,3,Urban Center,UTC+3,Africa/Nairobi
+2776047,KE,KE-15,Kagio,Kagio,13961,3,Urban Center,UTC+3,Africa/Nairobi
+2776048,KE,KE-29,Kagima,Kagima,146,3,Locality,UTC+3,Africa/Nairobi
+2776054,KE,KE-27,Kagaga,Kagaga,177,3,Locality,UTC+3,Africa/Nairobi
+2776069,KE,KE-02,Kabungut,Kabungut,1300,3,Commune,UTC+3,Africa/Nairobi
+2776072,KE,KE-03,Kabula,Kabula,80,3,Locality,UTC+3,Africa/Nairobi
+2776076,KE,KE-02,Kaboson,Kaboson,340,3,Locality,UTC+3,Africa/Nairobi
+2776081,KE,KE-27,Kabola,Kabola,70,3,Locality,UTC+3,Africa/Nairobi
+2776084,KE,KE-13,Kabochu,Kabochu,306,3,Locality,UTC+3,Africa/Nairobi
+2776085,KE,KE-01,Kabluk,Kabluk,66,3,Locality,UTC+3,Africa/Nairobi
+2776092,KE,KE-32,Kabiemit,Kabiemit,221,3,Locality,UTC+3,Africa/Nairobi
+2776100,KE,KE-35,Kabati,Kabati,2420,3,Urban Center,UTC+3,Africa/Nairobi
+2776104,KE,KE-18,Kavati,Kavati,2420,3,PPL,UTC+3,Africa/Nairobi
+2776106,KE,KE-01,Kabartonjo,Kabartonjo,3362,3,Commune,UTC+3,Africa/Nairobi
+2776107,KE,KE-12,Kabartegan,Kabarnet,139,3,Locality,UTC+3,Africa/Nairobi
+2776108,KE,KE-01,Kabarnet,Kabarnet,23568,2,Urban Center,UTC+3,Africa/Nairobi
+2776120,KE,KE-28,Jumba la Mtwana,Jumba la Mtwana,81622,3,village,UTC+3,Africa/Nairobi
+2776122,KE,KE-08,Josephs,Josephs,55,3,Locality,UTC+3,Africa/Nairobi
+2776123,KE,KE-39,Jora,Jora,83,3,Locality,UTC+3,Africa/Nairobi
+2776124,KE,KE-08,Jonyo,Jonyo,343,3,Locality,UTC+3,Africa/Nairobi
+2776136,KE,KE-34,Jebilat,Jebilat,5373,4,village,UTC+3,Africa/Nairobi
+2776144,KE,KE-11,Ivonda,Ivonda,521,3,Locality,UTC+3,Africa/Nairobi
+2776146,KE,KE-22,Iviani,Iviani,71,3,Locality,UTC+3,Africa/Nairobi
+2776147,KE,KE-23,Iuani,Iuani,314,3,Locality,UTC+3,Africa/Nairobi
+2776148,KE,KE-13,Gituru,Ituru,351,3,Locality,UTC+3,Africa/Nairobi
+2776149,KE,KE-36,Itundu,Itundu,310,3,Locality,UTC+3,Africa/Nairobi
+2776150,KE,KE-23,Itumbule,Itumbule,389,3,Locality,UTC+3,Africa/Nairobi
+2776153,KE,KE-41,Itugururu,Itugururu,7316,3,Commune,UTC+3,Africa/Nairobi
+2776160,KE,KE-16,Itierio,Itierio,174,3,Locality,UTC+3,Africa/Nairobi
+2776161,KE,KE-16,Itibo,Itibo,2574,3,Commune,UTC+3,Africa/Nairobi
+2776162,KE,KE-34,Itibo,Itibo,40,3,Locality,UTC+3,Africa/Nairobi
+2776163,KE,KE-36,Itiati,Itiati,466,3,Locality,UTC+3,Africa/Nairobi
+2776169,KE,KE-13,Ituramiro,Ithirameru,91,3,Locality,UTC+3,Africa/Nairobi
+2776174,KE,KE-23,Ithemboni,Ithemboni,114,3,Locality,UTC+3,Africa/Nairobi
+2776175,KE,KE-36,Ithekahuno,Ithekahuno,29,3,Locality,UTC+3,Africa/Nairobi
+2776178,KE,KE-36,Ithaithi,Ithaithi,709,3,Locality,UTC+3,Africa/Nairobi
+2776181,KE,KE-23,Itetani,Itetani,1338,3,Locality,UTC+3,Africa/Nairobi
+2776183,KE,KE-05,Iten,Iten,42000,2,Urban Center,UTC+3,Africa/Nairobi
+2776189,KE,KE-11,Isulu,Isulu,1172,3,Commune,UTC+3,Africa/Nairobi
+2776190,KE,KE-01,Issas,Issas,581,3,Commune,UTC+3,Africa/Nairobi
+2776191,KE,KE-11,Isongo,Isiolo,39,3,Locality,UTC+3,Africa/Nairobi
+2776192,KE,KE-09,Isiolo,Isiolo,50261,2,Urban Center,UTC+3,Africa/Nairobi
+2776193,KE,KE-10,Isinya,Isinya,14429,3,Urban Center,UTC+3,Africa/Nairobi
+2776194,KE,KE-22,Isinga,Isinga,697,3,Locality,UTC+3,Africa/Nairobi
+2776195,KE,KE-45,Ishiru,Ishiru,447,3,Locality,UTC+3,Africa/Nairobi
+2776196,KE,KE-06,Ishiara,Ishiara,32,3,Locality,UTC+3,Africa/Nairobi
+2776197,KE,KE-11,Isecheno,Isebania,1031,3,Commune,UTC+3,Africa/Nairobi
+2776198,KE,KE-27,Isebania,Isebania,23891,3,Urban Center,UTC+3,Africa/Nairobi
+2776201,KE,KE-16,Irungu,Irungu,206,3,Locality,UTC+3,Africa/Nairobi
+2776202,KE,KE-16,Iruma,Iruma,166,3,Locality,UTC+3,Africa/Nairobi
+2776203,KE,KE-41,Iruma,Iruma,174,3,Locality,UTC+3,Africa/Nairobi
+2776204,KE,KE-16,Irondi,Irondi,1405,3,Commune,UTC+3,Africa/Nairobi
+2776206,KE,KE-16,Igonga,Igonga,2009,3,Commune,UTC+3,Africa/Nairobi
+2776208,KE,KE-06,Iriamurai,Iriamurai,216,3,Locality,UTC+3,Africa/Nairobi
+2776210,KE,KE-40,Irangi,Irangi,46,3,Locality,UTC+3,Africa/Nairobi
+2776211,KE,KE-06,Irabari,Irabari,104,3,Locality,UTC+3,Africa/Nairobi
+2776212,KE,KE-18,Inyuu,Inyuu,94,4,village,UTC+3,Africa/Nairobi
+2776215,KE,KE-11,Indangalasia,Indangalasia,145,3,Locality,UTC+3,Africa/Nairobi
+2776217,KE,KE-11,Inaya,Inaya,171,3,Locality,UTC+3,Africa/Nairobi
+2776220,KE,KE-08,Imbo,Imbo,53,3,Locality,UTC+3,Africa/Nairobi
+2776224,KE,KE-18,Ilika,Ilika,101,3,Locality,UTC+3,Africa/Nairobi
+2776228,KE,KE-18,Ikuyuni,Ikuyuni,548,3,Locality,UTC+3,Africa/Nairobi
+2776229,KE,KE-41,Ikuu,Ikuu,46,3,Locality,UTC+3,Africa/Nairobi
+2776231,KE,KE-23,Ikungu,Ikungu,247,3,Locality,UTC+3,Africa/Nairobi
+2776235,KE,KE-13,Ikuma,Ikuma,945,3,Commune,UTC+3,Africa/Nairobi
+2776236,KE,KE-18,Ikoo,Ikoo,40,3,Locality,UTC+3,Africa/Nairobi
+2776240,KE,KE-13,Ikinu,Ikinu,2532,3,Urban Center,UTC+3,Africa/Nairobi
+2776247,KE,KE-22,Ikalaasa,Ikalaasa,60,3,Locality,UTC+3,Africa/Nairobi
+2776248,KE,KE-07,Ijara,Ijara,11792,3,Urban Center,UTC+3,Africa/Nairobi
+2776249,KE,KE-22,Iiuni,Iiuni,39,3,Locality,UTC+3,Africa/Nairobi
+2776250,KE,KE-36,Ihwagi,Ihwagi,48,3,Locality,UTC+3,Africa/Nairobi
+2776253,KE,KE-36,Ihwa,Ihua,32,3,Locality,UTC+3,Africa/Nairobi
+2776255,KE,KE-36,Ihithe,Hithe,\N,3,town,UTC+3,Africa/Nairobi
+2776272,KE,KE-36,Ichagachiru,Ichagachiru,45,3,Locality,UTC+3,Africa/Nairobi
+2776273,KE,KE-29,Ichagaki,Ichagaki,118,3,Locality,UTC+3,Africa/Nairobi
+2776274,KE,KE-29,Ichagaki,Ichagaki,99,3,Locality,UTC+3,Africa/Nairobi
+2776275,KE,KE-13,Ichachiri,Ichachiri,57,4,hamlet,UTC+3,Africa/Nairobi
+2776280,KE,KE-36,Huho-ini,Huho-ini,50,3,Locality,UTC+3,Africa/Nairobi
+2776284,KE,KE-36,Hombe,Hombe,45,3,Locality,UTC+3,Africa/Nairobi
+2776286,KE,KE-08,Huma Lime,Homa Bay,34,3,Locality,UTC+3,Africa/Nairobi
+2776287,KE,KE-08,Homa Bay,Homa Bay,40319,2,Urban Center,UTC+3,Africa/Nairobi
+2776289,KE,KE-40,Hola,Hola,6932,2,Urban Center,UTC+3,Africa/Nairobi
+2776290,KE,KE-44,Moi's Bridge,Moi's Bridge,16355,3,Urban Center,UTC+3,Africa/Nairobi
+2776311,KE,KE-46,Habaswein,Habaswein,49599,3,Urban Center,UTC+3,Africa/Nairobi
+2776338,KE,KE-14,Gongoni,Gongoni,10993,3,Urban Center,UTC+3,Africa/Nairobi
+2776349,KE,KE-38,Gobei,Gobei,484,3,Locality,UTC+3,Africa/Nairobi
+2776357,KE,KE-06,Gituri,Gituri,125,3,Locality,UTC+3,Africa/Nairobi
+2776358,KE,KE-29,Gitura,Gitura,3667,3,Commune,UTC+3,Africa/Nairobi
+2776360,KE,KE-15,Gitumbi,Gitumbi,93,3,Locality,UTC+3,Africa/Nairobi
+2776361,KE,KE-29,Gitui,Gitui,142,3,Locality,UTC+3,Africa/Nairobi
+2776365,KE,KE-13,Gituamba,Gituamba,38,3,Locality,UTC+3,Africa/Nairobi
+2776366,KE,KE-13,Gituamba,Gituamba,69,3,Locality,UTC+3,Africa/Nairobi
+2776368,KE,KE-13,Gituamba,Gituamba,36,3,Locality,UTC+3,Africa/Nairobi
+2776376,KE,KE-29,Gitige,Gitige,174,3,Locality,UTC+3,Africa/Nairobi
+2776381,KE,KE-13,Githunguchu,Githunguru,23,3,Locality,UTC+3,Africa/Nairobi
+2776384,KE,KE-29,Githunguri,Githunguri,303,3,Locality,UTC+3,Africa/Nairobi
+2776386,KE,KE-36,Githunguri,Githunguri,217,3,Locality,UTC+3,Africa/Nairobi
+2776387,KE,KE-13,Githunguri,Githunguri,63319,3,Urban Center,UTC+3,Africa/Nairobi
+2776391,KE,KE-26,Githongo,Githongo,1207,3,Locality,UTC+3,Africa/Nairobi
+2776395,KE,KE-13,Githirioni,Githirioni,1442,3,Commune,UTC+3,Africa/Nairobi
+2776399,KE,KE-13,Githiga B,Githiga B,79,3,Locality,UTC+3,Africa/Nairobi
+2776400,KE,KE-29,Githima,Githima,91,3,Locality,UTC+3,Africa/Nairobi
+2776401,KE,KE-29,Githima,Githima,5993,3,Commune,UTC+3,Africa/Nairobi
+2776402,KE,KE-36,Githima,Githima,53,3,Locality,UTC+3,Africa/Nairobi
+2776404,KE,KE-36,Githima,Githima,50,3,Locality,UTC+3,Africa/Nairobi
+2776406,KE,KE-26,Kisima,Kisima,42,3,Locality,UTC+3,Africa/Nairobi
+2776408,KE,KE-13,Githiga A,Githiga,5565,3,locality,UTC+3,Africa/Nairobi
+2776409,KE,KE-29,Githiga,Githiga,2853,3,Urban Center,UTC+3,Africa/Nairobi
+2776410,KE,KE-36,Githerere,Githerere,190,3,Locality,UTC+3,Africa/Nairobi
+2776412,KE,KE-13,Githega,Githega,346,3,Locality,UTC+3,Africa/Nairobi
+2776413,KE,KE-29,Githanga,Githanga,201,3,Locality,UTC+3,Africa/Nairobi
+2776414,KE,KE-29,Githambo,Githambo,68,3,Locality,UTC+3,Africa/Nairobi
+2776417,KE,KE-15,Githagoya,Githagoya,172,3,Locality,UTC+3,Africa/Nairobi
+2776426,KE,KE-46,Giriftu,Giriftu,7935,3,Urban Center,UTC+3,Africa/Nairobi
+2776429,KE,KE-34,Girango,Girango,284,3,Locality,UTC+3,Africa/Nairobi
+2776430,KE,KE-16,Gionseri,Gionseri,75,3,Locality,UTC+3,Africa/Nairobi
+2776431,KE,KE-08,Gina,Gina,64,4,village,UTC+3,Africa/Nairobi
+2776433,KE,KE-45,Gimarakwa,Gimarakwa,633,3,Locality,UTC+3,Africa/Nairobi
+2776435,KE,KE-31,Gilgil,Gilgil,60711,3,Urban Center,UTC+3,Africa/Nairobi
+2776436,KE,KE-35,Upper Gilgil,Gilgil,60711,4,village,UTC+3,Africa/Nairobi
+2776441,KE,KE-36,Gikondi,Gekondi,227,3,Commune,UTC+3,Africa/Nairobi
+2776442,KE,KE-29,Gikomora,Gikomora,93,3,Locality,UTC+3,Africa/Nairobi
+2776447,KE,KE-13,Gikambura,Gikambura,766,3,Locality,UTC+3,Africa/Nairobi
+2776449,KE,KE-13,Gichuru,Gichuru,75,3,Locality,UTC+3,Africa/Nairobi
+2776450,KE,KE-29,Gichugu,Gichugu,386,3,Locality,UTC+3,Africa/Nairobi
+2776456,KE,KE-06,Gichiche,Gichiche,149,3,Locality,UTC+3,Africa/Nairobi
+2776457,KE,KE-13,Gicheru,Gicheru,260,3,Locality,UTC+3,Africa/Nairobi
+2776458,KE,KE-06,Gichera,Gichera,33,3,Locality,UTC+3,Africa/Nairobi
+2776460,KE,KE-13,Gicharani,Gicharani,158,3,Locality,UTC+3,Africa/Nairobi
+2776461,KE,KE-29,Gichagiini,Gichagiini,1087,3,Locality,UTC+3,Africa/Nairobi
+2776462,KE,KE-31,Gichage,Gichage,389,3,Locality,UTC+3,Africa/Nairobi
+2776464,KE,KE-36,Giathugu One,Giathugu One,43,3,Locality,UTC+3,Africa/Nairobi
+2776465,KE,KE-13,Giathieko,Giathieko,41,3,Locality,UTC+3,Africa/Nairobi
+2776467,KE,KE-36,Giakibii,Giakibii,2544,3,Commune,UTC+3,Africa/Nairobi
+2776468,KE,KE-26,Giaki,Giaki,44,3,Locality,UTC+3,Africa/Nairobi
+2776470,KE,KE-36,Giaitu,Giaitu,5410,3,City,UTC+3,Africa/Nairobi
+2776471,KE,KE-13,Giagithu,Giagithu,275,3,Locality,UTC+3,Africa/Nairobi
+2776472,KE,KE-36,Giagatika,Giagatika,61,3,Locality,UTC+3,Africa/Nairobi
+2776478,KE,KE-12,Getarwet,Getarwet,136,3,Locality,UTC+3,Africa/Nairobi
+2776479,KE,KE-34,Gekano,Gekano,968,3,Commune,UTC+3,Africa/Nairobi
+2776485,KE,KE-16,Gesabakwa,Gesabakwa,1021,3,Commune,UTC+3,Africa/Nairobi
+2776489,KE,KE-02,Gelegele,Gelegele,20,3,Locality,UTC+3,Africa/Nairobi
+2776496,KE,KE-19,Gazi,Gasi,5222,4,locality,UTC+3,Africa/Nairobi
+2776497,KE,KE-45,Gavundunyi,Gavundunyi,1527,3,Locality,UTC+3,Africa/Nairobi
+2776499,KE,KE-15,Gatwe,Gatwe,196,3,Locality,UTC+3,Africa/Nairobi
+2776501,KE,KE-36,Gatuyaini,Gatuyaini,261,3,Locality,UTC+3,Africa/Nairobi
+2776502,KE,KE-29,Gatuya,Gatuya,44,3,Locality,UTC+3,Africa/Nairobi
+2776503,KE,KE-15,Gatuya,Gatuya,180,3,Locality,UTC+3,Africa/Nairobi
+2776507,KE,KE-29,Gatura,Gatura,1542,3,Commune,UTC+3,Africa/Nairobi
+2776510,KE,KE-13,Gatunguru,Gatunguru,34,3,Locality,UTC+3,Africa/Nairobi
+2776513,KE,KE-06,Gatunduri,Gatundori,4366,3,Commune,UTC+3,Africa/Nairobi
+2776514,KE,KE-36,Gatundu,Gatundu,77,3,Locality,UTC+3,Africa/Nairobi
+2776515,KE,KE-13,Gatundu,Gatundu,7947,3,Urban Center,UTC+3,Africa/Nairobi
+2776516,KE,KE-13,Gatundu,Gatundu,88,3,Locality,UTC+3,Africa/Nairobi
+2776519,KE,KE-36,Gatundu,Gatundu,194,4,village,UTC+3,Africa/Nairobi
+2776523,KE,KE-13,Gatukuyu,Gatukuyu,1490,3,Commune,UTC+3,Africa/Nairobi
+2776527,KE,KE-13,Gatitu B,Gatitu B,460,3,Locality,UTC+3,Africa/Nairobi
+2776528,KE,KE-29,Kititu,Kititu,253,3,Locality,UTC+3,Africa/Nairobi
+2776529,KE,KE-13,Gatitu,Gatitu,235,3,Locality,UTC+3,Africa/Nairobi
+2776530,KE,KE-29,Gatitu,Gatitu,2924,4,village,UTC+3,Africa/Nairobi
+2776531,KE,KE-36,Gatitu,Gatitu,2227,3,Commune,UTC+3,Africa/Nairobi
+2776534,KE,KE-36,Gatina,Gatina,447,3,Locality,UTC+3,Africa/Nairobi
+2776535,KE,KE-13,Gatimu,Gatimu,71,3,Locality,UTC+3,Africa/Nairobi
+2776536,KE,KE-13,Gatiiguru,Gatiguru,1279,3,Commune,UTC+3,Africa/Nairobi
+2776538,KE,KE-13,Gatiabai,Gatiabai,173,3,Locality,UTC+3,Africa/Nairobi
+2776539,KE,KE-15,Gathuthuma,Gathuthuma,59,3,Locality,UTC+3,Africa/Nairobi
+2776540,KE,KE-36,Gathuthi,Gathuthi,85,3,Locality,UTC+3,Africa/Nairobi
+2776541,KE,KE-36,Gathungururu,Gathungururu,85,3,Locality,UTC+3,Africa/Nairobi
+2776543,KE,KE-36,Gathumbi,Gathumbi,84,3,Locality,UTC+3,Africa/Nairobi
+2776546,KE,KE-13,Gathugu,Gathugu,535,3,Commune,UTC+3,Africa/Nairobi
+2776557,KE,KE-29,Gatheri,Gathera,72,3,Locality,UTC+3,Africa/Nairobi
+2776558,KE,KE-36,Gathethu,Gathehu,81,3,Locality,UTC+3,Africa/Nairobi
+2776560,KE,KE-30,Gatharaini,Gatharaini,99,3,Locality,UTC+3,Africa/Nairobi
+2776561,KE,KE-13,Gathanji,Gathanji,182,3,Locality,UTC+3,Africa/Nairobi
+2776562,KE,KE-36,Gathanji,Gathanji,32,3,Locality,UTC+3,Africa/Nairobi
+2776565,KE,KE-29,Gathangwi,Gathangwi,181,3,Locality,UTC+3,Africa/Nairobi
+2776566,KE,KE-13,Gathangari,Gathangari,194,3,Locality,UTC+3,Africa/Nairobi
+2776568,KE,KE-15,Gathambi,Gathambi,139,3,Locality,UTC+3,Africa/Nairobi
+2776569,KE,KE-13,Gathaithi,Gathaithi,22,3,Locality,UTC+3,Africa/Nairobi
+2776572,KE,KE-15,Gathaithi,Gathaithi,77,3,Locality,UTC+3,Africa/Nairobi
+2776573,KE,KE-29,Gathiru,Gathairu,50,3,Locality,UTC+3,Africa/Nairobi
+2776574,KE,KE-13,Gathagi,Gathagi,142,4,hamlet,UTC+3,Africa/Nairobi
+2776580,KE,KE-29,Gatare,Gatare,19,3,Locality,UTC+3,Africa/Nairobi
+2776582,KE,KE-29,Gatanga,Gatanga,1260,3,Commune,UTC+3,Africa/Nairobi
+2776583,KE,KE-13,Gitamaiyu,Gitamaiyu,2085,3,Commune,UTC+3,Africa/Nairobi
+2776585,KE,KE-29,Gatakaini,Gatakani,64,4,hamlet,UTC+3,Africa/Nairobi
+2776586,KE,KE-16,Gasero,Garsen,1508,3,Commune,UTC+3,Africa/Nairobi
+2776587,KE,KE-40,Garsen,Garsen,7176,3,Urban Center,UTC+3,Africa/Nairobi
+2776588,KE,KE-07,Garissa,Garissa,119696,2,Urban Center,UTC+3,Africa/Nairobi
+2776589,KE,KE-09,Garba Tula,Garba Tula,17443,4,town,UTC+3,Africa/Nairobi
+2776593,KE,KE-14,Ganze,Ganze,783,3,Locality,UTC+3,Africa/Nairobi
+2776594,KE,KE-06,Gangara,Gangara,494,3,Commune,UTC+3,Africa/Nairobi
+2776596,KE,KE-14,Ganda,Ganda,697,3,Commune,UTC+3,Africa/Nairobi
+2776603,KE,KE-04,Galafahi,Galafahi,3967,3,City,UTC+3,Africa/Nairobi
+2776607,KE,KE-29,Gakuyu,Gakuyu,99,3,Locality,UTC+3,Africa/Nairobi
+2776608,KE,KE-26,Gakuuni,Gakuuni,109,3,Locality,UTC+3,Africa/Nairobi
+2776624,KE,KE-13,Gaithege,Gaithece,909,3,Locality,UTC+3,Africa/Nairobi
+2776625,KE,KE-29,Gaitega,Gaitega,128,3,Locality,UTC+3,Africa/Nairobi
+2776626,KE,KE-36,Gaikuyu,Gaikũyũ,272,3,Locality,UTC+3,Africa/Nairobi
+2776627,KE,KE-36,Gaikundo,Gaikundo,551,3,Locality,UTC+3,Africa/Nairobi
+2776631,KE,KE-36,Gachuku,Gachuku,2023,3,Locality,UTC+3,Africa/Nairobi
+2776632,KE,KE-36,Gachuiro,Gachuiro,3195,3,Commune,UTC+3,Africa/Nairobi
+2776633,KE,KE-13,Gachugi,Gachugi,456,3,Locality,UTC+3,Africa/Nairobi
+2776634,KE,KE-06,Gachoka,Gachoka,100,3,Locality,UTC+3,Africa/Nairobi
+2776636,KE,KE-29,Gachocho,Gachocho,48,3,Locality,UTC+3,Africa/Nairobi
+2776641,KE,KE-36,Gichichi,Gachichi,2617,3,Commune,UTC+3,Africa/Nairobi
+2776642,KE,KE-13,Gachege,Gachege,74,3,Locality,UTC+3,Africa/Nairobi
+2776644,KE,KE-15,Gacharu,Gacharu,517,3,Locality,UTC+3,Africa/Nairobi
+2776647,KE,KE-29,Gacharageini,Gacharageini,138,3,Locality,UTC+3,Africa/Nairobi
+2776648,KE,KE-13,Gacharage,Gacarage,950,3,Commune,UTC+3,Africa/Nairobi
+2776649,KE,KE-29,Gacharage,Gacharage,184,3,Locality,UTC+3,Africa/Nairobi
+2776652,KE,KE-19,Funzi,Funzi,1066,4,village,UTC+3,Africa/Nairobi
+2776656,KE,KE-28,Frere Town,Frere Town,141,3,Locality,UTC+3,Africa/Nairobi
+2776658,KE,KE-39,Figini,Figini,270,3,Locality,UTC+3,Africa/Nairobi
+2776659,KE,KE-21,Faza,Faza,2855,3,Urban Center,UTC+3,Africa/Nairobi
+2776660,KE,KE-40,Fanjua,Fanjua,867,3,Commune,UTC+3,Africa/Nairobi
+2776663,KE,KE-16,Etago,Etago,220,3,Locality,UTC+3,Africa/Nairobi
+2776664,KE,KE-11,Esumeyia,Esumeyia,84,3,Locality,UTC+3,Africa/Nairobi
+2776666,KE,KE-45,Esirabe,Esirabe,44,3,Locality,UTC+3,Africa/Nairobi
+2776668,KE,KE-45,Esibila,Esibila,396,3,Locality,UTC+3,Africa/Nairobi
+2776670,KE,KE-11,Eshitari,Eshitari,2472,3,Commune,UTC+3,Africa/Nairobi
+2776672,KE,KE-11,Eshisango,Eshisango,79,3,Locality,UTC+3,Africa/Nairobi
+2776676,KE,KE-11,Eshibeye,Eshibeye,725,3,Commune,UTC+3,Africa/Nairobi
+2776681,KE,KE-45,Eruswi,Eruswi,1281,3,Commune,UTC+3,Africa/Nairobi
+2776682,KE,KE-16,Eronge,Eronge,493,3,Commune,UTC+3,Africa/Nairobi
+2776683,KE,KE-11,Eregi,Eregi,56,3,Locality,UTC+3,Africa/Nairobi
+2776684,KE,KE-16,Eramba,Eramba,293,3,Locality,UTC+3,Africa/Nairobi
+2776690,KE,KE-33,Olosodan Entasekera,Entasekera,793,3,Locality,UTC+3,Africa/Nairobi
+2776691,KE,KE-10,Enoorotet,Enoorotet,246,3,Locality,UTC+3,Africa/Nairobi
+2776692,KE,KE-10,Enkorika,Enkorika,209,3,Locality,UTC+3,Africa/Nairobi
+2776693,KE,KE-10,Enkojonga,Enkojonga,1166,3,Commune,UTC+3,Africa/Nairobi
+2776694,KE,KE-23,Enguli,Enguli,477,3,Locality,UTC+3,Africa/Nairobi
+2776700,KE,KE-36,Endarasha Settlement,Endarasha Settlement,238,3,Locality,UTC+3,Africa/Nairobi
+2776701,KE,KE-31,Endarasha,Endarasha,116,3,Locality,UTC+3,Africa/Nairobi
+2776703,KE,KE-06,Ena,Ena,71,3,Locality,UTC+3,Africa/Nairobi
+2776706,KE,KE-45,Emuhaya,Emuhaya,77,3,Locality,UTC+3,Africa/Nairobi
+2776710,KE,KE-45,Emmaloba,Emmaloba,955,3,Locality,UTC+3,Africa/Nairobi
+2776712,KE,KE-01,Emining,Emening,55,3,Locality,UTC+3,Africa/Nairobi
+2776714,KE,KE-06,Embu,Embu,53036,2,Urban Center,UTC+3,Africa/Nairobi
+2776717,KE,KE-11,Matende,Matende,36,3,Locality,UTC+3,Africa/Nairobi
+2776720,KE,KE-23,Emali,Emali,18325,3,Urban Center,UTC+3,Africa/Nairobi
+2776721,KE,KE-11,Emachembe,Emachembe,2568,3,Commune,UTC+3,Africa/Nairobi
+2776722,KE,KE-24,El Wak,El Wak,134822,3,town,UTC+3,Africa/Nairobi
+2776723,KE,KE-11,Eluche,Elmenteita,145,3,Locality,UTC+3,Africa/Nairobi
+2776728,KE,KE-01,Eldume,Eldoret,240,3,Locality,UTC+3,Africa/Nairobi
+2776729,KE,KE-44,Eldoret,Eldoret,418175,2,Urban Center,UTC+3,Africa/Nairobi
+2776730,KE,KE-09,El Dera,El Dera,400,3,Locality,UTC+3,Africa/Nairobi
+2776731,KE,KE-01,Eldama Ravine,Eldama Ravine,21385,3,Urban Center,UTC+3,Africa/Nairobi
+2776732,KE,KE-31,Elburgon,Elburgon,28359,3,Urban Center,UTC+3,Africa/Nairobi
+2776733,KE,KE-46,El Ben,El Ben,82,3,Locality,UTC+3,Africa/Nairobi
+2776734,KE,KE-10,Elangata Wuas,Elangata Wuas,243,3,Locality,UTC+3,Africa/Nairobi
+2776735,KE,KE-07,Elaa,Elaa,199,3,Locality,UTC+3,Africa/Nairobi
+2776742,KE,KE-45,Ebwali,Ebwali,378,3,Locality,UTC+3,Africa/Nairobi
+2776743,KE,KE-45,Ebusyubi,Ebusyubi,275,3,Locality,UTC+3,Africa/Nairobi
+2776744,KE,KE-38,Busonga,Busonga,49,3,Locality,UTC+3,Africa/Nairobi
+2776748,KE,KE-38,Ebukoolo,Ebukoolo,675,3,Commune,UTC+3,Africa/Nairobi
+2776749,KE,KE-45,Ebukanga,Ebukanga,62,3,Locality,UTC+3,Africa/Nairobi
+2776750,KE,KE-45,Ebuyangu,Ebuyangu,40,3,Locality,UTC+3,Africa/Nairobi
+2776751,KE,KE-45,Ebiranyi,Ebiranyi,55,3,Locality,UTC+3,Africa/Nairobi
+2776753,KE,KE-14,Dzitsuhe,Dzitsuhe,164,3,Locality,UTC+3,Africa/Nairobi
+2776755,KE,KE-23,Dwa,Dwa,48,3,Locality,UTC+3,Africa/Nairobi
+2776757,KE,KE-14,Dungicha,Dungicha,96,3,Locality,UTC+3,Africa/Nairobi
+2776758,KE,KE-35,Dondori,Dundori,70,3,Locality,UTC+3,Africa/Nairobi
+2776759,KE,KE-31,Dundori,Dundori,5392,3,Urban Center,UTC+3,Africa/Nairobi
+2776760,KE,KE-19,Dundani,Dundani,61,3,Locality,UTC+3,Africa/Nairobi
+2776761,KE,KE-40,Dumi,Dumi,2858,3,Locality,UTC+3,Africa/Nairobi
+2776766,KE,KE-11,Dudi,Dudi,75,3,Locality,UTC+3,Africa/Nairobi
+2776767,KE,KE-35,Dundori,Dundori,276,3,Locality,UTC+3,Africa/Nairobi
+2776770,KE,KE-08,Doho Karachuon,Dodori,475,3,Locality,UTC+3,Africa/Nairobi
+2776771,KE,KE-21,Dodori,Dodori,153,3,Locality,UTC+3,Africa/Nairobi
+2776773,KE,KE-08,Disi,Disi,94,3,Locality,UTC+3,Africa/Nairobi
+2776776,KE,KE-45,Digula,Digula,20,3,Locality,UTC+3,Africa/Nairobi
+2776777,KE,KE-19,Digo,Digo,171,3,Locality,UTC+3,Africa/Nairobi
+2776781,KE,KE-38,Dienya,Dienya,213,3,locality,UTC+3,Africa/Nairobi
+2776782,KE,KE-40,Dida Warede,Dida Waredi,120,3,Locality,UTC+3,Africa/Nairobi
+2776783,KE,KE-14,Dida,Dida,2126,3,Commune,UTC+3,Africa/Nairobi
+2776787,KE,KE-39,Dembwa,Dembwa,4024,3,Commune,UTC+3,Africa/Nairobi
+2776791,KE,KE-31,Daraja ya Mawe,Darasha ya Mawe,1597,3,Commune,UTC+3,Africa/Nairobi
+2776792,KE,KE-23,Darajani,Darajani,973,3,Locality,UTC+3,Africa/Nairobi
+2776793,KE,KE-17,Darajambili,Dandora,71,3,Locality,UTC+3,Africa/Nairobi
+2776796,KE,KE-19,Dambale,Dambale,179,3,Locality,UTC+3,Africa/Nairobi
+2776797,KE,KE-24,Damasa,Damasa,195,3,Locality,UTC+3,Africa/Nairobi
+2776800,KE,KE-13,Dagoretti,Dagoretti,64,3,Locality,UTC+3,Africa/Nairobi
+2776801,KE,KE-14,Dagamra,Dagamra,6787,3,City,UTC+3,Africa/Nairobi
+2776802,KE,KE-07,Dadaab,Dadaab,11525,3,Urban Center,UTC+3,Africa/Nairobi
+2776806,KE,KE-31,Cokereria,Cokereria,147,3,Locality,UTC+3,Africa/Nairobi
+2776807,KE,KE-03,Chwele,Chwele,4986,3,Urban Center,UTC+3,Africa/Nairobi
+2776809,KE,KE-01,Churo,Churo,612,3,Locality,UTC+3,Africa/Nairobi
+2776813,KE,KE-41,Chuka,Chuka,22388,2,Urban Center,UTC+3,Africa/Nairobi
+2776814,KE,KE-29,Chui,Chui,129,3,Locality,UTC+3,Africa/Nairobi
+2776815,KE,KE-26,Chuge,Chuge,2557,3,Locality,UTC+3,Africa/Nairobi
+2776816,KE,KE-18,Kyusyani,Kyusyani,97,3,Locality,UTC+3,Africa/Nairobi
+2776819,KE,KE-29,Chomo,Chomo,33,3,Locality,UTC+3,Africa/Nairobi
+2776820,KE,KE-32,Chemisia,Chemisia,461,3,Locality,UTC+3,Africa/Nairobi
+2776823,KE,KE-41,Chogoria,Chogoria,7603,3,Urban Center,UTC+3,Africa/Nairobi
+2776825,KE,KE-16,Chitago,Chitago,163,4,village,UTC+3,Africa/Nairobi
+2776828,KE,KE-19,Chingwede,Chingwede,230,3,Locality,UTC+3,Africa/Nairobi
+2776832,KE,KE-11,Chimangeti,Chimangeti,79,3,Locality,UTC+3,Africa/Nairobi
+2776833,KE,KE-32,Chemogonja,Chemogonja,30,3,Locality,UTC+3,Africa/Nairobi
+2776835,KE,KE-17,Chiga,Chiga,54,3,Locality,UTC+3,Africa/Nairobi
+2776836,KE,KE-40,Chiffiri,Chiffiri,131,3,Locality,UTC+3,Africa/Nairobi
+2776837,KE,KE-13,Chieko,Chieko,255,3,Locality,UTC+3,Africa/Nairobi
+2776841,KE,KE-40,Chewele,Chewele,104,3,Locality,UTC+3,Africa/Nairobi
+2776842,KE,KE-40,Chewani,Chevani,53,3,Locality,UTC+3,Africa/Nairobi
+2776844,KE,KE-05,Chesoi,Chesoi,166,3,Locality,UTC+3,Africa/Nairobi
+2776845,KE,KE-02,Chesoen,Chesoen,50,3,Locality,UTC+3,Africa/Nairobi
+2776847,KE,KE-05,Chesetan,Chesetan,84,3,Locality,UTC+3,Africa/Nairobi
+2776848,KE,KE-47,Chesegon,Chesegon,107,3,Locality,UTC+3,Africa/Nairobi
+2776849,KE,KE-03,Chesamisi,Chesamisi,132,3,Locality,UTC+3,Africa/Nairobi
+2776850,KE,KE-03,Chesikaki,Chesakaki,118,3,Locality,UTC+3,Africa/Nairobi
+2776851,KE,KE-36,Cheronge,Cheronge,119,4,hamlet,UTC+3,Africa/Nairobi
+2776853,KE,KE-12,Cheribo,Cheribo,125,3,Locality,UTC+3,Africa/Nairobi
+2776854,KE,KE-42,Cherangani,Cherangani,81,3,Locality,UTC+3,Africa/Nairobi
+2776855,KE,KE-41,Chera,Chera,2300,3,Commune,UTC+3,Africa/Nairobi
+2776857,KE,KE-47,Cheburua,Cheburua,105,3,Locality,UTC+3,Africa/Nairobi
+2776858,KE,KE-47,Chepunyal,Chepunyal,290,3,Locality,UTC+3,Africa/Nairobi
+2776859,KE,KE-47,Chepunyal,Chepunyal,61,3,Locality,UTC+3,Africa/Nairobi
+2776860,KE,KE-31,Chebtwech,Chebtwech,1476,3,Locality,UTC+3,Africa/Nairobi
+2776864,KE,KE-32,Cheptil,Cheptil,918,3,Commune,UTC+3,Africa/Nairobi
+2776866,KE,KE-32,Chepterit,Chepterit,2644,3,Commune,UTC+3,Africa/Nairobi
+2776867,KE,KE-12,Cheptenye,Cheptenye,47,3,Locality,UTC+3,Africa/Nairobi
+2776868,KE,KE-32,Cheptarit,Cheptarit,207,3,Locality,UTC+3,Africa/Nairobi
+2776869,KE,KE-03,Cheptai,Cheptai,1423,3,Commune,UTC+3,Africa/Nairobi
+2776872,KE,KE-01,Chaplembus,Chaplembus,696,3,Locality,UTC+3,Africa/Nairobi
+2776873,KE,KE-12,Cheplanget,Cheplanget,740,3,City,UTC+3,Africa/Nairobi
+2776874,KE,KE-03,Chemukwabi,Chemukwabi,13786,3,Commune,UTC+3,Africa/Nairobi
+2776877,KE,KE-05,Chepkum,Chepkum,288,3,Locality,UTC+3,Africa/Nairobi
+2776878,KE,KE-03,Chepkube,Chepkube,41,3,Locality,UTC+3,Africa/Nairobi
+2776883,KE,KE-05,Chepketeret,Chepketeret,45,3,Locality,UTC+3,Africa/Nairobi
+2776886,KE,KE-47,Chepareria,Cheberia,1073,4,Town,UTC+3,Africa/Nairobi
+2776891,KE,KE-01,Chemususu,Chemosusu,593,3,Commune,UTC+3,Africa/Nairobi
+2776894,KE,KE-01,Chemoigut,Chemoigut,97,3,Locality,UTC+3,Africa/Nairobi
+2776896,KE,KE-01,Chemogoch,Chemogoch,58,3,Locality,UTC+3,Africa/Nairobi
+2776900,KE,KE-18,Chematu,Chematu,573,3,Locality,UTC+3,Africa/Nairobi
+2776906,KE,KE-04,Chelelemuk,Chelelemuk,1335,3,Commune,UTC+3,Africa/Nairobi
+2776911,KE,KE-36,Chehe,Chehe,319,3,Locality,UTC+3,Africa/Nairobi
+2776914,KE,KE-29,Chege,Chege,22,3,Locality,UTC+3,Africa/Nairobi
+2776918,KE,KE-02,Chebunyo,Chebunyo,247,3,Locality,UTC+3,Africa/Nairobi
+2776920,KE,KE-03,Chebukaka,Chebukaka,57,3,Locality,UTC+3,Africa/Nairobi
+2776922,KE,KE-05,Chebororwa,Chebororwa,348,3,Locality,UTC+3,Africa/Nairobi
+2776933,KE,KE-02,Chebilat,Chebilat,5373,3,Urban Center,UTC+3,Africa/Nairobi
+2776937,KE,KE-05,Chebara,Chebara,99,3,Locality,UTC+3,Africa/Nairobi
+2776938,KE,KE-02,Chebangang,Chebangang,2707,3,Commune,UTC+3,Africa/Nairobi
+2776943,KE,KE-45,Chavakali,Chavakali,12674,3,Urban Center,UTC+3,Africa/Nairobi
+2776944,KE,KE-40,Handarako,Chathoro,59,3,Locality,UTC+3,Africa/Nairobi
+2776945,KE,KE-02,Cheptalal,Cheptalal,248,3,Locality,UTC+3,Africa/Nairobi
+2776947,KE,KE-14,Changombe,Changombe,41,3,Locality,UTC+3,Africa/Nairobi
+2776948,KE,KE-04,Changara,Changamwe,140,3,Locality,UTC+3,Africa/Nairobi
+2776951,KE,KE-40,Chamwanamuma,Chamwanamuma,21403,3,City,UTC+3,Africa/Nairobi
+2776955,KE,KE-31,By-Gum,By-Gum,170,3,Locality,UTC+3,Africa/Nairobi
+2776957,KE,KE-45,Bwanda,Bwanda,1900,3,Commune,UTC+3,Africa/Nairobi
+2776958,KE,KE-04,Bwaliro,Bwaliro,216,3,Locality,UTC+3,Africa/Nairobi
+2776959,KE,KE-28,Bwagamoyo,Bwagamoyo,1731,3,Commune,UTC+3,Africa/Nairobi
+2776960,KE,KE-19,Bwaga Macho,Bwaga Cheti,184,3,Locality,UTC+3,Africa/Nairobi
+2776962,KE,KE-04,Buyofu,Buyofu,261,3,Locality,UTC+3,Africa/Nairobi
+2776965,KE,KE-45,Butiti,Butere,62,3,Locality,UTC+3,Africa/Nairobi
+2776966,KE,KE-11,Butere,Butere,9401,3,Urban Center,UTC+3,Africa/Nairobi
+2776970,KE,KE-04,Busike,Busike,729,3,Commune,UTC+3,Africa/Nairobi
+2776971,KE,KE-04,Busia,Busia,63185,2,Urban Center,UTC+3,Africa/Nairobi
+2776974,KE,KE-03,Busakala,Busakala,311,3,Locality,UTC+3,Africa/Nairobi
+2776975,KE,KE-19,Busa,Busa,140,3,Locality,UTC+3,Africa/Nairobi
+2776976,KE,KE-24,Finno,Burnt Forest,53,3,Locality,UTC+3,Africa/Nairobi
+2776977,KE,KE-44,Burnt Forest,Burnt Forest,4739,3,Urban Center,UTC+3,Africa/Nairobi
+2776980,KE,KE-04,Burinda,Burinda,177,4,locality,UTC+3,Africa/Nairobi
+2776981,KE,KE-36,Burguret,Burguret,2886,3,City,UTC+3,Africa/Nairobi
+2776982,KE,KE-47,Burgich,Burgich,307,3,Locality,UTC+3,Africa/Nairobi
+2776984,KE,KE-11,Burendwa,Burendwa,103,3,Locality,UTC+3,Africa/Nairobi
+2776986,KE,KE-07,Bura,Bura,10073,3,Urban Center,UTC+3,Africa/Nairobi
+2776988,KE,KE-17,Buoye,Bunyore,6272,3,City,UTC+3,Africa/Nairobi
+2776990,KE,KE-04,Port Victoria,Bunyala,12194,3,Urban Center,UTC+3,Africa/Nairobi
+2776992,KE,KE-03,Bungoma,Bungoma,64016,2,Urban Center,UTC+3,Africa/Nairobi
+2776994,KE,KE-04,Bunaba,Bunaba,87,3,Locality,UTC+3,Africa/Nairobi
+2776997,KE,KE-04,Bumiduru,Bumiduru,210,3,Locality,UTC+3,Africa/Nairobi
+2776999,KE,KE-16,Bumburia,Bumburia,141,3,Locality,UTC+3,Africa/Nairobi
+2777000,KE,KE-45,Bumbo,Bumbo,87,3,Locality,UTC+3,Africa/Nairobi
+2777001,KE,KE-04,Bumala,Bumala,4381,3,Commune,UTC+3,Africa/Nairobi
+2777002,KE,KE-11,Bumala,Bumala,131,3,Locality,UTC+3,Africa/Nairobi
+2777003,KE,KE-04,Bulwani,Bulwani,371,3,Locality,UTC+3,Africa/Nairobi
+2777005,KE,KE-03,Bulondo,Bulondo,609,3,Commune,UTC+3,Africa/Nairobi
+2777010,KE,KE-11,Bulanda,Bulanda,222,3,Locality,UTC+3,Africa/Nairobi
+2777015,KE,KE-03,Bukokholo,Bukokholo,3597,3,Commune,UTC+3,Africa/Nairobi
+2777016,KE,KE-04,Bukiri,Bukiri,90,3,Locality,UTC+3,Africa/Nairobi
+2777020,KE,KE-14,Bukotwavi,Bukatwavi,108,3,Locality,UTC+3,Africa/Nairobi
+2777021,KE,KE-04,Bukangasi,Bukangasi,74,3,Locality,UTC+3,Africa/Nairobi
+2777022,KE,KE-04,Bujwane,Bujwane,1465,3,Locality,UTC+3,Africa/Nairobi
+2777023,KE,KE-04,Bujumba,Bujumba,247,3,Locality,UTC+3,Africa/Nairobi
+2777024,KE,KE-14,Buji Albati,Buji Albati,244,3,Locality,UTC+3,Africa/Nairobi
+2777028,KE,KE-45,Bugina,Bugina,88,3,Locality,UTC+3,Africa/Nairobi
+2777029,KE,KE-05,Bugar,Bugar,95,3,Locality,UTC+3,Africa/Nairobi
+2777031,KE,KE-11,Buchifu,Buchifu,74,3,Locality,UTC+3,Africa/Nairobi
+2777032,KE,KE-11,Buchenya,Buchenya,40,3,Locality,UTC+3,Africa/Nairobi
+2777033,KE,KE-12,Buchenge,Buchenge,238,3,Locality,UTC+3,Africa/Nairobi
+2777034,KE,KE-40,Bubesa,Bubesa,130,3,Locality,UTC+3,Africa/Nairobi
+2777035,KE,KE-44,Brockley,Brockley,44,3,Locality,UTC+3,Africa/Nairobi
+2777036,KE,KE-45,Boyani,Boyani,60,3,Locality,UTC+3,Africa/Nairobi
+2777037,KE,KE-38,Boro,Boro,47,3,Locality,UTC+3,Africa/Nairobi
+2777038,KE,KE-12,Borborwet,Borborwet,3630,3,Locality,UTC+3,Africa/Nairobi
+2777040,KE,KE-34,Bonyunyu,Bonyunyu,1290,3,Commune,UTC+3,Africa/Nairobi
+2777041,KE,KE-34,Bonyaiguba,Bonyaiguba,884,3,Commune,UTC+3,Africa/Nairobi
+2777048,KE,KE-38,Bondo,Bondo,8683,4,locality,UTC+3,Africa/Nairobi
+2777049,KE,KE-38,Bondo,Bomet,22712,3,Urban Center,UTC+3,Africa/Nairobi
+2777050,KE,KE-02,Bomet,Bomet,11765,2,Urban Center,UTC+3,Africa/Nairobi
+2777052,KE,KE-14,Boma Upande,Boma Upande,104,3,Locality,UTC+3,Africa/Nairobi
+2777055,KE,KE-15,Boma,Boma,70,4,hamlet,UTC+3,Africa/Nairobi
+2777059,KE,KE-02,Boito,Boito,217,3,Locality,UTC+3,Africa/Nairobi
+2777061,KE,KE-16,Boitangare,Boitangare,220,3,Locality,UTC+3,Africa/Nairobi
+2777064,KE,KE-16,Bogitaa,Bogitaa,222,3,Locality,UTC+3,Africa/Nairobi
+2777065,KE,KE-16,Bogiakumu,Bogiakumu,1776,3,Commune,UTC+3,Africa/Nairobi
+2777066,KE,KE-16,Bogesaka,Bogesaka,2219,3,Commune,UTC+3,Africa/Nairobi
+2777067,KE,KE-04,Bogendi,Bogendi,203,3,Locality,UTC+3,Africa/Nairobi
+2777070,KE,KE-21,Bodhei,Bodhei,192,3,Locality,UTC+3,Africa/Nairobi
+2777071,KE,KE-34,Birongo,Birongo,42,3,Locality,UTC+3,Africa/Nairobi
+2777078,KE,KE-09,Banane,Benane,142,3,Locality,UTC+3,Africa/Nairobi
+2777079,KE,KE-36,Bellevue,Bellevue,580,3,Locality,UTC+3,Africa/Nairobi
+2777082,KE,KE-04,Bekayi,Bekayi,1050,3,Commune,UTC+3,Africa/Nairobi
+2777085,KE,KE-21,Baure,Baure,40,3,Locality,UTC+3,Africa/Nairobi
+2777089,KE,KE-01,Barwesa,Barwesa,456,3,Locality,UTC+3,Africa/Nairobi
+2777090,KE,KE-01,Bartolimo,Bartolimo,1748,3,Commune,UTC+3,Africa/Nairobi
+2777091,KE,KE-10,Bartimaro,Bartimaro,914,3,Locality,UTC+3,Africa/Nairobi
+2777093,KE,KE-38,Bar Olengo,Bar Olengo,1622,3,Locality,UTC+3,Africa/Nairobi
+2777095,KE,KE-17,Barkorwa,Barkorwa,77,3,Locality,UTC+3,Africa/Nairobi
+2777098,KE,KE-01,Baringo,Baringo,7656,4,hamlet,UTC+3,Africa/Nairobi
+2777100,KE,KE-14,Baricho,Baricho,188,3,Locality,UTC+3,Africa/Nairobi
+2777101,KE,KE-21,Bargoni,Bargoni,302,3,Locality,UTC+3,Africa/Nairobi
+2777103,KE,KE-32,Baraton,Baraton,2043,3,Urban Center,UTC+3,Africa/Nairobi
+2777104,KE,KE-14,Barani,Barane,61,3,Locality,UTC+3,Africa/Nairobi
+2777107,KE,KE-37,Baragoi,Baragoi,4254,3,Urban Center,UTC+3,Africa/Nairobi
+2777111,KE,KE-45,Banja,Banja,363,3,Commune,UTC+3,Africa/Nairobi
+2777112,KE,KE-19,Banga,Banga,79,3,Locality,UTC+3,Africa/Nairobi
+2777113,KE,KE-27,Bande,Bande,297,3,Locality,UTC+3,Africa/Nairobi
+2777115,KE,KE-14,Bandari,Bamburi,53,3,Locality,UTC+3,Africa/Nairobi
+2777116,KE,KE-28,Bamburi,Bamburi,162,3,Locality,UTC+3,Africa/Nairobi
+2777117,KE,KE-14,Bamba,Bamba,2015,3,Urban Center,UTC+3,Africa/Nairobi
+2777119,KE,KE-21,Bajumwali,Bajumwali,84,3,Locality,UTC+3,Africa/Nairobi
+2777120,KE,KE-31,Bahati Settlement,Bahati,91,4,village,UTC+3,Africa/Nairobi
+2777121,KE,KE-31,Bahati,Bahati,3180,3,Urban Center,UTC+3,Africa/Nairobi
+2777126,KE,KE-27,Awendo,Awasi,16815,3,Urban Center,UTC+3,Africa/Nairobi
+2777127,KE,KE-17,Awasi,Awasi,5052,3,Urban Center,UTC+3,Africa/Nairobi
+2777129,KE,KE-17,Awach,Awach,31,3,Locality,UTC+3,Africa/Nairobi
+2777131,KE,KE-22,Athi River,Athi River,81302,3,Urban Center,UTC+3,Africa/Nairobi
+2777144,KE,KE-32,Arwos,Arwos,78,3,Locality,UTC+3,Africa/Nairobi
+2777145,KE,KE-21,Arosen,Arosen,168,3,Locality,UTC+3,Africa/Nairobi
+2777147,KE,KE-37,Archers Post,Archers Post,4620,3,Urban Center,UTC+3,Africa/Nairobi
+2777148,KE,KE-27,Arambe,Arambe,1064,3,Locality,UTC+3,Africa/Nairobi
+2777154,KE,KE-38,Anyiko,Anyiko,2240,3,Commune,UTC+3,Africa/Nairobi
+2777158,KE,KE-26,Antubaiga,Antubaiga,5471,3,City,UTC+3,Africa/Nairobi
+2777159,KE,KE-08,Andingo,Andingo,1005,3,locality,UTC+3,Africa/Nairobi
+2777162,KE,KE-05,Anin,Anin,36,3,Locality,UTC+3,Africa/Nairobi
+2777163,KE,KE-27,Angugo,Angugo,79,3,Locality,UTC+3,Africa/Nairobi
+2777164,KE,KE-04,Angorom,Angorom,5299,4,town,UTC+3,Africa/Nairobi
+2777167,KE,KE-08,Angino,Angino,96,3,Locality,UTC+3,Africa/Nairobi
+2777168,KE,KE-33,Angata Naado,Angara Naado,187,3,Locality,UTC+3,Africa/Nairobi
+2777175,KE,KE-20,Anadanguru,Anadanguru,112,3,Locality,UTC+3,Africa/Nairobi
+2777176,KE,KE-26,Igem Be,Igem Be,74,3,Locality,UTC+3,Africa/Nairobi
+2777179,KE,KE-08,Amoya,Amoya,54,4,village,UTC+3,Africa/Nairobi
+2777180,KE,KE-04,Amongura,Amongura,116,3,Locality,UTC+3,Africa/Nairobi
+2777181,KE,KE-04,Amagoru,Amagoru,109,4,village,UTC+3,Africa/Nairobi
+2777182,KE,KE-31,Ambusket,Amboseli,52,3,Locality,UTC+3,Africa/Nairobi
+2777185,KE,KE-47,Amaler,Amakuni,872,3,Commune,UTC+3,Africa/Nairobi
+2777186,KE,KE-04,Amukura,Amukura,70,3,Locality,UTC+3,Africa/Nairobi
+2777188,KE,KE-17,Alungo,Alungo,69,3,Locality,UTC+3,Africa/Nairobi
+2777189,KE,KE-17,Alendu,Alendu,1181,3,Commune,UTC+3,Africa/Nairobi
+2777196,KE,KE-27,Akoko,Akoko,1285,3,Commune,UTC+3,Africa/Nairobi
+2777197,KE,KE-47,Akeriamet,Akeriamet,73,3,Locality,UTC+3,Africa/Nairobi
+2777200,KE,KE-38,Akala,Akala,33,3,Locality,UTC+3,Africa/Nairobi
+2777201,KE,KE-38,Ajigo,Ajigo,181,3,Locality,UTC+3,Africa/Nairobi
+2777203,KE,KE-33,Aitong,Aitong,84,3,Locality,UTC+3,Africa/Nairobi
+2777204,KE,KE-11,Aisere,Aisere,48,3,Locality,UTC+3,Africa/Nairobi
+2777205,KE,KE-02,Aisaik,Aisaik,497,3,Commune,UTC+3,Africa/Nairobi
+2777206,KE,KE-12,Ainamoi,Ainamoi,142,3,Locality,UTC+3,Africa/Nairobi
+2777207,KE,KE-17,Ahero,Ahero,11801,3,Urban Center,UTC+3,Africa/Nairobi
+2777210,KE,KE-27,Agenga,Agenga,2730,3,Commune,UTC+3,Africa/Nairobi
+2777211,KE,KE-08,Adiedo,Adiedo,138,3,Locality,UTC+3,Africa/Nairobi
+2777212,KE,KE-08,Adhiro,Adhiro,194,3,Locality,UTC+3,Africa/Nairobi
+2777213,KE,KE-19,Ada,Ada,935,3,Locality,UTC+3,Africa/Nairobi
+2777214,KE,KE-27,Achuth,Achuth,59,3,Locality,UTC+3,Africa/Nairobi
+2777216,KE,KE-08,Achiero,Achiero,3171,3,City,UTC+3,Africa/Nairobi
+2777217,KE,KE-08,Abundu,Abundu,338,3,Locality,UTC+3,Africa/Nairobi
+2777220,KE,KE-38,Siaya,Siaya,22586,2,Urban Center,UTC+3,Africa/Nairobi
+2777221,KE,KE-38,Sega,Sega,52,3,Locality,UTC+3,Africa/Nairobi
+2777224,KE,KE-46,Dad Dogh,Dad Dogh,270,3,Locality,UTC+3,Africa/Nairobi
+2777225,KE,KE-21,Kilweni,Kilweni,1183,3,Commune,UTC+3,Africa/Nairobi
+2777230,KE,KE-24,Arabia,Arabia,393,3,Locality,UTC+3,Africa/Nairobi
+2777235,KE,KE-24,Takaba,Takaba,21517,3,Urban Center,UTC+3,Africa/Nairobi
+2777237,KE,KE-21,Shanga,Shanga,1030,3,Commune,UTC+3,Africa/Nairobi
+2777242,KE,\N,Iten,Iten,42312,4,locality,UTC+3,Africa/Nairobi
+2777243,KE,KE-01,Maji Mazuri,Maji Mazuri,5138,3,Urban Center,UTC+3,Africa/Nairobi
+2777245,KE,\N,Pap Onditi,Pap Onditi,76,3,Locality,UTC+3,Africa/Nairobi
+2777246,KE,KE-30,Mukuru,Mukuru,114,3,Locality,UTC+3,Africa/Nairobi
+2777248,KE,\N,Timboroa,Timboroa,4744,3,Urban Center,UTC+3,Africa/Nairobi
+2777250,KE,\N,Kithimani,Kithimani,8782,3,Commune,UTC+3,Africa/Nairobi
+2777251,KE,\N,Rabai,Rabai,134,3,Locality,UTC+3,Africa/Nairobi
+2777252,KE,\N,Nabkoi,Nabkoi,964,3,Commune,UTC+3,Africa/Nairobi
+2777253,KE,\N,Burnt Forest,Burnt Forest,49,3,Locality,UTC+3,Africa/Nairobi
+2777254,KE,\N,Cheptiret,Mukurwe-ini,162,4,hamlet,UTC+3,Africa/Nairobi
+2777255,KE,KE-36,Mukurwe-ini,Mukurwe-ini,6508,3,Urban Center,UTC+3,Africa/Nairobi
+2777258,KE,KE-19,Famuni,Famuni,5886,3,Commune,UTC+3,Africa/Nairobi
+2777259,KE,KE-19,Mtata,Mtata,1748,3,Commune,UTC+3,Africa/Nairobi
+2777260,KE,KE-19,Kasagini,Kasagini,185,3,Locality,UTC+3,Africa/Nairobi
+2777261,KE,KE-19,Bomani,Bomani,62,3,Locality,UTC+3,Africa/Nairobi
+2777265,KE,KE-40,Laini,Laini,167,3,Locality,UTC+3,Africa/Nairobi
+2777268,KE,KE-19,Magagani,Magagani,197,3,Locality,UTC+3,Africa/Nairobi
+2777270,KE,KE-19,Kibauni,Kibauni,292,3,Locality,UTC+3,Africa/Nairobi
+2777271,KE,KE-19,Perani,Perani,109,3,Locality,UTC+3,Africa/Nairobi
+2777272,KE,KE-19,Manda,Manda,297,3,Locality,UTC+3,Africa/Nairobi
+2777273,KE,KE-19,Kipandeni,Kipandeni,30,3,Locality,UTC+3,Africa/Nairobi
+2777274,KE,KE-19,Kuzini,Kuzini,190,3,Locality,UTC+3,Africa/Nairobi
+2777275,KE,KE-19,Mangawani,Mangawani,51,3,Locality,UTC+3,Africa/Nairobi
+2777276,KE,KE-40,Marafa,Marafa,176,3,Locality,UTC+3,Africa/Nairobi
+2777278,KE,KE-40,Milimani,Milimani,293,4,hamlet,UTC+3,Africa/Nairobi
+2777279,KE,KE-40,Odhole,Odhole,3592,3,Commune,UTC+3,Africa/Nairobi
+2777280,KE,KE-40,Kidhanga,Kidhanga,141,3,Locality,UTC+3,Africa/Nairobi
+2777281,KE,KE-40,Karota,Karota,30,3,Locality,UTC+3,Africa/Nairobi
+2777282,KE,KE-40,Bububu,Bububu,67,3,Locality,UTC+3,Africa/Nairobi
+2777283,KE,KE-07,Kotile,Kotile,52,3,Locality,UTC+3,Africa/Nairobi
+2777287,KE,KE-14,Kapangani,Kapangani,101,3,Locality,UTC+3,Africa/Nairobi
+2777288,KE,KE-14,Boyani,Boyani,59,3,Locality,UTC+3,Africa/Nairobi
+2777289,KE,KE-14,Jirikokole,Jirikokole,75,3,Locality,UTC+3,Africa/Nairobi
+2777291,KE,KE-14,Raromombasa,Raromombasa,33,3,Locality,UTC+3,Africa/Nairobi
+2777292,KE,KE-14,Toroveni,Toroveni,87,3,Locality,UTC+3,Africa/Nairobi
+2777296,KE,KE-14,Majengo Dololo,Majengo Dololo,395,3,Locality,UTC+3,Africa/Nairobi
+2777298,KE,KE-19,Kapok,Kapok,350,3,Locality,UTC+3,Africa/Nairobi
+2777299,KE,KE-19,Kilimangodo,Kilimangodo,158,3,Locality,UTC+3,Africa/Nairobi
+2777300,KE,KE-19,Kachini,Kachini,26,3,Locality,UTC+3,Africa/Nairobi
+2777301,KE,KE-19,Mirihini,Mirihini,624,3,Locality,UTC+3,Africa/Nairobi
+2777303,KE,KE-19,Miatsani,Miatsani,32,3,Locality,UTC+3,Africa/Nairobi
+2777320,KE,KE-19,Kidzumbani,Kidzumbani,309,3,Locality,UTC+3,Africa/Nairobi
+2777323,KE,KE-19,Majimboni,Majimboni,216,4,hamlet,UTC+3,Africa/Nairobi
+2777325,KE,KE-19,Bahakanda,Bahakanda,120,3,Locality,UTC+3,Africa/Nairobi
+2777331,KE,KE-19,Jorore,Jorore,52,3,Locality,UTC+3,Africa/Nairobi
+2777335,KE,KE-40,Peponi,Peponi,69,3,Locality,UTC+3,Africa/Nairobi
+2777338,KE,KE-40,Mukokoa,Mukokoa,59,3,Locality,UTC+3,Africa/Nairobi
+2777348,KE,KE-40,Onkolde,Onkolde,185,3,Locality,UTC+3,Africa/Nairobi
+2777355,KE,KE-21,Maleli,Maleli,177,3,Locality,UTC+3,Africa/Nairobi
+2777356,KE,KE-40,Jalalaluma,Jalalaluma,32,3,Locality,UTC+3,Africa/Nairobi
+2777357,KE,KE-40,Malkamasa,Malkamasa,61,3,Locality,UTC+3,Africa/Nairobi
+2777359,KE,KE-40,Buito,Mjono,595,3,Locality,UTC+3,Africa/Nairobi
+2777360,KE,KE-21,Mjono,Mjono,275,3,Locality,UTC+3,Africa/Nairobi
+2777361,KE,KE-21,Cholechole,Cholechole,905,3,Locality,UTC+3,Africa/Nairobi
+2777367,KE,KE-14,Sosoni,Sosoni,1737,3,Commune,UTC+3,Africa/Nairobi
+2777369,KE,KE-14,Majengo,Majengo,873,3,Locality,UTC+3,Africa/Nairobi
+2777372,KE,KE-40,Kelokelo,Kelokelo,129,3,Locality,UTC+3,Africa/Nairobi
+2777377,KE,KE-40,Jamhuri,Jamhuri,53,3,Locality,UTC+3,Africa/Nairobi
+2777379,KE,KE-35,Ol Kalou,Ol Kalou,47795,2,Urban Center,UTC+3,Africa/Nairobi
+2777380,KE,KE-10,Kitengela,Kitengela,154436,3,Urban Center,UTC+3,Africa/Nairobi
+2777382,KE,KE-34,Kiambere,Nyamira,10000,4,PPL,UTC+3,Africa/Nairobi
+2777389,KE,\N,Chyulu Hills,Chyulu Hills,117,3,Locality,UTC+3,Africa/Nairobi
+2777391,KE,\N,Holili,Holili,69,3,Locality,UTC+3,Africa/Nairobi
+2777392,KE,KE-30,Githurai,Juja,922,3,Locality,UTC+3,Africa/Nairobi
+2777393,KE,KE-13,Juja,Juja,156041,3,Urban Center,UTC+3,Africa/Nairobi
+2777395,KE,KE-19,Mbilini,Mbilini,132,3,Locality,UTC+3,Africa/Nairobi
+2777400,KE,KE-19,Vigurungani,Vigurungani,99,3,Locality,UTC+3,Africa/Nairobi
+2777402,KE,KE-19,Pangani,Pangani,74,4,hamlet,UTC+3,Africa/Nairobi
+2777403,KE,KE-19,Mwena,Mwena,52,3,Locality,UTC+3,Africa/Nairobi
+2777409,KE,KE-19,Mabokoni,Mabokoni,364,3,Locality,UTC+3,Africa/Nairobi
+2777423,KE,KE-40,Tarasaa,Tarasaa,1176,3,Commune,UTC+3,Africa/Nairobi
+2777429,KE,KE-19,Diani,Diani,222,3,Locality,UTC+3,Africa/Nairobi
+2777430,KE,KE-30,Imara Daima Estate,Imara Daima Estate,130,3,Locality,UTC+3,Africa/Nairobi
+2777433,KE,KE-07,Liboi,Liboi,11440,4,town,UTC+3,Africa/Nairobi
+2777439,KE,\N,Lagdera,Lagdera,221,3,Locality,UTC+3,Africa/Nairobi
+2777445,KE,KE-38,Usenge,Usenge,7976,3,Urban Center,UTC+3,Africa/Nairobi
+2777447,KE,KE-36,Endarasha,Endarasha,2743,3,Urban Center,UTC+3,Africa/Nairobi
+2777449,KE,KE-35,Ndunyu Njeru,Ndunyu Njeru,4354,3,Urban Center,UTC+3,Africa/Nairobi
+2777454,KE,KE-17,Kisian,Kisian,1600,3,Commune,UTC+3,Africa/Nairobi
+2777455,KE,KE-17,Nyamasaria,Nyamasaria,96,3,Locality,UTC+3,Africa/Nairobi
+2777456,KE,KE-03,Bungoma,Bungoma,1885,2,Commune,UTC+3,Africa/Nairobi
+2777457,KE,KE-25,Namarei,Mlolongo,109,4,village,UTC+3,Africa/Nairobi
+2777458,KE,KE-22,Mlolongo,Lafey,136351,3,Urban Center,UTC+3,Africa/Nairobi
+2777459,KE,KE-24,Lafey,Lafey,22882,3,Urban Center,UTC+3,Africa/Nairobi
+2777460,KE,KE-43,Nadapal,Nadapal,3500,4,town,UTC+3,Africa/Nairobi
+2777462,KE,KE-36,Kimahuri,Kimahuri,211,3,Locality,UTC+3,Africa/Nairobi
+2777464,KE,KE-46,Dadaj-Bula,Dadaj-Bula,294,3,Locality,UTC+3,Africa/Nairobi
+2777470,KE,KE-24,Banissa,Banissa,14974,3,Urban Center,UTC+3,Africa/Nairobi
+2777471,KE,KE-46,Kotulo,Kotulo,73,3,Locality,UTC+3,Africa/Nairobi
+2777473,KE,KE-38,Rwambwa,Mpeketoni,186,3,Locality,UTC+3,Africa/Nairobi
+2777474,KE,KE-21,Mpeketoni,Mpeketoni,5957,3,Urban Center,UTC+3,Africa/Nairobi
+2777479,KE,KE-17,Chulaimbo,Chulaimbo,79,3,Locality,UTC+3,Africa/Nairobi
+2777482,KE,KE-04,Nambuku,Nambuku,125,3,Locality,UTC+3,Africa/Nairobi
+2777494,KE,KE-25,Dukana,Dukana,26,3,Locality,UTC+3,Africa/Nairobi
+2777497,KE,KE-46,Hara,Hara,47,3,Locality,UTC+3,Africa/Nairobi
+2777499,KE,KE-01,Solian,Funyula,83,3,Locality,UTC+3,Africa/Nairobi
+2777500,KE,KE-04,Funyula,Funyula,3645,3,Urban Center,UTC+3,Africa/Nairobi
+2777502,KE,KE-41,Marimanti,Marimanti,2752,3,Urban Center,UTC+3,Africa/Nairobi
+2777503,KE,KE-26,Nkubu,Kapsokwony,184,3,Locality,UTC+3,Africa/Nairobi
+2777504,KE,KE-03,Kapsokwony,Kapsokwony,7077,3,Urban Center,UTC+3,Africa/Nairobi
+2777507,KE,KE-33,Talek,Talek,316,3,Locality,UTC+3,Africa/Nairobi
+2777509,KE,KE-14,Mtwapa,Mtwapa,90677,3,Urban Center,UTC+3,Africa/Nairobi
+2777510,KE,KE-11,Lugari,Lugari,244,3,Locality,UTC+3,Africa/Nairobi
+2777511,KE,KE-11,Malava Constituency,Malava Constituency,176,3,Locality,UTC+3,Africa/Nairobi
+2777512,KE,KE-08,Awendo,Awendo,116,3,Locality,UTC+3,Africa/Nairobi
+2777515,KE,KE-25,Lekumai,Lekumai,25,3,Locality,UTC+3,Africa/Nairobi
+2777516,KE,KE-10,Oloitokitok,Amagoro,24,3,Locality,UTC+3,Africa/Nairobi
+2777517,KE,KE-04,Amagoro,Amagoro,4182,3,Urban Center,UTC+3,Africa/Nairobi
+2777518,KE,KE-27,Rongo,Rongo,300,4,hamlet,UTC+3,Africa/Nairobi
+2777519,KE,KE-43,Muru-erith,Muru-erith,32,3,Locality,UTC+3,Africa/Nairobi
+2777521,KE,KE-43,Kachon,Kachon,601,3,Locality,UTC+3,Africa/Nairobi
+2777526,KE,KE-43,Nathajait,Nathajait,172,3,Locality,UTC+3,Africa/Nairobi
+2777534,KE,KE-10,Loitokitok,Loitokitok,10568,3,Urban Center,UTC+3,Africa/Nairobi
+2777535,KE,KE-21,Stesheni,Stesheni,196,3,Locality,UTC+3,Africa/Nairobi
+2777537,KE,KE-16,Keumbu,Keumbu,99,3,Locality,UTC+3,Africa/Nairobi
+2777539,KE,KE-01,Mailisaba,Mailisaba,182,3,Locality,UTC+3,Africa/Nairobi
+2777540,KE,KE-46,Dilmanyaley,Dilmanyaley,198,3,Locality,UTC+3,Africa/Nairobi
+2777541,KE,KE-37,Umoja,Umoja,189,3,Locality,UTC+3,Africa/Nairobi
+2777542,KE,KE-30,Baba Dogo,Baba Dogo,2097,3,Commune,UTC+3,Africa/Nairobi
+2777543,KE,KE-28,Jomvu Kuu,Jomvu Kuu,106,3,Locality,UTC+3,Africa/Nairobi
+2777544,KE,KE-37,Nachola,Nachola,269,3,Locality,UTC+3,Africa/Nairobi
+2777545,KE,KE-30,Air Base,Sori,338,3,Locality,UTC+3,Africa/Nairobi
+2777546,KE,KE-27,Sori,Sori,7020,3,Urban Center,UTC+3,Africa/Nairobi
+2777547,KE,KE-45,Iboona,Iboona,2372,3,Commune,UTC+3,Africa/Nairobi
+2777548,KE,KE-34,Isoge/Kineni,Kawaida,311,3,Locality,UTC+3,Africa/Nairobi
+2777549,KE,KE-13,Kawaida,Kawaida,14038,3,Urban Center,UTC+3,Africa/Nairobi
+2777550,KE,KE-14,Mkwajuni/Mkomani,Mkwajuni/Mkomani,1350,3,Commune,UTC+3,Africa/Nairobi
+2777552,KE,KE-08,East Kakangutu,East Kakangutu,156,3,Locality,UTC+3,Africa/Nairobi
+2777554,KE,KE-09,Bulla Pesa,Bulla Pesa,39,3,Locality,UTC+3,Africa/Nairobi
+2777555,KE,KE-10,Olooshoibor,Olooshoibor,35,3,Locality,UTC+3,Africa/Nairobi
+2777556,KE,KE-11,Township,Township,484,3,Locality,UTC+3,Africa/Nairobi
+2777561,KE,KE-36,Karindi,Karindi,1018,3,Locality,UTC+3,Africa/Nairobi
+2777567,KE,KE-40,Masa,Masa,261,4,village,UTC+3,Africa/Nairobi
+2777572,KE,KE-40,Kalkacha,Kalkacha,83,3,Locality,UTC+3,Africa/Nairobi
+2777575,KE,KE-40,Wayu Boro,Wayu Boro,915,3,Locality,UTC+3,Africa/Nairobi
+2777576,KE,KE-40,Punda Milima,Punda Milima,92,3,Locality,UTC+3,Africa/Nairobi
+2777578,KE,KE-40,Mau Mau,Mau Mau,281,3,Locality,UTC+3,Africa/Nairobi
+2777579,KE,KE-42,Kwanza,Kwanza,42,3,Locality,UTC+3,Africa/Nairobi
+2777580,KE,KE-03,Sasuri,Sasuri,1268,3,Commune,UTC+3,Africa/Nairobi
+2777584,KE,KE-16,Etago,Etago,82,3,Locality,UTC+3,Africa/Nairobi
+2777587,KE,KE-22,Kakayuni,Kakayuni,507,3,Locality,UTC+3,Africa/Nairobi
+2777588,KE,KE-26,Kitheo,Kitheo,681,3,Locality,UTC+3,Africa/Nairobi
+2777589,KE,KE-30,Kongo soweto,Kongo soweto,625,3,Locality,UTC+3,Africa/Nairobi
+2777590,KE,KE-38,Yimbo East,Yimbo East,2472,3,City,UTC+3,Africa/Nairobi
+2777593,KE,KE-21,Noju,Noju,1322,3,Commune,UTC+3,Africa/Nairobi
+2777595,KE,KE-21,Kiranga Makoe,Kiranga Makoe,132,3,Locality,UTC+3,Africa/Nairobi
+2777598,KE,KE-40,Odoganda,Odoganda,1227,3,Commune,UTC+3,Africa/Nairobi
+2777599,KE,KE-40,Odowani,Odowani,179,3,Locality,UTC+3,Africa/Nairobi
+2777603,KE,KE-40,Matagadarisha,Matagadarisha,2531,3,Commune,UTC+3,Africa/Nairobi
+2777604,KE,KE-40,Desagut,Desagut,274,3,Locality,UTC+3,Africa/Nairobi
+2777605,KE,KE-40,Chirufa,Chirufa,1495,3,Commune,UTC+3,Africa/Nairobi
+2777606,KE,KE-40,Onshora,Onshora,195,3,Locality,UTC+3,Africa/Nairobi
+2777607,KE,KE-40,Garabugoya,Garabugoya,701,3,Commune,UTC+3,Africa/Nairobi
+2777609,KE,KE-40,Menga,Menga,109,3,Locality,UTC+3,Africa/Nairobi
+2777610,KE,KE-40,Unkuno,Unkuno,157,3,Locality,UTC+3,Africa/Nairobi
+2777611,KE,KE-40,Gerarsa,Gerarsa,186,3,Locality,UTC+3,Africa/Nairobi
+2777612,KE,KE-40,Kurla,Kurla,265,3,Locality,UTC+3,Africa/Nairobi
+2777613,KE,KE-40,Dadechadera,Dadechadera,119,3,Locality,UTC+3,Africa/Nairobi
+2777615,KE,KE-40,Buluto Chopi,Buluto Chopi,128,3,Locality,UTC+3,Africa/Nairobi
+2777616,KE,KE-14,Kilima Cha Simba,Kilima Cha Simba,2647,3,Commune,UTC+3,Africa/Nairobi
+2777617,KE,KE-40,Dibe Dungicha,Elmolo Village,206,3,Locality,UTC+3,Africa/Nairobi
+2777621,KE,KE-25,Balesa Bor,Balesa Bor,66,3,Locality,UTC+3,Africa/Nairobi
+2777622,KE,KE-25,Korr,Kesses,3419,3,Locality,UTC+3,Africa/Nairobi
+2777623,KE,KE-44,Kesses,Kesses,2293,3,Urban Center,UTC+3,Africa/Nairobi
+2777626,KE,KE-45,Jebrok,Jebrok,134,3,Locality,UTC+3,Africa/Nairobi
+2777627,KE,KE-43,Napeitom Shops,Napeitom Shops,3525,3,Commune,UTC+3,Africa/Nairobi
+2777628,KE,KE-43,Kaperepere,Kaperepere,174,3,Locality,UTC+3,Africa/Nairobi
+2777630,KE,KE-37,Amojo,Amojo,128,3,Locality,UTC+3,Africa/Nairobi
+2777631,KE,KE-37,Masiketa,Masiketa,118,3,Locality,UTC+3,Africa/Nairobi
+2777635,KE,KE-37,Nachola,Nachola,354,3,Locality,UTC+3,Africa/Nairobi
+2777639,KE,KE-37,Arsim,Arsim,154,3,Locality,UTC+3,Africa/Nairobi
+2777640,KE,KE-37,Lokwas,Lokwas,237,3,Commune,UTC+3,Africa/Nairobi
+2777641,KE,KE-37,Suse,Suse,1073,3,Commune,UTC+3,Africa/Nairobi
+2777642,KE,KE-01,Murulen,Murulen,108,3,Locality,UTC+3,Africa/Nairobi
+2777644,KE,KE-37,Swuari,Swuari,89,3,Locality,UTC+3,Africa/Nairobi
+2777645,KE,KE-37,Lendepes,Lendepes,458,3,Locality,UTC+3,Africa/Nairobi
+2777649,KE,KE-37,Losuk,Losuk,1158,3,Locality,UTC+3,Africa/Nairobi
+2777655,KE,KE-37,Nomboroi,Nomboroi,1643,3,Commune,UTC+3,Africa/Nairobi
+2777657,KE,KE-37,Barsaloi,Barsaloi,105,3,Locality,UTC+3,Africa/Nairobi
+2777658,KE,KE-37,Marti,Marti,270,4,village,UTC+3,Africa/Nairobi
+2777661,KE,KE-41,Kathwana,Kathwana,65,2,Locality,UTC+3,Africa/Nairobi
+2777662,KE,KE-08,Rabour,Rabour,2268,3,Commune,UTC+3,Africa/Nairobi
+2777663,KE,KE-27,Kogalo,Kogalo,112,3,Locality,UTC+3,Africa/Nairobi
+2777664,KE,KE-04,Osieko,Osieko,562,3,Locality,UTC+3,Africa/Nairobi
+2777666,KE,KE-38,Olawa,Olawa,511,3,locality,UTC+3,Africa/Nairobi
+2777667,KE,KE-38,Goye,Goye,119,4,village,UTC+3,Africa/Nairobi
+2777668,KE,KE-38,Jusa,Jusa,119,3,Locality,UTC+3,Africa/Nairobi
+2777673,KE,KE-38,Pala,Pala,1975,3,Commune,UTC+3,Africa/Nairobi
+2777674,KE,KE-38,Ogare,Ogare,103,3,Commune,UTC+3,Africa/Nairobi
+2777676,KE,KE-38,Uloma,Uloma,152,3,Locality,UTC+3,Africa/Nairobi
+2777677,KE,KE-38,Barding,Barding,1446,3,Commune,UTC+3,Africa/Nairobi
+2777680,KE,KE-38,Nyawita,Nyawita,75,3,Locality,UTC+3,Africa/Nairobi
+2777681,KE,KE-38,Lwala,Lwala,161,3,Locality,UTC+3,Africa/Nairobi
+2777682,KE,KE-38,Rambugi,Rambugi,125,3,Locality,UTC+3,Africa/Nairobi
+2777683,KE,KE-38,Ralingu,Ralingu,351,3,Locality,UTC+3,Africa/Nairobi
+2777684,KE,KE-38,Abom,Abom,502,3,Locality,UTC+3,Africa/Nairobi
+2777685,KE,KE-38,Nyabenge,Nyabenge,1098,3,Commune,UTC+3,Africa/Nairobi
+2777686,KE,KE-38,Saradindi,Saradindi,41,3,Locality,UTC+3,Africa/Nairobi
+2777688,KE,KE-38,Kowe,Kowe,198,3,Locality,UTC+3,Africa/Nairobi
+2777690,KE,KE-17,Obera,Obera,93,3,Locality,UTC+3,Africa/Nairobi
+2777692,KE,KE-17,Nyawanga,Nyawanga,146,3,Locality,UTC+3,Africa/Nairobi
+2777693,KE,KE-17,Konywere,Konywere,1419,3,Commune,UTC+3,Africa/Nairobi
+2777695,KE,KE-17,Alwala,Alwala,38,3,Locality,UTC+3,Africa/Nairobi
+2777696,KE,KE-38,Akado,Akado,2632,3,Commune,UTC+3,Africa/Nairobi
+2777698,KE,KE-38,Kokise,Kokise,337,3,Locality,UTC+3,Africa/Nairobi
+2777701,KE,KE-38,Luero,Luero,4628,3,City,UTC+3,Africa/Nairobi
+2777702,KE,KE-38,Memba,Memba,24,3,Locality,UTC+3,Africa/Nairobi
+2777703,KE,KE-38,Mahaya,Mahaya,208,3,Locality,UTC+3,Africa/Nairobi
+2777706,KE,KE-38,Matangwe,Matangwe,112,3,Locality,UTC+3,Africa/Nairobi
+2777707,KE,KE-38,Waringa,Waringa,148,3,Locality,UTC+3,Africa/Nairobi
+2777776,KE,KE-37,Koiya,Koiya,206,3,Locality,UTC+3,Africa/Nairobi
+2777817,KE,KE-47,Chebugat,Chebugat,83,3,Locality,UTC+3,Africa/Nairobi
+2777836,KE,KE-05,Serewa,Serewa,8791,3,City,UTC+3,Africa/Nairobi
+2777837,KE,KE-05,Kipyembo,Kipyembo,255,3,Locality,UTC+3,Africa/Nairobi
+2777840,KE,KE-47,Tingwani,Tingwani,51,3,Locality,UTC+3,Africa/Nairobi
+2777841,KE,KE-42,Dip,Dip,354,3,Locality,UTC+3,Africa/Nairobi
+2777844,KE,KE-35,Ngorika Settlement,Ngorika Settlement,28,3,Locality,UTC+3,Africa/Nairobi
+2777860,KE,KE-31,Nguriiga Settlement,Nguriiga Settlement,220,3,Locality,UTC+3,Africa/Nairobi
+2777863,KE,KE-31,Tunne,Tunne,61,3,Locality,UTC+3,Africa/Nairobi
+2777864,KE,KE-31,Kinari,Kinari,62,4,village,UTC+3,Africa/Nairobi
+2777866,KE,KE-35,Ol Kalau South Settlement,Ol Kalau South Settlement,13234,3,PPL,UTC+3,Africa/Nairobi
+2777867,KE,KE-35,Silanga Settlement,Silanga Settlement,252,3,Locality,UTC+3,Africa/Nairobi
+2777871,KE,KE-35,Nyamdundo,Nyamdundo,2238,3,Commune,UTC+3,Africa/Nairobi
+2777872,KE,KE-35,Kendurumu,Kendurumu,70,3,Locality,UTC+3,Africa/Nairobi
+2777879,KE,KE-35,Oraimutia Settlement,Oraimutia Settlement,1050,3,Locality,UTC+3,Africa/Nairobi
+2777880,KE,KE-35,Weru Settlement,Weru Settlement,289,3,Locality,UTC+3,Africa/Nairobi
+2777882,KE,KE-35,Ol Kalou,Ol Kalou,196,3,Locality,UTC+3,Africa/Nairobi
+2777895,KE,KE-36,Gitumbi,Gitumbi,125,3,Locality,UTC+3,Africa/Nairobi
+2777898,KE,KE-20,Ongobit,Ongobit,547,3,Locality,UTC+3,Africa/Nairobi
+2777905,KE,KE-35,Kipipiri Settlement,Kipipiri Settlement,3769,3,Commune,UTC+3,Africa/Nairobi
+2777909,KE,KE-35,Kaheho,Kaheho,118,3,Locality,UTC+3,Africa/Nairobi
+2777910,KE,KE-35,Pesi Settlement,Pesi Settlement,112,3,Locality,UTC+3,Africa/Nairobi
+2777913,KE,KE-20,Deighton Downs,Deighton Downs,125,3,Locality,UTC+3,Africa/Nairobi
+2777914,KE,KE-20,Ol Taffeta,Ol Taffeta,114,3,Locality,UTC+3,Africa/Nairobi
+2777915,KE,KE-36,Karemeno,Karemeno,194,3,Locality,UTC+3,Africa/Nairobi
+2777916,KE,KE-36,Gatarakwa,Gatarakwa,217,3,locality,UTC+3,Africa/Nairobi
+2777918,KE,KE-36,Watuka Settlement,Watuka Settlement,213,3,Locality,UTC+3,Africa/Nairobi
+2777920,KE,KE-36,Unjiru,Unjiru,304,3,Locality,UTC+3,Africa/Nairobi
+2777921,KE,KE-36,Thatha,Thatha,6918,3,Commune,UTC+3,Africa/Nairobi
+2777927,KE,KE-36,Kihora,Kihora,3080,3,Commune,UTC+3,Africa/Nairobi
+2777932,KE,KE-36,Warazo,Warazo,31,3,Locality,UTC+3,Africa/Nairobi
+2777933,KE,KE-15,Kariani,Kariani,97,3,Locality,UTC+3,Africa/Nairobi
+2777935,KE,KE-36,Karuthi,Karuthi,104,3,Locality,UTC+3,Africa/Nairobi
+2777939,KE,KE-15,Mukere,Mukere,1338,3,Commune,UTC+3,Africa/Nairobi
+2777940,KE,KE-15,Kanyokora,Kanyokora,138,3,Locality,UTC+3,Africa/Nairobi
+2777942,KE,KE-15,Kirunda,Kirunda,1136,3,Commune,UTC+3,Africa/Nairobi
+2777943,KE,KE-15,Kaguyu,Kaguyu,40,3,Locality,UTC+3,Africa/Nairobi
+2777948,KE,KE-06,Irang,Irang,155,3,Locality,UTC+3,Africa/Nairobi
+2777949,KE,KE-36,Waraza Settlement,Waraza Settlement,375,3,Locality,UTC+3,Africa/Nairobi
+2777954,KE,KE-31,Hippo Point,Hippo Point,2097,3,Commune,UTC+3,Africa/Nairobi
+2777967,KE,KE-31,Ngunyumu,Ngunyumu,28,3,Locality,UTC+3,Africa/Nairobi
+2777972,KE,KE-31,Marula Munyu,Marula Munyu,4766,3,City,UTC+3,Africa/Nairobi
+2777974,KE,KE-31,Kahuru Settlement,Kahuru Settlement,598,3,Commune,UTC+3,Africa/Nairobi
+2777976,KE,KE-35,Njabini,Njabini,3929,3,Urban Center,UTC+3,Africa/Nairobi
+2777979,KE,KE-13,Mwagu,Mwagu,650,3,Locality,UTC+3,Africa/Nairobi
+2777983,KE,KE-31,Maai Mahiu,Maai Mahiu,10716,3,locality,UTC+3,Africa/Nairobi
+2777985,KE,KE-35,Magumu,Magumu,116,3,Locality,UTC+3,Africa/Nairobi
+2777988,KE,KE-35,Rwanyambo,Rwanyambo,96,3,Locality,UTC+3,Africa/Nairobi
+2777989,KE,KE-31,Mara Ngishu,Mara Ngishu,103,3,Locality,UTC+3,Africa/Nairobi
+2777990,KE,KE-35,Hill Side,Hill Side,58,4,village,UTC+3,Africa/Nairobi
+2777991,KE,KE-35,Howbury Lower,Howbury Lower,247,3,Locality,UTC+3,Africa/Nairobi
+2777992,KE,KE-35,Sasumua,Sasumua,1291,3,Commune,UTC+3,Africa/Nairobi
+2777993,KE,KE-35,Windmill,Windmill,26,3,Locality,UTC+3,Africa/Nairobi
+2777998,KE,KE-35,Kitogo,Kitogo,210,4,village,UTC+3,Africa/Nairobi
+2777999,KE,KE-35,Nandarasi,Nandarasi,173,3,Locality,UTC+3,Africa/Nairobi
+2778000,KE,KE-35,South Kinangop Settlement,South Kinangop Settlement,107,3,Locality,UTC+3,Africa/Nairobi
+2778001,KE,KE-35,Mugumo,Mugumo,85,3,Locality,UTC+3,Africa/Nairobi
+2778003,KE,KE-36,Kiahagu,Kiahagu,190,3,Locality,UTC+3,Africa/Nairobi
+2778007,KE,KE-36,Thuthi,Thuthi,109,3,Locality,UTC+3,Africa/Nairobi
+2778011,KE,KE-29,Ngerere,Ngerere,1983,3,Commune,UTC+3,Africa/Nairobi
+2778013,KE,KE-36,Gikigie,Gikigie,309,3,Locality,UTC+3,Africa/Nairobi
+2778020,KE,KE-29,Kamahuha,Kamahuha,59,3,Locality,UTC+3,Africa/Nairobi
+2778021,KE,KE-29,Boyo,Boyo,41,3,Locality,UTC+3,Africa/Nairobi
+2778023,KE,KE-29,Tana,Tana,88,4,village,UTC+3,Africa/Nairobi
+2778029,KE,KE-29,Kibuu,Kibuu,103,3,Locality,UTC+3,Africa/Nairobi
+2778034,KE,KE-36,Njiruini,Njiruini,76,3,Locality,UTC+3,Africa/Nairobi
+2778035,KE,KE-36,Thiu,Thiu,738,3,Locality,UTC+3,Africa/Nairobi
+2778037,KE,KE-36,Kirerema,Kirerema,59,3,Locality,UTC+3,Africa/Nairobi
+2778038,KE,KE-36,Gakuyu,Gakuyu,166,3,Locality,UTC+3,Africa/Nairobi
+2778039,KE,KE-15,Ruiru,Ruiru,2534,3,City,UTC+3,Africa/Nairobi
+2778044,KE,KE-29,Iganjo,Iganjo,136,3,Locality,UTC+3,Africa/Nairobi
+2778048,KE,KE-29,Lower Tana,Lower Tana,1360,3,Commune,UTC+3,Africa/Nairobi
+2778067,KE,KE-06,Mariki,Mariki,291731,3,District-level City,UTC+3,Africa/Nairobi
+2778069,KE,KE-15,Thirikwa,Thirikwa,16,3,Locality,UTC+3,Africa/Nairobi
+2778071,KE,KE-33,Mulua Orkondi,Mulua Orkondi,38,3,Locality,UTC+3,Africa/Nairobi
+2778079,KE,KE-13,Neokampi,Neokampi,3669,3,Locality,UTC+3,Africa/Nairobi
+2778083,KE,KE-13,Kamahendu,Kamahendu,194,3,Locality,UTC+3,Africa/Nairobi
+2778085,KE,KE-13,Mukawa,Mukawa,6828,3,Commune,UTC+3,Africa/Nairobi
+2778090,KE,KE-10,Olooseos,Olooseos,205,3,Locality,UTC+3,Africa/Nairobi
+2778091,KE,KE-13,Rukeria,Rukeria,479,3,Locality,UTC+3,Africa/Nairobi
+2778092,KE,KE-13,Kiaroworia,Kiaroworia,17,3,Locality,UTC+3,Africa/Nairobi
+2778103,KE,KE-22,Mbuuni,Mbuuni,212,3,Locality,UTC+3,Africa/Nairobi
+2778104,KE,KE-22,Kaingutu,Kaingutu,631,3,Locality,UTC+3,Africa/Nairobi
+2778105,KE,KE-22,Kangethe,Kangethe,88,3,Locality,UTC+3,Africa/Nairobi
+2778106,KE,KE-22,Kyethivo,Kyethivo,282,3,Locality,UTC+3,Africa/Nairobi
+2778108,KE,KE-22,Kingatuani,Kingatuani,149,3,Locality,UTC+3,Africa/Nairobi
+2778110,KE,KE-22,Kyanganga,Kyanganga,151,4,hamlet,UTC+3,Africa/Nairobi
+2778111,KE,KE-22,Kangondi,Kangondi,318,3,Locality,UTC+3,Africa/Nairobi
+2778113,KE,KE-22,Makilwa,Makilwa,206,3,Locality,UTC+3,Africa/Nairobi
+2778121,KE,KE-29,Thungururu,Thungururu,152,3,Locality,UTC+3,Africa/Nairobi
+2778127,KE,KE-10,Manyatta,Manyatta,591,3,Commune,UTC+3,Africa/Nairobi
+2778128,KE,KE-10,Manyatta,Manyatta,57,3,Locality,UTC+3,Africa/Nairobi
+2778129,KE,KE-10,Enkurare,Enkurare,85,3,Locality,UTC+3,Africa/Nairobi
+2778130,KE,KE-10,Oldoinyo Kelo,Oldoinyo Kelo,1642,3,Locality,UTC+3,Africa/Nairobi
+2778131,KE,KE-23,Kimutwa Estate,Kimutwa Estate,3673,3,Commune,UTC+3,Africa/Nairobi
+2778132,KE,KE-22,Katheka-Kai,Katheka-Kai,116,3,Locality,UTC+3,Africa/Nairobi
+2778133,KE,KE-22,Potha,Potha,4982,3,Commune,UTC+3,Africa/Nairobi
+2778135,KE,KE-23,Kilima Kiu,Kilima Kiu,52,3,Commune,UTC+3,Africa/Nairobi
+2778137,KE,KE-23,Mbeletu,Mbeletu,160,3,Locality,UTC+3,Africa/Nairobi
+2778141,KE,KE-23,Ngai,Ngai,2087,3,Commune,UTC+3,Africa/Nairobi
+2778143,KE,KE-23,Uvaani,Uvaani,813,3,Locality,UTC+3,Africa/Nairobi
+2778144,KE,KE-22,Mathingau,Mathingau,128,3,Locality,UTC+3,Africa/Nairobi
+2778145,KE,KE-18,Mutanda,Mutanda,2883,3,Commune,UTC+3,Africa/Nairobi
+2778147,KE,KE-18,Kalambya,Kalambya,96,3,Locality,UTC+3,Africa/Nairobi
+2778148,KE,KE-18,Katutu,Katutu,846,3,Commune,UTC+3,Africa/Nairobi
+2778149,KE,KE-22,Kitueni,Kitueni,1086,3,Commune,UTC+3,Africa/Nairobi
+2778150,KE,KE-22,Ikombe,Ikombe,63,3,Locality,UTC+3,Africa/Nairobi
+2778151,KE,KE-18,Kiseveni,Kiseveni,412,4,hamlet,UTC+3,Africa/Nairobi
+2778152,KE,KE-18,Kangungi,Kangungi,1628,3,Commune,UTC+3,Africa/Nairobi
+2778153,KE,KE-18,Kavati,Kavati,202,3,Locality,UTC+3,Africa/Nairobi
+2778154,KE,KE-18,Mithini,Mithini,2105,3,Commune,UTC+3,Africa/Nairobi
+2778155,KE,KE-22,Kyua,Kyua,48,3,Locality,UTC+3,Africa/Nairobi
+2778156,KE,KE-23,Konza,Konza,231,3,Locality,UTC+3,Africa/Nairobi
+2778158,KE,KE-18,Mulaa,Mulaa,527,3,Locality,UTC+3,Africa/Nairobi
+2778161,KE,KE-18,Kituti,Kituti,219,3,Locality,UTC+3,Africa/Nairobi
+2778163,KE,KE-18,Makongo,Makongo,37,3,Locality,UTC+3,Africa/Nairobi
+2778164,KE,KE-18,Ndaluni,Ndaluni,889,3,Locality,UTC+3,Africa/Nairobi
+2778165,KE,KE-18,Kauswini,Kauswini,118,3,Locality,UTC+3,Africa/Nairobi
+2778166,KE,KE-18,Thokoa,Thokoa,24,3,Locality,UTC+3,Africa/Nairobi
+2778169,KE,KE-18,Katwala,Katwala,133,3,Locality,UTC+3,Africa/Nairobi
+2778170,KE,KE-18,Mumboni,Mumboni,423,3,Locality,UTC+3,Africa/Nairobi
+2778171,KE,KE-18,Lundi,Lundi,30,3,Locality,UTC+3,Africa/Nairobi
+2778174,KE,KE-18,Makutano,Makutano,351,3,Locality,UTC+3,Africa/Nairobi
+2778176,KE,KE-18,Nyaani,Nyaani,177,3,Locality,UTC+3,Africa/Nairobi
+2778177,KE,KE-18,Tundu,Tundu,108,3,Locality,UTC+3,Africa/Nairobi
+2778178,KE,KE-18,Kitakani,Kitakani,119,3,Locality,UTC+3,Africa/Nairobi
+2778185,KE,KE-18,Kavingo,Kavingo,280,3,Locality,UTC+3,Africa/Nairobi
+2778191,KE,KE-18,Kyathani,Kyathani,340,3,Locality,UTC+3,Africa/Nairobi
+2778193,KE,KE-18,Kavaa,Kavaa,925,3,Commune,UTC+3,Africa/Nairobi
+2778196,KE,KE-18,Kilanga,Kilanga,172,3,Locality,UTC+3,Africa/Nairobi
+2778197,KE,KE-18,Gin,Gin,163,3,Locality,UTC+3,Africa/Nairobi
+2778200,KE,KE-18,Ithumula,Ithumula,46,3,Locality,UTC+3,Africa/Nairobi
+2778205,KE,KE-18,Kyaango,Kyaango,515,3,Locality,UTC+3,Africa/Nairobi
+2778208,KE,KE-23,Mandui,Mandui,157,3,Locality,UTC+3,Africa/Nairobi
+2778211,KE,KE-18,Musa,Musa,79,3,Locality,UTC+3,Africa/Nairobi
+2778212,KE,KE-18,Nguuni,Nguuni,84,3,Locality,UTC+3,Africa/Nairobi
+2778213,KE,KE-18,Kivyuni,Kivyuni,130,3,Locality,UTC+3,Africa/Nairobi
+2778216,KE,KE-18,Kasangu,Kasangu,62,3,Locality,UTC+3,Africa/Nairobi
+2778217,KE,KE-18,Kasangu,Kasangu,54,3,Locality,UTC+3,Africa/Nairobi
+2778218,KE,KE-18,Kalanga,Kalanga,11863,3,Commune,UTC+3,Africa/Nairobi
+2778220,KE,KE-18,Ilusa,Ilusa,3940,3,Commune,UTC+3,Africa/Nairobi
+2778222,KE,KE-18,Kinakoni,Kinakoni,184,3,Locality,UTC+3,Africa/Nairobi
+2778223,KE,KE-18,Kisaayani,Kisaayani,455,3,locality,UTC+3,Africa/Nairobi
+2778224,KE,KE-18,Nthangath,Nthangath,2056,3,Commune,UTC+3,Africa/Nairobi
+2778225,KE,KE-18,Manzeni,Manzeni,138,3,Locality,UTC+3,Africa/Nairobi
+2778226,KE,KE-18,Enduku,Enduku,98,3,Locality,UTC+3,Africa/Nairobi
+2778227,KE,KE-18,Kanzau,Kanzau,70,3,Locality,UTC+3,Africa/Nairobi
+2778230,KE,KE-18,Kyowani,Kyowani,707,3,Locality,UTC+3,Africa/Nairobi
+2778233,KE,KE-18,Kiviu,Kiviu,178,3,Locality,UTC+3,Africa/Nairobi
+2778236,KE,KE-18,Ndani,Ndani,24,3,Locality,UTC+3,Africa/Nairobi
+2778237,KE,KE-18,Mwangala,Mwangala,174,3,Locality,UTC+3,Africa/Nairobi
+2778238,KE,KE-18,Kertunda,Kertunda,848,3,Locality,UTC+3,Africa/Nairobi
+2778242,KE,KE-18,Makolongo,Makolongo,178,3,Locality,UTC+3,Africa/Nairobi
+2778243,KE,KE-18,Masaini,Masaini,50,3,Locality,UTC+3,Africa/Nairobi
+2778245,KE,KE-18,Ikandani,Ikandani,1000,3,Locality,UTC+3,Africa/Nairobi
+2778248,KE,KE-10,Oloika,Oloika,222,3,Locality,UTC+3,Africa/Nairobi
+2778249,KE,KE-10,Torosei,Torosei,233,3,Locality,UTC+3,Africa/Nairobi
+2778250,KE,KE-10,Esoitnarok,Esoitnarok,157,4,hamlet,UTC+3,Africa/Nairobi
+2778252,KE,KE-23,Kithju,Kithju,1301,3,Commune,UTC+3,Africa/Nairobi
+2778254,KE,KE-23,Kavuthu,Kavuthu,302,3,Locality,UTC+3,Africa/Nairobi
+2778261,KE,KE-10,Oloonkiyieutie,Oloonkiyieutie,86,3,Locality,UTC+3,Africa/Nairobi
+2778263,KE,KE-03,Mukuyuni,Mukuyuni,361,3,Locality,UTC+3,Africa/Nairobi
+2778266,KE,KE-03,Teremi,Teremi,46,3,Locality,UTC+3,Africa/Nairobi
+2778269,KE,KE-11,Sidikho,Sidikho,48,3,Locality,UTC+3,Africa/Nairobi
+2778270,KE,KE-32,Kapkitui,Kapkitui,4235,3,Commune,UTC+3,Africa/Nairobi
+2778271,KE,KE-44,Asururiet,Asururiet,673,3,Locality,UTC+3,Africa/Nairobi
+2778272,KE,KE-32,Matema,Matema,145,3,Locality,UTC+3,Africa/Nairobi
+2778273,KE,KE-44,Hajees Bridge,Hajees Bridge,120,3,Locality,UTC+3,Africa/Nairobi
+2778274,KE,KE-01,Tapgurgurwe,Tapgurgurwe,623,3,Locality,UTC+3,Africa/Nairobi
+2778276,KE,KE-05,Kapkitony,Kapkitony,80,3,Locality,UTC+3,Africa/Nairobi
+2778283,KE,KE-05,Toror,Toror,263,3,Locality,UTC+3,Africa/Nairobi
+2778285,KE,KE-01,Arama,Arama,40,3,Locality,UTC+3,Africa/Nairobi
+2778288,KE,KE-01,Barsemoi,Barsemoi,341,3,locality,UTC+3,Africa/Nairobi
+2778290,KE,KE-01,Kaboiyo,Kaboiyo,871,3,Locality,UTC+3,Africa/Nairobi
+2778291,KE,KE-05,Chepkutin,Chepkutin,106,3,Locality,UTC+3,Africa/Nairobi
+2778292,KE,KE-01,Kesok,Kesok,58,3,Locality,UTC+3,Africa/Nairobi
+2778293,KE,KE-01,Kamungei,Kamungei,30,3,Locality,UTC+3,Africa/Nairobi
+2778302,KE,KE-03,Muhanda,Muhanda,1882,3,Commune,UTC+3,Africa/Nairobi
+2778305,KE,KE-03,Kanduyi,Kanduyi,258,4,village,UTC+3,Africa/Nairobi
+2778306,KE,KE-03,Raje,Raje,114,4,hamlet,UTC+3,Africa/Nairobi
+2778307,KE,KE-03,Kitinda,Kitinda,201,3,Locality,UTC+3,Africa/Nairobi
+2778308,KE,KE-03,Khaweli,Khaweli,234,3,Locality,UTC+3,Africa/Nairobi
+2778310,KE,KE-11,Musamba,Musamba,612,3,Locality,UTC+3,Africa/Nairobi
+2778312,KE,KE-11,Kharanda,Kharanda,132,3,Locality,UTC+3,Africa/Nairobi
+2778313,KE,KE-11,Makunda,Makunda,272,3,Locality,UTC+3,Africa/Nairobi
+2778315,KE,KE-11,Sibinga,Sibinga,608,3,Locality,UTC+3,Africa/Nairobi
+2778316,KE,KE-11,Bukoro,Bukoro,33,3,Locality,UTC+3,Africa/Nairobi
+2778317,KE,KE-11,Ebukwala,Ebukwala,65,3,Locality,UTC+3,Africa/Nairobi
+2778320,KE,KE-38,Nyagondo,Nyagondo,550,3,Locality,UTC+3,Africa/Nairobi
+2778321,KE,KE-45,Emagada,Emagada,117,4,hamlet,UTC+3,Africa/Nairobi
+2778322,KE,KE-45,Lwunza,Lwunza,429,3,Locality,UTC+3,Africa/Nairobi
+2778323,KE,KE-45,Eludzu,Eludzu,114,3,Locality,UTC+3,Africa/Nairobi
+2778324,KE,KE-11,Shigokho,Shigokho,71,3,Locality,UTC+3,Africa/Nairobi
+2778325,KE,KE-11,Shitoli,Shitoli,177,3,Locality,UTC+3,Africa/Nairobi
+2778326,KE,KE-11,Mukumu,Mukumu,143,4,town,UTC+3,Africa/Nairobi
+2778327,KE,KE-11,Shiduha,Shiduha,124,3,Locality,UTC+3,Africa/Nairobi
+2778330,KE,KE-11,Ichina,Ichina,237,3,Locality,UTC+3,Africa/Nairobi
+2778332,KE,KE-11,Shipala,Shipala,283,3,Locality,UTC+3,Africa/Nairobi
+2778333,KE,KE-11,Sivilie,Sivilie,99,3,Locality,UTC+3,Africa/Nairobi
+2778334,KE,KE-03,Yalusi,Yalusi,91,3,Locality,UTC+3,Africa/Nairobi
+2778336,KE,KE-03,Ngwelo,Ngwelo,177,3,Locality,UTC+3,Africa/Nairobi
+2778338,KE,KE-03,Lwanda,Lwanda,44,3,Locality,UTC+3,Africa/Nairobi
+2778339,KE,KE-03,Maeni,Maeni,108,3,Locality,UTC+3,Africa/Nairobi
+2778340,KE,KE-03,Kamutiong,Kamutiong,1239,3,Commune,UTC+3,Africa/Nairobi
+2778343,KE,KE-03,Kongit,Kongit,329,3,Locality,UTC+3,Africa/Nairobi
+2778344,KE,KE-32,Bwongo,Bwongo,61,3,Locality,UTC+3,Africa/Nairobi
+2778347,KE,KE-11,Chirouani,Chirouani,344,4,hamlet,UTC+3,Africa/Nairobi
+2778352,KE,KE-32,Tuloi,Tuloi,225,3,Locality,UTC+3,Africa/Nairobi
+2778355,KE,KE-44,Tapsagoi,Tapsagoi,3893,3,Commune,UTC+3,Africa/Nairobi
+2778357,KE,KE-11,Nzoia,Nzoia,105,3,Locality,UTC+3,Africa/Nairobi
+2778361,KE,KE-32,Twedies,Twedies,4169,3,Commune,UTC+3,Africa/Nairobi
+2778364,KE,KE-32,Ndonyongara,Ndonyongara,658,3,Locality,UTC+3,Africa/Nairobi
+2778368,KE,KE-32,Taito,Taito,2299,3,Commune,UTC+3,Africa/Nairobi
+2778373,KE,KE-32,Kamyeberai,Kamyeberai,112,3,Locality,UTC+3,Africa/Nairobi
+2778376,KE,KE-44,Nomin,Nomin,835,3,Commune,UTC+3,Africa/Nairobi
+2778377,KE,KE-44,Cheplosge,Cheplosge,210,3,Locality,UTC+3,Africa/Nairobi
+2778378,KE,KE-44,New Hill,New Hill,594,3,Locality,UTC+3,Africa/Nairobi
+2778384,KE,KE-44,Oxbridge,Oxbridge,27,3,Commune,UTC+3,Africa/Nairobi
+2778395,KE,KE-44,Tarakwa,Tarakwa,409,3,Locality,UTC+3,Africa/Nairobi
+2778399,KE,KE-44,Kipkurere,Kipkurere,287,3,locality,UTC+3,Africa/Nairobi
+2778400,KE,KE-44,Kibeleso,Kibeleso,152,3,Locality,UTC+3,Africa/Nairobi
+2778401,KE,KE-44,Ferraroni,Ferraroni,90,3,Locality,UTC+3,Africa/Nairobi
+2778402,KE,KE-44,Nerkwet,Nerkwet,236,3,Locality,UTC+3,Africa/Nairobi
+2778404,KE,KE-44,Kaptorua,Kaptorua,3326,3,Commune,UTC+3,Africa/Nairobi
+2778405,KE,KE-05,Wattle,Wattle,403,3,Locality,UTC+3,Africa/Nairobi
+2778406,KE,KE-44,Waunifor,Waunifor,148,3,Locality,UTC+3,Africa/Nairobi
+2778407,KE,KE-44,Uhuru,Uhuru,425,3,Locality,UTC+3,Africa/Nairobi
+2778408,KE,KE-44,Elgeyo Border,Elgeyo Border,74,3,Locality,UTC+3,Africa/Nairobi
+2778409,KE,KE-05,Sabor,Sabor,218,3,Locality,UTC+3,Africa/Nairobi
+2778412,KE,KE-44,Livingstone,Livingstone,138,3,Locality,UTC+3,Africa/Nairobi
+2778413,KE,KE-44,Kuinet,Kuinet,422,3,Locality,UTC+3,Africa/Nairobi
+2778414,KE,KE-44,Uitsig,Uitsig,36,3,Locality,UTC+3,Africa/Nairobi
+2778415,KE,KE-44,Viljoin,Viljoin,772,3,Locality,UTC+3,Africa/Nairobi
+2778419,KE,KE-05,Nerkwo,Nerkwo,61,3,Locality,UTC+3,Africa/Nairobi
+2778421,KE,KE-01,Mbogei,Mbogei,564,3,Locality,UTC+3,Africa/Nairobi
+2778422,KE,KE-01,Tiloi,Tiloi,1090,3,Locality,UTC+3,Africa/Nairobi
+2778424,KE,KE-05,Gopal,Gopal,725,3,Commune,UTC+3,Africa/Nairobi
+2778427,KE,KE-05,Kapkwamul,Kapkwamul,3329,3,Commune,UTC+3,Africa/Nairobi
+2778428,KE,KE-01,Kimoso,Kimoso,404,3,Locality,UTC+3,Africa/Nairobi
+2778431,KE,KE-05,Tabare,Tabare,704,3,Commune,UTC+3,Africa/Nairobi
+2778434,KE,KE-01,Saos,Saos,535,3,Locality,UTC+3,Africa/Nairobi
+2778436,KE,KE-01,Swahill Settlement,Swahill Settlement,13278,3,City,UTC+3,Africa/Nairobi
+2778439,KE,KE-01,Kapcholoi,Kapcholoi,5225,3,City,UTC+3,Africa/Nairobi
+2778441,KE,KE-11,Iguhu,Iguhu,1547,3,Locality,UTC+3,Africa/Nairobi
+2778445,KE,KE-01,Pekibon,Pekibon,137,3,Locality,UTC+3,Africa/Nairobi
+2778451,KE,KE-32,Serengoni,Serengoni,343,4,village,UTC+3,Africa/Nairobi
+2778452,KE,KE-45,Mudeti,Mudeti,26,3,Locality,UTC+3,Africa/Nairobi
+2778454,KE,KE-32,Soyet,Soyet,242,3,Locality,UTC+3,Africa/Nairobi
+2778455,KE,KE-26,Mukuiru,Mukuiru,6062,3,City,UTC+3,Africa/Nairobi
+2778456,KE,KE-09,Boji,Boji,827,3,Commune,UTC+3,Africa/Nairobi
+2778458,KE,KE-26,Ndunyu Mutunyi,Ndunyu Mutunyi,84,3,Locality,UTC+3,Africa/Nairobi
+2778467,KE,KE-26,Angaine,Angaine,1592,3,Commune,UTC+3,Africa/Nairobi
+2778470,KE,KE-26,Nkunga,Nkunga,300,3,Commune,UTC+3,Africa/Nairobi
+2778472,KE,KE-26,Gacu,Gacu,52,3,Locality,UTC+3,Africa/Nairobi
+2778477,KE,KE-26,Gitugu,Gitugu,152,3,Locality,UTC+3,Africa/Nairobi
+2778478,KE,KE-26,Ciothirai,Ciothirai,11072,3,City,UTC+3,Africa/Nairobi
+2778483,KE,KE-26,Kithiiri,Kithiiri,2764,3,Commune,UTC+3,Africa/Nairobi
+2778489,KE,KE-26,Tuuru,Tuuru,174,3,Locality,UTC+3,Africa/Nairobi
+2778490,KE,KE-26,Kamiruru,Kamiruru,75,3,Locality,UTC+3,Africa/Nairobi
+2778491,KE,KE-26,Kawiru,Kawiru,147,3,Locality,UTC+3,Africa/Nairobi
+2778493,KE,KE-26,Karichu,Karichu,590,3,Locality,UTC+3,Africa/Nairobi
+2778494,KE,KE-26,Kieni,Kieni,110,3,Locality,UTC+3,Africa/Nairobi
+2778496,KE,KE-26,Kanduba,Kanduba,467,3,Locality,UTC+3,Africa/Nairobi
+2778502,KE,KE-09,Kulamawe,Kulamawe,238,3,Locality,UTC+3,Africa/Nairobi
+2778506,KE,KE-26,Kathithine,Kathithine,118,3,Locality,UTC+3,Africa/Nairobi
+2778507,KE,KE-26,Kithoka,Kithoka,116,3,Locality,UTC+3,Africa/Nairobi
+2778508,KE,KE-26,Thananga,Thananga,348,3,Locality,UTC+3,Africa/Nairobi
+2778509,KE,KE-26,Murichia,Murichia,106,3,Locality,UTC+3,Africa/Nairobi
+2778514,KE,KE-26,Lolmotonyi,Lolmotonyi,1474,3,Locality,UTC+3,Africa/Nairobi
+2778516,KE,KE-10,Kikelelua,Kikelelua,78,3,Locality,UTC+3,Africa/Nairobi
+2778519,KE,KE-23,Kiboko,Kiboko,2708,3,Urban Center,UTC+3,Africa/Nairobi
+2778520,KE,KE-10,Enkutoto,Enkutoto,76,3,Locality,UTC+3,Africa/Nairobi
+2778521,KE,KE-23,Landhies,Landhies,119,3,Locality,UTC+3,Africa/Nairobi
+2778522,KE,KE-23,Simba,Simba,101,3,Locality,UTC+3,Africa/Nairobi
+2778525,KE,KE-23,Muthingiini,Muthingiini,365,3,Locality,UTC+3,Africa/Nairobi
+2778526,KE,KE-39,Ngulia,Ngulia,162,3,Locality,UTC+3,Africa/Nairobi
+2778529,KE,KE-18,Wakiminda,Wakiminda,257,3,Locality,UTC+3,Africa/Nairobi
+2778532,KE,KE-18,Ovemba,Ovemba,1950,3,Commune,UTC+3,Africa/Nairobi
+2778533,KE,KE-23,Ndune,Ndune,239,3,Locality,UTC+3,Africa/Nairobi
+2778538,KE,KE-39,Ziwani Camp,Ziwani Camp,101,3,Locality,UTC+3,Africa/Nairobi
+2778539,KE,KE-39,Jipe,Jipe,86,3,Locality,UTC+3,Africa/Nairobi
+2778544,KE,KE-39,Lualeni,Lualeni,58,3,Locality,UTC+3,Africa/Nairobi
+2778549,KE,KE-39,Mwambirwu,Mwambirwu,207,3,Locality,UTC+3,Africa/Nairobi
+2778550,KE,KE-39,Kitibu,Kitibu,75,3,Locality,UTC+3,Africa/Nairobi
+2778553,KE,KE-39,Kitege,Kitege,29,3,Locality,UTC+3,Africa/Nairobi
+2778554,KE,KE-39,Manjuga,Maungu,70,3,Locality,UTC+3,Africa/Nairobi
+2778555,KE,KE-39,Maungu,Maungu,4713,3,Urban Center,UTC+3,Africa/Nairobi
+2778557,KE,KE-39,Kisaghun,Kisaghun,26,3,Locality,UTC+3,Africa/Nairobi
+2778560,KE,KE-39,Masengoni,Masengoni,126,3,Locality,UTC+3,Africa/Nairobi
+2778561,KE,KE-27,Kasenga,Kasenga,140,3,Locality,UTC+3,Africa/Nairobi
+2778562,KE,KE-27,Rakuom,Rakuom,796,3,Commune,UTC+3,Africa/Nairobi
+2778569,KE,KE-19,Mwembeni,Mwembeni,111,3,Locality,UTC+3,Africa/Nairobi
+2778572,KE,KE-19,Donje,Donje,1597,4,hamlet,UTC+3,Africa/Nairobi
+2778573,KE,KE-14,Kisiki Cha Mzungu,Kisiki Cha Mzungu,1998,3,Commune,UTC+3,Africa/Nairobi
+2778576,KE,KE-14,Chakama,Chakama,266,3,Locality,UTC+3,Africa/Nairobi
+2778579,KE,KE-14,Mtepeni,Mtepeni,263,3,Locality,UTC+3,Africa/Nairobi
+2778585,KE,KE-14,Pumwani,Pumwani,363,3,Locality,UTC+3,Africa/Nairobi
+2778586,KE,KE-14,Chanon Point,Chanon Point,66,3,Locality,UTC+3,Africa/Nairobi
+2778596,KE,KE-38,Odiado,Odiado,277,3,Locality,UTC+3,Africa/Nairobi
+2778597,KE,KE-04,Kaliwa,Kaliwa,324,3,Locality,UTC+3,Africa/Nairobi
+2778599,KE,KE-01,Chesirimion,Chesirimion,2851,3,City,UTC+3,Africa/Nairobi
+2778608,KE,KE-37,Lonkewan,Lonkewan,45,3,Locality,UTC+3,Africa/Nairobi
+2778610,KE,KE-26,Timau Settlement,Timau Settlement,26,3,Locality,UTC+3,Africa/Nairobi
+2778613,KE,KE-09,Somali Village,Somali Village,485,3,Locality,UTC+3,Africa/Nairobi
+2778615,KE,KE-09,Crocodile Jaws,Crocodile Jaws,222,3,Locality,UTC+3,Africa/Nairobi
+2778617,KE,KE-20,Iannings,Iannings,77,3,Locality,UTC+3,Africa/Nairobi
+2778620,KE,KE-20,Boma,Boma,190,3,Locality,UTC+3,Africa/Nairobi
+2778621,KE,KE-20,Kiambur,Kiambur,4890,3,PPL,UTC+3,Africa/Nairobi
+2778628,KE,KE-08,Rongo,Rongo,136,3,Locality,UTC+3,Africa/Nairobi
+2778635,KE,KE-08,Kodhoch,Kodhoch,375,3,Locality,UTC+3,Africa/Nairobi
+2778636,KE,KE-08,Tar,Tar,1203,3,Commune,UTC+3,Africa/Nairobi
+2778638,KE,KE-27,Kasere,Kasere,283,3,Locality,UTC+3,Africa/Nairobi
+2778639,KE,KE-27,Otacho,Otacho,111,4,hamlet,UTC+3,Africa/Nairobi
+2778640,KE,KE-27,Marando,Marando,191,3,Locality,UTC+3,Africa/Nairobi
+2778642,KE,KE-27,Ulanda,Ulanda,231,3,Locality,UTC+3,Africa/Nairobi
+2778650,KE,KE-16,Karungu,Karungu,89,3,Locality,UTC+3,Africa/Nairobi
+2778653,KE,KE-16,Morhengo,Morhengo,102,3,Locality,UTC+3,Africa/Nairobi
+2778663,KE,KE-08,Ojwade,Ojwade,323,3,Locality,UTC+3,Africa/Nairobi
+2778665,KE,KE-08,Sino Kagola,Sino Kagola,55,3,Locality,UTC+3,Africa/Nairobi
+2778666,KE,KE-08,Aluli,Aluli,32,3,Locality,UTC+3,Africa/Nairobi
+2778667,KE,KE-08,Bware,Bware,159,3,Locality,UTC+3,Africa/Nairobi
+2778669,KE,KE-08,Miriu,Miriu,69,3,Locality,UTC+3,Africa/Nairobi
+2778670,KE,KE-08,Kamser,Kamser,246,3,Locality,UTC+3,Africa/Nairobi
+2778672,KE,KE-32,Tirikwo,Tirikwo,39,3,Locality,UTC+3,Africa/Nairobi
+2778673,KE,KE-32,Chepkunar,Chepkunar,153,3,Locality,UTC+3,Africa/Nairobi
+2778674,KE,KE-32,Maraba,Maraba,46,3,Locality,UTC+3,Africa/Nairobi
+2778675,KE,KE-17,Kasiango,Kasiango,29,3,Locality,UTC+3,Africa/Nairobi
+2778677,KE,KE-17,Nyang'ande,Nyang’ande,669,3,Commune,UTC+3,Africa/Nairobi
+2778678,KE,KE-17,Arombo,Arombo,514,3,Locality,UTC+3,Africa/Nairobi
+2778679,KE,KE-17,Odienya,Odienya,56,4,hamlet,UTC+3,Africa/Nairobi
+2778680,KE,KE-17,Ugwe,Ugwe,56,3,Locality,UTC+3,Africa/Nairobi
+2778681,KE,KE-17,Abwao,Abwao,69,3,Locality,UTC+3,Africa/Nairobi
+2778682,KE,KE-17,Apondo,Apondo,1027,3,Commune,UTC+3,Africa/Nairobi
+2778683,KE,KE-17,Sangoro,Sangoro,165,3,Locality,UTC+3,Africa/Nairobi
+2778690,KE,KE-17,Bungu Meri,Bungu Meri,9069,3,City,UTC+3,Africa/Nairobi
+2778691,KE,KE-17,Mbora,Mbora,1578,3,City,UTC+3,Africa/Nairobi
+2778701,KE,KE-08,Ponge,Ponge,1723,3,Locality,UTC+3,Africa/Nairobi
+2778707,KE,KE-08,Kadongo,Kadongo,304,3,Locality,UTC+3,Africa/Nairobi
+2778711,KE,KE-34,Nyageita,Nyageita,693,3,Locality,UTC+3,Africa/Nairobi
+2778712,KE,KE-34,Nyamaiya,Nyamaiya,39,3,Locality,UTC+3,Africa/Nairobi
+2778713,KE,KE-16,Ngokoro,Ngokoro,96,3,Locality,UTC+3,Africa/Nairobi
+2778714,KE,KE-34,Gesore,Gesore,689,3,Locality,UTC+3,Africa/Nairobi
+2778717,KE,KE-34,Nyabioto,Nyabioto,102,3,Locality,UTC+3,Africa/Nairobi
+2778718,KE,KE-16,Nyachururu,Nyachururu,280,3,Locality,UTC+3,Africa/Nairobi
+2778728,KE,KE-34,Nyankoba,Nyankoba,114,3,Locality,UTC+3,Africa/Nairobi
+2778730,KE,KE-16,Boruma,Boruma,59,3,Locality,UTC+3,Africa/Nairobi
+2778732,KE,KE-16,Kiomiti,Kiomiti,45,3,Locality,UTC+3,Africa/Nairobi
+2778733,KE,KE-16,Getai,Getai,185,3,Locality,UTC+3,Africa/Nairobi
+2778738,KE,KE-02,Koyet,Koyet,1388,3,Commune,UTC+3,Africa/Nairobi
+2778746,KE,KE-34,Kibugat,Kibugat,56,3,Locality,UTC+3,Africa/Nairobi
+2778747,KE,KE-34,Misogwa,Misogwa,132,3,Locality,UTC+3,Africa/Nairobi
+2778748,KE,KE-12,Kapmaso,Kapmaso,336,3,Commune,UTC+3,Africa/Nairobi
+2778754,KE,KE-17,Katito,Katito,5098,3,Urban Center,UTC+3,Africa/Nairobi
+2778757,KE,KE-12,Simbi,Simbi,33,3,Locality,UTC+3,Africa/Nairobi
+2778763,KE,KE-17,Migere,Migere,1298,3,Commune,UTC+3,Africa/Nairobi
+2778766,KE,KE-32,Chemase,Chemase,1418,3,Commune,UTC+3,Africa/Nairobi
+2778767,KE,KE-32,Chemursoi,Chemursoi,89,3,Locality,UTC+3,Africa/Nairobi
+2778769,KE,KE-12,Chepsiria,Chepsiria,154,3,Locality,UTC+3,Africa/Nairobi
+2778770,KE,KE-12,Koitaburot,Koitaburot,27,3,Locality,UTC+3,Africa/Nairobi
+2778772,KE,KE-12,Senetwet,Senetwet,2872,3,Commune,UTC+3,Africa/Nairobi
+2778774,KE,KE-12,Torit,Torit,164,3,Locality,UTC+3,Africa/Nairobi
+2778775,KE,KE-02,Kaptien,Kaptien,69,3,Locality,UTC+3,Africa/Nairobi
+2778778,KE,KE-02,Kapkwen,Kapkwen,51,3,Locality,UTC+3,Africa/Nairobi
+2778783,KE,KE-02,Kainirai,Kainirai,125,3,Locality,UTC+3,Africa/Nairobi
+2778785,KE,KE-31,Kibongoi,Kibongoi,637,3,Commune,UTC+3,Africa/Nairobi
+2778786,KE,KE-31,Nyagacho,Nyagacho,96,3,Locality,UTC+3,Africa/Nairobi
+2778787,KE,KE-31,Dimbilil,Dimbilil,214,3,Locality,UTC+3,Africa/Nairobi
+2778788,KE,KE-31,Kitlery,Kitlery,278,3,Locality,UTC+3,Africa/Nairobi
+2778792,KE,KE-31,Githima,Githima,34,3,Locality,UTC+3,Africa/Nairobi
+2778793,KE,KE-31,Mawingo,Mawingo,288,3,Locality,UTC+3,Africa/Nairobi
+2778794,KE,KE-31,Kio,Kio,1280,3,Commune,UTC+3,Africa/Nairobi
+2778795,KE,KE-12,Lilloch,Lilloch,63,3,Locality,UTC+3,Africa/Nairobi
+2778798,KE,KE-31,Trenchs Top Camp,Trenchs Top Camp,214,3,Locality,UTC+3,Africa/Nairobi
+2778801,KE,KE-31,Daraja Mawe,Daraja Mawe,130,3,Locality,UTC+3,Africa/Nairobi
+2778805,KE,KE-33,Ol Pusimoru,Ol Pusimoru,766,3,Commune,UTC+3,Africa/Nairobi
+2778808,KE,KE-31,Baraget,Baraget,89,3,Locality,UTC+3,Africa/Nairobi
+2778810,KE,KE-31,Nyota,Nyota,126,3,Locality,UTC+3,Africa/Nairobi
+2778816,KE,KE-01,Rayine Settlement,Rayine Settlement,586,3,Locality,UTC+3,Africa/Nairobi
+2778819,KE,KE-31,Kampi Ya Moto,Kampi Ya Moto,1489,3,Urban Center,UTC+3,Africa/Nairobi
+2778821,KE,KE-31,Greenhill,Greenhill,123,3,Locality,UTC+3,Africa/Nairobi
+2778822,KE,KE-31,Ngata,Ngata,152,3,Locality,UTC+3,Africa/Nairobi
+2778823,KE,KE-31,Loichorai,Loichorai,36,3,Locality,UTC+3,Africa/Nairobi
+2778824,KE,KE-31,Mwigito,Mwigito,293,3,Locality,UTC+3,Africa/Nairobi
+2778827,KE,KE-31,Runguma,Runguma,256,3,Locality,UTC+3,Africa/Nairobi
+2778830,KE,KE-31,Kame,Kame,2155,3,Commune,UTC+3,Africa/Nairobi
+2778832,KE,KE-31,Lika,Lika,907,3,Commune,UTC+3,Africa/Nairobi
+2778834,KE,KE-31,Siapei,Siapei,1503,3,Commune,UTC+3,Africa/Nairobi
+2778843,KE,KE-34,Mokwerero,Mokwerero,6647,3,Commune,UTC+3,Africa/Nairobi
+2778845,KE,KE-16,Nyabiayo,Nyabiayo,2638,3,Commune,UTC+3,Africa/Nairobi
+2778846,KE,KE-02,Saint Francis,Saint Francis,492,3,Locality,UTC+3,Africa/Nairobi
+2778847,KE,KE-01,Sageri,Sageri,108,3,Locality,UTC+3,Africa/Nairobi
+2778855,KE,KE-17,Nyang'oma,Nyang’oma,87,3,Locality,UTC+3,Africa/Nairobi
+2778856,KE,KE-08,Riat,Riat,76,3,Locality,UTC+3,Africa/Nairobi
+2778859,KE,KE-45,Masana,Masana,131,3,Locality,UTC+3,Africa/Nairobi
+2778861,KE,KE-17,Noki,Noki,2265,3,locality,UTC+3,Africa/Nairobi
+2778864,KE,KE-08,Nyabondo,Nyabondo,206,3,Locality,UTC+3,Africa/Nairobi
+2778866,KE,KE-12,Daraja Sita,Daraja Sita,250,3,Locality,UTC+3,Africa/Nairobi
+2778868,KE,KE-08,Kawiti,Kawiti,94,3,Locality,UTC+3,Africa/Nairobi
+2778870,KE,KE-08,Ndiru,Ndiru,60,3,Locality,UTC+3,Africa/Nairobi
+2778871,KE,KE-31,Kama,Kama,135,3,Locality,UTC+3,Africa/Nairobi
+2778877,KE,KE-12,Ngomwet,Ngomwet,11404,3,City,UTC+3,Africa/Nairobi
+2778879,KE,KE-02,Kibosek,Kibosek,63,3,Locality,UTC+3,Africa/Nairobi
+2778886,KE,KE-26,Upper Thingithu Lodge,Upper Thingithu Lodge,462,3,Locality,UTC+3,Africa/Nairobi
+2778897,KE,KE-06,Githegi,Githegi,1389,3,Locality,UTC+3,Africa/Nairobi
+2778916,KE,KE-22,Kwakyumbu,Kwakyumbu,32,3,Locality,UTC+3,Africa/Nairobi
+2778917,KE,KE-06,Kabuguari,Kabuguari,178,3,Locality,UTC+3,Africa/Nairobi
+2778926,KE,KE-41,Magenka,Magenka,584,3,Locality,UTC+3,Africa/Nairobi
+2778927,KE,KE-41,Karamani,Karamani,277,3,Locality,UTC+3,Africa/Nairobi
+2778929,KE,KE-41,Mugere,Mugere,2791,3,Commune,UTC+3,Africa/Nairobi
+2778943,KE,KE-26,Kiriti,Kiriti,40,3,Locality,UTC+3,Africa/Nairobi
+2778945,KE,KE-26,Ntharene,Ntharene,2292,3,Commune,UTC+3,Africa/Nairobi
+2778946,KE,KE-26,Matetu,Matetu,203,3,Locality,UTC+3,Africa/Nairobi
+2778947,KE,KE-26,Kanywee,Kanywee,152,3,Locality,UTC+3,Africa/Nairobi
+2778949,KE,KE-26,Gacheru,Gacheru,2439,3,Commune,UTC+3,Africa/Nairobi
+2778950,KE,KE-26,Gituri,Gituri,35,3,Locality,UTC+3,Africa/Nairobi
+2778953,KE,KE-41,Gakurungu,Gakurungu,774,3,Commune,UTC+3,Africa/Nairobi
+2778961,KE,KE-06,Ciangera,Ciangera,622,3,Commune,UTC+3,Africa/Nairobi
+2778963,KE,KE-06,Mukiria,Mukiria,2731,3,Commune,UTC+3,Africa/Nairobi
+2778966,KE,KE-18,Musosya,Musosya,6282,3,City,UTC+3,Africa/Nairobi
+2778967,KE,KE-06,Karura,Karura,328,3,Locality,UTC+3,Africa/Nairobi
+2778968,KE,KE-18,Kwa Mboloi,Kwa Mboloi,1004,3,Commune,UTC+3,Africa/Nairobi
+2778971,KE,KE-18,Winzee,Winzee,97,3,Locality,UTC+3,Africa/Nairobi
+2778973,KE,KE-18,Musukini,Musukini,733,3,Locality,UTC+3,Africa/Nairobi
+2778987,KE,KE-18,Kandwia,Kandwia,93,3,Locality,UTC+3,Africa/Nairobi
+2778993,KE,KE-18,Muvinge,Muvinge,149,3,Locality,UTC+3,Africa/Nairobi
+2778996,KE,KE-18,Gotoroni,Gotoroni,1885,3,Commune,UTC+3,Africa/Nairobi
+2778999,KE,KE-18,Kamayagi,Kamayagi,219,3,Locality,UTC+3,Africa/Nairobi
+2779001,KE,KE-18,Kakuranza,Kakuranza,70,4,locality,UTC+3,Africa/Nairobi
+2779002,KE,KE-41,Iruma,Iruma,53,3,Locality,UTC+3,Africa/Nairobi
+2779009,KE,KE-41,Karumandu,Karumandu,252,3,Locality,UTC+3,Africa/Nairobi
+2779011,KE,KE-41,Karungwaru,Karungwaru,101,3,Locality,UTC+3,Africa/Nairobi
+2779015,KE,KE-41,Kakaoni,Kakaoni,83,3,Locality,UTC+3,Africa/Nairobi
+2779030,KE,KE-18,Kaai,Kaai,286,3,Locality,UTC+3,Africa/Nairobi
+2779033,KE,KE-18,Ndungali,Ndungali,1076,3,Locality,UTC+3,Africa/Nairobi
+2779040,KE,KE-18,Imbolia,Imbolia,30,3,Locality,UTC+3,Africa/Nairobi
+2779044,KE,KE-18,Kithethea,Kithethea,96,3,Locality,UTC+3,Africa/Nairobi
+2779048,KE,KE-18,Mutanda,Mutanda,1943,3,Commune,UTC+3,Africa/Nairobi
+2779051,KE,KE-41,Thuchi,Thuchi,49,3,Locality,UTC+3,Africa/Nairobi
+2779058,KE,KE-01,Kapkuikui,Kapkuikui,84,3,Locality,UTC+3,Africa/Nairobi
+2779061,KE,KE-01,Cheploch,Cheploch,5017,3,Commune,UTC+3,Africa/Nairobi
+2779062,KE,KE-01,Loitip,Loitip,259,3,Locality,UTC+3,Africa/Nairobi
+2779063,KE,KE-25,Kalacha,Mairo Inya,3000,4,town,UTC+3,Africa/Nairobi
+2779064,KE,KE-35,Mairo Inya,Kasuku,30527,3,Urban Center,UTC+3,Africa/Nairobi
+2779065,KE,KE-35,Kasuku,Engineer,2209,3,Urban Center,UTC+3,Africa/Nairobi
+2779066,KE,KE-35,Engineer,Chaka,5324,3,Urban Center,UTC+3,Africa/Nairobi
+2779067,KE,KE-36,Chaka,Kenol,5970,3,Urban Center,UTC+3,Africa/Nairobi
+2779068,KE,KE-29,Kenol,Samburu,44086,3,Urban Center,UTC+3,Africa/Nairobi
+2779069,KE,KE-19,Samburu,Samburu,4454,3,Urban Center,UTC+3,Africa/Nairobi
+2779070,KE,KE-40,Bura Tana,Bura Tana,299,3,Locality,UTC+3,Africa/Nairobi
+2779071,KE,KE-22,Ol Donyo,Ol Donyo,3353,3,PPL,UTC+3,Africa/Nairobi
+2779072,KE,KE-22,Githunguri,Eldas,63319,3,PPL,UTC+3,Africa/Nairobi
+2779073,KE,KE-46,Eldas,Bute,12270,3,Urban Center,UTC+3,Africa/Nairobi
+2779074,KE,KE-46,Bute,Bute,14108,3,Urban Center,UTC+3,Africa/Nairobi
+2779075,KE,KE-27,Muhuru,Kijauri,1435,3,Locality,UTC+3,Africa/Nairobi
+2779076,KE,KE-34,Nyansiongo,Nyansiongo,5993,3,Urban Center,UTC+3,Africa/Nairobi
+2779077,KE,KE-08,Rodi,Rodi,8122,4,village,UTC+3,Africa/Nairobi
+2779078,KE,KE-10,Ewuaso,Muchorwi,2144,3,PPL,UTC+3,Africa/Nairobi
+2779079,KE,KE-31,Muchorwi,Karuga,2162,3,Urban Center,UTC+3,Africa/Nairobi
+2779080,KE,KE-20,Karuga,Karuga,2301,3,Urban Center,UTC+3,Africa/Nairobi
+2779081,KE,KE-37,Suguta,Wiyumiririe,2328,3,PPL,UTC+3,Africa/Nairobi
+2779082,KE,KE-20,Wiyumiririe,Kinungi,2449,3,Urban Center,UTC+3,Africa/Nairobi
+2779083,KE,KE-31,Kinungi,Isineti,2573,3,Urban Center,UTC+3,Africa/Nairobi
+2779084,KE,KE-10,Isineti,Illasit,4437,3,Urban Center,UTC+3,Africa/Nairobi
+2779085,KE,KE-10,Illasit,Illasit,4631,3,Urban Center,UTC+3,Africa/Nairobi
+2779086,KE,KE-10,Il,Il,7812,3,PPL,UTC+3,Africa/Nairobi
+2779087,KE,KE-12,Brooke,Kainuk,7896,3,PPL,UTC+3,Africa/Nairobi
+2779088,KE,KE-43,Kainuk,Kainuk,10535,3,Urban Center,UTC+3,Africa/Nairobi
+2779089,KE,KE-31,Mai,Khayega,20823,3,PPL,UTC+3,Africa/Nairobi
+2779090,KE,KE-11,Khayega,Khayega,3892,3,Urban Center,UTC+3,Africa/Nairobi
+2779092,KE,KE-21,Shakani,Shakani,278,3,Locality,UTC+3,Africa/Nairobi
+2779094,KE,KE-40,Makere Ya Gwano,Makere Ya Gwano,863,3,Commune,UTC+3,Africa/Nairobi
+2779096,KE,KE-43,Kapedo,Kapedo,173,3,Locality,UTC+3,Africa/Nairobi
+2779097,KE,KE-38,Ndori,Ndori,2202,3,Commune,UTC+3,Africa/Nairobi
+2779098,KE,KE-27,Luanda,Luanda,188,4,hamlet,UTC+3,Africa/Nairobi
+2779099,KE,KE-36,Kabage,Kabage,94,3,Locality,UTC+3,Africa/Nairobi
+2779100,KE,KE-36,Gatitu,Gatitu,514,3,Locality and Commune,UTC+3,Africa/Nairobi
+2779101,KE,KE-33,Ildamat,Ildamat,136,4,hamlet,UTC+3,Africa/Nairobi
+2779102,KE,KE-29,Kinyona,Kinyona,59,3,Locality,UTC+3,Africa/Nairobi
+2779104,KE,KE-06,Karaba,Karaba,31,3,Locality,UTC+3,Africa/Nairobi
+2779106,KE,KE-15,Mjini,Mjini,80,3,Locality,UTC+3,Africa/Nairobi
+2779107,KE,KE-44,Nabkoi,Nabkoi,130,3,Locality,UTC+3,Africa/Nairobi
+2779115,KE,KE-31,Keringet,Keringet,8088,3,City,UTC+3,Africa/Nairobi
+2779118,KE,KE-16,Thomas Magena home,Thomas Magena home,\N,3,PPLG,UTC+3,Africa/Nairobi

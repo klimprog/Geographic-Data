@@ -1,0 +1,977 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+3016983,ME,ME-17,Rozaje,Рожаје,9422,2,Municipality,UTC+1,Europe/Podgorica
+3016984,ME,ME-17,Radetina,Radetina,399,3,Settlement,UTC+1,Europe/Podgorica
+3016985,ME,ME-23,Poroca,Пороче,832,4,village,UTC+1,Europe/Podgorica
+3016992,ME,ME-17,Ibarac,Ибарац,2485,3,Settlement,UTC+1,Europe/Podgorica
+3016993,ME,ME-17,Grahovo,Grahovo,372,3,Settlement,UTC+1,Europe/Podgorica
+3017005,ME,ME-17,Bac,Bać,893,3,Settlement,UTC+1,Europe/Podgorica
+3017008,ME,ME-17,Bovan,Bovan,364,4,village,UTC+1,Europe/Podgorica
+3017009,ME,ME-17,Dolina,Dolina,185,4,village,UTC+1,Europe/Podgorica
+3017016,ME,ME-17,Donja Lovnica,Donja Lovnica,325,3,Settlement,UTC+1,Europe/Podgorica
+3017020,ME,ME-17,Plumci,Plumci,849,4,village,UTC+1,Europe/Podgorica
+3017022,ME,ME-17,Halilovic,Halilović,1164,4,village,UTC+1,Europe/Podgorica
+3017023,ME,ME-17,Dubovik,Dubovik,496,4,village,UTC+1,Europe/Podgorica
+3017025,ME,ME-13,Kopiljaca [historical],Kopiljača [historical],176,4,village,UTC+1,Europe/Podgorica
+3017026,ME,ME-17,Sredani,Sređani,355,3,Settlement,UTC+1,Europe/Podgorica
+3017034,ME,ME-17,Redzica Krlje,Koljeno,1769,4,village,UTC+1,Europe/Podgorica
+3017035,ME,ME-17,Koljeno,Koljeno,410,3,Settlement,UTC+1,Europe/Podgorica
+3017036,ME,ME-17,Visnjice,Višnjice,614,4,village,UTC+1,Europe/Podgorica
+3017037,ME,ME-17,Donji Besnik,Donji Besnik,663,4,village,UTC+1,Europe/Podgorica
+3017038,ME,ME-17,Dzudzevici,Džudževići,981,4,village,UTC+1,Europe/Podgorica
+3017043,ME,ME-17,Seosnica,Seošnica,456,3,Settlement,UTC+1,Europe/Podgorica
+3017044,ME,ME-17,Tuzeva Luka,Tuzeva Luka,181,4,village,UTC+1,Europe/Podgorica
+3017047,ME,ME-17,Kacari,Kačari,164,4,village,UTC+1,Europe/Podgorica
+3017051,ME,ME-17,Dracinovac,Dračinovac,1181,4,village,UTC+1,Europe/Podgorica
+3017058,ME,ME-02,Zupci,Zupci,136,4,village,UTC+1,Europe/Podgorica
+3017059,ME,ME-05,Zukovica,Žukovica,13027,4,town,UTC+1,Europe/Podgorica
+3017060,ME,ME-20,Zoganj,Zoganj,399,3,Settlement,UTC+1,Europe/Podgorica
+3017064,ME,ME-09,Zirci,Žirci,110,4,village,UTC+1,Europe/Podgorica
+3017065,ME,ME-14,Zidovici,Жидовићи,698,3,Settlement,UTC+1,Europe/Podgorica
+3017066,ME,ME-08,Zelenika,Зеленика,1315,3,City,UTC+1,Europe/Podgorica
+3017069,ME,ME-02,Zankovici,Zankovići,294,3,Settlement,UTC+1,Europe/Podgorica
+3017071,ME,ME-02,Zaljevo,Zaljevo,702,3,Settlement,UTC+1,Europe/Podgorica
+3017073,ME,ME-02,Zagrade,Zagrađe,329,3,Settlement,UTC+1,Europe/Podgorica
+3017075,ME,ME-06,Zagora,Zagora,70,4,village,UTC+1,Europe/Podgorica
+3017080,ME,ME-21,Zabljak,Жабљак,1937,2,Municipality,UTC+1,Europe/Podgorica
+3017081,ME,ME-22,Vusanje,Вусање,682,3,Settlement,UTC+1,Europe/Podgorica
+3017083,ME,ME-24,Vuksanlekici,Вуксанлекићи,368,3,Settlement,UTC+1,Europe/Podgorica
+3017088,ME,ME-06,Vrela,Gornja Vrbica,68,4,village,UTC+1,Europe/Podgorica
+3017089,ME,ME-12,Gornja Vrbica,Gornja Vrbica,988,3,Settlement,UTC+1,Europe/Podgorica
+3017091,ME,ME-05,Vrba,Vrba,66,4,hamlet,UTC+1,Europe/Podgorica
+3017093,ME,ME-16,Vranjina,Vranjina,244,4,village,UTC+1,Europe/Podgorica
+3017094,ME,ME-24,Vranj,Vranj,896,3,Settlement,UTC+1,Europe/Podgorica
+3017100,ME,ME-24,Vladni,Владни,1851,3,Settlement,UTC+1,Europe/Podgorica
+3017103,ME,ME-22,Visnjevo,Višnjevo,86,4,village,UTC+1,Europe/Podgorica
+3017105,ME,ME-02,Virpazar,Вирпазар,337,4,town,UTC+1,Europe/Podgorica
+3017106,ME,ME-03,Vinicka,Vinicka,458,3,Settlement,UTC+1,Europe/Podgorica
+3017108,ME,ME-12,Vilusi,Vilusi,169,4,village,UTC+1,Europe/Podgorica
+3017111,ME,ME-10,Velje Selo,Velje Selo,250,3,Settlement,UTC+1,Europe/Podgorica
+3017112,ME,ME-02,Velje Selo,Velje Selo,271,4,village,UTC+1,Europe/Podgorica
+3017115,ME,ME-14,Vaskovo,Вашково,153,4,village,UTC+1,Europe/Podgorica
+3017119,ME,ME-20,Ulcinj,Улцињ,15467,2,Municipality,UTC+1,Europe/Podgorica
+3017121,ME,ME-06,Ugnji,Ugnji,52,4,village,UTC+1,Europe/Podgorica
+3017122,ME,ME-16,Ubli,Ubli,493,4,village,UTC+1,Europe/Podgorica
+3017123,ME,ME-16,Ubli,Ubli,355,4,village,UTC+1,Europe/Podgorica
+3017127,ME,ME-16,Tuzi Ljevorecke,Tuzi,2127,4,village,UTC+1,Europe/Podgorica
+3017128,ME,ME-24,Tuzi,Тузи,4269,2,Municipality,UTC+1,Europe/Podgorica
+3017131,ME,ME-02,Tudemili,Tucanje,154,4,village,UTC+1,Europe/Podgorica
+3017132,ME,ME-23,Tucanje,Туцање,286,3,Settlement,UTC+1,Europe/Podgorica
+3017135,ME,ME-06,Trnovo,Trnovo,61,4,village,UTC+1,Europe/Podgorica
+3017138,ME,ME-03,Tresnjevo,Trešnjevo,367,3,Settlement,UTC+1,Europe/Podgorica
+3017141,ME,ME-08,Trebesinj,Trebesinj,288,4,village,UTC+1,Europe/Podgorica
+3017142,ME,ME-24,Traboin,Трабојин,285,4,village,UTC+1,Europe/Podgorica
+3017144,ME,ME-02,Tomba,Томба,1236,3,Settlement,UTC+1,Europe/Podgorica
+3017145,ME,ME-04,Tomasevo,Tomaševo,282,4,village,UTC+1,Europe/Podgorica
+3017147,ME,ME-19,Tivat,Тиват,9367,2,Municipality,UTC+1,Europe/Podgorica
+3017150,ME,ME-02,Tejani,Sveti Stefan,93,4,village,UTC+1,Europe/Podgorica
+3017151,ME,\N,Sveti Stefan,Свети Стефан,410,3,City,UTC+1,Europe/Podgorica
+3017153,ME,ME-20,Sveti Dorde,Sutvara,228,4,village,UTC+1,Europe/Podgorica
+3017154,ME,ME-10,Sutvara,Sutomore,585,3,Settlement,UTC+1,Europe/Podgorica
+3017155,ME,ME-02,Sutomore,Сутоморе,1827,3,City,UTC+1,Europe/Podgorica
+3017157,ME,ME-16,Susunja,Шушуња,266,3,Settlement,UTC+1,Europe/Podgorica
+3017158,ME,ME-02,Sustas,Sustaš,560,3,Settlement,UTC+1,Europe/Podgorica
+3017159,ME,ME-08,Suscepan,Sušćepan,544,4,village,UTC+1,Europe/Podgorica
+3017160,ME,ME-16,Donje Sume,Donje Šume,802,4,village,UTC+1,Europe/Podgorica
+3017162,ME,ME-20,Sukobin,Sukobin,640,3,Settlement,UTC+1,Europe/Podgorica
+3017165,ME,ME-04,Stube,Stube,204,4,village,UTC+1,Europe/Podgorica
+3017167,ME,ME-04,Strojtenica,Strojtenica,7486,4,village,UTC+1,Europe/Podgorica
+3017168,ME,ME-07,Strahinici,Strahinići,62,4,village,UTC+1,Europe/Podgorica
+3017171,ME,ME-12,Stedim,Štedim,431,4,village,UTC+1,Europe/Podgorica
+3017172,ME,ME-12,Staro Selo,Staro Selo,321,3,Settlement,UTC+1,Europe/Podgorica
+3017173,ME,ME-02,Stari Bar,Стари Бар,1555,3,City,UTC+1,Europe/Podgorica
+3017174,ME,ME-16,Staniselici,Staniselići,59,4,village,UTC+1,Europe/Podgorica
+3017176,ME,ME-16,Srpska,Srpska,682,3,Settlement,UTC+1,Europe/Podgorica
+3017177,ME,ME-07,Sretnja,Sretnja,493,4,village,UTC+1,Europe/Podgorica
+3017179,ME,ME-07,Spuz,Спуж,1469,3,City,UTC+1,Europe/Podgorica
+3017180,ME,ME-24,Spinja,Спиња,152,4,village,UTC+1,Europe/Podgorica
+3017181,ME,ME-07,Sobaici,Šobaići,60,4,village,UTC+1,Europe/Podgorica
+3017185,ME,ME-14,Sljuke,Šljuke,136,4,hamlet,UTC+1,Europe/Podgorica
+3017187,ME,ME-01,Slatina,Slatina,1328,4,village,UTC+1,Europe/Podgorica
+3017192,ME,ME-01,Sjenozeta,Sjenožeta,100,4,village,UTC+1,Europe/Podgorica
+3017193,ME,ME-11,Sjerogoste,Sjerogošte,335,4,village,UTC+1,Europe/Podgorica
+3017202,ME,ME-07,Sekulici,Sekulići,171,4,village,UTC+1,Europe/Podgorica
+3017203,ME,ME-18,Savnik,Шавник,633,2,Municipality,UTC+1,Europe/Podgorica
+3017204,ME,ME-08,Sasovici,Sasovići,422,4,village,UTC+1,Europe/Podgorica
+3017205,ME,ME-20,Sas,Шас,237,4,village,UTC+1,Europe/Podgorica
+3017215,ME,ME-10,Risan,Рисан,2059,3,City,UTC+1,Europe/Podgorica
+3017216,ME,ME-06,Rijeka Crnojevica,Ријека Црнојевића,484,4,town,UTC+1,Europe/Podgorica
+3017217,ME,ME-06,Rijecani,Riječani,97,4,village,UTC+1,Europe/Podgorica
+3017218,ME,ME-04,Resnik,Ресник,2890,3,Settlement,UTC+1,Europe/Podgorica
+3017222,ME,ME-08,Ratisevina,Ratiševina,130,4,village,UTC+1,Europe/Podgorica
+3017223,ME,ME-12,Rastovac,Rastovac,1119,3,Settlement,UTC+1,Europe/Podgorica
+3017225,ME,ME-04,Rakonje,Rakonje,1840,3,City,UTC+1,Europe/Podgorica
+3017228,ME,ME-19,Radovici,Radovići,526,3,Settlement,UTC+1,Europe/Podgorica
+3017235,ME,ME-21,Provalija,Провалија,115,4,village,UTC+1,Europe/Podgorica
+3017237,ME,ME-13,Prnjavor,Prnjavor,955,3,Settlement,UTC+1,Europe/Podgorica
+3017238,ME,ME-08,Pristan,Pristan,304,4,village,UTC+1,Europe/Podgorica
+3017239,ME,ME-16,Prisoja,Prisoja,566,3,Settlement,UTC+1,Europe/Podgorica
+3017240,ME,ME-04,Pripcici,Prijevor,276,3,City,UTC+1,Europe/Podgorica
+3017241,ME,ME-08,Prijevor,Prijevor,248,3,Settlement,UTC+1,Europe/Podgorica
+3017245,ME,ME-16,Prifta,Prifta,509,4,village,UTC+1,Europe/Podgorica
+3017247,ME,ME-06,Prevlaka,Prevlaka,53,4,village,UTC+1,Europe/Podgorica
+3017248,ME,ME-18,Previs,Previš,96,4,hamlet,UTC+1,Europe/Podgorica
+3017249,ME,ME-06,Prentin Do,Prentin Do,1305,4,village,UTC+1,Europe/Podgorica
+3017251,ME,ME-10,Prcanj,Прчањ,1187,3,City,UTC+1,Europe/Podgorica
+3017252,ME,ME-14,Pracica,Pračica,91,4,hamlet,UTC+1,Europe/Podgorica
+3017255,ME,ME-04,Pozeginja,Požeginja,66,4,hamlet,UTC+1,Europe/Podgorica
+3017256,ME,ME-12,Donja Povija,Donja Povija,1020,4,village,UTC+1,Europe/Podgorica
+3017258,ME,ME-04,Potkrajci,Potkrajci,1047,3,City,UTC+1,Europe/Podgorica
+3017259,ME,ME-18,Poscenje,Pošćenje,159,4,hamlet,UTC+1,Europe/Podgorica
+3017261,ME,ME-12,Ponikvica,Ponikvica,349,4,village,UTC+1,Europe/Podgorica
+3017262,ME,ME-16,Ponari,Понари,382,4,village,UTC+1,Europe/Podgorica
+3017264,ME,ME-16,Poljice,Polje,74,4,village,UTC+1,Europe/Podgorica
+3017265,ME,ME-02,Polje,Polje,1833,3,Settlement,UTC+1,Europe/Podgorica
+3017269,ME,ME-08,Podi,Поди,1283,3,Settlement,UTC+1,Europe/Podgorica
+3017270,ME,ME-24,Pothum,Подхум (Подгорица),266,3,Settlement,UTC+1,Europe/Podgorica
+3017271,ME,ME-16,Podgorica,Подгорица,150799,1,Municipality,UTC+1,Europe/Podgorica
+3017273,ME,ME-04,Poda,Poda,278,3,Settlement,UTC+1,Europe/Podgorica
+3017276,ME,ME-15,Pluzine,Плужине,1418,2,Municipality,UTC+1,Europe/Podgorica
+3017277,ME,ME-14,Pljevlja,Пљевља,19489,2,Municipality,UTC+1,Europe/Podgorica
+3017278,ME,ME-13,Plav,Плав,3615,2,Municipality,UTC+1,Europe/Podgorica
+3017280,ME,ME-20,Pistula,Pistula,381,3,Settlement,UTC+1,Europe/Podgorica
+3017281,ME,ME-16,Pikalja,Пикаљ,273,4,locality,UTC+1,Europe/Podgorica
+3017284,ME,ME-05,Petrovac na Moru,Петровац на Мору,1485,3,City,UTC+1,Europe/Podgorica
+3017285,ME,ME-03,Petnjik,Петњик,533,3,Settlement,UTC+1,Europe/Podgorica
+3017286,ME,ME-03,Pesca,Пешца,1805,3,Settlement,UTC+1,Europe/Podgorica
+3017287,ME,ME-10,Perast,Пераст,450,4,town,UTC+1,Europe/Podgorica
+3017288,ME,ME-20,Pelinkovici,Pelinkovići,151,4,village,UTC+1,Europe/Podgorica
+3017289,ME,ME-16,Pelev Brijeg,Pelev Brijeg,64,4,village,UTC+1,Europe/Podgorica
+3017290,ME,ME-02,Pecurice,Pečurice,632,3,Settlement,UTC+1,Europe/Podgorica
+3017295,ME,ME-02,Papani,Papani,190,3,Settlement,UTC+1,Europe/Podgorica
+3017297,ME,ME-12,Ozrinici,Озринићи,1983,3,Settlement,UTC+1,Europe/Podgorica
+3017300,ME,ME-02,Otocici,Овточићи,149,4,locality,UTC+1,Europe/Podgorica
+3017303,ME,ME-12,Orlina,Orlina,294,4,village,UTC+1,Europe/Podgorica
+3017304,ME,ME-07,Orja Luka,Орја Лука,196,4,hamlet,UTC+1,Europe/Podgorica
+3017307,ME,ME-10,Donji Orahovac,Donji Orahovac,54,3,Settlement,UTC+1,Europe/Podgorica
+3017311,ME,ME-06,Ocinici,Očinići,112,4,village,UTC+1,Europe/Podgorica
+3017312,ME,ME-04,Obrov,Obrov,312,3,City,UTC+1,Europe/Podgorica
+3017314,ME,ME-12,Oblatno,Oblatno,133,4,village,UTC+1,Europe/Podgorica
+3017315,ME,ME-12,Katuniste,Katunište,539,4,village,UTC+1,Europe/Podgorica
+3017316,ME,ME-13,Novsici,Novšići,129,4,village,UTC+1,Europe/Podgorica
+3017317,ME,ME-05,Novoselje,Novoselje,188,4,village,UTC+1,Europe/Podgorica
+3017318,ME,ME-06,Njegusi,Његуши,517,4,village,UTC+1,Europe/Podgorica
+3017319,ME,ME-12,Niksic,Никшић,58212,2,Municipality,UTC+1,Europe/Podgorica
+3017320,ME,ME-24,Nik Maras,Никмараш,2482,4,village,UTC+1,Europe/Podgorica
+3017321,ME,ME-04,Nedakusi,Недакуси,1989,3,City,UTC+1,Europe/Podgorica
+3017322,ME,ME-15,Nedajno,Nedajno,86,4,village,UTC+1,Europe/Podgorica
+3017325,ME,ME-13,Murino,Muo,462,4,village,UTC+1,Europe/Podgorica
+3017326,ME,ME-10,Muo,Муо,645,3,Settlement,UTC+1,Europe/Podgorica
+3017329,ME,ME-19,Mrcevac,Мрчевац,1454,3,Settlement,UTC+1,Europe/Podgorica
+3017330,ME,ME-21,Moticki Gaj,Motički Gaj,179,4,village,UTC+1,Europe/Podgorica
+3017331,ME,ME-12,Donje Morakovo,Donje Morakovo,512,4,village,UTC+1,Europe/Podgorica
+3017332,ME,ME-14,Moraice,Мораице,217,4,hamlet,UTC+1,Europe/Podgorica
+3017335,ME,ME-18,Mokro,Mokro,190,4,village,UTC+1,Europe/Podgorica
+3017338,ME,ME-11,Mojkovac,Мојковац,4120,2,Municipality,UTC+1,Europe/Podgorica
+3017339,ME,ME-16,Mojanovici,Мојановићи,1751,3,Settlement,UTC+1,Europe/Podgorica
+3017340,ME,ME-18,Mljeticak,Mljetičak,71,4,village,UTC+1,Europe/Podgorica
+3017341,ME,ME-02,Misici,Mišići,253,4,village,UTC+1,Europe/Podgorica
+3017343,ME,ME-04,Milovo,Milovo,239,4,village,UTC+1,Europe/Podgorica
+3017344,ME,ME-04,Milovo,Milovo,97,4,locality,UTC+1,Europe/Podgorica
+3017345,ME,ME-19,Milovici,Миловићи,104,4,village,UTC+1,Europe/Podgorica
+3017349,ME,ME-20,Mide,Mide,610,3,Settlement,UTC+1,Europe/Podgorica
+3017350,ME,ME-03,Mezgalji,Mezgalji,562,4,village,UTC+1,Europe/Podgorica
+3017354,ME,ME-08,Meljine,Meljine,1193,3,Settlement,UTC+1,Europe/Podgorica
+3017355,ME,ME-09,Matesevo,Матешево,97,4,village,UTC+1,Europe/Podgorica
+3017356,ME,ME-16,Mataguzi,Матагужи,1170,3,Settlement,UTC+1,Europe/Podgorica
+3017357,ME,ME-22,Martinovice,Мартиновићи,491,4,village,UTC+1,Europe/Podgorica
+3017360,ME,ME-07,Mandici,Mandići,269,4,village,UTC+1,Europe/Podgorica
+3017361,ME,ME-07,Malenza,Malenza,152,4,hamlet,UTC+1,Europe/Podgorica
+3017362,ME,ME-20,Mala Gorana,Mala Gorana,137,4,village,UTC+1,Europe/Podgorica
+3017364,ME,ME-16,Mahala,Mahala,1900,3,Settlement,UTC+1,Europe/Podgorica
+3017367,ME,ME-03,Donji Luzac,Donji Lužac,480,4,village,UTC+1,Europe/Podgorica
+3017369,ME,ME-03,Lubnice,Lozna,244,4,village,UTC+1,Europe/Podgorica
+3017370,ME,ME-04,Lozna,Lozna,345,3,Settlement,UTC+1,Europe/Podgorica
+3017374,ME,ME-12,Liverovici,Liverovići,433,3,Settlement,UTC+1,Europe/Podgorica
+3017375,ME,ME-02,Livari,Livari,94,4,village,UTC+1,Europe/Podgorica
+3017378,ME,\N,Lipci,Липци,618,4,village,UTC+1,Europe/Podgorica
+3017383,ME,ME-19,Lepetani,Лепетани,233,4,village,UTC+1,Europe/Podgorica
+3017384,ME,ME-04,Lepenac,Lepenac,324,3,Settlement,UTC+1,Europe/Podgorica
+3017385,ME,ME-14,Leovo Brdo,Leovo Brdo,68,4,hamlet,UTC+1,Europe/Podgorica
+3017386,ME,ME-16,Lekici,Lekići,157,4,hamlet,UTC+1,Europe/Podgorica
+3017389,ME,ME-07,Lazarev Krst,Lazarev Krst,108,4,hamlet,UTC+1,Europe/Podgorica
+3017392,ME,ME-01,Kuti,Kuti,1427,3,Settlement,UTC+1,Europe/Podgorica
+3017393,ME,ME-08,Kuti,Kuti,729,4,village,UTC+1,Europe/Podgorica
+3017394,ME,ME-16,Kurilo,Kurilo,105,4,village,UTC+1,Europe/Podgorica
+3017396,ME,ME-12,Kunak,Kunak,451,4,village,UTC+1,Europe/Podgorica
+3017398,ME,ME-07,Kujava,Kujava,127,4,village,UTC+1,Europe/Podgorica
+3017402,ME,ME-20,Kruta,Kruta,81,4,village,UTC+1,Europe/Podgorica
+3017404,ME,ME-01,Krusevo,Kruševo,337,3,City,UTC+1,Europe/Podgorica
+3017405,ME,ME-22,Krusevo,Kruševo,340,4,village,UTC+1,Europe/Podgorica
+3017406,ME,ME-08,Krusevice,Kruševice,240,4,village,UTC+1,Europe/Podgorica
+3017408,ME,ME-20,Kruce,Kruče,104,4,village,UTC+1,Europe/Podgorica
+3017415,ME,ME-19,Krasici,Крашићи,130,4,village,UTC+1,Europe/Podgorica
+3017416,ME,ME-06,Krajnji Do,Krajnji Do,1184,4,village,UTC+1,Europe/Podgorica
+3017419,ME,ME-04,Kovren,Kovren,411,4,village,UTC+1,Europe/Podgorica
+3017420,ME,ME-10,Kotor,Котор,5345,2,Municipality,UTC+1,Europe/Podgorica
+3017423,ME,ME-04,Kostanica,Kostanica,1456,4,village,UTC+1,Europe/Podgorica
+3017428,ME,ME-16,Kornet,Kornet,62,4,village,UTC+1,Europe/Podgorica
+3017432,ME,ME-02,Komarno,Komarno,62,4,village,UTC+1,Europe/Podgorica
+3017433,ME,ME-22,Kolenovici,Коленовићи,157,4,isolated_dwelling,UTC+1,Europe/Podgorica
+3017434,ME,ME-09,Kolasin,Колашин,2989,2,Municipality,UTC+1,Europe/Podgorica
+3017441,ME,ME-04,Kanje,Kanje,279,3,Settlement,UTC+1,Europe/Podgorica
+3017442,ME,ME-08,Kameno,Kameno,128,4,village,UTC+1,Europe/Podgorica
+3017453,ME,ME-14,Jabuka,Jabuka,911,4,village,UTC+1,Europe/Podgorica
+3017458,ME,ME-03,Berane,Беране,11249,2,Municipality,UTC+1,Europe/Podgorica
+3017459,ME,ME-08,Igalo,Игало,3754,3,City,UTC+1,Europe/Podgorica
+3017460,ME,ME-08,Herceg Novi,Херцег Нови,18015,2,Municipality,UTC+1,Europe/Podgorica
+3017463,ME,ME-22,Gusinje,Гусиње,1689,2,Municipality,UTC+1,Europe/Podgorica
+3017465,ME,ME-07,Gruda,Gruda,103,4,locality,UTC+1,Europe/Podgorica
+3017466,ME,ME-16,Grbavci,Grbavci,465,3,Settlement,UTC+1,Europe/Podgorica
+3017469,ME,ME-07,Gradina,Gradina,622,4,village,UTC+1,Europe/Podgorica
+3017471,ME,ME-02,Gradani,Građani,68,4,village,UTC+1,Europe/Podgorica
+3017477,ME,ME-07,Gostilje Martinicko,Gostilje Martinićko,2719,4,village,UTC+1,Europe/Podgorica
+3017478,ME,ME-16,Gostilj,Гостиљ (Подгорица),159,4,village,UTC+1,Europe/Podgorica
+3017480,ME,ME-19,Gosici,Gošići,212,4,village,UTC+1,Europe/Podgorica
+3017483,ME,ME-20,Gornji Stoj,Gornji Štoj,314,4,village,UTC+1,Europe/Podgorica
+3017484,ME,ME-07,Gornji Rsojevici,Gornji Rsojevići,93,4,hamlet,UTC+1,Europe/Podgorica
+3017485,ME,ME-10,Gornji Orahovac,Gornji Orahovac,524,4,village,UTC+1,Europe/Podgorica
+3017488,ME,ME-16,Gornji Kokoti,Gornji Kokoti,144,4,village,UTC+1,Europe/Podgorica
+3017497,ME,ME-16,Goricani,Goričani,1295,3,Settlement,UTC+1,Europe/Podgorica
+3017498,ME,ME-25,Golubovci,Голубовци,2834,2,Settlement,UTC+1,Europe/Podgorica
+3017499,ME,ME-16,Goljemadi,Гољемади,203,4,village,UTC+1,Europe/Podgorica
+3017501,ME,ME-02,Godinje,Годиње,60,4,village,UTC+1,Europe/Podgorica
+3017505,ME,ME-07,Donji Frutak,Donji Frutak,700,4,village,UTC+1,Europe/Podgorica
+3017507,ME,ME-16,Farmaci,Farmaci,182,3,Settlement,UTC+1,Europe/Podgorica
+3017509,ME,ME-18,Duzi,Duži,280,4,village,UTC+1,Europe/Podgorica
+3017510,ME,ME-16,Duske,Duške,124,4,village,UTC+1,Europe/Podgorica
+3017512,ME,ME-08,Durici,Ðurići,11456,4,town,UTC+1,Europe/Podgorica
+3017513,ME,ME-02,Duravci,Ðuravci,1229,4,village,UTC+1,Europe/Podgorica
+3017514,ME,ME-19,Durasevici,Ðuraševići,321,3,Settlement,UTC+1,Europe/Podgorica
+3017515,ME,ME-02,Dupilo,Dupilo,114,4,village,UTC+1,Europe/Podgorica
+3017517,ME,ME-01,Dulici,Ðulići,187,4,village,UTC+1,Europe/Podgorica
+3017526,ME,ME-06,Drusici,Drušići,163,4,village,UTC+1,Europe/Podgorica
+3017530,ME,ME-12,Dragova Luka,Dragova Luka,218,4,village,UTC+1,Europe/Podgorica
+3017535,ME,ME-22,Dosude,Dosuđe,331,3,Settlement,UTC+1,Europe/Podgorica
+3017536,ME,ME-20,Donji Stoj,Donji Štoj,1335,3,Settlement,UTC+1,Europe/Podgorica
+3017537,ME,ME-07,Donji Rsojevici,Donji Rsojevići,114,4,village,UTC+1,Europe/Podgorica
+3017538,ME,ME-02,Donji Murici,Donji Murići,113,4,village,UTC+1,Europe/Podgorica
+3017539,ME,ME-08,Donji Morinj,Donji Kokoti,261,4,village,UTC+1,Europe/Podgorica
+3017540,ME,ME-16,Donji Kokoti,Donji Kokoti,523,3,Settlement,UTC+1,Europe/Podgorica
+3017543,ME,ME-19,Donja Lastva,Доња Ластва,713,3,City,UTC+1,Europe/Podgorica
+3017546,ME,ME-04,Dolac,Dolac,2717,3,Settlement,UTC+1,Europe/Podgorica
+3017548,ME,ME-06,Dodosi,Dodoši,112,4,hamlet,UTC+1,Europe/Podgorica
+3017549,ME,ME-06,Dobrsko Selo,Добрско Село,166,4,village,UTC+1,Europe/Podgorica
+3017551,ME,ME-04,Dobrakovo,Dinoša,295,3,Settlement,UTC+1,Europe/Podgorica
+3017552,ME,ME-16,Dinosa,Диноша,510,3,Settlement,UTC+1,Europe/Podgorica
+3017554,ME,ME-02,Dendinovici,Ðenđinovići,368,3,Settlement,UTC+1,Europe/Podgorica
+3017555,ME,ME-05,Denasi,Ðenaši,336,4,village,UTC+1,Europe/Podgorica
+3017557,ME,ME-20,Darza,Darza,1115,4,village,UTC+1,Europe/Podgorica
+3017558,ME,ME-07,Danilovgrad,Даниловград,5156,2,Municipality,UTC+1,Europe/Podgorica
+3017559,ME,ME-04,Dalovici,Ðalovići,434,4,village,UTC+1,Europe/Podgorica
+3017561,ME,ME-16,Dajbabe,Dajbabe,288,4,village,UTC+1,Europe/Podgorica
+3017562,ME,ME-12,Dabovici,Dabovići,82,4,village,UTC+1,Europe/Podgorica
+3017563,ME,ME-02,Dabezici,Dabezići,146,4,village,UTC+1,Europe/Podgorica
+3017569,ME,ME-16,Gornji Crnci,Crnča,193,4,village,UTC+1,Europe/Podgorica
+3017570,ME,ME-04,Crnca,Crnča,306,3,Settlement,UTC+1,Europe/Podgorica
+3017573,ME,ME-06,Cetinje,Цетиње,14494,2,Municipality,UTC+1,Europe/Podgorica
+3017576,ME,ME-02,Celuga,Челуга,1404,3,Settlement,UTC+1,Europe/Podgorica
+3017578,ME,ME-16,Buronji,Buronji,182,4,village,UTC+1,Europe/Podgorica
+3017579,ME,ME-02,Bukovik,Bukovik,90,4,village,UTC+1,Europe/Podgorica
+3017582,ME,ME-05,Budva,Будва,13338,2,Municipality,UTC+1,Europe/Podgorica
+3017583,ME,ME-03,Buce,Буче,800,3,Settlement,UTC+1,Europe/Podgorica
+3017585,ME,ME-12,Brsno,Bršno,323,4,village,UTC+1,Europe/Podgorica
+3017587,ME,ME-07,Brijestovo,Brijestovo,58,4,village,UTC+1,Europe/Podgorica
+3017589,ME,ME-16,Brezine,Brežine,211,4,village,UTC+1,Europe/Podgorica
+3017591,ME,ME-02,Brca,Brca,242,3,Settlement,UTC+1,Europe/Podgorica
+3017594,ME,ME-20,Brajse,Brajše,656,3,Settlement,UTC+1,Europe/Podgorica
+3017597,ME,ME-16,Botun,Botun,628,3,Settlement,UTC+1,Europe/Podgorica
+3017598,ME,ME-07,Boronjina,Boronjina,59,4,locality,UTC+1,Europe/Podgorica
+3017600,ME,ME-05,Boreti,Boreti,304,3,Settlement,UTC+1,Europe/Podgorica
+3017601,ME,ME-02,Boljevici,Boljevići,204,4,village,UTC+1,Europe/Podgorica
+3017602,ME,ME-04,Boljanina,Boljanina,298,3,Settlement,UTC+1,Europe/Podgorica
+3017609,ME,ME-19,Bogisici,Bogišići,184,4,village,UTC+1,Europe/Podgorica
+3017610,ME,ME-07,Bogicevici,Богићевићи,109,4,hamlet,UTC+1,Europe/Podgorica
+3017613,ME,ME-13,Bogajici,Bogajići,496,3,Settlement,UTC+1,Europe/Podgorica
+3017614,ME,ME-02,Boboviste,Бобовиште,230,4,village,UTC+1,Europe/Podgorica
+3017618,ME,ME-06,Bjelosi,Bjeloši,151,4,village,UTC+1,Europe/Podgorica
+3017622,ME,ME-16,Bioce,Биоче,255,4,village,UTC+1,Europe/Podgorica
+3017623,ME,ME-08,Krusevice,Bijelo Polje,153,4,village,UTC+1,Europe/Podgorica
+3017624,ME,ME-04,Bijelo Polje,Oпштина Бијело Поље,14500,2,Municipality,UTC+1,Europe/Podgorica
+3017625,ME,ME-16,Bijelo Polje,Bijelo Polje,768,3,Settlement,UTC+1,Europe/Podgorica
+3017626,ME,ME-06,Bijelo Polje,Bijela,358,4,village,UTC+1,Europe/Podgorica
+3017627,ME,ME-08,Bijela,Бијела,3502,3,City,UTC+1,Europe/Podgorica
+3017628,ME,ME-04,Bijedici,Bijedići,636,4,village,UTC+1,Europe/Podgorica
+3017629,ME,ME-16,Bigor,Bigor,108,4,village,UTC+1,Europe/Podgorica
+3017630,ME,ME-15,Bezuje,Bezuje,188,4,village,UTC+1,Europe/Podgorica
+3017632,ME,ME-02,Bes,Bes,128,4,village,UTC+1,Europe/Podgorica
+3017634,ME,ME-16,Berislavci,Berislavci,486,3,Settlement,UTC+1,Europe/Podgorica
+3017636,ME,\N,Becici,Бечићи,850,3,City,UTC+1,Europe/Podgorica
+3017638,ME,ME-02,Bartula,Bartula,394,3,Settlement,UTC+1,Europe/Podgorica
+3017639,ME,ME-07,Bare Sumanovica,Баре Шумановића,171,4,village,UTC+1,Europe/Podgorica
+3017640,ME,ME-03,Beran Selo,Беран Село,1504,3,Settlement,UTC+1,Europe/Podgorica
+3017641,ME,ME-02,Bar,Бар,17727,2,Municipality,UTC+1,Europe/Podgorica
+3017642,ME,ME-08,Baosici,Баошићи,1227,3,Settlement,UTC+1,Europe/Podgorica
+3017643,ME,ME-16,Balabani,Balabani,999,3,Settlement,UTC+1,Europe/Podgorica
+3017650,ME,ME-01,Andrijevica,Андријевица,1073,2,Municipality,UTC+1,Europe/Podgorica
+3017651,ME,ME-20,Ambula,Амбула,15469,4,town,UTC+1,Europe/Podgorica
+3017654,ME,ME-12,Toljevina,Toljevina,189,4,village,UTC+1,Europe/Podgorica
+3017657,ME,ME-12,Stajista,Stajišta,736,4,village,UTC+1,Europe/Podgorica
+3017663,ME,ME-12,Senicista,Šeničišta,548,4,village,UTC+1,Europe/Podgorica
+3017678,ME,ME-06,Bara,Bara,128,4,village,UTC+1,Europe/Podgorica
+3017679,ME,ME-06,Umac,Umac,232,4,village,UTC+1,Europe/Podgorica
+3017682,ME,ME-12,Rojevici,Rojevići,1155,4,village,UTC+1,Europe/Podgorica
+3017685,ME,ME-12,Gornja Spila,Gornja Spila,518,4,village,UTC+1,Europe/Podgorica
+3017687,ME,ME-10,Unijerina,Unijerina,1294,4,village,UTC+1,Europe/Podgorica
+3017690,ME,ME-12,Seveljski Do,Ševeljski Do,287,4,village,UTC+1,Europe/Podgorica
+3017694,ME,ME-12,Ramadica Do,Ramadića Do,215,4,village,UTC+1,Europe/Podgorica
+3017698,ME,ME-12,Strpca,Štrpca,250,4,village,UTC+1,Europe/Podgorica
+3017701,ME,ME-08,Kumbor,Кумбор,894,3,Settlement,UTC+1,Europe/Podgorica
+3017714,ME,ME-10,Mirac,Мирац,80,4,village,UTC+1,Europe/Podgorica
+3017720,ME,ME-06,Selo,Selo,108,4,village,UTC+1,Europe/Podgorica
+3017734,ME,ME-06,Cukovici,Čukovići,226,4,village,UTC+1,Europe/Podgorica
+3017738,ME,ME-16,Baloci,Baloči,111,4,village,UTC+1,Europe/Podgorica
+3017740,ME,ME-24,Dusici,Dušići,444,3,Settlement,UTC+1,Europe/Podgorica
+3017743,ME,ME-24,Rakica Kuce,Ракића Куће,279,4,village,UTC+1,Europe/Podgorica
+3017753,ME,ME-06,Crni Nugli,Crni Nugli,239,4,village,UTC+1,Europe/Podgorica
+3017759,ME,ME-06,Jasikovica,Jasikovica,467,4,village,UTC+1,Europe/Podgorica
+3017768,ME,ME-06,Viti Jasen,Viti Jasen,391,4,village,UTC+1,Europe/Podgorica
+3017769,ME,ME-06,Krug,Krug,315,4,village,UTC+1,Europe/Podgorica
+3017770,ME,ME-12,Medede,Međeđe,566,4,village,UTC+1,Europe/Podgorica
+3017771,ME,ME-06,Savina Kruska,Savina Kruška,161,4,village,UTC+1,Europe/Podgorica
+3017773,ME,ME-07,Musterovici,Musterovići,67,4,hamlet,UTC+1,Europe/Podgorica
+3017785,ME,ME-16,Ptic,Ptič,87,4,village,UTC+1,Europe/Podgorica
+3017792,ME,ME-16,Prosica,Prosica,90,4,village,UTC+1,Europe/Podgorica
+3017805,ME,ME-23,Petnjica,Петњица,2748,2,Municipality,UTC+1,Europe/Podgorica
+3017808,ME,ME-11,Podbisce,Podbišće,639,3,Settlement,UTC+1,Europe/Podgorica
+3017809,ME,ME-04,Ravna Rijeka,Ravna Rijeka,393,3,Settlement,UTC+1,Europe/Podgorica
+3017824,ME,ME-18,Dobra Sela,Dobra Sela,158,4,village,UTC+1,Europe/Podgorica
+3017829,ME,ME-12,Trusina,Trusina,3142,4,village,UTC+1,Europe/Podgorica
+3017845,ME,ME-08,Meki Do,Meki Do,256,4,village,UTC+1,Europe/Podgorica
+3017852,ME,ME-08,Meteriz,Meteriz,178,4,village,UTC+1,Europe/Podgorica
+3017856,ME,ME-08,Kacunica,Kačunica,758,4,village,UTC+1,Europe/Podgorica
+3017862,ME,ME-12,Kamisevo,Kamiševo,74,4,village,UTC+1,Europe/Podgorica
+3017874,ME,ME-14,Dolina,Dolina,130,4,village,UTC+1,Europe/Podgorica
+3017882,ME,ME-14,Duli,Ðuli,534,4,village,UTC+1,Europe/Podgorica
+3017883,ME,ME-14,Strazice,Stražice,332,4,village,UTC+1,Europe/Podgorica
+3017892,ME,ME-14,Denovici,Ðenovići,1239,3,Settlement,UTC+1,Europe/Podgorica
+3017899,ME,ME-14,Avlija,Avlija,170,4,village,UTC+1,Europe/Podgorica
+3017902,ME,ME-12,Rogaci,Rogači,5757,4,village,UTC+1,Europe/Podgorica
+3017903,ME,ME-14,Vojnici,Vojnići,147,4,village,UTC+1,Europe/Podgorica
+3017904,ME,ME-14,Hajlovina,Hajlovina,311,4,village,UTC+1,Europe/Podgorica
+3017905,ME,ME-14,Vukasovici,Vukasovići,166,4,village,UTC+1,Europe/Podgorica
+3017908,ME,ME-15,Donji Unac,Donji Unač,140,4,village,UTC+1,Europe/Podgorica
+3017913,ME,ME-15,Madzarski Kraj,Madžarski Kraj,140,4,village,UTC+1,Europe/Podgorica
+3017914,ME,ME-15,Seoca,Seoca,425,4,village,UTC+1,Europe/Podgorica
+3017915,ME,ME-15,Belusevac,Beluševac,1564,4,village,UTC+1,Europe/Podgorica
+3017936,ME,ME-14,Guke,Guke,1070,4,village,UTC+1,Europe/Podgorica
+3017945,ME,ME-14,Jezero,Jezero,2306,4,village,UTC+1,Europe/Podgorica
+3017947,ME,ME-14,Cardak,Čardak,567,4,village,UTC+1,Europe/Podgorica
+3017948,ME,ME-14,Dvorista,Dvorišta,399,4,village,UTC+1,Europe/Podgorica
+3017964,ME,ME-14,Kacak,Kačak,235,4,village,UTC+1,Europe/Podgorica
+3017968,ME,ME-14,Ljubojevac,Ljubojevac,880,4,village,UTC+1,Europe/Podgorica
+3017972,ME,ME-14,Kukavice,Kukavice,159,4,hamlet,UTC+1,Europe/Podgorica
+3017973,ME,ME-14,Potkamen,Potkamen,149,4,village,UTC+1,Europe/Podgorica
+3017974,ME,ME-15,Jasen,Jasen,203,4,village,UTC+1,Europe/Podgorica
+3017980,ME,ME-14,Zaugline,Zaugline,118,4,village,UTC+1,Europe/Podgorica
+3017987,ME,ME-14,Zabrnjica,Zabrnjica,310,4,village,UTC+1,Europe/Podgorica
+3017988,ME,ME-14,Rogovina,Rogovina,266,4,village,UTC+1,Europe/Podgorica
+3017989,ME,ME-14,Iva,Iva,136,4,village,UTC+1,Europe/Podgorica
+3017990,ME,ME-14,Vijenac,Vijenac,512,4,village,UTC+1,Europe/Podgorica
+3017991,ME,ME-14,Kljun,Kljun,157,4,village,UTC+1,Europe/Podgorica
+3017993,ME,ME-14,Pribakovici,Pribakovići,323,4,village,UTC+1,Europe/Podgorica
+3017996,ME,ME-14,Klapusi,Klapusi,3043,4,village,UTC+1,Europe/Podgorica
+3017999,ME,ME-14,Jahovici,Jahovići,68,4,hamlet,UTC+1,Europe/Podgorica
+3018006,ME,ME-14,Priboj,Priboj,512,4,village,UTC+1,Europe/Podgorica
+3018015,ME,ME-14,Krusevo,Kruševo,238,4,village,UTC+1,Europe/Podgorica
+3018027,ME,ME-15,Scepan-Polje,Šćepan-Polje,193,4,village,UTC+1,Europe/Podgorica
+3018030,ME,ME-14,Oglavina,Oglavina,892,4,village,UTC+1,Europe/Podgorica
+3018036,ME,ME-14,Dakovici,Ðakovići,54,4,village,UTC+1,Europe/Podgorica
+3018040,ME,ME-14,Bara,Bara,1003,4,village,UTC+1,Europe/Podgorica
+3018041,ME,ME-14,Gornje Mrcevo,Gornje Mrčevo,348,4,village,UTC+1,Europe/Podgorica
+3018044,ME,ME-14,Suplja Stijena,Šuplja Stijena,1843,4,village,UTC+1,Europe/Podgorica
+3018046,ME,ME-14,Lucice,Lučice,252,3,Settlement,UTC+1,Europe/Podgorica
+3018048,ME,ME-14,Ravne Smreke,Ravne Smreke,172,4,village,UTC+1,Europe/Podgorica
+3018054,ME,ME-14,Strmecica,Strmečica,557,4,village,UTC+1,Europe/Podgorica
+3018061,ME,ME-14,Cipcije,Čipčije,580,4,village,UTC+1,Europe/Podgorica
+3018062,ME,ME-14,Omar,Omar,2747,4,village,UTC+1,Europe/Podgorica
+3018063,ME,ME-21,Tepacko Polje,Tepačko Polje,68,4,village,UTC+1,Europe/Podgorica
+3018067,ME,ME-21,Cardak,Čardak,232,4,village,UTC+1,Europe/Podgorica
+3018069,ME,ME-21,Pitomine,Pitomine,200,4,village,UTC+1,Europe/Podgorica
+3018073,ME,ME-21,Sumanovac,Шумановац,154,4,village,UTC+1,Europe/Podgorica
+3018074,ME,ME-21,Virak,Virak,204,4,village,UTC+1,Europe/Podgorica
+3018076,ME,ME-21,Posleniste,Poslenište,1122,4,village,UTC+1,Europe/Podgorica
+3018085,ME,ME-21,Merulja,Merulja,248,4,village,UTC+1,Europe/Podgorica
+3018095,ME,ME-18,Kosorska Bukovica,Kosorska Bukovica,22891,4,town,UTC+1,Europe/Podgorica
+3018108,ME,ME-14,Curukaca,Ćurukača,322,4,village,UTC+1,Europe/Podgorica
+3018109,ME,ME-14,Nabojine,Nabojine,331,4,village,UTC+1,Europe/Podgorica
+3018115,ME,ME-21,Dedovo Polje,Ðedovo Polje,179,4,village,UTC+1,Europe/Podgorica
+3018124,ME,ME-14,Palez,Palež,398,3,Settlement,UTC+1,Europe/Podgorica
+3018137,ME,ME-14,Rasova,Rasova,127,4,village,UTC+1,Europe/Podgorica
+3018140,ME,ME-14,Orasac,Orašac,130,4,village,UTC+1,Europe/Podgorica
+3018143,ME,ME-14,Stancani,Stančani,394,4,village,UTC+1,Europe/Podgorica
+3018144,ME,ME-14,Okruglica,Okruglica,143,4,village,UTC+1,Europe/Podgorica
+3018145,ME,ME-14,Dublje,Dublje,3957,4,village,UTC+1,Europe/Podgorica
+3018148,ME,ME-14,Kaljici,Kaljići,1100,4,village,UTC+1,Europe/Podgorica
+3018150,ME,ME-14,Perotin,Perotin,194,4,village,UTC+1,Europe/Podgorica
+3018155,ME,ME-14,Kucetina,Kućetina,1374,4,village,UTC+1,Europe/Podgorica
+3018159,ME,ME-14,Lijeska,Lijeska,143,4,village,UTC+1,Europe/Podgorica
+3018166,ME,ME-14,Rasnovic,Rašnović,1370,4,village,UTC+1,Europe/Podgorica
+3018183,ME,ME-14,Breza,Breza,346,3,Settlement,UTC+1,Europe/Podgorica
+3018189,ME,ME-14,Sljucka Strana,Šljučka Strana,2069,4,village,UTC+1,Europe/Podgorica
+3018206,ME,ME-14,Sakovo Selo,Sakovo Selo,512,4,village,UTC+1,Europe/Podgorica
+3018214,ME,ME-14,Besevina,Beševina,885,4,village,UTC+1,Europe/Podgorica
+3018227,ME,ME-14,Racevo,Račevo,697,4,village,UTC+1,Europe/Podgorica
+3018249,ME,ME-14,Kojovici,Kojovići,710,4,village,UTC+1,Europe/Podgorica
+3018252,ME,ME-14,Rudnice,Rudnice,3245,4,village,UTC+1,Europe/Podgorica
+3018253,ME,ME-14,Zaviden,Zaviđen,161,4,village,UTC+1,Europe/Podgorica
+3018254,ME,ME-14,Cavlovic Kula,Cavlović Kula,322,4,village,UTC+1,Europe/Podgorica
+3018255,ME,ME-14,Raovici,Raovići,2424,4,village,UTC+1,Europe/Podgorica
+3018256,ME,ME-14,Loncari,Lončari,158,4,village,UTC+1,Europe/Podgorica
+3018257,ME,ME-14,Podrudine,Podrudine,5610,4,village,UTC+1,Europe/Podgorica
+3018260,ME,ME-14,Dobra Voda,Dobra Voda,892,3,Settlement,UTC+1,Europe/Podgorica
+3018264,ME,ME-14,Potkovacica,Potkovačica,175,4,village,UTC+1,Europe/Podgorica
+3018266,ME,ME-04,Adilovici,Adilovići,483,4,village,UTC+1,Europe/Podgorica
+3018267,ME,ME-04,Jagnila,Jagnila,576,4,village,UTC+1,Europe/Podgorica
+3018268,ME,ME-14,Bozici,Božići,574,4,village,UTC+1,Europe/Podgorica
+3018270,ME,ME-14,Klismerine,Klismerine,2202,4,village,UTC+1,Europe/Podgorica
+3018271,ME,ME-14,Orevine,Orevine,93,4,village,UTC+1,Europe/Podgorica
+3018275,ME,ME-14,Krnja,Krnja,5303,4,village,UTC+1,Europe/Podgorica
+3018277,ME,ME-14,Plijesi,Pliješi,1818,4,village,UTC+1,Europe/Podgorica
+3018280,ME,ME-04,Slepac,Slepac,21438,4,town,UTC+1,Europe/Podgorica
+3018282,ME,ME-04,Kobiljaca,Kobiljaća,1050,4,village,UTC+1,Europe/Podgorica
+3018288,ME,ME-04,Rasova,Rasova,109,4,village,UTC+1,Europe/Podgorica
+3018290,ME,ME-04,Jelica Doline,Jeliča Doline,125,4,village,UTC+1,Europe/Podgorica
+3018292,ME,ME-04,Male Sljeme,Male Šljeme,1286,4,village,UTC+1,Europe/Podgorica
+3018308,ME,ME-04,Rajkovici Plavce brdo,Rajkovići,1466,4,village,UTC+1,Europe/Podgorica
+3018313,ME,ME-04,Sadici,Sadići,113,4,hamlet,UTC+1,Europe/Podgorica
+3018317,ME,ME-04,Majna Gora,Majna Gora,1079,4,village,UTC+1,Europe/Podgorica
+3018340,ME,ME-04,Dzafica Brdo,Džafića Brdo,366,3,City,UTC+1,Europe/Podgorica
+3018342,ME,ME-04,Loznica,Loznica,1255,3,City,UTC+1,Europe/Podgorica
+3018344,ME,ME-04,Zaton,Zaton,800,3,Settlement,UTC+1,Europe/Podgorica
+3018347,ME,ME-04,Njegnjevo,Његњево,397,3,Settlement,UTC+1,Europe/Podgorica
+3018348,ME,ME-04,Sutivan,Sutivan,1040,3,Settlement,UTC+1,Europe/Podgorica
+3018351,ME,ME-04,Laljevici,Laljevići,476,4,village,UTC+1,Europe/Podgorica
+3018355,ME,ME-04,Gubavac,Gubavač,354,3,Settlement,UTC+1,Europe/Podgorica
+3018358,ME,ME-04,Unevina,Unevina,1391,4,village,UTC+1,Europe/Podgorica
+3018364,ME,ME-04,Osoje,Osoje,1694,4,village,UTC+1,Europe/Podgorica
+3018369,ME,ME-04,Gornje Selo,Gornje Selo,175,4,village,UTC+1,Europe/Podgorica
+3018370,ME,ME-04,Lemes,Lemeš,223,4,village,UTC+1,Europe/Podgorica
+3018371,ME,ME-04,Kucetine,Kućetine,1065,4,village,UTC+1,Europe/Podgorica
+3018373,ME,ME-04,Guvnista,Guvništa,1243,4,village,UTC+1,Europe/Podgorica
+3018374,ME,ME-04,Krc,Krč,670,4,village,UTC+1,Europe/Podgorica
+3018379,ME,ME-12,Potrk,Potrk,88,4,village,UTC+1,Europe/Podgorica
+3018382,ME,ME-12,Perovici,Perovići,320,4,village,UTC+1,Europe/Podgorica
+3018399,ME,ME-12,Gomile,Gomile,451,4,village,UTC+1,Europe/Podgorica
+3018401,ME,ME-12,Ubli,Ubli,161,4,village,UTC+1,Europe/Podgorica
+3018408,ME,ME-02,Kostanica,Koštanica,471,4,village,UTC+1,Europe/Podgorica
+3018415,ME,ME-20,Donji Kosici,Donji Kosići,175,4,village,UTC+1,Europe/Podgorica
+3018417,ME,ME-16,Kupusci,Kupusci,602,4,village,UTC+1,Europe/Podgorica
+3018419,ME,ME-03,Rmuse,Rmuše,171,4,village,UTC+1,Europe/Podgorica
+3018423,ME,ME-23,Prisoja,Prisoja,199,4,village,UTC+1,Europe/Podgorica
+3018429,ME,ME-07,Donji Crnci,Donji Crnci,117,4,village,UTC+1,Europe/Podgorica
+3018430,ME,ME-06,Podlunjica,Podlunjica,186,4,village,UTC+1,Europe/Podgorica
+3018431,ME,ME-06,Celinacki Dolovi,Čelinački Dolovi,557,4,village,UTC+1,Europe/Podgorica
+3018434,ME,ME-06,Lastva,Lastva,204,4,village,UTC+1,Europe/Podgorica
+3018437,ME,ME-05,Martinovici,Martinovići,23,3,Settlement,UTC+1,Europe/Podgorica
+3018438,ME,ME-05,Brajici,Brajići,55,4,village,UTC+1,Europe/Podgorica
+3018440,ME,ME-06,Belveder,Belveder,140,4,village,UTC+1,Europe/Podgorica
+3018454,ME,ME-10,Kljajevici,Kljajevići,392,4,village,UTC+1,Europe/Podgorica
+3018455,ME,ME-06,Begova Dol,Begova Dol,17137,4,town,UTC+1,Europe/Podgorica
+3018456,ME,ME-06,Jasenovi Do,Jasenovi Do,2348,4,village,UTC+1,Europe/Podgorica
+3018457,ME,ME-06,Cerovi Do,Cerovi Do,377,4,village,UTC+1,Europe/Podgorica
+3018458,ME,ME-06,Posajci,Posajci,305,4,village,UTC+1,Europe/Podgorica
+3018480,ME,ME-06,Sabani,Šabani,226,4,village,UTC+1,Europe/Podgorica
+3018506,ME,ME-06,Vodni Do,Vodni Do,9770,4,town,UTC+1,Europe/Podgorica
+3018507,ME,ME-06,Podazdrijelo,Podaždrijelo,313,4,village,UTC+1,Europe/Podgorica
+3018513,ME,ME-06,Arbanasi,Arbanasi,2610,4,village,UTC+1,Europe/Podgorica
+3018514,ME,ME-06,Donja Brova,Donja Brova,337,4,village,UTC+1,Europe/Podgorica
+3018515,ME,ME-06,Petrovici,Petrovići,249,4,village,UTC+1,Europe/Podgorica
+3018516,ME,ME-06,Papratni Do,Papratni Do,229,4,village,UTC+1,Europe/Podgorica
+3018523,ME,ME-06,Kuciste,Kućište,673,4,village,UTC+1,Europe/Podgorica
+3018525,ME,ME-06,Rovine,Rovine,852,4,village,UTC+1,Europe/Podgorica
+3018528,ME,ME-06,Zaselje,Zaselje,390,4,village,UTC+1,Europe/Podgorica
+3018529,ME,ME-06,Nerim,Nerim,341,4,village,UTC+1,Europe/Podgorica
+3018531,ME,ME-06,Zovina,Zovina,194,4,village,UTC+1,Europe/Podgorica
+3018532,ME,ME-10,Jasikovac,Jasikovac,502,4,village,UTC+1,Europe/Podgorica
+3018540,ME,ME-10,Ljeskovi Do,Ljeskovi Do,58,4,village,UTC+1,Europe/Podgorica
+3018544,ME,ME-10,Ovsine,Ovsine,9850,4,village,UTC+1,Europe/Podgorica
+3018545,ME,ME-10,Krstace,Krstače,6080,4,village,UTC+1,Europe/Podgorica
+3018547,ME,ME-10,Blagojevic,Blagojević,119,4,village,UTC+1,Europe/Podgorica
+3018549,ME,ME-10,Zagvozdak,Zagvozdak,65,4,village,UTC+1,Europe/Podgorica
+3018552,ME,ME-06,Zmukici,Žmukići,735,4,village,UTC+1,Europe/Podgorica
+3018555,ME,ME-06,Dinov Do,Ðinov Do,1203,4,village,UTC+1,Europe/Podgorica
+3018558,ME,ME-06,Musta Rupa,Musta Rupa,329,4,village,UTC+1,Europe/Podgorica
+3018559,ME,ME-06,Komansko Brdo,Komansko Brdo,210,4,village,UTC+1,Europe/Podgorica
+3018560,ME,ME-06,Prijeko Pocivalo,Prijeko Počivalo,8338,4,town,UTC+1,Europe/Podgorica
+3018561,ME,ME-06,Danave,Danave,2454,4,village,UTC+1,Europe/Podgorica
+3018562,ME,ME-06,Danave,Danave,1355,4,village,UTC+1,Europe/Podgorica
+3018575,ME,ME-06,Velji Do,Velji Do,154,4,village,UTC+1,Europe/Podgorica
+3018578,ME,ME-06,Ljeskov Do,Ljeskov Do,108,4,village,UTC+1,Europe/Podgorica
+3018581,ME,ME-06,Kopitov Do,Kopitov Do,172,4,village,UTC+1,Europe/Podgorica
+3018582,ME,ME-06,Dragosev Do,Dragošev Do,331,4,village,UTC+1,Europe/Podgorica
+3018584,ME,ME-06,Grandovina,Grandovina,345,4,village,UTC+1,Europe/Podgorica
+3018585,ME,ME-10,Poljkovac,Poljkovac,1010,4,village,UTC+1,Europe/Podgorica
+3018586,ME,ME-06,Grandov Do,Grandov Do,1015,4,village,UTC+1,Europe/Podgorica
+3018589,ME,ME-10,Kulina,Kulina,99,4,village,UTC+1,Europe/Podgorica
+3018593,ME,ME-06,Jabukovac,Jabukovac,92,4,village,UTC+1,Europe/Podgorica
+3018595,ME,ME-06,Papratni Do,Papratni Do,189,4,village,UTC+1,Europe/Podgorica
+3018598,ME,ME-06,Stazer,Stažer,1050,4,village,UTC+1,Europe/Podgorica
+3018599,ME,ME-16,Zeleni Do,Zeleni Do,160,4,village,UTC+1,Europe/Podgorica
+3018600,ME,ME-06,Ozebli Do,Ozebli Do,583,4,village,UTC+1,Europe/Podgorica
+3018601,ME,ME-06,Obadovica,Obadovica,2299,4,village,UTC+1,Europe/Podgorica
+3018603,ME,ME-06,Dajcin Do,Dajčin Do,142,4,village,UTC+1,Europe/Podgorica
+3018605,ME,ME-06,Kovacev Do,Kovačev Do,2164,4,village,UTC+1,Europe/Podgorica
+3018606,ME,ME-16,Crvena Paprat,Crvena Paprat,119,4,village,UTC+1,Europe/Podgorica
+3018607,ME,ME-16,Rupice,Rupice,725,4,village,UTC+1,Europe/Podgorica
+3018608,ME,ME-16,Bandicka Zupa,Bandička Župa,383,4,village,UTC+1,Europe/Podgorica
+3018609,ME,ME-06,Crnioni Do,Crnioni Do,94,4,village,UTC+1,Europe/Podgorica
+3018615,ME,ME-12,Bobova Ulica,Bobova Ulica,309,4,village,UTC+1,Europe/Podgorica
+3018619,ME,ME-12,Krna Jela,Krna Jela,703,4,village,UTC+1,Europe/Podgorica
+3018620,ME,ME-12,Potkraj,Potkraj,516,4,village,UTC+1,Europe/Podgorica
+3018621,ME,ME-12,Zagulj,Zagulj,761,4,village,UTC+1,Europe/Podgorica
+3018623,ME,ME-12,Boksin Do,Bokšin Do,416,4,village,UTC+1,Europe/Podgorica
+3018626,ME,ME-12,Zamacev Do,Zamaćev Do,130,4,village,UTC+1,Europe/Podgorica
+3018629,ME,ME-06,Trebovinski Pod,Trebovinski Pod,169,4,village,UTC+1,Europe/Podgorica
+3018630,ME,ME-12,Ljeskovi Dolovi,Ljeskovi Dolovi,136,4,village,UTC+1,Europe/Podgorica
+3018632,ME,ME-07,Serdar Kula,Serdar Kula,1140,4,village,UTC+1,Europe/Podgorica
+3018633,ME,ME-07,Zuri,Zuri,3841,4,village,UTC+1,Europe/Podgorica
+3018639,ME,ME-16,Steci,Šteci,479,4,village,UTC+1,Europe/Podgorica
+3018640,ME,ME-06,Ponorni Do,Ponorni Do,457,4,village,UTC+1,Europe/Podgorica
+3018641,ME,ME-06,Priporci,Priporci,327,4,village,UTC+1,Europe/Podgorica
+3018642,ME,ME-06,Braticevi Dolovi,Bratićevi Dolovi,3750,4,village,UTC+1,Europe/Podgorica
+3018644,ME,ME-16,Tijesak,Tijesak,1345,4,village,UTC+1,Europe/Podgorica
+3018646,ME,ME-06,Docici,Dočići,144,4,hamlet,UTC+1,Europe/Podgorica
+3018647,ME,ME-12,Dulov Do,Ðulov Do,81,4,village,UTC+1,Europe/Podgorica
+3018648,ME,ME-12,Kopilov Do,Kopilov Do,237,4,village,UTC+1,Europe/Podgorica
+3018649,ME,ME-12,Lipov Do,Lipov Do,1062,4,village,UTC+1,Europe/Podgorica
+3018650,ME,ME-16,Podstrana,Podstrana,5202,4,village,UTC+1,Europe/Podgorica
+3018651,ME,ME-12,Elezov Do,Elezov Do,53,4,village,UTC+1,Europe/Podgorica
+3018659,ME,ME-12,Mijajlov Do,Mijajlov Do,827,4,village,UTC+1,Europe/Podgorica
+3018663,ME,ME-12,Bajov Do,Bajov Do,200,4,village,UTC+1,Europe/Podgorica
+3018666,ME,ME-06,Bride,Briđe,72,4,village,UTC+1,Europe/Podgorica
+3018669,ME,ME-12,Ziva,Živa,127,4,village,UTC+1,Europe/Podgorica
+3018670,ME,ME-16,Begova Glavica,Begova Glavica,73,4,village,UTC+1,Europe/Podgorica
+3018671,ME,ME-12,Ogorjelo Zdrijelo,Ogorjelo Ždrijelo,1267,4,village,UTC+1,Europe/Podgorica
+3018672,ME,ME-06,Buronjski Do,Buronjski Do,1752,4,village,UTC+1,Europe/Podgorica
+3018674,ME,ME-06,Bobovine,Bobovine,527,4,village,UTC+1,Europe/Podgorica
+3018675,ME,ME-06,Kracedo,Kraćedo,1255,4,village,UTC+1,Europe/Podgorica
+3018676,ME,ME-12,Golubinje,Golubinje,1136,4,village,UTC+1,Europe/Podgorica
+3018678,ME,ME-12,Duboki Do,Duboki Do,135,4,village,UTC+1,Europe/Podgorica
+3018679,ME,ME-06,Ovcji Do,Ovčji Do,10920,4,town,UTC+1,Europe/Podgorica
+3018692,ME,ME-12,Koracevac,Koraćevac,3404,4,village,UTC+1,Europe/Podgorica
+3018693,ME,ME-12,Srni Do,Srni Do,2925,4,village,UTC+1,Europe/Podgorica
+3018694,ME,ME-12,Kovce Do,Kovče Do,2170,4,village,UTC+1,Europe/Podgorica
+3018697,ME,ME-12,Krnulic,Krnulić,725,4,village,UTC+1,Europe/Podgorica
+3018698,ME,ME-02,Donje Selo,Donje Selo,53,4,hamlet,UTC+1,Europe/Podgorica
+3018700,ME,ME-12,Celinski Do,Čelinski Do,487,4,village,UTC+1,Europe/Podgorica
+3018707,ME,ME-02,Zgrade,Zgrade,431,3,Settlement,UTC+1,Europe/Podgorica
+3018710,ME,ME-12,Gornje Morakovo,Gornje Morakovo,247,4,village,UTC+1,Europe/Podgorica
+3018712,ME,ME-16,Bistrice,Бистрице,344,3,Settlement,UTC+1,Europe/Podgorica
+3018713,ME,ME-07,Medede,Međeđe,5595,4,village,UTC+1,Europe/Podgorica
+3018714,ME,ME-05,Rijeka,Rijeka,92,4,village,UTC+1,Europe/Podgorica
+3018716,ME,ME-12,Poda,Poda,250,4,village,UTC+1,Europe/Podgorica
+3018719,ME,ME-12,Gostojevici,Gostojevići,104,4,village,UTC+1,Europe/Podgorica
+3018721,ME,ME-12,Jasikovac,Jasikovac,638,4,village,UTC+1,Europe/Podgorica
+3018723,ME,ME-12,Lisic Do,Lisič Do,103,4,village,UTC+1,Europe/Podgorica
+3018729,ME,ME-07,Mijokusovici,Mijokusovići,138,4,locality,UTC+1,Europe/Podgorica
+3018735,ME,ME-07,Selista,Selišta,285,4,village,UTC+1,Europe/Podgorica
+3018736,ME,ME-07,Gornji Frutak,Gornji Frutak,568,4,village,UTC+1,Europe/Podgorica
+3018737,ME,ME-04,Usanovici,Usanoviči,1697,4,village,UTC+1,Europe/Podgorica
+3018739,ME,ME-12,Muzevice,Muževice,5529,4,village,UTC+1,Europe/Podgorica
+3018741,ME,ME-02,Burtaisi,Буртаиши,3013,3,Settlement,UTC+1,Europe/Podgorica
+3018743,ME,ME-07,Dolovi Kovacki,Dolovi Kovački,470,4,village,UTC+1,Europe/Podgorica
+3018745,ME,ME-07,Gostilje Brajovicko,Gostilje Brajovičko,233,4,village,UTC+1,Europe/Podgorica
+3018747,ME,ME-07,Donja Glizica,Donja Glizica,1536,4,village,UTC+1,Europe/Podgorica
+3018748,ME,ME-07,Medeze,Medeže,1589,4,village,UTC+1,Europe/Podgorica
+3018763,ME,ME-07,Krasovina,Krasovina,50,4,village,UTC+1,Europe/Podgorica
+3018764,ME,ME-07,Simonovici,Simonovići,279,4,village,UTC+1,Europe/Podgorica
+3018767,ME,ME-07,Potkula,Поткула,233,4,village,UTC+1,Europe/Podgorica
+3018771,ME,ME-07,Lalevici,Lalevići,147,4,locality,UTC+1,Europe/Podgorica
+3018772,ME,ME-07,Vucica,Vučica,191,4,village,UTC+1,Europe/Podgorica
+3018773,ME,ME-21,Podgrizde,Podgrižđe,187,4,village,UTC+1,Europe/Podgorica
+3018775,ME,ME-15,Trsa,Trsa,121,4,village,UTC+1,Europe/Podgorica
+3018788,ME,ME-12,Milovici,Milovići,95,4,village,UTC+1,Europe/Podgorica
+3018789,ME,ME-02,Brod,Brod,5,3,Settlement,UTC+1,Europe/Podgorica
+3018792,ME,ME-06,Kuta,Kuta,696,3,Settlement,UTC+1,Europe/Podgorica
+3018800,ME,ME-04,Turava,Turava,130,4,village,UTC+1,Europe/Podgorica
+3018808,ME,ME-07,Kopito,Kopito,65,4,village,UTC+1,Europe/Podgorica
+3018809,ME,ME-07,Koljat,Koljat,215,4,village,UTC+1,Europe/Podgorica
+3018813,ME,ME-07,Donje Selo,Donje Selo,171,3,Settlement,UTC+1,Europe/Podgorica
+3018818,ME,ME-15,Zabrde,Zabrđe,76,4,hamlet,UTC+1,Europe/Podgorica
+3018820,ME,ME-12,Jelovica,Jelovica,498,4,village,UTC+1,Europe/Podgorica
+3018823,ME,ME-12,Pocivala,Počivala,177,4,village,UTC+1,Europe/Podgorica
+3018824,ME,ME-12,Rusenovici,Rusenovići,1284,4,village,UTC+1,Europe/Podgorica
+3018826,ME,ME-12,Grebnica,Grebnica,378,4,village,UTC+1,Europe/Podgorica
+3018831,ME,ME-12,Dolovi,Dolovi,236,4,village,UTC+1,Europe/Podgorica
+3018832,ME,ME-12,Mekote,Mekote,656,4,village,UTC+1,Europe/Podgorica
+3018834,ME,ME-12,Gornji Tupan,Gornji Tupan,84,4,village,UTC+1,Europe/Podgorica
+3018835,ME,ME-12,Bjelovici,Bjelovići,5890,4,village,UTC+1,Europe/Podgorica
+3018841,ME,ME-08,Kamenari,Kamenari,148,3,Settlement,UTC+1,Europe/Podgorica
+3018849,ME,ME-10,Gorica,Gorica,363,3,locality,UTC+1,Europe/Podgorica
+3018852,ME,ME-12,Dubrovca Do,Dubrovča Do,222,4,village,UTC+1,Europe/Podgorica
+3018859,ME,ME-05,Stari Viskovici,Stari Viškovići,3750,4,village,UTC+1,Europe/Podgorica
+3018860,ME,ME-12,Pogana,Pogana,706,4,village,UTC+1,Europe/Podgorica
+3018864,ME,ME-06,Dub,Dub,5,3,Settlement,UTC+1,Europe/Podgorica
+3018868,ME,ME-12,Pometenik,Pometenik,69,4,village,UTC+1,Europe/Podgorica
+3018871,ME,ME-12,Trosavac,Trošavac,159,4,village,UTC+1,Europe/Podgorica
+3018878,ME,ME-12,Podgrede,Podgređe,455,4,village,UTC+1,Europe/Podgorica
+3018880,ME,ME-12,Arapi,Arapi,1239,4,village,UTC+1,Europe/Podgorica
+3018882,ME,ME-12,Cerak,Cerak,590,4,village,UTC+1,Europe/Podgorica
+3018886,ME,ME-12,Golijski Stozi,Golijski Stozi,1401,4,village,UTC+1,Europe/Podgorica
+3018896,ME,ME-12,Petrovo Polje,Petrovo Polje,95,4,village,UTC+1,Europe/Podgorica
+3018898,ME,ME-12,Raspuce,Raspuće,302,4,village,UTC+1,Europe/Podgorica
+3018899,ME,ME-12,Todorov Dub,Todorov Dub,588,4,village,UTC+1,Europe/Podgorica
+3018900,ME,ME-12,Bukovik,Bukovik,978,4,village,UTC+1,Europe/Podgorica
+3018902,ME,ME-21,Pasina Voda,Pašina Voda,166,4,village,UTC+1,Europe/Podgorica
+3018904,ME,ME-12,Mokra Njiva,Mokra Njiva,166,4,village,UTC+1,Europe/Podgorica
+3018905,ME,ME-12,Ornice,Ornice,136,4,village,UTC+1,Europe/Podgorica
+3018906,ME,ME-12,Zavrh,Zavrh,647,4,village,UTC+1,Europe/Podgorica
+3018912,ME,ME-12,Vidov Potok,Vidov Potok,68,4,village,UTC+1,Europe/Podgorica
+3018916,ME,ME-12,Seniciste,Šeničište,191,4,village,UTC+1,Europe/Podgorica
+3018917,ME,ME-10,Drazin Vrt,Dražin Vrt,59,4,village,UTC+1,Europe/Podgorica
+3018928,ME,ME-12,Veliko Radevo,Veliko Rađevo,4208,4,village,UTC+1,Europe/Podgorica
+3018929,ME,ME-10,Skaljari,Шкаљари,3342,3,Settlement,UTC+1,Europe/Podgorica
+3018936,ME,ME-08,Mitrovici,Mitrovići,5,3,Settlement,UTC+1,Europe/Podgorica
+3018938,ME,ME-12,Vidrovan,Vidrovan,603,3,Settlement,UTC+1,Europe/Podgorica
+3018940,ME,ME-12,Ratajica Glavica,Ratajića Glavica,941,4,village,UTC+1,Europe/Podgorica
+3018942,ME,ME-12,Vir,Vir,1559,3,Settlement,UTC+1,Europe/Podgorica
+3018965,ME,ME-10,Radanovici,Radanovići,379,3,Settlement,UTC+1,Europe/Podgorica
+3019012,ME,ME-02,Velembusi,Velembuši,445,3,Settlement,UTC+1,Europe/Podgorica
+3019016,ME,ME-02,Susanj,Шушањ,2521,3,Settlement,UTC+1,Europe/Podgorica
+3019036,ME,ME-04,Ravna Rijeka,Ravna Rijeka,848,4,village,UTC+1,Europe/Podgorica
+3019040,ME,ME-04,Crkvina,Crkvina,3013,4,village,UTC+1,Europe/Podgorica
+3019044,ME,ME-04,Podvlah,Podvlah,5316,4,village,UTC+1,Europe/Podgorica
+3019062,ME,ME-12,Mustafica Grede,Mustafića Grede,140,4,village,UTC+1,Europe/Podgorica
+3019063,ME,ME-12,Jasikovac,Jasikovac,872,4,village,UTC+1,Europe/Podgorica
+3019073,ME,ME-12,Cemenca,Ćemenca,1219,4,village,UTC+1,Europe/Podgorica
+3019077,ME,ME-12,Bedem,Bedem,14798,4,town,UTC+1,Europe/Podgorica
+3019078,ME,ME-12,Lepirica,Lepirica,111,4,village,UTC+1,Europe/Podgorica
+3019079,ME,ME-12,Kovacev Do,Kovačev Do,285,4,village,UTC+1,Europe/Podgorica
+3019080,ME,ME-12,Kolo,Kolo,2475,4,village,UTC+1,Europe/Podgorica
+3019081,ME,ME-12,Zabrnjica,Zabrnjica,160,4,village,UTC+1,Europe/Podgorica
+3019083,ME,ME-12,Briski Do,Briški Do,404,4,village,UTC+1,Europe/Podgorica
+3019085,ME,ME-12,Prijevori,Prijevori,309,4,village,UTC+1,Europe/Podgorica
+3019086,ME,ME-12,Palez,Palež,405,4,village,UTC+1,Europe/Podgorica
+3019088,ME,ME-12,Kamenica,Kamenica,1683,4,village,UTC+1,Europe/Podgorica
+3019089,ME,ME-12,Krivace,Krivače,285,4,village,UTC+1,Europe/Podgorica
+3019090,ME,ME-12,Poljane,Poljane,183,4,village,UTC+1,Europe/Podgorica
+3019092,ME,ME-12,Osjecenica,Osječenica,210,4,village,UTC+1,Europe/Podgorica
+3019095,ME,ME-12,Bozdarev Do,Boždarev Do,2111,4,village,UTC+1,Europe/Podgorica
+3019103,ME,ME-10,Vuci Do,Vuči Do,144,4,village,UTC+1,Europe/Podgorica
+3019104,ME,ME-06,Solinski Brijeg,Solinski Brijeg,426,4,village,UTC+1,Europe/Podgorica
+3019110,ME,ME-12,Stankov Do,Stankov Do,2550,4,village,UTC+1,Europe/Podgorica
+3019112,ME,ME-12,Plitki Do,Plitki Do,341,4,village,UTC+1,Europe/Podgorica
+3019113,ME,ME-12,Razdolje,Razdolje,7782,4,town,UTC+1,Europe/Podgorica
+3019114,ME,ME-06,Petrovica Do,Petrovića Do,105,4,village,UTC+1,Europe/Podgorica
+3019115,ME,ME-06,Mededov Do,Međedov Do,309,4,village,UTC+1,Europe/Podgorica
+3019116,ME,ME-06,Aluga,Aluga,51,4,village,UTC+1,Europe/Podgorica
+3019123,ME,ME-06,Studenac,Studenac,259,4,village,UTC+1,Europe/Podgorica
+3019126,ME,ME-06,Rudica Laka,Rudića Laka,321,4,village,UTC+1,Europe/Podgorica
+3019128,ME,ME-06,Jezerca,Jezerca,437,4,village,UTC+1,Europe/Podgorica
+3019129,ME,ME-06,Kapavica,Kapavica,152,4,village,UTC+1,Europe/Podgorica
+3019130,ME,ME-06,Vrljeroski Do,Vrljeroški Do,277,4,village,UTC+1,Europe/Podgorica
+3019131,ME,ME-06,Borak,Borak,98,4,village,UTC+1,Europe/Podgorica
+3019132,ME,ME-12,Gracanica,Gračanica,540,4,village,UTC+1,Europe/Podgorica
+3019138,ME,ME-06,Mala Rzista,Mala Ržišta,344,4,village,UTC+1,Europe/Podgorica
+3019142,ME,ME-06,Borovi Do,Borovi Do,215,4,village,UTC+1,Europe/Podgorica
+3019152,ME,ME-06,Lipov Do,Lipov Do,105,4,village,UTC+1,Europe/Podgorica
+3019153,ME,ME-06,Zagonac,Zagonac,18110,4,town,UTC+1,Europe/Podgorica
+3019157,ME,ME-06,Pistala,Pištala,1257,4,village,UTC+1,Europe/Podgorica
+3019160,ME,ME-06,Kruska,Kruška,7197,4,village,UTC+1,Europe/Podgorica
+3019161,ME,ME-06,Plijevor,Plijevor,448,4,village,UTC+1,Europe/Podgorica
+3019165,ME,ME-06,Sjenokos,Sjenokos,688,4,village,UTC+1,Europe/Podgorica
+3019166,ME,ME-06,Ivanj-Do,Ivanj-Do,201,4,village,UTC+1,Europe/Podgorica
+3019169,ME,ME-06,Gorin Do,Gorin Do,582,4,village,UTC+1,Europe/Podgorica
+3019170,ME,ME-06,Padine,Padine,3669,4,village,UTC+1,Europe/Podgorica
+3019178,ME,ME-06,Milusina Pecina,Milušina Pećina,152,4,village,UTC+1,Europe/Podgorica
+3019179,ME,ME-07,Jasika,Jasika,276,4,village,UTC+1,Europe/Podgorica
+3019182,ME,ME-12,Miolje Polje,Miolje Polje,626,4,village,UTC+1,Europe/Podgorica
+3019183,ME,ME-12,Ploce,Ploče,120,4,village,UTC+1,Europe/Podgorica
+3019193,ME,ME-07,Popovici,Popovići,24374,4,town,UTC+1,Europe/Podgorica
+3019196,ME,ME-07,Luke,Luke,350,4,village,UTC+1,Europe/Podgorica
+3019197,ME,ME-07,Gorica,Gorica,165,4,isolated_dwelling,UTC+1,Europe/Podgorica
+3019198,ME,ME-07,Glizica,Glizica,505,4,village,UTC+1,Europe/Podgorica
+3019202,ME,ME-07,Ljutotuk,Ljutotuk,753,4,village,UTC+1,Europe/Podgorica
+3019203,ME,ME-07,Stanjevica Rupa,Stanjevića Rupa,4355,4,village,UTC+1,Europe/Podgorica
+3019206,ME,ME-07,Pitoma Loza,Pitoma Loza,601,4,village,UTC+1,Europe/Podgorica
+3019208,ME,ME-07,Petrici,Petrići,146,4,village,UTC+1,Europe/Podgorica
+3019209,ME,ME-07,Brdo,Brdo,2094,4,village,UTC+1,Europe/Podgorica
+3019210,ME,ME-07,Busin Do,Busin Do,317,4,village,UTC+1,Europe/Podgorica
+3019211,ME,ME-07,Kalezici,Kalezići,1065,4,village,UTC+1,Europe/Podgorica
+3019212,ME,ME-07,Dugi Laz,Dugi Laz,2535,4,town,UTC+1,Europe/Podgorica
+3019215,ME,ME-07,Branlovica,Branlovica,739,4,village,UTC+1,Europe/Podgorica
+3019216,ME,ME-07,Glavica,Glavica,1319,4,village,UTC+1,Europe/Podgorica
+3019217,ME,ME-06,Gornja Markovina,Gornja Markovina,410,4,village,UTC+1,Europe/Podgorica
+3019218,ME,ME-07,Oselina,Oselina,690,4,village,UTC+1,Europe/Podgorica
+3019220,ME,ME-07,Skanjci,Škanjci,522,4,village,UTC+1,Europe/Podgorica
+3019224,ME,ME-02,Opacac,Opačac,65,4,village,UTC+1,Europe/Podgorica
+3019225,ME,ME-06,Mihaljevici,Mihaljevići,795,4,village,UTC+1,Europe/Podgorica
+3019228,ME,ME-05,Kosmac,Kosmač,127,4,village,UTC+1,Europe/Podgorica
+3019229,ME,ME-05,Dapkovici,Dapkovići,1733,4,village,UTC+1,Europe/Podgorica
+3019232,ME,ME-05,Milocer,Miločer,540,4,village,UTC+1,Europe/Podgorica
+3019238,ME,ME-06,Jaicevici,Jaićevići,10095,4,town,UTC+1,Europe/Podgorica
+3019243,ME,ME-06,Kralji Stari,Kralji Stari,128,4,village,UTC+1,Europe/Podgorica
+3019244,ME,ME-06,Donje Polje,Donje Polje,549,4,village,UTC+1,Europe/Podgorica
+3019245,ME,ME-05,Podlastva,Podlastva,294,3,Settlement,UTC+1,Europe/Podgorica
+3019255,ME,ME-03,Buljici,Buljići,3150,4,village,UTC+1,Europe/Podgorica
+3019264,ME,ME-13,Masnica,Mašnica,262,4,village,UTC+1,Europe/Podgorica
+3019280,ME,ME-22,Kacanik,Kačanik,9214,4,town,UTC+1,Europe/Podgorica
+3019284,ME,ME-13,Lovnocelo,Lovnočelo,2026,4,village,UTC+1,Europe/Podgorica
+3019285,ME,ME-13,Husejinovici,Husejinovići,570,4,village,UTC+1,Europe/Podgorica
+3019300,ME,ME-03,Lukin Vir,Lukin Vir,359,4,village,UTC+1,Europe/Podgorica
+3019319,ME,ME-01,Zar,Žar,135,4,village,UTC+1,Europe/Podgorica
+3019325,ME,ME-03,Maslari,Maslari,299,4,village,UTC+1,Europe/Podgorica
+3019340,ME,ME-22,Dolja,Доља,126,4,village,UTC+1,Europe/Podgorica
+3019349,ME,ME-03,Stubica,Stubica,1541,4,village,UTC+1,Europe/Podgorica
+3019375,ME,ME-04,Malo Nemanjine,Malo Nemanjine,1009,4,village,UTC+1,Europe/Podgorica
+3019376,ME,ME-23,Donja Ljesnica,Donja Lješnica,848,4,village,UTC+1,Europe/Podgorica
+3019381,ME,ME-23,Vrsevo,Vrševo,271,3,Settlement,UTC+1,Europe/Podgorica
+3019384,ME,ME-23,Tarhanisi,Tarhaniši,207,4,village,UTC+1,Europe/Podgorica
+3019386,ME,ME-23,Agovica,Agovica,833,4,village,UTC+1,Europe/Podgorica
+3019387,ME,ME-03,Srednje Zaostro,Srednje Zaostro,152,4,village,UTC+1,Europe/Podgorica
+3019394,ME,ME-03,Dapsici,Dapsići,499,3,Settlement,UTC+1,Europe/Podgorica
+3019404,ME,ME-04,Mucici,Mučići,307,4,village,UTC+1,Europe/Podgorica
+3019409,ME,ME-04,Musovici,Mušovići,758,4,village,UTC+1,Europe/Podgorica
+3019418,ME,ME-12,Durovici,Ðurovići,930,4,village,UTC+1,Europe/Podgorica
+3019420,ME,ME-16,Pocic,Pocić,348,4,village,UTC+1,Europe/Podgorica
+3019423,ME,ME-16,Pricelje,Pričelje,2055,4,village,UTC+1,Europe/Podgorica
+3019425,ME,ME-16,Gola Strana,Gola Strana,389,4,village,UTC+1,Europe/Podgorica
+3019428,ME,ME-16,Vinogradista,Vinogradišta,74,4,village,UTC+1,Europe/Podgorica
+3019429,ME,ME-16,Potoci,Potoci,156,4,village,UTC+1,Europe/Podgorica
+3019431,ME,ME-16,Bunca,Bunca,548,4,village,UTC+1,Europe/Podgorica
+3019435,ME,ME-16,Kostrikovica,Kostrikovica,359,4,village,UTC+1,Europe/Podgorica
+3019436,ME,ME-16,Sibionica,Šibionica,2717,4,village,UTC+1,Europe/Podgorica
+3019437,ME,ME-07,Vuksanovo Gumno,Vuksanovo Gumno,389,4,village,UTC+1,Europe/Podgorica
+3019459,ME,ME-16,Kraljevac,Kraljevac,26529,4,town,UTC+1,Europe/Podgorica
+3019461,ME,ME-16,Krkor,Krkor,1059,4,village,UTC+1,Europe/Podgorica
+3019462,ME,ME-16,Levaja,Levaja,130,4,village,UTC+1,Europe/Podgorica
+3019464,ME,ME-16,Kami,Kami,433,4,village,UTC+1,Europe/Podgorica
+3019465,ME,ME-16,Guberinici,Guberinići,98,4,village,UTC+1,Europe/Podgorica
+3019475,ME,ME-09,Donja Trebjesica,Donja Trebješica,850,4,village,UTC+1,Europe/Podgorica
+3019478,ME,ME-09,Donja Sela,Donja Sela,991,4,village,UTC+1,Europe/Podgorica
+3019484,ME,ME-09,Mrtvo Doboko,Mrtvo Doboko,356,4,village,UTC+1,Europe/Podgorica
+3019489,ME,ME-09,Drijen,Drijen,355,4,village,UTC+1,Europe/Podgorica
+3019495,ME,ME-09,Raicevine,Raičevine,952,4,village,UTC+1,Europe/Podgorica
+3019497,ME,ME-09,Krzevo,Krževo,102,4,village,UTC+1,Europe/Podgorica
+3019498,ME,ME-09,Kosetine,Košetine,212,4,village,UTC+1,Europe/Podgorica
+3019501,ME,ME-09,Presjeka,Presjeka,396,4,village,UTC+1,Europe/Podgorica
+3019502,ME,ME-07,Gropa,Gropa,258,4,village,UTC+1,Europe/Podgorica
+3019504,ME,ME-07,Begovina,Jastreb,76,4,village,UTC+1,Europe/Podgorica
+3019505,ME,ME-07,Jastreb,Jastreb,278,3,Settlement,UTC+1,Europe/Podgorica
+3019507,ME,ME-07,Donji Curilac,Donji Ćurilac,345,4,village,UTC+1,Europe/Podgorica
+3019508,ME,ME-07,Gornji Curilac,Gornji Ćurilac,354,4,village,UTC+1,Europe/Podgorica
+3019509,ME,ME-07,Grlic,Grlić,911,4,village,UTC+1,Europe/Podgorica
+3019512,ME,ME-09,Planinica,Planinica,83,4,village,UTC+1,Europe/Podgorica
+3019516,ME,ME-01,Dekovici,Ðekovići,494,4,village,UTC+1,Europe/Podgorica
+3019522,ME,ME-09,Smailagica Polje,Smailagića Polje,853,3,Settlement,UTC+1,Europe/Podgorica
+3019526,ME,ME-09,Trebaljevo,Trebaljevo,144,4,village,UTC+1,Europe/Podgorica
+3019540,ME,ME-11,Sljivlje,Šljivlje,260,4,village,UTC+1,Europe/Podgorica
+3019546,ME,ME-09,Prisojak,Prisojak,188,4,village,UTC+1,Europe/Podgorica
+3019553,ME,ME-07,Klikovace,Klikovače,610,3,Settlement,UTC+1,Europe/Podgorica
+3019580,ME,ME-07,Osojnik,Osojnik,492,4,village,UTC+1,Europe/Podgorica
+3019584,ME,ME-09,Poljane,Poljane,2087,4,village,UTC+1,Europe/Podgorica
+3019603,ME,ME-04,Novo Selo,Novo Selo,646,3,Settlement,UTC+1,Europe/Podgorica
+3019605,ME,ME-07,Veleta,Veleta,71,4,hamlet,UTC+1,Europe/Podgorica
+3019609,ME,ME-07,Kolasinovici,Kolašinovići,74,4,village,UTC+1,Europe/Podgorica
+3019625,ME,ME-07,Calanovica,Čalanovica,503,4,village,UTC+1,Europe/Podgorica
+3019626,ME,ME-07,Drakovici,Drakovići,540,4,village,UTC+1,Europe/Podgorica
+3019631,ME,ME-07,Rajicev Do,Rajićev Do,1755,4,village,UTC+1,Europe/Podgorica
+3019632,ME,ME-07,Lubovo,Lubovo,83,4,village,UTC+1,Europe/Podgorica
+3019634,ME,ME-07,Hadulica,Hadulica,534,4,village,UTC+1,Europe/Podgorica
+3019636,ME,ME-07,Bobulja,Бобуља,127,4,locality,UTC+1,Europe/Podgorica
+3019637,ME,ME-12,Krstovace,Krstovače,413,4,village,UTC+1,Europe/Podgorica
+3019640,ME,ME-12,Gornje Kunovo,Gornje Kunovo,1619,4,village,UTC+1,Europe/Podgorica
+3019641,ME,ME-12,Sume,Šume,901,4,village,UTC+1,Europe/Podgorica
+3019642,ME,ME-12,Daronji Do,Daronji Do,727,4,village,UTC+1,Europe/Podgorica
+3019643,ME,ME-12,Pod-Daznik,Pod-Dažnik,2134,4,village,UTC+1,Europe/Podgorica
+3019644,ME,ME-12,Knez Polje,Knež Polje,855,4,village,UTC+1,Europe/Podgorica
+3019646,ME,ME-12,Prijevori,Prijevori,286,4,village,UTC+1,Europe/Podgorica
+3019650,ME,ME-12,Markovina,Markovina,1195,4,village,UTC+1,Europe/Podgorica
+3019652,ME,ME-08,Brajevici,Brajevići,106,4,village,UTC+1,Europe/Podgorica
+3019656,ME,ME-08,Cenici,Čenići,427,4,village,UTC+1,Europe/Podgorica
+3019669,ME,ME-12,Urljev Do,Urljev Do,282,4,village,UTC+1,Europe/Podgorica
+3019676,ME,ME-08,Tursko,Tursko,198,4,village,UTC+1,Europe/Podgorica
+3019681,ME,ME-08,Radanovici,Radanovići,359,4,village,UTC+1,Europe/Podgorica
+3019693,ME,ME-12,Maglenca,Maglenca,1012,4,village,UTC+1,Europe/Podgorica
+3019694,ME,ME-12,Rvana Gora,Rvana Gora,267,4,village,UTC+1,Europe/Podgorica
+3019701,ME,ME-08,Vecerici,Večerići,149,4,village,UTC+1,Europe/Podgorica
+3019714,ME,ME-12,Brekovac,Brekovac,186,4,village,UTC+1,Europe/Podgorica
+3019715,ME,ME-12,Travni Do,Travni Do,285,4,village,UTC+1,Europe/Podgorica
+3019724,ME,ME-12,Cerovo Prodo,Cerovo Prodo,86,4,village,UTC+1,Europe/Podgorica
+3019727,ME,ME-08,Kabala,Kabala,297,4,village,UTC+1,Europe/Podgorica
+3019728,ME,ME-08,Spilice,Spilice,396,4,village,UTC+1,Europe/Podgorica
+3019730,ME,ME-08,Durasevici,Duraševići,136,4,village,UTC+1,Europe/Podgorica
+3019731,ME,ME-08,Marovici,Marovići,674,4,village,UTC+1,Europe/Podgorica
+3019732,ME,ME-08,Zmijice,Zmijice,64,4,village,UTC+1,Europe/Podgorica
+3019733,ME,ME-08,Magazini,Magazini,2103,4,village,UTC+1,Europe/Podgorica
+3019735,ME,ME-08,Durovici,Ðurovići,98,4,village,UTC+1,Europe/Podgorica
+3019738,ME,ME-08,Juncevici,Junčevići,372,4,village,UTC+1,Europe/Podgorica
+3019745,ME,ME-08,Pestorici,Pestorići,792,4,village,UTC+1,Europe/Podgorica
+3019752,ME,ME-08,Milovici,Milovići,724,4,village,UTC+1,Europe/Podgorica
+3019796,ME,ME-04,Mercajevac,Merčajevac,639,4,village,UTC+1,Europe/Podgorica
+3019820,ME,ME-04,Bare,Bare,4152,4,village,UTC+1,Europe/Podgorica
+3019825,ME,ME-04,Krsnica,Kršnica,3204,4,village,UTC+1,Europe/Podgorica
+3019829,ME,ME-04,Staro Mijatovo,Staro Mijatovo,1115,4,village,UTC+1,Europe/Podgorica
+3019830,ME,ME-11,Mekica Kula,Mekića Kula,626,4,village,UTC+1,Europe/Podgorica
+3019835,ME,ME-09,Dulovine,Dulovine,67,4,village,UTC+1,Europe/Podgorica
+3019838,ME,ME-04,Pripcici,Pripčići,232,4,village,UTC+1,Europe/Podgorica
+3019843,ME,ME-04,Femica Krs,Femića Krš,6986,4,village,UTC+1,Europe/Podgorica
+3019844,ME,ME-04,Potkrs,Potkrš,216,4,village,UTC+1,Europe/Podgorica
+3019852,ME,ME-18,Dobrodo,Dobrodo,352,4,village,UTC+1,Europe/Podgorica
+3019856,ME,ME-12,Grabovica,Grabovica,77,4,village,UTC+1,Europe/Podgorica
+3019858,ME,ME-06,Donji Orasi,Donji Orasi,1113,4,village,UTC+1,Europe/Podgorica
+3019859,ME,ME-05,Slanjina,Slanjina,390,4,village,UTC+1,Europe/Podgorica
+3019860,ME,ME-06,Gluhi Do,Gluhi Do,329,4,isolated_dwelling,UTC+1,Europe/Podgorica
+3019861,ME,ME-06,Vuckovici,Vučkovići,554,4,village,UTC+1,Europe/Podgorica
+3019863,ME,ME-06,Ivanova Aluga,Ivanova Aluga,190,4,village,UTC+1,Europe/Podgorica
+3019865,ME,ME-06,Donji Kraj,Donji Kraj,10887,4,town,UTC+1,Europe/Podgorica
+3019868,ME,ME-06,Umci,Umci,246,4,village,UTC+1,Europe/Podgorica
+3019877,ME,ME-16,Donji Vukovici,Donji Vukovići,5356,4,village,UTC+1,Europe/Podgorica
+3019878,ME,ME-09,Medupotocje,Medupotočje,602,4,village,UTC+1,Europe/Podgorica
+3019880,ME,ME-06,Vukove Zgrade,Vukove Zgrade,595,4,village,UTC+1,Europe/Podgorica
+3019881,ME,ME-06,Brnovici,Brnovići,132,4,village,UTC+1,Europe/Podgorica
+3019882,ME,ME-06,Lainja,Lainja,186,4,village,UTC+1,Europe/Podgorica
+3019884,ME,ME-16,Palic,Palić,510,4,village,UTC+1,Europe/Podgorica
+3019885,ME,ME-16,Markovici,Markovići,822,4,village,UTC+1,Europe/Podgorica
+3019887,ME,ME-06,Mrcinici,Mrčinići,601,4,village,UTC+1,Europe/Podgorica
+3019888,ME,ME-16,Razdrt,Razdrt,1904,4,village,UTC+1,Europe/Podgorica
+3019890,ME,ME-06,Jasikovi Do,Jasikovi Do,508,4,village,UTC+1,Europe/Podgorica
+3019891,ME,ME-07,Prokaplje,Prokaplje,318,4,village,UTC+1,Europe/Podgorica
+3019892,ME,ME-07,Abzi-Kula,Abzi-Kula,294,4,village,UTC+1,Europe/Podgorica
+3019893,ME,ME-07,Njegule,Njegule,189,4,village,UTC+1,Europe/Podgorica
+3019895,ME,ME-16,Tvrdos,Tvrdoš,5576,4,village,UTC+1,Europe/Podgorica
+3019912,ME,ME-02,Srednja Mahala,Srednja Mahala,179,4,village,UTC+1,Europe/Podgorica
+3019915,ME,ME-02,Zgrada,Zgrada,481,4,village,UTC+1,Europe/Podgorica
+3019918,ME,ME-02,Zlatna Obala,Zlatna Obala,228,4,village,UTC+1,Europe/Podgorica
+3019961,ME,ME-14,Bacevnik,Bačevnik,284,4,village,UTC+1,Europe/Podgorica
+3019971,ME,ME-05,Rezevici,Reževići,384,4,village,UTC+1,Europe/Podgorica
+3019972,ME,ME-05,Krusevica,Kruševica,199,4,village,UTC+1,Europe/Podgorica
+3019973,ME,ME-05,Lucice,Lučice,1052,4,village,UTC+1,Europe/Podgorica
+3019975,ME,ME-05,Golubovici,Golubovići,783,4,village,UTC+1,Europe/Podgorica
+3019980,ME,ME-14,Gardovici,Gardovići,415,4,village,UTC+1,Europe/Podgorica
+3019981,ME,ME-14,Vrtace,Vrtače,2641,4,village,UTC+1,Europe/Podgorica
+3019985,ME,ME-14,Cukovac,Ćukovac,6585,4,village,UTC+1,Europe/Podgorica
+3019987,ME,ME-14,Celine,Čeline,747,4,village,UTC+1,Europe/Podgorica
+3019988,ME,ME-14,Povijevo,Povijevo,301,4,village,UTC+1,Europe/Podgorica
+3019991,ME,ME-14,Metaljka,Metaljka,343,4,village,UTC+1,Europe/Podgorica
+3019992,ME,ME-14,Panjevi,Panjevi,158,4,village,UTC+1,Europe/Podgorica
+3019995,ME,ME-08,Petrovici,Petrovići,233,4,village,UTC+1,Europe/Podgorica
+3020002,ME,ME-19,Peani,Peani,1523,4,village,UTC+1,Europe/Podgorica
+3020006,ME,ME-19,Bazdan,Bazdan,275,4,village,UTC+1,Europe/Podgorica
+3020007,ME,ME-08,Babunci,Babunci,295,4,village,UTC+1,Europe/Podgorica
+3020011,ME,ME-10,Drakulovici,Drakulovići,726,4,village,UTC+1,Europe/Podgorica
+3020020,ME,ME-16,Ravni Laz,Ravni Laz,53489,4,town,UTC+1,Europe/Podgorica
+3020021,ME,ME-16,Misoka,Mišoka,10760,4,town,UTC+1,Europe/Podgorica
+3020022,ME,ME-16,Mokri Do,Mokri Do,629,4,village,UTC+1,Europe/Podgorica
+3020023,ME,ME-16,Stijensko Brdo,Stijensko Brdo,513,4,village,UTC+1,Europe/Podgorica
+3020024,ME,ME-16,Crnacko Brdo,Crnačko Brdo,11869,4,town,UTC+1,Europe/Podgorica
+3020025,ME,ME-16,Trebinci,Trebinci,62,4,village,UTC+1,Europe/Podgorica
+3020043,ME,ME-09,Liplja,Liplja,1432,4,village,UTC+1,Europe/Podgorica
+3020045,ME,ME-09,Grdovine,Grdovine,348,4,village,UTC+1,Europe/Podgorica
+3020048,ME,ME-09,Muline,Muline,608,4,village,UTC+1,Europe/Podgorica
+3020049,ME,ME-09,Streljanice,Streljanice,126,4,village,UTC+1,Europe/Podgorica
+3020050,ME,ME-09,Vinogradine,Vinogradine,123,4,village,UTC+1,Europe/Podgorica
+3020051,ME,ME-09,Smira,Smira,2246,4,village,UTC+1,Europe/Podgorica
+3020052,ME,ME-09,Bratozica,Bratožica,607,4,village,UTC+1,Europe/Podgorica
+3020053,ME,ME-09,Donji Kos,Donji Kos,1630,4,village,UTC+1,Europe/Podgorica
+3020054,ME,ME-09,Crni Potok,Crni Potok,63,4,village,UTC+1,Europe/Podgorica
+3020056,ME,ME-10,Donji Orahovac,Donji Orahovac,70,4,village,UTC+1,Europe/Podgorica
+3020057,ME,ME-10,Trstenik,Trstenik,5549,4,village,UTC+1,Europe/Podgorica
+3020059,ME,ME-09,Gornja Trebjesica,Gornja Trebješica,165,4,village,UTC+1,Europe/Podgorica
+3020069,ME,ME-10,Muo,Muo,121,4,village,UTC+1,Europe/Podgorica
+3020071,ME,ME-16,Kovacica,Kovačica,167,4,village,UTC+1,Europe/Podgorica
+3020072,ME,ME-16,Velje Slacko,Velje Slacko,176,4,village,UTC+1,Europe/Podgorica
+3020074,ME,ME-06,Bale,Bale,124,4,village,UTC+1,Europe/Podgorica
+3020075,ME,ME-06,Pozduj,Pozduj,156,4,village,UTC+1,Europe/Podgorica
+3020077,ME,ME-14,Katavici,Katavići,1116,4,village,UTC+1,Europe/Podgorica
+3020078,ME,ME-14,Mede,Međe,530,4,village,UTC+1,Europe/Podgorica
+3020083,ME,ME-16,Begova Luka,Begova Luka,544,4,village,UTC+1,Europe/Podgorica
+3020084,ME,ME-16,Celj,Čelj,109,4,village,UTC+1,Europe/Podgorica
+3020091,ME,ME-10,Savina Glavica,Savina Glavica,501,4,village,UTC+1,Europe/Podgorica
+3020095,ME,ME-05,Prentovici,Prentovići,341,4,village,UTC+1,Europe/Podgorica
+3020096,ME,ME-16,Brat-Njive,Brat-Njive,323,4,village,UTC+1,Europe/Podgorica
+3020098,ME,ME-05,Podbabac,Podbabac,520,4,village,UTC+1,Europe/Podgorica
+3020101,ME,ME-05,Rafajlovici,Rafajlovići,130,4,village,UTC+1,Europe/Podgorica
+3020108,ME,ME-16,Zmijina,Zmijina,1978,4,village,UTC+1,Europe/Podgorica
+3020123,ME,ME-05,Przno,Pržno,643,4,village,UTC+1,Europe/Podgorica
+3020124,ME,ME-05,Milocer,Miločer,617,4,village,UTC+1,Europe/Podgorica
+3020128,ME,ME-14,Dovista,Dovišta,155,4,village,UTC+1,Europe/Podgorica
+3020131,ME,ME-14,Dolina,Dolina,1888,4,village,UTC+1,Europe/Podgorica
+3020132,ME,ME-14,Trgovista,Trgovišta,505,4,village,UTC+1,Europe/Podgorica
+3020133,ME,ME-14,Podrid,Podrid,1151,4,village,UTC+1,Europe/Podgorica
+3020134,ME,ME-14,Pitomine,Pitomine,1127,4,village,UTC+1,Europe/Podgorica
+3020135,ME,ME-14,Graovista,Graovišta,976,4,village,UTC+1,Europe/Podgorica
+3020137,ME,ME-16,Korijen,Korijen,137,4,village,UTC+1,Europe/Podgorica
+3020138,ME,ME-14,Rt,Rt,1215,4,village,UTC+1,Europe/Podgorica
+3020141,ME,ME-16,Koraj-Do,Koraj-Do,736,4,village,UTC+1,Europe/Podgorica
+3020145,ME,ME-16,Kolevici,Kolevići,714,4,village,UTC+1,Europe/Podgorica
+3020147,ME,ME-16,Dedinice,Dedinice,224,4,village,UTC+1,Europe/Podgorica
+3020148,ME,ME-16,Mocila,Močila,100,4,village,UTC+1,Europe/Podgorica
+3020149,ME,ME-16,Poljana,Poljana,5768,4,village,UTC+1,Europe/Podgorica
+3020152,ME,ME-09,Dedina Ravan,Dedina Ravan,7418,4,village,UTC+1,Europe/Podgorica
+3020153,ME,ME-09,Pilote,Pilote,288,4,village,UTC+1,Europe/Podgorica
+3020155,ME,ME-09,Mededa,Međeđa,588,4,village,UTC+1,Europe/Podgorica
+3020157,ME,ME-09,Banje Brdo,Banje Brdo,256,4,village,UTC+1,Europe/Podgorica
+3020158,ME,ME-09,Ceca,Ćeća,1607,4,hamlet,UTC+1,Europe/Podgorica
+3020163,ME,ME-09,Novakovice,Novakovice,208,4,village,UTC+1,Europe/Podgorica
+3020164,ME,ME-09,Svine,Svine,2549,4,village,UTC+1,Europe/Podgorica
+3020165,ME,ME-09,Meljaci,Meljaci,2356,4,village,UTC+1,Europe/Podgorica
+3020180,ME,ME-16,Bunca,Bunca,614,4,village,UTC+1,Europe/Podgorica
+3020185,ME,ME-06,Vrh Polja,Vrh Polja,301,4,village,UTC+1,Europe/Podgorica
+3020186,ME,ME-08,Grabe,Grabe,117,4,village,UTC+1,Europe/Podgorica
+3020193,ME,ME-08,Banovina,Banovina,161,4,village,UTC+1,Europe/Podgorica
+3020203,ME,ME-06,Mulinovo Pocivalo,Mulinovo Počivalo,119,4,village,UTC+1,Europe/Podgorica
+3020214,ME,ME-16,Mitrovici,Mitrovići,299,4,village,UTC+1,Europe/Podgorica
+3020225,ME,ME-20,Civlak,Čivlak,703,4,village,UTC+1,Europe/Podgorica
+3020226,ME,ME-20,Valdanos,Плажа Валданос,438,4,village,UTC+1,Europe/Podgorica
+3020229,ME,ME-20,Velika Plaza,Велика плажа,81,4,village,UTC+1,Europe/Podgorica
+3020230,ME,ME-20,Donja Klezna,Donja Klezna,93,4,village,UTC+1,Europe/Podgorica
+3020231,ME,ME-20,Lisna Bori,Lisna Bori,588,4,village,UTC+1,Europe/Podgorica
+3020233,ME,ME-20,Mozura,Možura,292,4,village,UTC+1,Europe/Podgorica
+3020235,ME,ME-20,Bregvija,Bregvija,345,4,village,UTC+1,Europe/Podgorica
+3020237,ME,ME-14,Mala,Mala,310,4,village,UTC+1,Europe/Podgorica
+3020239,ME,ME-14,Bare,Bare,628,4,village,UTC+1,Europe/Podgorica
+3020243,ME,ME-14,Gajevi,Gajevi,281,4,village,UTC+1,Europe/Podgorica
+3020245,ME,ME-14,Vagan,Vagan,822,4,village,UTC+1,Europe/Podgorica
+3020247,ME,ME-14,Colovici,Čolovići,7601,4,village,UTC+1,Europe/Podgorica
+3020249,ME,ME-14,Stup,Stup,230,4,village,UTC+1,Europe/Podgorica
+3020251,ME,ME-14,Presmenice,Prešmenice,6404,4,town,UTC+1,Europe/Podgorica
+3020252,ME,ME-14,Nokte,Nokte,562,4,village,UTC+1,Europe/Podgorica
+3020253,ME,ME-14,Podkrs,Podkrš,151,4,village,UTC+1,Europe/Podgorica
+3020277,ME,ME-14,Livadani,Livađani,931,4,village,UTC+1,Europe/Podgorica
+3020281,ME,ME-14,Gogici,Gogići,9428,4,village,UTC+1,Europe/Podgorica
+3020282,ME,ME-14,Donje Stupine,Donje Stupine,619,4,village,UTC+1,Europe/Podgorica
+3020283,ME,ME-14,Gornje Stupine,Gornje Stupine,3343,4,village,UTC+1,Europe/Podgorica
+3020291,ME,ME-14,Rujevica,Rujevica,898,4,village,UTC+1,Europe/Podgorica
+3020306,ME,ME-16,Gornje Dajbabe,Gornje Dajbabe,393,4,village,UTC+1,Europe/Podgorica
+3020307,ME,ME-16,Donje Dajbabe,Donje Dajbabe,15951,4,town,UTC+1,Europe/Podgorica
+3020324,ME,ME-16,Greca,Greča,1732,4,village,UTC+1,Europe/Podgorica
+3020326,ME,ME-16,Zivkovici,Živkovići,70,4,village,UTC+1,Europe/Podgorica
+3020330,ME,ME-16,Kostrovici,Koštrovići,8220,4,village,UTC+1,Europe/Podgorica
+3020331,ME,ME-16,Prelevici,Prelevići,268,4,village,UTC+1,Europe/Podgorica
+3020332,ME,ME-14,Poljana,Poljana,434,4,village,UTC+1,Europe/Podgorica
+3020333,ME,ME-14,Kamensko,Kamensko,355,4,village,UTC+1,Europe/Podgorica
+3020347,ME,ME-14,Kovijec,Kovijec,290,4,village,UTC+1,Europe/Podgorica
+3020356,ME,ME-16,Priboj,Priboj,316,4,village,UTC+1,Europe/Podgorica
+3020358,ME,ME-16,Vranicke Njive,Vraničke Njive,4293,4,village,UTC+1,Europe/Podgorica
+3020364,ME,ME-16,Donji Medun,Donji Medun,316,4,village,UTC+1,Europe/Podgorica
+3020366,ME,ME-16,Vrba,Vrba,57,4,village,UTC+1,Europe/Podgorica
+3020367,ME,ME-16,Radovac,Radovac,1130,4,village,UTC+1,Europe/Podgorica
+3020372,ME,ME-16,Braka,Braka,268,4,village,UTC+1,Europe/Podgorica
+3020374,ME,ME-16,Premici,Premići,2217,4,village,UTC+1,Europe/Podgorica
+3020377,ME,ME-16,Konik,Konik,77,4,village,UTC+1,Europe/Podgorica
+3020379,ME,ME-16,Kucista,Kucišta,60,4,village,UTC+1,Europe/Podgorica
+3020381,ME,ME-16,Rabri,Rabri,378,4,village,UTC+1,Europe/Podgorica
+3020384,ME,ME-16,Lopari,Lopari,115,4,village,UTC+1,Europe/Podgorica
+3020389,ME,ME-16,Kajos,Kajoš,451,4,village,UTC+1,Europe/Podgorica
+3020392,ME,ME-16,Vulevici,Vulevići,18361,4,town,UTC+1,Europe/Podgorica
+3020400,ME,ME-16,Role,Role,667,4,village,UTC+1,Europe/Podgorica
+3020401,ME,ME-16,Macaj,Mačaj,2479,4,village,UTC+1,Europe/Podgorica
+3020402,ME,ME-16,Vatnikaj,Vatnikaj,256,4,village,UTC+1,Europe/Podgorica
+3020403,ME,ME-16,Nik Dokaj,Nik Ðokaj,62,4,village,UTC+1,Europe/Podgorica
+3020404,ME,ME-16,Prenkaj,Prenkaj,141,4,village,UTC+1,Europe/Podgorica
+3020405,ME,ME-16,Hasanoj,Hasanoj,1192,4,village,UTC+1,Europe/Podgorica
+3020409,ME,ME-16,Ploca,Ploča,397,4,village,UTC+1,Europe/Podgorica
+3020425,ME,ME-20,Lekperici,Lekperići,969,4,village,UTC+1,Europe/Podgorica
+3020428,ME,ME-20,Dencici,Ðenčići,388,4,village,UTC+1,Europe/Podgorica
+3020431,ME,ME-20,Veliki Ostros,Veliki Ostros,385,3,Settlement,UTC+1,Europe/Podgorica
+3020432,ME,ME-20,Denasevici,Ðenaševići,1396,4,village,UTC+1,Europe/Podgorica
+3020433,ME,ME-02,Alibrahimaj,Alibrahimaj,524,4,village,UTC+1,Europe/Podgorica
+3020436,ME,ME-20,Capre Mahala,Čapre Mahala,487,4,village,UTC+1,Europe/Podgorica
+3020437,ME,ME-20,Suma,Suma,1691,4,village,UTC+1,Europe/Podgorica
+3020438,ME,ME-20,Zenj,Ženj,834,4,village,UTC+1,Europe/Podgorica
+3020440,ME,ME-20,Decbitrici,Ðečbitrići,7145,4,village,UTC+1,Europe/Podgorica
+3020445,ME,ME-02,Mali Ostros,Mali Ostros,148,4,village,UTC+1,Europe/Podgorica
+3020449,ME,ME-08,GJenovici,Đenovići,1161,4,village,UTC+1,Europe/Podgorica
+3020451,ME,ME-14,Budechevitsa,Budechevitsa,100,4,PPL,UTC+1,Europe/Podgorica
+3020452,ME,ME-16,Bandici,Bandici,3468,4,village,UTC+1,Europe/Podgorica

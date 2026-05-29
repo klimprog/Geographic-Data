@@ -1,0 +1,91 @@
+key,country,name,native_name,capital,population,timezone_utc,timezone_iana
+CZ-10,CZ,Hlavni mesto Praha,Praha,\N,1167050,UTC+1,Europe/Prague
+CZ-20,CZ,Stredocesky kraj,Středočeský kraj,\N,1284629,UTC+1,Europe/Prague
+CZ-201,CZ,Benešov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-202,CZ,Beroun,\N,\N,\N,UTC+1,Europe/Prague
+CZ-203,CZ,Kladno,\N,\N,\N,UTC+1,Europe/Prague
+CZ-204,CZ,Kolín,\N,\N,\N,UTC+1,Europe/Prague
+CZ-205,CZ,Kutná Hora,\N,\N,\N,UTC+1,Europe/Prague
+CZ-206,CZ,Mělník,\N,\N,\N,UTC+1,Europe/Prague
+CZ-207,CZ,Mladá Boleslav,\N,\N,\N,UTC+1,Europe/Prague
+CZ-208,CZ,Nymburk,\N,\N,\N,UTC+1,Europe/Prague
+CZ-209,CZ,Praha-východ,\N,\N,\N,UTC+1,Europe/Prague
+CZ-20A,CZ,Praha-západ,\N,\N,\N,UTC+1,Europe/Prague
+CZ-20B,CZ,Příbram,\N,\N,\N,UTC+1,Europe/Prague
+CZ-20C,CZ,Rakovník,\N,\N,\N,UTC+1,Europe/Prague
+CZ-31,CZ,Jihocesky kraj,Jihočeský,1352206,625703,UTC+1,Europe/Prague
+CZ-311,CZ,České Budějovice,\N,\N,\N,UTC+1,Europe/Prague
+CZ-312,CZ,Český Krumlov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-313,CZ,Jindřichův Hradec,\N,\N,\N,UTC+1,Europe/Prague
+CZ-314,CZ,Písek,\N,\N,\N,UTC+1,Europe/Prague
+CZ-315,CZ,Prachatice,\N,\N,\N,UTC+1,Europe/Prague
+CZ-316,CZ,Strakonice,\N,\N,\N,UTC+1,Europe/Prague
+CZ-317,CZ,Tábor,\N,\N,\N,UTC+1,Europe/Prague
+CZ-32,CZ,Plzensky kraj,Plzeňský kraj,1343687,550343,UTC+1,Europe/Prague
+CZ-321,CZ,Domažlice,\N,\N,\N,UTC+1,Europe/Prague
+CZ-322,CZ,Klatovy,\N,\N,\N,UTC+1,Europe/Prague
+CZ-323,CZ,Plzeň-město,\N,\N,\N,UTC+1,Europe/Prague
+CZ-324,CZ,Plzeň-jih,\N,\N,\N,UTC+1,Europe/Prague
+CZ-325,CZ,Plzeň-sever,\N,\N,\N,UTC+1,Europe/Prague
+CZ-326,CZ,Rokycany,\N,\N,\N,UTC+1,Europe/Prague
+CZ-327,CZ,Tachov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-41,CZ,Karlovarsky kraj,Karlovarský,1348615,304294,UTC+1,Europe/Prague
+CZ-411,CZ,Cheb,\N,\N,\N,UTC+1,Europe/Prague
+CZ-412,CZ,Karlovy Vary,\N,\N,\N,UTC+1,Europe/Prague
+CZ-413,CZ,Sokolov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-42,CZ,Ustecky kraj,Ústecký,1339670,821468,UTC+1,Europe/Prague
+CZ-421,CZ,Děčín,\N,\N,\N,UTC+1,Europe/Prague
+CZ-422,CZ,Chomutov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-423,CZ,Litoměřice,\N,\N,\N,UTC+1,Europe/Prague
+CZ-424,CZ,Louny,\N,\N,\N,UTC+1,Europe/Prague
+CZ-425,CZ,Most,\N,\N,\N,UTC+1,Europe/Prague
+CZ-426,CZ,Teplice,\N,\N,\N,UTC+1,Europe/Prague
+CZ-427,CZ,Ústí nad Labem,\N,\N,\N,UTC+1,Europe/Prague
+CZ-51,CZ,Liberecky kraj,Liberecký,1347021,427855,UTC+1,Europe/Prague
+CZ-511,CZ,Česká Lípa,\N,\N,\N,UTC+1,Europe/Prague
+CZ-512,CZ,Jablonec nad Nisou,\N,\N,\N,UTC+1,Europe/Prague
+CZ-513,CZ,Liberec,\N,\N,\N,UTC+1,Europe/Prague
+CZ-514,CZ,Semily,\N,\N,\N,UTC+1,Europe/Prague
+CZ-52,CZ,Kralovehradecky kraj,Královéhradecký,1349599,546691,UTC+1,Europe/Prague
+CZ-521,CZ,Hradec Králové,\N,\N,\N,UTC+1,Europe/Prague
+CZ-522,CZ,Jičín,\N,\N,\N,UTC+1,Europe/Prague
+CZ-523,CZ,Náchod,\N,\N,\N,UTC+1,Europe/Prague
+CZ-524,CZ,Rychnov nad Kněžnou,\N,\N,\N,UTC+1,Europe/Prague
+CZ-525,CZ,Trutnov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-53,CZ,Pardubicky kraj,Pardubický,1344055,504641,UTC+1,Europe/Prague
+CZ-531,CZ,Chrudim,\N,\N,\N,UTC+1,Europe/Prague
+CZ-532,CZ,Pardubice,\N,\N,\N,UTC+1,Europe/Prague
+CZ-533,CZ,Svitavy,\N,\N,\N,UTC+1,Europe/Prague
+CZ-534,CZ,Ústí nad Orlicí,\N,\N,\N,UTC+1,Europe/Prague
+CZ-63,CZ,Kraj Vysocina,Vysočina,1348947,517114,UTC+1,Europe/Prague
+CZ-631,CZ,Havlíčkův Brod,\N,\N,\N,UTC+1,Europe/Prague
+CZ-632,CZ,Jihlava,\N,\N,\N,UTC+1,Europe/Prague
+CZ-633,CZ,Pelhřimov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-634,CZ,Třebíč,\N,\N,\N,UTC+1,Europe/Prague
+CZ-635,CZ,Žďár nad Sázavou,\N,\N,\N,UTC+1,Europe/Prague
+CZ-64,CZ,Jihomoravsky kraj,Jihomoravský,1352790,1196113,UTC+1,Europe/Prague
+CZ-641,CZ,Blansko,\N,\N,\N,UTC+1,Europe/Prague
+CZ-642,CZ,Brno-město,\N,\N,\N,UTC+1,Europe/Prague
+CZ-643,CZ,Brno-venkov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-644,CZ,Břeclav,\N,\N,\N,UTC+1,Europe/Prague
+CZ-645,CZ,Hodonín,\N,\N,\N,UTC+1,Europe/Prague
+CZ-646,CZ,Vyškov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-647,CZ,Znojmo,\N,\N,\N,UTC+1,Europe/Prague
+CZ-71,CZ,Olomoucky kraj,Olomoucký,1344413,635675,UTC+1,Europe/Prague
+CZ-711,CZ,Jeseník,\N,\N,\N,UTC+1,Europe/Prague
+CZ-712,CZ,Olomouc,\N,\N,\N,UTC+1,Europe/Prague
+CZ-713,CZ,Prostějov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-714,CZ,Přerov,\N,\N,\N,UTC+1,Europe/Prague
+CZ-715,CZ,Šumperk,\N,\N,\N,UTC+1,Europe/Prague
+CZ-72,CZ,Zlinsky kraj,Zlínský,1337756,590784,UTC+1,Europe/Prague
+CZ-721,CZ,Kroměříž,\N,\N,\N,UTC+1,Europe/Prague
+CZ-722,CZ,Uherské Hradiště,\N,\N,\N,UTC+1,Europe/Prague
+CZ-723,CZ,Vsetín,\N,\N,\N,UTC+1,Europe/Prague
+CZ-724,CZ,Zlín,\N,\N,\N,UTC+1,Europe/Prague
+CZ-80,CZ,Moravskoslezsky kraj,Moravskoslezský,1344233,312056,UTC+1,Europe/Prague
+CZ-801,CZ,Bruntál,\N,\N,\N,UTC+1,Europe/Prague
+CZ-802,CZ,Frýdek-Místek,\N,\N,\N,UTC+1,Europe/Prague
+CZ-803,CZ,Karviná,\N,\N,\N,UTC+1,Europe/Prague
+CZ-804,CZ,Nový Jičín,\N,\N,\N,UTC+1,Europe/Prague
+CZ-805,CZ,Opava,\N,\N,\N,UTC+1,Europe/Prague
+CZ-806,CZ,Ostrava-město,\N,\N,\N,UTC+1,Europe/Prague

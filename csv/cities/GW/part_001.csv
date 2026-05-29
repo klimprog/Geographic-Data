@@ -1,0 +1,514 @@
+id,country,region,name,native_name,population,status,native_status,timezone_utc,timezone_iana
+1727127,GW,GW-BA,Xitole,Xitole,19424,4,town,UTC+0,Africa/Bissau
+1727130,GW,\N,Viana,Viana,1980,4,village,UTC+0,Africa/Bissau
+1727133,GW,\N,Velingara Dulo,Velíngarà Dulò,20549,3,Barangay,UTC+0,Africa/Bissau
+1727151,GW,\N,Unsire,Unsirè,24599,3,Barangay,UTC+0,Africa/Bissau
+1727161,GW,\N,Uncomene,Uncómenè,45845,3,Municipality,UTC+0,Africa/Bissau
+1727168,GW,\N,Unal,Unal,1680,4,village,UTC+0,Africa/Bissau
+1727174,GW,GW-OI,Umpaba,Umpabá,12491,3,Barangay,UTC+0,Africa/Bissau
+1727179,GW,\N,Umba,Umbã,5512,4,village,UTC+0,Africa/Bissau
+1727184,GW,\N,Umaro Balde,Umaro Baldé,1270,4,village,UTC+0,Africa/Bissau
+1727192,GW,\N,Ufoia Ura,Ufoia Ura,1675,4,village,UTC+0,Africa/Bissau
+1727193,GW,\N,Ufoia Saje Embalo,Ufoia Saje Embalô,50306,4,town,UTC+0,Africa/Bissau
+1727196,GW,\N,Ufoia Baciro,Ufoia Baciro,29267,3,Municipality,UTC+0,Africa/Bissau
+1727199,GW,GW-OI,Uenquem,Uenquem,700,4,village,UTC+0,Africa/Bissau
+1727201,GW,\N,Uelingara Solo,Uelíngara Solo,3041,4,village,UTC+0,Africa/Bissau
+1727202,GW,\N,Uelingara,Uelíngarà,1269,4,village,UTC+0,Africa/Bissau
+1727204,GW,\N,Uelingara,Uelingarà,1432,4,village,UTC+0,Africa/Bissau
+1727210,GW,\N,Udamo,Udamo,2124,4,village,UTC+0,Africa/Bissau
+1727211,GW,\N,Ucunhe,Ucunhe,14950,3,Municipality,UTC+0,Africa/Bissau
+1727214,GW,\N,Uato Mandinga,Uato Mandinga,48331,3,Municipality,UTC+0,Africa/Bissau
+1727223,GW,\N,Uassa,Uassá,140,4,village,UTC+0,Africa/Bissau
+1727237,GW,\N,Uana Porto,Uaná Porto,3361,4,village,UTC+0,Africa/Bissau
+1727240,GW,\N,Uali Sacha,Uali Sachà,1689,4,village,UTC+0,Africa/Bissau
+1727268,GW,\N,Tite,Tite,14862,3,Barangay,UTC+0,Africa/Bissau
+1727271,GW,\N,Tingaga,Tingaga,2356,4,village,UTC+0,Africa/Bissau
+1727281,GW,\N,Tendinto,Tendinto,8621,3,Barangay,UTC+0,Africa/Bissau
+1727306,GW,\N,Tanene,Tanene,1158,4,village,UTC+0,Africa/Bissau
+1727307,GW,\N,Tanene,Tanene,2455,4,village,UTC+0,Africa/Bissau
+1727313,GW,GW-OI,Tambandinto,Tambandinto,1602,4,village,UTC+0,Africa/Bissau
+1727326,GW,\N,Talata,Talata,38116,3,Municipality,UTC+0,Africa/Bissau
+1727338,GW,\N,Tabanca Velha,Tabanca Velha,5188,4,village,UTC+0,Africa/Bissau
+1727340,GW,\N,Tabanca Nova,Tabanca Nova,3609,4,village,UTC+0,Africa/Bissau
+1727344,GW,\N,Tabajenque,Tabajenque,1903,4,village,UTC+0,Africa/Bissau
+1727360,GW,\N,Sumacunda,Sumacunda,1762,4,village,UTC+0,Africa/Bissau
+1727369,GW,\N,Sucuta,Sucuta,9106,3,Barangay,UTC+0,Africa/Bissau
+1727372,GW,\N,Sucuta,Sucuta,1478,4,village,UTC+0,Africa/Bissau
+1727387,GW,GW-GA,Sonaco,Sonaco,2753,4,town,UTC+0,Africa/Bissau
+1727389,GW,\N,Som,Som,1287,4,village,UTC+0,Africa/Bissau
+1727396,GW,\N,Sitato,Sitatô,40318,4,town,UTC+0,Africa/Bissau
+1727397,GW,\N,Sissaucunda Samanco,Sissaucunda Samanco,224,4,hamlet,UTC+0,Africa/Bissau
+1727399,GW,\N,Sira Murlel,Sira Murlel,7568,4,village,UTC+0,Africa/Bissau
+1727400,GW,\N,Sirael,Sirael,41188,3,Municipality,UTC+0,Africa/Bissau
+1727401,GW,\N,Sintra,Sintra,45847,3,Municipality,UTC+0,Africa/Bissau
+1727408,GW,\N,Sinchuro Paraual,Sinchuro Paraual,2197,4,village,UTC+0,Africa/Bissau
+1727429,GW,\N,Sincha Ulo,Sinchã Úlò,3151,4,village,UTC+0,Africa/Bissau
+1727434,GW,\N,Sincha Uacho,Sinchã Uachò,2253,4,village,UTC+0,Africa/Bissau
+1727445,GW,\N,Sincha Talata,Sinchã Talata,5493,3,Barangay,UTC+0,Africa/Bissau
+1727446,GW,\N,Sincha Talata,Sinchã Talata,1774,4,village,UTC+0,Africa/Bissau
+1727450,GW,\N,Sincha Suncaro,Sinchã Suncarò,15541,3,Barangay,UTC+0,Africa/Bissau
+1727465,GW,\N,Sincha Seidi,Sinchã Seidi,1146,4,village,UTC+0,Africa/Bissau
+1727480,GW,\N,Sincha Sambaro,Sinchã Sambaro,4276,4,village,UTC+0,Africa/Bissau
+1727491,GW,\N,Sincha Sambael,Sinchã Sambael,1255,4,village,UTC+0,Africa/Bissau
+1727506,GW,\N,Sincha Sajori,Sinchã Sajori,1046,4,village,UTC+0,Africa/Bissau
+1727507,GW,\N,Sincha Sajo,Sinchã Sajo,876,4,village,UTC+0,Africa/Bissau
+1727509,GW,\N,Sincha Saido,Sinchã Saído,2622,4,village,UTC+0,Africa/Bissau
+1727511,GW,\N,Sincha Sabo,Sinchã Sabo,796,4,village,UTC+0,Africa/Bissau
+1727513,GW,\N,Sincha Queuto,Sinchã Queuto,7851,3,Municipality,UTC+0,Africa/Bissau
+1727520,GW,\N,Sincha Queba,Sinchã Queba,2471,4,village,UTC+0,Africa/Bissau
+1727521,GW,\N,Sincha Purom,Sinchã Purom,46231,3,Municipality,UTC+0,Africa/Bissau
+1727524,GW,\N,Sincha Porto,Sinchã Porto,44451,4,town,UTC+0,Africa/Bissau
+1727529,GW,\N,Sincha Pate,Sinchã Pátè,20990,3,Municipality,UTC+0,Africa/Bissau
+1727534,GW,\N,Sincha Ninha,Sinchã Ninha,1154,4,village,UTC+0,Africa/Bissau
+1727539,GW,\N,Sincha Nambo,Sinchã Nambò,3027,4,village,UTC+0,Africa/Bissau
+1727544,GW,\N,Sincha Monta,Sinchã Montã,32532,4,town,UTC+0,Africa/Bissau
+1727583,GW,\N,Sincha Madina,Sinchã Madina,2332,4,village,UTC+0,Africa/Bissau
+1727603,GW,\N,Sincha Jujo,Sinchã Jujô,27593,3,Barangay,UTC+0,Africa/Bissau
+1727612,GW,\N,Sincha Jaucunda,Sinchã Jaucunda,3131,4,village,UTC+0,Africa/Bissau
+1727618,GW,\N,Sincha Jai,Sinchã Jai,8556,3,Barangay,UTC+0,Africa/Bissau
+1727620,GW,\N,Sincha Issa Seidi,Sinchã Issa Seidi,5078,4,village,UTC+0,Africa/Bissau
+1727624,GW,\N,Sincha Inde,Sinchã Indè,1488,4,village,UTC+0,Africa/Bissau
+1727631,GW,\N,Sincha Iero Jaga,Sinchã Iero Jaga,1704,4,village,UTC+0,Africa/Bissau
+1727635,GW,\N,Sincha Iero,Sinchã Iero,3497,4,village,UTC+0,Africa/Bissau
+1727643,GW,\N,Sincha Geba,Sinchã Gêba,2575,3,Barangay,UTC+0,Africa/Bissau
+1727663,GW,\N,Sincha Faja,Sinchã Faja,60146,3,Municipality,UTC+0,Africa/Bissau
+1727664,GW,\N,Sincha Faco,Sinchã Facò,3084,4,village,UTC+0,Africa/Bissau
+1727678,GW,\N,Sincha Dulde,Sinchã Duldè,3025,4,village,UTC+0,Africa/Bissau
+1727680,GW,\N,Sincha Dua,Sinchã Dúà,2666,4,village,UTC+0,Africa/Bissau
+1727681,GW,\N,Sincha Doma,Sinchã Domã,78260,3,Municipality,UTC+0,Africa/Bissau
+1727684,GW,\N,Sincha Dembuel,Sinchã Dembuel,2146,4,village,UTC+0,Africa/Bissau
+1727699,GW,\N,Sincha Demba Ja,Sinchã Demba Já,853,4,village,UTC+0,Africa/Bissau
+1727725,GW,\N,Sincha Coi,Sinchã Coi,4060,3,Barangay,UTC+0,Africa/Bissau
+1727733,GW,\N,Sincha Carimo,Sinchã Carimo,30678,3,Municipality,UTC+0,Africa/Bissau
+1727734,GW,\N,Sincha Capassa,Sinchã Capassa,31106,4,town,UTC+0,Africa/Bissau
+1727737,GW,\N,Sincha Cantaba,Sinchã Cantabá,2324,4,village,UTC+0,Africa/Bissau
+1727741,GW,\N,Sincha Camisa,Sinchã Camisa,42459,3,Barangay,UTC+0,Africa/Bissau
+1727754,GW,\N,Sincha Buco,Sinchã Buco,7786,4,village,UTC+0,Africa/Bissau
+1727756,GW,\N,Sincha Braima,Sinchã Braíma,433,4,hamlet,UTC+0,Africa/Bissau
+1727783,GW,\N,Sincha Bilal,Sinchã Bilal,38124,4,town,UTC+0,Africa/Bissau
+1727791,GW,\N,Sincha Bambe,Sinchã Bambé,568,4,village,UTC+0,Africa/Bissau
+1727792,GW,\N,Sincha Bambe,Sinchã Bambè,22593,3,Municipality,UTC+0,Africa/Bissau
+1727812,GW,\N,Sincha Alfa,Sinchã Alfã,7479,3,Barangay,UTC+0,Africa/Bissau
+1727815,GW,\N,Sincha Alage,Sinchã Alage,3738,4,village,UTC+0,Africa/Bissau
+1727834,GW,\N,Sima,Sima,12970,3,Barangay,UTC+0,Africa/Bissau
+1727850,GW,\N,Serracao Amaro,Serração Amaro,909,4,village,UTC+0,Africa/Bissau
+1727861,GW,\N,See,See,4172,4,village,UTC+0,Africa/Bissau
+1727873,GW,\N,Sau,Sau,892,4,village,UTC+0,Africa/Bissau
+1727881,GW,\N,Sare Ura,Sare Ura,4393,4,village,UTC+0,Africa/Bissau
+1727882,GW,\N,Sare Ula,Sare Ulá,145,4,hamlet,UTC+0,Africa/Bissau
+1727901,GW,\N,Sare Saco,Sare Saco,5785,4,village,UTC+0,Africa/Bissau
+1727902,GW,\N,Sare Saba,Sare Saba,1002,4,village,UTC+0,Africa/Bissau
+1727911,GW,\N,Sare Nhanhala,Sare Nhanhala,2638,4,village,UTC+0,Africa/Bissau
+1727912,GW,\N,Sare Nhado,Sare Nhado,2096,4,village,UTC+0,Africa/Bissau
+1727929,GW,GW-OI,Sare Mancama,Sare Mancamã,3593,4,village,UTC+0,Africa/Bissau
+1727938,GW,\N,Sare Juma,Sare Juma,750,4,village,UTC+0,Africa/Bissau
+1727943,GW,\N,Sare Jaube,Sare Jaubè,2441,4,village,UTC+0,Africa/Bissau
+1727957,GW,\N,Sare Ina,Sare Ina,599,4,village,UTC+0,Africa/Bissau
+1727962,GW,\N,Sare Ieroba,Sare Ierobà,34562,3,Municipality,UTC+0,Africa/Bissau
+1727976,GW,\N,Sare Donha,Sare Donhá,18869,3,Barangay,UTC+0,Africa/Bissau
+1727984,GW,\N,Sare Demba Jicoi,Sare Demba Jicoi,793,4,village,UTC+0,Africa/Bissau
+1727988,GW,\N,Sare Demba,Sare Demba,439,4,village,UTC+0,Africa/Bissau
+1727989,GW,GW-OI,Sare Demba,Sare Demba,3270,4,village,UTC+0,Africa/Bissau
+1727990,GW,\N,Sare Delo Maunde,Sare Dêlô Maundè,1625,4,village,UTC+0,Africa/Bissau
+1727993,GW,\N,Sare Dabel,Sare Dabel,2959,4,village,UTC+0,Africa/Bissau
+1727995,GW,\N,Sare Cuta Penda,Sare Cuta Penda,171332,3,City,UTC+0,Africa/Bissau
+1728001,GW,\N,Sare Chumo,Sare Chumo,3720,4,village,UTC+0,Africa/Bissau
+1728006,GW,\N,Sare Carajo,Sare Carajo,7117,3,Barangay,UTC+0,Africa/Bissau
+1728017,GW,\N,Sare Birai,Sare Birai,2307,4,village,UTC+0,Africa/Bissau
+1728019,GW,\N,Sare Baradi,Sare Baradi,4224,3,Barangay,UTC+0,Africa/Bissau
+1728045,GW,\N,Sao Joao,São João,477,4,village,UTC+0,Africa/Bissau
+1728048,GW,GW-CA,Sao Domingos,São Domingos,6004,4,town,UTC+0,Africa/Bissau
+1728056,GW,\N,Santanja,Santanjã,17120,3,Barangay,UTC+0,Africa/Bissau
+1728061,GW,GW-OI,Santambato,Santambato,3005,4,village,UTC+0,Africa/Bissau
+1728076,GW,\N,Sanjalo,Sanjalo,2012,3,Barangay,UTC+0,Africa/Bissau
+1728082,GW,\N,Sangue Bololi,Sanguê Bololi,11474,3,Municipality,UTC+0,Africa/Bissau
+1728085,GW,\N,Sangare,Sangarè,6886,3,Barangay,UTC+0,Africa/Bissau
+1728098,GW,\N,Sana Jau,Sana Jau,71968,3,Municipality,UTC+0,Africa/Bissau
+1728103,GW,GW-OI,Samoje,Samoje,36310,3,Municipality,UTC+0,Africa/Bissau
+1728125,GW,\N,Sambalicunda,Sambalicunda,52657,3,Municipality,UTC+0,Africa/Bissau
+1728128,GW,\N,Samba Jau,Samba Jau,978,4,village,UTC+0,Africa/Bissau
+1728134,GW,\N,Sambacunda,Sambacunda,19221,3,Municipality,UTC+0,Africa/Bissau
+1728140,GW,\N,Samba Cande,Samba Candè,612,4,village,UTC+0,Africa/Bissau
+1728155,GW,\N,Saludinca,Saludinca,25585,3,Municipality,UTC+0,Africa/Bissau
+1728158,GW,\N,Saliquinhe,Saliquinhé,22588,4,town,UTC+0,Africa/Bissau
+1728163,GW,\N,Salia,Sálià,1923,4,village,UTC+0,Africa/Bissau
+1728175,GW,GW-CA,Saiamcototo,Saiamcôtoto,345,4,village,UTC+0,Africa/Bissau
+1728178,GW,GW-BM,Safim,Safim,3193,4,town,UTC+0,Africa/Bissau
+1728196,GW,\N,Reino de Pintampil,Reino de Pintâmpil,39299,3,Barangay,UTC+0,Africa/Bissau
+1728203,GW,\N,Reino de Bandim,Reino de Bandim,3460,4,village,UTC+0,Africa/Bissau
+1728207,GW,\N,Raba,Raba,860,4,village,UTC+0,Africa/Bissau
+1728215,GW,\N,Quissem,Quissem,17796,3,Municipality,UTC+0,Africa/Bissau
+1728217,GW,\N,Quirafo,Quirafo,2251,4,village,UTC+0,Africa/Bissau
+1728218,GW,\N,Quintungul,Quintungul,6014,4,village,UTC+0,Africa/Bissau
+1728221,GW,GW-BM,Quinhamel,Quinhamel,6602,2,town,UTC+0,Africa/Bissau
+1728223,GW,\N,Quilum,Quilum,1936,4,village,UTC+0,Africa/Bissau
+1728236,GW,\N,Quetuba,Quetubâ,3556,3,Barangay,UTC+0,Africa/Bissau
+1728240,GW,GW-OI,Quessasse,Quessasse,27256,3,Municipality,UTC+0,Africa/Bissau
+1728241,GW,\N,Quessaque,Quessaque,2147,4,village,UTC+0,Africa/Bissau
+1728245,GW,\N,Queroane,Queroane,1133,4,village,UTC+0,Africa/Bissau
+1728248,GW,\N,Queroane,Queroane,5756,3,Barangay,UTC+0,Africa/Bissau
+1728252,GW,GW-OI,Querene,Querene,28920,4,town,UTC+0,Africa/Bissau
+1728264,GW,GW-OI,Quenhaque,Quenhaque,42123,3,Municipality,UTC+0,Africa/Bissau
+1728272,GW,\N,Queneba,Quenebà,27442,3,Municipality,UTC+0,Africa/Bissau
+1728275,GW,\N,Queneba,Quenebà,9995,4,village,UTC+0,Africa/Bissau
+1728282,GW,\N,Quecene,Quecene,6255,3,Barangay,UTC+0,Africa/Bissau
+1728284,GW,GW-TO,Quebo,Quebo,7072,4,village,UTC+0,Africa/Bissau
+1728291,GW,\N,Purenha,Purenha,2895,4,village,UTC+0,Africa/Bissau
+1728304,GW,\N,Priame,Priame,12764,3,Municipality,UTC+0,Africa/Bissau
+1728308,GW,GW-BM,Prabis,Prabis,3223,3,locality,UTC+0,Africa/Bissau
+1728310,GW,\N,Portugal,Portugal,111,4,hamlet,UTC+0,Africa/Bissau
+1728318,GW,\N,Pontia,Pontia,4618,3,Barangay,UTC+0,Africa/Bissau
+1728322,GW,\N,Ponta Vicente de Mata,Ponta Vicente de Mata,2122,4,village,UTC+0,Africa/Bissau
+1728332,GW,\N,Ponta Teixeira,Ponta Teixeira,1464,4,village,UTC+0,Africa/Bissau
+1728334,GW,GW-OI,Ponta Sinoi,Ponta Sinoi,3713,4,village,UTC+0,Africa/Bissau
+1728336,GW,\N,Ponta Simao,Ponta Simão,96939,3,Municipality,UTC+0,Africa/Bissau
+1728340,GW,\N,Ponta Romao,Ponta Romão,1412,4,village,UTC+0,Africa/Bissau
+1728341,GW,\N,Ponta Rocha,Ponta Rocha,1435,4,village,UTC+0,Africa/Bissau
+1728353,GW,\N,Ponta Nova de Saja,Ponta Nova de Sajà,965,4,village,UTC+0,Africa/Bissau
+1728365,GW,\N,Ponta Nova,Ponta Nova,2674,4,village,UTC+0,Africa/Bissau
+1728366,GW,\N,Ponta Nova,Ponta Nova,1877,4,village,UTC+0,Africa/Bissau
+1728382,GW,\N,Ponta Joaquim Pereira,Ponta Joaquim Pereira,5153,4,village,UTC+0,Africa/Bissau
+1728389,GW,\N,Ponta Isaac,Ponta Isaac,30869,3,Municipality,UTC+0,Africa/Bissau
+1728401,GW,\N,Ponta Filipe,Ponta Filipe,9732,4,village,UTC+0,Africa/Bissau
+1728411,GW,\N,Ponta Danga,Ponta Dangã,35129,3,Municipality,UTC+0,Africa/Bissau
+1728418,GW,\N,Ponta Conselho,Ponta Conselho,2002,4,village,UTC+0,Africa/Bissau
+1728420,GW,\N,Ponta Camilo,Ponta Camilo,1686,4,village,UTC+0,Africa/Bissau
+1728425,GW,\N,Ponta Boa Esperanca,Ponta Boa Esperança,69571,3,Barangay,UTC+0,Africa/Bissau
+1728439,GW,\N,Ponta Augusto Hopfer,Ponta Augusto Hopfer,40390,3,Municipality,UTC+0,Africa/Bissau
+1728443,GW,\N,Ponta Augusto Barreto,Ponta Augusto Barreto,4292,4,village,UTC+0,Africa/Bissau
+1728446,GW,\N,Ponta Amaro,Ponta Amaro,2871,4,village,UTC+0,Africa/Bissau
+1728458,GW,\N,Polibaque,Polibaque,1865,4,village,UTC+0,Africa/Bissau
+1728463,GW,\N,Pobreza,Pobreza,4762,3,Barangay,UTC+0,Africa/Bissau
+1728476,GW,GW-GA,Pirada,Pirada,2980,2,town,UTC+0,Africa/Bissau
+1728487,GW,\N,Pichilal,Pichilal,1806,4,village,UTC+0,Africa/Bissau
+1728489,GW,\N,Piche Fulbe,Piche Fulbè,2004,4,village,UTC+0,Africa/Bissau
+1728490,GW,GW-GA,Pitche,Pitche,5655,2,town,UTC+0,Africa/Bissau
+1728493,GW,\N,Piana,Piana,10014,3,Municipality,UTC+0,Africa/Bissau
+1728495,GW,\N,Petora,Petora,14488,3,Barangay,UTC+0,Africa/Bissau
+1728500,GW,\N,Petabe,Petabe,14279,3,Municipality,UTC+0,Africa/Bissau
+1728523,GW,GW-CA,Peconha,Peconha,107052,3,City,UTC+0,Africa/Bissau
+1728524,GW,\N,Pecomal,Pecomal,1027,4,village,UTC+0,Africa/Bissau
+1728525,GW,GW-CA,Pechusse,Pechusse,2511,4,village,UTC+0,Africa/Bissau
+1728539,GW,\N,Pate Jau,Pate Jau,3482,4,village,UTC+0,Africa/Bissau
+1728546,GW,\N,Pate Baliel,Pate Baliel,96653,3,Municipality,UTC+0,Africa/Bissau
+1728556,GW,\N,Paroldade,Paroldade,659,4,village,UTC+0,Africa/Bissau
+1728577,GW,\N,Paiai Numba,Paiai Numbà,1819,4,village,UTC+0,Africa/Bissau
+1728579,GW,\N,Pahamo,Páhamo,10996,3,Barangay,UTC+0,Africa/Bissau
+1728583,GW,GW-OI,Pache,Pache,573,4,village,UTC+0,Africa/Bissau
+1728584,GW,\N,Pacaque,Pacaque,78620,3,Municipality,UTC+0,Africa/Bissau
+1728589,GW,GW-CA,Ossor,Ossor,308,4,hamlet,UTC+0,Africa/Bissau
+1728605,GW,\N,Ocozinho,Ocozinho,876,4,village,UTC+0,Africa/Bissau
+1728612,GW,\N,Nova Sintra,Nova Sintra,55,4,hamlet,UTC+0,Africa/Bissau
+1728621,GW,\N,Nhunanca,Nhunanca,3117,4,village,UTC+0,Africa/Bissau
+1728632,GW,GW-CA,Nhelem,Nhelem,1210,4,village,UTC+0,Africa/Bissau
+1728636,GW,\N,Nharsaba,Nharsabá,1595,4,village,UTC+0,Africa/Bissau
+1728646,GW,GW-OI,Nhanfa,Nhanfa,2395,4,village,UTC+0,Africa/Bissau
+1728647,GW,GW-OI,Nhane,Nhané,5521,3,Barangay,UTC+0,Africa/Bissau
+1728653,GW,GW-CA,Nhambala,Nhambalã,29023,3,Municipality,UTC+0,Africa/Bissau
+1728662,GW,\N,Nhai,Nhai,1654,4,village,UTC+0,Africa/Bissau
+1728663,GW,\N,Nhago,Nhago,14308,4,village,UTC+0,Africa/Bissau
+1728665,GW,GW-OI,Nhae,Nhaé,2791,4,village,UTC+0,Africa/Bissau
+1728667,GW,GW-OI,Nhacra,Nhacra,1966,4,town,UTC+0,Africa/Bissau
+1728675,GW,\N,Nhabijao Bedinca,Nhabijão Bedinca,42662,3,Municipality,UTC+0,Africa/Bissau
+1728679,GW,\N,Nemazinho,Nemazinho,466,4,hamlet,UTC+0,Africa/Bissau
+1728680,GW,\N,Nemataba,Nematabá,1004,4,village,UTC+0,Africa/Bissau
+1728689,GW,\N,Nema,Nema,15399,3,Municipality,UTC+0,Africa/Bissau
+1728723,GW,\N,Missira Balanta,Missirá Balanta,4425,3,Barangay,UTC+0,Africa/Bissau
+1728732,GW,\N,Missira,Missirá,6107,3,Barangay,UTC+0,Africa/Bissau
+1728738,GW,\N,Missira,Missirá,13586,3,Barangay,UTC+0,Africa/Bissau
+1728755,GW,\N,Meneque,Meneque,334,4,village,UTC+0,Africa/Bissau
+1728756,GW,\N,Meneque,Meneque,163,4,village,UTC+0,Africa/Bissau
+1728772,GW,\N,Matar,Mátar,86184,3,City,UTC+0,Africa/Bissau
+1728793,GW,\N,Mantasegui,Mantasegui,3250,3,Barangay,UTC+0,Africa/Bissau
+1728799,GW,GW-OI,Mansoa,Mansôa,7821,3,town,UTC+0,Africa/Bissau
+1728814,GW,GW-OI,Mansaba,Mansabá,5964,4,town,UTC+0,Africa/Bissau
+1728826,GW,\N,Mandonhe,Mandonhe,60373,3,Barangay,UTC+0,Africa/Bissau
+1728830,GW,\N,Mancanji,Mancanji,12159,4,village,UTC+0,Africa/Bissau
+1728842,GW,\N,Mampata,Mampatá,667,4,village,UTC+0,Africa/Bissau
+1728868,GW,\N,Madina Sori,Madina Sori,1352,4,village,UTC+0,Africa/Bissau
+1728884,GW,GW-OI,Madina Mandinga,Madina Mandinga,37152,3,Municipality,UTC+0,Africa/Bissau
+1728885,GW,GW-OI,Madina Mandinga,Madina Mandinga,4297,4,village,UTC+0,Africa/Bissau
+1728894,GW,\N,Madina Iero Balde,Madina Ierò Baldè,770,3,Barangay,UTC+0,Africa/Bissau
+1728896,GW,\N,Madina Fode,Madina Fodè,703,4,village,UTC+0,Africa/Bissau
+1728899,GW,\N,Madina Dongo,Madina Dongo,749,4,village,UTC+0,Africa/Bissau
+1728900,GW,GW-GA,Madina do Boe,Madina do Boé,6224,4,village,UTC+0,Africa/Bissau
+1728902,GW,\N,Madina Demba Gano,Madina Demba Gano,3596,4,village,UTC+0,Africa/Bissau
+1728914,GW,\N,Madina Banjara,Madina Banjara,13945,3,Municipality,UTC+0,Africa/Bissau
+1728930,GW,\N,Madina,Madina,368426,3,City,UTC+0,Africa/Bissau
+1728933,GW,\N,Madina,Madina,4801,4,village,UTC+0,Africa/Bissau
+1728935,GW,\N,Madelife,Madelife,3516,4,village,UTC+0,Africa/Bissau
+1728940,GW,\N,Macademba,Macademba,1555,4,village,UTC+0,Africa/Bissau
+1728964,GW,GW-OI,Leto,Latona,23439,3,Barangay,UTC+0,Africa/Bissau
+1728967,GW,\N,Lenqueto,Lenquetó,2086,4,village,UTC+0,Africa/Bissau
+1728969,GW,\N,Lenqueto,Lenquetó,654,4,village,UTC+0,Africa/Bissau
+1728983,GW,\N,Lamo Coli,Lamo Coli,1497,4,village,UTC+0,Africa/Bissau
+1728984,GW,\N,Lamba,Lambã,3549,4,village,UTC+0,Africa/Bissau
+1728989,GW,\N,Lala Balanta,Lala Balanta,70,4,hamlet,UTC+0,Africa/Bissau
+1728991,GW,\N,Lala,Lala,58,4,hamlet,UTC+0,Africa/Bissau
+1729001,GW,GW-OI,Jugudul,Jugudul,1027,4,village,UTC+0,Africa/Bissau
+1729009,GW,\N,Jombocari,Jombocari,2836,4,village,UTC+0,Africa/Bissau
+1729010,GW,\N,Jolo Papel,Jolô Papel,1983,4,village,UTC+0,Africa/Bissau
+1729019,GW,\N,Joao Monteirozinho,João Monteirozinho,2090,4,village,UTC+0,Africa/Bissau
+1729022,GW,GW-OI,Jimba,Jimba,7388,3,Barangay,UTC+0,Africa/Bissau
+1729025,GW,GW-CA,Jetuntum,Jétuntum,6709,3,Barangay,UTC+0,Africa/Bissau
+1729031,GW,\N,Jaucunda,Jaucunda,945,3,Barangay,UTC+0,Africa/Bissau
+1729033,GW,\N,Jaubecuta,Jaubècuta,21909,3,Barangay,UTC+0,Africa/Bissau
+1729035,GW,\N,Jatadaca,Jatadaca,995,4,village,UTC+0,Africa/Bissau
+1729038,GW,\N,Jaribe,Jaribe,3206,3,Barangay,UTC+0,Africa/Bissau
+1729056,GW,\N,Jaljalto,Jaljalto,464,4,village,UTC+0,Africa/Bissau
+1729070,GW,\N,Jabicunda,Jabicunda,12395,4,town,UTC+0,Africa/Bissau
+1729079,GW,\N,Jabada,Jabadá,3080,4,village,UTC+0,Africa/Bissau
+1729090,GW,GW-OI,Irabato,Irabato,2143,4,village,UTC+0,Africa/Bissau
+1729093,GW,GW-CA,Iolabute,Iolabute,2069,4,village,UTC+0,Africa/Bissau
+1729104,GW,\N,Intacha,Intachá,4944,3,Barangay,UTC+0,Africa/Bissau
+1729115,GW,\N,Inorei,Inorei,369,4,village,UTC+0,Africa/Bissau
+1729118,GW,\N,Injassane Balanta,Injassane Balanta,90723,3,Municipality,UTC+0,Africa/Bissau
+1729121,GW,\N,Inhoda,Inhoda,378,4,village,UTC+0,Africa/Bissau
+1729123,GW,\N,Inhafe,Inhafe,15524,3,Barangay,UTC+0,Africa/Bissau
+1729125,GW,GW-CA,Ingore,Ingoré,8648,3,town,UTC+0,Africa/Bissau
+1729136,GW,GW-OI,Inchula,Inchula,66268,3,Barangay,UTC+0,Africa/Bissau
+1729139,GW,\N,Incassol,Incassol,3655,4,village,UTC+0,Africa/Bissau
+1729147,GW,\N,Imbunga,Imbunga,5151,4,village,UTC+0,Africa/Bissau
+1729181,GW,\N,Ieiel,Ièiel,59255,3,Municipality,UTC+0,Africa/Bissau
+1729183,GW,\N,Ida Mandinga,Ida Mandinga,3238,3,Barangay,UTC+0,Africa/Bissau
+1729187,GW,\N,Iastem,Iastem,1676,4,village,UTC+0,Africa/Bissau
+1729195,GW,\N,Iama,Iama,10977,3,Municipality,UTC+0,Africa/Bissau
+1729199,GW,\N,Helacunda,Hèlacunda,3127,4,village,UTC+0,Africa/Bissau
+1729210,GW,\N,Gundaga Primeiro,Gundagà Primeiro,1023,4,village,UTC+0,Africa/Bissau
+1729220,GW,\N,Guirocunda,Guirocunda,916,4,village,UTC+0,Africa/Bissau
+1729264,GW,\N,Gendo,Gendo,443,4,village,UTC+0,Africa/Bissau
+1729269,GW,\N,Geba,Gêba,425,4,village,UTC+0,Africa/Bissau
+1729276,GW,\N,Ga Saude,Gã Saúde,1857,4,village,UTC+0,Africa/Bissau
+1729278,GW,\N,Garfanhapa,Garfanhapa,9512,3,Barangay,UTC+0,Africa/Bissau
+1729279,GW,\N,Garcia,Garcia,2652,4,village,UTC+0,Africa/Bissau
+1729288,GW,\N,Gansuleimane,Gansuleimane,2114,4,village,UTC+0,Africa/Bissau
+1729291,GW,\N,Gansene,Gansene,1558,4,village,UTC+0,Africa/Bissau
+1729292,GW,\N,Gansene,Gansene,2424,4,village,UTC+0,Africa/Bissau
+1729295,GW,\N,Ganquele,Ganquélè,959,4,village,UTC+0,Africa/Bissau
+1729300,GW,\N,Ganjola,Ganjola,180,4,village,UTC+0,Africa/Bissau
+1729301,GW,GW-OI,Ganjogude,Ganjogude,400,4,village,UTC+0,Africa/Bissau
+1729303,GW,\N,Ganjeque,Ganjeque,4013,4,village,UTC+0,Africa/Bissau
+1729310,GW,\N,Ganfode Mussa,Ganfodè Mussà,29868,3,Municipality,UTC+0,Africa/Bissau
+1729321,GW,\N,Gancumba,Gancumba,39138,3,Municipality,UTC+0,Africa/Bissau
+1729322,GW,\N,Gancula,Gancula,39138,4,town,UTC+0,Africa/Bissau
+1729339,GW,\N,Gambinta,Gambinta,55921,3,Barangay,UTC+0,Africa/Bissau
+1729341,GW,\N,Gambicilai,Gambicilai,1375,4,village,UTC+0,Africa/Bissau
+1729342,GW,GW-OI,Gambia,Gambia,1003,4,village,UTC+0,Africa/Bissau
+1729357,GW,\N,Ga Maior de Cima,Gã Maior de Cima,32224,3,Municipality,UTC+0,Africa/Bissau
+1729368,GW,\N,Galo Cumbija,Galo Cumbijã,5672,3,Barangay,UTC+0,Africa/Bissau
+1729384,GW,\N,Ga Eugenia Bijago,Gã Eugénia Bijagó,465,4,hamlet,UTC+0,Africa/Bissau
+1729385,GW,\N,Ga Eugenia,Gã Eugénia,27088,3,Municipality,UTC+0,Africa/Bissau
+1729386,GW,\N,Gadamael Porto,Gadamael Porto,27005,4,town,UTC+0,Africa/Bissau
+1729388,GW,\N,Gadaboma,Gadaboma,862,4,village,UTC+0,Africa/Bissau
+1729396,GW,GW-GA,Gabu,Gabu,37526,2,city,UTC+0,Africa/Bissau
+1729399,GW,\N,Ga Beafada,Gã Beafada,329,4,hamlet,UTC+0,Africa/Bissau
+1729404,GW,\N,Fulatai,Fulatai,1455,4,village,UTC+0,Africa/Bissau
+1729405,GW,\N,Fula Mori,Fula Mori,628,4,village,UTC+0,Africa/Bissau
+1729410,GW,GW-QU,Fulacunda,Fulacunda,2709,2,town,UTC+0,Africa/Bissau
+1729411,GW,\N,Fulacunda,Fulacunda,44181,3,Municipality,UTC+0,Africa/Bissau
+1729427,GW,GW-OI,Flaque Intude,Flaque Intudé,449,4,village,UTC+0,Africa/Bissau
+1729456,GW,\N,Faro Modi Mutaro,Farô Modi Mutaro,17752,3,Municipality,UTC+0,Africa/Bissau
+1729460,GW,\N,Farina,Farina,2228,4,village,UTC+0,Africa/Bissau
+1729464,GW,GW-OI,Farim,Farim,8500,2,town,UTC+0,Africa/Bissau
+1729478,GW,\N,Farambange,Farambange,15781,3,Municipality,UTC+0,Africa/Bissau
+1729490,GW,\N,Fa Mandinga,Fá Mandinga,967,4,village,UTC+0,Africa/Bissau
+1729508,GW,\N,Eticoga,Eticoga,469,4,village,UTC+0,Africa/Bissau
+1729509,GW,\N,Eticodeba,Eticodeba,922,4,village,UTC+0,Africa/Bissau
+1729510,GW,\N,Eticoba,Eticoba,1004,4,village,UTC+0,Africa/Bissau
+1729524,GW,\N,Encome,Encome,661381,3,City,UTC+0,Africa/Bissau
+1729528,GW,GW-OI,Encherte,Encherte,426,4,village,UTC+0,Africa/Bissau
+1729535,GW,\N,Empada,Empada,10099,4,town,UTC+0,Africa/Bissau
+1729545,GW,GW-CA,Ejatem,Ejatem,1385,4,village,UTC+0,Africa/Bissau
+1729546,GW,\N,Eguebe,Eguebê,497,4,village,UTC+0,Africa/Bissau
+1729547,GW,\N,Eguba,Eguba,393,4,hamlet,UTC+0,Africa/Bissau
+1729549,GW,\N,Eboco,Eboco,2680,4,village,UTC+0,Africa/Bissau
+1729550,GW,\N,Dutequete,Dutequete,42548,3,Municipality,UTC+0,Africa/Bissau
+1729557,GW,\N,Dutajara,Dutajara,49411,3,Municipality,UTC+0,Africa/Bissau
+1729576,GW,\N,Dubichenqui,Dubichenqui,453,4,village,UTC+0,Africa/Bissau
+1729579,GW,\N,Dua,Duà,23034,4,town,UTC+0,Africa/Bissau
+1729580,GW,\N,Doum Eta,Doum Eta,612785,3,City,UTC+0,Africa/Bissau
+1729592,GW,\N,Dinga Ioba,Dinga Ioba,40159,3,Municipality,UTC+0,Africa/Bissau
+1729594,GW,GW-CA,Dimpel,Dímpel,43641,3,Municipality,UTC+0,Africa/Bissau
+1729604,GW,\N,Dembel Jule,Dembel Jule,22608,3,Municipality,UTC+0,Africa/Bissau
+1729612,GW,\N,Demba Legueel,Demba Legueel,1941,4,village,UTC+0,Africa/Bissau
+1729613,GW,\N,Dembaje,Dembaje,34570,3,Barangay,UTC+0,Africa/Bissau
+1729629,GW,\N,Demba Arabe,Demba Árabe,1036,4,village,UTC+0,Africa/Bissau
+1729648,GW,\N,Darsalame,Darsalame,1484,4,village,UTC+0,Africa/Bissau
+1729651,GW,\N,Darsalame,Darsalame,631,4,village,UTC+0,Africa/Bissau
+1729655,GW,\N,Daro,Daro,32475,3,Municipality,UTC+0,Africa/Bissau
+1729677,GW,\N,Damadungue,Damadunguê,1141,4,village,UTC+0,Africa/Bissau
+1729688,GW,GW-CA,Dabatiar,Dabatiar,2400,4,village,UTC+0,Africa/Bissau
+1729692,GW,\N,Cutamaru,Cutamaru,540,4,village,UTC+0,Africa/Bissau
+1729701,GW,\N,Cura,Cura,70602,3,Municipality,UTC+0,Africa/Bissau
+1729720,GW,\N,Cuncana,Cuncana,3095,3,Barangay,UTC+0,Africa/Bissau
+1729728,GW,\N,Cumere,Cumeré,654,4,village,UTC+0,Africa/Bissau
+1729745,GW,\N,Cufar Nalu,Cufar Nalu,752,4,village,UTC+0,Africa/Bissau
+1729747,GW,\N,Cufar,Cufar,219,4,town,UTC+0,Africa/Bissau
+1729750,GW,\N,Cuduco,Cuducò,493,4,village,UTC+0,Africa/Bissau
+1729757,GW,GW-OI,Cuboi,Cuboi,1002,3,Barangay,UTC+0,Africa/Bissau
+1729760,GW,\N,Cubocunda,Cubocunda,29205,3,Municipality,UTC+0,Africa/Bissau
+1729784,GW,GW-BA,Contuboel,Contuboel,4871,4,town,UTC+0,Africa/Bissau
+1729789,GW,\N,Congaba,Congaba,149,4,hamlet,UTC+0,Africa/Bissau
+1729794,GW,GW-OI,Concolim,Concolim,33521,3,Barangay,UTC+0,Africa/Bissau
+1729814,GW,GW-CA,Colage,Colage,61425,3,Municipality,UTC+0,Africa/Bissau
+1729819,GW,GW-OI,Coduco,Coduco,881,4,village,UTC+0,Africa/Bissau
+1729830,GW,GW-OI,Clonque,Clonque,5193,4,village,UTC+0,Africa/Bissau
+1729841,GW,GW-CA,Chulame,Chúlame,26566,3,Municipality,UTC+0,Africa/Bissau
+1729845,GW,\N,Chouliga,Chouliga,50688,3,Municipality,UTC+0,Africa/Bissau
+1729846,GW,GW-CA,Choquemone,Choquemone,47102,4,town,UTC+0,Africa/Bissau
+1729852,GW,\N,Chobabe,Chobabe,259,4,village,UTC+0,Africa/Bissau
+1729865,GW,\N,Chauara,Chauarà,713,4,village,UTC+0,Africa/Bissau
+1729873,GW,GW-OI,Changue,Changue,26889,3,Barangay,UTC+0,Africa/Bissau
+1729877,GW,\N,Chancona,Chancona,460,4,village,UTC+0,Africa/Bissau
+1729882,GW,\N,Chaima,Chaima,3548,4,village,UTC+0,Africa/Bissau
+1729885,GW,GW-CA,Causso,Causso,262,4,hamlet,UTC+0,Africa/Bissau
+1729889,GW,\N,Caur de Cima,Caur de Cima,5062,4,village,UTC+0,Africa/Bissau
+1729909,GW,\N,Catomboi,Catomboi,2946,4,village,UTC+0,Africa/Bissau
+1729911,GW,GW-TO,Catio,Catió,9898,2,town,UTC+0,Africa/Bissau
+1729918,GW,GW-CA,Catao Joninque,Catão Joninque,2875,4,village,UTC+0,Africa/Bissau
+1729921,GW,GW-CA,Catao Butame,Catão Butame,4618,4,village,UTC+0,Africa/Bissau
+1729928,GW,GW-CA,Catachate,Catáchate,20768,3,Barangay,UTC+0,Africa/Bissau
+1729933,GW,\N,Cata,Catá,52995,4,town,UTC+0,Africa/Bissau
+1729964,GW,GW-OI,Casa Nova,Casa Nova,3671,4,village,UTC+0,Africa/Bissau
+1729965,GW,\N,Casa Nova,Casa Nova,6064,4,village,UTC+0,Africa/Bissau
+1729967,GW,\N,Carura Samba Balde,Carura Samba Baldè,181,4,village,UTC+0,Africa/Bissau
+1729969,GW,\N,Carungal,Carúngal,19346,3,Municipality,UTC+0,Africa/Bissau
+1729973,GW,\N,Carere,Carere,11981,3,Barangay,UTC+0,Africa/Bissau
+1729975,GW,\N,Carenque,Carenque,4778,3,Barangay,UTC+0,Africa/Bissau
+1729979,GW,\N,Carantaba,Carantabá,3803,4,village,UTC+0,Africa/Bissau
+1729987,GW,\N,Carango,Carango,64906,3,Municipality,UTC+0,Africa/Bissau
+1729997,GW,GW-OI,Capol,Capol,1050,4,village,UTC+0,Africa/Bissau
+1730010,GW,\N,Canxelebel,Canxelebel,2832,4,village,UTC+0,Africa/Bissau
+1730015,GW,\N,Canture,Canturè,1398,4,village,UTC+0,Africa/Bissau
+1730016,GW,\N,Cantumane,Cantumane,2323,4,village,UTC+0,Africa/Bissau
+1730022,GW,GW-CA,Cantintanha,Cantintãnhã,62929,3,Municipality,UTC+0,Africa/Bissau
+1730032,GW,\N,Cantamba,Cantambá,55087,3,Municipality,UTC+0,Africa/Bissau
+1730037,GW,GW-OI,Cantaco,Cantacó,1236,4,village,UTC+0,Africa/Bissau
+1730043,GW,\N,Cansoco Mandinga,Cansocó Mandinga,2626,4,village,UTC+0,Africa/Bissau
+1730050,GW,\N,Cansamba Jau,Cansamba Jau,2665,4,village,UTC+0,Africa/Bissau
+1730070,GW,\N,Canjancula,Canjancula,57852,3,Municipality,UTC+0,Africa/Bissau
+1730072,GW,\N,Canjamo,Canjamo,2575,4,village,UTC+0,Africa/Bissau
+1730097,GW,\N,Cangalai,Cangalai,64364,3,Municipality,UTC+0,Africa/Bissau
+1730116,GW,\N,Candembuia,Candembuia,2640,4,village,UTC+0,Africa/Bissau
+1730123,GW,\N,Cancurdo,Cancurdo,16504,3,Municipality,UTC+0,Africa/Bissau
+1730138,GW,\N,Canchungozinho,Canchungozinho,6977,4,village,UTC+0,Africa/Bissau
+1730139,GW,GW-CA,Canchungo,Canchungo,13652,3,locality,UTC+0,Africa/Bissau
+1730140,GW,GW-CA,Canchungo,Canchungo,6853,3,town,UTC+0,Africa/Bissau
+1730143,GW,\N,Canchuma Manjaco,Canchumà Manjaco,87661,3,Municipality,UTC+0,Africa/Bissau
+1730154,GW,\N,Camuteba,Camutebã,1012,4,village,UTC+0,Africa/Bissau
+1730156,GW,\N,Camuntudu,Camuntudu,5802,4,village,UTC+0,Africa/Bissau
+1730159,GW,\N,Campreno Biafada,Campreno Biafada,5852,3,Barangay,UTC+0,Africa/Bissau
+1730162,GW,\N,Campeane,Campeane,45000,3,Municipality,UTC+0,Africa/Bissau
+1730171,GW,GW-CA,Campada Namoanta,Campada Namoanta,50583,3,Municipality,UTC+0,Africa/Bissau
+1730172,GW,GW-CA,Campada Bajogate,Campada Bajogate,4373,4,village,UTC+0,Africa/Bissau
+1730189,GW,\N,Cambesse,Cambéssè,4738,4,village,UTC+0,Africa/Bissau
+1730192,GW,\N,Cambeidare,Cambeidare,1249,4,village,UTC+0,Africa/Bissau
+1730194,GW,\N,Cambara Nhaco,Cambara Nhaco,78149,3,Municipality,UTC+0,Africa/Bissau
+1730218,GW,GW-OI,Ca Mamadu,Cã Mamadu,3616,4,village,UTC+0,Africa/Bissau
+1730225,GW,\N,Camaga,Camagá,144875,3,Municipality,UTC+0,Africa/Bissau
+1730251,GW,\N,Cajuto,Cájuto,3024,4,village,UTC+0,Africa/Bissau
+1730263,GW,GW-CA,Caio,Caio,1398,4,town,UTC+0,Africa/Bissau
+1730272,GW,GW-CA,Caguepe,Caguepe,14554,3,Municipality,UTC+0,Africa/Bissau
+1730275,GW,GW-CA,Cagal,Cágal,1011,4,village,UTC+0,Africa/Bissau
+1730282,GW,\N,Cafache Balanta,Cafachè Balanta,3400,4,village,UTC+0,Africa/Bissau
+1730298,GW,GW-TO,Cacine,Cacine,1151,4,town,UTC+0,Africa/Bissau
+1730305,GW,GW-CA,Cacheu,Cacheu,10490,2,town,UTC+0,Africa/Bissau
+1730324,GW,\N,Cacante,Cacante,1872,4,village,UTC+0,Africa/Bissau
+1730326,GW,\N,Cacante,Cacante,39242,3,Barangay,UTC+0,Africa/Bissau
+1730331,GW,\N,Cabuno,Cabuno,254,4,village,UTC+0,Africa/Bissau
+1730338,GW,\N,Caboxanque,Caboxanque,651,4,village,UTC+0,Africa/Bissau
+1730341,GW,\N,Caboupa Cabral,Caboupa Cabral,70,4,hamlet,UTC+0,Africa/Bissau
+1730343,GW,\N,Cabo Seco,Cabo Sêco,654,4,village,UTC+0,Africa/Bissau
+1730347,GW,\N,Cabolol Nalu,Cabolol Nalu,16950,3,Barangay,UTC+0,Africa/Bissau
+1730353,GW,\N,Cabele Pataco,Cabelé Patacò,4564,3,Barangay,UTC+0,Africa/Bissau
+1730361,GW,\N,Cabaz Sosso,Cabaz Sôsso,591,4,village,UTC+0,Africa/Bissau
+1730364,GW,GW-CA,Cabame,Cabame,215,4,hamlet,UTC+0,Africa/Bissau
+1730372,GW,GW-CA,Caame,Caame,747,4,village,UTC+0,Africa/Bissau
+1730385,GW,\N,Buro,Buro,1713,4,village,UTC+0,Africa/Bissau
+1730396,GW,\N,Bunglar,Bunglar,560,4,village,UTC+0,Africa/Bissau
+1730398,GW,\N,Bundocuro,Bundocuro,68368,3,Municipality,UTC+0,Africa/Bissau
+1730403,GW,\N,Buma,Buma,868,4,village,UTC+0,Africa/Bissau
+1730406,GW,\N,Bulamete,Bulamete,320,4,village,UTC+0,Africa/Bissau
+1730407,GW,GW-CA,Bula,Bula,10213,4,town,UTC+0,Africa/Bissau
+1730409,GW,\N,Bugulhalete,Bugulhalete,2524,4,village,UTC+0,Africa/Bissau
+1730413,GW,GW-CA,Bugampor,Bugampor,117160,3,Municipality,UTC+0,Africa/Bissau
+1730425,GW,\N,Bucure Mori,Bucuré Mori,2024,4,village,UTC+0,Africa/Bissau
+1730439,GW,\N,Bucamere,Bucameré,2300,4,village,UTC+0,Africa/Bissau
+1730442,GW,GW-BL,Bubaque,Bubaque,7349,3,town,UTC+0,Africa/Bissau
+1730444,GW,GW-QU,Buba,Buba,7898,2,town,UTC+0,Africa/Bissau
+1730448,GW,\N,Bruce,Bruce,173,4,village,UTC+0,Africa/Bissau
+1730449,GW,\N,Bruce,Bruce,256,4,village,UTC+0,Africa/Bissau
+1730451,GW,\N,Brincasse,Brincasse,1150,4,village,UTC+0,Africa/Bissau
+1730458,GW,\N,Brene Papel,Brene Papel,22722,3,Barangay,UTC+0,Africa/Bissau
+1730479,GW,\N,Botai,Botai,193,3,Barangay,UTC+0,Africa/Bissau
+1730496,GW,\N,Bolama de Baixo,Bolama de Baixo,117,4,hamlet,UTC+0,Africa/Bissau
+1730497,GW,GW-BL,Bolama,Bolama,10769,2,town,UTC+0,Africa/Bissau
+1730501,GW,\N,Bojo Fulbe,Bôjo Fulbè,900556,3,City,UTC+0,Africa/Bissau
+1730508,GW,\N,Boche Mende,Boche Mende,6865,4,village,UTC+0,Africa/Bissau
+1730512,GW,\N,Bocana Nalu,Bocana Nalu,819,4,village,UTC+0,Africa/Bissau
+1730515,GW,\N,Boata,Boata,6532,4,village,UTC+0,Africa/Bissau
+1730516,GW,\N,Boa Esperanca,Boa Esperança,1423,4,village,UTC+0,Africa/Bissau
+1730517,GW,\N,Boa Esperanca,Boa Esperança,6519,4,village,UTC+0,Africa/Bissau
+1730518,GW,GW-CA,Blute,Blute,1003,4,village,UTC+0,Africa/Bissau
+1730528,GW,\N,Blom,Blom,4941,3,Barangay,UTC+0,Africa/Bissau
+1730530,GW,\N,Bloi,Bloi,14936,3,Municipality,UTC+0,Africa/Bissau
+1730547,GW,GW-OI,Bissora,Bissorã,12688,4,town,UTC+0,Africa/Bissau
+1730548,GW,GW-OI,Bissora,Bissorã,11964,3,locality,UTC+0,Africa/Bissau
+1730552,GW,\N,Bissilao,Bissilão,1790,4,village,UTC+0,Africa/Bissau
+1730555,GW,\N,Bissauzinho,Bissauzinho,1849,3,Barangay,UTC+0,Africa/Bissau
+1730558,GW,GW-BS,Bissau,Bissau,401689,1,City proper,UTC+0,Africa/Bissau
+1730567,GW,GW-OI,Bissancage,Bissancage,904,4,village,UTC+0,Africa/Bissau
+1730582,GW,\N,Biogate,Biógate,308,4,hamlet,UTC+0,Africa/Bissau
+1730595,GW,\N,Bine,Bine,265,4,village,UTC+0,Africa/Bissau
+1730611,GW,\N,Bijene,Bijene,1495,4,village,UTC+0,Africa/Bissau
+1730612,GW,\N,Bijante,Bijante,602,4,village,UTC+0,Africa/Bissau
+1730614,GW,\N,Bijante,Bijante,84,4,village,UTC+0,Africa/Bissau
+1730625,GW,\N,Bichau,Bichau,1405,4,village,UTC+0,Africa/Bissau
+1730645,GW,\N,Bessunha,Bessunha,21957,3,Municipality,UTC+0,Africa/Bissau
+1730648,GW,\N,Bessecunda,Bèssècunda,675,4,village,UTC+0,Africa/Bissau
+1730655,GW,GW-OI,Beracozinho,Beracòzinho,288,4,hamlet,UTC+0,Africa/Bissau
+1730663,GW,GW-CA,Benja,Benja,30612,3,Municipality,UTC+0,Africa/Bissau
+1730664,GW,GW-OI,Benifo,Benifo,28684,4,town,UTC+0,Africa/Bissau
+1730669,GW,\N,Benate,Benate,3519,4,village,UTC+0,Africa/Bissau
+1730679,GW,\N,Belem,Belém,517,4,hamlet,UTC+0,Africa/Bissau
+1730697,GW,\N,Bedanda,Bedanda,783,4,village,UTC+0,Africa/Bissau
+1730703,GW,\N,Batambali Beafada,Batâmbali Beafada,1177,4,village,UTC+0,Africa/Bissau
+1730713,GW,\N,Barraca Tara,Barraca Tara,130494,3,Municipality,UTC+0,Africa/Bissau
+1730726,GW,GW-CA,Barraca Bambore,Barraca Bamboré,2656,4,village,UTC+0,Africa/Bissau
+1730739,GW,\N,Banum,Banum,473190,3,City,UTC+0,Africa/Bissau
+1730749,GW,\N,Bantaja Mandinga,Bantajã Mandinga,66740,3,Municipality,UTC+0,Africa/Bissau
+1730771,GW,\N,Banir,Banir,45970,3,Municipality,UTC+0,Africa/Bissau
+1730773,GW,\N,Banim,Banim,2744,4,village,UTC+0,Africa/Bissau
+1730789,GW,\N,Bambato,Bambato,949,3,Barangay,UTC+0,Africa/Bissau
+1730800,GW,GW-BA,Bambadinca,Bambadinca,19727,4,town,UTC+0,Africa/Bissau
+1730813,GW,\N,Bajope,Bajope,515,4,village,UTC+0,Africa/Bissau
+1730819,GW,\N,Bajingara,Bajíngarà,42688,3,Municipality,UTC+0,Africa/Bissau
+1730820,GW,\N,Bajeto,Bajeto,17778,4,town,UTC+0,Africa/Bissau
+1730833,GW,\N,Bagondante,Bagondante,245,4,hamlet,UTC+0,Africa/Bissau
+1730839,GW,GW-BA,Bafata,Bafatá,33502,2,city,UTC+0,Africa/Bissau
+1730841,GW,\N,Badica,Badica,1114,4,village,UTC+0,Africa/Bissau
+1730863,GW,GW-CA,Babol,Babol,1853,4,village,UTC+0,Africa/Bissau
+1730879,GW,\N,Anor,Anor,12865,3,Municipality,UTC+0,Africa/Bissau
+1730881,GW,\N,Anipoco,Anipoco,616,4,village,UTC+0,Africa/Bissau
+1730887,GW,\N,Angumba,Angumba,122,4,village,UTC+0,Africa/Bissau
+1730906,GW,\N,Ancamona,Ancamona,54,4,village,UTC+0,Africa/Bissau
+1730909,GW,\N,Ancajibe,Ancajibe,911,4,village,UTC+0,Africa/Bissau
+1730914,GW,\N,Ancabasse,Ancabasse,5377,3,Municipality,UTC+0,Africa/Bissau
+1730923,GW,GW-OI,Amina Dala,Amina Dala,2032,4,village,UTC+0,Africa/Bissau
+1730932,GW,\N,Amedalai,Amedalai,1548,4,village,UTC+0,Africa/Bissau
+1730943,GW,\N,Ambereno,Ambereno,636,4,village,UTC+0,Africa/Bissau
+1730944,GW,\N,Ambeno,Ambeno,164,4,village,UTC+0,Africa/Bissau
+1730950,GW,\N,Almane Fonsom,Almane Fonsom,850,4,village,UTC+0,Africa/Bissau
+1730956,GW,\N,Aldeia Nova,Aldeia Nova,10714,4,village,UTC+0,Africa/Bissau
+1730958,GW,\N,Aldeia Formosa,Aldeia Formosa,50903,3,Municipality,UTC+0,Africa/Bissau
+1730960,GW,\N,Aldeia,Aldeia,308,4,hamlet,UTC+0,Africa/Bissau
+1730963,GW,\N,Aidara Beafada,Áidarà Beafada,2696,3,Barangay,UTC+0,Africa/Bissau
+1730966,GW,\N,Agua Verde,Água Verde,363,4,village,UTC+0,Africa/Bissau
+1730968,GW,\N,Agongo de Coreto,Agongo de Corêto,24437,3,Barangay,UTC+0,Africa/Bissau
+1730974,GW,\N,Afia,Afià,967,4,village,UTC+0,Africa/Bissau
+1730980,GW,\N,Afia,Áfià,13846,3,Barangay,UTC+0,Africa/Bissau
+1730983,GW,\N,Afia,Áfià,30251,3,Municipality,UTC+0,Africa/Bissau
+1730987,GW,\N,Afanque,Afanque,2099,3,Barangay,UTC+0,Africa/Bissau
+1730988,GW,\N,Acuno,Acuno,1732,4,village,UTC+0,Africa/Bissau
+1730998,GW,\N,Abu,Abu,191,4,village,UTC+0,Africa/Bissau
+1731006,GW,GW-BM,Prabis,Prabis,574,4,village,UTC+0,Africa/Bissau

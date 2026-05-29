@@ -1,0 +1,5307 @@
+id,city_id,language_key,name
+6714900,87207,la,Yunta
+6715054,87209,la,Yundi
+6715285,87212,la,Yumali
+6715362,87213,la,Yuendumu
+6715593,87216,la,\N
+6715901,87220,la,Yornup
+6716132,87223,la,Yorketown
+6716209,87224,la,Eboracum
+6716286,87225,la,Yoongarillup
+6716440,87227,la,Yirrkala
+6716671,87230,la,Yerecoin
+6716902,87233,la,Yelverton
+6717133,87236,la,Yeelanna
+6717210,87237,la,Yealering
+6717518,87241,la,Yarloop
+6717749,87244,la,Yanmah
+6717826,87245,la,Yankalilla
+6717903,87246,la,Kyan Pin
+6718288,87251,la,Yallunda Flat
+6718442,87253,la,Yallingup
+6718519,87254,la,Yalgoo
+6718827,87258,la,Wyndham
+6718904,87259,la,Wynarka
+6719058,87261,la,Wyalkatchem
+6719289,87264,la,Wundowie
+6719443,87266,la,Wudinna
+6719520,87267,la,Wubin
+6719828,87271,la,Woomera
+6719982,87273,la,Wool Bay
+6720059,87274,la,Woogenellup
+6720213,87276,la,Woodside
+6720598,87281,la,Woodchester
+6720675,87282,la,Woodanilling
+6720752,87283,la,Wonnerup
+6720829,87284,la,Wongulla
+6720906,87285,la,Wongan Hills
+6721060,87287,la,Wokurna
+6721137,87288,la,Wokalup
+6721368,87291,la,Witchcliffe
+6721445,87292,la,Wistow
+6721522,87293,la,Wisanger
+6721599,87294,la,Wirrulla
+6721676,87295,la,Wirrabara
+6721907,87298,la,Vindesorium
+6722138,87301,la,Wiluna
+6722369,87304,la,Wilmington
+6722446,87305,la,Willyaroo
+6722523,87306,la,Willunga
+6722831,87310,la,Williamstown
+6722985,87312,la,Williams
+6723139,87314,la,Wilga
+6723216,87315,la,Wild Horse Plains
+6723370,87317,la,Wickepin
+6723524,87319,la,Whyalla
+6723755,87322,la,Whites Flat
+6723832,87323,la,Whim Creek
+6724217,87328,la,West Toodyay
+6724294,87329,la,Westonia
+6724679,87334,la,Wellington Mill
+6724756,87335,la,Wellington East
+6724833,87336,la,Wellington
+6725218,87341,la,Weetulta
+6725372,87343,la,Wauraltee
+6725526,87345,la,Wattle Flat
+6725757,87348,la,Watheroo
+6725834,87349,la,Waterloo
+6725911,87350,la,Wasleys
+6726296,87355,la,Warramboo
+6726527,87358,la,Waroona
+6726604,87359,la,Warooka
+6726758,87361,la,Ward Belt
+6726912,87363,la,Warburton
+6726989,87364,la,Warburto
+6727143,87366,la,Wannamal
+6727220,87367,la,Wanilla
+6727297,87368,la,Wangary
+6727374,87369,la,Wandering
+6727451,87370,la,Wandearah East
+6727682,87373,la,Walpole
+6727836,87375,la,Wall Flat
+6727913,87376,la,Wallaroo Mines
+6727990,87377,la,Wallaroo
+6728067,87378,la,Walker Flat
+6728144,87379,la,Walkaway
+6728221,87380,la,Walgoolan
+6728375,87382,la,Waikerie
+6728452,87383,la,Wagin
+6728914,87389,la,Wadderin
+6728991,87390,la,Vine Vale
+6729145,87392,la,Victor Harbor
+6729222,87393,la,Verdun
+6729299,87394,la,Venus Bay
+6729761,87400,la,Urania
+6729915,87402,la,Uraidla
+6729992,87403,la,Ungarra
+6730300,87407,la,Two Wells
+6730454,87409,la,Warmun
+6730531,87410,la,Tungkillo
+6730608,87411,la,Tumby Bay
+6731070,87417,la,Truro
+6731378,87421,la,Trayning
+6731840,87427,la,Tooperang
+6732225,87432,la,Toodyay
+6732302,87433,la,Tincurrin
+6732456,87435,la,Tickera
+6732610,87437,la,Three Springs
+6732687,87438,la,The Range
+6733149,87444,la,Terowie
+6733380,87447,la,Tenterden
+6733534,87449,la,Tennant Creek
+6733611,87450,la,Templers
+6733688,87451,la,Telowie
+6733842,87453,la,Tea Tree Gully
+6733996,87455,la,Taylorville
+6734150,87457,la,Tarlee
+6734381,87460,la,Tarcowie
+6734535,87462,la,Tanunda
+6734612,87463,la,Tanami
+6734689,87464,la,Tammin
+6734766,87465,la,Tambellup
+6735074,87469,la,Tailem Bend
+6735151,87470,la,Swan Reach
+6735228,87471,la,Swanport
+6735767,87478,la,Streaky Bay
+6735844,87479,la,Strathalbyn
+6736383,87486,la,Stockwell
+6736460,87487,la,Stockport
+6736537,87488,la,Stirling
+6736845,87492,la,Stansbury
+6736922,87493,la,Springton
+6737076,87495,la,Spencers Brook
+6737307,87498,la,Spalding
+6737538,87501,la,South Tammin
+6737615,87502,la,South Quairading
+6737769,87504,la,South Kumminin
+6737923,87506,la,South Kilkerran
+6738000,87507,la,Meridionalis Kalamunda
+6738077,87508,la,Southern Cross
+6738154,87509,la,Southern Brook
+6738539,87514,la,Snowtown
+6738616,87515,la,Smoky Bay
+6738924,87519,la,Sherlock
+6739155,87522,la,Shea-Oak Log
+6739232,87523,la,Denham
+6739309,87524,la,Shackleton
+6739463,87526,la,Sedan
+6739540,87527,la,Second Valley
+6739694,87529,la,Scott Creek
+6739925,87532,la,Scaddan
+6740002,87533,la,Sandstone
+6740156,87535,la,Sandilands
+6740233,87536,la,Sanderston
+6740310,87537,la,Sandergrove
+6740464,87539,la,Salter Springs
+6740618,87541,la,Salmon Gums
+6740695,87542,la,Salisbury
+6741003,87546,la,Saddleworth
+6741234,87549,la,Rudall
+6741311,87550,la,Roxby Downs
+6741388,87551,la,Rowland Flat
+6741542,87553,la,Rothsay
+6741619,87554,la,Roseworthy
+6741696,87555,la,Rosetown
+6741773,87556,la,Rosedale
+6741850,87557,la,Rosa Brook
+6741927,87558,la,Roelands
+6742004,87559,la,Roebourne
+6742158,87561,la,Rockleigh
+6742235,87562,la,Rockingham
+6742389,87564,la,Robertstown
+6742466,87565,la,Robe
+6742543,87566,la,Riverton
+6742774,87569,la,Rhynie
+6742928,87571,la,Reeves Plains
+6743159,87574,la,Redhill
+6743236,87575,la,Red Creek
+6743313,87576,la,Redbanks
+6743467,87578,la,Ravensthorpe
+6743621,87580,la,Ranford
+6743775,87582,la,Ramco
+6743852,87583,la,Quorn
+6744006,87585,la,Quinninup
+6744160,87587,la,Quindalup
+6744314,87589,la,Qualeup
+6744468,87591,la,Qualco
+6744545,87592,la,Quairading
+6744699,87594,la,Pygery
+6745084,87599,la,Prospect Hill
+6745161,87600,la,Prospect
+6745315,87602,la,Portus Price
+6745392,87603,la,Port Wakefield
+6745469,87604,la,Port Vincent
+6745546,87605,la,Portus Victoria
+6745623,87606,la,Port Rickaby
+6745700,87607,la,Port Pirie
+6745777,87608,la,Port Neill
+6745854,87609,la,Port Moorowie
+6746085,87612,la,Port Lincoln
+6746162,87613,la,Port Kenny
+6746239,87614,la,Port Julia
+6746393,87616,la,Port Hedland
+6746470,87617,la,Port Germein
+6746624,87619,la,Portus Clinton
+6746701,87620,la,Port Broughton
+6746855,87622,la,Port Augusta
+6746932,87623,la,Porongurup
+6747086,87625,la,Popanyinning
+6747163,87626,la,Poonindie
+6747240,87627,la,Poochera
+6747394,87629,la,Ponde
+6747471,87630,la,Pompoota
+6747548,87631,la,Point Turton
+6747625,87632,la,Point Sturt
+6747702,87633,la,Point Samson
+6747779,87634,la,Point Pass
+6747933,87636,la,Pithara
+6748164,87639,la,Pinkertons Plains
+6748241,87640,la,Pinjarra
+6748318,87641,la,Pingrup
+6748395,87642,la,Pingelly
+6748472,87643,la,Pingaring
+6748549,87644,la,Pinery
+6748626,87645,la,Pine Point
+6748703,87646,la,Pine Creek
+6749165,87652,la,Piesseville
+6749242,87653,la,Picton Junction
+6749396,87655,la,Piawaning
+6749550,87657,la,Peterborough
+6749627,87658,la,Perthia
+6749704,87659,la,Perponda
+6749858,87661,la,Perenjori
+6749935,87662,la,Penong
+6750012,87663,la,Penneshaw
+6750166,87665,la,Pemberton
+6750320,87667,la,Pekina
+6750551,87670,la,Pearlah
+6750628,87671,la,Pearce
+6750782,87673,la,Pekes
+6750936,87675,la,Paynes Find
+6751013,87676,la,Paskeville
+6751090,87677,la,Parryville
+6751398,87681,la,Paris Creek
+6751783,87686,la,Palmer
+6751860,87687,la,Pallamana
+6751937,87688,la,Palgarup
+6752091,87690,la,Owen
+6752168,87691,la,Orroroo
+6752322,87693,la,Oodnadatta
+6752476,87695,la,Onslow
+6752553,87696,la,Ongerup
+6752784,87699,la,Ogilvie
+6753246,87705,la,Nyabing
+6753400,87707,la,Nuriootpa
+6753708,87711,la,Nungarin
+6753785,87712,la,Numbulwar Missionis
+6753939,87714,la,Nullagine
+6754324,87719,la,Norton Summit
+6754555,87722,la,North Shields
+6755094,87729,la,North Dandalup
+6755171,87730,la,Northcliffe
+6755402,87733,la,Northampton
+6755479,87734,la,Northam
+6755556,87735,la,Norseman
+6755710,87737,la,Nornalup
+6755864,87739,la,Normanville
+6756249,87744,la,Nokaning
+6756326,87745,la,Noggerup
+6756480,87747,la,Nildottie
+6756557,87748,la,Nhulunbuy
+6756634,87749,la,Ngapala
+6756788,87751,la,New Norcia
+6756865,87752,la,Newman
+6756942,87753,la,Newlands
+6757019,87754,la,Newdegate
+6757404,87759,la,Nelshaby
+6757635,87762,la,Needilup
+6757789,87764,la,Neales Flat
+6758020,87767,la,Narrung
+6758097,87768,la,Narrogin
+6758174,87769,la,Narrikup
+6758251,87770,la,Narridy
+6758328,87771,la,Narra Tarra
+6758482,87773,la,Narembeen
+6758636,87775,la,Napperby
+6758713,87776,la,Napier
+6758790,87777,la,Nantawarra
+6758867,87778,la,Nanson
+6759021,87780,la,Nannup
+6759175,87782,la,Nangkita
+6759252,87783,la,Nangeenan
+6759637,87788,la,Nairne
+6759868,87791,la,Nabawa
+6759945,87792,la,Myponga
+6760099,87794,la,Mypolonga
+6760407,87798,la,Murray Urbs
+6760484,87799,la,Murray Bridge
+6760638,87801,la,Murdinga
+6760715,87802,la,Murbko
+6760792,87803,la,Muradup
+6761023,87806,la,Mundoora
+6761254,87809,la,Mumballup
+6761331,87810,la,Mullewa
+6761408,87811,la,Mullalyup
+6761562,87813,la,Mukinbudin
+6761716,87815,la,Mudamuckla
+6761793,87816,la,Muchea
+6761947,87818,la,Mons Torrens
+6762101,87820,la,Mons Vernon
+6762178,87821,la,Mount Palmer
+6762332,87823,la,Mount McKenzie
+6762486,87825,la,Mount Magnet
+6762717,87828,la,Mount Kokeby
+6762794,87829,la,Mount Isa
+6763102,87833,la,Mount Hardey
+6763564,87839,la,Mount Crawford
+6763718,87841,la,Mount Compass
+6763872,87843,la,Mount Benson
+6764026,87845,la,Mount Barker
+6764103,87846,la,Mount Barker
+6764257,87848,la,Moulyinning
+6764411,87850,la,Mosman Park
+6764796,87855,la,Morgan
+6765027,87858,la,Morawa
+6765104,87859,la,Moppa
+6765335,87862,la,Moorlands
+6765412,87863,la,Moorine Rock
+6765489,87864,la,Moroura
+6765566,87865,la,Moonyoonooka
+6765643,87866,la,Moonta
+6766028,87871,la,Mooliabeenee
+6766259,87874,la,Monteith
+6766413,87876,la,Montacute
+6766644,87879,la,Monarto South
+6766721,87880,la,Monarto
+6766875,87882,la,Mogumber
+6766952,87883,la,Moculta
+6767183,87886,la,Mitcham
+6767337,87888,la,Mintaro
+6767491,87890,la,Minnipa
+6767645,87892,la,Minlaton
+6767722,87893,la,Mingenew
+6768030,87897,la,Miltalie
+6768184,87899,la,Miling
+6768261,87900,la,Milendella
+6768338,87901,la,Milang
+6768492,87903,la,Middleton
+6768723,87906,la,Metricup
+6768800,87907,la,Merriton
+6768877,87908,la,Merredin
+6769108,87911,la,Menzies
+6769185,87912,la,Meningie
+6769339,87914,la,Melrosus
+6769493,87916,la,Meelon
+6769570,87917,la,Meekatharra
+6769647,87918,la,Meckering
+6769724,87919,la,Meadows
+6769955,87922,la,McHarg Creek
+6770109,87924,la,Mayanup
+6770263,87926,la,Mataranka
+6770417,87928,la,Marvel Loch
+6770571,87930,la,Marree
+6770648,87931,la,Marradong
+6770802,87933,la,Marrabel
+6771033,87936,la,Marion Bay
+6771110,87937,la,Marion
+6771264,87939,la,Margaret River
+6771495,87942,la,Marble Bar
+6771572,87943,la,Marbelup
+6771726,87945,la,Marananga
+6771880,87947,la,Manoora
+6771957,87948,la,Mannum
+6772034,87949,la,Mannanarie
+6772188,87951,la,Manjimup
+6772265,87952,la,Maningrida
+6772342,87953,la,Mangalo
+6772419,87954,la,Madurah
+6772958,87961,la,Mallala
+6773189,87964,la,Maitland
+6773497,87968,la,Macclesfield
+6773651,87970,la,Lyndoch
+6773805,87972,la,Lumeah
+6773882,87973,la,Ludlow
+6773959,87974,la,Lower Light
+6774036,87975,la,Lower Chittering
+6774113,87976,la,Lowden
+6774267,87978,la,Louth Bay
+6774575,87982,la,Long Plains
+6774960,87987,la,cincinno
+6775037,87988,la,Lochiel
+6775114,87989,la,Lobethal
+6775345,87992,la,Lipson
+6775576,87995,la,Linden
+6775807,87998,la,Light Pass
+6775884,87999,la,Lewiston
+6775961,88000,la,Leonora
+6776038,88001,la,Lenswood
+6776269,88004,la,Leigh Creek
+6776423,88006,la,Laverton
+6776654,88009,la,Laura
+6776731,88010,la,Latham
+6776885,88012,la,Langhorne Creek
+6777270,88017,la,Lake Plains
+6777347,88018,la,Lake King
+6777424,88019,la,Lake Grace
+6777886,88025,la,Kyancutta
+6778117,88028,la,Kwinana
+6778348,88031,la,Kurrawang
+6778579,88034,la,Kununurra
+6779041,88040,la,Kulpara
+6779195,88042,la,Kulin
+6779272,88043,la,Kulikup
+6779580,88047,la,Kukerin
+6779734,88049,la,Kuitpo
+6779888,88051,la,Kudardup
+6779965,88052,la,Kronkup
+6780042,88053,la,Korunye
+6780119,88054,la,Korrelocking
+6780273,88056,la,Korbel
+6780350,88057,la,Koppio
+6780504,88059,la,Koorda
+6780735,88062,la,Koonibba
+6780812,88063,la,Koongawa
+6780966,88065,la,Koomberkine
+6781043,88066,la,Koolywurtie
+6781120,88067,la,Koolunga
+6781274,88069,la,Kookynie
+6781351,88070,la,Koojan
+6781428,88071,la,Konnongorring
+6781659,88074,la,Kondinin
+6781813,88076,la,Kojonup
+6782121,88080,la,Kitchener
+6782275,88082,la,Kirup
+6782429,88084,la,Kingston South East
+6782660,88087,la,Kingscote
+6782891,88090,la,Kimba
+6783199,88094,la,Kielpa
+6783276,88095,la,Keyneton
+6783507,88098,la,Kersbrook
+6783661,88100,la,Kentdale
+6783892,88103,la,Kendenup
+6783969,88104,la,Kellerberrin
+6784354,88109,la,Katherine
+6784431,88110,la,Katanning
+6784508,88111,la,Karridale
+6784585,88112,la,Karranadgin
+6784739,88114,la,Karoonda
+6784970,88117,la,Karlgarin
+6785047,88118,la,Karkoo
+6785278,88121,la,Kapunda
+6785432,88123,la,Kanmantoo
+6785509,88124,la,Kangaroo Flat
+6785817,88128,la,Kalgoorlie
+6785894,88129,la,Kalbarri
+6785971,88130,la,Kalannie
+6786125,88132,la,Kainton
+6786202,88133,la,Kadina
+6786433,88136,la,Jupiter Creek
+6786895,88142,la,Jingalup
+6787049,88144,la,Jilakin
+6787126,88145,la,Jervois
+6787203,88146,la,Jennapullin
+6787280,88147,la,Jennacubbine
+6787511,88150,la,Jardee
+6787588,88151,la,Jamestown
+6787742,88153,la,Jacup
+6787819,88154,la,Jacobs Well
+6787973,88156,la,Isseka
+6788050,88157,la,Irwin
+6788127,88158,la,Iron Knob
+6788435,88162,la,Inman Valley
+6788666,88165,la,Inglewood
+6788820,88167,la,Hyden
+6789128,88171,la,Hoyleton
+6789282,88173,la,Howatharra
+6789359,88174,la,Houghton
+6789667,88178,la,Hopetoun
+6789821,88180,la,Hope Forest
+6790360,88187,la,Hoddy Well
+6790514,88189,la,Hines Hill
+6790591,88190,la,Hindmarsh Valley
+6790668,88191,la,Hindmarsh Island
+6790745,88192,la,Highbury
+6790822,88193,la,Hester
+6791130,88197,la,Hawker
+6791284,88199,la,Haslam
+6791361,88200,la,Harvey
+6791438,88201,la,Hartley
+6791515,88202,la,Harrogate
+6791592,88203,la,Harrismith
+6791823,88206,la,Hampden
+6791977,88208,la,Hamley Bridge
+6792054,88209,la,Hamilton
+6792131,88210,la,Hamel
+6792208,88211,la,Halls Creek
+6792362,88213,la,Hallett
+6792439,88214,la,Halbury
+6792670,88217,la,Hahndorf
+6792747,88218,la,Gutha
+6792824,88219,la,Gumeracha
+6793209,88224,la,Greenough
+6793286,88225,la,Greenock
+6793517,88228,la,Greenhills
+6793594,88229,la,Greenbushes
+6793671,88230,la,Grass Valley
+6793748,88231,la,Grass Patch
+6793979,88234,la,Cramphorne
+6794518,88241,la,Goomalling
+6794595,88242,la,Goolwa
+6794826,88245,la,Gomersal
+6795057,88248,la,Gnowangerup
+6795211,88250,la,Glenlynn
+6795288,88251,la,Gladstone
+6795442,88253,la,Gingin
+6795750,88257,la,Gibson
+6795981,88260,la,Geraldton
+6796058,88261,la,Georgetown
+6796212,88263,la,Gawler River
+6796289,88264,la,Gawler
+6796366,88265,la,Gascoyne Junction
+6796828,88271,la,Gabbin
+6797059,88274,la,Freeling
+6797213,88276,la,Frankland
+6797290,88277,la,Fowlers Bay
+6797598,88281,la,Forest Range
+6797675,88282,la,Forest Grove
+6797752,88283,la,Fords
+6797983,88286,la,Flaxley
+6798214,88289,la,Fitzroy Crossing
+6798368,88291,la,Finniss
+6798445,88292,la,Finke
+6799138,88301,la,Eudunda
+6799215,88302,la,Eucla
+6799369,88304,la,Esperance
+6799523,88306,la,Encounter Bay
+6799754,88309,la,Emu Bay
+6799985,88312,la,Elliston
+6800062,88313,la,Elliott
+6800447,88318,la,Edithburgh
+6800524,88319,la,Edillilie
+6800601,88320,la,Eden Valley
+6800678,88321,la,Echunga
+6801217,88328,la,Eastbrook
+6801294,88329,la,East Beverley
+6801448,88331,la,Dwellingup
+6801602,88333,la,Dutton
+6801756,88335,la,Duranillin
+6801833,88336,la,Dunsborough
+6801987,88338,la,Dumbleyung
+6802064,88339,la,Dulbelling
+6802295,88342,la,Dudinin
+6802449,88344,la,Duck Ponds
+6802603,88346,la,Dublin
+6802834,88349,la,Dowerin
+6803219,88354,la,Doodlakine
+6803373,88356,la,Donnybrook
+6803527,88358,la,Dongara
+6803604,88359,la,Dinninup
+6803681,88360,la,Dingabledinga
+6804066,88365,la,Derby
+6804143,88366,la,Dania
+6804220,88367,la,Port Denison
+6804297,88368,la,Denial Bay
+6804374,88369,la,Delamere
+6804528,88371,la,Deanmill
+6804913,88376,la,Daveyston
+6805144,88379,la,Darwin
+6805452,88383,la,Darke Peak
+6805529,88384,la,Darkan
+6805606,88385,la,Dardanup
+6805914,88389,la,Dandaragan
+6805991,88390,la,Dampier
+6806222,88393,la,Dalwallinu
+6806530,88397,la,Dajarra
+6806684,88399,la,Cygnet River
+6806761,88400,la,Cuthbert
+6806838,88401,la,Currency Creek
+6806915,88402,la,Curramulka
+6807069,88404,la,Cunliffe
+6807300,88407,la,Cunderdin
+6807377,88408,la,Cummins
+6807531,88410,la,Culburra
+6807608,88411,la,Cue
+6807685,88412,la,Cudlee Creek
+6807839,88414,la,Cuballing
+6807916,88415,la,Crystal Brook
+6807993,88416,la,Crossman
+6808070,88417,la,Cromer
+6808147,88418,la,Cranbrook
+6808455,88422,la,Cowirra
+6808609,88424,la,Cowell
+6808763,88426,la,Cowaramup
+6808994,88429,la,Coulta
+6809071,88430,la,Cottesloe
+6809225,88432,la,Cosmo Newbery
+6809302,88433,la,Cortlinye
+6809379,88434,la,Corrigin
+6809456,88435,la,Corny Point
+6809764,88439,la,Copley
+6809995,88442,la,Coorow
+6810149,88444,la,Coorabie
+6810303,88446,la,Coondle
+6810457,88448,la,Coonalpyn
+6810534,88449,la,Coomunga
+6810611,88450,la,Coomberdale
+6810688,88451,la,Coomandook
+6810765,88452,la,Coolup
+6810842,88453,la,Coolgardie
+6811073,88456,la,Cooke Plains
+6811150,88457,la,Cookernup
+6811304,88459,la,Coobowie
+6811381,88460,la,Coober Pedy
+6811612,88463,la,Condowie
+6811766,88465,la,Concordia
+6812228,88471,la,Collie Burn
+6812305,88472,la,Collie
+6812536,88475,la,Cockatoo Valley
+6812690,88477,la,Cleve
+6812998,88481,la,Clarae
+6813152,88483,la,Clackline
+6813460,88487,la,Chittering
+6813845,88492,la,Cherryville
+6813922,88493,la,Cherry Tree Pool
+6814153,88496,la,Carolopolis
+6814615,88502,la,Ceduna
+6814769,88504,la,Cartmeticup
+6815462,88513,la,Carletonville
+6815539,88514,la,Carnamah
+6815924,88519,la,Carey Gully
+6816540,88527,la,Capel
+6816771,88530,la,Canna
+6817156,88535,la,Camooweal
+6817233,88536,la,Cambrai
+6817464,88539,la,Caloote
+6817541,88540,la,Callington
+6817618,88541,la,Calingiri
+6817926,88545,la,Cadoux
+6818003,88546,la,Cadell
+6818157,88548,la,Pincerna
+6818234,88549,la,Bute
+6818311,88550,la,Busselton
+6818542,88553,la,Burracoppin
+6818619,88554,la,Burra
+6818773,88556,la,Burketown
+6818927,88558,la,Burekup
+6819312,88563,la,Buntine
+6819466,88565,la,Bunji
+6819851,88570,la,Bundaleer
+6819928,88571,la,Bunbury
+6820313,88576,la,Bull Creek
+6820390,88577,la,Bullaring
+6820852,88583,la,Brunswick Junction
+6820929,88584,la,Bruce Rock
+6821160,88587,la,Brownlow
+6821314,88589,la,Broomehill
+6821391,88590,la,Broome
+6821468,88591,la,Brookton
+6822007,88598,la,Brinkworth
+6822084,88599,la,Brinkley
+6822315,88602,la,Brighton
+6822469,88604,la,Bridgewater
+6822546,88605,la,Bridgetown
+6822623,88606,la,Brentwood
+6822700,88607,la,Bramley
+6822931,88610,la,Bradbury
+6823008,88611,la,Boyup Brook
+6823085,88612,la,Boyanup
+6823162,88613,la,Bowmans
+6823316,88615,la,Bowhill
+6823470,88617,la,Bowes
+6823624,88619,la,Bowelling
+6823701,88620,la,Boundain
+6823778,88621,la,Boulia
+6823855,88622,la,Boscabel
+6823932,88623,la,Borroloola
+6824009,88624,la,Bornholm
+6824086,88625,la,Borden
+6824548,88631,la,Booleroo Centre
+6824625,88632,la,Booleroo
+6825010,88637,la,Booborowie
+6825395,88642,la,Bolgart
+6825549,88644,la,Boddington
+6825626,88645,la,Bodallin
+6825703,88646,la,Blyth
+6825857,88648,la,Blinman
+6825934,88649,la,Bletchley
+6826011,88650,la,Blakiston
+6826088,88651,la,Fontium Nigrum
+6826396,88655,la,Birdwood
+6826473,88656,la,Birdum
+6826550,88657,la,Birdsville
+6826627,88658,la,Binnu
+6826704,88659,la,Bindi Bindi
+6826858,88661,la,Biggs Flat
+6827012,88663,la,Beverley
+6827089,88664,la,Bethel
+6827166,88665,la,Bethania
+6827474,88669,la,Benjinup
+6827551,88670,la,Benger
+6827782,88673,la,Bencubbin
+6827859,88674,la,Belvidere
+6828244,88679,la,Bejoording
+6828398,88681,la,Beetaloo Valley
+6828552,88683,la,Besevler
+6828629,88684,la,Bedourie
+6828937,88688,la,Beaufort
+6829014,88689,la,Beacon
+6829091,88690,la,Batchelor
+6829168,88691,la,Basket Range
+6829707,88698,la,Barossa Goldfields
+6829784,88699,la,Baroota
+6830015,88702,la,Barabba
+6830477,88708,la,Ballidu
+6830708,88711,la,Balingup
+6830785,88712,la,Balhannah
+6830862,88713,la,Balgowan
+6830939,88714,la,Balgo Hill
+6831170,88717,la,Balbarrup
+6831247,88718,la,Balaklava
+6831401,88720,la,Bakers Hill
+6831863,88726,la,Babakin
+6832017,88728,la,Avon
+6832171,88730,la,Augusta
+6832248,88731,la,Auburn
+6832479,88734,la,Ashton
+6832556,88735,la,Ashbourne
+6832787,88738,la,Arthurton
+6832864,88739,la,Arthur River
+6832941,88740,la,Arrino
+6833018,88741,la,Arno Bay
+6833172,88743,la,Ardrossan
+6833249,88744,la,Ardath
+6833326,88745,la,Appila
+6833557,88748,la,Angas Valley
+6833634,88749,la,Angaston
+6833711,88750,la,Angas Plains
+6834019,88754,la,American River
+6834096,88755,la,Amata
+6834173,88756,la,Altona
+6834250,88757,la,Alma
+6834327,88758,la,Allingham
+6834481,88760,la,Allendale North
+6834558,88761,la,Allanson
+6834712,88763,la,Alice Springs
+6834789,88764,la,Alford
+6835020,88767,la,Albania
+6835097,88768,la,Ajana
+6835174,88769,la,Agery
+6835251,88770,la,Adelaide River
+6835328,88771,la,Adelaidis
+6835482,88773,la,Manypeaks
+6835713,88776,la,Binningup
+6835867,88778,la,Parham
+6836329,88784,la,Lancelin
+6836406,88785,la,Seabird
+6836483,88786,la,Guilderton
+6836637,88788,la,East Fremantle
+6836714,88789,la,Claremont
+6837022,88793,la,Cervantes
+6837099,88794,la,Jurien Bay
+6837176,88795,la,Leeman
+6837407,88798,la,Horrocks
+6837484,88799,la,Green Head
+6837638,88801,la,Exmouth
+6837715,88802,la,Alyangula
+6837792,88803,la,Tulka
+6838023,88806,la,Boigu
+6838177,88808,la,Zeehan
+6838254,88809,la,Zara
+6838331,88810,la,Yuruga
+6838716,88815,la,Yungaburra
+6839101,88820,la,Yulecart
+6839178,88821,la,Yuleba
+6839332,88823,la,Yowrie
+6839486,88825,la,Young
+6839640,88827,la,Youanmite
+6839717,88828,la,York Plains
+6839794,88829,la,Yorklea
+6840025,88832,la,Yolla
+6840102,88833,la,Yinnar South
+6840179,88834,la,Yinnar
+6840718,88841,la,Yetman
+6840795,88842,la,Yetholme
+6840949,88844,la,Yerrinbool
+6841180,88847,la,Yerra
+6841257,88848,la,Yerong Creek
+6841411,88850,la,Yeppoon
+6841488,88851,la,Yeoval
+6841565,88852,la,Yeodene
+6841642,88853,la,Yengarie
+6841719,88854,la,Yendon
+6841796,88855,la,Yenda
+6842181,88860,la,Yelgun
+6842258,88861,la,Yelarbon
+6842566,88865,la,Yea
+6842951,88870,la,Yass
+6843028,88871,la,Yarwun
+6843182,88873,la,Yarrowyck
+6843259,88874,la,Yarrowitch
+6843336,88875,la,Yarroweyah
+6843721,88880,la,Yarrie Lake
+6843798,88881,la,Yarrawonga
+6843952,88883,la,Yarrawalla
+6844029,88884,la,Yarras
+6844260,88887,la,Yarranlea
+6844491,88890,la,Yarraman
+6844568,88891,la,Yarram
+6844722,88893,la,Yarragon
+6844876,88895,la,Yarraford
+6844953,88896,la,Yarraden
+6845338,88901,la,Yarra
+6845415,88902,la,Yarpturk
+6845646,88905,la,Yarck
+6845877,88908,la,Yapeen
+6846262,88913,la,Yangery
+6846339,88914,la,Yangan
+6846416,88915,la,Yandoit
+6846647,88918,la,Yanderra
+6846724,88919,la,Yandaran
+6846801,88920,la,Yanco
+6846955,88922,la,Yanac
+6847109,88924,la,Yambuna
+6847263,88926,la,Yambuk
+6847494,88929,la,Yamba
+6847802,88933,la,Yallourn
+6848187,88938,la,Yallaroi
+6848418,88941,la,Yalca
+6848572,88943,la,Yalboroo
+6848649,88944,la,Yalangur
+6848957,88948,la,Yahl Paddock
+6849265,88952,la,Yackandandah
+6849342,88953,la,Yabba North
+6849419,88954,la,Yaapeet
+6849496,88955,la,Yaamba
+6849650,88957,la,Wyuna
+6849804,88959,la,Wyreema
+6849881,88960,la,Wyrallah
+6849958,88961,la,Wynyard
+6850035,88962,la,Wyndham
+6850266,88965,la,Wye River
+6850651,88970,la,Wycheproof
+6850882,88973,la,Wybong
+6850959,88974,la,Wyberba
+6851190,88977,la,Wyandra
+6851421,88980,la,Wyalong
+6851575,88982,la,Wuuluman
+6851729,88984,la,Wurruk
+6851806,88985,la,Wurdiboluc
+6852037,88988,la,Wunkar
+6852114,88989,la,Wunghnu
+6852499,88994,la,Wuk Wuk
+6852730,88997,la,Wowan
+6853115,89002,la,Woreen
+6853192,89003,la,Wootton
+6853500,89007,la,Wooroolin
+6853654,89009,la,Woorndoo
+6853731,89010,la,Woorinen North
+6853808,89011,la,Woorinen
+6853885,89012,la,Wooreen
+6854270,89017,la,Wooragee
+6854347,89018,la,Woorabinda
+6854424,89019,la,Woondum
+6854501,89020,la,Woomelang
+6854578,89021,la,Woombah
+6854655,89022,la,Woomargama
+6854886,89025,la,Woolsthorpe
+6855117,89028,la,Woolooga
+6855194,89029,la,Woolomin
+6855348,89031,la,Wooli
+6855425,89032,la,Woolgoolga
+6855579,89034,la,Woolbrook
+6855733,89036,la,Woolamai
+6855887,89038,la,Wood Wood
+6856041,89040,la,Woodview
+6856118,89041,la,Woodvale
+6856349,89044,la,Woodstock
+6856426,89045,la,Woodsreef
+6856580,89047,la,Woodside
+6856657,89048,la,Woodsdale
+6856888,89051,la,Woodleigh
+6857119,89054,la,Woodhill
+6857273,89056,la,Woodgate
+6857427,89058,la,Woodford
+6857581,89060,la,Woodend
+6857658,89061,la,Woodenbong
+6857812,89063,la,Woodburn
+6857889,89064,la,Woodbridge
+6858197,89068,la,Won Wron
+6858505,89072,la,Wonthaggi
+6858582,89073,la,Wongwibinda
+6858967,89078,la,Wongarbon
+6859121,89080,la,Wongabel
+6859198,89081,la,Wondecla
+6859275,89082,la,Wondai
+6859352,89083,la,Wonbah
+6859429,89084,la,Womina
+6859583,89086,la,Womboota
+6859891,89090,la,Wombat
+6860045,89092,la,Wolvi
+6860122,89093,la,South Wolumla
+6860199,89094,la,Wolumla
+6860353,89096,la,Volseley
+6860430,89097,la,Wollun
+6860507,89098,la,Wollongbar
+6860584,89099,la,Wollomombi
+6860738,89101,la,Wollar
+6860892,89103,la,Woleebee
+6861200,89107,la,Wodonga
+6861431,89110,la,Wittitrin
+6861662,89113,la,Wirrinya
+6861739,89114,la,Wirrimbi
+6862201,89120,la,Winwill
+6862278,89121,la,Winton
+6862355,89122,la,Winton
+6862432,89123,la,Winton
+6862586,89125,la,Winslow
+6862663,89126,la,Winnindoo
+6862817,89128,la,Winnaleah
+6862894,89129,la,Winkleigh
+6862971,89130,la,Winkie
+6863125,89132,la,Wingham
+6863202,89133,la,Wingen
+6863279,89134,la,Wingello
+6863510,89137,la,Windorah
+6863664,89139,la,Windeyer
+6863741,89140,la,Windermere
+6863818,89141,la,Windermere
+6863895,89142,la,Windera
+6863972,89143,la,Windellama
+6864203,89146,la,Winchelsea
+6864280,89147,la,Wimbledon
+6864511,89150,la,Wilton
+6864588,89151,la,Wilsons Plains
+6864896,89155,la,Wilmot
+6864973,89156,la,Willung South
+6865050,89157,la,Willung
+6865204,89159,la,Willow Tree
+6865281,89160,la,Salices Grove
+6865589,89164,la,Willina
+6865743,89166,la,Williamsdale
+6865974,89169,la,Willawarrin
+6866051,89170,la,Willaura
+6866128,89171,la,Willatook
+6866282,89173,la,Willala
+6866513,89176,la,Wilkesdale
+6866744,89179,la,Wildes Meadow
+6866898,89181,la,Wilcannia
+6866975,89182,la,Wilby
+6867129,89184,la,Wilberforce
+6867283,89186,la,Wieambilla
+6867514,89189,la,Widdin
+6867591,89190,la,Wickliffe
+6867668,89191,la,Wiangaree
+6867822,89193,la,Whorouly South
+6867899,89194,la,Whorouly
+6867976,89195,la,Whoota
+6868130,89197,la,Whitton
+6868207,89198,la,Whittingham
+6868284,89199,la,Whitfield
+6868515,89202,la,White Rock
+6868669,89204,la,Whitemore
+6868746,89205,la,Whitemark
+6868823,89206,la,Whiteman Creek
+6869131,89210,la,Whitefoord
+6869208,89211,la,White Cliffs
+6869516,89215,la,Whiporie
+6869593,89216,la,Whian Whian
+6869670,89217,la,Whetstone
+6869824,89219,la,Wheeo
+6869901,89220,la,Wheatvale
+6870055,89222,la,Wharparilla
+6870209,89224,la,Weymouth
+6870440,89227,la,West Wyalong
+6870517,89228,la,Westwood
+6870671,89230,la,West Strahan
+6870748,89231,la,West Ridgeley
+6871056,89235,la,West Kentish
+6871287,89238,la,Westerway
+6871364,89239,la,Western Junction
+6871595,89242,la,Westcourt
+6871903,89246,la,Westbury
+6872134,89249,la,Westbrook
+6872211,89250,la,Wesley Vale
+6872288,89251,la,Werris Creek
+6872442,89253,la,Werombi
+6872519,89254,la,Werneth
+6872596,89255,la,Weranga
+6872750,89257,la,Wentworth
+6872827,89258,la,Wensleydale
+6872904,89259,la,Wengenville
+6872981,89260,la,Welshpool
+6873058,89261,la,Welshmans Reef
+6873212,89263,la,Wellsford
+6873366,89265,la,Wellington
+6873443,89266,la,Wellingrove
+6874213,89276,la,Weipa
+6874290,89277,la,Weilmoringle
+6874521,89280,la,Wee Waa
+6874598,89281,la,Weethalle
+6874675,89282,la,Weetaliba
+6874752,89283,la,Weetah
+6874829,89284,la,Weerite
+6874906,89285,la,Weering
+6875060,89287,la,Weemelah
+6875137,89288,la,Weegena
+6875522,89293,la,Wedderburn
+6875599,89294,la,Wedderburn
+6875984,89299,la,Waukivory
+6876215,89302,la,Wauchope
+6876369,89304,la,Waubra
+6876677,89308,la,Wattle Hill
+6876831,89310,la,Wattle Grove
+6876985,89312,la,Wattle Flat
+6877062,89313,la,Wattle Flat
+6877216,89315,la,Wattle Bank
+6877293,89316,la,Wattamondara
+6877524,89319,la,Watsonville
+6877601,89320,la,Watsons Creek
+6877832,89323,la,Waterloo
+6878063,89326,la,Waterfall
+6878217,89328,la,Watchem
+6878448,89331,la,Varvicensis
+6878602,89333,la,Wartook
+6878679,89334,la,Warrubullen
+6878756,89335,la,Warroo
+6878833,89336,la,Warrong
+6878910,89337,la,Warrnambool
+6878987,89338,la,Warrion
+6879295,89342,la,Warrenbayne
+6879372,89343,la,Warren
+6879526,89345,la,Warrell Creek
+6879988,89351,la,Warral
+6880065,89352,la,Warrak
+6880142,89353,la,Warrah Ridge
+6880219,89354,la,Warrah Creek
+6880373,89356,la,Warragul
+6880527,89358,la,Warraderry
+6880604,89359,la,Warracknabeal
+6880835,89362,la,Warra
+6881143,89366,la,Warncoort
+6881451,89370,la,Warkworth
+6881682,89373,la,Warialda
+6881913,89376,la,Wareek
+6881990,89377,la,Wards River
+6882221,89380,la,Wardell
+6882452,89383,la,Waratah
+6882683,89386,la,Wapengo
+6882991,89390,la,Wantabadgery
+6883145,89392,la,Wannon
+6883453,89396,la,Wangoom
+6883761,89400,la,Wangaratta
+6883838,89401,la,Wanganella
+6884069,89404,la,Wandsworth
+6884146,89405,la,Wando Vale
+6884300,89407,la,Wandong
+6884454,89409,la,Wandoan
+6884685,89412,la,Wandilo
+6884762,89413,la,Wandiligong
+6885224,89419,la,Wanaaring
+6885840,89427,la,Walwa
+6885994,89429,la,Walterhall
+6886148,89431,la,Walpeup
+6886225,89432,la,Walpa
+6886379,89434,la,Walmer
+6886687,89438,la,Wallumbilla
+6886764,89439,la,Wallington
+6887072,89443,la,Wallerawang
+6887149,89444,la,Wallendbeen
+6887226,89445,la,Walla Walla
+6887303,89446,la,Wallaville
+6887457,89448,la,Wallarobba
+6887534,89449,la,Wallangra
+6887611,89450,la,Wallangarra
+6887919,89454,la,Wallan
+6888304,89459,la,Wallacedale
+6888381,89460,la,Wallace
+6888458,89461,la,Wallabadah
+6888612,89463,la,Walkerston
+6888766,89465,la,Walgett
+6888843,89466,la,Walcha Road
+6888920,89467,la,Walcha
+6888997,89468,la,Walbundrie
+6889074,89469,la,Wakool
+6889382,89473,la,Wahring
+6889459,89474,la,Wahgunyah
+6889921,89480,la,Wadeville
+6890306,89485,la,Waaia
+6890537,89488,la,Violet Town
+6890614,89489,la,Vinifera
+6890691,89490,la,Vincentii
+6890845,89492,la,Villeneuve
+6890922,89493,la,Victoria Vallis
+6891076,89495,la,Victoria Park
+6891384,89499,la,Verona
+6891538,89501,la,Veresdale
+6891615,89502,la,Ventnor
+6891923,89506,la,Vasey
+6892077,89508,la,Valla Beach
+6892154,89509,la,Valery
+6892231,89510,la,Valentine Plains
+6892308,89511,la,Valencia Creek
+6892539,89514,la,Utungun
+6892693,89516,la,Urunga
+6893001,89520,la,Urbenville
+6893386,89525,la,Urana
+6893463,89526,la,Uralla
+6893617,89528,la,Upsalls Creek
+6893848,89531,la,Upper Tenthill
+6894002,89533,la,Upper Stone
+6894233,89536,la,Upper Rouchel
+6894310,89537,la,Upper Rollands Plains
+6894618,89541,la,Upper Natone
+6895080,89547,la,Upper Manilla
+6895157,89548,la,Upper Lurg
+6895311,89550,la,Upper Horseshoe Creek
+6895388,89551,la,Upper Gundowring
+6895542,89553,la,Upper Freestone
+6895773,89556,la,Upper Corindi
+6895850,89557,la,Upper Colo
+6896004,89559,la,Upper Castra
+6896389,89564,la,Upper Blessington
+6896620,89567,la,Upper Barron
+6896697,89568,la,Upotipotpon
+6896928,89571,la,Ungarie
+6897159,89574,la,Underbool
+6897313,89576,la,Undera
+6897390,89577,la,Umbiram
+6897467,89578,la,Ulverstone
+6897775,89582,la,Ultima
+6897929,89584,la,Ulmarra
+6898160,89587,la,Ulladulla
+6898314,89589,la,Ulimambri
+6898468,89591,la,Ulan
+6898930,89597,la,Tringham
+6899084,89599,la,Tyrendarra
+6899161,89600,la,Tyntynder South
+6899315,89602,la,Tyntynder
+6899392,89603,la,Tyndale
+6899546,89605,la,Tylden
+6899623,89606,la,Tyers
+6899854,89609,la,Tyagarah
+6899931,89610,la,Tsatak
+6900008,89611,la,Two Mile Flat
+6900162,89613,la,Tweed Heads
+6900624,89619,la,Turrawan
+6900778,89621,la,Tuross Head
+6900855,89622,la,Turondale
+6901086,89625,la,Turners Flat
+6901163,89626,la,Turlinjah
+6901317,89628,la,Turallin
+6901471,89630,la,Tunnack
+6901625,89632,la,Tungamull
+6901702,89633,la,Tungamah
+6901779,89634,la,Tuncurry
+6901856,89635,la,Tuncester
+6901933,89636,la,Tunbridge
+6902010,89637,la,Tumut
+6902087,89638,la,Tumoulin
+6902241,89640,la,Tummaville
+6902318,89641,la,Tumblong
+6902395,89642,la,Tumbarumba
+6902549,89644,la,Tullymorgan
+6902626,89645,la,Tullius
+6902703,89646,la,Tullibigeal
+6902780,89647,la,Tullera
+6902857,89648,la,Tullamore
+6902934,89649,la,Tullah
+6903165,89652,la,Tuena
+6903319,89654,la,Tuckurimba
+6903473,89656,la,Tucki
+6903550,89657,la,Tucabia
+6903704,89659,la,Tubbul
+6903935,89662,la,Truncus Creek
+6904012,89663,la,Trungley Hall
+6904089,89664,la,Trundle
+6904243,89666,la,Trowutta
+6904397,89668,la,Trida
+6904551,89670,la,Triangle Flat
+6904782,89673,la,Triabunna
+6905013,89676,la,Tresco
+6905090,89677,la,Trentham East
+6905167,89678,la,Trentham
+6905398,89681,la,Tregeagle
+6905475,89682,la,Trebonne
+6905629,89684,la,Trawool
+6905706,89685,la,Trawalla
+6905860,89687,la,Traveston
+6905937,89688,la,Traralgon South
+6906014,89689,la,Traralgon
+6906091,89690,la,Trangie
+6906245,89692,la,Tragowel
+6906399,89694,la,Trafalgar South
+6906476,89695,la,Trafalgar East
+6906553,89696,la,Trafalgar
+6906630,89697,la,Towrang
+6906784,89699,la,Towong
+6906861,89700,la,Sanctus Johnsville
+6907015,89702,la,Tower Hill
+6907246,89705,la,Towamba
+6907554,89709,la,Tottenham
+6907862,89713,la,Torrumbarry
+6908016,89715,la,Torrington
+6908093,89716,la,Torrens Creek
+6908170,89717,la,Torquay
+6908324,89719,la,Torbanlea
+6908401,89720,la,Topi Topi
+6908555,89722,la,Topaz
+6908709,89724,la,Toowoomba
+6908786,89725,la,Jitotol
+6908863,89726,la,Toothdale
+6908940,89727,la,Tooraweenah
+6909094,89729,la,Toyota
+6909248,89731,la,Toongi
+6909402,89733,la,Toongabbie
+6909710,89737,la,Tomika
+6909941,89740,la,Toolondo
+6910018,89741,la,Toolleen
+6910095,89742,la,Tooleybuc
+6910249,89744,la,Toolangi
+6910326,89745,la,Toolamba West
+6910403,89746,la,Toolamba
+6910480,89747,la,Toogoom
+6910557,89748,la,Toogoolawah
+6910634,89749,la,Toogong
+6910711,89750,la,Tooborac
+6910788,89751,la,Toobeah
+6910865,89752,la,Toobanna
+6911173,89756,la,Tongio
+6911404,89759,la,Tongala
+6911558,89761,la,Tomki
+6911712,89763,la,Tomingley
+6911789,89764,la,Tomewin
+6911866,89765,la,Tomerong
+6912097,89768,la,Tomakin
+6912251,89770,la,Tolmie
+6912328,89771,la,Tolga
+6912405,89772,la,Tocumwal
+6912559,89774,la,Tirroan
+6912636,89775,la,Tirrannaville
+6912790,89777,la,Tintinara
+6912867,89778,la,Tintenbar
+6912944,89779,la,Tintaldra
+6913098,89781,la,Tinonee
+6913175,89782,la,Tingoora
+6913329,89784,la,Tingha
+6913406,89785,la,Tinderbox
+6913483,89786,la,Tin Can Bay
+6913560,89787,la,Tinamba
+6913714,89789,la,Timor
+6913791,89790,la,Timor
+6913868,89791,la,Timmering
+6914022,89793,la,Timboon
+6914484,89799,la,Tilpa
+6914638,89801,la,Tilbuster
+6914715,89802,la,Tilba Tilba
+6914869,89804,la,Tichborne
+6914946,89805,la,Tibooburra
+6915100,89807,la,Tiaro
+6915562,89813,la,Thulimbah
+6915639,89814,la,Thuddungra
+6915716,89815,la,Three Moon
+6915793,89816,la,Thredbo
+6916024,89819,la,Thorpdale
+6916101,89820,la,Thornton
+6916255,89822,la,Thora
+6916409,89824,la,Thoona
+6916717,89828,la,Thirlstane
+6916794,89829,la,Thirlmere
+6917179,89834,la,The Summit
+6917256,89835,la,The Sisters
+6917487,89838,la,The Rock
+6917564,89839,la,Khriask
+6917641,89840,la,Theresa Park
+6917718,89841,la,The Pocket
+6917795,89842,la,Theodore
+6917872,89843,la,The Oaks
+6918103,89846,la,The Lagoon
+6918334,89849,la,The Gums
+6918873,89856,la,Theebine
+6918950,89857,la,The Channon
+6919104,89859,la,The Branch
+6919258,89861,la,Thargomindah
+6919335,89862,la,Thangool
+6919566,89865,la,Thallon
+6919874,89869,la,"Texas, Goodiwindi"
+6919951,89870,la,Tewkesbury
+6920028,89871,la,Teviotville
+6920105,89872,la,Teven
+6920182,89873,la,Tetoora Road
+6920259,89874,la,Terry Hie Hie
+6920413,89876,la,Terramungamine
+6920490,89877,la,Terragon
+6920798,89881,la,Terip Terip
+6920875,89882,la,Teridgerie
+6921029,89884,la,Terang
+6921414,89889,la,Tenterfield
+6921568,89891,la,Tennyson
+6921722,89893,la,Tempy
+6921799,89894,la,Templin
+6921953,89896,la,Temora
+6922107,89898,la,Tellebang
+6922338,89901,la,Telegraph Point
+6922415,89902,la,Telangatuk East
+6922800,89907,la,Teesdale
+6922954,89909,la,Tea Tree
+6923031,89910,la,Teal Point
+6923185,89912,la,Tea Gardens
+6923262,89913,la,Taylors Flat
+6923339,89914,la,Taylors Arm
+6923724,89919,la,Taunton
+6923878,89921,la,Tatyoon
+6923955,89922,la,Tatura
+6924032,89923,la,Tatong
+6924109,89924,la,Tathra
+6924186,89925,la,Tatham
+6924340,89927,la,Tarzali
+6924494,89929,la,Tarwin Lower
+6924648,89931,la,Tarwin
+6924879,89934,la,Tarrington
+6925110,89937,la,Tarrawingee
+6925187,89938,la,Tarraville
+6925264,89939,la,Tarra Valley
+6925649,89944,la,Tarpeena
+6925726,89945,la,Taroom
+6925803,89946,la,Tarong
+6925880,89947,la,Tarnagulla
+6925957,89948,la,Tarlo
+6926111,89950,la,Targinnie
+6926265,89952,la,Taree
+6926650,89957,la,Taranna
+6926958,89961,la,Taralga
+6927189,89964,la,Tarago
+6927266,89965,la,Taradale
+6927420,89967,la,Tara
+6927728,89971,la,Tantanoola
+6927882,89973,la,Tannymorel
+6928113,89976,la,Tanjil South
+6928190,89977,la,Tanja
+6928344,89979,la,Tangorin
+6928652,89983,la,Tangambalanga
+6928729,89984,la,Tandur
+6928806,89985,la,Tandarra
+6928883,89986,la,Tanby
+6928960,89987,la,Tamworth
+6929268,89991,la,Taminick
+6929345,89992,la,Tambo Upper
+6929499,89994,la,Tambo
+6929576,89995,la,Tambar Springs
+6929730,89997,la,Tamban
+6929961,90000,la,Talmalmo
+6930115,90002,la,Tallygaroopna
+6930192,90003,la,Tallong
+6930269,90004,la,Tallimba
+6930346,90005,la,Tallawang
+6930423,90006,la,Tallarook
+6930500,90007,la,Tallangatta
+6930654,90009,la,Tallandoon
+6930885,90012,la,Talgarno
+6931270,90017,la,Talbot
+6931347,90018,la,Talbingo
+6931501,90020,la,Talarm
+6931655,90022,la,Takura
+6931732,90023,la,Takone
+6931963,90026,la,Tahmoor
+6932194,90029,la,Taggerty
+6932271,90030,la,Tabulam
+6932425,90032,la,Tabooba
+6932579,90034,la,Tabilk
+6932656,90035,la,Tabbita
+6933272,90043,la,Sydneium
+6933349,90044,la,Swifts Creek
+6933657,90048,la,Swansea
+6933734,90049,la,Swan Reach
+6933888,90051,la,Swanpool
+6933965,90052,la,Swan Marsh
+6934042,90053,la,Swan Hill
+6934119,90054,la,Swan Creek
+6934196,90055,la,Swan Bay
+6934273,90056,la,Sutton Town
+6934350,90057,la,Sutton Grange
+6934427,90058,la,Sutton Forest
+6934581,90060,la,Sutton
+6934812,90063,la,Surges Bay
+6934966,90065,la,Surat
+6935043,90066,la,Suntop
+6935274,90069,la,Sunnyside
+6935428,90071,la,Sunny Corner
+6935505,90072,la,Summerholm
+6935582,90073,la,Sulphur Creek
+6935813,90076,la,Stubbo
+6935890,90077,la,Stuart Town
+6935967,90078,la,Stuarts Point
+6936044,90079,la,Stuart Mill
+6936121,90080,la,Strzelecki
+6936352,90083,la,Stroud Road
+6936429,90084,la,Stroud
+6936583,90086,la,Stretham
+6936814,90089,la,Strathmerton
+6936968,90091,la,Strathkellar
+6937045,90092,la,Strathdownie
+6937276,90095,la,Strath Creek
+6937353,90096,la,Strathbogie
+6937507,90098,la,Strathblane
+6937584,90099,la,Strathallan
+6937661,90100,la,Stratford
+6937815,90102,la,Strangways
+6937892,90103,la,Strahan
+6937969,90104,la,Stradbroke
+6938046,90105,la,Stowport
+6938508,90111,la,Stony Creek
+6938585,90112,la,Stony Creek
+6939047,90118,la,Stonehenge
+6939124,90119,la,Stonehenge
+6939278,90121,la,Stockyard
+6939355,90122,la,Stockinbingal
+6939432,90123,la,Stockdale
+6939586,90125,la,Stewarts River
+6939817,90128,la,Stewarton
+6940125,90132,la,Port Stephens
+6940279,90134,la,Steiglitz
+6940433,90136,la,Stawell
+6940587,90138,la,Staughton Vale
+6940664,90139,la,Stanwell
+6940741,90140,la,Stanthorpe
+6940818,90141,la,Stannum
+6940895,90142,la,Stannifer
+6941049,90144,la,Stanmore
+6941126,90145,la,Stanley
+6941203,90146,la,Stanley
+6941357,90148,la,Stanhope
+6941434,90149,la,Stanbridge
+6941511,90150,la,Stanborough
+6941588,90151,la,Stamford
+6941973,90156,la,Spring Terrace
+6942050,90157,la,Springsure
+6942281,90160,la,Ver Ridge
+6942358,90161,la,Springmount
+6942435,90162,la,Springhurst
+6942512,90163,la,Ver Hill
+6942589,90164,la,Ver Hill
+6942666,90165,la,Springfield
+6942743,90166,la,Springfield
+6942974,90169,la,Springdale
+6943051,90170,la,Spring Creek
+6943205,90172,la,Seaforth
+6943282,90173,la,Springbrook
+6943436,90175,la,Spreyton
+6943513,90176,la,Sprent
+6943590,90177,la,Speed
+6943898,90181,la,Southwood
+6944206,90185,la,South Riana
+6944437,90188,la,Meridionalis Leongatha
+6944591,90190,la,South Johnstone
+6944976,90195,la,Southgate
+6945053,90196,la,Southern Cross
+6945207,90198,la,Southbrook
+6945284,90199,la,Armus Meridionalis
+6945438,90201,la,Somerton
+6945515,90202,la,Somerset
+6945823,90206,la,Sofala
+6945977,90208,la,Snug
+6946208,90211,la,Snake Valley
+6946362,90213,la,Smythesdale
+6946439,90214,la,Smythes Creek
+6946516,90215,la,Smithtown
+6946593,90216,la,Smithton
+6946901,90220,la,Smeaton
+6947132,90223,la,Sleepy Cavae
+6947440,90227,la,Sladevale
+6947517,90228,la,Skipton
+6947594,90229,la,Skillion Flat
+6947671,90230,la,Skenes Creek
+6947748,90231,la,Sisters Creek
+6947902,90233,la,Singleton
+6948210,90237,la,Silverton
+6948287,90238,la,Silverspur
+6948441,90240,la,Silkwood
+6948749,90244,la,Sidmouth
+6949288,90251,la,Sherwood
+6949442,90253,la,Shepparton
+6949596,90255,la,She Oaks
+6949673,90256,la,Shellharbour
+6949750,90257,la,Shelford
+6949904,90259,la,Shelbourne
+6949981,90260,la,Sheffield
+6950289,90264,la,Sharon
+6950366,90265,la,Shannon Vale
+6950443,90266,la,Shannon Brook
+6950520,90267,la,Shady Creek
+6950751,90270,la,Seymour
+6950828,90271,la,Sexton
+6950905,90272,la,Severnlea
+6951059,90274,la,Seventeen Seventy
+6951136,90275,la,Serviceton
+6951213,90276,la,Serpentine
+6951290,90277,la,Septimus
+6951367,90278,la,Selwyn
+6951598,90281,la,Selbourne
+6951675,90282,la,Segenhoe
+6951752,90283,la,Elandsbaai
+6951829,90284,la,Sedgwick
+6951906,90285,la,Segefield
+6951983,90286,la,Sebastopolis
+6952060,90287,la,Sebastian
+6952137,90288,la,Sea View
+6952214,90289,la,Seaton
+6952291,90290,la,Seaspray
+6952368,90291,la,Sea Lake
+6952676,90295,la,Scottville
+6952753,90296,la,Scottsdale
+6952830,90297,la,Scotts Creek
+6952907,90298,la,Scotsburn
+6952984,90299,la,Scone
+6953292,90303,la,Scamander
+6953446,90305,la,Savernake
+6953523,90306,la,Saumarez
+6953677,90308,la,Sassafras
+6953831,90310,la,Sarsfield
+6953908,90311,la,Sarina
+6954062,90313,la,Sapphire
+6954139,90314,la,San Remo
+6954293,90316,la,Harenosum Point
+6954524,90319,la,Sandy Flat
+6954601,90320,la,Sandy Creek
+6954909,90324,la,Sandigo
+6955217,90328,la,Sandford
+6955294,90329,la,Sandfly
+6955371,90330,la,Sandalwood
+6955525,90332,la,Samsonvale
+6955602,90333,la,Samaria
+6955679,90334,la,Saltwater River
+6956064,90339,la,Salisbury Plains
+6956218,90341,la,Salisbury
+6956295,90342,la,Sale
+6956449,90344,la,Sancta Maria
+6956603,90346,la,Sanctus Leonards
+6956680,90347,la,Sanctus Laurentius
+6956757,90348,la,Sanctus Iacobus
+6956834,90349,la,St Helens
+6957065,90352,la,S. Germani
+6957373,90356,la,Sanctus Arnaldus
+6957527,90358,la,S. Albani
+6957604,90359,la,Sailors Falls
+6958066,90365,la,Rylstone
+6958143,90366,la,Rye Park
+6958297,90368,la,Ryanston
+6958451,90370,la,Ruthven
+6958528,90371,la,Rutherglen
+6958682,90373,la,Rushworth
+6958759,90374,la,Rupanyup
+6958836,90375,la,Runnymede
+6958913,90376,la,Running Stream
+6959221,90380,la,Rugby
+6959298,90381,la,Ruffy
+6959375,90382,la,Rubyvale
+6959452,90383,la,Ruby
+6959529,90384,la,Royston
+6959606,90385,la,Royalla
+6959683,90386,la,Rowsley
+6959837,90388,la,Rowena
+6959914,90389,la,Rowella
+6960068,90391,la,Rous Mill
+6960453,90396,la,Rossville
+6960530,90397,la,Rossmoya
+6960761,90400,la,Rossi
+6960838,90401,la,Rossglen
+6960915,90402,la,Ross Creek
+6961146,90405,la,Ross
+6961223,90406,la,Rosewood
+6961300,90407,la,Rosevears
+6961377,90408,la,Rose Valley
+6961454,90409,la,Rosevale
+6961916,90415,la,Rosehill
+6961993,90416,la,Rosedale
+6962070,90417,la,Rosedale
+6962147,90418,la,Rosedale
+6962224,90419,la,Rosebrook
+6962378,90421,la,Rosebery
+6962532,90423,la,Rosebank
+6962763,90426,la,Ropeley
+6962840,90427,la,Rookhurst
+6962917,90428,la,Romsey
+6962994,90429,la,Roma
+6963071,90430,la,Rolleston
+6963148,90431,la,Rollands Plains
+6963225,90432,la,Rolandus
+6963379,90434,la,Rokewood
+6963456,90435,la,Rokeby
+6963610,90437,la,Roger River
+6963841,90440,la,Rocky River
+6964072,90443,la,Rocky Glen
+6964457,90448,la,Rocky Cape
+6964611,90450,la,Saxum Vallis
+6964919,90454,la,Rockmount
+6965073,90456,la,Rocklyn
+6965150,90457,la,Rockley
+6965227,90458,la,Rockhampton
+6965304,90459,la,Rock Flat
+6965381,90460,la,Rochford
+6965458,90461,la,Rochester
+6965535,90462,la,Rob Roy
+6965766,90465,la,Robertson
+6965843,90466,la,Roadvale
+6965920,90467,la,Riverslea
+6965997,90468,la,Flumen
+6966228,90471,la,Riverleigh
+6966305,90472,la,Rita Island
+6966382,90473,la,Ringarooma
+6966459,90474,la,Rileys Hill
+6966613,90476,la,Ridgley
+6966767,90478,la,Riddell
+6966998,90481,la,Richmond
+6967152,90483,la,Richmond
+6967383,90486,la,Riana
+6967460,90487,la,Rhyndaston
+6967614,90489,la,Rhyll
+6967768,90491,la,Rheola
+6968076,90495,la,Repton
+6968230,90497,la,Renmark West
+6968307,90498,la,Renmark North
+6968384,90499,la,Renmark
+6968538,90501,la,Rendelsham
+6968769,90504,la,Reidsdale
+6968923,90506,la,Reid River
+6969385,90512,la,Reedy Creek
+6969462,90513,la,Reedy Creek
+6969539,90514,la,Red Rock
+6969616,90515,la,Red Range
+6969693,90516,la,Redpa
+6970001,90520,la,Red Hill
+6970232,90523,la,Redesdale
+6970309,90524,la,Red Cliffs
+6970386,90525,la,Redcastle
+6970694,90529,la,Redbank
+6970771,90530,la,Raywood
+6970848,90531,la,Raymond Island
+6970925,90532,la,Rawsonville
+6971156,90535,la,Rawdon Island
+6971233,90536,la,Rawbelle
+6971387,90538,la,Ravenswood
+6971464,90539,la,Ravenswood
+6971541,90540,la,Ravenshoe
+6971695,90542,la,Ravensbourne
+6971926,90545,la,Rathdowney
+6972003,90546,la,Rappville
+6972080,90547,la,Rannock
+6972234,90549,la,Rankins Springs
+6972542,90553,la,Ranelagh
+6972619,90554,la,Rand
+6972696,90555,la,Ranceby
+6973004,90559,la,Raleigh
+6973081,90560,la,Rainbow Flat
+6973158,90561,la,Iris
+6973235,90562,la,Railton
+6973312,90563,la,Raglan
+6973466,90565,la,Raglan
+6973928,90571,la,Quirindi
+6974005,90572,la,Quipolly
+6974236,90575,la,Quinalow
+6974313,90576,la,Quilpie
+6974544,90579,la,Queenstown
+6974698,90581,la,Queenscliff
+6974852,90583,la,Queanbeyan
+6975006,90585,la,Quantong
+6975083,90586,la,Quandialla
+6975237,90588,la,Quamby Brook
+6975391,90590,la,Quambone
+6975468,90591,la,Quambatook
+6975545,90592,la,Quaama
+6975699,90594,la,Pyramul
+6975776,90595,la,Pyramid Hill
+6976084,90599,la,Pyengana
+6976161,90600,la,Pyap
+6976238,90601,la,Pyalong
+6976315,90602,la,Putty
+6976392,90603,la,\N
+6976469,90604,la,Purnim
+6977316,90615,la,Puckapunyal
+6977470,90617,la,Proston
+6977547,90618,la,Proserpine
+6977855,90622,la,Princetown
+6978009,90624,la,Pretty Pine
+6978240,90627,la,Preolenna
+6978317,90628,la,Prenzlau
+6978394,90629,la,Premer
+6978471,90630,la,Premaydena
+6978548,90631,la,Pratten
+6978702,90633,la,Prairie
+6978779,90634,la,Prairie
+6978856,90635,la,Pozieres
+6979318,90641,la,Pound Creek
+6979549,90644,la,Port Welshpool
+6979626,90645,la,Port Sorell
+6979703,90646,la,Port Macquarie
+6979780,90647,la,Port MacDonnell
+6979934,90649,la,Portlandia
+6980011,90650,la,Portland
+6980088,90651,la,Port Huon
+6980165,90652,la,Port Franklin
+6980242,90653,la,Port Fairy
+6980319,90654,la,Porters Retreat
+6980396,90655,la,Port Douglas
+6980473,90656,la,Port Campbell
+6980627,90658,la,Port Arthur
+6980704,90659,la,Portarlington
+6980858,90661,la,Port Albert
+6980935,90662,la,Porepunkah
+6981089,90664,la,Poowong North
+6981166,90665,la,Poowong East
+6981243,90666,la,Poowong
+6981320,90667,la,Pootilla
+6981474,90669,la,Pooncarie
+6981628,90671,la,Pooginagoric
+6981782,90673,la,Pompapiel
+6981859,90674,la,Pomonal
+6981936,90675,la,Pomeroy
+6982013,90676,la,Pomborneit
+6982398,90681,la,Pleystowe
+6982475,90682,la,Plenty
+6982552,90683,la,amoena Hills
+6982860,90687,la,Plainland
+6982937,90688,la,Pittsworth
+6983322,90693,la,Pirron Yallock
+6983399,90694,la,Piries
+6983553,90696,la,Pipers River
+6983630,90697,la,Pipers Creek
+6983707,90698,la,Pipers Brook
+6983784,90699,la,Piora
+6983938,90701,la,Pinnaroo
+6984015,90702,la,Pinnacle
+6984246,90705,la,Piney Range
+6984323,90706,la,West Pine Road
+6984477,90708,la,Pine Ridge
+6984631,90710,la,Pine morere
+6985016,90715,la,Pindimar
+6985170,90717,la,Pimpinio
+6985247,90718,la,Pimlico
+6985324,90719,la,Pilton
+6985478,90721,la,Pilliga
+6985555,90722,la,Pillar Valley
+6985632,90723,la,Pilerwa
+6985940,90727,la,Piggabeen
+6986248,90731,la,Picton
+6986325,90732,la,Picola
+6986710,90737,la,Piangil
+6986864,90739,la,Piambong
+6986941,90740,la,Piallaway
+6987018,90741,la,Piallamore
+6987249,90744,la,Phillip
+6987326,90745,la,Pheasant Creek
+6987634,90749,la,Peterborough
+6987711,90750,la,Perthville
+6987788,90751,la,Perth
+6987865,90752,la,Perseverance
+6988019,90754,la,Perry Bridge
+6988096,90755,la,Peronne
+6988327,90758,la,Peranga
+6988481,90760,la,Pentland
+6988558,90761,la,Penshurst
+6988635,90762,la,Penrose
+6988712,90763,la,Penola
+6988789,90764,la,Pennyroyal
+6988943,90766,la,Penguin
+6989174,90769,la,Pembrooke
+6989328,90771,la,Pelverata
+6989790,90777,la,Pejar
+6989867,90778,la,Peeramon
+6990021,90780,la,Peel
+6990252,90783,la,Peechelba
+6990483,90786,la,Pechey
+6990560,90787,la,Peakview
+6990637,90788,la,Peak Hill
+6990714,90789,la,Peak Crossing
+6990791,90790,la,Peacock Siding
+6990945,90792,la,Paynesville
+6991022,90793,la,Paxton
+6991253,90796,la,Pawleena
+6991407,90798,la,Patyah
+6991484,90799,la,Patho
+6991715,90802,la,Paterson
+6991792,90803,la,Patchewollock
+6991869,90804,la,Pata
+6992485,90812,la,Parrakie
+6992793,90816,la,Parkham
+6992947,90818,la,Parkes
+6993024,90819,la,Parilla
+6993178,90821,la,Parattah
+6993409,90824,la,Pappinbarra
+6993640,90827,la,Panmure
+6993794,90829,la,Panitya
+6994025,90832,la,Pambula
+6994102,90833,la,Paloona
+6994179,90834,la,Palmvale
+6994718,90841,la,Pallamallawa
+6994795,90842,la,Pallal
+6994949,90844,la,Palen Creek
+6995488,90851,la,Oxley
+6995719,90854,la,Owens Gap
+6995796,90855,la,Owens Creek
+6995873,90856,la,Owanyilla
+6996027,90858,la,Overland Corner
+6996104,90859,la,Ovens
+6996181,90860,la,Ouyen
+6996258,90861,la,Outtrim
+6996335,90862,la,Ouse
+6996643,90866,la,Ottaba
+6996874,90869,la,Osbornes Flat
+6997259,90874,la,Orielton
+6997336,90875,la,Orford
+6997413,90876,la,Orford
+6997490,90877,la,Orbost
+6997644,90879,la,Orange
+6997798,90881,la,Opossum Bay
+6997875,90882,la,Ophir
+6998106,90885,la,Ota
+6998799,90894,la,Oolong
+6998953,90896,la,Ondit
+6999030,90897,la,Omeo
+6999415,90902,la,Vetus Longwood
+6999569,90904,la,Old Junee
+6999646,90905,la,Lancefield
+6999877,90908,la,Old Bonalbo
+6999954,90909,la,Old Bar
+7000262,90913,la,Ogmore
+7000416,90915,la,O'Connell
+7000724,90919,la,Obley
+7000878,90921,la,Oberon
+7001109,90924,la,Oatlands
+7001263,90926,la,Oakwood
+7001340,90927,la,Oakwood
+7001725,90932,la,Oaklands
+7001802,90933,la,Oakhurst
+7002033,90936,la,Oakey
+7002110,90937,la,Oakenden
+7002187,90938,la,Oakdale
+7002341,90940,la,Nyngan
+7002495,90942,la,Nymboida
+7002572,90943,la,Nymagee
+7002880,90947,la,Nyah West
+7002957,90948,la,Nyah
+7003111,90950,la,Nurrabiel
+7003650,90957,la,Nundle
+7003804,90959,la,Numurkah
+7003881,90960,la,Numulgi
+7003958,90961,la,Numinbah
+7004035,90962,la,Numeralla
+7004189,90964,la,Numbugga
+7004420,90967,la,Numbaa
+7004497,90968,la,Nullawil
+7004574,90969,la,Nullawarre
+7004728,90971,la,Nullamanna
+7004882,90973,la,Nugent
+7005113,90976,la,Nubeena
+7005190,90977,la,Nubba
+7005575,90982,la,Nowendoc
+7005652,90983,la,Nowa Nowa
+7005806,90985,la,Norwin
+7005883,90986,la,Norvegia
+7006114,90989,la,Northwood
+7006268,90991,la,North Tumbulgum
+7006499,90994,la,North Motton
+7006884,90999,la,North Haven
+7007192,91003,la,Northdown
+7007269,91004,la,North Dorrigo
+7007885,91012,la,Norong
+7008039,91014,la,Normanton
+7008116,91015,la,Noradjuha
+7008424,91019,la,Noorinbee
+7008501,91020,la,Noorat
+7008886,91025,la,Nook
+7008963,91026,la,Noojee
+7009117,91028,la,Nobbys Creek
+7009194,91029,la,Nobby
+7009348,91031,la,Nirranda
+7009579,91034,la,Nintingbool
+7010118,91041,la,Nimmitabel
+7010195,91042,la,Nimbin
+7010272,91043,la,Nilma North
+7010349,91044,la,Nilma
+7010503,91046,la,Nilus
+7010734,91049,la,Nietta
+7010888,91051,la,Nicholson
+7010965,91052,la,Nicholls Rivulet
+7011119,91054,la,Nhill
+7011350,91057,la,Newtown
+7011504,91059,la,Newstead
+7011658,91061,la,Newrybar
+7011735,91062,la,Newry
+7011812,91063,la,New Residence
+7011889,91064,la,Neurea
+7012043,91066,la,New Norfolk
+7012197,91068,la,New Mexico
+7012274,91069,la,Newmerella
+7012351,91070,la,Newlyn North
+7012428,91071,la,Newlyn
+7012505,91072,la,Nova Coreelah
+7012582,91073,la,New Italy
+7012736,91075,la,Newhaven
+7012813,91076,la,Newham
+7012890,91077,la,Newfield
+7013044,91079,la,Newcastle
+7013198,91081,la,Newbury
+7013275,91082,la,New Brighton
+7013352,91083,la,Newbridge
+7013429,91084,la,Newbridge
+7013506,91085,la,Neville
+7013583,91086,la,Nevertire
+7013737,91088,la,Neurum
+7013814,91089,la,Neuarpurr
+7013891,91090,la,Netherdale
+7013968,91091,la,Nethercote
+7014045,91092,la,Netherby
+7014430,91097,la,Nerriga
+7014815,91102,la,Nelson
+7014892,91103,la,Nelligen
+7015046,91105,la,Neilrex
+7015200,91107,la,Neilborough
+7015277,91108,la,Neika
+7015431,91110,la,Neerim South
+7015508,91111,la,Neerim East
+7015585,91112,la,Neerim
+7015816,91115,la,Nebo
+7015893,91116,la,Neath
+7016047,91118,la,Nayook
+7016201,91120,la,Navigators
+7016278,91121,la,Navarre
+7016355,91122,la,Naughtons Gap
+7016509,91124,la,Natte Yallock
+7016586,91125,la,Natone
+7016663,91126,la,National Park
+7016740,91127,la,Natimuk
+7016894,91129,la,Nashua
+7016971,91130,la,Nashdale
+7017125,91132,la,Narromine
+7017356,91135,la,Narrawong
+7017433,91136,la,Narrawa
+7017664,91139,la,Narrandera
+7017972,91143,la,Narracan
+7018049,91144,la,Narraburra
+7018203,91146,la,Narrabri
+7018434,91149,la,Narooma
+7018511,91150,la,Naroghio
+7018896,91155,la,Naringal
+7019281,91160,la,Nareen
+7019435,91162,la,Naradhan
+7019512,91163,la,Naracoorte
+7019589,91164,la,Naracoopa
+7019743,91166,la,Napoleons
+7020128,91171,la,Nanneella
+7020282,91173,la,Nangwee
+7020359,91174,la,Nangus
+7020513,91176,la,Nandi
+7020821,91180,la,Nanango
+7020975,91182,la,Nana Glen
+7021052,91183,la,Nambucca Heads
+7021129,91184,la,Nambucca
+7021206,91185,la,Nambrok
+7021360,91187,la,Nalangil
+7021591,91190,la,Nagambie
+7021745,91192,la,Nabowla
+7021899,91194,la,Nabiac
+7022284,91199,la,Mystic Park
+7022438,91201,la,Myrtleville
+7022515,91202,la,Myrtleford
+7022669,91204,la,Myrrhee
+7022746,91205,la,Myrniong
+7023131,91210,la,Mylestom
+7023285,91212,la,Yamy
+7023516,91215,la,Myalla
+7023670,91217,la,Myall
+7023747,91218,la,Muttama
+7023824,91219,la,Muttaburra
+7023901,91220,la,Mutchilba
+7023978,91221,la,Muswellbrook
+7024055,91222,la,Musk Vale
+7024286,91225,la,Murtoa
+7024440,91227,la,Murrurundi
+7024594,91229,la,Murrumburrah
+7024671,91230,la,Murrumbucca
+7024748,91231,la,Murrumbateman
+7024902,91233,la,Murroon
+7024979,91234,la,Murringo
+7025056,91235,la,Murrindindi
+7025287,91238,la,Murrayville
+7025364,91239,la,Murray Upper
+7025441,91240,la,Murrawee
+7025595,91242,la,Murrami
+7025672,91243,la,Murrah
+7025903,91246,la,Murrabit
+7026057,91248,la,Murphys Creek
+7026134,91249,la,Murmungee
+7026211,91250,la,Murgon
+7026288,91251,la,Murgheboluc
+7026365,91252,la,Murga
+7026442,91253,la,Murdunna
+7026519,91254,la,Murchison East
+7026596,91255,la,Murchison
+7026750,91257,la,Munyabla
+7026904,91259,la,Munro
+7027058,91261,la,Mungindi
+7027366,91265,la,Mungar
+7027597,91268,la,Mungallala
+7027674,91269,la,Mundulla
+7027751,91270,la,Mundubbera
+7027905,91272,la,Mundoona
+7028213,91276,la,Mundarlo
+7028367,91278,la,Munbilla
+7028444,91279,la,Mummulgum
+7028598,91281,la,Mumbil
+7028675,91282,la,Mumbannar
+7028752,91283,la,Mulwala
+7028983,91286,la,Mullumbimby
+7029060,91287,la,Mullion Creek
+7029137,91288,la,Mullet Creek
+7029291,91290,la,Mullengandra
+7029368,91291,la,Mullaley
+7029445,91292,la,Mulgowie
+7029522,91293,la,Mulgildie
+7029753,91296,la,Mulbring
+7029984,91299,la,Mudgegonga
+7030138,91301,la,Mudgee
+7030369,91304,la,Muckleford
+7030446,91305,la,Muckatah
+7030677,91308,la,Moyston
+7030908,91311,la,Moyhu
+7031062,91313,la,Mowbray Park
+7031216,91315,la,Moutajup
+7031293,91316,la,Mourilyan Harbour
+7031370,91317,la,Mourilyan
+7031447,91318,la,Al Mawqabah
+7031524,91319,la,Mount Whitestone
+7031601,91320,la,Mount Wallace
+7031678,91321,la,Mount Walker
+7031909,91324,la,Mount Tyson
+7031986,91325,la,Mount Sylvia
+7032217,91328,la,Mount Seymour
+7032294,91329,la,Mount Schank
+7032448,91331,la,Mount Russell
+7032525,91332,la,Mount Rowan
+7032679,91334,la,Mount Perry
+7032756,91335,la,Mount Pelion
+7032833,91336,la,Mount Ossa
+7033218,91341,la,Mount Moriac
+7033295,91342,la,Mount Morgan
+7033372,91343,la,Mount Molloy
+7033449,91344,la,Mons Mitchell
+7033526,91345,la,Mount Mercer
+7033603,91346,la,Mount Mcintyre
+7033757,91348,la,Mount Martin
+7033911,91350,la,Mount Marshall
+7034373,91356,la,Mount Lloyd
+7034450,91357,la,Mount Larcom
+7034681,91360,la,Mount Julian
+7034835,91362,la,Mount Jukes
+7034989,91364,la,Mount Hunter
+7035220,91367,la,Mount Hallen
+7035374,91369,la,Mount George
+7035451,91370,la,Mount Garnet
+7035528,91371,la,Mount Gambier
+7035682,91373,la,Mount Frome
+7035759,91374,la,Mount Fox
+7035836,91375,la,Mount Fairy
+7036144,91379,la,Mount Egerton
+7036221,91380,la,Mount Edwards
+7036298,91381,la,Mount Eccles
+7036452,91383,la,Mount Direction
+7036991,91390,la,Mount Coolon
+7037299,91394,la,Mount Charlton
+7037453,91396,la,Mount Carbine
+7037530,91397,la,Mount Bute
+7037607,91398,la,Mount Burr
+7037761,91400,la,Mount Berryman
+7037915,91402,la,Mount Beauty
+7038069,91404,la,Mount Alford
+7038146,91405,la,Mons View
+7038223,91406,la,Mons Creek
+7038454,91409,la,Moulamein
+7038685,91412,la,Moss Vale
+7038762,91413,la,Mossman
+7038839,91414,la,Mossiface
+7038916,91415,la,Mossgiel
+7039301,91420,la,Morwell
+7039378,91421,la,Morven
+7039455,91422,la,Morven
+7039532,91423,la,Moruya Heads
+7039609,91424,la,Moruya
+7039686,91425,la,Morundah
+7039840,91427,la,Mortons Creek
+7040071,91430,la,Mortlake
+7040302,91433,la,Morrison
+7040379,91434,la,Mororo
+7040687,91438,la,Morinish
+7040764,91439,la,Moriary Road
+7040841,91440,la,Moriac
+7040995,91442,la,Moresby
+7041303,91446,la,Mokre
+7041611,91450,la,Morans Crossing
+7041765,91452,la,Vetus Morago
+7042073,91456,la,Moorwatha
+7042150,91457,la,Mooroopna North
+7042227,91458,la,Mooroopna
+7042381,91460,la,Moorook
+7042535,91462,la,Moorngag
+7042843,91466,la,Moorland
+7042920,91467,la,Moorland
+7043305,91472,la,Moore
+7043382,91473,la,Moore
+7043536,91475,la,Mooralla
+7043613,91476,la,Moorabool
+7043998,91481,la,Moonford
+7044075,91482,la,Moonee Beach
+7044152,91483,la,Mooneba
+7044229,91484,la,Moondooner
+7044460,91487,la,Moonbi
+7044537,91488,la,Moonbah
+7044691,91490,la,Moonan Flat
+7044845,91492,la,Moonambel
+7045153,91496,la,Moolboolaman
+7045461,91500,la,Moogara
+7045538,91501,la,Mooga
+7045692,91503,la,Mooball
+7045769,91504,la,Montumana
+7046000,91507,la,Monto
+7046077,91508,la,Montgomery
+7046154,91509,la,Montefiores
+7046231,91510,la,Monteagle
+7046308,91511,la,Rodriguez
+7046385,91512,la,Montagu
+7046693,91516,la,Monkerai
+7046770,91517,la,Mongogarie
+7046847,91518,la,Mongarlowe
+7047078,91521,la,Monegeetta
+7047232,91523,la,Mondure
+7047463,91526,la,Monash
+7047617,91528,la,Molyullah
+7047694,91529,la,Moltema
+7047848,91531,la,Molong
+7048002,91533,la,Mollongghip
+7048156,91535,la,Moliagul
+7048310,91537,la,Molesworth
+7048387,91538,la,Mole River
+7048464,91539,la,Mole Creek
+7048926,91545,la,Mogriguy
+7049157,91548,la,Mogo
+7049388,91551,la,Mogilla
+7049465,91552,la,Mogendoura
+7049542,91553,la,Moe
+7049619,91554,la,Modewarre
+7049850,91557,la,Moama
+7049927,91558,la,Miva
+7050081,91560,la,Omitama
+7050312,91563,la,Mittagong
+7050389,91564,la,Mitre
+7050466,91565,la,Mitiamo
+7050543,91566,la,Mitchellstown
+7050774,91569,la,Mitchells Flat
+7050851,91570,la,Mitchell
+7050928,91571,la,Mitchell
+7051082,91573,la,Missabotti
+7051159,91574,la,Mirrool
+7051390,91577,la,Mirriwinni
+7051467,91578,la,Miriam Vale
+7051544,91579,la,Mirboo North
+7051698,91581,la,Mirboo
+7051852,91583,la,Mirani
+7052160,91587,la,Minyip
+7052237,91588,la,Minore
+7052545,91592,la,Mininera
+7052622,91593,la,Minimbah
+7052699,91594,la,Minimay
+7052776,91595,la,Minhamite
+7052930,91597,la,Mingela
+7053007,91598,la,Mingay
+7053084,91599,la,Mingary
+7053161,91600,la,Minervae
+7053392,91603,la,Minden
+7053546,91605,la,Minbun
+7053623,91606,la,Mimosa
+7053854,91609,la,Milvale
+7053931,91610,la,Milton
+7054008,91611,la,Milroy
+7054085,91612,la,Milparinka
+7054239,91614,la,Milman
+7054316,91615,la,Milltown
+7054393,91616,la,Millthorpe
+7054547,91618,la,Millmerran
+7054624,91619,la,Millingandi
+7054778,91621,la,Millicent
+7054855,91622,la,Millfield
+7055009,91624,la,Millbrook
+7055086,91625,la,Milbong
+7055163,91626,la,Millaa Millaa
+7055317,91628,la,Milford
+7055394,91629,la,Miles
+7055548,91631,la,Mildura
+7055625,91632,la,Milbrulong
+7055702,91633,la,Milawa
+7055779,91634,la,Mila
+7056010,91637,la,Miepoll
+7056087,91638,la,Miena
+7056164,91639,la,Midginbil
+7056318,91641,la,Midgenoo
+7056395,91642,la,Midgee
+7056549,91644,la,Middleton
+7056703,91646,la,Middle Tarwin
+7057165,91652,la,Michelago
+7057396,91655,la,Mia Mia
+7057473,91656,la,Miallo
+7057627,91658,la,Metz
+7057704,91659,la,Metung
+7057781,91660,la,Methul
+7057858,91661,la,Metcalfe
+7058012,91663,la,Merton
+7058243,91666,la,Merrygoen
+7058397,91668,la,Merriwagga
+7058474,91669,la,Merriwa
+7058551,91670,la,Merimbula
+7058782,91673,la,Merrijig
+7058859,91674,la,Merrigum
+7059013,91676,la,Merino
+7059090,91677,la,Meringandan
+7059244,91679,la,Merinda
+7059398,91681,la,Meredith
+7059552,91683,la,Merbein West
+7059629,91684,la,Merbein South
+7059706,91685,la,Merbein
+7059860,91687,la,Mepunga East
+7060014,91689,la,Menindee
+7060091,91690,la,Mengha
+7060168,91691,la,Mendooran
+7060245,91692,la,Menangle
+7060322,91693,la,Mena Creek
+7060399,91694,la,Memerambi
+7060553,91696,la,Melton Mowbray
+7060630,91697,la,Melrosus
+7060861,91700,la,Mella
+7061015,91702,la,Melbournum
+7061246,91705,la,Megan
+7061323,91706,la,Meerschaum Vale
+7061477,91708,la,Meerlieu
+7061785,91712,la,Merah North
+7061862,91713,la,Meeniyan
+7062170,91717,la,Meander
+7062247,91718,la,Meandarra
+7062324,91719,la,Meadowvale
+7062555,91722,la,McMillans
+7062632,91723,la,McMahons Reef
+7062709,91724,la,McLeans Ridges
+7062863,91726,la,McKinlay
+7063017,91728,la,McKenzie Creek
+7063094,91729,la,McKees Hill
+7063171,91730,la,McIlwraith
+7064018,91741,la,Mayers Flat
+7064326,91745,la,Mawbanna
+7064480,91747,la,Maude
+7064557,91748,la,Maude
+7064634,91749,la,Matong
+7064711,91750,la,Mathoura
+7064788,91751,la,Mathinna
+7065019,91754,la,Massie
+7065173,91756,la,Maryvale
+7065250,91757,la,Maryvale
+7065327,91758,la,Marysville
+7065404,91759,la,Maryland
+7065481,91760,la,Maryborough
+7065558,91761,la,Maryborough
+7065712,91763,la,Marungi
+7065866,91765,la,Marulan
+7066097,91768,la,Marraweeney
+7066174,91769,la,Marrawah
+7066251,91770,la,Marrar
+7066328,91771,la,Maroondan
+7066405,91772,la,Maroona
+7066482,91773,la,Maroon
+7066559,91774,la,Marong
+7066713,91776,la,Marnoo
+7066867,91778,la,Marmor
+7067021,91780,la,Marlo
+7067175,91782,la,Marlborough
+7067252,91783,la,Markwell
+7067560,91787,la,Marian
+7067637,91788,la,Margate
+7067714,91789,la,Mareeba
+7067868,91791,la,Mardan
+7067945,91792,la,Marcus Hill
+7068176,91795,la,Marama
+7068253,91796,la,Manyung
+7068561,91800,la,Manumbar
+7068792,91803,la,Mansfield
+7069023,91806,la,Mannus
+7069100,91807,la,Mannibadar
+7069254,91809,la,Mannerim
+7069408,91811,la,Manilla
+7069485,91812,la,Manildra
+7069716,91815,la,Mangalore
+7069793,91816,la,Mangalore
+7070101,91820,la,Mandurang South
+7070178,91821,la,Mandurang
+7070255,91822,la,Mandurama
+7070409,91824,la,Mandemar
+7070486,91825,la,Mandagery
+7070563,91826,la,Manar
+7070640,91827,la,Manangatang
+7070717,91828,la,Ma Ma Creek
+7070948,91831,la,Malmsbury
+7071256,91835,la,Mallanganee
+7071333,91836,la,Mallacoota
+7071410,91837,la,Maleny
+7071564,91839,la,Maldon
+7071872,91843,la,Malbina
+7071949,91844,la,Malanda
+7072334,91849,la,Majors Creek
+7072488,91851,la,Majorca
+7072565,91852,la,Maitland
+7072642,91853,la,Mairjimmy
+7072796,91855,la,Maindample
+7072873,91856,la,Maimuru
+7072950,91857,la,Mailors Flat
+7073027,91858,la,Maidenwell
+7073489,91864,la,Maffra West Upper
+7073566,91865,la,Maffra
+7074105,91872,la,Macorna
+7074182,91873,la,Maclean
+7074413,91876,la,Maclagan
+7074490,91877,la,Macksville
+7074644,91879,la,Macknade
+7074721,91880,la,Mackay
+7074798,91881,la,Macedon
+7074875,91882,la,McDesme
+7074952,91883,la,Macarthur
+7075029,91884,la,Macalister
+7075183,91886,la,Lyrup
+7075337,91888,la,Lyonville
+7075722,91893,la,Lyndhurst
+7075953,91896,la,Lynch's Creek
+7076030,91897,la,Lymington
+7076184,91899,la,Lurg
+7076338,91901,la,Lulworth
+7076492,91903,la,Lue
+7076800,91907,la,Lucindale
+7076877,91908,la,Lucinda
+7076954,91909,la,Lucaston
+7077262,91913,la,Loxton
+7077416,91915,la,Lowood
+7077493,91916,la,Lowmead
+7077570,91917,la,Low Head
+7077647,91918,la,Lowesdale
+7077724,91919,la,Lower Tully
+7077878,91921,la,Lower Southgate
+7078956,91935,la,Inferior Botobolar
+7079033,91936,la,Lower Boro
+7079187,91938,la,Lower Barrington
+7079572,91943,la,Loveday
+7079726,91945,la,Louth
+7079957,91948,la,Lostock
+7080188,91951,la,Lorne
+7080265,91952,la,Lorne
+7080342,91953,la,Lorinna
+7080419,91954,la,Loorana
+7080496,91955,la,Loomberah
+7080573,91956,la,Longwood
+7080727,91958,la,Longwarry North
+7080958,91961,la,Longreach
+7081035,91962,la,Long Pocket
+7081189,91964,la,\N
+7081266,91965,la,Longley
+7081343,91966,la,Longford
+7081420,91967,la,Longford
+7081574,91969,la,Long Flat
+7081651,91970,la,Longerenong
+7081728,91971,la,Londrigan
+7081805,91972,la,Loira
+7081882,91973,la,Logan
+7082036,91975,la,Lockyer
+7082113,91976,la,Lockwood
+7082267,91978,la,Locksley
+7082344,91979,la,Locksley
+7082421,91980,la,Lockington
+7082498,91981,la,Lockhart
+7082729,91984,la,Loch Lomond
+7082806,91985,la,Lochiel
+7082883,91986,la,Lochaber
+7082960,91987,la,Loch
+7083268,91991,la,Llangothlin
+7083499,91994,la,Liverpool
+7083576,91995,la,Little Swanport
+7083653,91996,la,Little Plain
+7083961,92000,la,Little Billabong
+7084115,92002,la,Lithgow
+7084192,92003,la,Litchfield
+7084269,92004,la,Liston
+7084346,92005,la,Lismore
+7084423,92006,la,Lismore
+7084962,92013,la,Linville
+7085039,92014,la,Linton
+7085270,92017,la,Lindenow South
+7085347,92018,la,Lindenow
+7085578,92021,la,Linburn
+7085732,92023,la,Limevale
+7085809,92024,la,Limestone
+7085963,92026,la,Limbri
+7086194,92029,la,Lilydale
+7086271,92030,la,Lilliput
+7086425,92032,la,Lillimur
+7086579,92034,la,Lillian Rock
+7086656,92035,la,Lileah
+7086733,92036,la,Lightning Ridge
+7086810,92037,la,Liffey
+7086887,92038,la,Lietinna
+7087041,92040,la,Lidster
+7087349,92044,la,Leycester
+7087426,92045,la,Leyburn
+7087503,92046,la,Lexton
+7087657,92048,la,Lewis Ponds
+7087888,92051,la,Levendale
+7088196,92055,la,Lethe Brook
+7088273,92056,la,Lethbridge
+7088350,92057,la,Leslie Manor
+7088658,92061,la,Leongatha
+7088812,92063,la,Leneva
+7088966,92065,la,Lemnos
+7089197,92068,la,Leitchville
+7089274,92069,la,Leigh Creek
+7089428,92071,la,Leichardt
+7089582,92073,la,Legume
+7089659,92074,la,Legerwood
+7089736,92075,la,Legana
+7089813,92076,la,Lefroy
+7089890,92077,la,Leeville
+7089967,92078,la,Leeton
+7090352,92083,la,Learmonth
+7090737,92088,la,Leadville
+7090968,92091,la,Lawrence
+7091199,92094,la,Collis Laverorum
+7091353,92096,la,Lauriston
+7091430,92097,la,Camden Haven
+7091661,92100,la,Laura
+7091738,92101,la,Launceston
+7091815,92102,la,Latrobe
+7091892,92103,la,Lascelles
+7091969,92104,la,Larras Lee
+7092046,92105,la,Larpent
+7092123,92106,la,Larnook
+7092354,92109,la,Laravale
+7092585,92112,la,Lapoinya
+7092739,92114,la,Lannercost
+7093047,92118,la,Langshaw
+7093432,92123,la,Langkoop
+7093663,92126,la,Landsborough
+7093971,92130,la,Lancastria
+7094048,92131,la,Lamplough
+7094125,92132,la,Lamington
+7094202,92133,la,Lameroo
+7094356,92135,la,Lal Lal
+7094510,92137,la,Lalla
+7094664,92139,la,Lalbert
+7094818,92141,la,Lake Tyers
+7094895,92142,la,Lakesland
+7094972,92143,la,Lakeside
+7095049,92144,la,Lakes Entrance
+7095203,92146,la,Lake Rowan
+7095896,92155,la,Lake Clarendon
+7095973,92156,la,Lacus Charm
+7096050,92157,la,Lake Cargelligo
+7096127,92158,la,Lake Bolac
+7096204,92159,la,Lake Boga
+7096281,92160,la,Lake Bathurst
+7096358,92161,la,Laidley
+7096512,92163,la,Lah
+7096666,92165,la,Lagoon Pocket
+7096743,92166,la,Laggan
+7097128,92171,la,Lady Barron
+7097205,92172,la,Lacmalac
+7097282,92173,la,Lachlan
+7097359,92174,la,Laceby
+7097436,92175,la,Labertouche
+7097513,92176,la,Laang
+7097590,92177,la,Laanecoorie
+7097744,92179,la,Kyvalley
+7097898,92181,la,Kyoomba
+7097975,92182,la,Kyogle
+7098052,92183,la,Kynuna
+7098129,92184,la,Kyneton
+7098514,92189,la,Kybybolite
+7098745,92192,la,Kyalite
+7098822,92193,la,Kyabram
+7098899,92194,la,Kuttabul
+7099053,92196,la,Kurting
+7099207,92198,la,Kurrajong Heights
+7099515,92202,la,Kureen
+7099592,92203,la,Kuranda
+7099746,92205,la,Kunwarara
+7099977,92208,la,Kunghur
+7100054,92209,la,Kungala
+7100208,92211,la,Kundabung
+7100362,92213,la,Kunama
+7100439,92214,la,Kumbia
+7100516,92215,la,Kumbarilla
+7100670,92217,la,Kulpi
+7100824,92219,la,Kulgun
+7101055,92222,la,Krowera
+7101209,92224,la,Krawarree
+7101286,92225,la,Krambach
+7101363,92226,la,Koyuga
+7101594,92229,la,Kowguran
+7101748,92231,la,Kowanyama
+7101902,92233,la,Koumala
+7101979,92234,la,Kotupna
+7102056,92235,la,Kotta
+7102133,92236,la,Korweinguboora
+7102210,92237,la,Korumburra South
+7102287,92238,la,Korumburra
+7102518,92241,la,Koroop
+7102595,92242,la,Korong Vale
+7102672,92243,la,Koroit
+7102749,92244,la,Koriella
+7102903,92246,la,Kootingal
+7102980,92247,la,Kooroongarra
+7103134,92249,la,Koornalla
+7103211,92250,la,Koorlong
+7103519,92254,la,Koorawatha
+7103750,92257,la,Koopamurra
+7103827,92258,la,Koonya
+7103904,92259,la,Koonwarra
+7103981,92260,la,Koonorigan
+7104058,92261,la,Koondrook
+7104674,92269,la,Konongwootong
+7104751,92270,la,Kongwak
+7104828,92271,la,Kongorong
+7105136,92275,la,Kolora
+7105675,92282,la,Kogan
+7105906,92285,la,Koah
+7105983,92286,la,Knowsley
+7106291,92290,la,Knockrow
+7106522,92293,la,Klori
+7106599,92294,la,Kleinton
+7106907,92298,la,Kirkstall
+7107061,92300,la,Kiora
+7107138,92301,la,Kioloa
+7107369,92304,la,Kinleymore
+7107677,92308,la,King Valley
+7107754,92309,la,Kingsvale
+7107831,92310,la,Kingstown
+7107908,92311,la,Kingston
+7107985,92312,la,Kingston
+7108062,92313,la,Kingsthorpe
+7108139,92314,la,Kings Plains
+7108293,92316,la,Kings Creek
+7108601,92320,la,Kinglake
+7108678,92321,la,Kingaroy
+7108832,92323,la,Kindred
+7108986,92325,la,Kinchela
+7109140,92327,la,Kimberley
+7109371,92330,la,Kilmore East
+7109448,92331,la,Kilmore
+7109602,92333,la,Kilmany
+7109679,92334,la,Killawarra
+7109833,92336,la,Killarney
+7109987,92338,la,Killarney
+7110218,92341,la,Kilkivan
+7110526,92345,la,Kilcunda
+7110603,92346,la,Kilcoy
+7110680,92347,la,Kilbirnie
+7110757,92348,la,Kikoira
+7110834,92349,la,Kiewa
+7110911,92350,la,Kickabil
+7111065,92352,la,Kiata
+7111142,92353,la,Kianga
+7111373,92356,la,Kiama
+7111450,92357,la,Kialla West
+7111527,92358,la,Kialla East
+7111681,92360,la,Kiah
+7111758,92361,la,Khancoban
+7112066,92365,la,Kew
+7112220,92367,la,Kettering
+7112297,92368,la,Kerry
+7112451,92370,la,Kerrisdale
+7112605,92372,la,Kernot
+7112682,92373,la,Kergunyah
+7112759,92374,la,Kerang
+7112836,92375,la,Keppoch
+7112913,92376,la,Keppel Sands
+7113067,92378,la,Kentville
+7113144,92379,la,Kentucky South
+7113221,92380,la,Kentucky
+7113452,92383,la,Kennedy
+7113760,92387,la,Kendall
+7113914,92389,la,Kempton
+7113991,92390,la,Kempsey
+7114068,92391,la,Kelvin View
+7114145,92392,la,Kelvin
+7114222,92393,la,Kelso
+7114453,92396,la,Kellys Plains
+7114684,92399,la,Kuelluece
+7114838,92401,la,Keith Hall
+7114915,92402,la,Keith
+7114992,92403,la,Keilira
+7115146,92405,la,Keera
+7115300,92407,la,Keely
+7115454,92409,la,Kayuga
+7115608,92411,la,Kawarren
+7115839,92414,la,Katunga
+7115916,92415,la,Katoomba
+7115993,92416,la,Katandra
+7116070,92417,la,Katamatite
+7116224,92419,la,Karumba
+7116840,92427,la,Kaarimba
+7116917,92428,la,Kariah
+7116994,92429,la,Kardella South
+7117071,92430,la,Kardella
+7117225,92432,la,Karara
+7117533,92436,la,Kaoota
+7117610,92437,la,Kanyapella
+7117841,92440,la,Kanumbra
+7117918,92441,la,Kaniva
+7118072,92443,la,Kangiara
+7118149,92444,la,Kangaroo Valley
+7118303,92446,la,Kangaroo Creek
+7118380,92447,la,Kangaloon
+7118457,92448,la,Kandos
+7118534,92449,la,Kandanga Superioris
+7118611,92450,la,Kandanga
+7118688,92451,la,Rancho Yosondua
+7119150,92457,la,Kameruka
+7119227,92458,la,Kamarooka
+7119304,92459,la,Kamarah
+7119381,92460,la,Kalunga
+7119458,92461,la,Kalpowar
+7119689,92464,la,Kalkite
+7119766,92465,la,Halkevleri
+7119843,92466,la,Kalimna
+7119920,92467,la,Kalbar
+7120074,92469,la,Kalapa
+7120151,92470,la,Kalangadoo
+7120382,92473,la,Kairi
+7120536,92475,la,Kaimkillenbun
+7120690,92477,la,Kabra
+7120767,92478,la,Kaban
+7120844,92479,la,Jung
+7120921,92480,la,Junee Reefs
+7120998,92481,la,Junee
+7121075,92482,la,Jundah
+7121229,92484,la,Junabee
+7121306,92485,la,Jumbunna
+7121460,92487,la,Julia Creek
+7121537,92488,la,Julatten
+7121614,92489,la,Jugiong
+7121768,92491,la,Judbury
+7121922,92493,la,Josephville
+7122153,92496,la,Jondaryan
+7122307,92498,la,Johnsonville
+7122384,92499,la,Johanna
+7122692,92503,la,Joanna
+7122769,92504,la,Joadja Creek
+7122846,92505,la,Jinghi Jinghi
+7122923,92506,la,Jingellic
+7123077,92508,la,Jindivick
+7123154,92509,la,Jindera
+7123308,92511,la,Jindabyne
+7123462,92513,la,Jimna
+7123770,92517,la,Jiggi
+7123924,92519,la,Jetsonville
+7124001,92520,la,Jervis Bay
+7124155,92522,la,Jerseyville
+7124232,92523,la,Jerrys Plains
+7124463,92526,la,Jerrawa
+7124540,92527,la,Jerilderie
+7124617,92528,la,Iericho
+7124694,92529,la,Iericho
+7124771,92530,la,Jerangle
+7124848,92531,la,Jeparit
+7125079,92534,la,Jennings
+7125233,92536,la,Jellat Jellat
+7125387,92538,la,Jeetho
+7125541,92540,la,Jeeralang Junction
+7125618,92541,la,Jeeralang
+7125926,92545,la,Jarvisfield
+7126157,92548,la,Japoonvale
+7126388,92551,la,Jandowae
+7126542,92553,la,Jamieson
+7126619,92554,la,Jambin
+7126850,92557,la,Jaggan
+7127004,92559,la,Jackson
+7127158,92561,la,Jack River
+7127312,92563,la,Jackadgery
+7127389,92564,la,Jabuk
+7127543,92566,la,Iveragh
+7127620,92567,la,Ivanhoe
+7127851,92570,la,Isisford
+7128082,92573,la,Irymple
+7128159,92574,la,Irvinebank
+7128236,92575,la,Irrewillipe
+7128313,92576,la,Irrewarra
+7128698,92581,la,Irishtown
+7128775,92582,la,Iraak
+7128852,92583,la,Ipswich
+7129237,92588,la,Inverloch
+7129314,92589,la,Inverleigh
+7129391,92590,la,Invergordon
+7129468,92591,la,Inverell
+7129853,92596,la,Innot Hot Springs
+7129930,92597,la,Innisplain
+7130007,92598,la,Innisfail
+7130161,92600,la,Innamincka
+7130238,92601,la,Injune
+7130315,92602,la,Ingliston
+7130392,92603,la,Inglewood
+7130469,92604,la,Inglewood
+7130700,92607,la,Ingham
+7130777,92608,la,Ingebyra
+7131085,92612,la,Imbil
+7131162,92613,la,Iluka
+7131239,92614,la,Illowa
+7131547,92618,la,Illawarra
+7131624,92619,la,Illabo
+7131778,92621,la,Ilfracombe
+7131855,92622,la,Ilford
+7131932,92623,la,Ilbilbie
+7132009,92624,la,Ilarwill
+7132086,92625,la,Iguana Creek
+7132394,92629,la,Hynam
+7132856,92635,la,Huskisson
+7133087,92638,la,Huonville
+7133164,92639,la,Huonbrook
+7133241,92640,la,Huon
+7133395,92642,la,Huntingdon
+7133780,92647,la,Humula
+7133934,92649,la,Hughenden
+7134011,92650,la,Hoya
+7134088,92651,la,Howth
+7134165,92652,la,Howqua
+7134242,92653,la,Howlong
+7134319,92654,la,Howes Valley
+7134396,92655,la,Howes Creek
+7134550,92657,la,Howard
+7134858,92661,la,Hoskinstown
+7134935,92662,la,Horton
+7135012,92663,la,Horton
+7135089,92664,la,Horsham
+7135166,92665,la,Horseshoe Creek
+7135628,92671,la,Hopetoun
+7135705,92672,la,Hopefield
+7135859,92674,la,Homewood
+7136013,92676,la,Home Rule
+7136167,92678,la,Khomedeh
+7136244,92679,la,Home Hill
+7136629,92684,la,Holwell
+7137399,92694,la,Holbrook
+7137476,92695,la,Hodgson
+7137553,92696,la,Hodgleigh
+7137784,92699,la,Hobartum
+7137861,92700,la,Hivesville
+7137938,92701,la,Hirstglen
+7138092,92703,la,Hillwood
+7138246,92705,la,Hillview
+7138323,92706,la,Hill Top
+7138400,92707,la,Hillston
+7138477,92708,la,Hillside
+7138708,92711,la,Hillgrove
+7138785,92712,la,Hill End
+7138862,92713,la,Hill End
+7138939,92714,la,Hilldene
+7139016,92715,la,Hilldale
+7139093,92716,la,Hillcrest
+7139247,92718,la,Highlands
+7139478,92721,la,Highclere
+7139555,92722,la,High Camp
+7139709,92724,la,Hickeys Creek
+7139940,92727,la,Heywood
+7140094,92729,la,Hexham
+7140248,92731,la,Hesket
+7140402,92733,la,Herons Creek
+7140479,92734,la,Hernani
+7140787,92738,la,Herberton
+7140864,92739,la,Hepburn Springs
+7140941,92740,la,Hepburn
+7141018,92741,la,Henty
+7141095,92742,la,Henty
+7141172,92743,la,Henrietta
+7141403,92746,la,Herrdon
+7141557,92748,la,Helidon
+7141788,92751,la,Helens Hill
+7141942,92753,la,Hedley
+7142019,92754,la,Heddon Greta
+7142096,92755,la,Hebel
+7142250,92757,la,Heathmere
+7142404,92759,la,Heathcote
+7142558,92761,la,Healesville
+7142712,92763,la,Hazelwood
+7142866,92765,la,Hazelgrove
+7143097,92768,la,Hay Point
+7143251,92770,la,Dranytsya
+7143405,92772,la,Hawks Nest
+7143482,92773,la,Hawkins Creek
+7143636,92775,la,Hawkesdale
+7143790,92777,la,Havelock
+7144021,92780,la,Hatton Vale
+7144175,92782,la,Hatherleigh
+7144252,92783,la,Hat Head
+7144406,92785,la,Harwood
+7144714,92789,la,Harston
+7144791,92790,la,Harrow
+7144868,92791,la,Harrisville
+7145099,92794,la,Harrington
+7145176,92795,la,Harrietville
+7145407,92798,la,Harlin
+7145484,92799,la,Hargraves
+7145561,92800,la,Harford
+7145638,92801,la,Harefield
+7145792,92803,la,Harcourt
+7145869,92804,la,Felix valle
+7146023,92806,la,Hanwood
+7146100,92807,la,Hansonville
+7146331,92810,la,Hannaford
+7146408,92811,la,Hanging Rock
+7146562,92813,la,Hampton
+7146716,92815,la,Hampshire
+7146870,92817,la,Hamilton
+7146947,92818,la,Hamiltonium
+7147101,92820,la,Haly Creek
+7147255,92822,la,Hallston
+7147332,92823,la,Halls Gap
+7147409,92824,la,Hallora
+7147486,92825,la,Hall
+7147563,92826,la,Halifax
+7147717,92828,la,Halfway Creek
+7147794,92829,la,Hagley
+7147871,92830,la,Hadspen
+7148025,92832,la,Haden
+7148102,92833,la,Haddon
+7148256,92835,la,Gympie
+7148333,92836,la,Gymbowen
+7148487,92838,la,Gwabegar
+7148641,92840,la,Guyra
+7149103,92846,la,Gurrundah
+7149334,92849,la,Gurley
+7149642,92853,la,Gunns Plains
+7149796,92855,la,Gunningbland
+7149873,92856,la,Gunning
+7149950,92857,la,Gunnewin
+7150181,92860,la,Gunnedah
+7150412,92863,la,Gungal
+7150566,92865,la,Gundy
+7150720,92867,la,Gundowring
+7150874,92869,la,Gundiah
+7150951,92870,la,Gundary
+7151028,92871,la,Gundaroo
+7151105,92872,la,Gundagai
+7151182,92873,la,Gunbower
+7151490,92877,la,Gunalda
+7151567,92878,la,Gum Scrub
+7151644,92879,la,Gumlu
+7151721,92880,la,Gumble
+7151798,92881,la,Guluguba
+7152106,92885,la,Gulgong
+7152260,92887,la,Gulf Creek
+7152337,92888,la,Gular
+7152491,92890,la,Guildford
+7152645,92892,la,Nemus
+7152876,92895,la,Grong Grong
+7152953,92896,la,Grogan
+7153184,92899,la,Griffith
+7153261,92900,la,Greymare
+7153338,92901,la,Grevillia
+7153415,92902,la,Gretna
+7153492,92903,la,Greta West
+7153569,92904,la,Greta South
+7153646,92905,la,Greta
+7153723,92906,la,Gresford
+7153800,92907,la,Grenville
+7153877,92908,la,Grenfell
+7153954,92909,la,Greigs Flat
+7154416,92915,la,Greenwich Park
+7154493,92916,la,Greenwell Point
+7154570,92917,la,Greenwald
+7154724,92919,la,Prasinorum Creek
+7154801,92920,la,Greens Beach
+7154878,92921,la,Greenridge
+7154955,92922,la,Green Pigeon
+7155032,92923,la,Greenmount
+7155186,92925,la,Groenlandiae
+7155340,92927,la,Greenhill
+7155417,92928,la,Green Hill
+7155494,92929,la,Greenethorpe
+7155571,92930,la,Greendale
+7155725,92932,la,Great Western
+7155879,92934,la,Graytown
+7156187,92938,la,Gray
+7156418,92941,la,Gravesend
+7156495,92942,la,Gravelly Beach
+7156572,92943,la,Grattai
+7156649,92944,la,Grassy
+7156726,92945,la,Grassmere
+7156880,92947,la,Granya
+7156957,92948,la,Grantville
+7157034,92949,la,Grantham
+7157265,92952,la,Graman
+7157419,92954,la,Grahamstown
+7157573,92956,la,Grahams Creek
+7157727,92958,la,Grafton
+7157958,92961,la,Gracemere
+7158035,92962,la,Grabben Gullen
+7158266,92965,la,Gowrie Junction
+7158343,92966,la,Gowrie
+7158805,92972,la,Cowan
+7158959,92974,la,Goulds Country
+7159113,92976,la,Goulburn Weir
+7159190,92977,la,Goulburn
+7159344,92979,la,Goshen
+7159498,92981,la,Goroke
+7159652,92983,la,Gormandale
+7159806,92985,la,Gordon Brook
+7159883,92986,la,Gordon
+7159960,92987,la,Gordon
+7160037,92988,la,Goranba
+7160114,92989,la,Gorae West
+7160191,92990,la,Gorae
+7160345,92992,la,Goovigen
+7160422,92993,la,Gootchie
+7160653,92996,la,Goornong
+7161038,93001,la,Goorambat
+7161115,93002,la,Gooramadda
+7161192,93003,la,Goonumbla
+7161269,93004,la,Goonoo Goonoo
+7161423,93006,la,Goonengerry
+7161731,93010,la,Goondiwindi
+7161962,93013,la,Goomeri
+7162039,93014,la,Goomburra
+7162347,93018,la,Goomalibee
+7162424,93019,la,Gooloogong
+7162501,93020,la,Goolmangar
+7162578,93021,la,Goolma
+7162655,93022,la,Goolgowi
+7162809,93024,la,Goodwood
+7162963,93026,la,Goodooga
+7163040,93027,la,Spes bonae
+7163117,93028,la,Goodger
+7163194,93029,la,Gooburrum
+7163271,93030,la,Gobarralong
+7163579,93034,la,Gollan
+7163656,93035,la,Gol Gol
+7163810,93037,la,Golspie
+7163964,93039,la,Golden Valley
+7164118,93041,la,Litus Aurum
+7164272,93043,la,Gogeldrie
+7164349,93044,la,Gogango
+7164426,93045,la,Godfreys Creek
+7164503,93046,la,Gocup
+7164580,93047,la,Gobur
+7164734,93049,la,Gnotuk
+7164811,93050,la,Gnarwarre
+7164965,93052,la,Gloucester
+7165196,93055,la,Glen William
+7165427,93058,la,Glen Ugie
+7165504,93059,la,Glenthompson
+7165658,93061,la,Glenroy
+7165735,93062,la,Glenrowan
+7165966,93065,la,Glenreagh
+7166043,93066,la,Glenquarry
+7166197,93068,la,Glen Park
+7166274,93069,la,Glenormiston South
+7166351,93070,la,Glenormiston North
+7166428,93071,la,Glenore Grove
+7166505,93072,la,Glenorchy
+7166582,93073,la,Glenora
+7166736,93075,la,Glen Niven
+7166967,93078,la,Glenmorgan
+7167198,93081,la,Glenmaggie
+7167275,93082,la,Glenlyon
+7167660,93087,la,Glenlee
+7167891,93090,la,Glen Innes
+7167968,93091,la,Gleniffer
+7168045,93092,la,Glen Huon
+7168122,93093,la,Glenhope
+7168353,93096,la,Glengarry West
+7168430,93097,la,Glengarry
+7168507,93098,la,Glengarry
+7168584,93099,la,Glenfyne
+7168661,93100,la,Glen Forbes
+7168738,93101,la,Glenfern
+7168892,93103,la,Glenellen
+7168969,93104,la,Glen Elgin
+7169046,93105,la,Gleneagle
+7169123,93106,la,Glendon Brook
+7169277,93108,la,Glendevie
+7169431,93110,la,Glendaruel
+7169585,93112,la,Glen Creek
+7169739,93114,la,Glencoe
+7169816,93115,la,Glencoe
+7170047,93118,la,Glenburnie
+7170124,93119,la,Glenburn
+7170509,93124,la,Glenaroua
+7170586,93125,la,Glen Alvie
+7170740,93127,la,Glen Alice
+7170894,93129,la,Glenaladale
+7170971,93130,la,Glaziers Bay
+7171048,93131,la,Glastonbury
+7171279,93134,la,Glanmire
+7171356,93135,la,Glan Devon
+7171510,93137,la,Glamorgan Vale
+7171587,93138,la,Gladstone
+7171664,93139,la,Gladstone
+7171741,93140,la,Gladstone
+7171895,93142,la,Gisborne
+7171972,93143,la,Girvan
+7172049,93144,la,Giru
+7172126,93145,la,Girral
+7172280,93147,la,Girgarre East
+7172588,93151,la,Gingkin
+7172665,93152,la,Gin Gin
+7172819,93154,la,Gindie
+7172896,93155,la,Gilmore
+7173127,93158,la,Gillieston
+7173897,93168,la,Gilgandra
+7173974,93169,la,Gilgai
+7174205,93172,la,Giffard
+7174282,93173,la,Gidley
+7174359,93174,la,Gidginbung
+7174821,93180,la,Gheringhap
+7174975,93182,la,Geurie
+7175129,93184,la,Gerogery
+7175206,93185,la,Geranium
+7175283,93186,la,Gerang Gerung
+7175360,93187,la,Gerangamete
+7175437,93188,la,Georgica
+7175591,93190,la,George Town
+7175668,93191,la,Georgetown
+7175745,93192,la,Georges Plains
+7175822,93193,la,Georgius Creek
+7175976,93195,la,Genua
+7176438,93201,la,Gellibrand
+7176592,93203,la,Geham
+7176669,93204,la,Geeveston
+7176900,93207,la,Geelong
+7177285,93212,la,Gayndah
+7177362,93213,la,Gawler
+7177593,93216,la,Gatton
+7177747,93218,la,Garvoc
+7177901,93220,la,Garradunga
+7177978,93221,la,Garra
+7178209,93224,la,Sertum
+7178286,93225,la,Garibaldi
+7178363,93226,la,Gargett
+7178440,93227,la,Garfield
+7178517,93228,la,Garema
+7178594,93229,la,Gardners Bay
+7178671,93230,la,Garden Island Creek
+7178748,93231,la,Garah
+7178825,93232,la,Gapsted
+7179056,93235,la,Gannawarra
+7179133,93236,la,Ganmain
+7179364,93239,la,Galston
+7179441,93240,la,Galore
+7179518,93241,la,Galong
+7179749,93244,la,Gulargambone
+7179980,93247,la,Gainsborough
+7180134,93249,la,Gaeta
+7180365,93252,la,Furner
+7180442,93253,la,Fumina South
+7180673,93256,la,Fullerton
+7180827,93258,la,Fulham
+7180904,93259,la,Fryerstown
+7181058,93261,la,Frogmore
+7181135,93262,la,Freshwater Creek
+7181366,93265,la,Freestone
+7181443,93266,la,Freeburgh
+7181520,93267,la,Frederickton
+7181751,93270,la,Franklinford
+7181828,93271,la,Franklin
+7181905,93272,la,Frankford
+7181982,93273,la,Frances
+7182059,93274,la,Frampton
+7182213,93276,la,Framlingham
+7182367,93278,la,Foxdale
+7182521,93280,la,Fosterville
+7182598,93281,la,Fosterton
+7182675,93282,la,Foster
+7182752,93283,la,Forth
+7182829,93284,la,Forster
+7182906,93285,la,Forsayth
+7182983,93286,la,Forrest
+7183137,93288,la,Forge Creek
+7183368,93291,la,Silva Hill
+7183522,93293,la,Silva
+7183599,93294,la,Fordsdale
+7183753,93296,la,Forcett
+7183907,93298,la,Forbes
+7183984,93299,la,Volcanus
+7184138,93301,la,Flowery Gully
+7184215,93302,la,Flowerdale
+7184292,93303,la,Flowerdale
+7184446,93305,la,Flinders
+7184677,93308,la,Fletcher
+7184754,93309,la,Flagstone Creek
+7185755,93322,la,Fish Creek
+7185832,93323,la,Finley
+7185986,93325,la,Fingal
+7186140,93327,la,Finch Hatton
+7186294,93329,la,Fifield
+7186525,93332,la,Fernvale
+7186602,93333,la,Fernside
+7186679,93334,la,Fernmount
+7186756,93335,la,Fernleigh
+7186987,93338,la,Fern Hill
+7187295,93342,la,Fernbank
+7187603,93346,la,Fentonbury
+7187834,93349,la,Federal
+7187988,93351,la,Fawcett
+7188142,93353,la,Fassifern Valley
+7188527,93358,la,Farleigh
+7188604,93359,la,Faraday
+7188758,93361,la,Falmouth
+7188835,93362,la,Falls Creek
+7188989,93364,la,Fairylands
+7189066,93365,la,Fairy Hill
+7189143,93366,la,Fairy Dell
+7189605,93372,la,Exton
+7189682,93373,la,Exeter
+7189836,93375,la,Ewingsdale
+7189990,93377,la,Everton
+7190375,93382,la,Evans Head
+7190452,93383,la,Evansford
+7190529,93384,la,Evandale
+7190606,93385,la,Euston
+7190760,93387,la,Eurongilly
+7190837,93388,la,Euroley
+7190914,93389,la,Eurobodalla
+7190991,93390,la,Eurobin
+7191068,93391,la,Euroa
+7191376,93395,la,Eureka
+7191530,93397,la,Euramo
+7191761,93400,la,Eurack
+7191915,93402,la,Eungella
+7191992,93403,la,Eungai Creek
+7192146,93405,la,Eumungerie
+7192300,93407,la,Eulomogo
+7192377,93408,la,Eulo
+7192454,93409,la,Euleilah
+7192685,93412,la,Eukey
+7192762,93413,la,Eugowra
+7192839,93414,la,Euchareena
+7192993,93416,la,Euabalong
+7193070,93417,la,Ettrick
+7193301,93420,la,Eton
+7193378,93421,la,Etna Creek
+7193455,93422,la,Essington
+7193609,93424,la,Eskdale
+7193686,93425,la,Esk
+7193917,93428,la,Eromanga
+7194148,93431,la,Erigolia
+7194225,93432,la,Erica
+7194302,93433,la,Epping
+7194379,93434,la,Eppalock
+7194610,93437,la,Ensay
+7194764,93439,la,Enngonia
+7195072,93443,la,Enfield
+7195226,93445,la,Emu Vale
+7195303,93446,la,Emu Park
+7195457,93448,la,Emu Creek
+7195688,93451,la,Empire Vale
+7195842,93453,la,Emmaville
+7195919,93454,la,Emita
+7195996,93455,la,Emerald Hill
+7196073,93456,la,Smaragdus
+7196150,93457,la,Eltham
+7196304,93459,la,Elsmore
+7196381,93460,la,Elphinstone
+7196458,93461,la,Elphinstone
+7196612,93463,la,Elong Elong
+7196689,93464,la,Elmore
+7196766,93465,la,Elmhurst
+7196843,93466,la,Elliott Heads
+7196920,93467,la,Elliott
+7197151,93470,la,Ellinbank
+7197228,93471,la,Elliminyt
+7197305,93472,la,Ellerston
+7197382,93473,la,Ellerslie
+7197536,93475,la,Ellendale
+7197613,93476,la,Ellenborough
+7197690,93477,la,Ellangowan
+7197767,93478,la,Ellangowan
+7197921,93480,la,Elizabeth Town
+7197998,93481,la,Elingamite North
+7198075,93482,la,Elingamite
+7198229,93484,la,Electrona
+7198306,93485,la,Eldorado
+7198460,93487,la,Elderslie
+7198614,93489,la,Elbow Valley
+7198768,93491,la,El Arish
+7198922,93493,la,Elaine
+7199076,93495,la,Einasleigh
+7199307,93498,la,Eildon
+7199384,93499,la,Eidsvold
+7199692,93503,la,Eganstown
+7199846,93505,la,Edi Upper
+7199923,93506,la,Edith Creek
+7200000,93507,la,Editha
+7200077,93508,la,Edi
+7200154,93509,la,Edgeroi
+7200308,93511,la,Edgecombe
+7200385,93512,la,Edenhope
+7200462,93513,la,Eden
+7200539,93514,la,Eddington
+7200616,93515,la,Ecklin South
+7200693,93516,la,Echuca Village
+7200770,93517,la,Echuca
+7200924,93519,la,Ebor
+7201001,93520,la,Ebden
+7201155,93522,la,Eatonsville
+7201540,93527,la,East Kangaloon
+7202079,93534,la,Earlston
+7202156,93535,la,Aquila Point
+7202310,93537,la,Eaglehawk Neck
+7202387,93538,la,Dysart
+7202772,93543,la,Durras
+7202849,93544,la,Durong
+7203003,93546,la,Duri
+7203080,93547,la,Durham Ox
+7203465,93552,la,Dunorlan
+7203542,93553,la,Dunoon
+7203619,93554,la,Dunolly
+7203696,93555,la,Dunnstown
+7204081,93560,la,Dunkeld
+7204312,93563,la,Dungowan
+7204389,93564,la,Dungog
+7204466,93565,la,Dungarubba
+7204620,93567,la,Dunedoo
+7204697,93568,la,Dundurrabin
+7204851,93570,la,Dunde
+7205005,93572,la,Dundas
+7205236,93575,la,Duncans Creek
+7205390,93577,la,Dunbogan
+7205544,93579,la,Dunalley
+7205621,93580,la,Dunach
+7205775,93582,la,Dum Dum
+7205929,93584,la,Dumbalk North
+7206006,93585,la,Dumbalk
+7206083,93586,la,Dumaresq
+7206237,93588,la,Dululu
+7206622,93593,la,Dulacca
+7206699,93594,la,Dugandan
+7206853,93596,la,Dudley South
+7207084,93599,la,Ducklo
+7207238,93601,la,Dubbo
+7207315,93602,la,Duaringa
+7207392,93603,la,Drysdale
+7207700,93607,la,Drummond
+7207931,93610,la,Drumborg
+7208085,93612,la,Drouin West
+7208239,93614,la,Drouin
+7208470,93617,la,Dromedary
+7208547,93618,la,Dripstone
+7208624,93619,la,Drinan
+7208701,93620,la,Drillham
+7208932,93623,la,Dreeite
+7209086,93625,la,Drake
+7209240,93627,la,Dows Creek
+7209317,93628,la,Downsfield
+7209394,93629,la,Dover
+7209471,93630,la,Douglas Park
+7209548,93631,la,Douglas
+7209625,93632,la,Doubtful Creek
+7209702,93633,la,Dorroughby
+7209779,93634,la,Dorrigo
+7210010,93637,la,Doon Doon
+7210164,93639,la,Dookie
+7210241,93640,la,Dooen
+7210549,93644,la,Donaldus
+7210857,93648,la,Dollar
+7211088,93651,la,Docker
+7211165,93652,la,Dobies Bight
+7211396,93655,la,Djuan
+7211550,93657,la,Dixie
+7211627,93658,la,Dixalea
+7211704,93659,la,Dittmer
+7211935,93662,la,Dirranbandi
+7212089,93664,la,Dinoga
+7212243,93666,la,Dingwall
+7212397,93668,la,Dingo
+7212474,93669,la,Dingee
+7212551,93670,la,Dimbulah
+7212628,93671,la,Dimboola
+7213013,93676,la,Dignams Creek
+7213167,93678,la,Digby
+7213244,93679,la,Didcot
+7213475,93682,la,Devonport
+7213706,93685,la,Deviot
+7213937,93688,la,Devereux Creek
+7214014,93689,la,Devenish
+7214091,93690,la,Deuchar
+7214399,93694,la,Derwent
+7214553,93696,la,Derrinallum
+7214630,93697,la,Derrinal
+7214861,93700,la,Dereel
+7214938,93701,la,Derby
+7215169,93704,la,Denver
+7215246,93705,la,Dennington
+7215323,93706,la,Dennes Point
+7215400,93707,la,Denman
+7215477,93708,la,Denison
+7215631,93710,la,Deniliquin
+7215785,93712,la,Delungra
+7215939,93714,la,Deloraine
+7216170,93717,la,Delegate
+7216401,93720,la,Degilbo
+7216478,93721,la,Deer Vale
+7216632,93723,la,Deepwater
+7216709,93724,la,Deep Lead
+7217017,93728,la,Dederang
+7217094,93729,la,Deddington
+7217171,93730,la,Deans Marsh
+7217248,93731,la,Decanus
+7217479,93734,la,Daysdale
+7217633,93736,la,Daylesford
+7217710,93737,la,Dayboro
+7218018,93741,la,Dartmouth
+7218172,93743,la,Dartmoor
+7218403,93746,la,Darraweith Guim
+7218557,93748,la,Daroobalgie
+7218634,93749,la,Darnum
+7218711,93750,la,Darlington Point
+7218788,93751,la,Darlington
+7219173,93756,la,Dargo
+7219327,93758,la,Dareton
+7219558,93761,la,Darbalara
+7219712,93763,la,Daradgee
+7220482,93773,la,Danbulla
+7220559,93774,la,Dalyston
+7220636,93775,la,Dalysford
+7220790,93777,la,Dalveen
+7220867,93778,la,Dalton
+7221329,93784,la,Dallarnil
+7221560,93787,la,Dalgety
+7221714,93789,la,Dalby
+7221868,93791,la,Daisy Hill
+7222022,93793,la,Daintree
+7222099,93794,la,Dagun
+7222176,93795,la,Dadswells Bridge
+7222484,93799,la,Cygnet
+7222869,93804,la,Currowan
+7222946,93805,la,Currie
+7223254,93809,la,Currawang
+7223331,93810,la,Currarong
+7223485,93812,la,Curra Creek
+7223562,93813,la,Currabubula
+7223639,93814,la,Curra
+7223716,93815,la,Curlewis
+7223793,93816,la,Curlewis
+7223870,93817,la,Curdie Vale
+7224024,93819,la,Curban
+7224178,93821,la,Cunningham
+7224255,93822,la,Cunnamulla
+7224486,93825,la,Cumnock
+7224640,93827,la,Cumborah
+7224794,93829,la,Cumbalum
+7225179,93834,la,Cullen Bullen
+7225487,93838,la,Culgoa
+7225564,93839,la,Culcairn
+7225872,93843,la,Cudgewa
+7225949,93844,la,Cudgera Creek
+7226026,93845,la,Cu GJong
+7226103,93846,la,Cudgee
+7226257,93848,la,Cudal
+7226565,93852,la,Crudine
+7226642,93853,la,Croydon
+7226719,93854,la,Croxton East
+7226873,93856,la,Crowther
+7226950,93857,la,Corvi nidum
+7227104,93859,la,Crowlands
+7227258,93861,la,Crossover
+7227335,93862,la,Crossley
+7227412,93863,la,Croppa Creek
+7227489,93864,la,Crookwell
+7227643,93866,la,Crooble
+7227874,93869,la,Croftby
+7228105,93872,la,Creswick
+7228182,93873,la,Cressy
+7228259,93874,la,Cressy
+7228336,93875,la,Crescent Head
+7228413,93876,la,Creighton Creek
+7228721,93880,la,Crawford
+7228875,93882,la,Craven
+7229029,93884,la,Cranbrook
+7229414,93889,la,Cradoc
+7229491,93890,la,Cracow
+7229645,93892,la,Crabbes Creek
+7229722,93893,la,Cowwarr
+7229876,93895,la,Cowra
+7229953,93896,la,Cowper
+7230261,93900,la,Cowes
+7230415,93902,la,Coutts Crossing
+7230492,93903,la,Couridjah
+7230646,93905,la,Courabyra
+7230877,93908,la,Cottonvale
+7231185,93912,la,Costerfield
+7231262,93913,la,Cosgrove
+7231339,93914,la,Corunna
+7231416,93915,la,Oryu-dong
+7231570,93917,la,Corowa
+7231647,93918,la,Cororooke
+7231724,93919,la,Corop
+7231878,93921,la,Corobimilla
+7231955,93922,la,Cornubia
+7232186,93925,la,Corndale
+7232340,93927,la,Corinella
+7232417,93928,la,Corindi
+7232494,93929,la,Corindhap
+7232571,93930,la,Corfield
+7232725,93932,la,Corella
+7232879,93934,la,Corerepe
+7233033,93936,la,Cordelia
+7233110,93937,la,Cordalba
+7233264,93939,la,Coramba
+7233341,93940,la,Coral Ville
+7233418,93941,la,Coraki
+7233495,93942,la,Coragulac
+7233803,93946,la,Copping
+7233957,93948,la,Copmanhurst
+7234034,93949,la,Copeton
+7234265,93952,la,Cooyar
+7234342,93953,la,Cooyal
+7234419,93954,la,Coowonga
+7234496,93955,la,Cootralantra
+7234573,93956,la,Cootamundra
+7234958,93961,la,Coopers Shoot
+7235189,93964,la,Coopernook
+7235266,93965,la,Cooperabung
+7235651,93970,la,Tomondo
+7235728,93971,la,Coonawarra
+7235805,93972,la,Coonamble
+7235882,93973,la,Coonabarabran
+7235959,93974,la,Coominya
+7236190,93977,la,Cooma
+7236267,93978,la,Cooma
+7236344,93979,la,Coolringdon
+7236498,93981,la,Coolongolook
+7236729,93984,la,Coolbie
+7236806,93985,la,Coolatai
+7236883,93986,la,Coolangatta
+7236960,93987,la,Coolamon
+7237114,93989,la,Coolah
+7237268,93991,la,Coolac
+7237345,93992,la,Coolabunia
+7237422,93993,la,Coolabah
+7237499,93994,la,Cooktown
+7237576,93995,la,Cookardinia
+7237653,93996,la,Cookamidgera
+7238115,94002,la,Connewarre
+7238192,94003,la,Connells Point
+7238346,94005,la,Conmurra
+7238654,94009,la,Congupna
+7238885,94012,la,Condobolin
+7238962,94013,la,Condamine
+7239039,94014,la,Condah
+7239116,94015,la,Conargo
+7239347,94018,la,Compton
+7239424,94019,la,Comobella
+7239501,94020,la,Commissioners Creek
+7239655,94022,la,Comet
+7239732,94023,la,Come By Chance
+7239809,94024,la,Comboyne
+7239963,94026,la,Combara
+7240040,94027,la,Combaning
+7240271,94030,la,Columboola
+7240425,94032,la,Colo Vale
+7240502,94033,la,Colosseum
+7240733,94036,la,Collinsville
+7240887,94038,la,Collie
+7240964,94039,la,Collerina
+7241118,94041,la,Collector
+7241195,94042,la,Collarenebri
+7241272,94043,la,Colinton
+7241349,94044,la,Colinton
+7241426,94045,la,Colinroobie
+7241503,94046,la,Colignan
+7241734,94049,la,Coles Bay
+7241811,94050,la,Coleraine
+7241888,94051,la,Colebrook
+7241965,94052,la,Coldstream
+7242119,94054,la,Colbinabbin
+7242196,94055,la,Colacum
+7242273,94056,la,Coimadai
+7242427,94058,la,Cohuna
+7242504,94059,la,Coghills Creek
+7242581,94060,la,Coffs Harbour
+7242658,94061,la,Coffee Camp
+7242735,94062,la,Coen
+7242889,94064,la,Codrington
+7243197,94068,la,Cockburn
+7243428,94071,la,Cobungra
+7243505,94072,la,Cobrico
+7243582,94073,la,Cobram
+7243659,94074,la,Cobdogla
+7243736,94075,la,Cobden
+7244044,94079,la,Cobbadah
+7244121,94080,la,Cobaw
+7244275,94082,la,Cobargo
+7244352,94083,la,Cobar
+7244429,94084,la,Cobains
+7244506,94085,la,Coalville
+7244583,94086,la,Coalstoun Lakes
+7244660,94087,la,Coaldale
+7244814,94089,la,Clydesdale
+7244891,94090,la,Clydebank
+7244968,94091,la,Clybucca
+7245045,94092,la,Clunes
+7245122,94093,la,Clunes
+7245199,94094,la,Clumber
+7245353,94096,la,Cloyna
+7245507,94098,la,Cloverlea
+7245815,94102,la,Cloncurry
+7245969,94104,la,Clintonvale
+7246200,94107,la,Clifton
+7246585,94112,la,Clermont
+7246662,94113,la,Clergate
+7246816,94115,la,Clear Lake
+7247201,94120,la,Claude Road
+7247278,94121,la,Clarkes Hill
+7247509,94124,la,Clarendon
+7247586,94125,la,Clarence Town
+7247740,94127,la,Clarae
+7247894,94129,la,Clandulla
+7248048,94131,la,Clairview
+7248125,94132,la,Wollongong
+7248202,94133,la,Cinnabar
+7248433,94136,la,Chudleigh
+7248587,94138,la,Christmas Hills
+7249049,94144,la,Chinchilla
+7249203,94146,la,Chiltern Valley
+7249280,94147,la,Chiltern
+7249511,94150,la,Childers
+7249588,94151,la,Childers
+7250050,94157,la,Chetwynd
+7250127,94158,la,Cheshunt
+7250204,94159,la,Cherry Tree Hill
+7250512,94163,la,Chepstowe
+7250743,94166,la,Chatsworth Island
+7250820,94167,la,Chatsbury
+7250974,94169,la,Charters Towers
+7251128,94171,la,Charlwood
+7251205,94172,la,Charlton
+7251282,94173,la,Charlotte Bay
+7251436,94175,la,Charleville
+7251513,94176,la,Charbon
+7251821,94180,la,Chambigne
+7251975,94182,la,Chakola
+7252206,94185,la,Cessnock
+7252283,94186,la,Ceres
+7252437,94188,la,Tilba centralis
+7252745,94192,la,Cedrus Point
+7252899,94194,la,Cecil Plains
+7252976,94195,la,Cawongla
+7253053,94196,la,Cawdor
+7253207,94198,la,Caveside
+7253284,94199,la,Cavendish
+7253669,94204,la,Cathcart
+7253900,94207,la,Castlemaine
+7253977,94208,la,Castle Doyle
+7254131,94210,la,Casterton
+7254208,94211,la,Castella
+7254285,94212,la,Cassowary
+7254439,94214,la,Cassilis
+7254593,94216,la,Casino
+7254670,94217,la,Cashmore
+7254824,94219,la,Carwarp
+7254901,94220,la,Carstairs
+7255055,94222,la,Carruchan
+7255132,94223,la,Cars Creek adiunctae
+7255440,94227,la,Carroll
+7255594,94229,la,Carrick
+7255671,94230,la,Carrick
+7255748,94231,la,Carrathool
+7256056,94235,la,Carrajung Lower
+7256133,94236,la,Carrajung
+7256210,94237,la,Carpendeit
+7256287,94238,la,Caroona
+7256364,94239,la,Carool
+7256595,94242,la,Carngham
+7256749,94244,la,Carmila
+7256903,94246,la,Carlsruhe
+7256980,94247,la,Carlisle River
+7257057,94248,la,Carisbrook
+7257134,94249,la,Carinda
+7257288,94251,la,Cargo
+7257442,94253,la,Cardwell
+7257519,94254,la,Carcoar
+7257673,94256,la,Carboor
+7257827,94258,la,Carapook
+7257904,94259,la,Carapooee
+7257981,94260,la,Caramut
+7258135,94262,la,Carag Carag
+7258212,94263,la,Caragabal
+7258289,94264,la,Carabost
+7258366,94265,la,Captains Flat
+7258520,94267,la,Capertee
+7258828,94271,la,Capella
+7258982,94273,la,Cape Clear
+7259136,94275,la,Cape Bridgewater
+7259213,94276,la,Cape Barren Island
+7259444,94279,la,Canungra
+7259598,94281,la,Canowindra
+7259906,94285,la,Cann River
+7260060,94287,la,Cannonvale
+7260291,94290,la,Cannawigara
+7260445,94292,la,Cania
+7260599,94294,la,Candelo
+7260676,94295,la,Camberra
+7261138,94301,la,Camperdaunum
+7261369,94304,la,Campbell Town
+7261446,94305,la,Campbelltown
+7261523,94306,la,Campbelltown
+7261985,94312,la,Campania
+7262216,94315,la,Camerons Pocket
+7262370,94317,la,Cameby
+7262447,94318,la,Cambrian Hill
+7262524,94319,la,Cambooya
+7262678,94321,la,Camboon
+7262755,94322,la,Camberwell
+7262832,94323,la,Cambewarra
+7262986,94325,la,Calulu
+7263217,94328,la,Caloola
+7263294,94329,la,Calliope
+7263525,94332,la,Callignee
+7263602,94333,la,Callide
+7264064,94339,la,Calivil
+7264295,94342,la,Calen
+7264449,94344,la,Calarie
+7264526,94345,la,Cairns
+7264603,94346,la,Caffey
+7265065,94352,la,Cabarlah
+7265296,94355,la,Bywong
+7265373,94356,la,Byron Bay
+7265527,94358,la,Byrock
+7265758,94361,la,Byrneside
+7265989,94364,la,Bylands
+7266451,94370,la,Byaduk North
+7266528,94371,la,Byaduk
+7266605,94372,la,Yabarak
+7266682,94373,la,Buxton
+7266759,94374,la,Buxton
+7266836,94375,la,Buxton
+7267067,94378,la,Butchers Creek
+7267221,94380,la,Bushy Park
+7267375,94382,la,Bushfield
+7267529,94384,la,Burua
+7267606,94385,la,Burrungule
+7267760,94387,la,Burrumbuttock
+7267914,94389,la,Burrumbeet
+7268453,94396,la,Burren Junction
+7268607,94398,la,Burrawang
+7268684,94399,la,Burrapine
+7268992,94403,la,Burragate
+7269069,94404,la,Burraga
+7269146,94405,la,Burradoo
+7269300,94407,la,Burnt Bridge
+7269531,94410,la,Burhaniye
+7269608,94411,la,Burnett Heads
+7269762,94413,la,Burncluith
+7269839,94414,la,Burnbank
+7270224,94419,la,Burdett
+7270301,94420,la,Burcher
+7270609,94424,la,Bunnan
+7270686,94425,la,Bunnaloo
+7270917,94428,la,Bungwahl
+7270994,94429,la,Bungunya
+7271148,94431,la,Bungowannah
+7271225,94432,la,Bungonia
+7271379,94434,la,Bungeworgorai
+7271456,94435,la,Bungendore
+7271687,94438,la,Bung Bong
+7271764,94439,la,Bungawalbin
+7271918,94441,la,Bungaree
+7272072,94443,la,Bungalally
+7272149,94444,la,Bungadoo
+7272380,94447,la,Bundook
+7272457,94448,la,Bunding
+7272611,94450,la,Bundella
+7272688,94451,la,Bundarra
+7272765,94452,la,Bundanoon
+7272996,94455,la,Bundalong
+7273073,94456,la,Bundalaguah
+7273227,94458,la,Bundaberg
+7273304,94459,la,Bunburra
+7273381,94460,la,Bunbartha
+7273535,94462,la,Bumberrah
+7273612,94463,la,Umm Badr
+7273689,94464,la,Buln Buln East
+7273766,94465,la,Buln Buln
+7273843,94466,la,Bullyard
+7274228,94471,la,Bullioh
+7274459,94474,la,Bullengarook
+7274690,94477,la,Bullawa Creek
+7274767,94478,la,Bullarto
+7274844,94479,la,Bullarook
+7275306,94485,la,Bulga
+7275460,94487,la,Bulart
+7275537,94488,la,Bulahdelah
+7275614,94489,la,Bukkulla
+7275922,94493,la,Bugaldie
+7275999,94494,la,Buffalo River
+7276076,94495,la,Buffalo
+7276307,94498,la,Buekruece
+7276384,94499,la,Budgee Budgee
+7276615,94502,la,Buckrabanyule
+7276769,94504,la,Buckley
+7276923,94506,la,Buckland
+7277231,94510,la,Buckaroo
+7277308,94511,la,Buckajo
+7277462,94513,la,Buchan South
+7277616,94515,la,Buchan
+7277847,94518,la,Bucca
+7278001,94520,la,Buaraba
+7278078,94521,la,Buangor
+7278309,94524,la,Bruthen
+7278463,94526,la,Brushgrove
+7278540,94527,la,Brunswick Heads
+7278617,94528,la,Brungle
+7278925,94532,la,Brucknell
+7279079,94534,la,Bruarong
+7279156,94535,la,Broxburn
+7279233,94536,la,Browns Plains
+7279310,94537,la,Brownlow Hill
+7279387,94538,la,Broulee
+7279618,94541,la,Broughton
+7279695,94542,la,Broughton
+7279849,94544,la,Brooweena
+7279926,94545,la,Broomfield
+7280080,94547,la,Brooloo
+7280234,94549,la,Brookstead
+7280465,94552,la,Brooklyn
+7280542,94553,la,Brooklet
+7280696,94555,la,Brookfield
+7281004,94559,la,Bromley
+7281158,94561,la,Bromelton
+7281235,94562,la,Brombin
+7281389,94564,la,Broken Hill
+7281466,94565,la,Broke
+7281543,94566,la,Brogo
+7281774,94569,la,Brodies Plains
+7281928,94571,la,Brocklesby
+7282005,94572,la,Brocklehurst
+7282082,94573,la,Broadwater
+7282159,94574,la,Broadwater
+7282390,94577,la,Broadmarsh
+7282467,94578,la,Broadford
+7282698,94581,la,Brisbane
+7283083,94586,la,Brimpaen
+7283160,94587,la,Brimin
+7283314,94589,la,Brim
+7283391,94590,la,East Windsor
+7283468,94591,la,Bright
+7283622,94593,la,Brigalow
+7283699,94594,la,Brierfield
+7283776,94595,la,Bridport
+7283853,94596,la,Bridgman
+7283930,94597,la,Bridgewater
+7284007,94598,la,Bridgenorth
+7284161,94600,la,Bribbaree
+7284238,94601,la,Briagolong
+7284392,94603,la,Brewongle
+7284546,94605,la,Brewarrina
+7284700,94607,la,Breeza
+7284777,94608,la,Breelong
+7284854,94609,la,Bredbo
+7284931,94610,la,Bream Creek
+7285239,94614,la,Breadalbane
+7285316,94615,la,Breadalbane
+7285393,94616,la,Brays Creek
+7285547,94618,la,Braunstone
+7285701,94620,la,Branxholme
+7285778,94621,la,Branxholm
+7285932,94623,la,Brandy Creek
+7286086,94625,la,Brandon
+7286163,94626,la,Braidwood
+7286394,94629,la,Bradvale
+7286625,94632,la,Bracknell
+7286702,94633,la,Bracewell
+7286856,94635,la,Boyneside
+7286933,94636,la,Boyne Island
+7287010,94637,la,Boynedale
+7287087,94638,la,Boyland
+7287241,94640,la,Boyd Town
+7287703,94646,la,Bowraville
+7287780,94647,la,Bowral
+7287934,94649,la,Bowning
+7288473,94656,la,Bowenville
+7288550,94657,la,Bowenvale
+7288704,94659,la,Bowen
+7288781,94660,la,Bowan Park
+7289012,94663,la,Bourke
+7289089,94664,la,Boundary Bend
+7289243,94666,la,Bothwell
+7289320,94667,la,Bostocks Creek
+7289397,94668,la,Borung
+7289551,94670,la,Bororen
+7289628,94671,la,Boro
+7289705,94672,la,Borenore
+7289782,94673,la,Boree Creek
+7289859,94674,la,Bordertown
+7290244,94679,la,Boralma
+7290398,94681,la,Booyong
+7290475,94682,la,Booyal
+7290937,94688,la,Bootawa
+7291014,94689,la,Boosey South
+7291168,94691,la,Boort
+7291245,94692,la,Boorowa
+7291476,94695,la,Booroolite
+7291553,94696,la,Boorolong
+7291707,94698,la,Boorhaman
+7291861,94700,la,Boran
+7291938,94701,la,Booral
+7292015,94702,la,Boonooroo
+7292477,94708,la,Boondooma
+7292862,94713,la,Boonah
+7292939,94714,la,Boompa
+7293170,94717,la,Boomi
+7293324,94719,la,Boomanoomana
+7294017,94728,la,Boolarra South
+7294094,94729,la,Boolarra
+7294248,94731,la,Boolambayte
+7294325,94732,la,Bookham
+7294479,94734,la,Bohodukhivka
+7294556,94735,la,Bony Mountain
+7294633,94736,la,Bonville
+7294710,94737,la,Bonshaw
+7294787,94738,la,Bonnie Doon
+7294941,94740,la,Bongeen
+7295018,94741,la,Bonegilla
+7295403,94746,la,Bonalbo
+7295557,94748,la,Bombala
+7295788,94751,la,Bolwarra
+7296096,94755,la,Bollon
+7296173,94756,la,Bolivia
+7296250,94757,la,Bolinda
+7296481,94760,la,Boisdale
+7296712,94763,la,Boho South
+7296789,94764,la,Boho
+7296943,94766,la,Bohena Creek
+7297020,94767,la,Bohena
+7297328,94771,la,Boggabri
+7297405,94772,la,Boggabilla
+7297559,94774,la,Bogan Gate
+7297713,94776,la,Bodangora
+7297790,94777,la,Bodalla
+7297867,94778,la,Bochara
+7298021,94780,la,Bobinawarrah
+7298329,94784,la,Boat Harbour
+7298560,94787,la,Blythdale
+7298714,94789,la,Bluff
+7298791,94790,la,Blue Mountain
+7298868,94791,la,Blue Knob
+7298945,94792,la,Blowhard
+7299253,94796,la,Bloomsbury
+7299407,94798,la,Blighty
+7299484,94799,la,Blessington
+7299561,94800,la,Blenheim
+7299638,94801,la,Blayney
+7299946,94805,la,Blantyre
+7300100,94807,la,Blandford
+7300177,94808,la,Bland
+7300254,94809,la,Blanchview
+7300331,94810,la,Blampied
+7300485,94812,la,Blakebrook
+7300716,94815,la,Blair Athol
+7300947,94818,la,Blackwood Creek
+7301024,94819,la,Blackwood
+7301101,94820,la,Aquae Nigrae
+7301255,94822,la,Blackville
+7301409,94824,la,Fontium Nigrum
+7301486,94825,la,Fontium Nigrum
+7301563,94826,la,Black River
+7301717,94828,la,Black Mountain
+7301871,94830,la,Blackmans Point
+7302025,94832,la,Black Hills
+7302102,94833,la,Blackheath
+7302410,94837,la,Blackbutt
+7302487,94838,la,Blackall
+7302641,94840,la,Bishopsbourne
+7302949,94844,la,Birregurra
+7303103,94846,la,Birralee
+7303411,94850,la,Birchip
+7303488,94851,la,Binya
+7303565,94852,la,Binnum
+7303642,94853,la,Binnaway
+7303719,94854,la,Binna Burra
+7303796,94855,la,Binjour
+7303873,94856,la,Biniguy
+7303950,94857,la,Binginwarri
+7304258,94861,la,Bingara
+7304489,94864,la,Bindi
+7304566,94865,la,Binda
+7304720,94867,la,Binalong
+7304797,94868,la,Bimbi
+7304951,94870,la,Bilyana
+7305028,94871,la,Bilpin
+7305105,94872,la,Biloela
+7305182,94873,la,Billinudgel
+7305259,94874,la,Billimari
+7305567,94878,la,Biggenden
+7305644,94879,la,Biggara
+7305721,94880,la,Bigga
+7305875,94882,la,Biddon
+7305952,94883,la,Biddeston
+7306106,94885,la,Bicheno
+7306183,94886,la,Biboohra
+7306260,94887,la,Bibbenluke
+7306337,94888,la,Biala
+7306491,94890,la,Bexhill
+7306722,94893,la,Beulah
+7306799,94894,la,Beulah
+7306953,94896,la,Betley
+7307030,94897,la,Bethungra
+7307107,94898,la,Bethanga
+7307184,94899,la,Bet Bet
+7307261,94900,la,Bessiebelle
+7307338,94901,la,Beryllus
+7307492,94903,la,Berrys Creek
+7307800,94907,la,Berry
+7307877,94908,la,Berriwillock
+7308031,94910,la,Berringa
+7308185,94912,la,Berrima
+7308262,94913,la,Berrigan
+7308339,94914,la,Berridale
+7308416,94915,la,Beri
+7308570,94917,la,Berremangra
+7308801,94920,la,Bermagui
+7308878,94921,la,Bergalia
+7309109,94924,la,Beremboke
+7309186,94925,la,Berat
+7309340,94927,la,Berajondo
+7309417,94928,la,Bentleii
+7309648,94931,la,Ben Lomond
+7309725,94932,la,Benloch
+7309956,94935,la,Benholme
+7310033,94936,la,Bengworden
+7310187,94938,la,Bendoura
+7310264,94939,la,Bendolba
+7310341,94940,la,Bendoc
+7310418,94941,la,Bendigo
+7310495,94942,la,Bendick Murrell
+7310726,94945,la,Bendemeer
+7310880,94947,la,Benayeo
+7310957,94948,la,Benarkin
+7311034,94949,la,Benaraby
+7311188,94951,la,Benandarah
+7311265,94952,la,Benambra
+7311342,94953,la,Benalla
+7311419,94954,la,Bena
+7311573,94956,la,Bemerside
+7311650,94957,la,Bemboka
+7311958,94961,la,Bellingham
+7312035,94962,la,Bellingen
+7312112,94963,la,Bellimbopinni
+7312420,94967,la,Bellbrook
+7312497,94968,la,Bellbrae
+7312805,94972,la,Bellata
+7312959,94974,la,Bellarine
+7313036,94975,la,Bellangry
+7313113,94976,la,Bell
+7313190,94977,la,Belgravia
+7313267,94978,la,Belford
+7313729,94984,la,Beggan Beggan
+7313806,94985,la,Bega
+7314037,94988,la,Beechworth
+7314114,94989,la,faginus
+7314191,94990,la,Beechmont
+7314268,94991,la,Beech Forest
+7314345,94992,la,Beecher
+7314422,94993,la,Beebo
+7314499,94994,la,Bekeagac
+7314576,94995,la,Bedgerebong
+7314653,94996,la,Bective
+7314730,94997,la,Beckom
+7314884,94999,la,Beauty Point
+7315038,95001,la,Beaufort
+7315115,95002,la,Beaudesert
+7315500,95007,la,Bealiba
+7315577,95008,la,Beaconsfield
+7315654,95009,la,Beachport
+7315731,95010,la,Baynton
+7315885,95012,la,Baw Baw
+7315962,95013,la,Bauple
+7316116,95015,la,Batlow
+7316193,95016,la,Bathurst
+7316270,95017,la,Bathumi
+7316347,95018,la,Batesford
+7316424,95019,la,Batemans Bay
+7316655,95022,la,Bass
+7316732,95023,la,Baryulgil
+7316809,95024,la,Barwon Heads
+7316886,95025,la,Barwon Downs
+7317040,95027,la,Barwite
+7317117,95028,la,Bartle Frere
+7317271,95030,la,Barry
+7317502,95033,la,Barrington
+7317579,95034,la,Barrington
+7318118,95041,la,Barraganyatti
+7318195,95042,la,Barraba
+7318272,95043,la,Barooga
+7318349,95044,la,Barongarook
+7318503,95046,la,Barney View
+7318657,95048,la,Barnawartha
+7318888,95051,la,Barmera
+7318965,95052,la,Barmedman
+7319119,95054,la,Bayt Jabir
+7319427,95058,la,Barkers Vale
+7319504,95059,la,Barkers Creek
+7319658,95061,la,Baringhup
+7319812,95063,la,Barham
+7319889,95064,la,Bargo
+7320043,95066,la,Barfold
+7320197,95068,la,Barellan
+7320274,95069,la,Baree
+7320428,95071,la,Barcaldine
+7320582,95073,la,Baranduda
+7320659,95074,la,Baralaba
+7320813,95076,la,Baradine
+7320890,95077,la,Bapaume
+7321198,95081,la,Bannockburn
+7321352,95083,la,Bannister
+7321429,95084,la,Bannerton
+7321737,95088,la,Bangerang
+7321891,95090,la,Bangalow
+7322122,95093,la,Bancroft
+7322276,95095,la,Banana
+7322507,95098,la,Bambra
+7322584,95099,la,Bambaroo
+7322661,95100,la,Bamawm Extension
+7322738,95101,la,Bamawm
+7322892,95103,la,Bamaga
+7323046,95105,la,Balranald
+7323200,95107,la,Balmoral
+7323277,95108,la,Balmoral Village
+7323508,95111,la,Balmattum
+7323585,95112,la,Ballyrogan
+7323739,95114,la,Ballina
+7323816,95115,la,Ballimore
+7323893,95116,la,Balliang East
+7323970,95117,la,Balliang
+7324047,95118,la,Ballengarra
+7324124,95119,la,Ballendella
+7324201,95120,la,Balldale
+7324278,95121,la,Ballarat
+7324432,95123,la,Ballangeich
+7324509,95124,la,Ballandean
+7324586,95125,la,Ballan
+7324740,95127,la,Balladoran
+7325048,95131,la,Baldry
+7325279,95134,la,Bald Hills
+7325510,95137,la,Baldersleigh
+7325664,95139,la,Baking Board
+7325741,95140,la,Bakers Swamp
+7325818,95141,la,Bakers Creek
+7325972,95143,la,Bajool
+7326049,95144,la,Bairnsdale
+7326203,95146,la,Bailieston
+7326357,95148,la,Bagshot
+7326434,95149,la,Bagotville
+7326665,95152,la,Bagdad
+7326742,95153,la,Baffle Creek
+7326896,95155,la,Baerami
+7327281,95160,la,Baddaginnie
+7327435,95162,la,Back Plains
+7327512,95163,la,Backmede
+7327743,95166,la,Bacchus Marsh
+7327820,95167,la,Babinda
+7327974,95169,la,Baan Baa
+7328128,95171,la,Ayr
+7328205,95172,la,Aylmerton
+7328282,95173,la,Axedale
+7328667,95178,la,Avondale
+7328744,95179,la,Avoca
+7328898,95181,la,Avenue
+7328975,95182,la,Avenel
+7329129,95184,la,Austral Eden
+7329437,95188,la,Augathella
+7329514,95189,la,Auburn Vale
+7329668,95191,la,Aubigny
+7329745,95192,la,Atholwood
+7329976,95195,la,Athlone
+7330053,95196,la,Atherton
+7330130,95197,la,Ashley
+7330207,95198,la,Ashford
+7330361,95200,la,Ashby
+7330515,95202,la,Ascot
+7330746,95205,la,Arthurs Seat
+7330823,95206,la,Arthurs Creek
+7331054,95209,la,Arnold
+7331285,95212,la,Armstrong
+7331362,95213,la,Armidale
+7331439,95214,la,Armatree
+7331593,95216,la,Ariah Park
+7331670,95217,la,Argyle
+7331824,95219,la,Argoon
+7331901,95220,la,Argents Hill
+7332209,95224,la,Ardmona
+7332286,95225,la,Ardlethan
+7332363,95226,la,Arding
+7332440,95227,la,Ardglen
+7332825,95232,la,Arcadiae
+7332902,95233,la,Arawata
+7332979,95234,la,Aratula
+7333056,95235,la,Ararat
+7333210,95237,la,Aramara
+7333287,95238,la,Aramac
+7333364,95239,la,Araluen
+7333441,95240,la,Arakoon
+7333903,95246,la,Apsley
+7333980,95247,la,Apsley
+7334134,95249,la,Apple Tree Creek
+7334211,95250,la,Applethorpe
+7334519,95254,la,Appin
+7334596,95255,la,Apollo Bay
+7334750,95257,la,Antwerp
+7334981,95260,la,Antigua
+7335058,95261,la,Anthony
+7335366,95265,la,Anglesea
+7335520,95267,la,Angledale
+7335751,95270,la,Anduramba
+7335905,95272,la,Ami
+7336059,95274,la,Ancona
+7336136,95275,la,Anakie
+7336290,95277,la,Amphitheatre
+7336521,95280,la,Amiens
+7336675,95282,la,Amherst
+7336752,95283,la,Amby
+7336829,95284,la,Ambrose
+7336983,95286,la,Amamoor
+7337060,95287,la,Alvir
+7337137,95288,la,Alva
+7337214,95289,la,Alumy Creek
+7337445,95292,la,Alstonville
+7337599,95294,la,Alpine
+7337676,95295,la,Alpha
+7337753,95296,la,Aloomba
+7337830,95297,la,Alonnah
+7337984,95299,la,Almurta
+7338138,95301,la,Almaden
+7338292,95303,la,Alma
+7338369,95304,la,Allworth
+7338446,95305,la,Allora
+7338523,95306,la,Alligator Creek
+7338600,95307,la,Allestree
+7338677,95308,la,Allendale East
+7338754,95309,la,Allendale
+7338831,95310,la,Alleena
+7338908,95311,la,Allansford
+7338985,95312,la,Allans Flat
+7339216,95315,la,Allan
+7339293,95316,la,Allambee South
+7339678,95321,la,alexandri
+7339832,95323,la,Alectown
+7339909,95324,la,Aldershot
+7339986,95325,la,Aldavilla
+7340063,95326,la,Alcomie
+7340140,95327,la,Albury
+7340217,95328,la,Alberton West
+7340371,95330,la,Alberton
+7340448,95331,la,Albert
+7340756,95335,la,Airly
+7340833,95336,la,Aireys Inlet
+7341064,95339,la,Adventure Bay
+7341141,95340,la,Adjungbilly
+7341218,95341,la,Adelong
+7341295,95342,la,Adelaide Lead
+7341372,95343,la,Addington
+7341449,95344,la,Adavale
+7341603,95346,la,Adaminaby
+7341757,95348,la,Acheron
+7342065,95352,la,Aberfoyle
+7342219,95354,la,Aberdonensis
+7342450,95357,la,Abbotsham
+7342989,95364,la,Kayena
+7343605,95372,la,South Mission Beach
+7343913,95376,la,Boydtown
+7343990,95377,la,Sisters Beach
+7344067,95378,la,Moorleah
+7344144,95379,la,Oldina
+7344221,95380,la,Cuprona
+7345299,95394,la,Wujal Wujal
+7345376,95395,la,Bloomfield
+7346146,95405,la,Buckland
+7346300,95407,la,Palmerston
+7346377,95408,la,Tom Price
+7346454,95409,la,Airlie Beach
+7346685,95412,la,Hervey Bay
+7346762,95413,la,Yulara
+7346839,95414,la,Moranbah
+7346916,95415,la,Heyfield
+7346993,95416,la,Ar Rahah
+7347301,95420,la,Agnes Water
+7347455,95422,la,Kooralbyn
+7347686,95425,la,Clifton Beach
+7347840,95427,la,Joondalup
+7347994,95429,la,Lovedale
+7348071,95430,la,Middlemount
+7348225,95432,la,Lord Howe Island
+7348302,95433,la,Tieri
+7348456,95435,la,Mount Buller
+7348687,95438,la,Andamooka
+7348918,95441,la,Blanchetown
+7349303,95446,la,Mango Hill
+7349457,95448,la,Vincentia
+7349688,95451,la,Tamborinus Mons
+7349842,95453,la,Rainbow Beach
+7349919,95454,la,Yallingup Siding
+7349996,95455,la,Cow Bay
+7350227,95458,la,Mossman Gorge
+7350304,95459,la,Oak Beach
+7350381,95460,la,Coral Bay
+7350458,95461,la,Goolwa Beach
+7350535,95462,la,Goolwa South
+7350612,95463,la,Litus Septentrionalis
+7350766,95465,la,Logan City
+7350843,95466,la,Parramatta
+7350997,95468,la,Oxley Flats
+7351074,95469,la,Narbethong
+7351151,95470,la,Heybridge
+7351228,95471,la,Smiths Lake
+7351382,95473,la,South Durras
+7351459,95474,la,Bremer Bay
+7351536,95475,la,Kinka Beach
+7351767,95478,la,Kurrimine Beach
+7351921,95480,la,Menah
+7352075,95482,la,Jabiru
+7352152,95483,la,Oyster Cove
+7352229,95484,la,Phillip Island
+7352306,95485,la,Adelaide Hills
+7352614,95489,la,McAlinden
+7352691,95490,la,Allynbrook
+7352845,95492,la,Lower Macdonald
+7352922,95493,la,Anglers Reach
+7352999,95494,la,Yalata
+7353076,95495,la,Island Beach
+7353230,95497,la,Bostobrick
+7353307,95498,la,St Georges Basin
+7353384,95499,la,Shoalhaven Heads
+7353538,95501,la,Coffin Bay
+7353615,95502,la,Suffolk Park
+7353692,95503,la,Papunya
+7353769,95504,la,Binalong Bay
+7353846,95505,la,Long Forest
+7353923,95506,la,Hopetoun Park
+7354077,95508,la,Pentland Hills
+7354385,95512,la,Warrill View
+7354462,95513,la,Coleyville
+7354616,95515,la,Obum Obum
+7354693,95516,la,Allandale
+7354770,95517,la,Cannon Creek
+7354847,95518,la,Wallaces Creek
+7354924,95519,la,Bunjurgen
+7355001,95520,la,Frenches Creek
+7355078,95521,la,Coochin
+7355155,95522,la,Moogerah
+7355232,95523,la,Ramus septentrionalis
+7355309,95524,la,Mons Morris
+7355617,95528,la,Kalimna West
+7355694,95529,la,Darlington
+7355771,95530,la,Peaceful Bay
+7355848,95531,la,Upper Crystal Creek
+7356002,95533,la,Whyanbeel
+7356156,95535,la,Goodwood Island
+7356310,95537,la,Bardi
+7356387,95538,la,Campwin Beach
+7356541,95540,la,Churchill
+7356618,95541,la,Clifton Grove
+7356695,95542,la,Basin View
+7356849,95544,la,Bellbridge
+7357003,95546,la,Arrawarra
+7357157,95548,la,Bidyadanga Community
+7357234,95549,la,Bonny Hills
+7357311,95550,la,Booral
+7357465,95552,la,Brooms Head
+7357542,95553,la,Burrum Heads
+7357619,95554,la,Cabarita
+7357696,95555,la,Callala Bay
+7357773,95556,la,Cooloola Cove
+7357850,95557,la,Coomba Park
+7357927,95558,la,Coongulla
+7358081,95560,la,Craignish
+7358158,95561,la,Cremorne
+7358312,95563,la,Diamond Beach
+7358389,95564,la,Dundowran
+7358466,95565,la,Dundowran Beach
+7358620,95567,la,Fishermans Paradise
+7358697,95568,la,Galiwinku
+7358774,95569,la,Glenden
+7358928,95571,la,Goombungee
+7359005,95572,la,Grasstree Beach
+7359236,95575,la,Moore Park
+7359313,95576,la,Mossy Point
+7359390,95577,la,Hope Vale
+7359467,95578,la,Hyland Park
+7359544,95579,la,Innes Park
+7359698,95581,la,Kalamia Estate
+7359775,95582,la,Kalaru
+7359852,95583,la,Kalkarindji
+7359929,95584,la,Kaltukatjara
+7360160,95587,la,Regum Point
+7360237,95588,la,Kintore
+7360391,95590,la,Lake Tabourie
+7360622,95593,la,Loch Sport
+7360699,95594,la,Litus Longum
+7360776,95595,la,Manning Point
+7360853,95596,la,Maydena
+7361007,95598,la,Napranum
+7361084,95599,la,New Mapoon
+7361238,95601,la,Old Erowal Bay
+7361315,95602,la,Tannum Sands
+7361392,95603,la,Tarraganda
+7361469,95604,la,Taylors Beach
+7361546,95605,la,Palumpa
+7361623,95606,la,Peppermint Nemus Beach
+7361700,95607,la,Perisher Vallis
+7361777,95608,la,Pirlangimpi
+7361854,95609,la,Rawson
+7361931,95610,la,River Heads
+7362008,95611,la,Safety Beach
+7362316,95615,la,Sancta Teresia
+7362470,95617,la,Silverdale
+7362624,95619,la,South Golden Beach
+7362778,95621,la,The Palms
+7362855,95622,la,Tura Beach
+7362932,95623,la,Turners Beach
+7363009,95624,la,Umagico
+7363086,95625,la,Venus Bay
+7363163,95626,la,Wangan
+7363317,95628,la,Waterview Heights
+7363394,95629,la,Westbury
+7363471,95630,la,Alba Litus
+7363548,95631,la,Willow Vale
+7363702,95633,la,Withcott
+7363779,95634,la,Wongaling Beach
+7363856,95635,la,Wooroowoolgan
+7363933,95636,la,Yungngora
+7364010,95637,la,Bello Monte
+7364087,95638,la,Cape Paterson
+7364241,95640,la,Central Coast
+7364318,95641,la,Cherbourg
+7364395,95642,la,Coleambally
+7364472,95643,la,Barunga
+7364549,95644,la,Bawley Point
+7364626,95645,la,Bayulu
+7364703,95646,la,Beagle Bay
+7364780,95647,la,Belyuen
+7364934,95649,la,Agnes Banks
+7365011,95650,la,Alpurrurulam
+7365088,95651,la,Amoonguna
+7365165,95652,la,Ampilatwatja
+7365242,95653,la,Angourie
+7365319,95654,la,"Angurugu Communitas, Anindilyakwa"
+7365396,95655,la,Bingil Bay
+7365473,95656,la,Bouldercombe
+7365550,95657,la,Bowen Mountain
+7365627,95658,la,Buronga
+7365704,95659,la,Cabramurra
+7365781,95660,la,Coronet Bay
+7365935,95662,la,Dalmeny
+7366012,95663,la,Daly River
+7366089,95664,la,Hermannsburg
+7366166,95665,la,Doomadgee
+7366243,95666,la,Dysart
+7366320,95667,la,Eneabba
+7366397,95668,la,Exeter
+7366474,95669,la,Fingal Bay
+7366551,95670,la,Flying Fish Point
+7366628,95671,la,Gapuwiyak
+7366782,95673,la,Gulmarrad
+7366936,95675,la,Hamilton Island
+7367013,95676,la,Gununa
+7367167,95678,la,Kalumburu
+7367244,95679,la,Minjilang
+7367398,95681,la,Kurmond
+7367475,95682,la,Lajamanu
+7367552,95683,la,Lake Cathie
+7367629,95684,la,Leinster
+7367706,95685,la,Lennox Head
+7367783,95686,la,Lockhart River
+7367860,95687,la,Looma
+7367937,95688,la,Malua Bay
+7368014,95689,la,Milikapiti
+7368091,95690,la,Milingimbi
+7368168,95691,la,Modanville
+7368245,95692,la,Nangwarry
+7368322,95693,la,Nathalia
+7368399,95694,la,Ngukurr
+7368476,95695,la,North Arm Cove
+7368553,95696,la,Ocean Shores
+7368630,95697,la,Oenpelli
+7368784,95699,la,Stieglitz
+7368861,95700,la,Stratham
+7368938,95701,la,Sussex Inlet
+7369015,95702,la,Tapitallee
+7369092,95703,la,Pannawonica
+7369169,95704,la,Paraburdoo
+7369246,95705,la,Peppimenarti
+7369400,95707,la,Pormpuraaw
+7369477,95708,la,Ramingining
+7369554,95709,la,Robinvale
+7369631,95710,la,Rottnest Island
+7369785,95712,la,Sarina Beach
+7369862,95713,la,Scotts Head
+7369939,95714,la,South West Rocks
+7370016,95715,la,Thursday Island
+7370093,95716,la,Timber Creek
+7370170,95717,la,Tully Heads
+7370247,95718,la,"Umbakumba, Anindilyakva"
+7370324,95719,la,Wallabi Point
+7370401,95720,la,Warraber Islet
+7370478,95721,la,Warragamba
+7370555,95722,la,Warruwi
+7370632,95723,la,Wickham
+7370709,95724,la,Wooloweyah
+7370940,95727,la,Glen Aplin
+7371248,95731,la,Masig Island
+7371479,95734,la,Willyung
+7371556,95735,la,Abergowrie
+7371633,95736,la,Brownlow KI
+7371710,95737,la,Airville
+7371864,95739,la,Warrenup
+7372018,95741,la,Cape Jervis
+7372249,95744,la,Goldsborough
+7372480,95747,la,Southend
+7372711,95750,la,Erowal Bay
+7372788,95751,la,Jerramungup
+7372942,95753,la,Lansdowne
+7373019,95754,la,Mission Beach
+7373096,95755,la,Newell
+7373250,95757,la,City of Cockburn
+7373635,95762,la,Cardigan Village
+7373789,95764,la,Kambalda West
+7373866,95765,la,Lake Conjola
+7373943,95766,la,Conjola Park
+7374020,95767,la,North Pinjarra
+7374097,95768,la,North Rothbury
+7374174,95769,la,Pambula Beach
+7374251,95770,la,Yallourn North
+7374328,95771,la,Cradle Mountain
+7374405,95772,la,Kordabup
+7374482,95773,la,Seddon
+7374559,95774,la,Cape Tribulation
+7374636,95775,la,Blueys Beach
+7374713,95776,la,Stokes Bay
+7374790,95777,la,Springbank
+7374867,95778,la,Diwan
+7374944,95779,la,Karatta
+7375021,95780,la,Castle Forbes Bay
+7375098,95781,la,Yanakie
+7375175,95782,la,Rosa Glen
+7375329,95784,la,Nungurner
+7375637,95788,la,Pidachry
+7376330,95797,la,Carpenter's Rocks
+7376407,95798,la,Blackfellows Caves
+7376484,95799,la,Nene Valley
+7377793,95816,la,Pegarah
+7377947,95818,la,Kennett River
+7378101,95820,la,Bears Lagoon
+7378178,95821,la,Ravenswood South
+7378332,95823,la,Glenmore
+7378486,95825,la,Hazeldene
+7378640,95827,la,Neerim Junction
+7378717,95828,la,Thornton
+7378794,95829,la,Caniambo
+7378871,95830,la,Katandra West
+7379179,95834,la,Macs Cove
+7379564,95839,la,Agnes
+7379872,95843,la,Rosewhite
+7379949,95844,la,Mudgeegonga
+7380026,95845,la,Lacus Hume Village
+7380180,95847,la,Tallangatta Valley
+7380334,95849,la,Smoko
+7380411,95850,la,Falls Creek
+7380642,95853,la,East Sale
+7380796,95855,la,Litus Aureum
+7380950,95857,la,Mount Taylor
+7381027,95858,la,Wiseleigh
+7381797,95868,la,Wairewa
+7381874,95869,la,Bete Bolong
+7381951,95870,la,Jarrahmond
+7382028,95871,la,Memana
+7382259,95874,la,Bemm River
+7386494,95929,la,Wonboyn
+7388265,95952,la,Akolele
+7388496,95955,la,Poatina
+7388650,95957,la,Yarrahapinni
+7388727,95958,la,Lockwood South
+7399276,96095,la,Mount Victoria
+7399661,96100,la,Chorregon
+7404281,96160,la,Willoughby
+7404897,96168,la,Lochinvar
+7407207,96198,la,Dalbeg
+7407746,96205,la,Glenavon
+7408901,96220,la,Willows
+7411519,96254,la,Pasha
+7419450,96357,la,Mulambin
+7423454,96409,la,Quercus sericeus
+7423531,96410,la,Cardstone
+7423685,96412,la,East Palmerston
+7423762,96413,la,Eubenangee
+7423839,96414,la,North Johnstone
+7424301,96420,la,Boogan
+7424609,96424,la,Bluewater
+7424840,96427,la,Barratta
+7425148,96431,la,Fregon
+7427227,96458,la,Bulman
+7428921,96480,la,Wandawuy
+7434311,96550,la,Mapoon
+7442396,96655,la,Cockatoo
+7444321,96680,la,Running Creek
+7448017,96728,la,Degarra
+7449095,96742,la,Kundat Djaru Community
+7450712,96763,la,Wangkatjungka Community
+7451328,96771,la,Kupartiya Community
+7452252,96783,la,Meringur
+7452329,96784,la,Werrimull
+7452406,96785,la,Cullulleraine
+7452483,96786,la,Sunset Strip
+7452560,96787,la,Monak
+7452637,96788,la,Nangiloc
+7452714,96789,la,Wemen
+7452791,96790,la,Goodnight
+7454485,96812,la,Glenwood
+7455409,96824,la,Bilbul
+7456102,96833,la,Iris
+7461723,96906,la,Bawang
+7461877,96908,la,Cunningar
+7464264,96939,la,Fairfield
+7465496,96955,la,Glenview
+7465727,96958,la,Darbys Falls
+7465804,96959,la,Wyangala
+7465958,96961,la,Muroomba
+7469346,97005,la,Hobbys Yards
+7469500,97007,la,Reids Flat
+7470501,97020,la,Blakney Creek
+7470578,97021,la,Avoca
+7471579,97034,la,Yarra Glen
+7472195,97042,la,Woodlands
+7472349,97044,la,Virginia
+7472426,97045,la,Jomalchen
+7473042,97053,la,Quialigo
+7476199,97094,la,Turill
+7478047,97118,la,High Range
+7478201,97120,la,Medway
+7478740,97127,la,Rosedale
+7478971,97130,la,Callala Beach
+7479510,97137,la,Manobalai
+7479664,97139,la,East Gresford
+7479741,97140,la,Banden Grove
+7479972,97143,la,Seal Rocks
+7480126,97145,la,Dartbrook
+7487441,97240,la,Vivonne Bay
+7489982,97273,la,Cunningham
+7490367,97278,la,Gulnare
+7492369,97304,la,Farrell Flats
+7492523,97306,la,Brukunga
+7495757,97348,la,Greenways Landing
+7497297,97368,la,Field
+7497990,97377,la,Coombe
+7499838,97401,la,Holder
+7500916,97415,la,Wonuarra
+7503380,97447,la,Jerdacuttup
+7503919,97454,la,Coomalbidgup
+7504150,97457,la,Dalyup
+7504920,97467,la,Condingup
+7508154,97509,la,Myalup
+7508770,97517,la,Westdale
+7509848,97531,la,Rocky Gully
+7511850,97557,la,Boxwood Hill
+7512466,97565,la,Gin Gin
+7512851,97570,la,North Star
+7513929,97584,la,Purlewaugh
+7515007,97598,la,Braefield
+7515238,97601,la,Warialda Rail
+7515392,97603,la,Coolmunda
+7515931,97610,la,Yarramundi
+7516778,97621,la,Marengo
+7517471,97630,la,Collombatti
+7517548,97631,la,Millbank
+7518087,97638,la,Billys Creek
+7518472,97643,la,Gurranang
+7518703,97646,la,Myrtle Creek
+7519550,97657,la,Tamrookum
+7519781,97660,la,Palmwood
+7519935,97662,la,Marom Creek
+7520089,97664,la,Minnie Water
+7520474,97669,la,Olympic Dam Village
+7521244,97679,la,Arkaroola Village
+7522938,97701,la,Kianga
+7523246,97705,la,Mondonio
+7523785,97712,la,Dakenba
+7524632,97723,la,Mungungo
+7526018,97741,la,Formartin
+7526557,97748,la,Springside
+7526634,97749,la,Athol
+7526942,97753,la,Dimbir
+7527173,97756,la,Kinkuna
+7527481,97760,la,Tansey
+7527558,97761,la,Boonara
+7527789,97764,la,Lilydale
+7527943,97766,la,Somerset Dam
+7528174,97769,la,Eurong
+7528482,97773,la,Tuan
+7531947,97818,la,Indulkana
+7532024,97819,la,Marla
+7536413,97876,la,Mulan
+7536490,97877,la,Kiwirrkurra
+7536567,97878,la,Gregory
+7536721,97880,la,Georgina
+7537414,97889,la,Tenindewa
+7538569,97904,la,Bindoon
+7539262,97913,la,Wagga Wagga
+7540186,97925,la,Kununoppin
+7540648,97931,la,Koolyanobbing
+7541033,97936,la,Mount Burges
+7542419,97954,la,Cundeelee
+7542804,97959,la,Murchison
+7543035,97962,la,Useless Loop
+7543959,97974,la,Brunswick
+7545191,97990,la,Aberdonensis
+7545345,97992,la,Paradisus
+7545653,97996,la,Staverton
+7545807,97998,la,Sunnyside
+7545884,97999,la,Stowport Upper
+7546115,98002,la,Spalford
+7546654,98009,la,Milabena
+7546731,98010,la,Togari
+7547116,98015,la,South Bruny
+7548194,98029,la,North Scottsdale
+7548425,98032,la,Reedy Marsh
+7548810,98037,la,Talawah
+7548964,98039,la,Westwood
+7549272,98043,la,Ver Beach
+7549349,98044,la,Grindelwald
+7549426,98045,la,Bingie
+7549734,98049,la,Forest Creek
+7549965,98052,la,Lower Daintree
+7550042,98053,la,Anniebrook
+7550350,98057,la,Wadeye
+7550427,98058,la,Diamondvale
+7550504,98059,la,Carrolls Creek
+7550581,98060,la,Mount Tully
+7550812,98063,la,Pelican Lagoon
+7551120,98067,la,Canningvale
+7551197,98068,la,Morgan Park
+7551351,98070,la,Pine Creek
+7551428,98071,la,Electra
+7551582,98073,la,Avoca
+7552044,98079,la,Rosegarland
+7552198,98081,la,Hayes
+7552506,98085,la,Lonnayale
+7553584,98099,la,Police Point
+7553815,98102,la,Lunawanna
+7554046,98105,la,Birchs Bay
+7554585,98112,la,Baudin Beach
+7554816,98115,la,Lake George
+7554893,98116,la,Gwambygine
+7555047,98118,la,Nulkaba
+7555278,98121,la,Murrigal
+7555432,98123,la,Rockingham
+7556587,98138,la,Rosenthal Heights
+7556972,98143,la,Kents Lagoon
+7557049,98144,la,Silverdale
+7557126,98145,la,Limestone Ridges
+7557203,98146,la,Milora
+7557280,98147,la,Moola
+7557742,98153,la,Padthaway
+7557819,98154,la,Bramston Beach
+7558127,98158,la,Texas
+7558435,98162,la,North Walpole
+7558512,98163,la,North West Cape
+7558589,98164,la,Mount Surprise
+7558820,98167,la,Bonnie Doon
+7558897,98168,la,Shannonvale
+7558974,98169,la,Killaloe
+7559436,98175,la,Howitt
+7559975,98182,la,New Harbourline
+7560206,98185,la,Cowley Beach
+7560437,98188,la,Saxum Point
+7560514,98189,la,Mowbray
+7560899,98194,la,Goolwa North
+7561284,98199,la,Gibb
+7561515,98202,la,in Pincis
+7561669,98204,la,Garden Island
+7561746,98205,la,Cape Jaffa
+7561823,98206,la,Fernbank Creek
+7561900,98207,la,Dookie College
+7562054,98209,la,Dales Creek
+7562362,98213,la,Cosgrove South
+7562439,98214,la,Portland West
+7562516,98215,la,Invermay
+7562593,98216,la,Agnew
+7562747,98218,la,Lacerta
+7562824,98219,la,Ningaloo
+7562901,98220,la,Eighty Mile Beach
+7563055,98222,la,Sunshine Coast
+7563132,98223,la,Willalooka
+7563286,98225,la,Roebuck
+7563517,98228,la,East Trinity
+7563902,98233,la,Marrakai
+7564056,98235,la,Punsand
+7564518,98241,la,Cape Gloucester
+7564749,98244,la,Boeill Creek
+7564826,98245,la,Barnesius
+7564903,98246,la,Calimo
+7565057,98248,la,Burraboi
+7565519,98254,la,Burnside
+7565750,98257,la,Boodarie
+7565981,98260,la,Inskip
+7566058,98261,la,Langsborough
+7566135,98262,la,West Arnhem
+7566289,98264,la,South Plantation
+7566443,98266,la,Moffatdale
+7566982,98273,la,Cobourg
+7567059,98274,la,Hervey Range
+7567367,98278,la,Coconuts
+7567444,98279,la,Coquette Point
+7567598,98281,la,Goondi Bend
+7567675,98282,la,Goondi Hill
+7567906,98285,la,Stoters Hill
+7568060,98287,la,Upper Daradgee
+7568214,98289,la,Parawa
+7568291,98290,la,Wilyabrup
+7568368,98291,la,Werai
+7568445,98292,la,Watervale
+7568522,98293,la,Rocky Plain
+7568676,98295,la,Rewan
+7568830,98297,la,Arcadia Valley
+7568907,98298,la,Tinaroo
+7569215,98302,la,Packers Camp
+7569292,98303,la,Wrights Creek
+7569446,98305,la,Wirrina Cove
+7569831,98310,la,Emugalan
+7570139,98314,la,Mer Island
+7570370,98317,la,South Guyra
+7570755,98322,la,Sugarloaf
+7570909,98324,la,Glen Martin
+7571371,98330,la,Blythewood
+7571448,98331,la,West Coolup
+7571525,98332,la,Warawarrup
+7571756,98335,la,Lower Wonga
+7572680,98347,la,Silver Valley
+7572988,98351,la,Howards Grass
+7573065,98352,la,Lagoon Grass
+7573219,98354,la,Terania Creek
+7573296,98355,la,Anindilyakwa
+7573450,98357,la,Mitchell Plateau
+7573681,98360,la,Tannum Sands - Boyne Island
+7573758,98361,la,Jam Jarrup
+7573835,98362,la,Wellstead
+7573912,98363,la,William Bay
+7573989,98364,la,Bundabah
+7574066,98365,la,Hervey Bay
+7574451,98370,la,Maragle
+7574605,98372,la,Pulletop
+7574990,98377,la,Wee Jasper
+7577762,98413,la,Break o'day
+7577839,98414,la,Glenayr
+7578532,98423,la,Kalamunda
+7578840,98427,la,Canyonleigh
+7578917,98428,la,Pottsville
+7579302,98433,la,West Kempsey
+7579764,98439,la,Midway Point
+7580688,98451,la,Karratha Industrial Estate
+7580919,98454,la,Boomerang Beach
+7580996,98455,la,Oceani Beach
+7581304,98459,la,Skennars Head
+7581381,98460,la,Trunding
+7581458,98461,la,Newlands Arm
+7581612,98463,la,Wallaga Lake
+7581689,98464,la,Nowra Hill
+7581843,98466,la,Qunaba
+7581920,98467,la,Kambalda East
+7581997,98468,la,Wattle Ponds
+7582074,98469,la,Bunya Mountains
+7582151,98470,la,Thrumster
+7582459,98474,la,New Berrima
+7582613,98476,la,Taromeo
+7582690,98477,la,Morangup
+7582844,98479,la,Sunlands
+7582921,98480,la,Kearsley
+7583075,98482,la,Goughs Bay
+7583229,98484,la,Toll
+7583306,98485,la,South Gundurimba
+7583383,98486,la,Kiama Heights
+7583460,98487,la,The Honeysuckles
+7583691,98490,la,Myrup
+7583845,98492,la,Captain Creek
+7583922,98493,la,Moorak
+7584076,98495,la,Murrays Beach
+7584153,98496,la,Euthulla
+7584230,98497,la,Horse Camp
+7584307,98498,la,Horseshoe Lagoon
+7584384,98499,la,Wimbledon Heights
+7584461,98500,la,Black Point
+7584615,98502,la,Berrambool
+7584692,98503,la,Thompson Beach
+7584846,98505,la,Sunderland Bay
+7585154,98509,la,Armus Meridionalis
+7586771,98530,la,Red Ridge
+7587541,98540,la,West Coraki
+7589081,98560,la,Woodford Island
+7590390,98577,la,Maloneys Beach
+7590544,98579,la,McDougalls Hill
+7590621,98580,la,lerusalem
+7590698,98581,la,Wallagoot
+7590775,98582,la,Dolphin Sands
+7590852,98583,la,Scotsdale
+7590929,98584,la,Eagle Bay
+7591006,98585,la,Kingston On Murray
+7591160,98587,la,Ellesmere
+7591237,98588,la,Moonta Mines
+7591314,98589,la,Fredericksfield
+7591391,98590,la,Woongarra
+7591468,98591,la,Kangaroo Gully
+7591545,98592,la,Braemeadows
+7591699,98594,la,East Nanango
+7591776,98595,la,Naturaliste
+7591853,98596,la,Jalbarragup
+7591930,98597,la,Lake Bunga
+7592007,98598,la,Quorrobolong
+7592084,98599,la,Mount Tarampa
+7592238,98601,la,Renwick
+7592392,98603,la,Evelyn
+7592469,98604,la,Etty Bay
+7592546,98605,la,Turkey Beach
+7592700,98607,la,OB Flat
+7592777,98608,la,Gracetown
+7592931,98610,la,South Isis
+7593008,98611,la,Lonesome Creek
+7593085,98612,la,Miara
+7593162,98613,la,Renmark South
+7593239,98614,la,Ilparpa
+7593393,98616,la,Pinks Beach
+7593470,98617,la,Welcome Creek
+7593547,98618,la,Mirador
+7593778,98621,la,Mountain River
+7593932,98623,la,Commissariat Point
+7594086,98625,la,Dotswood
+7594163,98626,la,Tingun
+7594240,98627,la,Yacka
+7594394,98629,la,Nilgen
+7594471,98630,la,Donovans
+7594548,98631,la,Wurdong Heights
+7594625,98632,la,Ambergate
+7594702,98633,la,Yippin Creek
+7594779,98634,la,Munglinup
+7594856,98635,la,Mystery Bay
+7594933,98636,la,Warnertown
+7595010,98637,la,Moggs Creek
+7595087,98638,la,Rodds Bay
+7595241,98640,la,James Well
+7595395,98642,la,Karakin
+7595472,98643,la,Laidley South
+7595549,98644,la,Wyomi
+7595626,98645,la,McLoughlins Beach
+7595780,98647,la,Mount Beppo
+7595857,98648,la,Tiatukia
+7596011,98650,la,Dumbarton
+7596088,98651,la,Wonglepong
+7596165,98652,la,Potato Point
+7596242,98653,la,East Moonta
+7596319,98654,la,Waranga Shores
+7596396,98655,la,Echuca West
+7596473,98656,la,Pukatja
+7596627,98658,la,Dale
+7596781,98660,la,Nerong
+7596858,98661,la,Lake Bennett
+7596935,98662,la,Dunmora
+7597012,98663,la,Alstonvale
+7597243,98666,la,Coomoora
+7597397,98668,la,Avalon
+7597474,98669,la,Tenby Point
+7597705,98672,la,Verona Sands
+7597782,98673,la,Victoria Plantation
+7597859,98674,la,Marybrook
+7597936,98675,la,Morganville
+7598090,98677,la,Boat Harbour Beach
+7598244,98679,la,Sunday Creek
+7598321,98680,la,Koonoomoo
+7598398,98681,la,Hellyer
+7598629,98684,la,Goldie
+7598706,98685,la,Winya
+7598783,98686,la,Sandy Camp
+7598937,98688,la,Picton East
+7599168,98691,la,Yongala
+7599245,98692,la,Totness
+7599322,98693,la,Ballard
+7599399,98694,la,Anmatjere
+7599553,98696,la,Dundathu
+7599707,98698,la,Eggs and Bacon Bay
+7599784,98699,la,Chilcotts Grass
+7599861,98700,la,Ramco Heights
+7599938,98701,la,Woodside Beach
+7600015,98702,la,Guerilla Bay
+7600092,98703,la,Breamlea
+7600169,98704,la,Nahrunda
+7600246,98705,la,Redbournberry
+7600323,98706,la,Doonbah
+7600400,98707,la,Chelmsford
+7600477,98708,la,Neerdie
+7600554,98709,la,Huon Creek
+7600631,98710,la,Burramine
+7600708,98711,la,Sevenhill
+7600785,98712,la,Jeremadra
+7600862,98713,la,Savage River
+7601016,98715,la,Tinnanbar
+7601093,98716,la,Uriarra Village
+7601170,98717,la,Woodlane
+7601324,98719,la,Tuntable Creek
+7601478,98721,la,Rocky Camp
+7601555,98722,la,Penwortham
+7601632,98723,la,Kirwans Bridge
+7601709,98724,la,Gowrie Mountain
+7601863,98726,la,Camden Head
+7602094,98729,la,Seppeltsfield
+7602171,98730,la,Matta Flat
+7602248,98731,la,Mimili
+7602325,98732,la,Dingup
+7602402,98733,la,Allenview
+7602479,98734,la,Scotchtown
+7602556,98735,la,Moomin
+7602633,98736,la,Siesta Park
+7602710,98737,la,Pimpimbudgee
+7602787,98738,la,Fishermans Reach
+7602864,98739,la,Mount Arthur
+7602941,98740,la,Lennard Brook
+7603018,98741,la,Abels Bay
+7603095,98742,la,Sloping Main
+7603249,98744,la,Armstrong Beach
+7603634,98749,la,Millmerran Downs
+7603711,98750,la,Coonabidgee
+7603788,98751,la,Rous
+7603865,98752,la,Horse Creek
+7604019,98754,la,James Creek
+7604635,98762,la,Murray Bridge South
+7604712,98763,la,Robertsons Beach
+7604789,98764,la,Kimbolton
+7604943,98766,la,Elrington
+7605097,98768,la,Kauring
+7605174,98769,la,Burrundulla
+7605328,98771,la,Kinchant Dam
+7605405,98772,la,Dingo Pocket
+7605482,98773,la,Moy Pocket
+7605559,98774,la,Monjingup
+7605636,98775,la,Pipalyatjara
+7605713,98776,la,Kinvara
+7605790,98777,la,Wongyarra
+7605867,98778,la,New Park
+7605944,98779,la,Banks Pocket
+7606021,98780,la,Milbrodale
+7606098,98781,la,Darts Creek
+7606175,98782,la,Mabuiag Island
+7606329,98784,la,Wallu
+7606406,98785,la,Moranding
+7606483,98786,la,Moojebing
+7606868,98791,la,Nariel Valley
+7607022,98793,la,Kanoona
+7607099,98794,la,Harolds Cross
+7607253,98796,la,Zeerust
+7607484,98799,la,Shepherds Flat
+7607561,98800,la,Hester Brook
+7607638,98801,la,Giants Creek
+7607715,98802,la,The Marra
+7607792,98803,la,Preston Settlement
+7608023,98806,la,Castle Rock
+7608177,98808,la,Coomboona
+7608254,98809,la,Murrays Bridge
+7608331,98810,la,Pioneers Rest
+7608408,98811,la,Castle Donnington
+7608562,98813,la,Mungay Creek
+7608639,98814,la,Hamilton Creek
+7608716,98815,la,Erudgere
+7608793,98816,la,Wooyung
+7608870,98817,la,Vaughan
+7608947,98818,la,Stone Well
+7609101,98820,la,McLeods Shoot
+7609178,98821,la,Glengarrie
+7609255,98822,la,South Forest
+7609332,98823,la,Trenayr
+7609409,98824,la,Wonwondah
+7609486,98825,la,Shell Pocket
+7609563,98826,la,Warri
+7609640,98827,la,Bimbimbie
+7609717,98828,la,Marys Creek
+7609794,98829,la,Mead
+7609871,98830,la,Mount Doran
+7610025,98832,la,O'Reilly
+7610102,98833,la,Mons Liebig
+7610256,98835,la,Hawson
+7610333,98836,la,Horfield
+7610410,98837,la,Mogareeka
+7610487,98838,la,Glendon
+7610718,98841,la,Lower Pappinbarra
+7610795,98842,la,Pallinup
+7610872,98843,la,Bungarby
+7611026,98845,la,Willunga Hill
+7611103,98846,la,Narrogin Valley
+7611334,98849,la,Kinnoul
+7611565,98852,la,Mount Barker Summit
+7611642,98853,la,Kerrie
+7611719,98854,la,Bakers Beach
+7611796,98855,la,Grasstree Hill
+7611873,98856,la,Trentham Cliffs
+7611950,98857,la,St Arnaud East
+7612027,98858,la,Repentance Creek
+7612104,98859,la,Wallamore
+7612181,98860,la,Coongbar
+7612258,98861,la,West Mooreville
+7612335,98862,la,College View
+7612489,98864,la,Upper Copmanhurst
+7612566,98865,la,Murraydale
+7612643,98866,la,Whorouly East
+7612797,98868,la,Yessabah
+7612874,98869,la,Toolong
+7612951,98870,la,Barwidgee
+7613028,98871,la,Westmar
+7613105,98872,la,Frogs Hollow
+7613182,98873,la,Myrtlebank
+7613259,98874,la,Ryeford
+7613413,98876,la,Alberta
+7613567,98878,la,Middle Falbrook
+7613644,98879,la,Kilgin
+7613721,98880,la,Florina
+7613798,98881,la,Loxford
+7614029,98884,la,Edgcumbe Beach
+7614337,98888,la,Martii
+7614414,98889,la,Mullamuddy
+7614568,98891,la,Flaggy Creek
+7614722,98893,la,Hazelvale
+7614876,98895,la,Roughit
+7614953,98896,la,Central Macdonald
+7615107,98898,la,Gillentown
+7615338,98901,la,Flagstaff
+7615415,98902,la,Coral Bank
+7615646,98905,la,Adams Estate
+7615723,98906,la,Dutton Way
+7615877,98908,la,The Pinnacles
+7615954,98909,la,North Blackwood
+7616108,98911,la,Bona Vista
+7616262,98913,la,Tesbury
+7616339,98914,la,Scotchmans Lead
+7616416,98915,la,Mooroopna North West
+7616570,98917,la,Coxs Creek
+7616647,98918,la,Gradys Creek
+7616724,98919,la,Silverleigh
+7616801,98920,la,Boegruepek
+7617109,98924,la,Tewinga
+7617263,98926,la,Summer Island
+7617340,98927,la,Petwood
+7617494,98929,la,Reedy Swamp
+7617571,98930,la,Middle Point
+7618187,98938,la,Abba River
+7618264,98939,la,Old Plains
+7618341,98940,la,Wattle Springs
+7618649,98944,la,Warragai Creek
+7618726,98945,la,Tumut Plains
+7619034,98949,la,Edenville
+7619265,98952,la,Kalka
+7619419,98954,la,Woottating
+7619727,98958,la,Merritts Creek
+7619881,98960,la,Nillup
+7619958,98961,la,Chocolyn
+7620035,98962,la,Jindong
+7620112,98963,la,Gonn Crossing
+7620343,98966,la,Lake Argyle
+7620420,98967,la,Dixvale
+7621113,98976,la,Charley Creek
+7621190,98977,la,Chasm Creek
+7621575,98982,la,Pola Creek
+7621652,98983,la,Skibo
+7622268,98991,la,North Kukerin
+7622961,99000,la,Kilgra
+7623115,99002,la,Russells Bridge
+7623192,99003,la,Upper Coopers Creek
+7623654,99009,la,Gowrie Little Plain
+7623731,99010,la,Katrine
+7623885,99012,la,Nuggetty
+7623962,99013,la,Beenaam Valley
+7624193,99016,la,Wilsons Hill
+7624501,99020,la,Hampden Hall
+7624655,99022,la,Burlong
+7624809,99024,la,Pomborneit North
+7625117,99028,la,Patchs Beach
+7625425,99032,la,Wanganui
+7625733,99036,la,Dalswinton
+7625810,99037,la,Murra Warra
+7625887,99038,la,Marshdale
+7626195,99042,la,Duroby
+7626426,99045,la,Bombowlee Creek
+7626580,99047,la,Newcastle Waters
+7626965,99052,la,Knights Hill
+7627042,99053,la,Kirkconnell
+7627427,99058,la,Nullawarre North
+7627504,99059,la,Porcupine
+7627581,99060,la,Purrawunda
+7627658,99061,la,Lagrange
+7627735,99062,la,West Bungawalbin
+7628274,99069,la,Irvington
+7628505,99072,la,Larrimah
+7629429,99084,la,Wolgan Valley
+7629737,99088,la,Yellow Pinch
+7629814,99089,la,Sastra
+7630507,99098,la,Petermann
+7631585,99112,la,Tallangatta East
+7631816,99115,la,Greta Main
+7633048,99131,la,Coojar
+7634280,99147,la,Vinegar Hill
+7634588,99151,la,Roslynmead
+7635897,99168,la,Bungeet West
+7636128,99171,la,Cape Borda
+7638515,99202,la,Wylies Flat
+7639901,99220,la,Ghan
+7641056,99235,la,Willow Banks
+7649449,99344,la,Felix valle
+7649680,99347,la,Moorebank
+7649911,99350,la,Stradbroke
+7651836,99375,la,Glenfinnan
+7656379,99434,la,Kiah Lodge
+7656764,99439,la,El Paso
+7657226,99445,la,Avonside
+7657303,99446,la,Little Buckenderra
+7657919,99454,la,Kara
+7658535,99462,la,Hill Top
+7659998,99481,la,Langi Kal Kal
+7660075,99482,la,Shelburne
+7660306,99485,la,Cataby
+7661846,99505,la,Bridgewater On Loddon
+7661923,99506,la,Badgingarra
+7662000,99507,la,Tres Flumina
+7662077,99508,la,Stanage
+7662154,99509,la,Mount Maria
+7662231,99510,la,Weeroona Island
+7662385,99512,la,Coverty
+7662462,99513,la,Thalgarrah
+7662616,99515,la,Camballin
+7662693,99516,la,Ver Grove
+7662924,99519,la,Nunile
+7663001,99520,la,Nerada
+7663078,99521,la,Wooderson
+7663155,99522,la,Akaroa
+7663232,99523,la,Borzanga
+7663309,99524,la,Boxers Creek
+7663386,99525,la,Mona Park
+7663463,99526,la,Murrays Run
+7663617,99528,la,Murray Downs
+7663694,99529,la,Watagan
+7663771,99530,la,Carlotta
+7663848,99531,la,Woodend North
+7663925,99532,la,Sandy Ridges
+7664002,99533,la,Middle Brook
+7664079,99534,la,Kirknie
+7664156,99535,la,Woodmillar
+7664233,99536,la,Staghorn Flat
+7664310,99537,la,Nigrum Jack
+7664387,99538,la,Iwantja
+7664541,99540,la,Orange Creek
+7664772,99543,la,Calder
+7664926,99545,la,Boorara Brook
+7665003,99546,la,Sugarloaf Creek
+7665080,99547,la,Marchmont
+7665157,99548,la,Derri Derra
+7665234,99549,la,Carneys Creek
+7665465,99552,la,Reids Flat
+7665542,99553,la,Greenview
+7665619,99554,la,Black Snake
+7665696,99555,la,Mackenzie River
+7665773,99556,la,Kingsdale
+7665850,99557,la,Bogie
+7665927,99558,la,MacGillivray
+7666004,99559,la,Pinkawillinie
+7666081,99560,la,Nulla Vale
+7666158,99561,la,Eviron
+7666312,99563,la,Groper Creek
+7666466,99565,la,Hibernia
+7666774,99569,la,Goodar
+7667005,99572,la,Benair
+7667082,99573,la,Kanigan
+7667236,99575,la,Glen Cairn
+7667313,99576,la,Walkers Point
+7667467,99578,la,Bullcamp
+7667621,99580,la,Cundinup
+7667698,99581,la,Merivale
+7667852,99583,la,Cold Harbour
+7667929,99584,la,Chances Plain
+7668006,99585,la,Vulpes
+7668083,99586,la,Buckra Bendinni
+7668160,99587,la,Mount Thorley
+7668237,99588,la,Glenrae
+7668314,99589,la,Great Marlow
+7668391,99590,la,Wallaroo Plain
+7668468,99591,la,Khosh Bulduk
+7668545,99592,la,Howick
+7668622,99593,la,Mundulla West
+7668853,99596,la,Tantawangalo
+7669007,99598,la,Magdala
+7669084,99599,la,Bookaar
+7669238,99601,la,Martindale
+7669469,99604,la,Boors Plain
+7669623,99606,la,Oaky Creek
+7669700,99607,la,Lymwood
+7669777,99608,la,Cope
+7669854,99609,la,Everton Upper
+7670008,99611,la,Piturie
+7670085,99612,la,Ingoldsby
+7670239,99614,la,Murray Bridge North
+7670316,99615,la,Barmoya
+7670547,99618,la,Arcturus
+7670701,99620,la,Goolhi
+7670855,99622,la,Orion
+7670932,99623,la,Googa Creek
+7671009,99624,la,Driffield
+7671086,99625,la,Kickabil
+7671163,99626,la,North Yalgogrin
+7671240,99627,la,Conara
+7671317,99628,la,Pike River
+7671625,99632,la,Dyraaba
+7671779,99634,la,Kyneton South
+7671856,99635,la,West River
+7671933,99636,la,Dalrymple Creek
+7672241,99640,la,Red Hills
+7672472,99643,la,Port Gawler
+7672626,99645,la,damascum
+7672703,99646,la,Mungabunda
+7672780,99647,la,St Ronans
+7672857,99648,la,Mummel
+7672934,99649,la,Stonyford
+7673011,99650,la,Marthaguy
+7673396,99655,la,Wyaga
+7673550,99657,la,Green Range
+7673627,99658,la,Upper Pappinbarra
+7673704,99659,la,Merkanooka
+7673935,99662,la,Waitui
+7674012,99663,la,Crinum
+7674166,99665,la,Taloumbi
+7674243,99666,la,Thowgla Valley
+7674320,99667,la,Glenbawn
+7674551,99670,la,Jemalong
+7674705,99672,la,Warrami
+7674936,99675,la,Kohinoor
+7675167,99678,la,Wyuna East
+7675321,99680,la,Frankfield
+7675398,99681,la,Yarrawa
+7675552,99683,la,Marys Mount
+7675860,99687,la,Nirranda South
+7676168,99691,la,Harris River
+7676245,99692,la,Wondalli
+7676322,99693,la,Warnoah
+7676399,99694,la,Mount Hardman
+7676553,99696,la,Cairns Bay
+7676707,99698,la,Ercildoune
+7676938,99701,la,Bambun
+7677246,99705,la,Tarramba
+7677323,99706,la,Old Grevillia
+7677400,99707,la,Ruabon
+7677477,99708,la,Mulla Creek
+7677554,99709,la,Upper Warren
+7677708,99711,la,Boomey
+7677785,99712,la,Nattai
+7678786,99725,la,Benolong
+7678863,99726,la,Pamayu
+7679017,99728,la,Nirimba
+7679171,99730,la,Gineroi
+7679556,99735,la,Scott River
+7679787,99738,la,Warding East
+7679941,99740,la,Muskerry
+7680249,99744,la,Doctor George Mountain
+7681173,99756,la,Rockley Mount
+7681327,99758,la,Cassini
+7681404,99759,la,Woodlane
+7681635,99762,la,Bondi Hill
+7682405,99772,la,Richmond Hill
+7697112,99963,la,Belvedere
+7705120,100067,la,Nindooinbah
+7705890,100077,la,Lucas Junction
+7716439,100214,la,Upper Main Arm
+7723446,100305,la,Coolgardie
+7725525,100332,la,Theresa Creek
+7725833,100336,la,Hogarth Range
+7727527,100358,la,Figtree
+7728374,100369,la,Research Farm Number Two
+7730684,100399,la,Wooroowoolgen
+7732532,100423,la,Shield Bend
+7732686,100425,la,Devlins Villa
+7735150,100457,la,Wonga Park
+7735304,100459,la,Cedar Vale
+7745853,100596,la,Cherry Tree
+7750396,100655,la,Willowvale
+7750858,100661,la,Kingswood
+7751859,100674,la,Brooklands
+7752398,100681,la,Gladfield
+7752937,100688,la,Oceanus Grove
+7753091,100690,la,Lumina
+7755555,100722,la,Mons View
+7759020,100767,la,Lumina
+7759097,100768,la,Mount Bryan
+7759251,100770,la,Flaxman Valley
+7759636,100775,la,Ebenezer
+7759713,100776,la,Ninnes
+7759867,100778,la,Penrice
+7759944,100779,la,Krondorf
+7760098,100781,la,Grace Plains
+7760175,100782,la,Viae crucis
+7760560,100787,la,Langlo
+7761484,100799,la,Kurrajong
+7761715,100802,la,King Island
+7762793,100816,la,Burringbar
+7763486,100825,la,Melville
