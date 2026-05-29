@@ -1,0 +1,483 @@
+{"id":35345,"city_id":460,"language_key":"am","name":"ዞር ኮት"}
+{"id":35499,"city_id":462,"language_key":"am","name":"ውለስዋሊ ቢህሱድ"}
+{"id":36115,"city_id":470,"language_key":"am","name":"ኩህሳን"}
+{"id":36192,"city_id":471,"language_key":"am","name":"ላሽ"}
+{"id":36423,"city_id":474,"language_key":"am","name":"ቱክዛር"}
+{"id":36962,"city_id":481,"language_key":"am","name":"ባቲ"}
+{"id":37039,"city_id":482,"language_key":"am","name":"ሚራይ"}
+{"id":37116,"city_id":483,"language_key":"am","name":"አቅ ኩፕሩክ"}
+{"id":37655,"city_id":490,"language_key":"am","name":"ዙራክ"}
+{"id":39118,"city_id":509,"language_key":"am","name":"ዙርማት"}
+{"id":42814,"city_id":557,"language_key":"am","name":"ዛይባክ"}
+{"id":43122,"city_id":561,"language_key":"am","name":"ዚያራት-ኢ ሻህ ማቅሱድ"}
+{"id":46202,"city_id":601,"language_key":"am","name":"ዚንዳህ ጃን"}
+{"id":49975,"city_id":650,"language_key":"am","name":"ዞዋክ"}
+{"id":50360,"city_id":655,"language_key":"am","name":"ዘርያት-ኢ ኡሉክ"}
+{"id":53055,"city_id":690,"language_key":"am","name":"ዛርጉሁን ሻህር"}
+{"id":53979,"city_id":702,"language_key":"am","name":"ዛራህ ሻራን"}
+{"id":58291,"city_id":758,"language_key":"am","name":"ዛራንጅ"}
+{"id":61602,"city_id":801,"language_key":"am","name":"ዛምቶ ከላይ"}
+{"id":73075,"city_id":950,"language_key":"am","name":"ያንጊ ቃላህ"}
+{"id":79081,"city_id":1028,"language_key":"am","name":"ይሕያ ኸል"}
+{"id":99948,"city_id":1299,"language_key":"am","name":"ዋዚት"}
+{"id":100179,"city_id":1302,"language_key":"am","name":"ዋሸር"}
+{"id":102412,"city_id":1331,"language_key":"am","name":"ኡስቱዋህ"}
+{"id":110959,"city_id":1442,"language_key":"am","name":"ቶርማይ"}
+{"id":115810,"city_id":1505,"language_key":"am","name":"ቱላክ"}
+{"id":120276,"city_id":1563,"language_key":"am","name":"ቶራጉንዲ"}
+{"id":126128,"city_id":1639,"language_key":"am","name":"ታይታን"}
+{"id":126436,"city_id":1643,"language_key":"am","name":"ቲር ፑል"}
+{"id":128515,"city_id":1670,"language_key":"am","name":"ታይዋራህ"}
+{"id":140219,"city_id":1822,"language_key":"am","name":"ባዛር-ኢ ታሽካን"}
+{"id":142375,"city_id":1850,"language_key":"am","name":"ታሪንኮት"}
+{"id":155542,"city_id":2021,"language_key":"am","name":"ታሎቃን"}
+{"id":170480,"city_id":2215,"language_key":"am","name":"ታጋው-ባይ"}
+{"id":170634,"city_id":2217,"language_key":"am","name":"ታጎሪ"}
+{"id":173714,"city_id":2257,"language_key":"am","name":"ታጋብ"}
+{"id":183185,"city_id":2380,"language_key":"am","name":"ማርካዝ-ኢ ሁኩማት-ኢ ሱልታን-ኢ ባክዋህ"}
+{"id":192964,"city_id":2507,"language_key":"am","name":"ስፒን ቦልዳክ"}
+{"id":194427,"city_id":2526,"language_key":"am","name":"ስጴራ"}
+{"id":195505,"city_id":2540,"language_key":"am","name":"ሶዝማህ ቃልዓህ"}
+{"id":224688,"city_id":2919,"language_key":"am","name":"ሲያህግርድ"}
+{"id":234775,"city_id":3050,"language_key":"am","name":"ቡኒ ቃራህ"}
+{"id":238394,"city_id":3097,"language_key":"am","name":"ሽኮወር"}
+{"id":238702,"city_id":3101,"language_key":"am","name":"ሸዋህ"}
+{"id":241474,"city_id":3137,"language_key":"am","name":"ሼራህ"}
+{"id":242090,"city_id":3145,"language_key":"am","name":"ሼር ባዝ ኬል"}
+{"id":244477,"city_id":3176,"language_key":"am","name":"ሺኒያህ"}
+{"id":247480,"city_id":3215,"language_key":"am","name":"ሽንዳንድ"}
+{"id":247711,"city_id":3218,"language_key":"am","name":"ሺናሊስ"}
+{"id":253332,"city_id":3291,"language_key":"am","name":"ሻይክ አሚር ከላይ"}
+{"id":258183,"city_id":3354,"language_key":"am","name":"ቃሽቃል"}
+{"id":258414,"city_id":3357,"language_key":"am","name":"ሽንጊራብ"}
+{"id":261494,"city_id":3397,"language_key":"am","name":"ሽብርጋን"}
+{"id":264112,"city_id":3431,"language_key":"am","name":"ሽዋክ"}
+{"id":270272,"city_id":3511,"language_key":"am","name":"ሻምሻይ ካላ"}
+{"id":280128,"city_id":3639,"language_key":"am","name":"ሻሕር-ኢ ሳፋ"}
+{"id":281437,"city_id":3656,"language_key":"am","name":"ሻሕራን"}
+{"id":281591,"city_id":3658,"language_key":"am","name":"ሻሕራክ"}
+{"id":285441,"city_id":3708,"language_key":"am","name":"አላቃህዳሪ ሻህ ጆይ"}
+{"id":296529,"city_id":3852,"language_key":"am","name":"ዉሌስዋሊ ሳይዪድ ካራም"}
+{"id":299532,"city_id":3891,"language_key":"am","name":"መርካዝ-ኢ ሳይዪዳባድ"}
+{"id":299609,"city_id":3892,"language_key":"am","name":"ሳያድ"}
+{"id":312930,"city_id":4065,"language_key":"am","name":"ሲድቃባድ"}
+{"id":317704,"city_id":4127,"language_key":"am","name":"ሳያጋዝ"}
+{"id":321785,"city_id":4180,"language_key":"am","name":"ሳር-ኢ ታይጋን"}
+{"id":325789,"city_id":4232,"language_key":"am","name":"ሳሮቢ"}
+{"id":328330,"city_id":4265,"language_key":"am","name":"ሳር ካኒ"}
+{"id":331641,"city_id":4308,"language_key":"am","name":"ሳርፊራዝ ካላ"}
+{"id":338417,"city_id":4396,"language_key":"am","name":"ሳር-ዩ ፑል"}
+{"id":357513,"city_id":4644,"language_key":"am","name":"ሳር ቻካን"}
+{"id":362441,"city_id":4708,"language_key":"am","name":"ሳንጊን"}
+{"id":364674,"city_id":4737,"language_key":"am","name":"ሳንግ-ኢ ማሻህ"}
+{"id":365598,"city_id":4749,"language_key":"am","name":"ሳንግ-ኢ ቻራክ"}
+{"id":367215,"city_id":4770,"language_key":"am","name":"ሳንግ ዓተሽ"}
+{"id":367369,"city_id":4772,"language_key":"am","name":"ሳንጋር ሳራይ"}
+{"id":372066,"city_id":4833,"language_key":"am","name":"አይባክ"}
+{"id":391393,"city_id":5084,"language_key":"am","name":"ሩ-ዬ ሳንግ"}
+{"id":393472,"city_id":5111,"language_key":"am","name":"ሩድባር"}
+{"id":394781,"city_id":5128,"language_key":"am","name":"ሩስታቅ"}
+{"id":396629,"city_id":5152,"language_key":"am","name":"ራባት-ኢ ሳንጊ-ዬ ፓ'ኢን"}
+{"id":403790,"city_id":5245,"language_key":"am","name":"ረሱል ካን"}
+{"id":407794,"city_id":5297,"language_key":"am","name":"ራማክ"}
+{"id":428892,"city_id":5571,"language_key":"am","name":"ቁርጋን"}
+{"id":431048,"city_id":5599,"language_key":"am","name":"ቁቻንግሂ"}
+{"id":434359,"city_id":5642,"language_key":"am","name":"ቃይሳር"}
+{"id":463234,"city_id":6017,"language_key":"am","name":"ቃርቅን"}
+{"id":465005,"city_id":6040,"language_key":"am","name":"ቃርጋህ'ይ"}
+{"id":468855,"city_id":6090,"language_key":"am","name":"ቀርቺ ጋክ"}
+{"id":469086,"city_id":6093,"language_key":"am","name":"ቃራዉል"}
+{"id":470703,"city_id":6114,"language_key":"am","name":"ቃራህ ባግ"}
+{"id":470857,"city_id":6116,"language_key":"am","name":"ቃራህ ባግ"}
+{"id":475631,"city_id":6178,"language_key":"am","name":"ቃላሕ-የ ዛል"}
+{"id":479558,"city_id":6229,"language_key":"am","name":"ቃላህ-የ ሳንግ-ኢ ታኽት።"}
+{"id":480636,"city_id":6243,"language_key":"am","name":"ቃላህ-የ ራኢስ"}
+{"id":480713,"city_id":6244,"language_key":"am","name":"ቃላህ-የራግ"}
+{"id":481637,"city_id":6256,"language_key":"am","name":"ቃላህ-የ ፓንጃህ"}
+{"id":482099,"city_id":6262,"language_key":"am","name":"ቃላህ-የ ኑሩላህ ካን"}
+{"id":482484,"city_id":6267,"language_key":"am","name":"ቋላ ኢ ናው"}
+{"id":482561,"city_id":6268,"language_key":"am","name":"ቃላህ አሁን"}
+{"id":486488,"city_id":6319,"language_key":"am","name":"ቃል'ህ-ዬ ኩፍ"}
+{"id":486796,"city_id":6323,"language_key":"am","name":"ቃል'ህ-ዬ ኩህናህ"}
+{"id":487412,"city_id":6331,"language_key":"am","name":"ካልኣይ-ካን"}
+{"id":487951,"city_id":6338,"language_key":"am","name":"ቃላህ-የ ካፊራን"}
+{"id":495497,"city_id":6436,"language_key":"am","name":"ቃላህ-የ ሻህር"}
+{"id":499732,"city_id":6491,"language_key":"am","name":"ቋላት"}
+{"id":499809,"city_id":6492,"language_key":"am","name":"ቅላህ-ዬ ሻሂ"}
+{"id":505045,"city_id":6560,"language_key":"am","name":"ቃዲያኒ"}
+{"id":505584,"city_id":6567,"language_key":"am","name":"ቃዲስ"}
+{"id":516210,"city_id":6705,"language_key":"am","name":"ፓሩን"}
+{"id":517134,"city_id":6717,"language_key":"am","name":"ፑል-ኢ ክሙሪ"}
+{"id":517673,"city_id":6724,"language_key":"am","name":"ፑል-ዩ ዓላም"}
+{"id":542159,"city_id":7042,"language_key":"am","name":"ፓስናይ"}
+{"id":543160,"city_id":7055,"language_key":"am","name":"ፓሽሙል"}
+{"id":545547,"city_id":7086,"language_key":"am","name":"ፓሳባንድ"}
+{"id":545778,"city_id":7089,"language_key":"am","name":"ፓሳብ"}
+{"id":549859,"city_id":7142,"language_key":"am","name":"ፓናማ"}
+{"id":551168,"city_id":7159,"language_key":"am","name":"ፓንጃብ"}
+{"id":558560,"city_id":7255,"language_key":"am","name":"ፕግህመን"}
+{"id":561486,"city_id":7293,"language_key":"am","name":"ኦምናህ"}
+{"id":562410,"city_id":7305,"language_key":"am","name":"ኦበህ"}
+{"id":564874,"city_id":7337,"language_key":"am","name":"ኡሩዝጋን"}
+{"id":565336,"city_id":7343,"language_key":"am","name":"ኦርላሚሽ"}
+{"id":565644,"city_id":7347,"language_key":"am","name":"ኡርጉን"}
+{"id":571188,"city_id":7419,"language_key":"am","name":"ኑሳይ"}
+{"id":573036,"city_id":7443,"language_key":"am","name":"ኑርጋል"}
+{"id":574114,"city_id":7457,"language_key":"am","name":"ናው ዛድ"}
+{"id":584894,"city_id":7597,"language_key":"am","name":"ኒሊ"}
+{"id":593595,"city_id":7710,"language_key":"am","name":"ናያክ"}
+{"id":594519,"city_id":7722,"language_key":"am","name":"ናያክ"}
+{"id":599832,"city_id":7791,"language_key":"am","name":"ናው ዳሃናክ"}
+{"id":602681,"city_id":7828,"language_key":"am","name":"ኦካክ"}
+{"id":603913,"city_id":7844,"language_key":"am","name":"ናዋህ"}
+{"id":604067,"city_id":7846,"language_key":"am","name":"ናዋህ-የ ጋራክ"}
+{"id":610612,"city_id":7931,"language_key":"am","name":"ናራይ"}
+{"id":610997,"city_id":7936,"language_key":"am","name":"ናራንግ"}
+{"id":614770,"city_id":7985,"language_key":"am","name":"ናላህ"}
+{"id":616233,"city_id":8004,"language_key":"am","name":"ኒከህ"}
+{"id":618004,"city_id":8027,"language_key":"am","name":"ናህሪን"}
+{"id":620237,"city_id":8056,"language_key":"am","name":"ሁኩማት-ኢ ናድ ዓሊ"}
+{"id":623009,"city_id":8092,"language_key":"am","name":"ሙሳ ቅላህ"}
+{"id":631633,"city_id":8204,"language_key":"am","name":"ባላ ሙርጋብ"}
+{"id":633635,"city_id":8230,"language_key":"am","name":"ሙቀር"}
+{"id":648188,"city_id":8419,"language_key":"am","name":"ሙሐመድ አግህ ወሉስዋሊ"}
+{"id":651114,"city_id":8457,"language_key":"am","name":"ሚዛን ዓላቃህደሪ"}
+{"id":656504,"city_id":8527,"language_key":"am","name":"ሚር ባጫህ ኮት"}
+{"id":657120,"city_id":8535,"language_key":"am","name":"ሚራን"}
+{"id":659045,"city_id":8560,"language_key":"am","name":"ሚራባድ"}
+{"id":659122,"city_id":8561,"language_key":"am","name":"ሚራባድ"}
+{"id":664820,"city_id":8635,"language_key":"am","name":"ሚያን"}
+{"id":665667,"city_id":8646,"language_key":"am","name":"ማይማና"}
+{"id":665821,"city_id":8648,"language_key":"am","name":"ማይዳን ኁላህ"}
+{"id":670210,"city_id":8705,"language_key":"am","name":"ሚንጋጅክ"}
+{"id":671827,"city_id":8726,"language_key":"am","name":"መህታር ላም"}
+{"id":673906,"city_id":8753,"language_key":"am","name":"ማዛር-ኦ ሻሪፍ"}
+{"id":675292,"city_id":8771,"language_key":"am","name":"ማይማይ"}
+{"id":676986,"city_id":8793,"language_key":"am","name":"ሙታ ካን"}
+{"id":680066,"city_id":8833,"language_key":"am","name":"ማሽሃድ"}
+{"id":680528,"city_id":8839,"language_key":"am","name":"ማሳን"}
+{"id":685148,"city_id":8899,"language_key":"am","name":"ማርዲያን"}
+{"id":691616,"city_id":8983,"language_key":"am","name":"ማንዶል"}
+{"id":695466,"city_id":9033,"language_key":"am","name":"ማማ ኸል"}
+{"id":714408,"city_id":9279,"language_key":"am","name":"ላንዳሃ"}
+{"id":726189,"city_id":9432,"language_key":"am","name":"ላስካር ጋህ"}
+{"id":726266,"city_id":9433,"language_key":"am","name":"ላሽ-ኢ ጁዋይን"}
+{"id":728268,"city_id":9459,"language_key":"am","name":"ላርከርድ"}
+{"id":735352,"city_id":9551,"language_key":"am","name":"ላል"}
+{"id":748827,"city_id":9726,"language_key":"am","name":"ኩሽክ"}
+{"id":761455,"city_id":9890,"language_key":"am","name":"ራዛይ ባሎቺ"}
+{"id":762533,"city_id":9904,"language_key":"am","name":"ኮቸካይ"}
+{"id":766845,"city_id":9960,"language_key":"am","name":"ኮቶዋል"}
+{"id":772081,"city_id":10028,"language_key":"am","name":"ኩሽክ-ኢ ኩህና"}
+{"id":772158,"city_id":10029,"language_key":"am","name":"ኮሽክ"}
+{"id":773621,"city_id":10048,"language_key":"am","name":"ኩራን ወ ሙንጃን"}
+{"id":775315,"city_id":10070,"language_key":"am","name":"ኩንዱዝ"}
+{"id":788713,"city_id":10244,"language_key":"am","name":"ኮሺ"}
+{"id":789714,"city_id":10257,"language_key":"am","name":"ኮሻማንድ"}
+{"id":793102,"city_id":10301,"language_key":"am","name":"ክዋጃህ ሾራህ"}
+{"id":798800,"city_id":10375,"language_key":"am","name":"ክዋጃህ ክንቲ"}
+{"id":800725,"city_id":10400,"language_key":"am","name":"ኽዋጃህ ጋር"}
+{"id":801495,"city_id":10410,"language_key":"am","name":"ኽዋጃህ ዱ ኮህ"}
+{"id":806269,"city_id":10472,"language_key":"am","name":"ደህ ኽዋሃን"}
+{"id":808194,"city_id":10497,"language_key":"am","name":"ኩልቢሳት"}
+{"id":809118,"city_id":10509,"language_key":"am","name":"ኩግያኒ"}
+{"id":810427,"city_id":10526,"language_key":"am","name":"ክሆስት"}
+{"id":813815,"city_id":10570,"language_key":"am","name":"ኩርዲ"}
+{"id":814508,"city_id":10579,"language_key":"am","name":"ኩልም"}
+{"id":815663,"city_id":10594,"language_key":"am","name":"ኩዳይዳድ ኸል"}
+{"id":818281,"city_id":10628,"language_key":"am","name":"ኻይረን"}
+{"id":821823,"city_id":10674,"language_key":"am","name":"ኺንጃን"}
+{"id":822439,"city_id":10682,"language_key":"am","name":"ኺንጅ"}
+{"id":828676,"city_id":10763,"language_key":"am","name":"ካሽ"}
+{"id":838763,"city_id":10894,"language_key":"am","name":"ካን ነሺን"}
+{"id":841304,"city_id":10927,"language_key":"am","name":"ካናካህ"}
+{"id":843075,"city_id":10950,"language_key":"am","name":"ቻሀር ባግ"}
+{"id":843152,"city_id":10951,"language_key":"am","name":"ካንዱድ"}
+{"id":843999,"city_id":10962,"language_key":"am","name":"ካናካህ"}
+{"id":844307,"city_id":10966,"language_key":"am","name":"ካናባድ"}
+{"id":848388,"city_id":11019,"language_key":"am","name":"ካሙያብ"}
+{"id":854240,"city_id":11095,"language_key":"am","name":"ካኪራን"}
+{"id":858090,"city_id":11145,"language_key":"am","name":"ኪሺም"}
+{"id":861786,"city_id":11193,"language_key":"am","name":"ካዛህ"}
+{"id":870025,"city_id":11300,"language_key":"am","name":"ክሽክ-ኢ ናኁድ"}
+{"id":872643,"city_id":11334,"language_key":"am","name":"ካሩክ"}
+{"id":900979,"city_id":11702,"language_key":"am","name":"ካንዳይ"}
+{"id":901672,"city_id":11711,"language_key":"am","name":"ቃንዳሃር"}
+{"id":912529,"city_id":11852,"language_key":"am","name":"ካላን ደህ"}
+{"id":914069,"city_id":11872,"language_key":"am","name":"ካላካን"}
+{"id":914993,"city_id":11884,"language_key":"am","name":"ካላፍጋን"}
+{"id":918150,"city_id":11925,"language_key":"am","name":"ካጅራን"}
+{"id":922000,"city_id":11975,"language_key":"am","name":"ካኢ"}
+{"id":928776,"city_id":12063,"language_key":"am","name":"ካቡል"}
+{"id":936014,"city_id":12157,"language_key":"am","name":"ጁርም"}
+{"id":949181,"city_id":12328,"language_key":"am","name":"ጃዋንድ"}
+{"id":958036,"city_id":12443,"language_key":"am","name":"ጃኒ ኸል"}
+{"id":968123,"city_id":12574,"language_key":"am","name":"ጃልሬዝ"}
+{"id":969586,"city_id":12593,"language_key":"am","name":"ጃላላባድ"}
+{"id":973898,"city_id":12649,"language_key":"am","name":"ጃባል ኦስ ሳራጅ"}
+{"id":981290,"city_id":12745,"language_key":"am","name":"ሁኩማት-ኢ ሺንካይ"}
+{"id":984293,"city_id":12784,"language_key":"am","name":"ሄራት"}
+{"id":999924,"city_id":12987,"language_key":"am","name":"ሃጂ ኸል"}
+{"id":1004698,"city_id":13049,"language_key":"am","name":"ሃፊዝ ሞግል"}
+{"id":1004852,"city_id":13051,"language_key":"am","name":"ሃፊዛን"}
+{"id":1008086,"city_id":13093,"language_key":"am","name":"ጎርጄይ"}
+{"id":1013861,"city_id":13168,"language_key":"am","name":"ጉዛራህ"}
+{"id":1014246,"city_id":13173,"language_key":"am","name":"ጉሽታህ"}
+{"id":1014708,"city_id":13179,"language_key":"am","name":"ጎማል ኬላይ"}
+{"id":1016710,"city_id":13205,"language_key":"am","name":"ጉሮን"}
+{"id":1016864,"city_id":13207,"language_key":"am","name":"ጉርድዚ"}
+{"id":1017788,"city_id":13219,"language_key":"am","name":"ጉርጋክ"}
+{"id":1022639,"city_id":13282,"language_key":"am","name":"ጉል ኮት"}
+{"id":1024872,"city_id":13311,"language_key":"am","name":"ጎልባሃር"}
+{"id":1029107,"city_id":13366,"language_key":"am","name":"'ዓላቃህዳሪ ገላን"}
+{"id":1029954,"city_id":13377,"language_key":"am","name":"ጉዝባህ"}
+{"id":1031571,"city_id":13398,"language_key":"am","name":"ጋሪያን"}
+{"id":1035575,"city_id":13450,"language_key":"am","name":"ጉጁራክ"}
+{"id":1037500,"city_id":13475,"language_key":"am","name":"ጋርማች"}
+{"id":1037885,"city_id":13480,"language_key":"am","name":"ጋራይድ ጋራሜ"}
+{"id":1045354,"city_id":13577,"language_key":"am","name":"ጊች"}
+{"id":1046355,"city_id":13590,"language_key":"am","name":"ጋዝኒ"}
+{"id":1057135,"city_id":13730,"language_key":"am","name":"ጋል-ኢ ኩሽክ"}
+{"id":1059445,"city_id":13760,"language_key":"am","name":"ገረሽክ"}
+{"id":1062525,"city_id":13800,"language_key":"am","name":"ግዝክህኧን"}
+{"id":1072458,"city_id":13929,"language_key":"am","name":"ጋርደዝ"}
+{"id":1086241,"city_id":14108,"language_key":"am","name":"ፊቱር"}
+{"id":1087858,"city_id":14129,"language_key":"am","name":"ፋይዛባድ"}
+{"id":1087935,"city_id":14130,"language_key":"am","name":"ፈይዛባድ"}
+{"id":1088012,"city_id":14131,"language_key":"am","name":"ፈይዛባድ"}
+{"id":1091477,"city_id":14176,"language_key":"am","name":"ቃላህ-ዪ ፋርሲ"}
+{"id":1091785,"city_id":14180,"language_key":"am","name":"ፋርኻር"}
+{"id":1092863,"city_id":14194,"language_key":"am","name":"ፋራህ"}
+{"id":1093556,"city_id":14203,"language_key":"am","name":"ፋቂራኖ ከላይ"}
+{"id":1096328,"city_id":14239,"language_key":"am","name":"ኢስታሊፍ"}
+{"id":1099177,"city_id":14276,"language_key":"am","name":"እስማኤል ኬል"}
+{"id":1100101,"city_id":14288,"language_key":"am","name":"እስላም ቃሌህ"}
+{"id":1100486,"city_id":14293,"language_key":"am","name":"እስላም ቹምጋር"}
+{"id":1103104,"city_id":14327,"language_key":"am","name":"ኢሽካሚሽ"}
+{"id":1106030,"city_id":14365,"language_key":"am","name":"እንጂል"}
+{"id":1107724,"city_id":14387,"language_key":"am","name":"ኢማም ሳህብ"}
+{"id":1117734,"city_id":14517,"language_key":"am","name":"ዶሺ"}
+{"id":1118812,"city_id":14531,"language_key":"am","name":"ዶውላትያር"}
+{"id":1118966,"city_id":14533,"language_key":"am","name":"ዶውላት ሻህ"}
+{"id":1119890,"city_id":14545,"language_key":"am","name":"ዶውላታባድ"}
+{"id":1119967,"city_id":14546,"language_key":"am","name":"ዶውላታባድ"}
+{"id":1123278,"city_id":14589,"language_key":"am","name":"ዱ ቃላህ"}
+{"id":1128283,"city_id":14654,"language_key":"am","name":"ዱዓብ"}
+{"id":1136060,"city_id":14755,"language_key":"am","name":"ዲክቱር"}
+{"id":1140834,"city_id":14817,"language_key":"am","name":"ዴ ናርኸል ከላይ"}
+{"id":1147379,"city_id":14902,"language_key":"am","name":"ደህ ራዉድ"}
+{"id":1151691,"city_id":14958,"language_key":"am","name":"ደሂ"}
+{"id":1153308,"city_id":14979,"language_key":"am","name":"ዴህ-ኢ ዛንጋር"}
+{"id":1155233,"city_id":15004,"language_key":"am","name":"ደህ-ኢ ሳላህ"}
+{"id":1156696,"city_id":15023,"language_key":"am","name":"ደህ-ኢ ኖው"}
+{"id":1162471,"city_id":15098,"language_key":"am","name":"ደህዳዲ"}
+{"id":1168939,"city_id":15182,"language_key":"am","name":"ድዋህ ማንዳይ"}
+{"id":1170710,"city_id":15205,"language_key":"am","name":"ዳሽተ ቃላህ"}
+{"id":1170864,"city_id":15207,"language_key":"am","name":"ዳሽተ ቃላህ"}
+{"id":1172019,"city_id":15222,"language_key":"am","name":"ዳሽት-አ አርቺ"}
+{"id":1173867,"city_id":15246,"language_key":"am","name":"ዳርዛብ"}
+{"id":1175484,"city_id":15267,"language_key":"am","name":"ማርካዝ-ኢ ሁኩማት-ኢ ዳርዌሻን።"}
+{"id":1175638,"city_id":15269,"language_key":"am","name":"ዳርዋዛህ ካም"}
+{"id":1181490,"city_id":15345,"language_key":"am","name":"ዳርቃድ"}
+{"id":1184801,"city_id":15388,"language_key":"am","name":"ዳራይም"}
+{"id":1187265,"city_id":15420,"language_key":"am","name":"ዳንጋም"}
+{"id":1188112,"city_id":15431,"language_key":"am","name":"ዳንዳር"}
+{"id":1210673,"city_id":15724,"language_key":"am","name":"ሁኩማቲ ዳሃናህ-ዬ ጓሪ"}
+{"id":1231232,"city_id":15991,"language_key":"am","name":"ጾውከይ"}
+{"id":1232849,"city_id":16012,"language_key":"am","name":"ቺራስ"}
+{"id":1236545,"city_id":16060,"language_key":"am","name":"ቺችካህ"}
+{"id":1236776,"city_id":16063,"language_key":"am","name":"ቺሽተ ሻሪፍ"}
+{"id":1243475,"city_id":16150,"language_key":"am","name":"ቺናር"}
+{"id":1243783,"city_id":16154,"language_key":"am","name":"ቺምታል"}
+{"id":1253331,"city_id":16278,"language_key":"am","name":"ችርኽ"}
+{"id":1253562,"city_id":16281,"language_key":"am","name":"ቻሪካር"}
+{"id":1254178,"city_id":16289,"language_key":"am","name":"ዶውር-ኢ ራባት"}
+{"id":1256565,"city_id":16320,"language_key":"am","name":"ፀፃራይ"}
+{"id":1261031,"city_id":16378,"language_key":"am","name":"ፀማካኒ"}
+{"id":1265651,"city_id":16438,"language_key":"am","name":"ቻካራይ"}
+{"id":1265728,"city_id":16439,"language_key":"am","name":"ቻካራን"}
+{"id":1272427,"city_id":16526,"language_key":"am","name":"ቻሃር ቃላህ"}
+{"id":1275892,"city_id":16571,"language_key":"am","name":"ቻሃር ቡርጅ"}
+{"id":1277509,"city_id":16592,"language_key":"am","name":"ቻህ አብ"}
+{"id":1277817,"city_id":16596,"language_key":"am","name":"ፋይሮዝ ኮህ"}
+{"id":1289598,"city_id":16749,"language_key":"am","name":"ቦማይ"}
+{"id":1291215,"city_id":16770,"language_key":"am","name":"ቡላህ ቂሽላክ"}
+{"id":1298684,"city_id":16867,"language_key":"am","name":"ቡሎላህ"}
+{"id":1311158,"city_id":17029,"language_key":"am","name":"ባል ቺራግ"}
+{"id":1316625,"city_id":17100,"language_key":"am","name":"ባዛር-ለ ጣላህ"}
+{"id":1323016,"city_id":17183,"language_key":"am","name":"ሙሙንድ ዳራ"}
+{"id":1327636,"city_id":17243,"language_key":"am","name":"ቡርካህ"}
+{"id":1331332,"city_id":17291,"language_key":"am","name":"ባርግ-ለ ማታል"}
+{"id":1336414,"city_id":17357,"language_key":"am","name":"ባራኪ"}
+{"id":1336491,"city_id":17358,"language_key":"am","name":"ባራኪ ባራክ"}
+{"id":1339571,"city_id":17398,"language_key":"am","name":"ባኑ"}
+{"id":1343498,"city_id":17449,"language_key":"am","name":"ባንዳባድ"}
+{"id":1344037,"city_id":17456,"language_key":"am","name":"ባሚያን"}
+{"id":1346578,"city_id":17489,"language_key":"am","name":"ባልክ"}
+{"id":1353585,"city_id":17580,"language_key":"am","name":"ባክሺ"}
+{"id":1356973,"city_id":17624,"language_key":"am","name":"ባህራም ቻህ"}
+{"id":1357820,"city_id":17635,"language_key":"am","name":"ባሃራክ"}
+{"id":1358975,"city_id":17650,"language_key":"am","name":"ባግራሚ"}
+{"id":1359052,"city_id":17651,"language_key":"am","name":"ባታግራም"}
+{"id":1359745,"city_id":17660,"language_key":"am","name":"ባግላን"}
+{"id":1376839,"city_id":17882,"language_key":"am","name":"ባባክ"}
+{"id":1377686,"city_id":17893,"language_key":"am","name":"አባ አሊ ከላይ"}
+{"id":1377917,"city_id":17896,"language_key":"am","name":"ሁኩማቲ አዝራ"}
+{"id":1388543,"city_id":18034,"language_key":"am","name":"አርት ክዋጃህ"}
+{"id":1389005,"city_id":18040,"language_key":"am","name":"'ዓላቃህዳሪ አትግሓር"}
+{"id":1393779,"city_id":18102,"language_key":"am","name":"አስማር"}
+{"id":1395935,"city_id":18130,"language_key":"am","name":"አሽካሻም"}
+{"id":1397552,"city_id":18151,"language_key":"am","name":"አሳዳባድ"}
+{"id":1400632,"city_id":18191,"language_key":"am","name":"ኧርግህስተን"}
+{"id":1405329,"city_id":18252,"language_key":"am","name":"' አረብ"}
+{"id":1408024,"city_id":18287,"language_key":"am","name":"አቅቻህ"}
+{"id":1412644,"city_id":18347,"language_key":"am","name":"አንድሖይ"}
+{"id":1414646,"city_id":18373,"language_key":"am","name":"'ዖናባህ"}
+{"id":1415339,"city_id":18382,"language_key":"am","name":"አናር ዳራ"}
+{"id":1419343,"city_id":18434,"language_key":"am","name":"አማንዚ"}
+{"id":1422808,"city_id":18479,"language_key":"am","name":"ኧልምር ክሄል"}
+{"id":1422885,"city_id":18480,"language_key":"am","name":"'ዓላቃህዳሪ-የ ዓልማር"}
+{"id":1424733,"city_id":18504,"language_key":"am","name":"'ዓሊ ሸር 'ዓላቃህዳሪ"}
+{"id":1425426,"city_id":18513,"language_key":"am","name":"ዉሉስዋሊ 'ዓሊንጋር"}
+{"id":1427043,"city_id":18534,"language_key":"am","name":"'ዓሊ ኀል"}
+{"id":1432433,"city_id":18604,"language_key":"am","name":"አላቃህዳሪ ዮሱፍ ክሄል"}
+{"id":1432664,"city_id":18607,"language_key":"am","name":"አላቃህዳሪ ዲሹ"}
+{"id":1434897,"city_id":18636,"language_key":"am","name":"አላህ ሳይ"}
+{"id":1447140,"city_id":18795,"language_key":"am","name":"ፓቺር ዋ አጋም"}
+{"id":1448141,"city_id":18808,"language_key":"am","name":"አፋቂ"}
+{"id":1448680,"city_id":18815,"language_key":"am","name":"አድራስካን"}
+{"id":1456457,"city_id":18916,"language_key":"am","name":"ኣብ ጋጅ"}
+{"id":1457073,"city_id":18924,"language_key":"am","name":"አብ-ዌ ካማሪ"}
+{"id":1470317,"city_id":19096,"language_key":"am","name":"ካዲር"}
+{"id":1473243,"city_id":19134,"language_key":"am","name":"ጉላም ዓሊ"}
+{"id":1478941,"city_id":19208,"language_key":"am","name":"ቃራህ ባግ ባዛር"}
+{"id":1485871,"city_id":19298,"language_key":"am","name":"ዛርጋራን"}
+{"id":1488951,"city_id":19338,"language_key":"am","name":"ሱርክህ ቢላንዲ"}
+{"id":1490029,"city_id":19352,"language_key":"am","name":"ፑል-ዌ ሳንጊ"}
+{"id":1522292,"city_id":19771,"language_key":"am","name":"ላንጋር"}
+{"id":1528221,"city_id":19848,"language_key":"am","name":"ባግ-ዌ ማይዳን"}
+{"id":1531378,"city_id":19889,"language_key":"am","name":"ዳራህ-ኢስተማህ"}
+{"id":1531609,"city_id":19892,"language_key":"am","name":"ቃላህ-የ ፋቂር ሻህ"}
+{"id":1537384,"city_id":19967,"language_key":"am","name":"ኢብራሂም ካን"}
+{"id":1551244,"city_id":20147,"language_key":"am","name":"ዳርዋዝካይ"}
+{"id":1554863,"city_id":20194,"language_key":"am","name":"ሲኒ"}
+{"id":1578502,"city_id":20501,"language_key":"am","name":"ቃራንጉ ቶግሃይ"}
+{"id":1595750,"city_id":20725,"language_key":"am","name":"ባዛራክ"}
+{"id":1599138,"city_id":20769,"language_key":"am","name":"ሸርዋኒ-ዩ ባላ"}
+{"id":1599908,"city_id":20779,"language_key":"am","name":"ክራማን"}
+{"id":1611689,"city_id":20932,"language_key":"am","name":"አላቃህዳሪ ሳሮቢ"}
+{"id":1613460,"city_id":20955,"language_key":"am","name":"ፁሐይ ክሁላህ"}
+{"id":1630246,"city_id":21173,"language_key":"am","name":"ያርናም ኬላይ"}
+{"id":1637484,"city_id":21267,"language_key":"am","name":"ዚሩክ አላቃህዳሪ"}
+{"id":1664665,"city_id":21620,"language_key":"am","name":"ባዝ ሙሀመድ ኬላይ"}
+{"id":1679064,"city_id":21807,"language_key":"am","name":"ማጅኑን ኬላይ"}
+{"id":1688766,"city_id":21933,"language_key":"am","name":"ቲሊራይ"}
+{"id":1692231,"city_id":21978,"language_key":"am","name":"ኩሻክ"}
+{"id":1695234,"city_id":22017,"language_key":"am","name":"ካይር ኮት"}
+{"id":1730962,"city_id":22481,"language_key":"am","name":"ባሐዱር ክሀል"}
+{"id":1782398,"city_id":23149,"language_key":"am","name":"ቾውኔይ"}
+{"id":1805498,"city_id":23449,"language_key":"am","name":"ኒሊ ይክፈሉ።"}
+{"id":1837299,"city_id":23862,"language_key":"am","name":"ሼክ ቾጋን"}
+{"id":1843151,"city_id":23938,"language_key":"am","name":"ቃላህ-የ ሚር አህመድ ሻህ"}
+{"id":1844306,"city_id":23953,"language_key":"am","name":"ዴህ-ኢ ፓይን"}
+{"id":1846693,"city_id":23984,"language_key":"am","name":"ሙልካናህ"}
+{"id":1847309,"city_id":23992,"language_key":"am","name":"ውታህፑር"}
+{"id":1852699,"city_id":24062,"language_key":"am","name":"ሞናይ"}
+{"id":1853084,"city_id":24067,"language_key":"am","name":"ካርቦሪ"}
+{"id":1866328,"city_id":24239,"language_key":"am","name":"ሱልጣንፑር-ዌ ዑልያ"}
+{"id":1869408,"city_id":24279,"language_key":"am","name":"ባባ ሳህብ"}
+{"id":1877955,"city_id":24390,"language_key":"am","name":"ቻንዳል ባይ"}
+{"id":1890506,"city_id":24553,"language_key":"am","name":"ዳሃን-ዌ ጃርፍ"}
+{"id":1913452,"city_id":24851,"language_key":"am","name":"ሳር-ኢ ዳሽት"}
+{"id":1925233,"city_id":25004,"language_key":"am","name":"ማይዳንሻህር"}
+{"id":1934781,"city_id":25128,"language_key":"am","name":"ግን - ሻማማ"}
+{"id":1950874,"city_id":25337,"language_key":"am","name":"ጉጁር"}
+{"id":1981212,"city_id":25731,"language_key":"am","name":"ዱ ላይናህ"}
+{"id":1982136,"city_id":25743,"language_key":"am","name":"ሺኽሊያክ"}
+{"id":1992916,"city_id":25883,"language_key":"am","name":"ሺኒያ"}
+{"id":2003311,"city_id":26018,"language_key":"am","name":"ዳሃን-ኤ አብሩሲ"}
+{"id":2004466,"city_id":26033,"language_key":"am","name":"ጋዛክ"}
+{"id":2013783,"city_id":26154,"language_key":"am","name":"ካሬዛክ"}
+{"id":2023254,"city_id":26277,"language_key":"am","name":"ሳር-ኢ ማንጎዝ"}
+{"id":2024794,"city_id":26297,"language_key":"am","name":"ደሓን-ኤ ታላ ቆል"}
+{"id":2027489,"city_id":26332,"language_key":"am","name":"ቃራም ቆል"}
+{"id":2032032,"city_id":26391,"language_key":"am","name":"ፑል-ኢ ሂሳር"}
+{"id":2039655,"city_id":26490,"language_key":"am","name":"ሳራብ"}
+{"id":2039809,"city_id":26492,"language_key":"am","name":"ላብ-ሳር"}
+{"id":2087934,"city_id":27117,"language_key":"am","name":"ታቅቻህ ხანህ"}
+{"id":2092785,"city_id":27180,"language_key":"am","name":"ማርች"}
+{"id":2097097,"city_id":27236,"language_key":"am","name":"ዚራኪ"}
+{"id":2112574,"city_id":27437,"language_key":"am","name":"ሰይድ ሚራን"}
+{"id":2116347,"city_id":27486,"language_key":"am","name":"ዳሪያ ሚር"}
+{"id":2120120,"city_id":27535,"language_key":"am","name":"ዓሊአባድ"}
+{"id":2148841,"city_id":27908,"language_key":"am","name":"ፓስ ፑል"}
+{"id":2158620,"city_id":28035,"language_key":"am","name":"ባጃሳ"}
+{"id":2169708,"city_id":28179,"language_key":"am","name":"ቅላህ-የ ናዒም"}
+{"id":2179410,"city_id":28305,"language_key":"am","name":"አርባብ ኬላይ"}
+{"id":2185339,"city_id":28382,"language_key":"am","name":"ማርካዝ-ኢ ዎሉስዋሊ-የ አቺን።"}
+{"id":2263263,"city_id":29394,"language_key":"am","name":"ስፒ ታንጋይኛ"}
+{"id":2269731,"city_id":29478,"language_key":"am","name":"ማኖጋይ"}
+{"id":2275737,"city_id":29556,"language_key":"am","name":"ሙንዱል"}
+{"id":2304843,"city_id":29934,"language_key":"am","name":"ብግህለን"}
+{"id":2306152,"city_id":29951,"language_key":"am","name":"ስቴር ጊያን"}
+{"id":2342034,"city_id":30417,"language_key":"am","name":"ቻካል ካሬዝ"}
+{"id":2342881,"city_id":30428,"language_key":"am","name":"አይዶ ኬል"}
+{"id":2347655,"city_id":30490,"language_key":"am","name":"ቆል-ኢ ቾሪ"}
+{"id":2350042,"city_id":30521,"language_key":"am","name":"ካጅ ካላ"}
+{"id":2350273,"city_id":30524,"language_key":"am","name":"ባሻጋይ"}
+{"id":2350735,"city_id":30530,"language_key":"am","name":"ኮታህ-የ ሀቢቡላህ"}
+{"id":2350812,"city_id":30531,"language_key":"am","name":"ጉል ዳራ"}
+{"id":2351582,"city_id":30541,"language_key":"am","name":"ቃላህ-የ ጉላም ሃይደር ካን"}
+{"id":2351736,"city_id":30543,"language_key":"am","name":"ቃላህ-የ ሙሐመድ ሻህ ካን"}
+{"id":2352121,"city_id":30548,"language_key":"am","name":"ቃላህ-የ ካሊል"}
+{"id":2352198,"city_id":30549,"language_key":"am","name":"ቃላሕ-የ ጋኒ"}
+{"id":2352660,"city_id":30555,"language_key":"am","name":"ቃላህ-የ ካን ሚር"}
+{"id":2353199,"city_id":30562,"language_key":"am","name":"ሹሁች"}
+{"id":2353276,"city_id":30563,"language_key":"am","name":"ጁጅዱር"}
+{"id":2353507,"city_id":30566,"language_key":"am","name":"አህመድ ካን ቃላህ"}
+{"id":2357280,"city_id":30615,"language_key":"am","name":"ሩባት-ኢ ማባይን።"}
+{"id":2357357,"city_id":30616,"language_key":"am","name":"ሩባት-ኢ ባላ"}
+{"id":2357511,"city_id":30618,"language_key":"am","name":"ኖዋዳቅ"}
+{"id":2357665,"city_id":30620,"language_key":"am","name":"ሳር ቻሽማህ"}
+{"id":2359667,"city_id":30646,"language_key":"am","name":"ደህንነቱ የተጠበቀ ዝማሬ"}
+{"id":2359744,"city_id":30647,"language_key":"am","name":"አይቲች"}
+{"id":2360052,"city_id":30651,"language_key":"am","name":"ኦርያንግ ሱራክ"}
+{"id":2360129,"city_id":30652,"language_key":"am","name":"ኦርያንግ-ኢ ባርጂር"}
+{"id":2360206,"city_id":30653,"language_key":"am","name":"ቺች"}
+{"id":2361053,"city_id":30664,"language_key":"am","name":"ዳራህ - አባስ ኬል።"}
+{"id":2361361,"city_id":30668,"language_key":"am","name":"ካን ሙሀመድ ኬላይ"}
+{"id":2361438,"city_id":30669,"language_key":"am","name":"ዶጋር ኬላይ"}
+{"id":2362131,"city_id":30678,"language_key":"am","name":"ኮቲዛይ"}
+{"id":2362978,"city_id":30689,"language_key":"am","name":"ካቺ ሙሳ"}
+{"id":2363363,"city_id":30694,"language_key":"am","name":"ሱር ካማራ"}
+{"id":2363825,"city_id":30700,"language_key":"am","name":"ጊደር"}
+{"id":2363902,"city_id":30701,"language_key":"am","name":"ዱአባ"}
+{"id":2364210,"city_id":30705,"language_key":"am","name":"ሻፓዎስ"}
+{"id":2364364,"city_id":30707,"language_key":"am","name":"ሳኪ ዴህ ዳስ"}
+{"id":2364441,"city_id":30708,"language_key":"am","name":"ሻህ ዳትስ"}
+{"id":2364672,"city_id":30711,"language_key":"am","name":"ካንዳ ዝቅተኛ"}
+{"id":2364749,"city_id":30712,"language_key":"am","name":"ያሪ ዳስ ካላን"}
+{"id":2365057,"city_id":30716,"language_key":"am","name":"ሻይካን"}
+{"id":2365134,"city_id":30717,"language_key":"am","name":"ኩንጅ ካላ"}
+{"id":2365211,"city_id":30718,"language_key":"am","name":"ቶራ ቦራ"}
+{"id":2365365,"city_id":30720,"language_key":"am","name":"ሚርዛ ባግ"}
+{"id":2365596,"city_id":30723,"language_key":"am","name":"ዌቻህ አልጋዳህ"}
+{"id":2366058,"city_id":30729,"language_key":"am","name":"ስፒን ራጌህ"}
+{"id":2366135,"city_id":30730,"language_key":"am","name":"ባህሎል ኬል"}
+{"id":2366520,"city_id":30735,"language_key":"am","name":"ባር ላጊቲ ኬላይ"}
+{"id":2366674,"city_id":30737,"language_key":"am","name":"ታንጊ ኬል"}
+{"id":2367521,"city_id":30748,"language_key":"am","name":"ጋድራህ"}
+{"id":2367598,"city_id":30749,"language_key":"am","name":"አንጉራህ"}
+{"id":2367983,"city_id":30754,"language_key":"am","name":"ፓይጋል"}
+{"id":2368291,"city_id":30758,"language_key":"am","name":"ባዝ ካንዳህ"}
+{"id":2368599,"city_id":30762,"language_key":"am","name":"ባም ሁሴን"}
+{"id":2369292,"city_id":30771,"language_key":"am","name":"አሴል ባሪካው"}
+{"id":2369369,"city_id":30772,"language_key":"am","name":"ባሪካው ቃላህ ዋሊ"}
+{"id":2369754,"city_id":30777,"language_key":"am","name":"አድቻት ታንቲል"}
+{"id":2371140,"city_id":30795,"language_key":"am","name":"ያሥ ቻም"}
+{"id":2371217,"city_id":30796,"language_key":"am","name":"ሙላያኖ ታንጋይ"}
+{"id":2388465,"city_id":31020,"language_key":"am","name":"ፒታው-ኢ ሲያህ ካኪ"}
+{"id":2397936,"city_id":31143,"language_key":"am","name":"ዴሪ ሚላ"}
+{"id":2403018,"city_id":31209,"language_key":"am","name":"ሻራን"}
+{"id":2403249,"city_id":31212,"language_key":"am","name":"ሳላም ኸል"}
+{"id":2413644,"city_id":31347,"language_key":"am","name":"መዘድ"}

@@ -1,0 +1,885 @@
+{"id":354793471,"city_id":4607708,"language_key":"ka","name":"სანტა მარია"}
+{"id":354793548,"city_id":4607709,"language_key":"ka","name":"სანტა ინესი"}
+{"id":354793702,"city_id":4607711,"language_key":"ka","name":"სან ფრანცისკო"}
+{"id":354794010,"city_id":4607715,"language_key":"ka","name":"პედრო გონსალესი"}
+{"id":354794703,"city_id":4607724,"language_key":"ka","name":"ლას პიედრასი"}
+{"id":354795242,"city_id":4607731,"language_key":"ka","name":"ლა გვარდია"}
+{"id":354795473,"city_id":4607734,"language_key":"ka","name":"ლა-ასუნსიონი"}
+{"id":354796397,"city_id":4607746,"language_key":"ka","name":"ელ გუამაჩე"}
+{"id":354796551,"city_id":4607748,"language_key":"ka","name":"ელ ჰატო"}
+{"id":354798399,"city_id":4607772,"language_key":"ka","name":"სან ხოსე"}
+{"id":354799477,"city_id":4607786,"language_key":"ka","name":"ელ პალმარი"}
+{"id":354800555,"city_id":4607800,"language_key":"ka","name":"ელ კოროზო"}
+{"id":354800940,"city_id":4607805,"language_key":"ka","name":"კარიკუაო"}
+{"id":354801479,"city_id":4607812,"language_key":"ka","name":"ტოკუიტო"}
+{"id":354801710,"city_id":4607815,"language_key":"ka","name":"სან-ვისენტე"}
+{"id":354801787,"city_id":4607816,"language_key":"ka","name":"სან პაბლო"}
+{"id":354802172,"city_id":4607821,"language_key":"ka","name":"პედერნალესი"}
+{"id":354804405,"city_id":4607850,"language_key":"ka","name":"ბუენა ვისტა"}
+{"id":354804944,"city_id":4607857,"language_key":"ka","name":"ლას ვირტუდესი"}
+{"id":354806253,"city_id":4607874,"language_key":"ka","name":"ელ ტორო"}
+{"id":354807100,"city_id":4607885,"language_key":"ka","name":"სანტო დომინგო"}
+{"id":354807254,"city_id":4607887,"language_key":"ka","name":"სანტა როზა"}
+{"id":354807716,"city_id":4607893,"language_key":"ka","name":"სანტა კრუზი"}
+{"id":354807947,"city_id":4607896,"language_key":"ka","name":"სან პედრო"}
+{"id":354808332,"city_id":4607901,"language_key":"ka","name":"სან ხუანი"}
+{"id":354808486,"city_id":4607903,"language_key":"ka","name":"სან ისიდრო"}
+{"id":354809333,"city_id":4607914,"language_key":"ka","name":"ელ რინკონი"}
+{"id":354811027,"city_id":4607936,"language_key":"ka","name":"ლას პორკერასი"}
+{"id":354811181,"city_id":4607938,"language_key":"ka","name":"ლა პლეია"}
+{"id":354811335,"city_id":4607940,"language_key":"ka","name":"ლა პლეია"}
+{"id":354812028,"city_id":4607949,"language_key":"ka","name":"ლა პედრეგოსა"}
+{"id":354812644,"city_id":4607957,"language_key":"ka","name":"ლა პალმიტა"}
+{"id":354812875,"city_id":4607960,"language_key":"ka","name":"პალმარიტო"}
+{"id":354813183,"city_id":4607964,"language_key":"ka","name":"ლოს ნარანჯოსი"}
+{"id":354815262,"city_id":4607991,"language_key":"ka","name":"ლა მესა"}
+{"id":354817341,"city_id":4608018,"language_key":"ka","name":"ხიმენესი"}
+{"id":354817649,"city_id":4608022,"language_key":"ka","name":"ჯაჯო"}
+{"id":354818958,"city_id":4608039,"language_key":"ka","name":"ლა ენსენადა"}
+{"id":354821576,"city_id":4608073,"language_key":"ka","name":"ლა სეიბა"}
+{"id":354822500,"city_id":4608085,"language_key":"ka","name":"კამპო ალეგრე"}
+{"id":354824579,"city_id":4608112,"language_key":"ka","name":"ელ ალტო"}
+{"id":354825349,"city_id":4608122,"language_key":"ka","name":"ლას ადუნტასი"}
+{"id":354827274,"city_id":4608147,"language_key":"ka","name":"სანტა რიტა"}
+{"id":354831355,"city_id":4608200,"language_key":"ka","name":"ელ პარადერო"}
+{"id":354831432,"city_id":4608201,"language_key":"ka","name":"პაპელონი"}
+{"id":354835205,"city_id":4608250,"language_key":"ka","name":"გუაიბალი"}
+{"id":354838670,"city_id":4608295,"language_key":"ka","name":"ელ ჩაპარო"}
+{"id":354840056,"city_id":4608313,"language_key":"ka","name":"კამპო ლინდო"}
+{"id":354840133,"city_id":4608314,"language_key":"ka","name":"კამპო კლარო"}
+{"id":354840441,"city_id":4608318,"language_key":"ka","name":"კამბურალური"}
+{"id":354841211,"city_id":4608328,"language_key":"ka","name":"აიაკუჩო"}
+{"id":354841442,"city_id":4608331,"language_key":"ka","name":"არაგუიტა"}
+{"id":354841673,"city_id":4608334,"language_key":"ka","name":"ანაკო"}
+{"id":354842212,"city_id":4608341,"language_key":"ka","name":"აგუა ბლანკა"}
+{"id":354843367,"city_id":4608356,"language_key":"ka","name":"სანტა კრუზი დე გუაკასი"}
+{"id":354844060,"city_id":4608365,"language_key":"ka","name":"ელ რეალი"}
+{"id":354844368,"city_id":4608369,"language_key":"ka","name":"პუერტო ვივასი"}
+{"id":354845446,"city_id":4608383,"language_key":"ka","name":"ლა მულა"}
+{"id":354846986,"city_id":4608403,"language_key":"ka","name":"ლოს გუასიმიტოსი"}
+{"id":354847371,"city_id":4608408,"language_key":"ka","name":"ლა კუჩილა"}
+{"id":354850066,"city_id":4608443,"language_key":"ka","name":"ზონა-რიკა"}
+{"id":354850297,"city_id":4608446,"language_key":"ka","name":"ზონა-რიკა"}
+{"id":354850528,"city_id":4608449,"language_key":"ka","name":"ზეა"}
+{"id":354850990,"city_id":4608455,"language_key":"ka","name":"ზარაზა"}
+{"id":354851529,"city_id":4608462,"language_key":"ka","name":"ზამორა"}
+{"id":354852684,"city_id":4608477,"language_key":"ka","name":"იუმარე"}
+{"id":354853146,"city_id":4608483,"language_key":"ka","name":"იოკო"}
+{"id":354853762,"city_id":4608491,"language_key":"ka","name":"იარიტაგუა"}
+{"id":354853839,"city_id":4608492,"language_key":"ka","name":"იარაკალი"}
+{"id":354854301,"city_id":4608498,"language_key":"ka","name":"იაგუარაპარო"}
+{"id":354854532,"city_id":4608501,"language_key":"ka","name":"იაგუაპა აბაჯო"}
+{"id":354854763,"city_id":4608504,"language_key":"ka","name":"იაგუა"}
+{"id":354857458,"city_id":4608539,"language_key":"ka","name":"ვილა როზა"}
+{"id":354857612,"city_id":4608541,"language_key":"ka","name":"ვილა როზა"}
+{"id":354858536,"city_id":4608553,"language_key":"ka","name":"ვილა დე კურა"}
+{"id":354858767,"city_id":4608556,"language_key":"ka","name":"ვილა ბრუზუალი"}
+{"id":354859306,"city_id":4608563,"language_key":"ka","name":"ვენტოს ფრესკო"}
+{"id":354861385,"city_id":4608590,"language_key":"ka","name":"ელ-ვენადო"}
+{"id":354861924,"city_id":4608597,"language_key":"ka","name":"ვეგუიტასი"}
+{"id":354862078,"city_id":4608599,"language_key":"ka","name":"ლას კასიტას დელ ვეგონ დე ნუტრიასი"}
+{"id":354863310,"city_id":4608615,"language_key":"ka","name":"ვალე ლა ტარასკა"}
+{"id":354863387,"city_id":4608616,"language_key":"ka","name":"ვალე ჰონდო"}
+{"id":354863849,"city_id":4608622,"language_key":"ka","name":"ვალე-დე-ლა-პასკუა"}
+{"id":354864080,"city_id":4608625,"language_key":"ka","name":"ვალე დე გუანაპე"}
+{"id":354865312,"city_id":4608641,"language_key":"ka","name":"ვალერა"}
+{"id":354865466,"city_id":4608643,"language_key":"ka","name":"ვალენსია"}
+{"id":354866544,"city_id":4608657,"language_key":"ka","name":"უვერიტო"}
+{"id":354867930,"city_id":4608675,"language_key":"ka","name":"ურუმაკო"}
+{"id":354869008,"city_id":4608689,"language_key":"ka","name":"ურიკა"}
+{"id":354869316,"city_id":4608693,"language_key":"ka","name":"ურენა"}
+{"id":354869778,"city_id":4608699,"language_key":"ka","name":"ურამა"}
+{"id":354870009,"city_id":4608702,"language_key":"ka","name":"ურაკოა"}
+{"id":354870086,"city_id":4608703,"language_key":"ka","name":"ურაჩიჩე"}
+{"id":354870394,"city_id":4608707,"language_key":"ka","name":"უპატა"}
+{"id":354870779,"city_id":4608712,"language_key":"ka","name":"უმუკენა"}
+{"id":354872242,"city_id":4608731,"language_key":"ka","name":"ტურმერო"}
+{"id":354873551,"city_id":4608748,"language_key":"ka","name":"ტუნაპუი"}
+{"id":354873705,"city_id":4608750,"language_key":"ka","name":"ტუნაპუი"}
+{"id":354874013,"city_id":4608754,"language_key":"ka","name":"თუნამი"}
+{"id":354874090,"city_id":4608755,"language_key":"ka","name":"თუმერემო"}
+{"id":354874937,"city_id":4608766,"language_key":"ka","name":"ტუკუპიტა"}
+{"id":354875553,"city_id":4608774,"language_key":"ka","name":"ტუკუპიდო"}
+{"id":354876015,"city_id":4608780,"language_key":"ka","name":"თუკანი"}
+{"id":354876092,"city_id":4608781,"language_key":"ka","name":"ტუკაკები"}
+{"id":354876477,"city_id":4608786,"language_key":"ka","name":"ტრუხილიო"}
+{"id":354878171,"city_id":4608808,"language_key":"ka","name":"ტრეს ესკინასი"}
+{"id":354878248,"city_id":4608809,"language_key":"ka","name":"ტრეს დე ფებრერო"}
+{"id":354879172,"city_id":4608821,"language_key":"ka","name":"ტოვარი"}
+{"id":354879326,"city_id":4608823,"language_key":"ka","name":"ტოვარი"}
+{"id":354879942,"city_id":4608831,"language_key":"ka","name":"ტოსტოსი"}
+{"id":354880096,"city_id":4608833,"language_key":"ka","name":"ტორუნოსი"}
+{"id":354880481,"city_id":4608838,"language_key":"ka","name":"ტორონდოი"}
+{"id":354880943,"city_id":4608844,"language_key":"ka","name":"ტორბესი"}
+{"id":354882252,"city_id":4608861,"language_key":"ka","name":"ტოკუიო დე ლა კოსტა"}
+{"id":354882406,"city_id":4608863,"language_key":"ka","name":"ტოკუიტო"}
+{"id":354882637,"city_id":4608866,"language_key":"ka","name":"ტოკორონი"}
+{"id":354882945,"city_id":4608870,"language_key":"ka","name":"ტოკოპერო"}
+{"id":354883869,"city_id":4608882,"language_key":"ka","name":"თინაკილო"}
+{"id":354884254,"city_id":4608887,"language_key":"ka","name":"თინაკო"}
+{"id":354884331,"city_id":4608888,"language_key":"ka","name":"ტიმოტესი"}
+{"id":354886410,"city_id":4608915,"language_key":"ka","name":"ტია ხუანა"}
+{"id":354886872,"city_id":4608921,"language_key":"ka","name":"ტერეზენი"}
+{"id":354887642,"city_id":4608931,"language_key":"ka","name":"ტემბლადორი"}
+{"id":354889105,"city_id":4608950,"language_key":"ka","name":"ტარიბა"}
+{"id":354891646,"city_id":4608983,"language_key":"ka","name":"თამარე"}
+{"id":354892108,"city_id":4608989,"language_key":"ka","name":"თამაკა"}
+{"id":354892878,"city_id":4608999,"language_key":"ka","name":"ტაგუაია"}
+{"id":354894033,"city_id":4609014,"language_key":"ka","name":"ტაკატა"}
+{"id":354894341,"city_id":4609018,"language_key":"ka","name":"ტაკარიგუა დე ლა ლაგუნა"}
+{"id":354895342,"city_id":4609031,"language_key":"ka","name":"ტაბაი"}
+{"id":354897036,"city_id":4609053,"language_key":"ka","name":"სუკრე"}
+{"id":354897498,"city_id":4609059,"language_key":"ka","name":"სოტილო"}
+{"id":354897652,"city_id":4609061,"language_key":"ka","name":"სოსა"}
+{"id":354898961,"city_id":4609078,"language_key":"ka","name":"სოლედადი"}
+{"id":354899577,"city_id":4609086,"language_key":"ka","name":"სოკოპო"}
+{"id":354900270,"city_id":4609095,"language_key":"ka","name":"სიკიზიკი"}
+{"id":354900809,"city_id":4609102,"language_key":"ka","name":"სინამაიკა"}
+{"id":354901887,"city_id":4609116,"language_key":"ka","name":"სიბარაგუა"}
+{"id":354902888,"city_id":4609129,"language_key":"ka","name":"სებორუკო"}
+{"id":354904428,"city_id":4609149,"language_key":"ka","name":"სარარე"}
+{"id":354904505,"city_id":4609150,"language_key":"ka","name":"სარარე"}
+{"id":354905506,"city_id":4609163,"language_key":"ka","name":"სან-ვისენტე"}
+{"id":354907354,"city_id":4609187,"language_key":"ka","name":"სანტო დომინგო"}
+{"id":354907970,"city_id":4609195,"language_key":"ka","name":"სან ტიმოტეო"}
+{"id":354908201,"city_id":4609198,"language_key":"ka","name":"სანტა ტერეზა დელ ტუი"}
+{"id":354909356,"city_id":4609213,"language_key":"ka","name":"სანტა როსალია"}
+{"id":354913437,"city_id":4609266,"language_key":"ka","name":"სანტა როზა"}
+{"id":354914284,"city_id":4609277,"language_key":"ka","name":"მორიჩალიტო"}
+{"id":354914823,"city_id":4609284,"language_key":"ka","name":"სანტა რიტა"}
+{"id":354918057,"city_id":4609326,"language_key":"ka","name":"სანტა მარია დე იპირი"}
+{"id":354918288,"city_id":4609329,"language_key":"ka","name":"სანტა მარია დე კაპარო"}
+{"id":354920444,"city_id":4609357,"language_key":"ka","name":"სანტა ლუსია"}
+{"id":354920829,"city_id":4609362,"language_key":"ka","name":"სანტა ლუსია"}
+{"id":354921445,"city_id":4609370,"language_key":"ka","name":"სანტა ლუსია"}
+{"id":354922754,"city_id":4609387,"language_key":"ka","name":"სანტა იზაბელი"}
+{"id":354922831,"city_id":4609388,"language_key":"ka","name":"სანტა იზაბელი"}
+{"id":354924448,"city_id":4609409,"language_key":"ka","name":"სანტა ინესი"}
+{"id":354925680,"city_id":4609425,"language_key":"ka","name":"სანტა-ელენა-დე-უაირენი"}
+{"id":354925834,"city_id":4609427,"language_key":"ka","name":"სანტა ელენა დე არენალესი"}
+{"id":354927220,"city_id":4609445,"language_key":"ka","name":"სანტა კრუზ დელ ზულია"}
+{"id":354927374,"city_id":4609447,"language_key":"ka","name":"სანტა კრუზ დე მარა"}
+{"id":354927451,"city_id":4609448,"language_key":"ka","name":"სანტა კრუზი დე ბუკარალი"}
+{"id":354927605,"city_id":4609450,"language_key":"ka","name":"სანტა კრუზი დე ბუკარალი"}
+{"id":354928991,"city_id":4609468,"language_key":"ka","name":"სანტა კრუზი"}
+{"id":354931609,"city_id":4609502,"language_key":"ka","name":"სანტა კატალინა"}
+{"id":354932995,"city_id":4609520,"language_key":"ka","name":"სანტა ბარბარა"}
+{"id":354933765,"city_id":4609530,"language_key":"ka","name":"სანტა ბარბარა"}
+{"id":354934766,"city_id":4609543,"language_key":"ka","name":"სანტა აპოლონია"}
+{"id":354934843,"city_id":4609544,"language_key":"ka","name":"სანტა აპოლონია"}
+{"id":354935382,"city_id":4609551,"language_key":"ka","name":"სანტა ანა"}
+{"id":354936614,"city_id":4609567,"language_key":"ka","name":"სანტა ანა"}
+{"id":354936768,"city_id":4609569,"language_key":"ka","name":"სანტა ანა"}
+{"id":354936999,"city_id":4609572,"language_key":"ka","name":"სანტა ანა"}
+{"id":354937769,"city_id":4609582,"language_key":"ka","name":"სან სიმონი"}
+{"id":354937846,"city_id":4609583,"language_key":"ka","name":"სან სილვესტრე"}
+{"id":354937923,"city_id":4609584,"language_key":"ka","name":"სან სებასტიანი"}
+{"id":354939771,"city_id":4609608,"language_key":"ka","name":"სან რაფაელ დე ორიტუკო"}
+{"id":354939848,"city_id":4609609,"language_key":"ka","name":"სან რაფაელ დე ონოტო"}
+{"id":354940079,"city_id":4609612,"language_key":"ka","name":"სანტო ტომასი"}
+{"id":354940233,"city_id":4609614,"language_key":"ka","name":"სან რაფაელ დე კანაგუა"}
+{"id":354940849,"city_id":4609622,"language_key":"ka","name":"სან რაფაელი"}
+{"id":354945238,"city_id":4609679,"language_key":"ka","name":"სან პედრო დე კოშე"}
+{"id":354949319,"city_id":4609732,"language_key":"ka","name":"სან პაბლო"}
+{"id":354950936,"city_id":4609753,"language_key":"ka","name":"სან ნიკოლასი"}
+{"id":354952553,"city_id":4609774,"language_key":"ka","name":"სან მიგელი"}
+{"id":354953708,"city_id":4609789,"language_key":"ka","name":"სან მიგელი"}
+{"id":354954401,"city_id":4609798,"language_key":"ka","name":"სან მატეო"}
+{"id":354954478,"city_id":4609799,"language_key":"ka","name":"სან მატეო"}
+{"id":354955633,"city_id":4609814,"language_key":"ka","name":"სან ლუისი"}
+{"id":354957173,"city_id":4609834,"language_key":"ka","name":"სან ლორენცო"}
+{"id":354958636,"city_id":4609853,"language_key":"ka","name":"სან ხუან დე მანაპიარე"}
+{"id":354958713,"city_id":4609854,"language_key":"ka","name":"სან-ხუან-დე-ლოს-მოროსი"}
+{"id":354958790,"city_id":4609855,"language_key":"ka","name":"სან ხუან დე ლოს კაიოსი"}
+{"id":354959098,"city_id":4609859,"language_key":"ka","name":"მსხვილი ნაწლავი"}
+{"id":354959483,"city_id":4609864,"language_key":"ka","name":"სან ხუან ბაუტისტა"}
+{"id":354961639,"city_id":4609892,"language_key":"ka","name":"სან ხუანი"}
+{"id":354962178,"city_id":4609899,"language_key":"ka","name":"სან ხოსე დე ბარლოვენტო"}
+{"id":354962332,"city_id":4609901,"language_key":"ka","name":"სან ხოსე დე ბარლოვენტო"}
+{"id":354963256,"city_id":4609913,"language_key":"ka","name":"სან ხოსე დე გუანიპა"}
+{"id":354963718,"city_id":4609919,"language_key":"ka","name":"სან ხოსე დე აეროკუარი"}
+{"id":354968030,"city_id":4609975,"language_key":"ka","name":"სან ხოსე"}
+{"id":354969031,"city_id":4609988,"language_key":"ka","name":"სან ხოაკინი"}
+{"id":354971649,"city_id":4610022,"language_key":"ka","name":"სან ისიდრო"}
+{"id":354971957,"city_id":4610026,"language_key":"ka","name":"სან იგნასიო"}
+{"id":354973266,"city_id":4610043,"language_key":"ka","name":"სან ფრანცისკო დე იარი"}
+{"id":354973728,"city_id":4610049,"language_key":"ka","name":"სან ფრანცისკო დე აზისი"}
+{"id":354974267,"city_id":4610056,"language_key":"ka","name":"სან ფრანცისკო"}
+{"id":354975422,"city_id":4610071,"language_key":"ka","name":"სან ფერნანდო დე ატაბაპო"}
+{"id":354975499,"city_id":4610072,"language_key":"ka","name":"სან ფერნანდო"}
+{"id":354975730,"city_id":4610075,"language_key":"ka","name":"სან ფელიქსი"}
+{"id":354975884,"city_id":4610077,"language_key":"ka","name":"სან ფელიქსი"}
+{"id":354976346,"city_id":4610083,"language_key":"ka","name":"სან-ფელიპე"}
+{"id":354978194,"city_id":4610107,"language_key":"ka","name":"სან დიეგო დე კაბრუტიკა"}
+{"id":354978271,"city_id":4610108,"language_key":"ka","name":"სან დიეგო"}
+{"id":354978425,"city_id":4610110,"language_key":"ka","name":"სან დიეგო"}
+{"id":354979118,"city_id":4610119,"language_key":"ka","name":"სან-კრისტობალი"}
+{"id":354979657,"city_id":4610126,"language_key":"ka","name":"სან კაზიმირო"}
+{"id":354979734,"city_id":4610127,"language_key":"ka","name":"სან კარლოს დე რიო ნეგრო"}
+{"id":354979811,"city_id":4610128,"language_key":"ka","name":"სან კარლოს დელ ზულია"}
+{"id":354980427,"city_id":4610136,"language_key":"ka","name":"სან-კარლოსი"}
+{"id":354982121,"city_id":4610158,"language_key":"ka","name":"სანარე"}
+{"id":354982429,"city_id":4610162,"language_key":"ka","name":"სან ანტონიო დელ ტაჩირა"}
+{"id":354982506,"city_id":4610163,"language_key":"ka","name":"სან ანტონიო დე ლოს ალტოსი"}
+{"id":354982583,"city_id":4610164,"language_key":"ka","name":"სან ანტონიო დელ გოლფო"}
+{"id":354983045,"city_id":4610170,"language_key":"ka","name":"კაპაია"}
+{"id":354984739,"city_id":4610192,"language_key":"ka","name":"სან ანტონიო"}
+{"id":354987665,"city_id":4610230,"language_key":"ka","name":"სან ანტონიო"}
+{"id":354988743,"city_id":4610244,"language_key":"ka","name":"სან აგუსტინი"}
+{"id":354990206,"city_id":4610263,"language_key":"ka","name":"სალომე"}
+{"id":354994749,"city_id":4610322,"language_key":"ka","name":"საბანეტა"}
+{"id":354995673,"city_id":4610334,"language_key":"ka","name":"საბანა ლიბრე"}
+{"id":354997136,"city_id":4610353,"language_key":"ka","name":"საბანა გრანდე"}
+{"id":354997675,"city_id":4610360,"language_key":"ka","name":"საბანა გრანდე"}
+{"id":354997906,"city_id":4610363,"language_key":"ka","name":"საბანა გრანდე"}
+{"id":354998214,"city_id":4610367,"language_key":"ka","name":"საბანა დე უჩირე"}
+{"id":354998599,"city_id":4610372,"language_key":"ka","name":"საბანა დე პარა"}
+{"id":354998753,"city_id":4610374,"language_key":"ka","name":"საბანა დე მენდოზა"}
+{"id":355000139,"city_id":4610392,"language_key":"ka","name":"რუბიო"}
+{"id":355000370,"city_id":4610395,"language_key":"ka","name":"ლა ვილა დელ როსარიო"}
+{"id":355000678,"city_id":4610399,"language_key":"ka","name":"ელ როსარიო"}
+{"id":355001602,"city_id":4610411,"language_key":"ka","name":"როხასი"}
+{"id":355004066,"city_id":4610443,"language_key":"ka","name":"რიო ტოკუიო"}
+{"id":355004143,"city_id":4610444,"language_key":"ka","name":"რიო სეკო"}
+{"id":355004605,"city_id":4610450,"language_key":"ka","name":"რიო ნეგრო"}
+{"id":355005529,"city_id":4610462,"language_key":"ka","name":"რიო კლარო"}
+{"id":355006222,"city_id":4610471,"language_key":"ka","name":"რიო ჩიკო"}
+{"id":355006376,"city_id":4610473,"language_key":"ka","name":"რიო კასანაი"}
+{"id":355006453,"city_id":4610474,"language_key":"ka","name":"რიო კარიბე"}
+{"id":355007069,"city_id":4610482,"language_key":"ka","name":"რიო აკარიგუა"}
+{"id":355010303,"city_id":4610524,"language_key":"ka","name":"რემოლინოსი"}
+{"id":355011458,"city_id":4610539,"language_key":"ka","name":"რანგელი"}
+{"id":355015385,"city_id":4610590,"language_key":"ka","name":"კვირიკუარი"}
+{"id":355015539,"city_id":4610592,"language_key":"ka","name":"კვირიკუარი"}
+{"id":355016848,"city_id":4610609,"language_key":"ka","name":"ქიბორი"}
+{"id":355018080,"city_id":4610625,"language_key":"ka","name":"ქუენიკეა"}
+{"id":355018696,"city_id":4610633,"language_key":"ka","name":"კვებრადა სეკა"}
+{"id":355019312,"city_id":4610641,"language_key":"ka","name":"კვებრადა სეკა"}
+{"id":355019466,"city_id":4610643,"language_key":"ka","name":"სან ფრანცისკო დელ გური"}
+{"id":355021468,"city_id":4610669,"language_key":"ka","name":"კვებრადა დე ლა ვირჯენი"}
+{"id":355021853,"city_id":4610674,"language_key":"ka","name":"კვებრადა არიბა"}
+{"id":355023393,"city_id":4610694,"language_key":"ka","name":"პუნტო-ფიხო"}
+{"id":355024009,"city_id":4610702,"language_key":"ka","name":"პუნტა გორდა"}
+{"id":355024471,"city_id":4610708,"language_key":"ka","name":"პუნტა დე პიედრასი"}
+{"id":355024548,"city_id":4610709,"language_key":"ka","name":"პუნტა დე პიედრა"}
+{"id":355024702,"city_id":4610711,"language_key":"ka","name":"პუნტა დე პიედრა"}
+{"id":355024856,"city_id":4610713,"language_key":"ka","name":"პუნტა დე მატა"}
+{"id":355025395,"city_id":4610720,"language_key":"ka","name":"პუნტა კარდონი"}
+{"id":355025857,"city_id":4610726,"language_key":"ka","name":"პანცერესი"}
+{"id":355026242,"city_id":4610731,"language_key":"ka","name":"პუერტო სანტო"}
+{"id":355026396,"city_id":4610733,"language_key":"ka","name":"პუერტო სანტო"}
+{"id":355027012,"city_id":4610741,"language_key":"ka","name":"პუერტო კაიმიტო"}
+{"id":355027089,"city_id":4610742,"language_key":"ka","name":"პუერტო პაესი"}
+{"id":355027166,"city_id":4610743,"language_key":"ka","name":"პუერტო ნუევო"}
+{"id":355027397,"city_id":4610746,"language_key":"ka","name":"პუერტო მირანდა"}
+{"id":355027551,"city_id":4610748,"language_key":"ka","name":"პუერტო მირანდა"}
+{"id":355028321,"city_id":4610758,"language_key":"ka","name":"პუერტო-ლა-კრუსი"}
+{"id":355029091,"city_id":4610768,"language_key":"ka","name":"პუერტო ესკონდიდო"}
+{"id":355029553,"city_id":4610774,"language_key":"ka","name":"პუერტო დე ნუტრიასი"}
+{"id":355029707,"city_id":4610776,"language_key":"ka","name":"პუერტო დე იერო"}
+{"id":355029784,"city_id":4610777,"language_key":"ka","name":"პუერტო კუმარებო"}
+{"id":355030246,"city_id":4610783,"language_key":"ka","name":"პუერტო-კაბელიო"}
+{"id":355030554,"city_id":4610787,"language_key":"ka","name":"პუერტო-აიაკუჩო"}
+{"id":355033788,"city_id":4610829,"language_key":"ka","name":"პუებლო ნუევო"}
+{"id":355035482,"city_id":4610851,"language_key":"ka","name":"პუელო ნუევო ელ ჩივო"}
+{"id":355036021,"city_id":4610858,"language_key":"ka","name":"პუებლო ლიანო"}
+{"id":355037715,"city_id":4610880,"language_key":"ka","name":"პრეგონერო"}
+{"id":355037792,"city_id":4610881,"language_key":"ka","name":"პოზუელოსი"}
+{"id":355039024,"city_id":4610897,"language_key":"ka","name":"პოტრერიტოსი"}
+{"id":355041180,"city_id":4610925,"language_key":"ka","name":"პორლამარი"}
+{"id":355045492,"city_id":4610981,"language_key":"ka","name":"პირიტუ"}
+{"id":355045569,"city_id":4610982,"language_key":"ka","name":"პირიტუ"}
+{"id":355045723,"city_id":4610984,"language_key":"ka","name":"პირიტუ"}
+{"id":355048341,"city_id":4611018,"language_key":"ka","name":"პიმპინელა"}
+{"id":355053192,"city_id":4611081,"language_key":"ka","name":"პეტარე"}
+{"id":355054578,"city_id":4611099,"language_key":"ka","name":"პერიბეკა"}
+{"id":355055810,"city_id":4611115,"language_key":"ka","name":"პენა"}
+{"id":355057581,"city_id":4611138,"language_key":"ka","name":"პედრეგალი"}
+{"id":355058043,"city_id":4611144,"language_key":"ka","name":"პედრაზა ლა ვიეხა"}
+{"id":355058274,"city_id":4611147,"language_key":"ka","name":"პედერნალესი"}
+{"id":355058736,"city_id":4611153,"language_key":"ka","name":"პაირა"}
+{"id":355065589,"city_id":4611242,"language_key":"ka","name":"პარიაგუანი"}
+{"id":355066898,"city_id":4611259,"language_key":"ka","name":"პარაპარა"}
+{"id":355067899,"city_id":4611272,"language_key":"ka","name":"პარაისო დე ჩაბასკენი"}
+{"id":355068669,"city_id":4611282,"language_key":"ka","name":"პარაგვაიპოა"}
+{"id":355068823,"city_id":4611284,"language_key":"ka","name":"პარაგუაიპოა"}
+{"id":355069439,"city_id":4611292,"language_key":"ka","name":"პარაკოტოსი"}
+{"id":355070132,"city_id":4611301,"language_key":"ka","name":"პაპელონი"}
+{"id":355071672,"city_id":4611321,"language_key":"ka","name":"პანაკირე"}
+{"id":355072134,"city_id":4611327,"language_key":"ka","name":"პამპატარ"}
+{"id":355072211,"city_id":4611328,"language_key":"ka","name":"პამპანიტო"}
+{"id":355072288,"city_id":4611329,"language_key":"ka","name":"პამპანი"}
+{"id":355072750,"city_id":4611335,"language_key":"ka","name":"პალოტალი"}
+{"id":355074136,"city_id":4611353,"language_key":"ka","name":"პალო-ნეგრო"}
+{"id":355074829,"city_id":4611362,"language_key":"ka","name":"პალო გორდო"}
+{"id":355076446,"city_id":4611383,"language_key":"ka","name":"პალმირა"}
+{"id":355077370,"city_id":4611395,"language_key":"ka","name":"პალმასოლა"}
+{"id":355084839,"city_id":4611492,"language_key":"ka","name":"ოსპინოს მუნიციპალიტეტი"}
+{"id":355086071,"city_id":4611508,"language_key":"ka","name":"ორტიზი"}
+{"id":355086379,"city_id":4611512,"language_key":"ka","name":"ოროპე"}
+{"id":355087611,"city_id":4611528,"language_key":"ka","name":"ონოტო"}
+{"id":355087842,"city_id":4611531,"language_key":"ka","name":"ონოტო"}
+{"id":355091846,"city_id":4611583,"language_key":"ka","name":"ოკუმარე-დელ-ტუი"}
+{"id":355091923,"city_id":4611584,"language_key":"ka","name":"ოკუმარე დე ლა კოსტა"}
+{"id":355092462,"city_id":4611591,"language_key":"ka","name":"ობისპოსი"}
+{"id":355093463,"city_id":4611604,"language_key":"ka","name":"ნუევა ბოლივია"}
+{"id":355094233,"city_id":4611614,"language_key":"ka","name":"ნირგუა"}
+{"id":355095080,"city_id":4611625,"language_key":"ka","name":"ნარიკუალი"}
+{"id":355095542,"city_id":4611631,"language_key":"ka","name":"ნაიგუატა"}
+{"id":355095619,"city_id":4611632,"language_key":"ka","name":"ნაგუანაგუა"}
+{"id":355096620,"city_id":4611645,"language_key":"ka","name":"მუნოზ"}
+{"id":355097467,"city_id":4611656,"language_key":"ka","name":"მულატალური"}
+{"id":355098083,"city_id":4611664,"language_key":"ka","name":"მუკურუბა"}
+{"id":355098930,"city_id":4611675,"language_key":"ka","name":"მუკუმპიზ"}
+{"id":355099084,"city_id":4611677,"language_key":"ka","name":"მუკუჯეპე"}
+{"id":355099161,"city_id":4611678,"language_key":"ka","name":"მუკუჩები"}
+{"id":355100162,"city_id":4611691,"language_key":"ka","name":"მოტატანი"}
+{"id":355100316,"city_id":4611693,"language_key":"ka","name":"მოტატანი"}
+{"id":355100547,"city_id":4611696,"language_key":"ka","name":"მეჩეთი"}
+{"id":355102395,"city_id":4611720,"language_key":"ka","name":"დებილი"}
+{"id":355104089,"city_id":4611742,"language_key":"ka","name":"მორიჩალ ლარგო"}
+{"id":355108324,"city_id":4611797,"language_key":"ka","name":"მონტე კარმელო"}
+{"id":355109248,"city_id":4611809,"language_key":"ka","name":"მონტალბანი"}
+{"id":355109556,"city_id":4611813,"language_key":"ka","name":"მონაი"}
+{"id":355111019,"city_id":4611832,"language_key":"ka","name":"მოჩიმა"}
+{"id":355111481,"city_id":4611838,"language_key":"ka","name":"მიტონი"}
+{"id":355111943,"city_id":4611844,"language_key":"ka","name":"სან ფრანცისკო დე გუაიო"}
+{"id":355112405,"city_id":4611850,"language_key":"ka","name":"მირანდა"}
+{"id":355112559,"city_id":4611852,"language_key":"ka","name":"მირანდა"}
+{"id":355114869,"city_id":4611882,"language_key":"ka","name":"მიქელენა"}
+{"id":355116178,"city_id":4611899,"language_key":"ka","name":"მესა დე კავაკასი"}
+{"id":355116717,"city_id":4611906,"language_key":"ka","name":"მერიდა"}
+{"id":355119566,"city_id":4611943,"language_key":"ka","name":"მენე გრანდე"}
+{"id":355119643,"city_id":4611944,"language_key":"ka","name":"მენე დე მაუროა"}
+{"id":355133195,"city_id":4612120,"language_key":"ka","name":"მასპარიტო"}
+{"id":355134042,"city_id":4612131,"language_key":"ka","name":"მაროა"}
+{"id":355134273,"city_id":4612134,"language_key":"ka","name":"მარიპა"}
+{"id":355134350,"city_id":4612135,"language_key":"ka","name":"მარიპა"}
+{"id":355134504,"city_id":4612137,"language_key":"ka","name":"მარინ"}
+{"id":355134812,"city_id":4612141,"language_key":"ka","name":"მარიგიტარა"}
+{"id":355134966,"city_id":4612143,"language_key":"ka","name":"მარიარა"}
+{"id":355136044,"city_id":4612157,"language_key":"ka","name":"მარკანო"}
+{"id":355136968,"city_id":4612169,"language_key":"ka","name":"მარაკაი"}
+{"id":355137199,"city_id":4612172,"language_key":"ka","name":"მარაკაიბო"}
+{"id":355137584,"city_id":4612177,"language_key":"ka","name":"მარა"}
+{"id":355139047,"city_id":4612196,"language_key":"ka","name":"მაპირე"}
+{"id":355139124,"city_id":4612197,"language_key":"ka","name":"მაპირე"}
+{"id":355139355,"city_id":4612200,"language_key":"ka","name":"მაპირე"}
+{"id":355139509,"city_id":4612202,"language_key":"ka","name":"მაპარარი"}
+{"id":355139663,"city_id":4612204,"language_key":"ka","name":"მაპარარი"}
+{"id":355140895,"city_id":4612220,"language_key":"ka","name":"მანტეკალი"}
+{"id":355142281,"city_id":4612238,"language_key":"ka","name":"მანიკური"}
+{"id":355144283,"city_id":4612264,"language_key":"ka","name":"მამპორალი"}
+{"id":355147440,"city_id":4612305,"language_key":"ka","name":"მაიკეტია"}
+{"id":355148210,"city_id":4612315,"language_key":"ka","name":"მაჰომიტო"}
+{"id":355148903,"city_id":4612324,"language_key":"ka","name":"მაგდალენო"}
+{"id":355149904,"city_id":4612337,"language_key":"ka","name":"მაკუტო"}
+{"id":355151367,"city_id":4612356,"language_key":"ka","name":"მაჩიკები"}
+{"id":355152522,"city_id":4612371,"language_key":"ka","name":"მაკაპო"}
+{"id":355157450,"city_id":4612435,"language_key":"ka","name":"ლოს-ტეკესი"}
+{"id":355157681,"city_id":4612438,"language_key":"ka","name":"ლოს ტაკუსი"}
+{"id":355159760,"city_id":4612465,"language_key":"ka","name":"ლოს რიოსი"}
+{"id":355160453,"city_id":4612474,"language_key":"ka","name":"ლოს რასტროხოსი"}
+{"id":355164996,"city_id":4612533,"language_key":"ka","name":"ლოს პიჯიგუაოსი"}
+{"id":355170925,"city_id":4612610,"language_key":"ka","name":"ლოს მილანესი"}
+{"id":355179395,"city_id":4612720,"language_key":"ka","name":"ლოს-გაიოსის მუნიციპალიტეტი"}
+{"id":355179780,"city_id":4612725,"language_key":"ka","name":"ლოს გუასდალოტესი"}
+{"id":355182013,"city_id":4612754,"language_key":"ka","name":"ლოს დოს კამინოსი"}
+{"id":355185940,"city_id":4612805,"language_key":"ka","name":"სანტა მარია დე ლოს კოკოსი"}
+{"id":355187711,"city_id":4612828,"language_key":"ka","name":"ლოს ჩიგეირესი"}
+{"id":355190329,"city_id":4612862,"language_key":"ka","name":"ლოს კარპინტეროსი"}
+{"id":355196412,"city_id":4612941,"language_key":"ka","name":"ლოს ბარანკოს დე ფაჰარდო"}
+{"id":355197490,"city_id":4612955,"language_key":"ka","name":"ლოს ბაგრესი"}
+{"id":355198337,"city_id":4612966,"language_key":"ka","name":"ლოს არაკუსი"}
+{"id":355199492,"city_id":4612981,"language_key":"ka","name":"ლოს ალტოსი"}
+{"id":355199723,"city_id":4612984,"language_key":"ka","name":"ლოს ალტოსი"}
+{"id":355204266,"city_id":4613043,"language_key":"ka","name":"ლობატერა"}
+{"id":355206191,"city_id":4613068,"language_key":"ka","name":"ლიმონარი ადენტრო"}
+{"id":355206653,"city_id":4613074,"language_key":"ka","name":"ლიბერტადი"}
+{"id":355206730,"city_id":4613075,"language_key":"ka","name":"ლიბერტადი"}
+{"id":355206807,"city_id":4613076,"language_key":"ka","name":"კანაგუა"}
+{"id":355206884,"city_id":4613077,"language_key":"ka","name":"კაპაჩო ვიეხო"}
+{"id":355206961,"city_id":4613078,"language_key":"ka","name":"ლეზამა"}
+{"id":355208578,"city_id":4613099,"language_key":"ka","name":"ლა იუკა"}
+{"id":355212659,"city_id":4613152,"language_key":"ka","name":"ლა-ვიქტორია"}
+{"id":355213814,"city_id":4613167,"language_key":"ka","name":"ლა ვიქტორია"}
+{"id":355215123,"city_id":4613184,"language_key":"ka","name":"ლა ველა დე კორო"}
+{"id":355215508,"city_id":4613189,"language_key":"ka","name":"ვეგუიტასი"}
+{"id":355219897,"city_id":4613246,"language_key":"ka","name":"ლა კავშირი"}
+{"id":355220821,"city_id":4613258,"language_key":"ka","name":"ლა ტრინიდადი"}
+{"id":355223131,"city_id":4613288,"language_key":"ka","name":"ლა ტრილა"}
+{"id":355223439,"city_id":4613292,"language_key":"ka","name":"ლა ტოსკანა"}
+{"id":355228906,"city_id":4613363,"language_key":"ka","name":"ლას-ვეგასი"}
+{"id":355229907,"city_id":4613376,"language_key":"ka","name":"ლას ტუნასი"}
+{"id":355232063,"city_id":4613404,"language_key":"ka","name":"ლას ტეჟერიასი"}
+{"id":355239532,"city_id":4613501,"language_key":"ka","name":"ლას პიედრასი"}
+{"id":355241226,"city_id":4613523,"language_key":"ka","name":"მირადორ იზოტიტლა (მირადორესი)"}
+{"id":355244075,"city_id":4613560,"language_key":"ka","name":"ოლას დე კარამაკატი"}
+{"id":355249311,"city_id":4613628,"language_key":"ka","name":"ლას-მესასი"}
+{"id":355249542,"city_id":4613631,"language_key":"ka","name":"ლას მერსედესი"}
+{"id":355250543,"city_id":4613644,"language_key":"ka","name":"ლას მერსედესი"}
+{"id":355258628,"city_id":4613749,"language_key":"ka","name":"ლა სიერიტა"}
+{"id":355261323,"city_id":4613784,"language_key":"ka","name":"ლას გუაკამაიასი"}
+{"id":355265481,"city_id":4613838,"language_key":"ka","name":"ლას ელისასი"}
+{"id":355267406,"city_id":4613863,"language_key":"ka","name":"ლას დელისიასი"}
+{"id":355267791,"city_id":4613868,"language_key":"ka","name":"ლას დელისიასი"}
+{"id":355269254,"city_id":4613887,"language_key":"ka","name":"ლას კრუსსი"}
+{"id":355275337,"city_id":4613966,"language_key":"ka","name":"ლას კალდერასი"}
+{"id":355282421,"city_id":4614058,"language_key":"ka","name":"ლა საბანა"}
+{"id":355284731,"city_id":4614088,"language_key":"ka","name":"ლა როკენა"}
+{"id":355288427,"city_id":4614136,"language_key":"ka","name":"ლა რეფორმა"}
+{"id":355291661,"city_id":4614178,"language_key":"ka","name":"ლა კვებრადა"}
+{"id":355291892,"city_id":4614181,"language_key":"ka","name":"ლა კვებრადა"}
+{"id":355294433,"city_id":4614214,"language_key":"ka","name":"ლა პროვიდენსია"}
+{"id":355297590,"city_id":4614255,"language_key":"ka","name":"ლა პლატა"}
+{"id":355300131,"city_id":4614288,"language_key":"ka","name":"ლა პიკა"}
+{"id":355303442,"city_id":4614331,"language_key":"ka","name":"ლა-პასი"}
+{"id":355304058,"city_id":4614339,"language_key":"ka","name":"ლა პასტორა"}
+{"id":355305521,"city_id":4614358,"language_key":"ka","name":"ლა პარაგუა"}
+{"id":355306137,"city_id":4614366,"language_key":"ka","name":"ლა პამპა დე არაგუა"}
+{"id":355306445,"city_id":4614370,"language_key":"ka","name":"ლა პალომა"}
+{"id":355312990,"city_id":4614455,"language_key":"ka","name":"ლანდერი"}
+{"id":355317302,"city_id":4614511,"language_key":"ka","name":"ლა მოკა"}
+{"id":355317764,"city_id":4614517,"language_key":"ka","name":"მისია ჩიჩიმეკასი"}
+{"id":355318303,"city_id":4614524,"language_key":"ka","name":"ლა მიელი"}
+{"id":355321152,"city_id":4614561,"language_key":"ka","name":"ლა მატა"}
+{"id":355327004,"city_id":4614637,"language_key":"ka","name":"ლა ლუზი"}
+{"id":355332625,"city_id":4614710,"language_key":"ka","name":"ლა ლაგუნიტა"}
+{"id":355333395,"city_id":4614720,"language_key":"ka","name":"ლა ლაგუნა"}
+{"id":355335551,"city_id":4614748,"language_key":"ka","name":"ლა ჯარა"}
+{"id":355340941,"city_id":4614818,"language_key":"ka","name":"ლაგუნოტა"}
+{"id":355341711,"city_id":4614828,"language_key":"ka","name":"ლაგუნილასი"}
+{"id":355341788,"city_id":4614829,"language_key":"ka","name":"ლაგუნილასი"}
+{"id":355342866,"city_id":4614843,"language_key":"ka","name":"ლაგუნა მარკოსი"}
+{"id":355344714,"city_id":4614867,"language_key":"ka","name":"ლა გუასდუილია"}
+{"id":355346100,"city_id":4614885,"language_key":"ka","name":"ლა-გუაირა"}
+{"id":355351105,"city_id":4614950,"language_key":"ka","name":"ლა გრიტა"}
+{"id":355362963,"city_id":4615104,"language_key":"ka","name":"ლა ესმერალდა"}
+{"id":355365966,"city_id":4615143,"language_key":"ka","name":"ლა დომინგა"}
+{"id":355366120,"city_id":4615145,"language_key":"ka","name":"ლა დიეცინუევი"}
+{"id":355366582,"city_id":4615151,"language_key":"ka","name":"დემოკრატია"}
+{"id":355372357,"city_id":4615226,"language_key":"ka","name":"ლა კრუზ დე ტარატარა"}
+{"id":355376284,"city_id":4615277,"language_key":"ka","name":"ლა კონსეპსიონი"}
+{"id":355376515,"city_id":4615280,"language_key":"ka","name":"კონკორდი"}
+{"id":355380442,"city_id":4615331,"language_key":"ka","name":"ლა სიეგა"}
+{"id":355382444,"city_id":4615357,"language_key":"ka","name":"ჩამეტა"}
+{"id":355383984,"city_id":4615377,"language_key":"ka","name":"ლა სეჯიტა"}
+{"id":355387141,"city_id":4615418,"language_key":"ka","name":"ლა სეიბა"}
+{"id":355389990,"city_id":4615455,"language_key":"ka","name":"კარამუკა"}
+{"id":355394533,"city_id":4615514,"language_key":"ka","name":"ლა კაბანა"}
+{"id":355399769,"city_id":4615582,"language_key":"ka","name":"ლა ბატეა"}
+{"id":355401309,"city_id":4615602,"language_key":"ka","name":"ლა აზულიტა"}
+{"id":355403542,"city_id":4615631,"language_key":"ka","name":"ლა არენოსა"}
+{"id":355405621,"city_id":4615658,"language_key":"ka","name":"ლა აგუადიტა"}
+{"id":355406468,"city_id":4615669,"language_key":"ka","name":"ლა აგუადა"}
+{"id":355408624,"city_id":4615697,"language_key":"ka","name":"კანავაიენი"}
+{"id":355408701,"city_id":4615698,"language_key":"ka","name":"ჟუზეპინი"}
+{"id":355408855,"city_id":4615700,"language_key":"ka","name":"ჯუნინი"}
+{"id":355409625,"city_id":4615710,"language_key":"ka","name":"ჯუდიბანა"}
+{"id":355410318,"city_id":4615719,"language_key":"ka","name":"ხუან გრიეგო"}
+{"id":355414707,"city_id":4615776,"language_key":"ka","name":"ჯალისკო"}
+{"id":355414861,"city_id":4615778,"language_key":"ka","name":"ჯაჯი"}
+{"id":355416247,"city_id":4615796,"language_key":"ka","name":"ჯაკურა"}
+{"id":355416863,"city_id":4615804,"language_key":"ka","name":"ჯაბონი"}
+{"id":355418403,"city_id":4615824,"language_key":"ka","name":"ისნოტუ"}
+{"id":355418711,"city_id":4615828,"language_key":"ka","name":"ირაპა"}
+{"id":355419635,"city_id":4615840,"language_key":"ka","name":"ინდეპენდენსია"}
+{"id":355420482,"city_id":4615851,"language_key":"ka","name":"ჰუმოკარო ალტო"}
+{"id":355420559,"city_id":4615852,"language_key":"ka","name":"ჰუმოკარო ბაჯო"}
+{"id":355420636,"city_id":4615853,"language_key":"ka","name":"ჰუმოკარო ალტო"}
+{"id":355421560,"city_id":4615865,"language_key":"ka","name":"იგუეროტე"}
+{"id":355422869,"city_id":4615882,"language_key":"ka","name":"ერნანდესი"}
+{"id":355429876,"city_id":4615973,"language_key":"ka","name":"გეირია"}
+{"id":355430030,"city_id":4615975,"language_key":"ka","name":"ვიუიკინა"}
+{"id":355430338,"city_id":4615979,"language_key":"ka","name":"გუეიგუე"}
+{"id":355432494,"city_id":4616007,"language_key":"ka","name":"გუაიბონესი"}
+{"id":355432802,"city_id":4616011,"language_key":"ka","name":"გუაიბალი"}
+{"id":355434419,"city_id":4616032,"language_key":"ka","name":"გუაიბალი"}
+{"id":355434958,"city_id":4616039,"language_key":"ka","name":"გუატირე"}
+{"id":355436036,"city_id":4616053,"language_key":"ka","name":"გუასიპატი"}
+{"id":355439424,"city_id":4616097,"language_key":"ka","name":"გუარიკო"}
+{"id":355440271,"city_id":4616108,"language_key":"ka","name":"გუარენასი"}
+{"id":355440887,"city_id":4616116,"language_key":"ka","name":"გვარდატინასი"}
+{"id":355440964,"city_id":4616117,"language_key":"ka","name":"გუარუნოსები"}
+{"id":355441195,"city_id":4616120,"language_key":"ka","name":"გუარატარო"}
+{"id":355441888,"city_id":4616129,"language_key":"ka","name":"გუარაკ"}
+{"id":355444044,"city_id":4616157,"language_key":"ka","name":"გუანტის მუნიციპალიტეტი"}
+{"id":355445122,"city_id":4616171,"language_key":"ka","name":"გუანარიტო"}
+{"id":355445276,"city_id":4616173,"language_key":"ka","name":"გუანარე"}
+{"id":355445430,"city_id":4616175,"language_key":"ka","name":"გუანაბანო ალტო"}
+{"id":355448510,"city_id":4616215,"language_key":"ka","name":"გუამა"}
+{"id":355448818,"city_id":4616219,"language_key":"ka","name":"გუაჯირა"}
+{"id":355450666,"city_id":4616243,"language_key":"ka","name":"გუადარამა"}
+{"id":355452514,"city_id":4616267,"language_key":"ka","name":"გუაკარა"}
+{"id":355454285,"city_id":4616290,"language_key":"ka","name":"გომესი"}
+{"id":355459521,"city_id":4616358,"language_key":"ka","name":"ფლორ დე პატრია"}
+{"id":355461215,"city_id":4616380,"language_key":"ka","name":"ფარრიარი"}
+{"id":355462216,"city_id":4616393,"language_key":"ka","name":"ესტორაკი"}
+{"id":355464449,"city_id":4616422,"language_key":"ka","name":"ესკუკე"}
+{"id":355465373,"city_id":4616434,"language_key":"ka","name":"ენკონტრადოსი"}
+{"id":355468145,"city_id":4616470,"language_key":"ka","name":"ელ იაგუალი"}
+{"id":355469300,"city_id":4616485,"language_key":"ka","name":"ელ ვიგია"}
+{"id":355471533,"city_id":4616514,"language_key":"ka","name":"ელ ვალე დელ ეპრიტუ სანტო"}
+{"id":355471610,"city_id":4616515,"language_key":"ka","name":"ელ ვალე"}
+{"id":355473304,"city_id":4616537,"language_key":"ka","name":"ელ ტრიუნფო"}
+{"id":355474536,"city_id":4616553,"language_key":"ka","name":"ელ ტორო"}
+{"id":355474767,"city_id":4616556,"language_key":"ka","name":"ელ ტორო"}
+{"id":355475999,"city_id":4616572,"language_key":"ka","name":"ელ ოკუარო"}
+{"id":355478232,"city_id":4616601,"language_key":"ka","name":"ელ-ტიგრე"}
+{"id":355479849,"city_id":4616622,"language_key":"ka","name":"ელ ტეჯერო"}
+{"id":355482544,"city_id":4616657,"language_key":"ka","name":"ელ სომბრერო"}
+{"id":355482775,"city_id":4616660,"language_key":"ka","name":"ელ სოკორო"}
+{"id":355483468,"city_id":4616669,"language_key":"ka","name":"ელ სოკორო"}
+{"id":355483930,"city_id":4616675,"language_key":"ka","name":"ელ სოკორო"}
+{"id":355484469,"city_id":4616682,"language_key":"ka","name":"ელ სილენსიო"}
+{"id":355485162,"city_id":4616691,"language_key":"ka","name":"ელ სიეტე"}
+{"id":355486163,"city_id":4616704,"language_key":"ka","name":"ელ სამან დე აპური"}
+{"id":355490783,"city_id":4616764,"language_key":"ka","name":"ლოს როკესი"}
+{"id":355498483,"city_id":4616864,"language_key":"ka","name":"ელ რეგალო"}
+{"id":355498714,"city_id":4616867,"language_key":"ka","name":"ელ რეკრეო"}
+{"id":355501717,"city_id":4616906,"language_key":"ka","name":"ელ პუებლიტო"}
+{"id":355510418,"city_id":4617019,"language_key":"ka","name":"ელ პინარი"}
+{"id":355510880,"city_id":4617025,"language_key":"ka","name":"სან რაფაელ დელ პინალი"}
+{"id":355511342,"city_id":4617031,"language_key":"ka","name":"ელ პილარი"}
+{"id":355511419,"city_id":4617032,"language_key":"ka","name":"ელ პილარი"}
+{"id":355517579,"city_id":4617112,"language_key":"ka","name":"ელ პაუჯი"}
+{"id":355518349,"city_id":4617122,"language_key":"ka","name":"ელ პატო"}
+{"id":355521506,"city_id":4617163,"language_key":"ka","name":"ელ პარადერო"}
+{"id":355522276,"city_id":4617173,"language_key":"ka","name":"ელ პაო ვიეხო"}
+{"id":355522353,"city_id":4617174,"language_key":"ka","name":"ელ პაო"}
+{"id":355524355,"city_id":4617200,"language_key":"ka","name":"ელ პალმერი"}
+{"id":355526203,"city_id":4617224,"language_key":"ka","name":"ელ პალმარი"}
+{"id":355528282,"city_id":4617251,"language_key":"ka","name":"ელორზა"}
+{"id":355529052,"city_id":4617261,"language_key":"ka","name":"ელ ნულა"}
+{"id":355529360,"city_id":4617265,"language_key":"ka","name":"ელ ნოგალი"}
+{"id":355533210,"city_id":4617315,"language_key":"ka","name":"ლეხერიასი"}
+{"id":355534057,"city_id":4617326,"language_key":"ka","name":"ელ მორალიტო"}
+{"id":355535212,"city_id":4617341,"language_key":"ka","name":"ელ მოლინტე"}
+{"id":355535597,"city_id":4617346,"language_key":"ka","name":"ელ მილაგრო"}
+{"id":355538446,"city_id":4617383,"language_key":"ka","name":"ელ მენე"}
+{"id":355540448,"city_id":4617409,"language_key":"ka","name":"ელ მანზანო"}
+{"id":355540525,"city_id":4617410,"language_key":"ka","name":"ელ მანტეკო"}
+{"id":355540833,"city_id":4617414,"language_key":"ka","name":"ელ მანტეკო"}
+{"id":355547917,"city_id":4617506,"language_key":"ka","name":"ელ-ლიმონი"}
+{"id":355550227,"city_id":4617536,"language_key":"ka","name":"ელ ლამედერო"}
+{"id":355557619,"city_id":4617632,"language_key":"ka","name":"ელ-ატილიოს მუნიციპალიტეტი"}
+{"id":355559005,"city_id":4617650,"language_key":"ka","name":"გუაიბალი"}
+{"id":355560083,"city_id":4617664,"language_key":"ka","name":"ელ გუატე"}
+{"id":355560391,"city_id":4617668,"language_key":"ka","name":"ელ გუასიმო"}
+{"id":355562008,"city_id":4617689,"language_key":"ka","name":"ელ გუაპო"}
+{"id":355565627,"city_id":4617736,"language_key":"ka","name":"ელ გუაჩარო"}
+{"id":355567629,"city_id":4617762,"language_key":"ka","name":"ელ ფურიალი"}
+{"id":355570555,"city_id":4617800,"language_key":"ka","name":"ელ ენეალი"}
+{"id":355571325,"city_id":4617810,"language_key":"ka","name":"ელ ენკანტო"}
+{"id":355572788,"city_id":4617829,"language_key":"ka","name":"ელდორადო"}
+{"id":355573250,"city_id":4617835,"language_key":"ka","name":"ელ დივიდივი"}
+{"id":355579410,"city_id":4617915,"language_key":"ka","name":"ელ კორალი"}
+{"id":355580180,"city_id":4617925,"language_key":"ka","name":"ელ კოროზო"}
+{"id":355581335,"city_id":4617940,"language_key":"ka","name":"ელ კოროზო"}
+{"id":355582875,"city_id":4617960,"language_key":"ka","name":"ელ კონსეჯო"}
+{"id":355583029,"city_id":4617962,"language_key":"ka","name":"ელ კონსეჯო"}
+{"id":355585339,"city_id":4617992,"language_key":"ka","name":"ელ კობრე"}
+{"id":355585416,"city_id":4617993,"language_key":"ka","name":"ელ კობრე"}
+{"id":355590344,"city_id":4618057,"language_key":"ka","name":"ელ სეროტე"}
+{"id":355598506,"city_id":4618163,"language_key":"ka","name":"ელ კარმელო"}
+{"id":355601586,"city_id":4618203,"language_key":"ka","name":"ელ კანტონი"}
+{"id":355601971,"city_id":4618208,"language_key":"ka","name":"ელ კანტონი"}
+{"id":355604897,"city_id":4618246,"language_key":"ka","name":"ელ კალაო"}
+{"id":355606283,"city_id":4618264,"language_key":"ka","name":"ელ კაფე"}
+{"id":355611673,"city_id":4618334,"language_key":"ka","name":"ელ ბაული"}
+{"id":355618218,"city_id":4618419,"language_key":"ka","name":"ელ ამპარო"}
+{"id":355618372,"city_id":4618421,"language_key":"ka","name":"ელ ამპარო"}
+{"id":355624301,"city_id":4618498,"language_key":"ka","name":"ეხიდო"}
+{"id":355624917,"city_id":4618506,"language_key":"ka","name":"დუაკა"}
+{"id":355624994,"city_id":4618507,"language_key":"ka","name":"დოს რიოსი"}
+{"id":355625918,"city_id":4618519,"language_key":"ka","name":"დოლორესი"}
+{"id":355625995,"city_id":4618520,"language_key":"ka","name":"დოლორესი"}
+{"id":355627458,"city_id":4618539,"language_key":"ka","name":"დაბაჯურო"}
+{"id":355629229,"city_id":4618562,"language_key":"ka","name":"კიურიპე"}
+{"id":355629614,"city_id":4618567,"language_key":"ka","name":"კურიაპო"}
+{"id":355629922,"city_id":4618571,"language_key":"ka","name":"კურბათი"}
+{"id":355631770,"city_id":4618595,"language_key":"ka","name":"კუპირა"}
+{"id":355634003,"city_id":4618624,"language_key":"ka","name":"კუმანაკოა"}
+{"id":355634080,"city_id":4618625,"language_key":"ka","name":"კუმანა"}
+{"id":355636852,"city_id":4618661,"language_key":"ka","name":"კუბირო"}
+{"id":355637314,"city_id":4618667,"language_key":"ka","name":"კუატრო ესკინასი"}
+{"id":355637853,"city_id":4618674,"language_key":"ka","name":"კუარა"}
+{"id":355638315,"city_id":4618680,"language_key":"ka","name":"კუა"}
+{"id":355648248,"city_id":4618809,"language_key":"ka","name":"სანტა-ანა-დე-კორო"}
+{"id":355648556,"city_id":4618813,"language_key":"ka","name":"კორდობა"}
+{"id":355648633,"city_id":4618814,"language_key":"ka","name":"კორდერო"}
+{"id":355650712,"city_id":4618841,"language_key":"ka","name":"კონგოროჩო"}
+{"id":355651328,"city_id":4618849,"language_key":"ka","name":"კონცეპსიონ პინადა"}
+{"id":355651482,"city_id":4618851,"language_key":"ka","name":"კონკორდი"}
+{"id":355652637,"city_id":4618866,"language_key":"ka","name":"კოლონია ტოვარი"}
+{"id":355652945,"city_id":4618870,"language_key":"ka","name":"კოლონციტო"}
+{"id":355653407,"city_id":4618876,"language_key":"ka","name":"კოლინა"}
+{"id":355653715,"city_id":4618880,"language_key":"ka","name":"კოჯედები"}
+{"id":355656564,"city_id":4618917,"language_key":"ka","name":"კოკოროტი"}
+{"id":355656872,"city_id":4618921,"language_key":"ka","name":"კოკო დე მონო"}
+{"id":355657642,"city_id":4618931,"language_key":"ka","name":"კლარინები"}
+{"id":355657719,"city_id":4618932,"language_key":"ka","name":"სიუდად პიარი"}
+{"id":355657796,"city_id":4618933,"language_key":"ka","name":"სიუდად-ოხედა"}
+{"id":355657873,"city_id":4618934,"language_key":"ka","name":"სიუდად-გუაიანა"}
+{"id":355657950,"city_id":4618935,"language_key":"ka","name":"სიუდად დე ნუტრიასი"}
+{"id":355658027,"city_id":4618936,"language_key":"ka","name":"სიუდად ბოლივია"}
+{"id":355658104,"city_id":4618937,"language_key":"ka","name":"სიუდად-ბოლივარი"}
+{"id":355658258,"city_id":4618939,"language_key":"ka","name":"ციპრიანო"}
+{"id":355659798,"city_id":4618959,"language_key":"ka","name":"ჩურუგუარა"}
+{"id":355660183,"city_id":4618964,"language_key":"ka","name":"ჩუნაურე"}
+{"id":355660414,"city_id":4618967,"language_key":"ka","name":"ჩუაო"}
+{"id":355661261,"city_id":4618978,"language_key":"ka","name":"ჭორონი"}
+{"id":355662031,"city_id":4618988,"language_key":"ka","name":"ჩივაკოა"}
+{"id":355662724,"city_id":4618997,"language_key":"ka","name":"ჩირგუა"}
+{"id":355662955,"city_id":4619000,"language_key":"ka","name":"ჩიკინკირა"}
+{"id":355663956,"city_id":4619013,"language_key":"ka","name":"ჩიმბანი"}
+{"id":355664418,"city_id":4619019,"language_key":"ka","name":"ჩიგუარა"}
+{"id":355664726,"city_id":4619023,"language_key":"ka","name":"ჩიჩირივიჩე"}
+{"id":355665111,"city_id":4619028,"language_key":"ka","name":"ჩეჯენდე"}
+{"id":355665573,"city_id":4619034,"language_key":"ka","name":"ჩარალიავე"}
+{"id":355667036,"city_id":4619053,"language_key":"ka","name":"ჩამიზალი"}
+{"id":355667883,"city_id":4619064,"language_key":"ka","name":"ჩაგუარამას"}
+{"id":355668114,"city_id":4619067,"language_key":"ka","name":"ჩაგუარამალი"}
+{"id":355668499,"city_id":4619072,"language_key":"ka","name":"ჩაკოპატა"}
+{"id":355669115,"city_id":4619080,"language_key":"ka","name":"ჩაკაოს მუნიციპალიტეტი"}
+{"id":355669577,"city_id":4619086,"language_key":"ka","name":"სეუტა"}
+{"id":355672349,"city_id":4619122,"language_key":"ka","name":"ცეპედ"}
+{"id":355672657,"city_id":4619126,"language_key":"ka","name":"სანტა ინესი"}
+{"id":355673889,"city_id":4619142,"language_key":"ka","name":"ცედენო"}
+{"id":355675737,"city_id":4619166,"language_key":"ka","name":"კავკაგუიტო"}
+{"id":355675814,"city_id":4619167,"language_key":"ka","name":"კავკაგუა"}
+{"id":355676276,"city_id":4619173,"language_key":"ka","name":"კატუარო"}
+{"id":355676430,"city_id":4619175,"language_key":"ka","name":"კატია-ლა-მარი"}
+{"id":355676661,"city_id":4619178,"language_key":"ka","name":"კატატუმბო"}
+{"id":355679972,"city_id":4619221,"language_key":"ka","name":"კასიგუა ელ კუბო"}
+{"id":355680588,"city_id":4619229,"language_key":"ka","name":"კასანაი"}
+{"id":355681820,"city_id":4619245,"language_key":"ka","name":"კაზაკოიმა"}
+{"id":355683745,"city_id":4619270,"language_key":"ka","name":"კარუპანო"}
+{"id":355685978,"city_id":4619299,"language_key":"ka","name":"კარიზალი"}
+{"id":355687287,"city_id":4619316,"language_key":"ka","name":"კარასკერო"}
+{"id":355687980,"city_id":4619325,"language_key":"ka","name":"კარორა"}
+{"id":355688057,"city_id":4619326,"language_key":"ka","name":"კაროლეი"}
+{"id":355688442,"city_id":4619331,"language_key":"ka","name":"კარმენ დე კურა"}
+{"id":355688904,"city_id":4619337,"language_key":"ka","name":"კარირუბანა"}
+{"id":355688981,"city_id":4619338,"language_key":"ka","name":"კარიპიტო"}
+{"id":355689058,"city_id":4619339,"language_key":"ka","name":"კარიპე"}
+{"id":355689828,"city_id":4619349,"language_key":"ka","name":"კარიაკო"}
+{"id":355691368,"city_id":4619369,"language_key":"ka","name":"კარაიაკა"}
+{"id":355694140,"city_id":4619405,"language_key":"ka","name":"კარამაკატი"}
+{"id":355694833,"city_id":4619414,"language_key":"ka","name":"რიაჩე"}
+{"id":355694987,"city_id":4619416,"language_key":"ka","name":"კარაკასი"}
+{"id":355696065,"city_id":4619430,"language_key":"ka","name":"კარაბალედა"}
+{"id":355696681,"city_id":4619438,"language_key":"ka","name":"კაპიტანეხო"}
+{"id":355697451,"city_id":4619448,"language_key":"ka","name":"კანაპე კაპატარიდა"}
+{"id":355697682,"city_id":4619451,"language_key":"ka","name":"კაპადარე"}
+{"id":355698683,"city_id":4619464,"language_key":"ka","name":"კანტაურა"}
+{"id":355701686,"city_id":4619503,"language_key":"ka","name":"კანო ნეგრო"}
+{"id":355706075,"city_id":4619560,"language_key":"ka","name":"კანოაბო"}
+{"id":355707076,"city_id":4619573,"language_key":"ka","name":"ტიგრე გრანდე"}
+{"id":355710926,"city_id":4619623,"language_key":"ka","name":"კამპომა"}
+{"id":355711388,"city_id":4619629,"language_key":"ka","name":"კამპო გუაარაკა"}
+{"id":355711619,"city_id":4619632,"language_key":"ka","name":"კამპო ელიასი"}
+{"id":355711850,"city_id":4619635,"language_key":"ka","name":"კამპო ელიასი"}
+{"id":355719550,"city_id":4619735,"language_key":"ka","name":"კამათაგუა"}
+{"id":355719935,"city_id":4619740,"language_key":"ka","name":"კამაგუანი"}
+{"id":355720859,"city_id":4619752,"language_key":"ka","name":"კალდერები"}
+{"id":355721321,"city_id":4619758,"language_key":"ka","name":"კალადო"}
+{"id":355721398,"city_id":4619759,"language_key":"ka","name":"კალაბოსო"}
+{"id":355722014,"city_id":4619767,"language_key":"ka","name":"კახა სეკა"}
+{"id":355723477,"city_id":4619786,"language_key":"ka","name":"კაიგუა"}
+{"id":355724093,"city_id":4619794,"language_key":"ka","name":"კაიკარა"}
+{"id":355724247,"city_id":4619796,"language_key":"ka","name":"კაიკარა-დელ-ორინოკო"}
+{"id":355724555,"city_id":4619800,"language_key":"ka","name":"კაგუადა"}
+{"id":355724632,"city_id":4619801,"language_key":"ka","name":"კაგუა"}
+{"id":355725171,"city_id":4619808,"language_key":"ka","name":"კაჩიპო"}
+{"id":355726480,"city_id":4619825,"language_key":"ka","name":"ბურე"}
+{"id":355726557,"city_id":4619826,"language_key":"ka","name":"კაბუდარე"}
+{"id":355726634,"city_id":4619827,"language_key":"ka","name":"კაბარუტა"}
+{"id":355726942,"city_id":4619831,"language_key":"ka","name":"კაბიმასი"}
+{"id":355729021,"city_id":4619858,"language_key":"ka","name":"ბურბუსაი"}
+{"id":355729098,"city_id":4619859,"language_key":"ka","name":"ბუმ ბუმ"}
+{"id":355731716,"city_id":4619893,"language_key":"ka","name":"ბუენოს-აირესი"}
+{"id":355731870,"city_id":4619895,"language_key":"ka","name":"ბუენა ვისტა"}
+{"id":355736490,"city_id":4619955,"language_key":"ka","name":"ბუენა ვისტა"}
+{"id":355737337,"city_id":4619966,"language_key":"ka","name":"ბუჩივაკოა"}
+{"id":355738954,"city_id":4619987,"language_key":"ka","name":"ბრუზუალი"}
+{"id":355739570,"city_id":4619995,"language_key":"ka","name":"ბრამონი"}
+{"id":355741649,"city_id":4620022,"language_key":"ka","name":"ბოროტა"}
+{"id":355742265,"city_id":4620030,"language_key":"ka","name":"ბორაურე"}
+{"id":355742496,"city_id":4620033,"language_key":"ka","name":"ბორაურე"}
+{"id":355745268,"city_id":4620069,"language_key":"ka","name":"ბოლივარი"}
+{"id":355745730,"city_id":4620075,"language_key":"ka","name":"ბოკონოიტო"}
+{"id":355745884,"city_id":4620077,"language_key":"ka","name":"ბოკონო"}
+{"id":355747347,"city_id":4620096,"language_key":"ka","name":"ბოკა დე უჩირე"}
+{"id":355748733,"city_id":4620114,"language_key":"ka","name":"ბოკა დე რიო"}
+{"id":355748810,"city_id":4620115,"language_key":"ka","name":"ბოკა დელ რიო"}
+{"id":355750042,"city_id":4620131,"language_key":"ka","name":"ბოკა დე კაზანარიტო"}
+{"id":355750119,"city_id":4620132,"language_key":"ka","name":"ბოკა დე აროა"}
+{"id":355751120,"city_id":4620145,"language_key":"ka","name":"ბობურები"}
+{"id":355751274,"city_id":4620147,"language_key":"ka","name":"ბობარე"}
+{"id":355751428,"city_id":4620149,"language_key":"ka","name":"ბისკუკი"}
+{"id":355751582,"city_id":4620151,"language_key":"ka","name":"ბირუაკა"}
+{"id":355751967,"city_id":4620156,"language_key":"ka","name":"ბეტიჟოკი"}
+{"id":355752275,"city_id":4620160,"language_key":"ka","name":"ბერმუდესი"}
+{"id":355752583,"city_id":4620164,"language_key":"ka","name":"ბერგანტინი"}
+{"id":355754662,"city_id":4620191,"language_key":"ka","name":"ბელენი"}
+{"id":355754816,"city_id":4620193,"language_key":"ka","name":"ბელენი"}
+{"id":355756202,"city_id":4620211,"language_key":"ka","name":"ბეჟუმა"}
+{"id":355757819,"city_id":4620232,"language_key":"ka","name":"ბარუტა"}
+{"id":355759359,"city_id":4620252,"language_key":"ka","name":"ბარანკიტასი"}
+{"id":355759513,"city_id":4620254,"language_key":"ka","name":"ბარანკიტასი"}
+{"id":355760514,"city_id":4620267,"language_key":"ka","name":"ბარანკასი"}
+{"id":355760591,"city_id":4620268,"language_key":"ka","name":"ბარანკასი"}
+{"id":355761207,"city_id":4620276,"language_key":"ka","name":"ბარკისიმეტო"}
+{"id":355762054,"city_id":4620287,"language_key":"ka","name":"ბარინიტასი"}
+{"id":355762131,"city_id":4620288,"language_key":"ka","name":"ბარინასი"}
+{"id":355762285,"city_id":4620290,"language_key":"ka","name":"ბარსელონა"}
+{"id":355763132,"city_id":4620301,"language_key":"ka","name":"ბარბაკოასი"}
+{"id":355763363,"city_id":4620304,"language_key":"ka","name":"ბარბაკოასი"}
+{"id":355767059,"city_id":4620352,"language_key":"ka","name":"ბეილადორები"}
+{"id":355767444,"city_id":4620357,"language_key":"ka","name":"ბაჩაკერო"}
+{"id":355771140,"city_id":4620405,"language_key":"ka","name":"ელ ბატეი"}
+{"id":355771294,"city_id":4620407,"language_key":"ka","name":"არისმენდი"}
+{"id":355771371,"city_id":4620408,"language_key":"ka","name":"არისმენდი"}
+{"id":355771910,"city_id":4620415,"language_key":"ka","name":"არიჩუნა"}
+{"id":355771987,"city_id":4620416,"language_key":"ka","name":"არიკაგუა"}
+{"id":355772064,"city_id":4620417,"language_key":"ka","name":"არიკაგუა"}
+{"id":355773296,"city_id":4620433,"language_key":"ka","name":"არენები"}
+{"id":355773835,"city_id":4620440,"language_key":"ka","name":"არეგუ"}
+{"id":355774220,"city_id":4620445,"language_key":"ka","name":"არაია"}
+{"id":355774528,"city_id":4620449,"language_key":"ka","name":"არაურე"}
+{"id":355774605,"city_id":4620450,"language_key":"ka","name":"არაუკიტა"}
+{"id":355775837,"city_id":4620466,"language_key":"ka","name":"არაირა"}
+{"id":355776761,"city_id":4620478,"language_key":"ka","name":"არაგუა"}
+{"id":355776838,"city_id":4620479,"language_key":"ka","name":"არაგუა დე ბარსელონა"}
+{"id":355777839,"city_id":4620492,"language_key":"ka","name":"აპარტადეროსი"}
+{"id":355778686,"city_id":4620503,"language_key":"ka","name":"ანზოატეგი"}
+{"id":355784538,"city_id":4620579,"language_key":"ka","name":"ალტამირა"}
+{"id":355784769,"city_id":4620582,"language_key":"ka","name":"ალტაგრასია დე ორიტუკო"}
+{"id":355784846,"city_id":4620583,"language_key":"ka","name":"ალტაგრასია დე ლა მონტანა"}
+{"id":355784923,"city_id":4620584,"language_key":"ka","name":"ალტაგრაცია"}
+{"id":355785000,"city_id":4620585,"language_key":"ka","name":"ლოს პუერტოს დე ალტაგრაცია"}
+{"id":355787002,"city_id":4620611,"language_key":"ka","name":"ელ ალგარრობო"}
+{"id":355788773,"city_id":4620634,"language_key":"ka","name":"აგეიმა"}
+{"id":355789928,"city_id":4620649,"language_key":"ka","name":"აგუასაი"}
+{"id":355790005,"city_id":4620650,"language_key":"ka","name":"აგუა სანტა"}
+{"id":355794009,"city_id":4620702,"language_key":"ka","name":"აგუადა გრანდე"}
+{"id":355798244,"city_id":4620757,"language_key":"ka","name":"ადიკორა"}
+{"id":355798783,"city_id":4620764,"language_key":"ka","name":"აჩაგუასი"}
+{"id":355798860,"city_id":4620765,"language_key":"ka","name":"ასევედოს მუნიციპალიტეტი"}
+{"id":355799476,"city_id":4620773,"language_key":"ka","name":"აკარიგუა"}
+{"id":355800092,"city_id":4620781,"language_key":"ka","name":"აბეჯალესი"}
+{"id":355803634,"city_id":4620827,"language_key":"ka","name":"ლას-მესასი"}
+{"id":355806791,"city_id":4620868,"language_key":"ka","name":"ლა იდეა"}
+{"id":355806868,"city_id":4620869,"language_key":"ka","name":"სან ხოსე დე ბოლივარი"}
+{"id":355817109,"city_id":4621002,"language_key":"ka","name":"კამპო ბერნალი"}
+{"id":355822730,"city_id":4621075,"language_key":"ka","name":"სან პედრო"}
+{"id":355825271,"city_id":4621108,"language_key":"ka","name":"პინანგო"}
+{"id":355826965,"city_id":4621130,"language_key":"ka","name":"ელ აგუაკატიკო"}
+{"id":355828351,"city_id":4621148,"language_key":"ka","name":"ლოს ვეგოტესი"}
+{"id":355831354,"city_id":4621187,"language_key":"ka","name":"ელ მანგუიტო"}
+{"id":355831739,"city_id":4621192,"language_key":"ka","name":"ლას დელისიასი"}
+{"id":355832047,"city_id":4621196,"language_key":"ka","name":"დაკრეტინი"}
+{"id":355834049,"city_id":4621222,"language_key":"ka","name":"გარსია"}
+{"id":355835435,"city_id":4621240,"language_key":"ka","name":"ელ პიტალი"}
+{"id":355850604,"city_id":4621437,"language_key":"ka","name":"ბატატალი"}
+{"id":355851374,"city_id":4621447,"language_key":"ka","name":"ელ პერენო"}
+{"id":355852760,"city_id":4621465,"language_key":"ka","name":"მიაგეიტო"}
+{"id":355853145,"city_id":4621470,"language_key":"ka","name":"ლოს კოჩინოსი"}
+{"id":355862847,"city_id":4621596,"language_key":"ka","name":"პოზო ვერდე"}
+{"id":355865388,"city_id":4621629,"language_key":"ka","name":"სედენიოს მუნიციპალიტეტი"}
+{"id":355870393,"city_id":4621694,"language_key":"ka","name":"ელ პოზონი"}
+{"id":355874320,"city_id":4621745,"language_key":"ka","name":"ლოს პატოსი"}
+{"id":355881558,"city_id":4621839,"language_key":"ka","name":"პასო რეალი"}
+{"id":355882097,"city_id":4621846,"language_key":"ka","name":"კამპო სოლო"}
+{"id":355887410,"city_id":4621915,"language_key":"ka","name":"ლოს მერეიესი"}
+{"id":355896958,"city_id":4622039,"language_key":"ka","name":"სოუსედო"}
+{"id":355901347,"city_id":4622096,"language_key":"ka","name":"ზამბრანო"}
+{"id":355902579,"city_id":4622112,"language_key":"ka","name":"ელ ტრიუნფო"}
+{"id":355926680,"city_id":4622425,"language_key":"ka","name":"სანტა რიტა"}
+{"id":355944621,"city_id":4622658,"language_key":"ka","name":"ლა თაზა"}
+{"id":355953707,"city_id":4622776,"language_key":"ka","name":"ელ ზორო"}
+{"id":355958096,"city_id":4622833,"language_key":"ka","name":"პატოს გუაიბალი"}
+{"id":355958789,"city_id":4622842,"language_key":"ka","name":"ისლა რატონი"}
+{"id":355963409,"city_id":4622902,"language_key":"ka","name":"პედრაზა"}
+{"id":355973958,"city_id":4623039,"language_key":"ka","name":"პუებლო ნუევო"}
+{"id":355978963,"city_id":4623104,"language_key":"ka","name":"სან ხოსეციტო"}
+{"id":355979348,"city_id":4623109,"language_key":"ka","name":"ურიბანტე"}
+{"id":355987895,"city_id":4623220,"language_key":"ka","name":"ლას ლანადასი"}
+{"id":355991591,"city_id":4623268,"language_key":"ka","name":"კორდერო"}
+{"id":356003680,"city_id":4623425,"language_key":"ka","name":"პასო ლარგო"}
+{"id":356010379,"city_id":4623512,"language_key":"ka","name":"სიერა იმატაკა"}
+{"id":356013382,"city_id":4623551,"language_key":"ka","name":"მერეჯინა"}
+{"id":356014075,"city_id":4623560,"language_key":"ka","name":"ლას ნავასი"}
+{"id":356023392,"city_id":4623681,"language_key":"ka","name":"ელ რეკრეო"}
+{"id":356032940,"city_id":4623805,"language_key":"ka","name":"ლოს პოზოტესი"}
+{"id":356038638,"city_id":4623879,"language_key":"ka","name":"ლას მარგარიტასი"}
+{"id":356054577,"city_id":4624086,"language_key":"ka","name":"ლას ტინახასი"}
+{"id":356056887,"city_id":4624116,"language_key":"ka","name":"ლა ჰონდა"}
+{"id":356058350,"city_id":4624135,"language_key":"ka","name":"ვილა არაურე უნო"}
+{"id":356061199,"city_id":4624172,"language_key":"ka","name":"ელ პიკური"}
+{"id":356061815,"city_id":4624180,"language_key":"ka","name":"ლა ლუზი"}
+{"id":356070593,"city_id":4624294,"language_key":"ka","name":"კუჯიციტო"}
+{"id":356080064,"city_id":4624417,"language_key":"ka","name":"პიედრას ნეგრასი"}
+{"id":356082066,"city_id":4624443,"language_key":"ka","name":"ელ რინკონი"}
+{"id":356083375,"city_id":4624460,"language_key":"ka","name":"სან ფელიქსი"}
+{"id":356094232,"city_id":4624601,"language_key":"ka","name":"მამონალი"}
+{"id":356097697,"city_id":4624646,"language_key":"ka","name":"სან ხოსე დე გუარიბე"}
+{"id":356098159,"city_id":4624652,"language_key":"ka","name":"სანტა რიტა"}
+{"id":356111711,"city_id":4624828,"language_key":"ka","name":"ელ ჰუესო"}
+{"id":356114791,"city_id":4624868,"language_key":"ka","name":"მატურინი"}
+{"id":356117717,"city_id":4624906,"language_key":"ka","name":"ელ პასო დე ლოს ინდიოსი"}
+{"id":356120335,"city_id":4624940,"language_key":"ka","name":"ლა რეკამარა"}
+{"id":356128574,"city_id":4625047,"language_key":"ka","name":"პალმასოლა"}
+{"id":356141125,"city_id":4625210,"language_key":"ka","name":"ტურენი"}
+{"id":356144128,"city_id":4625249,"language_key":"ka","name":"ლა აგუადა"}
+{"id":356144205,"city_id":4625250,"language_key":"ka","name":"ლა აგუადა"}
+{"id":356146669,"city_id":4625282,"language_key":"ka","name":"ლა რეფორმა"}
+{"id":356157141,"city_id":4625418,"language_key":"ka","name":"გუარიკაპო"}
+{"id":356162146,"city_id":4625483,"language_key":"ka","name":"კამპო ლარა"}
+{"id":356165072,"city_id":4625521,"language_key":"ka","name":"კილომეტრი ვიენტიდო"}
+{"id":356174543,"city_id":4625644,"language_key":"ka","name":"ელ პაჟონი"}
+{"id":356180241,"city_id":4625718,"language_key":"ka","name":"ლას დელისიასი"}
+{"id":356180472,"city_id":4625721,"language_key":"ka","name":"ლა ფრია"}
+{"id":356180703,"city_id":4625724,"language_key":"ka","name":"ლა გრიტა"}
+{"id":356181704,"city_id":4625737,"language_key":"ka","name":"კაპაჩო ნუევო"}
+{"id":356186170,"city_id":4625795,"language_key":"ka","name":"ლას უერტასი"}
+{"id":356188326,"city_id":4625823,"language_key":"ka","name":"ლა ტენდიდა"}
+{"id":356197720,"city_id":4625945,"language_key":"ka","name":"კუესტა აბახო"}
+{"id":356204188,"city_id":4626029,"language_key":"ka","name":"ლუსია"}
+{"id":356215892,"city_id":4626181,"language_key":"ka","name":"ლოს პოზოს აფუერა"}
+{"id":356223130,"city_id":4626275,"language_key":"ka","name":"რიო სან პედრო"}
+{"id":356223977,"city_id":4626286,"language_key":"ka","name":"სანტა ელენა"}
+{"id":356227673,"city_id":4626334,"language_key":"ka","name":"ლა ვალერიანა"}
+{"id":356228443,"city_id":4626344,"language_key":"ka","name":"ლას-ვეგასი"}
+{"id":356234911,"city_id":4626428,"language_key":"ka","name":"ჩაკოპატა"}
+{"id":356235450,"city_id":4626435,"language_key":"ka","name":"ჩიპიჩიპე"}
+{"id":356241995,"city_id":4626520,"language_key":"ka","name":"აგუა ბლანკა"}
+{"id":356247077,"city_id":4626586,"language_key":"ka","name":"ლას დელისიასი"}
+{"id":356249464,"city_id":4626617,"language_key":"ka","name":"ლა ისლა"}
+{"id":356254623,"city_id":4626684,"language_key":"ka","name":"ლა პლეია"}
+{"id":356258858,"city_id":4626739,"language_key":"ka","name":"ლა სილეტა"}
+{"id":356260937,"city_id":4626766,"language_key":"ka","name":"არაპუეი"}
+{"id":356261168,"city_id":4626769,"language_key":"ka","name":"ელ ბატეი"}
+{"id":356263940,"city_id":4626805,"language_key":"ka","name":"მაკაპო"}
+{"id":356273796,"city_id":4626933,"language_key":"ka","name":"ლა კონკორდია"}
+{"id":356277107,"city_id":4626976,"language_key":"ka","name":"მანრიკე"}
+{"id":356283652,"city_id":4627061,"language_key":"ka","name":"კავკაგუიტა"}
+{"id":356283729,"city_id":4627062,"language_key":"ka","name":"ლა სეიბა"}
+{"id":356293893,"city_id":4627194,"language_key":"ka","name":"ტოტუმიტო"}
+{"id":356297589,"city_id":4627242,"language_key":"ka","name":"გუასდუალიტო"}
+{"id":356298590,"city_id":4627255,"language_key":"ka","name":"ლას მერსედესი"}
+{"id":356300361,"city_id":4627278,"language_key":"ka","name":"სან-ფერნანდო-დე-აპურე"}
+{"id":356300592,"city_id":4627281,"language_key":"ka","name":"სან ხუან დე პაირა"}
+{"id":356315915,"city_id":4627480,"language_key":"ka","name":"სან სებასტიანი"}
+{"id":356317609,"city_id":4627502,"language_key":"ka","name":"ტურმერიტო"}
+{"id":356318148,"city_id":4627509,"language_key":"ka","name":"ვარადერო"}
+{"id":356345406,"city_id":4627863,"language_key":"ka","name":"მანდიგალი"}
+{"id":356354646,"city_id":4627983,"language_key":"ka","name":"ელ პილონი"}
+{"id":356359343,"city_id":4628044,"language_key":"ka","name":"ელ როდეო"}
+{"id":356372279,"city_id":4628212,"language_key":"ka","name":"ელ დიარიო დე იარაკუი"}
+{"id":356372818,"city_id":4628219,"language_key":"ka","name":"ინდეპენდენსია"}
+{"id":356372972,"city_id":4628221,"language_key":"ka","name":"ინდეპენდენსია"}
+{"id":356376514,"city_id":4628267,"language_key":"ka","name":"ელ ჯუნკო"}
+{"id":356377592,"city_id":4628281,"language_key":"ka","name":"მარიზაპა"}
+{"id":356381365,"city_id":4628330,"language_key":"ka","name":"გარსია დე ჰევიას მუნიციპალიტეტი"}

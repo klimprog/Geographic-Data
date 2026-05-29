@@ -1,0 +1,976 @@
+{"id":232307616,"city_id":3016983,"language_key":"am","name":"ሮዛጄ"}
+{"id":232307693,"city_id":3016984,"language_key":"am","name":"ራዴቲና"}
+{"id":232307770,"city_id":3016985,"language_key":"am","name":"ፖሮካ"}
+{"id":232308309,"city_id":3016992,"language_key":"am","name":"ኢባራክ"}
+{"id":232308386,"city_id":3016993,"language_key":"am","name":"ግራሆቮ"}
+{"id":232309310,"city_id":3017005,"language_key":"am","name":"ባክ"}
+{"id":232309541,"city_id":3017008,"language_key":"am","name":"ቦቫን"}
+{"id":232309618,"city_id":3017009,"language_key":"am","name":"ዶሊና"}
+{"id":232310157,"city_id":3017016,"language_key":"am","name":"ዶንጃ ሎቪኒካ"}
+{"id":232310465,"city_id":3017020,"language_key":"am","name":"ፕሉምቺ"}
+{"id":232310619,"city_id":3017022,"language_key":"am","name":"ሃሊሎቪች"}
+{"id":232310696,"city_id":3017023,"language_key":"am","name":"ዱቦቪክ"}
+{"id":232310850,"city_id":3017025,"language_key":"am","name":"ኮፒልጃካ [ታሪካዊ]"}
+{"id":232310927,"city_id":3017026,"language_key":"am","name":"ስሬዳኒ"}
+{"id":232311543,"city_id":3017034,"language_key":"am","name":null}
+{"id":232311620,"city_id":3017035,"language_key":"am","name":"ኮልጄኖ"}
+{"id":232311697,"city_id":3017036,"language_key":"am","name":"ቪስጂሴ"}
+{"id":232311774,"city_id":3017037,"language_key":"am","name":"ዶንጂ ቤስኒክ"}
+{"id":232311851,"city_id":3017038,"language_key":"am","name":"ድዙድዘቪጭ"}
+{"id":232312236,"city_id":3017043,"language_key":"am","name":"ሴኦስኒካ"}
+{"id":232312313,"city_id":3017044,"language_key":"am","name":"ቱዜቫ ሉካ"}
+{"id":232312544,"city_id":3017047,"language_key":"am","name":"ካካሪ"}
+{"id":232312852,"city_id":3017051,"language_key":"am","name":"ድራጭኖቫች"}
+{"id":232313391,"city_id":3017058,"language_key":"am","name":"ዙፕሲ"}
+{"id":232313468,"city_id":3017059,"language_key":"am","name":"ዙኮቪካ"}
+{"id":232313545,"city_id":3017060,"language_key":"am","name":"ዞጋንጅ"}
+{"id":232313853,"city_id":3017064,"language_key":"am","name":"ቤዚርቺ"}
+{"id":232313930,"city_id":3017065,"language_key":"am","name":"ዚዶቪቺ"}
+{"id":232314007,"city_id":3017066,"language_key":"am","name":"ዘሌኒካ"}
+{"id":232314238,"city_id":3017069,"language_key":"am","name":"ዛንኮቪቺ"}
+{"id":232314392,"city_id":3017071,"language_key":"am","name":"ዛልጄቮ"}
+{"id":232314546,"city_id":3017073,"language_key":"am","name":"ዛግሬድ"}
+{"id":232314700,"city_id":3017075,"language_key":"am","name":"ዛጎራ"}
+{"id":232315085,"city_id":3017080,"language_key":"am","name":"ዛብልያክ"}
+{"id":232315162,"city_id":3017081,"language_key":"am","name":"ቩሳንጄ"}
+{"id":232315316,"city_id":3017083,"language_key":"am","name":null}
+{"id":232315701,"city_id":3017088,"language_key":"am","name":"ቭሬላ"}
+{"id":232315778,"city_id":3017089,"language_key":"am","name":"ጎርንጃ ቭርብቻ"}
+{"id":232315932,"city_id":3017091,"language_key":"am","name":"ቦታ"}
+{"id":232316086,"city_id":3017093,"language_key":"am","name":"ቫራንጂና"}
+{"id":232316163,"city_id":3017094,"language_key":"am","name":"ቭራንጅ"}
+{"id":232316625,"city_id":3017100,"language_key":"am","name":"ቭላድኒ"}
+{"id":232316856,"city_id":3017103,"language_key":"am","name":"ቪስኔቮ"}
+{"id":232317010,"city_id":3017105,"language_key":"am","name":"ቪኒካ"}
+{"id":232317087,"city_id":3017106,"language_key":"am","name":"ቪኒካ"}
+{"id":232317241,"city_id":3017108,"language_key":"am","name":"ቪሉሲ"}
+{"id":232317472,"city_id":3017111,"language_key":"am","name":"ቬልጄ ሴሎ"}
+{"id":232317549,"city_id":3017112,"language_key":"am","name":"ቬልጄ ሴሎ"}
+{"id":232317780,"city_id":3017115,"language_key":"am","name":"ቫስኮቮ"}
+{"id":232318088,"city_id":3017119,"language_key":"am","name":"ኡልፂንጅ"}
+{"id":232318242,"city_id":3017121,"language_key":"am","name":"ኡንጂ"}
+{"id":232318319,"city_id":3017122,"language_key":"am","name":"ኡብሊ"}
+{"id":232318396,"city_id":3017123,"language_key":"am","name":"ኡብሊ"}
+{"id":232318704,"city_id":3017127,"language_key":"am","name":"ቱዚ"}
+{"id":232318781,"city_id":3017128,"language_key":"am","name":"ቱዚ"}
+{"id":232319012,"city_id":3017131,"language_key":"am","name":"ቱዴሚሊ"}
+{"id":232319089,"city_id":3017132,"language_key":"am","name":"ቱካንጄ"}
+{"id":232319320,"city_id":3017135,"language_key":"am","name":"ትሮኖቮ"}
+{"id":232319551,"city_id":3017138,"language_key":"am","name":"ትሬስኔቮ"}
+{"id":232319782,"city_id":3017141,"language_key":"am","name":"ትሬቤሲንጅ"}
+{"id":232319859,"city_id":3017142,"language_key":"am","name":"ትራቦይን"}
+{"id":232320013,"city_id":3017144,"language_key":"am","name":"ቶምባ"}
+{"id":232320090,"city_id":3017145,"language_key":"am","name":"ቶማሴቮ"}
+{"id":232320244,"city_id":3017147,"language_key":"am","name":"ቲቫት"}
+{"id":232320475,"city_id":3017150,"language_key":"am","name":"ተጃኒ"}
+{"id":232320552,"city_id":3017151,"language_key":"am","name":"ስቬቲ ስቴፋን"}
+{"id":232320706,"city_id":3017153,"language_key":"am","name":"ሱትቫራ"}
+{"id":232320783,"city_id":3017154,"language_key":"am","name":"ሱቶሞር"}
+{"id":232320860,"city_id":3017155,"language_key":"am","name":"ሱቶሞር"}
+{"id":232321014,"city_id":3017157,"language_key":"am","name":"ሱሱንጃ"}
+{"id":232321091,"city_id":3017158,"language_key":"am","name":"ሱሴፓን"}
+{"id":232321168,"city_id":3017159,"language_key":"am","name":"ሱስፓን"}
+{"id":232321245,"city_id":3017160,"language_key":"am","name":"ዶንጄ ሱሜ"}
+{"id":232321399,"city_id":3017162,"language_key":"am","name":"ሱኮቢን"}
+{"id":232321630,"city_id":3017165,"language_key":"am","name":"ስቱብ"}
+{"id":232321784,"city_id":3017167,"language_key":"am","name":"ስትሮጅቴኒካ"}
+{"id":232321861,"city_id":3017168,"language_key":"am","name":"ስትራሂኒቺ"}
+{"id":232322092,"city_id":3017171,"language_key":"am","name":"ስቴዲም"}
+{"id":232322169,"city_id":3017172,"language_key":"am","name":"ስታሮ ሴሎ"}
+{"id":232322246,"city_id":3017173,"language_key":"am","name":"ስታርሪ ባር"}
+{"id":232322323,"city_id":3017174,"language_key":"am","name":"ስታኒሴሊሲ"}
+{"id":232322477,"city_id":3017176,"language_key":"am","name":"ስርፕስቃ"}
+{"id":232322554,"city_id":3017177,"language_key":"am","name":"ስሬትንጃ"}
+{"id":232322708,"city_id":3017179,"language_key":"am","name":"ስፑዝ"}
+{"id":232322785,"city_id":3017180,"language_key":"am","name":"ስፒንጃ"}
+{"id":232322862,"city_id":3017181,"language_key":"am","name":"ሶባይቺ"}
+{"id":232323170,"city_id":3017185,"language_key":"am","name":"ስሉኬ"}
+{"id":232323324,"city_id":3017187,"language_key":"am","name":"ስላቲና"}
+{"id":232323709,"city_id":3017192,"language_key":"am","name":"ስጄኖዜታ"}
+{"id":232323786,"city_id":3017193,"language_key":"am","name":"ስጀሮጎስተ"}
+{"id":232324479,"city_id":3017202,"language_key":"am","name":"ሳቭኒክ"}
+{"id":232324556,"city_id":3017203,"language_key":"am","name":"ሳቭኒክ"}
+{"id":232324633,"city_id":3017204,"language_key":"am","name":"ሳሶቪቺ"}
+{"id":232324710,"city_id":3017205,"language_key":"am","name":"ሳስ"}
+{"id":232325480,"city_id":3017215,"language_key":"am","name":"ሪሳን"}
+{"id":232325557,"city_id":3017216,"language_key":"am","name":"ርጀቃ ችርኖጀቪጫ"}
+{"id":232325634,"city_id":3017217,"language_key":"am","name":"ሪጀካኒ"}
+{"id":232325711,"city_id":3017218,"language_key":"am","name":"ረስኒክ"}
+{"id":232326019,"city_id":3017222,"language_key":"am","name":"ራቲሴቪና"}
+{"id":232326096,"city_id":3017223,"language_key":"am","name":"ራስቶቫክ"}
+{"id":232326250,"city_id":3017225,"language_key":"am","name":"ራኮንጄ"}
+{"id":232326481,"city_id":3017228,"language_key":"am","name":"ራዶቪቺ"}
+{"id":232327020,"city_id":3017235,"language_key":"am","name":"ፕሮቫሊጃ"}
+{"id":232327174,"city_id":3017237,"language_key":"am","name":"ፕርኮሳቫ"}
+{"id":232327251,"city_id":3017238,"language_key":"am","name":"ፕሪሶጃ"}
+{"id":232327328,"city_id":3017239,"language_key":"am","name":"ፕሪሶጃ"}
+{"id":232327405,"city_id":3017240,"language_key":"am","name":"ፕሪፕሲሲ"}
+{"id":232327482,"city_id":3017241,"language_key":"am","name":"ፕርጀቭኦር"}
+{"id":232327790,"city_id":3017245,"language_key":"am","name":"ፕሪፍታ"}
+{"id":232327944,"city_id":3017247,"language_key":"am","name":"ፕሬቭላካ"}
+{"id":232328021,"city_id":3017248,"language_key":"am","name":"ፕሬቪስ"}
+{"id":232328098,"city_id":3017249,"language_key":"am","name":"ፕሪንቲን ዶ"}
+{"id":232328252,"city_id":3017251,"language_key":"am","name":"ፕርካንጅ"}
+{"id":232328329,"city_id":3017252,"language_key":"am","name":"ፕራሲካ"}
+{"id":232328560,"city_id":3017255,"language_key":"am","name":"ፖዘጊንጃ"}
+{"id":232328637,"city_id":3017256,"language_key":"am","name":"ዶንጃ ፖቪጃ"}
+{"id":232328791,"city_id":3017258,"language_key":"am","name":"ፖትክራጅሲ"}
+{"id":232328868,"city_id":3017259,"language_key":"am","name":"ፖሰንጄ"}
+{"id":232329022,"city_id":3017261,"language_key":"am","name":"ፖናሪ"}
+{"id":232329099,"city_id":3017262,"language_key":"am","name":"ፖናሪ"}
+{"id":232329253,"city_id":3017264,"language_key":"am","name":"ፖልጄ"}
+{"id":232329330,"city_id":3017265,"language_key":"am","name":"ፖልጄ"}
+{"id":232329638,"city_id":3017269,"language_key":"am","name":"ፖዲ"}
+{"id":232329715,"city_id":3017270,"language_key":"am","name":"ፖቱም"}
+{"id":232329792,"city_id":3017271,"language_key":"am","name":"ፖድጎሪጻ"}
+{"id":232329946,"city_id":3017273,"language_key":"am","name":"ፖዳ"}
+{"id":232330177,"city_id":3017276,"language_key":"am","name":"ፕሉዚን"}
+{"id":232330254,"city_id":3017277,"language_key":"am","name":"ፕላቭ"}
+{"id":232330331,"city_id":3017278,"language_key":"am","name":"ፕላቭ"}
+{"id":232330485,"city_id":3017280,"language_key":"am","name":"ፒስቱላ"}
+{"id":232330562,"city_id":3017281,"language_key":"am","name":"ፒካልጃ"}
+{"id":232330793,"city_id":3017284,"language_key":"am","name":"ፔትሮቫክ እና ሞሩ"}
+{"id":232330870,"city_id":3017285,"language_key":"am","name":"ፔትጂክ"}
+{"id":232330947,"city_id":3017286,"language_key":"am","name":"ፔስካ"}
+{"id":232331024,"city_id":3017287,"language_key":"am","name":"ጰራስት"}
+{"id":232331101,"city_id":3017288,"language_key":"am","name":"ፔሊንኮቪቺ"}
+{"id":232331178,"city_id":3017289,"language_key":"am","name":"ፔሌቭ ብሪጄግ"}
+{"id":232331255,"city_id":3017290,"language_key":"am","name":"ጴቹርቼ"}
+{"id":232331640,"city_id":3017295,"language_key":"am","name":"ፓፓኒ"}
+{"id":232331794,"city_id":3017297,"language_key":"am","name":"ኦዝሪኒቺ"}
+{"id":232332025,"city_id":3017300,"language_key":"am","name":"ኦቶቺቺ"}
+{"id":232332256,"city_id":3017303,"language_key":"am","name":"ኦርሊክ"}
+{"id":232332333,"city_id":3017304,"language_key":"am","name":"ኦርጃ ሉካ"}
+{"id":232332564,"city_id":3017307,"language_key":"am","name":"ዶንጂ ኦራሆቫች"}
+{"id":232332872,"city_id":3017311,"language_key":"am","name":"ኦብሮቭ"}
+{"id":232332949,"city_id":3017312,"language_key":"am","name":"ኦብሮቭ"}
+{"id":232333103,"city_id":3017314,"language_key":"am","name":"ኦብላትኖ"}
+{"id":232333180,"city_id":3017315,"language_key":"am","name":"ካቱኒስቴ"}
+{"id":232333257,"city_id":3017316,"language_key":"am","name":"ኖሲቺ"}
+{"id":232333334,"city_id":3017317,"language_key":"am","name":"ንጀጉሲ"}
+{"id":232333411,"city_id":3017318,"language_key":"am","name":"ኒክሲክ"}
+{"id":232333488,"city_id":3017319,"language_key":"am","name":"ኒክሲክ"}
+{"id":232333565,"city_id":3017320,"language_key":"am","name":"ኒክ ማራ"}
+{"id":232333642,"city_id":3017321,"language_key":"am","name":"ነዳኩሲ"}
+{"id":232333719,"city_id":3017322,"language_key":"am","name":"ንዳጃኖ"}
+{"id":232333950,"city_id":3017325,"language_key":"am","name":"ሙሪኖ"}
+{"id":232334027,"city_id":3017326,"language_key":"am","name":"ሙኦ"}
+{"id":232334258,"city_id":3017329,"language_key":"am","name":"ሚርሴቫክ"}
+{"id":232334335,"city_id":3017330,"language_key":"am","name":"ሞቲክኪ ጋጅ"}
+{"id":232334412,"city_id":3017331,"language_key":"am","name":"ዶንጄ ሞራኮቮ"}
+{"id":232334489,"city_id":3017332,"language_key":"am","name":"ሞራይስ"}
+{"id":232334720,"city_id":3017335,"language_key":"am","name":"ሞክሮ"}
+{"id":232334951,"city_id":3017338,"language_key":"am","name":"ሞጅኮቫች"}
+{"id":232335028,"city_id":3017339,"language_key":"am","name":"ሞጃኖቪቺ"}
+{"id":232335105,"city_id":3017340,"language_key":"am","name":null}
+{"id":232335182,"city_id":3017341,"language_key":"am","name":"ሚሲሲ"}
+{"id":232335336,"city_id":3017343,"language_key":"am","name":"ሚሎቪቺ"}
+{"id":232335413,"city_id":3017344,"language_key":"am","name":"ሚሎቪቺ"}
+{"id":232335490,"city_id":3017345,"language_key":"am","name":"ሚሎቪቺ"}
+{"id":232335798,"city_id":3017349,"language_key":"am","name":"ሚድ"}
+{"id":232335875,"city_id":3017350,"language_key":"am","name":"መዝጋልጂ"}
+{"id":232336183,"city_id":3017354,"language_key":"am","name":"ማቴሴቮ"}
+{"id":232336260,"city_id":3017355,"language_key":"am","name":"ማቴሴቮ"}
+{"id":232336337,"city_id":3017356,"language_key":"am","name":"ማርቲኖቪች"}
+{"id":232336414,"city_id":3017357,"language_key":"am","name":"ማርቲኖቪስ"}
+{"id":232336645,"city_id":3017360,"language_key":"am","name":"ማሌንዛ"}
+{"id":232336722,"city_id":3017361,"language_key":"am","name":"ማሌንዛ"}
+{"id":232336799,"city_id":3017362,"language_key":"am","name":"ማላ ጎራና"}
+{"id":232336953,"city_id":3017364,"language_key":"am","name":"ማሃላ"}
+{"id":232337184,"city_id":3017367,"language_key":"am","name":"ዶንጂ ሉዛክ"}
+{"id":232337338,"city_id":3017369,"language_key":"am","name":"ሉብኒስ"}
+{"id":232337415,"city_id":3017370,"language_key":"am","name":"ሎዝና"}
+{"id":232337723,"city_id":3017374,"language_key":"am","name":"ሊቫሪ"}
+{"id":232337800,"city_id":3017375,"language_key":"am","name":"ሊቫሪ"}
+{"id":232338031,"city_id":3017378,"language_key":"am","name":"ሊፕሲ"}
+{"id":232338416,"city_id":3017383,"language_key":"am","name":"ሌፔናክ"}
+{"id":232338493,"city_id":3017384,"language_key":"am","name":"ሌፔናክ"}
+{"id":232338570,"city_id":3017385,"language_key":"am","name":"ለኦቭኦ በርዶ"}
+{"id":232338647,"city_id":3017386,"language_key":"am","name":"ሌኪቺ"}
+{"id":232338878,"city_id":3017389,"language_key":"am","name":"ላዛርቭ ክሬስት"}
+{"id":232339109,"city_id":3017392,"language_key":"am","name":"ኩቲ"}
+{"id":232339186,"city_id":3017393,"language_key":"am","name":"ኩቲ"}
+{"id":232339263,"city_id":3017394,"language_key":"am","name":"ኩሪሎ"}
+{"id":232339417,"city_id":3017396,"language_key":"am","name":"ኩናክ"}
+{"id":232339571,"city_id":3017398,"language_key":"am","name":"ኩጃቫ"}
+{"id":232339879,"city_id":3017402,"language_key":"am","name":"ክሩታ"}
+{"id":232340033,"city_id":3017404,"language_key":"am","name":"ክሩሴቮ"}
+{"id":232340110,"city_id":3017405,"language_key":"am","name":"ክሩሴቮ"}
+{"id":232340187,"city_id":3017406,"language_key":"am","name":"ክሩሴቪስ"}
+{"id":232340341,"city_id":3017408,"language_key":"am","name":"ክሩስ"}
+{"id":232340880,"city_id":3017415,"language_key":"am","name":"ክራሲቺ"}
+{"id":232340957,"city_id":3017416,"language_key":"am","name":"ክራጅጂ ዶ"}
+{"id":232341188,"city_id":3017419,"language_key":"am","name":"ኮቶር"}
+{"id":232341265,"city_id":3017420,"language_key":"am","name":"ኮቶር"}
+{"id":232341496,"city_id":3017423,"language_key":"am","name":"ኮስታኒካ"}
+{"id":232341881,"city_id":3017428,"language_key":"am","name":"ኮርኔት"}
+{"id":232342189,"city_id":3017432,"language_key":"am","name":"ኮማርኖ"}
+{"id":232342266,"city_id":3017433,"language_key":"am","name":"ኮላሲን"}
+{"id":232342343,"city_id":3017434,"language_key":"am","name":"ኮላሲን"}
+{"id":232342882,"city_id":3017441,"language_key":"am","name":"ካንጄ"}
+{"id":232342959,"city_id":3017442,"language_key":"am","name":"ካሜኖ"}
+{"id":232343806,"city_id":3017453,"language_key":"am","name":"ጃቡካ"}
+{"id":232344191,"city_id":3017458,"language_key":"am","name":"ብራውኔል"}
+{"id":232344268,"city_id":3017459,"language_key":"am","name":"ኢጋሎ"}
+{"id":232344345,"city_id":3017460,"language_key":"am","name":"ሄርሴግ ኖቪ"}
+{"id":232344576,"city_id":3017463,"language_key":"am","name":"ጉሲንጄ"}
+{"id":232344730,"city_id":3017465,"language_key":"am","name":"ግሩዳ"}
+{"id":232344807,"city_id":3017466,"language_key":"am","name":"ግርባቪሲ"}
+{"id":232345038,"city_id":3017469,"language_key":"am","name":"ግራዲና"}
+{"id":232345192,"city_id":3017471,"language_key":"am","name":"ግራዳኒ"}
+{"id":232345654,"city_id":3017477,"language_key":"am","name":"ጎስጢልጂ"}
+{"id":232345731,"city_id":3017478,"language_key":"am","name":"ጎስጢልጂ"}
+{"id":232345885,"city_id":3017480,"language_key":"am","name":"ጎሲቺ"}
+{"id":232346116,"city_id":3017483,"language_key":"am","name":"ጎርጂ ስቶጅ"}
+{"id":232346193,"city_id":3017484,"language_key":"am","name":"ጎርንጅ ርሶጀቪጭ"}
+{"id":232346270,"city_id":3017485,"language_key":"am","name":"ጎርጂ ኦራሆቫች"}
+{"id":232346501,"city_id":3017488,"language_key":"am","name":"ጎርጂ ኮኮቲ"}
+{"id":232347194,"city_id":3017497,"language_key":"am","name":"ጎሪካኒ"}
+{"id":232347271,"city_id":3017498,"language_key":"am","name":"ጎሉቦቪቺ"}
+{"id":232347348,"city_id":3017499,"language_key":"am","name":"ጎልጀማዲ"}
+{"id":232347502,"city_id":3017501,"language_key":"am","name":"ጎዲንጄ"}
+{"id":232347810,"city_id":3017505,"language_key":"am","name":"ዶንጂ ፍሩታክ"}
+{"id":232347964,"city_id":3017507,"language_key":"am","name":"ፋርማሲ"}
+{"id":232348118,"city_id":3017509,"language_key":"am","name":"ዱዚ"}
+{"id":232348195,"city_id":3017510,"language_key":"am","name":"ዳስኬ"}
+{"id":232348349,"city_id":3017512,"language_key":"am","name":"ዱሪሲ"}
+{"id":232348426,"city_id":3017513,"language_key":"am","name":"ዱራሴቪቺ"}
+{"id":232348503,"city_id":3017514,"language_key":"am","name":"ዱፒሎ"}
+{"id":232348580,"city_id":3017515,"language_key":"am","name":"ዱፒሎ"}
+{"id":232348734,"city_id":3017517,"language_key":"am","name":"ዱሊቺ"}
+{"id":232349427,"city_id":3017526,"language_key":"am","name":"ድሩሲሲ"}
+{"id":232349735,"city_id":3017530,"language_key":"am","name":"ድራጎቫ ሉካ"}
+{"id":232350120,"city_id":3017535,"language_key":"am","name":"ዶንጂ ስቶጅ"}
+{"id":232350197,"city_id":3017536,"language_key":"am","name":"ዶንጂ ስቶጅ"}
+{"id":232350274,"city_id":3017537,"language_key":"am","name":"ዶንጅ ርሶጀቪጭ"}
+{"id":232350351,"city_id":3017538,"language_key":"am","name":"ዶንጂ ሙሪቺ"}
+{"id":232350428,"city_id":3017539,"language_key":"am","name":"ዶንጂ ኮኮቲ"}
+{"id":232350505,"city_id":3017540,"language_key":"am","name":"ዶንጂ ኮኮቲ"}
+{"id":232350736,"city_id":3017543,"language_key":"am","name":"ዶንጃ ላስታቫ"}
+{"id":232350967,"city_id":3017546,"language_key":"am","name":"ዶላክ"}
+{"id":232351121,"city_id":3017548,"language_key":"am","name":"ዶዶሲ"}
+{"id":232351198,"city_id":3017549,"language_key":"am","name":"ዶብስኮ ሴሎ"}
+{"id":232351352,"city_id":3017551,"language_key":"am","name":"ዲኖሳ"}
+{"id":232351429,"city_id":3017552,"language_key":"am","name":"ዲኖሳ"}
+{"id":232351583,"city_id":3017554,"language_key":"am","name":"ዴናሲ"}
+{"id":232351660,"city_id":3017555,"language_key":"am","name":"ዴናሲ"}
+{"id":232351814,"city_id":3017557,"language_key":"am","name":"ዳርዛ"}
+{"id":232351891,"city_id":3017558,"language_key":"am","name":"ዳኒሎቭግራድ"}
+{"id":232351968,"city_id":3017559,"language_key":"am","name":"ዳሎቪቺ"}
+{"id":232352122,"city_id":3017561,"language_key":"am","name":"ዳጅባቤ"}
+{"id":232352199,"city_id":3017562,"language_key":"am","name":"ዳቤዚቺ"}
+{"id":232352276,"city_id":3017563,"language_key":"am","name":"ዳቤዚቺ"}
+{"id":232352738,"city_id":3017569,"language_key":"am","name":"ጎርንጅ ችርንጭ"}
+{"id":232352815,"city_id":3017570,"language_key":"am","name":"ክራንካ"}
+{"id":232353046,"city_id":3017573,"language_key":"am","name":"ሴቲንጄ"}
+{"id":232353277,"city_id":3017576,"language_key":"am","name":"ሴሉጋ"}
+{"id":232353431,"city_id":3017578,"language_key":"am","name":"ቡሮንጂ"}
+{"id":232353508,"city_id":3017579,"language_key":"am","name":"ቡኮቪክ"}
+{"id":232353739,"city_id":3017582,"language_key":"am","name":"ቡድቫ"}
+{"id":232353816,"city_id":3017583,"language_key":"am","name":"ቡስ"}
+{"id":232353970,"city_id":3017585,"language_key":"am","name":"ብርስኖ"}
+{"id":232354124,"city_id":3017587,"language_key":"am","name":"ብሪጄስቶቮ"}
+{"id":232354278,"city_id":3017589,"language_key":"am","name":"ብሬዚን"}
+{"id":232354432,"city_id":3017591,"language_key":"am","name":"ብርካ"}
+{"id":232354663,"city_id":3017594,"language_key":"am","name":"ብራጅሰ"}
+{"id":232354894,"city_id":3017597,"language_key":"am","name":"ቦቱን"}
+{"id":232354971,"city_id":3017598,"language_key":"am","name":"ቦሮንጂና"}
+{"id":232355125,"city_id":3017600,"language_key":"am","name":"ቦልጄቪቺ"}
+{"id":232355202,"city_id":3017601,"language_key":"am","name":"ቦልጄቪቺ"}
+{"id":232355279,"city_id":3017602,"language_key":"am","name":"ቦልጃኒና"}
+{"id":232355818,"city_id":3017609,"language_key":"am","name":"ቦጊሴቪቺ"}
+{"id":232355895,"city_id":3017610,"language_key":"am","name":"ቦጊሴቪቺ"}
+{"id":232356126,"city_id":3017613,"language_key":"am","name":"ቦቦቪስቴ"}
+{"id":232356203,"city_id":3017614,"language_key":"am","name":"ቦቦቪስቴ"}
+{"id":232356511,"city_id":3017618,"language_key":"am","name":"ብጄሎሲ"}
+{"id":232356819,"city_id":3017622,"language_key":"am","name":"ባዮስ"}
+{"id":232356896,"city_id":3017623,"language_key":"am","name":"ክሩሴቪስ"}
+{"id":232356973,"city_id":3017624,"language_key":"am","name":"ቢጄሎ ፖልጄ"}
+{"id":232357050,"city_id":3017625,"language_key":"am","name":"ቢጄሎ ፖልጄ"}
+{"id":232357127,"city_id":3017626,"language_key":"am","name":"ቢጄሎ ፖልጄ"}
+{"id":232357204,"city_id":3017627,"language_key":"am","name":"ቢጄላ"}
+{"id":232357281,"city_id":3017628,"language_key":"am","name":"ቢጎር"}
+{"id":232357358,"city_id":3017629,"language_key":"am","name":"ትልቅ"}
+{"id":232357435,"city_id":3017630,"language_key":"am","name":"ቤዙጄ"}
+{"id":232357589,"city_id":3017632,"language_key":"am","name":"ቤስ"}
+{"id":232357743,"city_id":3017634,"language_key":"am","name":"ቤሪስላቭቺ"}
+{"id":232357897,"city_id":3017636,"language_key":"am","name":"ቤሲቺ"}
+{"id":232358051,"city_id":3017638,"language_key":"am","name":"ባሬ ሱማኖቪካ"}
+{"id":232358128,"city_id":3017639,"language_key":"am","name":"ባዶ ሱማኖቪካ"}
+{"id":232358205,"city_id":3017640,"language_key":"am","name":"ቤራን ሴሎ"}
+{"id":232358282,"city_id":3017641,"language_key":"am","name":"ባር"}
+{"id":232358359,"city_id":3017642,"language_key":"am","name":"ባላባኒ"}
+{"id":232358436,"city_id":3017643,"language_key":"am","name":"ባላባኒ"}
+{"id":232358975,"city_id":3017650,"language_key":"am","name":"አንድሪጀቪትሳ"}
+{"id":232359052,"city_id":3017651,"language_key":"am","name":"አምቡላ"}
+{"id":232359283,"city_id":3017654,"language_key":"am","name":"ቶልጄቪና"}
+{"id":232359514,"city_id":3017657,"language_key":"am","name":"ስታጂስታ"}
+{"id":232359976,"city_id":3017663,"language_key":"am","name":"ሴኒሲስታ"}
+{"id":232361131,"city_id":3017678,"language_key":"am","name":"ባራ"}
+{"id":232361208,"city_id":3017679,"language_key":"am","name":"ኡማክ"}
+{"id":232361439,"city_id":3017682,"language_key":"am","name":"ሮጄቪቺ"}
+{"id":232361670,"city_id":3017685,"language_key":"am","name":"ጎርንጃ ስፒላ"}
+{"id":232361824,"city_id":3017687,"language_key":"am","name":"ዩኒጄሪና"}
+{"id":232362055,"city_id":3017690,"language_key":"am","name":"ሰቨልጅስክ ዶ"}
+{"id":232362363,"city_id":3017694,"language_key":"am","name":"ራማዲካ ዶ"}
+{"id":232362671,"city_id":3017698,"language_key":"am","name":"ስትርፕጫ"}
+{"id":232362902,"city_id":3017701,"language_key":"am","name":"ኩምቦር"}
+{"id":232363903,"city_id":3017714,"language_key":"am","name":"ተአምር"}
+{"id":232364365,"city_id":3017720,"language_key":"am","name":"ሴሎ"}
+{"id":232365443,"city_id":3017734,"language_key":"am","name":"ኩኮቪቺ"}
+{"id":232365751,"city_id":3017738,"language_key":"am","name":"ባሎቺ"}
+{"id":232365905,"city_id":3017740,"language_key":"am","name":"ዱሲቺ"}
+{"id":232366136,"city_id":3017743,"language_key":"am","name":"ራኪካ ኩሴ"}
+{"id":232366906,"city_id":3017753,"language_key":"am","name":"ክሪኒ ኑግሊ"}
+{"id":232367368,"city_id":3017759,"language_key":"am","name":"ጃሲኮቪካ"}
+{"id":232368061,"city_id":3017768,"language_key":"am","name":"ቪቲ ጄሰን"}
+{"id":232368138,"city_id":3017769,"language_key":"am","name":"ክሩግ"}
+{"id":232368215,"city_id":3017770,"language_key":"am","name":"ሜዴዴ"}
+{"id":232368292,"city_id":3017771,"language_key":"am","name":"ሳቪና ክሩስካ"}
+{"id":232368446,"city_id":3017773,"language_key":"am","name":"ሙስቴሮቪቺ"}
+{"id":232369370,"city_id":3017785,"language_key":"am","name":"ፒቲክ"}
+{"id":232369909,"city_id":3017792,"language_key":"am","name":"ፕሮሲካ"}
+{"id":232370910,"city_id":3017805,"language_key":"am","name":"ፔትኒካ"}
+{"id":232371141,"city_id":3017808,"language_key":"am","name":"ፖድቢስስ"}
+{"id":232371218,"city_id":3017809,"language_key":"am","name":"ራቭና ሪጄካ"}
+{"id":232372373,"city_id":3017824,"language_key":"am","name":"ዶብራ ሴላ"}
+{"id":232372758,"city_id":3017829,"language_key":"am","name":"ትሩሲና"}
+{"id":232373990,"city_id":3017845,"language_key":"am","name":"ሚኪ ዶ"}
+{"id":232374529,"city_id":3017852,"language_key":"am","name":"ሜትሪዝ"}
+{"id":232374837,"city_id":3017856,"language_key":"am","name":"ካኩኒካ"}
+{"id":232375299,"city_id":3017862,"language_key":"am","name":"ካሚሴቮ"}
+{"id":232376223,"city_id":3017874,"language_key":"am","name":"ዶሊና"}
+{"id":232376839,"city_id":3017882,"language_key":"am","name":"ዱሊ"}
+{"id":232376916,"city_id":3017883,"language_key":"am","name":"ስትራዚስ"}
+{"id":232377609,"city_id":3017892,"language_key":"am","name":"ዴኖቪሲ"}
+{"id":232378148,"city_id":3017899,"language_key":"am","name":"አቪሊያ"}
+{"id":232378379,"city_id":3017902,"language_key":"am","name":"ሮጋቺ"}
+{"id":232378456,"city_id":3017903,"language_key":"am","name":"ቮጅኒቺ"}
+{"id":232378533,"city_id":3017904,"language_key":"am","name":"ሃጅሎቪና"}
+{"id":232378610,"city_id":3017905,"language_key":"am","name":"ቩካሶቪቺ"}
+{"id":232378841,"city_id":3017908,"language_key":"am","name":"ዶንጂ ኡናክ"}
+{"id":232379226,"city_id":3017913,"language_key":"am","name":"ማድዛርስኪ ክራጅ"}
+{"id":232379303,"city_id":3017914,"language_key":"am","name":"ሴክቻ"}
+{"id":232379380,"city_id":3017915,"language_key":"am","name":"ቤሉሴቫክ"}
+{"id":232380997,"city_id":3017936,"language_key":"am","name":"ጉኬ"}
+{"id":232381690,"city_id":3017945,"language_key":"am","name":"ጀዜሮ"}
+{"id":232381844,"city_id":3017947,"language_key":"am","name":"ካርዳክ"}
+{"id":232381921,"city_id":3017948,"language_key":"am","name":"ድቮሪስታ"}
+{"id":232383153,"city_id":3017964,"language_key":"am","name":"ካካክ"}
+{"id":232383461,"city_id":3017968,"language_key":"am","name":"ሉቦጄቫች"}
+{"id":232383769,"city_id":3017972,"language_key":"am","name":"ኩካቪስ"}
+{"id":232383846,"city_id":3017973,"language_key":"am","name":"ፖትካሜን"}
+{"id":232383923,"city_id":3017974,"language_key":"am","name":"ጄሰን"}
+{"id":232384385,"city_id":3017980,"language_key":"am","name":"ዛጉሊን"}
+{"id":232384924,"city_id":3017987,"language_key":"am","name":"ዛብርንጂካ"}
+{"id":232385001,"city_id":3017988,"language_key":"am","name":"ሮጎቪና"}
+{"id":232385078,"city_id":3017989,"language_key":"am","name":"ኢቫ"}
+{"id":232385155,"city_id":3017990,"language_key":"am","name":"ቪጀናክ"}
+{"id":232385232,"city_id":3017991,"language_key":"am","name":"ክልሉን"}
+{"id":232385386,"city_id":3017993,"language_key":"am","name":"ፕሪባኮቪቺ"}
+{"id":232385617,"city_id":3017996,"language_key":"am","name":"ክላፑሲ"}
+{"id":232385848,"city_id":3017999,"language_key":"am","name":"ጃሆቪቺ"}
+{"id":232386387,"city_id":3018006,"language_key":"am","name":"ፕሪቦጅ"}
+{"id":232387080,"city_id":3018015,"language_key":"am","name":"ክሩሴቮ"}
+{"id":232388004,"city_id":3018027,"language_key":"am","name":"ስፔን-ፖሊጄ"}
+{"id":232388235,"city_id":3018030,"language_key":"am","name":"ኦግላቪና"}
+{"id":232388697,"city_id":3018036,"language_key":"am","name":"ዳኮቪቺ"}
+{"id":232389005,"city_id":3018040,"language_key":"am","name":"ባራ"}
+{"id":232389082,"city_id":3018041,"language_key":"am","name":"ጎርንጀ ምርቸቭኦ"}
+{"id":232389313,"city_id":3018044,"language_key":"am","name":"ሱፕጃ ስቲጄና"}
+{"id":232389467,"city_id":3018046,"language_key":"am","name":"ሉሲስ"}
+{"id":232389621,"city_id":3018048,"language_key":"am","name":null}
+{"id":232390083,"city_id":3018054,"language_key":"am","name":"ስትርመጭጫ"}
+{"id":232390622,"city_id":3018061,"language_key":"am","name":"ሲፒሲጄ"}
+{"id":232390699,"city_id":3018062,"language_key":"am","name":"ዑመር"}
+{"id":232390776,"city_id":3018063,"language_key":"am","name":"ተፓጭቆ ፖልጀ"}
+{"id":232391084,"city_id":3018067,"language_key":"am","name":"ካርዳክ"}
+{"id":232391238,"city_id":3018069,"language_key":"am","name":"ፒቶሚን"}
+{"id":232391546,"city_id":3018073,"language_key":"am","name":"ቪራክ"}
+{"id":232391623,"city_id":3018074,"language_key":"am","name":"ቪራክ"}
+{"id":232391777,"city_id":3018076,"language_key":"am","name":"ፖዘኒስት"}
+{"id":232392470,"city_id":3018085,"language_key":"am","name":"ሜሩልጃ"}
+{"id":232393240,"city_id":3018095,"language_key":"am","name":"ኮሶርስካ ቡኮቪካ"}
+{"id":232394241,"city_id":3018108,"language_key":"am","name":"ኩሩካካ"}
+{"id":232394318,"city_id":3018109,"language_key":"am","name":"ናቦጂን"}
+{"id":232394780,"city_id":3018115,"language_key":"am","name":"ዴዶቮ ፖልጄ"}
+{"id":232395473,"city_id":3018124,"language_key":"am","name":"ፓሌዝ"}
+{"id":232396474,"city_id":3018137,"language_key":"am","name":"ራሶቫ"}
+{"id":232396705,"city_id":3018140,"language_key":"am","name":"ኦራሳች"}
+{"id":232396936,"city_id":3018143,"language_key":"am","name":"ስታንካኒ"}
+{"id":232397013,"city_id":3018144,"language_key":"am","name":"ኦኮሊስቴ"}
+{"id":232397090,"city_id":3018145,"language_key":"am","name":"ዱብልጄ"}
+{"id":232397321,"city_id":3018148,"language_key":"am","name":"ካልጂቺ"}
+{"id":232397475,"city_id":3018150,"language_key":"am","name":"ፔሮቲን"}
+{"id":232397860,"city_id":3018155,"language_key":"am","name":"ኩሴቲና"}
+{"id":232398168,"city_id":3018159,"language_key":"am","name":"ሊጄስካ"}
+{"id":232398707,"city_id":3018166,"language_key":"am","name":"ራስኖቪች"}
+{"id":232400016,"city_id":3018183,"language_key":"am","name":"ብሬዛ"}
+{"id":232400478,"city_id":3018189,"language_key":"am","name":"ስልጁችቃ ስትራና"}
+{"id":232401787,"city_id":3018206,"language_key":"am","name":"ሳኮቮ ሴሎ"}
+{"id":232402403,"city_id":3018214,"language_key":"am","name":"ቤሴቪና"}
+{"id":232403404,"city_id":3018227,"language_key":"am","name":"ራሴቮ"}
+{"id":232405098,"city_id":3018249,"language_key":"am","name":"ኮጆቪቺ"}
+{"id":232405329,"city_id":3018252,"language_key":"am","name":"ሩድኒስ"}
+{"id":232405406,"city_id":3018253,"language_key":"am","name":"ዛቪደን"}
+{"id":232405483,"city_id":3018254,"language_key":"am","name":"ካቭሎቪች ኩላ"}
+{"id":232405560,"city_id":3018255,"language_key":"am","name":"ራኦቪቺ"}
+{"id":232405637,"city_id":3018256,"language_key":"am","name":"ሎንካሪ"}
+{"id":232405714,"city_id":3018257,"language_key":"am","name":"ፖድሩዲን"}
+{"id":232405945,"city_id":3018260,"language_key":"am","name":"ዶብራ ቮዳ"}
+{"id":232406253,"city_id":3018264,"language_key":"am","name":"ፖትኮቫሲካ"}
+{"id":232406407,"city_id":3018266,"language_key":"am","name":"አዲሎቪቺ"}
+{"id":232406484,"city_id":3018267,"language_key":"am","name":"ጃግኒላ"}
+{"id":232406561,"city_id":3018268,"language_key":"am","name":"ቦዚቺ"}
+{"id":232406715,"city_id":3018270,"language_key":"am","name":"ክሊስመሪን"}
+{"id":232406792,"city_id":3018271,"language_key":"am","name":"ኦሬቪን"}
+{"id":232407100,"city_id":3018275,"language_key":"am","name":"ክርንጃ"}
+{"id":232407254,"city_id":3018277,"language_key":"am","name":"ፕሊጄሲ"}
+{"id":232407485,"city_id":3018280,"language_key":"am","name":"ስሌፓክ"}
+{"id":232407639,"city_id":3018282,"language_key":"am","name":"ኮቢልጃካ"}
+{"id":232408101,"city_id":3018288,"language_key":"am","name":"ራሶቫ"}
+{"id":232408255,"city_id":3018290,"language_key":"am","name":"ጄሊካ ዶሊን"}
+{"id":232408409,"city_id":3018292,"language_key":"am","name":null}
+{"id":232409641,"city_id":3018308,"language_key":"am","name":"ራጅኮቪጭ ፕላቭቼ በርዶ"}
+{"id":232410026,"city_id":3018313,"language_key":"am","name":"ሳዲቺ"}
+{"id":232410334,"city_id":3018317,"language_key":"am","name":"ማጅና ጎራ"}
+{"id":232412105,"city_id":3018340,"language_key":"am","name":"ድዛፍጫ በርዶ"}
+{"id":232412259,"city_id":3018342,"language_key":"am","name":"ሎዝኒካ"}
+{"id":232412413,"city_id":3018344,"language_key":"am","name":"ዛቶን"}
+{"id":232412644,"city_id":3018347,"language_key":"am","name":"ሱቲቫን"}
+{"id":232412721,"city_id":3018348,"language_key":"am","name":"ሱቲቫን"}
+{"id":232412952,"city_id":3018351,"language_key":"am","name":"ላልጄቪቺ"}
+{"id":232413260,"city_id":3018355,"language_key":"am","name":"ጉባቫች"}
+{"id":232413491,"city_id":3018358,"language_key":"am","name":"ዩኔቪና"}
+{"id":232413953,"city_id":3018364,"language_key":"am","name":"ኦሶዬ"}
+{"id":232414338,"city_id":3018369,"language_key":"am","name":"ጎርንጄ ሴሎ"}
+{"id":232414415,"city_id":3018370,"language_key":"am","name":"ሌምስ"}
+{"id":232414492,"city_id":3018371,"language_key":"am","name":"ኩሲቲን"}
+{"id":232414646,"city_id":3018373,"language_key":"am","name":"ጉቭኒስታ"}
+{"id":232414723,"city_id":3018374,"language_key":"am","name":"ክርች"}
+{"id":232415108,"city_id":3018379,"language_key":"am","name":"ፖትርክ"}
+{"id":232415339,"city_id":3018382,"language_key":"am","name":"ፔሮቪሲ"}
+{"id":232416648,"city_id":3018399,"language_key":"am","name":"ጎሚል"}
+{"id":232416802,"city_id":3018401,"language_key":"am","name":"ኡብሊ"}
+{"id":232417341,"city_id":3018408,"language_key":"am","name":"ኮስታኒካ"}
+{"id":232417880,"city_id":3018415,"language_key":"am","name":"ዶንጂ ኮሲሲ"}
+{"id":232418034,"city_id":3018417,"language_key":"am","name":"ኩፑስቺ"}
+{"id":232418188,"city_id":3018419,"language_key":"am","name":"ርሙሴ"}
+{"id":232418496,"city_id":3018423,"language_key":"am","name":"ፕሪሶጃ"}
+{"id":232418958,"city_id":3018429,"language_key":"am","name":"ዶንጂ ክራንሲ"}
+{"id":232419035,"city_id":3018430,"language_key":"am","name":"ፖድሉንጂካ"}
+{"id":232419112,"city_id":3018431,"language_key":"am","name":"ሴሊናኪ ዶሎቪ"}
+{"id":232419343,"city_id":3018434,"language_key":"am","name":"ላስታቫ"}
+{"id":232419574,"city_id":3018437,"language_key":"am","name":"ማርቲኖቪቺ"}
+{"id":232419651,"city_id":3018438,"language_key":"am","name":"ብራጂቺ"}
+{"id":232419805,"city_id":3018440,"language_key":"am","name":"ቤልቬደር"}
+{"id":232420883,"city_id":3018454,"language_key":"am","name":"ክልጃጀቪጭ"}
+{"id":232420960,"city_id":3018455,"language_key":"am","name":"ቤጎቫ ዶል"}
+{"id":232421037,"city_id":3018456,"language_key":"am","name":"ጄሴኖቪ ዶ"}
+{"id":232421114,"city_id":3018457,"language_key":"am","name":"ሴሮቪ ዶ"}
+{"id":232421191,"city_id":3018458,"language_key":"am","name":"ፖሳጅቺ"}
+{"id":232422885,"city_id":3018480,"language_key":"am","name":"ሳባኒ"}
+{"id":232424887,"city_id":3018506,"language_key":"am","name":"ቮድኒ ዶ"}
+{"id":232424964,"city_id":3018507,"language_key":"am","name":"ፖዳዝድሪጄሎ"}
+{"id":232425426,"city_id":3018513,"language_key":"am","name":"አርባናሲ"}
+{"id":232425503,"city_id":3018514,"language_key":"am","name":"ዶንጃ ብሮቫ"}
+{"id":232425580,"city_id":3018515,"language_key":"am","name":"ፔትሮቪቺ"}
+{"id":232425657,"city_id":3018516,"language_key":"am","name":"ፓፕራትኒ ዶ"}
+{"id":232426196,"city_id":3018523,"language_key":"am","name":"ኩሲስቴ"}
+{"id":232426350,"city_id":3018525,"language_key":"am","name":"ሮቪን"}
+{"id":232426581,"city_id":3018528,"language_key":"am","name":"ዘሰልጄ"}
+{"id":232426658,"city_id":3018529,"language_key":"am","name":"ኔሪም"}
+{"id":232426812,"city_id":3018531,"language_key":"am","name":"ዞቪና"}
+{"id":232426889,"city_id":3018532,"language_key":"am","name":"ጃሲኮቫች"}
+{"id":232427505,"city_id":3018540,"language_key":"am","name":"ልጀስኮቪ ዶ"}
+{"id":232427813,"city_id":3018544,"language_key":"am","name":"ኦቪሲን"}
+{"id":232427890,"city_id":3018545,"language_key":"am","name":"ክርስታስ"}
+{"id":232428044,"city_id":3018547,"language_key":"am","name":"ብላጎጄቪች"}
+{"id":232428198,"city_id":3018549,"language_key":"am","name":"ዛግቮዝዳክ"}
+{"id":232428429,"city_id":3018552,"language_key":"am","name":"ዙሙኪቺ"}
+{"id":232428660,"city_id":3018555,"language_key":"am","name":"ዲኖቭ ዶ"}
+{"id":232428891,"city_id":3018558,"language_key":"am","name":"ሙስታ ሩፓ"}
+{"id":232428968,"city_id":3018559,"language_key":"am","name":"ኮማንኮ ብሮዶ"}
+{"id":232429045,"city_id":3018560,"language_key":"am","name":"ፕሪጄኮ ፖሲቫሎ"}
+{"id":232429122,"city_id":3018561,"language_key":"am","name":"ዳናቭ"}
+{"id":232429199,"city_id":3018562,"language_key":"am","name":"ዳናቭ"}
+{"id":232430200,"city_id":3018575,"language_key":"am","name":"ቬልጂ ዶ"}
+{"id":232430431,"city_id":3018578,"language_key":"am","name":"ልጀስኮቭ ዶ"}
+{"id":232430662,"city_id":3018581,"language_key":"am","name":"ኮፒቶቭ ዶ"}
+{"id":232430739,"city_id":3018582,"language_key":"am","name":"ድራጎሰቭ ዶ"}
+{"id":232430893,"city_id":3018584,"language_key":"am","name":"ግራንድቪና"}
+{"id":232430970,"city_id":3018585,"language_key":"am","name":"ፖልጅኮቫች"}
+{"id":232431047,"city_id":3018586,"language_key":"am","name":"ግራንዶቭ ዶ"}
+{"id":232431278,"city_id":3018589,"language_key":"am","name":"ኩሊና"}
+{"id":232431586,"city_id":3018593,"language_key":"am","name":"ጃቡኮቫች"}
+{"id":232431740,"city_id":3018595,"language_key":"am","name":"ፓፕራትኒ ዶ"}
+{"id":232431971,"city_id":3018598,"language_key":"am","name":"ስታዘር"}
+{"id":232432048,"city_id":3018599,"language_key":"am","name":"ዘለኒ ዶ"}
+{"id":232432125,"city_id":3018600,"language_key":"am","name":"ኦዘቢሊ ዶ"}
+{"id":232432202,"city_id":3018601,"language_key":"am","name":"ኦባዶቪካ"}
+{"id":232432356,"city_id":3018603,"language_key":"am","name":"ዳጅሲን ዶ"}
+{"id":232432510,"city_id":3018605,"language_key":"am","name":"ኮቫቸቭ ዶ"}
+{"id":232432587,"city_id":3018606,"language_key":"am","name":"ክሬቬና ፓፕራት"}
+{"id":232432664,"city_id":3018607,"language_key":"am","name":"ሩፒስ"}
+{"id":232432741,"city_id":3018608,"language_key":"am","name":"ባንዲካ ዙፓ"}
+{"id":232432818,"city_id":3018609,"language_key":"am","name":"ክሪኒዮ ዶ"}
+{"id":232433280,"city_id":3018615,"language_key":"am","name":"ቦቦቫ ኡሊካ"}
+{"id":232433588,"city_id":3018619,"language_key":"am","name":"ክርና ጄላ"}
+{"id":232433665,"city_id":3018620,"language_key":"am","name":"ፖትክራጅ"}
+{"id":232433742,"city_id":3018621,"language_key":"am","name":"ዛጉል"}
+{"id":232433896,"city_id":3018623,"language_key":"am","name":"ቦክሲን ዶ"}
+{"id":232434127,"city_id":3018626,"language_key":"am","name":"ዛማሴቭ ዶ"}
+{"id":232434358,"city_id":3018629,"language_key":"am","name":"ትሬቦቪንስኪ ፖድ"}
+{"id":232434435,"city_id":3018630,"language_key":"am","name":"ልጀስኮቪ ዶሎቪ"}
+{"id":232434589,"city_id":3018632,"language_key":"am","name":"ሰርዳር ኩላ"}
+{"id":232434666,"city_id":3018633,"language_key":"am","name":"ዙሪ"}
+{"id":232435128,"city_id":3018639,"language_key":"am","name":"ስቴሲ"}
+{"id":232435205,"city_id":3018640,"language_key":"am","name":"ፖኖርኒ ዶ"}
+{"id":232435282,"city_id":3018641,"language_key":"am","name":"ፕርፖርጭ"}
+{"id":232435359,"city_id":3018642,"language_key":"am","name":"ብራቲሴቪ ዶሎቪ"}
+{"id":232435513,"city_id":3018644,"language_key":"am","name":"ቲጄሳክ"}
+{"id":232435667,"city_id":3018646,"language_key":"am","name":"ዶሲቺ"}
+{"id":232435744,"city_id":3018647,"language_key":"am","name":"ዱሎቭ ዶ"}
+{"id":232435821,"city_id":3018648,"language_key":"am","name":"ኮፒሎቭ ዶ"}
+{"id":232435898,"city_id":3018649,"language_key":"am","name":"ሊፖቭ ዶ"}
+{"id":232435975,"city_id":3018650,"language_key":"am","name":"ፖድስታና"}
+{"id":232436052,"city_id":3018651,"language_key":"am","name":"ኤሌዞቭ ዶ"}
+{"id":232436668,"city_id":3018659,"language_key":"am","name":"ሚጃጅሎቭ ዶ"}
+{"id":232436976,"city_id":3018663,"language_key":"am","name":"ባጆቭ ዶ"}
+{"id":232437207,"city_id":3018666,"language_key":"am","name":"ሙሽራ"}
+{"id":232437438,"city_id":3018669,"language_key":"am","name":"ቤጎቫ ግላቪካ"}
+{"id":232437515,"city_id":3018670,"language_key":"am","name":"ቤጎቫ ግላቪካ"}
+{"id":232437592,"city_id":3018671,"language_key":"am","name":"ኦጎርጄሎ ዝድሪጄሎ"}
+{"id":232437669,"city_id":3018672,"language_key":"am","name":"ቡሮንስኪ ዶ"}
+{"id":232437823,"city_id":3018674,"language_key":"am","name":"ቦቦቪን"}
+{"id":232437900,"city_id":3018675,"language_key":"am","name":"ክራሴዶ"}
+{"id":232437977,"city_id":3018676,"language_key":"am","name":"ጎሉቢንጄ"}
+{"id":232438131,"city_id":3018678,"language_key":"am","name":"ዱቦኪ ዶ"}
+{"id":232438208,"city_id":3018679,"language_key":"am","name":"ኦቭሲጂ ዶ"}
+{"id":232439209,"city_id":3018692,"language_key":"am","name":"ኮራሴቫክ"}
+{"id":232439286,"city_id":3018693,"language_key":"am","name":"ሰርኒ ዶ"}
+{"id":232439363,"city_id":3018694,"language_key":"am","name":"ኮቭሴ ዶ"}
+{"id":232439594,"city_id":3018697,"language_key":"am","name":"ክርኑሊክ"}
+{"id":232439671,"city_id":3018698,"language_key":"am","name":"ዶንጄ ሴሎ"}
+{"id":232439825,"city_id":3018700,"language_key":"am","name":"ሴሊንስኪ ዶ"}
+{"id":232440364,"city_id":3018707,"language_key":"am","name":"ዝግሬድ"}
+{"id":232440595,"city_id":3018710,"language_key":"am","name":"ጎርንጄ ሞራኮቮ"}
+{"id":232440749,"city_id":3018712,"language_key":"am","name":"ቢስትሪስ"}
+{"id":232440826,"city_id":3018713,"language_key":"am","name":"ሜዴዴ"}
+{"id":232440903,"city_id":3018714,"language_key":"am","name":"ሪጄካ"}
+{"id":232441057,"city_id":3018716,"language_key":"am","name":"ፖዳ"}
+{"id":232441288,"city_id":3018719,"language_key":"am","name":"ጎስቶጀቪጭ"}
+{"id":232441442,"city_id":3018721,"language_key":"am","name":"ጃሲኮቫች"}
+{"id":232441596,"city_id":3018723,"language_key":"am","name":"ሊሲክ ዶ"}
+{"id":232442058,"city_id":3018729,"language_key":"am","name":"ሚዮኩሶቪቺ"}
+{"id":232442520,"city_id":3018735,"language_key":"am","name":"ሰሊስታ"}
+{"id":232442597,"city_id":3018736,"language_key":"am","name":"ጎርጂ ፍሩታክ"}
+{"id":232442674,"city_id":3018737,"language_key":"am","name":"ኡሳኖቪሲ"}
+{"id":232442828,"city_id":3018739,"language_key":"am","name":"ሙዜቪስ"}
+{"id":232442982,"city_id":3018741,"language_key":"am","name":"ቡርታይሲ"}
+{"id":232443136,"city_id":3018743,"language_key":"am","name":"ዶሎቪ ኮቫኪ"}
+{"id":232443290,"city_id":3018745,"language_key":"am","name":"ጎስትልጀ ብራጆቪጭቆ"}
+{"id":232443444,"city_id":3018747,"language_key":"am","name":"ዶንጃ ግሊዚካ"}
+{"id":232443521,"city_id":3018748,"language_key":"am","name":"ሜዴዝ"}
+{"id":232444676,"city_id":3018763,"language_key":"am","name":"ክራሶቪና"}
+{"id":232444753,"city_id":3018764,"language_key":"am","name":"ሲሞኖቪቺ"}
+{"id":232444984,"city_id":3018767,"language_key":"am","name":"ፖትኩላ"}
+{"id":232445292,"city_id":3018771,"language_key":"am","name":"ላሌቪቺ"}
+{"id":232445369,"city_id":3018772,"language_key":"am","name":"ቪካ"}
+{"id":232445446,"city_id":3018773,"language_key":"am","name":"ፖድግሪዝዴ"}
+{"id":232445600,"city_id":3018775,"language_key":"am","name":"ትራስ"}
+{"id":232446601,"city_id":3018788,"language_key":"am","name":"ሚሎቪቺ"}
+{"id":232446678,"city_id":3018789,"language_key":"am","name":"ብሮድ"}
+{"id":232446909,"city_id":3018792,"language_key":"am","name":"ኩታ"}
+{"id":232447525,"city_id":3018800,"language_key":"am","name":"ቱፒካይ"}
+{"id":232448141,"city_id":3018808,"language_key":"am","name":"ኮፒቶ"}
+{"id":232448218,"city_id":3018809,"language_key":"am","name":"ኮልጃት"}
+{"id":232448526,"city_id":3018813,"language_key":"am","name":"ዶንጄ ሴሎ"}
+{"id":232448911,"city_id":3018818,"language_key":"am","name":"ዘብርዴ"}
+{"id":232449065,"city_id":3018820,"language_key":"am","name":"ጄሎቪካ"}
+{"id":232449296,"city_id":3018823,"language_key":"am","name":"ፖሲቫላ"}
+{"id":232449373,"city_id":3018824,"language_key":"am","name":"ሩሴኖቪሲ"}
+{"id":232449527,"city_id":3018826,"language_key":"am","name":"ግሬብኒካ"}
+{"id":232449912,"city_id":3018831,"language_key":"am","name":"ዶሎቪ"}
+{"id":232449989,"city_id":3018832,"language_key":"am","name":"መኮቴ"}
+{"id":232450143,"city_id":3018834,"language_key":"am","name":"ጎርጂ ቱፓን።"}
+{"id":232450220,"city_id":3018835,"language_key":"am","name":"ብጄሎቪቺ"}
+{"id":232450682,"city_id":3018841,"language_key":"am","name":"ካሜናሪ"}
+{"id":232451298,"city_id":3018849,"language_key":"am","name":"ጎሪካ"}
+{"id":232451529,"city_id":3018852,"language_key":"am","name":"ዱብሮቭካ ዶ"}
+{"id":232452068,"city_id":3018859,"language_key":"am","name":"ስታሪ ቪስኮቪቺ"}
+{"id":232452145,"city_id":3018860,"language_key":"am","name":"ፖጋና"}
+{"id":232452453,"city_id":3018864,"language_key":"am","name":"ዱብ"}
+{"id":232452761,"city_id":3018868,"language_key":"am","name":"ፖሜትኒክ"}
+{"id":232452992,"city_id":3018871,"language_key":"am","name":"ትሮሳቫክ"}
+{"id":232453531,"city_id":3018878,"language_key":"am","name":"ፖድግሬድ"}
+{"id":232453685,"city_id":3018880,"language_key":"am","name":"አራፒ"}
+{"id":232453839,"city_id":3018882,"language_key":"am","name":"ሴራክ"}
+{"id":232454147,"city_id":3018886,"language_key":"am","name":"ጎልጂስኪ ስቶዚ"}
+{"id":232454917,"city_id":3018896,"language_key":"am","name":"ፔትሮቮ ፖልጄ"}
+{"id":232455071,"city_id":3018898,"language_key":"am","name":"ራስፑስ"}
+{"id":232455148,"city_id":3018899,"language_key":"am","name":"ቶዶሮቭ ዱብ"}
+{"id":232455225,"city_id":3018900,"language_key":"am","name":"ቡኮቪክ"}
+{"id":232455379,"city_id":3018902,"language_key":"am","name":"ፓሲና ቮዳ"}
+{"id":232455533,"city_id":3018904,"language_key":"am","name":"ሞክራ ንጂቫ"}
+{"id":232455610,"city_id":3018905,"language_key":"am","name":"ኦርኒስ"}
+{"id":232455687,"city_id":3018906,"language_key":"am","name":"ዛቭርህ"}
+{"id":232456149,"city_id":3018912,"language_key":"am","name":"ቪዶቭ ፖቶክ"}
+{"id":232456457,"city_id":3018916,"language_key":"am","name":"ሴኒሲስት"}
+{"id":232456534,"city_id":3018917,"language_key":"am","name":"ድራዥን ቭርት"}
+{"id":232457381,"city_id":3018928,"language_key":"am","name":"ቬሊኮ ራዴቮ"}
+{"id":232457458,"city_id":3018929,"language_key":"am","name":"ስካልጃሪ"}
+{"id":232457997,"city_id":3018936,"language_key":"am","name":"ሚትሮቪቺ"}
+{"id":232458151,"city_id":3018938,"language_key":"am","name":"ቪድሮቫን"}
+{"id":232458305,"city_id":3018940,"language_key":"am","name":"ራታጂካ ግላቪካ"}
+{"id":232458459,"city_id":3018942,"language_key":"am","name":"ቪር"}
+{"id":232460230,"city_id":3018965,"language_key":"am","name":"ራዳኖቪቺ"}
+{"id":232463849,"city_id":3019012,"language_key":"am","name":"ቬሌምቡሲ"}
+{"id":232464157,"city_id":3019016,"language_key":"am","name":"ሱዛንጅ"}
+{"id":232465697,"city_id":3019036,"language_key":"am","name":"ራቭና ሪጄካ"}
+{"id":232466005,"city_id":3019040,"language_key":"am","name":"ክሪቪና"}
+{"id":232466313,"city_id":3019044,"language_key":"am","name":"ፖድቭላህ"}
+{"id":232467699,"city_id":3019062,"language_key":"am","name":"ሙስጠፋ ግሬድ"}
+{"id":232467776,"city_id":3019063,"language_key":"am","name":"ጃሲኮቫች"}
+{"id":232468546,"city_id":3019073,"language_key":"am","name":"ሲሚንካ"}
+{"id":232468854,"city_id":3019077,"language_key":"am","name":"ቤደም"}
+{"id":232468931,"city_id":3019078,"language_key":"am","name":"ሌፒሪካ"}
+{"id":232469008,"city_id":3019079,"language_key":"am","name":"ኮቫቸቭ ዶ"}
+{"id":232469085,"city_id":3019080,"language_key":"am","name":"ኮሎ"}
+{"id":232469162,"city_id":3019081,"language_key":"am","name":"ዛብርንጂካ"}
+{"id":232469316,"city_id":3019083,"language_key":"am","name":"ብሪስኪ ዶ"}
+{"id":232469470,"city_id":3019085,"language_key":"am","name":"ፕሪጄቮሪ"}
+{"id":232469547,"city_id":3019086,"language_key":"am","name":"ፓሌዝ"}
+{"id":232469701,"city_id":3019088,"language_key":"am","name":"ካሜኒካ"}
+{"id":232469778,"city_id":3019089,"language_key":"am","name":"ክሪቫስ"}
+{"id":232469855,"city_id":3019090,"language_key":"am","name":"ፖልጃን"}
+{"id":232470009,"city_id":3019092,"language_key":"am","name":"ኦስጄሴኒካ"}
+{"id":232470240,"city_id":3019095,"language_key":"am","name":"ቦዝዳሬቭ ዶ"}
+{"id":232470856,"city_id":3019103,"language_key":"am","name":null}
+{"id":232470933,"city_id":3019104,"language_key":"am","name":"ሶሊንስኪ ብሪጄግ"}
+{"id":232471395,"city_id":3019110,"language_key":"am","name":"ስታንኮቭ ዶ"}
+{"id":232471549,"city_id":3019112,"language_key":"am","name":"ፕሊትኪ ዶ"}
+{"id":232471626,"city_id":3019113,"language_key":"am","name":"ራዝዶልጄ"}
+{"id":232471703,"city_id":3019114,"language_key":"am","name":"ፔትሮቪካ ዶ"}
+{"id":232471780,"city_id":3019115,"language_key":"am","name":"ሜድዶቭ ዶ"}
+{"id":232471857,"city_id":3019116,"language_key":"am","name":"አሉጋ"}
+{"id":232472396,"city_id":3019123,"language_key":"am","name":"ስቱደናክ"}
+{"id":232472627,"city_id":3019126,"language_key":"am","name":"ሩዲካ ላካ"}
+{"id":232472781,"city_id":3019128,"language_key":"am","name":"ጄዘርካ"}
+{"id":232472858,"city_id":3019129,"language_key":"am","name":"ካፓቪካ"}
+{"id":232472935,"city_id":3019130,"language_key":"am","name":"ቭርልጀሮስክ ዶ"}
+{"id":232473012,"city_id":3019131,"language_key":"am","name":"ቦራክ"}
+{"id":232473089,"city_id":3019132,"language_key":"am","name":"ግራካኒካ"}
+{"id":232473551,"city_id":3019138,"language_key":"am","name":"ማላ ራዚስታ"}
+{"id":232473859,"city_id":3019142,"language_key":"am","name":"ቦሮቪ ዶ"}
+{"id":232474629,"city_id":3019152,"language_key":"am","name":"ሊፖቭ ዶ"}
+{"id":232474706,"city_id":3019153,"language_key":"am","name":"ዛጎናክ"}
+{"id":232475014,"city_id":3019157,"language_key":"am","name":"ፒስታላ"}
+{"id":232475245,"city_id":3019160,"language_key":"am","name":"ክሩስካ"}
+{"id":232475322,"city_id":3019161,"language_key":"am","name":"ፕሊጄቮር"}
+{"id":232475630,"city_id":3019165,"language_key":"am","name":"ስጄኖኮስ"}
+{"id":232475707,"city_id":3019166,"language_key":"am","name":"ኢቫንጅ-ዶ"}
+{"id":232475938,"city_id":3019169,"language_key":"am","name":"ጎሪን ዶ"}
+{"id":232476015,"city_id":3019170,"language_key":"am","name":"ፓዲን"}
+{"id":232476631,"city_id":3019178,"language_key":"am","name":"ሚሉሲና ፔሲና"}
+{"id":232476708,"city_id":3019179,"language_key":"am","name":"ጃሲካ"}
+{"id":232476939,"city_id":3019182,"language_key":"am","name":"ሞልጄ ፖሊጄ"}
+{"id":232477016,"city_id":3019183,"language_key":"am","name":"ቦታ"}
+{"id":232477786,"city_id":3019193,"language_key":"am","name":"ፖፖቪቺ"}
+{"id":232478017,"city_id":3019196,"language_key":"am","name":"ሉቃ"}
+{"id":232478094,"city_id":3019197,"language_key":"am","name":"ጎሪካ"}
+{"id":232478171,"city_id":3019198,"language_key":"am","name":"ግሊዚካ"}
+{"id":232478479,"city_id":3019202,"language_key":"am","name":"ሉቶቱክ"}
+{"id":232478556,"city_id":3019203,"language_key":"am","name":"ስታንጄቪካ ሩፓ"}
+{"id":232478787,"city_id":3019206,"language_key":"am","name":"ፒቶማ ሎዛ"}
+{"id":232478941,"city_id":3019208,"language_key":"am","name":"ፔትሪሴኒ"}
+{"id":232479018,"city_id":3019209,"language_key":"am","name":"ጆቫች"}
+{"id":232479095,"city_id":3019210,"language_key":"am","name":"ቡስን ዶ"}
+{"id":232479172,"city_id":3019211,"language_key":"am","name":"ካሌዚቺ"}
+{"id":232479249,"city_id":3019212,"language_key":"am","name":"ዱጊ ላዝ"}
+{"id":232479480,"city_id":3019215,"language_key":"am","name":"ብራንሎቪካ"}
+{"id":232479557,"city_id":3019216,"language_key":"am","name":"ግላቪካ"}
+{"id":232479634,"city_id":3019217,"language_key":"am","name":"ጎርንጃ ማርኮቪና"}
+{"id":232479711,"city_id":3019218,"language_key":"am","name":"ኦሴሊና"}
+{"id":232479865,"city_id":3019220,"language_key":"am","name":"ስካንጂኪ"}
+{"id":232480173,"city_id":3019224,"language_key":"am","name":"ኦፓካክ"}
+{"id":232480250,"city_id":3019225,"language_key":"am","name":"ሚሃልጄቪቺ"}
+{"id":232480481,"city_id":3019228,"language_key":"am","name":"ኮስማክ"}
+{"id":232480558,"city_id":3019229,"language_key":"am","name":"ዳፕኮቪሲ"}
+{"id":232480789,"city_id":3019232,"language_key":"am","name":"ሚሎሰር"}
+{"id":232481251,"city_id":3019238,"language_key":"am","name":"ጄይሴቪቺ"}
+{"id":232481636,"city_id":3019243,"language_key":"am","name":"ቅራልጅ ስታር"}
+{"id":232481713,"city_id":3019244,"language_key":"am","name":"ዶንጄ ፖልጄ"}
+{"id":232481790,"city_id":3019245,"language_key":"am","name":"ፖድላስታቫ"}
+{"id":232482560,"city_id":3019255,"language_key":"am","name":"ቡልጂቺ"}
+{"id":232483253,"city_id":3019264,"language_key":"am","name":"ማስኒካ"}
+{"id":232484485,"city_id":3019280,"language_key":"am","name":"ካካኒክ"}
+{"id":232484793,"city_id":3019284,"language_key":"am","name":"ሎቭኖሴሎ"}
+{"id":232484870,"city_id":3019285,"language_key":"am","name":"ሁሴጂኖቪቺ"}
+{"id":232486025,"city_id":3019300,"language_key":"am","name":"ሉኪን ቪር"}
+{"id":232487488,"city_id":3019319,"language_key":"am","name":"ዛር"}
+{"id":232487950,"city_id":3019325,"language_key":"am","name":"ማስላሪ"}
+{"id":232489105,"city_id":3019340,"language_key":"am","name":"ዶልጃ"}
+{"id":232489798,"city_id":3019349,"language_key":"am","name":"ስቱቢካ"}
+{"id":232491800,"city_id":3019375,"language_key":"am","name":"ማሎ ኔማንጂኔ"}
+{"id":232491877,"city_id":3019376,"language_key":"am","name":"ዶንጃ ሌጄስኒካ"}
+{"id":232492262,"city_id":3019381,"language_key":"am","name":"ቪርሴቮ"}
+{"id":232492493,"city_id":3019384,"language_key":"am","name":"ታርሃኒሲ"}
+{"id":232492647,"city_id":3019386,"language_key":"am","name":"አጎቪካ"}
+{"id":232492724,"city_id":3019387,"language_key":"am","name":"ስርአድንጀ ዛኦስጥሮ"}
+{"id":232493263,"city_id":3019394,"language_key":"am","name":"ዳፕሲሲ"}
+{"id":232494033,"city_id":3019404,"language_key":"am","name":"ሙቺቺ"}
+{"id":232494418,"city_id":3019409,"language_key":"am","name":"ሙሶቪቺ"}
+{"id":232495111,"city_id":3019418,"language_key":"am","name":"ዱሮቪቺ"}
+{"id":232495265,"city_id":3019420,"language_key":"am","name":"ፖሲክ"}
+{"id":232495496,"city_id":3019423,"language_key":"am","name":"ፕርቸልጀ"}
+{"id":232495650,"city_id":3019425,"language_key":"am","name":"ጎላ ስትራና"}
+{"id":232495881,"city_id":3019428,"language_key":"am","name":"ቪኖግራዲስታ"}
+{"id":232495958,"city_id":3019429,"language_key":"am","name":"ፖቶኪ"}
+{"id":232496112,"city_id":3019431,"language_key":"am","name":"ቡንካ"}
+{"id":232496420,"city_id":3019435,"language_key":"am","name":"ኮስትሪኮቪካ"}
+{"id":232496497,"city_id":3019436,"language_key":"am","name":"ሲቢዮኒካ"}
+{"id":232496574,"city_id":3019437,"language_key":"am","name":"ቩክሳኖቮ ጉምኖ"}
+{"id":232498268,"city_id":3019459,"language_key":"am","name":"ክራልጄቫክ"}
+{"id":232498422,"city_id":3019461,"language_key":"am","name":"ከርኮር"}
+{"id":232498499,"city_id":3019462,"language_key":"am","name":"ሌቫጃ"}
+{"id":232498653,"city_id":3019464,"language_key":"am","name":"ካሚ"}
+{"id":232498730,"city_id":3019465,"language_key":"am","name":"ጉበሪኒቺ"}
+{"id":232499500,"city_id":3019475,"language_key":"am","name":"ዶንጃ ትሬብጄሲካ"}
+{"id":232499731,"city_id":3019478,"language_key":"am","name":"ዶንጃ ሴላ"}
+{"id":232500193,"city_id":3019484,"language_key":"am","name":"ምርትቭኦ ዶቦቆ"}
+{"id":232500578,"city_id":3019489,"language_key":"am","name":"ድሪጀን"}
+{"id":232501040,"city_id":3019495,"language_key":"am","name":"ራይሴቪን"}
+{"id":232501194,"city_id":3019497,"language_key":"am","name":"ክሬዝቮ"}
+{"id":232501271,"city_id":3019498,"language_key":"am","name":"ኮሴቲን"}
+{"id":232501502,"city_id":3019501,"language_key":"am","name":"ፕሬስጀቃ"}
+{"id":232501579,"city_id":3019502,"language_key":"am","name":"ግሮፓ"}
+{"id":232501733,"city_id":3019504,"language_key":"am","name":"ጃስትሬብ"}
+{"id":232501810,"city_id":3019505,"language_key":"am","name":"ጃስትሬብ"}
+{"id":232501964,"city_id":3019507,"language_key":"am","name":"ዶንጂ ኩሪላክ"}
+{"id":232502041,"city_id":3019508,"language_key":"am","name":"ጎርንጂ ኩሪላክ"}
+{"id":232502118,"city_id":3019509,"language_key":"am","name":"ግርልጭ"}
+{"id":232502349,"city_id":3019512,"language_key":"am","name":"ፕላኒኒካ"}
+{"id":232502657,"city_id":3019516,"language_key":"am","name":"ዴኮቪሲ"}
+{"id":232503119,"city_id":3019522,"language_key":"am","name":"ስማላጊካ ፖልጄ"}
+{"id":232503427,"city_id":3019526,"language_key":"am","name":"ትሬባልጄቮ"}
+{"id":232504505,"city_id":3019540,"language_key":"am","name":"ስልጅቭልጀ"}
+{"id":232504967,"city_id":3019546,"language_key":"am","name":"ፕሪሶጃክ"}
+{"id":232505506,"city_id":3019553,"language_key":"am","name":"ክሊኮቫስ"}
+{"id":232507585,"city_id":3019580,"language_key":"am","name":"ኦሶጅኒክ"}
+{"id":232507893,"city_id":3019584,"language_key":"am","name":"ፖልጃን"}
+{"id":232509356,"city_id":3019603,"language_key":"am","name":"ኖቮ ሴሎ"}
+{"id":232509510,"city_id":3019605,"language_key":"am","name":"ቬሌታ"}
+{"id":232509818,"city_id":3019609,"language_key":"am","name":"ኮላሲኖቪሲ"}
+{"id":232511050,"city_id":3019625,"language_key":"am","name":"ካላኖቪካ"}
+{"id":232511127,"city_id":3019626,"language_key":"am","name":"ድራኮቪሲ"}
+{"id":232511512,"city_id":3019631,"language_key":"am","name":"ራጅቸቭ ዶ"}
+{"id":232511589,"city_id":3019632,"language_key":"am","name":"ሉቦቮ"}
+{"id":232511743,"city_id":3019634,"language_key":"am","name":"ሃዱሊካ"}
+{"id":232511897,"city_id":3019636,"language_key":"am","name":"ቦቡልጃ"}
+{"id":232511974,"city_id":3019637,"language_key":"am","name":"ክርስቶቫቼ"}
+{"id":232512205,"city_id":3019640,"language_key":"am","name":"ጎርንጄ ኩኖቮ"}
+{"id":232512282,"city_id":3019641,"language_key":"am","name":"ሱሜ"}
+{"id":232512359,"city_id":3019642,"language_key":"am","name":"ዳሮንጂ ዶ"}
+{"id":232512436,"city_id":3019643,"language_key":"am","name":"ፖድ-ዳዝኒክ"}
+{"id":232512513,"city_id":3019644,"language_key":"am","name":"ክኔዝ ፖልጄ"}
+{"id":232512667,"city_id":3019646,"language_key":"am","name":"ፕሪጄቮሪ"}
+{"id":232512975,"city_id":3019650,"language_key":"am","name":"ማርኮቪና"}
+{"id":232513129,"city_id":3019652,"language_key":"am","name":"ብራጄቪቺ"}
+{"id":232513437,"city_id":3019656,"language_key":"am","name":"ሴኒቺ"}
+{"id":232514438,"city_id":3019669,"language_key":"am","name":"ኡርልጄቭ ዶ"}
+{"id":232514977,"city_id":3019676,"language_key":"am","name":"ቱርስኮ"}
+{"id":232515362,"city_id":3019681,"language_key":"am","name":"ራዳኖቪቺ"}
+{"id":232516286,"city_id":3019693,"language_key":"am","name":"ማግሌንካ"}
+{"id":232516363,"city_id":3019694,"language_key":"am","name":"ራቫና ጎራ"}
+{"id":232516902,"city_id":3019701,"language_key":"am","name":"ቬሴሪሲ"}
+{"id":232517903,"city_id":3019714,"language_key":"am","name":"ብሬኮቫች"}
+{"id":232517980,"city_id":3019715,"language_key":"am","name":"ትራቭን ዶ"}
+{"id":232518673,"city_id":3019724,"language_key":"am","name":"ሴሮቮ ፕሮዶ"}
+{"id":232518904,"city_id":3019727,"language_key":"am","name":"ካባላ"}
+{"id":232518981,"city_id":3019728,"language_key":"am","name":"ቅመም"}
+{"id":232519135,"city_id":3019730,"language_key":"am","name":"ዱፒሎ"}
+{"id":232519212,"city_id":3019731,"language_key":"am","name":"ማሮቪቺ"}
+{"id":232519289,"city_id":3019732,"language_key":"am","name":"ዝሚጂሴ"}
+{"id":232519366,"city_id":3019733,"language_key":"am","name":"መጽሔት"}
+{"id":232519520,"city_id":3019735,"language_key":"am","name":"ዱሮቪቺ"}
+{"id":232519751,"city_id":3019738,"language_key":"am","name":"ጁንሴቪቺ"}
+{"id":232520290,"city_id":3019745,"language_key":"am","name":"ፔስቶሪሲ"}
+{"id":232520829,"city_id":3019752,"language_key":"am","name":"ሚሎቪቺ"}
+{"id":232524217,"city_id":3019796,"language_key":"am","name":"መርካጄቫች"}
+{"id":232526065,"city_id":3019820,"language_key":"am","name":"ባርሴ"}
+{"id":232526450,"city_id":3019825,"language_key":"am","name":"ክርስኒካ"}
+{"id":232526758,"city_id":3019829,"language_key":"am","name":"ስታሮ ሚያቶቮ"}
+{"id":232526835,"city_id":3019830,"language_key":"am","name":"መኪካ ኩላ"}
+{"id":232527220,"city_id":3019835,"language_key":"am","name":"ዱሎቪን"}
+{"id":232527451,"city_id":3019838,"language_key":"am","name":"ፕሪፕሲሲ"}
+{"id":232527836,"city_id":3019843,"language_key":"am","name":"ፈምጫ ቅርስ"}
+{"id":232527913,"city_id":3019844,"language_key":"am","name":"ፖክሮስ"}
+{"id":232528529,"city_id":3019852,"language_key":"am","name":"ዶብሮዶ"}
+{"id":232528837,"city_id":3019856,"language_key":"am","name":"ግራቦቪካ"}
+{"id":232528991,"city_id":3019858,"language_key":"am","name":"ዶንጂ ኦራሲ"}
+{"id":232529068,"city_id":3019859,"language_key":"am","name":"ግሉሂ ዶ"}
+{"id":232529145,"city_id":3019860,"language_key":"am","name":"ግሉሂ ዶ"}
+{"id":232529222,"city_id":3019861,"language_key":"am","name":"ቩኮቪቺ"}
+{"id":232529376,"city_id":3019863,"language_key":"am","name":"ኢቫኖቫ አሉጋ"}
+{"id":232529530,"city_id":3019865,"language_key":"am","name":"ዶንጂ ክራጅ"}
+{"id":232529761,"city_id":3019868,"language_key":"am","name":"ኡምሲ"}
+{"id":232530454,"city_id":3019877,"language_key":"am","name":"ዶንጂ ቩኮቪቺ"}
+{"id":232530531,"city_id":3019878,"language_key":"am","name":"ሜዱፖቶጄ"}
+{"id":232530685,"city_id":3019880,"language_key":"am","name":"ቭዑኮቭኤ ዝግራደ"}
+{"id":232530762,"city_id":3019881,"language_key":"am","name":"ብሮኖቪቺ"}
+{"id":232530839,"city_id":3019882,"language_key":"am","name":"ላይንጃ"}
+{"id":232530993,"city_id":3019884,"language_key":"am","name":"ፓሊክ"}
+{"id":232531070,"city_id":3019885,"language_key":"am","name":"ማርኮቪቺ"}
+{"id":232531224,"city_id":3019887,"language_key":"am","name":"ሚርሲኒቺ"}
+{"id":232531301,"city_id":3019888,"language_key":"am","name":"ራዝድርት"}
+{"id":232531455,"city_id":3019890,"language_key":"am","name":"ጃሲኮቪ ዶ"}
+{"id":232531532,"city_id":3019891,"language_key":"am","name":"ፕሮካፕልጀ"}
+{"id":232531609,"city_id":3019892,"language_key":"am","name":"ኣብዚ ኩላ"}
+{"id":232531686,"city_id":3019893,"language_key":"am","name":"ንጀጉሌ"}
+{"id":232531840,"city_id":3019895,"language_key":"am","name":"ትቭርዶስ"}
+{"id":232533149,"city_id":3019912,"language_key":"am","name":"ስሬድጃ ማሃላ"}
+{"id":232533380,"city_id":3019915,"language_key":"am","name":"ዝግራዳ"}
+{"id":232533611,"city_id":3019918,"language_key":"am","name":"ዝላትና ኦባላ"}
+{"id":232536922,"city_id":3019961,"language_key":"am","name":"ባሴቭኒክ"}
+{"id":232537692,"city_id":3019971,"language_key":"am","name":"ሬዚቪቺ"}
+{"id":232537769,"city_id":3019972,"language_key":"am","name":"ክሩሴቪካ"}
+{"id":232537846,"city_id":3019973,"language_key":"am","name":"ሉሲስ"}
+{"id":232538000,"city_id":3019975,"language_key":"am","name":"ጎሉቦቪቺ"}
+{"id":232538385,"city_id":3019980,"language_key":"am","name":"ጋርዶቪቺ"}
+{"id":232538462,"city_id":3019981,"language_key":"am","name":"ቭርታቼ"}
+{"id":232538770,"city_id":3019985,"language_key":"am","name":"ሴሊስቴ"}
+{"id":232538924,"city_id":3019987,"language_key":"am","name":"ሴሊን"}
+{"id":232539001,"city_id":3019988,"language_key":"am","name":"ፖቪዬቮ"}
+{"id":232539232,"city_id":3019991,"language_key":"am","name":"ሜታልጃካ"}
+{"id":232539309,"city_id":3019992,"language_key":"am","name":"ፓንጄቪ"}
+{"id":232539540,"city_id":3019995,"language_key":"am","name":"ፔትሮቪቺ"}
+{"id":232540079,"city_id":3020002,"language_key":"am","name":"ፔኒ"}
+{"id":232540387,"city_id":3020006,"language_key":"am","name":"ባዝዳን"}
+{"id":232540464,"city_id":3020007,"language_key":"am","name":"ባቡንቺ"}
+{"id":232540772,"city_id":3020011,"language_key":"am","name":"ድራኩሎቪቺ"}
+{"id":232541465,"city_id":3020020,"language_key":"am","name":"ራቪኒ ላዝ"}
+{"id":232541542,"city_id":3020021,"language_key":"am","name":"ሚሶካ"}
+{"id":232541619,"city_id":3020022,"language_key":"am","name":"ሞጅኮቫች"}
+{"id":232541696,"city_id":3020023,"language_key":"am","name":"ስቲጀንስኮ ብሬዶ"}
+{"id":232541773,"city_id":3020024,"language_key":"am","name":"ክራንኮ ብሮዶ"}
+{"id":232541850,"city_id":3020025,"language_key":"am","name":"ትሬቢንቺ"}
+{"id":232543236,"city_id":3020043,"language_key":"am","name":"ሊፕላጃ"}
+{"id":232543390,"city_id":3020045,"language_key":"am","name":"ግሬዶቪን"}
+{"id":232543621,"city_id":3020048,"language_key":"am","name":"ሙሊን"}
+{"id":232543698,"city_id":3020049,"language_key":"am","name":"ስቱልጃኒስ"}
+{"id":232543775,"city_id":3020050,"language_key":"am","name":"ቪኖግራዲን"}
+{"id":232543852,"city_id":3020051,"language_key":"am","name":"ስሚራ"}
+{"id":232543929,"city_id":3020052,"language_key":"am","name":"ብራቶዚካ"}
+{"id":232544006,"city_id":3020053,"language_key":"am","name":"ዶንጂ ኮስ"}
+{"id":232544083,"city_id":3020054,"language_key":"am","name":"ቾርኒ ፖቲክ"}
+{"id":232544237,"city_id":3020056,"language_key":"am","name":"ዶንጂ ኦራሆቫች"}
+{"id":232544314,"city_id":3020057,"language_key":"am","name":"ትረስትኒክ"}
+{"id":232544468,"city_id":3020059,"language_key":"am","name":"ጎርንጃ ትሬብጄሲካ"}
+{"id":232545238,"city_id":3020069,"language_key":"am","name":"ሙኦ"}
+{"id":232545392,"city_id":3020071,"language_key":"am","name":"ኮቫሲካ"}
+{"id":232545469,"city_id":3020072,"language_key":"am","name":"ቨልጀ ስላጭቆ"}
+{"id":232545623,"city_id":3020074,"language_key":"am","name":"ባሌ"}
+{"id":232545700,"city_id":3020075,"language_key":"am","name":"ፖዝዱጅ"}
+{"id":232545854,"city_id":3020077,"language_key":"am","name":"ካታቪቺ"}
+{"id":232545931,"city_id":3020078,"language_key":"am","name":"ኤዴ"}
+{"id":232546316,"city_id":3020083,"language_key":"am","name":"ቤጎቫ ሉካ"}
+{"id":232546393,"city_id":3020084,"language_key":"am","name":"ሴልጄ"}
+{"id":232546932,"city_id":3020091,"language_key":"am","name":"ሳቪና ግላቪካ"}
+{"id":232547240,"city_id":3020095,"language_key":"am","name":"ፕሬንቶቪቺ"}
+{"id":232547317,"city_id":3020096,"language_key":"am","name":"ብራት-ንጅቭኤ"}
+{"id":232547471,"city_id":3020098,"language_key":"am","name":"ፖድባባክ"}
+{"id":232547702,"city_id":3020101,"language_key":"am","name":"ራፋጅሎቪቺ"}
+{"id":232548241,"city_id":3020108,"language_key":"am","name":"ዝሚጂና"}
+{"id":232549396,"city_id":3020123,"language_key":"am","name":"ፕርዝኖ"}
+{"id":232549473,"city_id":3020124,"language_key":"am","name":"ሚሎሰር"}
+{"id":232549781,"city_id":3020128,"language_key":"am","name":"ዶቪስታ"}
+{"id":232550012,"city_id":3020131,"language_key":"am","name":"ዶሊና"}
+{"id":232550089,"city_id":3020132,"language_key":"am","name":"ትሮጎቪስታ"}
+{"id":232550166,"city_id":3020133,"language_key":"am","name":"ፖድሪድ"}
+{"id":232550243,"city_id":3020134,"language_key":"am","name":"ፒቶሚን"}
+{"id":232550320,"city_id":3020135,"language_key":"am","name":"ግራቪስታ"}
+{"id":232550474,"city_id":3020137,"language_key":"am","name":"ኮሪጀን"}
+{"id":232550551,"city_id":3020138,"language_key":"am","name":"አርት"}
+{"id":232550782,"city_id":3020141,"language_key":"am","name":"ኮራጅ-ዶ"}
+{"id":232551090,"city_id":3020145,"language_key":"am","name":"ኮሌቪቺ"}
+{"id":232551244,"city_id":3020147,"language_key":"am","name":"ዲዲኒሴ"}
+{"id":232551321,"city_id":3020148,"language_key":"am","name":"ሞሲላ"}
+{"id":232551398,"city_id":3020149,"language_key":"am","name":"ፖልጃና"}
+{"id":232551629,"city_id":3020152,"language_key":"am","name":"ዴዲና ራቫን"}
+{"id":232551706,"city_id":3020153,"language_key":"am","name":"አብራሪ"}
+{"id":232551860,"city_id":3020155,"language_key":"am","name":"ሜዴዳ"}
+{"id":232552014,"city_id":3020157,"language_key":"am","name":"ባንጄ ብሬዶ"}
+{"id":232552091,"city_id":3020158,"language_key":"am","name":"ሴካ"}
+{"id":232552476,"city_id":3020163,"language_key":"am","name":"ኖቫኮቪስ"}
+{"id":232552553,"city_id":3020164,"language_key":"am","name":"ስቪን"}
+{"id":232552630,"city_id":3020165,"language_key":"am","name":"መልጃቺ"}
+{"id":232553785,"city_id":3020180,"language_key":"am","name":"ቡንካ"}
+{"id":232554170,"city_id":3020185,"language_key":"am","name":"ቪርህ ፖልጃ"}
+{"id":232554247,"city_id":3020186,"language_key":"am","name":"ግራቤ"}
+{"id":232554786,"city_id":3020193,"language_key":"am","name":"ባኖቪና"}
+{"id":232555556,"city_id":3020203,"language_key":"am","name":"ሙሊኖቮ ፖሲቫሎ"}
+{"id":232556403,"city_id":3020214,"language_key":"am","name":"ሚትሮቪቺ"}
+{"id":232557250,"city_id":3020225,"language_key":"am","name":"ሲቪላክ"}
+{"id":232557327,"city_id":3020226,"language_key":"am","name":"ቫልዳኖስ"}
+{"id":232557558,"city_id":3020229,"language_key":"am","name":"ቬሊካ ፕላዛ"}
+{"id":232557635,"city_id":3020230,"language_key":"am","name":"ዶንጃ ክሌዝና"}
+{"id":232557712,"city_id":3020231,"language_key":"am","name":"ሊሳና ቦሪ"}
+{"id":232557866,"city_id":3020233,"language_key":"am","name":"ሞዙራ"}
+{"id":232558020,"city_id":3020235,"language_key":"am","name":"ብሬቪጃ"}
+{"id":232558174,"city_id":3020237,"language_key":"am","name":"ማላ"}
+{"id":232558328,"city_id":3020239,"language_key":"am","name":"ባርሴ"}
+{"id":232558636,"city_id":3020243,"language_key":"am","name":"ጋጄቪ"}
+{"id":232558790,"city_id":3020245,"language_key":"am","name":"ቫጋሞ"}
+{"id":232558944,"city_id":3020247,"language_key":"am","name":"ኮሎቪቺ"}
+{"id":232559098,"city_id":3020249,"language_key":"am","name":"ኡስቱፖ"}
+{"id":232559252,"city_id":3020251,"language_key":"am","name":"ፕሬስመንቼ"}
+{"id":232559329,"city_id":3020252,"language_key":"am","name":"ኖክቴ"}
+{"id":232559406,"city_id":3020253,"language_key":"am","name":"ፖድከርስ"}
+{"id":232561254,"city_id":3020277,"language_key":"am","name":"ሊቫዳኒ"}
+{"id":232561562,"city_id":3020281,"language_key":"am","name":"ጎጊቺ"}
+{"id":232561639,"city_id":3020282,"language_key":"am","name":"ዶንጄ ስቱፓይን።"}
+{"id":232561716,"city_id":3020283,"language_key":"am","name":"ጎርንጀ ስጡፕነ"}
+{"id":232562332,"city_id":3020291,"language_key":"am","name":"ሩጄቪካ"}
+{"id":232563487,"city_id":3020306,"language_key":"am","name":"ጎርንጄ ዳጃቤ"}
+{"id":232563564,"city_id":3020307,"language_key":"am","name":"ዶንጄ ዳጅባቤ"}
+{"id":232564873,"city_id":3020324,"language_key":"am","name":"ግረቻ"}
+{"id":232565027,"city_id":3020326,"language_key":"am","name":"ዚቭኮቪሲ"}
+{"id":232565335,"city_id":3020330,"language_key":"am","name":"ኮስትሮቪቺ"}
+{"id":232565412,"city_id":3020331,"language_key":"am","name":"ፕሪሌቪቺ"}
+{"id":232565489,"city_id":3020332,"language_key":"am","name":"ፖልጃና"}
+{"id":232565566,"city_id":3020333,"language_key":"am","name":"ካሜንስኮ"}
+{"id":232566644,"city_id":3020347,"language_key":"am","name":"ኮቪጄክ"}
+{"id":232567337,"city_id":3020356,"language_key":"am","name":"ፕሪቦጅ"}
+{"id":232567491,"city_id":3020358,"language_key":"am","name":"ቭራንችቀ ንጅቭኤ"}
+{"id":232567953,"city_id":3020364,"language_key":"am","name":"ዶንጂ ሜዱን"}
+{"id":232568107,"city_id":3020366,"language_key":"am","name":"ቦታ"}
+{"id":232568184,"city_id":3020367,"language_key":"am","name":"ራዶቫች"}
+{"id":232568569,"city_id":3020372,"language_key":"am","name":"ብራካ"}
+{"id":232568723,"city_id":3020374,"language_key":"am","name":"ፕሪሚሲ"}
+{"id":232568954,"city_id":3020377,"language_key":"am","name":"ኮኒክ"}
+{"id":232569108,"city_id":3020379,"language_key":"am","name":"ኩሲስታ"}
+{"id":232569262,"city_id":3020381,"language_key":"am","name":"ራብሪ"}
+{"id":232569493,"city_id":3020384,"language_key":"am","name":"ሎፓሪ"}
+{"id":232569878,"city_id":3020389,"language_key":"am","name":"ካጆስ"}
+{"id":232570109,"city_id":3020392,"language_key":"am","name":"ቩሌቪቺ"}
+{"id":232570725,"city_id":3020400,"language_key":"am","name":"ሚና"}
+{"id":232570802,"city_id":3020401,"language_key":"am","name":"ማካጅ"}
+{"id":232570879,"city_id":3020402,"language_key":"am","name":"ቫትኒካጅ"}
+{"id":232570956,"city_id":3020403,"language_key":"am","name":"ኒክ ዶካጅ"}
+{"id":232571033,"city_id":3020404,"language_key":"am","name":"ፕሬንካጅ"}
+{"id":232571110,"city_id":3020405,"language_key":"am","name":"ሃሳኖጅ"}
+{"id":232571418,"city_id":3020409,"language_key":"am","name":"ፕሎካ"}
+{"id":232572650,"city_id":3020425,"language_key":"am","name":"ሌክፔሪሲ"}
+{"id":232572881,"city_id":3020428,"language_key":"am","name":"ዴንቺቺ"}
+{"id":232573112,"city_id":3020431,"language_key":"am","name":"ቬሊኪ ኦስሮስ"}
+{"id":232573189,"city_id":3020432,"language_key":"am","name":"ዴናሴቪቺ"}
+{"id":232573266,"city_id":3020433,"language_key":"am","name":"አሊብራሂማጅ"}
+{"id":232573497,"city_id":3020436,"language_key":"am","name":"ካፕሬ ማህላ"}
+{"id":232573574,"city_id":3020437,"language_key":"am","name":"ሱማ"}
+{"id":232573651,"city_id":3020438,"language_key":"am","name":"ዘንጅ"}
+{"id":232573805,"city_id":3020440,"language_key":"am","name":"ዴቢትሪቺ"}
+{"id":232574190,"city_id":3020445,"language_key":"am","name":"ማሊ ኦስትሮስ"}
+{"id":232574498,"city_id":3020449,"language_key":"am","name":"ግጄኖቪሲ"}
+{"id":232574652,"city_id":3020451,"language_key":"am","name":"ቡዴቼቪትሳ"}
+{"id":232574729,"city_id":3020452,"language_key":"am","name":"ባንዲቺ"}

@@ -1,0 +1,938 @@
+{"id":102226370,"city_id":1327616,"language_key":"el","name":"Ζουλουέτα"}
+{"id":102226447,"city_id":1327617,"language_key":"el","name":"Ζορριλλα"}
+{"id":102226601,"city_id":1327619,"language_key":"el","name":"Ζαζα δελ Μεδιο"}
+{"id":102226755,"city_id":1327621,"language_key":"el","name":"Ο Ζαγιάς"}
+{"id":102226986,"city_id":1327624,"language_key":"el","name":"Ζαρζαλ"}
+{"id":102227140,"city_id":1327626,"language_key":"el","name":"Σαραγόσα"}
+{"id":102227371,"city_id":1327629,"language_key":"el","name":"Ζαπατερο"}
+{"id":102227833,"city_id":1327635,"language_key":"el","name":"Υέρβα δε Γυινεα"}
+{"id":102227987,"city_id":1327637,"language_key":"el","name":"Υατεριτας"}
+{"id":102228295,"city_id":1327641,"language_key":"el","name":"Γιαραγιάμπο"}
+{"id":102228526,"city_id":1327644,"language_key":"el","name":"Μάκι"}
+{"id":102228911,"city_id":1327649,"language_key":"el","name":"Γιαγκουαραμάς"}
+{"id":102229296,"city_id":1327654,"language_key":"el","name":"Γιαγκουατζάι"}
+{"id":102229681,"city_id":1327659,"language_key":"el","name":"Γιάκαμπο Αμπάχο"}
+{"id":102229912,"city_id":1327662,"language_key":"el","name":"Μπιλλιαμ Σολερ"}
+{"id":102229989,"city_id":1327663,"language_key":"el","name":"Μπιλφρεδο Παγες"}
+{"id":102230143,"city_id":1327665,"language_key":"el","name":"Βυέλτα Λάργα"}
+{"id":102231452,"city_id":1327682,"language_key":"el","name":"Βιναλες"}
+{"id":102231529,"city_id":1327683,"language_key":"el","name":"Βιλοριο"}
+{"id":102232376,"city_id":1327694,"language_key":"el","name":"Βικτωρία"}
+{"id":102232915,"city_id":1327701,"language_key":"el","name":"Βικέντιος"}
+{"id":102233069,"city_id":1327703,"language_key":"el","name":"Βικάνα Αμπάχο"}
+{"id":102233223,"city_id":1327705,"language_key":"el","name":"Βιανα"}
+{"id":102233300,"city_id":1327706,"language_key":"el","name":"Βερτιεντες"}
+{"id":102233685,"city_id":1327711,"language_key":"el","name":"Βερέντα Νουέβα"}
+{"id":102233762,"city_id":1327712,"language_key":"el","name":"Βενεζουέλα"}
+{"id":102233993,"city_id":1327715,"language_key":"el","name":"Βενέγκας"}
+{"id":102234147,"city_id":1327717,"language_key":"el","name":"Πεδρο Μπαλλεστερ"}
+{"id":102234224,"city_id":1327718,"language_key":"el","name":"Βελάσκο"}
+{"id":102234301,"city_id":1327719,"language_key":"el","name":"Βεγυητα"}
+{"id":102234378,"city_id":1327720,"language_key":"el","name":"Βεγυητας"}
+{"id":102234455,"city_id":1327721,"language_key":"el","name":"Βεγυητας"}
+{"id":102234917,"city_id":1327727,"language_key":"el","name":"Βεγας"}
+{"id":102235148,"city_id":1327730,"language_key":"el","name":"Βεγα δε Παλμα"}
+{"id":102235456,"city_id":1327734,"language_key":"el","name":"Βεγα Αλτα"}
+{"id":102235610,"city_id":1327736,"language_key":"el","name":"Βαζκόέζ"}
+{"id":102235764,"city_id":1327738,"language_key":"el","name":"Βαραδέρο"}
+{"id":102236457,"city_id":1327747,"language_key":"el","name":"Ούβερο"}
+{"id":102236611,"city_id":1327749,"language_key":"el","name":"Σαν Γερμανός"}
+{"id":102236842,"city_id":1327752,"language_key":"el","name":"Υγιών δε Ρείες"}
+{"id":102236996,"city_id":1327754,"language_key":"el","name":"Υνιδαδ Προλεταρια"}
+{"id":102237073,"city_id":1327755,"language_key":"el","name":"Ούνας"}
+{"id":102237458,"city_id":1327760,"language_key":"el","name":"Τυνας δε Ζαζα"}
+{"id":102237689,"city_id":1327763,"language_key":"el","name":"Τύμπα Κυατρο"}
+{"id":102237843,"city_id":1327765,"language_key":"el","name":"Τουινούκου"}
+{"id":102237997,"city_id":1327767,"language_key":"el","name":"Τρόγια"}
+{"id":102238228,"city_id":1327770,"language_key":"el","name":"Τριυνβιρατο"}
+{"id":102238459,"city_id":1327773,"language_key":"el","name":"Τρινιδάδ"}
+{"id":102239691,"city_id":1327789,"language_key":"el","name":"Τορριεντε"}
+{"id":102239768,"city_id":1327790,"language_key":"el","name":"Τόπες δε Κολλαντες"}
+{"id":102239999,"city_id":1327793,"language_key":"el","name":"Τινιμα"}
+{"id":102241385,"city_id":1327811,"language_key":"el","name":"Ταπαστε"}
+{"id":102241770,"city_id":1327816,"language_key":"el","name":"Ταμαρίντο"}
+{"id":102242078,"city_id":1327820,"language_key":"el","name":"Ταχον"}
+{"id":102242155,"city_id":1327821,"language_key":"el","name":"Ταγοαυαβων"}
+{"id":102242232,"city_id":1327822,"language_key":"el","name":"Ταγκουάσκο"}
+{"id":102242309,"city_id":1327823,"language_key":"el","name":"Τάκο Τάκο"}
+{"id":102242463,"city_id":1327825,"language_key":"el","name":"Τακάξω"}
+{"id":102242540,"city_id":1327826,"language_key":"el","name":"Ταβορ"}
+{"id":102242694,"city_id":1327828,"language_key":"el","name":"Ελ Ταβλον"}
+{"id":102243156,"city_id":1327834,"language_key":"el","name":"Συργιδερό δε Βαταβάνο"}
+{"id":102243233,"city_id":1327835,"language_key":"el","name":"Συμιδερο"}
+{"id":102243541,"city_id":1327839,"language_key":"el","name":"Σοροα"}
+{"id":102244234,"city_id":1327848,"language_key":"el","name":"Σολεδάδ"}
+{"id":102244542,"city_id":1327852,"language_key":"el","name":"Πεπιτο Τευ"}
+{"id":102245081,"city_id":1327859,"language_key":"el","name":"Σόλα"}
+{"id":102245235,"city_id":1327861,"language_key":"el","name":"Σόφια"}
+{"id":102246159,"city_id":1327873,"language_key":"el","name":"Σιτηεκητό"}
+{"id":102246467,"city_id":1327877,"language_key":"el","name":"Βιτορια"}
+{"id":102246621,"city_id":1327879,"language_key":"el","name":"Σιλβεριτα"}
+{"id":102246775,"city_id":1327881,"language_key":"el","name":"Σιγοανευ"}
+{"id":102247314,"city_id":1327888,"language_key":"el","name":"Σιερρα Μορενα"}
+{"id":102247468,"city_id":1327890,"language_key":"el","name":"Σιμπόνι"}
+{"id":102247622,"city_id":1327892,"language_key":"el","name":"Σιβανικό"}
+{"id":102247699,"city_id":1327893,"language_key":"el","name":"Σεβίλλη Αρίμπα"}
+{"id":102247776,"city_id":1327894,"language_key":"el","name":"Σεβιλλα"}
+{"id":102248007,"city_id":1327897,"language_key":"el","name":"Σεναδο"}
+{"id":102248084,"city_id":1327898,"language_key":"el","name":"Σεμπρε"}
+{"id":102248161,"city_id":1327899,"language_key":"el","name":"Σέιβάβω"}
+{"id":102248700,"city_id":1327906,"language_key":"el","name":"Λόμα Μπλάνκα"}
+{"id":102249239,"city_id":1327913,"language_key":"el","name":"Σαο Γρανδε"}
+{"id":102249470,"city_id":1327916,"language_key":"el","name":"Σάο Αρριβα"}
+{"id":102249547,"city_id":1327917,"language_key":"el","name":"Σαν Βισέντε"}
+{"id":102250009,"city_id":1327923,"language_key":"el","name":"Σάντο Τόμας"}
+{"id":102250394,"city_id":1327928,"language_key":"el","name":"Σαντο Δομινγο"}
+{"id":102250933,"city_id":1327935,"language_key":"el","name":"Σαντιαγο δε λας Βεγας"}
+{"id":102251010,"city_id":1327936,"language_key":"el","name":"Σαντιάγο ντε Κούβα"}
+{"id":102251087,"city_id":1327937,"language_key":"el","name":"Σαντιαγο δε Καρταγενα"}
+{"id":102251241,"city_id":1327939,"language_key":"el","name":"Μελίγια"}
+{"id":102254475,"city_id":1327981,"language_key":"el","name":"Σάντα Ρίτα"}
+{"id":102254937,"city_id":1327987,"language_key":"el","name":"Πουέμπλο Νουέβο"}
+{"id":102255630,"city_id":1327996,"language_key":"el","name":"Σάντα Μάρτα"}
+{"id":102256169,"city_id":1328003,"language_key":"el","name":"Σάντα Μαρία"}
+{"id":102256785,"city_id":1328011,"language_key":"el","name":"Σάντα Λυκία"}
+{"id":102256939,"city_id":1328013,"language_key":"el","name":"Σάντα Λυκία"}
+{"id":102259403,"city_id":1328045,"language_key":"el","name":"Σάντα Κρουζ ελ Σάλτο"}
+{"id":102259480,"city_id":1328046,"language_key":"el","name":"Σαντα Κρυζ δε λος Πινος"}
+{"id":102259557,"city_id":1328047,"language_key":"el","name":"Σαντα Κρυζ δελ Νορτε"}
+{"id":102260019,"city_id":1328053,"language_key":"el","name":"Σάντα Κλάρα"}
+{"id":102261097,"city_id":1328067,"language_key":"el","name":"Αγία Άνα"}
+{"id":102261790,"city_id":1328076,"language_key":"el","name":"Αγία Άνα"}
+{"id":102262175,"city_id":1328081,"language_key":"el","name":"Σαν Σεραπιο"}
+{"id":102262329,"city_id":1328083,"language_key":"el","name":"Σαν Ραμόν"}
+{"id":102262560,"city_id":1328086,"language_key":"el","name":"Σαν Ραμόν"}
+{"id":102262714,"city_id":1328088,"language_key":"el","name":"Σαν Ραφαέλ"}
+{"id":102263561,"city_id":1328099,"language_key":"el","name":"Λας Μπιαχάκας"}
+{"id":102263792,"city_id":1328102,"language_key":"el","name":"Σαν Πέδρο ντε Μαγιάμπον"}
+{"id":102263946,"city_id":1328104,"language_key":"el","name":"Σαν Πέδρο"}
+{"id":102265024,"city_id":1328118,"language_key":"el","name":"Σαν Πάμπλο"}
+{"id":102265178,"city_id":1328120,"language_key":"el","name":"Σαν Νικολας δε Μπαρι"}
+{"id":102265255,"city_id":1328121,"language_key":"el","name":"Σαν Νικόλας"}
+{"id":102265717,"city_id":1328127,"language_key":"el","name":"Σαν Μιγμπελ δελ Παδρον"}
+{"id":102265794,"city_id":1328128,"language_key":"el","name":"Σαν Μιγμπελ δε λος Μπανος"}
+{"id":102265871,"city_id":1328129,"language_key":"el","name":"Σαν Μιγμπελ δε Μπαγα"}
+{"id":102267411,"city_id":1328149,"language_key":"el","name":"Σαν Μανουέλ"}
+{"id":102268027,"city_id":1328157,"language_key":"el","name":"Σαν Λουός"}
+{"id":102268104,"city_id":1328158,"language_key":"el","name":"Σαν Λουός"}
+{"id":102269182,"city_id":1328172,"language_key":"el","name":"Σαν Γυαν η Μαρτίνεζ"}
+{"id":102269567,"city_id":1328177,"language_key":"el","name":"Σαν Γυαν δε λος Ιεράς"}
+{"id":102270337,"city_id":1328187,"language_key":"el","name":"Σαν Χοσέ ντε Μάρκος"}
+{"id":102270568,"city_id":1328190,"language_key":"el","name":"Σαν Ιοσε δε λος Ραμος"}
+{"id":102270722,"city_id":1328192,"language_key":"el","name":"Σαν Χοσέ ντε λας Λάτζας"}
+{"id":102271261,"city_id":1328199,"language_key":"el","name":"Σαν Χοσέ"}
+{"id":102271338,"city_id":1328200,"language_key":"el","name":"Σαν Χοσέ"}
+{"id":102272724,"city_id":1328218,"language_key":"el","name":"Σαν Χόρχε"}
+{"id":102273263,"city_id":1328225,"language_key":"el","name":"Σαν Τζερόνιμο"}
+{"id":102274264,"city_id":1328238,"language_key":"el","name":"Σανγυίλυ"}
+{"id":102274572,"city_id":1328242,"language_key":"el","name":"Σαν Φρανσίσκο ντε Πάουλα"}
+{"id":102274726,"city_id":1328244,"language_key":"el","name":"Σαν Φρανσίσκο"}
+{"id":102275496,"city_id":1328254,"language_key":"el","name":"Σαν Φρανσίσκο"}
+{"id":102275573,"city_id":1328255,"language_key":"el","name":"Σαν Φερνανδο δε Καμαρονες"}
+{"id":102276112,"city_id":1328262,"language_key":"el","name":"Σαν Φελίπε"}
+{"id":102276266,"city_id":1328264,"language_key":"el","name":"Σαν Φελίπε"}
+{"id":102276728,"city_id":1328270,"language_key":"el","name":"Σαν Ενρίκε"}
+{"id":102276882,"city_id":1328272,"language_key":"el","name":"Σανδινο"}
+{"id":102277036,"city_id":1328274,"language_key":"el","name":"Σαν Διεγο δελ Βαλλε"}
+{"id":102277113,"city_id":1328275,"language_key":"el","name":"Σαν Διεγο δε Λος Μπανος"}
+{"id":102277421,"city_id":1328279,"language_key":"el","name":"Σάνκτι Σπίριτους"}
+{"id":102277575,"city_id":1328281,"language_key":"el","name":"Σαν Κριστόβαλ"}
+{"id":102278653,"city_id":1328295,"language_key":"el","name":"Σαν Μπλας"}
+{"id":102279192,"city_id":1328302,"language_key":"el","name":"Σαν Αντονιο δε Ριο Μπλαγκο"}
+{"id":102279269,"city_id":1328303,"language_key":"el","name":"Σαν Αντονιο δελ Συρ"}
+{"id":102279346,"city_id":1328304,"language_key":"el","name":"Σαν Αντονιο δε λος Μπανος"}
+{"id":102279423,"city_id":1328305,"language_key":"el","name":"Σαν Αντόνιο ντε λας Βουέλτας"}
+{"id":102279500,"city_id":1328306,"language_key":"el","name":"Σαν Αντονιο δε λας Βεγας"}
+{"id":102279577,"city_id":1328307,"language_key":"el","name":"Καβέζας"}
+{"id":102279808,"city_id":1328310,"language_key":"el","name":"Σαν Αντόνιο"}
+{"id":102280732,"city_id":1328322,"language_key":"el","name":"Σαν Αντόνιο"}
+{"id":102281040,"city_id":1328326,"language_key":"el","name":"Σαν Αντόν"}
+{"id":102281117,"city_id":1328327,"language_key":"el","name":"Σαν Αντρές"}
+{"id":102281348,"city_id":1328330,"language_key":"el","name":"Σαν Αντρές"}
+{"id":102281425,"city_id":1328331,"language_key":"el","name":"Σαν Αντρές"}
+{"id":102282041,"city_id":1328339,"language_key":"el","name":"Σαν Αγκουστίν"}
+{"id":102282734,"city_id":1328348,"language_key":"el","name":"Σαλβαδορ Ροσαλες"}
+{"id":102283581,"city_id":1328359,"language_key":"el","name":"Σάγουα λα Γκράντε"}
+{"id":102283658,"city_id":1328360,"language_key":"el","name":"Σαγμπα δε Ταναμο"}
+{"id":102283812,"city_id":1328362,"language_key":"el","name":"Σαβίνο Χερνάντεζ"}
+{"id":102284274,"city_id":1328368,"language_key":"el","name":"Σαβανίλλα"}
+{"id":102284890,"city_id":1328376,"language_key":"el","name":"Σαβανάζω"}
+{"id":102285891,"city_id":1328389,"language_key":"el","name":"Σαβαλο"}
+{"id":102286199,"city_id":1328393,"language_key":"el","name":"Ελ Ροζάριο"}
+{"id":102286584,"city_id":1328398,"language_key":"el","name":"Ροσα Μαρινα"}
+{"id":102287277,"city_id":1328407,"language_key":"el","name":"Ροδριγο"}
+{"id":102287508,"city_id":1328410,"language_key":"el","name":"Ρόδας"}
+{"id":102288278,"city_id":1328420,"language_key":"el","name":"Ρίο Σέκο"}
+{"id":102288355,"city_id":1328421,"language_key":"el","name":"Ρίο Σέκο"}
+{"id":102288740,"city_id":1328426,"language_key":"el","name":"Ρίο Γκράντε"}
+{"id":102289125,"city_id":1328431,"language_key":"el","name":"Ριο Φεο"}
+{"id":102289433,"city_id":1328435,"language_key":"el","name":"Ρίο Κάουτο"}
+{"id":102289895,"city_id":1328441,"language_key":"el","name":"Λα Πάλμα"}
+{"id":102290203,"city_id":1328445,"language_key":"el","name":"Ρέυνολδ Γαρκια"}
+{"id":102291281,"city_id":1328459,"language_key":"el","name":"Ελ Τρόνκο"}
+{"id":102291589,"city_id":1328463,"language_key":"el","name":"Κελιμαρ"}
+{"id":102291820,"city_id":1328466,"language_key":"el","name":"Ρεμέδιος"}
+{"id":102291897,"city_id":1328467,"language_key":"el","name":"Ρεματε δε Αριοζα"}
+{"id":102292282,"city_id":1328472,"language_key":"el","name":"Ρεγλα"}
+{"id":102292436,"city_id":1328474,"language_key":"el","name":"Ρεφορμά Αγραρία"}
+{"id":102292667,"city_id":1328477,"language_key":"el","name":"Ρετενσιον"}
+{"id":102293206,"city_id":1328484,"language_key":"el","name":"Ελ Ρεαλεγγο"}
+{"id":102293283,"city_id":1328485,"language_key":"el","name":"Ρεαλ Καμπινα"}
+{"id":102293668,"city_id":1328490,"language_key":"el","name":"Ρανχύελο"}
+{"id":102293976,"city_id":1328494,"language_key":"el","name":"Ραγχο Βελοζ"}
+{"id":102294130,"city_id":1328496,"language_key":"el","name":"Ράντσο Γκράντε"}
+{"id":102294900,"city_id":1328506,"language_key":"el","name":"Σάντα Λυκία"}
+{"id":102295131,"city_id":1328509,"language_key":"el","name":"Κιβικανός"}
+{"id":102295208,"city_id":1328510,"language_key":"el","name":"Κουίντιν Μπαντέρας"}
+{"id":102295593,"city_id":1328515,"language_key":"el","name":"Κουέβρα Χαχα"}
+{"id":102296055,"city_id":1328521,"language_key":"el","name":"Κυήματο δε Γυείνες"}
+{"id":102296902,"city_id":1328532,"language_key":"el","name":"Ελ Πούριο"}
+{"id":102296979,"city_id":1328533,"language_key":"el","name":"Πυριάλες δε Καυγερη"}
+{"id":102297210,"city_id":1328536,"language_key":"el","name":"Ελ Πουριάλ"}
+{"id":102297441,"city_id":1328539,"language_key":"el","name":"Πούντο Νουέβο"}
+{"id":102297749,"city_id":1328543,"language_key":"el","name":"Πούντα Γόρδα"}
+{"id":102297903,"city_id":1328545,"language_key":"el","name":"Πυντα δε λα Σιερρα"}
+{"id":102298519,"city_id":1328553,"language_key":"el","name":"Πυντα Αλεγρε"}
+{"id":102298827,"city_id":1328557,"language_key":"el","name":"Πυέρτο Ρίκο Λίβρε"}
+{"id":102298981,"city_id":1328559,"language_key":"el","name":"Πουέρτο Πάδρε"}
+{"id":102299058,"city_id":1328560,"language_key":"el","name":"Πουέρτο Μανάτι"}
+{"id":102299289,"city_id":1328563,"language_key":"el","name":"Πουέρτο Καρουπάνο"}
+{"id":102299366,"city_id":1328564,"language_key":"el","name":"Πουέρτο Μπονιάτο"}
+{"id":102299674,"city_id":1328568,"language_key":"el","name":"Πμπερτα δε Γολπε"}
+{"id":102301137,"city_id":1328587,"language_key":"el","name":"Περσεβεραγκια"}
+{"id":102301214,"city_id":1328588,"language_key":"el","name":"Πριμερο δε Ενερο"}
+{"id":102301676,"city_id":1328594,"language_key":"el","name":"Ποζο Ρεδονδο"}
+{"id":102302985,"city_id":1328611,"language_key":"el","name":"Ελ Ακάτσιο"}
+{"id":102305218,"city_id":1328640,"language_key":"el","name":"Γέφυρα"}
+{"id":102305372,"city_id":1328642,"language_key":"el","name":"Πομπιτα"}
+{"id":102305757,"city_id":1328647,"language_key":"el","name":"Ελ Κορόχο"}
+{"id":102306758,"city_id":1328660,"language_key":"el","name":"Λα Πανχίτα"}
+{"id":102307143,"city_id":1328665,"language_key":"el","name":"Πλαυα Γιρον"}
+{"id":102307297,"city_id":1328667,"language_key":"el","name":"Πλαυα ελ Μορριλλο"}
+{"id":102307374,"city_id":1328668,"language_key":"el","name":"Πλαια δελ Κάγιο"}
+{"id":102307605,"city_id":1328671,"language_key":"el","name":"Μπόκα ντε Καμαριόκα"}
+{"id":102307836,"city_id":1328674,"language_key":"el","name":"Πλαια Παρακοα"}
+{"id":102307913,"city_id":1328675,"language_key":"el","name":"Πλατανικο"}
+{"id":102308452,"city_id":1328682,"language_key":"el","name":"Πλασέτας"}
+{"id":102308760,"city_id":1328686,"language_key":"el","name":"Λα Πιραγκούα"}
+{"id":102308837,"city_id":1328687,"language_key":"el","name":"Πιπιαν"}
+{"id":102309145,"city_id":1328691,"language_key":"el","name":"Πινο Γορδο"}
+{"id":102309453,"city_id":1328695,"language_key":"el","name":"Πινάρ ντελ Ρίο"}
+{"id":102309838,"city_id":1328700,"language_key":"el","name":"Πλαν Πίνα"}
+{"id":102309992,"city_id":1328702,"language_key":"el","name":"Πιλοτος"}
+{"id":102310069,"city_id":1328703,"language_key":"el","name":"Εστράδα"}
+{"id":102310223,"city_id":1328705,"language_key":"el","name":"Πιλον"}
+{"id":102310454,"city_id":1328708,"language_key":"el","name":"Πιτζιρίγκουα"}
+{"id":102310531,"city_id":1328709,"language_key":"el","name":"Πιεδρεκιτας"}
+{"id":102310839,"city_id":1328713,"language_key":"el","name":"Λα Πιέδρα"}
+{"id":102311070,"city_id":1328716,"language_key":"el","name":"Πεσκέιρα"}
+{"id":102311686,"city_id":1328724,"language_key":"el","name":"Πέρικο"}
+{"id":102311917,"city_id":1328727,"language_key":"el","name":"Περεα"}
+{"id":102312918,"city_id":1328740,"language_key":"el","name":"Ο Πεδρόσο"}
+{"id":102313149,"city_id":1328743,"language_key":"el","name":"Πεδρο Πι"}
+{"id":102313226,"city_id":1328744,"language_key":"el","name":"Πεδρο Μπεταγκουρτ"}
+{"id":102313303,"city_id":1328745,"language_key":"el","name":"Πεδριν Τρουα"}
+{"id":102314150,"city_id":1328756,"language_key":"el","name":"Πασο Ρεαλ δε Σαν Διεγο"}
+{"id":102314227,"city_id":1328757,"language_key":"el","name":"Πάσο Κυήματο"}
+{"id":102314612,"city_id":1328762,"language_key":"el","name":"Πασο δελ Μεδιο"}
+{"id":102314920,"city_id":1328766,"language_key":"el","name":"Παρέδες"}
+{"id":102315305,"city_id":1328771,"language_key":"el","name":"Παραγουάη"}
+{"id":102315459,"city_id":1328773,"language_key":"el","name":"Παραδερο δε Μαγγας"}
+{"id":102315536,"city_id":1328774,"language_key":"el","name":"Παραδερο δε Λυγαρενο"}
+{"id":102315613,"city_id":1328775,"language_key":"el","name":"Παραδερο δε Καμαρονες"}
+{"id":102315690,"city_id":1328776,"language_key":"el","name":"Παγχιτο Γομεζ Τορο"}
+{"id":102315998,"city_id":1328780,"language_key":"el","name":"Παλπιτε"}
+{"id":102316075,"city_id":1328781,"language_key":"el","name":"Πάλο Σέκο"}
+{"id":102316383,"city_id":1328785,"language_key":"el","name":"Παλος"}
+{"id":102316845,"city_id":1328791,"language_key":"el","name":"Παλμίρα"}
+{"id":102316999,"city_id":1328793,"language_key":"el","name":"Πάλμα Σοριάνο"}
+{"id":102317076,"city_id":1328794,"language_key":"el","name":"Πάλμα Σόλα"}
+{"id":102319540,"city_id":1328826,"language_key":"el","name":"Παλένκε"}
+{"id":102319617,"city_id":1328827,"language_key":"el","name":"Ελ Παλένκε"}
+{"id":102320079,"city_id":1328833,"language_key":"el","name":"Πάμπλο"}
+{"id":102320233,"city_id":1328835,"language_key":"el","name":"Οσβαλδο Χερρερα"}
+{"id":102320695,"city_id":1328841,"language_key":"el","name":"Οριεντε Ρεμπελδε"}
+{"id":102320772,"city_id":1328842,"language_key":"el","name":"Οριεντέ"}
+{"id":102321157,"city_id":1328847,"language_key":"el","name":"Ομάγια"}
+{"id":102323082,"city_id":1328872,"language_key":"el","name":"Οκεγκουέρα"}
+{"id":102323159,"city_id":1328873,"language_key":"el","name":"Οξιτανία"}
+{"id":102323621,"city_id":1328879,"language_key":"el","name":"Νουεβίτας"}
+{"id":102323698,"city_id":1328880,"language_key":"el","name":"Νουέβα Παζ"}
+{"id":102323929,"city_id":1328883,"language_key":"el","name":"Νουέβα Τζερόνα"}
+{"id":102324468,"city_id":1328890,"language_key":"el","name":"Νικοερό"}
+{"id":102324853,"city_id":1328895,"language_key":"el","name":"Νικετο Περεζ"}
+{"id":102324930,"city_id":1328896,"language_key":"el","name":"Νικάρο-Λεβίσα"}
+{"id":102325238,"city_id":1328900,"language_key":"el","name":"Νελα"}
+{"id":102325315,"city_id":1328901,"language_key":"el","name":"Νέιβα"}
+{"id":102325546,"city_id":1328904,"language_key":"el","name":"Ναζαρενο"}
+{"id":102325931,"city_id":1328909,"language_key":"el","name":"Εμιλιο Κορδοβα"}
+{"id":102326778,"city_id":1328920,"language_key":"el","name":"Ναρκισα"}
+{"id":102327240,"city_id":1328926,"language_key":"el","name":"Νατζάσα"}
+{"id":102327779,"city_id":1328933,"language_key":"el","name":"Μότα"}
+{"id":102328164,"city_id":1328938,"language_key":"el","name":"Μορόν"}
+{"id":102328626,"city_id":1328944,"language_key":"el","name":"Μορδαζο"}
+{"id":102328934,"city_id":1328948,"language_key":"el","name":"Μόντε Βέρντε"}
+{"id":102329242,"city_id":1328952,"language_key":"el","name":"Μόντε Οσκούρο"}
+{"id":102330859,"city_id":1328973,"language_key":"el","name":"Λα Μοδέλο"}
+{"id":102331013,"city_id":1328975,"language_key":"el","name":"Μόα"}
+{"id":102331321,"city_id":1328979,"language_key":"el","name":"Μίραφλορες"}
+{"id":102331475,"city_id":1328981,"language_key":"el","name":"Μίρ"}
+{"id":102331629,"city_id":1328983,"language_key":"el","name":"Μοτέμπο"}
+{"id":102331706,"city_id":1328984,"language_key":"el","name":"Μινας δε Ματαχαμμπρε"}
+{"id":102331783,"city_id":1328985,"language_key":"el","name":"Λας Μίνας"}
+{"id":102332091,"city_id":1328989,"language_key":"el","name":"Μινας"}
+{"id":102332938,"city_id":1329000,"language_key":"el","name":"Μεξικό"}
+{"id":102333400,"city_id":1329006,"language_key":"el","name":"Μερκετιτα"}
+{"id":102333708,"city_id":1329010,"language_key":"el","name":"Λας Μερκεδες"}
+{"id":102333862,"city_id":1329012,"language_key":"el","name":"Μενεσες"}
+{"id":102334093,"city_id":1329015,"language_key":"el","name":"Μενελαο Μορα"}
+{"id":102334247,"city_id":1329017,"language_key":"el","name":"Ισαβέλ Ροβιών"}
+{"id":102334324,"city_id":1329018,"language_key":"el","name":"Μελονες"}
+{"id":102334632,"city_id":1329022,"language_key":"el","name":"Μέλλα"}
+{"id":102335094,"city_id":1329028,"language_key":"el","name":"Μελενα δελ Συρ"}
+{"id":102335633,"city_id":1329035,"language_key":"el","name":"Μέδια Λυγά"}
+{"id":102335941,"city_id":1329039,"language_key":"el","name":"Μαυαρι Αρριβα"}
+{"id":102336018,"city_id":1329040,"language_key":"el","name":"Μαυαρι"}
+{"id":102336095,"city_id":1329041,"language_key":"el","name":"Μαυαρι"}
+{"id":102336249,"city_id":1329043,"language_key":"el","name":"Μαγιατζιγκούα"}
+{"id":102336480,"city_id":1329046,"language_key":"el","name":"Μαξιμο Γομεζ"}
+{"id":102336942,"city_id":1329052,"language_key":"el","name":"Ο Ματίας"}
+{"id":102337173,"city_id":1329055,"language_key":"el","name":"Ματάνσας"}
+{"id":102337327,"city_id":1329057,"language_key":"el","name":"Ματαχαμβρε"}
+{"id":102337404,"city_id":1329058,"language_key":"el","name":"Ματάγκουα"}
+{"id":102337635,"city_id":1329061,"language_key":"el","name":"Μάτα"}
+{"id":102338174,"city_id":1329068,"language_key":"el","name":"Μαρτι"}
+{"id":102338251,"city_id":1329069,"language_key":"el","name":"Μαρτι"}
+{"id":102338328,"city_id":1329070,"language_key":"el","name":"Μαρροκόη"}
+{"id":102338405,"city_id":1329071,"language_key":"el","name":"Μαριελ"}
+{"id":102338636,"city_id":1329074,"language_key":"el","name":"Μαρια Ροδριγμπεζ"}
+{"id":102338713,"city_id":1329075,"language_key":"el","name":"Μαριαναο"}
+{"id":102338944,"city_id":1329078,"language_key":"el","name":"Μαρία Λουίζα"}
+{"id":102339714,"city_id":1329088,"language_key":"el","name":"Λα Μαργαρίτα"}
+{"id":102340561,"city_id":1329099,"language_key":"el","name":"Μαπος"}
+{"id":102340638,"city_id":1329100,"language_key":"el","name":"Μαντζανίλλο"}
+{"id":102340946,"city_id":1329104,"language_key":"el","name":"Μανυέλ Τάμεση"}
+{"id":102341023,"city_id":1329105,"language_key":"el","name":"Μανυέλ Σανγυίλυ"}
+{"id":102341485,"city_id":1329111,"language_key":"el","name":"Μάντοβα"}
+{"id":102341870,"city_id":1329116,"language_key":"el","name":"Μανικαράγουα"}
+{"id":102341947,"city_id":1329117,"language_key":"el","name":"Μανιαβον"}
+{"id":102342101,"city_id":1329119,"language_key":"el","name":"Ελ Μανγκουίτο"}
+{"id":102342255,"city_id":1329121,"language_key":"el","name":"Μαγκουίτο"}
+{"id":102342563,"city_id":1329125,"language_key":"el","name":"Μάγο Ξοβο"}
+{"id":102342640,"city_id":1329126,"language_key":"el","name":"Μάνγκο Ντούλσε"}
+{"id":102343256,"city_id":1329134,"language_key":"el","name":"Μανατι"}
+{"id":102343564,"city_id":1329138,"language_key":"el","name":"Μαναξαναβο"}
+{"id":102343949,"city_id":1329143,"language_key":"el","name":"Μανάγουα"}
+{"id":102344103,"city_id":1329145,"language_key":"el","name":"Μανάκας"}
+{"id":102344180,"city_id":1329146,"language_key":"el","name":"Μανάκας"}
+{"id":102345027,"city_id":1329157,"language_key":"el","name":"Ελ Μαμέι"}
+{"id":102345181,"city_id":1329159,"language_key":"el","name":"Μαμαναντουάμπο"}
+{"id":102345412,"city_id":1329162,"language_key":"el","name":"Μαλ Τιεμπο"}
+{"id":102345797,"city_id":1329167,"language_key":"el","name":"Μαξιβάκοα"}
+{"id":102346105,"city_id":1329171,"language_key":"el","name":"Ματζάγκουα"}
+{"id":102346182,"city_id":1329172,"language_key":"el","name":"Ματζάγκουα"}
+{"id":102346336,"city_id":1329174,"language_key":"el","name":"Μαισι"}
+{"id":102346875,"city_id":1329181,"language_key":"el","name":"Μαγαραβόμβα"}
+{"id":102347106,"city_id":1329184,"language_key":"el","name":"Μαδρυγα"}
+{"id":102347722,"city_id":1329192,"language_key":"el","name":"Μακάγουαλ"}
+{"id":102348184,"city_id":1329198,"language_key":"el","name":"Μακάμπι"}
+{"id":102348415,"city_id":1329201,"language_key":"el","name":"Μαβουα"}
+{"id":102348646,"city_id":1329204,"language_key":"el","name":"Λυτγαρδίτα"}
+{"id":102348800,"city_id":1329206,"language_key":"el","name":"Λουγκαρένο"}
+{"id":102349647,"city_id":1329217,"language_key":"el","name":"Λος Ρευναλδος"}
+{"id":102349955,"city_id":1329221,"language_key":"el","name":"Λος Πουέρκος"}
+{"id":102350263,"city_id":1329225,"language_key":"el","name":"Λος Πίνος"}
+{"id":102350340,"city_id":1329226,"language_key":"el","name":"Λος Περρος"}
+{"id":102350417,"city_id":1329227,"language_key":"el","name":"Λος Πασος"}
+{"id":102350648,"city_id":1329230,"language_key":"el","name":"Λος Παλακιος"}
+{"id":102350879,"city_id":1329233,"language_key":"el","name":"Λος Νεγρος"}
+{"id":102351264,"city_id":1329238,"language_key":"el","name":"Μαγγος δε Μπαραγμπα"}
+{"id":102352419,"city_id":1329253,"language_key":"el","name":"Λας Κάσας"}
+{"id":102353266,"city_id":1329264,"language_key":"el","name":"Γυαος"}
+{"id":102353651,"city_id":1329269,"language_key":"el","name":"Λος Κοκίτος"}
+{"id":102354498,"city_id":1329280,"language_key":"el","name":"Λος Κάγιος"}
+{"id":102355576,"city_id":1329294,"language_key":"el","name":"Λος Αραβοσίτου"}
+{"id":102355730,"city_id":1329296,"language_key":"el","name":"Λος Άντζελες"}
+{"id":102355961,"city_id":1329299,"language_key":"el","name":"Λος Άντζελες"}
+{"id":102356346,"city_id":1329304,"language_key":"el","name":"Λορα"}
+{"id":102356654,"city_id":1329308,"language_key":"el","name":"Λομβίλλο"}
+{"id":102357424,"city_id":1329318,"language_key":"el","name":"Ελ Κουρχ"}
+{"id":102357809,"city_id":1329323,"language_key":"el","name":"Λιμονες Παλμερος"}
+{"id":102357963,"city_id":1329325,"language_key":"el","name":"Λιμονες"}
+{"id":102358579,"city_id":1329333,"language_key":"el","name":"Λιμοναρ"}
+{"id":102359888,"city_id":1329350,"language_key":"el","name":"Λεχύγα"}
+{"id":102360196,"city_id":1329354,"language_key":"el","name":"Λα Γιάγια"}
+{"id":102360504,"city_id":1329358,"language_key":"el","name":"Λα Γιάγια"}
+{"id":102361890,"city_id":1329376,"language_key":"el","name":"Λα Βεγυητα"}
+{"id":102362352,"city_id":1329382,"language_key":"el","name":"Λα Βαλλιτα"}
+{"id":102362429,"city_id":1329383,"language_key":"el","name":"Λα Βαλλιτα"}
+{"id":102363815,"city_id":1329401,"language_key":"el","name":"Λα Τομασιτα"}
+{"id":102365432,"city_id":1329422,"language_key":"el","name":"Λας Τούσας"}
+{"id":102365509,"city_id":1329423,"language_key":"el","name":"Λας Τούνας"}
+{"id":102365894,"city_id":1329428,"language_key":"el","name":"Λας Πυέρκας"}
+{"id":102365971,"city_id":1329429,"language_key":"el","name":"Λας Πόζας"}
+{"id":102366202,"city_id":1329432,"language_key":"el","name":"Λας Πιέδρας"}
+{"id":102366433,"city_id":1329435,"language_key":"el","name":"Λας Παρρας"}
+{"id":102366510,"city_id":1329436,"language_key":"el","name":"Λας Παρρας"}
+{"id":102366741,"city_id":1329439,"language_key":"el","name":"Λας Οβας"}
+{"id":102366895,"city_id":1329441,"language_key":"el","name":"Λας Νουέβας"}
+{"id":102367049,"city_id":1329443,"language_key":"el","name":"Λας Νοβιλλας"}
+{"id":102367973,"city_id":1329455,"language_key":"el","name":"Κόβατονγα"}
+{"id":102368127,"city_id":1329457,"language_key":"el","name":"Λας Μερκεδες"}
+{"id":102368358,"city_id":1329460,"language_key":"el","name":"Λας Μερκεδες"}
+{"id":102368512,"city_id":1329462,"language_key":"el","name":"Λας Μαρτινας"}
+{"id":102369359,"city_id":1329473,"language_key":"el","name":"Λας Μαγγας"}
+{"id":102370206,"city_id":1329484,"language_key":"el","name":"Λα Σιερριτα"}
+{"id":102370283,"city_id":1329485,"language_key":"el","name":"Λα Σιέρα"}
+{"id":102370591,"city_id":1329489,"language_key":"el","name":"Λα Σιερπε"}
+{"id":102370668,"city_id":1329490,"language_key":"el","name":"Λας Γκουασίμας"}
+{"id":102371361,"city_id":1329499,"language_key":"el","name":"Μπενίτο Χουάρες"}
+{"id":102372593,"city_id":1329515,"language_key":"el","name":"Λας Χαρκας"}
+{"id":102372747,"city_id":1329517,"language_key":"el","name":"Λας Κασίμπας"}
+{"id":102372901,"city_id":1329519,"language_key":"el","name":"Λας Καρολίνας"}
+{"id":102372978,"city_id":1329520,"language_key":"el","name":"Λας Κάνας"}
+{"id":102373132,"city_id":1329522,"language_key":"el","name":"Λας Καλαμπάζας"}
+{"id":102373902,"city_id":1329532,"language_key":"el","name":"Λα Σαλυδ"}
+{"id":102374749,"city_id":1329543,"language_key":"el","name":"Λα Ροζίτα"}
+{"id":102375750,"city_id":1329556,"language_key":"el","name":"Λα Ρεγλιτα"}
+{"id":102375827,"city_id":1329557,"language_key":"el","name":"Λα Ρεφόρμα"}
+{"id":102376289,"city_id":1329563,"language_key":"el","name":"Λα Ρανα"}
+{"id":102376443,"city_id":1329565,"language_key":"el","name":"Λα Κουίντα"}
+{"id":102377136,"city_id":1329574,"language_key":"el","name":"Λα Προέβαλε"}
+{"id":102377367,"city_id":1329577,"language_key":"el","name":"Λα Ποστα"}
+{"id":102379677,"city_id":1329607,"language_key":"el","name":"Λα Πάρα"}
+{"id":102380139,"city_id":1329613,"language_key":"el","name":"Λα Πάλμα"}
+{"id":102380909,"city_id":1329623,"language_key":"el","name":"Λα Νορμα"}
+{"id":102381602,"city_id":1329632,"language_key":"el","name":"Λα Μοζα"}
+{"id":102381756,"city_id":1329634,"language_key":"el","name":"Λα Μάγια"}
+{"id":102382064,"city_id":1329638,"language_key":"el","name":"Λα Ματιλδε δε Κανερα"}
+{"id":102383142,"city_id":1329652,"language_key":"el","name":"Λα Λουζ"}
+{"id":102383219,"city_id":1329653,"language_key":"el","name":"Λα Λουζ"}
+{"id":102383450,"city_id":1329656,"language_key":"el","name":"Λα Λούσα"}
+{"id":102383758,"city_id":1329660,"language_key":"el","name":"Λα Λούτσα"}
+{"id":102384451,"city_id":1329669,"language_key":"el","name":"Λα Λισα"}
+{"id":102386068,"city_id":1329690,"language_key":"el","name":"Λα Τζούλια"}
+{"id":102387916,"city_id":1329714,"language_key":"el","name":"Λακιπάμπα"}
+{"id":102388147,"city_id":1329717,"language_key":"el","name":"Λα Τζάγκουα"}
+{"id":102388455,"city_id":1329721,"language_key":"el","name":"Λα Τζάγκουα"}
+{"id":102388532,"city_id":1329722,"language_key":"el","name":"Λα Ισαβέλ"}
+{"id":102389071,"city_id":1329729,"language_key":"el","name":"Αβάνα"}
+{"id":102389379,"city_id":1329733,"language_key":"el","name":"Λαγονίλλας"}
+{"id":102389764,"city_id":1329738,"language_key":"el","name":"Λαγκούνα Μπλάνκα"}
+{"id":102389918,"city_id":1329740,"language_key":"el","name":"Λα Γυέιρα"}
+{"id":102390457,"city_id":1329747,"language_key":"el","name":"Λα Γουινέα"}
+{"id":102390765,"city_id":1329751,"language_key":"el","name":"Λας Γκουασίμας"}
+{"id":102391304,"city_id":1329758,"language_key":"el","name":"Λα Γκλόρια"}
+{"id":102392921,"city_id":1329779,"language_key":"el","name":"Λα Φε"}
+{"id":102392998,"city_id":1329780,"language_key":"el","name":"Λα Φε"}
+{"id":102393306,"city_id":1329784,"language_key":"el","name":"Λα Ευρωπαϊκή"}
+{"id":102393922,"city_id":1329792,"language_key":"el","name":"Λετίσια"}
+{"id":102394076,"city_id":1329794,"language_key":"el","name":"Πουέρτο Εσπεράνζα"}
+{"id":102395616,"city_id":1329814,"language_key":"el","name":"Λα Διβισιον"}
+{"id":102396155,"city_id":1329821,"language_key":"el","name":"Λα Δημαξαγυα"}
+{"id":102396232,"city_id":1329822,"language_key":"el","name":"Λα Δημαξαγυα"}
+{"id":102397002,"city_id":1329832,"language_key":"el","name":"Η Κουβάνα"}
+{"id":102398388,"city_id":1329850,"language_key":"el","name":"Λα Κολομα"}
+{"id":102400159,"city_id":1329873,"language_key":"el","name":"Λα Καρολίνα"}
+{"id":102400390,"city_id":1329876,"language_key":"el","name":"Λα Καρλοτα"}
+{"id":102400467,"city_id":1329877,"language_key":"el","name":"Λα Καριδαδ δε λος Ινδιος"}
+{"id":102401391,"city_id":1329889,"language_key":"el","name":"Λα Καοβα"}
+{"id":102402315,"city_id":1329901,"language_key":"el","name":"Λα Καμπάνα"}
+{"id":102402623,"city_id":1329905,"language_key":"el","name":"Καλέρα"}
+{"id":102403778,"city_id":1329920,"language_key":"el","name":"Λαβερίντο-Λαπόρτιλλα"}
+{"id":102404317,"city_id":1329927,"language_key":"el","name":"Λα Αουρόρα"}
+{"id":102404548,"city_id":1329930,"language_key":"el","name":"Λα Ασουνσιόν"}
+{"id":102405318,"city_id":1329940,"language_key":"el","name":"Λα Αλεγρια"}
+{"id":102406088,"city_id":1329950,"language_key":"el","name":"Τζουράγκουα"}
+{"id":102406319,"city_id":1329953,"language_key":"el","name":"Τζουμάγκουα"}
+{"id":102406781,"city_id":1329959,"language_key":"el","name":"Ζουκάρο"}
+{"id":102407474,"city_id":1329968,"language_key":"el","name":"Γυαν Γυαλβέρτο Γομέζ"}
+{"id":102407936,"city_id":1329974,"language_key":"el","name":"Ιοβελλανος"}
+{"id":102408167,"city_id":1329977,"language_key":"el","name":"Γωσε Σμιθ Κόμας"}
+{"id":102408321,"city_id":1329979,"language_key":"el","name":"Ιοσε Μαρτι"}
+{"id":102408398,"city_id":1329980,"language_key":"el","name":"Χοσέ Μαρία Πίνο Σουάρεζ"}
+{"id":102408629,"city_id":1329983,"language_key":"el","name":"Γόροβαδα"}
+{"id":102408937,"city_id":1329987,"language_key":"el","name":"Ξοβο Ροσάδο"}
+{"id":102409399,"city_id":1329993,"language_key":"el","name":"Ξοβάβω"}
+{"id":102409630,"city_id":1329996,"language_key":"el","name":"Ξικουμα δε Πελάεζ"}
+{"id":102409861,"city_id":1329999,"language_key":"el","name":"Τζίκι"}
+{"id":102409938,"city_id":1330000,"language_key":"el","name":"Τζίκι"}
+{"id":102410400,"city_id":1330006,"language_key":"el","name":"Τζιγκουάνι"}
+{"id":102410477,"city_id":1330007,"language_key":"el","name":"Ξικότηα"}
+{"id":102410939,"city_id":1330013,"language_key":"el","name":"Τζιμπάρο"}
+{"id":102411016,"city_id":1330014,"language_key":"el","name":"Ξυπακοα δελ Νόρτε"}
+{"id":102411093,"city_id":1330015,"language_key":"el","name":"Τζιμπακόα"}
+{"id":102411247,"city_id":1330017,"language_key":"el","name":"Τζιμπακόα"}
+{"id":102411324,"city_id":1330018,"language_key":"el","name":"Ιησούς Ραμπί"}
+{"id":102411555,"city_id":1330021,"language_key":"el","name":"Ο Ιησούς Μενέντεζ"}
+{"id":102412171,"city_id":1330029,"language_key":"el","name":"Γατίβονικό"}
+{"id":102412248,"city_id":1330030,"language_key":"el","name":"Τζαρούκο"}
+{"id":102412633,"city_id":1330035,"language_key":"el","name":"Τζαραχουέκα"}
+{"id":102412787,"city_id":1330037,"language_key":"el","name":"Τζαμάλ"}
+{"id":102412864,"city_id":1330038,"language_key":"el","name":"Τζαμάικα"}
+{"id":102412941,"city_id":1330039,"language_key":"el","name":"Τζαμάικα"}
+{"id":102413018,"city_id":1330040,"language_key":"el","name":"Ιαιμε Λοπεζ"}
+{"id":102413326,"city_id":1330044,"language_key":"el","name":"Τζάγκουι Γκράντε"}
+{"id":102413865,"city_id":1330051,"language_key":"el","name":"Ξαγύηεηαλ"}
+{"id":102414096,"city_id":1330054,"language_key":"el","name":"Καστίλλο δε Ξαγυα"}
+{"id":102414558,"city_id":1330060,"language_key":"el","name":"Μανάκα Ιζναγα"}
+{"id":102414635,"city_id":1330061,"language_key":"el","name":"Ιτάμπο"}
+{"id":102414866,"city_id":1330064,"language_key":"el","name":"Ισραήλ Ρουζ"}
+{"id":102414943,"city_id":1330065,"language_key":"el","name":"Ισραελ Λικεα"}
+{"id":102415020,"city_id":1330066,"language_key":"el","name":"Ισαβέλα δε Σαγυα"}
+{"id":102415251,"city_id":1330069,"language_key":"el","name":"Ιγγενιο Βιειο"}
+{"id":102415636,"city_id":1330074,"language_key":"el","name":"Ιμιας"}
+{"id":102415713,"city_id":1330075,"language_key":"el","name":"Ιμιας"}
+{"id":102415790,"city_id":1330076,"language_key":"el","name":"Ίγυάρα"}
+{"id":102416175,"city_id":1330081,"language_key":"el","name":"Χούο δε Μανικαραγυα"}
+{"id":102416329,"city_id":1330083,"language_key":"el","name":"Χούο Κολοράδο"}
+{"id":102416637,"city_id":1330087,"language_key":"el","name":"Χωρκούτας"}
+{"id":102416868,"city_id":1330090,"language_key":"el","name":"Ονδούρα"}
+{"id":102416945,"city_id":1330091,"language_key":"el","name":"Ελ Χονδον"}
+{"id":102417022,"city_id":1330092,"language_key":"el","name":"Ολγίν"}
+{"id":102417253,"city_id":1330095,"language_key":"el","name":"Χικοτεα"}
+{"id":102417330,"city_id":1330096,"language_key":"el","name":"Καμίλο Σιενφουέγος"}
+{"id":102417407,"city_id":1330097,"language_key":"el","name":"Ερέρα"}
+{"id":102417561,"city_id":1330099,"language_key":"el","name":"Χερραντούρα"}
+{"id":102417792,"city_id":1330102,"language_key":"el","name":"Χερμανος Σαιζ"}
+{"id":102417869,"city_id":1330103,"language_key":"el","name":"Χεριμπερτο Ορελλανες"}
+{"id":102418023,"city_id":1330105,"language_key":"el","name":"Χέκτορ Ινφάντε"}
+{"id":102418177,"city_id":1330107,"language_key":"el","name":"Χατυεϊ"}
+{"id":102418639,"city_id":1330113,"language_key":"el","name":"Χατιλλο"}
+{"id":102419024,"city_id":1330118,"language_key":"el","name":"Αϊτή"}
+{"id":102419486,"city_id":1330124,"language_key":"el","name":"Γκουρούγκου"}
+{"id":102419563,"city_id":1330125,"language_key":"el","name":"Γουσα"}
+{"id":102419717,"city_id":1330127,"language_key":"el","name":"Γυέιρο Βονιγάλ"}
+{"id":102419871,"city_id":1330129,"language_key":"el","name":"Γκουέιρα ντε Μελένα"}
+{"id":102419948,"city_id":1330130,"language_key":"el","name":"Γυέιρα δε Μακύρηξες"}
+{"id":102420256,"city_id":1330134,"language_key":"el","name":"Γκουίνια ντε Μιράντα"}
+{"id":102420333,"city_id":1330135,"language_key":"el","name":"Γιαζγκενέσι"}
+{"id":102420487,"city_id":1330137,"language_key":"el","name":"Γυιλλέρμο Λλάβρε"}
+{"id":102420641,"city_id":1330139,"language_key":"el","name":"Κωνστάντσια"}
+{"id":102420949,"city_id":1330143,"language_key":"el","name":"Γκουάγιος"}
+{"id":102421103,"city_id":1330145,"language_key":"el","name":"Γυάυακάνες"}
+{"id":102421334,"city_id":1330148,"language_key":"el","name":"Γκουαγιάκαν"}
+{"id":102421950,"city_id":1330156,"language_key":"el","name":"Γκουαγιαμπάλ"}
+{"id":102422412,"city_id":1330162,"language_key":"el","name":"Γουατεμάλα"}
+{"id":102422874,"city_id":1330168,"language_key":"el","name":"Γκουασίμας"}
+{"id":102423105,"city_id":1330171,"language_key":"el","name":"Γκουασιμάλ"}
+{"id":102423259,"city_id":1330173,"language_key":"el","name":"Γκουασιμάλ"}
+{"id":102423490,"city_id":1330176,"language_key":"el","name":"Γκουάρο"}
+{"id":102423567,"city_id":1330177,"language_key":"el","name":"Γκουαρέιρας"}
+{"id":102423875,"city_id":1330181,"language_key":"el","name":"Γκουαρακαμπούλα"}
+{"id":102423952,"city_id":1330182,"language_key":"el","name":"Γκουάρα"}
+{"id":102424029,"city_id":1330183,"language_key":"el","name":"Γκουαντάναμο"}
+{"id":102424337,"city_id":1330187,"language_key":"el","name":"Γκουανίτο"}
+{"id":102424645,"city_id":1330191,"language_key":"el","name":"Γκουανίναο"}
+{"id":102424799,"city_id":1330193,"language_key":"el","name":"Γυανε"}
+{"id":102425184,"city_id":1330198,"language_key":"el","name":"Γκουαναχάι"}
+{"id":102425569,"city_id":1330203,"language_key":"el","name":"Γκουανάμπο"}
+{"id":102425646,"city_id":1330204,"language_key":"el","name":"Γκουαναμπάνα"}
+{"id":102425954,"city_id":1330208,"language_key":"el","name":"Γκουαναμπακόα"}
+{"id":102426262,"city_id":1330212,"language_key":"el","name":"Γυάμω Βιέξο"}
+{"id":102426493,"city_id":1330215,"language_key":"el","name":"Γκουάμα"}
+{"id":102426570,"city_id":1330216,"language_key":"el","name":"Γκουάμα Αμπάτζο"}
+{"id":102426878,"city_id":1330220,"language_key":"el","name":"Γυαίμαρο"}
+{"id":102427186,"city_id":1330224,"language_key":"el","name":"Γκουαϊμπάνο"}
+{"id":102427263,"city_id":1330225,"language_key":"el","name":"Γυαδαλόπε"}
+{"id":102427340,"city_id":1330226,"language_key":"el","name":"Γκουαμπίνα"}
+{"id":102427494,"city_id":1330228,"language_key":"el","name":"Γκρούα Νουέβα"}
+{"id":102427571,"city_id":1330229,"language_key":"el","name":"Μαναλιχ"}
+{"id":102429342,"city_id":1330252,"language_key":"el","name":"Γιβάρα"}
+{"id":102429650,"city_id":1330256,"language_key":"el","name":"Τζορτζ Ουάσινγκτον"}
+{"id":102429727,"city_id":1330257,"language_key":"el","name":"Γενεραλ Καρριλλο"}
+{"id":102430112,"city_id":1330262,"language_key":"el","name":"Γαστον"}
+{"id":102430189,"city_id":1330263,"language_key":"el","name":"Γασπαρ"}
+{"id":102431190,"city_id":1330276,"language_key":"el","name":"Γκάλμπις"}
+{"id":102431344,"city_id":1330278,"language_key":"el","name":"Φρουκτουόζο Ροντρίγκεζ"}
+{"id":102431421,"city_id":1330279,"language_key":"el","name":"Φραυ Μπενιτο"}
+{"id":102431960,"city_id":1330286,"language_key":"el","name":"Φομεντο"}
+{"id":102432037,"city_id":1330287,"language_key":"el","name":"Φομεντο"}
+{"id":102432114,"city_id":1330288,"language_key":"el","name":"Φλορο Περεζ"}
+{"id":102432422,"city_id":1330292,"language_key":"el","name":"Φλόριδα"}
+{"id":102432576,"city_id":1330294,"language_key":"el","name":"Φλωρεντία"}
+{"id":102432653,"city_id":1330295,"language_key":"el","name":"Φλορ δε Μαυο"}
+{"id":102433192,"city_id":1330302,"language_key":"el","name":"Φιλιππινέζες"}
+{"id":102433654,"city_id":1330308,"language_key":"el","name":"Φελτον"}
+{"id":102433731,"city_id":1330309,"language_key":"el","name":"Φιλικιδάδ"}
+{"id":102434193,"city_id":1330315,"language_key":"el","name":"Φαλλα"}
+{"id":102434347,"city_id":1330317,"language_key":"el","name":"Γεράκι"}
+{"id":102435425,"city_id":1330331,"language_key":"el","name":"Εσπεράντζα"}
+{"id":102435733,"city_id":1330335,"language_key":"el","name":"Εσπαρτακο"}
+{"id":102435810,"city_id":1330336,"language_key":"el","name":"Έσπαγα Ρεπυβλικάνα"}
+{"id":102435887,"city_id":1330337,"language_key":"el","name":"Εσμεράλντα"}
+{"id":102436195,"city_id":1330341,"language_key":"el","name":"Εντρώνκυε Μήνας"}
+{"id":102436426,"city_id":1330344,"language_key":"el","name":"Εντρώνκυε δε Χερράτορα"}
+{"id":102436811,"city_id":1330349,"language_key":"el","name":"Εγκρύςηγαδα"}
+{"id":102438351,"city_id":1330369,"language_key":"el","name":"Ελ Βακερίτο"}
+{"id":102439583,"city_id":1330385,"language_key":"el","name":"Ελ Σοκόρο"}
+{"id":102440045,"city_id":1330391,"language_key":"el","name":"Ελ Σαντο"}
+{"id":102440276,"city_id":1330394,"language_key":"el","name":"Ελ Σαλβαδόρ"}
+{"id":102440892,"city_id":1330402,"language_key":"el","name":"Ελ Ρούμπιο"}
+{"id":102441354,"city_id":1330408,"language_key":"el","name":"Ελ Ρόκε"}
+{"id":102442355,"city_id":1330421,"language_key":"el","name":"Ελ Ρετίρο"}
+{"id":102442509,"city_id":1330423,"language_key":"el","name":"Ελ Ρεκρέο"}
+{"id":102442663,"city_id":1330425,"language_key":"el","name":"Ελ Ραμον"}
+{"id":102444588,"city_id":1330450,"language_key":"el","name":"Ελπιδιο Γομεζ"}
+{"id":102444665,"city_id":1330451,"language_key":"el","name":"Ελ Περού"}
+{"id":102445050,"city_id":1330456,"language_key":"el","name":"Πεδρερο"}
+{"id":102446128,"city_id":1330470,"language_key":"el","name":"Ελ Οασις"}
+{"id":102446667,"city_id":1330477,"language_key":"el","name":"Ναρανιο Αγριο"}
+{"id":102447745,"city_id":1330491,"language_key":"el","name":"Ο Μαγιόρκιν"}
+{"id":102448592,"city_id":1330502,"language_key":"el","name":"Ελ Μάγια"}
+{"id":102450055,"city_id":1330521,"language_key":"el","name":"Ελ Ζαρντέν"}
+{"id":102450825,"city_id":1330531,"language_key":"el","name":"Ελ Ιγκερόν"}
+{"id":102451980,"city_id":1330546,"language_key":"el","name":"Ελ Γαβριήλ"}
+{"id":102453443,"city_id":1330565,"language_key":"el","name":"Ελ Ντιαμάντε"}
+{"id":102453674,"city_id":1330568,"language_key":"el","name":"Ελ Δατιλ"}
+{"id":102454136,"city_id":1330574,"language_key":"el","name":"Ελ Κρίστο"}
+{"id":102455291,"city_id":1330589,"language_key":"el","name":"Ελ Κορογαλ"}
+{"id":102455368,"city_id":1330590,"language_key":"el","name":"Ελ Κορογαλ"}
+{"id":102455445,"city_id":1330591,"language_key":"el","name":"Ελ Κόμινο"}
+{"id":102456138,"city_id":1330600,"language_key":"el","name":"Ελ Κόμπρε"}
+{"id":102458294,"city_id":1330628,"language_key":"el","name":"Ελ Κανγκρέ"}
+{"id":102459372,"city_id":1330642,"language_key":"el","name":"Ελ Καφετάλ"}
+{"id":102459757,"city_id":1330647,"language_key":"el","name":"Ελ Μπραζο"}
+{"id":102462221,"city_id":1330679,"language_key":"el","name":"Ντουμανουέκος"}
+{"id":102462529,"city_id":1330683,"language_key":"el","name":"Ντος Πάλμας"}
+{"id":102463915,"city_id":1330701,"language_key":"el","name":"Δορμιτοριο"}
+{"id":102464377,"city_id":1330707,"language_key":"el","name":"Ντομίνγκες"}
+{"id":102464685,"city_id":1330711,"language_key":"el","name":"Ντολόρες"}
+{"id":102465301,"city_id":1330719,"language_key":"el","name":"Δήμας"}
+{"id":102465994,"city_id":1330728,"language_key":"el","name":"Δεσεγγανο"}
+{"id":102466687,"city_id":1330737,"language_key":"el","name":"Δεληκιας"}
+{"id":102466841,"city_id":1330739,"language_key":"el","name":"Δεληκιας"}
+{"id":102467226,"city_id":1330744,"language_key":"el","name":"Δελειτε"}
+{"id":102468766,"city_id":1330764,"language_key":"el","name":"Κουνέιρα"}
+{"id":102468997,"city_id":1330767,"language_key":"el","name":"Κουμαναγιάγκουα"}
+{"id":102469228,"city_id":1330770,"language_key":"el","name":"Κουέτο"}
+{"id":102469382,"city_id":1330772,"language_key":"el","name":null}
+{"id":102469536,"city_id":1330774,"language_key":"el","name":"Κυβιτας"}
+{"id":102469690,"city_id":1330776,"language_key":"el","name":"Κόβα Λίβρε"}
+{"id":102470152,"city_id":1330782,"language_key":"el","name":"Κυατρο Εσκούνας"}
+{"id":102470229,"city_id":1330783,"language_key":"el","name":"Κυατρο Κομπανέρος"}
+{"id":102470537,"city_id":1330787,"language_key":"el","name":"Κυατρο Κάμινος"}
+{"id":102471846,"city_id":1330804,"language_key":"el","name":"Κρυσες"}
+{"id":102472539,"city_id":1330813,"language_key":"el","name":"Κροσέ δε λος Πάνος"}
+{"id":102472770,"city_id":1330816,"language_key":"el","name":"Κρομο"}
+{"id":102472924,"city_id":1330818,"language_key":"el","name":"Κόστα Ρίκα"}
+{"id":102473155,"city_id":1330821,"language_key":"el","name":"Κορτές"}
+{"id":102473540,"city_id":1330826,"language_key":"el","name":"Κορράληλλο"}
+{"id":102475003,"city_id":1330845,"language_key":"el","name":"Κοντραμαεστρε"}
+{"id":102475080,"city_id":1330846,"language_key":"el","name":"Κοντραμαεστρε"}
+{"id":102475388,"city_id":1330850,"language_key":"el","name":"Κονσολάκιον δελ Συρ"}
+{"id":102475619,"city_id":1330853,"language_key":"el","name":"Κονγκόγιας"}
+{"id":102475927,"city_id":1330857,"language_key":"el","name":"Κοντάδο"}
+{"id":102476466,"city_id":1330864,"language_key":"el","name":"Κόμηκαρά"}
+{"id":102476774,"city_id":1330868,"language_key":"el","name":"Κολοράντο"}
+{"id":102477236,"city_id":1330874,"language_key":"el","name":"Κόλον"}
+{"id":102477467,"city_id":1330877,"language_key":"el","name":"Κολομβία"}
+{"id":102477621,"city_id":1330879,"language_key":"el","name":"Κολλαζο"}
+{"id":102477775,"city_id":1330881,"language_key":"el","name":"Κολήσεω"}
+{"id":102478391,"city_id":1330889,"language_key":"el","name":"Κοκοτρίλο"}
+{"id":102479238,"city_id":1330900,"language_key":"el","name":"Κηυδάδ Εσκολάρ Καμηλό Κιενφυέγος"}
+{"id":102479315,"city_id":1330901,"language_key":"el","name":"Καράκας"}
+{"id":102479469,"city_id":1330903,"language_key":"el","name":"Κιρο Ρεδονδο"}
+{"id":102479623,"city_id":1330905,"language_key":"el","name":"Σιφουέντες"}
+{"id":102479931,"city_id":1330909,"language_key":"el","name":"Σιενφουέγος"}
+{"id":102480085,"city_id":1330911,"language_key":"el","name":"Κιεναγούλλα"}
+{"id":102480162,"city_id":1330912,"language_key":"el","name":"Αρριετε-Κιεγο Μοντερο"}
+{"id":102480239,"city_id":1330913,"language_key":"el","name":"Σιέγο ντε Άβιλα"}
+{"id":102480470,"city_id":1330916,"language_key":"el","name":"Κίτρα"}
+{"id":102480547,"city_id":1330917,"language_key":"el","name":"Τσιβίρικο"}
+{"id":102481086,"city_id":1330924,"language_key":"el","name":"Χαρκο Ρεδονδο"}
+{"id":102481779,"city_id":1330933,"language_key":"el","name":"Χάμπας"}
+{"id":102482087,"city_id":1330937,"language_key":"el","name":"Κεσπεδες"}
+{"id":102482164,"city_id":1330938,"language_key":"el","name":"Τσέρρο"}
+{"id":102482318,"city_id":1330940,"language_key":"el","name":"Σεντένο"}
+{"id":102482549,"city_id":1330943,"language_key":"el","name":"Κειβα Μόσχα"}
+{"id":102482703,"city_id":1330945,"language_key":"el","name":"Σέιμπα Χουέκα"}
+{"id":102482857,"city_id":1330947,"language_key":"el","name":"Κειβα δελ Αγυα"}
+{"id":102483396,"city_id":1330954,"language_key":"el","name":"Καίω Ρεδόνδο"}
+{"id":102483627,"city_id":1330957,"language_key":"el","name":"Κάγιο Ραμόνα"}
+{"id":102483781,"city_id":1330959,"language_key":"el","name":"Κάγιο Μάμπι"}
+{"id":102483935,"city_id":1330961,"language_key":"el","name":"Κάγιο Λα Ρόζα"}
+{"id":102484089,"city_id":1330963,"language_key":"el","name":"Κάγιο Χουέσο"}
+{"id":102484243,"city_id":1330965,"language_key":"el","name":"Κάγιο Γκουέιν"}
+{"id":102484320,"city_id":1330966,"language_key":"el","name":"Καίω Εσπίνο"}
+{"id":102484628,"city_id":1330970,"language_key":"el","name":"Καγιαμάς"}
+{"id":102484705,"city_id":1330971,"language_key":"el","name":"Καγιαζάμπος"}
+{"id":102484859,"city_id":1330973,"language_key":"el","name":"Καυτό Εμπαρκαδέρο"}
+{"id":102485013,"city_id":1330975,"language_key":"el","name":"Καυτό Κρίστο"}
+{"id":102485167,"city_id":1330977,"language_key":"el","name":"Καυτιλλο"}
+{"id":102485475,"city_id":1330981,"language_key":"el","name":"Κατορσέ δε Ξύλιο"}
+{"id":102485552,"city_id":1330982,"language_key":"el","name":"Καταλίνα δε Γυείνες"}
+{"id":102486322,"city_id":1330992,"language_key":"el","name":"Κασίλδα"}
+{"id":102486707,"city_id":1330997,"language_key":"el","name":"Κασσωρρό"}
+{"id":102486861,"city_id":1330999,"language_key":"el","name":"Κασκαξάλ"}
+{"id":102487323,"city_id":1331005,"language_key":"el","name":"Καρταχένα"}
+{"id":102487400,"city_id":1331006,"language_key":"el","name":"Καρρερα Λαργα"}
+{"id":102487862,"city_id":1331012,"language_key":"el","name":"Λους Αρκος Βεργνες"}
+{"id":102488478,"city_id":1331020,"language_key":"el","name":"Κάρλος Ρόγας"}
+{"id":102488555,"city_id":1331021,"language_key":"el","name":"Κάρλος Ροδρίγυεζ"}
+{"id":102488632,"city_id":1331022,"language_key":"el","name":"Κάρλος Μανυέλ δε Κεσπεδες"}
+{"id":102488709,"city_id":1331023,"language_key":"el","name":"Καρλος Μπαλινο"}
+{"id":102488940,"city_id":1331026,"language_key":"el","name":"Καριδάδ"}
+{"id":102489402,"city_id":1331032,"language_key":"el","name":"Κάρντενας"}
+{"id":102489479,"city_id":1331033,"language_key":"el","name":"Καρμπονέρα"}
+{"id":102489633,"city_id":1331035,"language_key":"el","name":"Καρακουσέι"}
+{"id":102489864,"city_id":1331038,"language_key":"el","name":"Καραβάλλο"}
+{"id":102491173,"city_id":1331055,"language_key":"el","name":"Καντηλ"}
+{"id":102491558,"city_id":1331060,"language_key":"el","name":"Κανγκρετζέρας"}
+{"id":102491943,"city_id":1331065,"language_key":"el","name":"Καντονγα"}
+{"id":102492020,"city_id":1331066,"language_key":"el","name":"Κανδιδο Γονζαλεζ"}
+{"id":102492174,"city_id":1331068,"language_key":"el","name":"Καντελάρια"}
+{"id":102492636,"city_id":1331074,"language_key":"el","name":"Κανανοβα"}
+{"id":102492944,"city_id":1331078,"language_key":"el","name":"Καναδον"}
+{"id":102493560,"city_id":1331086,"language_key":"el","name":"Κάμπο Φλωρίδο"}
+{"id":102493791,"city_id":1331089,"language_key":"el","name":"Καμπέχύελα"}
+{"id":102493868,"city_id":1331090,"language_key":"el","name":"Καμηλό Σιενφυέγος Όνομα"}
+{"id":102493945,"city_id":1331091,"language_key":"el","name":"Καμηλό Σιενφυέγος Δος"}
+{"id":102494561,"city_id":1331099,"language_key":"el","name":"Καμαριόκα"}
+{"id":102494715,"city_id":1331101,"language_key":"el","name":"Καμαλότε"}
+{"id":102494869,"city_id":1331103,"language_key":"el","name":"Καμαχουανί"}
+{"id":102494946,"city_id":1331104,"language_key":"el","name":"Καμαγουέι"}
+{"id":102495177,"city_id":1331107,"language_key":"el","name":"Καμαχο"}
+{"id":102495254,"city_id":1331108,"language_key":"el","name":"Καμαχο"}
+{"id":102495485,"city_id":1331111,"language_key":"el","name":"Καληχτο"}
+{"id":102495639,"city_id":1331113,"language_key":"el","name":"Καλημετε"}
+{"id":102496178,"city_id":1331120,"language_key":"el","name":"Καλυκήτω"}
+{"id":102496794,"city_id":1331128,"language_key":"el","name":"Καλαμπάζας"}
+{"id":102496948,"city_id":1331130,"language_key":"el","name":"Καλαβάζαρ δε Σαγυα"}
+{"id":102497179,"city_id":1331133,"language_key":"el","name":"Καξοβάβω"}
+{"id":102497718,"city_id":1331140,"language_key":"el","name":"Σούμπα Άλτο"}
+{"id":102498026,"city_id":1331144,"language_key":"el","name":"Δαλιμαντίρα"}
+{"id":102498257,"city_id":1331147,"language_key":"el","name":"Καιβαριεν"}
+{"id":102498796,"city_id":1331154,"language_key":"el","name":"Καγυάγύασ δε Σαγυα"}
+{"id":102498950,"city_id":1331156,"language_key":"el","name":"Κακοκυμ"}
+{"id":102499027,"city_id":1331157,"language_key":"el","name":"Κριστίνο Ναράνχο"}
+{"id":102499874,"city_id":1331168,"language_key":"el","name":"Καμπάνες"}
+{"id":102500105,"city_id":1331171,"language_key":"el","name":"Καβαίγύαν"}
+{"id":102500259,"city_id":1331173,"language_key":"el","name":"Καβάγαν"}
+{"id":102500644,"city_id":1331178,"language_key":"el","name":"Μπουεϊσίτο"}
+{"id":102500721,"city_id":1331179,"language_key":"el","name":"Βυεϊ Αρριβα"}
+{"id":102500798,"city_id":1331180,"language_key":"el","name":"Μπουέν Ρετίρο"}
+{"id":102500952,"city_id":1331182,"language_key":"el","name":"Μπουένα Βίστα"}
+{"id":102501106,"city_id":1331184,"language_key":"el","name":"Μπουενάβιστα"}
+{"id":102501491,"city_id":1331189,"language_key":"el","name":"Μπουεναβεντούρα"}
+{"id":102501645,"city_id":1331191,"language_key":"el","name":"Μπουεναβεντούρα"}
+{"id":102502492,"city_id":1331202,"language_key":"el","name":"Μπρενας"}
+{"id":102502723,"city_id":1331205,"language_key":"el","name":"Βραυλιο Κορονεαυξ"}
+{"id":102504109,"city_id":1331223,"language_key":"el","name":"Μπολονδρον"}
+{"id":102504263,"city_id":1331225,"language_key":"el","name":"Βολιβία"}
+{"id":102504340,"city_id":1331226,"language_key":"el","name":"Μπολιβάρ"}
+{"id":102504494,"city_id":1331228,"language_key":"el","name":"Χαφαρινα"}
+{"id":102504571,"city_id":1331229,"language_key":"el","name":"Μπόκας"}
+{"id":102504879,"city_id":1331233,"language_key":"el","name":"Μπόκα ντε Ζαρούκο"}
+{"id":102504956,"city_id":1331234,"language_key":"el","name":"Μποκα δε Γαλαφρε"}
+{"id":102505880,"city_id":1331246,"language_key":"el","name":"Μπιζαρρον"}
+{"id":102505957,"city_id":1331247,"language_key":"el","name":"Μπιράν"}
+{"id":102506188,"city_id":1331250,"language_key":"el","name":"Μπιτζάρου"}
+{"id":102506958,"city_id":1331260,"language_key":"el","name":"Βερμεξα"}
+{"id":102508036,"city_id":1331274,"language_key":"el","name":"Μπέλιτς"}
+{"id":102508190,"city_id":1331276,"language_key":"el","name":"Μπεκάρα"}
+{"id":102508267,"city_id":1331277,"language_key":"el","name":"Βεσέρρα"}
+{"id":102508344,"city_id":1331278,"language_key":"el","name":"Μπαγιάτε"}
+{"id":102508575,"city_id":1331281,"language_key":"el","name":"Μπαγιάμο"}
+{"id":102508729,"city_id":1331283,"language_key":"el","name":"Μπαούτα"}
+{"id":102509037,"city_id":1331287,"language_key":"el","name":"Μπατευ δελ Μεδιο"}
+{"id":102509345,"city_id":1331291,"language_key":"el","name":"Βαταβάνο"}
+{"id":102509422,"city_id":1331292,"language_key":"el","name":"Μπαρτολομε Μασο"}
+{"id":102509576,"city_id":1331294,"language_key":"el","name":"Μπαρτλε"}
+{"id":102509884,"city_id":1331298,"language_key":"el","name":"Μπαράνκας"}
+{"id":102510038,"city_id":1331300,"language_key":"el","name":"Βαρράνκα"}
+{"id":102510654,"city_id":1331308,"language_key":"el","name":"Μπαρατζάγκουα"}
+{"id":102510808,"city_id":1331310,"language_key":"el","name":"Μπαράγκουα"}
+{"id":102510885,"city_id":1331311,"language_key":"el","name":"Μπαρακόα"}
+{"id":102511193,"city_id":1331315,"language_key":"el","name":"Μπάνες"}
+{"id":102511270,"city_id":1331316,"language_key":"el","name":"Μπαναο"}
+{"id":102511424,"city_id":1331318,"language_key":"el","name":"Μπαναγκέζες"}
+{"id":102511501,"city_id":1331319,"language_key":"el","name":"Μπαμπουράναο"}
+{"id":102512040,"city_id":1331326,"language_key":"el","name":"Μπαιρε"}
+{"id":102512194,"city_id":1331328,"language_key":"el","name":"Μπαινοα"}
+{"id":102512271,"city_id":1331329,"language_key":"el","name":"Μπαχια Χονδα"}
+{"id":102512348,"city_id":1331330,"language_key":"el","name":"Μπαγουανός"}
+{"id":102512733,"city_id":1331335,"language_key":"el","name":"Μπαεζ"}
+{"id":102513272,"city_id":1331342,"language_key":"el","name":"Βαβίνει"}
+{"id":102514581,"city_id":1331359,"language_key":"el","name":"Ελ Ασιεντο"}
+{"id":102514735,"city_id":1331361,"language_key":"el","name":"Ασεραδέρο"}
+{"id":102514966,"city_id":1331364,"language_key":"el","name":"Αρτεμίσα"}
+{"id":102515505,"city_id":1331371,"language_key":"el","name":"Αρροϊός δε Μαντυα"}
+{"id":102515813,"city_id":1331375,"language_key":"el","name":"Αρρούω Ναραγγο"}
+{"id":102516275,"city_id":1331381,"language_key":"el","name":"Σαν Χοσέ Γιαταντόγιο"}
+{"id":102516429,"city_id":1331383,"language_key":"el","name":"Σαν Χοσέ Γιαταντόγιο"}
+{"id":102517815,"city_id":1331401,"language_key":"el","name":"Αριζα"}
+{"id":102517892,"city_id":1331402,"language_key":"el","name":"Αριμαο"}
+{"id":102518046,"city_id":1331404,"language_key":"el","name":"Αργεο Μαρτινεζ"}
+{"id":102518277,"city_id":1331407,"language_key":"el","name":"Αρκος δε Κανάση"}
+{"id":102519124,"city_id":1331418,"language_key":"el","name":"Κόβατονγα"}
+{"id":102519201,"city_id":1331419,"language_key":"el","name":"Αντονιο Μακεο"}
+{"id":102519817,"city_id":1331427,"language_key":"el","name":"Αντιλλα"}
+{"id":102520818,"city_id":1331440,"language_key":"el","name":"Αμιστάδ κών Λος Πυέβλωσ"}
+{"id":102521280,"city_id":1331446,"language_key":"el","name":"Αμαρο"}
+{"id":102521357,"city_id":1331447,"language_key":"el","name":"Αμαριλλας"}
+{"id":102521434,"city_id":1331448,"language_key":"el","name":"Ο Αμάντσιο"}
+{"id":102521896,"city_id":1331454,"language_key":"el","name":"Άλτο Σονγο"}
+{"id":102522281,"city_id":1331459,"language_key":"el","name":"Αλτο Κεδρο"}
+{"id":102522589,"city_id":1331463,"language_key":"el","name":"Αλταγρακια"}
+{"id":102522666,"city_id":1331464,"language_key":"el","name":"Αλκυιζαρ"}
+{"id":102522820,"city_id":1331466,"language_key":"el","name":"Αλονσο δε Ροιας"}
+{"id":102523513,"city_id":1331475,"language_key":"el","name":"Αλγάρροπο"}
+{"id":102524437,"city_id":1331487,"language_key":"el","name":"Αλακρανες"}
+{"id":102524822,"city_id":1331492,"language_key":"el","name":"Αγυιλάρ"}
+{"id":102524976,"city_id":1331494,"language_key":"el","name":"Αγυέικα"}
+{"id":102525284,"city_id":1331498,"language_key":"el","name":"Αγυας Κλάρας"}
+{"id":102525515,"city_id":1331501,"language_key":"el","name":"Αγμπαδα δε Πιεδρα"}
+{"id":102525592,"city_id":1331502,"language_key":"el","name":"Αγυάδα δε Πασαγερός"}
+{"id":102525669,"city_id":1331503,"language_key":"el","name":"Αγυάδα δε Μουα"}
+{"id":102525977,"city_id":1331507,"language_key":"el","name":"Αγκουακάτε"}
+{"id":102526054,"city_id":1331508,"language_key":"el","name":"Αγκουακάτε"}
+{"id":102526516,"city_id":1331514,"language_key":"el","name":"Αγραμοντε"}
+{"id":102526593,"city_id":1331515,"language_key":"el","name":"Αγαπαμα"}
+{"id":102526978,"city_id":1331520,"language_key":"el","name":"Άβρεύς"}
+{"id":102527055,"city_id":1331521,"language_key":"el","name":"Αμπελ Σανταμαρια"}
+{"id":102527363,"city_id":1331525,"language_key":"el","name":"Ορλανδο Γονζαλεζ"}
+{"id":102528210,"city_id":1331536,"language_key":"el","name":"Τρουκούτου"}
+{"id":102528826,"city_id":1331544,"language_key":"el","name":"Κροκερο δε Πιεδρικήτας"}
+{"id":102529442,"city_id":1331552,"language_key":"el","name":"Μαναντιάλες"}
+{"id":102529519,"city_id":1331553,"language_key":"el","name":"Καπιτάν"}
+{"id":102530751,"city_id":1331569,"language_key":"el","name":"Γυάρδαλαβάκα"}
+{"id":102531444,"city_id":1331578,"language_key":"el","name":"Χιλή"}
+{"id":102532522,"city_id":1331592,"language_key":"el","name":"Οσβαλδο Σαγχεζ"}
+{"id":102533061,"city_id":1331599,"language_key":"el","name":"Γιαμανιγκέι"}
+{"id":102533215,"city_id":1331601,"language_key":"el","name":"Πίτα ντε λα Κουέστα"}
+{"id":102536988,"city_id":1331650,"language_key":"el","name":"Ελ Μογκαδα"}
+{"id":102539683,"city_id":1331685,"language_key":"el","name":"Πλαια Σάντα Λυκία"}
+{"id":102541300,"city_id":1331706,"language_key":"el","name":"Πάβλο Νοριέγα"}
+{"id":102541608,"city_id":1331710,"language_key":"el","name":"Σάντα Μόνικα"}
+{"id":102541916,"city_id":1331714,"language_key":"el","name":"Λα Γατιά"}
+{"id":102541993,"city_id":1331715,"language_key":"el","name":"Ελ Βολκάν"}
+{"id":102543071,"city_id":1331729,"language_key":"el","name":"Αβραάμ Λίνκολν"}
+{"id":102543225,"city_id":1331731,"language_key":"el","name":"Κυατρο Κάμινος"}
+{"id":102543379,"city_id":1331733,"language_key":"el","name":"Εδυάρδο Γαρκια Λαβάντερο"}
+{"id":102544226,"city_id":1331744,"language_key":"el","name":"Οράσιο Ροντρίγκεζ"}
+{"id":102544534,"city_id":1331748,"language_key":"el","name":"Ιοσε Μαρτι"}
+{"id":102544842,"city_id":1331752,"language_key":"el","name":"Χεριβέρτο Δοκύησνε"}
+{"id":102544919,"city_id":1331753,"language_key":"el","name":"Γυαν Φρανσίσκο"}
+{"id":102546459,"city_id":1331773,"language_key":"el","name":"Πακίτο Ροζάλες"}
+{"id":102546844,"city_id":1331778,"language_key":"el","name":"Αυστραλία"}
+{"id":102546921,"city_id":1331779,"language_key":"el","name":"Ρενε Φραγα"}
+{"id":102547460,"city_id":1331786,"language_key":"el","name":"Βέιντιςεισ δε Ξύλιο"}
+{"id":102547768,"city_id":1331790,"language_key":"el","name":"Χάρλεμ"}
+{"id":102547845,"city_id":1331791,"language_key":"el","name":"Πατρίσιο Λουμούμπα"}
+{"id":102548153,"city_id":1331795,"language_key":"el","name":"Σέις ντε Αγκόστο"}
+{"id":102548384,"city_id":1331798,"language_key":"el","name":"Ελ Προξιμο"}
+{"id":102548461,"city_id":1331799,"language_key":"el","name":"Τζιμαγκουάγιου"}
+{"id":102548615,"city_id":1331801,"language_key":"el","name":"Λα Βιργινια"}
+{"id":102548692,"city_id":1331802,"language_key":"el","name":"Μπαταλλα δε Γμπισα"}
+{"id":102549308,"city_id":1331810,"language_key":"el","name":"Φραγκ Παις"}
+{"id":102550848,"city_id":1331830,"language_key":"el","name":"Κροκερο Καρμιτα"}
+{"id":102553543,"city_id":1331865,"language_key":"el","name":"Κάρλος Καραβάλλο"}
+{"id":102553620,"city_id":1331866,"language_key":"el","name":"Ιφραιν Αλφονσο"}
+{"id":102554005,"city_id":1331871,"language_key":"el","name":"Ελ Σοπαπο"}
+{"id":102554082,"city_id":1331872,"language_key":"el","name":"Χέκτορ Μολίνα"}
+{"id":102557162,"city_id":1331912,"language_key":"el","name":"Καυαμό"}
+{"id":102557239,"city_id":1331913,"language_key":"el","name":"Αριγοαναβο"}
+{"id":102557547,"city_id":1331917,"language_key":"el","name":"Χαβανα Λίβρε"}
+{"id":102558009,"city_id":1331923,"language_key":"el","name":"Διεζ δε Οκτώβρη"}
+{"id":102558163,"city_id":1331925,"language_key":"el","name":"Μαρίνα Καίω Λαργό"}
+{"id":102558394,"city_id":1331928,"language_key":"el","name":"Μανουέλ Λάζο"}
+{"id":102558548,"city_id":1331930,"language_key":"el","name":"Ελ Τζόπο"}
+{"id":102558779,"city_id":1331933,"language_key":"el","name":"Τύμπα Συετε"}
+{"id":102558856,"city_id":1331934,"language_key":"el","name":"Σεγυνδο Φρεντε"}
+{"id":102560627,"city_id":1331957,"language_key":"el","name":"Μπριονες Μοντοτο"}
+{"id":102561320,"city_id":1331966,"language_key":"el","name":"Τζούλιαν Άλεμαν"}
+{"id":102562860,"city_id":1331986,"language_key":"el","name":"Βαρρίο Οβρέρο"}
+{"id":102563014,"city_id":1331988,"language_key":"el","name":"Αυγοστό Κεσάρ Σαντίνο"}
+{"id":102563938,"city_id":1332000,"language_key":"el","name":"Ράντσο Γκράντε"}
+{"id":102564092,"city_id":1332002,"language_key":"el","name":"Λος Νάραντζος"}
+{"id":102564554,"city_id":1332008,"language_key":"el","name":"Φιερρο"}
+{"id":102564939,"city_id":1332013,"language_key":"el","name":"Λοπεζ Πενα"}
+{"id":102565709,"city_id":1332023,"language_key":"el","name":"Μανουέλ Ίσλα"}
+{"id":102566479,"city_id":1332033,"language_key":"el","name":"Χουάν Αμπραχάντες"}
+{"id":102567480,"city_id":1332046,"language_key":"el","name":"Γκράνμα"}
+{"id":102567865,"city_id":1332051,"language_key":"el","name":"Ουμπερτο Αλβάρεζ"}
+{"id":102568712,"city_id":1332062,"language_key":"el","name":"Αλμπερτο Δελγαδο"}
+{"id":102570329,"city_id":1332083,"language_key":"el","name":"Λα Βειντιδος"}
+{"id":102571792,"city_id":1332102,"language_key":"el","name":"Μαλποτον"}
+{"id":102572331,"city_id":1332109,"language_key":"el","name":"Λα Μελβις"}
+{"id":102572562,"city_id":1332112,"language_key":"el","name":"Λα Βικτόρια"}
+{"id":102572639,"city_id":1332113,"language_key":"el","name":"Αργελία Λίβρε"}
+{"id":102573948,"city_id":1332130,"language_key":"el","name":"Σεργιο Γονζαλεζ"}
+{"id":102576566,"city_id":1332164,"language_key":"el","name":"Μαρτίρες ντε Μπαρμπάντος"}
+{"id":102577721,"city_id":1332179,"language_key":"el","name":"Γωσε Ρενέ Ρικυελμε"}
+{"id":102578337,"city_id":1332187,"language_key":"el","name":"Ραμόν Βαλβοα"}
+{"id":102579492,"city_id":1332202,"language_key":"el","name":"Λα Νύεβα Ισαβέλα"}
+{"id":102579646,"city_id":1332204,"language_key":"el","name":"Μαριανα Γραιαλες"}
+{"id":102580262,"city_id":1332212,"language_key":"el","name":"Μάρθα Αβρέυ"}
+{"id":102580416,"city_id":1332214,"language_key":"el","name":"κινόνες"}
+{"id":102581879,"city_id":1332233,"language_key":"el","name":"Σαγυα λα Χικά"}
+{"id":102583265,"city_id":1332251,"language_key":"el","name":"Τζούλιαν Γκριμάου"}
+{"id":102583727,"city_id":1332257,"language_key":"el","name":"Ελ Ίντιο"}
+{"id":102585806,"city_id":1332284,"language_key":"el","name":"Χίκυητικό Φάβρεγατ"}
+{"id":102586037,"city_id":1332287,"language_key":"el","name":"Μπενίτο Χουάρες"}
+{"id":102586499,"city_id":1332293,"language_key":"el","name":"Χερμανος Αμειιειρας"}
+{"id":102588039,"city_id":1332313,"language_key":"el","name":"Φούστε"}
+{"id":102591119,"city_id":1332353,"language_key":"el","name":"Αριδανες"}
+{"id":102591658,"city_id":1332360,"language_key":"el","name":"Λα Νενιτα"}
+{"id":102591889,"city_id":1332363,"language_key":"el","name":"Τζόμπο Σίνκο"}
+{"id":102592736,"city_id":1332374,"language_key":"el","name":"Ρουάνο"}
+{"id":102594661,"city_id":1332399,"language_key":"el","name":"Μουνίζ"}
+{"id":102594892,"city_id":1332402,"language_key":"el","name":"Ελ Πατιο"}
+{"id":102595200,"city_id":1332406,"language_key":"el","name":"Λα Φερρολανα"}
+{"id":102598126,"city_id":1332444,"language_key":"el","name":"Ελ Βιβερο"}
+{"id":102598203,"city_id":1332445,"language_key":"el","name":"Μοδεστο Ρευες"}
+{"id":102599050,"city_id":1332456,"language_key":"el","name":"Λα Κλεμεντίνα"}
+{"id":102599281,"city_id":1332459,"language_key":"el","name":"Λομα Λα Καρολινα"}
+{"id":102600513,"city_id":1332475,"language_key":"el","name":"Λα Αλινα"}
+{"id":102601514,"city_id":1332488,"language_key":"el","name":"Λα Τοματερα"}
+{"id":102602207,"city_id":1332497,"language_key":"el","name":"Βίστα Αλέγκρε"}
+{"id":102602284,"city_id":1332498,"language_key":"el","name":"Κροκερο δε Κεσπεδες"}
+{"id":102602900,"city_id":1332506,"language_key":"el","name":"Μπαταλλα δε λας Γμπασιμας"}
+{"id":102605595,"city_id":1332541,"language_key":"el","name":"Σαν Πατρίσιο"}
+{"id":102607828,"city_id":1332570,"language_key":"el","name":"Γκουάμο"}
+{"id":102611755,"city_id":1332621,"language_key":"el","name":"Ελ Ντιέζ"}
+{"id":102612371,"city_id":1332629,"language_key":"el","name":"Ελ Δώσε"}
+{"id":102615913,"city_id":1332675,"language_key":"el","name":"Βαδο δελ Υεσο"}
+{"id":102617068,"city_id":1332690,"language_key":"el","name":"Τρες Μακιος"}
+{"id":102618685,"city_id":1332711,"language_key":"el","name":"Εντρώνκυε δε Γουσα"}
+{"id":102621149,"city_id":1332743,"language_key":"el","name":"Νουέβο Γιάο"}
+{"id":102621303,"city_id":1332745,"language_key":"el","name":"Λα Πινουέλα"}
+{"id":102621380,"city_id":1332746,"language_key":"el","name":"Εντρώνκυε δε Βυευκητο"}
+{"id":102629388,"city_id":1332850,"language_key":"el","name":"Κυανγ-Τρι"}
+{"id":102630697,"city_id":1332867,"language_key":"el","name":"Ρεσκατε δε Σανγούλη"}
+{"id":102631390,"city_id":1332876,"language_key":"el","name":"Αρρούων"}
+{"id":102632160,"city_id":1332886,"language_key":"el","name":"Πασο δε Βιλατο"}
+{"id":102633315,"city_id":1332901,"language_key":"el","name":"Κυβιτας"}
+{"id":102633931,"city_id":1332909,"language_key":"el","name":"Εντρώνκυε δε Λυγαρηνό"}
+{"id":102635625,"city_id":1332931,"language_key":"el","name":"Τερκερ Φρεντε"}
+{"id":102636010,"city_id":1332936,"language_key":"el","name":"Λα Μπόκα"}
+{"id":102636241,"city_id":1332939,"language_key":"el","name":"Πάλμας δε Λυκία"}
+{"id":102636934,"city_id":1332948,"language_key":"el","name":"Μόντε Γκράντε"}
+{"id":102643402,"city_id":1333032,"language_key":"el","name":"Νυέβο Παλο Σήκω"}
+{"id":102651333,"city_id":1333135,"language_key":"el","name":"Πιεδρα Πικαδα"}
+{"id":102653874,"city_id":1333168,"language_key":"el","name":"Κάγιο Σέντρο"}
+{"id":102658032,"city_id":1333222,"language_key":"el","name":"Ρεγγίνα"}
+{"id":102667272,"city_id":1333342,"language_key":"el","name":"Ματεο Σαγχεζ"}
+{"id":102669582,"city_id":1333372,"language_key":"el","name":"Λα Κυρία"}
+{"id":102669890,"city_id":1333376,"language_key":"el","name":"Ελ Καστιλλιτο"}
+{"id":102673124,"city_id":1333418,"language_key":"el","name":"Ελ Αλμιραντε"}
+{"id":102673894,"city_id":1333428,"language_key":"el","name":"Μπόκα ντε Μικάρα"}
+{"id":102679823,"city_id":1333505,"language_key":"el","name":"Λα Μακυινά"}
+{"id":102681440,"city_id":1333526,"language_key":"el","name":"Η Μέσα Αμπάχο"}
+{"id":102683519,"city_id":1333553,"language_key":"el","name":"Ελ Κερρο δε Καπιρο"}
+{"id":102693991,"city_id":1333689,"language_key":"el","name":"Νουέβο Μαριέλ"}
+{"id":102694684,"city_id":1333698,"language_key":"el","name":"Ματσουρρουκούτου"}
+{"id":102695993,"city_id":1333715,"language_key":"el","name":"Λας Κουνιέντας"}
+{"id":102699227,"city_id":1333757,"language_key":"el","name":"Βεντα δελ Ριο"}
+{"id":102699689,"city_id":1333763,"language_key":"el","name":"Νουέβο Αριμάο"}
+{"id":102701229,"city_id":1333783,"language_key":"el","name":"Κίνκο δε Σέπτιέμβρη"}
+{"id":102705310,"city_id":1333836,"language_key":"el","name":"Χορρέρον"}
+{"id":102706003,"city_id":1333845,"language_key":"el","name":"Καν Καν"}
+{"id":102706234,"city_id":1333848,"language_key":"el","name":"Αγυας Κλάρας"}
+{"id":102706773,"city_id":1333855,"language_key":"el","name":"Λα Γυάυαβα"}
+{"id":102712856,"city_id":1333934,"language_key":"el","name":"Ψευδαίσθηση"}
+{"id":102728718,"city_id":1334140,"language_key":"el","name":"Λα Φλόρα"}
+{"id":102728795,"city_id":1334141,"language_key":"el","name":"Μοδεστο Σερρανο"}
+{"id":102748276,"city_id":1334394,"language_key":"el","name":"Ελ Μιραντόρ"}
+{"id":102765062,"city_id":1334612,"language_key":"el","name":"Ναβαλ Στατιον Γμπανταναμο Μπαυ"}

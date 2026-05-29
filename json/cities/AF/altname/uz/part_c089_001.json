@@ -1,0 +1,483 @@
+{"id":35417,"city_id":460,"language_key":"uz","name":"Zor Kot"}
+{"id":35571,"city_id":462,"language_key":"uz","name":"Wuleswali Bihsud"}
+{"id":36187,"city_id":470,"language_key":"uz","name":"Kuhsan"}
+{"id":36264,"city_id":471,"language_key":"uz","name":"Lash"}
+{"id":36495,"city_id":474,"language_key":"uz","name":"Tukzar"}
+{"id":37034,"city_id":481,"language_key":"uz","name":"Bati"}
+{"id":37111,"city_id":482,"language_key":"uz","name":"Miray"}
+{"id":37188,"city_id":483,"language_key":"uz","name":"Oq Kupruk"}
+{"id":37727,"city_id":490,"language_key":"uz","name":"Zurak"}
+{"id":39190,"city_id":509,"language_key":"uz","name":"Zurmat"}
+{"id":42886,"city_id":557,"language_key":"uz","name":"Zaybak"}
+{"id":43194,"city_id":561,"language_key":"uz","name":"Ziarat-e Shah Maqsud"}
+{"id":46274,"city_id":601,"language_key":"uz","name":"Zindah Jan"}
+{"id":50047,"city_id":650,"language_key":"uz","name":"Zowak"}
+{"id":50432,"city_id":655,"language_key":"uz","name":"Zaryat-e Uluq"}
+{"id":53127,"city_id":690,"language_key":"uz","name":"Zarghun Shahr"}
+{"id":54051,"city_id":702,"language_key":"uz","name":"Zarah Sharan"}
+{"id":58363,"city_id":758,"language_key":"uz","name":"Zaranj"}
+{"id":61674,"city_id":801,"language_key":"uz","name":"Zamto Kelay"}
+{"id":73147,"city_id":950,"language_key":"uz","name":"Yangi Qal'ah"}
+{"id":79153,"city_id":1028,"language_key":"uz","name":"Yahya Khel"}
+{"id":100020,"city_id":1299,"language_key":"uz","name":"Vozit"}
+{"id":100251,"city_id":1302,"language_key":"uz","name":"Washer"}
+{"id":102484,"city_id":1331,"language_key":"uz","name":"Ustuwah"}
+{"id":111031,"city_id":1442,"language_key":"uz","name":"Tormay"}
+{"id":115882,"city_id":1505,"language_key":"uz","name":"Tulak"}
+{"id":120348,"city_id":1563,"language_key":"uz","name":"Toragundi"}
+{"id":126200,"city_id":1639,"language_key":"uz","name":"Titan"}
+{"id":126508,"city_id":1643,"language_key":"uz","name":"Tir Pul"}
+{"id":128587,"city_id":1670,"language_key":"uz","name":"Taywarah"}
+{"id":140291,"city_id":1822,"language_key":"uz","name":"Bazar-e Tashkan"}
+{"id":142447,"city_id":1850,"language_key":"uz","name":"Tarinkot"}
+{"id":155614,"city_id":2021,"language_key":"uz","name":"Talogan"}
+{"id":170552,"city_id":2215,"language_key":"uz","name":"Tagaw-Bay"}
+{"id":170706,"city_id":2217,"language_key":"uz","name":"Taghori"}
+{"id":173786,"city_id":2257,"language_key":"uz","name":"Tagab"}
+{"id":183257,"city_id":2380,"language_key":"uz","name":"Markaz-e Hukumat-e Sultan-e Bakwah"}
+{"id":193036,"city_id":2507,"language_key":"uz","name":"Oq Bolak"}
+{"id":194499,"city_id":2526,"language_key":"uz","name":"Sperah"}
+{"id":195577,"city_id":2540,"language_key":"uz","name":"Sozmah Qal'ah"}
+{"id":224760,"city_id":2919,"language_key":"uz","name":"Siyahgird"}
+{"id":234847,"city_id":3050,"language_key":"uz","name":"Shulgareh"}
+{"id":238466,"city_id":3097,"language_key":"uz","name":"Shkhovr"}
+{"id":238774,"city_id":3101,"language_key":"uz","name":"Shewah"}
+{"id":241546,"city_id":3137,"language_key":"uz","name":"Sherah"}
+{"id":242162,"city_id":3145,"language_key":"uz","name":"Sher Baz Khel"}
+{"id":244549,"city_id":3176,"language_key":"uz","name":"Shinyah"}
+{"id":247552,"city_id":3215,"language_key":"uz","name":"Shindand"}
+{"id":247783,"city_id":3218,"language_key":"uz","name":"Shinalis"}
+{"id":253404,"city_id":3291,"language_key":"uz","name":"Shaykh Amir Kelay"}
+{"id":258255,"city_id":3354,"language_key":"uz","name":"Qashqal"}
+{"id":258486,"city_id":3357,"language_key":"uz","name":"Shingirab"}
+{"id":261566,"city_id":3397,"language_key":"uz","name":"Shoburgon"}
+{"id":264184,"city_id":3431,"language_key":"uz","name":"Shwak"}
+{"id":270344,"city_id":3511,"language_key":"uz","name":"Shamshay Kala"}
+{"id":280200,"city_id":3639,"language_key":"uz","name":"Shahr-e Safa"}
+{"id":281509,"city_id":3656,"language_key":"uz","name":"Shahran"}
+{"id":281663,"city_id":3658,"language_key":"uz","name":"Shahrak"}
+{"id":285513,"city_id":3708,"language_key":"uz","name":"'Alaqahdari Shah Joy"}
+{"id":296601,"city_id":3852,"language_key":"uz","name":"Wuleswali Sayyid Karam"}
+{"id":299604,"city_id":3891,"language_key":"uz","name":"Markaz-e Sayyidabad"}
+{"id":299681,"city_id":3892,"language_key":"uz","name":"Sayad"}
+{"id":313002,"city_id":4065,"language_key":"uz","name":"Sidqobod"}
+{"id":317776,"city_id":4127,"language_key":"uz","name":"Sayagaz"}
+{"id":321857,"city_id":4180,"language_key":"uz","name":"Sar-e Tayghan"}
+{"id":325861,"city_id":4232,"language_key":"uz","name":"Sarobi"}
+{"id":328402,"city_id":4265,"language_key":"uz","name":"Sar Kani"}
+{"id":331713,"city_id":4308,"language_key":"uz","name":"Sarfiraz Kala"}
+{"id":338489,"city_id":4396,"language_key":"uz","name":"Saripo'l"}
+{"id":357585,"city_id":4644,"language_key":"uz","name":"Sar Chakan"}
+{"id":362513,"city_id":4708,"language_key":"uz","name":"Sangin"}
+{"id":364746,"city_id":4737,"language_key":"uz","name":"Sang-e Mashah"}
+{"id":365670,"city_id":4749,"language_key":"uz","name":"Sang-e Charak"}
+{"id":367287,"city_id":4770,"language_key":"uz","name":"Sang Atesh"}
+{"id":367441,"city_id":4772,"language_key":"uz","name":"Sangar Saray"}
+{"id":372138,"city_id":4833,"language_key":"uz","name":"Aybak"}
+{"id":391465,"city_id":5084,"language_key":"uz","name":"Ru-ye Sang"}
+{"id":393544,"city_id":5111,"language_key":"uz","name":"Rudbar"}
+{"id":394853,"city_id":5128,"language_key":"uz","name":"Rustaq"}
+{"id":396701,"city_id":5152,"language_key":"uz","name":"Rabat-e Sangi-ye Pa'in"}
+{"id":403862,"city_id":5245,"language_key":"uz","name":"Rasul Khan"}
+{"id":407866,"city_id":5297,"language_key":"uz","name":"Ramak"}
+{"id":428964,"city_id":5571,"language_key":"uz","name":"Qurghan"}
+{"id":431120,"city_id":5599,"language_key":"uz","name":"Quchanghi"}
+{"id":434431,"city_id":5642,"language_key":"uz","name":"Qaysar"}
+{"id":463306,"city_id":6017,"language_key":"uz","name":"Qarqin"}
+{"id":465077,"city_id":6040,"language_key":"uz","name":"Qarghah'i"}
+{"id":468927,"city_id":6090,"language_key":"uz","name":"Qarchi Gak"}
+{"id":469158,"city_id":6093,"language_key":"uz","name":"Qarawul"}
+{"id":470775,"city_id":6114,"language_key":"uz","name":"Qarah Bagh"}
+{"id":470929,"city_id":6116,"language_key":"uz","name":"Qarah Bagh"}
+{"id":475703,"city_id":6178,"language_key":"uz","name":"Qal'ah-ye Zal"}
+{"id":479630,"city_id":6229,"language_key":"uz","name":"Qal'ah-ye Sang-e Takht"}
+{"id":480708,"city_id":6243,"language_key":"uz","name":"Qal'ah-ye Ra'is"}
+{"id":480785,"city_id":6244,"language_key":"uz","name":"Qal'ah-ye Ragh"}
+{"id":481709,"city_id":6256,"language_key":"uz","name":"Qal'ah-ye Panjah"}
+{"id":482171,"city_id":6262,"language_key":"uz","name":"Qal'a-ye Nurulloh Xon"}
+{"id":482556,"city_id":6267,"language_key":"uz","name":"Qal'ai Now"}
+{"id":482633,"city_id":6268,"language_key":"uz","name":"Qal'ah-ye Now"}
+{"id":486560,"city_id":6319,"language_key":"uz","name":"Qal'ah-ye Kuf"}
+{"id":486868,"city_id":6323,"language_key":"uz","name":"Qal'ah-ye Kuhnah"}
+{"id":487484,"city_id":6331,"language_key":"uz","name":"Kalayi-xon"}
+{"id":488023,"city_id":6338,"language_key":"uz","name":"Qal'ah-ye Kafiran"}
+{"id":495569,"city_id":6436,"language_key":"uz","name":"Qal'ah-ye Shahr"}
+{"id":499804,"city_id":6491,"language_key":"uz","name":"Qalat"}
+{"id":499881,"city_id":6492,"language_key":"uz","name":"Qalai Shahi"}
+{"id":505117,"city_id":6560,"language_key":"uz","name":"Qadiani"}
+{"id":505656,"city_id":6567,"language_key":"uz","name":"Qadis"}
+{"id":516282,"city_id":6705,"language_key":"uz","name":"Parun"}
+{"id":517206,"city_id":6717,"language_key":"uz","name":"Puli Xumri"}
+{"id":517745,"city_id":6724,"language_key":"uz","name":"Puli Olam"}
+{"id":542231,"city_id":7042,"language_key":"uz","name":"Pasnay"}
+{"id":543232,"city_id":7055,"language_key":"uz","name":"Pashmul"}
+{"id":545619,"city_id":7086,"language_key":"uz","name":"Pasaband"}
+{"id":545850,"city_id":7089,"language_key":"uz","name":"Pasab"}
+{"id":549931,"city_id":7142,"language_key":"uz","name":"Panma"}
+{"id":551240,"city_id":7159,"language_key":"uz","name":"Panjab"}
+{"id":558632,"city_id":7255,"language_key":"uz","name":"Paghman"}
+{"id":561558,"city_id":7293,"language_key":"uz","name":"Omnah"}
+{"id":562482,"city_id":7305,"language_key":"uz","name":"Obeh"}
+{"id":564946,"city_id":7337,"language_key":"uz","name":"Uruzgan"}
+{"id":565408,"city_id":7343,"language_key":"uz","name":"Orlamish"}
+{"id":565716,"city_id":7347,"language_key":"uz","name":"Urgun"}
+{"id":571260,"city_id":7419,"language_key":"uz","name":"Nusay"}
+{"id":573108,"city_id":7443,"language_key":"uz","name":"Nurgal"}
+{"id":574186,"city_id":7457,"language_key":"uz","name":"Now Zad"}
+{"id":584966,"city_id":7597,"language_key":"uz","name":"Nili"}
+{"id":593667,"city_id":7710,"language_key":"uz","name":"Nayak"}
+{"id":594591,"city_id":7722,"language_key":"uz","name":"Nayak"}
+{"id":599904,"city_id":7791,"language_key":"uz","name":"Now Dahanak"}
+{"id":602753,"city_id":7828,"language_key":"uz","name":"Okak"}
+{"id":603985,"city_id":7844,"language_key":"uz","name":"Nawah"}
+{"id":604139,"city_id":7846,"language_key":"uz","name":"Navah-ye Gharak"}
+{"id":610684,"city_id":7931,"language_key":"uz","name":"Naray"}
+{"id":611069,"city_id":7936,"language_key":"uz","name":"Narang"}
+{"id":614842,"city_id":7985,"language_key":"uz","name":"Nalah"}
+{"id":616305,"city_id":8004,"language_key":"uz","name":"Nikeh"}
+{"id":618076,"city_id":8027,"language_key":"uz","name":"Nahrin"}
+{"id":620309,"city_id":8056,"language_key":"uz","name":"Hukumat-e Nad 'Ali"}
+{"id":623081,"city_id":8092,"language_key":"uz","name":"Musa Qal'ah"}
+{"id":631705,"city_id":8204,"language_key":"uz","name":"Bala Murghab"}
+{"id":633707,"city_id":8230,"language_key":"uz","name":"Muqer"}
+{"id":648260,"city_id":8419,"language_key":"uz","name":"Muhammad Aghah Wuluswali"}
+{"id":651186,"city_id":8457,"language_key":"uz","name":"Mizan 'Alaqahdari"}
+{"id":656576,"city_id":8527,"language_key":"uz","name":"Mir Bachah Kot"}
+{"id":657192,"city_id":8535,"language_key":"uz","name":"Miran"}
+{"id":659117,"city_id":8560,"language_key":"uz","name":"Mirobod"}
+{"id":659194,"city_id":8561,"language_key":"uz","name":"Mirobod"}
+{"id":664892,"city_id":8635,"language_key":"uz","name":"Mian"}
+{"id":665739,"city_id":8646,"language_key":"uz","name":"Maymana"}
+{"id":665893,"city_id":8648,"language_key":"uz","name":"Maidan Khulah"}
+{"id":670282,"city_id":8705,"language_key":"uz","name":"Mingajik"}
+{"id":671899,"city_id":8726,"language_key":"uz","name":"Mextar Lam"}
+{"id":673978,"city_id":8753,"language_key":"uz","name":"Mazar-i Sharif"}
+{"id":675364,"city_id":8771,"language_key":"uz","name":"Maymay"}
+{"id":677058,"city_id":8793,"language_key":"uz","name":"Muta Khan"}
+{"id":680138,"city_id":8833,"language_key":"uz","name":"Meshhed"}
+{"id":680600,"city_id":8839,"language_key":"uz","name":"Masan"}
+{"id":685220,"city_id":8899,"language_key":"uz","name":"Mardian"}
+{"id":691688,"city_id":8983,"language_key":"uz","name":"Mandol"}
+{"id":695538,"city_id":9033,"language_key":"uz","name":"Mama Khel"}
+{"id":714480,"city_id":9279,"language_key":"uz","name":"Landahha"}
+{"id":726261,"city_id":9432,"language_key":"uz","name":"Lashkargoh (Afgʻoniston)"}
+{"id":726338,"city_id":9433,"language_key":"uz","name":"Lash-e Juwayn"}
+{"id":728340,"city_id":9459,"language_key":"uz","name":"Larkird"}
+{"id":735424,"city_id":9551,"language_key":"uz","name":"Lal"}
+{"id":748899,"city_id":9726,"language_key":"uz","name":"Kuhpayeh"}
+{"id":761527,"city_id":9890,"language_key":"uz","name":"Razay Balochi"}
+{"id":762605,"city_id":9904,"language_key":"uz","name":"Kochkay"}
+{"id":766917,"city_id":9960,"language_key":"uz","name":"Kotowal"}
+{"id":772153,"city_id":10028,"language_key":"uz","name":"Kushk-e Kuhnah"}
+{"id":772230,"city_id":10029,"language_key":"uz","name":"Koshk"}
+{"id":773693,"city_id":10048,"language_key":"uz","name":"Kuran va Munjan"}
+{"id":775387,"city_id":10070,"language_key":"uz","name":"Qunduz"}
+{"id":788785,"city_id":10244,"language_key":"uz","name":"Khoshi"}
+{"id":789786,"city_id":10257,"language_key":"uz","name":"Khoshamand"}
+{"id":793174,"city_id":10301,"language_key":"uz","name":"Khwajah Shorah"}
+{"id":798872,"city_id":10375,"language_key":"uz","name":"Khwajah Kinti"}
+{"id":800797,"city_id":10400,"language_key":"uz","name":"Khwajah Ghar"}
+{"id":801567,"city_id":10410,"language_key":"uz","name":"Khwajah Du Koh"}
+{"id":806341,"city_id":10472,"language_key":"uz","name":"Deh Khwahan"}
+{"id":808266,"city_id":10497,"language_key":"uz","name":"Khulbisat"}
+{"id":809190,"city_id":10509,"language_key":"uz","name":"Khugyani"}
+{"id":810499,"city_id":10526,"language_key":"uz","name":"Xost"}
+{"id":813887,"city_id":10570,"language_key":"uz","name":"Khurdi"}
+{"id":814580,"city_id":10579,"language_key":"uz","name":"Khulm"}
+{"id":815735,"city_id":10594,"language_key":"uz","name":"Khudaydad Khel"}
+{"id":818353,"city_id":10628,"language_key":"uz","name":"Khairan"}
+{"id":821895,"city_id":10674,"language_key":"uz","name":"Khinjan"}
+{"id":822511,"city_id":10682,"language_key":"uz","name":"Khinj"}
+{"id":828748,"city_id":10763,"language_key":"uz","name":"Khash Nimruz (Ardabil)"}
+{"id":838835,"city_id":10894,"language_key":"uz","name":"Khan Neshin"}
+{"id":841376,"city_id":10927,"language_key":"uz","name":"Khanaqah"}
+{"id":843147,"city_id":10950,"language_key":"uz","name":"Chahar Bagh"}
+{"id":843224,"city_id":10951,"language_key":"uz","name":"Khandud"}
+{"id":844071,"city_id":10962,"language_key":"uz","name":"Khanaqah"}
+{"id":844379,"city_id":10966,"language_key":"uz","name":"Khanabad"}
+{"id":848460,"city_id":11019,"language_key":"uz","name":"Khamyab"}
+{"id":854312,"city_id":11095,"language_key":"uz","name":"Khakiran"}
+{"id":858162,"city_id":11145,"language_key":"uz","name":"Keshem"}
+{"id":861858,"city_id":11193,"language_key":"uz","name":"Kazhah"}
+{"id":870097,"city_id":11300,"language_key":"uz","name":"Kishk-e Nakhud"}
+{"id":872715,"city_id":11334,"language_key":"uz","name":"Karukh"}
+{"id":901051,"city_id":11702,"language_key":"uz","name":"Kanday"}
+{"id":901744,"city_id":11711,"language_key":"uz","name":"Qandahor"}
+{"id":912601,"city_id":11852,"language_key":"uz","name":"Kalan Deh"}
+{"id":914141,"city_id":11872,"language_key":"uz","name":"Kalakan"}
+{"id":915065,"city_id":11884,"language_key":"uz","name":"Kalafgan"}
+{"id":918222,"city_id":11925,"language_key":"uz","name":"Kajran"}
+{"id":922072,"city_id":11975,"language_key":"uz","name":"Ka'i"}
+{"id":928848,"city_id":12063,"language_key":"uz","name":"Kobul"}
+{"id":936086,"city_id":12157,"language_key":"uz","name":"Jurm"}
+{"id":949253,"city_id":12328,"language_key":"uz","name":"Jawand"}
+{"id":958108,"city_id":12443,"language_key":"uz","name":"Jani Khel"}
+{"id":968195,"city_id":12574,"language_key":"uz","name":"Jalrez"}
+{"id":969658,"city_id":12593,"language_key":"uz","name":"Jalolobod"}
+{"id":973970,"city_id":12649,"language_key":"uz","name":"Jabal os Saraj"}
+{"id":981362,"city_id":12745,"language_key":"uz","name":"Hukumat-e Shinkai"}
+{"id":984365,"city_id":12784,"language_key":"uz","name":"Herat"}
+{"id":999996,"city_id":12987,"language_key":"uz","name":"Haji Khel"}
+{"id":1004770,"city_id":13049,"language_key":"uz","name":"Hafiz Moghul"}
+{"id":1004924,"city_id":13051,"language_key":"uz","name":"Hafizan"}
+{"id":1008158,"city_id":13093,"language_key":"uz","name":"Gorjay"}
+{"id":1013933,"city_id":13168,"language_key":"uz","name":"Guzarah"}
+{"id":1014318,"city_id":13173,"language_key":"uz","name":"Goshtah"}
+{"id":1014780,"city_id":13179,"language_key":"uz","name":"Gomal Kelay"}
+{"id":1016782,"city_id":13205,"language_key":"uz","name":"Guron"}
+{"id":1016936,"city_id":13207,"language_key":"uz","name":"Gurdzi"}
+{"id":1017860,"city_id":13219,"language_key":"uz","name":"Gurgak"}
+{"id":1022711,"city_id":13282,"language_key":"uz","name":"Gul Kot"}
+{"id":1024944,"city_id":13311,"language_key":"uz","name":"Golbahar"}
+{"id":1029179,"city_id":13366,"language_key":"uz","name":"'Alaqahdari Gelan"}
+{"id":1030026,"city_id":13377,"language_key":"uz","name":"G'uzba"}
+{"id":1031643,"city_id":13398,"language_key":"uz","name":"Ghoriyan"}
+{"id":1035647,"city_id":13450,"language_key":"uz","name":"Ghujurak"}
+{"id":1037572,"city_id":13475,"language_key":"uz","name":"Ghormach"}
+{"id":1037957,"city_id":13480,"language_key":"uz","name":"Ghurayd Gharame"}
+{"id":1045426,"city_id":13577,"language_key":"uz","name":"Ghich"}
+{"id":1046427,"city_id":13590,"language_key":"uz","name":"Gazna"}
+{"id":1057207,"city_id":13730,"language_key":"uz","name":"Ghal-e Kushk"}
+{"id":1059517,"city_id":13760,"language_key":"uz","name":"Gereshk"}
+{"id":1062597,"city_id":13800,"language_key":"uz","name":"Gaz Khan"}
+{"id":1072530,"city_id":13929,"language_key":"uz","name":"Gardiz"}
+{"id":1086313,"city_id":14108,"language_key":"uz","name":"Fotur"}
+{"id":1087930,"city_id":14129,"language_key":"uz","name":"Fayzobod"}
+{"id":1088007,"city_id":14130,"language_key":"uz","name":"Fayzabad"}
+{"id":1088084,"city_id":14131,"language_key":"uz","name":"Fayzabad"}
+{"id":1091549,"city_id":14176,"language_key":"uz","name":"Qal'ah-ye Farsi"}
+{"id":1091857,"city_id":14180,"language_key":"uz","name":"Farkhar"}
+{"id":1092935,"city_id":14194,"language_key":"uz","name":"Faro"}
+{"id":1093628,"city_id":14203,"language_key":"uz","name":"Faqirano Kelay"}
+{"id":1096400,"city_id":14239,"language_key":"uz","name":"Istalif"}
+{"id":1099249,"city_id":14276,"language_key":"uz","name":"Ismoil Xel"}
+{"id":1100173,"city_id":14288,"language_key":"uz","name":"Eslom Qalih"}
+{"id":1100558,"city_id":14293,"language_key":"uz","name":"Islomchumgar"}
+{"id":1103176,"city_id":14327,"language_key":"uz","name":"Ishkamish"}
+{"id":1106102,"city_id":14365,"language_key":"uz","name":"Injil"}
+{"id":1107796,"city_id":14387,"language_key":"uz","name":"Imam Sohib"}
+{"id":1117806,"city_id":14517,"language_key":"uz","name":"Doshi"}
+{"id":1118884,"city_id":14531,"language_key":"uz","name":"Dowlatyar"}
+{"id":1119038,"city_id":14533,"language_key":"uz","name":"Dowlat Shoh"}
+{"id":1119962,"city_id":14545,"language_key":"uz","name":"Dowlatobod"}
+{"id":1120039,"city_id":14546,"language_key":"uz","name":"Dowlatobod"}
+{"id":1123350,"city_id":14589,"language_key":"uz","name":"Du Qal'a"}
+{"id":1128355,"city_id":14654,"language_key":"uz","name":"Duob"}
+{"id":1136132,"city_id":14755,"language_key":"uz","name":"Diktur"}
+{"id":1140906,"city_id":14817,"language_key":"uz","name":"De Narkhel Kelay"}
+{"id":1147451,"city_id":14902,"language_key":"uz","name":"Deh Ravud"}
+{"id":1151763,"city_id":14958,"language_key":"uz","name":"Dehi"}
+{"id":1153380,"city_id":14979,"language_key":"uz","name":"Deh-e Zangar"}
+{"id":1155305,"city_id":15004,"language_key":"uz","name":"Deh-e Soloh"}
+{"id":1156768,"city_id":15023,"language_key":"uz","name":"Deh-e Now"}
+{"id":1162543,"city_id":15098,"language_key":"uz","name":"Dehdadi"}
+{"id":1169011,"city_id":15182,"language_key":"uz","name":"Dwah Manday"}
+{"id":1170782,"city_id":15205,"language_key":"uz","name":"Dasht-e Qal'a"}
+{"id":1170936,"city_id":15207,"language_key":"uz","name":"Dasht-e Qal'a"}
+{"id":1172091,"city_id":15222,"language_key":"uz","name":"Dasht-e Archi"}
+{"id":1173939,"city_id":15246,"language_key":"uz","name":"Darzab"}
+{"id":1175556,"city_id":15267,"language_key":"uz","name":"Markaz-e Hukumat-e Darweshan"}
+{"id":1175710,"city_id":15269,"language_key":"uz","name":"Darvoza Kam"}
+{"id":1181562,"city_id":15345,"language_key":"uz","name":"Darqad"}
+{"id":1184873,"city_id":15388,"language_key":"uz","name":"Darayim"}
+{"id":1187337,"city_id":15420,"language_key":"uz","name":"Dangam"}
+{"id":1188184,"city_id":15431,"language_key":"uz","name":"Dandar"}
+{"id":1210745,"city_id":15724,"language_key":"uz","name":"Hukumati Dahanah-ye Ghori"}
+{"id":1231304,"city_id":15991,"language_key":"uz","name":"Tsowkey"}
+{"id":1232921,"city_id":16012,"language_key":"uz","name":"Chiras"}
+{"id":1236617,"city_id":16060,"language_key":"uz","name":"Chichkah"}
+{"id":1236848,"city_id":16063,"language_key":"uz","name":"Chisht-e Sharif"}
+{"id":1243547,"city_id":16150,"language_key":"uz","name":"Chinar"}
+{"id":1243855,"city_id":16154,"language_key":"uz","name":"Chimtal"}
+{"id":1253403,"city_id":16278,"language_key":"uz","name":"Charkh"}
+{"id":1253634,"city_id":16281,"language_key":"uz","name":"Charikar"}
+{"id":1254250,"city_id":16289,"language_key":"uz","name":"Dowr-e Rabat"}
+{"id":1256637,"city_id":16320,"language_key":"uz","name":"Tsaperai"}
+{"id":1261103,"city_id":16378,"language_key":"uz","name":"Tsamkani"}
+{"id":1265723,"city_id":16438,"language_key":"uz","name":"Chakaray"}
+{"id":1265800,"city_id":16439,"language_key":"uz","name":"Chakaran"}
+{"id":1272499,"city_id":16526,"language_key":"uz","name":"Chahar Qalʼah"}
+{"id":1275964,"city_id":16571,"language_key":"uz","name":"chhar brj"}
+{"id":1277581,"city_id":16592,"language_key":"uz","name":"Chah Ab"}
+{"id":1277889,"city_id":16596,"language_key":"uz","name":"Feyruz Kuh"}
+{"id":1289670,"city_id":16749,"language_key":"uz","name":"Bomay"}
+{"id":1291287,"city_id":16770,"language_key":"uz","name":"Bulah Qishlaq"}
+{"id":1298756,"city_id":16867,"language_key":"uz","name":"Bulolah"}
+{"id":1311230,"city_id":17029,"language_key":"uz","name":"Bal Chiragh"}
+{"id":1316697,"city_id":17100,"language_key":"uz","name":"Bazar-e Talah"}
+{"id":1323088,"city_id":17183,"language_key":"uz","name":"Muhmand Dara"}
+{"id":1327708,"city_id":17243,"language_key":"uz","name":"Burkah"}
+{"id":1331404,"city_id":17291,"language_key":"uz","name":"Barg-e Matal"}
+{"id":1336486,"city_id":17357,"language_key":"uz","name":"Baraki"}
+{"id":1336563,"city_id":17358,"language_key":"uz","name":"Baraki Barak"}
+{"id":1339643,"city_id":17398,"language_key":"uz","name":"Banu"}
+{"id":1343570,"city_id":17449,"language_key":"uz","name":"Bandabad"}
+{"id":1344109,"city_id":17456,"language_key":"uz","name":"Bamion"}
+{"id":1346650,"city_id":17489,"language_key":"uz","name":"Balx"}
+{"id":1353657,"city_id":17580,"language_key":"uz","name":"Bakhshi"}
+{"id":1357045,"city_id":17624,"language_key":"uz","name":"Bahramcha"}
+{"id":1357892,"city_id":17635,"language_key":"uz","name":"Baharak"}
+{"id":1359047,"city_id":17650,"language_key":"uz","name":"Bagrami"}
+{"id":1359124,"city_id":17651,"language_key":"uz","name":"Bagram"}
+{"id":1359817,"city_id":17660,"language_key":"uz","name":"Baghlan"}
+{"id":1376911,"city_id":17882,"language_key":"uz","name":"Babak"}
+{"id":1377758,"city_id":17893,"language_key":"uz","name":"Baba Ali Kelay"}
+{"id":1377989,"city_id":17896,"language_key":"uz","name":"Hukumati Azrah"}
+{"id":1388615,"city_id":18034,"language_key":"uz","name":"Art Khwajah"}
+{"id":1389077,"city_id":18040,"language_key":"uz","name":"'Alaqahdari Atghar"}
+{"id":1393851,"city_id":18102,"language_key":"uz","name":"Asmar"}
+{"id":1396007,"city_id":18130,"language_key":"uz","name":"Ishkashim tumani"}
+{"id":1397624,"city_id":18151,"language_key":"uz","name":"Asadabad"}
+{"id":1400704,"city_id":18191,"language_key":"uz","name":"arghstan"}
+{"id":1405401,"city_id":18252,"language_key":"uz","name":"'Arab"}
+{"id":1408096,"city_id":18287,"language_key":"uz","name":"Aqcha"}
+{"id":1412716,"city_id":18347,"language_key":"uz","name":"Andkho'y"}
+{"id":1414718,"city_id":18373,"language_key":"uz","name":"'Unabah"}
+{"id":1415411,"city_id":18382,"language_key":"uz","name":"Anar Darah"}
+{"id":1419415,"city_id":18434,"language_key":"uz","name":"Amanzi"}
+{"id":1422880,"city_id":18479,"language_key":"uz","name":"almr khel"}
+{"id":1422957,"city_id":18480,"language_key":"uz","name":"'Alaqahdari-ye Almar"}
+{"id":1424805,"city_id":18504,"language_key":"uz","name":"'Ali Sher 'Alaqahdari"}
+{"id":1425498,"city_id":18513,"language_key":"uz","name":"Wuluswali 'Alingar"}
+{"id":1427115,"city_id":18534,"language_key":"uz","name":"'Ali Xel"}
+{"id":1432505,"city_id":18604,"language_key":"uz","name":"Alaqahdari Yosuf Khel"}
+{"id":1432736,"city_id":18607,"language_key":"uz","name":"Alaqahdari Dishu"}
+{"id":1434969,"city_id":18636,"language_key":"uz","name":"Alah Say"}
+{"id":1447212,"city_id":18795,"language_key":"uz","name":"Pachir va Agam"}
+{"id":1448213,"city_id":18808,"language_key":"uz","name":"Afaqi"}
+{"id":1448752,"city_id":18815,"language_key":"uz","name":"Adraskan"}
+{"id":1456529,"city_id":18916,"language_key":"uz","name":"Ab Gaj"}
+{"id":1457145,"city_id":18924,"language_key":"uz","name":"Ab-e Kamari"}
+{"id":1470389,"city_id":19096,"language_key":"uz","name":"Xadir"}
+{"id":1473315,"city_id":19134,"language_key":"uz","name":"Ghulam Ali"}
+{"id":1479013,"city_id":19208,"language_key":"uz","name":"Qarah Bagh Bazar"}
+{"id":1485943,"city_id":19298,"language_key":"uz","name":"Zargaran"}
+{"id":1489023,"city_id":19338,"language_key":"uz","name":"Surkh Bilandi"}
+{"id":1490101,"city_id":19352,"language_key":"uz","name":"Pul-e Sangi"}
+{"id":1522364,"city_id":19771,"language_key":"uz","name":"Langar"}
+{"id":1528293,"city_id":19848,"language_key":"uz","name":"Bagh-e Maidan"}
+{"id":1531450,"city_id":19889,"language_key":"uz","name":"Darah-ye Istama"}
+{"id":1531681,"city_id":19892,"language_key":"uz","name":"Qal'ah-ye Faqir Shoh"}
+{"id":1537456,"city_id":19967,"language_key":"uz","name":"Ibragim Khan"}
+{"id":1551316,"city_id":20147,"language_key":"uz","name":"Darvazkay"}
+{"id":1554935,"city_id":20194,"language_key":"uz","name":"Sini"}
+{"id":1578574,"city_id":20501,"language_key":"uz","name":"Qaranghu Toghai"}
+{"id":1595822,"city_id":20725,"language_key":"uz","name":"Bazarak"}
+{"id":1599210,"city_id":20769,"language_key":"uz","name":"Sherwani-ye Bala"}
+{"id":1599980,"city_id":20779,"language_key":"uz","name":"Kiraman"}
+{"id":1611761,"city_id":20932,"language_key":"uz","name":"Alaqahdari Sarobi"}
+{"id":1613532,"city_id":20955,"language_key":"uz","name":"Tsuhay Khulah"}
+{"id":1630318,"city_id":21173,"language_key":"uz","name":"Yarnam Kelay"}
+{"id":1637556,"city_id":21267,"language_key":"uz","name":"Ziruk Alaqahdari"}
+{"id":1664737,"city_id":21620,"language_key":"uz","name":"Baz Muhammad Kelay"}
+{"id":1679136,"city_id":21807,"language_key":"uz","name":"Majnun Kelay"}
+{"id":1688838,"city_id":21933,"language_key":"uz","name":"Tiliray"}
+{"id":1692303,"city_id":21978,"language_key":"uz","name":"Kushkak"}
+{"id":1695306,"city_id":22017,"language_key":"uz","name":"Xayr Kot"}
+{"id":1731034,"city_id":22481,"language_key":"uz","name":"Bahodir Khel"}
+{"id":1782470,"city_id":23149,"language_key":"uz","name":"Chowney"}
+{"id":1805570,"city_id":23449,"language_key":"uz","name":"Pay Nili"}
+{"id":1837371,"city_id":23862,"language_key":"uz","name":"Shaykh Choghan"}
+{"id":1843223,"city_id":23938,"language_key":"uz","name":"Qal'ah-ye Mir Ahmad Shah"}
+{"id":1844378,"city_id":23953,"language_key":"uz","name":"Deh-e Pa'in"}
+{"id":1846765,"city_id":23984,"language_key":"uz","name":"Mulkana"}
+{"id":1847381,"city_id":23992,"language_key":"uz","name":"Vutahpur"}
+{"id":1852771,"city_id":24062,"language_key":"uz","name":"Monay"}
+{"id":1853156,"city_id":24067,"language_key":"uz","name":"Karbori"}
+{"id":1866400,"city_id":24239,"language_key":"uz","name":"Sultanpur-e Ulya"}
+{"id":1869480,"city_id":24279,"language_key":"uz","name":"Baba Sahib"}
+{"id":1878027,"city_id":24390,"language_key":"uz","name":"Chandal Bai"}
+{"id":1890578,"city_id":24553,"language_key":"uz","name":"Dahan-e Jarf"}
+{"id":1913524,"city_id":24851,"language_key":"uz","name":"Sar-e Dasht"}
+{"id":1925305,"city_id":25004,"language_key":"uz","name":"Maydanshakhr"}
+{"id":1934853,"city_id":25128,"language_key":"uz","name":"But-e Shamamah"}
+{"id":1950946,"city_id":25337,"language_key":"uz","name":"Ghujur"}
+{"id":1981284,"city_id":25731,"language_key":"uz","name":"Du Lainah"}
+{"id":1982208,"city_id":25743,"language_key":"uz","name":"Shikhliyak"}
+{"id":1992988,"city_id":25883,"language_key":"uz","name":"Shiniah"}
+{"id":2003383,"city_id":26018,"language_key":"uz","name":"Dahan-e Abrusi"}
+{"id":2004538,"city_id":26033,"language_key":"uz","name":"Gazak"}
+{"id":2013855,"city_id":26154,"language_key":"uz","name":"Karezak"}
+{"id":2023326,"city_id":26277,"language_key":"uz","name":"Sar-e Manghoz"}
+{"id":2024866,"city_id":26297,"language_key":"uz","name":"Dahan-e Tala Qol"}
+{"id":2027561,"city_id":26332,"language_key":"uz","name":"Qaram Qo'l"}
+{"id":2032104,"city_id":26391,"language_key":"uz","name":"Pul-e Hisar"}
+{"id":2039727,"city_id":26490,"language_key":"uz","name":"Sarab"}
+{"id":2039881,"city_id":26492,"language_key":"uz","name":"Lab-Sar"}
+{"id":2088006,"city_id":27117,"language_key":"uz","name":"Taqchah Khanah"}
+{"id":2092857,"city_id":27180,"language_key":"uz","name":"March"}
+{"id":2097169,"city_id":27236,"language_key":"uz","name":"Ziraki"}
+{"id":2112646,"city_id":27437,"language_key":"uz","name":"Sayyid Miron"}
+{"id":2116419,"city_id":27486,"language_key":"uz","name":"Darya Mir"}
+{"id":2120192,"city_id":27535,"language_key":"uz","name":"Aliabad"}
+{"id":2148913,"city_id":27908,"language_key":"uz","name":"Pas Pul"}
+{"id":2158692,"city_id":28035,"language_key":"uz","name":"banjany"}
+{"id":2169780,"city_id":28179,"language_key":"uz","name":"Qal'ah-ye Na'im"}
+{"id":2179482,"city_id":28305,"language_key":"uz","name":"Arbab Kelay"}
+{"id":2185411,"city_id":28382,"language_key":"uz","name":"Markaz-e Woluswali-ye Achin"}
+{"id":2263335,"city_id":29394,"language_key":"uz","name":"Spi Tangay"}
+{"id":2269803,"city_id":29478,"language_key":"uz","name":"Manogay"}
+{"id":2275809,"city_id":29556,"language_key":"uz","name":"Mundul"}
+{"id":2304915,"city_id":29934,"language_key":"uz","name":"bghlan"}
+{"id":2306224,"city_id":29951,"language_key":"uz","name":"Ster Giyan"}
+{"id":2342106,"city_id":30417,"language_key":"uz","name":"Chakal Karez"}
+{"id":2342953,"city_id":30428,"language_key":"uz","name":"'Ido Khel"}
+{"id":2347727,"city_id":30490,"language_key":"uz","name":"Qol-e Chori"}
+{"id":2350114,"city_id":30521,"language_key":"uz","name":"Kaj Kala"}
+{"id":2350345,"city_id":30524,"language_key":"uz","name":"Bashagai"}
+{"id":2350807,"city_id":30530,"language_key":"uz","name":"Kotah-ye Habibullah"}
+{"id":2350884,"city_id":30531,"language_key":"uz","name":"Gul Darah"}
+{"id":2351654,"city_id":30541,"language_key":"uz","name":"Qal'ah-ye Ghulam Haidar Khan"}
+{"id":2351808,"city_id":30543,"language_key":"uz","name":"Qal'ah-ye Muhammad Shah Khan"}
+{"id":2352193,"city_id":30548,"language_key":"uz","name":"Qal'ah-ye Khalil"}
+{"id":2352270,"city_id":30549,"language_key":"uz","name":"Qal'ah-ye Ghani"}
+{"id":2352732,"city_id":30555,"language_key":"uz","name":"Qal'ah-ye Khan Mir"}
+{"id":2353271,"city_id":30562,"language_key":"uz","name":"Shuhuch"}
+{"id":2353348,"city_id":30563,"language_key":"uz","name":"Jujdur"}
+{"id":2353579,"city_id":30566,"language_key":"uz","name":"Ahmad Khan Qal'ah"}
+{"id":2357352,"city_id":30615,"language_key":"uz","name":"Rubat-e Mabayn"}
+{"id":2357429,"city_id":30616,"language_key":"uz","name":"Rubat-e Bala"}
+{"id":2357583,"city_id":30618,"language_key":"uz","name":"Nowadak"}
+{"id":2357737,"city_id":30620,"language_key":"uz","name":"Sar Chashmah"}
+{"id":2359739,"city_id":30646,"language_key":"uz","name":"Safed Sang"}
+{"id":2359816,"city_id":30647,"language_key":"uz","name":"Aytch"}
+{"id":2360124,"city_id":30651,"language_key":"uz","name":"Oryang Surakh"}
+{"id":2360201,"city_id":30652,"language_key":"uz","name":"Oryang-e Barjir"}
+{"id":2360278,"city_id":30653,"language_key":"uz","name":"Chigh"}
+{"id":2361125,"city_id":30664,"language_key":"uz","name":"Darah-ye 'Abbas Khel"}
+{"id":2361433,"city_id":30668,"language_key":"uz","name":"Khan Muhammad Kelay"}
+{"id":2361510,"city_id":30669,"language_key":"uz","name":"Dogar Kelay"}
+{"id":2362203,"city_id":30678,"language_key":"uz","name":"Kotizai"}
+{"id":2363050,"city_id":30689,"language_key":"uz","name":"Kachi Musa"}
+{"id":2363435,"city_id":30694,"language_key":"uz","name":"Sur Kamar"}
+{"id":2363897,"city_id":30700,"language_key":"uz","name":"Gidar"}
+{"id":2363974,"city_id":30701,"language_key":"uz","name":"Duabah"}
+{"id":2364282,"city_id":30705,"language_key":"uz","name":"Shapawos"}
+{"id":2364436,"city_id":30707,"language_key":"uz","name":"Saki Deh Das"}
+{"id":2364513,"city_id":30708,"language_key":"uz","name":"Shah Dats"}
+{"id":2364744,"city_id":30711,"language_key":"uz","name":"Khandah Low"}
+{"id":2364821,"city_id":30712,"language_key":"uz","name":"Yari Das Kalan"}
+{"id":2365129,"city_id":30716,"language_key":"uz","name":"Shaykhan"}
+{"id":2365206,"city_id":30717,"language_key":"uz","name":"Kunj Kala"}
+{"id":2365283,"city_id":30718,"language_key":"uz","name":"Torah Borah"}
+{"id":2365437,"city_id":30720,"language_key":"uz","name":"Mirza Bagh"}
+{"id":2365668,"city_id":30723,"language_key":"uz","name":"Wechah Algadah"}
+{"id":2366130,"city_id":30729,"language_key":"uz","name":"Spin Ragheh"}
+{"id":2366207,"city_id":30730,"language_key":"uz","name":"Bahlol Khel"}
+{"id":2366592,"city_id":30735,"language_key":"uz","name":"Bar Laghti Kelay"}
+{"id":2366746,"city_id":30737,"language_key":"uz","name":"Tangi Khel"}
+{"id":2367593,"city_id":30748,"language_key":"uz","name":"Gadrah"}
+{"id":2367670,"city_id":30749,"language_key":"uz","name":"Angurah"}
+{"id":2368055,"city_id":30754,"language_key":"uz","name":"Paigal"}
+{"id":2368363,"city_id":30758,"language_key":"uz","name":"Baz Khandah"}
+{"id":2368671,"city_id":30762,"language_key":"uz","name":"Bam Husain"}
+{"id":2369364,"city_id":30771,"language_key":"uz","name":"Asel Barikaw"}
+{"id":2369441,"city_id":30772,"language_key":"uz","name":"Barikaw Qal'ah Wali"}
+{"id":2369826,"city_id":30777,"language_key":"uz","name":"Adchat Tantil"}
+{"id":2371212,"city_id":30795,"language_key":"uz","name":"Yas Cham"}
+{"id":2371289,"city_id":30796,"language_key":"uz","name":"Mullayano Tangay"}
+{"id":2388537,"city_id":31020,"language_key":"uz","name":"Pitaw-e Siyah Khaki"}
+{"id":2398008,"city_id":31143,"language_key":"uz","name":"Deri Mila"}
+{"id":2403090,"city_id":31209,"language_key":"uz","name":"Sharan"}
+{"id":2403321,"city_id":31212,"language_key":"uz","name":"Salam Khel"}
+{"id":2413716,"city_id":31347,"language_key":"uz","name":"mazad"}

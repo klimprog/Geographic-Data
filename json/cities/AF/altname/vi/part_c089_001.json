@@ -1,0 +1,483 @@
+{"id":35418,"city_id":460,"language_key":"vi","name":"Zor Kot"}
+{"id":35572,"city_id":462,"language_key":"vi","name":"Wuleswali Bihsud"}
+{"id":36188,"city_id":470,"language_key":"vi","name":"Kuhsan"}
+{"id":36265,"city_id":471,"language_key":"vi","name":"Lasfah"}
+{"id":36496,"city_id":474,"language_key":"vi","name":"tkzar"}
+{"id":37035,"city_id":481,"language_key":"vi","name":"Bati"}
+{"id":37112,"city_id":482,"language_key":"vi","name":"Miray"}
+{"id":37189,"city_id":483,"language_key":"vi","name":"Aq Kupruk"}
+{"id":37728,"city_id":490,"language_key":"vi","name":"Zurak"}
+{"id":39191,"city_id":509,"language_key":"vi","name":"Zurmat"}
+{"id":42887,"city_id":557,"language_key":"vi","name":"Zaybak"}
+{"id":43195,"city_id":561,"language_key":"vi","name":"Ziarat-e Shah Maqsud"}
+{"id":46275,"city_id":601,"language_key":"vi","name":"Zindah Jan"}
+{"id":50048,"city_id":650,"language_key":"vi","name":"Zowak"}
+{"id":50433,"city_id":655,"language_key":"vi","name":"Zaryat-e Uluq"}
+{"id":53128,"city_id":690,"language_key":"vi","name":"Zarghun Shahr"}
+{"id":54052,"city_id":702,"language_key":"vi","name":"Zarah Sharan"}
+{"id":58364,"city_id":758,"language_key":"vi","name":"Zaranj"}
+{"id":61675,"city_id":801,"language_key":"vi","name":"Zamto Kelay"}
+{"id":73148,"city_id":950,"language_key":"vi","name":"Yangi Qal'ah"}
+{"id":79154,"city_id":1028,"language_key":"vi","name":"Yahya Khel"}
+{"id":100021,"city_id":1299,"language_key":"vi","name":"Wazit"}
+{"id":100252,"city_id":1302,"language_key":"vi","name":"washr"}
+{"id":102485,"city_id":1331,"language_key":"vi","name":"Ustuwah"}
+{"id":111032,"city_id":1442,"language_key":"vi","name":"Tormay"}
+{"id":115883,"city_id":1505,"language_key":"vi","name":"Tulak"}
+{"id":120349,"city_id":1563,"language_key":"vi","name":"Toraghundi"}
+{"id":126201,"city_id":1639,"language_key":"vi","name":"Titan"}
+{"id":126509,"city_id":1643,"language_key":"vi","name":"Tir Pul"}
+{"id":128588,"city_id":1670,"language_key":"vi","name":"Taywarah"}
+{"id":140292,"city_id":1822,"language_key":"vi","name":"Bazar-e Tashkan"}
+{"id":142448,"city_id":1850,"language_key":"vi","name":"Tarinkot"}
+{"id":155615,"city_id":2021,"language_key":"vi","name":"Taloqan"}
+{"id":170553,"city_id":2215,"language_key":"vi","name":"Tagaw-Bay"}
+{"id":170707,"city_id":2217,"language_key":"vi","name":"Taghori"}
+{"id":173787,"city_id":2257,"language_key":"vi","name":"Tagab"}
+{"id":183258,"city_id":2380,"language_key":"vi","name":"Markaz-e Hukumat-e Sultan-e Bakwah"}
+{"id":193037,"city_id":2507,"language_key":"vi","name":"Spin Boldak"}
+{"id":194500,"city_id":2526,"language_key":"vi","name":"Sperah"}
+{"id":195578,"city_id":2540,"language_key":"vi","name":"Sozmah Qal'ah"}
+{"id":224761,"city_id":2919,"language_key":"vi","name":"Siyahgird"}
+{"id":234848,"city_id":3050,"language_key":"vi","name":"Buyni Qarah"}
+{"id":238467,"city_id":3097,"language_key":"vi","name":"Shkhowr"}
+{"id":238775,"city_id":3101,"language_key":"vi","name":"Shewah"}
+{"id":241547,"city_id":3137,"language_key":"vi","name":"Sherah"}
+{"id":242163,"city_id":3145,"language_key":"vi","name":"Sher Baz Khel"}
+{"id":244550,"city_id":3176,"language_key":"vi","name":"Shinyah"}
+{"id":247553,"city_id":3215,"language_key":"vi","name":"Shindand"}
+{"id":247784,"city_id":3218,"language_key":"vi","name":"Shinalis"}
+{"id":253405,"city_id":3291,"language_key":"vi","name":"Shaykh Amir Kelay"}
+{"id":258256,"city_id":3354,"language_key":"vi","name":"Qashqal"}
+{"id":258487,"city_id":3357,"language_key":"vi","name":"Shingirab"}
+{"id":261567,"city_id":3397,"language_key":"vi","name":"Sheberghan"}
+{"id":264185,"city_id":3431,"language_key":"vi","name":"shwak"}
+{"id":270345,"city_id":3511,"language_key":"vi","name":"Shamshay Kala"}
+{"id":280201,"city_id":3639,"language_key":"vi","name":"Shahr-e Safa"}
+{"id":281510,"city_id":3656,"language_key":"vi","name":"shhran"}
+{"id":281664,"city_id":3658,"language_key":"vi","name":"Shahrak"}
+{"id":285514,"city_id":3708,"language_key":"vi","name":"'Alaqahdari Shah Joy"}
+{"id":296602,"city_id":3852,"language_key":"vi","name":"Wuleswali Sayyid Karam"}
+{"id":299605,"city_id":3891,"language_key":"vi","name":"Markaz-e Sayyidabad"}
+{"id":299682,"city_id":3892,"language_key":"vi","name":"Sayad"}
+{"id":313003,"city_id":4065,"language_key":"vi","name":"Sidqabad"}
+{"id":317777,"city_id":4127,"language_key":"vi","name":"Sayagaz"}
+{"id":321858,"city_id":4180,"language_key":"vi","name":"Sar-e Tayghan"}
+{"id":325862,"city_id":4232,"language_key":"vi","name":"Sarobi"}
+{"id":328403,"city_id":4265,"language_key":"vi","name":"Sar Kani"}
+{"id":331714,"city_id":4308,"language_key":"vi","name":"srfraz kala"}
+{"id":338490,"city_id":4396,"language_key":"vi","name":"Sar-e Pol (hoặc Sari Pul)"}
+{"id":357586,"city_id":4644,"language_key":"vi","name":"Sar Chakan"}
+{"id":362514,"city_id":4708,"language_key":"vi","name":"Sangin"}
+{"id":364747,"city_id":4737,"language_key":"vi","name":"Sang-e Mashah"}
+{"id":365671,"city_id":4749,"language_key":"vi","name":"Sang-e Charak"}
+{"id":367288,"city_id":4770,"language_key":"vi","name":"Sang Atesh"}
+{"id":367442,"city_id":4772,"language_key":"vi","name":"Sangar Saray"}
+{"id":372139,"city_id":4833,"language_key":"vi","name":"Samangan"}
+{"id":391466,"city_id":5084,"language_key":"vi","name":"Ru-ye Sang"}
+{"id":393545,"city_id":5111,"language_key":"vi","name":"thanh bánh lái"}
+{"id":394854,"city_id":5128,"language_key":"vi","name":"Rustaq"}
+{"id":396702,"city_id":5152,"language_key":"vi","name":"Rabat-e Sangi-ye Pa'in"}
+{"id":403863,"city_id":5245,"language_key":"vi","name":"Rasul Khan"}
+{"id":407867,"city_id":5297,"language_key":"vi","name":"Ramak"}
+{"id":428965,"city_id":5571,"language_key":"vi","name":"qrghan"}
+{"id":431121,"city_id":5599,"language_key":"vi","name":"Quchanghi"}
+{"id":434432,"city_id":5642,"language_key":"vi","name":"Qaisar"}
+{"id":463307,"city_id":6017,"language_key":"vi","name":"Qarqin"}
+{"id":465078,"city_id":6040,"language_key":"vi","name":"Qarghah'i"}
+{"id":468928,"city_id":6090,"language_key":"vi","name":"Qarchi Gak"}
+{"id":469159,"city_id":6093,"language_key":"vi","name":"Qarawul"}
+{"id":470776,"city_id":6114,"language_key":"vi","name":"Qarah Bagh"}
+{"id":470930,"city_id":6116,"language_key":"vi","name":"Quận Qarabagh"}
+{"id":475704,"city_id":6178,"language_key":"vi","name":"Qal'ah-ye Zal"}
+{"id":479631,"city_id":6229,"language_key":"vi","name":"Qal'ah-ye Sang-e Takht"}
+{"id":480709,"city_id":6243,"language_key":"vi","name":"Qal'ah-ye Ra'is"}
+{"id":480786,"city_id":6244,"language_key":"vi","name":"Qal'ah-ye Ragh"}
+{"id":481710,"city_id":6256,"language_key":"vi","name":"Qal'ah-ye Panjah"}
+{"id":482172,"city_id":6262,"language_key":"vi","name":"Qal'ah-ye Nurullah Khan"}
+{"id":482557,"city_id":6267,"language_key":"vi","name":"Qala i Naw, Afghanistan"}
+{"id":482634,"city_id":6268,"language_key":"vi","name":"Qal'ah-ye Now"}
+{"id":486561,"city_id":6319,"language_key":"vi","name":"Qal'ah-ye Kuf"}
+{"id":486869,"city_id":6323,"language_key":"vi","name":"Qal'ah-ye Kuhnah"}
+{"id":487485,"city_id":6331,"language_key":"vi","name":"Kalayi-Khan"}
+{"id":488024,"city_id":6338,"language_key":"vi","name":"Qal'ah-ye Kafiran"}
+{"id":495570,"city_id":6436,"language_key":"vi","name":"Qal'ah-ye Shahr"}
+{"id":499805,"city_id":6491,"language_key":"vi","name":"Qalat"}
+{"id":499882,"city_id":6492,"language_key":"vi","name":"Qal'ah-ye Shahi"}
+{"id":505118,"city_id":6560,"language_key":"vi","name":"Qadiani"}
+{"id":505657,"city_id":6567,"language_key":"vi","name":"Qadis"}
+{"id":516283,"city_id":6705,"language_key":"vi","name":"Parun"}
+{"id":517207,"city_id":6717,"language_key":"vi","name":"Puli Khumri"}
+{"id":517746,"city_id":6724,"language_key":"vi","name":"Quận Puli Alam"}
+{"id":542232,"city_id":7042,"language_key":"vi","name":"pasnay"}
+{"id":543233,"city_id":7055,"language_key":"vi","name":"Pashmul"}
+{"id":545620,"city_id":7086,"language_key":"vi","name":"pasabnd"}
+{"id":545851,"city_id":7089,"language_key":"vi","name":"Pasab"}
+{"id":549932,"city_id":7142,"language_key":"vi","name":"Panma"}
+{"id":551241,"city_id":7159,"language_key":"vi","name":"Panj"}
+{"id":558633,"city_id":7255,"language_key":"vi","name":"pghman"}
+{"id":561559,"city_id":7293,"language_key":"vi","name":"Omnah"}
+{"id":562483,"city_id":7305,"language_key":"vi","name":"Obeh"}
+{"id":564947,"city_id":7337,"language_key":"vi","name":"Uruzgan"}
+{"id":565409,"city_id":7343,"language_key":"vi","name":"Orlamish"}
+{"id":565717,"city_id":7347,"language_key":"vi","name":"Urgun"}
+{"id":571261,"city_id":7419,"language_key":"vi","name":"Nusay"}
+{"id":573109,"city_id":7443,"language_key":"vi","name":"Nurgal"}
+{"id":574187,"city_id":7457,"language_key":"vi","name":"Bây giờ Zad"}
+{"id":584967,"city_id":7597,"language_key":"vi","name":"Nili"}
+{"id":593668,"city_id":7710,"language_key":"vi","name":"nayak"}
+{"id":594592,"city_id":7722,"language_key":"vi","name":"nayak"}
+{"id":599905,"city_id":7791,"language_key":"vi","name":"Now Dahanak"}
+{"id":602754,"city_id":7828,"language_key":"vi","name":"Okak"}
+{"id":603986,"city_id":7844,"language_key":"vi","name":"Nawah"}
+{"id":604140,"city_id":7846,"language_key":"vi","name":"Nawah-ye Gharak"}
+{"id":610685,"city_id":7931,"language_key":"vi","name":"Naray"}
+{"id":611070,"city_id":7936,"language_key":"vi","name":"Narang"}
+{"id":614843,"city_id":7985,"language_key":"vi","name":"Nalah"}
+{"id":616306,"city_id":8004,"language_key":"vi","name":"Nikeh"}
+{"id":618077,"city_id":8027,"language_key":"vi","name":"Nahrin"}
+{"id":620310,"city_id":8056,"language_key":"vi","name":"Hukumat-e Nad 'Ali"}
+{"id":623082,"city_id":8092,"language_key":"vi","name":"Musa Qal'ah"}
+{"id":631706,"city_id":8204,"language_key":"vi","name":"bala mrghab"}
+{"id":633708,"city_id":8230,"language_key":"vi","name":"Muqer"}
+{"id":648261,"city_id":8419,"language_key":"vi","name":"Muhammad Aghah Wuluswali"}
+{"id":651187,"city_id":8457,"language_key":"vi","name":"Mizan 'Alaqahdari"}
+{"id":656577,"city_id":8527,"language_key":"vi","name":"Mir Bachah Kot"}
+{"id":657193,"city_id":8535,"language_key":"vi","name":"Miran"}
+{"id":659118,"city_id":8560,"language_key":"vi","name":"Mirabad"}
+{"id":659195,"city_id":8561,"language_key":"vi","name":"Mirabad"}
+{"id":664893,"city_id":8635,"language_key":"vi","name":"Mian"}
+{"id":665740,"city_id":8646,"language_key":"vi","name":"Quận Maymana"}
+{"id":665894,"city_id":8648,"language_key":"vi","name":"Maidan Khulah"}
+{"id":670283,"city_id":8705,"language_key":"vi","name":"Mingajik"}
+{"id":671900,"city_id":8726,"language_key":"vi","name":"Mihtarlam"}
+{"id":673979,"city_id":8753,"language_key":"vi","name":"Mazar-i-Sharif"}
+{"id":675365,"city_id":8771,"language_key":"vi","name":"Maymay"}
+{"id":677059,"city_id":8793,"language_key":"vi","name":"Muta Khan"}
+{"id":680139,"city_id":8833,"language_key":"vi","name":"Mashhad"}
+{"id":680601,"city_id":8839,"language_key":"vi","name":"Masan"}
+{"id":685221,"city_id":8899,"language_key":"vi","name":"Mardian"}
+{"id":691689,"city_id":8983,"language_key":"vi","name":"Mandol"}
+{"id":695539,"city_id":9033,"language_key":"vi","name":"Mama Khel"}
+{"id":714481,"city_id":9279,"language_key":"vi","name":"Landahha"}
+{"id":726262,"city_id":9432,"language_key":"vi","name":"Lashkar Gah"}
+{"id":726339,"city_id":9433,"language_key":"vi","name":"Lash-e Juwayn"}
+{"id":728341,"city_id":9459,"language_key":"vi","name":"Larkird"}
+{"id":735425,"city_id":9551,"language_key":"vi","name":"La'l"}
+{"id":748900,"city_id":9726,"language_key":"vi","name":"Kuhpayeh"}
+{"id":761528,"city_id":9890,"language_key":"vi","name":"Razay Balochi"}
+{"id":762606,"city_id":9904,"language_key":"vi","name":"Kochkay"}
+{"id":766918,"city_id":9960,"language_key":"vi","name":"Kotowal"}
+{"id":772154,"city_id":10028,"language_key":"vi","name":"Kushk-e Kuhnah"}
+{"id":772231,"city_id":10029,"language_key":"vi","name":"Koshk"}
+{"id":773694,"city_id":10048,"language_key":"vi","name":"Kuran wa Munjan"}
+{"id":775388,"city_id":10070,"language_key":"vi","name":"Kunduz"}
+{"id":788786,"city_id":10244,"language_key":"vi","name":"Khoshi"}
+{"id":789787,"city_id":10257,"language_key":"vi","name":"Khoshamand"}
+{"id":793175,"city_id":10301,"language_key":"vi","name":"Khwajah Shorah"}
+{"id":798873,"city_id":10375,"language_key":"vi","name":"Khwajah Kinti"}
+{"id":800798,"city_id":10400,"language_key":"vi","name":"khwajh ghar"}
+{"id":801568,"city_id":10410,"language_key":"vi","name":"Khwajah Du Koh"}
+{"id":806342,"city_id":10472,"language_key":"vi","name":"Khwahan"}
+{"id":808267,"city_id":10497,"language_key":"vi","name":"Khulbisat"}
+{"id":809191,"city_id":10509,"language_key":"vi","name":"Khugyani"}
+{"id":810500,"city_id":10526,"language_key":"vi","name":"Khost"}
+{"id":813888,"city_id":10570,"language_key":"vi","name":"Khurdi"}
+{"id":814581,"city_id":10579,"language_key":"vi","name":"Khulm"}
+{"id":815736,"city_id":10594,"language_key":"vi","name":"Khudaydad Khel"}
+{"id":818354,"city_id":10628,"language_key":"vi","name":"Khairan"}
+{"id":821896,"city_id":10674,"language_key":"vi","name":"khnjan"}
+{"id":822512,"city_id":10682,"language_key":"vi","name":"Khinj"}
+{"id":828749,"city_id":10763,"language_key":"vi","name":"Khash"}
+{"id":838836,"city_id":10894,"language_key":"vi","name":"Khan Neshin"}
+{"id":841377,"city_id":10927,"language_key":"vi","name":"Khanaqah"}
+{"id":843148,"city_id":10950,"language_key":"vi","name":"chhar bagh"}
+{"id":843225,"city_id":10951,"language_key":"vi","name":"Khandud"}
+{"id":844072,"city_id":10962,"language_key":"vi","name":"Khanaqah"}
+{"id":844380,"city_id":10966,"language_key":"vi","name":"Khanabad"}
+{"id":848461,"city_id":11019,"language_key":"vi","name":"khmyab"}
+{"id":854313,"city_id":11095,"language_key":"vi","name":"Khakiran"}
+{"id":858163,"city_id":11145,"language_key":"vi","name":"Kishim"}
+{"id":861859,"city_id":11193,"language_key":"vi","name":"Kazhah"}
+{"id":870098,"city_id":11300,"language_key":"vi","name":"Kishk-e Nakhud"}
+{"id":872716,"city_id":11334,"language_key":"vi","name":"Karokh"}
+{"id":901052,"city_id":11702,"language_key":"vi","name":"Kanday"}
+{"id":901745,"city_id":11711,"language_key":"vi","name":"Kandahar"}
+{"id":912602,"city_id":11852,"language_key":"vi","name":"Kalan Deh"}
+{"id":914142,"city_id":11872,"language_key":"vi","name":"Kalakan"}
+{"id":915066,"city_id":11884,"language_key":"vi","name":"Kalafgan"}
+{"id":918223,"city_id":11925,"language_key":"vi","name":"kjran"}
+{"id":922073,"city_id":11975,"language_key":"vi","name":"Kai"}
+{"id":928849,"city_id":12063,"language_key":"vi","name":"Kabul"}
+{"id":936087,"city_id":12157,"language_key":"vi","name":"Jurm"}
+{"id":949254,"city_id":12328,"language_key":"vi","name":"Jawand"}
+{"id":958109,"city_id":12443,"language_key":"vi","name":"Jani Khel"}
+{"id":968196,"city_id":12574,"language_key":"vi","name":"Quận Jalrez, Vardak"}
+{"id":969659,"city_id":12593,"language_key":"vi","name":"Jalalabad"}
+{"id":973971,"city_id":12649,"language_key":"vi","name":"Jabal os Saraj"}
+{"id":981363,"city_id":12745,"language_key":"vi","name":"Hukumat-e Shinkai"}
+{"id":984366,"city_id":12784,"language_key":"vi","name":"Quận Hirat"}
+{"id":999997,"city_id":12987,"language_key":"vi","name":"Haji Khel"}
+{"id":1004771,"city_id":13049,"language_key":"vi","name":"Hafiz Moghul"}
+{"id":1004925,"city_id":13051,"language_key":"vi","name":"hafzan"}
+{"id":1008159,"city_id":13093,"language_key":"vi","name":"Gorjay"}
+{"id":1013934,"city_id":13168,"language_key":"vi","name":"Guzarah"}
+{"id":1014319,"city_id":13173,"language_key":"vi","name":"Goshtah"}
+{"id":1014781,"city_id":13179,"language_key":"vi","name":"Gomal Kelay"}
+{"id":1016783,"city_id":13205,"language_key":"vi","name":"Guron"}
+{"id":1016937,"city_id":13207,"language_key":"vi","name":"Gurdzi"}
+{"id":1017861,"city_id":13219,"language_key":"vi","name":"Gurgak"}
+{"id":1022712,"city_id":13282,"language_key":"vi","name":"Gul Kot"}
+{"id":1024945,"city_id":13311,"language_key":"vi","name":"Golbahar"}
+{"id":1029180,"city_id":13366,"language_key":"vi","name":"'Alaqahdari Gelan"}
+{"id":1030027,"city_id":13377,"language_key":"vi","name":"Ghuzbah"}
+{"id":1031644,"city_id":13398,"language_key":"vi","name":"Ghoriyan"}
+{"id":1035648,"city_id":13450,"language_key":"vi","name":"Ghujurak"}
+{"id":1037573,"city_id":13475,"language_key":"vi","name":"ghrmach"}
+{"id":1037958,"city_id":13480,"language_key":"vi","name":"Ghurayd Gharame"}
+{"id":1045427,"city_id":13577,"language_key":"vi","name":"Ghich"}
+{"id":1046428,"city_id":13590,"language_key":"vi","name":"Ghazni"}
+{"id":1057208,"city_id":13730,"language_key":"vi","name":"Ghal-e Kushk"}
+{"id":1059518,"city_id":13760,"language_key":"vi","name":"Gereshk"}
+{"id":1062598,"city_id":13800,"language_key":"vi","name":"gzkhan"}
+{"id":1072531,"city_id":13929,"language_key":"vi","name":"Gardez"}
+{"id":1086314,"city_id":14108,"language_key":"vi","name":"Future"}
+{"id":1087931,"city_id":14129,"language_key":"vi","name":"Fayzabad, Badakhshan"}
+{"id":1088008,"city_id":14130,"language_key":"vi","name":"Faizabad"}
+{"id":1088085,"city_id":14131,"language_key":"vi","name":"fyzabad"}
+{"id":1091550,"city_id":14176,"language_key":"vi","name":"Qal'ah-ye Farsi"}
+{"id":1091858,"city_id":14180,"language_key":"vi","name":"frkhar"}
+{"id":1092936,"city_id":14194,"language_key":"vi","name":"Farah"}
+{"id":1093629,"city_id":14203,"language_key":"vi","name":"Faqirano Kelay"}
+{"id":1096401,"city_id":14239,"language_key":"vi","name":"Quận Istalif"}
+{"id":1099250,"city_id":14276,"language_key":"vi","name":"Isma'il Khel"}
+{"id":1100174,"city_id":14288,"language_key":"vi","name":"Eslam Qaleh"}
+{"id":1100559,"city_id":14293,"language_key":"vi","name":"Islam Chumgar"}
+{"id":1103177,"city_id":14327,"language_key":"vi","name":"Ishkamish"}
+{"id":1106103,"city_id":14365,"language_key":"vi","name":"Injil"}
+{"id":1107797,"city_id":14387,"language_key":"vi","name":"Imam Sahib"}
+{"id":1117807,"city_id":14517,"language_key":"vi","name":"Doshi"}
+{"id":1118885,"city_id":14531,"language_key":"vi","name":"Dowlatyar"}
+{"id":1119039,"city_id":14533,"language_key":"vi","name":"dwlt shah"}
+{"id":1119963,"city_id":14545,"language_key":"vi","name":"Dowlatabad"}
+{"id":1120040,"city_id":14546,"language_key":"vi","name":"Dowlatabad"}
+{"id":1123351,"city_id":14589,"language_key":"vi","name":"Du Qal'ah"}
+{"id":1128356,"city_id":14654,"language_key":"vi","name":"Duab"}
+{"id":1136133,"city_id":14755,"language_key":"vi","name":"Diktur"}
+{"id":1140907,"city_id":14817,"language_key":"vi","name":"De Narkhel Kelay"}
+{"id":1147452,"city_id":14902,"language_key":"vi","name":"Deh Rawud"}
+{"id":1151764,"city_id":14958,"language_key":"vi","name":"Dehi"}
+{"id":1153381,"city_id":14979,"language_key":"vi","name":"Deh-e Zangar"}
+{"id":1155306,"city_id":15004,"language_key":"vi","name":"Deh-e Salah"}
+{"id":1156769,"city_id":15023,"language_key":"vi","name":"Deh-e Now"}
+{"id":1162544,"city_id":15098,"language_key":"vi","name":"Dehdadi"}
+{"id":1169012,"city_id":15182,"language_key":"vi","name":"Dwah Manday"}
+{"id":1170783,"city_id":15205,"language_key":"vi","name":"Dasht-e Qal'ah"}
+{"id":1170937,"city_id":15207,"language_key":"vi","name":"Dasht-e Qal'ah"}
+{"id":1172092,"city_id":15222,"language_key":"vi","name":"Dasht-e Archi"}
+{"id":1173940,"city_id":15246,"language_key":"vi","name":"drzab"}
+{"id":1175557,"city_id":15267,"language_key":"vi","name":"Markaz-e Hukumat-e Darweshan"}
+{"id":1175711,"city_id":15269,"language_key":"vi","name":"Darwazah Kam"}
+{"id":1181563,"city_id":15345,"language_key":"vi","name":"Darqad"}
+{"id":1184874,"city_id":15388,"language_key":"vi","name":"Darayim"}
+{"id":1187338,"city_id":15420,"language_key":"vi","name":"dangam"}
+{"id":1188185,"city_id":15431,"language_key":"vi","name":"dndar"}
+{"id":1210746,"city_id":15724,"language_key":"vi","name":"Hukumati Dahanah-ye Ghori"}
+{"id":1231305,"city_id":15991,"language_key":"vi","name":"Tsowkey"}
+{"id":1232922,"city_id":16012,"language_key":"vi","name":"Chiras"}
+{"id":1236618,"city_id":16060,"language_key":"vi","name":"Chichkah"}
+{"id":1236849,"city_id":16063,"language_key":"vi","name":"Chisht-e Sharif"}
+{"id":1243548,"city_id":16150,"language_key":"vi","name":"chnar"}
+{"id":1243856,"city_id":16154,"language_key":"vi","name":"chmtal"}
+{"id":1253404,"city_id":16278,"language_key":"vi","name":"chrkh"}
+{"id":1253635,"city_id":16281,"language_key":"vi","name":"Charikar"}
+{"id":1254251,"city_id":16289,"language_key":"vi","name":"Quận Chahar Dara, Kondoz"}
+{"id":1256638,"city_id":16320,"language_key":"vi","name":"Tsaperai"}
+{"id":1261104,"city_id":16378,"language_key":"vi","name":"Tsamkani"}
+{"id":1265724,"city_id":16438,"language_key":"vi","name":"Chakaray"}
+{"id":1265801,"city_id":16439,"language_key":"vi","name":"chkaran"}
+{"id":1272500,"city_id":16526,"language_key":"vi","name":"Chahar Qal'ah"}
+{"id":1275965,"city_id":16571,"language_key":"vi","name":"chhar brj"}
+{"id":1277582,"city_id":16592,"language_key":"vi","name":"chah ab"}
+{"id":1277890,"city_id":16596,"language_key":"vi","name":"Chaghcharan"}
+{"id":1289671,"city_id":16749,"language_key":"vi","name":"Bomay"}
+{"id":1291288,"city_id":16770,"language_key":"vi","name":"Bulah Qishlaq"}
+{"id":1298757,"city_id":16867,"language_key":"vi","name":"Bulolah"}
+{"id":1311231,"city_id":17029,"language_key":"vi","name":"bal chragh"}
+{"id":1316698,"city_id":17100,"language_key":"vi","name":"bazar tlah"}
+{"id":1323089,"city_id":17183,"language_key":"vi","name":"Muhmand Dara"}
+{"id":1327709,"city_id":17243,"language_key":"vi","name":"brkah"}
+{"id":1331405,"city_id":17291,"language_key":"vi","name":"Barg-e Matal"}
+{"id":1336487,"city_id":17357,"language_key":"vi","name":"Baraki"}
+{"id":1336564,"city_id":17358,"language_key":"vi","name":"baraky barak"}
+{"id":1339644,"city_id":17398,"language_key":"vi","name":"Banu"}
+{"id":1343571,"city_id":17449,"language_key":"vi","name":"Bandabad"}
+{"id":1344110,"city_id":17456,"language_key":"vi","name":"Bamiyan"}
+{"id":1346651,"city_id":17489,"language_key":"vi","name":"Quận Balkh"}
+{"id":1353658,"city_id":17580,"language_key":"vi","name":"Bakhshi"}
+{"id":1357046,"city_id":17624,"language_key":"vi","name":"Bahram Chah"}
+{"id":1357893,"city_id":17635,"language_key":"vi","name":"Baharak"}
+{"id":1359048,"city_id":17650,"language_key":"vi","name":"Bagrami"}
+{"id":1359125,"city_id":17651,"language_key":"vi","name":"Bagram"}
+{"id":1359818,"city_id":17660,"language_key":"vi","name":"Baghlan"}
+{"id":1376912,"city_id":17882,"language_key":"vi","name":"Babak"}
+{"id":1377759,"city_id":17893,"language_key":"vi","name":"Baba 'Ali Kelay"}
+{"id":1377990,"city_id":17896,"language_key":"vi","name":"Hukumati Azrah"}
+{"id":1388616,"city_id":18034,"language_key":"vi","name":"Art Khwajah"}
+{"id":1389078,"city_id":18040,"language_key":"vi","name":"'Alaqahdari Atghar"}
+{"id":1393852,"city_id":18102,"language_key":"vi","name":"asmar"}
+{"id":1396008,"city_id":18130,"language_key":"vi","name":"Ashkasham"}
+{"id":1397625,"city_id":18151,"language_key":"vi","name":"Asadabad"}
+{"id":1400705,"city_id":18191,"language_key":"vi","name":"arghstan"}
+{"id":1405402,"city_id":18252,"language_key":"vi","name":"'Arab"}
+{"id":1408097,"city_id":18287,"language_key":"vi","name":"Aqchah"}
+{"id":1412717,"city_id":18347,"language_key":"vi","name":"Andkhoy"}
+{"id":1414719,"city_id":18373,"language_key":"vi","name":"'Unabah"}
+{"id":1415412,"city_id":18382,"language_key":"vi","name":"Anar Darah"}
+{"id":1419416,"city_id":18434,"language_key":"vi","name":"Amanzi"}
+{"id":1422881,"city_id":18479,"language_key":"vi","name":"almr khel"}
+{"id":1422958,"city_id":18480,"language_key":"vi","name":"'Alaqahdari-ye Almar"}
+{"id":1424806,"city_id":18504,"language_key":"vi","name":"'Ali Sher 'Alaqahdari"}
+{"id":1425499,"city_id":18513,"language_key":"vi","name":"Wuluswali 'Alingar"}
+{"id":1427116,"city_id":18534,"language_key":"vi","name":"'Ali Khel"}
+{"id":1432506,"city_id":18604,"language_key":"vi","name":"'Alaqahdari Yosuf Khel"}
+{"id":1432737,"city_id":18607,"language_key":"vi","name":"Kuran wa Munjan"}
+{"id":1434970,"city_id":18636,"language_key":"vi","name":"Allah Say"}
+{"id":1447213,"city_id":18795,"language_key":"vi","name":"Pahir wa Agam"}
+{"id":1448214,"city_id":18808,"language_key":"vi","name":"Afaqi"}
+{"id":1448753,"city_id":18815,"language_key":"vi","name":"adraskan"}
+{"id":1456530,"city_id":18916,"language_key":"vi","name":"ab gaj"}
+{"id":1457146,"city_id":18924,"language_key":"vi","name":"Ab-e Kamari"}
+{"id":1470390,"city_id":19096,"language_key":"vi","name":"khadr"}
+{"id":1473316,"city_id":19134,"language_key":"vi","name":"Ghulam 'Ali"}
+{"id":1479014,"city_id":19208,"language_key":"vi","name":"qrh bagh bazar"}
+{"id":1485944,"city_id":19298,"language_key":"vi","name":"zrgaran"}
+{"id":1489024,"city_id":19338,"language_key":"vi","name":"Surkh Bilandi"}
+{"id":1490102,"city_id":19352,"language_key":"vi","name":"Pul-e Sangi"}
+{"id":1522365,"city_id":19771,"language_key":"vi","name":"Langar"}
+{"id":1528294,"city_id":19848,"language_key":"vi","name":"Bagh-e Maidan"}
+{"id":1531451,"city_id":19889,"language_key":"vi","name":"Darah-ye Istamah"}
+{"id":1531682,"city_id":19892,"language_key":"vi","name":"Qal'ah-ye Faqir Shah"}
+{"id":1537457,"city_id":19967,"language_key":"vi","name":"Ibrahim Khan"}
+{"id":1551317,"city_id":20147,"language_key":"vi","name":"Darwazkay"}
+{"id":1554936,"city_id":20194,"language_key":"vi","name":"Sini"}
+{"id":1578575,"city_id":20501,"language_key":"vi","name":"Qaranghu Toghai"}
+{"id":1595823,"city_id":20725,"language_key":"vi","name":"Bazarak"}
+{"id":1599211,"city_id":20769,"language_key":"vi","name":"Sherwani-ye Bala"}
+{"id":1599981,"city_id":20779,"language_key":"vi","name":"Kiraman"}
+{"id":1611762,"city_id":20932,"language_key":"vi","name":"'Alaqahdari Sarobi"}
+{"id":1613533,"city_id":20955,"language_key":"vi","name":"Tsuhay Khulah"}
+{"id":1630319,"city_id":21173,"language_key":"vi","name":"Nam Kelay"}
+{"id":1637557,"city_id":21267,"language_key":"vi","name":"Ziruk `Alaqahdari"}
+{"id":1664738,"city_id":21620,"language_key":"vi","name":"Baz Muhammad Kelay"}
+{"id":1679137,"city_id":21807,"language_key":"vi","name":"Majnun Kelay"}
+{"id":1688839,"city_id":21933,"language_key":"vi","name":"Tiliray"}
+{"id":1692304,"city_id":21978,"language_key":"vi","name":"Kushkak"}
+{"id":1695307,"city_id":22017,"language_key":"vi","name":"Khayr Kot"}
+{"id":1731035,"city_id":22481,"language_key":"vi","name":"Bahadur Khel"}
+{"id":1782471,"city_id":23149,"language_key":"vi","name":"Chowney"}
+{"id":1805571,"city_id":23449,"language_key":"vi","name":"Pay Nili"}
+{"id":1837372,"city_id":23862,"language_key":"vi","name":"Shaykh Choghan"}
+{"id":1843224,"city_id":23938,"language_key":"vi","name":"Qal'ah-ye Mir Ahmad Shah"}
+{"id":1844379,"city_id":23953,"language_key":"vi","name":"Deh-e Pa'in"}
+{"id":1846766,"city_id":23984,"language_key":"vi","name":"Mulkanah"}
+{"id":1847382,"city_id":23992,"language_key":"vi","name":"Wutahpur"}
+{"id":1852772,"city_id":24062,"language_key":"vi","name":"Monay"}
+{"id":1853157,"city_id":24067,"language_key":"vi","name":"Karbori"}
+{"id":1866401,"city_id":24239,"language_key":"vi","name":"Sultanpur-e 'Ulya"}
+{"id":1869481,"city_id":24279,"language_key":"vi","name":"babasahb"}
+{"id":1878028,"city_id":24390,"language_key":"vi","name":"Chandal Ba'i"}
+{"id":1890579,"city_id":24553,"language_key":"vi","name":"Dahan-e Jarf"}
+{"id":1913525,"city_id":24851,"language_key":"vi","name":"Sar-e Dasht"}
+{"id":1925306,"city_id":25004,"language_key":"vi","name":"Maidan Shar"}
+{"id":1934854,"city_id":25128,"language_key":"vi","name":"But-e Shamamah"}
+{"id":1950947,"city_id":25337,"language_key":"vi","name":"Ghujur"}
+{"id":1981285,"city_id":25731,"language_key":"vi","name":"Du Lainah"}
+{"id":1982209,"city_id":25743,"language_key":"vi","name":"Shikhliyak"}
+{"id":1992989,"city_id":25883,"language_key":"vi","name":"Shiniah"}
+{"id":2003384,"city_id":26018,"language_key":"vi","name":"Dahan-e Abrusi"}
+{"id":2004539,"city_id":26033,"language_key":"vi","name":"Gazak"}
+{"id":2013856,"city_id":26154,"language_key":"vi","name":"Karezak"}
+{"id":2023327,"city_id":26277,"language_key":"vi","name":"Sar-e Manghoz"}
+{"id":2024867,"city_id":26297,"language_key":"vi","name":"Dahan-e Tala Qol"}
+{"id":2027562,"city_id":26332,"language_key":"vi","name":"Qaram Qol"}
+{"id":2032105,"city_id":26391,"language_key":"vi","name":"Pul-e Hisar"}
+{"id":2039728,"city_id":26490,"language_key":"vi","name":"Sarab"}
+{"id":2039882,"city_id":26492,"language_key":"vi","name":"Lab-Sar"}
+{"id":2088007,"city_id":27117,"language_key":"vi","name":"Taqchah Khanah"}
+{"id":2092858,"city_id":27180,"language_key":"vi","name":"Tháng ba"}
+{"id":2097170,"city_id":27236,"language_key":"vi","name":"Ziraki"}
+{"id":2112647,"city_id":27437,"language_key":"vi","name":"Sayyid Miran"}
+{"id":2116420,"city_id":27486,"language_key":"vi","name":"Darya Mir"}
+{"id":2120193,"city_id":27535,"language_key":"vi","name":"Aliabad"}
+{"id":2148914,"city_id":27908,"language_key":"vi","name":"Pas Pul"}
+{"id":2158693,"city_id":28035,"language_key":"vi","name":"banjany"}
+{"id":2169781,"city_id":28179,"language_key":"vi","name":"Qal'ah-ye Na'im"}
+{"id":2179483,"city_id":28305,"language_key":"vi","name":"Arbab Kelay"}
+{"id":2185412,"city_id":28382,"language_key":"vi","name":"Markaz-e Woluswali-ye Achin"}
+{"id":2263336,"city_id":29394,"language_key":"vi","name":"Spi Tangay"}
+{"id":2269804,"city_id":29478,"language_key":"vi","name":"Manogay"}
+{"id":2275810,"city_id":29556,"language_key":"vi","name":"Mundul"}
+{"id":2304916,"city_id":29934,"language_key":"vi","name":"bghlan"}
+{"id":2306225,"city_id":29951,"language_key":"vi","name":"Ster Giyan"}
+{"id":2342107,"city_id":30417,"language_key":"vi","name":"Chakal Karez"}
+{"id":2342954,"city_id":30428,"language_key":"vi","name":"'Ido Khel"}
+{"id":2347728,"city_id":30490,"language_key":"vi","name":"Qol-e Chori"}
+{"id":2350115,"city_id":30521,"language_key":"vi","name":"Kaj Kala"}
+{"id":2350346,"city_id":30524,"language_key":"vi","name":"Bashagai"}
+{"id":2350808,"city_id":30530,"language_key":"vi","name":"Kotah-ye Habibullah"}
+{"id":2350885,"city_id":30531,"language_key":"vi","name":"Gul Darah"}
+{"id":2351655,"city_id":30541,"language_key":"vi","name":"Qal'ah-ye Ghulam Haidar Khan"}
+{"id":2351809,"city_id":30543,"language_key":"vi","name":"Qal'ah-ye Muhammad Shah Khan"}
+{"id":2352194,"city_id":30548,"language_key":"vi","name":"Qal'ah-ye Khalil"}
+{"id":2352271,"city_id":30549,"language_key":"vi","name":"Qal'ah-ye Ghani"}
+{"id":2352733,"city_id":30555,"language_key":"vi","name":"Qal'ah-ye Khan Mir"}
+{"id":2353272,"city_id":30562,"language_key":"vi","name":"Shuhuch"}
+{"id":2353349,"city_id":30563,"language_key":"vi","name":"Jujdur"}
+{"id":2353580,"city_id":30566,"language_key":"vi","name":"Ahmad Khan Qal'ah"}
+{"id":2357353,"city_id":30615,"language_key":"vi","name":"Rubat-e Mabayn"}
+{"id":2357430,"city_id":30616,"language_key":"vi","name":"Rubat-e Bala"}
+{"id":2357584,"city_id":30618,"language_key":"vi","name":"Nowadak"}
+{"id":2357738,"city_id":30620,"language_key":"vi","name":"Sar Chashmah"}
+{"id":2359740,"city_id":30646,"language_key":"vi","name":"Safed Sang"}
+{"id":2359817,"city_id":30647,"language_key":"vi","name":"Aytch"}
+{"id":2360125,"city_id":30651,"language_key":"vi","name":"Oryang Surakh"}
+{"id":2360202,"city_id":30652,"language_key":"vi","name":"Oryang-e Barjir"}
+{"id":2360279,"city_id":30653,"language_key":"vi","name":"Chigh"}
+{"id":2361126,"city_id":30664,"language_key":"vi","name":"Darah-ye 'Abbas Khel"}
+{"id":2361434,"city_id":30668,"language_key":"vi","name":"Khan Muhammad Kelay"}
+{"id":2361511,"city_id":30669,"language_key":"vi","name":"Dogar Kelay"}
+{"id":2362204,"city_id":30678,"language_key":"vi","name":"Kotizai"}
+{"id":2363051,"city_id":30689,"language_key":"vi","name":"Kachi Musa"}
+{"id":2363436,"city_id":30694,"language_key":"vi","name":"Sur Kamar"}
+{"id":2363898,"city_id":30700,"language_key":"vi","name":"Gidar"}
+{"id":2363975,"city_id":30701,"language_key":"vi","name":"Duabah"}
+{"id":2364283,"city_id":30705,"language_key":"vi","name":"Shapawos"}
+{"id":2364437,"city_id":30707,"language_key":"vi","name":"Saki Deh Das"}
+{"id":2364514,"city_id":30708,"language_key":"vi","name":"Shah Dats"}
+{"id":2364745,"city_id":30711,"language_key":"vi","name":"Khandah Low"}
+{"id":2364822,"city_id":30712,"language_key":"vi","name":"Yari Das Kalan"}
+{"id":2365130,"city_id":30716,"language_key":"vi","name":"Shaykhan"}
+{"id":2365207,"city_id":30717,"language_key":"vi","name":"Kunj Kala"}
+{"id":2365284,"city_id":30718,"language_key":"vi","name":"Torah Borah"}
+{"id":2365438,"city_id":30720,"language_key":"vi","name":"Mirza Bagh"}
+{"id":2365669,"city_id":30723,"language_key":"vi","name":"Wechah Algadah"}
+{"id":2366131,"city_id":30729,"language_key":"vi","name":"Spin Ragheh"}
+{"id":2366208,"city_id":30730,"language_key":"vi","name":"Bahlol Khel"}
+{"id":2366593,"city_id":30735,"language_key":"vi","name":"Bar Laghti Kelay"}
+{"id":2366747,"city_id":30737,"language_key":"vi","name":"Tangi Khel"}
+{"id":2367594,"city_id":30748,"language_key":"vi","name":"Gadrah"}
+{"id":2367671,"city_id":30749,"language_key":"vi","name":"Angurah"}
+{"id":2368056,"city_id":30754,"language_key":"vi","name":"Paigal"}
+{"id":2368364,"city_id":30758,"language_key":"vi","name":"Baz Khandah"}
+{"id":2368672,"city_id":30762,"language_key":"vi","name":"Bam Husain"}
+{"id":2369365,"city_id":30771,"language_key":"vi","name":"Asel Barikaw"}
+{"id":2369442,"city_id":30772,"language_key":"vi","name":"Barikaw Qal'ah Wali"}
+{"id":2369827,"city_id":30777,"language_key":"vi","name":"Adchat Tantil"}
+{"id":2371213,"city_id":30795,"language_key":"vi","name":"Yas Cham"}
+{"id":2371290,"city_id":30796,"language_key":"vi","name":"Mullayano Tangay"}
+{"id":2388538,"city_id":31020,"language_key":"vi","name":"Pitaw-e Siyah Khaki"}
+{"id":2398009,"city_id":31143,"language_key":"vi","name":"Deri Mila"}
+{"id":2403091,"city_id":31209,"language_key":"vi","name":"sharan"}
+{"id":2403322,"city_id":31212,"language_key":"vi","name":"Salam Khel"}
+{"id":2413717,"city_id":31347,"language_key":"vi","name":"mazad"}

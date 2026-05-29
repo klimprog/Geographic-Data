@@ -1,0 +1,991 @@
+{"id":110949343,"city_id":1440901,"language_key":"mk","name":"Бумердас"}
+{"id":110949959,"city_id":1440909,"language_key":"mk","name":"Зоуи"}
+{"id":110950190,"city_id":1440912,"language_key":"mk","name":"Зубирија"}
+{"id":110950652,"city_id":1440918,"language_key":"mk","name":"Зитуна"}
+{"id":110950960,"city_id":1440922,"language_key":"mk","name":"Зигаут Јусеф"}
+{"id":110951037,"city_id":1440923,"language_key":"mk","name":"Зијама Мансуриа"}
+{"id":110951268,"city_id":1440926,"language_key":"mk","name":"Зеруала"}
+{"id":110951345,"city_id":1440927,"language_key":"mk","name":"Зеризер"}
+{"id":110951422,"city_id":1440928,"language_key":"mk","name":"Зерибет ел Уед"}
+{"id":110951653,"city_id":1440931,"language_key":"mk","name":"Зералда"}
+{"id":110951807,"city_id":1440933,"language_key":"mk","name":null}
+{"id":110952192,"city_id":1440938,"language_key":"mk","name":"Земури"}
+{"id":110952269,"city_id":1440939,"language_key":"mk","name":"Земура"}
+{"id":110952423,"city_id":1440941,"language_key":"mk","name":"Зелфана"}
+{"id":110952577,"city_id":1440943,"language_key":"mk","name":"Зекри"}
+{"id":110952808,"city_id":1440946,"language_key":"mk","name":"Зебуџа"}
+{"id":110953270,"city_id":1440952,"language_key":"mk","name":"Зауиет Кунта"}
+{"id":110953347,"city_id":1440953,"language_key":"mk","name":"Зауиет ед Дебарх"}
+{"id":110955041,"city_id":1440975,"language_key":"mk","name":"Захана"}
+{"id":110955272,"city_id":1440978,"language_key":"mk","name":"Заатра"}
+{"id":110955503,"city_id":1440981,"language_key":"mk","name":"Јуб"}
+{"id":110955734,"city_id":1440984,"language_key":"mk","name":"Јакурен"}
+{"id":110956042,"city_id":1440988,"language_key":"mk","name":"лархат"}
+{"id":110956196,"city_id":1440990,"language_key":"mk","name":"Оуед Чорфа"}
+{"id":110956812,"city_id":1440998,"language_key":"mk","name":"Верте Риве"}
+{"id":110956889,"city_id":1440999,"language_key":"mk","name":"Бир Сафсаф"}
+{"id":110957043,"city_id":1441001,"language_key":"mk","name":"Цабит"}
+{"id":110957197,"city_id":1441003,"language_key":"mk","name":"Трифауи"}
+{"id":110957659,"city_id":1441009,"language_key":"mk","name":"Туснина"}
+{"id":110957736,"city_id":1441010,"language_key":"mk","name":"Тумулин"}
+{"id":110958429,"city_id":1441019,"language_key":"mk","name":"Тугурт"}
+{"id":110958660,"city_id":1441022,"language_key":"mk","name":"Тоуффана"}
+{"id":110958814,"city_id":1441024,"language_key":"mk","name":"Туџа"}
+{"id":110959507,"city_id":1441033,"language_key":"mk","name":"Толга"}
+{"id":110959815,"city_id":1441037,"language_key":"mk","name":"Сегуан"}
+{"id":110959969,"city_id":1441039,"language_key":"mk","name":"Тлета"}
+{"id":110960123,"city_id":1441041,"language_key":"mk","name":"Тлемсен"}
+{"id":110960277,"city_id":1441043,"language_key":"mk","name":"Т'Кут"}
+{"id":110961124,"city_id":1441054,"language_key":"mk","name":"Тизи Рачед"}
+{"id":110961201,"city_id":1441055,"language_key":"mk","name":"Тизи Узу"}
+{"id":110961663,"city_id":1441061,"language_key":"mk","name":"Тизи-н-Тлета"}
+{"id":110961971,"city_id":1441065,"language_key":"mk","name":"Тизи-н-Бечар"}
+{"id":110962356,"city_id":1441070,"language_key":"mk","name":"Тизи Гениф"}
+{"id":110962741,"city_id":1441075,"language_key":"mk","name":"Тизи"}
+{"id":110963049,"city_id":1441079,"language_key":"mk","name":"Тикстер"}
+{"id":110963434,"city_id":1441084,"language_key":"mk","name":"Цицка"}
+{"id":110963665,"city_id":1441087,"language_key":"mk","name":"Тисемсилт"}
+{"id":110964127,"city_id":1441093,"language_key":"mk","name":"Тирмитин"}
+{"id":110964974,"city_id":1441104,"language_key":"mk","name":"Типаса"}
+{"id":110965051,"city_id":1441105,"language_key":"mk","name":"Тиут"}
+{"id":110965205,"city_id":1441107,"language_key":"mk","name":"Тилулин"}
+{"id":110965513,"city_id":1441111,"language_key":"mk","name":"Ти-н-Зауатене"}
+{"id":110965975,"city_id":1441117,"language_key":"mk","name":"Тинебдар"}
+{"id":110966052,"city_id":1441118,"language_key":"mk","name":"Тиндуф"}
+{"id":110966206,"city_id":1441120,"language_key":"mk","name":"Тимоктен"}
+{"id":110966514,"city_id":1441124,"language_key":"mk","name":"Тимизарт"}
+{"id":110966591,"city_id":1441125,"language_key":"mk","name":"Тимимун"}
+{"id":110966745,"city_id":1441127,"language_key":"mk","name":"Тимгад"}
+{"id":110966822,"city_id":1441128,"language_key":"mk","name":"ел хед"}
+{"id":110967438,"city_id":1441136,"language_key":"mk","name":"Тилату"}
+{"id":110967746,"city_id":1441140,"language_key":"mk","name":"Тикобаин"}
+{"id":110968131,"city_id":1441145,"language_key":"mk","name":"Тигзирт"}
+{"id":110968362,"city_id":1441148,"language_key":"mk","name":"Тигуедидине"}
+{"id":110968593,"city_id":1441151,"language_key":"mk","name":"Тигениф"}
+{"id":110968978,"city_id":1441156,"language_key":"mk","name":"Тифрит"}
+{"id":110969132,"city_id":1441158,"language_key":"mk","name":"Тифра"}
+{"id":110969825,"city_id":1441167,"language_key":"mk","name":"Тидмејн"}
+{"id":110969979,"city_id":1441169,"language_key":"mk","name":"Тиџелабин"}
+{"id":110970518,"city_id":1441176,"language_key":"mk","name":"Тибергуент"}
+{"id":110970749,"city_id":1441179,"language_key":"mk","name":"Тибане"}
+{"id":110970826,"city_id":1441180,"language_key":"mk","name":"Тиарет"}
+{"id":110971211,"city_id":1441185,"language_key":"mk","name":"Тение ел Хад"}
+{"id":110971288,"city_id":1441186,"language_key":"mk","name":"Тенија"}
+{"id":110971519,"city_id":1441189,"language_key":"mk","name":"Тексена"}
+{"id":110971596,"city_id":1441190,"language_key":"mk","name":"Тесала"}
+{"id":110972135,"city_id":1441197,"language_key":"mk","name":"Терга"}
+{"id":110972366,"city_id":1441200,"language_key":"mk","name":"Тенира"}
+{"id":110972443,"city_id":1441201,"language_key":"mk","name":"Тениет ен Наср"}
+{"id":110972520,"city_id":1441202,"language_key":"mk","name":"Тениет ел Абед"}
+{"id":110972674,"city_id":1441204,"language_key":"mk","name":"Тенес"}
+{"id":110973136,"city_id":1441210,"language_key":"mk","name":"Темацине"}
+{"id":110973444,"city_id":1441214,"language_key":"mk","name":"Телергма"}
+{"id":110973521,"city_id":1441215,"language_key":"mk","name":"тлагх"}
+{"id":110973752,"city_id":1441218,"language_key":"mk","name":"Тегалимет"}
+{"id":110974599,"city_id":1441229,"language_key":"mk","name":"Тебеса"}
+{"id":110974676,"city_id":1441230,"language_key":"mk","name":"Тебесбест"}
+{"id":110974830,"city_id":1441232,"language_key":"mk","name":"Тазрутс"}
+{"id":110975138,"city_id":1441236,"language_key":"mk","name":"тазрук"}
+{"id":110975215,"city_id":1441237,"language_key":"mk","name":"Тазул-Ламбезе"}
+{"id":110975292,"city_id":1441238,"language_key":"mk","name":"тазулт"}
+{"id":110975446,"city_id":1441240,"language_key":"mk","name":"Тамсахелт"}
+{"id":110975523,"city_id":1441241,"language_key":"mk","name":"Тамсахелт"}
+{"id":110976601,"city_id":1441255,"language_key":"mk","name":"Таја"}
+{"id":110976678,"city_id":1441256,"language_key":"mk","name":"Такслент"}
+{"id":110976986,"city_id":1441260,"language_key":"mk","name":"Тасамерт"}
+{"id":110977294,"city_id":1441264,"language_key":"mk","name":"Таскриут"}
+{"id":110977987,"city_id":1441273,"language_key":"mk","name":"тармунт"}
+{"id":110978141,"city_id":1441275,"language_key":"mk","name":"Тарик Ибн Зијад"}
+{"id":110978449,"city_id":1441279,"language_key":"mk","name":"Тархит Оулед Хеллал"}
+{"id":110980066,"city_id":1441300,"language_key":"mk","name":"Таоурирт Мимоун"}
+{"id":110980297,"city_id":1441303,"language_key":"mk","name":"Таурирт Игил"}
+{"id":110981452,"city_id":1441318,"language_key":"mk","name":"Таурга"}
+{"id":110981529,"city_id":1441319,"language_key":"mk","name":"Таурга"}
+{"id":110981606,"city_id":1441320,"language_key":"mk","name":"Таура"}
+{"id":110981760,"city_id":1441322,"language_key":"mk","name":"Таугрит"}
+{"id":110982068,"city_id":1441326,"language_key":"mk","name":"Тамзура"}
+{"id":110982222,"city_id":1441328,"language_key":"mk","name":"Тамза"}
+{"id":110982299,"city_id":1441329,"language_key":"mk","name":"тамтрт"}
+{"id":110982453,"city_id":1441331,"language_key":"mk","name":"Тамокра"}
+{"id":110982607,"city_id":1441333,"language_key":"mk","name":"Тамлука"}
+{"id":110982915,"city_id":1441337,"language_key":"mk","name":"тамст"}
+{"id":110982992,"city_id":1441338,"language_key":"mk","name":"Тамесгуида"}
+{"id":110983069,"city_id":1441339,"language_key":"mk","name":"Тамесгуида"}
+{"id":110983377,"city_id":1441343,"language_key":"mk","name":"Таментит"}
+{"id":110983454,"city_id":1441344,"language_key":"mk","name":"тамнтфуст"}
+{"id":110983839,"city_id":1441349,"language_key":"mk","name":"Тамда"}
+{"id":110984070,"city_id":1441352,"language_key":"mk","name":"Тамазирт"}
+{"id":110984378,"city_id":1441356,"language_key":"mk","name":"Тамангасет"}
+{"id":110984532,"city_id":1441358,"language_key":"mk","name":"Тамалус"}
+{"id":110987073,"city_id":1441391,"language_key":"mk","name":"Такемарет"}
+{"id":110987227,"city_id":1441393,"language_key":"mk","name":"Такербут"}
+{"id":110987997,"city_id":1441403,"language_key":"mk","name":"Таибет"}
+{"id":110988305,"city_id":1441407,"language_key":"mk","name":"Тахер"}
+{"id":110990538,"city_id":1441436,"language_key":"mk","name":"Такемарет"}
+{"id":110990615,"city_id":1441437,"language_key":"mk","name":"Тагоуст"}
+{"id":110991462,"city_id":1441448,"language_key":"mk","name":"Тагит"}
+{"id":110991847,"city_id":1441453,"language_key":"mk","name":"Тафраут"}
+{"id":110992925,"city_id":1441467,"language_key":"mk","name":"Тадмит"}
+{"id":110993002,"city_id":1441468,"language_key":"mk","name":"Тадмаит"}
+{"id":110993464,"city_id":1441474,"language_key":"mk","name":"Таџенанет"}
+{"id":110993541,"city_id":1441475,"language_key":"mk","name":"Таџена"}
+{"id":110994850,"city_id":1441492,"language_key":"mk","name":"таблат"}
+{"id":110995004,"city_id":1441494,"language_key":"mk","name":"Табија"}
+{"id":110995235,"city_id":1441497,"language_key":"mk","name":"Таберкант"}
+{"id":110995543,"city_id":1441501,"language_key":"mk","name":"Табелбала"}
+{"id":110996390,"city_id":1441512,"language_key":"mk","name":"Стидија"}
+{"id":110996467,"city_id":1441513,"language_key":"mk","name":"Стауели"}
+{"id":110996698,"city_id":1441516,"language_key":"mk","name":"Сур ел Гозлане"}
+{"id":110996852,"city_id":1441518,"language_key":"mk","name":"Кисело"}
+{"id":110996929,"city_id":1441519,"language_key":"mk","name":"Соума"}
+{"id":110997160,"city_id":1441522,"language_key":"mk","name":"Соук ел Кемис"}
+{"id":110997237,"city_id":1441523,"language_key":"mk","name":"Сук ел Хад"}
+{"id":110997391,"city_id":1441525,"language_key":"mk","name":"Ларџем"}
+{"id":110997545,"city_id":1441527,"language_key":"mk","name":"Сиди Абдерахмане"}
+{"id":110997853,"city_id":1441531,"language_key":"mk","name":"сук ахрас"}
+{"id":110998084,"city_id":1441534,"language_key":"mk","name":"Суиданија"}
+{"id":110998238,"city_id":1441536,"language_key":"mk","name":"Сугер"}
+{"id":110998854,"city_id":1441544,"language_key":"mk","name":"Суахлија"}
+{"id":110998931,"city_id":1441545,"language_key":"mk","name":"Суагуи"}
+{"id":110999701,"city_id":1441555,"language_key":"mk","name":"Тенок"}
+{"id":110999932,"city_id":1441558,"language_key":"mk","name":"Скикда"}
+{"id":111000163,"city_id":1441561,"language_key":"mk","name":"Сират"}
+{"id":111000394,"city_id":1441564,"language_key":"mk","name":"Си Мустафа"}
+{"id":111000856,"city_id":1441570,"language_key":"mk","name":"Сигус"}
+{"id":111000933,"city_id":1441571,"language_key":"mk","name":"Сиг"}
+{"id":111001549,"city_id":1441579,"language_key":"mk","name":"Сиди Тифур"}
+{"id":111001703,"city_id":1441581,"language_key":"mk","name":"Сиди Слимане"}
+{"id":111002011,"city_id":1441585,"language_key":"mk","name":"Сиди Салах"}
+{"id":111002165,"city_id":1441587,"language_key":"mk","name":"Сиди Сафи"}
+{"id":111002396,"city_id":1441590,"language_key":"mk","name":"Сиди Рачед"}
+{"id":111002550,"city_id":1441592,"language_key":"mk","name":"Сиди Окба"}
+{"id":111002704,"city_id":1441594,"language_key":"mk","name":"Сиди Намане"}
+{"id":111002858,"city_id":1441596,"language_key":"mk","name":"Сиди Муса"}
+{"id":111003397,"city_id":1441603,"language_key":"mk","name":"Сиди М'Хамед Бен Али"}
+{"id":111003474,"city_id":1441604,"language_key":"mk","name":"Сиди Мезгиче"}
+{"id":111003628,"city_id":1441606,"language_key":"mk","name":"Сиди Меруан"}
+{"id":111003705,"city_id":1441607,"language_key":"mk","name":"Сиди Меџахед"}
+{"id":111003859,"city_id":1441609,"language_key":"mk","name":"Сиди Маклуф"}
+{"id":111004167,"city_id":1441613,"language_key":"mk","name":"Сиди Лахдар"}
+{"id":111004398,"city_id":1441616,"language_key":"mk","name":"Сиди Лаџел"}
+{"id":111004860,"city_id":1441622,"language_key":"mk","name":"Сиди Кхалифа"}
+{"id":111004937,"city_id":1441623,"language_key":"mk","name":"Сиди Халед"}
+{"id":111005014,"city_id":1441624,"language_key":"mk","name":"Сиди Халед"}
+{"id":111005245,"city_id":1441627,"language_key":"mk","name":"Сиди Када"}
+{"id":111005322,"city_id":1441628,"language_key":"mk","name":"Сиди Хосни"}
+{"id":111005476,"city_id":1441630,"language_key":"mk","name":"Сиди Хамадуче"}
+{"id":111005784,"city_id":1441634,"language_key":"mk","name":"Сиди Гилес"}
+{"id":111005938,"city_id":1441636,"language_key":"mk","name":"Сиди Ембарек"}
+{"id":111006477,"city_id":1441643,"language_key":"mk","name":"Сиди Ламине"}
+{"id":111006631,"city_id":1441645,"language_key":"mk","name":"Сиди ех Чахми"}
+{"id":111006939,"city_id":1441649,"language_key":"mk","name":"Сиди Дауд"}
+{"id":111007170,"city_id":1441652,"language_key":"mk","name":"Сиди Брахим"}
+{"id":111007324,"city_id":1441654,"language_key":"mk","name":"Сиди Брахим"}
+{"id":111007863,"city_id":1441661,"language_key":"mk","name":"Сиди Буабида"}
+{"id":111007940,"city_id":1441662,"language_key":"mk","name":"Сиди Бењебка"}
+{"id":111008402,"city_id":1441668,"language_key":"mk","name":"Сиди Бен Ада"}
+{"id":111008710,"city_id":1441672,"language_key":"mk","name":"Сиди Бел Абес"}
+{"id":111008864,"city_id":1441674,"language_key":"mk","name":"Сиди Бахти"}
+{"id":111009095,"city_id":1441677,"language_key":"mk","name":"Сиди Аун"}
+{"id":111009172,"city_id":1441678,"language_key":"mk","name":"Сиди Амране"}
+{"id":111009403,"city_id":1441681,"language_key":"mk","name":"Сиди Амер"}
+{"id":111009634,"city_id":1441684,"language_key":"mk","name":"Сиди Амар"}
+{"id":111009865,"city_id":1441687,"language_key":"mk","name":"Сиди Али Бусиди"}
+{"id":111010019,"city_id":1441689,"language_key":"mk","name":"Сиди Али Бен Ыахиа"}
+{"id":111010096,"city_id":1441690,"language_key":"mk","name":"Сиди Али"}
+{"id":111010173,"city_id":1441691,"language_key":"mk","name":"Сиди Али"}
+{"id":111010250,"city_id":1441692,"language_key":"mk","name":"Сиди Акача"}
+{"id":111010481,"city_id":1441695,"language_key":"mk","name":"Сиди Аиса"}
+{"id":111010712,"city_id":1441698,"language_key":"mk","name":"Сиди Аих"}
+{"id":111010943,"city_id":1441701,"language_key":"mk","name":"Сиди Абдели"}
+{"id":111011020,"city_id":1441702,"language_key":"mk","name":"Сиди Абделазиз"}
+{"id":111011559,"city_id":1441709,"language_key":"mk","name":"Сфизеф"}
+{"id":111011636,"city_id":1441710,"language_key":"mk","name":"Сфисифа"}
+{"id":111011867,"city_id":1441713,"language_key":"mk","name":"Сетара"}
+{"id":111011944,"city_id":1441714,"language_key":"mk","name":"Сетиф"}
+{"id":111012175,"city_id":1441717,"language_key":"mk","name":"Серијана"}
+{"id":111012406,"city_id":1441720,"language_key":"mk","name":"Сераиди"}
+{"id":111012637,"city_id":1441723,"language_key":"mk","name":"Сендјас"}
+{"id":111012868,"city_id":1441726,"language_key":"mk","name":"Семаун"}
+{"id":111013022,"city_id":1441728,"language_key":"mk","name":"Селмана"}
+{"id":111013407,"city_id":1441733,"language_key":"mk","name":"Сегана"}
+{"id":111013561,"city_id":1441735,"language_key":"mk","name":"Седрата"}
+{"id":111013946,"city_id":1441740,"language_key":"mk","name":"Седук"}
+{"id":111014023,"city_id":1441741,"language_key":"mk","name":"Азиз"}
+{"id":111014177,"city_id":1441743,"language_key":"mk","name":"Себду"}
+{"id":111014793,"city_id":1441751,"language_key":"mk","name":"Сбаа"}
+{"id":111014870,"city_id":1441752,"language_key":"mk","name":"Сајада"}
+{"id":111015024,"city_id":1441754,"language_key":"mk","name":"Саула"}
+{"id":111015101,"city_id":1441755,"language_key":"mk","name":"Санег"}
+{"id":111015332,"city_id":1441758,"language_key":"mk","name":"Сали"}
+{"id":111015486,"city_id":1441760,"language_key":"mk","name":"Салах Бушаур"}
+{"id":111015563,"city_id":1441761,"language_key":"mk","name":"Салах бег"}
+{"id":111016641,"city_id":1441775,"language_key":"mk","name":"Саида"}
+{"id":111016795,"city_id":1441777,"language_key":"mk","name":"Сахоуриа"}
+{"id":111017334,"city_id":1441784,"language_key":"mk","name":"Сабра"}
+{"id":111018104,"city_id":1441794,"language_key":"mk","name":"Руисат"}
+{"id":111018181,"city_id":1441795,"language_key":"mk","name":"Руина"}
+{"id":111018258,"city_id":1441796,"language_key":"mk","name":"Руиба"}
+{"id":111018566,"city_id":1441800,"language_key":"mk","name":null}
+{"id":111018797,"city_id":1441803,"language_key":"mk","name":"Роузвил"}
+{"id":111018874,"city_id":1441804,"language_key":"mk","name":"Рокнија"}
+{"id":111018951,"city_id":1441805,"language_key":"mk","name":"Роба"}
+{"id":111021646,"city_id":1441840,"language_key":"mk","name":"Ремчи"}
+{"id":111021723,"city_id":1441841,"language_key":"mk","name":"Релизане"}
+{"id":111022031,"city_id":1441845,"language_key":"mk","name":"Регуиба"}
+{"id":111022185,"city_id":1441847,"language_key":"mk","name":"Регаја"}
+{"id":111022339,"city_id":1441849,"language_key":"mk","name":"Реган"}
+{"id":111022493,"city_id":1441851,"language_key":"mk","name":"Реџас"}
+{"id":111022570,"city_id":1441852,"language_key":"mk","name":"Речаига"}
+{"id":111022724,"city_id":1441854,"language_key":"mk","name":"Ребаја"}
+{"id":111023109,"city_id":1441859,"language_key":"mk","name":"Рас ел Уед"}
+{"id":111023186,"city_id":1441860,"language_key":"mk","name":"Рас ел Ма"}
+{"id":111023340,"city_id":1441862,"language_key":"mk","name":"Рас ел Ма"}
+{"id":111023571,"city_id":1441865,"language_key":"mk","name":"Рас ел Аиун"}
+{"id":111023956,"city_id":1441870,"language_key":"mk","name":"Рамка"}
+{"id":111024187,"city_id":1441873,"language_key":"mk","name":"Рахуја"}
+{"id":111024418,"city_id":1441876,"language_key":"mk","name":"Рахија"}
+{"id":111024649,"city_id":1441879,"language_key":"mk","name":"Рабта"}
+{"id":111025188,"city_id":1441886,"language_key":"mk","name":"Раис Хамиду"}
+{"id":111025881,"city_id":1441895,"language_key":"mk","name":"Аин Зауја"}
+{"id":111026343,"city_id":1441901,"language_key":"mk","name":"Оузера"}
+{"id":111026728,"city_id":1441906,"language_key":"mk","name":"Урлал"}
+{"id":111027883,"city_id":1441921,"language_key":"mk","name":"Оум Дроу"}
+{"id":111028422,"city_id":1441928,"language_key":"mk","name":"Оум ел Буаги"}
+{"id":111028730,"city_id":1441932,"language_key":"mk","name":"Оум Али"}
+{"id":111028807,"city_id":1441933,"language_key":"mk","name":"Оумаче"}
+{"id":111029346,"city_id":1441940,"language_key":"mk","name":"Аин Бујахија"}
+{"id":111029577,"city_id":1441943,"language_key":"mk","name":"Оулед Слиман"}
+{"id":111029731,"city_id":1441945,"language_key":"mk","name":"Оулед Слама Фоуага"}
+{"id":111031040,"city_id":1441962,"language_key":"mk","name":"Оулед Салем"}
+{"id":111031425,"city_id":1441967,"language_key":"mk","name":"Оулед Саид"}
+{"id":111031887,"city_id":1441973,"language_key":"mk","name":"Оулед Рахмун"}
+{"id":111031964,"city_id":1441974,"language_key":"mk","name":"Оулед Рачед"}
+{"id":111032041,"city_id":1441975,"language_key":"mk","name":"Оулед Рабах"}
+{"id":111032426,"city_id":1441980,"language_key":"mk","name":"Оулед Муса"}
+{"id":111032888,"city_id":1441986,"language_key":"mk","name":"Оулед Мимун"}
+{"id":111033966,"city_id":1442000,"language_key":"mk","name":"Оулед Коулла"}
+{"id":111034120,"city_id":1442002,"language_key":"mk","name":"Оулед Халед"}
+{"id":111034659,"city_id":1442009,"language_key":"mk","name":"Оулед Хамла"}
+{"id":111034890,"city_id":1442012,"language_key":"mk","name":"Оулед Хаддай"}
+{"id":111035044,"city_id":1442014,"language_key":"mk","name":"Оулед Фајет"}
+{"id":111035121,"city_id":1442015,"language_key":"mk","name":"Оулед Фарес"}
+{"id":111035968,"city_id":1442026,"language_key":"mk","name":"Оулед Дйиллали"}
+{"id":111036045,"city_id":1442027,"language_key":"mk","name":"Оулед Џелал"}
+{"id":111036122,"city_id":1442028,"language_key":"mk","name":"Селмане"}
+{"id":111036507,"city_id":1442033,"language_key":"mk","name":"Оулед Чебел"}
+{"id":111036815,"city_id":1442037,"language_key":"mk","name":"Оулед Брахим"}
+{"id":111036969,"city_id":1442039,"language_key":"mk","name":"Оулед Брахим"}
+{"id":111037662,"city_id":1442048,"language_key":"mk","name":"Оулед Бесем"}
+{"id":111039587,"city_id":1442073,"language_key":"mk","name":"Оулед Аиче"}
+{"id":111039664,"city_id":1442074,"language_key":"mk","name":"Оулед Атија"}
+{"id":111039895,"city_id":1442077,"language_key":"mk","name":"Оулед Амара"}
+{"id":111040280,"city_id":1442082,"language_key":"mk","name":"Оулед Аллал"}
+{"id":111040665,"city_id":1442087,"language_key":"mk","name":"Оулед Али"}
+{"id":111040896,"city_id":1442090,"language_key":"mk","name":"Оулед Аиса"}
+{"id":111041974,"city_id":1442104,"language_key":"mk","name":"Оулед Абес"}
+{"id":111046132,"city_id":1442158,"language_key":"mk","name":"Оулад Саид"}
+{"id":111046286,"city_id":1442160,"language_key":"mk","name":"Оулад Рхенам"}
+{"id":111052677,"city_id":1442243,"language_key":"mk","name":"Оулед Сиди Брахим"}
+{"id":111052908,"city_id":1442246,"language_key":"mk","name":"Оулад Боу Ренане"}
+{"id":111053293,"city_id":1442251,"language_key":"mk","name":"Оулад Боу ен Ноуар"}
+{"id":111054448,"city_id":1442266,"language_key":"mk","name":"Оулад Бен Али"}
+{"id":111057528,"city_id":1442306,"language_key":"mk","name":"Улад Аиса"}
+{"id":111057836,"city_id":1442310,"language_key":"mk","name":"Улад Аиса"}
+{"id":111058760,"city_id":1442322,"language_key":"mk","name":"Оулацх"}
+{"id":111059222,"city_id":1442328,"language_key":"mk","name":"Огрина"}
+{"id":111059453,"city_id":1442331,"language_key":"mk","name":"Уенца"}
+{"id":111059607,"city_id":1442333,"language_key":"mk","name":"Оуд Зенати"}
+{"id":111059761,"city_id":1442335,"language_key":"mk","name":"Оуед Тоуати"}
+{"id":111059915,"city_id":1442337,"language_key":"mk","name":"Оуд Тлелат"}
+{"id":111059992,"city_id":1442338,"language_key":"mk","name":"Оуед Тарија"}
+{"id":111060069,"city_id":1442339,"language_key":"mk","name":"Оуд Тага"}
+{"id":111060146,"city_id":1442340,"language_key":"mk","name":"Оуд Смар"}
+{"id":111060223,"city_id":1442341,"language_key":"mk","name":"Оуед Слај"}
+{"id":111060531,"city_id":1442345,"language_key":"mk","name":"Оуед Риу"}
+{"id":111060608,"city_id":1442346,"language_key":"mk","name":"Оуед Мора"}
+{"id":111060839,"city_id":1442349,"language_key":"mk","name":"Оуд Ксоб"}
+{"id":111060916,"city_id":1442350,"language_key":"mk","name":"Оуед Гир"}
+{"id":111061070,"city_id":1442352,"language_key":"mk","name":"Оуед Фода"}
+{"id":111061147,"city_id":1442353,"language_key":"mk","name":"Уед Есалем"}
+{"id":111061224,"city_id":1442354,"language_key":"mk","name":"Оуд ел Ма"}
+{"id":111061301,"city_id":1442355,"language_key":"mk","name":"Оуд ел Кеир"}
+{"id":111061455,"city_id":1442357,"language_key":"mk","name":"Оуд ел Џемаа"}
+{"id":111061532,"city_id":1442358,"language_key":"mk","name":"Оуд ел Анеб"}
+{"id":111061609,"city_id":1442359,"language_key":"mk","name":"Уед ел Алеуг"}
+{"id":111061763,"city_id":1442361,"language_key":"mk","name":"Уед ел Абтал"}
+{"id":111061994,"city_id":1442364,"language_key":"mk","name":"Оуед Чехам"}
+{"id":111062071,"city_id":1442365,"language_key":"mk","name":"Оуед Беркече"}
+{"id":111062148,"city_id":1442366,"language_key":"mk","name":"Оуед Бел Кассем"}
+{"id":111063072,"city_id":1442378,"language_key":"mk","name":"Уаризане"}
+{"id":111063149,"city_id":1442379,"language_key":"mk","name":"Оаргла"}
+{"id":111063303,"city_id":1442381,"language_key":"mk","name":"Оуамри"}
+{"id":111063765,"city_id":1442387,"language_key":"mk","name":"Уадија"}
+{"id":111063996,"city_id":1442390,"language_key":"mk","name":"Оран"}
+{"id":111064227,"city_id":1442393,"language_key":"mk","name":"Огаз"}
+{"id":111064766,"city_id":1442400,"language_key":"mk","name":"Н'Гуса"}
+{"id":111064843,"city_id":1442401,"language_key":"mk","name":"Н'Гаус"}
+{"id":111065305,"city_id":1442407,"language_key":"mk","name":"Негрин"}
+{"id":111065382,"city_id":1442408,"language_key":"mk","name":"Недрома"}
+{"id":111065921,"city_id":1442415,"language_key":"mk","name":"Накла"}
+{"id":111066383,"city_id":1442421,"language_key":"mk","name":"Надор"}
+{"id":111066537,"city_id":1442423,"language_key":"mk","name":"Нацирија"}
+{"id":111066614,"city_id":1442424,"language_key":"mk","name":"Џуаб"}
+{"id":111066691,"city_id":1442425,"language_key":"mk","name":"Наама"}
+{"id":111067461,"city_id":1442435,"language_key":"mk","name":"М'Туса"}
+{"id":111067615,"city_id":1442437,"language_key":"mk","name":"М'Сила"}
+{"id":111068462,"city_id":1442448,"language_key":"mk","name":"Музаја"}
+{"id":111069001,"city_id":1442455,"language_key":"mk","name":"Мулеј Слисен"}
+{"id":111069078,"city_id":1442456,"language_key":"mk","name":"Мулај Ларби"}
+{"id":111069771,"city_id":1442465,"language_key":"mk","name":"Мостаганем"}
+{"id":111069925,"city_id":1442467,"language_key":"mk","name":"Морсот"}
+{"id":111070772,"city_id":1442478,"language_key":"mk","name":"Мохамадија"}
+{"id":111070849,"city_id":1442479,"language_key":"mk","name":"мгхрар"}
+{"id":111071003,"city_id":1442481,"language_key":"mk","name":"Мокта Дуз"}
+{"id":111071234,"city_id":1442484,"language_key":"mk","name":"М'Лили"}
+{"id":111071773,"city_id":1442491,"language_key":"mk","name":"Мисергин"}
+{"id":111072004,"city_id":1442494,"language_key":"mk","name":"Милијана"}
+{"id":111072081,"city_id":1442495,"language_key":"mk","name":"Мила"}
+{"id":111072620,"city_id":1442502,"language_key":"mk","name":"Мезлуг"}
+{"id":111072851,"city_id":1442505,"language_key":"mk","name":"Мезауру"}
+{"id":111073082,"city_id":1442508,"language_key":"mk","name":"Метлили Чамба"}
+{"id":111073159,"city_id":1442509,"language_key":"mk","name":"Метлили"}
+{"id":111073236,"city_id":1442510,"language_key":"mk","name":"Меткауак"}
+{"id":111073313,"city_id":1442511,"language_key":"mk","name":"Метарфа"}
+{"id":111074006,"city_id":1442520,"language_key":"mk","name":"Меселмун"}
+{"id":111074237,"city_id":1442523,"language_key":"mk","name":"Месаад"}
+{"id":111074391,"city_id":1442525,"language_key":"mk","name":"Месра"}
+{"id":111074545,"city_id":1442527,"language_key":"mk","name":"Мескијана"}
+{"id":111074853,"city_id":1442531,"language_key":"mk","name":"Мерс ел-Кебир"}
+{"id":111075315,"city_id":1442537,"language_key":"mk","name":"Меруана"}
+{"id":111075469,"city_id":1442539,"language_key":"mk","name":"Мерине"}
+{"id":111075546,"city_id":1442540,"language_key":"mk","name":"Мериџа"}
+{"id":111076085,"city_id":1442547,"language_key":"mk","name":"Мерад"}
+{"id":111076162,"city_id":1442548,"language_key":"mk","name":"Менцел ел Абтал"}
+{"id":111076316,"city_id":1442550,"language_key":"mk","name":"Мендес"}
+{"id":111076624,"city_id":1442554,"language_key":"mk","name":"Менацер"}
+{"id":111076701,"city_id":1442555,"language_key":"mk","name":"Менаа"}
+{"id":111076778,"city_id":1442556,"language_key":"mk","name":"Мелуза"}
+{"id":111077009,"city_id":1442559,"language_key":"mk","name":"Меллала"}
+{"id":111077086,"city_id":1442560,"language_key":"mk","name":"Мелаку"}
+{"id":111077471,"city_id":1442565,"language_key":"mk","name":"Мелаб"}
+{"id":111077625,"city_id":1442567,"language_key":"mk","name":"Мекла"}
+{"id":111078087,"city_id":1442573,"language_key":"mk","name":"Мекхадма"}
+{"id":111078472,"city_id":1442578,"language_key":"mk","name":"Мехдија даира де мегила"}
+{"id":111078703,"city_id":1442581,"language_key":"mk","name":"Мегарин"}
+{"id":111078780,"city_id":1442582,"language_key":"mk","name":"мфтах"}
+{"id":111078857,"city_id":1442583,"language_key":"mk","name":"Медроуса"}
+{"id":111078934,"city_id":1442584,"language_key":"mk","name":"Медриса"}
+{"id":111079088,"city_id":1442586,"language_key":"mk","name":"Меџез Сфа"}
+{"id":111079242,"city_id":1442588,"language_key":"mk","name":"Меџедел"}
+{"id":111079319,"city_id":1442589,"language_key":"mk","name":"Меџана"}
+{"id":111079396,"city_id":1442590,"language_key":"mk","name":"Медиуна"}
+{"id":111079473,"city_id":1442591,"language_key":"mk","name":"Медиуна"}
+{"id":111079550,"city_id":1442592,"language_key":"mk","name":"Медина"}
+{"id":111079627,"city_id":1442593,"language_key":"mk","name":"Медеја"}
+{"id":111079704,"city_id":1442594,"language_key":"mk","name":"Мехтрас"}
+{"id":111106885,"city_id":1442947,"language_key":"mk","name":"Драа Клалуче"}
+{"id":111139225,"city_id":1443367,"language_key":"mk","name":"Мецхтат Барбаига"}
+{"id":111139918,"city_id":1443376,"language_key":"mk","name":"Мецхта Аснина"}
+{"id":111139995,"city_id":1443377,"language_key":"mk","name":"Мецхта Аррас"}
+{"id":111144153,"city_id":1443431,"language_key":"mk","name":"Мехроха"}
+{"id":111144615,"city_id":1443437,"language_key":"mk","name":"Мехерија"}
+{"id":111145000,"city_id":1443442,"language_key":"mk","name":"М'Дауруш"}
+{"id":111145077,"city_id":1443443,"language_key":"mk","name":"М'Цил"}
+{"id":111145154,"city_id":1443444,"language_key":"mk","name":"М'Чунче"}
+{"id":111145308,"city_id":1443446,"language_key":"mk","name":"М'Чедалах"}
+{"id":111145693,"city_id":1443451,"language_key":"mk","name":"Мазуна"}
+{"id":111145924,"city_id":1443454,"language_key":"mk","name":"Мазагран"}
+{"id":111146232,"city_id":1443458,"language_key":"mk","name":"Матмата"}
+{"id":111146309,"city_id":1443459,"language_key":"mk","name":"Матемор"}
+{"id":111146540,"city_id":1443462,"language_key":"mk","name":"Маскара"}
+{"id":111146848,"city_id":1443466,"language_key":"mk","name":"Мархум"}
+{"id":111147156,"city_id":1443470,"language_key":"mk","name":"Мауса"}
+{"id":111147464,"city_id":1443474,"language_key":"mk","name":"Мансура"}
+{"id":111147541,"city_id":1443475,"language_key":"mk","name":"Мансура"}
+{"id":111148234,"city_id":1443484,"language_key":"mk","name":"Макуда"}
+{"id":111149081,"city_id":1443495,"language_key":"mk","name":"Махелма"}
+{"id":111149543,"city_id":1443501,"language_key":"mk","name":"Магра"}
+{"id":111149620,"city_id":1443502,"language_key":"mk","name":"Магра"}
+{"id":111149928,"city_id":1443506,"language_key":"mk","name":"Магнија"}
+{"id":111150621,"city_id":1443515,"language_key":"mk","name":"Маафа"}
+{"id":111151391,"city_id":1443525,"language_key":"mk","name":"Лиуа"}
+{"id":111151545,"city_id":1443527,"language_key":"mk","name":"Личана"}
+{"id":111151699,"city_id":1443529,"language_key":"mk","name":"Јелел"}
+{"id":111152392,"city_id":1443538,"language_key":"mk","name":"Лес Исерс"}
+{"id":111152546,"city_id":1443540,"language_key":"mk","name":"Хеумис"}
+{"id":111152700,"city_id":1443542,"language_key":"mk","name":"Ел Азизија"}
+{"id":111155164,"city_id":1443574,"language_key":"mk","name":"Л'Арбаа Наит Иратен"}
+{"id":111155241,"city_id":1443575,"language_key":"mk","name":"ларбаʿ"}
+{"id":111155472,"city_id":1443578,"language_key":"mk","name":"лмтар"}
+{"id":111156165,"city_id":1443587,"language_key":"mk","name":"Лахдарија"}
+{"id":111156396,"city_id":1443590,"language_key":"mk","name":"Лахлеф"}
+{"id":111156550,"city_id":1443592,"language_key":"mk","name":"Лагуат"}
+{"id":111156781,"city_id":1443595,"language_key":"mk","name":"ел-Ајун"}
+{"id":111157012,"city_id":1443598,"language_key":"mk","name":"Ксур"}
+{"id":111157551,"city_id":1443605,"language_key":"mk","name":"Ксар Сбахи"}
+{"id":111157936,"city_id":1443610,"language_key":"mk","name":"Ксар ел Хиран"}
+{"id":111158090,"city_id":1443612,"language_key":"mk","name":"Ксар ел Бухари"}
+{"id":111158321,"city_id":1443615,"language_key":"mk","name":"Ксар Челала"}
+{"id":111158706,"city_id":1443620,"language_key":"mk","name":"Кристел"}
+{"id":111159168,"city_id":1443626,"language_key":"mk","name":"Куинине"}
+{"id":111159707,"city_id":1443633,"language_key":"mk","name":"Колеа"}
+{"id":111160015,"city_id":1443637,"language_key":"mk","name":"Крајсија"}
+{"id":111160169,"city_id":1443639,"language_key":"mk","name":"Керата"}
+{"id":111160477,"city_id":1443643,"language_key":"mk","name":"Ел Амра"}
+{"id":111160708,"city_id":1443646,"language_key":"mk","name":"Кенчела"}
+{"id":111160939,"city_id":1443649,"language_key":"mk","name":"Кемисти"}
+{"id":111161016,"city_id":1443650,"language_key":"mk","name":"Кемис Милијана"}
+{"id":111161093,"city_id":1443651,"language_key":"mk","name":"Кемис ел Хехна"}
+{"id":111161401,"city_id":1443655,"language_key":"mk","name":"Келил"}
+{"id":111161478,"city_id":1443656,"language_key":"mk","name":"Келил"}
+{"id":111162171,"city_id":1443665,"language_key":"mk","name":"Калуја"}
+{"id":111162325,"city_id":1443667,"language_key":"mk","name":"Ал Фалах"}
+{"id":111162479,"city_id":1443669,"language_key":"mk","name":"Кадра"}
+{"id":111162633,"city_id":1443671,"language_key":"mk","name":"крзаз"}
+{"id":111162864,"city_id":1443674,"language_key":"mk","name":"Керкера"}
+{"id":111163326,"city_id":1443680,"language_key":"mk","name":"Кенадса"}
+{"id":111164019,"city_id":1443689,"language_key":"mk","name":"Кеддара"}
+{"id":111164096,"city_id":1443690,"language_key":"mk","name":"Кедадра"}
+{"id":111164866,"city_id":1443700,"language_key":"mk","name":"Каус"}
+{"id":111164943,"city_id":1443701,"language_key":"mk","name":"Кануа"}
+{"id":111165174,"city_id":1443704,"language_key":"mk","name":"Калаа"}
+{"id":111165251,"city_id":1443705,"language_key":"mk","name":"Каис"}
+{"id":111165559,"city_id":1443709,"language_key":"mk","name":"Кадирија"}
+{"id":111165944,"city_id":1443714,"language_key":"mk","name":"Џиџел"}
+{"id":111166021,"city_id":1443715,"language_key":"mk","name":"Џидиуја"}
+{"id":111170179,"city_id":1443769,"language_key":"mk","name":"Во Гезам"}
+{"id":111171026,"city_id":1443780,"language_key":"mk","name":"Илизи"}
+{"id":111172874,"city_id":1443804,"language_key":"mk","name":"Игли"}
+{"id":111172951,"city_id":1443805,"language_key":"mk","name":"Играм"}
+{"id":111173028,"city_id":1443806,"language_key":"mk","name":"Ифри"}
+{"id":111173259,"city_id":1443809,"language_key":"mk","name":"Ифлисен"}
+{"id":111173336,"city_id":1443810,"language_key":"mk","name":"Ифига"}
+{"id":111173413,"city_id":1443811,"language_key":"mk","name":"Иферхунене"}
+{"id":111175569,"city_id":1443839,"language_key":"mk","name":"Хенаја"}
+{"id":111175954,"city_id":1443844,"language_key":"mk","name":"Хелиополис"}
+{"id":111176262,"city_id":1443848,"language_key":"mk","name":"Хаси Р'мел"}
+{"id":111176493,"city_id":1443851,"language_key":"mk","name":"Хаси Месауд"}
+{"id":111176647,"city_id":1443853,"language_key":"mk","name":"Хаси Мефсух"}
+{"id":111176955,"city_id":1443857,"language_key":"mk","name":"Хаси ел Гела"}
+{"id":111177109,"city_id":1443859,"language_key":"mk","name":"Асси Боу Ниф"}
+{"id":111177417,"city_id":1443863,"language_key":"mk","name":"Хаси Бахба"}
+{"id":111177725,"city_id":1443867,"language_key":"mk","name":"Хасасна"}
+{"id":111179573,"city_id":1443891,"language_key":"mk","name":"Хамам Сокна"}
+{"id":111179804,"city_id":1443894,"language_key":"mk","name":"Хамам Рига"}
+{"id":111180112,"city_id":1443898,"language_key":"mk","name":"Амам Мелуан"}
+{"id":111180266,"city_id":1443900,"language_key":"mk","name":"Амам Гергур"}
+{"id":111180343,"city_id":1443901,"language_key":"mk","name":"Хамамет"}
+{"id":111180651,"city_id":1443905,"language_key":"mk","name":"Амам Бу Хаџар"}
+{"id":111180728,"city_id":1443906,"language_key":"mk","name":"Амам Буграра"}
+{"id":111180959,"city_id":1443909,"language_key":"mk","name":"Хама Бузиане"}
+{"id":111181806,"city_id":1443920,"language_key":"mk","name":"Хамала"}
+{"id":111181960,"city_id":1443922,"language_key":"mk","name":"Хамадија"}
+{"id":111182576,"city_id":1443930,"language_key":"mk","name":"Хаџут"}
+{"id":111183192,"city_id":1443938,"language_key":"mk","name":"Хаџаџ"}
+{"id":111183346,"city_id":1443940,"language_key":"mk","name":"Хацин"}
+{"id":111183962,"city_id":1443948,"language_key":"mk","name":"Гертуфа"}
+{"id":111184193,"city_id":1443951,"language_key":"mk","name":"Гернини"}
+{"id":111184270,"city_id":1443952,"language_key":"mk","name":"Гуергоур"}
+{"id":111184501,"city_id":1443955,"language_key":"mk","name":"Герара"}
+{"id":111184578,"city_id":1443956,"language_key":"mk","name":"Гензет"}
+{"id":111184886,"city_id":1443960,"language_key":"mk","name":"Гуендуз"}
+{"id":111185194,"city_id":1443964,"language_key":"mk","name":"Гумар"}
+{"id":111185425,"city_id":1443967,"language_key":"mk","name":"Гуелтат Сиди Саад"}
+{"id":111185502,"city_id":1443968,"language_key":"mk","name":"Гуелма"}
+{"id":111185579,"city_id":1443969,"language_key":"mk","name":"Гуелал"}
+{"id":111186503,"city_id":1443981,"language_key":"mk","name":"Грарем"}
+{"id":111186657,"city_id":1443983,"language_key":"mk","name":"Граба"}
+{"id":111186734,"city_id":1443984,"language_key":"mk","name":"Гураја"}
+{"id":111187273,"city_id":1443991,"language_key":"mk","name":"Госбат"}
+{"id":111187350,"city_id":1443992,"language_key":"mk","name":"Грис"}
+{"id":111187427,"city_id":1443993,"language_key":"mk","name":"Газаует"}
+{"id":111187504,"city_id":1443994,"language_key":"mk","name":"Гасул"}
+{"id":111187581,"city_id":1443995,"language_key":"mk","name":"Гардаја"}
+{"id":111187658,"city_id":1443996,"language_key":"mk","name":"Гдиел"}
+{"id":111188120,"city_id":1444002,"language_key":"mk","name":"Фроха"}
+{"id":111188274,"city_id":1444004,"language_key":"mk","name":"Френда"}
+{"id":111188351,"city_id":1444005,"language_key":"mk","name":"Фреха"}
+{"id":111188582,"city_id":1444008,"language_key":"mk","name":"Фум Туб"}
+{"id":111188890,"city_id":1444012,"language_key":"mk","name":"Фука"}
+{"id":111188967,"city_id":1444013,"language_key":"mk","name":"Фугала"}
+{"id":111189121,"city_id":1444015,"language_key":"mk","name":"Форнака"}
+{"id":111189583,"city_id":1444021,"language_key":"mk","name":"Бенаирија"}
+{"id":111190276,"city_id":1444030,"language_key":"mk","name":"Ферматоу"}
+{"id":111190430,"city_id":1444032,"language_key":"mk","name":"Феркане"}
+{"id":111190892,"city_id":1444038,"language_key":"mk","name":"Фераун"}
+{"id":111191046,"city_id":1444040,"language_key":"mk","name":"Феноухил"}
+{"id":111191277,"city_id":1444043,"language_key":"mk","name":"Феидх ел Ботма"}
+{"id":111191431,"city_id":1444045,"language_key":"mk","name":"Федй М'Зала"}
+{"id":111191662,"city_id":1444048,"language_key":"mk","name":"Фатис"}
+{"id":111193664,"city_id":1444074,"language_key":"mk","name":"Ес Сенија"}
+{"id":111193818,"city_id":1444076,"language_key":"mk","name":"Ес Себт"}
+{"id":111195050,"city_id":1444092,"language_key":"mk","name":"Ен Недйма"}
+{"id":111195358,"city_id":1444096,"language_key":"mk","name":"Емир Абделкадер"}
+{"id":111195589,"city_id":1444099,"language_key":"mk","name":"Ел Тарф"}
+{"id":111196282,"city_id":1444108,"language_key":"mk","name":"Ел Утаја"}
+{"id":111196436,"city_id":1444110,"language_key":"mk","name":"Ел Оуриција"}
+{"id":111196513,"city_id":1444111,"language_key":"mk","name":"Ел Оулоудй"}
+{"id":111196590,"city_id":1444112,"language_key":"mk","name":"Ел Оулџа"}
+{"id":111197206,"city_id":1444120,"language_key":"mk","name":"Ел Оуд"}
+{"id":111197360,"city_id":1444122,"language_key":"mk","name":"Ел Оуата"}
+{"id":111197745,"city_id":1444127,"language_key":"mk","name":"Ел Омарија"}
+{"id":111197822,"city_id":1444128,"language_key":"mk","name":"Ел Огла"}
+{"id":111198823,"city_id":1444141,"language_key":"mk","name":"Ел Милија"}
+{"id":111198977,"city_id":1444143,"language_key":"mk","name":"Ел Мезераа"}
+{"id":111199593,"city_id":1444151,"language_key":"mk","name":"Ел Мериџ"}
+{"id":111200671,"city_id":1444165,"language_key":"mk","name":"Ел Мегаер"}
+{"id":111200979,"city_id":1444169,"language_key":"mk","name":"Ел Матмар"}
+{"id":111201056,"city_id":1444170,"language_key":"mk","name":"Ел Марса"}
+{"id":111201826,"city_id":1444180,"language_key":"mk","name":"Ел Мала"}
+{"id":111202365,"city_id":1444187,"language_key":"mk","name":"Ел Мајн"}
+{"id":111202827,"city_id":1444193,"language_key":"mk","name":"Ел Мадер"}
+{"id":111203520,"city_id":1444202,"language_key":"mk","name":"Ел Ксеур"}
+{"id":111204213,"city_id":1444211,"language_key":"mk","name":"Ел Куиф"}
+{"id":111204367,"city_id":1444213,"language_key":"mk","name":"Ел Коудиа"}
+{"id":111204598,"city_id":1444216,"language_key":"mk","name":"Ел Хруб"}
+{"id":111204906,"city_id":1444220,"language_key":"mk","name":"Ел Кемис"}
+{"id":111206215,"city_id":1444237,"language_key":"mk","name":"Ел Керт"}
+{"id":111206292,"city_id":1444238,"language_key":"mk","name":"Ел Керма"}
+{"id":111207447,"city_id":1444253,"language_key":"mk","name":"Ел Каримија"}
+{"id":111207601,"city_id":1444255,"language_key":"mk","name":"Ел Кантара"}
+{"id":111207678,"city_id":1444256,"language_key":"mk","name":"Ел Кала"}
+{"id":111207832,"city_id":1444258,"language_key":"mk","name":"Ел Идрисија"}
+{"id":111208910,"city_id":1444272,"language_key":"mk","name":"Ел Хаси"}
+{"id":111209218,"city_id":1444276,"language_key":"mk","name":"Ел Хауч"}
+{"id":111210835,"city_id":1444297,"language_key":"mk","name":"Ел Хама"}
+{"id":111211066,"city_id":1444300,"language_key":"mk","name":"Ел Хамел"}
+{"id":111211220,"city_id":1444302,"language_key":"mk","name":"Ел Хамданија"}
+{"id":111211836,"city_id":1444310,"language_key":"mk","name":"Ел Хаџира"}
+{"id":111212144,"city_id":1444314,"language_key":"mk","name":"Ел Хаџар"}
+{"id":111212683,"city_id":1444321,"language_key":"mk","name":"Ел Хад"}
+{"id":111212760,"city_id":1444322,"language_key":"mk","name":"Ел Хачимија"}
+{"id":111212837,"city_id":1444323,"language_key":"mk","name":"Ел Хачичија"}
+{"id":111213068,"city_id":1444326,"language_key":"mk","name":"Ел Хакаиба"}
+{"id":111213530,"city_id":1444332,"language_key":"mk","name":"Ел Гетар"}
+{"id":111214531,"city_id":1444345,"language_key":"mk","name":"Ел Гор"}
+{"id":111214608,"city_id":1444346,"language_key":"mk","name":"Ел Менија"}
+{"id":111214685,"city_id":1444347,"language_key":"mk","name":"Ел Гомри"}
+{"id":111214762,"city_id":1444348,"language_key":"mk","name":"Ел Гича"}
+{"id":111215147,"city_id":1444353,"language_key":"mk","name":"Ел Феџуџ"}
+{"id":111215301,"city_id":1444355,"language_key":"mk","name":"Ел Еулма"}
+{"id":111215532,"city_id":1444358,"language_key":"mk","name":"Ел Емир Абделкадер"}
+{"id":111215917,"city_id":1444363,"language_key":"mk","name":"Џемаа Оулед Чеик"}
+{"id":111216456,"city_id":1444370,"language_key":"mk","name":"Ел Браја"}
+{"id":111216687,"city_id":1444373,"language_key":"mk","name":"Ел Бур"}
+{"id":111216764,"city_id":1444374,"language_key":"mk","name":"Ел Борџ"}
+{"id":111216841,"city_id":1444375,"language_key":"mk","name":"Ел Борџ"}
+{"id":111217072,"city_id":1444378,"language_key":"mk","name":"Ел Биод"}
+{"id":111217688,"city_id":1444386,"language_key":"mk","name":"Ел Бајад"}
+{"id":111218920,"city_id":1444402,"language_key":"mk","name":"Ел Атаф"}
+{"id":111219228,"city_id":1444406,"language_key":"mk","name":"Ел Асафија"}
+{"id":111219305,"city_id":1444407,"language_key":"mk","name":"Члеф"}
+{"id":111219382,"city_id":1444408,"language_key":"mk","name":"Ел Арроуцх"}
+{"id":111219459,"city_id":1444409,"language_key":"mk","name":"Ел Арича"}
+{"id":111220460,"city_id":1444422,"language_key":"mk","name":"Ел Ауинет"}
+{"id":111220768,"city_id":1444426,"language_key":"mk","name":"Ел Ауана"}
+{"id":111221153,"city_id":1444431,"language_key":"mk","name":"Ел Анкор"}
+{"id":111221230,"city_id":1444432,"language_key":"mk","name":"Ел Ансер"}
+{"id":111221307,"city_id":1444433,"language_key":"mk","name":"Ел Анасер"}
+{"id":111221461,"city_id":1444435,"language_key":"mk","name":"Ел Амрија"}
+{"id":111222462,"city_id":1444448,"language_key":"mk","name":"Ел Аиун"}
+{"id":111223001,"city_id":1444455,"language_key":"mk","name":"Ел Афрун"}
+{"id":111223078,"city_id":1444456,"language_key":"mk","name":"Ел Аџиба"}
+{"id":111223155,"city_id":1444457,"language_key":"mk","name":"Ел Ачур"}
+{"id":111223232,"city_id":1444458,"language_key":"mk","name":"Ел Ачир"}
+{"id":111223309,"city_id":1444459,"language_key":"mk","name":"Ел Ач"}
+{"id":111223386,"city_id":1444460,"language_key":"mk","name":"Ел Абиод Сиди Чеик"}
+{"id":111223617,"city_id":1444463,"language_key":"mk","name":"Ел Абадија"}
+{"id":111224464,"city_id":1444474,"language_key":"mk","name":"Еддис"}
+{"id":111224772,"city_id":1444478,"language_key":"mk","name":"Еч Четија"}
+{"id":111225388,"city_id":1444486,"language_key":"mk","name":"Дрен"}
+{"id":111225465,"city_id":1444487,"language_key":"mk","name":"Дреа"}
+{"id":111225542,"city_id":1444488,"language_key":"mk","name":"Драрија"}
+{"id":111225927,"city_id":1444493,"language_key":"mk","name":"Драа Есмар"}
+{"id":111226004,"city_id":1444494,"language_key":"mk","name":"Драа ел Мизан"}
+{"id":111226158,"city_id":1444496,"language_key":"mk","name":"Драа Бен Кеда"}
+{"id":111226312,"city_id":1444498,"language_key":"mk","name":"Дуера"}
+{"id":111226389,"city_id":1444499,"language_key":"mk","name":"Дуцен"}
+{"id":111228237,"city_id":1444523,"language_key":"mk","name":"Сиди Бузид"}
+{"id":111232857,"city_id":1444583,"language_key":"mk","name":"Герџум"}
+{"id":111239017,"city_id":1444663,"language_key":"mk","name":"Мехатрија"}
+{"id":111244407,"city_id":1444733,"language_key":"mk","name":"Бени Ыахи"}
+{"id":111244869,"city_id":1444739,"language_key":"mk","name":"Бен Дауд"}
+{"id":111247102,"city_id":1444768,"language_key":"mk","name":"Дуауда"}
+{"id":111247795,"city_id":1444777,"language_key":"mk","name":"Џилали Бен Амар"}
+{"id":111248873,"city_id":1444791,"language_key":"mk","name":"Џинет"}
+{"id":111248950,"city_id":1444792,"language_key":"mk","name":"Џендел"}
+{"id":111249027,"city_id":1444793,"language_key":"mk","name":"Џендел"}
+{"id":111249797,"city_id":1444803,"language_key":"mk","name":"Џемила"}
+{"id":111250028,"city_id":1444806,"language_key":"mk","name":"Џелал"}
+{"id":111250105,"city_id":1444807,"language_key":"mk","name":"Џелфа"}
+{"id":111250336,"city_id":1444810,"language_key":"mk","name":"Дйедида"}
+{"id":111250798,"city_id":1444816,"language_key":"mk","name":"Џебала"}
+{"id":111250875,"city_id":1444817,"language_key":"mk","name":"Џебахија"}
+{"id":111251260,"city_id":1444822,"language_key":"mk","name":"Џанет"}
+{"id":111251491,"city_id":1444825,"language_key":"mk","name":"Џамаа"}
+{"id":111251799,"city_id":1444829,"language_key":"mk","name":"Дидуш Мурад"}
+{"id":111252338,"city_id":1444836,"language_key":"mk","name":"Даја"}
+{"id":111252415,"city_id":1444837,"language_key":"mk","name":"Далаа"}
+{"id":111252492,"city_id":1444838,"language_key":"mk","name":"Дераг"}
+{"id":111253108,"city_id":1444846,"language_key":"mk","name":"Делис"}
+{"id":111254725,"city_id":1444867,"language_key":"mk","name":"Дебила"}
+{"id":111256496,"city_id":1444890,"language_key":"mk","name":"Дар ел Беида"}
+{"id":111256727,"city_id":1444893,"language_key":"mk","name":"Дар Чиук"}
+{"id":111257882,"city_id":1444908,"language_key":"mk","name":"Дамус"}
+{"id":111258113,"city_id":1444911,"language_key":"mk","name":"Дахмуни"}
+{"id":111258575,"city_id":1444917,"language_key":"mk","name":"Константин"}
+{"id":111259037,"city_id":1444923,"language_key":"mk","name":"Креа"}
+{"id":111259807,"city_id":1444933,"language_key":"mk","name":"Чорфа"}
+{"id":111260038,"city_id":1444936,"language_key":"mk","name":"Чир"}
+{"id":111260115,"city_id":1444937,"language_key":"mk","name":"Чифа"}
+{"id":111260346,"city_id":1444940,"language_key":"mk","name":"Чеурфа"}
+{"id":111260808,"city_id":1444946,"language_key":"mk","name":"Четуан"}
+{"id":111260885,"city_id":1444947,"language_key":"mk","name":"Четма"}
+{"id":111260962,"city_id":1444948,"language_key":"mk","name":"Четаиби"}
+{"id":111261193,"city_id":1444951,"language_key":"mk","name":"Черија"}
+{"id":111261424,"city_id":1444954,"language_key":"mk","name":"Черчел"}
+{"id":111261501,"city_id":1444955,"language_key":"mk","name":"Чераја"}
+{"id":111261886,"city_id":1444960,"language_key":"mk","name":"Черага"}
+{"id":111262348,"city_id":1444966,"language_key":"mk","name":"Хемора"}
+{"id":111262425,"city_id":1444967,"language_key":"mk","name":"Чемини"}
+{"id":111262579,"city_id":1444969,"language_key":"mk","name":"Челата"}
+{"id":111262656,"city_id":1444970,"language_key":"mk","name":"Челалат ел Адхауаура"}
+{"id":111262887,"city_id":1444973,"language_key":"mk","name":"Челал"}
+{"id":111263041,"city_id":1444975,"language_key":"mk","name":"Челгхум ел Аид"}
+{"id":111263118,"city_id":1444976,"language_key":"mk","name":"Чекфа"}
+{"id":111263888,"city_id":1444986,"language_key":"mk","name":"Чебли"}
+{"id":111264196,"city_id":1444990,"language_key":"mk","name":"Шаруин"}
+{"id":111264273,"city_id":1444991,"language_key":"mk","name":"Чареф"}
+{"id":111264350,"city_id":1444992,"language_key":"mk","name":"Чаиба"}
+{"id":111264427,"city_id":1444993,"language_key":"mk","name":"Чахбунија"}
+{"id":111264658,"city_id":1444996,"language_key":"mk","name":"Шабет ел Амер"}
+{"id":111265120,"city_id":1445002,"language_key":"mk","name":"Чабат ел Лехам"}
+{"id":111265582,"city_id":1445008,"language_key":"mk","name":"Брида"}
+{"id":111265659,"city_id":1445009,"language_key":"mk","name":"Брезина"}
+{"id":111265967,"city_id":1445013,"language_key":"mk","name":"Бранис"}
+{"id":111266429,"city_id":1445019,"language_key":"mk","name":"Бузина"}
+{"id":111266660,"city_id":1445022,"language_key":"mk","name":"Бузегаја"}
+{"id":111268200,"city_id":1445042,"language_key":"mk","name":"Бу Тлелис"}
+{"id":111268354,"city_id":1445044,"language_key":"mk","name":"Бутелџа"}
+{"id":111268816,"city_id":1445050,"language_key":"mk","name":"Бусемгхун"}
+{"id":111269047,"city_id":1445053,"language_key":"mk","name":"Бускене"}
+{"id":111270125,"city_id":1445067,"language_key":"mk","name":"Бу Саада"}
+{"id":111270587,"city_id":1445073,"language_key":"mk","name":"Буркика"}
+{"id":111271126,"city_id":1445080,"language_key":"mk","name":"Аин Солтане"}
+{"id":111271742,"city_id":1445088,"language_key":"mk","name":"Бунуал"}
+{"id":111272512,"city_id":1445098,"language_key":"mk","name":"Бумагер"}
+{"id":111273128,"city_id":1445106,"language_key":"mk","name":"Бумара Ахмед"}
+{"id":111274745,"city_id":1445127,"language_key":"mk","name":"Букадир"}
+{"id":111274899,"city_id":1445129,"language_key":"mk","name":"Бу Исмаил"}
+{"id":111275130,"city_id":1445132,"language_key":"mk","name":"Буира"}
+{"id":111275284,"city_id":1445134,"language_key":"mk","name":"Буинан"}
+{"id":111275438,"city_id":1445136,"language_key":"mk","name":"Бухмама"}
+{"id":111275669,"city_id":1445139,"language_key":"mk","name":"Бу Хени"}
+{"id":111276054,"city_id":1445144,"language_key":"mk","name":"Бу Ханифија ел Хамамат"}
+{"id":111276747,"city_id":1445153,"language_key":"mk","name":"Бугзул"}
+{"id":111276824,"city_id":1445154,"language_key":"mk","name":"Бугуира"}
+{"id":111276978,"city_id":1445156,"language_key":"mk","name":"Боу Гуема"}
+{"id":111277055,"city_id":1445157,"language_key":"mk","name":"Бугтоб"}
+{"id":111277286,"city_id":1445160,"language_key":"mk","name":"Бугара"}
+{"id":111277363,"city_id":1445161,"language_key":"mk","name":"Бугаа"}
+{"id":111277748,"city_id":1445166,"language_key":"mk","name":"Буфатис"}
+{"id":111277825,"city_id":1445167,"language_key":"mk","name":"Буфарик"}
+{"id":111277902,"city_id":1445168,"language_key":"mk","name":"Боуногхра"}
+{"id":111278133,"city_id":1445171,"language_key":"mk","name":"Будуха"}
+{"id":111278210,"city_id":1445172,"language_key":"mk","name":"Будуау"}
+{"id":111278364,"city_id":1445174,"language_key":"mk","name":"Буџима"}
+{"id":111278518,"city_id":1445176,"language_key":"mk","name":"Буџелил"}
+{"id":111278980,"city_id":1445182,"language_key":"mk","name":"Будуау ел Бахри"}
+{"id":111279288,"city_id":1445186,"language_key":"mk","name":"Бушегуф"}
+{"id":111279981,"city_id":1445195,"language_key":"mk","name":"Хоуасниа"}
+{"id":111280135,"city_id":1445197,"language_key":"mk","name":"Боу Азиз"}
+{"id":111280212,"city_id":1445198,"language_key":"mk","name":"Буати Махмуд"}
+{"id":111280674,"city_id":1445204,"language_key":"mk","name":"Боу Арфа"}
+{"id":111281444,"city_id":1445214,"language_key":"mk","name":"Буалем"}
+{"id":111282291,"city_id":1445225,"language_key":"mk","name":"Борџ Земура"}
+{"id":111282676,"city_id":1445230,"language_key":"mk","name":"Борџ Омар Дрис"}
+{"id":111282753,"city_id":1445231,"language_key":"mk","name":"Борџ Охрис"}
+{"id":111282984,"city_id":1445234,"language_key":"mk","name":"Борџ Менаил"}
+{"id":111283600,"city_id":1445242,"language_key":"mk","name":"Борџ Гдир"}
+{"id":111283677,"city_id":1445243,"language_key":"mk","name":"Борџ Емир Халед"}
+{"id":111283754,"city_id":1445244,"language_key":"mk","name":"Борџ ел Кифан"}
+{"id":111283985,"city_id":1445247,"language_key":"mk","name":"Борџ ел Емир Абделкадер"}
+{"id":111284216,"city_id":1445250,"language_key":"mk","name":"Борџ ел Бахри"}
+{"id":111285833,"city_id":1445271,"language_key":"mk","name":"Борџ Бу Арериџ"}
+{"id":111287527,"city_id":1445293,"language_key":"mk","name":"Богни"}
+{"id":111287604,"city_id":1445294,"language_key":"mk","name":"Богар"}
+{"id":111287835,"city_id":1445297,"language_key":"mk","name":"Блидет Амор"}
+{"id":111287912,"city_id":1445298,"language_key":"mk","name":"Блида"}
+{"id":111288220,"city_id":1445302,"language_key":"mk","name":"Туахрија"}
+{"id":111288528,"city_id":1445306,"language_key":"mk","name":"Битам"}
+{"id":111288682,"city_id":1445308,"language_key":"mk","name":"Бискра"}
+{"id":111288759,"city_id":1445309,"language_key":"mk","name":"Биртута"}
+{"id":111289375,"city_id":1445317,"language_key":"mk","name":"Биркхадем"}
+{"id":111289452,"city_id":1445318,"language_key":"mk","name":"Бир Касдали"}
+{"id":111289529,"city_id":1445319,"language_key":"mk","name":"Бирине"}
+{"id":111289837,"city_id":1445323,"language_key":"mk","name":"Бир Хадада"}
+{"id":111289991,"city_id":1445325,"language_key":"mk","name":"Бир Гбалу"}
+{"id":111290607,"city_id":1445333,"language_key":"mk","name":"Бир ел Џир"}
+{"id":111290684,"city_id":1445334,"language_key":"mk","name":"Бир ел Атер"}
+{"id":111290915,"city_id":1445337,"language_key":"mk","name":"Бир Чухада"}
+{"id":111292070,"city_id":1445352,"language_key":"mk","name":"Бетиуа"}
+{"id":111292301,"city_id":1445355,"language_key":"mk","name":"Бесбес"}
+{"id":111292378,"city_id":1445356,"language_key":"mk","name":"Беруагија"}
+{"id":111292455,"city_id":1445357,"language_key":"mk","name":"Бериче"}
+{"id":111292532,"city_id":1445358,"language_key":"mk","name":"Бериане"}
+{"id":111292609,"city_id":1445359,"language_key":"mk","name":"Берахал"}
+{"id":111292917,"city_id":1445363,"language_key":"mk","name":"Берхум"}
+{"id":111293379,"city_id":1445369,"language_key":"mk","name":"Бензух"}
+{"id":111293687,"city_id":1445373,"language_key":"mk","name":"Бењахија Абдерахман"}
+{"id":111294072,"city_id":1445378,"language_key":"mk","name":"Бен С'Роур"}
+{"id":111294226,"city_id":1445380,"language_key":"mk","name":"Бенсекране"}
+{"id":111294380,"city_id":1445382,"language_key":"mk","name":"Бен Салах"}
+{"id":111294765,"city_id":1445387,"language_key":"mk","name":"Бен Н'Чуд"}
+{"id":111295073,"city_id":1445391,"language_key":"mk","name":"Бен Мехиди"}
+{"id":111295689,"city_id":1445399,"language_key":"mk","name":"Бени Таму"}
+{"id":111295997,"city_id":1445403,"language_key":"mk","name":"Бени Слиман"}
+{"id":111296074,"city_id":1445404,"language_key":"mk","name":"Бени Слиман"}
+{"id":111296305,"city_id":1445407,"language_key":"mk","name":"Бени Саф"}
+{"id":111296536,"city_id":1445410,"language_key":"mk","name":"Бени Рачед"}
+{"id":111296613,"city_id":1445411,"language_key":"mk","name":"Барбуш"}
+{"id":111296690,"city_id":1445412,"language_key":"mk","name":"Бени Оуниф"}
+{"id":111297152,"city_id":1445418,"language_key":"mk","name":"Бени Местер"}
+{"id":111297229,"city_id":1445419,"language_key":"mk","name":"Бени Меред"}
+{"id":111298461,"city_id":1445435,"language_key":"mk","name":"Бени Ихлеф"}
+{"id":111298615,"city_id":1445437,"language_key":"mk","name":"Бени Хауа"}
+{"id":111299000,"city_id":1445442,"language_key":"mk","name":"Бени Гуеча"}
+{"id":111299077,"city_id":1445443,"language_key":"mk","name":"Бени Фуда"}
+{"id":111299154,"city_id":1445444,"language_key":"mk","name":"Бени Фуда"}
+{"id":111299539,"city_id":1445449,"language_key":"mk","name":"Бени Дуала"}
+{"id":111299693,"city_id":1445451,"language_key":"mk","name":"Бени Брахим"}
+{"id":111300155,"city_id":1445457,"language_key":"mk","name":"Бени Бечир"}
+{"id":111300232,"city_id":1445458,"language_key":"mk","name":"Бени Бахдел"}
+{"id":111300386,"city_id":1445460,"language_key":"mk","name":"Бениане"}
+{"id":111300540,"city_id":1445462,"language_key":"mk","name":"Бени Амране"}
+{"id":111300694,"city_id":1445464,"language_key":"mk","name":"Бени Аиси"}
+{"id":111300925,"city_id":1445467,"language_key":"mk","name":"Бени Абес"}
+{"id":111301002,"city_id":1445468,"language_key":"mk","name":"Бен Хенни"}
+{"id":111301156,"city_id":1445470,"language_key":"mk","name":"Бен Харун"}
+{"id":111301695,"city_id":1445477,"language_key":"mk","name":"Буда"}
+{"id":111302080,"city_id":1445482,"language_key":"mk","name":"Бен Бадис"}
+{"id":111302157,"city_id":1445483,"language_key":"mk","name":"Арбаун"}
+{"id":111302619,"city_id":1445489,"language_key":"mk","name":"Бен Акноун"}
+{"id":111303158,"city_id":1445496,"language_key":"mk","name":"Белкхеир"}
+{"id":111303928,"city_id":1445506,"language_key":"mk","name":"Беларби"}
+{"id":111304236,"city_id":1445510,"language_key":"mk","name":"Бекуче Лахдар"}
+{"id":111304313,"city_id":1445511,"language_key":"mk","name":"Бекарија"}
+{"id":111304544,"city_id":1445514,"language_key":"mk","name":"Беџаја"}
+{"id":111305006,"city_id":1445520,"language_key":"mk","name":"Бечлул"}
+{"id":111305314,"city_id":1445524,"language_key":"mk","name":"Бехар"}
+{"id":111305930,"city_id":1445532,"language_key":"mk","name":"Батна"}
+{"id":111306161,"city_id":1445535,"language_key":"mk","name":"Барика"}
+{"id":111306392,"city_id":1445538,"language_key":"mk","name":"Барбача"}
+{"id":111306469,"city_id":1445539,"language_key":"mk","name":"Бараки"}
+{"id":111306546,"city_id":1445540,"language_key":"mk","name":"Баниу"}
+{"id":111306777,"city_id":1445543,"language_key":"mk","name":"Балул"}
+{"id":111307547,"city_id":1445553,"language_key":"mk","name":"Баглија"}
+{"id":111307624,"city_id":1445554,"language_key":"mk","name":"Багаи"}
+{"id":111307932,"city_id":1445558,"language_key":"mk","name":"Баб Езуар"}
+{"id":111308009,"city_id":1445559,"language_key":"mk","name":"Баб ел Аса"}
+{"id":111308086,"city_id":1445560,"language_key":"mk","name":"бабар"}
+{"id":111308163,"city_id":1445561,"language_key":"mk","name":"Баба Хасен"}
+{"id":111308471,"city_id":1445565,"language_key":"mk","name":"Азаба"}
+{"id":111308702,"city_id":1445568,"language_key":"mk","name":"Азоуза"}
+{"id":111309703,"city_id":1445581,"language_key":"mk","name":"Азефон"}
+{"id":111309857,"city_id":1445583,"language_key":"mk","name":"Азазга"}
+{"id":111310319,"city_id":1445589,"language_key":"mk","name":"Ататба"}
+{"id":111311243,"city_id":1445601,"language_key":"mk","name":"Асфур"}
+{"id":111311320,"city_id":1445602,"language_key":"mk","name":"Арзев"}
+{"id":111311397,"city_id":1445603,"language_key":"mk","name":"Арис"}
+{"id":111311705,"city_id":1445607,"language_key":"mk","name":"Ариб"}
+{"id":111311859,"city_id":1445609,"language_key":"mk","name":"Архибс"}
+{"id":111312475,"city_id":1445617,"language_key":"mk","name":"Арбатаче"}
+{"id":111312552,"city_id":1445618,"language_key":"mk","name":"Арбауат"}
+{"id":111312860,"city_id":1445622,"language_key":"mk","name":"Арба"}
+{"id":111313168,"city_id":1445626,"language_key":"mk","name":"Аурир"}
+{"id":111313399,"city_id":1445629,"language_key":"mk","name":"Аулеф"}
+{"id":111313707,"city_id":1445633,"language_key":"mk","name":"Аугрут"}
+{"id":111313784,"city_id":1445634,"language_key":"mk","name":"Ауф"}
+{"id":111313861,"city_id":1445635,"language_key":"mk","name":"Аубелил"}
+{"id":111314092,"city_id":1445638,"language_key":"mk","name":"Аомар"}
+{"id":111314169,"city_id":1445639,"language_key":"mk","name":"Аокас"}
+{"id":111314708,"city_id":1445646,"language_key":"mk","name":"Анаба"}
+{"id":111314862,"city_id":1445648,"language_key":"mk","name":"Андриецхе"}
+{"id":111315401,"city_id":1445655,"language_key":"mk","name":"Амуча"}
+{"id":111315478,"city_id":1445656,"language_key":"mk","name":"Ами Муса"}
+{"id":111315786,"city_id":1445660,"language_key":"mk","name":"Амизур"}
+{"id":111316556,"city_id":1445670,"language_key":"mk","name":"Амалу"}
+{"id":111316633,"city_id":1445671,"language_key":"mk","name":"Амалу"}
+{"id":111317634,"city_id":1445684,"language_key":"mk","name":"Алжир"}
+{"id":111318250,"city_id":1445692,"language_key":"mk","name":"акфаду"}
+{"id":111318558,"city_id":1445696,"language_key":"mk","name":"Акбу"}
+{"id":111318712,"city_id":1445698,"language_key":"mk","name":"Акауџ"}
+{"id":111318789,"city_id":1445699,"language_key":"mk","name":"Акабли"}
+{"id":111319405,"city_id":1445707,"language_key":"mk","name":"Аит Смаил"}
+{"id":111322177,"city_id":1445743,"language_key":"mk","name":"Аит Фрах"}
+{"id":111322562,"city_id":1445748,"language_key":"mk","name":"Аит Џемаа"}
+{"id":111324102,"city_id":1445768,"language_key":"mk","name":"Аит Аицха"}
+{"id":111324949,"city_id":1445779,"language_key":"mk","name":"„Аин ЗоуиТ“"}
+{"id":111325180,"city_id":1445782,"language_key":"mk","name":"Аин Зерга"}
+{"id":111325411,"city_id":1445785,"language_key":"mk","name":"Аин Зада"}
+{"id":111325488,"city_id":1445786,"language_key":"mk","name":"Аин Јуцеф"}
+{"id":111325565,"city_id":1445787,"language_key":"mk","name":"Аин Јагут"}
+{"id":111325719,"city_id":1445789,"language_key":"mk","name":"'Аин Трицк"}
+{"id":111326027,"city_id":1445793,"language_key":"mk","name":"Аин Тута"}
+{"id":111326104,"city_id":1445794,"language_key":"mk","name":"Аин Туила"}
+{"id":111326335,"city_id":1445797,"language_key":"mk","name":"Аин Торки"}
+{"id":111326412,"city_id":1445798,"language_key":"mk","name":"Аин Толба"}
+{"id":111326643,"city_id":1445801,"language_key":"mk","name":"„Аин Тиндамин“"}
+{"id":111326797,"city_id":1445803,"language_key":"mk","name":"Ајн Темушен"}
+{"id":111327259,"city_id":1445809,"language_key":"mk","name":"Аин Таја"}
+{"id":111327336,"city_id":1445810,"language_key":"mk","name":"„Аин Тагрут“"}
+{"id":111327413,"city_id":1445811,"language_key":"mk","name":"Аин Солтане"}
+{"id":111327490,"city_id":1445812,"language_key":"mk","name":"Аин Смара"}
+{"id":111327644,"city_id":1445814,"language_key":"mk","name":"Аин Сиди Али"}
+{"id":111327875,"city_id":1445817,"language_key":"mk","name":"'Аин Сеыноур"}
+{"id":111327952,"city_id":1445818,"language_key":"mk","name":"Аин Сефра"}
+{"id":111328260,"city_id":1445822,"language_key":"mk","name":"Аин Руа"}
+{"id":111328568,"city_id":1445826,"language_key":"mk","name":"Аин Оусера"}
+{"id":111328799,"city_id":1445829,"language_key":"mk","name":"Аин Оулмене"}
+{"id":111329184,"city_id":1445834,"language_key":"mk","name":"Ајн Ноуиси"}
+{"id":111329338,"city_id":1445836,"language_key":"mk","name":"Аин Нага"}
+{"id":111329646,"city_id":1445840,"language_key":"mk","name":"Аин М'Лила"}
+{"id":111329723,"city_id":1445841,"language_key":"mk","name":"'Аин Мессаоуд"}
+{"id":111329877,"city_id":1445843,"language_key":"mk","name":"Аин Меране"}
+{"id":111330262,"city_id":1445848,"language_key":"mk","name":"Аин Маклуф"}
+{"id":111330570,"city_id":1445852,"language_key":"mk","name":"Аин Лехијах"}
+{"id":111330647,"city_id":1445853,"language_key":"mk","name":"Аин Лалуи"}
+{"id":111330724,"city_id":1445854,"language_key":"mk","name":"Аин Кихал"}
+{"id":111330878,"city_id":1445856,"language_key":"mk","name":"Аин Кхиар"}
+{"id":111331186,"city_id":1445860,"language_key":"mk","name":"Аин Кадра"}
+{"id":111331263,"city_id":1445861,"language_key":"mk","name":"Аин Кермес"}
+{"id":111331340,"city_id":1445862,"language_key":"mk","name":"Аин Керма"}
+{"id":111331571,"city_id":1445865,"language_key":"mk","name":"Аин Керча"}
+{"id":111332341,"city_id":1445875,"language_key":"mk","name":"Аин Феза"}
+{"id":111332495,"city_id":1445877,"language_key":"mk","name":"Аин Фекан"}
+{"id":111332572,"city_id":1445878,"language_key":"mk","name":"Аин Фека"}
+{"id":111332649,"city_id":1445879,"language_key":"mk","name":"Аин Фарес"}
+{"id":111332726,"city_id":1445880,"language_key":"mk","name":"Аин Факрун"}
+{"id":111333342,"city_id":1445888,"language_key":"mk","name":"Аин ел Турк"}
+{"id":111333419,"city_id":1445889,"language_key":"mk","name":"Аин ел Орак"}
+{"id":111333573,"city_id":1445891,"language_key":"mk","name":"Аин ел Мелх"}
+{"id":111333958,"city_id":1445896,"language_key":"mk","name":"Аин ел Керма"}
+{"id":111334035,"city_id":1445897,"language_key":"mk","name":"Аин ел Кебира"}
+{"id":111334343,"city_id":1445901,"language_key":"mk","name":"Аин ел Хамам"}
+{"id":111334497,"city_id":1445903,"language_key":"mk","name":"Аин ел Хаџел"}
+{"id":111334728,"city_id":1445906,"language_key":"mk","name":"Аин ел Хаџар"}
+{"id":111334805,"city_id":1445907,"language_key":"mk","name":"Аин ел Хадид"}
+{"id":111335267,"city_id":1445913,"language_key":"mk","name":"Аин ел Быа"}
+{"id":111335498,"city_id":1445916,"language_key":"mk","name":"Аин ел Берд"}
+{"id":111335652,"city_id":1445918,"language_key":"mk","name":"Аин ел Бел"}
+{"id":111335883,"city_id":1445921,"language_key":"mk","name":"Аин ел Асел"}
+{"id":111335960,"city_id":1445922,"language_key":"mk","name":"Аин ел Арбаа"}
+{"id":111336576,"city_id":1445930,"language_key":"mk","name":"Аин Дехеб"}
+{"id":111336653,"city_id":1445931,"language_key":"mk","name":"Аин Дефла"}
+{"id":111337115,"city_id":1445937,"language_key":"mk","name":"Аин Чарчар"}
+{"id":111337269,"city_id":1445939,"language_key":"mk","name":"„Аин Бузиане"}
+{"id":111337577,"city_id":1445943,"language_key":"mk","name":"Аин Будинар"}
+{"id":111337654,"city_id":1445944,"language_key":"mk","name":"„Аин Буциф"}
+{"id":111337808,"city_id":1445946,"language_key":"mk","name":"Аин Бесем"}
+{"id":111337885,"city_id":1445947,"language_key":"mk","name":"Аин Берда"}
+{"id":111337962,"city_id":1445948,"language_key":"mk","name":"Аин Бен Келил"}
+{"id":111338039,"city_id":1445949,"language_key":"mk","name":"Аин Бениан"}
+{"id":111338116,"city_id":1445950,"language_key":"mk","name":"„Аин Бен Беида“"}
+{"id":111338347,"city_id":1445953,"language_key":"mk","name":"Аин Беида"}
+{"id":111338501,"city_id":1445955,"language_key":"mk","name":"„Аин Бабуче"}
+{"id":111338578,"city_id":1445956,"language_key":"mk","name":"Аин Азел"}
+{"id":111338655,"city_id":1445957,"language_key":"mk","name":"Аин Арнат"}
+{"id":111338732,"city_id":1445958,"language_key":"mk","name":"'Аин Арко"}
+{"id":111338963,"city_id":1445961,"language_key":"mk","name":"Аин Абид"}
+{"id":111339040,"city_id":1445962,"language_key":"mk","name":"Аин Абеса"}
+{"id":111339579,"city_id":1445969,"language_key":"mk","name":"Ахмед Рачеди"}
+{"id":111339887,"city_id":1445973,"language_key":"mk","name":"Ахмед Бел Хадй"}
+{"id":111341427,"city_id":1445993,"language_key":"mk","name":"агхлал"}
+{"id":111341966,"city_id":1446000,"language_key":"mk","name":"Афлу"}
+{"id":111342120,"city_id":1446002,"language_key":"mk","name":"Афир"}
+{"id":111343044,"city_id":1446014,"language_key":"mk","name":"Адар"}
+{"id":111344199,"city_id":1446029,"language_key":"mk","name":"Абу ел Хасан"}
+{"id":111345816,"city_id":1446050,"language_key":"mk","name":"Абалеса"}
+{"id":111345893,"city_id":1446051,"language_key":"mk","name":"Абадла"}
+{"id":111347202,"city_id":1446068,"language_key":"mk","name":"Тенира"}
+{"id":111348588,"city_id":1446086,"language_key":"mk","name":"Лак Де Оизо"}
+{"id":111350513,"city_id":1446111,"language_key":"mk","name":"Семар"}
+{"id":111352053,"city_id":1446131,"language_key":"mk","name":"Ел Харуба"}
+{"id":111356750,"city_id":1446192,"language_key":"mk","name":"Лабиод Меџаџа"}
+{"id":111363141,"city_id":1446275,"language_key":"mk","name":"Оулед Хамоу"}
+{"id":111371457,"city_id":1446383,"language_key":"mk","name":"Тачета Зугага"}
+{"id":111372381,"city_id":1446395,"language_key":"mk","name":"Ајн Џасер"}
+{"id":111372843,"city_id":1446401,"language_key":"mk","name":"Бухлу"}
+{"id":111383623,"city_id":1446541,"language_key":"mk","name":"Ел Харах"}
+{"id":111383700,"city_id":1446542,"language_key":"mk","name":"Ел Х'мадна"}
+{"id":111388320,"city_id":1446602,"language_key":"mk","name":"Џебабра"}
+{"id":111396559,"city_id":1446709,"language_key":"mk","name":"Сиди Зијане"}
+{"id":111398176,"city_id":1446730,"language_key":"mk","name":"Сиди Ахмед"}
+{"id":111402026,"city_id":1446780,"language_key":"mk","name":"Ферагуиг"}
+{"id":111410342,"city_id":1446888,"language_key":"mk","name":"Сиди Бахти"}
+{"id":111411112,"city_id":1446898,"language_key":"mk","name":"Дар Бен Абделах"}
+{"id":111413499,"city_id":1446929,"language_key":"mk","name":"Сиди Ларби Белмактар"}
+{"id":111431286,"city_id":1447160,"language_key":"mk","name":"Лахмар"}
+{"id":111432595,"city_id":1447177,"language_key":"mk","name":"Соук ел Дйемаа"}
+{"id":111444530,"city_id":1447332,"language_key":"mk","name":"Бир Оулд Келифа"}
+{"id":111444684,"city_id":1447334,"language_key":"mk","name":"Цлуб дес Пинс"}
+{"id":111446070,"city_id":1447352,"language_key":"mk","name":"„Аин ел Турк"}
+{"id":111448303,"city_id":1447381,"language_key":"mk","name":"Тимиауин"}
+{"id":111448380,"city_id":1447382,"language_key":"mk","name":"Борџ Баџи Мохтар"}
+{"id":111448765,"city_id":1447387,"language_key":"mk","name":"Бабор"}
+{"id":111448996,"city_id":1447390,"language_key":"mk","name":"Во Салах"}
+{"id":111449304,"city_id":1447394,"language_key":"mk","name":"Абабса"}
+{"id":111449458,"city_id":1447396,"language_key":"mk","name":"Роуацхдиа"}
+{"id":111449535,"city_id":1447397,"language_key":"mk","name":"Смала"}
+{"id":111460854,"city_id":1447544,"language_key":"mk","name":"Аин Рахма"}
+{"id":111471326,"city_id":1447680,"language_key":"mk","name":"Сафсаф"}
+{"id":111471711,"city_id":1447685,"language_key":"mk","name":"Суафлија"}
+{"id":111476716,"city_id":1447750,"language_key":"mk","name":"Сиди Лазрег"}
+{"id":111481567,"city_id":1447813,"language_key":"mk","name":"Оулед Кхелифа"}
+{"id":111487881,"city_id":1447895,"language_key":"mk","name":"Сиди Баизид"}
+{"id":111488959,"city_id":1447909,"language_key":"mk","name":"Соба"}
+{"id":111490191,"city_id":1447925,"language_key":"mk","name":"Џелида"}
+{"id":111494734,"city_id":1447984,"language_key":"mk","name":"тагхзут"}
+{"id":111502126,"city_id":1448080,"language_key":"mk","name":"Буаише"}
+{"id":111505514,"city_id":1448124,"language_key":"mk","name":"Ханача"}
+{"id":111507439,"city_id":1448149,"language_key":"mk","name":"Оулед Буахра"}
+{"id":111507978,"city_id":1448156,"language_key":"mk","name":"Хаси Федул"}
+{"id":111514677,"city_id":1448243,"language_key":"mk","name":"Мусадек"}
+{"id":111534312,"city_id":1448498,"language_key":"mk","name":"Сиди Саид"}
+{"id":111535467,"city_id":1448513,"language_key":"mk","name":"Мехатрија"}
+{"id":111538855,"city_id":1448557,"language_key":"mk","name":"Тиберканине"}
+{"id":111539779,"city_id":1448569,"language_key":"mk","name":"Оулед Амар"}
+{"id":111540010,"city_id":1448572,"language_key":"mk","name":"Зедин"}
+{"id":111540395,"city_id":1448577,"language_key":"mk","name":"Мерабтине"}
+{"id":111542012,"city_id":1448598,"language_key":"mk","name":"Драблиа"}
+{"id":111542397,"city_id":1448603,"language_key":"mk","name":"Сиди Захар"}
+{"id":111542936,"city_id":1448610,"language_key":"mk","name":"Оулед Слама"}
+{"id":111543860,"city_id":1448622,"language_key":"mk","name":"Бухаџар"}
+{"id":111545862,"city_id":1448648,"language_key":"mk","name":"Ридане"}
+{"id":111546555,"city_id":1448657,"language_key":"mk","name":"Оуед Џемаа"}
+{"id":111546709,"city_id":1448659,"language_key":"mk","name":"Ел Гетана"}
+{"id":111547633,"city_id":1448671,"language_key":"mk","name":"Цоммуне дес Бени Боу Аттаб"}
+{"id":111547710,"city_id":1448672,"language_key":"mk","name":"Аит Јахија"}
+{"id":111548249,"city_id":1448679,"language_key":"mk","name":"Буруба"}
+{"id":111548557,"city_id":1448683,"language_key":"mk","name":"Оуд Кориче"}
+{"id":111548634,"city_id":1448684,"language_key":"mk","name":"Али Мендйели"}
+{"id":111548788,"city_id":1448686,"language_key":"mk","name":"Гуелафтиа"}
+{"id":111548942,"city_id":1448688,"language_key":"mk","name":"Оулед Сабор"}
+{"id":111549019,"city_id":1448689,"language_key":"mk","name":"агхбалу"}
+{"id":111549250,"city_id":1448692,"language_key":"mk","name":"Тафраут"}
+{"id":111549866,"city_id":1448700,"language_key":"mk","name":"Ел Мурадија"}
+{"id":111549943,"city_id":1448701,"language_key":"mk","name":"Кетути Сед Ел Џир"}
+{"id":111550251,"city_id":1448705,"language_key":"mk","name":"Дистрицт оф Тахер"}
+{"id":111550328,"city_id":1448706,"language_key":"mk","name":"Коло"}
+{"id":111550405,"city_id":1448707,"language_key":"mk","name":"Мааткас"}
+{"id":111550482,"city_id":1448708,"language_key":"mk","name":"Сиди Амар"}
+{"id":111550559,"city_id":1448709,"language_key":"mk","name":"Дуар Ел Ма"}
+{"id":111550636,"city_id":1448710,"language_key":"mk","name":"Ел Борма"}
+{"id":111550790,"city_id":1448712,"language_key":"mk","name":"Зауја"}
+{"id":111550867,"city_id":1448713,"language_key":"mk","name":"Касбате Ел Џена"}
+{"id":111550944,"city_id":1448714,"language_key":"mk","name":"Делдул"}
+{"id":111551021,"city_id":1448715,"language_key":"mk","name":"Тинеркук"}
+{"id":111551098,"city_id":1448716,"language_key":"mk","name":"Ксар Кадур"}
+{"id":111551175,"city_id":1448717,"language_key":"mk","name":"Талмине"}
+{"id":111551252,"city_id":1448718,"language_key":"mk","name":"Во Згмир"}

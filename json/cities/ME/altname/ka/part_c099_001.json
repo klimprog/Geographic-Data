@@ -1,0 +1,976 @@
+{"id":232307646,"city_id":3016983,"language_key":"ka","name":"როჟაიე"}
+{"id":232307723,"city_id":3016984,"language_key":"ka","name":"რადეტინა"}
+{"id":232307800,"city_id":3016985,"language_key":"ka","name":"პოროკა"}
+{"id":232308339,"city_id":3016992,"language_key":"ka","name":"იბარაკი"}
+{"id":232308416,"city_id":3016993,"language_key":"ka","name":"გრაჰოვო"}
+{"id":232309340,"city_id":3017005,"language_key":"ka","name":"ბაკ"}
+{"id":232309571,"city_id":3017008,"language_key":"ka","name":"ბოვანი"}
+{"id":232309648,"city_id":3017009,"language_key":"ka","name":"დოლინა"}
+{"id":232310187,"city_id":3017016,"language_key":"ka","name":"დონია ლოვნიცა"}
+{"id":232310495,"city_id":3017020,"language_key":"ka","name":"პლუმცი"}
+{"id":232310649,"city_id":3017022,"language_key":"ka","name":"ჰალილოვიჩი"}
+{"id":232310726,"city_id":3017023,"language_key":"ka","name":"დუბოვიკი"}
+{"id":232310880,"city_id":3017025,"language_key":"ka","name":null}
+{"id":232310957,"city_id":3017026,"language_key":"ka","name":"სრედანი"}
+{"id":232311573,"city_id":3017034,"language_key":"ka","name":"კოლჯენო"}
+{"id":232311650,"city_id":3017035,"language_key":"ka","name":"კოლჯენო"}
+{"id":232311727,"city_id":3017036,"language_key":"ka","name":"ვისნიცე"}
+{"id":232311804,"city_id":3017037,"language_key":"ka","name":"დონჯი ბესნიკი"}
+{"id":232311881,"city_id":3017038,"language_key":"ka","name":"ძუძევიჩი"}
+{"id":232312266,"city_id":3017043,"language_key":"ka","name":"სეოსნიკა"}
+{"id":232312343,"city_id":3017044,"language_key":"ka","name":"ტუზევა ლუკა"}
+{"id":232312574,"city_id":3017047,"language_key":"ka","name":"კაკარი"}
+{"id":232312882,"city_id":3017051,"language_key":"ka","name":"დრაცინოვაკი"}
+{"id":232313421,"city_id":3017058,"language_key":"ka","name":"ზუპჩი"}
+{"id":232313498,"city_id":3017059,"language_key":"ka","name":"ზუკოვიცა"}
+{"id":232313575,"city_id":3017060,"language_key":"ka","name":"ზოგანჯ"}
+{"id":232313883,"city_id":3017064,"language_key":"ka","name":"ბეზირჩი"}
+{"id":232313960,"city_id":3017065,"language_key":"ka","name":"ზელენიკა"}
+{"id":232314037,"city_id":3017066,"language_key":"ka","name":"ზელენიკა"}
+{"id":232314268,"city_id":3017069,"language_key":"ka","name":"ზანკოვიჩი"}
+{"id":232314422,"city_id":3017071,"language_key":"ka","name":"ზალევო"}
+{"id":232314576,"city_id":3017073,"language_key":"ka","name":"ზაგრადე"}
+{"id":232314730,"city_id":3017075,"language_key":"ka","name":"ზაგორა"}
+{"id":232315115,"city_id":3017080,"language_key":"ka","name":"ჟაბლიაკი"}
+{"id":232315192,"city_id":3017081,"language_key":"ka","name":"ვუსანჯე"}
+{"id":232315346,"city_id":3017083,"language_key":"ka","name":"ვუქსანლეკიკი"}
+{"id":232315731,"city_id":3017088,"language_key":"ka","name":"ვრელა"}
+{"id":232315808,"city_id":3017089,"language_key":"ka","name":"ვრბა"}
+{"id":232315962,"city_id":3017091,"language_key":"ka","name":"ვრბა"}
+{"id":232316116,"city_id":3017093,"language_key":"ka","name":"ვრანჯინა"}
+{"id":232316193,"city_id":3017094,"language_key":"ka","name":"ვრანჯ"}
+{"id":232316655,"city_id":3017100,"language_key":"ka","name":"ვლადნი"}
+{"id":232316886,"city_id":3017103,"language_key":"ka","name":"ვისნევო"}
+{"id":232317040,"city_id":3017105,"language_key":"ka","name":"ვირპაზარი"}
+{"id":232317117,"city_id":3017106,"language_key":"ka","name":"ველიკი რადინჩი"}
+{"id":232317271,"city_id":3017108,"language_key":"ka","name":"ვილუსი"}
+{"id":232317502,"city_id":3017111,"language_key":"ka","name":"ველე სელო"}
+{"id":232317579,"city_id":3017112,"language_key":"ka","name":"ველე სელო"}
+{"id":232317810,"city_id":3017115,"language_key":"ka","name":"ვასკოვო"}
+{"id":232318118,"city_id":3017119,"language_key":"ka","name":"ულცინი"}
+{"id":232318272,"city_id":3017121,"language_key":"ka","name":"უგნჯი"}
+{"id":232318349,"city_id":3017122,"language_key":"ka","name":"უბლი"}
+{"id":232318426,"city_id":3017123,"language_key":"ka","name":"უბლი"}
+{"id":232318734,"city_id":3017127,"language_key":"ka","name":"ტუზი"}
+{"id":232318811,"city_id":3017128,"language_key":"ka","name":"თუზი"}
+{"id":232319042,"city_id":3017131,"language_key":"ka","name":"ტუდემილი"}
+{"id":232319119,"city_id":3017132,"language_key":"ka","name":"თუკანჯე"}
+{"id":232319350,"city_id":3017135,"language_key":"ka","name":"ტრნოვო"}
+{"id":232319581,"city_id":3017138,"language_key":"ka","name":"ტრესნევო"}
+{"id":232319812,"city_id":3017141,"language_key":"ka","name":"თებესინჯი"}
+{"id":232319889,"city_id":3017142,"language_key":"ka","name":"ტრაბოინი"}
+{"id":232320043,"city_id":3017144,"language_key":"ka","name":"ტომბა"}
+{"id":232320120,"city_id":3017145,"language_key":"ka","name":"ტომასევო"}
+{"id":232320274,"city_id":3017147,"language_key":"ka","name":"ტივატი"}
+{"id":232320505,"city_id":3017150,"language_key":"ka","name":"თეჯანი"}
+{"id":232320582,"city_id":3017151,"language_key":"ka","name":"სვეტი-სტეფანი"}
+{"id":232320736,"city_id":3017153,"language_key":"ka","name":"სუტვარა"}
+{"id":232320813,"city_id":3017154,"language_key":"ka","name":"სუტომორე"}
+{"id":232320890,"city_id":3017155,"language_key":"ka","name":"სუტომორე"}
+{"id":232321044,"city_id":3017157,"language_key":"ka","name":"სუსუნჯა"}
+{"id":232321121,"city_id":3017158,"language_key":"ka","name":"სუსტასები"}
+{"id":232321198,"city_id":3017159,"language_key":"ka","name":"სუსკეპანი"}
+{"id":232321275,"city_id":3017160,"language_key":"ka","name":"დონიე სუმე"}
+{"id":232321429,"city_id":3017162,"language_key":"ka","name":"სუკობინი"}
+{"id":232321660,"city_id":3017165,"language_key":"ka","name":"სტუბე"}
+{"id":232321814,"city_id":3017167,"language_key":"ka","name":"სტროიტენიცა"}
+{"id":232321891,"city_id":3017168,"language_key":"ka","name":"სტრაჰინიჩი"}
+{"id":232322122,"city_id":3017171,"language_key":"ka","name":"სტარო სელო"}
+{"id":232322199,"city_id":3017172,"language_key":"ka","name":"სტარო სელო"}
+{"id":232322276,"city_id":3017173,"language_key":"ka","name":"სტარი ბარი"}
+{"id":232322353,"city_id":3017174,"language_key":"ka","name":"სტანისელიჩი"}
+{"id":232322507,"city_id":3017176,"language_key":"ka","name":"სრპსკა"}
+{"id":232322584,"city_id":3017177,"language_key":"ka","name":"სრეტნია"}
+{"id":232322738,"city_id":3017179,"language_key":"ka","name":"სპუზ"}
+{"id":232322815,"city_id":3017180,"language_key":"ka","name":"სპინჯა"}
+{"id":232322892,"city_id":3017181,"language_key":"ka","name":"სობაიჩი"}
+{"id":232323200,"city_id":3017185,"language_key":"ka","name":"სლუკე"}
+{"id":232323354,"city_id":3017187,"language_key":"ka","name":"სლატინა"}
+{"id":232323739,"city_id":3017192,"language_key":"ka","name":"სჯენოზეტა"}
+{"id":232323816,"city_id":3017193,"language_key":"ka","name":"სჯეროგოსტე"}
+{"id":232324509,"city_id":3017202,"language_key":"ka","name":"სეკულიჩი"}
+{"id":232324586,"city_id":3017203,"language_key":"ka","name":"შავნიკი"}
+{"id":232324663,"city_id":3017204,"language_key":"ka","name":"სასოვიჩი"}
+{"id":232324740,"city_id":3017205,"language_key":"ka","name":"სას"}
+{"id":232325510,"city_id":3017215,"language_key":"ka","name":"რიეკა კრნოევიცა"}
+{"id":232325587,"city_id":3017216,"language_key":"ka","name":"რიეკა კრნოევიცა"}
+{"id":232325664,"city_id":3017217,"language_key":"ka","name":"რიჯეჭანი"}
+{"id":232325741,"city_id":3017218,"language_key":"ka","name":"რეზნიკი"}
+{"id":232326049,"city_id":3017222,"language_key":"ka","name":"რატისევინა"}
+{"id":232326126,"city_id":3017223,"language_key":"ka","name":"რასტოვაცი"}
+{"id":232326280,"city_id":3017225,"language_key":"ka","name":"რაკონჯე"}
+{"id":232326511,"city_id":3017228,"language_key":"ka","name":"ზგორნია ორლიკა"}
+{"id":232327050,"city_id":3017235,"language_key":"ka","name":"პროვალია"}
+{"id":232327204,"city_id":3017237,"language_key":"ka","name":"პრნჯავორი"}
+{"id":232327281,"city_id":3017238,"language_key":"ka","name":"პრისოჯა"}
+{"id":232327358,"city_id":3017239,"language_key":"ka","name":"პრისოჯა"}
+{"id":232327435,"city_id":3017240,"language_key":"ka","name":"პრიპჩიჩი"}
+{"id":232327512,"city_id":3017241,"language_key":"ka","name":"პრიჟევორი"}
+{"id":232327820,"city_id":3017245,"language_key":"ka","name":"პრიფტა"}
+{"id":232327974,"city_id":3017247,"language_key":"ka","name":"პრევლაკა"}
+{"id":232328051,"city_id":3017248,"language_key":"ka","name":"წინა"}
+{"id":232328128,"city_id":3017249,"language_key":"ka","name":"პრინტინ დო"}
+{"id":232328282,"city_id":3017251,"language_key":"ka","name":"პრჩანჯ"}
+{"id":232328359,"city_id":3017252,"language_key":"ka","name":"პრაჩიკა"}
+{"id":232328590,"city_id":3017255,"language_key":"ka","name":"პოზეგინია"}
+{"id":232328667,"city_id":3017256,"language_key":"ka","name":"დონია პოვია"}
+{"id":232328821,"city_id":3017258,"language_key":"ka","name":"პოტკრაჯჩი"}
+{"id":232328898,"city_id":3017259,"language_key":"ka","name":"პოსცენე"}
+{"id":232329052,"city_id":3017261,"language_key":"ka","name":"პონარი"}
+{"id":232329129,"city_id":3017262,"language_key":"ka","name":"პონარი"}
+{"id":232329283,"city_id":3017264,"language_key":"ka","name":"პოლიჯისი"}
+{"id":232329360,"city_id":3017265,"language_key":"ka","name":"პოლიე"}
+{"id":232329668,"city_id":3017269,"language_key":"ka","name":"პოდი"}
+{"id":232329745,"city_id":3017270,"language_key":"ka","name":"პოთუმი"}
+{"id":232329822,"city_id":3017271,"language_key":"ka","name":"პოდგორიცა"}
+{"id":232329976,"city_id":3017273,"language_key":"ka","name":"ვრაპჩე"}
+{"id":232330207,"city_id":3017276,"language_key":"ka","name":"პლუჟინე"}
+{"id":232330284,"city_id":3017277,"language_key":"ka","name":"პლევლია"}
+{"id":232330361,"city_id":3017278,"language_key":"ka","name":"პლავი"}
+{"id":232330515,"city_id":3017280,"language_key":"ka","name":"პიკალჯა"}
+{"id":232330592,"city_id":3017281,"language_key":"ka","name":"პიკალჯა"}
+{"id":232330823,"city_id":3017284,"language_key":"ka","name":"პეტროვაცი (მონტენეგრო)"}
+{"id":232330900,"city_id":3017285,"language_key":"ka","name":"პეტჯიკი"}
+{"id":232330977,"city_id":3017286,"language_key":"ka","name":"პესკა"}
+{"id":232331054,"city_id":3017287,"language_key":"ka","name":"პერასტი"}
+{"id":232331131,"city_id":3017288,"language_key":"ka","name":"პელევ ბრიეგი"}
+{"id":232331208,"city_id":3017289,"language_key":"ka","name":"პელევი ბრიჯეგი"}
+{"id":232331285,"city_id":3017290,"language_key":"ka","name":"პეკურისი"}
+{"id":232331670,"city_id":3017295,"language_key":"ka","name":"პაპანი"}
+{"id":232331824,"city_id":3017297,"language_key":"ka","name":"ოზრინიჩი"}
+{"id":232332055,"city_id":3017300,"language_key":"ka","name":"ოტოციკი"}
+{"id":232332286,"city_id":3017303,"language_key":"ka","name":"ორლიკი"}
+{"id":232332363,"city_id":3017304,"language_key":"ka","name":"ორჯა ლუკა"}
+{"id":232332594,"city_id":3017307,"language_key":"ka","name":"დონჯი ორახოვაცი"}
+{"id":232332902,"city_id":3017311,"language_key":"ka","name":"ობროვი"}
+{"id":232332979,"city_id":3017312,"language_key":"ka","name":"ობრჰ პრი დრაგატუსუ"}
+{"id":232333133,"city_id":3017314,"language_key":"ka","name":"ობლატნო"}
+{"id":232333210,"city_id":3017315,"language_key":"ka","name":"კატუნისტე"}
+{"id":232333287,"city_id":3017316,"language_key":"ka","name":"ნოვისიჩი"}
+{"id":232333364,"city_id":3017317,"language_key":"ka","name":"ნეგუსი"}
+{"id":232333441,"city_id":3017318,"language_key":"ka","name":"ნჯეგუსი"}
+{"id":232333518,"city_id":3017319,"language_key":"ka","name":"ნიკშიჩი"}
+{"id":232333595,"city_id":3017320,"language_key":"ka","name":"ნიკ მარასი"}
+{"id":232333672,"city_id":3017321,"language_key":"ka","name":"ნედაკუსი"}
+{"id":232333749,"city_id":3017322,"language_key":"ka","name":"ნედაჯნო"}
+{"id":232333980,"city_id":3017325,"language_key":"ka","name":"მურინო"}
+{"id":232334057,"city_id":3017326,"language_key":"ka","name":"მუო"}
+{"id":232334288,"city_id":3017329,"language_key":"ka","name":"მრჩევაცი"}
+{"id":232334365,"city_id":3017330,"language_key":"ka","name":"მოტიკი გაჯ"}
+{"id":232334442,"city_id":3017331,"language_key":"ka","name":"დონიე მორაკოვო"}
+{"id":232334519,"city_id":3017332,"language_key":"ka","name":"მორაისი"}
+{"id":232334750,"city_id":3017335,"language_key":"ka","name":"მოკრო"}
+{"id":232334981,"city_id":3017338,"language_key":"ka","name":"მოიკოვაცი"}
+{"id":232335058,"city_id":3017339,"language_key":"ka","name":"მოიანოვიჩი"}
+{"id":232335135,"city_id":3017340,"language_key":"ka","name":"მლჟეტიჩაკი"}
+{"id":232335212,"city_id":3017341,"language_key":"ka","name":"მისიჩი"}
+{"id":232335366,"city_id":3017343,"language_key":"ka","name":"მილოვიჩი"}
+{"id":232335443,"city_id":3017344,"language_key":"ka","name":"მილოვიჩი"}
+{"id":232335520,"city_id":3017345,"language_key":"ka","name":"მილოვიჩი"}
+{"id":232335828,"city_id":3017349,"language_key":"ka","name":"მიდი"}
+{"id":232335905,"city_id":3017350,"language_key":"ka","name":"მეზღალჯი"}
+{"id":232336213,"city_id":3017354,"language_key":"ka","name":"მატესევო"}
+{"id":232336290,"city_id":3017355,"language_key":"ka","name":"მატესევო"}
+{"id":232336367,"city_id":3017356,"language_key":"ka","name":"მარტინოვიცე"}
+{"id":232336444,"city_id":3017357,"language_key":"ka","name":"მარტინოვიცე"}
+{"id":232336675,"city_id":3017360,"language_key":"ka","name":"მალენზა"}
+{"id":232336752,"city_id":3017361,"language_key":"ka","name":"მალენზა"}
+{"id":232336829,"city_id":3017362,"language_key":"ka","name":"მალა გორანა"}
+{"id":232336983,"city_id":3017364,"language_key":"ka","name":"მაჰალა"}
+{"id":232337214,"city_id":3017367,"language_key":"ka","name":"დონჯი ლუზაკი"}
+{"id":232337368,"city_id":3017369,"language_key":"ka","name":"ლუბნისე"}
+{"id":232337445,"city_id":3017370,"language_key":"ka","name":"ლოზნა"}
+{"id":232337753,"city_id":3017374,"language_key":"ka","name":"ლივარი"}
+{"id":232337830,"city_id":3017375,"language_key":"ka","name":"ლივარი"}
+{"id":232338061,"city_id":3017378,"language_key":"ka","name":"ლიპჩი"}
+{"id":232338446,"city_id":3017383,"language_key":"ka","name":"ლეპეტანი"}
+{"id":232338523,"city_id":3017384,"language_key":"ka","name":"ლეოვო ბრდო"}
+{"id":232338600,"city_id":3017385,"language_key":"ka","name":"ლეოვო ბრდო"}
+{"id":232338677,"city_id":3017386,"language_key":"ka","name":"ლეკიცი"}
+{"id":232338908,"city_id":3017389,"language_key":"ka","name":"ლაზარევი კრსტ"}
+{"id":232339139,"city_id":3017392,"language_key":"ka","name":"კუტი"}
+{"id":232339216,"city_id":3017393,"language_key":"ka","name":"კუტი"}
+{"id":232339293,"city_id":3017394,"language_key":"ka","name":"კურილო"}
+{"id":232339447,"city_id":3017396,"language_key":"ka","name":"კუნაკი"}
+{"id":232339601,"city_id":3017398,"language_key":"ka","name":"ქუჯავა"}
+{"id":232339909,"city_id":3017402,"language_key":"ka","name":"კრუტა"}
+{"id":232340063,"city_id":3017404,"language_key":"ka","name":"კრუსევო"}
+{"id":232340140,"city_id":3017405,"language_key":"ka","name":"კრუსევო"}
+{"id":232340217,"city_id":3017406,"language_key":"ka","name":"კრუსევიცე"}
+{"id":232340371,"city_id":3017408,"language_key":"ka","name":"კრუსე"}
+{"id":232340910,"city_id":3017415,"language_key":"ka","name":"კრასიჩი"}
+{"id":232340987,"city_id":3017416,"language_key":"ka","name":"კრაინჯი დო"}
+{"id":232341218,"city_id":3017419,"language_key":"ka","name":"კოვრენი"}
+{"id":232341295,"city_id":3017420,"language_key":"ka","name":"კოტორი"}
+{"id":232341526,"city_id":3017423,"language_key":"ka","name":"კოსტანიკა"}
+{"id":232341911,"city_id":3017428,"language_key":"ka","name":"კორნეტი"}
+{"id":232342219,"city_id":3017432,"language_key":"ka","name":"კომარნო"}
+{"id":232342296,"city_id":3017433,"language_key":"ka","name":"კოლენოვიჩი"}
+{"id":232342373,"city_id":3017434,"language_key":"ka","name":"კოლაშინი"}
+{"id":232342912,"city_id":3017441,"language_key":"ka","name":"კანჟე"}
+{"id":232342989,"city_id":3017442,"language_key":"ka","name":"კამენო"}
+{"id":232343836,"city_id":3017453,"language_key":"ka","name":"ჯაბუკა"}
+{"id":232344221,"city_id":3017458,"language_key":"ka","name":"ბერანე"}
+{"id":232344298,"city_id":3017459,"language_key":"ka","name":"იგალო"}
+{"id":232344375,"city_id":3017460,"language_key":"ka","name":"ჰერცეგ-ნოვი"}
+{"id":232344606,"city_id":3017463,"language_key":"ka","name":"გუსინჟე"}
+{"id":232344760,"city_id":3017465,"language_key":"ka","name":"გრუდა"}
+{"id":232344837,"city_id":3017466,"language_key":"ka","name":"გრბავჩი"}
+{"id":232345068,"city_id":3017469,"language_key":"ka","name":"გრადინა"}
+{"id":232345222,"city_id":3017471,"language_key":"ka","name":"გრადანი"}
+{"id":232345684,"city_id":3017477,"language_key":"ka","name":"გოსტილიე მარტინიკო"}
+{"id":232345761,"city_id":3017478,"language_key":"ka","name":"გოსტილი"}
+{"id":232345915,"city_id":3017480,"language_key":"ka","name":"გოსიჩი"}
+{"id":232346146,"city_id":3017483,"language_key":"ka","name":"გორნჯი სტოი"}
+{"id":232346223,"city_id":3017484,"language_key":"ka","name":"გორნჯი რსოევიჩი"}
+{"id":232346300,"city_id":3017485,"language_key":"ka","name":"გორნი ორახოვაცი"}
+{"id":232346531,"city_id":3017488,"language_key":"ka","name":"გორნჯი კოკოთი"}
+{"id":232347224,"city_id":3017497,"language_key":"ka","name":"გორიწანი"}
+{"id":232347301,"city_id":3017498,"language_key":"ka","name":"გოლუბოვცი"}
+{"id":232347378,"city_id":3017499,"language_key":"ka","name":"გოლჯემადი"}
+{"id":232347532,"city_id":3017501,"language_key":"ka","name":"გოდინჟე"}
+{"id":232347840,"city_id":3017505,"language_key":"ka","name":"დონჯი ფრუტაკი"}
+{"id":232347994,"city_id":3017507,"language_key":"ka","name":"ფარმაცი"}
+{"id":232348148,"city_id":3017509,"language_key":"ka","name":"დუზი"}
+{"id":232348225,"city_id":3017510,"language_key":"ka","name":"დუსკე"}
+{"id":232348379,"city_id":3017512,"language_key":"ka","name":"დურიჩი"}
+{"id":232348456,"city_id":3017513,"language_key":"ka","name":"დურასევიჩი"}
+{"id":232348533,"city_id":3017514,"language_key":"ka","name":"დუპილო"}
+{"id":232348610,"city_id":3017515,"language_key":"ka","name":"დუპილო"}
+{"id":232348764,"city_id":3017517,"language_key":"ka","name":"დულიჩი"}
+{"id":232349457,"city_id":3017526,"language_key":"ka","name":"დრუსიჩი"}
+{"id":232349765,"city_id":3017530,"language_key":"ka","name":"დრაგოვა ლუკა"}
+{"id":232350150,"city_id":3017535,"language_key":"ka","name":"დონჯი სტოჯი"}
+{"id":232350227,"city_id":3017536,"language_key":"ka","name":"დონჯი სტოი"}
+{"id":232350304,"city_id":3017537,"language_key":"ka","name":"დონჯი რსოევიჩი"}
+{"id":232350381,"city_id":3017538,"language_key":"ka","name":"დონჯი მუურიჩი"}
+{"id":232350458,"city_id":3017539,"language_key":"ka","name":"დონჯი კოკოტი"}
+{"id":232350535,"city_id":3017540,"language_key":"ka","name":"დონჯი კოკოტი"}
+{"id":232350766,"city_id":3017543,"language_key":"ka","name":"დონია ლასტვა"}
+{"id":232350997,"city_id":3017546,"language_key":"ka","name":"დოლ"}
+{"id":232351151,"city_id":3017548,"language_key":"ka","name":"დობრსკო სელო"}
+{"id":232351228,"city_id":3017549,"language_key":"ka","name":"დობრსკო სელო"}
+{"id":232351382,"city_id":3017551,"language_key":"ka","name":"დინოზა"}
+{"id":232351459,"city_id":3017552,"language_key":"ka","name":"დინოზა"}
+{"id":232351613,"city_id":3017554,"language_key":"ka","name":"დენასი"}
+{"id":232351690,"city_id":3017555,"language_key":"ka","name":"დენასი"}
+{"id":232351844,"city_id":3017557,"language_key":"ka","name":"დარზა"}
+{"id":232351921,"city_id":3017558,"language_key":"ka","name":"დანილოვგრადი"}
+{"id":232351998,"city_id":3017559,"language_key":"ka","name":"დალოვიჩი"}
+{"id":232352152,"city_id":3017561,"language_key":"ka","name":"დაჟბაბე"}
+{"id":232352229,"city_id":3017562,"language_key":"ka","name":"დაბეზიჩი"}
+{"id":232352306,"city_id":3017563,"language_key":"ka","name":"დაბეზიჩი"}
+{"id":232352768,"city_id":3017569,"language_key":"ka","name":"გორნჯი კრნცი"}
+{"id":232352845,"city_id":3017570,"language_key":"ka","name":"კრნცა"}
+{"id":232353076,"city_id":3017573,"language_key":"ka","name":"ცეტინე"}
+{"id":232353307,"city_id":3017576,"language_key":"ka","name":"სელუგა"}
+{"id":232353461,"city_id":3017578,"language_key":"ka","name":"ბურონჯი"}
+{"id":232353538,"city_id":3017579,"language_key":"ka","name":"ბუკოვიკი"}
+{"id":232353769,"city_id":3017582,"language_key":"ka","name":"ბუდვა"}
+{"id":232353846,"city_id":3017583,"language_key":"ka","name":"ბრუნსვიკი"}
+{"id":232354000,"city_id":3017585,"language_key":"ka","name":"ბრსნო"}
+{"id":232354154,"city_id":3017587,"language_key":"ka","name":"ბრიჟესტოვო"}
+{"id":232354308,"city_id":3017589,"language_key":"ka","name":"ბრეზინი"}
+{"id":232354462,"city_id":3017591,"language_key":"ka","name":"ბრკა"}
+{"id":232354693,"city_id":3017594,"language_key":"ka","name":"ბრაჟე"}
+{"id":232354924,"city_id":3017597,"language_key":"ka","name":"ბოტუნი"}
+{"id":232355001,"city_id":3017598,"language_key":"ka","name":"ბორონჯინა"}
+{"id":232355155,"city_id":3017600,"language_key":"ka","name":"ბორეთი"}
+{"id":232355232,"city_id":3017601,"language_key":"ka","name":"ბოლევიჩი"}
+{"id":232355309,"city_id":3017602,"language_key":"ka","name":"ბოლჟანინა"}
+{"id":232355848,"city_id":3017609,"language_key":"ka","name":"ბოგიჩევიჩი"}
+{"id":232355925,"city_id":3017610,"language_key":"ka","name":"ბოგიჩევიჩი"}
+{"id":232356156,"city_id":3017613,"language_key":"ka","name":"ბობოვისტე"}
+{"id":232356233,"city_id":3017614,"language_key":"ka","name":"ბობოვისტე"}
+{"id":232356541,"city_id":3017618,"language_key":"ka","name":"ბჯელოსი"}
+{"id":232356849,"city_id":3017622,"language_key":"ka","name":"ბიოცე"}
+{"id":232356926,"city_id":3017623,"language_key":"ka","name":"კრუსევიცე"}
+{"id":232357003,"city_id":3017624,"language_key":"ka","name":"ბიელო-პოლე"}
+{"id":232357080,"city_id":3017625,"language_key":"ka","name":"ბიელო პოლე"}
+{"id":232357157,"city_id":3017626,"language_key":"ka","name":"ბიელო პოლე"}
+{"id":232357234,"city_id":3017627,"language_key":"ka","name":"ბიჯელა"}
+{"id":232357311,"city_id":3017628,"language_key":"ka","name":"ბიგორი"}
+{"id":232357388,"city_id":3017629,"language_key":"ka","name":"ბიგორ"}
+{"id":232357465,"city_id":3017630,"language_key":"ka","name":"ბეზუჯე"}
+{"id":232357619,"city_id":3017632,"language_key":"ka","name":"ბეს"}
+{"id":232357773,"city_id":3017634,"language_key":"ka","name":"ბერისლავცი"}
+{"id":232357927,"city_id":3017636,"language_key":"ka","name":"ბეჩიჩი"}
+{"id":232358081,"city_id":3017638,"language_key":"ka","name":"ბარტულა"}
+{"id":232358158,"city_id":3017639,"language_key":"ka","name":"ბარე სუმანოვიცა"}
+{"id":232358235,"city_id":3017640,"language_key":"ka","name":"ბერან სელო"}
+{"id":232358312,"city_id":3017641,"language_key":"ka","name":"ბარი"}
+{"id":232358389,"city_id":3017642,"language_key":"ka","name":"ბალაბანი"}
+{"id":232358466,"city_id":3017643,"language_key":"ka","name":"ბალაბანსეა"}
+{"id":232359005,"city_id":3017650,"language_key":"ka","name":"ანდრიევიცა"}
+{"id":232359082,"city_id":3017651,"language_key":"ka","name":"ამბულა"}
+{"id":232359313,"city_id":3017654,"language_key":"ka","name":"ტოლევინა"}
+{"id":232359544,"city_id":3017657,"language_key":"ka","name":"სტაჯისტა"}
+{"id":232360006,"city_id":3017663,"language_key":"ka","name":"სენიცისტა"}
+{"id":232361161,"city_id":3017678,"language_key":"ka","name":"ბარა"}
+{"id":232361238,"city_id":3017679,"language_key":"ka","name":"უმაკი"}
+{"id":232361469,"city_id":3017682,"language_key":"ka","name":"როჟევიჩი"}
+{"id":232361700,"city_id":3017685,"language_key":"ka","name":"გორნჯა სპილა"}
+{"id":232361854,"city_id":3017687,"language_key":"ka","name":"უნიჯერინა"}
+{"id":232362085,"city_id":3017690,"language_key":"ka","name":"სეველისკი დო"}
+{"id":232362393,"city_id":3017694,"language_key":"ka","name":"რამადიკა დო"}
+{"id":232362701,"city_id":3017698,"language_key":"ka","name":"სტრპცა"}
+{"id":232362932,"city_id":3017701,"language_key":"ka","name":"კუმბორი"}
+{"id":232363933,"city_id":3017714,"language_key":"ka","name":"მირაკი"}
+{"id":232364395,"city_id":3017720,"language_key":"ka","name":"სელო"}
+{"id":232365473,"city_id":3017734,"language_key":"ka","name":"კუკოვიჩი"}
+{"id":232365781,"city_id":3017738,"language_key":"ka","name":"ბალოჩი"}
+{"id":232365935,"city_id":3017740,"language_key":"ka","name":"დუშიჩი"}
+{"id":232366166,"city_id":3017743,"language_key":"ka","name":"რაკიცა კუჩე"}
+{"id":232366936,"city_id":3017753,"language_key":"ka","name":"კრნი ნუგლი"}
+{"id":232367398,"city_id":3017759,"language_key":"ka","name":"ჯასიკოვიცა"}
+{"id":232368091,"city_id":3017768,"language_key":"ka","name":"ვიტი იასენი"}
+{"id":232368168,"city_id":3017769,"language_key":"ka","name":"კრუგ"}
+{"id":232368245,"city_id":3017770,"language_key":"ka","name":"მედედე"}
+{"id":232368322,"city_id":3017771,"language_key":"ka","name":"სავინა კრუშკა"}
+{"id":232368476,"city_id":3017773,"language_key":"ka","name":"მუსტეროვიჩი"}
+{"id":232369400,"city_id":3017785,"language_key":"ka","name":null}
+{"id":232369939,"city_id":3017792,"language_key":"ka","name":"პროსიკა"}
+{"id":232370940,"city_id":3017805,"language_key":"ka","name":"პეტნიცა"}
+{"id":232371171,"city_id":3017808,"language_key":"ka","name":"პოდდებიცე"}
+{"id":232371248,"city_id":3017809,"language_key":"ka","name":"რავნა რიეკა"}
+{"id":232372403,"city_id":3017824,"language_key":"ka","name":"დობრა სელა"}
+{"id":232372788,"city_id":3017829,"language_key":"ka","name":"ტრუსინა"}
+{"id":232374020,"city_id":3017845,"language_key":"ka","name":"მეკი დო"}
+{"id":232374559,"city_id":3017852,"language_key":"ka","name":"მეტერიზი"}
+{"id":232374867,"city_id":3017856,"language_key":"ka","name":"კაკუნიცა"}
+{"id":232375329,"city_id":3017862,"language_key":"ka","name":"კამისევო"}
+{"id":232376253,"city_id":3017874,"language_key":"ka","name":"დოლინა"}
+{"id":232376869,"city_id":3017882,"language_key":"ka","name":"დული"}
+{"id":232376946,"city_id":3017883,"language_key":"ka","name":"სტრაზიცე"}
+{"id":232377639,"city_id":3017892,"language_key":"ka","name":"დენოვიჩი"}
+{"id":232378178,"city_id":3017899,"language_key":"ka","name":"ავლია"}
+{"id":232378409,"city_id":3017902,"language_key":"ka","name":"როგაჩი"}
+{"id":232378486,"city_id":3017903,"language_key":"ka","name":"ვოინიჩი"}
+{"id":232378563,"city_id":3017904,"language_key":"ka","name":"ჰაილოვინა"}
+{"id":232378640,"city_id":3017905,"language_key":"ka","name":"ვუკასოვიჩი"}
+{"id":232378871,"city_id":3017908,"language_key":"ka","name":"დონჯი უნაცი"}
+{"id":232379256,"city_id":3017913,"language_key":"ka","name":"მაძარსკის კრაჯი"}
+{"id":232379333,"city_id":3017914,"language_key":"ka","name":"ებოჩა"}
+{"id":232379410,"city_id":3017915,"language_key":"ka","name":"ბელუშევაცი"}
+{"id":232381027,"city_id":3017936,"language_key":"ka","name":"გუკე"}
+{"id":232381720,"city_id":3017945,"language_key":"ka","name":"ჯეზერო"}
+{"id":232381874,"city_id":3017947,"language_key":"ka","name":"კარდაკი"}
+{"id":232381951,"city_id":3017948,"language_key":"ka","name":"დვორისტა"}
+{"id":232383183,"city_id":3017964,"language_key":"ka","name":"კაჩაკი"}
+{"id":232383491,"city_id":3017968,"language_key":"ka","name":"ლუბოევაცი"}
+{"id":232383799,"city_id":3017972,"language_key":"ka","name":"კუკავისე"}
+{"id":232383876,"city_id":3017973,"language_key":"ka","name":"პოტკამენი"}
+{"id":232383953,"city_id":3017974,"language_key":"ka","name":"იასენი"}
+{"id":232384415,"city_id":3017980,"language_key":"ka","name":"ზაუგლინი"}
+{"id":232384954,"city_id":3017987,"language_key":"ka","name":"ზაბრნიცა"}
+{"id":232385031,"city_id":3017988,"language_key":"ka","name":"როგოვინა"}
+{"id":232385108,"city_id":3017989,"language_key":"ka","name":"ივა"}
+{"id":232385185,"city_id":3017990,"language_key":"ka","name":"ვიჟენაკი"}
+{"id":232385262,"city_id":3017991,"language_key":"ka","name":"კლჯუნი"}
+{"id":232385416,"city_id":3017993,"language_key":"ka","name":"პრიბაკოვიჩი"}
+{"id":232385647,"city_id":3017996,"language_key":"ka","name":"კლაპუსი"}
+{"id":232385878,"city_id":3017999,"language_key":"ka","name":"ჯაჰოვიჩი"}
+{"id":232386417,"city_id":3018006,"language_key":"ka","name":"პრიბისი"}
+{"id":232387110,"city_id":3018015,"language_key":"ka","name":"კრუსევო"}
+{"id":232388034,"city_id":3018027,"language_key":"ka","name":"სკეპან-პოლჟე"}
+{"id":232388265,"city_id":3018030,"language_key":"ka","name":"ოგლავინა"}
+{"id":232388727,"city_id":3018036,"language_key":"ka","name":"დაკოვიჩი"}
+{"id":232389035,"city_id":3018040,"language_key":"ka","name":"ბარა"}
+{"id":232389112,"city_id":3018041,"language_key":"ka","name":"გორნიე მრცევო"}
+{"id":232389343,"city_id":3018044,"language_key":"ka","name":"სუპლია სტიჟენა"}
+{"id":232389497,"city_id":3018046,"language_key":"ka","name":"ლუსი"}
+{"id":232389651,"city_id":3018048,"language_key":"ka","name":"რავნე სმრეკე"}
+{"id":232390113,"city_id":3018054,"language_key":"ka","name":"სტრმეჩიცა"}
+{"id":232390652,"city_id":3018061,"language_key":"ka","name":"ციპციჯე"}
+{"id":232390729,"city_id":3018062,"language_key":"ka","name":"ომარ"}
+{"id":232390806,"city_id":3018063,"language_key":"ka","name":"ტეპაკო პოლიე"}
+{"id":232391114,"city_id":3018067,"language_key":"ka","name":"კარდაკი"}
+{"id":232391268,"city_id":3018069,"language_key":"ka","name":"პიტომინი"}
+{"id":232391576,"city_id":3018073,"language_key":"ka","name":"ვირაკ"}
+{"id":232391653,"city_id":3018074,"language_key":"ka","name":"ვირაკი"}
+{"id":232391807,"city_id":3018076,"language_key":"ka","name":"პოსლენისტე"}
+{"id":232392500,"city_id":3018085,"language_key":"ka","name":"მერულჯა"}
+{"id":232393270,"city_id":3018095,"language_key":"ka","name":"კოსორსკა ბუკოვიცა"}
+{"id":232394271,"city_id":3018108,"language_key":"ka","name":"კურუკაკა"}
+{"id":232394348,"city_id":3018109,"language_key":"ka","name":"ნაბოჯინე"}
+{"id":232394810,"city_id":3018115,"language_key":"ka","name":"დედოვო პოლიე"}
+{"id":232395503,"city_id":3018124,"language_key":"ka","name":"სტრანევო"}
+{"id":232396504,"city_id":3018137,"language_key":"ka","name":"რასოვა"}
+{"id":232396735,"city_id":3018140,"language_key":"ka","name":"ოგარ"}
+{"id":232396966,"city_id":3018143,"language_key":"ka","name":"სტანკანი"}
+{"id":232397043,"city_id":3018144,"language_key":"ka","name":"ოკოლისტე"}
+{"id":232397120,"city_id":3018145,"language_key":"ka","name":"დუბლიე"}
+{"id":232397351,"city_id":3018148,"language_key":"ka","name":"კალჯიჩი"}
+{"id":232397505,"city_id":3018150,"language_key":"ka","name":"პეროტინი"}
+{"id":232397890,"city_id":3018155,"language_key":"ka","name":"კუცეტინა"}
+{"id":232398198,"city_id":3018159,"language_key":"ka","name":"ლიჟესკა"}
+{"id":232398737,"city_id":3018166,"language_key":"ka","name":"რასნოვიჩი"}
+{"id":232400046,"city_id":3018183,"language_key":"ka","name":"ბრეზა"}
+{"id":232400508,"city_id":3018189,"language_key":"ka","name":"სლუცკა სტრანა"}
+{"id":232401817,"city_id":3018206,"language_key":"ka","name":"საკოვო სელო"}
+{"id":232402433,"city_id":3018214,"language_key":"ka","name":"ბესევინა"}
+{"id":232403434,"city_id":3018227,"language_key":"ka","name":"რასევო"}
+{"id":232405128,"city_id":3018249,"language_key":"ka","name":"კოჯოვიჩი"}
+{"id":232405359,"city_id":3018252,"language_key":"ka","name":"რუდნისი"}
+{"id":232405436,"city_id":3018253,"language_key":"ka","name":"ზავიდენი"}
+{"id":232405513,"city_id":3018254,"language_key":"ka","name":"კავლოვიჩ კულა"}
+{"id":232405590,"city_id":3018255,"language_key":"ka","name":"რაოვიჩი"}
+{"id":232405667,"city_id":3018256,"language_key":"ka","name":"ლონკარი"}
+{"id":232405744,"city_id":3018257,"language_key":"ka","name":"პოდრუდინი"}
+{"id":232405975,"city_id":3018260,"language_key":"ka","name":"დობრა ვოდა"}
+{"id":232406283,"city_id":3018264,"language_key":"ka","name":"პოტკოვაჩიცა"}
+{"id":232406437,"city_id":3018266,"language_key":"ka","name":"ადილოვიჩი"}
+{"id":232406514,"city_id":3018267,"language_key":"ka","name":"ჯაგნილა"}
+{"id":232406591,"city_id":3018268,"language_key":"ka","name":"ბოზიჩი"}
+{"id":232406745,"city_id":3018270,"language_key":"ka","name":"კლიზმერინი"}
+{"id":232406822,"city_id":3018271,"language_key":"ka","name":"ორევინი"}
+{"id":232407130,"city_id":3018275,"language_key":"ka","name":"კრნია"}
+{"id":232407284,"city_id":3018277,"language_key":"ka","name":"პლიჯესი"}
+{"id":232407515,"city_id":3018280,"language_key":"ka","name":"სლეპაკი"}
+{"id":232407669,"city_id":3018282,"language_key":"ka","name":"კობილიაკა"}
+{"id":232408131,"city_id":3018288,"language_key":"ka","name":"რასოვა"}
+{"id":232408285,"city_id":3018290,"language_key":"ka","name":"ჯელიკა დოლინი"}
+{"id":232408439,"city_id":3018292,"language_key":"ka","name":"მამრობითი სლემე"}
+{"id":232409671,"city_id":3018308,"language_key":"ka","name":"რაჯკოვიჩი პლავჩე ბრდო"}
+{"id":232410056,"city_id":3018313,"language_key":"ka","name":"სადიჩი"}
+{"id":232410364,"city_id":3018317,"language_key":"ka","name":"მაჯნა გორა"}
+{"id":232412135,"city_id":3018340,"language_key":"ka","name":"ძაფიცა ბრდო"}
+{"id":232412289,"city_id":3018342,"language_key":"ka","name":"ლოზნა"}
+{"id":232412443,"city_id":3018344,"language_key":"ka","name":"ზატონი"}
+{"id":232412674,"city_id":3018347,"language_key":"ka","name":"სუტივანი"}
+{"id":232412751,"city_id":3018348,"language_key":"ka","name":"სუტივანი"}
+{"id":232412982,"city_id":3018351,"language_key":"ka","name":"ლალევიჩი"}
+{"id":232413290,"city_id":3018355,"language_key":"ka","name":"გუბავაცი"}
+{"id":232413521,"city_id":3018358,"language_key":"ka","name":"უნევინა"}
+{"id":232413983,"city_id":3018364,"language_key":"ka","name":"ოსოჯე"}
+{"id":232414368,"city_id":3018369,"language_key":"ka","name":"გორნე სელო"}
+{"id":232414445,"city_id":3018370,"language_key":"ka","name":"ლემსი"}
+{"id":232414522,"city_id":3018371,"language_key":"ka","name":"კუცეტინე"}
+{"id":232414676,"city_id":3018373,"language_key":"ka","name":"გუვნისტა"}
+{"id":232414753,"city_id":3018374,"language_key":"ka","name":"კრჩ"}
+{"id":232415138,"city_id":3018379,"language_key":"ka","name":"პოტრკი"}
+{"id":232415369,"city_id":3018382,"language_key":"ka","name":"პეროვიჩი"}
+{"id":232416678,"city_id":3018399,"language_key":"ka","name":"გომილი"}
+{"id":232416832,"city_id":3018401,"language_key":"ka","name":"უბლი"}
+{"id":232417371,"city_id":3018408,"language_key":"ka","name":"კოსტანიკა"}
+{"id":232417910,"city_id":3018415,"language_key":"ka","name":"დონჯი კოსიჩი"}
+{"id":232418064,"city_id":3018417,"language_key":"ka","name":"კუპუსჩი"}
+{"id":232418218,"city_id":3018419,"language_key":"ka","name":"რმუზე"}
+{"id":232418526,"city_id":3018423,"language_key":"ka","name":"პრისოჯა"}
+{"id":232418988,"city_id":3018429,"language_key":"ka","name":"დონჯი კრნჩი"}
+{"id":232419065,"city_id":3018430,"language_key":"ka","name":"პოდლუნჯიცა"}
+{"id":232419142,"city_id":3018431,"language_key":"ka","name":"სელინაცკი დოლოვი"}
+{"id":232419373,"city_id":3018434,"language_key":"ka","name":"ლასტვა"}
+{"id":232419604,"city_id":3018437,"language_key":"ka","name":"მარტინოვიჩი"}
+{"id":232419681,"city_id":3018438,"language_key":"ka","name":"ბრაჯიჩი"}
+{"id":232419835,"city_id":3018440,"language_key":"ka","name":"ბელვედერი"}
+{"id":232420913,"city_id":3018454,"language_key":"ka","name":"კლიაევიჩი"}
+{"id":232420990,"city_id":3018455,"language_key":"ka","name":"ბეგოვა დოლ"}
+{"id":232421067,"city_id":3018456,"language_key":"ka","name":"ჯასენოვი დო"}
+{"id":232421144,"city_id":3018457,"language_key":"ka","name":"ცეროვი დო"}
+{"id":232421221,"city_id":3018458,"language_key":"ka","name":"პოსაიჩი"}
+{"id":232422915,"city_id":3018480,"language_key":"ka","name":"საბანი"}
+{"id":232424917,"city_id":3018506,"language_key":"ka","name":"ვოდნი დო"}
+{"id":232424994,"city_id":3018507,"language_key":"ka","name":"პოდაზდრიჯელო"}
+{"id":232425456,"city_id":3018513,"language_key":"ka","name":"ბალაია"}
+{"id":232425533,"city_id":3018514,"language_key":"ka","name":"დონია ბროვა"}
+{"id":232425610,"city_id":3018515,"language_key":"ka","name":"პეტროვიჩი"}
+{"id":232425687,"city_id":3018516,"language_key":"ka","name":"პაპრატნი დო"}
+{"id":232426226,"city_id":3018523,"language_key":"ka","name":"კუჩისტე"}
+{"id":232426380,"city_id":3018525,"language_key":"ka","name":"როვინი"}
+{"id":232426611,"city_id":3018528,"language_key":"ka","name":"ზასელიე"}
+{"id":232426688,"city_id":3018529,"language_key":"ka","name":"ნერიმი"}
+{"id":232426842,"city_id":3018531,"language_key":"ka","name":"ზოვინა"}
+{"id":232426919,"city_id":3018532,"language_key":"ka","name":"იასიკოვაცი"}
+{"id":232427535,"city_id":3018540,"language_key":"ka","name":"ლჟესკოვი დო"}
+{"id":232427843,"city_id":3018544,"language_key":"ka","name":"ოვსინე"}
+{"id":232427920,"city_id":3018545,"language_key":"ka","name":"კრსტაჩე"}
+{"id":232428074,"city_id":3018547,"language_key":"ka","name":"ბლაგოევიჩი"}
+{"id":232428228,"city_id":3018549,"language_key":"ka","name":"ზაგვოზდაკი"}
+{"id":232428459,"city_id":3018552,"language_key":"ka","name":"ზმუკიჩი"}
+{"id":232428690,"city_id":3018555,"language_key":"ka","name":"დინოვი დო"}
+{"id":232428921,"city_id":3018558,"language_key":"ka","name":"მუსტა რუპა"}
+{"id":232428998,"city_id":3018559,"language_key":"ka","name":"კომანსკო ბრდო"}
+{"id":232429075,"city_id":3018560,"language_key":"ka","name":"პრიეკო პოცივალო"}
+{"id":232429152,"city_id":3018561,"language_key":"ka","name":"დანავე"}
+{"id":232429229,"city_id":3018562,"language_key":"ka","name":"დანავე"}
+{"id":232430230,"city_id":3018575,"language_key":"ka","name":"ველჯი დო"}
+{"id":232430461,"city_id":3018578,"language_key":"ka","name":"ლუსკოვი დო"}
+{"id":232430692,"city_id":3018581,"language_key":"ka","name":"კოპიტოვ დო"}
+{"id":232430769,"city_id":3018582,"language_key":"ka","name":"დრაგოსევ დო"}
+{"id":232430923,"city_id":3018584,"language_key":"ka","name":"გრანდოვინა"}
+{"id":232431000,"city_id":3018585,"language_key":"ka","name":"პოლიკოვაცი"}
+{"id":232431077,"city_id":3018586,"language_key":"ka","name":"გრანდოვი დო"}
+{"id":232431308,"city_id":3018589,"language_key":"ka","name":"კულინა"}
+{"id":232431616,"city_id":3018593,"language_key":"ka","name":"ჯაბუკოვაცი"}
+{"id":232431770,"city_id":3018595,"language_key":"ka","name":"პაპრატნი დო"}
+{"id":232432001,"city_id":3018598,"language_key":"ka","name":"სტაზერი"}
+{"id":232432078,"city_id":3018599,"language_key":"ka","name":"ზელენი დო"}
+{"id":232432155,"city_id":3018600,"language_key":"ka","name":"ოზებლი დო"}
+{"id":232432232,"city_id":3018601,"language_key":"ka","name":"ობადოვიცა"}
+{"id":232432386,"city_id":3018603,"language_key":"ka","name":"დაჟინ დო"}
+{"id":232432540,"city_id":3018605,"language_key":"ka","name":"კოვაცევი დო"}
+{"id":232432617,"city_id":3018606,"language_key":"ka","name":"კრვენა პაპრატი"}
+{"id":232432694,"city_id":3018607,"language_key":"ka","name":"რუპისი"}
+{"id":232432771,"city_id":3018608,"language_key":"ka","name":"ბანდიკა ზუპა"}
+{"id":232432848,"city_id":3018609,"language_key":"ka","name":"კრნიონი დო"}
+{"id":232433310,"city_id":3018615,"language_key":"ka","name":"ბობოვა ულიცა"}
+{"id":232433618,"city_id":3018619,"language_key":"ka","name":"კრნა ჯელა"}
+{"id":232433695,"city_id":3018620,"language_key":"ka","name":"პოტკრაჯი"}
+{"id":232433772,"city_id":3018621,"language_key":"ka","name":"ზაგულჯ"}
+{"id":232433926,"city_id":3018623,"language_key":"ka","name":"ბოქსინ დო"}
+{"id":232434157,"city_id":3018626,"language_key":"ka","name":"ზამაცევი დო"}
+{"id":232434388,"city_id":3018629,"language_key":"ka","name":"ტრებოვინსკი პოდი"}
+{"id":232434465,"city_id":3018630,"language_key":"ka","name":"ლუსკოვი დოლოვი"}
+{"id":232434619,"city_id":3018632,"language_key":"ka","name":"სერდარ კულა"}
+{"id":232434696,"city_id":3018633,"language_key":"ka","name":"ზური"}
+{"id":232435158,"city_id":3018639,"language_key":"ka","name":"სტეცი"}
+{"id":232435235,"city_id":3018640,"language_key":"ka","name":"პონორნი დო"}
+{"id":232435312,"city_id":3018641,"language_key":"ka","name":"პრიპორცი"}
+{"id":232435389,"city_id":3018642,"language_key":"ka","name":"ბრატიცევი დოლოვი"}
+{"id":232435543,"city_id":3018644,"language_key":"ka","name":"ტიჯესაკი"}
+{"id":232435697,"city_id":3018646,"language_key":"ka","name":"დოციცი"}
+{"id":232435774,"city_id":3018647,"language_key":"ka","name":"დულოვი დო"}
+{"id":232435851,"city_id":3018648,"language_key":"ka","name":"კოპილოვ დო"}
+{"id":232435928,"city_id":3018649,"language_key":"ka","name":"ლიპოვ დო"}
+{"id":232436005,"city_id":3018650,"language_key":"ka","name":"პოდსტრანა"}
+{"id":232436082,"city_id":3018651,"language_key":"ka","name":"ელეზოვი დო"}
+{"id":232436698,"city_id":3018659,"language_key":"ka","name":"მიჯაჯლოვი დო"}
+{"id":232437006,"city_id":3018663,"language_key":"ka","name":"ბაჟოვ დო"}
+{"id":232437237,"city_id":3018666,"language_key":"ka","name":"პატარძალი"}
+{"id":232437468,"city_id":3018669,"language_key":"ka","name":"ზივა"}
+{"id":232437545,"city_id":3018670,"language_key":"ka","name":"ბეგოვა გლავიცა"}
+{"id":232437622,"city_id":3018671,"language_key":"ka","name":"ოგორჯელო ზდრიჯელო"}
+{"id":232437699,"city_id":3018672,"language_key":"ka","name":"ბურონისკი დო"}
+{"id":232437853,"city_id":3018674,"language_key":"ka","name":"ბობოვინი"}
+{"id":232437930,"city_id":3018675,"language_key":"ka","name":"კრაჩედო"}
+{"id":232438007,"city_id":3018676,"language_key":"ka","name":"გოლუბინჟე"}
+{"id":232438161,"city_id":3018678,"language_key":"ka","name":"დუბოკი დო"}
+{"id":232438238,"city_id":3018679,"language_key":"ka","name":"ოვცჯი დო"}
+{"id":232439239,"city_id":3018692,"language_key":"ka","name":"კორაჩევაკი"}
+{"id":232439316,"city_id":3018693,"language_key":"ka","name":"სრნი დო"}
+{"id":232439393,"city_id":3018694,"language_key":"ka","name":"კოვცე დო"}
+{"id":232439624,"city_id":3018697,"language_key":"ka","name":"კრნულიჩი"}
+{"id":232439701,"city_id":3018698,"language_key":"ka","name":"დონიე სელო"}
+{"id":232439855,"city_id":3018700,"language_key":"ka","name":"სელინსკი დო"}
+{"id":232440394,"city_id":3018707,"language_key":"ka","name":"ზგრადე"}
+{"id":232440625,"city_id":3018710,"language_key":"ka","name":"გორნიე მორაკოვო"}
+{"id":232440779,"city_id":3018712,"language_key":"ka","name":"ბისტრიცა"}
+{"id":232440856,"city_id":3018713,"language_key":"ka","name":"მედედე"}
+{"id":232440933,"city_id":3018714,"language_key":"ka","name":"რიეკა"}
+{"id":232441087,"city_id":3018716,"language_key":"ka","name":"ვრაპჩე"}
+{"id":232441318,"city_id":3018719,"language_key":"ka","name":"გოსტოევიჩი"}
+{"id":232441472,"city_id":3018721,"language_key":"ka","name":"იასიკოვაცი"}
+{"id":232441626,"city_id":3018723,"language_key":"ka","name":"ლისიკ დო"}
+{"id":232442088,"city_id":3018729,"language_key":"ka","name":"მიჯოკუსოვიჩი"}
+{"id":232442550,"city_id":3018735,"language_key":"ka","name":"სელისტა"}
+{"id":232442627,"city_id":3018736,"language_key":"ka","name":"გორნჯი ფრუტაკი"}
+{"id":232442704,"city_id":3018737,"language_key":"ka","name":"უსანოვიჩი"}
+{"id":232442858,"city_id":3018739,"language_key":"ka","name":"მუზევიცე"}
+{"id":232443012,"city_id":3018741,"language_key":"ka","name":"ბურთაისი"}
+{"id":232443166,"city_id":3018743,"language_key":"ka","name":"დოლოვი კოვაცკი"}
+{"id":232443320,"city_id":3018745,"language_key":"ka","name":"გოსტილიე ბრაიოვიკო"}
+{"id":232443474,"city_id":3018747,"language_key":"ka","name":"დონია გლიზიცა"}
+{"id":232443551,"city_id":3018748,"language_key":"ka","name":"მედეზე"}
+{"id":232444706,"city_id":3018763,"language_key":"ka","name":"კრასოვინა"}
+{"id":232444783,"city_id":3018764,"language_key":"ka","name":"სიმონოვიჩი"}
+{"id":232445014,"city_id":3018767,"language_key":"ka","name":"ფოთკულა"}
+{"id":232445322,"city_id":3018771,"language_key":"ka","name":"ლალევიჩი"}
+{"id":232445399,"city_id":3018772,"language_key":"ka","name":"ვუჩიკა"}
+{"id":232445476,"city_id":3018773,"language_key":"ka","name":"პოდგრიზდე"}
+{"id":232445630,"city_id":3018775,"language_key":"ka","name":"ტრსა"}
+{"id":232446631,"city_id":3018788,"language_key":"ka","name":"მილოვიჩი"}
+{"id":232446708,"city_id":3018789,"language_key":"ka","name":"ბროდ"}
+{"id":232446939,"city_id":3018792,"language_key":"ka","name":"კუტა"}
+{"id":232447555,"city_id":3018800,"language_key":"ka","name":"ტუპიკაი"}
+{"id":232448171,"city_id":3018808,"language_key":"ka","name":"კოპიტო"}
+{"id":232448248,"city_id":3018809,"language_key":"ka","name":"კოლჯატ"}
+{"id":232448556,"city_id":3018813,"language_key":"ka","name":"დონიე სელო"}
+{"id":232448941,"city_id":3018818,"language_key":"ka","name":"ზაბრდე"}
+{"id":232449095,"city_id":3018820,"language_key":"ka","name":"იელოვიკა"}
+{"id":232449326,"city_id":3018823,"language_key":"ka","name":"პოცივალა"}
+{"id":232449403,"city_id":3018824,"language_key":"ka","name":"რუსენოვიჩი"}
+{"id":232449557,"city_id":3018826,"language_key":"ka","name":"გრებნიცა"}
+{"id":232449942,"city_id":3018831,"language_key":"ka","name":"დოლოვი"}
+{"id":232450019,"city_id":3018832,"language_key":"ka","name":"მეკოტე"}
+{"id":232450173,"city_id":3018834,"language_key":"ka","name":"გორნჯი თუპანი"}
+{"id":232450250,"city_id":3018835,"language_key":"ka","name":"ბჟელოვიჩი"}
+{"id":232450712,"city_id":3018841,"language_key":"ka","name":"კამენარი"}
+{"id":232451328,"city_id":3018849,"language_key":"ka","name":"გორიცა"}
+{"id":232451559,"city_id":3018852,"language_key":"ka","name":"დუბროვცა დო"}
+{"id":232452098,"city_id":3018859,"language_key":"ka","name":"სტარი ვისკოვიჩი"}
+{"id":232452175,"city_id":3018860,"language_key":"ka","name":"პოიეტარი"}
+{"id":232452483,"city_id":3018864,"language_key":"ka","name":"დუბ"}
+{"id":232452791,"city_id":3018868,"language_key":"ka","name":"პომეტენიკი"}
+{"id":232453022,"city_id":3018871,"language_key":"ka","name":"ტროსავაკი"}
+{"id":232453561,"city_id":3018878,"language_key":"ka","name":"პოდგრედე"}
+{"id":232453715,"city_id":3018880,"language_key":"ka","name":"არაპი"}
+{"id":232453869,"city_id":3018882,"language_key":"ka","name":"ცერაკი"}
+{"id":232454177,"city_id":3018886,"language_key":"ka","name":"გოლიის სტოზი"}
+{"id":232454947,"city_id":3018896,"language_key":"ka","name":"პეტროვო პოლიე"}
+{"id":232455101,"city_id":3018898,"language_key":"ka","name":"რასპუსი"}
+{"id":232455178,"city_id":3018899,"language_key":"ka","name":"ტოდოროვი დუბ"}
+{"id":232455255,"city_id":3018900,"language_key":"ka","name":"ბუკოვიკი"}
+{"id":232455409,"city_id":3018902,"language_key":"ka","name":"პასინა ვოდა"}
+{"id":232455563,"city_id":3018904,"language_key":"ka","name":"მოკრა ნჯივა"}
+{"id":232455640,"city_id":3018905,"language_key":"ka","name":"ორნისი"}
+{"id":232455717,"city_id":3018906,"language_key":"ka","name":"ზავრჰ"}
+{"id":232456179,"city_id":3018912,"language_key":"ka","name":"ვიდოვი პოტოკი"}
+{"id":232456487,"city_id":3018916,"language_key":"ka","name":"დრაზინ ვრტი"}
+{"id":232456564,"city_id":3018917,"language_key":"ka","name":"დრაჟინ ვრტ"}
+{"id":232457411,"city_id":3018928,"language_key":"ka","name":"ველიკო რადევო"}
+{"id":232457488,"city_id":3018929,"language_key":"ka","name":"სკალჯარი"}
+{"id":232458027,"city_id":3018936,"language_key":"ka","name":"მიტროვიჩი"}
+{"id":232458181,"city_id":3018938,"language_key":"ka","name":"ვიდროვანი"}
+{"id":232458335,"city_id":3018940,"language_key":"ka","name":"რატაჯიცა გლავიცა"}
+{"id":232458489,"city_id":3018942,"language_key":"ka","name":"ვირ"}
+{"id":232460260,"city_id":3018965,"language_key":"ka","name":"რადანოვიჩი"}
+{"id":232463879,"city_id":3019012,"language_key":"ka","name":"ველემბუსი"}
+{"id":232464187,"city_id":3019016,"language_key":"ka","name":"სუსანჯ"}
+{"id":232465727,"city_id":3019036,"language_key":"ka","name":"რავნა რიეკა"}
+{"id":232466035,"city_id":3019040,"language_key":"ka","name":"კრკვინა"}
+{"id":232466343,"city_id":3019044,"language_key":"ka","name":"პოდვლაჰ"}
+{"id":232467729,"city_id":3019062,"language_key":"ka","name":"მუსტაფიკა გრედი"}
+{"id":232467806,"city_id":3019063,"language_key":"ka","name":"იასიკოვაცი"}
+{"id":232468576,"city_id":3019073,"language_key":"ka","name":"ცემენკა"}
+{"id":232468884,"city_id":3019077,"language_key":"ka","name":"ბედემი"}
+{"id":232468961,"city_id":3019078,"language_key":"ka","name":"ლეპირიკა"}
+{"id":232469038,"city_id":3019079,"language_key":"ka","name":"კოვაცევი დო"}
+{"id":232469115,"city_id":3019080,"language_key":"ka","name":"კოლო"}
+{"id":232469192,"city_id":3019081,"language_key":"ka","name":"ზაბრნიცა"}
+{"id":232469346,"city_id":3019083,"language_key":"ka","name":"ბრისკი დო"}
+{"id":232469500,"city_id":3019085,"language_key":"ka","name":"პრიჯევორი"}
+{"id":232469577,"city_id":3019086,"language_key":"ka","name":"სტრანევო"}
+{"id":232469731,"city_id":3019088,"language_key":"ka","name":"კამენიკა"}
+{"id":232469808,"city_id":3019089,"language_key":"ka","name":"კრივაჩე"}
+{"id":232469885,"city_id":3019090,"language_key":"ka","name":"ჯუვანჯე"}
+{"id":232470039,"city_id":3019092,"language_key":"ka","name":"ოსიეჩენიკა"}
+{"id":232470270,"city_id":3019095,"language_key":"ka","name":"ბოზდარევ დო"}
+{"id":232470886,"city_id":3019103,"language_key":"ka","name":"ვუჩი დო"}
+{"id":232470963,"city_id":3019104,"language_key":"ka","name":"სოლინსკის ბრიჟე"}
+{"id":232471425,"city_id":3019110,"language_key":"ka","name":"სტანკოვი დო"}
+{"id":232471579,"city_id":3019112,"language_key":"ka","name":"პლიტკი დო"}
+{"id":232471656,"city_id":3019113,"language_key":"ka","name":"რაზდოლიე"}
+{"id":232471733,"city_id":3019114,"language_key":"ka","name":"პეტროვიცა დო"}
+{"id":232471810,"city_id":3019115,"language_key":"ka","name":"მედედოვი დო"}
+{"id":232471887,"city_id":3019116,"language_key":"ka","name":"ალუგა"}
+{"id":232472426,"city_id":3019123,"language_key":"ka","name":"სტუდენაკი"}
+{"id":232472657,"city_id":3019126,"language_key":"ka","name":"რუდიკა ლაკა"}
+{"id":232472811,"city_id":3019128,"language_key":"ka","name":"ჯეზერკა"}
+{"id":232472888,"city_id":3019129,"language_key":"ka","name":"კაპავიცა"}
+{"id":232472965,"city_id":3019130,"language_key":"ka","name":"ვრლეროსკი დო"}
+{"id":232473042,"city_id":3019131,"language_key":"ka","name":"ბორაკი"}
+{"id":232473119,"city_id":3019132,"language_key":"ka","name":"გრაკანიკა"}
+{"id":232473581,"city_id":3019138,"language_key":"ka","name":"მალა რზისტა"}
+{"id":232473889,"city_id":3019142,"language_key":"ka","name":"ბოროვი დო"}
+{"id":232474659,"city_id":3019152,"language_key":"ka","name":"ლიპოვ დო"}
+{"id":232474736,"city_id":3019153,"language_key":"ka","name":"ზაგონაკი"}
+{"id":232475044,"city_id":3019157,"language_key":"ka","name":"პისტალა"}
+{"id":232475275,"city_id":3019160,"language_key":"ka","name":"ებეპლია"}
+{"id":232475352,"city_id":3019161,"language_key":"ka","name":"პლიევორი"}
+{"id":232475660,"city_id":3019165,"language_key":"ka","name":"სჯენოკოსი"}
+{"id":232475737,"city_id":3019166,"language_key":"ka","name":"ივანჯ-დო"}
+{"id":232475968,"city_id":3019169,"language_key":"ka","name":"გორინ დო"}
+{"id":232476045,"city_id":3019170,"language_key":"ka","name":"პადინი"}
+{"id":232476661,"city_id":3019178,"language_key":"ka","name":"მილუსინა პეჩინა"}
+{"id":232476738,"city_id":3019179,"language_key":"ka","name":"ჯასიკა"}
+{"id":232476969,"city_id":3019182,"language_key":"ka","name":"მიოლე პოლე"}
+{"id":232477046,"city_id":3019183,"language_key":"ka","name":"ადგილი"}
+{"id":232477816,"city_id":3019193,"language_key":"ka","name":"პოპოვიჩი"}
+{"id":232478047,"city_id":3019196,"language_key":"ka","name":"ლუკა"}
+{"id":232478124,"city_id":3019197,"language_key":"ka","name":"გორიცა"}
+{"id":232478201,"city_id":3019198,"language_key":"ka","name":"გლიზიკა"}
+{"id":232478509,"city_id":3019202,"language_key":"ka","name":"ლუტოტუკი"}
+{"id":232478586,"city_id":3019203,"language_key":"ka","name":"სტანიევიცა რუპა"}
+{"id":232478817,"city_id":3019206,"language_key":"ka","name":"პიტომა ლოზა"}
+{"id":232478971,"city_id":3019208,"language_key":"ka","name":"პეტრიჩენი"}
+{"id":232479048,"city_id":3019209,"language_key":"ka","name":"ბრდო"}
+{"id":232479125,"city_id":3019210,"language_key":"ka","name":"ბუსინ დო"}
+{"id":232479202,"city_id":3019211,"language_key":"ka","name":"კალეზიჩი"}
+{"id":232479279,"city_id":3019212,"language_key":"ka","name":"დუგი ლაზ"}
+{"id":232479510,"city_id":3019215,"language_key":"ka","name":"ბრანლოვიცა"}
+{"id":232479587,"city_id":3019216,"language_key":"ka","name":"გლავიკა"}
+{"id":232479664,"city_id":3019217,"language_key":"ka","name":"გორნია მარკოვინა"}
+{"id":232479741,"city_id":3019218,"language_key":"ka","name":"ოსელინა"}
+{"id":232479895,"city_id":3019220,"language_key":"ka","name":"სკანჯცი"}
+{"id":232480203,"city_id":3019224,"language_key":"ka","name":"ოპაკაკი"}
+{"id":232480280,"city_id":3019225,"language_key":"ka","name":"მიჰალევიჩი"}
+{"id":232480511,"city_id":3019228,"language_key":"ka","name":"კოსმაკი"}
+{"id":232480588,"city_id":3019229,"language_key":"ka","name":"დაფკოვიჩი"}
+{"id":232480819,"city_id":3019232,"language_key":"ka","name":"მილოცერი"}
+{"id":232481281,"city_id":3019238,"language_key":"ka","name":"იაიჩევიჩი"}
+{"id":232481666,"city_id":3019243,"language_key":"ka","name":"კრალი სტარი"}
+{"id":232481743,"city_id":3019244,"language_key":"ka","name":"დონიე პოლიე"}
+{"id":232481820,"city_id":3019245,"language_key":"ka","name":"პოდლასტვა"}
+{"id":232482590,"city_id":3019255,"language_key":"ka","name":"ბულჯიჩი"}
+{"id":232483283,"city_id":3019264,"language_key":"ka","name":"მასნიცა"}
+{"id":232484515,"city_id":3019280,"language_key":"ka","name":"კაჭანიკი"}
+{"id":232484823,"city_id":3019284,"language_key":"ka","name":"ლოვნოჩელო"}
+{"id":232484900,"city_id":3019285,"language_key":"ka","name":"ჰუსეინოვიჩი"}
+{"id":232486055,"city_id":3019300,"language_key":"ka","name":"ლუკინ ვირ"}
+{"id":232487518,"city_id":3019319,"language_key":"ka","name":"ზარ"}
+{"id":232487980,"city_id":3019325,"language_key":"ka","name":"მასლარი"}
+{"id":232489135,"city_id":3019340,"language_key":"ka","name":"დოლჯა"}
+{"id":232489828,"city_id":3019349,"language_key":"ka","name":"სტუბიცა"}
+{"id":232491830,"city_id":3019375,"language_key":"ka","name":"მალო ნემანჯინე"}
+{"id":232491907,"city_id":3019376,"language_key":"ka","name":"დონია ლესნიკა"}
+{"id":232492292,"city_id":3019381,"language_key":"ka","name":"ვრშევო"}
+{"id":232492523,"city_id":3019384,"language_key":"ka","name":"თარჰანისი"}
+{"id":232492677,"city_id":3019386,"language_key":"ka","name":"აგოვიცა"}
+{"id":232492754,"city_id":3019387,"language_key":"ka","name":"სრედნიე ზაოსტრო"}
+{"id":232493293,"city_id":3019394,"language_key":"ka","name":"დაფსიჩი"}
+{"id":232494063,"city_id":3019404,"language_key":"ka","name":"მუციჩი"}
+{"id":232494448,"city_id":3019409,"language_key":"ka","name":"მუსოვიჩი"}
+{"id":232495141,"city_id":3019418,"language_key":"ka","name":"დუროვიჩი"}
+{"id":232495295,"city_id":3019420,"language_key":"ka","name":"პოციკი"}
+{"id":232495526,"city_id":3019423,"language_key":"ka","name":"პრიკელე"}
+{"id":232495680,"city_id":3019425,"language_key":"ka","name":"გოლა სტრანა"}
+{"id":232495911,"city_id":3019428,"language_key":"ka","name":"ვინოგრადისტა"}
+{"id":232495988,"city_id":3019429,"language_key":"ka","name":"პოტოჩი"}
+{"id":232496142,"city_id":3019431,"language_key":"ka","name":"ბუნკა"}
+{"id":232496450,"city_id":3019435,"language_key":"ka","name":"კოსტრიკოვიცა"}
+{"id":232496527,"city_id":3019436,"language_key":"ka","name":"სიბიონიკა"}
+{"id":232496604,"city_id":3019437,"language_key":"ka","name":"ვუქსანოვო გუმნო"}
+{"id":232498298,"city_id":3019459,"language_key":"ka","name":"კრალევაცი"}
+{"id":232498452,"city_id":3019461,"language_key":"ka","name":"კრკორი"}
+{"id":232498529,"city_id":3019462,"language_key":"ka","name":"ლევაჯა"}
+{"id":232498683,"city_id":3019464,"language_key":"ka","name":"კამი"}
+{"id":232498760,"city_id":3019465,"language_key":"ka","name":"გუბერინიჩი"}
+{"id":232499530,"city_id":3019475,"language_key":"ka","name":"დონია ტრებჟესიკა"}
+{"id":232499761,"city_id":3019478,"language_key":"ka","name":"დონია სელა"}
+{"id":232500223,"city_id":3019484,"language_key":"ka","name":"მრთვო დობოკო"}
+{"id":232500608,"city_id":3019489,"language_key":"ka","name":"დრიჯენი"}
+{"id":232501070,"city_id":3019495,"language_key":"ka","name":"რაისვინი"}
+{"id":232501224,"city_id":3019497,"language_key":"ka","name":"კრზევო"}
+{"id":232501301,"city_id":3019498,"language_key":"ka","name":"კოსეტინე"}
+{"id":232501532,"city_id":3019501,"language_key":"ka","name":"პრესჯეკა"}
+{"id":232501609,"city_id":3019502,"language_key":"ka","name":"გროპა"}
+{"id":232501763,"city_id":3019504,"language_key":"ka","name":"ჯასტრები"}
+{"id":232501840,"city_id":3019505,"language_key":"ka","name":"იასტრებს"}
+{"id":232501994,"city_id":3019507,"language_key":"ka","name":"დონჯი კურილაკი"}
+{"id":232502071,"city_id":3019508,"language_key":"ka","name":"გორნი კურილაკი"}
+{"id":232502148,"city_id":3019509,"language_key":"ka","name":"გრლიკი"}
+{"id":232502379,"city_id":3019512,"language_key":"ka","name":"პლანა"}
+{"id":232502687,"city_id":3019516,"language_key":"ka","name":"დეკოვიჩი"}
+{"id":232503149,"city_id":3019522,"language_key":"ka","name":"სმაილაგიკა პოლე"}
+{"id":232503457,"city_id":3019526,"language_key":"ka","name":"ტრებალევო"}
+{"id":232504535,"city_id":3019540,"language_key":"ka","name":"სლივლი"}
+{"id":232504997,"city_id":3019546,"language_key":"ka","name":"პრისოჯაკი"}
+{"id":232505536,"city_id":3019553,"language_key":"ka","name":"კლიკოვაცე"}
+{"id":232507615,"city_id":3019580,"language_key":"ka","name":"ოსოჟნიკი"}
+{"id":232507923,"city_id":3019584,"language_key":"ka","name":"ჯუვანჯე"}
+{"id":232509386,"city_id":3019603,"language_key":"ka","name":"ნოვო სელო"}
+{"id":232509540,"city_id":3019605,"language_key":"ka","name":"ველეტა"}
+{"id":232509848,"city_id":3019609,"language_key":"ka","name":"კოლასინოვიჩი"}
+{"id":232511080,"city_id":3019625,"language_key":"ka","name":"კალანოვიცა"}
+{"id":232511157,"city_id":3019626,"language_key":"ka","name":"დრაკოვიჩი"}
+{"id":232511542,"city_id":3019631,"language_key":"ka","name":"რაჯიცევი დო"}
+{"id":232511619,"city_id":3019632,"language_key":"ka","name":"ლუბოვო"}
+{"id":232511773,"city_id":3019634,"language_key":"ka","name":"ჰადულიკა"}
+{"id":232511927,"city_id":3019636,"language_key":"ka","name":"ბობულჯა"}
+{"id":232512004,"city_id":3019637,"language_key":"ka","name":"კრსტოვაცე"}
+{"id":232512235,"city_id":3019640,"language_key":"ka","name":"გორნიე კუნოვო"}
+{"id":232512312,"city_id":3019641,"language_key":"ka","name":"სუმე"}
+{"id":232512389,"city_id":3019642,"language_key":"ka","name":"დარონჯი დო"}
+{"id":232512466,"city_id":3019643,"language_key":"ka","name":"პოდ-დაზნიკი"}
+{"id":232512543,"city_id":3019644,"language_key":"ka","name":"კნეზ პოლე"}
+{"id":232512697,"city_id":3019646,"language_key":"ka","name":"პრიჯევორი"}
+{"id":232513005,"city_id":3019650,"language_key":"ka","name":"მარკოვინა"}
+{"id":232513159,"city_id":3019652,"language_key":"ka","name":"ბრაევიჩი"}
+{"id":232513467,"city_id":3019656,"language_key":"ka","name":"ცენიცი"}
+{"id":232514468,"city_id":3019669,"language_key":"ka","name":"ურლიევ დო"}
+{"id":232515007,"city_id":3019676,"language_key":"ka","name":"ტურსკო"}
+{"id":232515392,"city_id":3019681,"language_key":"ka","name":"რადანოვიჩი"}
+{"id":232516316,"city_id":3019693,"language_key":"ka","name":"მაგლენკა"}
+{"id":232516393,"city_id":3019694,"language_key":"ka","name":"რვანა გორა"}
+{"id":232516932,"city_id":3019701,"language_key":"ka","name":"ვეკერიჩი"}
+{"id":232517933,"city_id":3019714,"language_key":"ka","name":"ბრეკოვაცი"}
+{"id":232518010,"city_id":3019715,"language_key":"ka","name":"ტრავნი დო"}
+{"id":232518703,"city_id":3019724,"language_key":"ka","name":"ცეროვო პროდო"}
+{"id":232518934,"city_id":3019727,"language_key":"ka","name":"კაბალა"}
+{"id":232519011,"city_id":3019728,"language_key":"ka","name":"სპილისი"}
+{"id":232519165,"city_id":3019730,"language_key":"ka","name":"დუპილო"}
+{"id":232519242,"city_id":3019731,"language_key":"ka","name":"მაროვიჩი"}
+{"id":232519319,"city_id":3019732,"language_key":"ka","name":"ზმიჯიცე"}
+{"id":232519396,"city_id":3019733,"language_key":"ka","name":"ჟურნალი"}
+{"id":232519550,"city_id":3019735,"language_key":"ka","name":"დუროვიჩი"}
+{"id":232519781,"city_id":3019738,"language_key":"ka","name":"ჯუნჩევიჩი"}
+{"id":232520320,"city_id":3019745,"language_key":"ka","name":"პესტორიჩი"}
+{"id":232520859,"city_id":3019752,"language_key":"ka","name":"მილოვიჩი"}
+{"id":232524247,"city_id":3019796,"language_key":"ka","name":"მერჩაევაცი"}
+{"id":232526095,"city_id":3019820,"language_key":"ka","name":"ბადრე"}
+{"id":232526480,"city_id":3019825,"language_key":"ka","name":"კრსნიკა"}
+{"id":232526788,"city_id":3019829,"language_key":"ka","name":"სტარო მიატოვო"}
+{"id":232526865,"city_id":3019830,"language_key":"ka","name":"მექიცა კულა"}
+{"id":232527250,"city_id":3019835,"language_key":"ka","name":"დულოვინი"}
+{"id":232527481,"city_id":3019838,"language_key":"ka","name":"პრიპჩიჩი"}
+{"id":232527866,"city_id":3019843,"language_key":"ka","name":"ფემიკა კრს"}
+{"id":232527943,"city_id":3019844,"language_key":"ka","name":"პოტკრს"}
+{"id":232528559,"city_id":3019852,"language_key":"ka","name":"დობროდო"}
+{"id":232528867,"city_id":3019856,"language_key":"ka","name":"გრაბოვიცა"}
+{"id":232529021,"city_id":3019858,"language_key":"ka","name":"დონჯი ორასი"}
+{"id":232529098,"city_id":3019859,"language_key":"ka","name":"გლუჰი დო"}
+{"id":232529175,"city_id":3019860,"language_key":"ka","name":"გლუჰი დო"}
+{"id":232529252,"city_id":3019861,"language_key":"ka","name":"ვუჩკოვიჩი"}
+{"id":232529406,"city_id":3019863,"language_key":"ka","name":"ივანოვა ალუგა"}
+{"id":232529560,"city_id":3019865,"language_key":"ka","name":"დონჯი კრაჯი"}
+{"id":232529791,"city_id":3019868,"language_key":"ka","name":"უმჩი"}
+{"id":232530484,"city_id":3019877,"language_key":"ka","name":"დონჯი ვუკოვიჩი"}
+{"id":232530561,"city_id":3019878,"language_key":"ka","name":"მედუპოტოციე"}
+{"id":232530715,"city_id":3019880,"language_key":"ka","name":"ვუკოვე ზგრადე"}
+{"id":232530792,"city_id":3019881,"language_key":"ka","name":"ბრნოვიჩი"}
+{"id":232530869,"city_id":3019882,"language_key":"ka","name":"ლაინჯა"}
+{"id":232531023,"city_id":3019884,"language_key":"ka","name":"პალიჩი"}
+{"id":232531100,"city_id":3019885,"language_key":"ka","name":"მარკოვიჩი"}
+{"id":232531254,"city_id":3019887,"language_key":"ka","name":"მრცინიჩი"}
+{"id":232531331,"city_id":3019888,"language_key":"ka","name":"რაზდრტ"}
+{"id":232531485,"city_id":3019890,"language_key":"ka","name":"ჯასიკოვი დო"}
+{"id":232531562,"city_id":3019891,"language_key":"ka","name":"პროკაპლიე"}
+{"id":232531639,"city_id":3019892,"language_key":"ka","name":"აბზი-კულა"}
+{"id":232531716,"city_id":3019893,"language_key":"ka","name":"ნეგულე"}
+{"id":232531870,"city_id":3019895,"language_key":"ka","name":"თვრდოსი"}
+{"id":232533179,"city_id":3019912,"language_key":"ka","name":"სრედნჯა მაჰალა"}
+{"id":232533410,"city_id":3019915,"language_key":"ka","name":"ზგრადა"}
+{"id":232533641,"city_id":3019918,"language_key":"ka","name":"ზლატნა ობალა"}
+{"id":232536952,"city_id":3019961,"language_key":"ka","name":"ბაცევნიკი"}
+{"id":232537722,"city_id":3019971,"language_key":"ka","name":"რეზევიჩი"}
+{"id":232537799,"city_id":3019972,"language_key":"ka","name":"კრუსეანი"}
+{"id":232537876,"city_id":3019973,"language_key":"ka","name":"ლუსი"}
+{"id":232538030,"city_id":3019975,"language_key":"ka","name":"გოლუბოვიჩი"}
+{"id":232538415,"city_id":3019980,"language_key":"ka","name":"გარდავიჩი"}
+{"id":232538492,"city_id":3019981,"language_key":"ka","name":"ვრტაჩე"}
+{"id":232538800,"city_id":3019985,"language_key":"ka","name":"სელისტე"}
+{"id":232538954,"city_id":3019987,"language_key":"ka","name":"სელინი"}
+{"id":232539031,"city_id":3019988,"language_key":"ka","name":"პოვიევო"}
+{"id":232539262,"city_id":3019991,"language_key":"ka","name":"მელჯინე"}
+{"id":232539339,"city_id":3019992,"language_key":"ka","name":"ფანჯევი"}
+{"id":232539570,"city_id":3019995,"language_key":"ka","name":"პეტროვიჩი"}
+{"id":232540109,"city_id":3020002,"language_key":"ka","name":"პეანი"}
+{"id":232540417,"city_id":3020006,"language_key":"ka","name":"ბაზდანი"}
+{"id":232540494,"city_id":3020007,"language_key":"ka","name":"ბაბუნცი"}
+{"id":232540802,"city_id":3020011,"language_key":"ka","name":"დრაკულოვიჩი"}
+{"id":232541495,"city_id":3020020,"language_key":"ka","name":"რავნი ლაზ"}
+{"id":232541572,"city_id":3020021,"language_key":"ka","name":"მისოკა"}
+{"id":232541649,"city_id":3020022,"language_key":"ka","name":"მოკრი დო"}
+{"id":232541726,"city_id":3020023,"language_key":"ka","name":"სტიენსკო ბრდო"}
+{"id":232541803,"city_id":3020024,"language_key":"ka","name":"კრნაჩკო ბრდო"}
+{"id":232541880,"city_id":3020025,"language_key":"ka","name":"ტრებინცი"}
+{"id":232543266,"city_id":3020043,"language_key":"ka","name":"ლიპლია"}
+{"id":232543420,"city_id":3020045,"language_key":"ka","name":"გრდოვინე"}
+{"id":232543651,"city_id":3020048,"language_key":"ka","name":"მულინი"}
+{"id":232543728,"city_id":3020049,"language_key":"ka","name":"სტრელიანიცე"}
+{"id":232543805,"city_id":3020050,"language_key":"ka","name":"ვინოგრადინი"}
+{"id":232543882,"city_id":3020051,"language_key":"ka","name":"სმირა"}
+{"id":232543959,"city_id":3020052,"language_key":"ka","name":"ბრატოზიცა"}
+{"id":232544036,"city_id":3020053,"language_key":"ka","name":"დონჯი კოს"}
+{"id":232544113,"city_id":3020054,"language_key":"ka","name":"ჩორნი პოტიკი"}
+{"id":232544267,"city_id":3020056,"language_key":"ka","name":"დონჯი ორახოვაცი"}
+{"id":232544344,"city_id":3020057,"language_key":"ka","name":"ტრსტენიკი"}
+{"id":232544498,"city_id":3020059,"language_key":"ka","name":"გორნია ტრებესიკა"}
+{"id":232545268,"city_id":3020069,"language_key":"ka","name":"მუო"}
+{"id":232545422,"city_id":3020071,"language_key":"ka","name":"კოვაჩიცა"}
+{"id":232545499,"city_id":3020072,"language_key":"ka","name":"ველე სლაკო"}
+{"id":232545653,"city_id":3020074,"language_key":"ka","name":"ბეილი"}
+{"id":232545730,"city_id":3020075,"language_key":"ka","name":"პოზდუჯი"}
+{"id":232545884,"city_id":3020077,"language_key":"ka","name":"კატავიჩი"}
+{"id":232545961,"city_id":3020078,"language_key":"ka","name":"მედე"}
+{"id":232546346,"city_id":3020083,"language_key":"ka","name":"ბეგოვა ლუკა"}
+{"id":232546423,"city_id":3020084,"language_key":"ka","name":"ცელჟ"}
+{"id":232546962,"city_id":3020091,"language_key":"ka","name":"სავინა გლავიცა"}
+{"id":232547270,"city_id":3020095,"language_key":"ka","name":"პენტოვიჩი"}
+{"id":232547347,"city_id":3020096,"language_key":"ka","name":"ბრატ-ნივე"}
+{"id":232547501,"city_id":3020098,"language_key":"ka","name":"პოდბაბაკი"}
+{"id":232547732,"city_id":3020101,"language_key":"ka","name":"რაფაილოვიჩი"}
+{"id":232548271,"city_id":3020108,"language_key":"ka","name":"ზმიჯინა"}
+{"id":232549426,"city_id":3020123,"language_key":"ka","name":"პრზნო"}
+{"id":232549503,"city_id":3020124,"language_key":"ka","name":"მილოცერი"}
+{"id":232549811,"city_id":3020128,"language_key":"ka","name":"დოვისტა"}
+{"id":232550042,"city_id":3020131,"language_key":"ka","name":"დოლინა"}
+{"id":232550119,"city_id":3020132,"language_key":"ka","name":"ტრგოვისთა"}
+{"id":232550196,"city_id":3020133,"language_key":"ka","name":"პოდრიდი"}
+{"id":232550273,"city_id":3020134,"language_key":"ka","name":"პიტომინი"}
+{"id":232550350,"city_id":3020135,"language_key":"ka","name":"გრავისტა"}
+{"id":232550504,"city_id":3020137,"language_key":"ka","name":"კორიჯენი"}
+{"id":232550581,"city_id":3020138,"language_key":"ka","name":"რტ"}
+{"id":232550812,"city_id":3020141,"language_key":"ka","name":"ქორაჯ-დო"}
+{"id":232551120,"city_id":3020145,"language_key":"ka","name":"კოლევიჩი"}
+{"id":232551274,"city_id":3020147,"language_key":"ka","name":"დედინიკე"}
+{"id":232551351,"city_id":3020148,"language_key":"ka","name":"მოცილა"}
+{"id":232551428,"city_id":3020149,"language_key":"ka","name":"პოლატნა"}
+{"id":232551659,"city_id":3020152,"language_key":"ka","name":"დედანა რავანი"}
+{"id":232551736,"city_id":3020153,"language_key":"ka","name":"პილოტი"}
+{"id":232551890,"city_id":3020155,"language_key":"ka","name":"მედედა"}
+{"id":232552044,"city_id":3020157,"language_key":"ka","name":"ბანჯე ბრდო"}
+{"id":232552121,"city_id":3020158,"language_key":"ka","name":"ცეკა"}
+{"id":232552506,"city_id":3020163,"language_key":"ka","name":"ნოვაკოვიცე"}
+{"id":232552583,"city_id":3020164,"language_key":"ka","name":"სვინი"}
+{"id":232552660,"city_id":3020165,"language_key":"ka","name":"მელიაჩი"}
+{"id":232553815,"city_id":3020180,"language_key":"ka","name":"ბუნკა"}
+{"id":232554200,"city_id":3020185,"language_key":"ka","name":"ვრჰ პოლია"}
+{"id":232554277,"city_id":3020186,"language_key":"ka","name":"გრაბე"}
+{"id":232554816,"city_id":3020193,"language_key":"ka","name":"ბანოვინა"}
+{"id":232555586,"city_id":3020203,"language_key":"ka","name":"მულინოვო პოციალო"}
+{"id":232556433,"city_id":3020214,"language_key":"ka","name":"მიტროვიჩი"}
+{"id":232557280,"city_id":3020225,"language_key":"ka","name":"ცივლაკი"}
+{"id":232557357,"city_id":3020226,"language_key":"ka","name":"ვალდანოსი"}
+{"id":232557588,"city_id":3020229,"language_key":"ka","name":"ველიკა პლაზა"}
+{"id":232557665,"city_id":3020230,"language_key":"ka","name":"დონია კლეზნა"}
+{"id":232557742,"city_id":3020231,"language_key":"ka","name":"ლისნა ბორი"}
+{"id":232557896,"city_id":3020233,"language_key":"ka","name":"მოზურა"}
+{"id":232558050,"city_id":3020235,"language_key":"ka","name":"ბრეგვიჯა"}
+{"id":232558204,"city_id":3020237,"language_key":"ka","name":"მალა"}
+{"id":232558358,"city_id":3020239,"language_key":"ka","name":"ბადრე"}
+{"id":232558666,"city_id":3020243,"language_key":"ka","name":"გაჯევი"}
+{"id":232558820,"city_id":3020245,"language_key":"ka","name":"ვაგამო"}
+{"id":232558974,"city_id":3020247,"language_key":"ka","name":"კოლოვიჩი"}
+{"id":232559128,"city_id":3020249,"language_key":"ka","name":"სტუპი"}
+{"id":232559282,"city_id":3020251,"language_key":"ka","name":"პრემენიკა"}
+{"id":232559359,"city_id":3020252,"language_key":"ka","name":"ნოქტე"}
+{"id":232559436,"city_id":3020253,"language_key":"ka","name":"პოდკრს"}
+{"id":232561284,"city_id":3020277,"language_key":"ka","name":"ლივადანი"}
+{"id":232561592,"city_id":3020281,"language_key":"ka","name":"გოგიჩი"}
+{"id":232561669,"city_id":3020282,"language_key":"ka","name":"დონიე სტუპინე"}
+{"id":232561746,"city_id":3020283,"language_key":"ka","name":"გორნიე სტუპინე"}
+{"id":232562362,"city_id":3020291,"language_key":"ka","name":"რუჟევიკა"}
+{"id":232563517,"city_id":3020306,"language_key":"ka","name":"გორნჯე დაჟბაბე"}
+{"id":232563594,"city_id":3020307,"language_key":"ka","name":"დონიჟე დაჟბაბე"}
+{"id":232564903,"city_id":3020324,"language_key":"ka","name":"გრეკა"}
+{"id":232565057,"city_id":3020326,"language_key":"ka","name":"ზივკოვიჩი"}
+{"id":232565365,"city_id":3020330,"language_key":"ka","name":"კოსტროვიჩი"}
+{"id":232565442,"city_id":3020331,"language_key":"ka","name":"პრელევიჩი"}
+{"id":232565519,"city_id":3020332,"language_key":"ka","name":"პოლატნა"}
+{"id":232565596,"city_id":3020333,"language_key":"ka","name":"კამენსკო"}
+{"id":232566674,"city_id":3020347,"language_key":"ka","name":"კოვიეცი"}
+{"id":232567367,"city_id":3020356,"language_key":"ka","name":"პრიბისი"}
+{"id":232567521,"city_id":3020358,"language_key":"ka","name":"ვრანიკე ნჟივე"}
+{"id":232567983,"city_id":3020364,"language_key":"ka","name":"დონჯი მედუნი"}
+{"id":232568137,"city_id":3020366,"language_key":"ka","name":"ვრბა"}
+{"id":232568214,"city_id":3020367,"language_key":"ka","name":"რადოვაცი"}
+{"id":232568599,"city_id":3020372,"language_key":"ka","name":"ბრაკა"}
+{"id":232568753,"city_id":3020374,"language_key":"ka","name":"პრემიციები"}
+{"id":232568984,"city_id":3020377,"language_key":"ka","name":"კონიკი"}
+{"id":232569138,"city_id":3020379,"language_key":"ka","name":"კუჩისტა"}
+{"id":232569292,"city_id":3020381,"language_key":"ka","name":"რაბრი"}
+{"id":232569523,"city_id":3020384,"language_key":"ka","name":"ლოპარი"}
+{"id":232569908,"city_id":3020389,"language_key":"ka","name":"ქაჯოს"}
+{"id":232570139,"city_id":3020392,"language_key":"ka","name":"ვულევიჩი"}
+{"id":232570755,"city_id":3020400,"language_key":"ka","name":"როლი"}
+{"id":232570832,"city_id":3020401,"language_key":"ka","name":"მაკაი"}
+{"id":232570909,"city_id":3020402,"language_key":"ka","name":"ვატნიკაჯი"}
+{"id":232570986,"city_id":3020403,"language_key":"ka","name":"ნიკ დოკაჯი"}
+{"id":232571063,"city_id":3020404,"language_key":"ka","name":"პრენკაი"}
+{"id":232571140,"city_id":3020405,"language_key":"ka","name":"ჰასანოჯი"}
+{"id":232571448,"city_id":3020409,"language_key":"ka","name":"პლოკა"}
+{"id":232572680,"city_id":3020425,"language_key":"ka","name":"ლეკპერიცი"}
+{"id":232572911,"city_id":3020428,"language_key":"ka","name":"დენჩიჩი"}
+{"id":232573142,"city_id":3020431,"language_key":"ka","name":"ველიკი ოსტროსი"}
+{"id":232573219,"city_id":3020432,"language_key":"ka","name":"დენასევიცი"}
+{"id":232573296,"city_id":3020433,"language_key":"ka","name":"ალიბრაჰიმაი"}
+{"id":232573527,"city_id":3020436,"language_key":"ka","name":"კაპრე მაჰალა"}
+{"id":232573604,"city_id":3020437,"language_key":"ka","name":"სუმა"}
+{"id":232573681,"city_id":3020438,"language_key":"ka","name":"ზენჯ"}
+{"id":232573835,"city_id":3020440,"language_key":"ka","name":"დეკბიტრიცი"}
+{"id":232574220,"city_id":3020445,"language_key":"ka","name":"მალი ოსტროსი"}
+{"id":232574528,"city_id":3020449,"language_key":"ka","name":"ჯენოვიჩი"}
+{"id":232574682,"city_id":3020451,"language_key":"ka","name":"ბუდეჩევიცა"}
+{"id":232574759,"city_id":3020452,"language_key":"ka","name":"ბანდიჩი"}

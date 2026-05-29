@@ -1,0 +1,885 @@
+{"id":354793462,"city_id":4607708,"language_key":"he","name":"סנטה מריה"}
+{"id":354793539,"city_id":4607709,"language_key":"he","name":"סנטה אינס"}
+{"id":354793693,"city_id":4607711,"language_key":"he","name":"סן פרנסיסקו"}
+{"id":354794001,"city_id":4607715,"language_key":"he","name":"פדרו גונזלס"}
+{"id":354794694,"city_id":4607724,"language_key":"he","name":"לאס פידראס"}
+{"id":354795233,"city_id":4607731,"language_key":"he","name":"לה גווארדיה"}
+{"id":354795464,"city_id":4607734,"language_key":"he","name":"לה אסונסיון"}
+{"id":354796388,"city_id":4607746,"language_key":"he","name":"ֶל גַֻמַקהֶ"}
+{"id":354796542,"city_id":4607748,"language_key":"he","name":"אל האטו"}
+{"id":354798390,"city_id":4607772,"language_key":"he","name":"סן חוזה"}
+{"id":354799468,"city_id":4607786,"language_key":"he","name":"איגנסיו אלנדה (סנטה פה)"}
+{"id":354800546,"city_id":4607800,"language_key":"he","name":"בניטו חוארז"}
+{"id":354800931,"city_id":4607805,"language_key":"he","name":"קאריקואו"}
+{"id":354801470,"city_id":4607812,"language_key":"he","name":"טֳקֻיִטֳ"}
+{"id":354801701,"city_id":4607815,"language_key":"he","name":"סן ויסנטה"}
+{"id":354801778,"city_id":4607816,"language_key":"he","name":"סן פבלו"}
+{"id":354802163,"city_id":4607821,"language_key":"he","name":"פֶדֶרנַלֶס"}
+{"id":354804396,"city_id":4607850,"language_key":"he","name":"בואנה ויסטה"}
+{"id":354804935,"city_id":4607857,"language_key":"he","name":"לאס וירטודס"}
+{"id":354806244,"city_id":4607874,"language_key":"he","name":"קליפורניה"}
+{"id":354807091,"city_id":4607885,"language_key":"he","name":"סנטו דומינגו"}
+{"id":354807245,"city_id":4607887,"language_key":"he","name":"סנטה רוזה"}
+{"id":354807707,"city_id":4607893,"language_key":"he","name":"סנטה קרוז"}
+{"id":354807938,"city_id":4607896,"language_key":"he","name":"סן פדרו"}
+{"id":354808323,"city_id":4607901,"language_key":"he","name":"סן חואן"}
+{"id":354808477,"city_id":4607903,"language_key":"he","name":"סן איסידרו"}
+{"id":354809324,"city_id":4607914,"language_key":"he","name":"אל רינקון"}
+{"id":354811018,"city_id":4607936,"language_key":"he","name":"לאס פורקראס"}
+{"id":354811172,"city_id":4607938,"language_key":"he","name":"אל פלייון"}
+{"id":354811326,"city_id":4607940,"language_key":"he","name":"לה פלאיה"}
+{"id":354812019,"city_id":4607949,"language_key":"he","name":"לה פדריגוסה"}
+{"id":354812635,"city_id":4607957,"language_key":"he","name":"לה פלמיטה"}
+{"id":354812866,"city_id":4607960,"language_key":"he","name":"פלמריטו"}
+{"id":354813174,"city_id":4607964,"language_key":"he","name":"נארנג'וס"}
+{"id":354815253,"city_id":4607991,"language_key":"he","name":"לה מרסד"}
+{"id":354817332,"city_id":4608018,"language_key":"he","name":"חימנז"}
+{"id":354817640,"city_id":4608022,"language_key":"he","name":"ז'אג'ו"}
+{"id":354818949,"city_id":4608039,"language_key":"he","name":"לה אנסנדה"}
+{"id":354821567,"city_id":4608073,"language_key":"he","name":"לה סייבה"}
+{"id":354822491,"city_id":4608085,"language_key":"he","name":"קמפו אלגרה"}
+{"id":354824570,"city_id":4608112,"language_key":"he","name":"אל אלטו דה קוליאקנסיטו"}
+{"id":354825340,"city_id":4608122,"language_key":"he","name":"לאס אדג'ונטס"}
+{"id":354827265,"city_id":4608147,"language_key":"he","name":"סנטה ריטה"}
+{"id":354831346,"city_id":4608200,"language_key":"he","name":"אל פארדרו"}
+{"id":354831423,"city_id":4608201,"language_key":"he","name":"פפלון"}
+{"id":354835196,"city_id":4608250,"language_key":"he","name":"גואיבל"}
+{"id":354838661,"city_id":4608295,"language_key":"he","name":"אל צ'פארו"}
+{"id":354840047,"city_id":4608313,"language_key":"he","name":"קַמפֳ לִנדֳ"}
+{"id":354840124,"city_id":4608314,"language_key":"he","name":"קמפו קלארו"}
+{"id":354840432,"city_id":4608318,"language_key":"he","name":"קַמבֻרַל"}
+{"id":354841202,"city_id":4608328,"language_key":"he","name":"איאקוצ'ו"}
+{"id":354841433,"city_id":4608331,"language_key":"he","name":"ארגואיטה"}
+{"id":354841664,"city_id":4608334,"language_key":"he","name":"אנאקו"}
+{"id":354842203,"city_id":4608341,"language_key":"he","name":"אגואה בלנקה"}
+{"id":354843358,"city_id":4608356,"language_key":"he","name":"סנטה קרוז דה גואקאס"}
+{"id":354844051,"city_id":4608365,"language_key":"he","name":"אל ריאל"}
+{"id":354844359,"city_id":4608369,"language_key":"he","name":"פוארטו ויואס"}
+{"id":354845437,"city_id":4608383,"language_key":"he","name":"ריו ורדה"}
+{"id":354846977,"city_id":4608403,"language_key":"he","name":"לוס גואסימיטוס"}
+{"id":354847362,"city_id":4608408,"language_key":"he","name":"לה קוצ'ילה"}
+{"id":354850057,"city_id":4608443,"language_key":"he","name":"זואטה"}
+{"id":354850288,"city_id":4608446,"language_key":"he","name":"זֳנַ רִקַ"}
+{"id":354850519,"city_id":4608449,"language_key":"he","name":"זֶַ"}
+{"id":354850981,"city_id":4608455,"language_key":"he","name":"זַרַזַ"}
+{"id":354851520,"city_id":4608462,"language_key":"he","name":"זמורה"}
+{"id":354852675,"city_id":4608477,"language_key":"he","name":"יֻמַרֶ"}
+{"id":354853137,"city_id":4608483,"language_key":"he","name":"יוקו"}
+{"id":354853753,"city_id":4608491,"language_key":"he","name":"יאריטגואה"}
+{"id":354853830,"city_id":4608492,"language_key":"he","name":"יארקל"}
+{"id":354854292,"city_id":4608498,"language_key":"he","name":"יַגַֻרַפַרֳ"}
+{"id":354854523,"city_id":4608501,"language_key":"he","name":"יאגואפה אבחו"}
+{"id":354854754,"city_id":4608504,"language_key":"he","name":"יאגואה"}
+{"id":354857449,"city_id":4608539,"language_key":"he","name":"וילארואל"}
+{"id":354857603,"city_id":4608541,"language_key":"he","name":"וִללַ רֳסַ"}
+{"id":354858527,"city_id":4608553,"language_key":"he","name":"וילה דה קורה"}
+{"id":354858758,"city_id":4608556,"language_key":"he","name":"וִללַ ברֻזַֻל"}
+{"id":354859297,"city_id":4608563,"language_key":"he","name":"וִֶנטֳ פרֶסקֳ"}
+{"id":354861376,"city_id":4608590,"language_key":"he","name":"אל ונאדו"}
+{"id":354861915,"city_id":4608597,"language_key":"he","name":null}
+{"id":354862069,"city_id":4608599,"language_key":"he","name":"לַס קַסִטַס דֶל וֶגֳן דֶ נֻטרִַס"}
+{"id":354863301,"city_id":4608615,"language_key":"he","name":"וַללֶ לַ טַרַסקַ"}
+{"id":354863378,"city_id":4608616,"language_key":"he","name":"ואלה דה לה פסקואה"}
+{"id":354863840,"city_id":4608622,"language_key":"he","name":"ואלה דה לה פסקואה"}
+{"id":354864071,"city_id":4608625,"language_key":"he","name":"ואלה דה גואנפה"}
+{"id":354865303,"city_id":4608641,"language_key":"he","name":"ולרה"}
+{"id":354865457,"city_id":4608643,"language_key":"he","name":"ולנסיה"}
+{"id":354866535,"city_id":4608657,"language_key":"he","name":"ֻוֶרִטֳ"}
+{"id":354867921,"city_id":4608675,"language_key":"he","name":"ֻרֻמַקֳ"}
+{"id":354868999,"city_id":4608689,"language_key":"he","name":"אוריקה"}
+{"id":354869307,"city_id":4608693,"language_key":"he","name":"ֻרֶנַ"}
+{"id":354869769,"city_id":4608699,"language_key":"he","name":"ֻרַמַ"}
+{"id":354870000,"city_id":4608702,"language_key":"he","name":"ֻרַקֳַ"}
+{"id":354870077,"city_id":4608703,"language_key":"he","name":"ֻרַקהִקהֶ"}
+{"id":354870385,"city_id":4608707,"language_key":"he","name":"ֻפַטַ"}
+{"id":354870770,"city_id":4608712,"language_key":"he","name":"ֻמֻקֶֻנַ"}
+{"id":354872233,"city_id":4608731,"language_key":"he","name":"טֻרמֶרֳ"}
+{"id":354873542,"city_id":4608748,"language_key":"he","name":"טֻנַפֻי"}
+{"id":354873696,"city_id":4608750,"language_key":"he","name":"טֻנַפֻי"}
+{"id":354874004,"city_id":4608754,"language_key":"he","name":"טֻנַמֶ"}
+{"id":354874081,"city_id":4608755,"language_key":"he","name":"טֻמֶרֶמֳ"}
+{"id":354874928,"city_id":4608766,"language_key":"he","name":"טוקופיטה"}
+{"id":354875544,"city_id":4608774,"language_key":"he","name":"טֻקֻפִדֳ"}
+{"id":354876006,"city_id":4608780,"language_key":"he","name":"טוקאני"}
+{"id":354876083,"city_id":4608781,"language_key":"he","name":"טֻקַקַס"}
+{"id":354876468,"city_id":4608786,"language_key":"he","name":"טרוחיו"}
+{"id":354878162,"city_id":4608808,"language_key":"he","name":"טרס אסקינאס"}
+{"id":354878239,"city_id":4608809,"language_key":"he","name":"טרֶס דֶ פֶברֶרֳ"}
+{"id":354879163,"city_id":4608821,"language_key":"he","name":"קולוניה טובאר"}
+{"id":354879317,"city_id":4608823,"language_key":"he","name":"טֳוַר"}
+{"id":354879933,"city_id":4608831,"language_key":"he","name":"טֳסטֳס"}
+{"id":354880087,"city_id":4608833,"language_key":"he","name":"טֳרֻנֳס"}
+{"id":354880472,"city_id":4608838,"language_key":"he","name":"טֳרֳנדֳי"}
+{"id":354880934,"city_id":4608844,"language_key":"he","name":"טֳרבֶס"}
+{"id":354882243,"city_id":4608861,"language_key":"he","name":"טוקויו דה לה קוסטה"}
+{"id":354882397,"city_id":4608863,"language_key":"he","name":"טֳקֻיִטֳ"}
+{"id":354882628,"city_id":4608866,"language_key":"he","name":"טֳקֳרֳן"}
+{"id":354882936,"city_id":4608870,"language_key":"he","name":"טוקופרו"}
+{"id":354883860,"city_id":4608882,"language_key":"he","name":"טִנַקִֻללֳ"}
+{"id":354884245,"city_id":4608887,"language_key":"he","name":"טינקו"}
+{"id":354884322,"city_id":4608888,"language_key":"he","name":"טִמֳטֶס"}
+{"id":354886401,"city_id":4608915,"language_key":"he","name":"טיה חואנה"}
+{"id":354886863,"city_id":4608921,"language_key":"he","name":"טֶרֶסֶן"}
+{"id":354887633,"city_id":4608931,"language_key":"he","name":"טֶמבלַדֳר"}
+{"id":354889096,"city_id":4608950,"language_key":"he","name":"טַרִבַ"}
+{"id":354891637,"city_id":4608983,"language_key":"he","name":"טַמַרֶ"}
+{"id":354892099,"city_id":4608989,"language_key":"he","name":"טַמַקַ"}
+{"id":354892869,"city_id":4608999,"language_key":"he","name":"טגואיה"}
+{"id":354894024,"city_id":4609014,"language_key":"he","name":"טאקאטה"}
+{"id":354894332,"city_id":4609018,"language_key":"he","name":"טַקַרִגַֻ דֶ לַ לַגֻנַ"}
+{"id":354895333,"city_id":4609031,"language_key":"he","name":"טַבַי"}
+{"id":354897027,"city_id":4609053,"language_key":"he","name":"סוקרה"}
+{"id":354897489,"city_id":4609059,"language_key":"he","name":"סוטיליו"}
+{"id":354897643,"city_id":4609061,"language_key":"he","name":"סוסה"}
+{"id":354898952,"city_id":4609078,"language_key":"he","name":"סולדד"}
+{"id":354899568,"city_id":4609086,"language_key":"he","name":"סוקופו"}
+{"id":354900261,"city_id":4609095,"language_key":"he","name":"סיקיסיק"}
+{"id":354900800,"city_id":4609102,"language_key":"he","name":"סינמייקה"}
+{"id":354901878,"city_id":4609116,"language_key":"he","name":"סיבאראגואה"}
+{"id":354902879,"city_id":4609129,"language_key":"he","name":"סבורוקו"}
+{"id":354904419,"city_id":4609149,"language_key":"he","name":"סַרַרֶ"}
+{"id":354904496,"city_id":4609150,"language_key":"he","name":"סַרַרֶ"}
+{"id":354905497,"city_id":4609163,"language_key":"he","name":"סן ויסנטה"}
+{"id":354907345,"city_id":4609187,"language_key":"he","name":"סנטו דומינגו"}
+{"id":354907961,"city_id":4609195,"language_key":"he","name":"קאזה ביונדו"}
+{"id":354908192,"city_id":4609198,"language_key":"he","name":"סַנטַ טֶרֶסַ דֶל טֻי"}
+{"id":354909347,"city_id":4609213,"language_key":"he","name":"סנטה רוזליה"}
+{"id":354913428,"city_id":4609266,"language_key":"he","name":"סנטה רוזה"}
+{"id":354914275,"city_id":4609277,"language_key":"he","name":"מוריקליטו"}
+{"id":354914814,"city_id":4609284,"language_key":"he","name":"סנטה ריטה"}
+{"id":354918048,"city_id":4609326,"language_key":"he","name":"סַנטַ מַרִַ דֶ ִפִרֶ"}
+{"id":354918279,"city_id":4609329,"language_key":"he","name":"סַנטַ מַרִַ דֶ קַפַרֳ"}
+{"id":354920435,"city_id":4609357,"language_key":"he","name":"סנטה לוסיה"}
+{"id":354920820,"city_id":4609362,"language_key":"he","name":"סנטה לוסיה"}
+{"id":354921436,"city_id":4609370,"language_key":"he","name":"סנטה לוסיה"}
+{"id":354922745,"city_id":4609387,"language_key":"he","name":"סנטה איזבל"}
+{"id":354922822,"city_id":4609388,"language_key":"he","name":"סנטה איזבל"}
+{"id":354924439,"city_id":4609409,"language_key":"he","name":"סנטה אינס"}
+{"id":354925671,"city_id":4609425,"language_key":"he","name":"סנטה אלנה דה אוירן"}
+{"id":354925825,"city_id":4609427,"language_key":"he","name":"סַנטַ ֶלֶנַ דֶ ַרֶנַלֶס"}
+{"id":354927211,"city_id":4609445,"language_key":"he","name":"סנטה קרוז דה מורה"}
+{"id":354927365,"city_id":4609447,"language_key":"he","name":"סַנטַ קרֻז דֶ מַרַ"}
+{"id":354927442,"city_id":4609448,"language_key":"he","name":"סנטה קרוז דל זוליה"}
+{"id":354927596,"city_id":4609450,"language_key":"he","name":"סַנטַ קרֻז דֶ בֻקַרַל"}
+{"id":354928982,"city_id":4609468,"language_key":"he","name":"סנטה קרוז"}
+{"id":354931600,"city_id":4609502,"language_key":"he","name":"סנטה קטלינה"}
+{"id":354932986,"city_id":4609520,"language_key":"he","name":"סנטה ברברה"}
+{"id":354933756,"city_id":4609530,"language_key":"he","name":"סנטה ברברה"}
+{"id":354934757,"city_id":4609543,"language_key":"he","name":"סַנטַ ַפֳלֳנִַ"}
+{"id":354934834,"city_id":4609544,"language_key":"he","name":"סַנטַ ַפֳלֳנִַ"}
+{"id":354935373,"city_id":4609551,"language_key":"he","name":"סנטה אנה"}
+{"id":354936605,"city_id":4609567,"language_key":"he","name":"סנטה אנה"}
+{"id":354936759,"city_id":4609569,"language_key":"he","name":"סנטה אנה"}
+{"id":354936990,"city_id":4609572,"language_key":"he","name":"סנטה אנה"}
+{"id":354937760,"city_id":4609582,"language_key":"he","name":"סן סימון"}
+{"id":354937837,"city_id":4609583,"language_key":"he","name":"סן סבסטיאן"}
+{"id":354937914,"city_id":4609584,"language_key":"he","name":"סן סבסטיאן"}
+{"id":354939762,"city_id":4609608,"language_key":"he","name":"סן רפאל דה אוריטוקו"}
+{"id":354939839,"city_id":4609609,"language_key":"he","name":"סן רפאל דה אונוטו"}
+{"id":354940070,"city_id":4609612,"language_key":"he","name":"קרבחאל"}
+{"id":354940224,"city_id":4609614,"language_key":"he","name":"סן רפאל דה קנגואה"}
+{"id":354940840,"city_id":4609622,"language_key":"he","name":"סן רפאל"}
+{"id":354945229,"city_id":4609679,"language_key":"he","name":"סן פדרו דה קוצ'ה"}
+{"id":354949310,"city_id":4609732,"language_key":"he","name":"סן פבלו"}
+{"id":354950927,"city_id":4609753,"language_key":"he","name":"סן ניקולס"}
+{"id":354952544,"city_id":4609774,"language_key":"he","name":"סן מיגל"}
+{"id":354953699,"city_id":4609789,"language_key":"he","name":"סן מיגל"}
+{"id":354954392,"city_id":4609798,"language_key":"he","name":"סן מטאו"}
+{"id":354954469,"city_id":4609799,"language_key":"he","name":"סן מטאו"}
+{"id":354955624,"city_id":4609814,"language_key":"he","name":"סן לואיס"}
+{"id":354957164,"city_id":4609834,"language_key":"he","name":"סן לורנצו"}
+{"id":354958627,"city_id":4609853,"language_key":"he","name":"סַן זַֻן דֶ מַנַפִַרֶ"}
+{"id":354958704,"city_id":4609854,"language_key":"he","name":"סַן זַֻן דֶ לֳס מֳררֳס"}
+{"id":354958781,"city_id":4609855,"language_key":"he","name":"סן חואן דה לוס קאיוס"}
+{"id":354959089,"city_id":4609859,"language_key":"he","name":"קולון"}
+{"id":354959474,"city_id":4609864,"language_key":"he","name":"סן חואן באוטיסטה"}
+{"id":354961630,"city_id":4609892,"language_key":"he","name":"סן חואן"}
+{"id":354962169,"city_id":4609899,"language_key":"he","name":"סן חוזה דה טיזנאדוס"}
+{"id":354962323,"city_id":4609901,"language_key":"he","name":"סַן זֳסֶ דֶ בַרלֳוֶנטֳ"}
+{"id":354963247,"city_id":4609913,"language_key":"he","name":"סן חוזה דה גואניפה"}
+{"id":354963709,"city_id":4609919,"language_key":"he","name":"סן חוזה דה אירוקואר"}
+{"id":354968021,"city_id":4609975,"language_key":"he","name":"סן חוזה"}
+{"id":354969022,"city_id":4609988,"language_key":"he","name":"סן חואקין"}
+{"id":354971640,"city_id":4610022,"language_key":"he","name":"סן איסידרו"}
+{"id":354971948,"city_id":4610026,"language_key":"he","name":"סן איגנסיו"}
+{"id":354973257,"city_id":4610043,"language_key":"he","name":"סן פרנסיסקו דה יארה"}
+{"id":354973719,"city_id":4610049,"language_key":"he","name":"סן פרנסיסקו דה אסיס"}
+{"id":354974258,"city_id":4610056,"language_key":"he","name":"סן פרנסיסקו"}
+{"id":354975413,"city_id":4610071,"language_key":"he","name":"סַן פֶרנַנדֳ דֶ ַטַבַפֳ"}
+{"id":354975490,"city_id":4610072,"language_key":"he","name":"סן פרננדו"}
+{"id":354975721,"city_id":4610075,"language_key":"he","name":"סן פליקס"}
+{"id":354975875,"city_id":4610077,"language_key":"he","name":"סן פליקס"}
+{"id":354976337,"city_id":4610083,"language_key":"he","name":"סן פליפה"}
+{"id":354978185,"city_id":4610107,"language_key":"he","name":"סן דייגו דה קברוטיקה"}
+{"id":354978262,"city_id":4610108,"language_key":"he","name":"סן דייגו"}
+{"id":354978416,"city_id":4610110,"language_key":"he","name":"סן דייגו"}
+{"id":354979109,"city_id":4610119,"language_key":"he","name":"סן קריסטובל"}
+{"id":354979648,"city_id":4610126,"language_key":"he","name":"סן קאסמירו"}
+{"id":354979725,"city_id":4610127,"language_key":"he","name":"סַן קַרלֳס דֶ רֳִ נֶגרֳ"}
+{"id":354979802,"city_id":4610128,"language_key":"he","name":"סַן קַרלֳס דֶל זֻלִַ"}
+{"id":354980418,"city_id":4610136,"language_key":"he","name":"סן קרלוס"}
+{"id":354982112,"city_id":4610158,"language_key":"he","name":"סַנַרֶ"}
+{"id":354982420,"city_id":4610162,"language_key":"he","name":"סַן ַנטֳנֳִ דֶל טַקהִרַ"}
+{"id":354982497,"city_id":4610163,"language_key":"he","name":"סַן ַנטֳנֳִ דֶ לֳס ַלטֳס"}
+{"id":354982574,"city_id":4610164,"language_key":"he","name":"סַן ַנטֳנֳִ דֶל גֳלפֳ"}
+{"id":354983036,"city_id":4610170,"language_key":"he","name":"קַפַיַ"}
+{"id":354984730,"city_id":4610192,"language_key":"he","name":"סן אנטוניו"}
+{"id":354987656,"city_id":4610230,"language_key":"he","name":"סן אנטוניו"}
+{"id":354988734,"city_id":4610244,"language_key":"he","name":"סן אגוסטין"}
+{"id":354990197,"city_id":4610263,"language_key":"he","name":"סַלֳם"}
+{"id":354994740,"city_id":4610322,"language_key":"he","name":"סבנטה"}
+{"id":354995664,"city_id":4610334,"language_key":"he","name":"סַבַנַ לִברֶ"}
+{"id":354997127,"city_id":4610353,"language_key":"he","name":"סבנה גרנדה"}
+{"id":354997666,"city_id":4610360,"language_key":"he","name":"סבנה גרנדה"}
+{"id":354997897,"city_id":4610363,"language_key":"he","name":"סבנה גרנדה"}
+{"id":354998205,"city_id":4610367,"language_key":"he","name":"סַבַנַ דֶ ֻקהִרֶ"}
+{"id":354998590,"city_id":4610372,"language_key":"he","name":"סַבַנַ דֶ פַררַ"}
+{"id":354998744,"city_id":4610374,"language_key":"he","name":"סַבַנַ דֶ מֶנדֳזַ"}
+{"id":355000130,"city_id":4610392,"language_key":"he","name":"רוביו"}
+{"id":355000361,"city_id":4610395,"language_key":"he","name":"לַ וִללַ דֶל רֳסַרֳִ"}
+{"id":355000669,"city_id":4610399,"language_key":"he","name":"אל רוסריו"}
+{"id":355001593,"city_id":4610411,"language_key":"he","name":"רוחאס"}
+{"id":355004057,"city_id":4610443,"language_key":"he","name":"ריו טוקויו"}
+{"id":355004134,"city_id":4610444,"language_key":"he","name":"ריו סקו"}
+{"id":355004596,"city_id":4610450,"language_key":"he","name":"ריו נגרו"}
+{"id":355005520,"city_id":4610462,"language_key":"he","name":"ריו קלארו"}
+{"id":355006213,"city_id":4610471,"language_key":"he","name":"ריו צ'יקו"}
+{"id":355006367,"city_id":4610473,"language_key":"he","name":"רֳִ קַסַנַי"}
+{"id":355006444,"city_id":4610474,"language_key":"he","name":"ריו קאריבה"}
+{"id":355007060,"city_id":4610482,"language_key":"he","name":"ריו אקריגואה"}
+{"id":355010294,"city_id":4610524,"language_key":"he","name":"רֶמֳלִנֳ"}
+{"id":355011449,"city_id":4610539,"language_key":"he","name":"ראנגל"}
+{"id":355015376,"city_id":4610590,"language_key":"he","name":null}
+{"id":355015530,"city_id":4610592,"language_key":"he","name":null}
+{"id":355016839,"city_id":4610609,"language_key":"he","name":"קוויבור"}
+{"id":355018071,"city_id":4610625,"language_key":"he","name":"קוויניקה"}
+{"id":355018687,"city_id":4610633,"language_key":"he","name":"קוויבראדה סקה"}
+{"id":355019303,"city_id":4610641,"language_key":"he","name":"קוויבראדה סקה"}
+{"id":355019457,"city_id":4610643,"language_key":"he","name":"סן פרנסיסקו דל גורי"}
+{"id":355021459,"city_id":4610669,"language_key":"he","name":"קֶֻברַדַ דֶ לַ וִרגֶן"}
+{"id":355021844,"city_id":4610674,"language_key":"he","name":"קוויבראדה אריבה"}
+{"id":355023384,"city_id":4610694,"language_key":"he","name":"פונטו פיגו"}
+{"id":355024000,"city_id":4610702,"language_key":"he","name":"פֻנטַ גֳרדַ"}
+{"id":355024462,"city_id":4610708,"language_key":"he","name":"פֻנטַ דֶ פִֶדרַס"}
+{"id":355024539,"city_id":4610709,"language_key":"he","name":"פונטה דה פיידרה"}
+{"id":355024693,"city_id":4610711,"language_key":"he","name":"פונטה דה פיידרה"}
+{"id":355024847,"city_id":4610713,"language_key":"he","name":"פֻנטַ דֶ מַטַ"}
+{"id":355025386,"city_id":4610720,"language_key":"he","name":"פֻנטַ קַרדֳן"}
+{"id":355025848,"city_id":4610726,"language_key":"he","name":"פנצ'רס"}
+{"id":355026233,"city_id":4610731,"language_key":"he","name":"פוארטו טטיאו"}
+{"id":355026387,"city_id":4610733,"language_key":"he","name":"פֶֻרטֳ סַנטֳ"}
+{"id":355027003,"city_id":4610741,"language_key":"he","name":"פוארטו קאימיטו"}
+{"id":355027080,"city_id":4610742,"language_key":"he","name":"פוארטו פאז"}
+{"id":355027157,"city_id":4610743,"language_key":"he","name":"פוארטו נואבו"}
+{"id":355027388,"city_id":4610746,"language_key":"he","name":"פוארטו מירנדה"}
+{"id":355027542,"city_id":4610748,"language_key":"he","name":"פֶֻרטֳ מִרַנדַ"}
+{"id":355028312,"city_id":4610758,"language_key":"he","name":"פוארטו לה קרוס"}
+{"id":355029082,"city_id":4610768,"language_key":"he","name":"פוארטו אסקונדידו"}
+{"id":355029544,"city_id":4610774,"language_key":"he","name":"פֶֻרטֳ דֶ נֻטרִַס"}
+{"id":355029698,"city_id":4610776,"language_key":"he","name":"פוארטו דה היירו"}
+{"id":355029775,"city_id":4610777,"language_key":"he","name":"פוארטו קומארו"}
+{"id":355030237,"city_id":4610783,"language_key":"he","name":"פוארטו קביו"}
+{"id":355030545,"city_id":4610787,"language_key":"he","name":"פוארטו איאקוצ'ו"}
+{"id":355033779,"city_id":4610829,"language_key":"he","name":"פואבלו נואבו"}
+{"id":355035473,"city_id":4610851,"language_key":"he","name":"פואבלו נואבו אל צ ' יבו"}
+{"id":355036012,"city_id":4610858,"language_key":"he","name":"פֶֻבלֳ ללַנֳ"}
+{"id":355037706,"city_id":4610880,"language_key":"he","name":"פרֶגֳנֶרֳ"}
+{"id":355037783,"city_id":4610881,"language_key":"he","name":"פוזואלוס"}
+{"id":355039015,"city_id":4610897,"language_key":"he","name":"פֳטרֶרִטֳס"}
+{"id":355041171,"city_id":4610925,"language_key":"he","name":"פֳרלַמַר"}
+{"id":355045483,"city_id":4610981,"language_key":"he","name":"פִרִטֻ"}
+{"id":355045560,"city_id":4610982,"language_key":"he","name":"פִרִטֻ"}
+{"id":355045714,"city_id":4610984,"language_key":"he","name":"פִרִטֻ"}
+{"id":355048332,"city_id":4611018,"language_key":"he","name":"פִמפִנֶלַ"}
+{"id":355053183,"city_id":4611081,"language_key":"he","name":"פֶטַרֶ"}
+{"id":355054569,"city_id":4611099,"language_key":"he","name":"פֶרִבֶקַ"}
+{"id":355055801,"city_id":4611115,"language_key":"he","name":"שקנאים"}
+{"id":355057572,"city_id":4611138,"language_key":"he","name":"פדרגל"}
+{"id":355058034,"city_id":4611144,"language_key":"he","name":"פדרזה לה וייה"}
+{"id":355058265,"city_id":4611147,"language_key":"he","name":"פֶדֶרנַלֶס"}
+{"id":355058727,"city_id":4611153,"language_key":"he","name":"פאארה"}
+{"id":355065580,"city_id":4611242,"language_key":"he","name":"פרגוואן"}
+{"id":355066889,"city_id":4611259,"language_key":"he","name":"פַרַפַרַ"}
+{"id":355067890,"city_id":4611272,"language_key":"he","name":"פאראיסו דה שאבאסקן"}
+{"id":355068660,"city_id":4611282,"language_key":"he","name":"לה פלאזה פרגוצ'י"}
+{"id":355068814,"city_id":4611284,"language_key":"he","name":"פרגוואיפואה"}
+{"id":355069430,"city_id":4611292,"language_key":"he","name":"פַרַקֳטֳס"}
+{"id":355070123,"city_id":4611301,"language_key":"he","name":"פפלון"}
+{"id":355071663,"city_id":4611321,"language_key":"he","name":"פַנַקִֻרֶ"}
+{"id":355072125,"city_id":4611327,"language_key":"he","name":"פַמפַטַר"}
+{"id":355072202,"city_id":4611328,"language_key":"he","name":"פַמפַנִטֳ"}
+{"id":355072279,"city_id":4611329,"language_key":"he","name":"פַמפַן"}
+{"id":355072741,"city_id":4611335,"language_key":"he","name":"פאלוטל"}
+{"id":355074127,"city_id":4611353,"language_key":"he","name":"פַלֳ נֶגרֳ"}
+{"id":355074820,"city_id":4611362,"language_key":"he","name":"פַלֳ גֳרדֳ"}
+{"id":355076437,"city_id":4611383,"language_key":"he","name":"פלמירה"}
+{"id":355077361,"city_id":4611395,"language_key":"he","name":"פלמסולה"}
+{"id":355084830,"city_id":4611492,"language_key":"he","name":"ֳספִנֳ"}
+{"id":355086062,"city_id":4611508,"language_key":"he","name":"ֳרטִז"}
+{"id":355086370,"city_id":4611512,"language_key":"he","name":"ֳרֳפֶ"}
+{"id":355087602,"city_id":4611528,"language_key":"he","name":"ֳנֳטֳ"}
+{"id":355087833,"city_id":4611531,"language_key":"he","name":"ֳנֳטֳ"}
+{"id":355091837,"city_id":4611583,"language_key":"he","name":"אוקומרה דל טוי"}
+{"id":355091914,"city_id":4611584,"language_key":"he","name":"אוקומרה דה לה קוסטה"}
+{"id":355092453,"city_id":4611591,"language_key":"he","name":"ֳבִספֳס"}
+{"id":355093454,"city_id":4611604,"language_key":"he","name":"נואבה בוליביה"}
+{"id":355094224,"city_id":4611614,"language_key":"he","name":"נירגואה"}
+{"id":355095071,"city_id":4611625,"language_key":"he","name":"נריקואל"}
+{"id":355095533,"city_id":4611631,"language_key":"he","name":"נאיגואטה"}
+{"id":355095610,"city_id":4611632,"language_key":"he","name":"נגואנגואה"}
+{"id":355096611,"city_id":4611645,"language_key":"he","name":"מונוז"}
+{"id":355097458,"city_id":4611656,"language_key":"he","name":"מֻלַטַל"}
+{"id":355098074,"city_id":4611664,"language_key":"he","name":"מֻקֻרֻבַ"}
+{"id":355098921,"city_id":4611675,"language_key":"he","name":"מֻקֻמפִז"}
+{"id":355099075,"city_id":4611677,"language_key":"he","name":"מקוג ' פה"}
+{"id":355099152,"city_id":4611678,"language_key":"he","name":"מֻקֻקהִֶס"}
+{"id":355100153,"city_id":4611691,"language_key":"he","name":"מוטטן דל ריו"}
+{"id":355100307,"city_id":4611693,"language_key":"he","name":"מֳטַטַן"}
+{"id":355100538,"city_id":4611696,"language_key":"he","name":"מֳסקֶֻי"}
+{"id":355102386,"city_id":4611720,"language_key":"he","name":"מטומטם"}
+{"id":355104080,"city_id":4611742,"language_key":"he","name":"מֳרִקהַל לַרגֳ"}
+{"id":355108315,"city_id":4611797,"language_key":"he","name":"מונטה כרמלו"}
+{"id":355109239,"city_id":4611809,"language_key":"he","name":"מֳנטַלבַן"}
+{"id":355109547,"city_id":4611813,"language_key":"he","name":"מונאי"}
+{"id":355111010,"city_id":4611832,"language_key":"he","name":"מֳקהִמַ"}
+{"id":355111472,"city_id":4611838,"language_key":"he","name":"מִטֳן"}
+{"id":355111934,"city_id":4611844,"language_key":"he","name":"סן פרנסיסקו דה גואיו"}
+{"id":355112396,"city_id":4611850,"language_key":"he","name":"מִרִמִרֶ"}
+{"id":355112550,"city_id":4611852,"language_key":"he","name":"מירנדה"}
+{"id":355114860,"city_id":4611882,"language_key":"he","name":"מיכלנה"}
+{"id":355116169,"city_id":4611899,"language_key":"he","name":"מֶסַ דֶ קַוַקַס"}
+{"id":355116708,"city_id":4611906,"language_key":"he","name":"מרידה"}
+{"id":355119557,"city_id":4611943,"language_key":"he","name":"מֶנֶ גרַנדֶ"}
+{"id":355119634,"city_id":4611944,"language_key":"he","name":"מֶנֶ דֶ מַֻרֳַ"}
+{"id":355133186,"city_id":4612120,"language_key":"he","name":"מַספַררִטֳ"}
+{"id":355134033,"city_id":4612131,"language_key":"he","name":"מַרֳַ"}
+{"id":355134264,"city_id":4612134,"language_key":"he","name":"מַרִפַ"}
+{"id":355134341,"city_id":4612135,"language_key":"he","name":"מַרִפַ"}
+{"id":355134495,"city_id":4612137,"language_key":"he","name":"מרין"}
+{"id":355134803,"city_id":4612141,"language_key":"he","name":"מַרִגִֻטַר"}
+{"id":355134957,"city_id":4612143,"language_key":"he","name":"מַרִַרַ"}
+{"id":355136035,"city_id":4612157,"language_key":"he","name":"מַרקַנֳ"}
+{"id":355136959,"city_id":4612169,"language_key":"he","name":"מרקאי"}
+{"id":355137190,"city_id":4612172,"language_key":"he","name":"מרקאיבו"}
+{"id":355137575,"city_id":4612177,"language_key":"he","name":"מַרַ"}
+{"id":355139038,"city_id":4612196,"language_key":"he","name":"מַפֳרַל"}
+{"id":355139115,"city_id":4612197,"language_key":"he","name":"מַפֳרַל"}
+{"id":355139346,"city_id":4612200,"language_key":"he","name":null}
+{"id":355139500,"city_id":4612202,"language_key":"he","name":"מַפִרֶ"}
+{"id":355139654,"city_id":4612204,"language_key":"he","name":"מַפַרַרִ"}
+{"id":355140886,"city_id":4612220,"language_key":"he","name":"מַנטֶקַ"}
+{"id":355142272,"city_id":4612238,"language_key":"he","name":"מניקור"}
+{"id":355144274,"city_id":4612264,"language_key":"he","name":"מַמפֳרַל"}
+{"id":355147431,"city_id":4612305,"language_key":"he","name":"מייקטיה"}
+{"id":355148201,"city_id":4612315,"language_key":"he","name":"מַהֳמִטֳ"}
+{"id":355148894,"city_id":4612324,"language_key":"he","name":"מַגדַלֶנֳ"}
+{"id":355149895,"city_id":4612337,"language_key":"he","name":"מאקוטו"}
+{"id":355151358,"city_id":4612356,"language_key":"he","name":"מאצ'יקס"}
+{"id":355152513,"city_id":4612371,"language_key":"he","name":"מאקאפו"}
+{"id":355157441,"city_id":4612435,"language_key":"he","name":"לוס טקס"}
+{"id":355157672,"city_id":4612438,"language_key":"he","name":"לֳס טַקֶֻס"}
+{"id":355159751,"city_id":4612465,"language_key":"he","name":"לוס ריוס"}
+{"id":355160444,"city_id":4612474,"language_key":"he","name":"לֳס רַסטרֳזֳס"}
+{"id":355164987,"city_id":4612533,"language_key":"he","name":"לוס פיג׳יגואוס"}
+{"id":355170916,"city_id":4612610,"language_key":"he","name":"לֳס מִללַנֶס"}
+{"id":355179386,"city_id":4612720,"language_key":"he","name":"לֳס גַֻיֳס"}
+{"id":355179771,"city_id":4612725,"language_key":"he","name":"לֳס גַֻסדַלֳטֶס"}
+{"id":355182004,"city_id":4612754,"language_key":"he","name":"לֳס דֳס קַמִנֳס"}
+{"id":355185931,"city_id":4612805,"language_key":"he","name":"לוס קוקוס"}
+{"id":355187702,"city_id":4612828,"language_key":"he","name":"לוס צ'יגייר"}
+{"id":355190320,"city_id":4612862,"language_key":"he","name":"לֳס קַרפִנטֶרֳס"}
+{"id":355196403,"city_id":4612941,"language_key":"he","name":"לוס ברנקוס דה פחארדו"}
+{"id":355197481,"city_id":4612955,"language_key":"he","name":"לוס בגרס"}
+{"id":355198328,"city_id":4612966,"language_key":"he","name":"לֳס ַרַקֶֻס"}
+{"id":355199483,"city_id":4612981,"language_key":"he","name":"לוס אלטוס"}
+{"id":355199714,"city_id":4612984,"language_key":"he","name":"לוס אלטוס"}
+{"id":355204257,"city_id":4613043,"language_key":"he","name":"לֳבַטֶרַ"}
+{"id":355206182,"city_id":4613068,"language_key":"he","name":"לִמֳנַר ַדֶנטרֳ"}
+{"id":355206644,"city_id":4613074,"language_key":"he","name":"ליברטד"}
+{"id":355206721,"city_id":4613075,"language_key":"he","name":"ליברטד"}
+{"id":355206798,"city_id":4613076,"language_key":"he","name":"קנגואה"}
+{"id":355206875,"city_id":4613077,"language_key":"he","name":"קפאצ'ו וייחו"}
+{"id":355206952,"city_id":4613078,"language_key":"he","name":"לזמה"}
+{"id":355208569,"city_id":4613099,"language_key":"he","name":"לה יוקה"}
+{"id":355212650,"city_id":4613152,"language_key":"he","name":"לה ויקטוריה"}
+{"id":355213805,"city_id":4613167,"language_key":"he","name":"לה ויקטוריה"}
+{"id":355215114,"city_id":4613184,"language_key":"he","name":"לה ולה דה קורו"}
+{"id":355215499,"city_id":4613189,"language_key":"he","name":null}
+{"id":355219888,"city_id":4613246,"language_key":"he","name":"לה יוניון"}
+{"id":355220812,"city_id":4613258,"language_key":"he","name":"לה טרינידד"}
+{"id":355223122,"city_id":4613288,"language_key":"he","name":"לה טרילה"}
+{"id":355223430,"city_id":4613292,"language_key":"he","name":"לַ טֳסקַנַ"}
+{"id":355228897,"city_id":4613363,"language_key":"he","name":"לאס וגאס"}
+{"id":355229898,"city_id":4613376,"language_key":"he","name":"לַס טֻנַס"}
+{"id":355232054,"city_id":4613404,"language_key":"he","name":"לאס טז'ריאס"}
+{"id":355239523,"city_id":4613501,"language_key":"he","name":"לאס פידראס"}
+{"id":355241217,"city_id":4613523,"language_key":"he","name":"לַס פַרקֶלַס"}
+{"id":355244066,"city_id":4613560,"language_key":"he","name":"ֳללַס דֶ קַרַמַקַטֶ"}
+{"id":355249302,"city_id":4613628,"language_key":"he","name":"סן מיגל טקפאן"}
+{"id":355249533,"city_id":4613631,"language_key":"he","name":"לאס מרצדס"}
+{"id":355250534,"city_id":4613644,"language_key":"he","name":"לאס מרצדס"}
+{"id":355258619,"city_id":4613749,"language_key":"he","name":"לַ סִֶררַ"}
+{"id":355261314,"city_id":4613784,"language_key":"he","name":"לאס גואקמאיאס"}
+{"id":355265472,"city_id":4613838,"language_key":"he","name":"לַס ֶלִסַס"}
+{"id":355267397,"city_id":4613863,"language_key":"he","name":"לאס דליסיאס"}
+{"id":355267782,"city_id":4613868,"language_key":"he","name":"לאס דליסיאס"}
+{"id":355269245,"city_id":4613887,"language_key":"he","name":"לאס קרוס"}
+{"id":355275328,"city_id":4613966,"language_key":"he","name":"לַס קַלדֶרַס"}
+{"id":355282412,"city_id":4614058,"language_key":"he","name":"לה סבנה"}
+{"id":355284722,"city_id":4614088,"language_key":"he","name":"לַ רֳקֶֻנַ"}
+{"id":355288418,"city_id":4614136,"language_key":"he","name":"רפורמה"}
+{"id":355291652,"city_id":4614178,"language_key":"he","name":"לה קובראדה"}
+{"id":355291883,"city_id":4614181,"language_key":"he","name":"לה קובראדה"}
+{"id":355294424,"city_id":4614214,"language_key":"he","name":"לה פרובידנסיה"}
+{"id":355297581,"city_id":4614255,"language_key":"he","name":"לה פלאטה"}
+{"id":355300122,"city_id":4614288,"language_key":"he","name":"לַ פִקַ"}
+{"id":355303433,"city_id":4614331,"language_key":"he","name":"לה פז"}
+{"id":355304049,"city_id":4614339,"language_key":"he","name":"לַ פַסטֳרַ"}
+{"id":355305512,"city_id":4614358,"language_key":"he","name":"לַ פַרַגַֻ"}
+{"id":355306128,"city_id":4614366,"language_key":"he","name":"לַ פַמפַ דֶ ַרַגַֻ"}
+{"id":355306436,"city_id":4614370,"language_key":"he","name":"לה וירג'ן"}
+{"id":355312981,"city_id":4614455,"language_key":"he","name":"לנדר"}
+{"id":355317293,"city_id":4614511,"language_key":"he","name":"לה מוקה"}
+{"id":355317755,"city_id":4614517,"language_key":"he","name":"לה מיסיון"}
+{"id":355318294,"city_id":4614524,"language_key":"he","name":"לַ מִֶל"}
+{"id":355321143,"city_id":4614561,"language_key":"he","name":"לה מאטה"}
+{"id":355326995,"city_id":4614637,"language_key":"he","name":"לה לוז"}
+{"id":355332616,"city_id":4614710,"language_key":"he","name":"לה לגוניטה"}
+{"id":355333386,"city_id":4614720,"language_key":"he","name":"לה לגונה"}
+{"id":355335542,"city_id":4614748,"language_key":"he","name":"לה ג'ארה"}
+{"id":355340932,"city_id":4614818,"language_key":"he","name":"לַגֻנֳטַ"}
+{"id":355341702,"city_id":4614828,"language_key":"he","name":"לגונילות"}
+{"id":355341779,"city_id":4614829,"language_key":"he","name":"לגונילות"}
+{"id":355342857,"city_id":4614843,"language_key":"he","name":"לַגֻנַ מַרקֳס"}
+{"id":355344705,"city_id":4614867,"language_key":"he","name":"לה גואסדוילה"}
+{"id":355346091,"city_id":4614885,"language_key":"he","name":"לה גואירה"}
+{"id":355351096,"city_id":4614950,"language_key":"he","name":"לה פונדסיון"}
+{"id":355362954,"city_id":4615104,"language_key":"he","name":"לה אזמרלדה"}
+{"id":355365957,"city_id":4615143,"language_key":"he","name":"לַ דֳמִנגַ"}
+{"id":355366111,"city_id":4615145,"language_key":"he","name":null}
+{"id":355366573,"city_id":4615151,"language_key":"he","name":"דֶמֳקרַקִַ"}
+{"id":355372348,"city_id":4615226,"language_key":"he","name":"לַ קרֻז דֶ טַרַטַרַ"}
+{"id":355376275,"city_id":4615277,"language_key":"he","name":"לה קונספסיון"}
+{"id":355376506,"city_id":4615280,"language_key":"he","name":"קונספסיון"}
+{"id":355380433,"city_id":4615331,"language_key":"he","name":"לה סייגה"}
+{"id":355382435,"city_id":4615357,"language_key":"he","name":"צ'מטה"}
+{"id":355383975,"city_id":4615377,"language_key":"he","name":"לה סג'יטה"}
+{"id":355387132,"city_id":4615418,"language_key":"he","name":"לה סייבה"}
+{"id":355389981,"city_id":4615455,"language_key":"he","name":"קרמוקה"}
+{"id":355394524,"city_id":4615514,"language_key":"he","name":"לה קבנה"}
+{"id":355399760,"city_id":4615582,"language_key":"he","name":"לַ בַטֶַ"}
+{"id":355401300,"city_id":4615602,"language_key":"he","name":"לַ ַזֻלִטַ"}
+{"id":355403533,"city_id":4615631,"language_key":"he","name":"לה ארנוזה"}
+{"id":355405612,"city_id":4615658,"language_key":"he","name":"לַ ַגַֻדִטַ"}
+{"id":355406459,"city_id":4615669,"language_key":"he","name":"לה אגואדה"}
+{"id":355408615,"city_id":4615697,"language_key":"he","name":"כַנַוַיֶן"}
+{"id":355408692,"city_id":4615698,"language_key":"he","name":"זֻסֶפִן"}
+{"id":355408846,"city_id":4615700,"language_key":"he","name":"ג'ונין"}
+{"id":355409616,"city_id":4615710,"language_key":"he","name":"ג'ודיבנה"}
+{"id":355410309,"city_id":4615719,"language_key":"he","name":"חואן גריגו"}
+{"id":355414698,"city_id":4615776,"language_key":"he","name":"ג'אליסקו"}
+{"id":355414852,"city_id":4615778,"language_key":"he","name":"ג'אג'י"}
+{"id":355416238,"city_id":4615796,"language_key":"he","name":"ג'אקורה"}
+{"id":355416854,"city_id":4615804,"language_key":"he","name":"ג'אבון"}
+{"id":355418394,"city_id":4615824,"language_key":"he","name":"ִסנֳטֻ"}
+{"id":355418702,"city_id":4615828,"language_key":"he","name":"ִרַפַ"}
+{"id":355419626,"city_id":4615840,"language_key":"he","name":"הומאיטה"}
+{"id":355420473,"city_id":4615851,"language_key":"he","name":"הומו לוז"}
+{"id":355420550,"city_id":4615852,"language_key":"he","name":"הֻמֳקַרֳ בַזֳ"}
+{"id":355420627,"city_id":4615853,"language_key":"he","name":"הֻמֳקַרֳ ַלטֳ"}
+{"id":355421551,"city_id":4615865,"language_key":"he","name":"היגרוטה"}
+{"id":355422860,"city_id":4615882,"language_key":"he","name":"הֶרנַנדֶז"}
+{"id":355429867,"city_id":4615973,"language_key":"he","name":"גואיריה"}
+{"id":355430021,"city_id":4615975,"language_key":"he","name":"ווייקינה"}
+{"id":355430329,"city_id":4615979,"language_key":"he","name":null}
+{"id":355432485,"city_id":4616007,"language_key":"he","name":"גואייבונס"}
+{"id":355432793,"city_id":4616011,"language_key":"he","name":"גואיבל"}
+{"id":355434410,"city_id":4616032,"language_key":"he","name":"גואיבל"}
+{"id":355434949,"city_id":4616039,"language_key":"he","name":"גואטירה"}
+{"id":355436027,"city_id":4616053,"language_key":"he","name":"גואסיפטי"}
+{"id":355439415,"city_id":4616097,"language_key":"he","name":"גואריקו"}
+{"id":355440262,"city_id":4616108,"language_key":"he","name":"גוארנס"}
+{"id":355440878,"city_id":4616116,"language_key":"he","name":"גוארדטינאה"}
+{"id":355440955,"city_id":4616117,"language_key":"he","name":"גואראונוס"}
+{"id":355441186,"city_id":4616120,"language_key":"he","name":"גוארטארו"}
+{"id":355441879,"city_id":4616129,"language_key":"he","name":"גואראק"}
+{"id":355444035,"city_id":4616157,"language_key":"he","name":"גואנטה"}
+{"id":355445113,"city_id":4616171,"language_key":"he","name":"גואנאריטו"}
+{"id":355445267,"city_id":4616173,"language_key":"he","name":"גואנרה"}
+{"id":355445421,"city_id":4616175,"language_key":"he","name":"גואנפה"}
+{"id":355448501,"city_id":4616215,"language_key":"he","name":"גואמה"}
+{"id":355448809,"city_id":4616219,"language_key":"he","name":"גואג'ירה"}
+{"id":355450657,"city_id":4616243,"language_key":"he","name":"גואדארמה"}
+{"id":355452505,"city_id":4616267,"language_key":"he","name":"גוואקרה"}
+{"id":355454276,"city_id":4616290,"language_key":"he","name":"גומז"}
+{"id":355459512,"city_id":4616358,"language_key":"he","name":"פלֳר דֶ פַטרִַ"}
+{"id":355461206,"city_id":4616380,"language_key":"he","name":"פַררִַר"}
+{"id":355462207,"city_id":4616393,"language_key":"he","name":"ֶסטֳרַקֶֻ"}
+{"id":355464440,"city_id":4616422,"language_key":"he","name":"אסקוק"}
+{"id":355465364,"city_id":4616434,"language_key":"he","name":"ֶנקֳנטרַדֳס"}
+{"id":355468136,"city_id":4616470,"language_key":"he","name":"אל יגואל"}
+{"id":355469291,"city_id":4616485,"language_key":"he","name":"אל ויגיה"}
+{"id":355471524,"city_id":4616514,"language_key":"he","name":"ֶל וַללֶ דֶל ֶספִרִטֻ סַנטֳ"}
+{"id":355471601,"city_id":4616515,"language_key":"he","name":"אל ואלה"}
+{"id":355473295,"city_id":4616537,"language_key":"he","name":"בליסאריו דומינגז"}
+{"id":355474527,"city_id":4616553,"language_key":"he","name":"קליפורניה"}
+{"id":355474758,"city_id":4616556,"language_key":"he","name":"קליפורניה"}
+{"id":355475990,"city_id":4616572,"language_key":"he","name":"אל טוקויו"}
+{"id":355478223,"city_id":4616601,"language_key":"he","name":"אל טיגרה"}
+{"id":355479840,"city_id":4616622,"language_key":"he","name":"אל טג'רו"}
+{"id":355482535,"city_id":4616657,"language_key":"he","name":"ֶל סֳמברֶרֳ"}
+{"id":355482766,"city_id":4616660,"language_key":"he","name":"אל סוקורו"}
+{"id":355483459,"city_id":4616669,"language_key":"he","name":"אל סוקורו"}
+{"id":355483921,"city_id":4616675,"language_key":"he","name":"אל סוקורו"}
+{"id":355484460,"city_id":4616682,"language_key":"he","name":"אל סילנסיו"}
+{"id":355485153,"city_id":4616691,"language_key":"he","name":"ֶל סִֶטֶ"}
+{"id":355486154,"city_id":4616704,"language_key":"he","name":"ֶל סַמַן דֶ ַפֻרֶ"}
+{"id":355490774,"city_id":4616764,"language_key":"he","name":"לֳס רֳקֶֻס"}
+{"id":355498474,"city_id":4616864,"language_key":"he","name":null}
+{"id":355498705,"city_id":4616867,"language_key":"he","name":"אל רקרו"}
+{"id":355501708,"city_id":4616906,"language_key":"he","name":"אל פואבליטו"}
+{"id":355510409,"city_id":4617019,"language_key":"he","name":"אל פינאר"}
+{"id":355510871,"city_id":4617025,"language_key":"he","name":"סַן רַפֶַל דֶל פִנַל"}
+{"id":355511333,"city_id":4617031,"language_key":"he","name":"בואנה ויסטה"}
+{"id":355511410,"city_id":4617032,"language_key":"he","name":"בואנה ויסטה"}
+{"id":355517570,"city_id":4617112,"language_key":"he","name":"ֶל פַֻזִ"}
+{"id":355518340,"city_id":4617122,"language_key":"he","name":"גביה דה ריבאס"}
+{"id":355521497,"city_id":4617163,"language_key":"he","name":"אל פארדרו"}
+{"id":355522267,"city_id":4617173,"language_key":"he","name":"אל פאו וייחו"}
+{"id":355522344,"city_id":4617174,"language_key":"he","name":"אל פאו"}
+{"id":355524346,"city_id":4617200,"language_key":"he","name":"ֶל פַלמֶר"}
+{"id":355526194,"city_id":4617224,"language_key":"he","name":"איגנסיו אלנדה (סנטה פה)"}
+{"id":355528273,"city_id":4617251,"language_key":"he","name":"ֶלֳרזַ"}
+{"id":355529043,"city_id":4617261,"language_key":"he","name":"ֶל נֻלַ"}
+{"id":355529351,"city_id":4617265,"language_key":"he","name":"נוקופטארו דה מורלוס"}
+{"id":355533201,"city_id":4617315,"language_key":"he","name":"לֶקהֶרִַס"}
+{"id":355534048,"city_id":4617326,"language_key":"he","name":"ֶל מֳרַלִטֳ"}
+{"id":355535203,"city_id":4617341,"language_key":"he","name":"ֶל מֳלִנֶטֶ"}
+{"id":355535588,"city_id":4617346,"language_key":"he","name":"אל מילגרו"}
+{"id":355538437,"city_id":4617383,"language_key":"he","name":"ֶל מֶנֶ"}
+{"id":355540439,"city_id":4617409,"language_key":"he","name":"אל מנזאנו"}
+{"id":355540516,"city_id":4617410,"language_key":"he","name":"ֶל מַנטֶקֳ"}
+{"id":355540824,"city_id":4617414,"language_key":"he","name":"ֶל מַנטֶקֳ"}
+{"id":355547908,"city_id":4617506,"language_key":"he","name":"אל מאצ'ו וייחו"}
+{"id":355550218,"city_id":4617536,"language_key":"he","name":"ֶל לַמֶדֶרֳ"}
+{"id":355557610,"city_id":4617632,"language_key":"he","name":"אל האטילו"}
+{"id":355558996,"city_id":4617650,"language_key":"he","name":"גואיבל"}
+{"id":355560074,"city_id":4617664,"language_key":"he","name":"אל גואטה"}
+{"id":355560382,"city_id":4617668,"language_key":"he","name":"ֶל גַֻסִמֳ"}
+{"id":355561999,"city_id":4617689,"language_key":"he","name":"אל גואפו"}
+{"id":355565618,"city_id":4617736,"language_key":"he","name":"ֶל גַֻקהַרֳ"}
+{"id":355567620,"city_id":4617762,"language_key":"he","name":"ֶל פֻררִַל"}
+{"id":355570546,"city_id":4617800,"language_key":"he","name":"ֶל ֶנֶַל"}
+{"id":355571316,"city_id":4617810,"language_key":"he","name":"אל אנקנטו"}
+{"id":355572779,"city_id":4617829,"language_key":"he","name":"אל דוראדו"}
+{"id":355573241,"city_id":4617835,"language_key":"he","name":"ֶל דִוִדִוֶ"}
+{"id":355579401,"city_id":4617915,"language_key":"he","name":"ֶל קרֻקֶ"}
+{"id":355580171,"city_id":4617925,"language_key":"he","name":"בניטו חוארז"}
+{"id":355581326,"city_id":4617940,"language_key":"he","name":"בניטו חוארז"}
+{"id":355582866,"city_id":4617960,"language_key":"he","name":"אל קונסג'ו"}
+{"id":355583020,"city_id":4617962,"language_key":"he","name":"אל קונסג'ו"}
+{"id":355585330,"city_id":4617992,"language_key":"he","name":"אל קוברה"}
+{"id":355585407,"city_id":4617993,"language_key":"he","name":"אל קוברה"}
+{"id":355590335,"city_id":4618057,"language_key":"he","name":"אל סרוטה"}
+{"id":355598497,"city_id":4618163,"language_key":"he","name":"ֶל קַרמֶלֳ"}
+{"id":355601577,"city_id":4618203,"language_key":"he","name":"אל קנטון"}
+{"id":355601962,"city_id":4618208,"language_key":"he","name":"אל קנטון"}
+{"id":355604888,"city_id":4618246,"language_key":"he","name":"אל קאלאו"}
+{"id":355606274,"city_id":4618264,"language_key":"he","name":"אל קפה"}
+{"id":355611664,"city_id":4618334,"language_key":"he","name":"ֶל בַֻל"}
+{"id":355618209,"city_id":4618419,"language_key":"he","name":"אל אמפרו דה אפור"}
+{"id":355618363,"city_id":4618421,"language_key":"he","name":"ֶל ַמפַרֳ"}
+{"id":355624292,"city_id":4618498,"language_key":"he","name":"אג'ידו"}
+{"id":355624908,"city_id":4618506,"language_key":"he","name":"דואקה"}
+{"id":355624985,"city_id":4618507,"language_key":"he","name":"דוס ריוס"}
+{"id":355625909,"city_id":4618519,"language_key":"he","name":"דולורס"}
+{"id":355625986,"city_id":4618520,"language_key":"he","name":"דולורס"}
+{"id":355627449,"city_id":4618539,"language_key":"he","name":"דַבַזֻרֳ"}
+{"id":355629220,"city_id":4618562,"language_key":"he","name":"קֻרִֶפֶ"}
+{"id":355629605,"city_id":4618567,"language_key":"he","name":"קוריאפו"}
+{"id":355629913,"city_id":4618571,"language_key":"he","name":"קורבאטי"}
+{"id":355631761,"city_id":4618595,"language_key":"he","name":"קופירה"}
+{"id":355633994,"city_id":4618624,"language_key":"he","name":"קומנקואה"}
+{"id":355634071,"city_id":4618625,"language_key":"he","name":"קומאנה"}
+{"id":355636843,"city_id":4618661,"language_key":"he","name":"קֻבִרֳ"}
+{"id":355637305,"city_id":4618667,"language_key":"he","name":"קואטרו אסקווינס"}
+{"id":355637844,"city_id":4618674,"language_key":"he","name":"קוארה"}
+{"id":355638306,"city_id":4618680,"language_key":"he","name":"צ'ואה"}
+{"id":355648239,"city_id":4618809,"language_key":"he","name":"קורו"}
+{"id":355648547,"city_id":4618813,"language_key":"he","name":"קורדובה"}
+{"id":355648624,"city_id":4618814,"language_key":"he","name":"קורדרו"}
+{"id":355650703,"city_id":4618841,"language_key":"he","name":"קונגורוצ'ו"}
+{"id":355651319,"city_id":4618849,"language_key":"he","name":"קונספסיון פינאדה"}
+{"id":355651473,"city_id":4618851,"language_key":"he","name":"קונספסיון"}
+{"id":355652628,"city_id":4618866,"language_key":"he","name":"קֳלֳנִַ טֳוַר"}
+{"id":355652936,"city_id":4618870,"language_key":"he","name":"קולונסיטו"}
+{"id":355653398,"city_id":4618876,"language_key":"he","name":"קולינה"}
+{"id":355653706,"city_id":4618880,"language_key":"he","name":"קֳזֶדֶס"}
+{"id":355656555,"city_id":4618917,"language_key":"he","name":"קוקורוט"}
+{"id":355656863,"city_id":4618921,"language_key":"he","name":"קֳקֳ דֶ מֳנֳ"}
+{"id":355657633,"city_id":4618931,"language_key":"he","name":"קלרינס"}
+{"id":355657710,"city_id":4618932,"language_key":"he","name":"קִֻדַד פִַר"}
+{"id":355657787,"city_id":4618933,"language_key":"he","name":"סיודאד אוג'דה"}
+{"id":355657864,"city_id":4618934,"language_key":"he","name":"סיודד גואיאנה"}
+{"id":355657941,"city_id":4618935,"language_key":"he","name":"קִֻדַד דֶ נֻטרִַס"}
+{"id":355658018,"city_id":4618936,"language_key":"he","name":"סיודאד בוליביה"}
+{"id":355658095,"city_id":4618937,"language_key":"he","name":"סיודד בוליבר"}
+{"id":355658249,"city_id":4618939,"language_key":"he","name":"ציפריאנו"}
+{"id":355659789,"city_id":4618959,"language_key":"he","name":"קהֻרֻגַֻרַ"}
+{"id":355660174,"city_id":4618964,"language_key":"he","name":"קהֻנַֻרֶ"}
+{"id":355660405,"city_id":4618967,"language_key":"he","name":null}
+{"id":355661252,"city_id":4618978,"language_key":"he","name":"צ'ורוני"}
+{"id":355662022,"city_id":4618988,"language_key":"he","name":"קהִוַקֳַ"}
+{"id":355662715,"city_id":4618997,"language_key":"he","name":"צ ' ירגואה"}
+{"id":355662946,"city_id":4619000,"language_key":"he","name":"קהִקִֻנקִֻרַ"}
+{"id":355663947,"city_id":4619013,"language_key":"he","name":"צ'ימבורזו"}
+{"id":355664409,"city_id":4619019,"language_key":"he","name":"צ'יגוארה"}
+{"id":355664717,"city_id":4619023,"language_key":"he","name":"קהִקהִרִוִקהֶ"}
+{"id":355665102,"city_id":4619028,"language_key":"he","name":"קהֶזֶנדֶ"}
+{"id":355665564,"city_id":4619034,"language_key":"he","name":"קהַרַללַוֶ"}
+{"id":355667027,"city_id":4619053,"language_key":"he","name":"חמיזאל"}
+{"id":355667874,"city_id":4619064,"language_key":"he","name":"צ'אגוארמאס"}
+{"id":355668105,"city_id":4619067,"language_key":"he","name":"קהַגַֻרַמַל"}
+{"id":355668490,"city_id":4619072,"language_key":"he","name":"קהַקֳפַטַ"}
+{"id":355669106,"city_id":4619080,"language_key":"he","name":"צ'קאו"}
+{"id":355669568,"city_id":4619086,"language_key":"he","name":"קֶֻטַ"}
+{"id":355672340,"city_id":4619122,"language_key":"he","name":"קֶפֶד"}
+{"id":355672648,"city_id":4619126,"language_key":"he","name":"טקריגוואה"}
+{"id":355673880,"city_id":4619142,"language_key":"he","name":"סדנו"}
+{"id":355675728,"city_id":4619166,"language_key":"he","name":null}
+{"id":355675805,"city_id":4619167,"language_key":"he","name":"קווקגואה"}
+{"id":355676267,"city_id":4619173,"language_key":"he","name":"קטוארו"}
+{"id":355676421,"city_id":4619175,"language_key":"he","name":"קַטִַ לַ מַר"}
+{"id":355676652,"city_id":4619178,"language_key":"he","name":"קַטַטֻמבֳ"}
+{"id":355679963,"city_id":4619221,"language_key":"he","name":"קסיגואה אל קובו"}
+{"id":355680579,"city_id":4619229,"language_key":"he","name":"קַסַנַי"}
+{"id":355681811,"city_id":4619245,"language_key":"he","name":"קַסַקֳִמַ"}
+{"id":355683736,"city_id":4619270,"language_key":"he","name":"קַרֻפַנֳ"}
+{"id":355685969,"city_id":4619299,"language_key":"he","name":"קאריזאל"}
+{"id":355687278,"city_id":4619316,"language_key":"he","name":"קַררַסקֶֻרֳ"}
+{"id":355687971,"city_id":4619325,"language_key":"he","name":"קרורה"}
+{"id":355688048,"city_id":4619326,"language_key":"he","name":"קארוני"}
+{"id":355688433,"city_id":4619331,"language_key":"he","name":"קַרמֶן דֶ קֻרַ"}
+{"id":355688895,"city_id":4619337,"language_key":"he","name":"קַרִרֻבַנַ"}
+{"id":355688972,"city_id":4619338,"language_key":"he","name":"קריפיטו"}
+{"id":355689049,"city_id":4619339,"language_key":"he","name":"קאריפ"}
+{"id":355689819,"city_id":4619349,"language_key":"he","name":"קריאקו"}
+{"id":355691359,"city_id":4619369,"language_key":"he","name":"קַרַיַקַ"}
+{"id":355694131,"city_id":4619405,"language_key":"he","name":"קַרַמַקַטֶ"}
+{"id":355694824,"city_id":4619414,"language_key":"he","name":"ארצ'ר"}
+{"id":355694978,"city_id":4619416,"language_key":"he","name":"קראקס"}
+{"id":355696056,"city_id":4619430,"language_key":"he","name":"קַרַבַללֶדַ"}
+{"id":355696672,"city_id":4619438,"language_key":"he","name":"קפיטנג'ו"}
+{"id":355697442,"city_id":4619448,"language_key":"he","name":"קאנאפה קפטרידה"}
+{"id":355697673,"city_id":4619451,"language_key":"he","name":"קַפַדַרֶ"}
+{"id":355698674,"city_id":4619464,"language_key":"he","name":"קנטאורה"}
+{"id":355701677,"city_id":4619503,"language_key":"he","name":"קַנֳ נֶגרֳ"}
+{"id":355706066,"city_id":4619560,"language_key":"he","name":"קַנֳַבֳ"}
+{"id":355707067,"city_id":4619573,"language_key":"he","name":"קנדלריה"}
+{"id":355710917,"city_id":4619623,"language_key":"he","name":"קַמפֳמַ"}
+{"id":355711379,"city_id":4619629,"language_key":"he","name":"קַמפֳ גַֻיַרַקַ"}
+{"id":355711610,"city_id":4619632,"language_key":"he","name":"קַמפֳ ֶלִַס"}
+{"id":355711841,"city_id":4619635,"language_key":"he","name":"קַמפֳ ֶלִַס"}
+{"id":355719541,"city_id":4619735,"language_key":"he","name":"קמטגואה"}
+{"id":355719926,"city_id":4619740,"language_key":"he","name":"קמגואן"}
+{"id":355720850,"city_id":4619752,"language_key":"he","name":"קלדרות"}
+{"id":355721312,"city_id":4619758,"language_key":"he","name":"קַלַדֳ"}
+{"id":355721389,"city_id":4619759,"language_key":"he","name":"קלבוזו"}
+{"id":355722005,"city_id":4619767,"language_key":"he","name":"קַזַ סֶקַ"}
+{"id":355723468,"city_id":4619786,"language_key":"he","name":"קאיגואה"}
+{"id":355724084,"city_id":4619794,"language_key":"he","name":"קיקרה דל אורינוקו"}
+{"id":355724238,"city_id":4619796,"language_key":"he","name":"קיקרה דל אורינוקו"}
+{"id":355724546,"city_id":4619800,"language_key":"he","name":"קגואדה"}
+{"id":355724623,"city_id":4619801,"language_key":"he","name":"צ'אנג-הוא"}
+{"id":355725162,"city_id":4619808,"language_key":"he","name":"קַקהִפֳ"}
+{"id":355726471,"city_id":4619825,"language_key":"he","name":"קאבור"}
+{"id":355726548,"city_id":4619826,"language_key":"he","name":"קבודאר"}
+{"id":355726625,"city_id":4619827,"language_key":"he","name":"קברוטה"}
+{"id":355726933,"city_id":4619831,"language_key":"he","name":"כאבימאס"}
+{"id":355729012,"city_id":4619858,"language_key":"he","name":"בֻרבֻסַי"}
+{"id":355729089,"city_id":4619859,"language_key":"he","name":"בֻם בֻם"}
+{"id":355731707,"city_id":4619893,"language_key":"he","name":"בואנוס איירס"}
+{"id":355731861,"city_id":4619895,"language_key":"he","name":"בואנה ויסטה"}
+{"id":355736481,"city_id":4619955,"language_key":"he","name":"בואנה ויסטה"}
+{"id":355737328,"city_id":4619966,"language_key":"he","name":"בֻקהִוַקֳַ"}
+{"id":355738945,"city_id":4619987,"language_key":"he","name":null}
+{"id":355739561,"city_id":4619995,"language_key":"he","name":"ברַמֳן"}
+{"id":355741640,"city_id":4620022,"language_key":"he","name":"בֳרֳטַ"}
+{"id":355742256,"city_id":4620030,"language_key":"he","name":"בורבוראטה"}
+{"id":355742487,"city_id":4620033,"language_key":"he","name":"בֳרַֻרֶ"}
+{"id":355745259,"city_id":4620069,"language_key":"he","name":"בוליבר"}
+{"id":355745721,"city_id":4620075,"language_key":"he","name":"בֳקֳנֳִטֳ"}
+{"id":355745875,"city_id":4620077,"language_key":"he","name":"בוקונו"}
+{"id":355747338,"city_id":4620096,"language_key":"he","name":"בוקה דה אוצ'ירה"}
+{"id":355748724,"city_id":4620114,"language_key":"he","name":"בוקה דה ריו"}
+{"id":355748801,"city_id":4620115,"language_key":"he","name":"בוקה דל ריו"}
+{"id":355750033,"city_id":4620131,"language_key":"he","name":"בֳקַ דֶ קַסַנַרִטֳ"}
+{"id":355750110,"city_id":4620132,"language_key":"he","name":"בֳקַ דֶ ַרֳַ"}
+{"id":355751111,"city_id":4620145,"language_key":"he","name":"בֳבֻרֶס"}
+{"id":355751265,"city_id":4620147,"language_key":"he","name":"בובאר"}
+{"id":355751419,"city_id":4620149,"language_key":"he","name":"ביסקוי"}
+{"id":355751573,"city_id":4620151,"language_key":"he","name":"בירואקה"}
+{"id":355751958,"city_id":4620156,"language_key":"he","name":null}
+{"id":355752266,"city_id":4620160,"language_key":"he","name":"ברמודז"}
+{"id":355752574,"city_id":4620164,"language_key":"he","name":"בֶרגַנטִן"}
+{"id":355754653,"city_id":4620191,"language_key":"he","name":"בלנרו"}
+{"id":355754807,"city_id":4620193,"language_key":"he","name":"בלן"}
+{"id":355756193,"city_id":4620211,"language_key":"he","name":"בֶזֻמַ"}
+{"id":355757810,"city_id":4620232,"language_key":"he","name":"בארותא"}
+{"id":355759350,"city_id":4620252,"language_key":"he","name":"באררה אריבה"}
+{"id":355759504,"city_id":4620254,"language_key":"he","name":"בַררַנקִֻטַס"}
+{"id":355760505,"city_id":4620267,"language_key":"he","name":"ברנקאס"}
+{"id":355760582,"city_id":4620268,"language_key":"he","name":"ברנקאס"}
+{"id":355761198,"city_id":4620276,"language_key":"he","name":"ברקיסימטו"}
+{"id":355762045,"city_id":4620287,"language_key":"he","name":"בַרִנִטַס"}
+{"id":355762122,"city_id":4620288,"language_key":"he","name":"ברינס"}
+{"id":355762276,"city_id":4620290,"language_key":"he","name":"ברצלונה"}
+{"id":355763123,"city_id":4620301,"language_key":"he","name":"ברבקואס"}
+{"id":355763354,"city_id":4620304,"language_key":"he","name":"ברבקואס"}
+{"id":355767050,"city_id":4620352,"language_key":"he","name":"בִַלַדֳרֶס"}
+{"id":355767435,"city_id":4620357,"language_key":"he","name":"באצ ' אקרו"}
+{"id":355771131,"city_id":4620405,"language_key":"he","name":"ארואה"}
+{"id":355771285,"city_id":4620407,"language_key":"he","name":"ַרִסמֶנדִ"}
+{"id":355771362,"city_id":4620408,"language_key":"he","name":"ַרִסמֶנדִ"}
+{"id":355771901,"city_id":4620415,"language_key":"he","name":"אריצ'ונה"}
+{"id":355771978,"city_id":4620416,"language_key":"he","name":"אריקגואה"}
+{"id":355772055,"city_id":4620417,"language_key":"he","name":"אריקגואה"}
+{"id":355773287,"city_id":4620433,"language_key":"he","name":"זירות"}
+{"id":355773826,"city_id":4620440,"language_key":"he","name":null}
+{"id":355774211,"city_id":4620445,"language_key":"he","name":"אראיה"}
+{"id":355774519,"city_id":4620449,"language_key":"he","name":"ַרַֻרֶ"}
+{"id":355774596,"city_id":4620450,"language_key":"he","name":"אראוקאיתא"}
+{"id":355775828,"city_id":4620466,"language_key":"he","name":"ארירה"}
+{"id":355776752,"city_id":4620478,"language_key":"he","name":"אראגואה"}
+{"id":355776829,"city_id":4620479,"language_key":"he","name":"אראגואה דה ברצלונה"}
+{"id":355777830,"city_id":4620492,"language_key":"he","name":"ַפַרטַדֶרֳס"}
+{"id":355778677,"city_id":4620503,"language_key":"he","name":"ַנזֳַטֶגִֻ"}
+{"id":355784529,"city_id":4620579,"language_key":"he","name":"אלטמירה"}
+{"id":355784760,"city_id":4620582,"language_key":"he","name":"ַלטַגרַקִַ דֶ ֳרִטֻקֳ"}
+{"id":355784837,"city_id":4620583,"language_key":"he","name":"ַלטַגרַקִַ דֶ לַ מֳנטַנַ"}
+{"id":355784914,"city_id":4620584,"language_key":"he","name":"ַלטַגרַקִַ"}
+{"id":355784991,"city_id":4620585,"language_key":"he","name":"לוס פוארטס דה אלטגראסיה"}
+{"id":355786993,"city_id":4620611,"language_key":"he","name":"ַלגַררֳבֳ"}
+{"id":355788764,"city_id":4620634,"language_key":"he","name":"אגואימה"}
+{"id":355789919,"city_id":4620649,"language_key":"he","name":"אגואסיי"}
+{"id":355789996,"city_id":4620650,"language_key":"he","name":"אגווה סנטה"}
+{"id":355794000,"city_id":4620702,"language_key":"he","name":"ַגַֻדַ גרַנדֶ"}
+{"id":355798235,"city_id":4620757,"language_key":"he","name":"אדיקורה"}
+{"id":355798774,"city_id":4620764,"language_key":"he","name":"חאגואס"}
+{"id":355798851,"city_id":4620765,"language_key":"he","name":null}
+{"id":355799467,"city_id":4620773,"language_key":"he","name":"אקריגוואה"}
+{"id":355800083,"city_id":4620781,"language_key":"he","name":"ַבֶזַלֶס"}
+{"id":355803625,"city_id":4620827,"language_key":"he","name":"סן מיגל טקפאן"}
+{"id":355806782,"city_id":4620868,"language_key":"he","name":"לה אידאה"}
+{"id":355806859,"city_id":4620869,"language_key":"he","name":"סן חוזה דה בוליבר"}
+{"id":355817100,"city_id":4621002,"language_key":"he","name":"קַמפֳ בֶרנַל"}
+{"id":355822721,"city_id":4621075,"language_key":"he","name":"סן פדרו"}
+{"id":355825262,"city_id":4621108,"language_key":"he","name":"פִנַנגֳ"}
+{"id":355826956,"city_id":4621130,"language_key":"he","name":"ֶל ַגַֻקַטִקֳ"}
+{"id":355828342,"city_id":4621148,"language_key":"he","name":"לֳס וֶגֳטֶס"}
+{"id":355831345,"city_id":4621187,"language_key":"he","name":"אל מנגויטו"}
+{"id":355831730,"city_id":4621192,"language_key":"he","name":"לאס דליסיאס"}
+{"id":355832038,"city_id":4621196,"language_key":"he","name":"מרטין"}
+{"id":355834040,"city_id":4621222,"language_key":"he","name":"גרסיה"}
+{"id":355835426,"city_id":4621240,"language_key":"he","name":"אל פליסר"}
+{"id":355850595,"city_id":4621437,"language_key":"he","name":"באטאל"}
+{"id":355851365,"city_id":4621447,"language_key":"he","name":"ֶל פֶרֶנֳ"}
+{"id":355852751,"city_id":4621465,"language_key":"he","name":"מיג ' אג ' יטו"}
+{"id":355853136,"city_id":4621470,"language_key":"he","name":"לֳס קֳקהִנֳס"}
+{"id":355862838,"city_id":4621596,"language_key":"he","name":"פֳזֳ וֶרדֶ"}
+{"id":355865379,"city_id":4621629,"language_key":"he","name":"סדנו"}
+{"id":355870384,"city_id":4621694,"language_key":"he","name":"ֶל פֳזֳן"}
+{"id":355874311,"city_id":4621745,"language_key":"he","name":"לוס פאטוס"}
+{"id":355881549,"city_id":4621839,"language_key":"he","name":"פַסֳ רֶַל"}
+{"id":355882088,"city_id":4621846,"language_key":"he","name":"קַמפֳ סֳלֳ"}
+{"id":355887401,"city_id":4621915,"language_key":"he","name":"לוס מריס"}
+{"id":355896949,"city_id":4622039,"language_key":"he","name":"סַֻקֶדֳ"}
+{"id":355901338,"city_id":4622096,"language_key":"he","name":"זַמברַנֳ"}
+{"id":355902570,"city_id":4622112,"language_key":"he","name":"אל טרומפילו"}
+{"id":355926671,"city_id":4622425,"language_key":"he","name":"סנטה ריטה"}
+{"id":355944612,"city_id":4622658,"language_key":"he","name":"לַ טַזַ"}
+{"id":355953698,"city_id":4622776,"language_key":"he","name":"ֶל זֳררֳ"}
+{"id":355958087,"city_id":4622833,"language_key":"he","name":"פַטֳס גַֻיַבַל"}
+{"id":355958780,"city_id":4622842,"language_key":"he","name":"ִסלַ רַטֳן"}
+{"id":355963400,"city_id":4622902,"language_key":"he","name":"פדרזה"}
+{"id":355973949,"city_id":4623039,"language_key":"he","name":"פואבלו נואבו"}
+{"id":355978954,"city_id":4623104,"language_key":"he","name":"סן חוזה"}
+{"id":355979339,"city_id":4623109,"language_key":"he","name":"ֻרִבַנטֶ"}
+{"id":355987886,"city_id":4623220,"language_key":"he","name":"לַס ללַנַדַס"}
+{"id":355991582,"city_id":4623268,"language_key":"he","name":"קורדרו"}
+{"id":356003671,"city_id":4623425,"language_key":"he","name":"פַסֳ לַרגֳ"}
+{"id":356010370,"city_id":4623512,"language_key":"he","name":"סִֶררַ ִמַטַקַ"}
+{"id":356013373,"city_id":4623551,"language_key":"he","name":"מֶרֶזִנַ"}
+{"id":356014066,"city_id":4623560,"language_key":"he","name":"לאס נאבאס"}
+{"id":356023383,"city_id":4623681,"language_key":"he","name":"אל רקרו"}
+{"id":356032931,"city_id":4623805,"language_key":"he","name":"לֳס פֳזֳטֶס"}
+{"id":356038629,"city_id":4623879,"language_key":"he","name":"לאס מרגריטה"}
+{"id":356054568,"city_id":4624086,"language_key":"he","name":"לאס טינאחס"}
+{"id":356056878,"city_id":4624116,"language_key":"he","name":"לַ הֳנדַ"}
+{"id":356058341,"city_id":4624135,"language_key":"he","name":"וילה אראור אונו"}
+{"id":356061190,"city_id":4624172,"language_key":"he","name":"ֶל פִקֻרֶ"}
+{"id":356061806,"city_id":4624180,"language_key":"he","name":"לה לוז"}
+{"id":356070584,"city_id":4624294,"language_key":"he","name":"קוג ' יצ ' יטו"}
+{"id":356080055,"city_id":4624417,"language_key":"he","name":"סן חוזה פידרה גורדה"}
+{"id":356082057,"city_id":4624443,"language_key":"he","name":"אל רינקון"}
+{"id":356083366,"city_id":4624460,"language_key":"he","name":"סן פליקס"}
+{"id":356094223,"city_id":4624601,"language_key":"he","name":"מַמֳנַל"}
+{"id":356097688,"city_id":4624646,"language_key":"he","name":"סן חוזה דה גואריבה"}
+{"id":356098150,"city_id":4624652,"language_key":"he","name":"סנטה ריטה"}
+{"id":356111702,"city_id":4624828,"language_key":"he","name":"אל הואסו"}
+{"id":356114782,"city_id":4624868,"language_key":"he","name":"מטורין"}
+{"id":356117708,"city_id":4624906,"language_key":"he","name":"ֶל פַסֳ דֶ לֳס ִנדֳִס"}
+{"id":356120326,"city_id":4624940,"language_key":"he","name":"לַ רֶַקַמַרַ"}
+{"id":356128565,"city_id":4625047,"language_key":"he","name":"פלמסולה"}
+{"id":356141116,"city_id":4625210,"language_key":"he","name":"טֻרֶן"}
+{"id":356144119,"city_id":4625249,"language_key":"he","name":"לה אגואדה"}
+{"id":356144196,"city_id":4625250,"language_key":"he","name":"לה אגואדה"}
+{"id":356146660,"city_id":4625282,"language_key":"he","name":"אל ברזיל"}
+{"id":356157132,"city_id":4625418,"language_key":"he","name":"גואריקפו"}
+{"id":356162137,"city_id":4625483,"language_key":"he","name":"קַמפֳ לַרַ"}
+{"id":356165063,"city_id":4625521,"language_key":"he","name":"כִלֳמֶטרֳ וִֶנטִדֳ"}
+{"id":356174534,"city_id":4625644,"language_key":"he","name":"אל פאג'ון"}
+{"id":356180232,"city_id":4625718,"language_key":"he","name":"דליסיאס"}
+{"id":356180463,"city_id":4625721,"language_key":"he","name":"לה פריה"}
+{"id":356180694,"city_id":4625724,"language_key":"he","name":"לַ גרִטַ"}
+{"id":356181695,"city_id":4625737,"language_key":"he","name":"קפאצ'ו נואבו"}
+{"id":356186161,"city_id":4625795,"language_key":"he","name":"לַס קֶֻברַדִטַס"}
+{"id":356188317,"city_id":4625823,"language_key":"he","name":"לַ טֶנדִדַ"}
+{"id":356197711,"city_id":4625945,"language_key":"he","name":"קואסטה אבחו"}
+{"id":356204179,"city_id":4626029,"language_key":"he","name":"לוסיה"}
+{"id":356215883,"city_id":4626181,"language_key":"he","name":"לוס פזוס אפוראה"}
+{"id":356223121,"city_id":4626275,"language_key":"he","name":"רֳִ סַן פֶדרֳ"}
+{"id":356223968,"city_id":4626286,"language_key":"he","name":"סנטה אלנה"}
+{"id":356227664,"city_id":4626334,"language_key":"he","name":"לַ וַלֶרִַנַ"}
+{"id":356228434,"city_id":4626344,"language_key":"he","name":"לאס וגאס"}
+{"id":356234902,"city_id":4626428,"language_key":"he","name":"קהַקֳפַטַ"}
+{"id":356235441,"city_id":4626435,"language_key":"he","name":"קהִפִקהִפֶ"}
+{"id":356241986,"city_id":4626520,"language_key":"he","name":"אגואה בלנקה"}
+{"id":356247068,"city_id":4626586,"language_key":"he","name":"לאס דליסיאס"}
+{"id":356249455,"city_id":4626617,"language_key":"he","name":"לה איסלה"}
+{"id":356254614,"city_id":4626684,"language_key":"he","name":"אל פלייון"}
+{"id":356258849,"city_id":4626739,"language_key":"he","name":"לַ סִללֶטַ"}
+{"id":356260928,"city_id":4626766,"language_key":"he","name":null}
+{"id":356261159,"city_id":4626769,"language_key":"he","name":"ֶל בַטֶי"}
+{"id":356263931,"city_id":4626805,"language_key":"he","name":"מאקאפו"}
+{"id":356273787,"city_id":4626933,"language_key":"he","name":"לה קונקורדיה"}
+{"id":356277098,"city_id":4626976,"language_key":"he","name":"מַנרִקֶֻ"}
+{"id":356283643,"city_id":4627061,"language_key":"he","name":"קַֻקַגִֻטַ"}
+{"id":356283720,"city_id":4627062,"language_key":"he","name":"לה סייבה"}
+{"id":356293884,"city_id":4627194,"language_key":"he","name":"טֳטֻמִטֳ"}
+{"id":356297580,"city_id":4627242,"language_key":"he","name":"גואסדואליטו"}
+{"id":356298581,"city_id":4627255,"language_key":"he","name":"לאס מרצדס"}
+{"id":356300352,"city_id":4627278,"language_key":"he","name":"סן פרננדו דה אפור"}
+{"id":356300583,"city_id":4627281,"language_key":"he","name":"סן חואן דה פאארה"}
+{"id":356315906,"city_id":4627480,"language_key":"he","name":"סן סבסטיאן"}
+{"id":356317600,"city_id":4627502,"language_key":"he","name":"טֻרמֶרִטֳ"}
+{"id":356318139,"city_id":4627509,"language_key":"he","name":"ורגאס"}
+{"id":356345397,"city_id":4627863,"language_key":"he","name":"מַנדִגַל"}
+{"id":356354637,"city_id":4627983,"language_key":"he","name":"אל פילון"}
+{"id":356359334,"city_id":4628044,"language_key":"he","name":"אל רודיאו"}
+{"id":356372270,"city_id":4628212,"language_key":"he","name":"אל דיאריו דה יאראקוי"}
+{"id":356372809,"city_id":4628219,"language_key":"he","name":"סנטה קרוז דה לוס טאקס"}
+{"id":356372963,"city_id":4628221,"language_key":"he","name":"הומאיטה"}
+{"id":356376505,"city_id":4628267,"language_key":"he","name":"אל ג'ונקו"}
+{"id":356377583,"city_id":4628281,"language_key":"he","name":"מַרִזַפַ"}
+{"id":356381356,"city_id":4628330,"language_key":"he","name":null}

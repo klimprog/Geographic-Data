@@ -1,0 +1,976 @@
+{"id":232307632,"city_id":3016983,"language_key":"et","name":"Rožaje"}
+{"id":232307709,"city_id":3016984,"language_key":"et","name":"Radetina"}
+{"id":232307786,"city_id":3016985,"language_key":"et","name":"Poroca"}
+{"id":232308325,"city_id":3016992,"language_key":"et","name":"Ibarac"}
+{"id":232308402,"city_id":3016993,"language_key":"et","name":"Grahovo"}
+{"id":232309326,"city_id":3017005,"language_key":"et","name":"Bac"}
+{"id":232309557,"city_id":3017008,"language_key":"et","name":"Bovan"}
+{"id":232309634,"city_id":3017009,"language_key":"et","name":"Dolina"}
+{"id":232310173,"city_id":3017016,"language_key":"et","name":"Donja Lovnica"}
+{"id":232310481,"city_id":3017020,"language_key":"et","name":"Plumci"}
+{"id":232310635,"city_id":3017022,"language_key":"et","name":"Halilovic"}
+{"id":232310712,"city_id":3017023,"language_key":"et","name":"Dubovik"}
+{"id":232310866,"city_id":3017025,"language_key":"et","name":"Kopiljaca [historical]"}
+{"id":232310943,"city_id":3017026,"language_key":"et","name":"Sredani"}
+{"id":232311559,"city_id":3017034,"language_key":"et","name":"Redzica Krlje"}
+{"id":232311636,"city_id":3017035,"language_key":"et","name":"Koljeno"}
+{"id":232311713,"city_id":3017036,"language_key":"et","name":"Visnjice"}
+{"id":232311790,"city_id":3017037,"language_key":"et","name":"Donji Besnik"}
+{"id":232311867,"city_id":3017038,"language_key":"et","name":"Dzudzevici"}
+{"id":232312252,"city_id":3017043,"language_key":"et","name":"Seosnica"}
+{"id":232312329,"city_id":3017044,"language_key":"et","name":"Tuzeva Luka"}
+{"id":232312560,"city_id":3017047,"language_key":"et","name":"Kacari"}
+{"id":232312868,"city_id":3017051,"language_key":"et","name":"Dracinovac"}
+{"id":232313407,"city_id":3017058,"language_key":"et","name":"Zupci"}
+{"id":232313484,"city_id":3017059,"language_key":"et","name":"Zukovica"}
+{"id":232313561,"city_id":3017060,"language_key":"et","name":"Zoganj"}
+{"id":232313869,"city_id":3017064,"language_key":"et","name":"Zirci"}
+{"id":232313946,"city_id":3017065,"language_key":"et","name":"Zidovici"}
+{"id":232314023,"city_id":3017066,"language_key":"et","name":"Zelenika"}
+{"id":232314254,"city_id":3017069,"language_key":"et","name":"Zankovici"}
+{"id":232314408,"city_id":3017071,"language_key":"et","name":"Zaljevo"}
+{"id":232314562,"city_id":3017073,"language_key":"et","name":"Zagrade"}
+{"id":232314716,"city_id":3017075,"language_key":"et","name":"Zagora"}
+{"id":232315101,"city_id":3017080,"language_key":"et","name":"Žabljak"}
+{"id":232315178,"city_id":3017081,"language_key":"et","name":"Vusane"}
+{"id":232315332,"city_id":3017083,"language_key":"et","name":"Vuksanlekici"}
+{"id":232315717,"city_id":3017088,"language_key":"et","name":"Vrela"}
+{"id":232315794,"city_id":3017089,"language_key":"et","name":"Gornja Vrbica"}
+{"id":232315948,"city_id":3017091,"language_key":"et","name":"Vrba"}
+{"id":232316102,"city_id":3017093,"language_key":"et","name":"Vranjina"}
+{"id":232316179,"city_id":3017094,"language_key":"et","name":"Vranj"}
+{"id":232316641,"city_id":3017100,"language_key":"et","name":"Vladni"}
+{"id":232316872,"city_id":3017103,"language_key":"et","name":"Visnjevo"}
+{"id":232317026,"city_id":3017105,"language_key":"et","name":"Virpazar"}
+{"id":232317103,"city_id":3017106,"language_key":"et","name":"Vinicka"}
+{"id":232317257,"city_id":3017108,"language_key":"et","name":"Vilusi"}
+{"id":232317488,"city_id":3017111,"language_key":"et","name":"Velje Selo"}
+{"id":232317565,"city_id":3017112,"language_key":"et","name":"Velje Selo"}
+{"id":232317796,"city_id":3017115,"language_key":"et","name":"Vaskovo"}
+{"id":232318104,"city_id":3017119,"language_key":"et","name":"Ulcinj"}
+{"id":232318258,"city_id":3017121,"language_key":"et","name":"Ugnji"}
+{"id":232318335,"city_id":3017122,"language_key":"et","name":"Ubli"}
+{"id":232318412,"city_id":3017123,"language_key":"et","name":"Ubli"}
+{"id":232318720,"city_id":3017127,"language_key":"et","name":"Tuzi Ljevorecke"}
+{"id":232318797,"city_id":3017128,"language_key":"et","name":"Tuzi"}
+{"id":232319028,"city_id":3017131,"language_key":"et","name":"Tudemili"}
+{"id":232319105,"city_id":3017132,"language_key":"et","name":"Tucane"}
+{"id":232319336,"city_id":3017135,"language_key":"et","name":"Trnovo"}
+{"id":232319567,"city_id":3017138,"language_key":"et","name":"Tresnjevo"}
+{"id":232319798,"city_id":3017141,"language_key":"et","name":"Trebesinj"}
+{"id":232319875,"city_id":3017142,"language_key":"et","name":"Trabojin"}
+{"id":232320029,"city_id":3017144,"language_key":"et","name":"Tomba"}
+{"id":232320106,"city_id":3017145,"language_key":"et","name":"Tomasevo"}
+{"id":232320260,"city_id":3017147,"language_key":"et","name":"Tivat"}
+{"id":232320491,"city_id":3017150,"language_key":"et","name":"Tejani"}
+{"id":232320568,"city_id":3017151,"language_key":"et","name":"Sveti Stefan"}
+{"id":232320722,"city_id":3017153,"language_key":"et","name":"Sveti Dorde"}
+{"id":232320799,"city_id":3017154,"language_key":"et","name":"Sutvara"}
+{"id":232320876,"city_id":3017155,"language_key":"et","name":"Sutomore"}
+{"id":232321030,"city_id":3017157,"language_key":"et","name":"Susuna"}
+{"id":232321107,"city_id":3017158,"language_key":"et","name":"Sustas"}
+{"id":232321184,"city_id":3017159,"language_key":"et","name":"Suscepan"}
+{"id":232321261,"city_id":3017160,"language_key":"et","name":"Donje Sume"}
+{"id":232321415,"city_id":3017162,"language_key":"et","name":"Sukobin"}
+{"id":232321646,"city_id":3017165,"language_key":"et","name":"Stube"}
+{"id":232321800,"city_id":3017167,"language_key":"et","name":"Strojtenica"}
+{"id":232321877,"city_id":3017168,"language_key":"et","name":"Strahinici"}
+{"id":232322108,"city_id":3017171,"language_key":"et","name":"Stedim"}
+{"id":232322185,"city_id":3017172,"language_key":"et","name":"Staro Selo"}
+{"id":232322262,"city_id":3017173,"language_key":"et","name":"Stari Bar"}
+{"id":232322339,"city_id":3017174,"language_key":"et","name":"Staniselici"}
+{"id":232322493,"city_id":3017176,"language_key":"et","name":"Srpska"}
+{"id":232322570,"city_id":3017177,"language_key":"et","name":"Sretnja"}
+{"id":232322724,"city_id":3017179,"language_key":"et","name":"Spuz"}
+{"id":232322801,"city_id":3017180,"language_key":"et","name":"Spina"}
+{"id":232322878,"city_id":3017181,"language_key":"et","name":"Sobaici"}
+{"id":232323186,"city_id":3017185,"language_key":"et","name":"Sljuke"}
+{"id":232323340,"city_id":3017187,"language_key":"et","name":"Slatina"}
+{"id":232323725,"city_id":3017192,"language_key":"et","name":"Sjenozeta"}
+{"id":232323802,"city_id":3017193,"language_key":"et","name":"Sjerogoste"}
+{"id":232324495,"city_id":3017202,"language_key":"et","name":"Sekulici"}
+{"id":232324572,"city_id":3017203,"language_key":"et","name":"Šavnik"}
+{"id":232324649,"city_id":3017204,"language_key":"et","name":"Sasovici"}
+{"id":232324726,"city_id":3017205,"language_key":"et","name":"Sas"}
+{"id":232325496,"city_id":3017215,"language_key":"et","name":"Risan"}
+{"id":232325573,"city_id":3017216,"language_key":"et","name":"Rijeka Crnojevica"}
+{"id":232325650,"city_id":3017217,"language_key":"et","name":"Rijecani"}
+{"id":232325727,"city_id":3017218,"language_key":"et","name":"Resnik"}
+{"id":232326035,"city_id":3017222,"language_key":"et","name":"Ratisevina"}
+{"id":232326112,"city_id":3017223,"language_key":"et","name":"Rastovac"}
+{"id":232326266,"city_id":3017225,"language_key":"et","name":"Rakonje"}
+{"id":232326497,"city_id":3017228,"language_key":"et","name":"Radovici"}
+{"id":232327036,"city_id":3017235,"language_key":"et","name":"Provalija"}
+{"id":232327190,"city_id":3017237,"language_key":"et","name":"Prnjavor"}
+{"id":232327267,"city_id":3017238,"language_key":"et","name":"Pristan"}
+{"id":232327344,"city_id":3017239,"language_key":"et","name":"Prisoja"}
+{"id":232327421,"city_id":3017240,"language_key":"et","name":"Pripcici"}
+{"id":232327498,"city_id":3017241,"language_key":"et","name":"Prijevor"}
+{"id":232327806,"city_id":3017245,"language_key":"et","name":"Prifta"}
+{"id":232327960,"city_id":3017247,"language_key":"et","name":"Prevlaka"}
+{"id":232328037,"city_id":3017248,"language_key":"et","name":"Previs"}
+{"id":232328114,"city_id":3017249,"language_key":"et","name":"Prentin Do"}
+{"id":232328268,"city_id":3017251,"language_key":"et","name":"Prcan"}
+{"id":232328345,"city_id":3017252,"language_key":"et","name":"Pracica"}
+{"id":232328576,"city_id":3017255,"language_key":"et","name":"Pozeginja"}
+{"id":232328653,"city_id":3017256,"language_key":"et","name":"Donja Povija"}
+{"id":232328807,"city_id":3017258,"language_key":"et","name":"Potkrajci"}
+{"id":232328884,"city_id":3017259,"language_key":"et","name":"Poscenje"}
+{"id":232329038,"city_id":3017261,"language_key":"et","name":"Ponikvica"}
+{"id":232329115,"city_id":3017262,"language_key":"et","name":"Ponari"}
+{"id":232329269,"city_id":3017264,"language_key":"et","name":"Poljice"}
+{"id":232329346,"city_id":3017265,"language_key":"et","name":"Polje"}
+{"id":232329654,"city_id":3017269,"language_key":"et","name":"Podi"}
+{"id":232329731,"city_id":3017270,"language_key":"et","name":"Pothum"}
+{"id":232329808,"city_id":3017271,"language_key":"et","name":"Podgorica"}
+{"id":232329962,"city_id":3017273,"language_key":"et","name":"Poda"}
+{"id":232330193,"city_id":3017276,"language_key":"et","name":"Plužine vald"}
+{"id":232330270,"city_id":3017277,"language_key":"et","name":"Pljevlja"}
+{"id":232330347,"city_id":3017278,"language_key":"et","name":"Plavi vald"}
+{"id":232330501,"city_id":3017280,"language_key":"et","name":"Pikalja"}
+{"id":232330578,"city_id":3017281,"language_key":"et","name":"Pikalja"}
+{"id":232330809,"city_id":3017284,"language_key":"et","name":"Petrovac na Moru"}
+{"id":232330886,"city_id":3017285,"language_key":"et","name":"Petnik"}
+{"id":232330963,"city_id":3017286,"language_key":"et","name":"Pesca"}
+{"id":232331040,"city_id":3017287,"language_key":"et","name":"Perast"}
+{"id":232331117,"city_id":3017288,"language_key":"et","name":"Pelinkovici"}
+{"id":232331194,"city_id":3017289,"language_key":"et","name":"Pelev Brijeg"}
+{"id":232331271,"city_id":3017290,"language_key":"et","name":"Pecurice"}
+{"id":232331656,"city_id":3017295,"language_key":"et","name":"Papani"}
+{"id":232331810,"city_id":3017297,"language_key":"et","name":"Ozrinići"}
+{"id":232332041,"city_id":3017300,"language_key":"et","name":"Ovtocici"}
+{"id":232332272,"city_id":3017303,"language_key":"et","name":"Orlina"}
+{"id":232332349,"city_id":3017304,"language_key":"et","name":"Orja Luka"}
+{"id":232332580,"city_id":3017307,"language_key":"et","name":"Donji Orahovac"}
+{"id":232332888,"city_id":3017311,"language_key":"et","name":"Ocinici"}
+{"id":232332965,"city_id":3017312,"language_key":"et","name":"Obrov"}
+{"id":232333119,"city_id":3017314,"language_key":"et","name":"Oblatno"}
+{"id":232333196,"city_id":3017315,"language_key":"et","name":"Katuniste"}
+{"id":232333273,"city_id":3017316,"language_key":"et","name":"Novsici"}
+{"id":232333350,"city_id":3017317,"language_key":"et","name":"Novoselje"}
+{"id":232333427,"city_id":3017318,"language_key":"et","name":"Negusi"}
+{"id":232333504,"city_id":3017319,"language_key":"et","name":"Nikšići vald"}
+{"id":232333581,"city_id":3017320,"language_key":"et","name":"Nikmaras"}
+{"id":232333658,"city_id":3017321,"language_key":"et","name":"Nedakusi"}
+{"id":232333735,"city_id":3017322,"language_key":"et","name":"Nedajno"}
+{"id":232333966,"city_id":3017325,"language_key":"et","name":"Murino"}
+{"id":232334043,"city_id":3017326,"language_key":"et","name":"Muo"}
+{"id":232334274,"city_id":3017329,"language_key":"et","name":"Mrčevac"}
+{"id":232334351,"city_id":3017330,"language_key":"et","name":"Moticki Gaj"}
+{"id":232334428,"city_id":3017331,"language_key":"et","name":"Donje Morakovo"}
+{"id":232334505,"city_id":3017332,"language_key":"et","name":"Moraice"}
+{"id":232334736,"city_id":3017335,"language_key":"et","name":"Mokro"}
+{"id":232334967,"city_id":3017338,"language_key":"et","name":"Mojkovac"}
+{"id":232335044,"city_id":3017339,"language_key":"et","name":"Mojanovići"}
+{"id":232335121,"city_id":3017340,"language_key":"et","name":"Mljeticak"}
+{"id":232335198,"city_id":3017341,"language_key":"et","name":"Misici"}
+{"id":232335352,"city_id":3017343,"language_key":"et","name":"Milovo"}
+{"id":232335429,"city_id":3017344,"language_key":"et","name":"Milovo"}
+{"id":232335506,"city_id":3017345,"language_key":"et","name":"Milovici"}
+{"id":232335814,"city_id":3017349,"language_key":"et","name":"Mide"}
+{"id":232335891,"city_id":3017350,"language_key":"et","name":"Mezgalji"}
+{"id":232336199,"city_id":3017354,"language_key":"et","name":"Meljine"}
+{"id":232336276,"city_id":3017355,"language_key":"et","name":"Matesevo"}
+{"id":232336353,"city_id":3017356,"language_key":"et","name":"Mataguzi"}
+{"id":232336430,"city_id":3017357,"language_key":"et","name":"Martinovici"}
+{"id":232336661,"city_id":3017360,"language_key":"et","name":"Mandici"}
+{"id":232336738,"city_id":3017361,"language_key":"et","name":"Malenza"}
+{"id":232336815,"city_id":3017362,"language_key":"et","name":"Mala Gorana"}
+{"id":232336969,"city_id":3017364,"language_key":"et","name":"Mahala"}
+{"id":232337200,"city_id":3017367,"language_key":"et","name":"Donji Luzac"}
+{"id":232337354,"city_id":3017369,"language_key":"et","name":"Lubnice"}
+{"id":232337431,"city_id":3017370,"language_key":"et","name":"Lozna"}
+{"id":232337739,"city_id":3017374,"language_key":"et","name":"Liverovici"}
+{"id":232337816,"city_id":3017375,"language_key":"et","name":"Livari"}
+{"id":232338047,"city_id":3017378,"language_key":"et","name":"Lipci"}
+{"id":232338432,"city_id":3017383,"language_key":"et","name":"Lepetani"}
+{"id":232338509,"city_id":3017384,"language_key":"et","name":"Lepenac"}
+{"id":232338586,"city_id":3017385,"language_key":"et","name":"Leovo Brdo"}
+{"id":232338663,"city_id":3017386,"language_key":"et","name":"Lekici"}
+{"id":232338894,"city_id":3017389,"language_key":"et","name":"Lazarev Krst"}
+{"id":232339125,"city_id":3017392,"language_key":"et","name":"Kuti"}
+{"id":232339202,"city_id":3017393,"language_key":"et","name":"Kuti"}
+{"id":232339279,"city_id":3017394,"language_key":"et","name":"Kurilo"}
+{"id":232339433,"city_id":3017396,"language_key":"et","name":"Kunak"}
+{"id":232339587,"city_id":3017398,"language_key":"et","name":"Kujava"}
+{"id":232339895,"city_id":3017402,"language_key":"et","name":"Kruta"}
+{"id":232340049,"city_id":3017404,"language_key":"et","name":"Krusevo"}
+{"id":232340126,"city_id":3017405,"language_key":"et","name":"Krusevo"}
+{"id":232340203,"city_id":3017406,"language_key":"et","name":"Krusevice"}
+{"id":232340357,"city_id":3017408,"language_key":"et","name":"Kruce"}
+{"id":232340896,"city_id":3017415,"language_key":"et","name":"Krasici"}
+{"id":232340973,"city_id":3017416,"language_key":"et","name":"Krajnji Do"}
+{"id":232341204,"city_id":3017419,"language_key":"et","name":"Kovren"}
+{"id":232341281,"city_id":3017420,"language_key":"et","name":"Kotor"}
+{"id":232341512,"city_id":3017423,"language_key":"et","name":"Kostanica"}
+{"id":232341897,"city_id":3017428,"language_key":"et","name":"Kornet"}
+{"id":232342205,"city_id":3017432,"language_key":"et","name":"Komarno"}
+{"id":232342282,"city_id":3017433,"language_key":"et","name":"Kolenovici"}
+{"id":232342359,"city_id":3017434,"language_key":"et","name":"Kolašini vald"}
+{"id":232342898,"city_id":3017441,"language_key":"et","name":"Kanje"}
+{"id":232342975,"city_id":3017442,"language_key":"et","name":"Kameno"}
+{"id":232343822,"city_id":3017453,"language_key":"et","name":"Jabuka"}
+{"id":232344207,"city_id":3017458,"language_key":"et","name":"Berane"}
+{"id":232344284,"city_id":3017459,"language_key":"et","name":"Igalo"}
+{"id":232344361,"city_id":3017460,"language_key":"et","name":"Herceg Novi"}
+{"id":232344592,"city_id":3017463,"language_key":"et","name":"Gusine"}
+{"id":232344746,"city_id":3017465,"language_key":"et","name":"Gruda"}
+{"id":232344823,"city_id":3017466,"language_key":"et","name":"Grbavci"}
+{"id":232345054,"city_id":3017469,"language_key":"et","name":"Gradina"}
+{"id":232345208,"city_id":3017471,"language_key":"et","name":"Gradani"}
+{"id":232345670,"city_id":3017477,"language_key":"et","name":"Gostilj"}
+{"id":232345747,"city_id":3017478,"language_key":"et","name":"Gostilj"}
+{"id":232345901,"city_id":3017480,"language_key":"et","name":"Gosici"}
+{"id":232346132,"city_id":3017483,"language_key":"et","name":"Gornji Stoj"}
+{"id":232346209,"city_id":3017484,"language_key":"et","name":"Gornji Rsojevici"}
+{"id":232346286,"city_id":3017485,"language_key":"et","name":"Gornji Orahovac"}
+{"id":232346517,"city_id":3017488,"language_key":"et","name":"Gornji Kokoti"}
+{"id":232347210,"city_id":3017497,"language_key":"et","name":"Goricani"}
+{"id":232347287,"city_id":3017498,"language_key":"et","name":"Golubovci"}
+{"id":232347364,"city_id":3017499,"language_key":"et","name":"Golemadi"}
+{"id":232347518,"city_id":3017501,"language_key":"et","name":"Godine"}
+{"id":232347826,"city_id":3017505,"language_key":"et","name":"Donji Frutak"}
+{"id":232347980,"city_id":3017507,"language_key":"et","name":"Farmaci"}
+{"id":232348134,"city_id":3017509,"language_key":"et","name":"Duzi"}
+{"id":232348211,"city_id":3017510,"language_key":"et","name":"Duske"}
+{"id":232348365,"city_id":3017512,"language_key":"et","name":"Durici"}
+{"id":232348442,"city_id":3017513,"language_key":"et","name":"Duravci"}
+{"id":232348519,"city_id":3017514,"language_key":"et","name":"Durasevici"}
+{"id":232348596,"city_id":3017515,"language_key":"et","name":"Dupilo"}
+{"id":232348750,"city_id":3017517,"language_key":"et","name":"Dulici"}
+{"id":232349443,"city_id":3017526,"language_key":"et","name":"Drusici"}
+{"id":232349751,"city_id":3017530,"language_key":"et","name":"Dragova Luka"}
+{"id":232350136,"city_id":3017535,"language_key":"et","name":"Dosude"}
+{"id":232350213,"city_id":3017536,"language_key":"et","name":"Donji Stoj"}
+{"id":232350290,"city_id":3017537,"language_key":"et","name":"Donji Rsojevici"}
+{"id":232350367,"city_id":3017538,"language_key":"et","name":"Donji Murici"}
+{"id":232350444,"city_id":3017539,"language_key":"et","name":"Donji Morinj"}
+{"id":232350521,"city_id":3017540,"language_key":"et","name":"Donji Kokoti"}
+{"id":232350752,"city_id":3017543,"language_key":"et","name":"Dona Lastva"}
+{"id":232350983,"city_id":3017546,"language_key":"et","name":"Dolac"}
+{"id":232351137,"city_id":3017548,"language_key":"et","name":"Dodosi"}
+{"id":232351214,"city_id":3017549,"language_key":"et","name":"Dobrsko Selo"}
+{"id":232351368,"city_id":3017551,"language_key":"et","name":"Dobrakovo"}
+{"id":232351445,"city_id":3017552,"language_key":"et","name":"Dinosa"}
+{"id":232351599,"city_id":3017554,"language_key":"et","name":"Dendinovici"}
+{"id":232351676,"city_id":3017555,"language_key":"et","name":"Denasi"}
+{"id":232351830,"city_id":3017557,"language_key":"et","name":"Darza"}
+{"id":232351907,"city_id":3017558,"language_key":"et","name":"Danilovgrad"}
+{"id":232351984,"city_id":3017559,"language_key":"et","name":"Dalovici"}
+{"id":232352138,"city_id":3017561,"language_key":"et","name":"Dajbabe"}
+{"id":232352215,"city_id":3017562,"language_key":"et","name":"Dabovici"}
+{"id":232352292,"city_id":3017563,"language_key":"et","name":"Dabezici"}
+{"id":232352754,"city_id":3017569,"language_key":"et","name":"Gornji Crnci"}
+{"id":232352831,"city_id":3017570,"language_key":"et","name":"Crnca"}
+{"id":232353062,"city_id":3017573,"language_key":"et","name":"Cetinje"}
+{"id":232353293,"city_id":3017576,"language_key":"et","name":"Celuga"}
+{"id":232353447,"city_id":3017578,"language_key":"et","name":"Buronji"}
+{"id":232353524,"city_id":3017579,"language_key":"et","name":"Bukovik"}
+{"id":232353755,"city_id":3017582,"language_key":"et","name":"Budva"}
+{"id":232353832,"city_id":3017583,"language_key":"et","name":"Buce"}
+{"id":232353986,"city_id":3017585,"language_key":"et","name":"Brsno"}
+{"id":232354140,"city_id":3017587,"language_key":"et","name":"Brijestovo"}
+{"id":232354294,"city_id":3017589,"language_key":"et","name":"Brezine"}
+{"id":232354448,"city_id":3017591,"language_key":"et","name":"Brca"}
+{"id":232354679,"city_id":3017594,"language_key":"et","name":"Brajse"}
+{"id":232354910,"city_id":3017597,"language_key":"et","name":"Botun"}
+{"id":232354987,"city_id":3017598,"language_key":"et","name":"Boronjina"}
+{"id":232355141,"city_id":3017600,"language_key":"et","name":"Boreti"}
+{"id":232355218,"city_id":3017601,"language_key":"et","name":"Boljevici"}
+{"id":232355295,"city_id":3017602,"language_key":"et","name":"Boljanina"}
+{"id":232355834,"city_id":3017609,"language_key":"et","name":"Bogisici"}
+{"id":232355911,"city_id":3017610,"language_key":"et","name":"Bogicevici"}
+{"id":232356142,"city_id":3017613,"language_key":"et","name":"Bogajici"}
+{"id":232356219,"city_id":3017614,"language_key":"et","name":"Boboviste"}
+{"id":232356527,"city_id":3017618,"language_key":"et","name":"Bjelosi"}
+{"id":232356835,"city_id":3017622,"language_key":"et","name":"Bioce"}
+{"id":232356912,"city_id":3017623,"language_key":"et","name":"Krusevice"}
+{"id":232356989,"city_id":3017624,"language_key":"et","name":"Bijelo Polje"}
+{"id":232357066,"city_id":3017625,"language_key":"et","name":"Bijelo Polje"}
+{"id":232357143,"city_id":3017626,"language_key":"et","name":"Bijelo Polje"}
+{"id":232357220,"city_id":3017627,"language_key":"et","name":"Bijela"}
+{"id":232357297,"city_id":3017628,"language_key":"et","name":"Bijedici"}
+{"id":232357374,"city_id":3017629,"language_key":"et","name":"Bigor"}
+{"id":232357451,"city_id":3017630,"language_key":"et","name":"Bezuje"}
+{"id":232357605,"city_id":3017632,"language_key":"et","name":"Bes"}
+{"id":232357759,"city_id":3017634,"language_key":"et","name":"Berislavci"}
+{"id":232357913,"city_id":3017636,"language_key":"et","name":"Becici"}
+{"id":232358067,"city_id":3017638,"language_key":"et","name":"Bartula"}
+{"id":232358144,"city_id":3017639,"language_key":"et","name":"Bare Sumanovica"}
+{"id":232358221,"city_id":3017640,"language_key":"et","name":"Beran Selo"}
+{"id":232358298,"city_id":3017641,"language_key":"et","name":"Bari vald"}
+{"id":232358375,"city_id":3017642,"language_key":"et","name":"Baosici"}
+{"id":232358452,"city_id":3017643,"language_key":"et","name":"Balabani"}
+{"id":232358991,"city_id":3017650,"language_key":"et","name":"Andrijevica"}
+{"id":232359068,"city_id":3017651,"language_key":"et","name":"Ambula"}
+{"id":232359299,"city_id":3017654,"language_key":"et","name":"Toljevina"}
+{"id":232359530,"city_id":3017657,"language_key":"et","name":"Stajista"}
+{"id":232359992,"city_id":3017663,"language_key":"et","name":"Senicista"}
+{"id":232361147,"city_id":3017678,"language_key":"et","name":"Bara"}
+{"id":232361224,"city_id":3017679,"language_key":"et","name":"Umac"}
+{"id":232361455,"city_id":3017682,"language_key":"et","name":"Rojevici"}
+{"id":232361686,"city_id":3017685,"language_key":"et","name":"Gornja Spila"}
+{"id":232361840,"city_id":3017687,"language_key":"et","name":"Unijerina"}
+{"id":232362071,"city_id":3017690,"language_key":"et","name":"Seveljski Do"}
+{"id":232362379,"city_id":3017694,"language_key":"et","name":"Ramadica Do"}
+{"id":232362687,"city_id":3017698,"language_key":"et","name":"Strpca"}
+{"id":232362918,"city_id":3017701,"language_key":"et","name":"Kumbor"}
+{"id":232363919,"city_id":3017714,"language_key":"et","name":"Mirac"}
+{"id":232364381,"city_id":3017720,"language_key":"et","name":"Selo"}
+{"id":232365459,"city_id":3017734,"language_key":"et","name":"Cukovici"}
+{"id":232365767,"city_id":3017738,"language_key":"et","name":"Baloci"}
+{"id":232365921,"city_id":3017740,"language_key":"et","name":"Dusici"}
+{"id":232366152,"city_id":3017743,"language_key":"et","name":"Rakica Kuce"}
+{"id":232366922,"city_id":3017753,"language_key":"et","name":"Crni Nugli"}
+{"id":232367384,"city_id":3017759,"language_key":"et","name":"Jasikovica"}
+{"id":232368077,"city_id":3017768,"language_key":"et","name":"Viti Jasen"}
+{"id":232368154,"city_id":3017769,"language_key":"et","name":"Krug"}
+{"id":232368231,"city_id":3017770,"language_key":"et","name":"Medede"}
+{"id":232368308,"city_id":3017771,"language_key":"et","name":"Savina Kruska"}
+{"id":232368462,"city_id":3017773,"language_key":"et","name":"Musterovici"}
+{"id":232369386,"city_id":3017785,"language_key":"et","name":"Ptic"}
+{"id":232369925,"city_id":3017792,"language_key":"et","name":"Prosica"}
+{"id":232370926,"city_id":3017805,"language_key":"et","name":"Petnica"}
+{"id":232371157,"city_id":3017808,"language_key":"et","name":"Podbisce"}
+{"id":232371234,"city_id":3017809,"language_key":"et","name":"Ravna Rijeka"}
+{"id":232372389,"city_id":3017824,"language_key":"et","name":"Dobra Sela"}
+{"id":232372774,"city_id":3017829,"language_key":"et","name":"Trusina"}
+{"id":232374006,"city_id":3017845,"language_key":"et","name":"Meki Do"}
+{"id":232374545,"city_id":3017852,"language_key":"et","name":"Meteriz"}
+{"id":232374853,"city_id":3017856,"language_key":"et","name":"Kacunica"}
+{"id":232375315,"city_id":3017862,"language_key":"et","name":"Kamisevo"}
+{"id":232376239,"city_id":3017874,"language_key":"et","name":"Dolina"}
+{"id":232376855,"city_id":3017882,"language_key":"et","name":"Duli"}
+{"id":232376932,"city_id":3017883,"language_key":"et","name":"Strazice"}
+{"id":232377625,"city_id":3017892,"language_key":"et","name":"Denovici"}
+{"id":232378164,"city_id":3017899,"language_key":"et","name":"Avlija"}
+{"id":232378395,"city_id":3017902,"language_key":"et","name":"Rogaci"}
+{"id":232378472,"city_id":3017903,"language_key":"et","name":"Vojnici"}
+{"id":232378549,"city_id":3017904,"language_key":"et","name":"Hajlovina"}
+{"id":232378626,"city_id":3017905,"language_key":"et","name":"Vukasovici"}
+{"id":232378857,"city_id":3017908,"language_key":"et","name":"Donji Unac"}
+{"id":232379242,"city_id":3017913,"language_key":"et","name":"Madzarski Kraj"}
+{"id":232379319,"city_id":3017914,"language_key":"et","name":"Seoca"}
+{"id":232379396,"city_id":3017915,"language_key":"et","name":"Belusevac"}
+{"id":232381013,"city_id":3017936,"language_key":"et","name":"Guke"}
+{"id":232381706,"city_id":3017945,"language_key":"et","name":"Jezero"}
+{"id":232381860,"city_id":3017947,"language_key":"et","name":"Cardak"}
+{"id":232381937,"city_id":3017948,"language_key":"et","name":"Dvorista"}
+{"id":232383169,"city_id":3017964,"language_key":"et","name":"Kacak"}
+{"id":232383477,"city_id":3017968,"language_key":"et","name":"Ljubojevac"}
+{"id":232383785,"city_id":3017972,"language_key":"et","name":"Kukavice"}
+{"id":232383862,"city_id":3017973,"language_key":"et","name":"Potkamen"}
+{"id":232383939,"city_id":3017974,"language_key":"et","name":"Jasen"}
+{"id":232384401,"city_id":3017980,"language_key":"et","name":"Zaugline"}
+{"id":232384940,"city_id":3017987,"language_key":"et","name":"Zabrnjica"}
+{"id":232385017,"city_id":3017988,"language_key":"et","name":"Rogovina"}
+{"id":232385094,"city_id":3017989,"language_key":"et","name":"Iva"}
+{"id":232385171,"city_id":3017990,"language_key":"et","name":"Vijenac"}
+{"id":232385248,"city_id":3017991,"language_key":"et","name":"Kljun"}
+{"id":232385402,"city_id":3017993,"language_key":"et","name":"Pribakovici"}
+{"id":232385633,"city_id":3017996,"language_key":"et","name":"Klapusi"}
+{"id":232385864,"city_id":3017999,"language_key":"et","name":"Jahovici"}
+{"id":232386403,"city_id":3018006,"language_key":"et","name":"Priboj"}
+{"id":232387096,"city_id":3018015,"language_key":"et","name":"Krusevo"}
+{"id":232388020,"city_id":3018027,"language_key":"et","name":"Scepan-Polje"}
+{"id":232388251,"city_id":3018030,"language_key":"et","name":"Oglavina"}
+{"id":232388713,"city_id":3018036,"language_key":"et","name":"Dakovici"}
+{"id":232389021,"city_id":3018040,"language_key":"et","name":"Bara"}
+{"id":232389098,"city_id":3018041,"language_key":"et","name":"Gornje Mrcevo"}
+{"id":232389329,"city_id":3018044,"language_key":"et","name":"Suplja Stijena"}
+{"id":232389483,"city_id":3018046,"language_key":"et","name":"Lucice"}
+{"id":232389637,"city_id":3018048,"language_key":"et","name":"Ravne Smreke"}
+{"id":232390099,"city_id":3018054,"language_key":"et","name":"Strmecica"}
+{"id":232390638,"city_id":3018061,"language_key":"et","name":"Cipcije"}
+{"id":232390715,"city_id":3018062,"language_key":"et","name":"Omar"}
+{"id":232390792,"city_id":3018063,"language_key":"et","name":"Tepacko Polje"}
+{"id":232391100,"city_id":3018067,"language_key":"et","name":"Cardak"}
+{"id":232391254,"city_id":3018069,"language_key":"et","name":"Pitomine"}
+{"id":232391562,"city_id":3018073,"language_key":"et","name":"Sumanovac"}
+{"id":232391639,"city_id":3018074,"language_key":"et","name":"Virak"}
+{"id":232391793,"city_id":3018076,"language_key":"et","name":"Posleniste"}
+{"id":232392486,"city_id":3018085,"language_key":"et","name":"Merulja"}
+{"id":232393256,"city_id":3018095,"language_key":"et","name":"Kosorska Bukovica"}
+{"id":232394257,"city_id":3018108,"language_key":"et","name":"Curukaca"}
+{"id":232394334,"city_id":3018109,"language_key":"et","name":"Nabojine"}
+{"id":232394796,"city_id":3018115,"language_key":"et","name":"Dedovo Polje"}
+{"id":232395489,"city_id":3018124,"language_key":"et","name":"Palez"}
+{"id":232396490,"city_id":3018137,"language_key":"et","name":"Rasova"}
+{"id":232396721,"city_id":3018140,"language_key":"et","name":"Orasac"}
+{"id":232396952,"city_id":3018143,"language_key":"et","name":"Stancani"}
+{"id":232397029,"city_id":3018144,"language_key":"et","name":"Okruglica"}
+{"id":232397106,"city_id":3018145,"language_key":"et","name":"Dublje"}
+{"id":232397337,"city_id":3018148,"language_key":"et","name":"Kaljici"}
+{"id":232397491,"city_id":3018150,"language_key":"et","name":"Perotin"}
+{"id":232397876,"city_id":3018155,"language_key":"et","name":"Kucetina"}
+{"id":232398184,"city_id":3018159,"language_key":"et","name":"Lijeska"}
+{"id":232398723,"city_id":3018166,"language_key":"et","name":"Rasnovic"}
+{"id":232400032,"city_id":3018183,"language_key":"et","name":"Breza"}
+{"id":232400494,"city_id":3018189,"language_key":"et","name":"Sljucka Strana"}
+{"id":232401803,"city_id":3018206,"language_key":"et","name":"Sakovo Selo"}
+{"id":232402419,"city_id":3018214,"language_key":"et","name":"Besevina"}
+{"id":232403420,"city_id":3018227,"language_key":"et","name":"Racevo"}
+{"id":232405114,"city_id":3018249,"language_key":"et","name":"Kojovici"}
+{"id":232405345,"city_id":3018252,"language_key":"et","name":"Rudnice"}
+{"id":232405422,"city_id":3018253,"language_key":"et","name":"Zaviden"}
+{"id":232405499,"city_id":3018254,"language_key":"et","name":"Cavlovic Kula"}
+{"id":232405576,"city_id":3018255,"language_key":"et","name":"Raovici"}
+{"id":232405653,"city_id":3018256,"language_key":"et","name":"Loncari"}
+{"id":232405730,"city_id":3018257,"language_key":"et","name":"Podrudine"}
+{"id":232405961,"city_id":3018260,"language_key":"et","name":"Dobra Voda"}
+{"id":232406269,"city_id":3018264,"language_key":"et","name":"Potkovacica"}
+{"id":232406423,"city_id":3018266,"language_key":"et","name":"Adilovici"}
+{"id":232406500,"city_id":3018267,"language_key":"et","name":"Jagnila"}
+{"id":232406577,"city_id":3018268,"language_key":"et","name":"Bozici"}
+{"id":232406731,"city_id":3018270,"language_key":"et","name":"Klismerine"}
+{"id":232406808,"city_id":3018271,"language_key":"et","name":"Orevine"}
+{"id":232407116,"city_id":3018275,"language_key":"et","name":"Krnja"}
+{"id":232407270,"city_id":3018277,"language_key":"et","name":"Plijesi"}
+{"id":232407501,"city_id":3018280,"language_key":"et","name":"Slepac"}
+{"id":232407655,"city_id":3018282,"language_key":"et","name":"Kobiljaca"}
+{"id":232408117,"city_id":3018288,"language_key":"et","name":"Rasova"}
+{"id":232408271,"city_id":3018290,"language_key":"et","name":"Jelica Doline"}
+{"id":232408425,"city_id":3018292,"language_key":"et","name":"Male Sljeme"}
+{"id":232409657,"city_id":3018308,"language_key":"et","name":"Rajkovici Plavce brdo"}
+{"id":232410042,"city_id":3018313,"language_key":"et","name":"Sadici"}
+{"id":232410350,"city_id":3018317,"language_key":"et","name":"Majna Gora"}
+{"id":232412121,"city_id":3018340,"language_key":"et","name":"Dzafica Brdo"}
+{"id":232412275,"city_id":3018342,"language_key":"et","name":"Loznica"}
+{"id":232412429,"city_id":3018344,"language_key":"et","name":"Zaton"}
+{"id":232412660,"city_id":3018347,"language_key":"et","name":"Njegnjevo"}
+{"id":232412737,"city_id":3018348,"language_key":"et","name":"Sutivan"}
+{"id":232412968,"city_id":3018351,"language_key":"et","name":"Laljevici"}
+{"id":232413276,"city_id":3018355,"language_key":"et","name":"Gubavac"}
+{"id":232413507,"city_id":3018358,"language_key":"et","name":"Unevina"}
+{"id":232413969,"city_id":3018364,"language_key":"et","name":"Osoje"}
+{"id":232414354,"city_id":3018369,"language_key":"et","name":"Gornje Selo"}
+{"id":232414431,"city_id":3018370,"language_key":"et","name":"Lemes"}
+{"id":232414508,"city_id":3018371,"language_key":"et","name":"Kucetine"}
+{"id":232414662,"city_id":3018373,"language_key":"et","name":"Guvnista"}
+{"id":232414739,"city_id":3018374,"language_key":"et","name":"Krc"}
+{"id":232415124,"city_id":3018379,"language_key":"et","name":"Potrk"}
+{"id":232415355,"city_id":3018382,"language_key":"et","name":"Perovici"}
+{"id":232416664,"city_id":3018399,"language_key":"et","name":"Gomile"}
+{"id":232416818,"city_id":3018401,"language_key":"et","name":"Ubli"}
+{"id":232417357,"city_id":3018408,"language_key":"et","name":"Kostanica"}
+{"id":232417896,"city_id":3018415,"language_key":"et","name":"Donji Kosici"}
+{"id":232418050,"city_id":3018417,"language_key":"et","name":"Kupusci"}
+{"id":232418204,"city_id":3018419,"language_key":"et","name":"Rmuse"}
+{"id":232418512,"city_id":3018423,"language_key":"et","name":"Prisoja"}
+{"id":232418974,"city_id":3018429,"language_key":"et","name":"Donji Crnci"}
+{"id":232419051,"city_id":3018430,"language_key":"et","name":"Podlunjica"}
+{"id":232419128,"city_id":3018431,"language_key":"et","name":"Celinacki Dolovi"}
+{"id":232419359,"city_id":3018434,"language_key":"et","name":"Lastva"}
+{"id":232419590,"city_id":3018437,"language_key":"et","name":"Martinovici"}
+{"id":232419667,"city_id":3018438,"language_key":"et","name":"Brajici"}
+{"id":232419821,"city_id":3018440,"language_key":"et","name":"Belveder"}
+{"id":232420899,"city_id":3018454,"language_key":"et","name":"Kljajevici"}
+{"id":232420976,"city_id":3018455,"language_key":"et","name":"Begova Dol"}
+{"id":232421053,"city_id":3018456,"language_key":"et","name":"Jasenovi Do"}
+{"id":232421130,"city_id":3018457,"language_key":"et","name":"Cerovi Do"}
+{"id":232421207,"city_id":3018458,"language_key":"et","name":"Posajci"}
+{"id":232422901,"city_id":3018480,"language_key":"et","name":"Sabani"}
+{"id":232424903,"city_id":3018506,"language_key":"et","name":"Vodni Do"}
+{"id":232424980,"city_id":3018507,"language_key":"et","name":"Podazdrijelo"}
+{"id":232425442,"city_id":3018513,"language_key":"et","name":"Arbanasi"}
+{"id":232425519,"city_id":3018514,"language_key":"et","name":"Donja Brova"}
+{"id":232425596,"city_id":3018515,"language_key":"et","name":"Petrovici"}
+{"id":232425673,"city_id":3018516,"language_key":"et","name":"Papratni Do"}
+{"id":232426212,"city_id":3018523,"language_key":"et","name":"Kuciste"}
+{"id":232426366,"city_id":3018525,"language_key":"et","name":"Rovine"}
+{"id":232426597,"city_id":3018528,"language_key":"et","name":"Zaselje"}
+{"id":232426674,"city_id":3018529,"language_key":"et","name":"Nerim"}
+{"id":232426828,"city_id":3018531,"language_key":"et","name":"Zovina"}
+{"id":232426905,"city_id":3018532,"language_key":"et","name":"Jasikovac"}
+{"id":232427521,"city_id":3018540,"language_key":"et","name":"Ljeskovi Do"}
+{"id":232427829,"city_id":3018544,"language_key":"et","name":"Ovsine"}
+{"id":232427906,"city_id":3018545,"language_key":"et","name":"Krstace"}
+{"id":232428060,"city_id":3018547,"language_key":"et","name":"Blagojevic"}
+{"id":232428214,"city_id":3018549,"language_key":"et","name":"Zagvozdak"}
+{"id":232428445,"city_id":3018552,"language_key":"et","name":"Zmukici"}
+{"id":232428676,"city_id":3018555,"language_key":"et","name":"Dinov Do"}
+{"id":232428907,"city_id":3018558,"language_key":"et","name":"Musta Rupa"}
+{"id":232428984,"city_id":3018559,"language_key":"et","name":"Komansko Brdo"}
+{"id":232429061,"city_id":3018560,"language_key":"et","name":"Prijeko Pocivalo"}
+{"id":232429138,"city_id":3018561,"language_key":"et","name":"Danave"}
+{"id":232429215,"city_id":3018562,"language_key":"et","name":"Danave"}
+{"id":232430216,"city_id":3018575,"language_key":"et","name":"Velji Do"}
+{"id":232430447,"city_id":3018578,"language_key":"et","name":"Ljeskov Do"}
+{"id":232430678,"city_id":3018581,"language_key":"et","name":"Kopitov Do"}
+{"id":232430755,"city_id":3018582,"language_key":"et","name":"Dragosev Do"}
+{"id":232430909,"city_id":3018584,"language_key":"et","name":"Grandovina"}
+{"id":232430986,"city_id":3018585,"language_key":"et","name":"Poljkovac"}
+{"id":232431063,"city_id":3018586,"language_key":"et","name":"Grandov Do"}
+{"id":232431294,"city_id":3018589,"language_key":"et","name":"Kulina"}
+{"id":232431602,"city_id":3018593,"language_key":"et","name":"Jabukovac"}
+{"id":232431756,"city_id":3018595,"language_key":"et","name":"Papratni Do"}
+{"id":232431987,"city_id":3018598,"language_key":"et","name":"Stazer"}
+{"id":232432064,"city_id":3018599,"language_key":"et","name":"Zeleni Do"}
+{"id":232432141,"city_id":3018600,"language_key":"et","name":"Ozebli Do"}
+{"id":232432218,"city_id":3018601,"language_key":"et","name":"Obadovica"}
+{"id":232432372,"city_id":3018603,"language_key":"et","name":"Dajcin Do"}
+{"id":232432526,"city_id":3018605,"language_key":"et","name":"Kovacev Do"}
+{"id":232432603,"city_id":3018606,"language_key":"et","name":"Crvena Paprat"}
+{"id":232432680,"city_id":3018607,"language_key":"et","name":"Rupice"}
+{"id":232432757,"city_id":3018608,"language_key":"et","name":"Bandicka Zupa"}
+{"id":232432834,"city_id":3018609,"language_key":"et","name":"Crnioni Do"}
+{"id":232433296,"city_id":3018615,"language_key":"et","name":"Bobova Ulica"}
+{"id":232433604,"city_id":3018619,"language_key":"et","name":"Krna Jela"}
+{"id":232433681,"city_id":3018620,"language_key":"et","name":"Potkraj"}
+{"id":232433758,"city_id":3018621,"language_key":"et","name":"Zagulj"}
+{"id":232433912,"city_id":3018623,"language_key":"et","name":"Boksin Do"}
+{"id":232434143,"city_id":3018626,"language_key":"et","name":"Zamacev Do"}
+{"id":232434374,"city_id":3018629,"language_key":"et","name":"Trebovinski Pod"}
+{"id":232434451,"city_id":3018630,"language_key":"et","name":"Ljeskovi Dolovi"}
+{"id":232434605,"city_id":3018632,"language_key":"et","name":"Serdar Kula"}
+{"id":232434682,"city_id":3018633,"language_key":"et","name":"Zuri"}
+{"id":232435144,"city_id":3018639,"language_key":"et","name":"Steci"}
+{"id":232435221,"city_id":3018640,"language_key":"et","name":"Ponorni Do"}
+{"id":232435298,"city_id":3018641,"language_key":"et","name":"Priporci"}
+{"id":232435375,"city_id":3018642,"language_key":"et","name":"Braticevi Dolovi"}
+{"id":232435529,"city_id":3018644,"language_key":"et","name":"Tijesak"}
+{"id":232435683,"city_id":3018646,"language_key":"et","name":"Docici"}
+{"id":232435760,"city_id":3018647,"language_key":"et","name":"Dulov Do"}
+{"id":232435837,"city_id":3018648,"language_key":"et","name":"Kopilov Do"}
+{"id":232435914,"city_id":3018649,"language_key":"et","name":"Lipov Do"}
+{"id":232435991,"city_id":3018650,"language_key":"et","name":"Podstrana"}
+{"id":232436068,"city_id":3018651,"language_key":"et","name":"Elezov Do"}
+{"id":232436684,"city_id":3018659,"language_key":"et","name":"Mijajlov Do"}
+{"id":232436992,"city_id":3018663,"language_key":"et","name":"Bajov Do"}
+{"id":232437223,"city_id":3018666,"language_key":"et","name":"Bride"}
+{"id":232437454,"city_id":3018669,"language_key":"et","name":"Ziva"}
+{"id":232437531,"city_id":3018670,"language_key":"et","name":"Begova Glavica"}
+{"id":232437608,"city_id":3018671,"language_key":"et","name":"Ogorjelo Zdrijelo"}
+{"id":232437685,"city_id":3018672,"language_key":"et","name":"Buronjski Do"}
+{"id":232437839,"city_id":3018674,"language_key":"et","name":"Bobovine"}
+{"id":232437916,"city_id":3018675,"language_key":"et","name":"Kracedo"}
+{"id":232437993,"city_id":3018676,"language_key":"et","name":"Golubinje"}
+{"id":232438147,"city_id":3018678,"language_key":"et","name":"Duboki Do"}
+{"id":232438224,"city_id":3018679,"language_key":"et","name":"Ovcji Do"}
+{"id":232439225,"city_id":3018692,"language_key":"et","name":"Koracevac"}
+{"id":232439302,"city_id":3018693,"language_key":"et","name":"Srni Do"}
+{"id":232439379,"city_id":3018694,"language_key":"et","name":"Kovce Do"}
+{"id":232439610,"city_id":3018697,"language_key":"et","name":"Krnulic"}
+{"id":232439687,"city_id":3018698,"language_key":"et","name":"Donje Selo"}
+{"id":232439841,"city_id":3018700,"language_key":"et","name":"Celinski Do"}
+{"id":232440380,"city_id":3018707,"language_key":"et","name":"Zgrade"}
+{"id":232440611,"city_id":3018710,"language_key":"et","name":"Gornje Morakovo"}
+{"id":232440765,"city_id":3018712,"language_key":"et","name":"Bistrice"}
+{"id":232440842,"city_id":3018713,"language_key":"et","name":"Medede"}
+{"id":232440919,"city_id":3018714,"language_key":"et","name":"Rijeka"}
+{"id":232441073,"city_id":3018716,"language_key":"et","name":"Poda"}
+{"id":232441304,"city_id":3018719,"language_key":"et","name":"Gostojevici"}
+{"id":232441458,"city_id":3018721,"language_key":"et","name":"Jasikovac"}
+{"id":232441612,"city_id":3018723,"language_key":"et","name":"Lisic Do"}
+{"id":232442074,"city_id":3018729,"language_key":"et","name":"Mijokusovici"}
+{"id":232442536,"city_id":3018735,"language_key":"et","name":"Selista"}
+{"id":232442613,"city_id":3018736,"language_key":"et","name":"Gornji Frutak"}
+{"id":232442690,"city_id":3018737,"language_key":"et","name":"Usanovici"}
+{"id":232442844,"city_id":3018739,"language_key":"et","name":"Muzevice"}
+{"id":232442998,"city_id":3018741,"language_key":"et","name":"Burtaiši"}
+{"id":232443152,"city_id":3018743,"language_key":"et","name":"Dolovi Kovacki"}
+{"id":232443306,"city_id":3018745,"language_key":"et","name":"Gostilje Brajovicko"}
+{"id":232443460,"city_id":3018747,"language_key":"et","name":"Donja Glizica"}
+{"id":232443537,"city_id":3018748,"language_key":"et","name":"Medeze"}
+{"id":232444692,"city_id":3018763,"language_key":"et","name":"Krasovina"}
+{"id":232444769,"city_id":3018764,"language_key":"et","name":"Simonovici"}
+{"id":232445000,"city_id":3018767,"language_key":"et","name":"Potkula"}
+{"id":232445308,"city_id":3018771,"language_key":"et","name":"Lalevici"}
+{"id":232445385,"city_id":3018772,"language_key":"et","name":"Vucica"}
+{"id":232445462,"city_id":3018773,"language_key":"et","name":"Podgrizde"}
+{"id":232445616,"city_id":3018775,"language_key":"et","name":"Trsa"}
+{"id":232446617,"city_id":3018788,"language_key":"et","name":"Milovici"}
+{"id":232446694,"city_id":3018789,"language_key":"et","name":"Brod"}
+{"id":232446925,"city_id":3018792,"language_key":"et","name":"Kuta"}
+{"id":232447541,"city_id":3018800,"language_key":"et","name":"Turava"}
+{"id":232448157,"city_id":3018808,"language_key":"et","name":"Kopito"}
+{"id":232448234,"city_id":3018809,"language_key":"et","name":"Koljat"}
+{"id":232448542,"city_id":3018813,"language_key":"et","name":"Donje Selo"}
+{"id":232448927,"city_id":3018818,"language_key":"et","name":"Zabrde"}
+{"id":232449081,"city_id":3018820,"language_key":"et","name":"Jelovica"}
+{"id":232449312,"city_id":3018823,"language_key":"et","name":"Pocivala"}
+{"id":232449389,"city_id":3018824,"language_key":"et","name":"Rusenovici"}
+{"id":232449543,"city_id":3018826,"language_key":"et","name":"Grebnica"}
+{"id":232449928,"city_id":3018831,"language_key":"et","name":"Dolovi"}
+{"id":232450005,"city_id":3018832,"language_key":"et","name":"Mekote"}
+{"id":232450159,"city_id":3018834,"language_key":"et","name":"Gornji Tupan"}
+{"id":232450236,"city_id":3018835,"language_key":"et","name":"Bjelovici"}
+{"id":232450698,"city_id":3018841,"language_key":"et","name":"Kamenari"}
+{"id":232451314,"city_id":3018849,"language_key":"et","name":"Gorica"}
+{"id":232451545,"city_id":3018852,"language_key":"et","name":"Dubrovca Do"}
+{"id":232452084,"city_id":3018859,"language_key":"et","name":"Stari Viskovici"}
+{"id":232452161,"city_id":3018860,"language_key":"et","name":"Pogana"}
+{"id":232452469,"city_id":3018864,"language_key":"et","name":"Drzewicz"}
+{"id":232452777,"city_id":3018868,"language_key":"et","name":"Pometenik"}
+{"id":232453008,"city_id":3018871,"language_key":"et","name":"Trosavac"}
+{"id":232453547,"city_id":3018878,"language_key":"et","name":"Podgrede"}
+{"id":232453701,"city_id":3018880,"language_key":"et","name":"Arapi"}
+{"id":232453855,"city_id":3018882,"language_key":"et","name":"Cerak"}
+{"id":232454163,"city_id":3018886,"language_key":"et","name":"Golijski Stozi"}
+{"id":232454933,"city_id":3018896,"language_key":"et","name":"Petrovo Polje"}
+{"id":232455087,"city_id":3018898,"language_key":"et","name":"Raspuce"}
+{"id":232455164,"city_id":3018899,"language_key":"et","name":"Todorov Dub"}
+{"id":232455241,"city_id":3018900,"language_key":"et","name":"Bukovik"}
+{"id":232455395,"city_id":3018902,"language_key":"et","name":"Pasina Voda"}
+{"id":232455549,"city_id":3018904,"language_key":"et","name":"Mokra Njiva"}
+{"id":232455626,"city_id":3018905,"language_key":"et","name":"Ornice"}
+{"id":232455703,"city_id":3018906,"language_key":"et","name":"Zavrh"}
+{"id":232456165,"city_id":3018912,"language_key":"et","name":"Vidov Potok"}
+{"id":232456473,"city_id":3018916,"language_key":"et","name":"Seniciste"}
+{"id":232456550,"city_id":3018917,"language_key":"et","name":"Drazin Vrt"}
+{"id":232457397,"city_id":3018928,"language_key":"et","name":"Veliko Radevo"}
+{"id":232457474,"city_id":3018929,"language_key":"et","name":"Škaljari"}
+{"id":232458013,"city_id":3018936,"language_key":"et","name":"Mitrovici"}
+{"id":232458167,"city_id":3018938,"language_key":"et","name":"Vidrovan"}
+{"id":232458321,"city_id":3018940,"language_key":"et","name":"Ratajica Glavica"}
+{"id":232458475,"city_id":3018942,"language_key":"et","name":"Vir"}
+{"id":232460246,"city_id":3018965,"language_key":"et","name":"Radanovici"}
+{"id":232463865,"city_id":3019012,"language_key":"et","name":"Velembusi"}
+{"id":232464173,"city_id":3019016,"language_key":"et","name":"Susan"}
+{"id":232465713,"city_id":3019036,"language_key":"et","name":"Ravna Rijeka"}
+{"id":232466021,"city_id":3019040,"language_key":"et","name":"Crkvina"}
+{"id":232466329,"city_id":3019044,"language_key":"et","name":"Podvlah"}
+{"id":232467715,"city_id":3019062,"language_key":"et","name":"Mustafica Grede"}
+{"id":232467792,"city_id":3019063,"language_key":"et","name":"Jasikovac"}
+{"id":232468562,"city_id":3019073,"language_key":"et","name":"Cemenca"}
+{"id":232468870,"city_id":3019077,"language_key":"et","name":"Bedem"}
+{"id":232468947,"city_id":3019078,"language_key":"et","name":"Lepirica"}
+{"id":232469024,"city_id":3019079,"language_key":"et","name":"Kovacev Do"}
+{"id":232469101,"city_id":3019080,"language_key":"et","name":"Kolo"}
+{"id":232469178,"city_id":3019081,"language_key":"et","name":"Zabrnjica"}
+{"id":232469332,"city_id":3019083,"language_key":"et","name":"Briski Do"}
+{"id":232469486,"city_id":3019085,"language_key":"et","name":"Prijevori"}
+{"id":232469563,"city_id":3019086,"language_key":"et","name":"Palez"}
+{"id":232469717,"city_id":3019088,"language_key":"et","name":"Kamenica"}
+{"id":232469794,"city_id":3019089,"language_key":"et","name":"Krivace"}
+{"id":232469871,"city_id":3019090,"language_key":"et","name":"Poljane"}
+{"id":232470025,"city_id":3019092,"language_key":"et","name":"Osjecenica"}
+{"id":232470256,"city_id":3019095,"language_key":"et","name":"Bozdarev Do"}
+{"id":232470872,"city_id":3019103,"language_key":"et","name":"Vuci Do"}
+{"id":232470949,"city_id":3019104,"language_key":"et","name":"Solinski Brijeg"}
+{"id":232471411,"city_id":3019110,"language_key":"et","name":"Stankov Do"}
+{"id":232471565,"city_id":3019112,"language_key":"et","name":"Plitki Do"}
+{"id":232471642,"city_id":3019113,"language_key":"et","name":"Razdolje"}
+{"id":232471719,"city_id":3019114,"language_key":"et","name":"Petrovica Do"}
+{"id":232471796,"city_id":3019115,"language_key":"et","name":"Mededov Do"}
+{"id":232471873,"city_id":3019116,"language_key":"et","name":"Aluga"}
+{"id":232472412,"city_id":3019123,"language_key":"et","name":"Studenac"}
+{"id":232472643,"city_id":3019126,"language_key":"et","name":"Rudica Laka"}
+{"id":232472797,"city_id":3019128,"language_key":"et","name":"Jezerca"}
+{"id":232472874,"city_id":3019129,"language_key":"et","name":"Kapavica"}
+{"id":232472951,"city_id":3019130,"language_key":"et","name":"Vrljeroski Do"}
+{"id":232473028,"city_id":3019131,"language_key":"et","name":"Borak"}
+{"id":232473105,"city_id":3019132,"language_key":"et","name":"Gracanica"}
+{"id":232473567,"city_id":3019138,"language_key":"et","name":"Mala Rzista"}
+{"id":232473875,"city_id":3019142,"language_key":"et","name":"Borovi Do"}
+{"id":232474645,"city_id":3019152,"language_key":"et","name":"Lipov Do"}
+{"id":232474722,"city_id":3019153,"language_key":"et","name":"Zagonac"}
+{"id":232475030,"city_id":3019157,"language_key":"et","name":"Pistala"}
+{"id":232475261,"city_id":3019160,"language_key":"et","name":"Kruska"}
+{"id":232475338,"city_id":3019161,"language_key":"et","name":"Plijevor"}
+{"id":232475646,"city_id":3019165,"language_key":"et","name":"Sjenokos"}
+{"id":232475723,"city_id":3019166,"language_key":"et","name":"Ivanj-Do"}
+{"id":232475954,"city_id":3019169,"language_key":"et","name":"Gorin Do"}
+{"id":232476031,"city_id":3019170,"language_key":"et","name":"Padine"}
+{"id":232476647,"city_id":3019178,"language_key":"et","name":"Milusina Pecina"}
+{"id":232476724,"city_id":3019179,"language_key":"et","name":"Jasika"}
+{"id":232476955,"city_id":3019182,"language_key":"et","name":"Miolje Polje"}
+{"id":232477032,"city_id":3019183,"language_key":"et","name":"Ploce"}
+{"id":232477802,"city_id":3019193,"language_key":"et","name":"Popovici"}
+{"id":232478033,"city_id":3019196,"language_key":"et","name":"Luke"}
+{"id":232478110,"city_id":3019197,"language_key":"et","name":"Gorica"}
+{"id":232478187,"city_id":3019198,"language_key":"et","name":"Glizica"}
+{"id":232478495,"city_id":3019202,"language_key":"et","name":"Ljutotuk"}
+{"id":232478572,"city_id":3019203,"language_key":"et","name":"Stanjevica Rupa"}
+{"id":232478803,"city_id":3019206,"language_key":"et","name":"Pitoma Loza"}
+{"id":232478957,"city_id":3019208,"language_key":"et","name":"Petrici"}
+{"id":232479034,"city_id":3019209,"language_key":"et","name":"Brdo"}
+{"id":232479111,"city_id":3019210,"language_key":"et","name":"Busin Do"}
+{"id":232479188,"city_id":3019211,"language_key":"et","name":"Kalezici"}
+{"id":232479265,"city_id":3019212,"language_key":"et","name":"Dugi Laz"}
+{"id":232479496,"city_id":3019215,"language_key":"et","name":"Branlovica"}
+{"id":232479573,"city_id":3019216,"language_key":"et","name":"Glavica"}
+{"id":232479650,"city_id":3019217,"language_key":"et","name":"Gornja Markovina"}
+{"id":232479727,"city_id":3019218,"language_key":"et","name":"Oselina"}
+{"id":232479881,"city_id":3019220,"language_key":"et","name":"Skanjci"}
+{"id":232480189,"city_id":3019224,"language_key":"et","name":"Opacac"}
+{"id":232480266,"city_id":3019225,"language_key":"et","name":"Mihaljevici"}
+{"id":232480497,"city_id":3019228,"language_key":"et","name":"Kosmac"}
+{"id":232480574,"city_id":3019229,"language_key":"et","name":"Dapkovici"}
+{"id":232480805,"city_id":3019232,"language_key":"et","name":"Milocer"}
+{"id":232481267,"city_id":3019238,"language_key":"et","name":"Jaicevici"}
+{"id":232481652,"city_id":3019243,"language_key":"et","name":"Kralji Stari"}
+{"id":232481729,"city_id":3019244,"language_key":"et","name":"Donje Polje"}
+{"id":232481806,"city_id":3019245,"language_key":"et","name":"Podlastva"}
+{"id":232482576,"city_id":3019255,"language_key":"et","name":"Buljici"}
+{"id":232483269,"city_id":3019264,"language_key":"et","name":"Masnica"}
+{"id":232484501,"city_id":3019280,"language_key":"et","name":"Kacanik"}
+{"id":232484809,"city_id":3019284,"language_key":"et","name":"Lovnocelo"}
+{"id":232484886,"city_id":3019285,"language_key":"et","name":"Husejinovici"}
+{"id":232486041,"city_id":3019300,"language_key":"et","name":"Lukin Vir"}
+{"id":232487504,"city_id":3019319,"language_key":"et","name":"Zar"}
+{"id":232487966,"city_id":3019325,"language_key":"et","name":"Maslari"}
+{"id":232489121,"city_id":3019340,"language_key":"et","name":"Dolja"}
+{"id":232489814,"city_id":3019349,"language_key":"et","name":"Stubica"}
+{"id":232491816,"city_id":3019375,"language_key":"et","name":"Malo Nemanjine"}
+{"id":232491893,"city_id":3019376,"language_key":"et","name":"Donja Ljesnica"}
+{"id":232492278,"city_id":3019381,"language_key":"et","name":"Vrsevo"}
+{"id":232492509,"city_id":3019384,"language_key":"et","name":"Tarhanisi"}
+{"id":232492663,"city_id":3019386,"language_key":"et","name":"Agovica"}
+{"id":232492740,"city_id":3019387,"language_key":"et","name":"Srednje Zaostro"}
+{"id":232493279,"city_id":3019394,"language_key":"et","name":"Dapsici"}
+{"id":232494049,"city_id":3019404,"language_key":"et","name":"Mucici"}
+{"id":232494434,"city_id":3019409,"language_key":"et","name":"Musovici"}
+{"id":232495127,"city_id":3019418,"language_key":"et","name":"Durovici"}
+{"id":232495281,"city_id":3019420,"language_key":"et","name":"Pocic"}
+{"id":232495512,"city_id":3019423,"language_key":"et","name":"Pricelje"}
+{"id":232495666,"city_id":3019425,"language_key":"et","name":"Gola Strana"}
+{"id":232495897,"city_id":3019428,"language_key":"et","name":"Vinogradista"}
+{"id":232495974,"city_id":3019429,"language_key":"et","name":"Potoci"}
+{"id":232496128,"city_id":3019431,"language_key":"et","name":"Bunca"}
+{"id":232496436,"city_id":3019435,"language_key":"et","name":"Kostrikovica"}
+{"id":232496513,"city_id":3019436,"language_key":"et","name":"Sibionica"}
+{"id":232496590,"city_id":3019437,"language_key":"et","name":"Vuksanovo Gumno"}
+{"id":232498284,"city_id":3019459,"language_key":"et","name":"Kraljevac"}
+{"id":232498438,"city_id":3019461,"language_key":"et","name":"Krkor"}
+{"id":232498515,"city_id":3019462,"language_key":"et","name":"Levaja"}
+{"id":232498669,"city_id":3019464,"language_key":"et","name":"Kami"}
+{"id":232498746,"city_id":3019465,"language_key":"et","name":"Guberinici"}
+{"id":232499516,"city_id":3019475,"language_key":"et","name":"Donja Trebjesica"}
+{"id":232499747,"city_id":3019478,"language_key":"et","name":"Donja Sela"}
+{"id":232500209,"city_id":3019484,"language_key":"et","name":"Mrtvo Doboko"}
+{"id":232500594,"city_id":3019489,"language_key":"et","name":"Drijen"}
+{"id":232501056,"city_id":3019495,"language_key":"et","name":"Raicevine"}
+{"id":232501210,"city_id":3019497,"language_key":"et","name":"Krzevo"}
+{"id":232501287,"city_id":3019498,"language_key":"et","name":"Kosetine"}
+{"id":232501518,"city_id":3019501,"language_key":"et","name":"Presjeka"}
+{"id":232501595,"city_id":3019502,"language_key":"et","name":"Gropa"}
+{"id":232501749,"city_id":3019504,"language_key":"et","name":"Begoviina"}
+{"id":232501826,"city_id":3019505,"language_key":"et","name":"Jastreb"}
+{"id":232501980,"city_id":3019507,"language_key":"et","name":"Donji Curilac"}
+{"id":232502057,"city_id":3019508,"language_key":"et","name":"Gornji Curilac"}
+{"id":232502134,"city_id":3019509,"language_key":"et","name":"Grlic"}
+{"id":232502365,"city_id":3019512,"language_key":"et","name":"Planinica"}
+{"id":232502673,"city_id":3019516,"language_key":"et","name":"Dekovici"}
+{"id":232503135,"city_id":3019522,"language_key":"et","name":"Smailagica Polje"}
+{"id":232503443,"city_id":3019526,"language_key":"et","name":"Trebaljevo"}
+{"id":232504521,"city_id":3019540,"language_key":"et","name":"Sljivlje"}
+{"id":232504983,"city_id":3019546,"language_key":"et","name":"Prisojak"}
+{"id":232505522,"city_id":3019553,"language_key":"et","name":"Klikovace"}
+{"id":232507601,"city_id":3019580,"language_key":"et","name":"Osojnik"}
+{"id":232507909,"city_id":3019584,"language_key":"et","name":"Poljane"}
+{"id":232509372,"city_id":3019603,"language_key":"et","name":"Novo Selo"}
+{"id":232509526,"city_id":3019605,"language_key":"et","name":"Veleta"}
+{"id":232509834,"city_id":3019609,"language_key":"et","name":"Kolasinovici"}
+{"id":232511066,"city_id":3019625,"language_key":"et","name":"Calanovica"}
+{"id":232511143,"city_id":3019626,"language_key":"et","name":"Drakovici"}
+{"id":232511528,"city_id":3019631,"language_key":"et","name":"Rajicev Do"}
+{"id":232511605,"city_id":3019632,"language_key":"et","name":"Lubovo"}
+{"id":232511759,"city_id":3019634,"language_key":"et","name":"Hadulica"}
+{"id":232511913,"city_id":3019636,"language_key":"et","name":"Bobula"}
+{"id":232511990,"city_id":3019637,"language_key":"et","name":"Krstovace"}
+{"id":232512221,"city_id":3019640,"language_key":"et","name":"Gornje Kunovo"}
+{"id":232512298,"city_id":3019641,"language_key":"et","name":"Sume"}
+{"id":232512375,"city_id":3019642,"language_key":"et","name":"Daronji Do"}
+{"id":232512452,"city_id":3019643,"language_key":"et","name":"Pod-Daznik"}
+{"id":232512529,"city_id":3019644,"language_key":"et","name":"Knez Polje"}
+{"id":232512683,"city_id":3019646,"language_key":"et","name":"Prijevori"}
+{"id":232512991,"city_id":3019650,"language_key":"et","name":"Markovina"}
+{"id":232513145,"city_id":3019652,"language_key":"et","name":"Brajevici"}
+{"id":232513453,"city_id":3019656,"language_key":"et","name":"Cenici"}
+{"id":232514454,"city_id":3019669,"language_key":"et","name":"Urljev Do"}
+{"id":232514993,"city_id":3019676,"language_key":"et","name":"Tursko"}
+{"id":232515378,"city_id":3019681,"language_key":"et","name":"Radanovici"}
+{"id":232516302,"city_id":3019693,"language_key":"et","name":"Maglenca"}
+{"id":232516379,"city_id":3019694,"language_key":"et","name":"Rvana Gora"}
+{"id":232516918,"city_id":3019701,"language_key":"et","name":"Vecerici"}
+{"id":232517919,"city_id":3019714,"language_key":"et","name":"Brekovac"}
+{"id":232517996,"city_id":3019715,"language_key":"et","name":"Travni Do"}
+{"id":232518689,"city_id":3019724,"language_key":"et","name":"Cerovo Prodo"}
+{"id":232518920,"city_id":3019727,"language_key":"et","name":"Kabala"}
+{"id":232518997,"city_id":3019728,"language_key":"et","name":"Spilice"}
+{"id":232519151,"city_id":3019730,"language_key":"et","name":"Durasevici"}
+{"id":232519228,"city_id":3019731,"language_key":"et","name":"Marovici"}
+{"id":232519305,"city_id":3019732,"language_key":"et","name":"Zmijice"}
+{"id":232519382,"city_id":3019733,"language_key":"et","name":"Magazini"}
+{"id":232519536,"city_id":3019735,"language_key":"et","name":"Durovici"}
+{"id":232519767,"city_id":3019738,"language_key":"et","name":"Juncevici"}
+{"id":232520306,"city_id":3019745,"language_key":"et","name":"Pestorici"}
+{"id":232520845,"city_id":3019752,"language_key":"et","name":"Milovici"}
+{"id":232524233,"city_id":3019796,"language_key":"et","name":"Mercajevac"}
+{"id":232526081,"city_id":3019820,"language_key":"et","name":"Badreh"}
+{"id":232526466,"city_id":3019825,"language_key":"et","name":"Krsnica"}
+{"id":232526774,"city_id":3019829,"language_key":"et","name":"Staro Mijatovo"}
+{"id":232526851,"city_id":3019830,"language_key":"et","name":"Mekica Kula"}
+{"id":232527236,"city_id":3019835,"language_key":"et","name":"Dulovine"}
+{"id":232527467,"city_id":3019838,"language_key":"et","name":"Pripcici"}
+{"id":232527852,"city_id":3019843,"language_key":"et","name":"Femica Krs"}
+{"id":232527929,"city_id":3019844,"language_key":"et","name":"Potkrs"}
+{"id":232528545,"city_id":3019852,"language_key":"et","name":"Dobrodo"}
+{"id":232528853,"city_id":3019856,"language_key":"et","name":"Grabovica"}
+{"id":232529007,"city_id":3019858,"language_key":"et","name":"Donji Orasi"}
+{"id":232529084,"city_id":3019859,"language_key":"et","name":"Slanjina"}
+{"id":232529161,"city_id":3019860,"language_key":"et","name":"Gluhi Do"}
+{"id":232529238,"city_id":3019861,"language_key":"et","name":"Vuckovici"}
+{"id":232529392,"city_id":3019863,"language_key":"et","name":"Ivanova Aluga"}
+{"id":232529546,"city_id":3019865,"language_key":"et","name":"Donji kraj"}
+{"id":232529777,"city_id":3019868,"language_key":"et","name":"Umci"}
+{"id":232530470,"city_id":3019877,"language_key":"et","name":"Donji Vukovici"}
+{"id":232530547,"city_id":3019878,"language_key":"et","name":"Medupotocje"}
+{"id":232530701,"city_id":3019880,"language_key":"et","name":"Vukove Zgrade"}
+{"id":232530778,"city_id":3019881,"language_key":"et","name":"Brnovici"}
+{"id":232530855,"city_id":3019882,"language_key":"et","name":"Lainja"}
+{"id":232531009,"city_id":3019884,"language_key":"et","name":"Palic"}
+{"id":232531086,"city_id":3019885,"language_key":"et","name":"Markovici"}
+{"id":232531240,"city_id":3019887,"language_key":"et","name":"Mrcinici"}
+{"id":232531317,"city_id":3019888,"language_key":"et","name":"Razdrt"}
+{"id":232531471,"city_id":3019890,"language_key":"et","name":"Jasikovi Do"}
+{"id":232531548,"city_id":3019891,"language_key":"et","name":"Prokaplje"}
+{"id":232531625,"city_id":3019892,"language_key":"et","name":"Abzi-Kula"}
+{"id":232531702,"city_id":3019893,"language_key":"et","name":"Njegule"}
+{"id":232531856,"city_id":3019895,"language_key":"et","name":"Tvrdos"}
+{"id":232533165,"city_id":3019912,"language_key":"et","name":"Srednja Mahala"}
+{"id":232533396,"city_id":3019915,"language_key":"et","name":"Zgrada"}
+{"id":232533627,"city_id":3019918,"language_key":"et","name":"Zlatna Obala"}
+{"id":232536938,"city_id":3019961,"language_key":"et","name":"Bacevnik"}
+{"id":232537708,"city_id":3019971,"language_key":"et","name":"Rezevici"}
+{"id":232537785,"city_id":3019972,"language_key":"et","name":"Krusevica"}
+{"id":232537862,"city_id":3019973,"language_key":"et","name":"Lucice"}
+{"id":232538016,"city_id":3019975,"language_key":"et","name":"Golubovici"}
+{"id":232538401,"city_id":3019980,"language_key":"et","name":"Gardovici"}
+{"id":232538478,"city_id":3019981,"language_key":"et","name":"Vrtace"}
+{"id":232538786,"city_id":3019985,"language_key":"et","name":"Cukovac"}
+{"id":232538940,"city_id":3019987,"language_key":"et","name":"Celine"}
+{"id":232539017,"city_id":3019988,"language_key":"et","name":"Povijevo"}
+{"id":232539248,"city_id":3019991,"language_key":"et","name":"Metaljka"}
+{"id":232539325,"city_id":3019992,"language_key":"et","name":"Panjevi"}
+{"id":232539556,"city_id":3019995,"language_key":"et","name":"Petrovici"}
+{"id":232540095,"city_id":3020002,"language_key":"et","name":"Peani"}
+{"id":232540403,"city_id":3020006,"language_key":"et","name":"Bazdan"}
+{"id":232540480,"city_id":3020007,"language_key":"et","name":"Babunci"}
+{"id":232540788,"city_id":3020011,"language_key":"et","name":"Drakulovici"}
+{"id":232541481,"city_id":3020020,"language_key":"et","name":"Ravni Laz"}
+{"id":232541558,"city_id":3020021,"language_key":"et","name":"Misoka"}
+{"id":232541635,"city_id":3020022,"language_key":"et","name":"Mokri Do"}
+{"id":232541712,"city_id":3020023,"language_key":"et","name":"Stijensko Brdo"}
+{"id":232541789,"city_id":3020024,"language_key":"et","name":"Crnacko Brdo"}
+{"id":232541866,"city_id":3020025,"language_key":"et","name":"Trebinci"}
+{"id":232543252,"city_id":3020043,"language_key":"et","name":"Liplja"}
+{"id":232543406,"city_id":3020045,"language_key":"et","name":"Grdovine"}
+{"id":232543637,"city_id":3020048,"language_key":"et","name":"Muline"}
+{"id":232543714,"city_id":3020049,"language_key":"et","name":"Streljanice"}
+{"id":232543791,"city_id":3020050,"language_key":"et","name":"Vinogradine"}
+{"id":232543868,"city_id":3020051,"language_key":"et","name":"Smira"}
+{"id":232543945,"city_id":3020052,"language_key":"et","name":"Bratozica"}
+{"id":232544022,"city_id":3020053,"language_key":"et","name":"Donji Kos"}
+{"id":232544099,"city_id":3020054,"language_key":"et","name":"Tšornõi Potik"}
+{"id":232544253,"city_id":3020056,"language_key":"et","name":"Donji Orahovac"}
+{"id":232544330,"city_id":3020057,"language_key":"et","name":"Trstenik"}
+{"id":232544484,"city_id":3020059,"language_key":"et","name":"Gornja Trebjesica"}
+{"id":232545254,"city_id":3020069,"language_key":"et","name":"Muo"}
+{"id":232545408,"city_id":3020071,"language_key":"et","name":"Kovacica"}
+{"id":232545485,"city_id":3020072,"language_key":"et","name":"Velje Slacko"}
+{"id":232545639,"city_id":3020074,"language_key":"et","name":"Pall"}
+{"id":232545716,"city_id":3020075,"language_key":"et","name":"Pozduj"}
+{"id":232545870,"city_id":3020077,"language_key":"et","name":"Katavici"}
+{"id":232545947,"city_id":3020078,"language_key":"et","name":"Medvega"}
+{"id":232546332,"city_id":3020083,"language_key":"et","name":"Begova Luka"}
+{"id":232546409,"city_id":3020084,"language_key":"et","name":"Celj"}
+{"id":232546948,"city_id":3020091,"language_key":"et","name":"Savina Glavica"}
+{"id":232547256,"city_id":3020095,"language_key":"et","name":"Prentovici"}
+{"id":232547333,"city_id":3020096,"language_key":"et","name":"Brat-Njive"}
+{"id":232547487,"city_id":3020098,"language_key":"et","name":"Podbabac"}
+{"id":232547718,"city_id":3020101,"language_key":"et","name":"Rafajlovici"}
+{"id":232548257,"city_id":3020108,"language_key":"et","name":"Zmijina"}
+{"id":232549412,"city_id":3020123,"language_key":"et","name":"Przno"}
+{"id":232549489,"city_id":3020124,"language_key":"et","name":"Milocer"}
+{"id":232549797,"city_id":3020128,"language_key":"et","name":"Dovista"}
+{"id":232550028,"city_id":3020131,"language_key":"et","name":"Dolina"}
+{"id":232550105,"city_id":3020132,"language_key":"et","name":"Trgovista"}
+{"id":232550182,"city_id":3020133,"language_key":"et","name":"Podrid"}
+{"id":232550259,"city_id":3020134,"language_key":"et","name":"Pitomine"}
+{"id":232550336,"city_id":3020135,"language_key":"et","name":"Graovista"}
+{"id":232550490,"city_id":3020137,"language_key":"et","name":"Korijen"}
+{"id":232550567,"city_id":3020138,"language_key":"et","name":"Rt"}
+{"id":232550798,"city_id":3020141,"language_key":"et","name":"Koraj-Do"}
+{"id":232551106,"city_id":3020145,"language_key":"et","name":"Kolevici"}
+{"id":232551260,"city_id":3020147,"language_key":"et","name":"Dedinice"}
+{"id":232551337,"city_id":3020148,"language_key":"et","name":"Mocila"}
+{"id":232551414,"city_id":3020149,"language_key":"et","name":"Poljana"}
+{"id":232551645,"city_id":3020152,"language_key":"et","name":"Dedina Ravan"}
+{"id":232551722,"city_id":3020153,"language_key":"et","name":"Pilote"}
+{"id":232551876,"city_id":3020155,"language_key":"et","name":"Mededa"}
+{"id":232552030,"city_id":3020157,"language_key":"et","name":"Banje Brdo"}
+{"id":232552107,"city_id":3020158,"language_key":"et","name":"Ceca"}
+{"id":232552492,"city_id":3020163,"language_key":"et","name":"Novakovice"}
+{"id":232552569,"city_id":3020164,"language_key":"et","name":"Svine"}
+{"id":232552646,"city_id":3020165,"language_key":"et","name":"Meljaci"}
+{"id":232553801,"city_id":3020180,"language_key":"et","name":"Bunca"}
+{"id":232554186,"city_id":3020185,"language_key":"et","name":"Vrh Polja"}
+{"id":232554263,"city_id":3020186,"language_key":"et","name":"Grabe"}
+{"id":232554802,"city_id":3020193,"language_key":"et","name":"Banovina"}
+{"id":232555572,"city_id":3020203,"language_key":"et","name":"Mulinovo Pocivalo"}
+{"id":232556419,"city_id":3020214,"language_key":"et","name":"Mitrovici"}
+{"id":232557266,"city_id":3020225,"language_key":"et","name":"Civlak"}
+{"id":232557343,"city_id":3020226,"language_key":"et","name":"Valdanos"}
+{"id":232557574,"city_id":3020229,"language_key":"et","name":"Velika plaza"}
+{"id":232557651,"city_id":3020230,"language_key":"et","name":"Donja Klezna"}
+{"id":232557728,"city_id":3020231,"language_key":"et","name":"Lisna Bori"}
+{"id":232557882,"city_id":3020233,"language_key":"et","name":"Mozura"}
+{"id":232558036,"city_id":3020235,"language_key":"et","name":"Bregvija"}
+{"id":232558190,"city_id":3020237,"language_key":"et","name":"Mala"}
+{"id":232558344,"city_id":3020239,"language_key":"et","name":"Badreh"}
+{"id":232558652,"city_id":3020243,"language_key":"et","name":"Gajevi"}
+{"id":232558806,"city_id":3020245,"language_key":"et","name":"Vagan"}
+{"id":232558960,"city_id":3020247,"language_key":"et","name":"Colovici"}
+{"id":232559114,"city_id":3020249,"language_key":"et","name":"Ustupo"}
+{"id":232559268,"city_id":3020251,"language_key":"et","name":"Presmenice"}
+{"id":232559345,"city_id":3020252,"language_key":"et","name":"Nokte"}
+{"id":232559422,"city_id":3020253,"language_key":"et","name":"Podkrs"}
+{"id":232561270,"city_id":3020277,"language_key":"et","name":"Livadani"}
+{"id":232561578,"city_id":3020281,"language_key":"et","name":"Gogici"}
+{"id":232561655,"city_id":3020282,"language_key":"et","name":"Donje Stupine"}
+{"id":232561732,"city_id":3020283,"language_key":"et","name":"Gornje Stupine"}
+{"id":232562348,"city_id":3020291,"language_key":"et","name":"Rujevica"}
+{"id":232563503,"city_id":3020306,"language_key":"et","name":"Gornje Dajbabe"}
+{"id":232563580,"city_id":3020307,"language_key":"et","name":"Donje Dajbabe"}
+{"id":232564889,"city_id":3020324,"language_key":"et","name":"Greca"}
+{"id":232565043,"city_id":3020326,"language_key":"et","name":"Zivkovici"}
+{"id":232565351,"city_id":3020330,"language_key":"et","name":"Kostrovici"}
+{"id":232565428,"city_id":3020331,"language_key":"et","name":"Prelevici"}
+{"id":232565505,"city_id":3020332,"language_key":"et","name":"Poljana"}
+{"id":232565582,"city_id":3020333,"language_key":"et","name":"Kamensko"}
+{"id":232566660,"city_id":3020347,"language_key":"et","name":"Kovijec"}
+{"id":232567353,"city_id":3020356,"language_key":"et","name":"Priboj"}
+{"id":232567507,"city_id":3020358,"language_key":"et","name":"Vranicke Njive"}
+{"id":232567969,"city_id":3020364,"language_key":"et","name":"Donji Medun"}
+{"id":232568123,"city_id":3020366,"language_key":"et","name":"Vrba"}
+{"id":232568200,"city_id":3020367,"language_key":"et","name":"Radovac"}
+{"id":232568585,"city_id":3020372,"language_key":"et","name":"Braka"}
+{"id":232568739,"city_id":3020374,"language_key":"et","name":"Premici"}
+{"id":232568970,"city_id":3020377,"language_key":"et","name":"Konik"}
+{"id":232569124,"city_id":3020379,"language_key":"et","name":"Kucista"}
+{"id":232569278,"city_id":3020381,"language_key":"et","name":"Rabri"}
+{"id":232569509,"city_id":3020384,"language_key":"et","name":"Lopari"}
+{"id":232569894,"city_id":3020389,"language_key":"et","name":"Kajos"}
+{"id":232570125,"city_id":3020392,"language_key":"et","name":"Vulevici"}
+{"id":232570741,"city_id":3020400,"language_key":"et","name":"Role"}
+{"id":232570818,"city_id":3020401,"language_key":"et","name":"Macaj"}
+{"id":232570895,"city_id":3020402,"language_key":"et","name":"Vatnikaj"}
+{"id":232570972,"city_id":3020403,"language_key":"et","name":"Nik Dokaj"}
+{"id":232571049,"city_id":3020404,"language_key":"et","name":"Prenkaj"}
+{"id":232571126,"city_id":3020405,"language_key":"et","name":"Hasanoj"}
+{"id":232571434,"city_id":3020409,"language_key":"et","name":"Ploca"}
+{"id":232572666,"city_id":3020425,"language_key":"et","name":"Lekperici"}
+{"id":232572897,"city_id":3020428,"language_key":"et","name":"Dencici"}
+{"id":232573128,"city_id":3020431,"language_key":"et","name":"Veliki Ostros"}
+{"id":232573205,"city_id":3020432,"language_key":"et","name":"Denasevici"}
+{"id":232573282,"city_id":3020433,"language_key":"et","name":"Alibrahimaj"}
+{"id":232573513,"city_id":3020436,"language_key":"et","name":"Capre Mahala"}
+{"id":232573590,"city_id":3020437,"language_key":"et","name":"Suma"}
+{"id":232573667,"city_id":3020438,"language_key":"et","name":"Zenj"}
+{"id":232573821,"city_id":3020440,"language_key":"et","name":"Decbitrici"}
+{"id":232574206,"city_id":3020445,"language_key":"et","name":"Mali Ostros"}
+{"id":232574514,"city_id":3020449,"language_key":"et","name":"GJenovici"}
+{"id":232574668,"city_id":3020451,"language_key":"et","name":"Budechevitsa"}
+{"id":232574745,"city_id":3020452,"language_key":"et","name":"Bandici"}

@@ -1,0 +1,483 @@
+{"id":35348,"city_id":460,"language_key":"be","name":"Зор Кот"}
+{"id":35502,"city_id":462,"language_key":"be","name":"Вулесвалі Біхсуд"}
+{"id":36118,"city_id":470,"language_key":"be","name":"кухсан"}
+{"id":36195,"city_id":471,"language_key":"be","name":"Тоўлаш"}
+{"id":36426,"city_id":474,"language_key":"be","name":"ткзар"}
+{"id":36965,"city_id":481,"language_key":"be","name":"Баці"}
+{"id":37042,"city_id":482,"language_key":"be","name":"Мірай"}
+{"id":37119,"city_id":483,"language_key":"be","name":"Ак Купрук"}
+{"id":37658,"city_id":490,"language_key":"be","name":"Зурак"}
+{"id":39121,"city_id":509,"language_key":"be","name":"Зурмат"}
+{"id":42817,"city_id":557,"language_key":"be","name":"Зайбак"}
+{"id":43125,"city_id":561,"language_key":"be","name":"Зіярат-э Шах Максуд"}
+{"id":46205,"city_id":601,"language_key":"be","name":"Зінда Ян"}
+{"id":49978,"city_id":650,"language_key":"be","name":"Зоуак"}
+{"id":50363,"city_id":655,"language_key":"be","name":"Зарыат-е Улук"}
+{"id":53058,"city_id":690,"language_key":"be","name":"зргхун сххр"}
+{"id":53982,"city_id":702,"language_key":"be","name":"Шаран"}
+{"id":58294,"city_id":758,"language_key":"be","name":"Зарандж"}
+{"id":61605,"city_id":801,"language_key":"be","name":"Замто Келай"}
+{"id":73078,"city_id":950,"language_key":"be","name":"Ыанги Кал'ах"}
+{"id":79084,"city_id":1028,"language_key":"be","name":"Ях'я Хель"}
+{"id":99951,"city_id":1299,"language_key":"be","name":"Вазіт"}
+{"id":100182,"city_id":1302,"language_key":"be","name":"Пральная машына"}
+{"id":102415,"city_id":1331,"language_key":"be","name":"Устууах"}
+{"id":110962,"city_id":1442,"language_key":"be","name":"Тормай"}
+{"id":115813,"city_id":1505,"language_key":"be","name":"Тулак"}
+{"id":120279,"city_id":1563,"language_key":"be","name":"Торагундзі"}
+{"id":126131,"city_id":1639,"language_key":"be","name":"Тытан"}
+{"id":126439,"city_id":1643,"language_key":"be","name":"Тир Пул"}
+{"id":128518,"city_id":1670,"language_key":"be","name":"Тайвара"}
+{"id":140222,"city_id":1822,"language_key":"be","name":"Базар-е Ташкан"}
+{"id":142378,"city_id":1850,"language_key":"be","name":"Тарынкот"}
+{"id":155545,"city_id":2021,"language_key":"be","name":"Талукан"}
+{"id":170483,"city_id":2215,"language_key":"be","name":"Тагаў-Бей"}
+{"id":170637,"city_id":2217,"language_key":"be","name":"Тагхори"}
+{"id":173717,"city_id":2257,"language_key":"be","name":"Тагаб"}
+{"id":183188,"city_id":2380,"language_key":"be","name":"Марказ-э Хукумат-э Султан-э Баква"}
+{"id":192967,"city_id":2507,"language_key":"be","name":"Спін Болдак"}
+{"id":194430,"city_id":2526,"language_key":"be","name":"Спера"}
+{"id":195508,"city_id":2540,"language_key":"be","name":"Созмах Кала"}
+{"id":224691,"city_id":2919,"language_key":"be","name":"Сіягірд"}
+{"id":234778,"city_id":3050,"language_key":"be","name":"Буйні Кара"}
+{"id":238397,"city_id":3097,"language_key":"be","name":"Шхоўр"}
+{"id":238705,"city_id":3101,"language_key":"be","name":"Шэва"}
+{"id":241477,"city_id":3137,"language_key":"be","name":"Схерах"}
+{"id":242093,"city_id":3145,"language_key":"be","name":"Схер Баз Кхел"}
+{"id":244480,"city_id":3176,"language_key":"be","name":"Схиныах"}
+{"id":247483,"city_id":3215,"language_key":"be","name":"Шынданд"}
+{"id":247714,"city_id":3218,"language_key":"be","name":"Схиналис"}
+{"id":253335,"city_id":3291,"language_key":"be","name":"Шэйх Амір Келай"}
+{"id":258186,"city_id":3354,"language_key":"be","name":"Кашкаль"}
+{"id":258417,"city_id":3357,"language_key":"be","name":"Схингираб"}
+{"id":261497,"city_id":3397,"language_key":"be","name":"Шыбарган"}
+{"id":264115,"city_id":3431,"language_key":"be","name":"Швак"}
+{"id":270275,"city_id":3511,"language_key":"be","name":"Схамсхаы Кала"}
+{"id":280131,"city_id":3639,"language_key":"be","name":"Шахр-э-Сафа"}
+{"id":281440,"city_id":3656,"language_key":"be","name":"сххран"}
+{"id":281594,"city_id":3658,"language_key":"be","name":"Шахрак"}
+{"id":285444,"city_id":3708,"language_key":"be","name":"'Алакахдары Шах Джой"}
+{"id":296532,"city_id":3852,"language_key":"be","name":"Улесвалі Саід Карам"}
+{"id":299535,"city_id":3891,"language_key":"be","name":"Марказ-е Сайідабад"}
+{"id":299612,"city_id":3892,"language_key":"be","name":"Саяд"}
+{"id":312933,"city_id":4065,"language_key":"be","name":"Махмудракі"}
+{"id":317707,"city_id":4127,"language_key":"be","name":"Саягаз"}
+{"id":321788,"city_id":4180,"language_key":"be","name":"Сар-э Тайган"}
+{"id":325792,"city_id":4232,"language_key":"be","name":"Саробі"}
+{"id":328333,"city_id":4265,"language_key":"be","name":"Сар Кані"}
+{"id":331644,"city_id":4308,"language_key":"be","name":"срфраз кала"}
+{"id":338420,"city_id":4396,"language_key":"be","name":"Сар-і-Пуль"}
+{"id":357516,"city_id":4644,"language_key":"be","name":"Сар Чакан"}
+{"id":362444,"city_id":4708,"language_key":"be","name":"Сангін"}
+{"id":364677,"city_id":4737,"language_key":"be","name":"Санг-э Машах"}
+{"id":365601,"city_id":4749,"language_key":"be","name":"Санг-е Цхарак"}
+{"id":367218,"city_id":4770,"language_key":"be","name":"Санг Атэш"}
+{"id":367372,"city_id":4772,"language_key":"be","name":"Сангар Сарай"}
+{"id":372069,"city_id":4833,"language_key":"be","name":"Саманган"}
+{"id":391396,"city_id":5084,"language_key":"be","name":"Ру-е Санг"}
+{"id":393475,"city_id":5111,"language_key":"be","name":"Рудбар"}
+{"id":394784,"city_id":5128,"language_key":"be","name":"Рустак"}
+{"id":396632,"city_id":5152,"language_key":"be","name":"Рабат-э Сангі-е Паін"}
+{"id":403793,"city_id":5245,"language_key":"be","name":"Расул Кхан"}
+{"id":407797,"city_id":5297,"language_key":"be","name":"Рамак"}
+{"id":428895,"city_id":5571,"language_key":"be","name":"Курган"}
+{"id":431051,"city_id":5599,"language_key":"be","name":"Кучангі"}
+{"id":434362,"city_id":5642,"language_key":"be","name":"Кайсар"}
+{"id":463237,"city_id":6017,"language_key":"be","name":"Карчын"}
+{"id":465008,"city_id":6040,"language_key":"be","name":"Каргахі"}
+{"id":468858,"city_id":6090,"language_key":"be","name":"Карчы Гак"}
+{"id":469089,"city_id":6093,"language_key":"be","name":"Каравул"}
+{"id":470706,"city_id":6114,"language_key":"be","name":"Кара Баг"}
+{"id":470860,"city_id":6116,"language_key":"be","name":"Кара Баг"}
+{"id":475634,"city_id":6178,"language_key":"be","name":"Кал'ах-ые Зал"}
+{"id":479561,"city_id":6229,"language_key":"be","name":"Кал'ах-ые Санг-е Такхт"}
+{"id":480639,"city_id":6243,"language_key":"be","name":"Кал'ах-ые Ра'ис"}
+{"id":480716,"city_id":6244,"language_key":"be","name":"Кала-йе Раг"}
+{"id":481640,"city_id":6256,"language_key":"be","name":"Кала-е Панджа"}
+{"id":482102,"city_id":6262,"language_key":"be","name":"Кал'ах-йе Нурула Хан"}
+{"id":482487,"city_id":6267,"language_key":"be","name":"Калаі-Нау"}
+{"id":482564,"city_id":6268,"language_key":"be","name":"Кальах-е Ноў"}
+{"id":486491,"city_id":6319,"language_key":"be","name":"Кала-йе Куф"}
+{"id":486799,"city_id":6323,"language_key":"be","name":"Кала-йе Куна"}
+{"id":487415,"city_id":6331,"language_key":"be","name":"Калайі-Хан"}
+{"id":487954,"city_id":6338,"language_key":"be","name":"Кал'ах-ые Кафиран"}
+{"id":495500,"city_id":6436,"language_key":"be","name":"Кал'ах-ые Схахр"}
+{"id":499735,"city_id":6491,"language_key":"be","name":"Калат"}
+{"id":499812,"city_id":6492,"language_key":"be","name":"Кала-йе Шахі"}
+{"id":505048,"city_id":6560,"language_key":"be","name":"Кадиани"}
+{"id":505587,"city_id":6567,"language_key":"be","name":"Кадзіі"}
+{"id":516213,"city_id":6705,"language_key":"be","name":"Парун"}
+{"id":517137,"city_id":6717,"language_key":"be","name":"Пулі-Хумры"}
+{"id":517676,"city_id":6724,"language_key":"be","name":"Пулі-Алам"}
+{"id":542162,"city_id":7042,"language_key":"be","name":"паснаы"}
+{"id":543163,"city_id":7055,"language_key":"be","name":"псхмул"}
+{"id":545550,"city_id":7086,"language_key":"be","name":"пасабнд"}
+{"id":545781,"city_id":7089,"language_key":"be","name":"Пасаб"}
+{"id":549862,"city_id":7142,"language_key":"be","name":"Панма"}
+{"id":551171,"city_id":7159,"language_key":"be","name":"пандж"}
+{"id":558563,"city_id":7255,"language_key":"be","name":"пгхман"}
+{"id":561489,"city_id":7293,"language_key":"be","name":"Омнах"}
+{"id":562413,"city_id":7305,"language_key":"be","name":"Абех"}
+{"id":564877,"city_id":7337,"language_key":"be","name":"Урузган"}
+{"id":565339,"city_id":7343,"language_key":"be","name":"Орламисх"}
+{"id":565647,"city_id":7347,"language_key":"be","name":"аургун‎‎"}
+{"id":571191,"city_id":7419,"language_key":"be","name":"Нусай"}
+{"id":573039,"city_id":7443,"language_key":"be","name":"Нургал"}
+{"id":574117,"city_id":7457,"language_key":"be","name":"Цяпер Зад"}
+{"id":584897,"city_id":7597,"language_key":"be","name":"Нілі"}
+{"id":593598,"city_id":7710,"language_key":"be","name":"наыак"}
+{"id":594522,"city_id":7722,"language_key":"be","name":"наыак"}
+{"id":599835,"city_id":7791,"language_key":"be","name":"Цяпер Даханак"}
+{"id":602684,"city_id":7828,"language_key":"be","name":"Окак"}
+{"id":603916,"city_id":7844,"language_key":"be","name":"Нава"}
+{"id":604070,"city_id":7846,"language_key":"be","name":"Навах-е Гарак"}
+{"id":610615,"city_id":7931,"language_key":"be","name":"Нарай"}
+{"id":611000,"city_id":7936,"language_key":"be","name":"Наранг"}
+{"id":614773,"city_id":7985,"language_key":"be","name":"Налах"}
+{"id":616236,"city_id":8004,"language_key":"be","name":"Нікех"}
+{"id":618007,"city_id":8027,"language_key":"be","name":"Нахрын"}
+{"id":620240,"city_id":8056,"language_key":"be","name":"Хукумат-э Над 'Алі"}
+{"id":623012,"city_id":8092,"language_key":"be","name":"Муса Кала"}
+{"id":631636,"city_id":8204,"language_key":"be","name":"бала мргхаб"}
+{"id":633638,"city_id":8230,"language_key":"be","name":"Мукер"}
+{"id":648191,"city_id":8419,"language_key":"be","name":"Мухамед Ага Вулусвалі"}
+{"id":651117,"city_id":8457,"language_key":"be","name":"Мізан 'Алакахдары"}
+{"id":656507,"city_id":8527,"language_key":"be","name":"Мір Бачах Кот"}
+{"id":657123,"city_id":8535,"language_key":"be","name":"Міран"}
+{"id":659048,"city_id":8560,"language_key":"be","name":"Мірабад"}
+{"id":659125,"city_id":8561,"language_key":"be","name":"Мірабад"}
+{"id":664823,"city_id":8635,"language_key":"be","name":"Міан"}
+{"id":665670,"city_id":8646,"language_key":"be","name":"Меймене"}
+{"id":665824,"city_id":8648,"language_key":"be","name":"Майдан Хула"}
+{"id":670213,"city_id":8705,"language_key":"be","name":"Мінгаджык"}
+{"id":671830,"city_id":8726,"language_key":"be","name":"Мехтарлам"}
+{"id":673909,"city_id":8753,"language_key":"be","name":"Мазары-Шарыф"}
+{"id":675295,"city_id":8771,"language_key":"be","name":"Маймай"}
+{"id":676989,"city_id":8793,"language_key":"be","name":"мута кхан"}
+{"id":680069,"city_id":8833,"language_key":"be","name":"Мешхед"}
+{"id":680531,"city_id":8839,"language_key":"be","name":"Масан"}
+{"id":685151,"city_id":8899,"language_key":"be","name":"Мардзіян"}
+{"id":691619,"city_id":8983,"language_key":"be","name":"Мандоль"}
+{"id":695469,"city_id":9033,"language_key":"be","name":"Мама Хель"}
+{"id":714411,"city_id":9279,"language_key":"be","name":"Ландахха"}
+{"id":726192,"city_id":9432,"language_key":"be","name":"Лашкаргах"}
+{"id":726269,"city_id":9433,"language_key":"be","name":"Лаш-э Джувейн"}
+{"id":728271,"city_id":9459,"language_key":"be","name":"Ларкирд"}
+{"id":735355,"city_id":9551,"language_key":"be","name":"Ла'л"}
+{"id":748830,"city_id":9726,"language_key":"be","name":"Кусхк"}
+{"id":761458,"city_id":9890,"language_key":"be","name":"Разаы Балоцхи"}
+{"id":762536,"city_id":9904,"language_key":"be","name":"Кочкай"}
+{"id":766848,"city_id":9960,"language_key":"be","name":"Котавал"}
+{"id":772084,"city_id":10028,"language_key":"be","name":"Кушк-э Куна"}
+{"id":772161,"city_id":10029,"language_key":"be","name":"Кошк"}
+{"id":773624,"city_id":10048,"language_key":"be","name":"Куран ва Мунджан"}
+{"id":775318,"city_id":10070,"language_key":"be","name":"Кундуз"}
+{"id":788716,"city_id":10244,"language_key":"be","name":"Хошы"}
+{"id":789717,"city_id":10257,"language_key":"be","name":"Хашаманд"}
+{"id":793105,"city_id":10301,"language_key":"be","name":"Кхуайах Схорах"}
+{"id":798803,"city_id":10375,"language_key":"be","name":"Кхуайах Кинти"}
+{"id":800728,"city_id":10400,"language_key":"be","name":"Хваджа Гар"}
+{"id":801498,"city_id":10410,"language_key":"be","name":"Хваджа Ду Кох"}
+{"id":806272,"city_id":10472,"language_key":"be","name":"Дэ Хвахан"}
+{"id":808197,"city_id":10497,"language_key":"be","name":"Хулбісат"}
+{"id":809121,"city_id":10509,"language_key":"be","name":"Хуг'яні"}
+{"id":810430,"city_id":10526,"language_key":"be","name":"Хост"}
+{"id":813818,"city_id":10570,"language_key":"be","name":"Кхурди"}
+{"id":814511,"city_id":10579,"language_key":"be","name":"Хулм"}
+{"id":815666,"city_id":10594,"language_key":"be","name":"Худайдад Хель"}
+{"id":818284,"city_id":10628,"language_key":"be","name":"Кхаиран"}
+{"id":821826,"city_id":10674,"language_key":"be","name":"кхнйан"}
+{"id":822442,"city_id":10682,"language_key":"be","name":"Кхіндж"}
+{"id":828679,"city_id":10763,"language_key":"be","name":"Хаш"}
+{"id":838766,"city_id":10894,"language_key":"be","name":"Хан Нешын"}
+{"id":841307,"city_id":10927,"language_key":"be","name":"Ханака"}
+{"id":843078,"city_id":10950,"language_key":"be","name":"цххар багх"}
+{"id":843155,"city_id":10951,"language_key":"be","name":"кхндуд"}
+{"id":844002,"city_id":10962,"language_key":"be","name":"Ханака"}
+{"id":844310,"city_id":10966,"language_key":"be","name":"Ханабад"}
+{"id":848391,"city_id":11019,"language_key":"be","name":"кхмыаб"}
+{"id":854243,"city_id":11095,"language_key":"be","name":"Хакіран"}
+{"id":858093,"city_id":11145,"language_key":"be","name":"Кішым"}
+{"id":861789,"city_id":11193,"language_key":"be","name":"Кажах"}
+{"id":870028,"city_id":11300,"language_key":"be","name":"Кішк-е Нахуд"}
+{"id":872646,"city_id":11334,"language_key":"be","name":"карукх"}
+{"id":900982,"city_id":11702,"language_key":"be","name":"Кандай"}
+{"id":901675,"city_id":11711,"language_key":"be","name":"Кандагар"}
+{"id":912532,"city_id":11852,"language_key":"be","name":"Калан Дэх"}
+{"id":914072,"city_id":11872,"language_key":"be","name":"Калакан"}
+{"id":914996,"city_id":11884,"language_key":"be","name":"Калафган"}
+{"id":918153,"city_id":11925,"language_key":"be","name":"кйран"}
+{"id":922003,"city_id":11975,"language_key":"be","name":"Каі"}
+{"id":928779,"city_id":12063,"language_key":"be","name":"Кабул"}
+{"id":936017,"city_id":12157,"language_key":"be","name":"Юрм"}
+{"id":949184,"city_id":12328,"language_key":"be","name":"Джаванд"}
+{"id":958039,"city_id":12443,"language_key":"be","name":"Джані Хель"}
+{"id":968126,"city_id":12574,"language_key":"be","name":"Джалрэз"}
+{"id":969589,"city_id":12593,"language_key":"be","name":"Джэлалабад"}
+{"id":973901,"city_id":12649,"language_key":"be","name":"Джабал ос Сарадж"}
+{"id":981293,"city_id":12745,"language_key":"be","name":"Хукумат-э Сінкай"}
+{"id":984296,"city_id":12784,"language_key":"be","name":"Герат"}
+{"id":999927,"city_id":12987,"language_key":"be","name":"Хаджы Хель"}
+{"id":1004701,"city_id":13049,"language_key":"be","name":"Хафіз Могул"}
+{"id":1004855,"city_id":13051,"language_key":"be","name":"хафзан"}
+{"id":1008089,"city_id":13093,"language_key":"be","name":"Горйаы"}
+{"id":1013864,"city_id":13168,"language_key":"be","name":"Гузара"}
+{"id":1014249,"city_id":13173,"language_key":"be","name":"Гоштах"}
+{"id":1014711,"city_id":13179,"language_key":"be","name":"Гомаль Келай"}
+{"id":1016713,"city_id":13205,"language_key":"be","name":"Гурон"}
+{"id":1016867,"city_id":13207,"language_key":"be","name":"Гурдзи"}
+{"id":1017791,"city_id":13219,"language_key":"be","name":"Гургак"}
+{"id":1022642,"city_id":13282,"language_key":"be","name":"Гул Кот"}
+{"id":1024875,"city_id":13311,"language_key":"be","name":"Галбахар"}
+{"id":1029110,"city_id":13366,"language_key":"be","name":"'Алакахдары Гелан"}
+{"id":1029957,"city_id":13377,"language_key":"be","name":"гхузбх"}
+{"id":1031574,"city_id":13398,"language_key":"be","name":"Горыян"}
+{"id":1035578,"city_id":13450,"language_key":"be","name":"Гхуйурак"}
+{"id":1037503,"city_id":13475,"language_key":"be","name":"гхрмацх"}
+{"id":1037888,"city_id":13480,"language_key":"be","name":"Гурайд Гарамэ"}
+{"id":1045357,"city_id":13577,"language_key":"be","name":"Гхицх"}
+{"id":1046358,"city_id":13590,"language_key":"be","name":"Газні"}
+{"id":1057138,"city_id":13730,"language_key":"be","name":"Гхал-е Кусхк"}
+{"id":1059448,"city_id":13760,"language_key":"be","name":"Герэшк"}
+{"id":1062528,"city_id":13800,"language_key":"be","name":"гзкхан"}
+{"id":1072461,"city_id":13929,"language_key":"be","name":"Гардэз"}
+{"id":1086244,"city_id":14108,"language_key":"be","name":"Футур"}
+{"id":1087861,"city_id":14129,"language_key":"be","name":"Файзабад (Афганістан)"}
+{"id":1087938,"city_id":14130,"language_key":"be","name":"Файзабад"}
+{"id":1088015,"city_id":14131,"language_key":"be","name":"фызабад"}
+{"id":1091480,"city_id":14176,"language_key":"be","name":"Кала-йе фарсі"}
+{"id":1091788,"city_id":14180,"language_key":"be","name":"фркхар"}
+{"id":1092866,"city_id":14194,"language_key":"be","name":"Фарах"}
+{"id":1093559,"city_id":14203,"language_key":"be","name":"Факирано Келаы"}
+{"id":1096331,"city_id":14239,"language_key":"be","name":"Істаліф"}
+{"id":1099180,"city_id":14276,"language_key":"be","name":"Ісмаіл Хель"}
+{"id":1100104,"city_id":14288,"language_key":"be","name":"Эслам Калех"}
+{"id":1100489,"city_id":14293,"language_key":"be","name":"Іслам Чумгар"}
+{"id":1103107,"city_id":14327,"language_key":"be","name":"Исхкамисх"}
+{"id":1106033,"city_id":14365,"language_key":"be","name":"Інджыл"}
+{"id":1107727,"city_id":14387,"language_key":"be","name":"Імам Сахіб"}
+{"id":1117737,"city_id":14517,"language_key":"be","name":"Дошы"}
+{"id":1118815,"city_id":14531,"language_key":"be","name":"Доўлацьяр"}
+{"id":1118969,"city_id":14533,"language_key":"be","name":"Доўлат Шах"}
+{"id":1119893,"city_id":14545,"language_key":"be","name":"Доўлатабад"}
+{"id":1119970,"city_id":14546,"language_key":"be","name":"Доўлатабад"}
+{"id":1123281,"city_id":14589,"language_key":"be","name":"Ду Кала"}
+{"id":1128286,"city_id":14654,"language_key":"be","name":"дуаб"}
+{"id":1136063,"city_id":14755,"language_key":"be","name":"дык тур"}
+{"id":1140837,"city_id":14817,"language_key":"be","name":"Дэ Наркхель Келай"}
+{"id":1147382,"city_id":14902,"language_key":"be","name":"Дэ Равуд"}
+{"id":1151694,"city_id":14958,"language_key":"be","name":"Дэхі"}
+{"id":1153311,"city_id":14979,"language_key":"be","name":"Дех-е Зангар"}
+{"id":1155236,"city_id":15004,"language_key":"be","name":"ДЭХ-Салах"}
+{"id":1156699,"city_id":15023,"language_key":"be","name":"Дэх-э Ноў"}
+{"id":1162474,"city_id":15098,"language_key":"be","name":"Дэхдадзі"}
+{"id":1168942,"city_id":15182,"language_key":"be","name":"Два мандай"}
+{"id":1170713,"city_id":15205,"language_key":"be","name":"Дашт-э-Калах"}
+{"id":1170867,"city_id":15207,"language_key":"be","name":"Дашт-э-Калах"}
+{"id":1172022,"city_id":15222,"language_key":"be","name":"Дасхт-е Арцхи"}
+{"id":1173870,"city_id":15246,"language_key":"be","name":"дрзаб"}
+{"id":1175487,"city_id":15267,"language_key":"be","name":"Марказ-е Хукумат-е Даруесхан"}
+{"id":1175641,"city_id":15269,"language_key":"be","name":"Дарваза Кам"}
+{"id":1181493,"city_id":15345,"language_key":"be","name":"Даркад"}
+{"id":1184804,"city_id":15388,"language_key":"be","name":"Дараім"}
+{"id":1187268,"city_id":15420,"language_key":"be","name":"дангам"}
+{"id":1188115,"city_id":15431,"language_key":"be","name":"дндар"}
+{"id":1210676,"city_id":15724,"language_key":"be","name":"Хукумаці Даханах-е Горы"}
+{"id":1231235,"city_id":15991,"language_key":"be","name":"Цоўкей"}
+{"id":1232852,"city_id":16012,"language_key":"be","name":"Чырас"}
+{"id":1236548,"city_id":16060,"language_key":"be","name":"Цхицхках"}
+{"id":1236779,"city_id":16063,"language_key":"be","name":"Чышт-э Шарыф"}
+{"id":1243478,"city_id":16150,"language_key":"be","name":"цхнар"}
+{"id":1243786,"city_id":16154,"language_key":"be","name":"цхмтал"}
+{"id":1253334,"city_id":16278,"language_key":"be","name":"цхркх"}
+{"id":1253565,"city_id":16281,"language_key":"be","name":"Чарыкар"}
+{"id":1254181,"city_id":16289,"language_key":"be","name":"Доўр-э Рабат"}
+{"id":1256568,"city_id":16320,"language_key":"be","name":"Цаперай"}
+{"id":1261034,"city_id":16378,"language_key":"be","name":"Цамкані"}
+{"id":1265654,"city_id":16438,"language_key":"be","name":"Чакарай"}
+{"id":1265731,"city_id":16439,"language_key":"be","name":"цхкаран"}
+{"id":1272430,"city_id":16526,"language_key":"be","name":"Чахар Кала"}
+{"id":1275895,"city_id":16571,"language_key":"be","name":"цххар брй"}
+{"id":1277512,"city_id":16592,"language_key":"be","name":"цхах аб"}
+{"id":1277820,"city_id":16596,"language_key":"be","name":"Файроз Кох"}
+{"id":1289601,"city_id":16749,"language_key":"be","name":"Бомаы"}
+{"id":1291218,"city_id":16770,"language_key":"be","name":"Булах Кисхлак"}
+{"id":1298687,"city_id":16867,"language_key":"be","name":"Булола"}
+{"id":1311161,"city_id":17029,"language_key":"be","name":"бал цхрагх"}
+{"id":1316628,"city_id":17100,"language_key":"be","name":"базар тлах"}
+{"id":1323019,"city_id":17183,"language_key":"be","name":"Мухманд Дара"}
+{"id":1327639,"city_id":17243,"language_key":"be","name":"брках"}
+{"id":1331335,"city_id":17291,"language_key":"be","name":"Барг-э Матал"}
+{"id":1336417,"city_id":17357,"language_key":"be","name":"Баракі"}
+{"id":1336494,"city_id":17358,"language_key":"be","name":"баракы барак"}
+{"id":1339574,"city_id":17398,"language_key":"be","name":"бану"}
+{"id":1343501,"city_id":17449,"language_key":"be","name":"Бандабад"}
+{"id":1344040,"city_id":17456,"language_key":"be","name":"Баміян"}
+{"id":1346581,"city_id":17489,"language_key":"be","name":"Балх"}
+{"id":1353588,"city_id":17580,"language_key":"be","name":"Бакхсхи"}
+{"id":1356976,"city_id":17624,"language_key":"be","name":"Бахрам Чах"}
+{"id":1357823,"city_id":17635,"language_key":"be","name":"Бахарак"}
+{"id":1358978,"city_id":17650,"language_key":"be","name":"Баграмі"}
+{"id":1359055,"city_id":17651,"language_key":"be","name":"Баграм"}
+{"id":1359748,"city_id":17660,"language_key":"be","name":"багхлан"}
+{"id":1376842,"city_id":17882,"language_key":"be","name":"Бабак"}
+{"id":1377689,"city_id":17893,"language_key":"be","name":"Баба 'Алі Келай"}
+{"id":1377920,"city_id":17896,"language_key":"be","name":"Хукумаці Азрах"}
+{"id":1388546,"city_id":18034,"language_key":"be","name":"Арт Кхуайах"}
+{"id":1389008,"city_id":18040,"language_key":"be","name":"'Алакахдары Атгар"}
+{"id":1393782,"city_id":18102,"language_key":"be","name":"асмар"}
+{"id":1395938,"city_id":18130,"language_key":"be","name":"Ашкашам"}
+{"id":1397555,"city_id":18151,"language_key":"be","name":"Асадабад"}
+{"id":1400635,"city_id":18191,"language_key":"be","name":"аргхстан"}
+{"id":1405332,"city_id":18252,"language_key":"be","name":"'Араб"}
+{"id":1408027,"city_id":18287,"language_key":"be","name":"Акча"}
+{"id":1412647,"city_id":18347,"language_key":"be","name":"Андхой"}
+{"id":1414649,"city_id":18373,"language_key":"be","name":"Унаба"}
+{"id":1415342,"city_id":18382,"language_key":"be","name":"Анар Дарах"}
+{"id":1419346,"city_id":18434,"language_key":"be","name":"Аманзі"}
+{"id":1422811,"city_id":18479,"language_key":"be","name":"алмр кхел"}
+{"id":1422888,"city_id":18480,"language_key":"be","name":"ьалаяахдары-е Алмар"}
+{"id":1424736,"city_id":18504,"language_key":"be","name":"'Алі Шэр 'Алакахдары"}
+{"id":1425429,"city_id":18513,"language_key":"be","name":"Вулусвалі 'Алінгар"}
+{"id":1427046,"city_id":18534,"language_key":"be","name":"Алі Хель"}
+{"id":1432436,"city_id":18604,"language_key":"be","name":"'Алакахдары Ёсуф Хел"}
+{"id":1432667,"city_id":18607,"language_key":"be","name":"ьалаяахдары Дышу"}
+{"id":1434900,"city_id":18636,"language_key":"be","name":"Алах Сай"}
+{"id":1447143,"city_id":18795,"language_key":"be","name":"Пачыр ва Агам"}
+{"id":1448144,"city_id":18808,"language_key":"be","name":"Афакі"}
+{"id":1448683,"city_id":18815,"language_key":"be","name":"адраскан"}
+{"id":1456460,"city_id":18916,"language_key":"be","name":"аб гай"}
+{"id":1457076,"city_id":18924,"language_key":"be","name":"Аб-е Камары"}
+{"id":1470320,"city_id":19096,"language_key":"be","name":"кхадр"}
+{"id":1473246,"city_id":19134,"language_key":"be","name":"Гулам Алі"}
+{"id":1478944,"city_id":19208,"language_key":"be","name":"Кара Баг Базар"}
+{"id":1485874,"city_id":19298,"language_key":"be","name":"зргаран"}
+{"id":1488954,"city_id":19338,"language_key":"be","name":"Сурх Біланді"}
+{"id":1490032,"city_id":19352,"language_key":"be","name":"Пуль-э Сангі"}
+{"id":1522295,"city_id":19771,"language_key":"be","name":"Лангар"}
+{"id":1528224,"city_id":19848,"language_key":"be","name":"Багхе Майдан"}
+{"id":1531381,"city_id":19889,"language_key":"be","name":"Дарах-е Істама"}
+{"id":1531612,"city_id":19892,"language_key":"be","name":"Кала-йе Факір Шах"}
+{"id":1537387,"city_id":19967,"language_key":"be","name":"Ібрагім Хан"}
+{"id":1551247,"city_id":20147,"language_key":"be","name":"Дарвазкай"}
+{"id":1554866,"city_id":20194,"language_key":"be","name":"Сіні"}
+{"id":1578505,"city_id":20501,"language_key":"be","name":"Карангу Тогай"}
+{"id":1595753,"city_id":20725,"language_key":"be","name":"Базарак"}
+{"id":1599141,"city_id":20769,"language_key":"be","name":"Шэрвані-е Бала"}
+{"id":1599911,"city_id":20779,"language_key":"be","name":"Кіраман"}
+{"id":1611692,"city_id":20932,"language_key":"be","name":"ьалаяахдары Саробі"}
+{"id":1613463,"city_id":20955,"language_key":"be","name":"Тсухаы Кхулах"}
+{"id":1630249,"city_id":21173,"language_key":"be","name":"Ярнам Келай"}
+{"id":1637487,"city_id":21267,"language_key":"be","name":"Зірук `Алакахдары"}
+{"id":1664668,"city_id":21620,"language_key":"be","name":"Баз Мухамад Келай"}
+{"id":1679067,"city_id":21807,"language_key":"be","name":"Майнун Келаы"}
+{"id":1688769,"city_id":21933,"language_key":"be","name":"Тилираы"}
+{"id":1692234,"city_id":21978,"language_key":"be","name":"Кушкак"}
+{"id":1695237,"city_id":22017,"language_key":"be","name":"Хайр Кот"}
+{"id":1730965,"city_id":22481,"language_key":"be","name":"Бахадур Хель"}
+{"id":1782401,"city_id":23149,"language_key":"be","name":"Чоуні"}
+{"id":1805501,"city_id":23449,"language_key":"be","name":"Паы Нили"}
+{"id":1837302,"city_id":23862,"language_key":"be","name":"Схаыкх Цхогхан"}
+{"id":1843154,"city_id":23938,"language_key":"be","name":"Кал'ах-ые Мир Ахмад Схах"}
+{"id":1844309,"city_id":23953,"language_key":"be","name":"Дех-е Па'ин"}
+{"id":1846696,"city_id":23984,"language_key":"be","name":"Мулкана"}
+{"id":1847312,"city_id":23992,"language_key":"be","name":"Вутахпур"}
+{"id":1852702,"city_id":24062,"language_key":"be","name":"Монай"}
+{"id":1853087,"city_id":24067,"language_key":"be","name":"Карборы"}
+{"id":1866331,"city_id":24239,"language_key":"be","name":"Султанпур-э-Улья"}
+{"id":1869411,"city_id":24279,"language_key":"be","name":"бабасахб"}
+{"id":1877958,"city_id":24390,"language_key":"be","name":"Чандал Баі"}
+{"id":1890509,"city_id":24553,"language_key":"be","name":"Даган-э Ярф"}
+{"id":1913455,"city_id":24851,"language_key":"be","name":"Сар-е Дасхт"}
+{"id":1925236,"city_id":25004,"language_key":"be","name":"Майданшахр"}
+{"id":1934784,"city_id":25128,"language_key":"be","name":"Бут-е Схамамах"}
+{"id":1950877,"city_id":25337,"language_key":"be","name":"Гхуйур"}
+{"id":1981215,"city_id":25731,"language_key":"be","name":"Дзю Лайна"}
+{"id":1982139,"city_id":25743,"language_key":"be","name":"Схикхлиыак"}
+{"id":1992919,"city_id":25883,"language_key":"be","name":"Схиниах"}
+{"id":2003314,"city_id":26018,"language_key":"be","name":"Дахан-е Абруси"}
+{"id":2004469,"city_id":26033,"language_key":"be","name":"газак"}
+{"id":2013786,"city_id":26154,"language_key":"be","name":"Карезак"}
+{"id":2023257,"city_id":26277,"language_key":"be","name":"Сар-е Мангхоз"}
+{"id":2024797,"city_id":26297,"language_key":"be","name":"Дахан-е Тала Кол"}
+{"id":2027492,"city_id":26332,"language_key":"be","name":"карам кол"}
+{"id":2032035,"city_id":26391,"language_key":"be","name":"Пуль-э Хісар"}
+{"id":2039658,"city_id":26490,"language_key":"be","name":"Сараб"}
+{"id":2039812,"city_id":26492,"language_key":"be","name":"Лаб-Сар"}
+{"id":2087937,"city_id":27117,"language_key":"be","name":"Такча Хана"}
+{"id":2092788,"city_id":27180,"language_key":"be","name":"Сакавік"}
+{"id":2097100,"city_id":27236,"language_key":"be","name":"Зіракі"}
+{"id":2112577,"city_id":27437,"language_key":"be","name":"Саід Міран"}
+{"id":2116350,"city_id":27486,"language_key":"be","name":"Дарыа Мир"}
+{"id":2120123,"city_id":27535,"language_key":"be","name":"Аліябад"}
+{"id":2148844,"city_id":27908,"language_key":"be","name":"пас пул"}
+{"id":2158623,"city_id":28035,"language_key":"be","name":"банйаны"}
+{"id":2169711,"city_id":28179,"language_key":"be","name":"Кала-е Наім"}
+{"id":2179413,"city_id":28305,"language_key":"be","name":"Арбаб Келай"}
+{"id":2185342,"city_id":28382,"language_key":"be","name":"Марказ-э Волусвалі-е Ачын"}
+{"id":2263266,"city_id":29394,"language_key":"be","name":"Спі Тангай"}
+{"id":2269734,"city_id":29478,"language_key":"be","name":"Маногай"}
+{"id":2275740,"city_id":29556,"language_key":"be","name":"Мундул"}
+{"id":2304846,"city_id":29934,"language_key":"be","name":"бгхлан"}
+{"id":2306155,"city_id":29951,"language_key":"be","name":"Стэр Гіян"}
+{"id":2342037,"city_id":30417,"language_key":"be","name":"Цхакал Карез"}
+{"id":2342884,"city_id":30428,"language_key":"be","name":"'Идо Кхел"}
+{"id":2347658,"city_id":30490,"language_key":"be","name":"Кол-е Цхори"}
+{"id":2350045,"city_id":30521,"language_key":"be","name":"Кай Кала"}
+{"id":2350276,"city_id":30524,"language_key":"be","name":"Басхагаи"}
+{"id":2350738,"city_id":30530,"language_key":"be","name":"Котах-ые Хабибуллах"}
+{"id":2350815,"city_id":30531,"language_key":"be","name":"Гул Дарах"}
+{"id":2351585,"city_id":30541,"language_key":"be","name":"Кал'ах-ые Гхулам Хаидар Кхан"}
+{"id":2351739,"city_id":30543,"language_key":"be","name":"Кал'ах-ые Мухаммад Схах Кхан"}
+{"id":2352124,"city_id":30548,"language_key":"be","name":"Кал'ах-ые Кхалил"}
+{"id":2352201,"city_id":30549,"language_key":"be","name":"Кал'ах-ые Гхани"}
+{"id":2352663,"city_id":30555,"language_key":"be","name":"Кал'ах-ые Кхан Мир"}
+{"id":2353202,"city_id":30562,"language_key":"be","name":"Схухуцх"}
+{"id":2353279,"city_id":30563,"language_key":"be","name":"Йуйдур"}
+{"id":2353510,"city_id":30566,"language_key":"be","name":"Ахмад Кхан Кал'ах"}
+{"id":2357283,"city_id":30615,"language_key":"be","name":"Рубат-е Мабаын"}
+{"id":2357360,"city_id":30616,"language_key":"be","name":"Рубат-е Бала"}
+{"id":2357514,"city_id":30618,"language_key":"be","name":"Ноуадак"}
+{"id":2357668,"city_id":30620,"language_key":"be","name":"Сар Цхасхмах"}
+{"id":2359670,"city_id":30646,"language_key":"be","name":"Сафед Санг"}
+{"id":2359747,"city_id":30647,"language_key":"be","name":"Аытцх"}
+{"id":2360055,"city_id":30651,"language_key":"be","name":"Орыанг Суракх"}
+{"id":2360132,"city_id":30652,"language_key":"be","name":"Орыанг-е Барйир"}
+{"id":2360209,"city_id":30653,"language_key":"be","name":"Цхигх"}
+{"id":2361056,"city_id":30664,"language_key":"be","name":"Дарах-ые 'Аббас Кхел"}
+{"id":2361364,"city_id":30668,"language_key":"be","name":"Кхан Мухаммад Келаы"}
+{"id":2361441,"city_id":30669,"language_key":"be","name":"Догар Келаы"}
+{"id":2362134,"city_id":30678,"language_key":"be","name":"Котизаи"}
+{"id":2362981,"city_id":30689,"language_key":"be","name":"Кацхи Муса"}
+{"id":2363366,"city_id":30694,"language_key":"be","name":"Сур Камар"}
+{"id":2363828,"city_id":30700,"language_key":"be","name":"Гидар"}
+{"id":2363905,"city_id":30701,"language_key":"be","name":"Дуабах"}
+{"id":2364213,"city_id":30705,"language_key":"be","name":"Схапауос"}
+{"id":2364367,"city_id":30707,"language_key":"be","name":"Саки Дех Дас"}
+{"id":2364444,"city_id":30708,"language_key":"be","name":"Схах Датс"}
+{"id":2364675,"city_id":30711,"language_key":"be","name":"Кхандах Лоу"}
+{"id":2364752,"city_id":30712,"language_key":"be","name":"Ыари Дас Калан"}
+{"id":2365060,"city_id":30716,"language_key":"be","name":"Схаыкхан"}
+{"id":2365137,"city_id":30717,"language_key":"be","name":"Кунй Кала"}
+{"id":2365214,"city_id":30718,"language_key":"be","name":"Торах Борах"}
+{"id":2365368,"city_id":30720,"language_key":"be","name":"Мирза Багх"}
+{"id":2365599,"city_id":30723,"language_key":"be","name":"Уецхах Алгадах"}
+{"id":2366061,"city_id":30729,"language_key":"be","name":"Спин Рагхех"}
+{"id":2366138,"city_id":30730,"language_key":"be","name":"Бахлол Кхел"}
+{"id":2366523,"city_id":30735,"language_key":"be","name":"Бар Лагхти Келаы"}
+{"id":2366677,"city_id":30737,"language_key":"be","name":"Танги Кхел"}
+{"id":2367524,"city_id":30748,"language_key":"be","name":"Гадрах"}
+{"id":2367601,"city_id":30749,"language_key":"be","name":"Ангурах"}
+{"id":2367986,"city_id":30754,"language_key":"be","name":"Паигал"}
+{"id":2368294,"city_id":30758,"language_key":"be","name":"Баз Кхандах"}
+{"id":2368602,"city_id":30762,"language_key":"be","name":"Бам Хусаин"}
+{"id":2369295,"city_id":30771,"language_key":"be","name":"Асел Барикау"}
+{"id":2369372,"city_id":30772,"language_key":"be","name":"Барікаў Кальах Валі"}
+{"id":2369757,"city_id":30777,"language_key":"be","name":"Адцхат Тантил"}
+{"id":2371143,"city_id":30795,"language_key":"be","name":"Ыас Цхам"}
+{"id":2371220,"city_id":30796,"language_key":"be","name":"Муллаыано Тангаы"}
+{"id":2388468,"city_id":31020,"language_key":"be","name":"Питау-е Сиыах Кхаки"}
+{"id":2397939,"city_id":31143,"language_key":"be","name":"Дери Мила"}
+{"id":2403021,"city_id":31209,"language_key":"be","name":"схаран"}
+{"id":2403252,"city_id":31212,"language_key":"be","name":"Салам Хель"}
+{"id":2413647,"city_id":31347,"language_key":"be","name":"мазад"}

@@ -1,0 +1,976 @@
+{"id":232307651,"city_id":3016983,"language_key":"ky","name":"Розае"}
+{"id":232307728,"city_id":3016984,"language_key":"ky","name":"Радетина"}
+{"id":232307805,"city_id":3016985,"language_key":"ky","name":"Порока"}
+{"id":232308344,"city_id":3016992,"language_key":"ky","name":"Ибарац"}
+{"id":232308421,"city_id":3016993,"language_key":"ky","name":"Грахово"}
+{"id":232309345,"city_id":3017005,"language_key":"ky","name":"Бац"}
+{"id":232309576,"city_id":3017008,"language_key":"ky","name":"Бован"}
+{"id":232309653,"city_id":3017009,"language_key":"ky","name":"Долина"}
+{"id":232310192,"city_id":3017016,"language_key":"ky","name":"Донйа Ловница"}
+{"id":232310500,"city_id":3017020,"language_key":"ky","name":"Плумци"}
+{"id":232310654,"city_id":3017022,"language_key":"ky","name":"Халиловиц"}
+{"id":232310731,"city_id":3017023,"language_key":"ky","name":"Дубовик"}
+{"id":232310885,"city_id":3017025,"language_key":"ky","name":"Копилйаца [хисторицал]"}
+{"id":232310962,"city_id":3017026,"language_key":"ky","name":"Средани"}
+{"id":232311578,"city_id":3017034,"language_key":"ky","name":"Редзица Крле"}
+{"id":232311655,"city_id":3017035,"language_key":"ky","name":"Колйено"}
+{"id":232311732,"city_id":3017036,"language_key":"ky","name":"Виснйице"}
+{"id":232311809,"city_id":3017037,"language_key":"ky","name":"Донйи Бесник"}
+{"id":232311886,"city_id":3017038,"language_key":"ky","name":"Дзудзевици"}
+{"id":232312271,"city_id":3017043,"language_key":"ky","name":"Сеосница"}
+{"id":232312348,"city_id":3017044,"language_key":"ky","name":"Тузева Лука"}
+{"id":232312579,"city_id":3017047,"language_key":"ky","name":"Кацари"}
+{"id":232312887,"city_id":3017051,"language_key":"ky","name":"Драциновац"}
+{"id":232313426,"city_id":3017058,"language_key":"ky","name":"Зупци"}
+{"id":232313503,"city_id":3017059,"language_key":"ky","name":"Зуковица"}
+{"id":232313580,"city_id":3017060,"language_key":"ky","name":"Зоганй"}
+{"id":232313888,"city_id":3017064,"language_key":"ky","name":"Зирци"}
+{"id":232313965,"city_id":3017065,"language_key":"ky","name":"Зидовици"}
+{"id":232314042,"city_id":3017066,"language_key":"ky","name":"Зеленика"}
+{"id":232314273,"city_id":3017069,"language_key":"ky","name":"Занковици"}
+{"id":232314427,"city_id":3017071,"language_key":"ky","name":"Залйево"}
+{"id":232314581,"city_id":3017073,"language_key":"ky","name":"Заграде"}
+{"id":232314735,"city_id":3017075,"language_key":"ky","name":"Загора"}
+{"id":232315120,"city_id":3017080,"language_key":"ky","name":"Жабляк"}
+{"id":232315197,"city_id":3017081,"language_key":"ky","name":"Вусане"}
+{"id":232315351,"city_id":3017083,"language_key":"ky","name":"Вуксанлекици"}
+{"id":232315736,"city_id":3017088,"language_key":"ky","name":"Врела"}
+{"id":232315813,"city_id":3017089,"language_key":"ky","name":"Горнйа Врбица"}
+{"id":232315967,"city_id":3017091,"language_key":"ky","name":"Врба"}
+{"id":232316121,"city_id":3017093,"language_key":"ky","name":"Вранйина"}
+{"id":232316198,"city_id":3017094,"language_key":"ky","name":"Вранй"}
+{"id":232316660,"city_id":3017100,"language_key":"ky","name":"Владни"}
+{"id":232316891,"city_id":3017103,"language_key":"ky","name":"Виснйево"}
+{"id":232317045,"city_id":3017105,"language_key":"ky","name":"Вирпазар"}
+{"id":232317122,"city_id":3017106,"language_key":"ky","name":"Виника"}
+{"id":232317276,"city_id":3017108,"language_key":"ky","name":"Вилуси"}
+{"id":232317507,"city_id":3017111,"language_key":"ky","name":"Велйе Село"}
+{"id":232317584,"city_id":3017112,"language_key":"ky","name":"Велйе Село"}
+{"id":232317815,"city_id":3017115,"language_key":"ky","name":"Васково"}
+{"id":232318123,"city_id":3017119,"language_key":"ky","name":"Улцинь"}
+{"id":232318277,"city_id":3017121,"language_key":"ky","name":"Угнйи"}
+{"id":232318354,"city_id":3017122,"language_key":"ky","name":"Убли"}
+{"id":232318431,"city_id":3017123,"language_key":"ky","name":"Убли"}
+{"id":232318739,"city_id":3017127,"language_key":"ky","name":"Тузи Левореке"}
+{"id":232318816,"city_id":3017128,"language_key":"ky","name":"Тузи"}
+{"id":232319047,"city_id":3017131,"language_key":"ky","name":"Тудемили"}
+{"id":232319124,"city_id":3017132,"language_key":"ky","name":"Туцане"}
+{"id":232319355,"city_id":3017135,"language_key":"ky","name":"Трново"}
+{"id":232319586,"city_id":3017138,"language_key":"ky","name":"Треснйево"}
+{"id":232319817,"city_id":3017141,"language_key":"ky","name":"Требесинй"}
+{"id":232319894,"city_id":3017142,"language_key":"ky","name":"Трабойин"}
+{"id":232320048,"city_id":3017144,"language_key":"ky","name":"Томба"}
+{"id":232320125,"city_id":3017145,"language_key":"ky","name":"Томасево"}
+{"id":232320279,"city_id":3017147,"language_key":"ky","name":"Тиват"}
+{"id":232320510,"city_id":3017150,"language_key":"ky","name":"Тежани"}
+{"id":232320587,"city_id":3017151,"language_key":"ky","name":"Свети Стефан"}
+{"id":232320741,"city_id":3017153,"language_key":"ky","name":"Свети Дорде"}
+{"id":232320818,"city_id":3017154,"language_key":"ky","name":"Сутвара"}
+{"id":232320895,"city_id":3017155,"language_key":"ky","name":"Сутоморе"}
+{"id":232321049,"city_id":3017157,"language_key":"ky","name":"Сусуна"}
+{"id":232321126,"city_id":3017158,"language_key":"ky","name":"Сустас"}
+{"id":232321203,"city_id":3017159,"language_key":"ky","name":"Сусцепан"}
+{"id":232321280,"city_id":3017160,"language_key":"ky","name":"Донйе Суме"}
+{"id":232321434,"city_id":3017162,"language_key":"ky","name":"Сукобин"}
+{"id":232321665,"city_id":3017165,"language_key":"ky","name":"Стубе"}
+{"id":232321819,"city_id":3017167,"language_key":"ky","name":"Стройтеница"}
+{"id":232321896,"city_id":3017168,"language_key":"ky","name":"Страхиници"}
+{"id":232322127,"city_id":3017171,"language_key":"ky","name":"Стедим"}
+{"id":232322204,"city_id":3017172,"language_key":"ky","name":"Старо Село"}
+{"id":232322281,"city_id":3017173,"language_key":"ky","name":"Стари Бар"}
+{"id":232322358,"city_id":3017174,"language_key":"ky","name":"Станиселици"}
+{"id":232322512,"city_id":3017176,"language_key":"ky","name":"Српска"}
+{"id":232322589,"city_id":3017177,"language_key":"ky","name":"Сретнйа"}
+{"id":232322743,"city_id":3017179,"language_key":"ky","name":"Спуз"}
+{"id":232322820,"city_id":3017180,"language_key":"ky","name":"Спина"}
+{"id":232322897,"city_id":3017181,"language_key":"ky","name":"Собаици"}
+{"id":232323205,"city_id":3017185,"language_key":"ky","name":"Слйуке"}
+{"id":232323359,"city_id":3017187,"language_key":"ky","name":"Слатина"}
+{"id":232323744,"city_id":3017192,"language_key":"ky","name":"Сйенозета"}
+{"id":232323821,"city_id":3017193,"language_key":"ky","name":"Сйерогосте"}
+{"id":232324514,"city_id":3017202,"language_key":"ky","name":"Секулици"}
+{"id":232324591,"city_id":3017203,"language_key":"ky","name":"Савник"}
+{"id":232324668,"city_id":3017204,"language_key":"ky","name":"Сасовици"}
+{"id":232324745,"city_id":3017205,"language_key":"ky","name":"САС"}
+{"id":232325515,"city_id":3017215,"language_key":"ky","name":"Рисан"}
+{"id":232325592,"city_id":3017216,"language_key":"ky","name":"Рийека Црнойевица"}
+{"id":232325669,"city_id":3017217,"language_key":"ky","name":"Рийецани"}
+{"id":232325746,"city_id":3017218,"language_key":"ky","name":"Ресник"}
+{"id":232326054,"city_id":3017222,"language_key":"ky","name":"Ратисевина"}
+{"id":232326131,"city_id":3017223,"language_key":"ky","name":"Растовац"}
+{"id":232326285,"city_id":3017225,"language_key":"ky","name":"Раконйе"}
+{"id":232326516,"city_id":3017228,"language_key":"ky","name":"Радовици"}
+{"id":232327055,"city_id":3017235,"language_key":"ky","name":"Провалийа"}
+{"id":232327209,"city_id":3017237,"language_key":"ky","name":"Прнйавор"}
+{"id":232327286,"city_id":3017238,"language_key":"ky","name":"Пристан"}
+{"id":232327363,"city_id":3017239,"language_key":"ky","name":"Присойа"}
+{"id":232327440,"city_id":3017240,"language_key":"ky","name":"Припчичи"}
+{"id":232327517,"city_id":3017241,"language_key":"ky","name":"Прийевор"}
+{"id":232327825,"city_id":3017245,"language_key":"ky","name":"Прифта"}
+{"id":232327979,"city_id":3017247,"language_key":"ky","name":"Превлака"}
+{"id":232328056,"city_id":3017248,"language_key":"ky","name":"Превис"}
+{"id":232328133,"city_id":3017249,"language_key":"ky","name":"Прентин До"}
+{"id":232328287,"city_id":3017251,"language_key":"ky","name":"Прцан"}
+{"id":232328364,"city_id":3017252,"language_key":"ky","name":"Працица"}
+{"id":232328595,"city_id":3017255,"language_key":"ky","name":"Позегинйа"}
+{"id":232328672,"city_id":3017256,"language_key":"ky","name":"Донйа Повийа"}
+{"id":232328826,"city_id":3017258,"language_key":"ky","name":"Поткрайци"}
+{"id":232328903,"city_id":3017259,"language_key":"ky","name":"Посценйе"}
+{"id":232329057,"city_id":3017261,"language_key":"ky","name":"Пониквица"}
+{"id":232329134,"city_id":3017262,"language_key":"ky","name":"Понари"}
+{"id":232329288,"city_id":3017264,"language_key":"ky","name":"Поличе"}
+{"id":232329365,"city_id":3017265,"language_key":"ky","name":"Полйе"}
+{"id":232329673,"city_id":3017269,"language_key":"ky","name":"Поди"}
+{"id":232329750,"city_id":3017270,"language_key":"ky","name":"Потум"}
+{"id":232329827,"city_id":3017271,"language_key":"ky","name":"Подгорица"}
+{"id":232329981,"city_id":3017273,"language_key":"ky","name":"Пода"}
+{"id":232330212,"city_id":3017276,"language_key":"ky","name":"Плузине"}
+{"id":232330289,"city_id":3017277,"language_key":"ky","name":"Плевля"}
+{"id":232330366,"city_id":3017278,"language_key":"ky","name":"Плав"}
+{"id":232330520,"city_id":3017280,"language_key":"ky","name":"Пикалья"}
+{"id":232330597,"city_id":3017281,"language_key":"ky","name":"Пикалья"}
+{"id":232330828,"city_id":3017284,"language_key":"ky","name":"Петровац на Мору"}
+{"id":232330905,"city_id":3017285,"language_key":"ky","name":"Петник"}
+{"id":232330982,"city_id":3017286,"language_key":"ky","name":"Песца"}
+{"id":232331059,"city_id":3017287,"language_key":"ky","name":"Пераст"}
+{"id":232331136,"city_id":3017288,"language_key":"ky","name":"Пелинковици"}
+{"id":232331213,"city_id":3017289,"language_key":"ky","name":"Пелев Брийег"}
+{"id":232331290,"city_id":3017290,"language_key":"ky","name":"Пецурице"}
+{"id":232331675,"city_id":3017295,"language_key":"ky","name":"Папани"}
+{"id":232331829,"city_id":3017297,"language_key":"ky","name":"Озриници"}
+{"id":232332060,"city_id":3017300,"language_key":"ky","name":"Овтоцици"}
+{"id":232332291,"city_id":3017303,"language_key":"ky","name":"Орлина"}
+{"id":232332368,"city_id":3017304,"language_key":"ky","name":"Орйа Лука"}
+{"id":232332599,"city_id":3017307,"language_key":"ky","name":"Донйи Ораховац"}
+{"id":232332907,"city_id":3017311,"language_key":"ky","name":"Оциници"}
+{"id":232332984,"city_id":3017312,"language_key":"ky","name":"Обров"}
+{"id":232333138,"city_id":3017314,"language_key":"ky","name":"Облатно"}
+{"id":232333215,"city_id":3017315,"language_key":"ky","name":"Катунисте"}
+{"id":232333292,"city_id":3017316,"language_key":"ky","name":"Новсици"}
+{"id":232333369,"city_id":3017317,"language_key":"ky","name":"Новоселйе"}
+{"id":232333446,"city_id":3017318,"language_key":"ky","name":"Негуси"}
+{"id":232333523,"city_id":3017319,"language_key":"ky","name":"Никсич"}
+{"id":232333600,"city_id":3017320,"language_key":"ky","name":"Никмарас"}
+{"id":232333677,"city_id":3017321,"language_key":"ky","name":"Недакуси"}
+{"id":232333754,"city_id":3017322,"language_key":"ky","name":"Недайно"}
+{"id":232333985,"city_id":3017325,"language_key":"ky","name":"Мурино"}
+{"id":232334062,"city_id":3017326,"language_key":"ky","name":"Муо"}
+{"id":232334293,"city_id":3017329,"language_key":"ky","name":"Мрцевац"}
+{"id":232334370,"city_id":3017330,"language_key":"ky","name":"Мотицки Гай"}
+{"id":232334447,"city_id":3017331,"language_key":"ky","name":"Донйе Мораково"}
+{"id":232334524,"city_id":3017332,"language_key":"ky","name":"Мораице"}
+{"id":232334755,"city_id":3017335,"language_key":"ky","name":"Мокро"}
+{"id":232334986,"city_id":3017338,"language_key":"ky","name":"Мойковац"}
+{"id":232335063,"city_id":3017339,"language_key":"ky","name":"Мойановици"}
+{"id":232335140,"city_id":3017340,"language_key":"ky","name":"Млйетицак"}
+{"id":232335217,"city_id":3017341,"language_key":"ky","name":"Мисици"}
+{"id":232335371,"city_id":3017343,"language_key":"ky","name":"Милово"}
+{"id":232335448,"city_id":3017344,"language_key":"ky","name":"Милово"}
+{"id":232335525,"city_id":3017345,"language_key":"ky","name":"Миловици"}
+{"id":232335833,"city_id":3017349,"language_key":"ky","name":"Миде"}
+{"id":232335910,"city_id":3017350,"language_key":"ky","name":"Мезгалйи"}
+{"id":232336218,"city_id":3017354,"language_key":"ky","name":"Мелйине"}
+{"id":232336295,"city_id":3017355,"language_key":"ky","name":"Матесево"}
+{"id":232336372,"city_id":3017356,"language_key":"ky","name":"Матагузи"}
+{"id":232336449,"city_id":3017357,"language_key":"ky","name":"Мартиновици"}
+{"id":232336680,"city_id":3017360,"language_key":"ky","name":"Мандици"}
+{"id":232336757,"city_id":3017361,"language_key":"ky","name":"Маленза"}
+{"id":232336834,"city_id":3017362,"language_key":"ky","name":"Мала Горана"}
+{"id":232336988,"city_id":3017364,"language_key":"ky","name":"Махала"}
+{"id":232337219,"city_id":3017367,"language_key":"ky","name":"Донйи Лузац"}
+{"id":232337373,"city_id":3017369,"language_key":"ky","name":"Любница"}
+{"id":232337450,"city_id":3017370,"language_key":"ky","name":"Лозна"}
+{"id":232337758,"city_id":3017374,"language_key":"ky","name":"Ливеровици"}
+{"id":232337835,"city_id":3017375,"language_key":"ky","name":"Ливари"}
+{"id":232338066,"city_id":3017378,"language_key":"ky","name":"Липци"}
+{"id":232338451,"city_id":3017383,"language_key":"ky","name":"Лепетани"}
+{"id":232338528,"city_id":3017384,"language_key":"ky","name":"Лепенац"}
+{"id":232338605,"city_id":3017385,"language_key":"ky","name":"Леово Брдо"}
+{"id":232338682,"city_id":3017386,"language_key":"ky","name":"Лекици"}
+{"id":232338913,"city_id":3017389,"language_key":"ky","name":"Лазарев Крст"}
+{"id":232339144,"city_id":3017392,"language_key":"ky","name":"Кути"}
+{"id":232339221,"city_id":3017393,"language_key":"ky","name":"Кути"}
+{"id":232339298,"city_id":3017394,"language_key":"ky","name":"Курило"}
+{"id":232339452,"city_id":3017396,"language_key":"ky","name":"Кунак"}
+{"id":232339606,"city_id":3017398,"language_key":"ky","name":"Куйава"}
+{"id":232339914,"city_id":3017402,"language_key":"ky","name":"Крута"}
+{"id":232340068,"city_id":3017404,"language_key":"ky","name":"Крусево"}
+{"id":232340145,"city_id":3017405,"language_key":"ky","name":"Крусево"}
+{"id":232340222,"city_id":3017406,"language_key":"ky","name":"Крусевице"}
+{"id":232340376,"city_id":3017408,"language_key":"ky","name":"Круце"}
+{"id":232340915,"city_id":3017415,"language_key":"ky","name":"Красици"}
+{"id":232340992,"city_id":3017416,"language_key":"ky","name":"Крайнйи До"}
+{"id":232341223,"city_id":3017419,"language_key":"ky","name":"Коврен"}
+{"id":232341300,"city_id":3017420,"language_key":"ky","name":"Котор"}
+{"id":232341531,"city_id":3017423,"language_key":"ky","name":"Костаница"}
+{"id":232341916,"city_id":3017428,"language_key":"ky","name":"Корнет"}
+{"id":232342224,"city_id":3017432,"language_key":"ky","name":"Комарно"}
+{"id":232342301,"city_id":3017433,"language_key":"ky","name":"Коленовици"}
+{"id":232342378,"city_id":3017434,"language_key":"ky","name":"Коласин"}
+{"id":232342917,"city_id":3017441,"language_key":"ky","name":"Канйе"}
+{"id":232342994,"city_id":3017442,"language_key":"ky","name":"Камено"}
+{"id":232343841,"city_id":3017453,"language_key":"ky","name":"Йабука"}
+{"id":232344226,"city_id":3017458,"language_key":"ky","name":"Браунелл"}
+{"id":232344303,"city_id":3017459,"language_key":"ky","name":"Игало"}
+{"id":232344380,"city_id":3017460,"language_key":"ky","name":"Херцег Нови"}
+{"id":232344611,"city_id":3017463,"language_key":"ky","name":"Гусине"}
+{"id":232344765,"city_id":3017465,"language_key":"ky","name":"Груда"}
+{"id":232344842,"city_id":3017466,"language_key":"ky","name":"Грбавци"}
+{"id":232345073,"city_id":3017469,"language_key":"ky","name":"Градина"}
+{"id":232345227,"city_id":3017471,"language_key":"ky","name":"Градани"}
+{"id":232345689,"city_id":3017477,"language_key":"ky","name":"Гостиль"}
+{"id":232345766,"city_id":3017478,"language_key":"ky","name":"Гостилж"}
+{"id":232345920,"city_id":3017480,"language_key":"ky","name":"Госици"}
+{"id":232346151,"city_id":3017483,"language_key":"ky","name":"Горнйи Стой"}
+{"id":232346228,"city_id":3017484,"language_key":"ky","name":"Горнйи Рсойевици"}
+{"id":232346305,"city_id":3017485,"language_key":"ky","name":"Горнйи Ораховац"}
+{"id":232346536,"city_id":3017488,"language_key":"ky","name":"Горнйи Кокоти"}
+{"id":232347229,"city_id":3017497,"language_key":"ky","name":"Горицани"}
+{"id":232347306,"city_id":3017498,"language_key":"ky","name":"Голубовци"}
+{"id":232347383,"city_id":3017499,"language_key":"ky","name":"Големади"}
+{"id":232347537,"city_id":3017501,"language_key":"ky","name":"Године"}
+{"id":232347845,"city_id":3017505,"language_key":"ky","name":"Донйи Фрутак"}
+{"id":232347999,"city_id":3017507,"language_key":"ky","name":"Фармаци"}
+{"id":232348153,"city_id":3017509,"language_key":"ky","name":"Дузи"}
+{"id":232348230,"city_id":3017510,"language_key":"ky","name":"Дуске"}
+{"id":232348384,"city_id":3017512,"language_key":"ky","name":"Дурици"}
+{"id":232348461,"city_id":3017513,"language_key":"ky","name":"Дуравци"}
+{"id":232348538,"city_id":3017514,"language_key":"ky","name":"Дурасевици"}
+{"id":232348615,"city_id":3017515,"language_key":"ky","name":"Дупило"}
+{"id":232348769,"city_id":3017517,"language_key":"ky","name":"Дулици"}
+{"id":232349462,"city_id":3017526,"language_key":"ky","name":"Друсици"}
+{"id":232349770,"city_id":3017530,"language_key":"ky","name":"Драгова Лука"}
+{"id":232350155,"city_id":3017535,"language_key":"ky","name":"Досуде"}
+{"id":232350232,"city_id":3017536,"language_key":"ky","name":"Донйи Стой"}
+{"id":232350309,"city_id":3017537,"language_key":"ky","name":"Донйи Рсойевици"}
+{"id":232350386,"city_id":3017538,"language_key":"ky","name":"Донйи Мурици"}
+{"id":232350463,"city_id":3017539,"language_key":"ky","name":"Донжи Моринж"}
+{"id":232350540,"city_id":3017540,"language_key":"ky","name":"Донйи Кокоти"}
+{"id":232350771,"city_id":3017543,"language_key":"ky","name":"Дона Ластва"}
+{"id":232351002,"city_id":3017546,"language_key":"ky","name":"Долац"}
+{"id":232351156,"city_id":3017548,"language_key":"ky","name":"Додоси"}
+{"id":232351233,"city_id":3017549,"language_key":"ky","name":"Добрско Село"}
+{"id":232351387,"city_id":3017551,"language_key":"ky","name":"Добраково"}
+{"id":232351464,"city_id":3017552,"language_key":"ky","name":"Диноса"}
+{"id":232351618,"city_id":3017554,"language_key":"ky","name":"Дендиновици"}
+{"id":232351695,"city_id":3017555,"language_key":"ky","name":"Денаси"}
+{"id":232351849,"city_id":3017557,"language_key":"ky","name":"Дарза"}
+{"id":232351926,"city_id":3017558,"language_key":"ky","name":"Даниловград"}
+{"id":232352003,"city_id":3017559,"language_key":"ky","name":"Даловици"}
+{"id":232352157,"city_id":3017561,"language_key":"ky","name":"Дайбабе"}
+{"id":232352234,"city_id":3017562,"language_key":"ky","name":"Дабовици"}
+{"id":232352311,"city_id":3017563,"language_key":"ky","name":"Дабезици"}
+{"id":232352773,"city_id":3017569,"language_key":"ky","name":"Горни Крнчи"}
+{"id":232352850,"city_id":3017570,"language_key":"ky","name":"Црнца"}
+{"id":232353081,"city_id":3017573,"language_key":"ky","name":"Цетинье"}
+{"id":232353312,"city_id":3017576,"language_key":"ky","name":"Целуга"}
+{"id":232353466,"city_id":3017578,"language_key":"ky","name":"Буронйи"}
+{"id":232353543,"city_id":3017579,"language_key":"ky","name":"Буковик"}
+{"id":232353774,"city_id":3017582,"language_key":"ky","name":"Будва"}
+{"id":232353851,"city_id":3017583,"language_key":"ky","name":"Буце"}
+{"id":232354005,"city_id":3017585,"language_key":"ky","name":"Брсно"}
+{"id":232354159,"city_id":3017587,"language_key":"ky","name":"Брийестово"}
+{"id":232354313,"city_id":3017589,"language_key":"ky","name":"Брезине"}
+{"id":232354467,"city_id":3017591,"language_key":"ky","name":"Брца"}
+{"id":232354698,"city_id":3017594,"language_key":"ky","name":"Брайсе"}
+{"id":232354929,"city_id":3017597,"language_key":"ky","name":"Ботун"}
+{"id":232355006,"city_id":3017598,"language_key":"ky","name":"Боронйина"}
+{"id":232355160,"city_id":3017600,"language_key":"ky","name":"Борети"}
+{"id":232355237,"city_id":3017601,"language_key":"ky","name":"Болйевици"}
+{"id":232355314,"city_id":3017602,"language_key":"ky","name":"Болйанина"}
+{"id":232355853,"city_id":3017609,"language_key":"ky","name":"Богисици"}
+{"id":232355930,"city_id":3017610,"language_key":"ky","name":"Богицевици"}
+{"id":232356161,"city_id":3017613,"language_key":"ky","name":"Богайици"}
+{"id":232356238,"city_id":3017614,"language_key":"ky","name":"Бобовисте"}
+{"id":232356546,"city_id":3017618,"language_key":"ky","name":"Бйелоси"}
+{"id":232356854,"city_id":3017622,"language_key":"ky","name":"Биоце"}
+{"id":232356931,"city_id":3017623,"language_key":"ky","name":"Крусевице"}
+{"id":232357008,"city_id":3017624,"language_key":"ky","name":"Биело-Поле"}
+{"id":232357085,"city_id":3017625,"language_key":"ky","name":"Биело Полье"}
+{"id":232357162,"city_id":3017626,"language_key":"ky","name":"Биело Полье"}
+{"id":232357239,"city_id":3017627,"language_key":"ky","name":"Бийела"}
+{"id":232357316,"city_id":3017628,"language_key":"ky","name":"Бийедици"}
+{"id":232357393,"city_id":3017629,"language_key":"ky","name":"Бигор"}
+{"id":232357470,"city_id":3017630,"language_key":"ky","name":"Безуйе"}
+{"id":232357624,"city_id":3017632,"language_key":"ky","name":"Бес"}
+{"id":232357778,"city_id":3017634,"language_key":"ky","name":"Бериславци"}
+{"id":232357932,"city_id":3017636,"language_key":"ky","name":"Бецици"}
+{"id":232358086,"city_id":3017638,"language_key":"ky","name":"Бартула"}
+{"id":232358163,"city_id":3017639,"language_key":"ky","name":"Баре Сумановица"}
+{"id":232358240,"city_id":3017640,"language_key":"ky","name":"Беран Село"}
+{"id":232358317,"city_id":3017641,"language_key":"ky","name":"Бар"}
+{"id":232358394,"city_id":3017642,"language_key":"ky","name":"Баосици"}
+{"id":232358471,"city_id":3017643,"language_key":"ky","name":"Балабани"}
+{"id":232359010,"city_id":3017650,"language_key":"ky","name":"Андриевица"}
+{"id":232359087,"city_id":3017651,"language_key":"ky","name":"Амбула"}
+{"id":232359318,"city_id":3017654,"language_key":"ky","name":"Толйевина"}
+{"id":232359549,"city_id":3017657,"language_key":"ky","name":"Стайиста"}
+{"id":232360011,"city_id":3017663,"language_key":"ky","name":"Сенициста"}
+{"id":232361166,"city_id":3017678,"language_key":"ky","name":"Бара"}
+{"id":232361243,"city_id":3017679,"language_key":"ky","name":"Умац"}
+{"id":232361474,"city_id":3017682,"language_key":"ky","name":"Ройевици"}
+{"id":232361705,"city_id":3017685,"language_key":"ky","name":"Горнйа Спила"}
+{"id":232361859,"city_id":3017687,"language_key":"ky","name":"Унийерина"}
+{"id":232362090,"city_id":3017690,"language_key":"ky","name":"Севелйски До"}
+{"id":232362398,"city_id":3017694,"language_key":"ky","name":"Рамадица До"}
+{"id":232362706,"city_id":3017698,"language_key":"ky","name":"Стрпца"}
+{"id":232362937,"city_id":3017701,"language_key":"ky","name":"Кумбор"}
+{"id":232363938,"city_id":3017714,"language_key":"ky","name":"Мирац"}
+{"id":232364400,"city_id":3017720,"language_key":"ky","name":"Село"}
+{"id":232365478,"city_id":3017734,"language_key":"ky","name":"Цуковици"}
+{"id":232365786,"city_id":3017738,"language_key":"ky","name":"Балоци"}
+{"id":232365940,"city_id":3017740,"language_key":"ky","name":"Дусици"}
+{"id":232366171,"city_id":3017743,"language_key":"ky","name":"Ракица Куце"}
+{"id":232366941,"city_id":3017753,"language_key":"ky","name":"Црни Нугли"}
+{"id":232367403,"city_id":3017759,"language_key":"ky","name":"Йасиковица"}
+{"id":232368096,"city_id":3017768,"language_key":"ky","name":"Вити Йасен"}
+{"id":232368173,"city_id":3017769,"language_key":"ky","name":"Круг"}
+{"id":232368250,"city_id":3017770,"language_key":"ky","name":"Медеде"}
+{"id":232368327,"city_id":3017771,"language_key":"ky","name":"Савина Круска"}
+{"id":232368481,"city_id":3017773,"language_key":"ky","name":"Мустеровици"}
+{"id":232369405,"city_id":3017785,"language_key":"ky","name":"Птиц"}
+{"id":232369944,"city_id":3017792,"language_key":"ky","name":"Просица"}
+{"id":232370945,"city_id":3017805,"language_key":"ky","name":"Петница"}
+{"id":232371176,"city_id":3017808,"language_key":"ky","name":"Подбисце"}
+{"id":232371253,"city_id":3017809,"language_key":"ky","name":"Равна Рийека"}
+{"id":232372408,"city_id":3017824,"language_key":"ky","name":"Добра Села"}
+{"id":232372793,"city_id":3017829,"language_key":"ky","name":"Трусина"}
+{"id":232374025,"city_id":3017845,"language_key":"ky","name":"Меки До"}
+{"id":232374564,"city_id":3017852,"language_key":"ky","name":"Метериз"}
+{"id":232374872,"city_id":3017856,"language_key":"ky","name":"Кацуница"}
+{"id":232375334,"city_id":3017862,"language_key":"ky","name":"Камисево"}
+{"id":232376258,"city_id":3017874,"language_key":"ky","name":"Долина"}
+{"id":232376874,"city_id":3017882,"language_key":"ky","name":"Дули"}
+{"id":232376951,"city_id":3017883,"language_key":"ky","name":"Стразице"}
+{"id":232377644,"city_id":3017892,"language_key":"ky","name":"Деновици"}
+{"id":232378183,"city_id":3017899,"language_key":"ky","name":"Авлийа"}
+{"id":232378414,"city_id":3017902,"language_key":"ky","name":"Рогаци"}
+{"id":232378491,"city_id":3017903,"language_key":"ky","name":"Войници"}
+{"id":232378568,"city_id":3017904,"language_key":"ky","name":"Хайловина"}
+{"id":232378645,"city_id":3017905,"language_key":"ky","name":"Вукасовици"}
+{"id":232378876,"city_id":3017908,"language_key":"ky","name":"Донйи Унац"}
+{"id":232379261,"city_id":3017913,"language_key":"ky","name":"Мадзарски Край"}
+{"id":232379338,"city_id":3017914,"language_key":"ky","name":"Сеоца"}
+{"id":232379415,"city_id":3017915,"language_key":"ky","name":"Белусевац"}
+{"id":232381032,"city_id":3017936,"language_key":"ky","name":"Гуке"}
+{"id":232381725,"city_id":3017945,"language_key":"ky","name":"Жезеро"}
+{"id":232381879,"city_id":3017947,"language_key":"ky","name":"Цардак"}
+{"id":232381956,"city_id":3017948,"language_key":"ky","name":"Двориста"}
+{"id":232383188,"city_id":3017964,"language_key":"ky","name":"Кацак"}
+{"id":232383496,"city_id":3017968,"language_key":"ky","name":"Лйубойевац"}
+{"id":232383804,"city_id":3017972,"language_key":"ky","name":"Кукавице"}
+{"id":232383881,"city_id":3017973,"language_key":"ky","name":"Поткамен"}
+{"id":232383958,"city_id":3017974,"language_key":"ky","name":"Йасен"}
+{"id":232384420,"city_id":3017980,"language_key":"ky","name":"Зауглине"}
+{"id":232384959,"city_id":3017987,"language_key":"ky","name":"Забрнйица"}
+{"id":232385036,"city_id":3017988,"language_key":"ky","name":"Роговина"}
+{"id":232385113,"city_id":3017989,"language_key":"ky","name":"Ива"}
+{"id":232385190,"city_id":3017990,"language_key":"ky","name":"Вийенац"}
+{"id":232385267,"city_id":3017991,"language_key":"ky","name":"Клйун"}
+{"id":232385421,"city_id":3017993,"language_key":"ky","name":"Прибаковици"}
+{"id":232385652,"city_id":3017996,"language_key":"ky","name":"Клапуси"}
+{"id":232385883,"city_id":3017999,"language_key":"ky","name":"Йаховици"}
+{"id":232386422,"city_id":3018006,"language_key":"ky","name":"Прибой"}
+{"id":232387115,"city_id":3018015,"language_key":"ky","name":"Крусево"}
+{"id":232388039,"city_id":3018027,"language_key":"ky","name":"Сцепан-Полйе"}
+{"id":232388270,"city_id":3018030,"language_key":"ky","name":"Оглавина"}
+{"id":232388732,"city_id":3018036,"language_key":"ky","name":"Даковици"}
+{"id":232389040,"city_id":3018040,"language_key":"ky","name":"Бара"}
+{"id":232389117,"city_id":3018041,"language_key":"ky","name":"Горнйе Мрцево"}
+{"id":232389348,"city_id":3018044,"language_key":"ky","name":"Суплйа Стийена"}
+{"id":232389502,"city_id":3018046,"language_key":"ky","name":"Луцице"}
+{"id":232389656,"city_id":3018048,"language_key":"ky","name":"Равне Смреке"}
+{"id":232390118,"city_id":3018054,"language_key":"ky","name":"Стрмецица"}
+{"id":232390657,"city_id":3018061,"language_key":"ky","name":"Ципцийе"}
+{"id":232390734,"city_id":3018062,"language_key":"ky","name":"Омар"}
+{"id":232390811,"city_id":3018063,"language_key":"ky","name":"Тепацко Полйе"}
+{"id":232391119,"city_id":3018067,"language_key":"ky","name":"Цардак"}
+{"id":232391273,"city_id":3018069,"language_key":"ky","name":"Питомине"}
+{"id":232391581,"city_id":3018073,"language_key":"ky","name":"Сумановац"}
+{"id":232391658,"city_id":3018074,"language_key":"ky","name":"Вирак"}
+{"id":232391812,"city_id":3018076,"language_key":"ky","name":"Посленисте"}
+{"id":232392505,"city_id":3018085,"language_key":"ky","name":"Мерулйа"}
+{"id":232393275,"city_id":3018095,"language_key":"ky","name":"Косорска Буковица"}
+{"id":232394276,"city_id":3018108,"language_key":"ky","name":"Цурукаца"}
+{"id":232394353,"city_id":3018109,"language_key":"ky","name":"Набойине"}
+{"id":232394815,"city_id":3018115,"language_key":"ky","name":"Дедово Полйе"}
+{"id":232395508,"city_id":3018124,"language_key":"ky","name":"Палез"}
+{"id":232396509,"city_id":3018137,"language_key":"ky","name":"Расова"}
+{"id":232396740,"city_id":3018140,"language_key":"ky","name":"Орасац"}
+{"id":232396971,"city_id":3018143,"language_key":"ky","name":"Станцани"}
+{"id":232397048,"city_id":3018144,"language_key":"ky","name":"Округлица"}
+{"id":232397125,"city_id":3018145,"language_key":"ky","name":"Дублйе"}
+{"id":232397356,"city_id":3018148,"language_key":"ky","name":"Калйици"}
+{"id":232397510,"city_id":3018150,"language_key":"ky","name":"Перотин"}
+{"id":232397895,"city_id":3018155,"language_key":"ky","name":"Куцетина"}
+{"id":232398203,"city_id":3018159,"language_key":"ky","name":"Лийеска"}
+{"id":232398742,"city_id":3018166,"language_key":"ky","name":"Расновиц"}
+{"id":232400051,"city_id":3018183,"language_key":"ky","name":"Бреза"}
+{"id":232400513,"city_id":3018189,"language_key":"ky","name":"Слйуцка Страна"}
+{"id":232401822,"city_id":3018206,"language_key":"ky","name":"Саково Село"}
+{"id":232402438,"city_id":3018214,"language_key":"ky","name":"Бесевина"}
+{"id":232403439,"city_id":3018227,"language_key":"ky","name":"Рацево"}
+{"id":232405133,"city_id":3018249,"language_key":"ky","name":"Койовици"}
+{"id":232405364,"city_id":3018252,"language_key":"ky","name":"Руднице"}
+{"id":232405441,"city_id":3018253,"language_key":"ky","name":"Завиден"}
+{"id":232405518,"city_id":3018254,"language_key":"ky","name":"Цавловиц Кула"}
+{"id":232405595,"city_id":3018255,"language_key":"ky","name":"Раовици"}
+{"id":232405672,"city_id":3018256,"language_key":"ky","name":"Лонцари"}
+{"id":232405749,"city_id":3018257,"language_key":"ky","name":"Подрудине"}
+{"id":232405980,"city_id":3018260,"language_key":"ky","name":"Добра Вода"}
+{"id":232406288,"city_id":3018264,"language_key":"ky","name":"Потковацица"}
+{"id":232406442,"city_id":3018266,"language_key":"ky","name":"Адиловици"}
+{"id":232406519,"city_id":3018267,"language_key":"ky","name":"Йагнила"}
+{"id":232406596,"city_id":3018268,"language_key":"ky","name":"Бозици"}
+{"id":232406750,"city_id":3018270,"language_key":"ky","name":"Клисмерине"}
+{"id":232406827,"city_id":3018271,"language_key":"ky","name":"Оревине"}
+{"id":232407135,"city_id":3018275,"language_key":"ky","name":"Крнйа"}
+{"id":232407289,"city_id":3018277,"language_key":"ky","name":"Плийеси"}
+{"id":232407520,"city_id":3018280,"language_key":"ky","name":"Слепац"}
+{"id":232407674,"city_id":3018282,"language_key":"ky","name":"Кобилйаца"}
+{"id":232408136,"city_id":3018288,"language_key":"ky","name":"Расова"}
+{"id":232408290,"city_id":3018290,"language_key":"ky","name":"Йелица Долине"}
+{"id":232408444,"city_id":3018292,"language_key":"ky","name":"Мале Слйеме"}
+{"id":232409676,"city_id":3018308,"language_key":"ky","name":"Раджковичи Плавце брдо"}
+{"id":232410061,"city_id":3018313,"language_key":"ky","name":"Садици"}
+{"id":232410369,"city_id":3018317,"language_key":"ky","name":"Майна Гора"}
+{"id":232412140,"city_id":3018340,"language_key":"ky","name":"Дзафица Брдо"}
+{"id":232412294,"city_id":3018342,"language_key":"ky","name":"Лозница"}
+{"id":232412448,"city_id":3018344,"language_key":"ky","name":"Затон"}
+{"id":232412679,"city_id":3018347,"language_key":"ky","name":"Нжегнево"}
+{"id":232412756,"city_id":3018348,"language_key":"ky","name":"Сутиван"}
+{"id":232412987,"city_id":3018351,"language_key":"ky","name":"Лалйевици"}
+{"id":232413295,"city_id":3018355,"language_key":"ky","name":"Губавац"}
+{"id":232413526,"city_id":3018358,"language_key":"ky","name":"Уневина"}
+{"id":232413988,"city_id":3018364,"language_key":"ky","name":"Осойе"}
+{"id":232414373,"city_id":3018369,"language_key":"ky","name":"Горнйе Село"}
+{"id":232414450,"city_id":3018370,"language_key":"ky","name":"Лемес"}
+{"id":232414527,"city_id":3018371,"language_key":"ky","name":"Куцетине"}
+{"id":232414681,"city_id":3018373,"language_key":"ky","name":"Гувниста"}
+{"id":232414758,"city_id":3018374,"language_key":"ky","name":"Крц"}
+{"id":232415143,"city_id":3018379,"language_key":"ky","name":"Потрк"}
+{"id":232415374,"city_id":3018382,"language_key":"ky","name":"Перовици"}
+{"id":232416683,"city_id":3018399,"language_key":"ky","name":"Гомиле"}
+{"id":232416837,"city_id":3018401,"language_key":"ky","name":"Убли"}
+{"id":232417376,"city_id":3018408,"language_key":"ky","name":"Костаница"}
+{"id":232417915,"city_id":3018415,"language_key":"ky","name":"Донйи Косици"}
+{"id":232418069,"city_id":3018417,"language_key":"ky","name":"Купусци"}
+{"id":232418223,"city_id":3018419,"language_key":"ky","name":"Рмусе"}
+{"id":232418531,"city_id":3018423,"language_key":"ky","name":"Присойа"}
+{"id":232418993,"city_id":3018429,"language_key":"ky","name":"Донйи Црнци"}
+{"id":232419070,"city_id":3018430,"language_key":"ky","name":"Подлунйица"}
+{"id":232419147,"city_id":3018431,"language_key":"ky","name":"Целинацки Долови"}
+{"id":232419378,"city_id":3018434,"language_key":"ky","name":"Ластва"}
+{"id":232419609,"city_id":3018437,"language_key":"ky","name":"Мартиновици"}
+{"id":232419686,"city_id":3018438,"language_key":"ky","name":"Брайици"}
+{"id":232419840,"city_id":3018440,"language_key":"ky","name":"Белведер"}
+{"id":232420918,"city_id":3018454,"language_key":"ky","name":"Клйайевици"}
+{"id":232420995,"city_id":3018455,"language_key":"ky","name":"Бегова Дол"}
+{"id":232421072,"city_id":3018456,"language_key":"ky","name":"Йасенови До"}
+{"id":232421149,"city_id":3018457,"language_key":"ky","name":"Церови До"}
+{"id":232421226,"city_id":3018458,"language_key":"ky","name":"Посайци"}
+{"id":232422920,"city_id":3018480,"language_key":"ky","name":"Сабани"}
+{"id":232424922,"city_id":3018506,"language_key":"ky","name":"Водни До"}
+{"id":232424999,"city_id":3018507,"language_key":"ky","name":"Подаздрийело"}
+{"id":232425461,"city_id":3018513,"language_key":"ky","name":"Арбанаси"}
+{"id":232425538,"city_id":3018514,"language_key":"ky","name":"Донйа Брова"}
+{"id":232425615,"city_id":3018515,"language_key":"ky","name":"Петровици"}
+{"id":232425692,"city_id":3018516,"language_key":"ky","name":"Папратни До"}
+{"id":232426231,"city_id":3018523,"language_key":"ky","name":"Куцисте"}
+{"id":232426385,"city_id":3018525,"language_key":"ky","name":"Ровине"}
+{"id":232426616,"city_id":3018528,"language_key":"ky","name":"Заселйе"}
+{"id":232426693,"city_id":3018529,"language_key":"ky","name":"Нерим"}
+{"id":232426847,"city_id":3018531,"language_key":"ky","name":"Зовина"}
+{"id":232426924,"city_id":3018532,"language_key":"ky","name":"Йасиковац"}
+{"id":232427540,"city_id":3018540,"language_key":"ky","name":"Лйескови До"}
+{"id":232427848,"city_id":3018544,"language_key":"ky","name":"Овсине"}
+{"id":232427925,"city_id":3018545,"language_key":"ky","name":"Крстаце"}
+{"id":232428079,"city_id":3018547,"language_key":"ky","name":"Благойевиц"}
+{"id":232428233,"city_id":3018549,"language_key":"ky","name":"Загвоздак"}
+{"id":232428464,"city_id":3018552,"language_key":"ky","name":"Змукици"}
+{"id":232428695,"city_id":3018555,"language_key":"ky","name":"Динов До"}
+{"id":232428926,"city_id":3018558,"language_key":"ky","name":"Муста Рупа"}
+{"id":232429003,"city_id":3018559,"language_key":"ky","name":"Команско Брдо"}
+{"id":232429080,"city_id":3018560,"language_key":"ky","name":"Прийеко Поцивало"}
+{"id":232429157,"city_id":3018561,"language_key":"ky","name":"Данаве"}
+{"id":232429234,"city_id":3018562,"language_key":"ky","name":"Данаве"}
+{"id":232430235,"city_id":3018575,"language_key":"ky","name":"Велйи До"}
+{"id":232430466,"city_id":3018578,"language_key":"ky","name":"Лйесков До"}
+{"id":232430697,"city_id":3018581,"language_key":"ky","name":"Копитов До"}
+{"id":232430774,"city_id":3018582,"language_key":"ky","name":"Драгосев До"}
+{"id":232430928,"city_id":3018584,"language_key":"ky","name":"Грандовина"}
+{"id":232431005,"city_id":3018585,"language_key":"ky","name":"Полйковац"}
+{"id":232431082,"city_id":3018586,"language_key":"ky","name":"Грандов До"}
+{"id":232431313,"city_id":3018589,"language_key":"ky","name":"Кулина"}
+{"id":232431621,"city_id":3018593,"language_key":"ky","name":"Йабуковац"}
+{"id":232431775,"city_id":3018595,"language_key":"ky","name":"Папратни До"}
+{"id":232432006,"city_id":3018598,"language_key":"ky","name":"Стазер"}
+{"id":232432083,"city_id":3018599,"language_key":"ky","name":"Зелени До"}
+{"id":232432160,"city_id":3018600,"language_key":"ky","name":"Озебли До"}
+{"id":232432237,"city_id":3018601,"language_key":"ky","name":"Обадовица"}
+{"id":232432391,"city_id":3018603,"language_key":"ky","name":"Дайцин До"}
+{"id":232432545,"city_id":3018605,"language_key":"ky","name":"Ковацев До"}
+{"id":232432622,"city_id":3018606,"language_key":"ky","name":"Црвена Папрат"}
+{"id":232432699,"city_id":3018607,"language_key":"ky","name":"Рупице"}
+{"id":232432776,"city_id":3018608,"language_key":"ky","name":"Бандицка Зупа"}
+{"id":232432853,"city_id":3018609,"language_key":"ky","name":"Црниони До"}
+{"id":232433315,"city_id":3018615,"language_key":"ky","name":"Бобова Улица"}
+{"id":232433623,"city_id":3018619,"language_key":"ky","name":"Крна Йела"}
+{"id":232433700,"city_id":3018620,"language_key":"ky","name":"Поткрай"}
+{"id":232433777,"city_id":3018621,"language_key":"ky","name":"Загулй"}
+{"id":232433931,"city_id":3018623,"language_key":"ky","name":"Боксин До"}
+{"id":232434162,"city_id":3018626,"language_key":"ky","name":"Замацев До"}
+{"id":232434393,"city_id":3018629,"language_key":"ky","name":"Требовински Под"}
+{"id":232434470,"city_id":3018630,"language_key":"ky","name":"Лйескови Долови"}
+{"id":232434624,"city_id":3018632,"language_key":"ky","name":"Сердар Кула"}
+{"id":232434701,"city_id":3018633,"language_key":"ky","name":"Зури"}
+{"id":232435163,"city_id":3018639,"language_key":"ky","name":"Стеци"}
+{"id":232435240,"city_id":3018640,"language_key":"ky","name":"Понорни До"}
+{"id":232435317,"city_id":3018641,"language_key":"ky","name":"Припорци"}
+{"id":232435394,"city_id":3018642,"language_key":"ky","name":"Братицеви Долови"}
+{"id":232435548,"city_id":3018644,"language_key":"ky","name":"Тийесак"}
+{"id":232435702,"city_id":3018646,"language_key":"ky","name":"Доцици"}
+{"id":232435779,"city_id":3018647,"language_key":"ky","name":"Дулов До"}
+{"id":232435856,"city_id":3018648,"language_key":"ky","name":"Копилов До"}
+{"id":232435933,"city_id":3018649,"language_key":"ky","name":"Липов До"}
+{"id":232436010,"city_id":3018650,"language_key":"ky","name":"Подстрана"}
+{"id":232436087,"city_id":3018651,"language_key":"ky","name":"Елезов До"}
+{"id":232436703,"city_id":3018659,"language_key":"ky","name":"Мийайлов До"}
+{"id":232437011,"city_id":3018663,"language_key":"ky","name":"Байов До"}
+{"id":232437242,"city_id":3018666,"language_key":"ky","name":"Бриде"}
+{"id":232437473,"city_id":3018669,"language_key":"ky","name":"Зива"}
+{"id":232437550,"city_id":3018670,"language_key":"ky","name":"Бегова Главица"}
+{"id":232437627,"city_id":3018671,"language_key":"ky","name":"Огорйело Здрийело"}
+{"id":232437704,"city_id":3018672,"language_key":"ky","name":"Буронйски До"}
+{"id":232437858,"city_id":3018674,"language_key":"ky","name":"Бобовине"}
+{"id":232437935,"city_id":3018675,"language_key":"ky","name":"Крацедо"}
+{"id":232438012,"city_id":3018676,"language_key":"ky","name":"Голубинйе"}
+{"id":232438166,"city_id":3018678,"language_key":"ky","name":"Дубоки До"}
+{"id":232438243,"city_id":3018679,"language_key":"ky","name":"Овцйи До"}
+{"id":232439244,"city_id":3018692,"language_key":"ky","name":"Корацевац"}
+{"id":232439321,"city_id":3018693,"language_key":"ky","name":"Срни До"}
+{"id":232439398,"city_id":3018694,"language_key":"ky","name":"Ковце До"}
+{"id":232439629,"city_id":3018697,"language_key":"ky","name":"Крнулиц"}
+{"id":232439706,"city_id":3018698,"language_key":"ky","name":"Донже Село"}
+{"id":232439860,"city_id":3018700,"language_key":"ky","name":"Целински До"}
+{"id":232440399,"city_id":3018707,"language_key":"ky","name":"Зграде"}
+{"id":232440630,"city_id":3018710,"language_key":"ky","name":"Горнйе Мораково"}
+{"id":232440784,"city_id":3018712,"language_key":"ky","name":"Бистрице"}
+{"id":232440861,"city_id":3018713,"language_key":"ky","name":"Медеде"}
+{"id":232440938,"city_id":3018714,"language_key":"ky","name":"Рийека"}
+{"id":232441092,"city_id":3018716,"language_key":"ky","name":"Пода"}
+{"id":232441323,"city_id":3018719,"language_key":"ky","name":"Гостойевици"}
+{"id":232441477,"city_id":3018721,"language_key":"ky","name":"Йасиковац"}
+{"id":232441631,"city_id":3018723,"language_key":"ky","name":"Лисиц До"}
+{"id":232442093,"city_id":3018729,"language_key":"ky","name":"Мийокусовици"}
+{"id":232442555,"city_id":3018735,"language_key":"ky","name":"Селиста"}
+{"id":232442632,"city_id":3018736,"language_key":"ky","name":"Горнйи Фрутак"}
+{"id":232442709,"city_id":3018737,"language_key":"ky","name":"Усановици"}
+{"id":232442863,"city_id":3018739,"language_key":"ky","name":"Музевице"}
+{"id":232443017,"city_id":3018741,"language_key":"ky","name":"Буртаиси"}
+{"id":232443171,"city_id":3018743,"language_key":"ky","name":"Долови Ковацки"}
+{"id":232443325,"city_id":3018745,"language_key":"ky","name":"Гостилйе Брайовицко"}
+{"id":232443479,"city_id":3018747,"language_key":"ky","name":"Донйа Глизица"}
+{"id":232443556,"city_id":3018748,"language_key":"ky","name":"Медезе"}
+{"id":232444711,"city_id":3018763,"language_key":"ky","name":"Красовина"}
+{"id":232444788,"city_id":3018764,"language_key":"ky","name":"Симоновици"}
+{"id":232445019,"city_id":3018767,"language_key":"ky","name":"Поткула"}
+{"id":232445327,"city_id":3018771,"language_key":"ky","name":"Лалевици"}
+{"id":232445404,"city_id":3018772,"language_key":"ky","name":"Вуцица"}
+{"id":232445481,"city_id":3018773,"language_key":"ky","name":"Подгризде"}
+{"id":232445635,"city_id":3018775,"language_key":"ky","name":"Трса"}
+{"id":232446636,"city_id":3018788,"language_key":"ky","name":"Миловици"}
+{"id":232446713,"city_id":3018789,"language_key":"ky","name":"Брод"}
+{"id":232446944,"city_id":3018792,"language_key":"ky","name":"Кута"}
+{"id":232447560,"city_id":3018800,"language_key":"ky","name":"Турава"}
+{"id":232448176,"city_id":3018808,"language_key":"ky","name":"Копито"}
+{"id":232448253,"city_id":3018809,"language_key":"ky","name":"Колйат"}
+{"id":232448561,"city_id":3018813,"language_key":"ky","name":"Донже Село"}
+{"id":232448946,"city_id":3018818,"language_key":"ky","name":"Забрде"}
+{"id":232449100,"city_id":3018820,"language_key":"ky","name":"Йеловица"}
+{"id":232449331,"city_id":3018823,"language_key":"ky","name":"Поцивала"}
+{"id":232449408,"city_id":3018824,"language_key":"ky","name":"Русеновици"}
+{"id":232449562,"city_id":3018826,"language_key":"ky","name":"Гребница"}
+{"id":232449947,"city_id":3018831,"language_key":"ky","name":"Долови"}
+{"id":232450024,"city_id":3018832,"language_key":"ky","name":"Мекоте"}
+{"id":232450178,"city_id":3018834,"language_key":"ky","name":"Горнйи Тупан"}
+{"id":232450255,"city_id":3018835,"language_key":"ky","name":"Бйеловици"}
+{"id":232450717,"city_id":3018841,"language_key":"ky","name":"Каменари"}
+{"id":232451333,"city_id":3018849,"language_key":"ky","name":"Горица"}
+{"id":232451564,"city_id":3018852,"language_key":"ky","name":"Дубровца До"}
+{"id":232452103,"city_id":3018859,"language_key":"ky","name":"Стари Висковици"}
+{"id":232452180,"city_id":3018860,"language_key":"ky","name":"Погана"}
+{"id":232452488,"city_id":3018864,"language_key":"ky","name":"Дуб"}
+{"id":232452796,"city_id":3018868,"language_key":"ky","name":"Пометеник"}
+{"id":232453027,"city_id":3018871,"language_key":"ky","name":"Тросавац"}
+{"id":232453566,"city_id":3018878,"language_key":"ky","name":"Подгреде"}
+{"id":232453720,"city_id":3018880,"language_key":"ky","name":"Арапи"}
+{"id":232453874,"city_id":3018882,"language_key":"ky","name":"Церак"}
+{"id":232454182,"city_id":3018886,"language_key":"ky","name":"Голийски Стози"}
+{"id":232454952,"city_id":3018896,"language_key":"ky","name":"Петрово Полйе"}
+{"id":232455106,"city_id":3018898,"language_key":"ky","name":"Распуце"}
+{"id":232455183,"city_id":3018899,"language_key":"ky","name":"Тодоров Дуб"}
+{"id":232455260,"city_id":3018900,"language_key":"ky","name":"Буковик"}
+{"id":232455414,"city_id":3018902,"language_key":"ky","name":"Пасина Вода"}
+{"id":232455568,"city_id":3018904,"language_key":"ky","name":"Мокра Нйива"}
+{"id":232455645,"city_id":3018905,"language_key":"ky","name":"Орнице"}
+{"id":232455722,"city_id":3018906,"language_key":"ky","name":"Заврх"}
+{"id":232456184,"city_id":3018912,"language_key":"ky","name":"Видов Поток"}
+{"id":232456492,"city_id":3018916,"language_key":"ky","name":"Сеницисте"}
+{"id":232456569,"city_id":3018917,"language_key":"ky","name":"Дразин Врт"}
+{"id":232457416,"city_id":3018928,"language_key":"ky","name":"Велико Радево"}
+{"id":232457493,"city_id":3018929,"language_key":"ky","name":"Скалари"}
+{"id":232458032,"city_id":3018936,"language_key":"ky","name":"Митровици"}
+{"id":232458186,"city_id":3018938,"language_key":"ky","name":"Видрован"}
+{"id":232458340,"city_id":3018940,"language_key":"ky","name":"Ратайица Главица"}
+{"id":232458494,"city_id":3018942,"language_key":"ky","name":"Вир"}
+{"id":232460265,"city_id":3018965,"language_key":"ky","name":"Радановици"}
+{"id":232463884,"city_id":3019012,"language_key":"ky","name":"Велембуси"}
+{"id":232464192,"city_id":3019016,"language_key":"ky","name":"Сусан"}
+{"id":232465732,"city_id":3019036,"language_key":"ky","name":"Равна Рийека"}
+{"id":232466040,"city_id":3019040,"language_key":"ky","name":"Црквина"}
+{"id":232466348,"city_id":3019044,"language_key":"ky","name":"Подвлах"}
+{"id":232467734,"city_id":3019062,"language_key":"ky","name":"Мустафица Греде"}
+{"id":232467811,"city_id":3019063,"language_key":"ky","name":"Йасиковац"}
+{"id":232468581,"city_id":3019073,"language_key":"ky","name":"Цеменца"}
+{"id":232468889,"city_id":3019077,"language_key":"ky","name":"Бедем"}
+{"id":232468966,"city_id":3019078,"language_key":"ky","name":"Лепирица"}
+{"id":232469043,"city_id":3019079,"language_key":"ky","name":"Ковацев До"}
+{"id":232469120,"city_id":3019080,"language_key":"ky","name":"Коло"}
+{"id":232469197,"city_id":3019081,"language_key":"ky","name":"Забрнйица"}
+{"id":232469351,"city_id":3019083,"language_key":"ky","name":"Бриски До"}
+{"id":232469505,"city_id":3019085,"language_key":"ky","name":"Прийевори"}
+{"id":232469582,"city_id":3019086,"language_key":"ky","name":"Палез"}
+{"id":232469736,"city_id":3019088,"language_key":"ky","name":"Каменица"}
+{"id":232469813,"city_id":3019089,"language_key":"ky","name":"Криваце"}
+{"id":232469890,"city_id":3019090,"language_key":"ky","name":"Полйане"}
+{"id":232470044,"city_id":3019092,"language_key":"ky","name":"Осйеценица"}
+{"id":232470275,"city_id":3019095,"language_key":"ky","name":"Боздарев До"}
+{"id":232470891,"city_id":3019103,"language_key":"ky","name":"Вуци До"}
+{"id":232470968,"city_id":3019104,"language_key":"ky","name":"Солински Брийег"}
+{"id":232471430,"city_id":3019110,"language_key":"ky","name":"Станков До"}
+{"id":232471584,"city_id":3019112,"language_key":"ky","name":"Плитки До"}
+{"id":232471661,"city_id":3019113,"language_key":"ky","name":"Раздолйе"}
+{"id":232471738,"city_id":3019114,"language_key":"ky","name":"Петровица До"}
+{"id":232471815,"city_id":3019115,"language_key":"ky","name":"Медедов До"}
+{"id":232471892,"city_id":3019116,"language_key":"ky","name":"Алуга"}
+{"id":232472431,"city_id":3019123,"language_key":"ky","name":"Студенац"}
+{"id":232472662,"city_id":3019126,"language_key":"ky","name":"Рудица Лака"}
+{"id":232472816,"city_id":3019128,"language_key":"ky","name":"Йезерца"}
+{"id":232472893,"city_id":3019129,"language_key":"ky","name":"Капавица"}
+{"id":232472970,"city_id":3019130,"language_key":"ky","name":"Врлйероски До"}
+{"id":232473047,"city_id":3019131,"language_key":"ky","name":"Борак"}
+{"id":232473124,"city_id":3019132,"language_key":"ky","name":"Грацаница"}
+{"id":232473586,"city_id":3019138,"language_key":"ky","name":"Мала Рзиста"}
+{"id":232473894,"city_id":3019142,"language_key":"ky","name":"Борови До"}
+{"id":232474664,"city_id":3019152,"language_key":"ky","name":"Липов До"}
+{"id":232474741,"city_id":3019153,"language_key":"ky","name":"Загонац"}
+{"id":232475049,"city_id":3019157,"language_key":"ky","name":"Пистала"}
+{"id":232475280,"city_id":3019160,"language_key":"ky","name":"Круска"}
+{"id":232475357,"city_id":3019161,"language_key":"ky","name":"Плийевор"}
+{"id":232475665,"city_id":3019165,"language_key":"ky","name":"Сйенокос"}
+{"id":232475742,"city_id":3019166,"language_key":"ky","name":"Иванй-До"}
+{"id":232475973,"city_id":3019169,"language_key":"ky","name":"Горин До"}
+{"id":232476050,"city_id":3019170,"language_key":"ky","name":"Падине"}
+{"id":232476666,"city_id":3019178,"language_key":"ky","name":"Милусина Пецина"}
+{"id":232476743,"city_id":3019179,"language_key":"ky","name":"Йасика"}
+{"id":232476974,"city_id":3019182,"language_key":"ky","name":"Миолйе Полйе"}
+{"id":232477051,"city_id":3019183,"language_key":"ky","name":"Плоце"}
+{"id":232477821,"city_id":3019193,"language_key":"ky","name":"Поповици"}
+{"id":232478052,"city_id":3019196,"language_key":"ky","name":"Лука"}
+{"id":232478129,"city_id":3019197,"language_key":"ky","name":"Горица"}
+{"id":232478206,"city_id":3019198,"language_key":"ky","name":"Глизица"}
+{"id":232478514,"city_id":3019202,"language_key":"ky","name":"Лйутотук"}
+{"id":232478591,"city_id":3019203,"language_key":"ky","name":"Станйевица Рупа"}
+{"id":232478822,"city_id":3019206,"language_key":"ky","name":"Питома Лоза"}
+{"id":232478976,"city_id":3019208,"language_key":"ky","name":"Петричи"}
+{"id":232479053,"city_id":3019209,"language_key":"ky","name":"Брдо"}
+{"id":232479130,"city_id":3019210,"language_key":"ky","name":"Бусин До"}
+{"id":232479207,"city_id":3019211,"language_key":"ky","name":"Калезици"}
+{"id":232479284,"city_id":3019212,"language_key":"ky","name":"Дуги Лаз"}
+{"id":232479515,"city_id":3019215,"language_key":"ky","name":"Бранловица"}
+{"id":232479592,"city_id":3019216,"language_key":"ky","name":"Главица"}
+{"id":232479669,"city_id":3019217,"language_key":"ky","name":"Горнйа Марковина"}
+{"id":232479746,"city_id":3019218,"language_key":"ky","name":"Оселина"}
+{"id":232479900,"city_id":3019220,"language_key":"ky","name":"Сканйци"}
+{"id":232480208,"city_id":3019224,"language_key":"ky","name":"Опацац"}
+{"id":232480285,"city_id":3019225,"language_key":"ky","name":"Михалйевици"}
+{"id":232480516,"city_id":3019228,"language_key":"ky","name":"Космац"}
+{"id":232480593,"city_id":3019229,"language_key":"ky","name":"Дапковици"}
+{"id":232480824,"city_id":3019232,"language_key":"ky","name":"Милоцер"}
+{"id":232481286,"city_id":3019238,"language_key":"ky","name":"Йаицевици"}
+{"id":232481671,"city_id":3019243,"language_key":"ky","name":"Кралйи Стари"}
+{"id":232481748,"city_id":3019244,"language_key":"ky","name":"Донйе Полйе"}
+{"id":232481825,"city_id":3019245,"language_key":"ky","name":"Подластва"}
+{"id":232482595,"city_id":3019255,"language_key":"ky","name":"Булйици"}
+{"id":232483288,"city_id":3019264,"language_key":"ky","name":"Масница"}
+{"id":232484520,"city_id":3019280,"language_key":"ky","name":"Кацаник"}
+{"id":232484828,"city_id":3019284,"language_key":"ky","name":"Ловноцело"}
+{"id":232484905,"city_id":3019285,"language_key":"ky","name":"Хусейиновици"}
+{"id":232486060,"city_id":3019300,"language_key":"ky","name":"Лукин Вир"}
+{"id":232487523,"city_id":3019319,"language_key":"ky","name":"Зар"}
+{"id":232487985,"city_id":3019325,"language_key":"ky","name":"Маслари"}
+{"id":232489140,"city_id":3019340,"language_key":"ky","name":"Должа"}
+{"id":232489833,"city_id":3019349,"language_key":"ky","name":"Стубица"}
+{"id":232491835,"city_id":3019375,"language_key":"ky","name":"Мало Неманйине"}
+{"id":232491912,"city_id":3019376,"language_key":"ky","name":"Донйа Лйесница"}
+{"id":232492297,"city_id":3019381,"language_key":"ky","name":"Врсево"}
+{"id":232492528,"city_id":3019384,"language_key":"ky","name":"Тарханиси"}
+{"id":232492682,"city_id":3019386,"language_key":"ky","name":"Аговица"}
+{"id":232492759,"city_id":3019387,"language_key":"ky","name":"Среднйе Заостро"}
+{"id":232493298,"city_id":3019394,"language_key":"ky","name":"Дапсици"}
+{"id":232494068,"city_id":3019404,"language_key":"ky","name":"Муцици"}
+{"id":232494453,"city_id":3019409,"language_key":"ky","name":"Мусовици"}
+{"id":232495146,"city_id":3019418,"language_key":"ky","name":"Дуровици"}
+{"id":232495300,"city_id":3019420,"language_key":"ky","name":"Поциц"}
+{"id":232495531,"city_id":3019423,"language_key":"ky","name":"Прицелйе"}
+{"id":232495685,"city_id":3019425,"language_key":"ky","name":"Гола Страна"}
+{"id":232495916,"city_id":3019428,"language_key":"ky","name":"Виноградиста"}
+{"id":232495993,"city_id":3019429,"language_key":"ky","name":"Потоци"}
+{"id":232496147,"city_id":3019431,"language_key":"ky","name":"Бунца"}
+{"id":232496455,"city_id":3019435,"language_key":"ky","name":"Костриковица"}
+{"id":232496532,"city_id":3019436,"language_key":"ky","name":"Сибионица"}
+{"id":232496609,"city_id":3019437,"language_key":"ky","name":"Вуксаново Гумно"}
+{"id":232498303,"city_id":3019459,"language_key":"ky","name":"Кралйевац"}
+{"id":232498457,"city_id":3019461,"language_key":"ky","name":"Кркор"}
+{"id":232498534,"city_id":3019462,"language_key":"ky","name":"Левайа"}
+{"id":232498688,"city_id":3019464,"language_key":"ky","name":"Ками"}
+{"id":232498765,"city_id":3019465,"language_key":"ky","name":"Губериници"}
+{"id":232499535,"city_id":3019475,"language_key":"ky","name":"Донйа Требйесица"}
+{"id":232499766,"city_id":3019478,"language_key":"ky","name":"Донйа Села"}
+{"id":232500228,"city_id":3019484,"language_key":"ky","name":"Мртво Добоко"}
+{"id":232500613,"city_id":3019489,"language_key":"ky","name":"Дрийен"}
+{"id":232501075,"city_id":3019495,"language_key":"ky","name":"Раицевине"}
+{"id":232501229,"city_id":3019497,"language_key":"ky","name":"Крзево"}
+{"id":232501306,"city_id":3019498,"language_key":"ky","name":"Косетине"}
+{"id":232501537,"city_id":3019501,"language_key":"ky","name":"Пресйека"}
+{"id":232501614,"city_id":3019502,"language_key":"ky","name":"Гропа"}
+{"id":232501768,"city_id":3019504,"language_key":"ky","name":"Беговина"}
+{"id":232501845,"city_id":3019505,"language_key":"ky","name":"Йастреб"}
+{"id":232501999,"city_id":3019507,"language_key":"ky","name":"Донйи Цурилац"}
+{"id":232502076,"city_id":3019508,"language_key":"ky","name":"Горнйи Цурилац"}
+{"id":232502153,"city_id":3019509,"language_key":"ky","name":"Грлиц"}
+{"id":232502384,"city_id":3019512,"language_key":"ky","name":"Планиница"}
+{"id":232502692,"city_id":3019516,"language_key":"ky","name":"Дековици"}
+{"id":232503154,"city_id":3019522,"language_key":"ky","name":"Смаилагица Полйе"}
+{"id":232503462,"city_id":3019526,"language_key":"ky","name":"Требалйево"}
+{"id":232504540,"city_id":3019540,"language_key":"ky","name":"Слйивлйе"}
+{"id":232505002,"city_id":3019546,"language_key":"ky","name":"Присойак"}
+{"id":232505541,"city_id":3019553,"language_key":"ky","name":"Кликоваце"}
+{"id":232507620,"city_id":3019580,"language_key":"ky","name":"Осойник"}
+{"id":232507928,"city_id":3019584,"language_key":"ky","name":"Полйане"}
+{"id":232509391,"city_id":3019603,"language_key":"ky","name":"Ново Село"}
+{"id":232509545,"city_id":3019605,"language_key":"ky","name":"Велета"}
+{"id":232509853,"city_id":3019609,"language_key":"ky","name":"Коласиновици"}
+{"id":232511085,"city_id":3019625,"language_key":"ky","name":"Цалановица"}
+{"id":232511162,"city_id":3019626,"language_key":"ky","name":"Драковици"}
+{"id":232511547,"city_id":3019631,"language_key":"ky","name":"Райицев До"}
+{"id":232511624,"city_id":3019632,"language_key":"ky","name":"Лубово"}
+{"id":232511778,"city_id":3019634,"language_key":"ky","name":"Хадулица"}
+{"id":232511932,"city_id":3019636,"language_key":"ky","name":"Бобула"}
+{"id":232512009,"city_id":3019637,"language_key":"ky","name":"Крстоваце"}
+{"id":232512240,"city_id":3019640,"language_key":"ky","name":"Горнйе Куново"}
+{"id":232512317,"city_id":3019641,"language_key":"ky","name":"Суме"}
+{"id":232512394,"city_id":3019642,"language_key":"ky","name":"Даронйи До"}
+{"id":232512471,"city_id":3019643,"language_key":"ky","name":"Под-Дазник"}
+{"id":232512548,"city_id":3019644,"language_key":"ky","name":"Кнез Полйе"}
+{"id":232512702,"city_id":3019646,"language_key":"ky","name":"Прийевори"}
+{"id":232513010,"city_id":3019650,"language_key":"ky","name":"Марковина"}
+{"id":232513164,"city_id":3019652,"language_key":"ky","name":"Брайевици"}
+{"id":232513472,"city_id":3019656,"language_key":"ky","name":"Ценици"}
+{"id":232514473,"city_id":3019669,"language_key":"ky","name":"Урлйев До"}
+{"id":232515012,"city_id":3019676,"language_key":"ky","name":"Турско"}
+{"id":232515397,"city_id":3019681,"language_key":"ky","name":"Радановици"}
+{"id":232516321,"city_id":3019693,"language_key":"ky","name":"Магленца"}
+{"id":232516398,"city_id":3019694,"language_key":"ky","name":"Рвана Гора"}
+{"id":232516937,"city_id":3019701,"language_key":"ky","name":"Вецерици"}
+{"id":232517938,"city_id":3019714,"language_key":"ky","name":"Брековац"}
+{"id":232518015,"city_id":3019715,"language_key":"ky","name":"Травни До"}
+{"id":232518708,"city_id":3019724,"language_key":"ky","name":"Церово Продо"}
+{"id":232518939,"city_id":3019727,"language_key":"ky","name":"Кабала"}
+{"id":232519016,"city_id":3019728,"language_key":"ky","name":"Спилице"}
+{"id":232519170,"city_id":3019730,"language_key":"ky","name":"Дурасевици"}
+{"id":232519247,"city_id":3019731,"language_key":"ky","name":"Маровици"}
+{"id":232519324,"city_id":3019732,"language_key":"ky","name":"Змийице"}
+{"id":232519401,"city_id":3019733,"language_key":"ky","name":"Магазини"}
+{"id":232519555,"city_id":3019735,"language_key":"ky","name":"Дуровици"}
+{"id":232519786,"city_id":3019738,"language_key":"ky","name":"Йунцевици"}
+{"id":232520325,"city_id":3019745,"language_key":"ky","name":"Песторици"}
+{"id":232520864,"city_id":3019752,"language_key":"ky","name":"Миловици"}
+{"id":232524252,"city_id":3019796,"language_key":"ky","name":"Мерцайевац"}
+{"id":232526100,"city_id":3019820,"language_key":"ky","name":"Бадре"}
+{"id":232526485,"city_id":3019825,"language_key":"ky","name":"Крсница"}
+{"id":232526793,"city_id":3019829,"language_key":"ky","name":"Старо Мийатово"}
+{"id":232526870,"city_id":3019830,"language_key":"ky","name":"Мекица Кула"}
+{"id":232527255,"city_id":3019835,"language_key":"ky","name":"Дуловине"}
+{"id":232527486,"city_id":3019838,"language_key":"ky","name":"Припчичи"}
+{"id":232527871,"city_id":3019843,"language_key":"ky","name":"Фемица Крс"}
+{"id":232527948,"city_id":3019844,"language_key":"ky","name":"Поткрс"}
+{"id":232528564,"city_id":3019852,"language_key":"ky","name":"Добродо"}
+{"id":232528872,"city_id":3019856,"language_key":"ky","name":"Грабовица"}
+{"id":232529026,"city_id":3019858,"language_key":"ky","name":"Донйи Ораси"}
+{"id":232529103,"city_id":3019859,"language_key":"ky","name":"Сланйина"}
+{"id":232529180,"city_id":3019860,"language_key":"ky","name":"Глухи До"}
+{"id":232529257,"city_id":3019861,"language_key":"ky","name":"Вуцковици"}
+{"id":232529411,"city_id":3019863,"language_key":"ky","name":"Иванова Алуга"}
+{"id":232529565,"city_id":3019865,"language_key":"ky","name":"Донжи Край"}
+{"id":232529796,"city_id":3019868,"language_key":"ky","name":"Умци"}
+{"id":232530489,"city_id":3019877,"language_key":"ky","name":"Донйи Вуковици"}
+{"id":232530566,"city_id":3019878,"language_key":"ky","name":"Медупотоцйе"}
+{"id":232530720,"city_id":3019880,"language_key":"ky","name":"Вукове Зграде"}
+{"id":232530797,"city_id":3019881,"language_key":"ky","name":"Брновици"}
+{"id":232530874,"city_id":3019882,"language_key":"ky","name":"Лаинйа"}
+{"id":232531028,"city_id":3019884,"language_key":"ky","name":"Палиц"}
+{"id":232531105,"city_id":3019885,"language_key":"ky","name":"Марковичи"}
+{"id":232531259,"city_id":3019887,"language_key":"ky","name":"Мрциници"}
+{"id":232531336,"city_id":3019888,"language_key":"ky","name":"Раздрт"}
+{"id":232531490,"city_id":3019890,"language_key":"ky","name":"Йасикови До"}
+{"id":232531567,"city_id":3019891,"language_key":"ky","name":"Прокаплйе"}
+{"id":232531644,"city_id":3019892,"language_key":"ky","name":"Абзи-Кула"}
+{"id":232531721,"city_id":3019893,"language_key":"ky","name":"Нйегуле"}
+{"id":232531875,"city_id":3019895,"language_key":"ky","name":"Тврдос"}
+{"id":232533184,"city_id":3019912,"language_key":"ky","name":"Среднйа Махала"}
+{"id":232533415,"city_id":3019915,"language_key":"ky","name":"Зграда"}
+{"id":232533646,"city_id":3019918,"language_key":"ky","name":"Златна Обала"}
+{"id":232536957,"city_id":3019961,"language_key":"ky","name":"Бацевник"}
+{"id":232537727,"city_id":3019971,"language_key":"ky","name":"Резевици"}
+{"id":232537804,"city_id":3019972,"language_key":"ky","name":"Крусевица"}
+{"id":232537881,"city_id":3019973,"language_key":"ky","name":"Луцице"}
+{"id":232538035,"city_id":3019975,"language_key":"ky","name":"Голубовици"}
+{"id":232538420,"city_id":3019980,"language_key":"ky","name":"Гардовици"}
+{"id":232538497,"city_id":3019981,"language_key":"ky","name":"Вртаце"}
+{"id":232538805,"city_id":3019985,"language_key":"ky","name":"Цуковац"}
+{"id":232538959,"city_id":3019987,"language_key":"ky","name":"Целине"}
+{"id":232539036,"city_id":3019988,"language_key":"ky","name":"Повийево"}
+{"id":232539267,"city_id":3019991,"language_key":"ky","name":"Металлка"}
+{"id":232539344,"city_id":3019992,"language_key":"ky","name":"Панйеви"}
+{"id":232539575,"city_id":3019995,"language_key":"ky","name":"Петровици"}
+{"id":232540114,"city_id":3020002,"language_key":"ky","name":"Пеани"}
+{"id":232540422,"city_id":3020006,"language_key":"ky","name":"Баздан"}
+{"id":232540499,"city_id":3020007,"language_key":"ky","name":"Бабунци"}
+{"id":232540807,"city_id":3020011,"language_key":"ky","name":"Дракуловици"}
+{"id":232541500,"city_id":3020020,"language_key":"ky","name":"Равни Лаз"}
+{"id":232541577,"city_id":3020021,"language_key":"ky","name":"Мисока"}
+{"id":232541654,"city_id":3020022,"language_key":"ky","name":"Мокри До"}
+{"id":232541731,"city_id":3020023,"language_key":"ky","name":"Стийенско Брдо"}
+{"id":232541808,"city_id":3020024,"language_key":"ky","name":"Црнацко Брдо"}
+{"id":232541885,"city_id":3020025,"language_key":"ky","name":"Требинци"}
+{"id":232543271,"city_id":3020043,"language_key":"ky","name":"Липлйа"}
+{"id":232543425,"city_id":3020045,"language_key":"ky","name":"Грдовине"}
+{"id":232543656,"city_id":3020048,"language_key":"ky","name":"Мулине"}
+{"id":232543733,"city_id":3020049,"language_key":"ky","name":"Стрелйанице"}
+{"id":232543810,"city_id":3020050,"language_key":"ky","name":"Виноградине"}
+{"id":232543887,"city_id":3020051,"language_key":"ky","name":"Смира"}
+{"id":232543964,"city_id":3020052,"language_key":"ky","name":"Братозица"}
+{"id":232544041,"city_id":3020053,"language_key":"ky","name":"Донйи Кос"}
+{"id":232544118,"city_id":3020054,"language_key":"ky","name":"Чотный Потик"}
+{"id":232544272,"city_id":3020056,"language_key":"ky","name":"Донйи Ораховац"}
+{"id":232544349,"city_id":3020057,"language_key":"ky","name":"Трстеник"}
+{"id":232544503,"city_id":3020059,"language_key":"ky","name":"Горнйа Требйесица"}
+{"id":232545273,"city_id":3020069,"language_key":"ky","name":"Муо"}
+{"id":232545427,"city_id":3020071,"language_key":"ky","name":"Ковацица"}
+{"id":232545504,"city_id":3020072,"language_key":"ky","name":"Велйе Слацко"}
+{"id":232545658,"city_id":3020074,"language_key":"ky","name":"Бейл"}
+{"id":232545735,"city_id":3020075,"language_key":"ky","name":"Поздуй"}
+{"id":232545889,"city_id":3020077,"language_key":"ky","name":"Катавици"}
+{"id":232545966,"city_id":3020078,"language_key":"ky","name":"Медвега"}
+{"id":232546351,"city_id":3020083,"language_key":"ky","name":"Бегова Лука"}
+{"id":232546428,"city_id":3020084,"language_key":"ky","name":"Целй"}
+{"id":232546967,"city_id":3020091,"language_key":"ky","name":"Савина Главица"}
+{"id":232547275,"city_id":3020095,"language_key":"ky","name":"Прентовици"}
+{"id":232547352,"city_id":3020096,"language_key":"ky","name":"Брат-Нйиве"}
+{"id":232547506,"city_id":3020098,"language_key":"ky","name":"Подбабац"}
+{"id":232547737,"city_id":3020101,"language_key":"ky","name":"Рафайловици"}
+{"id":232548276,"city_id":3020108,"language_key":"ky","name":"Змийина"}
+{"id":232549431,"city_id":3020123,"language_key":"ky","name":"Прзно"}
+{"id":232549508,"city_id":3020124,"language_key":"ky","name":"Милоцер"}
+{"id":232549816,"city_id":3020128,"language_key":"ky","name":"Довиста"}
+{"id":232550047,"city_id":3020131,"language_key":"ky","name":"Долина"}
+{"id":232550124,"city_id":3020132,"language_key":"ky","name":"Трговиста"}
+{"id":232550201,"city_id":3020133,"language_key":"ky","name":"Подрид"}
+{"id":232550278,"city_id":3020134,"language_key":"ky","name":"Питомине"}
+{"id":232550355,"city_id":3020135,"language_key":"ky","name":"Граовиста"}
+{"id":232550509,"city_id":3020137,"language_key":"ky","name":"Корийен"}
+{"id":232550586,"city_id":3020138,"language_key":"ky","name":"Рт"}
+{"id":232550817,"city_id":3020141,"language_key":"ky","name":"Корай-До"}
+{"id":232551125,"city_id":3020145,"language_key":"ky","name":"Колевици"}
+{"id":232551279,"city_id":3020147,"language_key":"ky","name":"Дединице"}
+{"id":232551356,"city_id":3020148,"language_key":"ky","name":"Моцила"}
+{"id":232551433,"city_id":3020149,"language_key":"ky","name":"Полйана"}
+{"id":232551664,"city_id":3020152,"language_key":"ky","name":"Дедина Раван"}
+{"id":232551741,"city_id":3020153,"language_key":"ky","name":"Пилоте"}
+{"id":232551895,"city_id":3020155,"language_key":"ky","name":"Медеда"}
+{"id":232552049,"city_id":3020157,"language_key":"ky","name":"Банйе Брдо"}
+{"id":232552126,"city_id":3020158,"language_key":"ky","name":"Цеца"}
+{"id":232552511,"city_id":3020163,"language_key":"ky","name":"Новаковице"}
+{"id":232552588,"city_id":3020164,"language_key":"ky","name":"Свине"}
+{"id":232552665,"city_id":3020165,"language_key":"ky","name":"Мелйаци"}
+{"id":232553820,"city_id":3020180,"language_key":"ky","name":"Бунца"}
+{"id":232554205,"city_id":3020185,"language_key":"ky","name":"Врх Полйа"}
+{"id":232554282,"city_id":3020186,"language_key":"ky","name":"Грабе"}
+{"id":232554821,"city_id":3020193,"language_key":"ky","name":"Бановина"}
+{"id":232555591,"city_id":3020203,"language_key":"ky","name":"Мулиново Поцивало"}
+{"id":232556438,"city_id":3020214,"language_key":"ky","name":"Митровици"}
+{"id":232557285,"city_id":3020225,"language_key":"ky","name":"Цивлак"}
+{"id":232557362,"city_id":3020226,"language_key":"ky","name":"Вальданос"}
+{"id":232557593,"city_id":3020229,"language_key":"ky","name":"Велика плаза"}
+{"id":232557670,"city_id":3020230,"language_key":"ky","name":"Донйа Клезна"}
+{"id":232557747,"city_id":3020231,"language_key":"ky","name":"Лисна Бори"}
+{"id":232557901,"city_id":3020233,"language_key":"ky","name":"Мозура"}
+{"id":232558055,"city_id":3020235,"language_key":"ky","name":"Брегвийа"}
+{"id":232558209,"city_id":3020237,"language_key":"ky","name":"Мала"}
+{"id":232558363,"city_id":3020239,"language_key":"ky","name":"Бадре"}
+{"id":232558671,"city_id":3020243,"language_key":"ky","name":"Гайеви"}
+{"id":232558825,"city_id":3020245,"language_key":"ky","name":"Ваган"}
+{"id":232558979,"city_id":3020247,"language_key":"ky","name":"Цоловици"}
+{"id":232559133,"city_id":3020249,"language_key":"ky","name":"Уступо"}
+{"id":232559287,"city_id":3020251,"language_key":"ky","name":"Пресменице"}
+{"id":232559364,"city_id":3020252,"language_key":"ky","name":"Нокте"}
+{"id":232559441,"city_id":3020253,"language_key":"ky","name":"Подкрс"}
+{"id":232561289,"city_id":3020277,"language_key":"ky","name":"Ливадани"}
+{"id":232561597,"city_id":3020281,"language_key":"ky","name":"Гогици"}
+{"id":232561674,"city_id":3020282,"language_key":"ky","name":"Донйе Ступине"}
+{"id":232561751,"city_id":3020283,"language_key":"ky","name":"Горнйе Ступине"}
+{"id":232562367,"city_id":3020291,"language_key":"ky","name":"Руйевица"}
+{"id":232563522,"city_id":3020306,"language_key":"ky","name":"Горнйе Дайбабе"}
+{"id":232563599,"city_id":3020307,"language_key":"ky","name":"Донйе Дайбабе"}
+{"id":232564908,"city_id":3020324,"language_key":"ky","name":"Греца"}
+{"id":232565062,"city_id":3020326,"language_key":"ky","name":"Зивковици"}
+{"id":232565370,"city_id":3020330,"language_key":"ky","name":"Костровици"}
+{"id":232565447,"city_id":3020331,"language_key":"ky","name":"Прелевици"}
+{"id":232565524,"city_id":3020332,"language_key":"ky","name":"Полйана"}
+{"id":232565601,"city_id":3020333,"language_key":"ky","name":"Каменско"}
+{"id":232566679,"city_id":3020347,"language_key":"ky","name":"Ковийец"}
+{"id":232567372,"city_id":3020356,"language_key":"ky","name":"Прибой"}
+{"id":232567526,"city_id":3020358,"language_key":"ky","name":"Враницке Нйиве"}
+{"id":232567988,"city_id":3020364,"language_key":"ky","name":"Донйи Медун"}
+{"id":232568142,"city_id":3020366,"language_key":"ky","name":"Врба"}
+{"id":232568219,"city_id":3020367,"language_key":"ky","name":"Радовац"}
+{"id":232568604,"city_id":3020372,"language_key":"ky","name":"Брака"}
+{"id":232568758,"city_id":3020374,"language_key":"ky","name":"Премици"}
+{"id":232568989,"city_id":3020377,"language_key":"ky","name":"Коник"}
+{"id":232569143,"city_id":3020379,"language_key":"ky","name":"Куциста"}
+{"id":232569297,"city_id":3020381,"language_key":"ky","name":"Рабри"}
+{"id":232569528,"city_id":3020384,"language_key":"ky","name":"Лопари"}
+{"id":232569913,"city_id":3020389,"language_key":"ky","name":"Кайос"}
+{"id":232570144,"city_id":3020392,"language_key":"ky","name":"Вулевици"}
+{"id":232570760,"city_id":3020400,"language_key":"ky","name":"Роле"}
+{"id":232570837,"city_id":3020401,"language_key":"ky","name":"Мацай"}
+{"id":232570914,"city_id":3020402,"language_key":"ky","name":"Ватникай"}
+{"id":232570991,"city_id":3020403,"language_key":"ky","name":"Ник Докай"}
+{"id":232571068,"city_id":3020404,"language_key":"ky","name":"Пренкай"}
+{"id":232571145,"city_id":3020405,"language_key":"ky","name":"Хасаной"}
+{"id":232571453,"city_id":3020409,"language_key":"ky","name":"Плока"}
+{"id":232572685,"city_id":3020425,"language_key":"ky","name":"Лекперици"}
+{"id":232572916,"city_id":3020428,"language_key":"ky","name":"Денцици"}
+{"id":232573147,"city_id":3020431,"language_key":"ky","name":"Велики Острос"}
+{"id":232573224,"city_id":3020432,"language_key":"ky","name":"Денасевици"}
+{"id":232573301,"city_id":3020433,"language_key":"ky","name":"Алибрахимай"}
+{"id":232573532,"city_id":3020436,"language_key":"ky","name":"Цапре Махала"}
+{"id":232573609,"city_id":3020437,"language_key":"ky","name":"Сума"}
+{"id":232573686,"city_id":3020438,"language_key":"ky","name":"Зенй"}
+{"id":232573840,"city_id":3020440,"language_key":"ky","name":"Децбитрици"}
+{"id":232574225,"city_id":3020445,"language_key":"ky","name":"Мали Острос"}
+{"id":232574533,"city_id":3020449,"language_key":"ky","name":"Женовичи"}
+{"id":232574687,"city_id":3020451,"language_key":"ky","name":"Будецхевитса"}
+{"id":232574764,"city_id":3020452,"language_key":"ky","name":"Бандици"}

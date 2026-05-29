@@ -1,0 +1,716 @@
+{"id":262567645,"city_id":3409970,"language_key":"ka","name":"ზობუე"}
+{"id":262568954,"city_id":3409987,"language_key":"ka","name":"ზინზანა"}
+{"id":262577347,"city_id":3410096,"language_key":"ka","name":"ზაქარია"}
+{"id":262577501,"city_id":3410098,"language_key":"ka","name":"ზაბულა"}
+{"id":262581274,"city_id":3410147,"language_key":"ka","name":"ქსებალო"}
+{"id":262583045,"city_id":3410170,"language_key":"ka","name":"შაი-შაი"}
+{"id":262589744,"city_id":3410257,"language_key":"ka","name":"გორონგოზა"}
+{"id":262589898,"city_id":3410259,"language_key":"ka","name":"ვილანკულუში"}
+{"id":262590052,"city_id":3410261,"language_key":"ka","name":"მოატიზე"}
+{"id":262590206,"city_id":3410263,"language_key":"ka","name":"ნამატანდა"}
+{"id":262590283,"city_id":3410264,"language_key":"ka","name":"მარაკუენი"}
+{"id":262590591,"city_id":3410268,"language_key":"ka","name":"ზუმბო"}
+{"id":262590668,"city_id":3410269,"language_key":"ka","name":"ზუმბო"}
+{"id":262590745,"city_id":3410270,"language_key":"ka","name":"მოკუბა"}
+{"id":262590822,"city_id":3410271,"language_key":"ka","name":"იბო"}
+{"id":262590899,"city_id":3410272,"language_key":"ka","name":"დუნდუ"}
+{"id":262590976,"city_id":3410273,"language_key":"ka","name":"ჩინდე"}
+{"id":262591130,"city_id":3410275,"language_key":"ka","name":"მოციმბოა და პრაია"}
+{"id":262591284,"city_id":3410277,"language_key":"ka","name":"მაკია"}
+{"id":262591438,"city_id":3410279,"language_key":"ka","name":"მაგანჯა"}
+{"id":262599600,"city_id":3410385,"language_key":"ka","name":"ვალამაზა"}
+{"id":262601294,"city_id":3410407,"language_key":"ka","name":"უჩიკოვა"}
+{"id":262602295,"city_id":3410420,"language_key":"ka","name":"უსენე"}
+{"id":262602680,"city_id":3410425,"language_key":"ka","name":"უსათა"}
+{"id":262605529,"city_id":3410462,"language_key":"ka","name":"უნგეზუკა"}
+{"id":262607223,"city_id":3410484,"language_key":"ka","name":"უნკუბა"}
+{"id":262608994,"city_id":3410507,"language_key":"ka","name":"უმევერე"}
+{"id":262609841,"city_id":3410518,"language_key":"ka","name":"ულონგუე"}
+{"id":262610534,"city_id":3410527,"language_key":"ka","name":"უიპო"}
+{"id":262615847,"city_id":3410596,"language_key":"ka","name":"უატაფეია"}
+{"id":262617310,"city_id":3410615,"language_key":"ka","name":"ურარალა"}
+{"id":262617464,"city_id":3410617,"language_key":"ka","name":"უარიბერუა"}
+{"id":262617695,"city_id":3410620,"language_key":"ka","name":"ხოსე"}
+{"id":262622161,"city_id":3410678,"language_key":"ka","name":"უამპუელა"}
+{"id":262628013,"city_id":3410754,"language_key":"ka","name":"უაჩინჰოლო"}
+{"id":262628321,"city_id":3410758,"language_key":"ka","name":"უაჩიკო"}
+{"id":262644260,"city_id":3410965,"language_key":"ka","name":"ტომო"}
+{"id":262644491,"city_id":3410968,"language_key":"ka","name":"ტომო"}
+{"id":262644953,"city_id":3410974,"language_key":"ka","name":"ტომეცენა"}
+{"id":262654039,"city_id":3411092,"language_key":"ka","name":"ტეტე"}
+{"id":262663279,"city_id":3411212,"language_key":"ka","name":"ჭინზელე"}
+{"id":262667052,"city_id":3411261,"language_key":"ka","name":"ჭაბუერა"}
+{"id":262669131,"city_id":3411288,"language_key":"ka","name":"ტაუენი"}
+{"id":262690537,"city_id":3411566,"language_key":"ka","name":"სონგო"}
+{"id":262708093,"city_id":3411794,"language_key":"ka","name":"სემენტე"}
+{"id":262713945,"city_id":3411870,"language_key":"ka","name":"რეგულო საუტე"}
+{"id":262714022,"city_id":3411871,"language_key":"ka","name":null}
+{"id":262714099,"city_id":3411872,"language_key":"ka","name":null}
+{"id":262714176,"city_id":3411873,"language_key":"ka","name":null}
+{"id":262714253,"city_id":3411874,"language_key":"ka","name":null}
+{"id":262714330,"city_id":3411875,"language_key":"ka","name":"საიტე"}
+{"id":262714484,"city_id":3411877,"language_key":"ka","name":"საუნდე"}
+{"id":262714638,"city_id":3411879,"language_key":"ka","name":"სოუსი"}
+{"id":262714792,"city_id":3411881,"language_key":"ka","name":"სოუენჟი"}
+{"id":262714946,"city_id":3411883,"language_key":"ka","name":"საუდე"}
+{"id":262715023,"city_id":3411884,"language_key":"ka","name":"საუა-საუა"}
+{"id":262715254,"city_id":3411887,"language_key":"ka","name":"სატუნე"}
+{"id":262715331,"city_id":3411888,"language_key":"ka","name":"საჩსპიმბე"}
+{"id":262715408,"city_id":3411889,"language_key":"ka","name":"სატანა"}
+{"id":262715485,"city_id":3411890,"language_key":"ka","name":"სატანა"}
+{"id":262715562,"city_id":3411891,"language_key":"ka","name":"სატანა"}
+{"id":262715639,"city_id":3411892,"language_key":"ka","name":"სატაკა"}
+{"id":262715716,"city_id":3411893,"language_key":"ka","name":"დივულუა"}
+{"id":262715793,"city_id":3411894,"language_key":"ka","name":"სასანი"}
+{"id":262715870,"city_id":3411895,"language_key":"ka","name":"სარრე"}
+{"id":262715947,"city_id":3411896,"language_key":"ka","name":"სარმენტო"}
+{"id":262716178,"city_id":3411899,"language_key":"ka","name":"სარიელა"}
+{"id":262716255,"city_id":3411900,"language_key":"ka","name":"სარჯენტო"}
+{"id":262716409,"city_id":3411902,"language_key":"ka","name":"სარდივა"}
+{"id":262716486,"city_id":3411903,"language_key":"ka","name":"სარდინია"}
+{"id":262716563,"city_id":3411904,"language_key":"ka","name":"სარაუნგო"}
+{"id":262716640,"city_id":3411905,"language_key":"ka","name":"სარატი"}
+{"id":262716717,"city_id":3411906,"language_key":"ka","name":"ალდეია კაჰო"}
+{"id":262716794,"city_id":3411907,"language_key":"ka","name":"სარანგი"}
+{"id":262717025,"city_id":3411910,"language_key":"ka","name":"საპულე"}
+{"id":262717102,"city_id":3411911,"language_key":"ka","name":"საპუე"}
+{"id":262717179,"city_id":3411912,"language_key":"ka","name":"საპაზანა"}
+{"id":262717256,"city_id":3411913,"language_key":"ka","name":"საფარი"}
+{"id":262717333,"city_id":3411914,"language_key":"ka","name":"საპანგა"}
+{"id":262717410,"city_id":3411915,"language_key":"ka","name":"საპანდა"}
+{"id":262717487,"city_id":3411916,"language_key":"ka","name":"საპალა"}
+{"id":262717564,"city_id":3411917,"language_key":"ka","name":"საპალა"}
+{"id":262724802,"city_id":3412011,"language_key":"ka","name":"სამო"}
+{"id":262731116,"city_id":3412093,"language_key":"ka","name":"საიტე"}
+{"id":262737276,"city_id":3412173,"language_key":"ka","name":"საეცე"}
+{"id":262750212,"city_id":3412341,"language_key":"ka","name":"რესანო გარსია"}
+{"id":262759375,"city_id":3412460,"language_key":"ka","name":"რაჩიტი"}
+{"id":262761377,"city_id":3412486,"language_key":"ka","name":"კვისიკო"}
+{"id":262766305,"city_id":3412550,"language_key":"ka","name":"კელიმანე"}
+{"id":262769308,"city_id":3412589,"language_key":"ka","name":"პუნგი"}
+{"id":262773004,"city_id":3412637,"language_key":"ka","name":"ბილენი"}
+{"id":262774390,"city_id":3412655,"language_key":"ka","name":"პოპოტო"}
+{"id":262788712,"city_id":3412841,"language_key":"ka","name":"პემბა"}
+{"id":262791330,"city_id":3412875,"language_key":"ka","name":"პებანე"}
+{"id":262791561,"city_id":3412878,"language_key":"ka","name":"პავავა"}
+{"id":262792254,"city_id":3412887,"language_key":"ka","name":"პაულო"}
+{"id":262792331,"city_id":3412888,"language_key":"ka","name":"პაულო"}
+{"id":262801571,"city_id":3413008,"language_key":"ka","name":"პანდე"}
+{"id":262804112,"city_id":3413041,"language_key":"ka","name":"პალმა"}
+{"id":262817356,"city_id":3413213,"language_key":"ka","name":"სოფალა"}
+{"id":262817510,"city_id":3413215,"language_key":"ka","name":"ნოვა მამბონე"}
+{"id":262828598,"city_id":3413359,"language_key":"ka","name":"ნიკოადალა"}
+{"id":262847463,"city_id":3413604,"language_key":"ka","name":"ნამაჩამო"}
+{"id":262856934,"city_id":3413727,"language_key":"ka","name":"ნერიპა"}
+{"id":262864172,"city_id":3413821,"language_key":"ka","name":"ნაველანე"}
+{"id":262864788,"city_id":3413829,"language_key":"ka","name":"ნავალჰა"}
+{"id":262868407,"city_id":3413876,"language_key":"ka","name":"მელოი ნატალი"}
+{"id":262868484,"city_id":3413877,"language_key":"ka","name":"ნატალი"}
+{"id":262884038,"city_id":3414079,"language_key":"ka","name":"ნანკუარი"}
+{"id":262889120,"city_id":3414145,"language_key":"ka","name":"ნამპულა"}
+{"id":262893894,"city_id":3414207,"language_key":"ka","name":"ნამიალუ"}
+{"id":262894510,"city_id":3414215,"language_key":"ka","name":"ნამეტილი"}
+{"id":262895049,"city_id":3414222,"language_key":"ka","name":"ნამეტანა"}
+{"id":262906445,"city_id":3414370,"language_key":"ka","name":"ნამაკურა"}
+{"id":262909063,"city_id":3414404,"language_key":"ka","name":"ნამააჩა"}
+{"id":262923077,"city_id":3414586,"language_key":"ka","name":"ნაკალა"}
+{"id":262938400,"city_id":3414785,"language_key":"ka","name":"მურუპულა"}
+{"id":262943867,"city_id":3414856,"language_key":"ka","name":"მუპინო"}
+{"id":262944791,"city_id":3414868,"language_key":"ka","name":"მუონონა"}
+{"id":262953338,"city_id":3414979,"language_key":"ka","name":"მუჯეზა"}
+{"id":262956572,"city_id":3415021,"language_key":"ka","name":"მუინჰაკანი"}
+{"id":262969354,"city_id":3415187,"language_key":"ka","name":"მუედა"}
+{"id":262971279,"city_id":3415212,"language_key":"ka","name":"მუდალა"}
+{"id":262992685,"city_id":3415490,"language_key":"ka","name":"მუალა"}
+{"id":262993147,"city_id":3415496,"language_key":"ka","name":"რეგულო მაზულია"}
+{"id":263001925,"city_id":3415610,"language_key":"ka","name":"მოსურილის რაიონი"}
+{"id":263002695,"city_id":3415620,"language_key":"ka","name":"მორუმბენე"}
+{"id":263002772,"city_id":3415621,"language_key":"ka","name":"მორუმბალა"}
+{"id":263005929,"city_id":3415662,"language_key":"ka","name":"მოპეია"}
+{"id":263006314,"city_id":3415667,"language_key":"ka","name":"მონუნენე"}
+{"id":263006468,"city_id":3415669,"language_key":"ka","name":"მონტეპუეზი"}
+{"id":263008855,"city_id":3415700,"language_key":"ka","name":"მონაპო"}
+{"id":263010395,"city_id":3415720,"language_key":"ka","name":"მომადე"}
+{"id":263010703,"city_id":3415724,"language_key":"ka","name":"მომის რაიონი"}
+{"id":263013552,"city_id":3415761,"language_key":"ka","name":"ფაბიაო"}
+{"id":263014938,"city_id":3415779,"language_key":"ka","name":"მოკუა"}
+{"id":263016016,"city_id":3415793,"language_key":"ka","name":"მოციმბოა"}
+{"id":263016940,"city_id":3415805,"language_key":"ka","name":"მოკამბიკი"}
+{"id":263017017,"city_id":3415806,"language_key":"ka","name":"მოზამბიკი"}
+{"id":263017402,"city_id":3415811,"language_key":"ka","name":"მოარეა"}
+{"id":263017479,"city_id":3415812,"language_key":"ka","name":"მოამბა"}
+{"id":263024794,"city_id":3415907,"language_key":"ka","name":"მილანჟი"}
+{"id":263027181,"city_id":3415938,"language_key":"ka","name":"მიკოლენი"}
+{"id":263032956,"city_id":3416013,"language_key":"ka","name":"მეთუგე"}
+{"id":263043043,"city_id":3416144,"language_key":"ka","name":"მესიჯანი"}
+{"id":263051051,"city_id":3416248,"language_key":"ka","name":"მეკე"}
+{"id":263052514,"city_id":3416267,"language_key":"ka","name":"მეპონდა"}
+{"id":263065758,"city_id":3416439,"language_key":"ka","name":"მეგარირგუ"}
+{"id":263066836,"city_id":3416453,"language_key":"ka","name":"მეეკვია"}
+{"id":263085239,"city_id":3416692,"language_key":"ka","name":"მაშიშე"}
+{"id":263085393,"city_id":3416694,"language_key":"ka","name":"მატეჩაპე"}
+{"id":263086317,"city_id":3416706,"language_key":"ka","name":"მავუნგუანა"}
+{"id":263096558,"city_id":3416839,"language_key":"ka","name":"მატუბა"}
+{"id":263099176,"city_id":3416873,"language_key":"ka","name":"მატოლა"}
+{"id":263100331,"city_id":3416888,"language_key":"ka","name":"მატიკი"}
+{"id":263114961,"city_id":3417078,"language_key":"ka","name":"მასინგა"}
+{"id":263115038,"city_id":3417079,"language_key":"ka","name":"მასინგა"}
+{"id":263123200,"city_id":3417185,"language_key":"ka","name":"მარრუპა"}
+{"id":263123970,"city_id":3417195,"language_key":"ka","name":"მარულე"}
+{"id":263124509,"city_id":3417202,"language_key":"ka","name":"მარომეუ"}
+{"id":263134519,"city_id":3417332,"language_key":"ka","name":"მაპუტუ"}
+{"id":263136906,"city_id":3417363,"language_key":"ka","name":"მაპინჰე"}
+{"id":263148995,"city_id":3417520,"language_key":"ka","name":"მანჯაკაზე"}
+{"id":263149380,"city_id":3417525,"language_key":"ka","name":"მანიკა"}
+{"id":263149611,"city_id":3417528,"language_key":"ka","name":"მანიამბა"}
+{"id":263151382,"city_id":3417551,"language_key":"ka","name":"მანჰიკა"}
+{"id":263151536,"city_id":3417553,"language_key":"ka","name":"მანჰიკა"}
+{"id":263161238,"city_id":3417679,"language_key":"ka","name":"მანდიმბა"}
+{"id":263164703,"city_id":3417724,"language_key":"ka","name":"მამუირ"}
+{"id":263176561,"city_id":3417878,"language_key":"ka","name":"მალამბო"}
+{"id":263183799,"city_id":3417972,"language_key":"ka","name":"მაიმელანი"}
+{"id":263191807,"city_id":3418076,"language_key":"ka","name":"მაგუევა"}
+{"id":263192731,"city_id":3418088,"language_key":"ka","name":"მაგუდე"}
+{"id":263194579,"city_id":3418112,"language_key":"ka","name":"მაგონდე"}
+{"id":263195965,"city_id":3418130,"language_key":"ka","name":"მაგობეია"}
+{"id":263203357,"city_id":3418226,"language_key":"ka","name":"მეემანე"}
+{"id":263220143,"city_id":3418444,"language_key":"ka","name":"მაკომია"}
+{"id":263236236,"city_id":3418653,"language_key":"ka","name":"მაკველანი"}
+{"id":263255101,"city_id":3418898,"language_key":"ka","name":"ლუმბო"}
+{"id":263256025,"city_id":3418910,"language_key":"ka","name":"ლუისი"}
+{"id":263259105,"city_id":3418950,"language_key":"ka","name":"ლუაბო"}
+{"id":263262262,"city_id":3418991,"language_key":"ka","name":"ლიუაია"}
+{"id":263268653,"city_id":3419074,"language_key":"ka","name":"ლიშინგა"}
+{"id":263285439,"city_id":3419292,"language_key":"ka","name":"ჯულაი"}
+{"id":263292061,"city_id":3419378,"language_key":"ka","name":"ჯონ"}
+{"id":263315623,"city_id":3419684,"language_key":"ka","name":"ჯანგამო"}
+{"id":263317779,"city_id":3419712,"language_key":"ka","name":"ჯამპანი"}
+{"id":263317933,"city_id":3419714,"language_key":"ka","name":"ჯამო"}
+{"id":263327327,"city_id":3419836,"language_key":"ka","name":"ინჰასორო"}
+{"id":263327404,"city_id":3419837,"language_key":"ka","name":"ინჰარიმე"}
+{"id":263327789,"city_id":3419842,"language_key":"ka","name":"ინჰანგუვო"}
+{"id":263328867,"city_id":3419856,"language_key":"ka","name":"ინჰამინგა"}
+{"id":263329252,"city_id":3419861,"language_key":"ka","name":"ინიამბანე"}
+{"id":263334796,"city_id":3419933,"language_key":"ka","name":"ინჩოპე"}
+{"id":263336798,"city_id":3419959,"language_key":"ka","name":"ილაპუ"}
+{"id":263339878,"city_id":3419999,"language_key":"ka","name":"ჰომოინი"}
+{"id":263342188,"city_id":3420029,"language_key":"ka","name":"გურუე"}
+{"id":263346038,"city_id":3420079,"language_key":"ka","name":"გუირიკა"}
+{"id":263347424,"city_id":3420097,"language_key":"ka","name":"გილაზე"}
+{"id":263355278,"city_id":3420199,"language_key":"ka","name":"გრამუკანა"}
+{"id":263357742,"city_id":3420231,"language_key":"ka","name":"გონდოლა"}
+{"id":263361977,"city_id":3420286,"language_key":"ka","name":"გოენგე"}
+{"id":263376684,"city_id":3420477,"language_key":"ka","name":"ფუნჰალოურო"}
+{"id":263388850,"city_id":3420635,"language_key":"ka","name":"ფანეკიკო"}
+{"id":263391545,"city_id":3420670,"language_key":"ka","name":"ფეიფი"}
+{"id":263397012,"city_id":3420741,"language_key":"ka","name":"ესპოლეტა"}
+{"id":263399091,"city_id":3420768,"language_key":"ka","name":"ერიკო"}
+{"id":263405097,"city_id":3420846,"language_key":"ka","name":"დუმუსა"}
+{"id":263408947,"city_id":3420896,"language_key":"ka","name":"ნამაიაბუე"}
+{"id":263412104,"city_id":3420937,"language_key":"ka","name":"ჯანგე"}
+{"id":263417340,"city_id":3421005,"language_key":"ka","name":"დეზემგე"}
+{"id":263431816,"city_id":3421193,"language_key":"ka","name":"კუმულა"}
+{"id":263439747,"city_id":3421296,"language_key":"ka","name":"კუამბა"}
+{"id":263441518,"city_id":3421319,"language_key":"ka","name":"კოვანინია"}
+{"id":263442134,"city_id":3421327,"language_key":"ka","name":"კოუტინიო"}
+{"id":263459613,"city_id":3421554,"language_key":"ka","name":"კობუ"}
+{"id":263463771,"city_id":3421608,"language_key":"ka","name":"სუბვე"}
+{"id":263470778,"city_id":3421699,"language_key":"ka","name":"შოკვე"}
+{"id":263471702,"city_id":3421711,"language_key":"ka","name":"ჩიზუმბანე"}
+{"id":263472318,"city_id":3421719,"language_key":"ka","name":"ჩიზამპეკა"}
+{"id":263473935,"city_id":3421740,"language_key":"ka","name":"ჩიურე"}
+{"id":263474705,"city_id":3421750,"language_key":"ka","name":"ჩიულო"}
+{"id":263475860,"city_id":3421765,"language_key":"ka","name":"ჩიტუნდო"}
+{"id":263484253,"city_id":3421874,"language_key":"ka","name":"ჩირამბა"}
+{"id":263492569,"city_id":3421982,"language_key":"ka","name":"ჩინჰანდო"}
+{"id":263498575,"city_id":3422060,"language_key":"ka","name":"შიმოიო"}
+{"id":263509740,"city_id":3422205,"language_key":"ka","name":"ჩიკუტი"}
+{"id":263511280,"city_id":3422225,"language_key":"ka","name":"ჩიკუემბო"}
+{"id":263511511,"city_id":3422228,"language_key":"ka","name":"ჩიკუემბა"}
+{"id":263512512,"city_id":3422241,"language_key":"ka","name":"ვილა ედუარდო მონდლეინი"}
+{"id":263517055,"city_id":3422300,"language_key":"ka","name":"ჩიკო"}
+{"id":263521521,"city_id":3422358,"language_key":"ka","name":"შიბუტუ"}
+{"id":263546546,"city_id":3422683,"language_key":"ka","name":"ჩამა"}
+{"id":263547855,"city_id":3422700,"language_key":"ka","name":"ჩალე"}
+{"id":263562562,"city_id":3422891,"language_key":"ka","name":"კატივო"}
+{"id":263565257,"city_id":3422926,"language_key":"ka","name":"კატანდიკა"}
+{"id":263565873,"city_id":3422934,"language_key":"ka","name":"კასტიგო"}
+{"id":263582197,"city_id":3423146,"language_key":"ka","name":"კანჰეუა"}
+{"id":263584738,"city_id":3423179,"language_key":"ka","name":"კანდიეირო"}
+{"id":263590975,"city_id":3423260,"language_key":"ka","name":"კამელანდო"}
+{"id":263592361,"city_id":3423278,"language_key":"ka","name":"კამბემბა"}
+{"id":263595056,"city_id":3423313,"language_key":"ka","name":"კალუნდუმა"}
+{"id":263596904,"city_id":3423337,"language_key":"ka","name":"კალია"}
+{"id":263603757,"city_id":3423426,"language_key":"ka","name":"კაერა"}
+{"id":263623546,"city_id":3423683,"language_key":"ka","name":"ბოანი"}
+{"id":263630322,"city_id":3423771,"language_key":"ka","name":"ბენორდი"}
+{"id":263631169,"city_id":3423782,"language_key":"ka","name":"ბელა ვისტა"}
+{"id":263631554,"city_id":3423787,"language_key":"ka","name":"ბეირა"}
+{"id":263634326,"city_id":3423823,"language_key":"ka","name":"ბასოპი"}
+{"id":263641795,"city_id":3423920,"language_key":"ka","name":"ბალამა"}
+{"id":263645876,"city_id":3423973,"language_key":"ka","name":"მეტანგულა"}
+{"id":263656271,"city_id":3424108,"language_key":"ka","name":"არაბული"}
+{"id":263659890,"city_id":3424155,"language_key":"ka","name":"ანგოშე"}
+{"id":263662893,"city_id":3424194,"language_key":"ka","name":"ანკუაბე"}
+{"id":263672364,"city_id":3424317,"language_key":"ka","name":"ალტო მოლოკუ"}
+{"id":263679371,"city_id":3424408,"language_key":"ka","name":"მუჩაპო"}
+{"id":263680603,"city_id":3424424,"language_key":"ka","name":"აიუბა"}
+{"id":263682759,"city_id":3424452,"language_key":"ka","name":"აფონსო"}
+{"id":263693000,"city_id":3424585,"language_key":"ka","name":"ლიტანდაკუა"}
+{"id":263694694,"city_id":3424607,"language_key":"ka","name":"იჩე"}
+{"id":263699237,"city_id":3424666,"language_key":"ka","name":"ლიტამანდა"}
+{"id":263700469,"city_id":3424682,"language_key":"ka","name":"მიტოპი"}
+{"id":263703395,"city_id":3424720,"language_key":"ka","name":"ალდეია ლიმბუე"}
+{"id":263716023,"city_id":3424884,"language_key":"ka","name":"ნანგუა"}
+{"id":263717332,"city_id":3424901,"language_key":"ka","name":"ალდეია ლიპომბუე"}
+{"id":263717717,"city_id":3424906,"language_key":"ka","name":"გივარო"}
+{"id":263719873,"city_id":3424934,"language_key":"ka","name":"მუანგამულა"}
+{"id":263722722,"city_id":3424971,"language_key":"ka","name":"ნაკუტა"}
+{"id":263801647,"city_id":3425996,"language_key":"ka","name":"მუტუალი"}
+{"id":263816816,"city_id":3426193,"language_key":"ka","name":"ამპუაია"}
+{"id":263816893,"city_id":3426194,"language_key":"ka","name":"ტულუა"}
+{"id":263816970,"city_id":3426195,"language_key":"ka","name":"არისტიდესი"}
+{"id":263820281,"city_id":3426238,"language_key":"ka","name":"მეკონტა"}
+{"id":263855162,"city_id":3426691,"language_key":"ka","name":"ნოსა სენორა დო როსარიო"}
+{"id":263873950,"city_id":3426935,"language_key":"ka","name":"იაპალა"}
+{"id":263894817,"city_id":3427206,"language_key":"ka","name":"შეფ კომპანიუა"}
+{"id":263894971,"city_id":3427208,"language_key":"ka","name":"შეფ კარანგუია"}
+{"id":263895356,"city_id":3427213,"language_key":"ka","name":"ფილიპე"}
+{"id":263895510,"city_id":3427215,"language_key":"ka","name":"ალდეია მულინჯი"}
+{"id":263897204,"city_id":3427237,"language_key":"ka","name":"ქსანა"}
+{"id":263898051,"city_id":3427248,"language_key":"ka","name":"შეფე ჩემენჰა"}
+{"id":263898590,"city_id":3427255,"language_key":"ka","name":"მჩენგა"}
+{"id":263900438,"city_id":3427279,"language_key":"ka","name":"აბუდალა"}
+{"id":263901054,"city_id":3427287,"language_key":"ka","name":"ვავა"}
+{"id":263904057,"city_id":3427326,"language_key":"ka","name":"შეფი პუიამუენე"}
+{"id":263904134,"city_id":3427327,"language_key":"ka","name":"კორეია"}
+{"id":263905135,"city_id":3427340,"language_key":"ka","name":"უატურა"}
+{"id":263906213,"city_id":3427354,"language_key":"ka","name":"მიტემანგავა"}
+{"id":263907368,"city_id":3427369,"language_key":"ka","name":"ერერია"}
+{"id":263907445,"city_id":3427370,"language_key":"ka","name":"კომელინა"}
+{"id":263907830,"city_id":3427375,"language_key":"ka","name":"მაზოვე"}
+{"id":263907984,"city_id":3427377,"language_key":"ka","name":"ფერნანდესი"}
+{"id":263908215,"city_id":3427380,"language_key":"ka","name":"ალდეია ჩიტონდო"}
+{"id":263908523,"city_id":3427384,"language_key":"ka","name":"არაბული"}
+{"id":263908677,"city_id":3427386,"language_key":"ka","name":"აუგუსტო"}
+{"id":263908831,"city_id":3427388,"language_key":"ka","name":"ტომასი"}
+{"id":263909293,"city_id":3427394,"language_key":"ka","name":"ალდეია ბირირა"}
+{"id":263909678,"city_id":3427399,"language_key":"ka","name":"მატელა"}
+{"id":263910063,"city_id":3427404,"language_key":"ka","name":"უმუჩიუა"}
+{"id":263910217,"city_id":3427406,"language_key":"ka","name":"ჩა გურუ"}
+{"id":263910679,"city_id":3427412,"language_key":"ka","name":"ტავანტა"}
+{"id":263911449,"city_id":3427422,"language_key":"ka","name":"მარრა"}
+{"id":263911911,"city_id":3427428,"language_key":"ka","name":"კამუანა"}
+{"id":263912142,"city_id":3427431,"language_key":"ka","name":"მასაუა"}
+{"id":263912758,"city_id":3427439,"language_key":"ka","name":"ზაუარა"}
+{"id":263913066,"city_id":3427443,"language_key":"ka","name":"სან ჟოაო დო მონტე"}
+{"id":263913143,"city_id":3427444,"language_key":"ka","name":"ალდეია მუჩამბა"}
+{"id":263913374,"city_id":3427447,"language_key":"ka","name":"რომბო"}
+{"id":263913836,"city_id":3427453,"language_key":"ka","name":"ალდეია ლუომბუო"}
+{"id":263913913,"city_id":3427454,"language_key":"ka","name":"კუენგი"}
+{"id":263914375,"city_id":3427460,"language_key":"ka","name":"მონგი"}
+{"id":263914606,"city_id":3427463,"language_key":"ka","name":"ვაისონი"}
+{"id":263915299,"city_id":3427472,"language_key":"ka","name":"მურუნიავინა"}
+{"id":263916069,"city_id":3427482,"language_key":"ka","name":"სიმბე"}
+{"id":263917455,"city_id":3427500,"language_key":"ka","name":"მელივა"}
+{"id":263917840,"city_id":3427505,"language_key":"ka","name":"მელუნგოზა"}
+{"id":263917917,"city_id":3427506,"language_key":"ka","name":"გორრო"}
+{"id":263918302,"city_id":3427511,"language_key":"ka","name":"მუტიაკა"}
+{"id":263919534,"city_id":3427527,"language_key":"ka","name":"მატიკულა"}
+{"id":263920304,"city_id":3427537,"language_key":"ka","name":"შეფე კასტელა"}
+{"id":263922152,"city_id":3427561,"language_key":"ka","name":"შეფი მაჰახა"}
+{"id":263922460,"city_id":3427565,"language_key":"ka","name":"ნტანდამუვას ბაზარი"}
+{"id":263923692,"city_id":3427581,"language_key":"ka","name":"ტენდა"}
+{"id":263923769,"city_id":3427582,"language_key":"ka","name":"შეფი მორია"}
+{"id":263924385,"city_id":3427590,"language_key":"ka","name":"ფერნანდო"}
+{"id":263924616,"city_id":3427593,"language_key":"ka","name":"შეფ ჩივერე"}
+{"id":263925309,"city_id":3427602,"language_key":"ka","name":"მონტეია"}
+{"id":263927157,"city_id":3427626,"language_key":"ka","name":"რუი ფაბულა"}
+{"id":263928389,"city_id":3427642,"language_key":"ka","name":"ქსუაქსუნგო"}
+{"id":263928620,"city_id":3427645,"language_key":"ka","name":"შეფი მუსასუადი"}
+{"id":263929159,"city_id":3427652,"language_key":"ka","name":"შეფ მუკუმე"}
+{"id":263929698,"city_id":3427659,"language_key":"ka","name":"რეგულო მუტემპურა"}
+{"id":263931854,"city_id":3427687,"language_key":"ka","name":"რეგულო მუარიპეია"}
+{"id":263932008,"city_id":3427689,"language_key":"ka","name":"შეფი ალბერტო"}
+{"id":263932162,"city_id":3427691,"language_key":"ka","name":"ნაბილი"}
+{"id":263933779,"city_id":3427712,"language_key":"ka","name":"შეფ სანქსირა"}
+{"id":263933933,"city_id":3427714,"language_key":"ka","name":"რეგულო ნამპეტე"}
+{"id":263934703,"city_id":3427724,"language_key":"ka","name":"მუზამა"}
+{"id":263937552,"city_id":3427761,"language_key":"ka","name":"ლიპალე"}
+{"id":263938707,"city_id":3427776,"language_key":"ka","name":"შეფი აბედალა"}
+{"id":263939246,"city_id":3427783,"language_key":"ka","name":"ნიჰესიუე"}
+{"id":263941248,"city_id":3427809,"language_key":"ka","name":"კობრე"}
+{"id":263941941,"city_id":3427818,"language_key":"ka","name":"შეფი ტალიაო"}
+{"id":263942557,"city_id":3427826,"language_key":"ka","name":"ნიკაპაჩა"}
+{"id":263943096,"city_id":3427833,"language_key":"ka","name":"პანგაია"}
+{"id":263943635,"city_id":3427840,"language_key":"ka","name":"შეფი ნევოგორო"}
+{"id":263944020,"city_id":3427845,"language_key":"ka","name":"მორია"}
+{"id":263946484,"city_id":3427877,"language_key":"ka","name":"ალბერტო"}
+{"id":263947023,"city_id":3427884,"language_key":"ka","name":"შეფი მუამუზა"}
+{"id":263947100,"city_id":3427885,"language_key":"ka","name":"ნამოლო"}
+{"id":263947177,"city_id":3427886,"language_key":"ka","name":"მუატია"}
+{"id":263947331,"city_id":3427888,"language_key":"ka","name":"ლოპები"}
+{"id":263948024,"city_id":3427897,"language_key":"ka","name":"შეფი კატუმბა"}
+{"id":263948486,"city_id":3427903,"language_key":"ka","name":"მაკუანა"}
+{"id":263948871,"city_id":3427908,"language_key":"ka","name":"არაბული"}
+{"id":263949487,"city_id":3427916,"language_key":"ka","name":"ალბერტო"}
+{"id":263950257,"city_id":3427926,"language_key":"ka","name":"ალექსანდრე"}
+{"id":263950565,"city_id":3427930,"language_key":"ka","name":"ნაკუა"}
+{"id":263952028,"city_id":3427949,"language_key":"ka","name":"რეგულო მუტუბუა"}
+{"id":263952721,"city_id":3427958,"language_key":"ka","name":"სოზინიო"}
+{"id":263953568,"city_id":3427969,"language_key":"ka","name":"ნაკორო"}
+{"id":263954030,"city_id":3427975,"language_key":"ka","name":"ბორმუდა"}
+{"id":263955493,"city_id":3427994,"language_key":"ka","name":"აგოსტინიო"}
+{"id":263957726,"city_id":3428023,"language_key":"ka","name":"შეფი ნამინჰა"}
+{"id":263959805,"city_id":3428050,"language_key":"ka","name":"მუკაქსი"}
+{"id":263960190,"city_id":3428055,"language_key":"ka","name":"შეფი ინსაკელა"}
+{"id":263961114,"city_id":3428067,"language_key":"ka","name":"ტენდა"}
+{"id":263961191,"city_id":3428068,"language_key":"ka","name":"შეფ ლიგამა"}
+{"id":263961422,"city_id":3428071,"language_key":"ka","name":"რეგულო კამუანა"}
+{"id":263961730,"city_id":3428075,"language_key":"ka","name":"ტარუა"}
+{"id":263962038,"city_id":3428079,"language_key":"ka","name":"შეფი პუამპუელა"}
+{"id":263963501,"city_id":3428098,"language_key":"ka","name":"შეფი აკოლამბინა"}
+{"id":263965426,"city_id":3428123,"language_key":"ka","name":"მალალა"}
+{"id":263969969,"city_id":3428182,"language_key":"ka","name":"მუანაკამბა"}
+{"id":263970893,"city_id":3428194,"language_key":"ka","name":"ლატიფო"}
+{"id":263971201,"city_id":3428198,"language_key":"ka","name":"ალდეია ჩიოტუმბო"}
+{"id":263976283,"city_id":3428264,"language_key":"ka","name":"ვილა ფონტეს ველჰა"}
+{"id":263977130,"city_id":3428275,"language_key":"ka","name":"ნინანი"}
+{"id":263977977,"city_id":3428286,"language_key":"ka","name":"ნამიგო"}
+{"id":263978054,"city_id":3428287,"language_key":"ka","name":"შეფ ვერისიმო"}
+{"id":263983598,"city_id":3428359,"language_key":"ka","name":"მატელა"}
+{"id":263984445,"city_id":3428370,"language_key":"ka","name":"კაბო პარაკა"}
+{"id":263984676,"city_id":3428373,"language_key":"ka","name":"შეფ საიდე"}
+{"id":263987833,"city_id":3428414,"language_key":"ka","name":"რეგულო გინამა"}
+{"id":263988603,"city_id":3428424,"language_key":"ka","name":"შეფი მეტანო"}
+{"id":263989989,"city_id":3428442,"language_key":"ka","name":"მაჩიპანდა"}
+{"id":263990836,"city_id":3428453,"language_key":"ka","name":"შეფი ნემუა"}
+{"id":263990990,"city_id":3428455,"language_key":"ka","name":"შეფ პეკენინო"}
+{"id":263992607,"city_id":3428476,"language_key":"ka","name":"შეფი ალი"}
+{"id":263992992,"city_id":3428481,"language_key":"ka","name":"შეფ ჯამალი"}
+{"id":263993839,"city_id":3428492,"language_key":"ka","name":"შეფ ლანგუანე"}
+{"id":263994609,"city_id":3428502,"language_key":"ka","name":"შეფ კარეპა"}
+{"id":264000307,"city_id":3428576,"language_key":"ka","name":"სუსუნდენგა"}
+{"id":264000384,"city_id":3428577,"language_key":"ka","name":"ზემბე"}
+{"id":264000461,"city_id":3428578,"language_key":"ka","name":"ნგუვალა"}
+{"id":264002848,"city_id":3428609,"language_key":"ka","name":"რეგულო ნაიკო"}
+{"id":264005543,"city_id":3428644,"language_key":"ka","name":"ე.კარმონა"}
+{"id":264006313,"city_id":3428654,"language_key":"ka","name":"ფრანცისკო"}
+{"id":264007930,"city_id":3428675,"language_key":"ka","name":"რეგულო ნამბეტე"}
+{"id":264010163,"city_id":3428704,"language_key":"ka","name":"მუია"}
+{"id":264010471,"city_id":3428708,"language_key":"ka","name":"ფევერეირო"}
+{"id":264012935,"city_id":3428740,"language_key":"ka","name":"მონტეგირო"}
+{"id":264014398,"city_id":3428759,"language_key":"ka","name":"სერაკაო ესტევესი"}
+{"id":264015630,"city_id":3428775,"language_key":"ka","name":"სალომაო"}
+{"id":264021097,"city_id":3428846,"language_key":"ka","name":"ზ.სიტოი"}
+{"id":264022021,"city_id":3428858,"language_key":"ka","name":"შეფი მაკუნჰეინი"}
+{"id":264027411,"city_id":3428928,"language_key":"ka","name":"პაულო"}
+{"id":264029567,"city_id":3428956,"language_key":"ka","name":"ლამეგო"}
+{"id":264029875,"city_id":3428960,"language_key":"ka","name":"კარლოს ქსიკოლოვე"}
+{"id":264031030,"city_id":3428975,"language_key":"ka","name":"ბუსანე"}
+{"id":264031107,"city_id":3428976,"language_key":"ka","name":"ტომასი"}
+{"id":264031338,"city_id":3428979,"language_key":"ka","name":"ბ. მანჰიკი"}
+{"id":264032339,"city_id":3428992,"language_key":"ka","name":"მაზიანე"}
+{"id":264034110,"city_id":3429015,"language_key":"ka","name":"ფაუსტინო"}
+{"id":264034187,"city_id":3429016,"language_key":"ka","name":"მაკაკუა"}
+{"id":264034572,"city_id":3429021,"language_key":"ka","name":"მუკოძა"}
+{"id":264034803,"city_id":3429024,"language_key":"ka","name":"უ.სიტოი"}
+{"id":264035727,"city_id":3429036,"language_key":"ka","name":"ეზეკიას ნეზი"}
+{"id":264036959,"city_id":3429052,"language_key":"ka","name":"ზეფანიას პაიპე"}
+{"id":264037036,"city_id":3429053,"language_key":"ka","name":"პიტა"}
+{"id":264037113,"city_id":3429054,"language_key":"ka","name":"ალვარო გალიზა მატოსი"}
+{"id":264037190,"city_id":3429055,"language_key":"ka","name":"ნაჭავანე"}
+{"id":264040270,"city_id":3429095,"language_key":"ka","name":"შეფი ჩამბა"}
+{"id":264045044,"city_id":3429157,"language_key":"ka","name":"შეფი მაჩეჩე"}
+{"id":264045275,"city_id":3429160,"language_key":"ka","name":"ელინგა მაკაკუა"}
+{"id":264046122,"city_id":3429171,"language_key":"ka","name":"მ. მანგუ"}
+{"id":264049125,"city_id":3429210,"language_key":"ka","name":"გეფე გუეზენე"}
+{"id":264050511,"city_id":3429228,"language_key":"ka","name":"ინგუანი"}
+{"id":264051743,"city_id":3429244,"language_key":"ka","name":"ჯონა"}
+{"id":264051820,"city_id":3429245,"language_key":"ka","name":"მადალა"}
+{"id":264052051,"city_id":3429248,"language_key":"ka","name":"გილ კუმბანი"}
+{"id":264056209,"city_id":3429302,"language_key":"ka","name":"კატა. მეთოდისტა"}
+{"id":264056748,"city_id":3429309,"language_key":"ka","name":"კატა. მეთოდისტა"}
+{"id":264057287,"city_id":3429316,"language_key":"ka","name":"ზემბენე"}
+{"id":264057980,"city_id":3429325,"language_key":"ka","name":"ფაბიაო"}
+{"id":264058442,"city_id":3429331,"language_key":"ka","name":"ოკოსე"}
+{"id":264059520,"city_id":3429345,"language_key":"ka","name":"მუომენა"}
+{"id":264060213,"city_id":3429354,"language_key":"ka","name":"ნუნო ალვარეს პერეირა"}
+{"id":264060290,"city_id":3429355,"language_key":"ka","name":"მაფუგუა"}
+{"id":264060983,"city_id":3429364,"language_key":"ka","name":"კატა. კონგრეგაციალური"}
+{"id":264063678,"city_id":3429399,"language_key":"ka","name":"შეფ მტრედი"}
+{"id":264063986,"city_id":3429403,"language_key":"ka","name":"მ.მაბონგო"}
+{"id":264065141,"city_id":3429418,"language_key":"ka","name":"ალდეია დე ურიკი"}
+{"id":264065757,"city_id":3429426,"language_key":"ka","name":"შეფ მადინგა"}
+{"id":264065834,"city_id":3429427,"language_key":"ka","name":"შეფ ჩეული"}
+{"id":264066681,"city_id":3429438,"language_key":"ka","name":"ალდეია მაკასე"}
+{"id":264066758,"city_id":3429439,"language_key":"ka","name":"ნ სამუელი"}
+{"id":264067605,"city_id":3429450,"language_key":"ka","name":"რეგულო ჩიკუალაკუალა"}
+{"id":264068221,"city_id":3429458,"language_key":"ka","name":"მადოდა ჩაილე"}
+{"id":264069453,"city_id":3429474,"language_key":"ka","name":"დანიელ საატე"}
+{"id":264070069,"city_id":3429482,"language_key":"ka","name":"შეფი მურუკულა"}
+{"id":264070454,"city_id":3429487,"language_key":"ka","name":"მაგონე"}
+{"id":264071147,"city_id":3429496,"language_key":"ka","name":"კვენტა დო ვალე"}
+{"id":264072918,"city_id":3429519,"language_key":"ka","name":"შეფი ნჰანკუაჰე"}
+{"id":264076075,"city_id":3429560,"language_key":"ka","name":"ჯულიო"}
+{"id":264076306,"city_id":3429563,"language_key":"ka","name":"პანგუენი"}
+{"id":264076614,"city_id":3429567,"language_key":"ka","name":"შეფ მუენდა"}
+{"id":264077384,"city_id":3429577,"language_key":"ka","name":"მაჩოვანი"}
+{"id":264078693,"city_id":3429594,"language_key":"ka","name":"შეფ ნამუსე"}
+{"id":264079309,"city_id":3429602,"language_key":"ka","name":"მედელა"}
+{"id":264079463,"city_id":3429604,"language_key":"ka","name":"ინდუნა ჯულიო"}
+{"id":264079925,"city_id":3429610,"language_key":"ka","name":"ჩიგამანე"}
+{"id":264080387,"city_id":3429616,"language_key":"ka","name":"დ.მუჩაი"}
+{"id":264080464,"city_id":3429617,"language_key":"ka","name":"ნაგოელა"}
+{"id":264080618,"city_id":3429619,"language_key":"ka","name":"შეფი ნევე"}
+{"id":264080849,"city_id":3429622,"language_key":"ka","name":"დ.მავია"}
+{"id":264081542,"city_id":3429631,"language_key":"ka","name":"კარლოს ჩიტოფო"}
+{"id":264081773,"city_id":3429634,"language_key":"ka","name":"ნაზომბე"}
+{"id":264081850,"city_id":3429635,"language_key":"ka","name":"კატა. მეთოდისტა"}
+{"id":264081927,"city_id":3429636,"language_key":"ka","name":"საპანე ტაიმო"}
+{"id":264083159,"city_id":3429652,"language_key":"ka","name":"შეფი მანდლალელე"}
+{"id":264084083,"city_id":3429664,"language_key":"ka","name":"მოზონდე"}
+{"id":264084391,"city_id":3429668,"language_key":"ka","name":"ვუტო"}
+{"id":264085931,"city_id":3429688,"language_key":"ka","name":"ნევი"}
+{"id":264086239,"city_id":3429692,"language_key":"ka","name":"ნ.ზანდამელა"}
+{"id":264087625,"city_id":3429710,"language_key":"ka","name":"ხორხე"}
+{"id":264087856,"city_id":3429713,"language_key":"ka","name":"შეფი უაჯაჰანე"}
+{"id":264088241,"city_id":3429718,"language_key":"ka","name":"კაილი"}
+{"id":264088472,"city_id":3429721,"language_key":"ka","name":"ალფეუ მანჰიკე"}
+{"id":264088549,"city_id":3429722,"language_key":"ka","name":"უ.ზიმე"}
+{"id":264088703,"city_id":3429724,"language_key":"ka","name":"ჯოზეფა მუზია"}
+{"id":264089165,"city_id":3429730,"language_key":"ka","name":"შეფი პონჟუანე"}
+{"id":264089319,"city_id":3429732,"language_key":"ka","name":"ლ.ფერეირა"}
+{"id":264089396,"city_id":3429733,"language_key":"ka","name":"შეფი მუდავლე"}
+{"id":264089781,"city_id":3429738,"language_key":"ka","name":"მადოდა ს. გელი"}
+{"id":264090012,"city_id":3429741,"language_key":"ka","name":"ფაბიაო მონიანი"}
+{"id":264091629,"city_id":3429762,"language_key":"ka","name":"მ.მაფუმო"}
+{"id":264091783,"city_id":3429764,"language_key":"ka","name":"ჩინგუენგანე"}
+{"id":264091860,"city_id":3429765,"language_key":"ka","name":"ნგინი"}
+{"id":264092784,"city_id":3429777,"language_key":"ka","name":"ინჰაბანგა"}
+{"id":264092861,"city_id":3429778,"language_key":"ka","name":"დანძივე"}
+{"id":264093477,"city_id":3429786,"language_key":"ka","name":"შეფი მალუელანი"}
+{"id":264094632,"city_id":3429801,"language_key":"ka","name":"ზაფანიას სიგულჰა"}
+{"id":264095941,"city_id":3429818,"language_key":"ka","name":"შეფი მაჯარმანე"}
+{"id":264096018,"city_id":3429819,"language_key":"ka","name":"შეფი უაჩარინე"}
+{"id":264096095,"city_id":3429820,"language_key":"ka","name":"ჩონგო"}
+{"id":264096172,"city_id":3429821,"language_key":"ka","name":"შეფ კუიმანი"}
+{"id":264097327,"city_id":3429836,"language_key":"ka","name":"ჩიბომა"}
+{"id":264097866,"city_id":3429843,"language_key":"ka","name":"შეფი ბიგუანჰანა"}
+{"id":264098174,"city_id":3429847,"language_key":"ka","name":"რეგედორ ბოლენი"}
+{"id":264099406,"city_id":3429863,"language_key":"ka","name":"სან მარტინიო დო პინეირო"}
+{"id":264099483,"city_id":3429864,"language_key":"ka","name":"შეფ ჩიმონუანე"}
+{"id":264099637,"city_id":3429866,"language_key":"ka","name":"კომიჩე"}
+{"id":264101177,"city_id":3429886,"language_key":"ka","name":"მეკე"}
+{"id":264102409,"city_id":3429902,"language_key":"ka","name":"კარლოს ფაელა"}
+{"id":264102948,"city_id":3429909,"language_key":"ka","name":"ფილიპე კაბრალი"}
+{"id":264104180,"city_id":3429925,"language_key":"ka","name":"კონგელე"}
+{"id":264104796,"city_id":3429933,"language_key":"ka","name":"მახუანე"}
+{"id":264106028,"city_id":3429949,"language_key":"ka","name":null}
+{"id":264106798,"city_id":3429959,"language_key":"ka","name":"ც. ზავა"}
+{"id":264107722,"city_id":3429971,"language_key":"ka","name":null}
+{"id":264107876,"city_id":3429973,"language_key":"ka","name":"დენგეზა"}
+{"id":264108415,"city_id":3429980,"language_key":"ka","name":"ალდეია ვ.ლენინი"}
+{"id":264109108,"city_id":3429989,"language_key":"ka","name":null}
+{"id":264109416,"city_id":3429993,"language_key":"ka","name":"რეგედორ სიაია"}
+{"id":264109493,"city_id":3429994,"language_key":"ka","name":"შეფ ნოკუენე"}
+{"id":264109647,"city_id":3429996,"language_key":"ka","name":"ხოსე ანდრადე"}
+{"id":264111110,"city_id":3430015,"language_key":"ka","name":"ნამავილა"}
+{"id":264112188,"city_id":3430029,"language_key":"ka","name":"მუგუდუანე"}
+{"id":264112650,"city_id":3430035,"language_key":"ka","name":"ჩიკამანი"}
+{"id":264114729,"city_id":3430062,"language_key":"ka","name":"ფრანცისკო"}
+{"id":264115114,"city_id":3430067,"language_key":"ka","name":"მატინგალიკანი"}
+{"id":264115191,"city_id":3430068,"language_key":"ka","name":"ჯულაი"}
+{"id":264115961,"city_id":3430078,"language_key":"ka","name":"მ.კამბოკი"}
+{"id":264116808,"city_id":3430089,"language_key":"ka","name":"ჩიმბალანი"}
+{"id":264116962,"city_id":3430091,"language_key":"ka","name":"შეფ ხოსე"}
+{"id":264117116,"city_id":3430093,"language_key":"ka","name":"რეისი"}
+{"id":264117809,"city_id":3430102,"language_key":"ka","name":"მექე მაჰავანე"}
+{"id":264117963,"city_id":3430104,"language_key":"ka","name":"გ.მუბაი"}
+{"id":264118040,"city_id":3430105,"language_key":"ka","name":"ბუე"}
+{"id":264118117,"city_id":3430106,"language_key":"ka","name":"ქსავიე"}
+{"id":264119041,"city_id":3430118,"language_key":"ka","name":"პედრო"}
+{"id":264119580,"city_id":3430125,"language_key":"ka","name":"მაკუამბე"}
+{"id":264121351,"city_id":3430148,"language_key":"ka","name":"ჯოსია ინგაინგა"}
+{"id":264121890,"city_id":3430155,"language_key":"ka","name":"ინდუნა ჩინგაზე"}
+{"id":264123661,"city_id":3430178,"language_key":"ka","name":"მაგუმანე"}
+{"id":264123815,"city_id":3430180,"language_key":"ka","name":"დავიდე გეგე"}
+{"id":264123969,"city_id":3430182,"language_key":"ka","name":"სიმაო ნჰანტუმბო"}
+{"id":264124277,"city_id":3430186,"language_key":"ka","name":"კაპატაზი"}
+{"id":264126510,"city_id":3430215,"language_key":"ka","name":"ფერნანდო ტემბე"}
+{"id":264126818,"city_id":3430219,"language_key":"ka","name":"ფაბიაო"}
+{"id":264127896,"city_id":3430233,"language_key":"ka","name":"რუპასე"}
+{"id":264129590,"city_id":3430255,"language_key":"ka","name":"მანუელი"}
+{"id":264129667,"city_id":3430256,"language_key":"ka","name":"მაცენა"}
+{"id":264130745,"city_id":3430270,"language_key":"ka","name":"კატა. სუიკა"}
+{"id":264130899,"city_id":3430272,"language_key":"ka","name":"ჩიუე"}
+{"id":264131900,"city_id":3430285,"language_key":"ka","name":"შეფ პომენე"}
+{"id":264132054,"city_id":3430287,"language_key":"ka","name":"მუჩუნგო"}
+{"id":264133902,"city_id":3430311,"language_key":"ka","name":"გონამო"}
+{"id":264134056,"city_id":3430313,"language_key":"ka","name":"შეფი ტიანე"}
+{"id":264134210,"city_id":3430315,"language_key":"ka","name":"შეფი კვებო"}
+{"id":264135365,"city_id":3430330,"language_key":"ka","name":"სილვია ფილიმაო"}
+{"id":264136135,"city_id":3430340,"language_key":"ka","name":"მანუელი"}
+{"id":264139523,"city_id":3430384,"language_key":"ka","name":"შეფი იონასი"}
+{"id":264140524,"city_id":3430397,"language_key":"ka","name":"შეფი ჩიბემბე"}
+{"id":264140909,"city_id":3430402,"language_key":"ka","name":"ჩიტოფო"}
+{"id":264141448,"city_id":3430409,"language_key":"ka","name":"ჯულაი"}
+{"id":264141910,"city_id":3430415,"language_key":"ka","name":"ჩეტიო"}
+{"id":264142834,"city_id":3430427,"language_key":"ka","name":"ფერნანდო"}
+{"id":264142988,"city_id":3430429,"language_key":"ka","name":"უოაჩე"}
+{"id":264144066,"city_id":3430443,"language_key":"ka","name":"რეგედორ მუგუამბე"}
+{"id":264145144,"city_id":3430457,"language_key":"ka","name":"ნალუელე"}
+{"id":264147377,"city_id":3430486,"language_key":"ka","name":"შეფ ჩიკუანგუ"}
+{"id":264149456,"city_id":3430513,"language_key":"ka","name":"ფამანდა"}
+{"id":264150688,"city_id":3430529,"language_key":"ka","name":"ნაიეტი"}
+{"id":264151920,"city_id":3430545,"language_key":"ka","name":"ფეიჯაო"}
+{"id":264153691,"city_id":3430568,"language_key":"ka","name":"კაბო გუბელე"}
+{"id":264155308,"city_id":3430589,"language_key":"ka","name":"რ.ნაგუნიგა"}
+{"id":264155770,"city_id":3430595,"language_key":"ka","name":"ფ.სანდიკი"}
+{"id":264156001,"city_id":3430598,"language_key":"ka","name":"ეზეკიელი"}
+{"id":264156232,"city_id":3430601,"language_key":"ka","name":"ჩეფე მოვინზულა"}
+{"id":264156386,"city_id":3430603,"language_key":"ka","name":"კაბო ჩიფუიო"}
+{"id":264157387,"city_id":3430616,"language_key":"ka","name":"ალფეუ"}
+{"id":264157772,"city_id":3430621,"language_key":"ka","name":"ფერნანდო"}
+{"id":264158542,"city_id":3430631,"language_key":"ka","name":"ბერლენგასი"}
+{"id":264158773,"city_id":3430634,"language_key":"ka","name":"კატა. ფეიტისტა"}
+{"id":264159004,"city_id":3430637,"language_key":"ka","name":"შეხვდა. საეპისკოპოსო"}
+{"id":264159851,"city_id":3430648,"language_key":"ka","name":"ტაიელა"}
+{"id":264161237,"city_id":3430666,"language_key":"ka","name":"შეფი დოვანი"}
+{"id":264161391,"city_id":3430668,"language_key":"ka","name":"შეფი მაჰანუანე"}
+{"id":264162238,"city_id":3430679,"language_key":"ka","name":"ზ.ბენგო"}
+{"id":264163624,"city_id":3430697,"language_key":"ka","name":"სან ფრანცისკო დე ასისი"}
+{"id":264164471,"city_id":3430708,"language_key":"ka","name":"ჩეფე დაუკა"}
+{"id":264164548,"city_id":3430709,"language_key":"ka","name":"მაიმბულანი"}
+{"id":264168013,"city_id":3430754,"language_key":"ka","name":"კაბო სიტილა"}
+{"id":264168167,"city_id":3430756,"language_key":"ka","name":"კაბო მაჰატე"}
+{"id":264168475,"city_id":3430760,"language_key":"ka","name":"ალფანეტე"}
+{"id":264169630,"city_id":3430775,"language_key":"ka","name":"შეხვდა. ლივრ საია კიჩინე"}
+{"id":264170015,"city_id":3430780,"language_key":"ka","name":"ჩეფე ნაბომბო"}
+{"id":264170169,"city_id":3430782,"language_key":"ka","name":"კაბო ჯეინი"}
+{"id":264171401,"city_id":3430798,"language_key":"ka","name":"კაბო მუჩაჩე"}
+{"id":264172556,"city_id":3430813,"language_key":"ka","name":"კატა. შეხვდა. ზ.გავემენდე"}
+{"id":264172787,"city_id":3430816,"language_key":"ka","name":"ზეფანიასი"}
+{"id":264174250,"city_id":3430835,"language_key":"ka","name":"პიმეუანი"}
+{"id":264174327,"city_id":3430836,"language_key":"ka","name":"მანგუზენე"}
+{"id":264174404,"city_id":3430837,"language_key":"ka","name":"ალიფეუ"}
+{"id":264174481,"city_id":3430838,"language_key":"ka","name":"ზაბელე"}
+{"id":264175020,"city_id":3430845,"language_key":"ka","name":"კაბო გონგანე"}
+{"id":264175944,"city_id":3430857,"language_key":"ka","name":"შეფ ნაზარატი"}
+{"id":264176252,"city_id":3430861,"language_key":"ka","name":"პედრო"}
+{"id":264176329,"city_id":3430862,"language_key":"ka","name":"ჯ. ნაგილუნგუანი"}
+{"id":264176406,"city_id":3430863,"language_key":"ka","name":"ქ.კუმბა"}
+{"id":264176560,"city_id":3430865,"language_key":"ka","name":"კაბო ტომე"}
+{"id":264176637,"city_id":3430866,"language_key":"ka","name":"ევგენიო"}
+{"id":264176791,"city_id":3430868,"language_key":"ka","name":"ფერნანდო"}
+{"id":264177561,"city_id":3430878,"language_key":"ka","name":"კაბო მანგორო"}
+{"id":264177715,"city_id":3430880,"language_key":"ka","name":"მესერი"}
+{"id":264177792,"city_id":3430881,"language_key":"ka","name":"შეფი ლაიტა"}
+{"id":264177869,"city_id":3430882,"language_key":"ka","name":"ლაპიაო"}
+{"id":264179640,"city_id":3430905,"language_key":"ka","name":"ჩიბუკო"}
+{"id":264182335,"city_id":3430940,"language_key":"ka","name":"კაბო რავა"}
+{"id":264182566,"city_id":3430943,"language_key":"ka","name":"მაისენი"}
+{"id":264182797,"city_id":3430946,"language_key":"ka","name":"ინდუნა გოვი"}
+{"id":264183644,"city_id":3430957,"language_key":"ka","name":"ჰორაციო"}
+{"id":264184491,"city_id":3430968,"language_key":"ka","name":null}
+{"id":264185030,"city_id":3430975,"language_key":"ka","name":"კატა. საეპისკოპოსო ბამბელა"}
+{"id":264186031,"city_id":3430988,"language_key":"ka","name":"ჯ.მაზონდა"}
+{"id":264186339,"city_id":3430992,"language_key":"ka","name":"კარლოსი"}
+{"id":264186801,"city_id":3430998,"language_key":"ka","name":"ისაი"}
+{"id":264187263,"city_id":3431004,"language_key":"ka","name":"ჩიტოფო"}
+{"id":264187340,"city_id":3431005,"language_key":"ka","name":"ლუკასი"}
+{"id":264187571,"city_id":3431008,"language_key":"ka","name":"ტენდა"}
+{"id":264188726,"city_id":3431023,"language_key":"ka","name":"ჯემისენი"}
+{"id":264189188,"city_id":3431029,"language_key":"ka","name":"ჟოანისე"}
+{"id":264191344,"city_id":3431057,"language_key":"ka","name":"შეფი მაგულა"}
+{"id":264192037,"city_id":3431066,"language_key":"ka","name":"კატა. მეთოდისტა"}
+{"id":264195964,"city_id":3431117,"language_key":"ka","name":"განაკანა ჩიგომბე"}
+{"id":264196888,"city_id":3431129,"language_key":"ka","name":"პედრო"}
+{"id":264199352,"city_id":3431161,"language_key":"ka","name":"კაბო მუჩიპე"}
+{"id":264201123,"city_id":3431184,"language_key":"ka","name":"დანიელ"}
+{"id":264201431,"city_id":3431188,"language_key":"ka","name":"ნიკვისო"}
+{"id":264201816,"city_id":3431193,"language_key":"ka","name":"სულემანე"}
+{"id":264202278,"city_id":3431199,"language_key":"ka","name":"საბაო"}
+{"id":264202663,"city_id":3431204,"language_key":"ka","name":"ჯოსიანჰარი"}
+{"id":264203741,"city_id":3431218,"language_key":"ka","name":"მავუმე"}
+{"id":264204126,"city_id":3431223,"language_key":"ka","name":"ხოსე"}
+{"id":264205512,"city_id":3431241,"language_key":"ka","name":"მანგუზენე"}
+{"id":264205743,"city_id":3431244,"language_key":"ka","name":"ტრეზენტა"}
+{"id":264205820,"city_id":3431245,"language_key":"ka","name":"ჩიკულუკანი"}
+{"id":264206590,"city_id":3431255,"language_key":"ka","name":"გერემიები"}
+{"id":264206898,"city_id":3431259,"language_key":"ka","name":"კაბო მაიმელა"}
+{"id":264207437,"city_id":3431266,"language_key":"ka","name":"საო მაციმბე"}
+{"id":264207822,"city_id":3431271,"language_key":"ka","name":"კაბო მალატი"}
+{"id":264207899,"city_id":3431272,"language_key":"ka","name":"კაბო ჩეოკულე"}
+{"id":264207976,"city_id":3431273,"language_key":"ka","name":"ჩეფე ლივენგუ"}
+{"id":264211056,"city_id":3431313,"language_key":"ka","name":"სანგუტანი"}
+{"id":264211672,"city_id":3431321,"language_key":"ka","name":"ელ კოლორადო"}
+{"id":264211980,"city_id":3431325,"language_key":"ka","name":"მიტინე"}
+{"id":264213905,"city_id":3431350,"language_key":"ka","name":"მაკასანო"}
+{"id":264214136,"city_id":3431353,"language_key":"ka","name":"მათალუანი"}
+{"id":264214213,"city_id":3431354,"language_key":"ka","name":"ჯინი"}
+{"id":264215137,"city_id":3431366,"language_key":"ka","name":"კაბო მარინჰელა"}
+{"id":264215214,"city_id":3431367,"language_key":"ka","name":"მუსინგაპენი"}
+{"id":264215368,"city_id":3431369,"language_key":"ka","name":"კაბო გუზუზა"}
+{"id":264217062,"city_id":3431391,"language_key":"ka","name":"ალფრედო"}
+{"id":264217216,"city_id":3431393,"language_key":"ka","name":"ხოსე"}
+{"id":264217447,"city_id":3431396,"language_key":"ka","name":"ლიბერანტო"}
+{"id":264218833,"city_id":3431414,"language_key":"ka","name":"უ.ყავა"}
+{"id":264222375,"city_id":3431460,"language_key":"ka","name":"ჩიზაპელა"}
+{"id":264223068,"city_id":3431469,"language_key":"ka","name":"მაკიანა"}
+{"id":264229921,"city_id":3431558,"language_key":"ka","name":"კონანი"}
+{"id":264231692,"city_id":3431581,"language_key":"ka","name":"ტომასი"}
+{"id":264233617,"city_id":3431606,"language_key":"ka","name":"მ.სოპეია"}
+{"id":264233771,"city_id":3431608,"language_key":"ka","name":"შეფი მაკუნე"}
+{"id":264235234,"city_id":3431627,"language_key":"ka","name":"სენგანჰანე"}
+{"id":264235311,"city_id":3431628,"language_key":"ka","name":"მანჯანე"}
+{"id":264236389,"city_id":3431642,"language_key":"ka","name":"სამუელი"}
+{"id":264236620,"city_id":3431645,"language_key":"ka","name":"ალბერტო"}
+{"id":264238160,"city_id":3431665,"language_key":"ka","name":"მუკევიცა"}
+{"id":264242472,"city_id":3431721,"language_key":"ka","name":"მაულუნგი"}
+{"id":264246091,"city_id":3431768,"language_key":"ka","name":"უანგუანა"}
+{"id":264246630,"city_id":3431775,"language_key":"ka","name":"ფადუკო"}
+{"id":264246784,"city_id":3431777,"language_key":"ka","name":"ალბერტო"}
+{"id":264247631,"city_id":3431788,"language_key":"ka","name":"მაჭაჭოვანი"}
+{"id":264251327,"city_id":3431836,"language_key":"ka","name":"ჩიკოა"}
+{"id":264251943,"city_id":3431844,"language_key":"ka","name":"ხოაკიმი"}
+{"id":264253714,"city_id":3431867,"language_key":"ka","name":"შეფი მეპუნგო"}
+{"id":264257025,"city_id":3431910,"language_key":"ka","name":"შამბელენი"}
+{"id":264257487,"city_id":3431916,"language_key":"ka","name":"კარტაქსო"}
+{"id":264259104,"city_id":3431937,"language_key":"ka","name":"ერნესტო"}
+{"id":264259951,"city_id":3431948,"language_key":"ka","name":"სილვენი"}
+{"id":264260028,"city_id":3431949,"language_key":"ka","name":"თონელა"}
+{"id":264260721,"city_id":3431958,"language_key":"ka","name":"საბაო"}
+{"id":264262877,"city_id":3431986,"language_key":"ka","name":"სატანა"}
+{"id":264264956,"city_id":3432013,"language_key":"ka","name":"მუაზივი"}
+{"id":264267266,"city_id":3432043,"language_key":"ka","name":"ჯულიაო"}
+{"id":264270038,"city_id":3432079,"language_key":"ka","name":"სენეტა"}
+{"id":264273349,"city_id":3432122,"language_key":"ka","name":"მაბალანე"}
+{"id":264274350,"city_id":3432135,"language_key":"ka","name":"პანგუენი"}
+{"id":264275043,"city_id":3432144,"language_key":"ka","name":"მუჯაჯე"}
+{"id":264279047,"city_id":3432196,"language_key":"ka","name":"მარობანე"}
+{"id":264287209,"city_id":3432302,"language_key":"ka","name":"ჩისივანე"}
+{"id":264287671,"city_id":3432308,"language_key":"ka","name":"ჯოსია"}
+{"id":264291290,"city_id":3432355,"language_key":"ka","name":"ჭოვანე"}
+{"id":264297758,"city_id":3432439,"language_key":"ka","name":"ბაირო 25 დე ჯუნიო ა"}
+{"id":264297835,"city_id":3432440,"language_key":"ka","name":"ბაირო 25 დე ჯუნიო ბ"}
+{"id":264299606,"city_id":3432463,"language_key":"ka","name":"ციპამანე"}
+{"id":264299837,"city_id":3432466,"language_key":"ka","name":"ალექსანდრე უამუნგუენი"}
+{"id":264300068,"city_id":3432469,"language_key":"ka","name":"მუამულა"}
+{"id":264300222,"city_id":3432471,"language_key":"ka","name":"ჩივამბალანე"}
+{"id":264300376,"city_id":3432473,"language_key":"ka","name":"ჯავეტა"}
+{"id":264300453,"city_id":3432474,"language_key":"ka","name":"მატელა"}
+{"id":264300838,"city_id":3432479,"language_key":"ka","name":"პონტა დ'ოურო"}
+{"id":264301685,"city_id":3432490,"language_key":"ka","name":"მაპაი"}
+{"id":264302686,"city_id":3432503,"language_key":"ka","name":"ნამაპა-ერატი"}
+{"id":264303687,"city_id":3432516,"language_key":"ka","name":"მეტუჩირა"}
+{"id":264304919,"city_id":3432532,"language_key":"ka","name":"მატაკა"}
+{"id":264304996,"city_id":3432533,"language_key":"ka","name":"ბუზი"}
+{"id":264305073,"city_id":3432534,"language_key":"ka","name":"კანიკადო"}
+{"id":264305150,"city_id":3432535,"language_key":"ka","name":"ინსაკა"}
+{"id":264305227,"city_id":3432536,"language_key":"ka","name":"მალემა"}
+{"id":264305304,"city_id":3432537,"language_key":"ka","name":"მესიკა"}
+{"id":264305381,"city_id":3432538,"language_key":"ka","name":"რიბაუე"}
+{"id":264305458,"city_id":3432539,"language_key":"ka","name":"სანგა"}
+{"id":264305535,"city_id":3432540,"language_key":"ka","name":"სილემბენი"}
+{"id":264305612,"city_id":3432541,"language_key":"ka","name":"ქსინავანე"}

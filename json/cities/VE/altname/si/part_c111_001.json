@@ -1,0 +1,885 @@
+{"id":354793496,"city_id":4607708,"language_key":"si","name":"සැන්ටා මරියා"}
+{"id":354793573,"city_id":4607709,"language_key":"si","name":"සැන්ටා ඉග්නේෂියා"}
+{"id":354793727,"city_id":4607711,"language_key":"si","name":"සැන් ෆ්රැන්සිස්කෝ"}
+{"id":354794035,"city_id":4607715,"language_key":"si","name":"පේද්‍රෝ ගොන්සාලෙස්"}
+{"id":354794728,"city_id":4607724,"language_key":"si","name":"ලාස් පියෙඩ් රාස්"}
+{"id":354795267,"city_id":4607731,"language_key":"si","name":"ලා ගාර්ඩියා"}
+{"id":354795498,"city_id":4607734,"language_key":"si","name":"ලා අසුන්සියොන්, නුඑවා එස්පර්ටා"}
+{"id":354796422,"city_id":4607746,"language_key":"si","name":"එල් ගුමාචේ"}
+{"id":354796576,"city_id":4607748,"language_key":"si","name":"එල් හැටෝ"}
+{"id":354798424,"city_id":4607772,"language_key":"si","name":"සැන් ජෝස්"}
+{"id":354799502,"city_id":4607786,"language_key":"si","name":"එල් පල්මාර්"}
+{"id":354800580,"city_id":4607800,"language_key":"si","name":"එල් කොරෝසෝ"}
+{"id":354800965,"city_id":4607805,"language_key":"si","name":"කැරකුවාඕ"}
+{"id":354801504,"city_id":4607812,"language_key":"si","name":"ටෝකොයිටෝ"}
+{"id":354801735,"city_id":4607815,"language_key":"si","name":"සැන් විසෙන්ටේ"}
+{"id":354801812,"city_id":4607816,"language_key":"si","name":"සැන් පැබ්ලෝ"}
+{"id":354802197,"city_id":4607821,"language_key":"si","name":"පෙඩර්නල්ස්"}
+{"id":354804430,"city_id":4607850,"language_key":"si","name":"බුවන විස්ටා"}
+{"id":354804969,"city_id":4607857,"language_key":"si","name":"ලාස් වර්ටියුඩ්ස්"}
+{"id":354806278,"city_id":4607874,"language_key":"si","name":"එල් ටෝරෝ"}
+{"id":354807125,"city_id":4607885,"language_key":"si","name":"සැන්ටෝ ඩොමින්ගෝ"}
+{"id":354807279,"city_id":4607887,"language_key":"si","name":"සැන්ටා රෝසා"}
+{"id":354807741,"city_id":4607893,"language_key":"si","name":"සැන්ටා කෲස්"}
+{"id":354807972,"city_id":4607896,"language_key":"si","name":"සැන් පේද්‍රෝ"}
+{"id":354808357,"city_id":4607901,"language_key":"si","name":"සැන් ජුවාන්"}
+{"id":354808511,"city_id":4607903,"language_key":"si","name":"සැන් ඉසිඩ්රෝ"}
+{"id":354809358,"city_id":4607914,"language_key":"si","name":"එල් රින්කන්"}
+{"id":354811052,"city_id":4607936,"language_key":"si","name":"එල් ප්ලේයොන්"}
+{"id":354811206,"city_id":4607938,"language_key":"si","name":"එල් ප්ලේයොන්"}
+{"id":354811360,"city_id":4607940,"language_key":"si","name":"ලා ප්ලායා"}
+{"id":354812053,"city_id":4607949,"language_key":"si","name":"ලා පේද්‍රෙගෝසා"}
+{"id":354812669,"city_id":4607957,"language_key":"si","name":"ලා පල්මිටා"}
+{"id":354812900,"city_id":4607960,"language_key":"si","name":"එල් පැල්මිටෝ"}
+{"id":354813208,"city_id":4607964,"language_key":"si","name":"ලොස් නාරන්ජෝස්"}
+{"id":354815287,"city_id":4607991,"language_key":"si","name":"ලා මේසා"}
+{"id":354817366,"city_id":4608018,"language_key":"si","name":"ජිම්ීනෙස්"}
+{"id":354817674,"city_id":4608022,"language_key":"si","name":"ජාජෝ"}
+{"id":354818983,"city_id":4608039,"language_key":"si","name":"ලා එන්සෙනඩා"}
+{"id":354821601,"city_id":4608073,"language_key":"si","name":"ලා සීබා"}
+{"id":354822525,"city_id":4608085,"language_key":"si","name":"කැම්පෝ ඇලග්රේ"}
+{"id":354824604,"city_id":4608112,"language_key":"si","name":"එල් ඇල්ටෝ"}
+{"id":354825374,"city_id":4608122,"language_key":"si","name":"ලාස් ඇඩ්ජුන්ටාස්"}
+{"id":354827299,"city_id":4608147,"language_key":"si","name":"සැන්ටා රීටා"}
+{"id":354831380,"city_id":4608200,"language_key":"si","name":"එල් පැරඩෙරෝ"}
+{"id":354831457,"city_id":4608201,"language_key":"si","name":"පැපෙලෝන්"}
+{"id":354835230,"city_id":4608250,"language_key":"si","name":"ටෝබ්රේ"}
+{"id":354838695,"city_id":4608295,"language_key":"si","name":"එල් චපාරෝ"}
+{"id":354840081,"city_id":4608313,"language_key":"si","name":"චාම්පෝ ලින්දෝ"}
+{"id":354840158,"city_id":4608314,"language_key":"si","name":"කැම්පෝ ක්ලාරෝ"}
+{"id":354840466,"city_id":4608318,"language_key":"si","name":"කැම්බුරල්"}
+{"id":354841236,"city_id":4608328,"language_key":"si","name":"අයකුචෝ"}
+{"id":354841467,"city_id":4608331,"language_key":"si","name":"අරගුයිටා"}
+{"id":354841698,"city_id":4608334,"language_key":"si","name":"අනාකෝ"}
+{"id":354842237,"city_id":4608341,"language_key":"si","name":"අගුවා බ්ලැන්කා"}
+{"id":354843392,"city_id":4608356,"language_key":"si","name":"සැන්ටා ක් රස් ද ගුවකාස්"}
+{"id":354844085,"city_id":4608365,"language_key":"si","name":"එල් රියල්"}
+{"id":354844393,"city_id":4608369,"language_key":"si","name":"පුවර්ටෝ විවාස්"}
+{"id":354845471,"city_id":4608383,"language_key":"si","name":"ලා මුලා"}
+{"id":354847011,"city_id":4608403,"language_key":"si","name":"ලොස් ගුවාසිමිටෝස්"}
+{"id":354847396,"city_id":4608408,"language_key":"si","name":"ලා කුචිලා"}
+{"id":354850091,"city_id":4608443,"language_key":"si","name":"සූටා"}
+{"id":354850322,"city_id":4608446,"language_key":"si","name":"සෝනා රිකා"}
+{"id":354850553,"city_id":4608449,"language_key":"si","name":"එඅ"}
+{"id":354851015,"city_id":4608455,"language_key":"si","name":", සරසා"}
+{"id":354851554,"city_id":4608462,"language_key":"si","name":"සැමෝරා"}
+{"id":354852709,"city_id":4608477,"language_key":"si","name":"යුමාරේ"}
+{"id":354853171,"city_id":4608483,"language_key":"si","name":"යෝකෝ"}
+{"id":354853787,"city_id":4608491,"language_key":"si","name":"යරිටගුආ"}
+{"id":354853864,"city_id":4608492,"language_key":"si","name":"යරකල්"}
+{"id":354854326,"city_id":4608498,"language_key":"si","name":"යගුවරපාරෝ"}
+{"id":354854557,"city_id":4608501,"language_key":"si","name":"යගුපා අබජෝ"}
+{"id":354854788,"city_id":4608504,"language_key":"si","name":"යගුවා"}
+{"id":354857483,"city_id":4608539,"language_key":"si","name":"විලර්රොයෙල්"}
+{"id":354857637,"city_id":4608541,"language_key":"si","name":"විලා රෝසා"}
+{"id":354858561,"city_id":4608553,"language_key":"si","name":"විලා ඩි කුරා"}
+{"id":354858792,"city_id":4608556,"language_key":"si","name":"විල්ල රුළුඅල්"}
+{"id":354859331,"city_id":4608563,"language_key":"si","name":"වියෙන්ටෝ ෆ්රෙස්කෝ"}
+{"id":354861410,"city_id":4608590,"language_key":"si","name":"එල් වෙනඩෝ"}
+{"id":354861949,"city_id":4608597,"language_key":"si","name":"වෙගුයිටාස්"}
+{"id":354862103,"city_id":4608599,"language_key":"si","name":"ලස චාසිටස් දෙල් වෙගොන් දේ නුට්‍රිඅස්"}
+{"id":354863335,"city_id":4608615,"language_key":"si","name":"වැලේ ලා ටරස්කා"}
+{"id":354863412,"city_id":4608616,"language_key":"si","name":"වැල්ලේ හොන්දෝ"}
+{"id":354863874,"city_id":4608622,"language_key":"si","name":"වැලේ ඩි ලා පස්කුආ"}
+{"id":354864105,"city_id":4608625,"language_key":"si","name":"වැල්ලේ දේ ගුඅනපේ"}
+{"id":354865337,"city_id":4608641,"language_key":"si","name":"වැලෙරා"}
+{"id":354865491,"city_id":4608643,"language_key":"si","name":"වැලෙන්සියා"}
+{"id":354866569,"city_id":4608657,"language_key":"si","name":"උවෙරිටෝ"}
+{"id":354867955,"city_id":4608675,"language_key":"si","name":"උරුමකෝ"}
+{"id":354869033,"city_id":4608689,"language_key":"si","name":"යූරිකා"}
+{"id":354869341,"city_id":4608693,"language_key":"si","name":"යුරේනා"}
+{"id":354869803,"city_id":4608699,"language_key":"si","name":"උරම"}
+{"id":354870034,"city_id":4608702,"language_key":"si","name":"උරාකෝවා"}
+{"id":354870111,"city_id":4608703,"language_key":"si","name":"උරාචිචේ"}
+{"id":354870419,"city_id":4608707,"language_key":"si","name":"උපාටා"}
+{"id":354870804,"city_id":4608712,"language_key":"si","name":"උමුකේනා"}
+{"id":354872267,"city_id":4608731,"language_key":"si","name":"ටර්මෙරෝ"}
+{"id":354873576,"city_id":4608748,"language_key":"si","name":"ටුනාපුයි"}
+{"id":354873730,"city_id":4608750,"language_key":"si","name":"ටුනාපුයි"}
+{"id":354874038,"city_id":4608754,"language_key":"si","name":"ටුනාම්"}
+{"id":354874115,"city_id":4608755,"language_key":"si","name":"ටුමරෙමෝ"}
+{"id":354874962,"city_id":4608766,"language_key":"si","name":"ටුකුපිටා"}
+{"id":354875578,"city_id":4608774,"language_key":"si","name":"ටුකුපිඩෝ"}
+{"id":354876040,"city_id":4608780,"language_key":"si","name":"ටුකානි"}
+{"id":354876117,"city_id":4608781,"language_key":"si","name":"ටුකාකාස්"}
+{"id":354876502,"city_id":4608786,"language_key":"si","name":"ට්රුජිලෝ"}
+{"id":354878196,"city_id":4608808,"language_key":"si","name":"ට් රෙස් එස්කිනාස්"}
+{"id":354878273,"city_id":4608809,"language_key":"si","name":"ට්‍රෙස් දේ ෆෙබ්රෙරෝ"}
+{"id":354879197,"city_id":4608821,"language_key":"si","name":"ටෝවර්"}
+{"id":354879351,"city_id":4608823,"language_key":"si","name":"ටෝවාර්"}
+{"id":354879967,"city_id":4608831,"language_key":"si","name":"ටොස්ටෝස්"}
+{"id":354880121,"city_id":4608833,"language_key":"si","name":"ටොරුනෝස්"}
+{"id":354880506,"city_id":4608838,"language_key":"si","name":"ටොරොන්ඩෝයි"}
+{"id":354880968,"city_id":4608844,"language_key":"si","name":"ටෝබ්ස්"}
+{"id":354882277,"city_id":4608861,"language_key":"si","name":"ටෝචුයෝ දේ ල චොස්ට"}
+{"id":354882431,"city_id":4608863,"language_key":"si","name":"ටොකුයිටෝ"}
+{"id":354882662,"city_id":4608866,"language_key":"si","name":"ටොකෝරොන්"}
+{"id":354882970,"city_id":4608870,"language_key":"si","name":"ටොකෝපෙරෝ"}
+{"id":354883894,"city_id":4608882,"language_key":"si","name":"ටිනකිලෝ"}
+{"id":354884279,"city_id":4608887,"language_key":"si","name":"ටිනාකෝ"}
+{"id":354884356,"city_id":4608888,"language_key":"si","name":"ටිමෝට්ස්"}
+{"id":354886435,"city_id":4608915,"language_key":"si","name":"ටියා ජුවානා"}
+{"id":354886897,"city_id":4608921,"language_key":"si","name":"ටෙරේසන්"}
+{"id":354887667,"city_id":4608931,"language_key":"si","name":"ටෙම්බ්ලදෝර්"}
+{"id":354889130,"city_id":4608950,"language_key":"si","name":"ටාරිබා"}
+{"id":354891671,"city_id":4608983,"language_key":"si","name":"තමරේ"}
+{"id":354892133,"city_id":4608989,"language_key":"si","name":"ටමාකා"}
+{"id":354892903,"city_id":4608999,"language_key":"si","name":"ටැගුවායා"}
+{"id":354894058,"city_id":4609014,"language_key":"si","name":"ටකාටා"}
+{"id":354894366,"city_id":4609018,"language_key":"si","name":"ටකරිගුවා ද ලා ලාගුනා"}
+{"id":354895367,"city_id":4609031,"language_key":"si","name":"ටබේ"}
+{"id":354897061,"city_id":4609053,"language_key":"si","name":"සුක්රේ"}
+{"id":354897523,"city_id":4609059,"language_key":"si","name":"සොටිලෝ"}
+{"id":354897677,"city_id":4609061,"language_key":"si","name":"සෝසා"}
+{"id":354898986,"city_id":4609078,"language_key":"si","name":"සොලෙදාඩ්"}
+{"id":354899602,"city_id":4609086,"language_key":"si","name":"සොකොපෝ"}
+{"id":354900295,"city_id":4609095,"language_key":"si","name":"ඉකුඉසිකුඑ"}
+{"id":354900834,"city_id":4609102,"language_key":"si","name":"සිනමිචා"}
+{"id":354901912,"city_id":4609116,"language_key":"si","name":"සිබරගුවාව"}
+{"id":354902913,"city_id":4609129,"language_key":"si","name":"සෙබොරුකෝ"}
+{"id":354904453,"city_id":4609149,"language_key":"si","name":"සරරේ"}
+{"id":354904530,"city_id":4609150,"language_key":"si","name":"සරරේ"}
+{"id":354905531,"city_id":4609163,"language_key":"si","name":"සැන් විසෙන්ටේ"}
+{"id":354907379,"city_id":4609187,"language_key":"si","name":"සැන්ටෝ ඩොමින්ගෝ"}
+{"id":354907995,"city_id":4609195,"language_key":"si","name":"සැන් ටිමෝටෝ"}
+{"id":354908226,"city_id":4609198,"language_key":"si","name":"සැන්ටා තෙරේසා ඩෙල් ටූයි"}
+{"id":354909381,"city_id":4609213,"language_key":"si","name":"සැන්ටා රොසාලියා"}
+{"id":354913462,"city_id":4609266,"language_key":"si","name":"සැන්ටා රෝසා"}
+{"id":354914309,"city_id":4609277,"language_key":"si","name":"මොරිචලිටෝ"}
+{"id":354914848,"city_id":4609284,"language_key":"si","name":"සැන්ටා රීටා"}
+{"id":354918082,"city_id":4609326,"language_key":"si","name":"සැන්ටා මාරියා ද අයිපියර්"}
+{"id":354918313,"city_id":4609329,"language_key":"si","name":"සැන්ටා මාරියා ද කපරෝ"}
+{"id":354920469,"city_id":4609357,"language_key":"si","name":"සැන්ටා ලුසියා"}
+{"id":354920854,"city_id":4609362,"language_key":"si","name":"සැන්ටා ලුසියා"}
+{"id":354921470,"city_id":4609370,"language_key":"si","name":"සැන්ටා ලුසියා"}
+{"id":354922779,"city_id":4609387,"language_key":"si","name":"සැන්ටා ඉසබෙල්"}
+{"id":354922856,"city_id":4609388,"language_key":"si","name":"සැන්ටා ඉසබෙල්"}
+{"id":354924473,"city_id":4609409,"language_key":"si","name":"සැන්ටා ඉග්නේෂියා"}
+{"id":354925705,"city_id":4609425,"language_key":"si","name":"සැන්ටා එලේනා ඩි යුඉයිරෙන්"}
+{"id":354925859,"city_id":4609427,"language_key":"si","name":"සැන්ටා එලේනා ද අරෙනාලෙස්"}
+{"id":354927245,"city_id":4609445,"language_key":"si","name":"සැන්ටා කෲස් ඩෙල් සුලියා"}
+{"id":354927399,"city_id":4609447,"language_key":"si","name":"සැන්ටා කෲස් ද මාරා"}
+{"id":354927476,"city_id":4609448,"language_key":"si","name":"සැන්ටා කෲස් ඩෙල් සුලියා"}
+{"id":354927630,"city_id":4609450,"language_key":"si","name":"සැන්ටා ක් රස් ද බුකාරල්"}
+{"id":354929016,"city_id":4609468,"language_key":"si","name":"සැන්ටා කෲස්"}
+{"id":354931634,"city_id":4609502,"language_key":"si","name":"සැන්ටා කැටලිනා"}
+{"id":354933020,"city_id":4609520,"language_key":"si","name":"සැන්ටා බාබරා"}
+{"id":354933790,"city_id":4609530,"language_key":"si","name":"සැන්ටා බාබරා"}
+{"id":354934791,"city_id":4609543,"language_key":"si","name":"සැන්ටා ඇපලෝනියා"}
+{"id":354934868,"city_id":4609544,"language_key":"si","name":"සැන්ටා ඇපලෝනියා"}
+{"id":354935407,"city_id":4609551,"language_key":"si","name":"සැන්ටා ඇනා, නුඑවා එස්පර්ටා"}
+{"id":354936639,"city_id":4609567,"language_key":"si","name":"සැන්ටා ඇනා"}
+{"id":354936793,"city_id":4609569,"language_key":"si","name":"සැන්ටා ඇනා"}
+{"id":354937024,"city_id":4609572,"language_key":"si","name":"සැන්ටා ඇනා"}
+{"id":354937794,"city_id":4609582,"language_key":"si","name":"සැන් සයිමන්"}
+{"id":354937871,"city_id":4609583,"language_key":"si","name":"සැන් සිල්වෙස්ටර්"}
+{"id":354937948,"city_id":4609584,"language_key":"si","name":"සැන් සෙබස්තියන්"}
+{"id":354939796,"city_id":4609608,"language_key":"si","name":"සැන් රෆායෙල් ද ඔරිටුකෝ"}
+{"id":354939873,"city_id":4609609,"language_key":"si","name":"සැන් රෆායෙල් ඩි ඔනොටෝ"}
+{"id":354940104,"city_id":4609612,"language_key":"si","name":"කාර්වාජල්"}
+{"id":354940258,"city_id":4609614,"language_key":"si","name":"සැන් රෆායෙල් ද කැනගුවා"}
+{"id":354940874,"city_id":4609622,"language_key":"si","name":"සැන් රෆායෙල්"}
+{"id":354945263,"city_id":4609679,"language_key":"si","name":"සන් පෙද්රෝ දේ චොචේ"}
+{"id":354949344,"city_id":4609732,"language_key":"si","name":"සැන් පැබ්ලෝ"}
+{"id":354950961,"city_id":4609753,"language_key":"si","name":"සැන් නිකොලස්"}
+{"id":354952578,"city_id":4609774,"language_key":"si","name":"සැන් මිගෙල්"}
+{"id":354953733,"city_id":4609789,"language_key":"si","name":"සැන් මිගෙල්"}
+{"id":354954426,"city_id":4609798,"language_key":"si","name":"සැන් මාටියෝ"}
+{"id":354954503,"city_id":4609799,"language_key":"si","name":"සැන් මාටියෝ"}
+{"id":354955658,"city_id":4609814,"language_key":"si","name":"සැන් ලුයිස්"}
+{"id":354957198,"city_id":4609834,"language_key":"si","name":"සැන් ලොරෙන්සෝ"}
+{"id":354958661,"city_id":4609853,"language_key":"si","name":"සන් ජුං දේ මනපිඅරේ"}
+{"id":354958738,"city_id":4609854,"language_key":"si","name":"සැන් ජුවාන් ඩි ලොස් මොරොස්, වෙනිසියුලාව"}
+{"id":354958815,"city_id":4609855,"language_key":"si","name":"සැන් ජුවාන් ද ලොස් කයෝස්"}
+{"id":354959123,"city_id":4609859,"language_key":"si","name":"කොලන්"}
+{"id":354959508,"city_id":4609864,"language_key":"si","name":"සැන් ජුවාන් බවුටිස්ටා"}
+{"id":354961664,"city_id":4609892,"language_key":"si","name":"සැන් ජුවාන්"}
+{"id":354962203,"city_id":4609899,"language_key":"si","name":"සැන් ජෝස් ද ටිස්නාඩෝස්"}
+{"id":354962357,"city_id":4609901,"language_key":"si","name":"සන් ජොසේ දේ බර්ලොවෙන්ටෝ"}
+{"id":354963281,"city_id":4609913,"language_key":"si","name":"සන් ජොසේ දේ ගුඅනිප"}
+{"id":354963743,"city_id":4609919,"language_key":"si","name":"සැන් ජෝස් ද ඒරොකුවර්"}
+{"id":354968055,"city_id":4609975,"language_key":"si","name":"සැන් ජෝස්"}
+{"id":354969056,"city_id":4609988,"language_key":"si","name":"සැන් ජෝකින්"}
+{"id":354971674,"city_id":4610022,"language_key":"si","name":"සැන් ඉසිඩ්රෝ"}
+{"id":354971982,"city_id":4610026,"language_key":"si","name":"සැන් ඉග්නාසියෝ"}
+{"id":354973291,"city_id":4610043,"language_key":"si","name":"සැන් ෆ්රැන්සිස්කෝ ද යාරේ"}
+{"id":354973753,"city_id":4610049,"language_key":"si","name":"සැන් ෆ්රැන්සිස්කෝ ද අසිස්"}
+{"id":354974292,"city_id":4610056,"language_key":"si","name":"සැන් ෆ්රැන්සිස්කෝ"}
+{"id":354975447,"city_id":4610071,"language_key":"si","name":"සැන් ෆ්ර්නාන්ඩෝ ඩි අටබපෝ"}
+{"id":354975524,"city_id":4610072,"language_key":"si","name":"සැන් ප්‍රනාන්දු"}
+{"id":354975755,"city_id":4610075,"language_key":"si","name":"සැන් ෆීලික්ස්"}
+{"id":354975909,"city_id":4610077,"language_key":"si","name":"සැන් ෆීලික්ස්"}
+{"id":354976371,"city_id":4610083,"language_key":"si","name":"සැන් ෆිලිපේ"}
+{"id":354978219,"city_id":4610107,"language_key":"si","name":"සැන් ඩියාගෝ ද කබ් රූටිකා"}
+{"id":354978296,"city_id":4610108,"language_key":"si","name":"සැන් ඩියාගෝ"}
+{"id":354978450,"city_id":4610110,"language_key":"si","name":"සැන් ඩියාගෝ"}
+{"id":354979143,"city_id":4610119,"language_key":"si","name":"සැන් ක්‍රිස්ටෝබල්"}
+{"id":354979682,"city_id":4610126,"language_key":"si","name":"සැන් කැසිමිරෝ"}
+{"id":354979759,"city_id":4610127,"language_key":"si","name":"සැන් කාලෝස් ද රියෝ නෙග් රෝ"}
+{"id":354979836,"city_id":4610128,"language_key":"si","name":"සැන් කාලෝස් ඩෙල් සුලියා"}
+{"id":354980452,"city_id":4610136,"language_key":"si","name":"සැන් කාර්ලොස්"}
+{"id":354982146,"city_id":4610158,"language_key":"si","name":"සනාරේ"}
+{"id":354982454,"city_id":4610162,"language_key":"si","name":"සැන් ඇන්ටෝනියෝ ඩෙල් ටචිරා"}
+{"id":354982531,"city_id":4610163,"language_key":"si","name":"සැන් ඇන්ටෝනියෝ ද ලොස් ඇල්ටෝස්"}
+{"id":354982608,"city_id":4610164,"language_key":"si","name":"සැන් ඇන්ටෝනියෝ ඩෙල් ගොල්ෆෝ"}
+{"id":354983070,"city_id":4610170,"language_key":"si","name":"කැපායා"}
+{"id":354984764,"city_id":4610192,"language_key":"si","name":"සැන් ඇන්ටෝනියෝ"}
+{"id":354987690,"city_id":4610230,"language_key":"si","name":"සැන් ඇන්ටෝනියෝ"}
+{"id":354988768,"city_id":4610244,"language_key":"si","name":"සැන් ඇගස්ටින්"}
+{"id":354990231,"city_id":4610263,"language_key":"si","name":"සලෝම්"}
+{"id":354994774,"city_id":4610322,"language_key":"si","name":"සබනෙටා"}
+{"id":354995698,"city_id":4610334,"language_key":"si","name":"සබානා ලිබ්රේ"}
+{"id":354997161,"city_id":4610353,"language_key":"si","name":"සබානා ග්රෑන්ඩ්"}
+{"id":354997700,"city_id":4610360,"language_key":"si","name":"සබානා ග්රෑන්ඩ්"}
+{"id":354997931,"city_id":4610363,"language_key":"si","name":"සබානා ග්රෑන්ඩ්"}
+{"id":354998239,"city_id":4610367,"language_key":"si","name":"සබානා ද උචිරේ"}
+{"id":354998624,"city_id":4610372,"language_key":"si","name":"සබානා ද පාර්රා"}
+{"id":354998778,"city_id":4610374,"language_key":"si","name":"සබානා ද මෙන්ඩෝසා"}
+{"id":355000164,"city_id":4610392,"language_key":"si","name":"රුබියෝ"}
+{"id":355000395,"city_id":4610395,"language_key":"si","name":"ලා විලා ඩෙල් රොසාරියෝ"}
+{"id":355000703,"city_id":4610399,"language_key":"si","name":"එල් රොසාරියෝ"}
+{"id":355001627,"city_id":4610411,"language_key":"si","name":"රොජාස්"}
+{"id":355004091,"city_id":4610443,"language_key":"si","name":"රියෝ ටොකුයෝ"}
+{"id":355004168,"city_id":4610444,"language_key":"si","name":"රියෝ සෙකෝ"}
+{"id":355004630,"city_id":4610450,"language_key":"si","name":"රියෝ නෙග්‍රෝ"}
+{"id":355005554,"city_id":4610462,"language_key":"si","name":"රියෝ ක්ලාරෝ"}
+{"id":355006247,"city_id":4610471,"language_key":"si","name":"රියෝ චිකෝ"}
+{"id":355006401,"city_id":4610473,"language_key":"si","name":"රියෝ කැසානේ"}
+{"id":355006478,"city_id":4610474,"language_key":"si","name":"රියෝ කැරිබේ"}
+{"id":355007094,"city_id":4610482,"language_key":"si","name":"රියෝ ඇකරිගුවා"}
+{"id":355010328,"city_id":4610524,"language_key":"si","name":"රෙමොලිනෝස්"}
+{"id":355011483,"city_id":4610539,"language_key":"si","name":"රන්ගේල්"}
+{"id":355015410,"city_id":4610590,"language_key":"si","name":"කුරිකියර්"}
+{"id":355015564,"city_id":4610592,"language_key":"si","name":"කුරිකියර්"}
+{"id":355016873,"city_id":4610609,"language_key":"si","name":"කුයිබෝර්"}
+{"id":355018105,"city_id":4610625,"language_key":"si","name":"උඑනිකුඑඅ"}
+{"id":355018721,"city_id":4610633,"language_key":"si","name":"රියෝ පීඩ්රාස්"}
+{"id":355019337,"city_id":4610641,"language_key":"si","name":"රියෝ පීඩ්රාස්"}
+{"id":355019491,"city_id":4610643,"language_key":"si","name":"සැන් ෆ්රැන්සිස්කෝ ඩෙල් ගුරි"}
+{"id":355021493,"city_id":4610669,"language_key":"si","name":"ක්වෙබ් රාඩා ද ලා වර්ජන්"}
+{"id":355021878,"city_id":4610674,"language_key":"si","name":"ක්වෙබ් රාඩා අරිබා"}
+{"id":355023418,"city_id":4610694,"language_key":"si","name":"පුන්ටෝ ෆිජෝ"}
+{"id":355024034,"city_id":4610702,"language_key":"si","name":"පුන්ටා ගෝර්ඩා"}
+{"id":355024496,"city_id":4610708,"language_key":"si","name":"පන්ටා ද පියෙඩ් රාස්"}
+{"id":355024573,"city_id":4610709,"language_key":"si","name":"පුන්ට දේ පිඑද්‍ර"}
+{"id":355024727,"city_id":4610711,"language_key":"si","name":"පුන්ට දේ පිඑද්‍ර"}
+{"id":355024881,"city_id":4610713,"language_key":"si","name":"පුන්ටා ද මාතා"}
+{"id":355025420,"city_id":4610720,"language_key":"si","name":"පුන්ටා කාර්ඩන්"}
+{"id":355025882,"city_id":4610726,"language_key":"si","name":"පුන්සර්ස්"}
+{"id":355026267,"city_id":4610731,"language_key":"si","name":"පුවර්ටෝ සැන්ටෝ"}
+{"id":355026421,"city_id":4610733,"language_key":"si","name":"පුවර්ටෝ සැන්ටෝ"}
+{"id":355027037,"city_id":4610741,"language_key":"si","name":"පුවර්ටෝ කයිමිටෝ"}
+{"id":355027114,"city_id":4610742,"language_key":"si","name":"පුවර්ටෝ පේස්"}
+{"id":355027191,"city_id":4610743,"language_key":"si","name":"පුවර්ටෝ මිරැන්ඩා"}
+{"id":355027422,"city_id":4610746,"language_key":"si","name":"පුවර්ටෝ මිරැන්ඩා"}
+{"id":355027576,"city_id":4610748,"language_key":"si","name":"පුවර්ටෝ මිරැන්ඩා"}
+{"id":355028346,"city_id":4610758,"language_key":"si","name":"පෝර්ටෝ ලා කෘස්"}
+{"id":355029116,"city_id":4610768,"language_key":"si","name":"පුවර්ටෝ එස්කොන්ඩිඩෝ"}
+{"id":355029578,"city_id":4610774,"language_key":"si","name":"පුවර්ටෝ ද නූට් රියාස්"}
+{"id":355029732,"city_id":4610776,"language_key":"si","name":"පුවර්ටෝ ද හියර්රෝ"}
+{"id":355029809,"city_id":4610777,"language_key":"si","name":"පුවර්ටෝ කුමාර්බෝ"}
+{"id":355030271,"city_id":4610783,"language_key":"si","name":"පුවර්ටෝ කබෙලෝ"}
+{"id":355030579,"city_id":4610787,"language_key":"si","name":"පුවර්ටෝ අයකුචෝ, වෙනිසියුලාව"}
+{"id":355033813,"city_id":4610829,"language_key":"si","name":"පුවෙලෝ නුවෙවෝ"}
+{"id":355035507,"city_id":4610851,"language_key":"si","name":"පුවෙබ්ලෝ නුවෙවෝ එල් චිවෝ"}
+{"id":355036046,"city_id":4610858,"language_key":"si","name":"පුවෙබ්ලෝ ලියානෝ"}
+{"id":355037740,"city_id":4610880,"language_key":"si","name":"ප්‍රෙගොනෙරෝ"}
+{"id":355037817,"city_id":4610881,"language_key":"si","name":"එල් රොසාරියෝ"}
+{"id":355039049,"city_id":4610897,"language_key":"si","name":"පොට්රෙරිටෝස්"}
+{"id":355041205,"city_id":4610925,"language_key":"si","name":"පොලමාර්"}
+{"id":355045517,"city_id":4610981,"language_key":"si","name":"පිරිතු"}
+{"id":355045594,"city_id":4610982,"language_key":"si","name":"පිරිතු"}
+{"id":355045748,"city_id":4610984,"language_key":"si","name":"පිරිතු"}
+{"id":355048366,"city_id":4611018,"language_key":"si","name":"පිම්පිනල"}
+{"id":355053217,"city_id":4611081,"language_key":"si","name":"පෙටරේ"}
+{"id":355054603,"city_id":4611099,"language_key":"si","name":"පෙරිබෙකා"}
+{"id":355055835,"city_id":4611115,"language_key":"si","name":"පෙලිකනෝස්"}
+{"id":355057606,"city_id":4611138,"language_key":"si","name":"පෙඩ්රෙගල්"}
+{"id":355058068,"city_id":4611144,"language_key":"si","name":"පෙඩ්රාසා ලා වීජා"}
+{"id":355058299,"city_id":4611147,"language_key":"si","name":"පෙඩර්නල්ස්"}
+{"id":355058761,"city_id":4611153,"language_key":"si","name":"පයාර"}
+{"id":355065614,"city_id":4611242,"language_key":"si","name":"පරියාගුවන්"}
+{"id":355066923,"city_id":4611259,"language_key":"si","name":"පරපර"}
+{"id":355067924,"city_id":4611272,"language_key":"si","name":"පැරයිසෝ ද චබාස්කන්"}
+{"id":355068694,"city_id":4611282,"language_key":"si","name":"ලා ප්ලාසා පැරගුවාචි"}
+{"id":355068848,"city_id":4611284,"language_key":"si","name":"පැරගුවායිපෝවා"}
+{"id":355069464,"city_id":4611292,"language_key":"si","name":"පැරකෝටෝස්"}
+{"id":355070157,"city_id":4611301,"language_key":"si","name":"පැපෙලෝන්"}
+{"id":355071697,"city_id":4611321,"language_key":"si","name":"පැනකියර්"}
+{"id":355072159,"city_id":4611327,"language_key":"si","name":"පම්පටාර්, නුඑවා එස්පර්ටා"}
+{"id":355072236,"city_id":4611328,"language_key":"si","name":"පම්පනිටෝ"}
+{"id":355072313,"city_id":4611329,"language_key":"si","name":"පම්පන්"}
+{"id":355072775,"city_id":4611335,"language_key":"si","name":"පලෝටල්"}
+{"id":355074161,"city_id":4611353,"language_key":"si","name":"පාලෝ නීග්‍රෝ"}
+{"id":355074854,"city_id":4611362,"language_key":"si","name":"පාලෝ ගෝර්ඩෝ"}
+{"id":355076471,"city_id":4611383,"language_key":"si","name":"පල්මිරා"}
+{"id":355077395,"city_id":4611395,"language_key":"si","name":"පල්මසෝලා"}
+{"id":355084864,"city_id":4611492,"language_key":"si","name":"ඔස්පිනෝ"}
+{"id":355086096,"city_id":4611508,"language_key":"si","name":"ඔර්ටිස්"}
+{"id":355086404,"city_id":4611512,"language_key":"si","name":"ඔරොප්"}
+{"id":355087636,"city_id":4611528,"language_key":"si","name":"ඔනෝටෝ"}
+{"id":355087867,"city_id":4611531,"language_key":"si","name":"ඔනෝටෝ"}
+{"id":355091871,"city_id":4611583,"language_key":"si","name":"ඔකුමරේ ඩෙල් ටුයි"}
+{"id":355091948,"city_id":4611584,"language_key":"si","name":"ඔකුමාරේ ද ලා කොස්ටා"}
+{"id":355092487,"city_id":4611591,"language_key":"si","name":"ඔබිස්පෝස්"}
+{"id":355093488,"city_id":4611604,"language_key":"si","name":"නුවා බොලිවියාව"}
+{"id":355094258,"city_id":4611614,"language_key":"si","name":"නිර්ගුවා"}
+{"id":355095105,"city_id":4611625,"language_key":"si","name":"නරික්වාල්"}
+{"id":355095567,"city_id":4611631,"language_key":"si","name":"නයිගුවාටා"}
+{"id":355095644,"city_id":4611632,"language_key":"si","name":"නගුවානාගුවා"}
+{"id":355096645,"city_id":4611645,"language_key":"si","name":"මුනොස්"}
+{"id":355097492,"city_id":4611656,"language_key":"si","name":"මුලතාල්"}
+{"id":355098108,"city_id":4611664,"language_key":"si","name":"මුකුරුබා"}
+{"id":355098955,"city_id":4611675,"language_key":"si","name":"මුකුම්පිස්"}
+{"id":355099109,"city_id":4611677,"language_key":"si","name":"මුකුජෙපේ"}
+{"id":355099186,"city_id":4611678,"language_key":"si","name":"මුකුචි"}
+{"id":355100187,"city_id":4611691,"language_key":"si","name":"මොටාටන් ඩෙල් රියෝ"}
+{"id":355100341,"city_id":4611693,"language_key":"si","name":"මොටාටන්"}
+{"id":355100572,"city_id":4611696,"language_key":"si","name":"මුස්ලිම් පල්ලිය"}
+{"id":355102420,"city_id":4611720,"language_key":"si","name":"මොරොන්"}
+{"id":355104114,"city_id":4611742,"language_key":"si","name":"මොරිචල් ලාර්ගෝ"}
+{"id":355108349,"city_id":4611797,"language_key":"si","name":"මොන්ටේ කාර්මෙලෝ"}
+{"id":355109273,"city_id":4611809,"language_key":"si","name":"මොන්ටල්බන්"}
+{"id":355109581,"city_id":4611813,"language_key":"si","name":"මොනායි"}
+{"id":355111044,"city_id":4611832,"language_key":"si","name":"මොචිමා"}
+{"id":355111506,"city_id":4611838,"language_key":"si","name":"මිටෝන්"}
+{"id":355111968,"city_id":4611844,"language_key":"si","name":"සැන් ෆ් රැන්සිස්කෝ ද ගුවයෝ"}
+{"id":355112430,"city_id":4611850,"language_key":"si","name":"මිරැන්ඩා"}
+{"id":355112584,"city_id":4611852,"language_key":"si","name":"මිරැන්ඩා"}
+{"id":355114894,"city_id":4611882,"language_key":"si","name":"මිචෙලීනා"}
+{"id":355116203,"city_id":4611899,"language_key":"si","name":"මේසා ද කැවාකාස්"}
+{"id":355116742,"city_id":4611906,"language_key":"si","name":"මේරීඩා"}
+{"id":355119591,"city_id":4611943,"language_key":"si","name":"මෙනේ ග්රෑන්ඩ්"}
+{"id":355119668,"city_id":4611944,"language_key":"si","name":"මෙනේ ද මවුරෝවා"}
+{"id":355133220,"city_id":4612120,"language_key":"si","name":"මස්පරිටෝ"}
+{"id":355134067,"city_id":4612131,"language_key":"si","name":"මාරෝවා"}
+{"id":355134298,"city_id":4612134,"language_key":"si","name":"මරිපා"}
+{"id":355134375,"city_id":4612135,"language_key":"si","name":"මරිපා"}
+{"id":355134529,"city_id":4612137,"language_key":"si","name":"මැරින්"}
+{"id":355134837,"city_id":4612141,"language_key":"si","name":"මැරිගිටාර්"}
+{"id":355134991,"city_id":4612143,"language_key":"si","name":"මරියාරා"}
+{"id":355136069,"city_id":4612157,"language_key":"si","name":"මාර්කානෝ"}
+{"id":355136993,"city_id":4612169,"language_key":"si","name":"මරකේ"}
+{"id":355137224,"city_id":4612172,"language_key":"si","name":"මරකයිබෝ"}
+{"id":355137609,"city_id":4612177,"language_key":"si","name":"මාර"}
+{"id":355139072,"city_id":4612196,"language_key":"si","name":"මාපොරල්"}
+{"id":355139149,"city_id":4612197,"language_key":"si","name":"මාපොරල්"}
+{"id":355139380,"city_id":4612200,"language_key":"si","name":"මාපොරල්"}
+{"id":355139534,"city_id":4612202,"language_key":"si","name":"මපරාරි"}
+{"id":355139688,"city_id":4612204,"language_key":"si","name":"මපරාරි"}
+{"id":355140920,"city_id":4612220,"language_key":"si","name":"මන්ටෙකල්"}
+{"id":355142306,"city_id":4612238,"language_key":"si","name":"ෙමනිකිෙයෝ"}
+{"id":355144308,"city_id":4612264,"language_key":"si","name":"මැම්පෝරල්"}
+{"id":355147465,"city_id":4612305,"language_key":"si","name":"මයිකේටියා"}
+{"id":355148235,"city_id":4612315,"language_key":"si","name":"මහොමිතො"}
+{"id":355148928,"city_id":4612324,"language_key":"si","name":"මැග්ඩලේනෝ"}
+{"id":355149929,"city_id":4612337,"language_key":"si","name":"මැකුටෝ"}
+{"id":355151392,"city_id":4612356,"language_key":"si","name":"මචිකියුස්"}
+{"id":355152547,"city_id":4612371,"language_key":"si","name":"මැකාපෝ"}
+{"id":355157475,"city_id":4612435,"language_key":"si","name":"ලොස් ටෙක්ස්, වෙනිසියුලාව"}
+{"id":355157706,"city_id":4612438,"language_key":"si","name":"ලොස් ටැක්ස්"}
+{"id":355159785,"city_id":4612465,"language_key":"si","name":"ලොස් රියෝස්"}
+{"id":355160478,"city_id":4612474,"language_key":"si","name":"ලොස් රස්ට්‍රොජොස්"}
+{"id":355165021,"city_id":4612533,"language_key":"si","name":"ලොස් පිජිගුවාස්"}
+{"id":355170950,"city_id":4612610,"language_key":"si","name":"ලොස් මිලේන්ස්"}
+{"id":355179420,"city_id":4612720,"language_key":"si","name":"ලොස් ගුවායෝස්"}
+{"id":355179805,"city_id":4612725,"language_key":"si","name":"ලොස් ගුවාස්ඩලෝට්ස්"}
+{"id":355182038,"city_id":4612754,"language_key":"si","name":"ලොස් ඩොස් කැමිනෝස්"}
+{"id":355185965,"city_id":4612805,"language_key":"si","name":"ලොස් කොකෝස්"}
+{"id":355187736,"city_id":4612828,"language_key":"si","name":"ලොස් චිගුයර්ස්"}
+{"id":355190354,"city_id":4612862,"language_key":"si","name":"ලොස් කාර්පින්ටෙරෝස්"}
+{"id":355196437,"city_id":4612941,"language_key":"si","name":"ලොස් බැරන්කොස් ද ෆජාර්ඩෝ"}
+{"id":355197515,"city_id":4612955,"language_key":"si","name":"ලොස් බැග්රේස්"}
+{"id":355198362,"city_id":4612966,"language_key":"si","name":"ලොස් ඇරැක්ස්"}
+{"id":355199517,"city_id":4612981,"language_key":"si","name":"ලොස් ඇල්ටෝස්"}
+{"id":355199748,"city_id":4612984,"language_key":"si","name":"ලොස් ඇල්ටෝස්"}
+{"id":355204291,"city_id":4613043,"language_key":"si","name":"ලෝබටේරා"}
+{"id":355206216,"city_id":4613068,"language_key":"si","name":"ලිමොනාර් ඇඩෙන්ට්‍රෝ"}
+{"id":355206678,"city_id":4613074,"language_key":"si","name":"ලිබර්ටාඩ්"}
+{"id":355206755,"city_id":4613075,"language_key":"si","name":"ලිබර්ටාඩ්"}
+{"id":355206832,"city_id":4613076,"language_key":"si","name":"කැනගුවා"}
+{"id":355206909,"city_id":4613077,"language_key":"si","name":"කැපචෝ වීජෝ"}
+{"id":355206986,"city_id":4613078,"language_key":"si","name":"ලෙසාමා"}
+{"id":355208603,"city_id":4613099,"language_key":"si","name":"ලා යුකා"}
+{"id":355212684,"city_id":4613152,"language_key":"si","name":"ලා වික්ටෝරියා"}
+{"id":355213839,"city_id":4613167,"language_key":"si","name":"ලා වික්ටෝරියා"}
+{"id":355215148,"city_id":4613184,"language_key":"si","name":"ලා වේලා ද කොරෝ"}
+{"id":355215533,"city_id":4613189,"language_key":"si","name":"වෙගුයිටාස්"}
+{"id":355219922,"city_id":4613246,"language_key":"si","name":"ලා සංගමය"}
+{"id":355220846,"city_id":4613258,"language_key":"si","name":"ලා ට්‍රිනිඩෑඩ්"}
+{"id":355223156,"city_id":4613288,"language_key":"si","name":"ලා ට්‍රිල්ලා"}
+{"id":355223464,"city_id":4613292,"language_key":"si","name":"ලා ටොස්කානා"}
+{"id":355228931,"city_id":4613363,"language_key":"si","name":"ලාස් වේගාස්"}
+{"id":355229932,"city_id":4613376,"language_key":"si","name":"ලාස් ටූනාස්"}
+{"id":355232088,"city_id":4613404,"language_key":"si","name":"ලාස් ටෙජෙරියාස්"}
+{"id":355239557,"city_id":4613501,"language_key":"si","name":"ලාස් පියෙඩ් රාස්"}
+{"id":355241251,"city_id":4613523,"language_key":"si","name":"ලාස් පාර්සෙලස්"}
+{"id":355244100,"city_id":4613560,"language_key":"si","name":"ඔලාස් ද කැරමාකේට්"}
+{"id":355249336,"city_id":4613628,"language_key":"si","name":"ලාස් මෙසාස්"}
+{"id":355249567,"city_id":4613631,"language_key":"si","name":"ලාස් මර්සිඩීස්"}
+{"id":355250568,"city_id":4613644,"language_key":"si","name":"ලාස් මර්සිඩීස්"}
+{"id":355258653,"city_id":4613749,"language_key":"si","name":"ලා සියරිටා"}
+{"id":355261348,"city_id":4613784,"language_key":"si","name":"කර්නල් ඇඩල්බර්ටෝ තේජෙඩා (ලා රිෆෝමා)"}
+{"id":355265506,"city_id":4613838,"language_key":"si","name":"ලාස් එලිසාස්"}
+{"id":355267431,"city_id":4613863,"language_key":"si","name":"ලාස් ඩෙලිසියාස්"}
+{"id":355267816,"city_id":4613868,"language_key":"si","name":"ලාස් ඩෙලිසියාස්"}
+{"id":355269279,"city_id":4613887,"language_key":"si","name":"ලාස් කෲස්"}
+{"id":355275362,"city_id":4613966,"language_key":"si","name":"ලාස් කැල්ඩෙරාස්"}
+{"id":355282446,"city_id":4614058,"language_key":"si","name":"ලා සබානා"}
+{"id":355284756,"city_id":4614088,"language_key":"si","name":"ලා රොකේනා"}
+{"id":355288452,"city_id":4614136,"language_key":"si","name":"ලා රිෆෝමා"}
+{"id":355291686,"city_id":4614178,"language_key":"si","name":"ලා ක්වෙබ්රාඩා"}
+{"id":355291917,"city_id":4614181,"language_key":"si","name":"ලා ක්වෙබ්රාඩා"}
+{"id":355294458,"city_id":4614214,"language_key":"si","name":"ලා ප් රොවිඩෙන්සියා"}
+{"id":355297615,"city_id":4614255,"language_key":"si","name":"ලා ප්ලාටා"}
+{"id":355300156,"city_id":4614288,"language_key":"si","name":"ලා පිකා"}
+{"id":355303467,"city_id":4614331,"language_key":"si","name":"ලා පාස්"}
+{"id":355304083,"city_id":4614339,"language_key":"si","name":"ලා පැස්ටෝරා"}
+{"id":355305546,"city_id":4614358,"language_key":"si","name":"ලා පැරගුවා"}
+{"id":355306162,"city_id":4614366,"language_key":"si","name":"ලා පම්පා ද අරගුවා"}
+{"id":355306470,"city_id":4614370,"language_key":"si","name":"ලා පාලෝමා"}
+{"id":355313015,"city_id":4614455,"language_key":"si","name":"ලෑන්ඩර්"}
+{"id":355317327,"city_id":4614511,"language_key":"si","name":"ලා මෝචා"}
+{"id":355317789,"city_id":4614517,"language_key":"si","name":"ලා මෙහෙයුම"}
+{"id":355318328,"city_id":4614524,"language_key":"si","name":"ලා මයිල්"}
+{"id":355321177,"city_id":4614561,"language_key":"si","name":"ලා මාතා"}
+{"id":355327029,"city_id":4614637,"language_key":"si","name":"ලා ලුස්"}
+{"id":355332650,"city_id":4614710,"language_key":"si","name":"ලගුනිටා ද කැස්ටිලෝ"}
+{"id":355333420,"city_id":4614720,"language_key":"si","name":"ලා ජූලියානා"}
+{"id":355335576,"city_id":4614748,"language_key":"si","name":"ලා ජරා"}
+{"id":355340966,"city_id":4614818,"language_key":"si","name":"ලගුනෝටා"}
+{"id":355341736,"city_id":4614828,"language_key":"si","name":"ලගුනිලස්"}
+{"id":355341813,"city_id":4614829,"language_key":"si","name":"ලගුනිලස්"}
+{"id":355342891,"city_id":4614843,"language_key":"si","name":"ලගුනා මාකෝස්"}
+{"id":355344739,"city_id":4614867,"language_key":"si","name":"ලා ගුවස්ඩුයිලා"}
+{"id":355346125,"city_id":4614885,"language_key":"si","name":"ලා ගුයිරා, වෙනිසියුලාව"}
+{"id":355351130,"city_id":4614950,"language_key":"si","name":"පදනම"}
+{"id":355362988,"city_id":4615104,"language_key":"si","name":"ලා එස්මරල්ඩා"}
+{"id":355365991,"city_id":4615143,"language_key":"si","name":"ලා ඩොමින්ගා"}
+{"id":355366145,"city_id":4615145,"language_key":"si","name":"ලා ඩයිසිනුවෙව්"}
+{"id":355366607,"city_id":4615151,"language_key":"si","name":"ප්‍රජාතන්ත්‍රවාදය"}
+{"id":355372382,"city_id":4615226,"language_key":"si","name":"ලා කස් ද ටාරටාරා"}
+{"id":355376309,"city_id":4615277,"language_key":"si","name":"වේරානෝස්"}
+{"id":355376540,"city_id":4615280,"language_key":"si","name":"කොන්සෙප්ෂන්"}
+{"id":355380467,"city_id":4615331,"language_key":"si","name":"ලා සීගා"}
+{"id":355382469,"city_id":4615357,"language_key":"si","name":"චමේටා"}
+{"id":355384009,"city_id":4615377,"language_key":"si","name":"ලා සෙජිටා"}
+{"id":355387166,"city_id":4615418,"language_key":"si","name":"ලා සීබා"}
+{"id":355390015,"city_id":4615455,"language_key":"si","name":"කැරමුකා"}
+{"id":355394558,"city_id":4615514,"language_key":"si","name":"ලා කබානා"}
+{"id":355399794,"city_id":4615582,"language_key":"si","name":"ලා බටියා"}
+{"id":355401334,"city_id":4615602,"language_key":"si","name":"ලා අසුලිටා"}
+{"id":355403567,"city_id":4615631,"language_key":"si","name":"ලා අරෙනෝසා"}
+{"id":355405646,"city_id":4615658,"language_key":"si","name":"ලා අගුඩිටා"}
+{"id":355406493,"city_id":4615669,"language_key":"si","name":"ලා අගුවාඩා"}
+{"id":355408649,"city_id":4615697,"language_key":"si","name":"කනවායෙන්"}
+{"id":355408726,"city_id":4615698,"language_key":"si","name":"ජුසෙපින්"}
+{"id":355408880,"city_id":4615700,"language_key":"si","name":"ජුනින්"}
+{"id":355409650,"city_id":4615710,"language_key":"si","name":"ජුඩිබානා"}
+{"id":355410343,"city_id":4615719,"language_key":"si","name":"ජුවාන් ග්‍රීගෝ, නුඑවා එස්පර්ටා"}
+{"id":355414732,"city_id":4615776,"language_key":"si","name":"ජාලිස්කෝ"}
+{"id":355414886,"city_id":4615778,"language_key":"si","name":"ජාජි"}
+{"id":355416272,"city_id":4615796,"language_key":"si","name":"ජැකුරා"}
+{"id":355416888,"city_id":4615804,"language_key":"si","name":"ජබොන්"}
+{"id":355418428,"city_id":4615824,"language_key":"si","name":"ඉස්නෝටු"}
+{"id":355418736,"city_id":4615828,"language_key":"si","name":"ඉරපා"}
+{"id":355419660,"city_id":4615840,"language_key":"si","name":"මොන්ටෙරේ"}
+{"id":355420507,"city_id":4615851,"language_key":"si","name":"හියුමෝ ලුස්"}
+{"id":355420584,"city_id":4615852,"language_key":"si","name":"හියුමොකාරෝ බාජෝ"}
+{"id":355420661,"city_id":4615853,"language_key":"si","name":"හියුමොකාරෝ අල්ටෝ"}
+{"id":355421585,"city_id":4615865,"language_key":"si","name":"හයිගුරෝට්"}
+{"id":355422894,"city_id":4615882,"language_key":"si","name":"හර්නන්ඩස්"}
+{"id":355429901,"city_id":4615973,"language_key":"si","name":"උඑඉරිඅ"}
+{"id":355430055,"city_id":4615975,"language_key":"si","name":"වයික්විනා"}
+{"id":355430363,"city_id":4615979,"language_key":"si","name":"ගුයිගු"}
+{"id":355432519,"city_id":4616007,"language_key":"si","name":"ගුවයාබෝන්ස්"}
+{"id":355432827,"city_id":4616011,"language_key":"si","name":"ගුවයාබල්"}
+{"id":355434444,"city_id":4616032,"language_key":"si","name":"ගුවයාබල්"}
+{"id":355434983,"city_id":4616039,"language_key":"si","name":"ගටයර්"}
+{"id":355436061,"city_id":4616053,"language_key":"si","name":"ගුවසිපාටි"}
+{"id":355439449,"city_id":4616097,"language_key":"si","name":"ගුවාරිකෝ"}
+{"id":355440296,"city_id":4616108,"language_key":"si","name":"ගුආරෙනාස්"}
+{"id":355440912,"city_id":4616116,"language_key":"si","name":"ගුවර්ඩටිනාජාස්"}
+{"id":355440989,"city_id":4616117,"language_key":"si","name":"ගුවරුනෝස්"}
+{"id":355441220,"city_id":4616120,"language_key":"si","name":"ගුවරාටාරෝ"}
+{"id":355441913,"city_id":4616129,"language_key":"si","name":"ගුවරාක්"}
+{"id":355444069,"city_id":4616157,"language_key":"si","name":"ගුවන්ටා"}
+{"id":355445147,"city_id":4616171,"language_key":"si","name":"ගුවානාරිටෝ"}
+{"id":355445301,"city_id":4616173,"language_key":"si","name":"ගනාරේ"}
+{"id":355445455,"city_id":4616175,"language_key":"si","name":"ගුවානපේ"}
+{"id":355448535,"city_id":4616215,"language_key":"si","name":"ගුවාමා"}
+{"id":355448843,"city_id":4616219,"language_key":"si","name":"ගුජිරා"}
+{"id":355450691,"city_id":4616243,"language_key":"si","name":"ග්වාඩරමා"}
+{"id":355452539,"city_id":4616267,"language_key":"si","name":"ගුවාකරා"}
+{"id":355454310,"city_id":4616290,"language_key":"si","name":"ගෝමස්"}
+{"id":355459546,"city_id":4616358,"language_key":"si","name":"ෆ්ලෝර් ද පැට් රියා"}
+{"id":355461240,"city_id":4616380,"language_key":"si","name":"ෆැරියර්"}
+{"id":355462241,"city_id":4616393,"language_key":"si","name":"එස්ටොරැක්"}
+{"id":355464474,"city_id":4616422,"language_key":"si","name":"එස්කුක්"}
+{"id":355465398,"city_id":4616434,"language_key":"si","name":"එන්චොන්ට්‍රදොස්"}
+{"id":355468170,"city_id":4616470,"language_key":"si","name":"එල් යගුවල්"}
+{"id":355469325,"city_id":4616485,"language_key":"si","name":"එල් විජියා"}
+{"id":355471558,"city_id":4616514,"language_key":"si","name":"එල් වැලේ ඩෙල් එස්පිරිටු සැන්ටෝ, නුඑවා එස්පර්ටා"}
+{"id":355471635,"city_id":4616515,"language_key":"si","name":"එල් වැලි"}
+{"id":355473329,"city_id":4616537,"language_key":"si","name":"එල් ට්‍රිඋන්ෆෝ"}
+{"id":355474561,"city_id":4616553,"language_key":"si","name":"එල් ටෝරෝ"}
+{"id":355474792,"city_id":4616556,"language_key":"si","name":"එල් ටෝරෝ"}
+{"id":355476024,"city_id":4616572,"language_key":"si","name":"එල් ටෝකුයෝ"}
+{"id":355478257,"city_id":4616601,"language_key":"si","name":"එල් ටිග්රේ"}
+{"id":355479874,"city_id":4616622,"language_key":"si","name":"එල් ටෙජෙරෝ"}
+{"id":355482569,"city_id":4616657,"language_key":"si","name":"එල් සොම්බ් රෙරෝ"}
+{"id":355482800,"city_id":4616660,"language_key":"si","name":"එල් සොකෝරෝ"}
+{"id":355483493,"city_id":4616669,"language_key":"si","name":"එල් සොකෝරෝ"}
+{"id":355483955,"city_id":4616675,"language_key":"si","name":"එල් සොකෝරෝ"}
+{"id":355484494,"city_id":4616682,"language_key":"si","name":"එල් සිලෙන්සියෝ"}
+{"id":355485187,"city_id":4616691,"language_key":"si","name":"එල් සයිට්"}
+{"id":355486188,"city_id":4616704,"language_key":"si","name":"එල් සමන් ද අපුරේ"}
+{"id":355490808,"city_id":4616764,"language_key":"si","name":"ලොස් රොක්ස්"}
+{"id":355498508,"city_id":4616864,"language_key":"si","name":"එල් රෙගාලෝ"}
+{"id":355498739,"city_id":4616867,"language_key":"si","name":"එල් රෙක්රියෝ"}
+{"id":355501742,"city_id":4616906,"language_key":"si","name":"එල් පුබ්ලිටෝ"}
+{"id":355510443,"city_id":4617019,"language_key":"si","name":"එල් පිනාර්"}
+{"id":355510905,"city_id":4617025,"language_key":"si","name":"සැන් රෆායෙල් ඩෙල් පිනල්"}
+{"id":355511367,"city_id":4617031,"language_key":"si","name":"එල් පිලර්"}
+{"id":355511444,"city_id":4617032,"language_key":"si","name":"එල් පිලර්"}
+{"id":355517604,"city_id":4617112,"language_key":"si","name":"එල් පවුජි"}
+{"id":355518374,"city_id":4617122,"language_key":"si","name":"එල් පැටෝ"}
+{"id":355521531,"city_id":4617163,"language_key":"si","name":"එල් පැරඩෙරෝ"}
+{"id":355522301,"city_id":4617173,"language_key":"si","name":"එල් පාඕ වීජෝ"}
+{"id":355522378,"city_id":4617174,"language_key":"si","name":"එල් පාඕ"}
+{"id":355524380,"city_id":4617200,"language_key":"si","name":"එල් පාමර්"}
+{"id":355526228,"city_id":4617224,"language_key":"si","name":"එල් පල්මාර්"}
+{"id":355528307,"city_id":4617251,"language_key":"si","name":"එලෝර්සා"}
+{"id":355529077,"city_id":4617261,"language_key":"si","name":"එල් නුලා"}
+{"id":355529385,"city_id":4617265,"language_key":"si","name":"එල් නොගල්"}
+{"id":355533235,"city_id":4617315,"language_key":"si","name":"ලෙචෙරියාස්"}
+{"id":355534082,"city_id":4617326,"language_key":"si","name":"එල් මොරලිටෝ"}
+{"id":355535237,"city_id":4617341,"language_key":"si","name":"එල් මොලිනෙට්"}
+{"id":355535622,"city_id":4617346,"language_key":"si","name":"එල් මිලාග්රෝ"}
+{"id":355538471,"city_id":4617383,"language_key":"si","name":"එල් මෙනේ"}
+{"id":355540473,"city_id":4617409,"language_key":"si","name":"එල් මන්සානෝ"}
+{"id":355540550,"city_id":4617410,"language_key":"si","name":"එල් මැන්ටෙකෝ"}
+{"id":355540858,"city_id":4617414,"language_key":"si","name":"එල් මැන්ටෙකෝ"}
+{"id":355547942,"city_id":4617506,"language_key":"si","name":"එල් ලිමොන් පිනාල්"}
+{"id":355550252,"city_id":4617536,"language_key":"si","name":"එල් ලමෙඩෙරෝ"}
+{"id":355557644,"city_id":4617632,"language_key":"si","name":"එල් හැටිලෝ මහ නගර සභාව, වෙනිසියුලාව"}
+{"id":355559030,"city_id":4617650,"language_key":"si","name":"ටෝබ්රේ"}
+{"id":355560108,"city_id":4617664,"language_key":"si","name":"එල් ගුවාට්"}
+{"id":355560416,"city_id":4617668,"language_key":"si","name":"එල් ගුවාසිමෝ"}
+{"id":355562033,"city_id":4617689,"language_key":"si","name":"එල් ගුවාපෝ"}
+{"id":355565652,"city_id":4617736,"language_key":"si","name":"එල් ගුචාරෝ"}
+{"id":355567654,"city_id":4617762,"language_key":"si","name":"එල් ෆුරියල්"}
+{"id":355570580,"city_id":4617800,"language_key":"si","name":"එල් එනියල්"}
+{"id":355571350,"city_id":4617810,"language_key":"si","name":"එල් එන්කැන්ටෝ"}
+{"id":355572813,"city_id":4617829,"language_key":"si","name":"එල් ඩොරාඩෝ"}
+{"id":355573275,"city_id":4617835,"language_key":"si","name":"එල් ඩිවිඩිව්"}
+{"id":355579435,"city_id":4617915,"language_key":"si","name":"එල් කෝරල්"}
+{"id":355580205,"city_id":4617925,"language_key":"si","name":"එල් කොරෝසෝ"}
+{"id":355581360,"city_id":4617940,"language_key":"si","name":"එල් කොරෝසෝ"}
+{"id":355582900,"city_id":4617960,"language_key":"si","name":"එල් කොන්සෙජෝ"}
+{"id":355583054,"city_id":4617962,"language_key":"si","name":"එල් කොන්සෙජෝ"}
+{"id":355585364,"city_id":4617992,"language_key":"si","name":"එල් කෝබ්රේ"}
+{"id":355585441,"city_id":4617993,"language_key":"si","name":"එල් කෝබ්රේ"}
+{"id":355590369,"city_id":4618057,"language_key":"si","name":"එල් සෙරොට්"}
+{"id":355598531,"city_id":4618163,"language_key":"si","name":"එල් කාර්මෙලෝ"}
+{"id":355601611,"city_id":4618203,"language_key":"si","name":"එල් කැන්ටන්"}
+{"id":355601996,"city_id":4618208,"language_key":"si","name":"එල් කැන්ටන්"}
+{"id":355604922,"city_id":4618246,"language_key":"si","name":"එල් කැලෝ"}
+{"id":355606308,"city_id":4618264,"language_key":"si","name":"එල් කැෆේ"}
+{"id":355611698,"city_id":4618334,"language_key":"si","name":"එල් බෝල්"}
+{"id":355618243,"city_id":4618419,"language_key":"si","name":"එල් අම්පරෝ"}
+{"id":355618397,"city_id":4618421,"language_key":"si","name":"එල් අම්පරෝ"}
+{"id":355624326,"city_id":4618498,"language_key":"si","name":"එජිඩෝ, වෙනිසියුලා"}
+{"id":355624942,"city_id":4618506,"language_key":"si","name":"ඩුආකා"}
+{"id":355625019,"city_id":4618507,"language_key":"si","name":"ඩොස් රියෝස්"}
+{"id":355625943,"city_id":4618519,"language_key":"si","name":"ඩොලෝරස්"}
+{"id":355626020,"city_id":4618520,"language_key":"si","name":"ඩොලෝරස්"}
+{"id":355627483,"city_id":4618539,"language_key":"si","name":"ඩබාජුරෝ"}
+{"id":355629254,"city_id":4618562,"language_key":"si","name":"කියුරිප්"}
+{"id":355629639,"city_id":4618567,"language_key":"si","name":"කියුරියාපෝ"}
+{"id":355629947,"city_id":4618571,"language_key":"si","name":"කර්බාටි"}
+{"id":355631795,"city_id":4618595,"language_key":"si","name":"කුපිරා"}
+{"id":355634028,"city_id":4618624,"language_key":"si","name":"කුමනාකෝවා"}
+{"id":355634105,"city_id":4618625,"language_key":"si","name":"ක්යුමනා"}
+{"id":355636877,"city_id":4618661,"language_key":"si","name":"කියුබිරෝ"}
+{"id":355637339,"city_id":4618667,"language_key":"si","name":"ක්වාටෝ එස්කිනාස්"}
+{"id":355637878,"city_id":4618674,"language_key":"si","name":"කුවාරා"}
+{"id":355638340,"city_id":4618680,"language_key":"si","name":"කූආ"}
+{"id":355648273,"city_id":4618809,"language_key":"si","name":"කොරෝ"}
+{"id":355648581,"city_id":4618813,"language_key":"si","name":"චොර්දොබ"}
+{"id":355648658,"city_id":4618814,"language_key":"si","name":"කෝඩෙරෝ"}
+{"id":355650737,"city_id":4618841,"language_key":"si","name":"කොන්ගෝරොචෝ"}
+{"id":355651353,"city_id":4618849,"language_key":"si","name":"කන්සෙප්ෂන් පිනාද"}
+{"id":355651507,"city_id":4618851,"language_key":"si","name":"කොන්සෙප්ෂන්"}
+{"id":355652662,"city_id":4618866,"language_key":"si","name":"කොලොනියා ටෝවාර්"}
+{"id":355652970,"city_id":4618870,"language_key":"si","name":"කොලොන්සිටෝ"}
+{"id":355653432,"city_id":4618876,"language_key":"si","name":"චොලින"}
+{"id":355653740,"city_id":4618880,"language_key":"si","name":"කොජෙඩිස්"}
+{"id":355656589,"city_id":4618917,"language_key":"si","name":"කොකෝරෝට්"}
+{"id":355656897,"city_id":4618921,"language_key":"si","name":"කොකෝ ඩි මොනෝ"}
+{"id":355657667,"city_id":4618931,"language_key":"si","name":"ක්ලැරීන්ස්"}
+{"id":355657744,"city_id":4618932,"language_key":"si","name":"සියුඩාඩ් පියර්"}
+{"id":355657821,"city_id":4618933,"language_key":"si","name":"සියුඩඩ් ඔජෙඩා"}
+{"id":355657898,"city_id":4618934,"language_key":"si","name":"සියුඩඩ් ගයනා"}
+{"id":355657975,"city_id":4618935,"language_key":"si","name":"චිඋදඩ් දේ නුට්‍රිඅස්"}
+{"id":355658052,"city_id":4618936,"language_key":"si","name":"සියුඩාඩ් බොලිවියාව"}
+{"id":355658129,"city_id":4618937,"language_key":"si","name":"සියුඩඩ් බොලිවර්"}
+{"id":355658283,"city_id":4618939,"language_key":"si","name":"සිප්රියානෝ"}
+{"id":355659823,"city_id":4618959,"language_key":"si","name":"චුරුගුවාරා"}
+{"id":355660208,"city_id":4618964,"language_key":"si","name":"චුනායුරේ"}
+{"id":355660439,"city_id":4618967,"language_key":"si","name":"චුවාඕ"}
+{"id":355661286,"city_id":4618978,"language_key":"si","name":"චෝරෝනි"}
+{"id":355662056,"city_id":4618988,"language_key":"si","name":"චිවාකෝවා"}
+{"id":355662749,"city_id":4618997,"language_key":"si","name":"චිර්ගුවා"}
+{"id":355662980,"city_id":4619000,"language_key":"si","name":"චිකින්කිරා"}
+{"id":355663981,"city_id":4619013,"language_key":"si","name":"චිම්බන්"}
+{"id":355664443,"city_id":4619019,"language_key":"si","name":"චිගුවාරා"}
+{"id":355664751,"city_id":4619023,"language_key":"si","name":"චිචිරිවිචේ"}
+{"id":355665136,"city_id":4619028,"language_key":"si","name":"චෙජෙන්ඩේ"}
+{"id":355665598,"city_id":4619034,"language_key":"si","name":"චරලේව්"}
+{"id":355667061,"city_id":4619053,"language_key":"si","name":"චමිසාල්"}
+{"id":355667908,"city_id":4619064,"language_key":"si","name":"චාගුරාමස්"}
+{"id":355668139,"city_id":4619067,"language_key":"si","name":"චගුවාරමාල්"}
+{"id":355668524,"city_id":4619072,"language_key":"si","name":"චකෝපාටා"}
+{"id":355669140,"city_id":4619080,"language_key":"si","name":"චාකාඕ"}
+{"id":355669602,"city_id":4619086,"language_key":"si","name":null}
+{"id":355672374,"city_id":4619122,"language_key":"si","name":"සීපෙඩ්"}
+{"id":355672682,"city_id":4619126,"language_key":"si","name":"ටකරිගුවා"}
+{"id":355673914,"city_id":4619142,"language_key":"si","name":"චෙදෙනෝ"}
+{"id":355675762,"city_id":4619166,"language_key":"si","name":"කොකාගුයිටෝ"}
+{"id":355675839,"city_id":4619167,"language_key":"si","name":"කොකාගුවා"}
+{"id":355676301,"city_id":4619173,"language_key":"si","name":"කැටුවාරෝ"}
+{"id":355676455,"city_id":4619175,"language_key":"si","name":"කැටියා ලා මාර්"}
+{"id":355676686,"city_id":4619178,"language_key":"si","name":"කැටටුම්බෝ"}
+{"id":355679997,"city_id":4619221,"language_key":"si","name":"කැසිගුවා එල් කියුබෝ"}
+{"id":355680613,"city_id":4619229,"language_key":"si","name":"කසානායි"}
+{"id":355681845,"city_id":4619245,"language_key":"si","name":"කැසකොයිමා"}
+{"id":355683770,"city_id":4619270,"language_key":"si","name":"කරුපනෝ"}
+{"id":355686003,"city_id":4619299,"language_key":"si","name":"කැරිසල්"}
+{"id":355687312,"city_id":4619316,"language_key":"si","name":"කැරස්කෙරෝ"}
+{"id":355688005,"city_id":4619325,"language_key":"si","name":"කරෝරා"}
+{"id":355688082,"city_id":4619326,"language_key":"si","name":"කරෝනි"}
+{"id":355688467,"city_id":4619331,"language_key":"si","name":"කාමන් ද කුරා"}
+{"id":355688929,"city_id":4619337,"language_key":"si","name":"කැරිරුබානා"}
+{"id":355689006,"city_id":4619338,"language_key":"si","name":"කරිපිටෝ"}
+{"id":355689083,"city_id":4619339,"language_key":"si","name":"කැරිපේ"}
+{"id":355689853,"city_id":4619349,"language_key":"si","name":"කැරියාකෝ"}
+{"id":355691393,"city_id":4619369,"language_key":"si","name":"කරයාකා"}
+{"id":355694165,"city_id":4619405,"language_key":"si","name":"කැරමකේට්"}
+{"id":355694858,"city_id":4619414,"language_key":"si","name":"කැරචේ"}
+{"id":355695012,"city_id":4619416,"language_key":"si","name":"කැරකස්"}
+{"id":355696090,"city_id":4619430,"language_key":"si","name":"කරබල්ලෙඩා"}
+{"id":355696706,"city_id":4619438,"language_key":"si","name":"චාපිටනේජෝ"}
+{"id":355697476,"city_id":4619448,"language_key":"si","name":"කැනේප් කපටරිඩා"}
+{"id":355697707,"city_id":4619451,"language_key":"si","name":"කපඩරේ"}
+{"id":355698708,"city_id":4619464,"language_key":"si","name":"කැන්ටූරා"}
+{"id":355701711,"city_id":4619503,"language_key":"si","name":"කැනෝ නීග්රෝ"}
+{"id":355706100,"city_id":4619560,"language_key":"si","name":"කැනෝආබෝ"}
+{"id":355707101,"city_id":4619573,"language_key":"si","name":"කැන්ඩලරියා"}
+{"id":355710951,"city_id":4619623,"language_key":"si","name":"කැම්පෝමා"}
+{"id":355711413,"city_id":4619629,"language_key":"si","name":"ගුවයාරාකා කඳවුර"}
+{"id":355711644,"city_id":4619632,"language_key":"si","name":"කැම්පෝ එලියාස්"}
+{"id":355711875,"city_id":4619635,"language_key":"si","name":"කැම්පෝ එලියාස්"}
+{"id":355719575,"city_id":4619735,"language_key":"si","name":"කැමටගුවා"}
+{"id":355719960,"city_id":4619740,"language_key":"si","name":"කැමගුවන්"}
+{"id":355720884,"city_id":4619752,"language_key":"si","name":"කල්දේරාස්"}
+{"id":355721346,"city_id":4619758,"language_key":"si","name":"කැලඩෝ"}
+{"id":355721423,"city_id":4619759,"language_key":"si","name":"කලබෝසෝ"}
+{"id":355722039,"city_id":4619767,"language_key":"si","name":"කැජා සෙකා"}
+{"id":355723502,"city_id":4619786,"language_key":"si","name":"කයිගුවා"}
+{"id":355724118,"city_id":4619794,"language_key":"si","name":"කයිකරා"}
+{"id":355724272,"city_id":4619796,"language_key":"si","name":"කයිකරා ඩෙල් ඔරිනොකෝ"}
+{"id":355724580,"city_id":4619800,"language_key":"si","name":"කගුඩා"}
+{"id":355724657,"city_id":4619801,"language_key":"si","name":"කගුවා"}
+{"id":355725196,"city_id":4619808,"language_key":"si","name":"කැචිපෝ"}
+{"id":355726505,"city_id":4619825,"language_key":"si","name":"බුරේ"}
+{"id":355726582,"city_id":4619826,"language_key":"si","name":"කබුදරේ"}
+{"id":355726659,"city_id":4619827,"language_key":"si","name":"කබ්රුටා"}
+{"id":355726967,"city_id":4619831,"language_key":"si","name":"කබිමාස්"}
+{"id":355729046,"city_id":4619858,"language_key":"si","name":"බුර්බුසය්"}
+{"id":355729123,"city_id":4619859,"language_key":"si","name":"බම් බම්"}
+{"id":355731741,"city_id":4619893,"language_key":"si","name":"බුවනෝස් අයර්ස්"}
+{"id":355731895,"city_id":4619895,"language_key":"si","name":"බුවන විස්ටා"}
+{"id":355736515,"city_id":4619955,"language_key":"si","name":"බුවන විස්ටා"}
+{"id":355737362,"city_id":4619966,"language_key":"si","name":"බුචිවාකෝවා"}
+{"id":355738979,"city_id":4619987,"language_key":"si","name":null}
+{"id":355739595,"city_id":4619995,"language_key":"si","name":"බ්‍රාමන්"}
+{"id":355741674,"city_id":4620022,"language_key":"si","name":"බොරෝටා"}
+{"id":355742290,"city_id":4620030,"language_key":"si","name":"බෝරවුරේ"}
+{"id":355742521,"city_id":4620033,"language_key":"si","name":"බෝරවුරේ"}
+{"id":355745293,"city_id":4620069,"language_key":"si","name":"බොලිවර්"}
+{"id":355745755,"city_id":4620075,"language_key":"si","name":"බොකොනොයිටෝ"}
+{"id":355745909,"city_id":4620077,"language_key":"si","name":"බොකොනෝ"}
+{"id":355747372,"city_id":4620096,"language_key":"si","name":"බොකා ද උචිරේ"}
+{"id":355748758,"city_id":4620114,"language_key":"si","name":"බොකා ඩෙල් රියෝ, නුඑවා එස්පර්ටා"}
+{"id":355748835,"city_id":4620115,"language_key":"si","name":"බොකා ඩෙල් රියෝ"}
+{"id":355750067,"city_id":4620131,"language_key":"si","name":"බොකා ද කැසනරිටෝ"}
+{"id":355750144,"city_id":4620132,"language_key":"si","name":"බෝචා දේ ආරොඅ"}
+{"id":355751145,"city_id":4620145,"language_key":"si","name":"බොබුරෙස්"}
+{"id":355751299,"city_id":4620147,"language_key":"si","name":"බොබරේ"}
+{"id":355751453,"city_id":4620149,"language_key":"si","name":null}
+{"id":355751607,"city_id":4620151,"language_key":"si","name":"බිරුකා"}
+{"id":355751992,"city_id":4620156,"language_key":"si","name":"බෙටිජෝක්"}
+{"id":355752300,"city_id":4620160,"language_key":"si","name":"බර්මියුඩෙස්"}
+{"id":355752608,"city_id":4620164,"language_key":"si","name":"බර්ගන්ටින්"}
+{"id":355754687,"city_id":4620191,"language_key":"si","name":"බෙලන්"}
+{"id":355754841,"city_id":4620193,"language_key":"si","name":"බෙලන්"}
+{"id":355756227,"city_id":4620211,"language_key":"si","name":"බෙජුමා"}
+{"id":355757844,"city_id":4620232,"language_key":"si","name":"බරුටා"}
+{"id":355759384,"city_id":4620252,"language_key":"si","name":"බැරන්කිටාස්"}
+{"id":355759538,"city_id":4620254,"language_key":"si","name":"බැරන්කිටාස්"}
+{"id":355760539,"city_id":4620267,"language_key":"si","name":"බැරන්කස්"}
+{"id":355760616,"city_id":4620268,"language_key":"si","name":"බරන්කාස්"}
+{"id":355761232,"city_id":4620276,"language_key":"si","name":"බාර්ක්විසිමෙටෝ"}
+{"id":355762079,"city_id":4620287,"language_key":"si","name":"බැරිනිටාස්"}
+{"id":355762156,"city_id":4620288,"language_key":"si","name":"බරිනාස්"}
+{"id":355762310,"city_id":4620290,"language_key":"si","name":"බාර්සිලොනා"}
+{"id":355763157,"city_id":4620301,"language_key":"si","name":"බාබකෝස්"}
+{"id":355763388,"city_id":4620304,"language_key":"si","name":"බාබකෝස්"}
+{"id":355767084,"city_id":4620352,"language_key":"si","name":"බයිලඩෝර්ස්"}
+{"id":355767469,"city_id":4620357,"language_key":"si","name":"බචකෙරෝ"}
+{"id":355771165,"city_id":4620405,"language_key":"si","name":"එල් බටේ"}
+{"id":355771319,"city_id":4620407,"language_key":"si","name":"අරිස්මෙන්ඩි"}
+{"id":355771396,"city_id":4620408,"language_key":"si","name":"අරිස්මෙන්ඩි"}
+{"id":355771935,"city_id":4620415,"language_key":"si","name":"අරිචුනා"}
+{"id":355772012,"city_id":4620416,"language_key":"si","name":"ඇරිකාගුවා"}
+{"id":355772089,"city_id":4620417,"language_key":"si","name":"ඇරිකාගුවා"}
+{"id":355773321,"city_id":4620433,"language_key":"si","name":"අරීනා"}
+{"id":355773860,"city_id":4620440,"language_key":"si","name":"අරෙග්"}
+{"id":355774245,"city_id":4620445,"language_key":"si","name":"අරායා"}
+{"id":355774553,"city_id":4620449,"language_key":"si","name":"අරෞරේ"}
+{"id":355774630,"city_id":4620450,"language_key":"si","name":"අරුකිටා"}
+{"id":355775862,"city_id":4620466,"language_key":"si","name":"අරෙයිරා"}
+{"id":355776786,"city_id":4620478,"language_key":"si","name":"අරගුවා"}
+{"id":355776863,"city_id":4620479,"language_key":"si","name":"අරගුවා ඩි බාර්සිලෝනා"}
+{"id":355777864,"city_id":4620492,"language_key":"si","name":"ඇපර්ටඩෙරෝස්"}
+{"id":355778711,"city_id":4620503,"language_key":"si","name":"ඇන්සෝටෙගුයි"}
+{"id":355784563,"city_id":4620579,"language_key":"si","name":"අල්ටමිරා"}
+{"id":355784794,"city_id":4620582,"language_key":"si","name":"ආල්තග්රකිඅ දේ ඔරිටුචෝ"}
+{"id":355784871,"city_id":4620583,"language_key":"si","name":"ආල්තග්රකිඅ දේ ල මොන්ටන"}
+{"id":355784948,"city_id":4620584,"language_key":"si","name":"ඇල්ටග්රැසියා"}
+{"id":355785025,"city_id":4620585,"language_key":"si","name":"ලොස් පෝර්ටෝස් ද ඇල්ටග් රැෂියා"}
+{"id":355787027,"city_id":4620611,"language_key":"si","name":"එල් ඇල්ගරොබෝ"}
+{"id":355788798,"city_id":4620634,"language_key":"si","name":"ඇගුයිමා"}
+{"id":355789953,"city_id":4620649,"language_key":"si","name":"අගුඅසය්"}
+{"id":355790030,"city_id":4620650,"language_key":"si","name":"ආගුඅ සනට"}
+{"id":355794034,"city_id":4620702,"language_key":"si","name":"අගුවාඩා ග් රෑන්ඩ්"}
+{"id":355798269,"city_id":4620757,"language_key":"si","name":"ඇඩිකෝරා"}
+{"id":355798808,"city_id":4620764,"language_key":"si","name":"අචගුවාස්"}
+{"id":355798885,"city_id":4620765,"language_key":"si","name":"ඇසිවෙඩෝ"}
+{"id":355799501,"city_id":4620773,"language_key":"si","name":"අකරිගුවා"}
+{"id":355800117,"city_id":4620781,"language_key":"si","name":"අබේජාලස්"}
+{"id":355803659,"city_id":4620827,"language_key":"si","name":"ලාස් මෙසාස්"}
+{"id":355806816,"city_id":4620868,"language_key":"si","name":"ලා අදහස"}
+{"id":355806893,"city_id":4620869,"language_key":"si","name":"සැන් ජෝස් ද බොලිවර්"}
+{"id":355817134,"city_id":4621002,"language_key":"si","name":"කැම්පෝ බර්නාල්"}
+{"id":355822755,"city_id":4621075,"language_key":"si","name":"සැන් පේද්‍රෝ"}
+{"id":355825296,"city_id":4621108,"language_key":"si","name":"පිනංගෝ"}
+{"id":355826990,"city_id":4621130,"language_key":"si","name":"එල් අගුවාකැටිකෝ"}
+{"id":355828376,"city_id":4621148,"language_key":"si","name":"ලොස් වෙගෝට්ස්"}
+{"id":355831379,"city_id":4621187,"language_key":"si","name":"එල් මැන්ගුයිටෝ"}
+{"id":355831764,"city_id":4621192,"language_key":"si","name":"ලාස් ඩෙලිසියාස්"}
+{"id":355832072,"city_id":4621196,"language_key":"si","name":"මාටින්"}
+{"id":355834074,"city_id":4621222,"language_key":"si","name":"ගාර්ෂියා"}
+{"id":355835460,"city_id":4621240,"language_key":"si","name":"එල් ප්ලේසර්"}
+{"id":355850629,"city_id":4621437,"language_key":"si","name":"බටටල්"}
+{"id":355851399,"city_id":4621447,"language_key":"si","name":"එල් පෙරෙනෝ"}
+{"id":355852785,"city_id":4621465,"language_key":"si","name":"මිජාගුයිටෝ"}
+{"id":355853170,"city_id":4621470,"language_key":"si","name":"ලොස් කොචිනෝස්"}
+{"id":355862872,"city_id":4621596,"language_key":"si","name":"පොසෝ වර්ඩ්"}
+{"id":355865413,"city_id":4621629,"language_key":"si","name":"චෙදෙනෝ"}
+{"id":355870418,"city_id":4621694,"language_key":"si","name":"එල් පොසොන්"}
+{"id":355874345,"city_id":4621745,"language_key":"si","name":"ලොස් පැටෝස්"}
+{"id":355881583,"city_id":4621839,"language_key":"si","name":"පැසෝ රියල්"}
+{"id":355882122,"city_id":4621846,"language_key":"si","name":"කැම්පෝ සෝලෝ"}
+{"id":355887435,"city_id":4621915,"language_key":"si","name":"ලොස් මෙරේයස්"}
+{"id":355896983,"city_id":4622039,"language_key":"si","name":"සෝසිඩෝ"}
+{"id":355901372,"city_id":4622096,"language_key":"si","name":"සැම්බ්රානෝ"}
+{"id":355902604,"city_id":4622112,"language_key":"si","name":"එල් ට්‍රොම්පිලෝ"}
+{"id":355926705,"city_id":4622425,"language_key":"si","name":"සැන්ටා රීටා, වෙනිසියුලා"}
+{"id":355944646,"city_id":4622658,"language_key":"si","name":"ලා ටාසා"}
+{"id":355953732,"city_id":4622776,"language_key":"si","name":"එල් සෝරෝ"}
+{"id":355958121,"city_id":4622833,"language_key":"si","name":"පැටෝස් ගුවයාබල්"}
+{"id":355958814,"city_id":4622842,"language_key":"si","name":"ඉස්ලා රටන්"}
+{"id":355963434,"city_id":4622902,"language_key":"si","name":"පේද්‍රාසා"}
+{"id":355973983,"city_id":4623039,"language_key":"si","name":"පුවෙලෝ නුවෙවෝ"}
+{"id":355978988,"city_id":4623104,"language_key":"si","name":"සැන් ජොසෙසිටෝ"}
+{"id":355979373,"city_id":4623109,"language_key":"si","name":"ඌරිබන්ටේ"}
+{"id":355987920,"city_id":4623220,"language_key":"si","name":"ලාස් ලානාදාස්"}
+{"id":355991616,"city_id":4623268,"language_key":"si","name":"කෝඩෙරෝ"}
+{"id":356003705,"city_id":4623425,"language_key":"si","name":"පැසෝ ලාර්ගෝ"}
+{"id":356010404,"city_id":4623512,"language_key":"si","name":"සියෙරා ඉමාටාකා"}
+{"id":356013407,"city_id":4623551,"language_key":"si","name":"මෙරෙජිනා"}
+{"id":356014100,"city_id":4623560,"language_key":"si","name":"ලාස් නවාස්"}
+{"id":356023417,"city_id":4623681,"language_key":"si","name":"එල් රෙක්රියෝ"}
+{"id":356032965,"city_id":4623805,"language_key":"si","name":"ලොස් පොසොට්ස්"}
+{"id":356038663,"city_id":4623879,"language_key":"si","name":"ලාස් මාගරිටාස්"}
+{"id":356054602,"city_id":4624086,"language_key":"si","name":"ලාස් ටිනාජාස්"}
+{"id":356056912,"city_id":4624116,"language_key":"si","name":"ලා හොන්ඩා"}
+{"id":356058375,"city_id":4624135,"language_key":"si","name":"විලා අරෝරේ යුනෝ"}
+{"id":356061224,"city_id":4624172,"language_key":"si","name":"එල් පික්චර්"}
+{"id":356061840,"city_id":4624180,"language_key":"si","name":"ලා ලුස්"}
+{"id":356070618,"city_id":4624294,"language_key":"si","name":"කුජිසිටෝ"}
+{"id":356080089,"city_id":4624417,"language_key":"si","name":"විලා ඩි ලාස් ෆ්ලෝරස්"}
+{"id":356082091,"city_id":4624443,"language_key":"si","name":"එල් රින්කන්"}
+{"id":356083400,"city_id":4624460,"language_key":"si","name":"සැන් ෆීලික්ස්"}
+{"id":356094257,"city_id":4624601,"language_key":"si","name":"මැමෝනල්"}
+{"id":356097722,"city_id":4624646,"language_key":"si","name":"සැන් ජෝසේ ද ගුවරිබේ"}
+{"id":356098184,"city_id":4624652,"language_key":"si","name":"සැන්ටා රීටා"}
+{"id":356111736,"city_id":4624828,"language_key":"si","name":"එල් හියුසෝ"}
+{"id":356114816,"city_id":4624868,"language_key":"si","name":"මටුරින්"}
+{"id":356117742,"city_id":4624906,"language_key":"si","name":"එල්පාසෝ ද ලොස් ඉන්ඩියෝස්"}
+{"id":356120360,"city_id":4624940,"language_key":"si","name":"ලා රීකාමරා"}
+{"id":356128599,"city_id":4625047,"language_key":"si","name":"පල්මසෝලා"}
+{"id":356141150,"city_id":4625210,"language_key":"si","name":"ටියුරන්"}
+{"id":356144153,"city_id":4625249,"language_key":"si","name":"ලා අගුවාඩා"}
+{"id":356144230,"city_id":4625250,"language_key":"si","name":"ලා අගුවාඩා"}
+{"id":356146694,"city_id":4625282,"language_key":"si","name":"එල් බ්‍රසීල්"}
+{"id":356157166,"city_id":4625418,"language_key":"si","name":"ගුවරිකාපෝ"}
+{"id":356162171,"city_id":4625483,"language_key":"si","name":"කැම්පෝ ලාරා"}
+{"id":356165097,"city_id":4625521,"language_key":"si","name":"කිලෝමීටර් වියෙන්ටිඩෝ"}
+{"id":356174568,"city_id":4625644,"language_key":"si","name":"එල් පැජොන්"}
+{"id":356180266,"city_id":4625718,"language_key":"si","name":"දෙලිචිඅස්"}
+{"id":356180497,"city_id":4625721,"language_key":"si","name":"ලා ෆ්රියා"}
+{"id":356180728,"city_id":4625724,"language_key":"si","name":"ලා ග්රිටා"}
+{"id":356181729,"city_id":4625737,"language_key":"si","name":"කපචෝ නුවෙවෝ"}
+{"id":356186195,"city_id":4625795,"language_key":"si","name":"ලා සෙබඩිල්ලා"}
+{"id":356188351,"city_id":4625823,"language_key":"si","name":"ලා ටෙන්ඩිඩා"}
+{"id":356197745,"city_id":4625945,"language_key":"si","name":"කුවෙස්ටා අබාජෝ"}
+{"id":356204213,"city_id":4626029,"language_key":"si","name":"ලුසියා"}
+{"id":356215917,"city_id":4626181,"language_key":"si","name":"ලොස් පොසෝස් අෆුරා"}
+{"id":356223155,"city_id":4626275,"language_key":"si","name":"රියෝ සැන් පේද්‍රෝ"}
+{"id":356224002,"city_id":4626286,"language_key":"si","name":"සැන්ටා එලේනා"}
+{"id":356227698,"city_id":4626334,"language_key":"si","name":"ලා වැලරියානා"}
+{"id":356228468,"city_id":4626344,"language_key":"si","name":"ලාස් වේගාස්"}
+{"id":356234936,"city_id":4626428,"language_key":"si","name":"චකෝපාටා"}
+{"id":356235475,"city_id":4626435,"language_key":"si","name":"චිපිචිපේ"}
+{"id":356242020,"city_id":4626520,"language_key":"si","name":"අගුවා බ්ලැන්කා"}
+{"id":356247102,"city_id":4626586,"language_key":"si","name":"ලාස් ඩෙලිසියාස්"}
+{"id":356249489,"city_id":4626617,"language_key":"si","name":"ලා ඉස්ලා"}
+{"id":356254648,"city_id":4626684,"language_key":"si","name":"එල් ප්ලේයොන්"}
+{"id":356258883,"city_id":4626739,"language_key":"si","name":"ලා සිලෙටා"}
+{"id":356260962,"city_id":4626766,"language_key":"si","name":"අරපුයි"}
+{"id":356261193,"city_id":4626769,"language_key":"si","name":"එල් බටේ"}
+{"id":356263965,"city_id":4626805,"language_key":"si","name":"මැකාපෝ"}
+{"id":356273821,"city_id":4626933,"language_key":"si","name":"ලා කොන්කෝඩියා"}
+{"id":356277132,"city_id":4626976,"language_key":"si","name":"මැන්රික්"}
+{"id":356283677,"city_id":4627061,"language_key":"si","name":"කැකගුයිටා"}
+{"id":356283754,"city_id":4627062,"language_key":"si","name":"ලා සීබා"}
+{"id":356293918,"city_id":4627194,"language_key":"si","name":"ටොටුමිටෝ"}
+{"id":356297614,"city_id":4627242,"language_key":"si","name":"ගුවස්ඩුලිටෝ"}
+{"id":356298615,"city_id":4627255,"language_key":"si","name":"ලාස් මර්සිඩීස්"}
+{"id":356300386,"city_id":4627278,"language_key":"si","name":"සැන් ෆර්නැන්ඩෝ ඩි අපුරේ"}
+{"id":356300617,"city_id":4627281,"language_key":"si","name":"සැන් ජුවාන් ද පයාරා"}
+{"id":356315940,"city_id":4627480,"language_key":"si","name":"සැන් සෙබස්තියන්"}
+{"id":356317634,"city_id":4627502,"language_key":"si","name":"ටර්මරිටෝ"}
+{"id":356318173,"city_id":4627509,"language_key":"si","name":"වර්ගාස්"}
+{"id":356345431,"city_id":4627863,"language_key":"si","name":"මැන්ඩිගල්"}
+{"id":356354671,"city_id":4627983,"language_key":"si","name":"එල් පිලොන්"}
+{"id":356359368,"city_id":4628044,"language_key":"si","name":"එල් රොඩියෝ"}
+{"id":356372304,"city_id":4628212,"language_key":"si","name":"එල් ඩිඅරිඔ දේ යරචුය්"}
+{"id":356372843,"city_id":4628219,"language_key":"si","name":"සැන්ටා ක් රස් ද ලොස් ටැක්ස්"}
+{"id":356372997,"city_id":4628221,"language_key":"si","name":"මොන්ටෙරේ"}
+{"id":356376539,"city_id":4628267,"language_key":"si","name":"එල් ජුන්කෝ"}
+{"id":356377617,"city_id":4628281,"language_key":"si","name":"මරිසාපා"}
+{"id":356381390,"city_id":4628330,"language_key":"si","name":"ගාර්ෂියා ද හෙවියා නගර සභාව"}

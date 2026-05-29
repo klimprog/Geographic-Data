@@ -1,0 +1,791 @@
+{"id":210891127,"city_id":2738846,"language_key":"sq","name":"Hamamet el Umush"}
+{"id":210891358,"city_id":2738849,"language_key":"sq","name":"Zimal"}
+{"id":210891435,"city_id":2738850,"language_key":"sq","name":"Zayy"}
+{"id":210891512,"city_id":2738851,"language_key":"sq","name":"Zay"}
+{"id":210891743,"city_id":2738854,"language_key":"sq","name":"Zahari"}
+{"id":210891974,"city_id":2738857,"language_key":"sq","name":"Yarqa"}
+{"id":210892051,"city_id":2738858,"language_key":"sq","name":"Yarqa"}
+{"id":210892282,"city_id":2738861,"language_key":"sq","name":"Wakas"}
+{"id":210892436,"city_id":2738863,"language_key":"sq","name":"Wadi Musa"}
+{"id":210892513,"city_id":2738864,"language_key":"sq","name":"Wadi si Zotëri"}
+{"id":210892744,"city_id":2738867,"language_key":"sq","name":"Vuonnabahta"}
+{"id":210892821,"city_id":2738868,"language_key":"sq","name":"Tumayr"}
+{"id":210892975,"city_id":2738870,"language_key":"sq","name":"Umm Shuxhejre esh Sharkiyah"}
+{"id":210893052,"city_id":2738871,"language_key":"sq","name":"Umm Shujayrah al Gharbiyah"}
+{"id":210893206,"city_id":2738873,"language_key":"sq","name":"El Xhunejnah"}
+{"id":210893360,"city_id":2738875,"language_key":"sq","name":"Umm Rumanah"}
+{"id":210893514,"city_id":2738877,"language_key":"sq","name":"Umm Qais"}
+{"id":210893591,"city_id":2738878,"language_key":"sq","name":"Umm Kantarah esh Sharkiyah"}
+{"id":210893745,"city_id":2738880,"language_key":"sq","name":"Umm Nuvwarah"}
+{"id":210893822,"city_id":2738881,"language_key":"sq","name":"Umm Harruba"}
+{"id":210893899,"city_id":2738882,"language_key":"sq","name":"alfyhaʾ"}
+{"id":210893976,"city_id":2738883,"language_key":"sq","name":"Umm Hamat"}
+{"id":210894053,"city_id":2738884,"language_key":"sq","name":"Umm Butaymah"}
+{"id":210894130,"city_id":2738885,"language_key":"sq","name":"Umm Butaymah"}
+{"id":210894207,"city_id":2738886,"language_key":"sq","name":"Umm si Summaq"}
+{"id":210894284,"city_id":2738887,"language_key":"sq","name":"Umm ar Rasas"}
+{"id":210894361,"city_id":2738888,"language_key":"sq","name":"Umm an Na`am al Gharbiyah"}
+{"id":210894438,"city_id":2738889,"language_key":"sq","name":"Umm an Na'am el Gharbiyah"}
+{"id":210894592,"city_id":2738891,"language_key":"sq","name":"Umm al Qittayn"}
+{"id":210894669,"city_id":2738892,"language_key":"sq","name":"Umm al Qittayn"}
+{"id":210894900,"city_id":2738895,"language_key":"sq","name":"Umm al Lulu"}
+{"id":210894977,"city_id":2738896,"language_key":"sq","name":"Umm al Kundum"}
+{"id":210895054,"city_id":2738897,"language_key":"sq","name":"Umm al Khanazir"}
+{"id":210895131,"city_id":2738898,"language_key":"sq","name":"Umm al Khanazir"}
+{"id":210895285,"city_id":2738900,"language_key":"sq","name":"Umm al Jimal"}
+{"id":210895439,"city_id":2738902,"language_key":"sq","name":"Umm el Basatin"}
+{"id":210895516,"city_id":2738903,"language_key":"sq","name":"Umm al Birak"}
+{"id":210895824,"city_id":2738907,"language_key":"sq","name":"Umm ad Dajaj"}
+{"id":210895978,"city_id":2738909,"language_key":"sq","name":"Ulejmun"}
+{"id":210896055,"city_id":2738910,"language_key":"sq","name":"adhrh"}
+{"id":210896132,"city_id":2738911,"language_key":"sq","name":"Tibna"}
+{"id":210896209,"city_id":2738912,"language_key":"sq","name":"Thughrat al Jubb"}
+{"id":210896286,"city_id":2738913,"language_key":"sq","name":"Thughrat al Jubb"}
+{"id":210896440,"city_id":2738915,"language_key":"sq","name":"Er Ram ue Dahiyat el Barid"}
+{"id":210896594,"city_id":2738917,"language_key":"sq","name":"Tal`at er Ruzz"}
+{"id":210896671,"city_id":2738918,"language_key":"sq","name":"Tabaqat Fahl"}
+{"id":210896748,"city_id":2738919,"language_key":"sq","name":"Suwaymirah"}
+{"id":210896825,"city_id":2738920,"language_key":"sq","name":"Suwaymah"}
+{"id":210896902,"city_id":2738921,"language_key":"sq","name":"Suvejmah"}
+{"id":210896979,"city_id":2738922,"language_key":"sq","name":"Surra"}
+{"id":210897056,"city_id":2738923,"language_key":"sq","name":"Sumiya"}
+{"id":210897133,"city_id":2738924,"language_key":"sq","name":"Sumiya"}
+{"id":210897210,"city_id":2738925,"language_key":"sq","name":"Khirbat Sumejah"}
+{"id":210897287,"city_id":2738926,"language_key":"sq","name":"Sumeja si Sirhan"}
+{"id":210897364,"city_id":2738927,"language_key":"sq","name":"Sul"}
+{"id":210897441,"city_id":2738928,"language_key":"sq","name":"Suhejjet `Auad"}
+{"id":210897595,"city_id":2738930,"language_key":"sq","name":"Souf"}
+{"id":210897672,"city_id":2738931,"language_key":"sq","name":"Subhijah"}
+{"id":210897903,"city_id":2738934,"language_key":"sq","name":"Sirat al Arnab"}
+{"id":210897980,"city_id":2738935,"language_key":"sq","name":"Al Harfushiyah"}
+{"id":210898057,"city_id":2738936,"language_key":"sq","name":"Al Harfushiyah"}
+{"id":210898211,"city_id":2738938,"language_key":"sq","name":"Esh Shunah el Xhenubijah"}
+{"id":210898365,"city_id":2738940,"language_key":"sq","name":"Shamakh"}
+{"id":210898442,"city_id":2738941,"language_key":"sq","name":"Saydur"}
+{"id":210898519,"city_id":2738942,"language_key":"sq","name":"Sawm"}
+{"id":210898596,"city_id":2738943,"language_key":"sq","name":"Sawm"}
+{"id":210898750,"city_id":2738945,"language_key":"sq","name":"Sammu`"}
+{"id":210898827,"city_id":2738946,"language_key":"sq","name":"Sammu`"}
+{"id":210898904,"city_id":2738947,"language_key":"sq","name":"Samma"}
+{"id":210898981,"city_id":2738948,"language_key":"sq","name":"Samar"}
+{"id":210899058,"city_id":2738949,"language_key":"sq","name":"Samar"}
+{"id":210899135,"city_id":2738950,"language_key":"sq","name":"Samad"}
+{"id":210899212,"city_id":2738951,"language_key":"sq","name":"Saliyah"}
+{"id":210899289,"city_id":2738952,"language_key":"sq","name":"Saliyah"}
+{"id":210899366,"city_id":2738953,"language_key":"sq","name":"sal"}
+{"id":210899443,"city_id":2738954,"language_key":"sq","name":"Sakka"}
+{"id":210899520,"city_id":2738955,"language_key":"sq","name":"Sakib"}
+{"id":210899597,"city_id":2738956,"language_key":"sq","name":"Sakhrah"}
+{"id":210899674,"city_id":2738957,"language_key":"sq","name":"Si Sahah"}
+{"id":210899751,"city_id":2738958,"language_key":"sq","name":"Sahab"}
+{"id":210899828,"city_id":2738959,"language_key":"sq","name":"Safut"}
+{"id":210899905,"city_id":2738960,"language_key":"sq","name":"Sab` Asir"}
+{"id":210899982,"city_id":2738961,"language_key":"sq","name":"Sab` Asir"}
+{"id":210900059,"city_id":2738962,"language_key":"sq","name":"Sabha"}
+{"id":210900136,"city_id":2738963,"language_key":"sq","name":"Sidi Bin Zinah"}
+{"id":210900213,"city_id":2738964,"language_key":"sq","name":"Aruwaym"}
+{"id":210900367,"city_id":2738966,"language_key":"sq","name":"Umm an Na`am ash Sharqiyah"}
+{"id":210900444,"city_id":2738967,"language_key":"sq","name":"Umm an Na'am esh Sharkiyah"}
+{"id":210900521,"city_id":2738968,"language_key":"sq","name":"Rujm ash Shami"}
+{"id":210900598,"city_id":2738969,"language_key":"sq","name":"almdmar"}
+{"id":210900675,"city_id":2738970,"language_key":"sq","name":"Al Khalidi"}
+{"id":210900752,"city_id":2738971,"language_key":"sq","name":"rhaba"}
+{"id":210900829,"city_id":2738972,"language_key":"sq","name":"Rayhun"}
+{"id":210900906,"city_id":2738973,"language_key":"sq","name":"Rasun"}
+{"id":210900983,"city_id":2738974,"language_key":"sq","name":"Ra's një Nakb"}
+{"id":210901060,"city_id":2738975,"language_key":"sq","name":"Rakin"}
+{"id":210901137,"city_id":2738976,"language_key":"sq","name":"Rajib"}
+{"id":210901214,"city_id":2738977,"language_key":"sq","name":"Rabba` si Sirhan"}
+{"id":210901291,"city_id":2738978,"language_key":"sq","name":"Rabba` si Sirhan"}
+{"id":210901445,"city_id":2738980,"language_key":"sq","name":"Karjet Nafi`"}
+{"id":210901522,"city_id":2738981,"language_key":"sq","name":"Qurayyat Falhah"}
+{"id":210901599,"city_id":2738982,"language_key":"sq","name":"Qumaym"}
+{"id":210901676,"city_id":2738983,"language_key":"sq","name":"Kumejmi"}
+{"id":210901907,"city_id":2738986,"language_key":"sq","name":"Khirbat Qirfill"}
+{"id":210901984,"city_id":2738987,"language_key":"sq","name":"Qasr al Hallabat"}
+{"id":210902138,"city_id":2738989,"language_key":"sq","name":"Qam"}
+{"id":210902215,"city_id":2738990,"language_key":"sq","name":"Qafqafa"}
+{"id":210902292,"city_id":2738991,"language_key":"sq","name":"Qafqafa"}
+{"id":210902369,"city_id":2738992,"language_key":"sq","name":"Na`ur"}
+{"id":210902446,"city_id":2738993,"language_key":"sq","name":"Na`ur"}
+{"id":210902523,"city_id":2738994,"language_key":"sq","name":"Natl"}
+{"id":210902600,"city_id":2738995,"language_key":"sq","name":"Nahlah"}
+{"id":210902677,"city_id":2738996,"language_key":"sq","name":"Nahlah"}
+{"id":210902831,"city_id":2738998,"language_key":"sq","name":"Nadirah"}
+{"id":210903062,"city_id":2739001,"language_key":"sq","name":"Mu'tah"}
+{"id":210903216,"city_id":2739003,"language_key":"sq","name":"El Mushejrife"}
+{"id":210903370,"city_id":2739005,"language_key":"sq","name":"Mursi`"}
+{"id":210903447,"city_id":2739006,"language_key":"sq","name":"Murayjimat Ibn Hamid"}
+{"id":210903601,"city_id":2739008,"language_key":"sq","name":"Ras Munif"}
+{"id":210903755,"city_id":2739010,"language_key":"sq","name":"Mulejh"}
+{"id":210903909,"city_id":2739012,"language_key":"sq","name":"Mukavir"}
+{"id":210903986,"city_id":2739013,"language_key":"sq","name":"Muhayy"}
+{"id":210904140,"city_id":2739015,"language_key":"sq","name":"Al Mughayir"}
+{"id":210904217,"city_id":2739016,"language_key":"sq","name":"Mu`adi"}
+{"id":210904294,"city_id":2739017,"language_key":"sq","name":"Mis`ar"}
+{"id":210904371,"city_id":2739018,"language_key":"sq","name":"Mis`ar"}
+{"id":210904448,"city_id":2739019,"language_key":"sq","name":"Miruadi"}
+{"id":210904602,"city_id":2739021,"language_key":"sq","name":"Mihna"}
+{"id":210904679,"city_id":2739022,"language_key":"sq","name":"Middin"}
+{"id":210904833,"city_id":2739024,"language_key":"sq","name":"maswh"}
+{"id":210905064,"city_id":2739027,"language_key":"sq","name":"I gjatë al Mantah"}
+{"id":210905218,"city_id":2739029,"language_key":"sq","name":"Malka"}
+{"id":210905295,"city_id":2739030,"language_key":"sq","name":"Makhraba"}
+{"id":210905372,"city_id":2739031,"language_key":"sq","name":"Majra"}
+{"id":210905449,"city_id":2739032,"language_key":"sq","name":"Majra"}
+{"id":210905603,"city_id":2739034,"language_key":"sq","name":"Kryesor"}
+{"id":210905680,"city_id":2739035,"language_key":"sq","name":"Mahis"}
+{"id":210905834,"city_id":2739037,"language_key":"sq","name":"Si Safawi"}
+{"id":210905911,"city_id":2739038,"language_key":"sq","name":"Madaba"}
+{"id":210905988,"city_id":2739039,"language_key":"sq","name":"Ma'an"}
+{"id":210906065,"city_id":2739040,"language_key":"sq","name":"Kurkumah"}
+{"id":210906142,"city_id":2739041,"language_key":"sq","name":"Kurkumah"}
+{"id":210906219,"city_id":2739042,"language_key":"sq","name":"Kufrinjah"}
+{"id":210906296,"city_id":2739043,"language_key":"sq","name":"Kufrinjah"}
+{"id":210906373,"city_id":2739044,"language_key":"sq","name":"Kufayrat Abu Khinan"}
+{"id":210906450,"city_id":2739045,"language_key":"sq","name":"Kufayr al Wakhyan"}
+{"id":210906527,"city_id":2739046,"language_key":"sq","name":"Kufayr Abu Sarbut"}
+{"id":210906604,"city_id":2739047,"language_key":"sq","name":"Huraybat si Suq"}
+{"id":210906681,"city_id":2739048,"language_key":"sq","name":"Huraybat si Suq"}
+{"id":210906835,"city_id":2739050,"language_key":"sq","name":"Khisha` Sulejtin"}
+{"id":210907066,"city_id":2739053,"language_key":"sq","name":"Umm Rumanah"}
+{"id":210907143,"city_id":2739054,"language_key":"sq","name":"Khirbat Umm an Naml"}
+{"id":210907220,"city_id":2739055,"language_key":"sq","name":"Ulayqun"}
+{"id":210907451,"city_id":2739058,"language_key":"sq","name":"snʿar"}
+{"id":210907605,"city_id":2739060,"language_key":"sq","name":"She'tah"}
+{"id":210907836,"city_id":2739063,"language_key":"sq","name":"Irkhaym"}
+{"id":210907913,"city_id":2739064,"language_key":"sq","name":"Irkhaym"}
+{"id":210908067,"city_id":2739066,"language_key":"sq","name":"Bejt el Fakih"}
+{"id":210908298,"city_id":2739069,"language_key":"sq","name":"Khirbat Marqaah"}
+{"id":210908529,"city_id":2739072,"language_key":"sq","name":"Majadil"}
+{"id":210908606,"city_id":2739073,"language_key":"sq","name":"Khirbat Khaww"}
+{"id":210908683,"city_id":2739074,"language_key":"sq","name":"Khatlah"}
+{"id":210908837,"city_id":2739076,"language_key":"sq","name":"Jaba"}
+{"id":210908914,"city_id":2739077,"language_key":"sq","name":"Huwayshan"}
+{"id":210908991,"city_id":2739078,"language_key":"sq","name":"Huwayshan"}
+{"id":210909068,"city_id":2739079,"language_key":"sq","name":"Birayn"}
+{"id":210909145,"city_id":2739080,"language_key":"sq","name":"Birayn"}
+{"id":210909453,"city_id":2739084,"language_key":"sq","name":"As Sawwan"}
+{"id":210909530,"city_id":2739085,"language_key":"sq","name":"Si Sawwan"}
+{"id":210909761,"city_id":2739088,"language_key":"sq","name":"Khirbat as Sahilah"}
+{"id":210909838,"city_id":2739089,"language_key":"sq","name":"Si Sahluliyah"}
+{"id":210909992,"city_id":2739091,"language_key":"sq","name":"Al Mashari`"}
+{"id":210910069,"city_id":2739092,"language_key":"sq","name":"Al Majahish"}
+{"id":210910377,"city_id":2739096,"language_key":"sq","name":"Ar Rukah"}
+{"id":210910608,"city_id":2739099,"language_key":"sq","name":"El Murayghah"}
+{"id":210910762,"city_id":2739101,"language_key":"sq","name":"Manshiyat al Kablan"}
+{"id":210910993,"city_id":2739104,"language_key":"sq","name":"Khirbat al Hawi"}
+{"id":210911224,"city_id":2739107,"language_key":"sq","name":"Al Birah"}
+{"id":210911301,"city_id":2739108,"language_key":"sq","name":"Ad Dayrah ash Sharqiyah"}
+{"id":210911455,"city_id":2739110,"language_key":"sq","name":"Ad Duqmussah"}
+{"id":210911532,"city_id":2739111,"language_key":"sq","name":"Abu Hamid"}
+{"id":210911609,"city_id":2739112,"language_key":"sq","name":"Ebu Hamid"}
+{"id":210911763,"city_id":2739114,"language_key":"sq","name":"Khirbat Ebu Hadid"}
+{"id":210911917,"city_id":2739116,"language_key":"sq","name":"Ebu as Sus"}
+{"id":210912071,"city_id":2739118,"language_key":"sq","name":"Khirbat Abu al Khass"}
+{"id":210912148,"city_id":2739119,"language_key":"sq","name":"Al Ashrafijah"}
+{"id":210912225,"city_id":2739120,"language_key":"sq","name":"Khazmah"}
+{"id":210912379,"city_id":2739122,"language_key":"sq","name":"Khashm al Katrah"}
+{"id":210912456,"city_id":2739123,"language_key":"sq","name":"khrja"}
+{"id":210912533,"city_id":2739124,"language_key":"sq","name":"Kawm ar Raff"}
+{"id":210912610,"city_id":2739125,"language_key":"sq","name":"Kathrabba"}
+{"id":210912687,"city_id":2739126,"language_key":"sq","name":"Kathrabba"}
+{"id":210912841,"city_id":2739128,"language_key":"sq","name":"Kafr Sawm"}
+{"id":210912918,"city_id":2739129,"language_key":"sq","name":"Kafr Rakib"}
+{"id":210912995,"city_id":2739130,"language_key":"sq","name":"Kafr Rahta"}
+{"id":210913072,"city_id":2739131,"language_key":"sq","name":"Kafr Kifiya"}
+{"id":210913149,"city_id":2739132,"language_key":"sq","name":"Kafr Kifija"}
+{"id":210913303,"city_id":2739134,"language_key":"sq","name":"Kafr Jayiz"}
+{"id":210913457,"city_id":2739136,"language_key":"sq","name":"Kafr Asad"}
+{"id":210913534,"city_id":2739137,"language_key":"sq","name":"Kafr Esad"}
+{"id":210913611,"city_id":2739138,"language_key":"sq","name":"Kafa"}
+{"id":210913688,"city_id":2739139,"language_key":"sq","name":"kfr almaʾ"}
+{"id":210913765,"city_id":2739140,"language_key":"sq","name":"Kafr Abil"}
+{"id":210913842,"city_id":2739141,"language_key":"sq","name":"Kafr Abil"}
+{"id":210913919,"city_id":2739142,"language_key":"sq","name":"Juvejr"}
+{"id":210913996,"city_id":2739143,"language_key":"sq","name":"Jurf ad Darawish"}
+{"id":210914073,"city_id":2739144,"language_key":"sq","name":"Xhurejnah"}
+{"id":210914227,"city_id":2739146,"language_key":"sq","name":"Juffayn"}
+{"id":210914304,"city_id":2739147,"language_key":"sq","name":"Judita"}
+{"id":210914381,"city_id":2739148,"language_key":"sq","name":"Judita"}
+{"id":210914458,"city_id":2739149,"language_key":"sq","name":"Jubbah"}
+{"id":210914535,"city_id":2739150,"language_key":"sq","name":"Xhixhin"}
+{"id":210914612,"city_id":2739151,"language_key":"sq","name":"Xhixhin"}
+{"id":210914766,"city_id":2739153,"language_key":"sq","name":"Jawa"}
+{"id":210914843,"city_id":2739154,"language_key":"sq","name":"Jarrish ad Duraysat"}
+{"id":210914920,"city_id":2739155,"language_key":"sq","name":"Jerash"}
+{"id":210915382,"city_id":2739161,"language_key":"sq","name":"Xhabiri si Sirhan"}
+{"id":210915459,"city_id":2739162,"language_key":"sq","name":"Izrit"}
+{"id":210915536,"city_id":2739163,"language_key":"sq","name":"`Izrit"}
+{"id":210915613,"city_id":2739164,"language_key":"sq","name":"'Izra"}
+{"id":210915767,"city_id":2739166,"language_key":"sq","name":"Ishtafayna"}
+{"id":210915921,"city_id":2739168,"language_key":"sq","name":"Irjan"}
+{"id":210915998,"city_id":2739169,"language_key":"sq","name":"`Irjan"}
+{"id":210916075,"city_id":2739170,"language_key":"sq","name":"Irbid"}
+{"id":210916152,"city_id":2739171,"language_key":"sq","name":"`Iraq al Amir"}
+{"id":210916229,"city_id":2739172,"language_key":"sq","name":"'Ira"}
+{"id":210916306,"city_id":2739173,"language_key":"sq","name":"`Inbah"}
+{"id":210916383,"city_id":2739174,"language_key":"sq","name":"`Ibillin"}
+{"id":210916460,"city_id":2739175,"language_key":"sq","name":"Ibdar"}
+{"id":210916537,"city_id":2739176,"language_key":"sq","name":"`Ibbin"}
+{"id":210916614,"city_id":2739177,"language_key":"sq","name":"`Ibbin"}
+{"id":210916691,"city_id":2739178,"language_key":"sq","name":"hbras"}
+{"id":210916768,"city_id":2739179,"language_key":"sq","name":"Habl"}
+{"id":210916922,"city_id":2739181,"language_key":"sq","name":"Manshijat el Uljan"}
+{"id":210916999,"city_id":2739182,"language_key":"sq","name":"Hajan el Mushrif"}
+{"id":210917076,"city_id":2739183,"language_key":"sq","name":"Hawarah"}
+{"id":210917153,"city_id":2739184,"language_key":"sq","name":"Hawarah"}
+{"id":210917230,"city_id":2739185,"language_key":"sq","name":"hwsha"}
+{"id":210917384,"city_id":2739187,"language_key":"sq","name":"Hatim"}
+{"id":210917461,"city_id":2739188,"language_key":"sq","name":"Hatimi"}
+{"id":210917538,"city_id":2739189,"language_key":"sq","name":"Harima"}
+{"id":210917615,"city_id":2739190,"language_key":"sq","name":"Hamta"}
+{"id":210917692,"city_id":2739191,"language_key":"sq","name":"Hamta"}
+{"id":210917769,"city_id":2739192,"language_key":"sq","name":"Hammamat al `Alimat"}
+{"id":210917846,"city_id":2739193,"language_key":"sq","name":"Hamamet al `Alimat"}
+{"id":210917923,"city_id":2739194,"language_key":"sq","name":"Proshutë"}
+{"id":210918000,"city_id":2739195,"language_key":"sq","name":"Halawah"}
+{"id":210918154,"city_id":2739197,"language_key":"sq","name":"Habaka"}
+{"id":210918231,"city_id":2739198,"language_key":"sq","name":"Habaka"}
+{"id":210918308,"city_id":2739199,"language_key":"sq","name":"Khirbat Gharisah"}
+{"id":210918385,"city_id":2739200,"language_key":"sq","name":"Ad Durzijah"}
+{"id":210918462,"city_id":2739201,"language_key":"sq","name":"Fuqu`"}
+{"id":210918539,"city_id":2739202,"language_key":"sq","name":"Fajfa"}
+{"id":210918616,"city_id":2739203,"language_key":"sq","name":"Fauarah"}
+{"id":210918693,"city_id":2739204,"language_key":"sq","name":"Farah"}
+{"id":210918770,"city_id":2739205,"language_key":"sq","name":"faʿ"}
+{"id":210918924,"city_id":2739207,"language_key":"sq","name":"Khirbat Dawhalah"}
+{"id":210919155,"city_id":2739210,"language_key":"sq","name":"Dulaylat al Hama'idah"}
+{"id":210919232,"city_id":2739211,"language_key":"sq","name":"Dibbin"}
+{"id":210919309,"city_id":2739212,"language_key":"sq","name":"Dibbin"}
+{"id":210919386,"city_id":2739213,"language_key":"sq","name":"Diam"}
+{"id":210919463,"city_id":2739214,"language_key":"sq","name":"Dhiban"}
+{"id":210919617,"city_id":2739216,"language_key":"sq","name":"Dayr Waraq"}
+{"id":210919694,"city_id":2739217,"language_key":"sq","name":"Dayr Waraq"}
+{"id":210919925,"city_id":2739220,"language_key":"sq","name":"Dayr `Alla"}
+{"id":210920002,"city_id":2739221,"language_key":"sq","name":"Dayr al `Allak"}
+{"id":210920079,"city_id":2739222,"language_key":"sq","name":"Dejr Ebu Sa`id"}
+{"id":210920156,"city_id":2739223,"language_key":"sq","name":"Davkarah"}
+{"id":210920233,"city_id":2739224,"language_key":"sq","name":"`Urkub en Nu`ajr"}
+{"id":210920310,"city_id":2739225,"language_key":"sq","name":"Dana"}
+{"id":210920541,"city_id":2739228,"language_key":"sq","name":"Bushra"}
+{"id":210920618,"city_id":2739229,"language_key":"sq","name":"Bozrah"}
+{"id":210920695,"city_id":2739230,"language_key":"sq","name":"Birmania"}
+{"id":210921080,"city_id":2739235,"language_key":"sq","name":"Bayt Zir`ah"}
+{"id":210921157,"city_id":2739236,"language_key":"sq","name":"byt yafa"}
+{"id":210921311,"city_id":2739238,"language_key":"sq","name":"Bejt Idis"}
+{"id":210921465,"city_id":2739240,"language_key":"sq","name":"Batir"}
+{"id":210921542,"city_id":2739241,"language_key":"sq","name":"Bastah"}
+{"id":210921619,"city_id":2739242,"language_key":"sq","name":"Bastah"}
+{"id":210921773,"city_id":2739244,"language_key":"sq","name":"Barzah"}
+{"id":210921850,"city_id":2739245,"language_key":"sq","name":"Barazin"}
+{"id":210921927,"city_id":2739246,"language_key":"sq","name":"Ballas"}
+{"id":210922004,"city_id":2739247,"language_key":"sq","name":"Ballas"}
+{"id":210922081,"city_id":2739248,"language_key":"sq","name":"Balila"}
+{"id":210922158,"city_id":2739249,"language_key":"sq","name":"Bal`ama"}
+{"id":210922312,"city_id":2739251,"language_key":"sq","name":"Al Mansurah"}
+{"id":210922466,"city_id":2739253,"language_key":"sq","name":"Al Burbaytah"}
+{"id":210922697,"city_id":2739256,"language_key":"sq","name":"Az Zutt"}
+{"id":210922774,"city_id":2739257,"language_key":"sq","name":"Ez Zunajah"}
+{"id":210922851,"city_id":2739258,"language_key":"sq","name":"Zumlat në Tarqi"}
+{"id":210923005,"city_id":2739260,"language_key":"sq","name":"Az Za`tari"}
+{"id":210923082,"city_id":2739261,"language_key":"sq","name":"Ez Za`tari"}
+{"id":210923159,"city_id":2739262,"language_key":"sq","name":"Ez Zarra'ah"}
+{"id":210923236,"city_id":2739263,"language_key":"sq","name":"Zarqa"}
+{"id":210923313,"city_id":2739264,"language_key":"sq","name":"Azraq"}
+{"id":210923390,"city_id":2739265,"language_key":"sq","name":"`Ayy"}
+{"id":210923467,"city_id":2739266,"language_key":"sq","name":"Ayy"}
+{"id":210923621,"city_id":2739268,"language_key":"sq","name":"`Ayn Janna"}
+{"id":210923698,"city_id":2739269,"language_key":"sq","name":"`Ajn Xhenna"}
+{"id":210923929,"city_id":2739272,"language_key":"sq","name":"ʿyn albasha"}
+{"id":210924083,"city_id":2739274,"language_key":"sq","name":"ayl"}
+{"id":210924237,"city_id":2739276,"language_key":"sq","name":"Evsarah"}
+{"id":210924545,"city_id":2739280,"language_key":"sq","name":"Në Turrah"}
+{"id":210924622,"city_id":2739281,"language_key":"sq","name":"At Tunayb"}
+{"id":210924699,"city_id":2739282,"language_key":"sq","name":"Në Tiwal al Janubi"}
+{"id":210924776,"city_id":2739283,"language_key":"sq","name":"Në Tiwal ash Shamali"}
+{"id":210924853,"city_id":2739284,"language_key":"sq","name":"Në Tayyibah"}
+{"id":210924930,"city_id":2739285,"language_key":"sq","name":"At-Taybeh"}
+{"id":210925007,"city_id":2739286,"language_key":"sq","name":"Et-Taybeh"}
+{"id":210925161,"city_id":2739288,"language_key":"sq","name":"Tafilah"}
+{"id":210925315,"city_id":2739290,"language_key":"sq","name":"Ath Thughrah"}
+{"id":210925469,"city_id":2739292,"language_key":"sq","name":"`Atruz"}
+{"id":210925546,"city_id":2739293,"language_key":"sq","name":"`Atruz"}
+{"id":210925623,"city_id":2739294,"language_key":"sq","name":"Si Suwaylimah"}
+{"id":210925700,"city_id":2739295,"language_key":"sq","name":"Suvakah"}
+{"id":210925854,"city_id":2739297,"language_key":"sq","name":"Sulejkhat"}
+{"id":210925931,"city_id":2739298,"language_key":"sq","name":"Si Sukhnah"}
+{"id":210926008,"city_id":2739299,"language_key":"sq","name":"Si Subayhi"}
+{"id":210926085,"city_id":2739300,"language_key":"sq","name":"Si Simakiyah"}
+{"id":210926162,"city_id":2739301,"language_key":"sq","name":"Si Saylah"}
+{"id":210926393,"city_id":2739304,"language_key":"sq","name":"Ash Shi`bah"}
+{"id":210926624,"city_id":2739307,"language_key":"sq","name":"As Samik"}
+{"id":210926701,"city_id":2739308,"language_key":"sq","name":"Al-Salt"}
+{"id":210926778,"city_id":2739309,"language_key":"sq","name":"Ash Shaji"}
+{"id":210926855,"city_id":2739310,"language_key":"sq","name":"As Safinah"}
+{"id":210926932,"city_id":2739311,"language_key":"sq","name":"As Safinah"}
+{"id":210927009,"city_id":2739312,"language_key":"sq","name":"Si Safinah"}
+{"id":210927086,"city_id":2739313,"language_key":"sq","name":"Safi"}
+{"id":210927163,"city_id":2739314,"language_key":"sq","name":"Si Sadaqah"}
+{"id":210927240,"city_id":2739315,"language_key":"sq","name":"Ash Shuqayq"}
+{"id":210927317,"city_id":2739316,"language_key":"sq","name":"Esh Shunah esh Shamaliyah"}
+{"id":210927471,"city_id":2739318,"language_key":"sq","name":"Esh Shejh Muhamed"}
+{"id":210927548,"city_id":2739319,"language_key":"sq","name":"Shoubak"}
+{"id":210927702,"city_id":2739321,"language_key":"sq","name":"Esh Shajarah"}
+{"id":210927779,"city_id":2739322,"language_key":"sq","name":"Ar Ruwayshid"}
+{"id":210928010,"city_id":2739325,"language_key":"sq","name":"Ar Rumman"}
+{"id":210928087,"city_id":2739326,"language_key":"sq","name":"Ar Rumaymin"}
+{"id":210928164,"city_id":2739327,"language_key":"sq","name":"Ar Rumaymin"}
+{"id":210928318,"city_id":2739329,"language_key":"sq","name":"Ar Rashayidah"}
+{"id":210928395,"city_id":2739330,"language_key":"sq","name":"Ar Rashadijah"}
+{"id":210928472,"city_id":2739331,"language_key":"sq","name":"Ar Rashadiyah"}
+{"id":210928549,"city_id":2739332,"language_key":"sq","name":"Ar Ramtha"}
+{"id":210928626,"city_id":2739333,"language_key":"sq","name":"Ar Rajif"}
+{"id":210928703,"city_id":2739334,"language_key":"sq","name":"Ar Rahbah"}
+{"id":210928780,"city_id":2739335,"language_key":"sq","name":"Një Nahdah"}
+{"id":210928857,"city_id":2739336,"language_key":"sq","name":"Ar Rabbah"}
+{"id":210928934,"city_id":2739337,"language_key":"sq","name":"Ar Rabbah"}
+{"id":210929011,"city_id":2739338,"language_key":"sq","name":"Ar Rab'ah"}
+{"id":210929165,"city_id":2739340,"language_key":"sq","name":"Aqraba"}
+{"id":210929242,"city_id":2739341,"language_key":"sq","name":"`Aqraba"}
+{"id":210929396,"city_id":2739343,"language_key":"sq","name":"Një Nuajjimah"}
+{"id":210929550,"city_id":2739345,"language_key":"sq","name":"Një Nimrah"}
+{"id":210929627,"city_id":2739346,"language_key":"sq","name":"An Naqubah"}
+{"id":210929704,"city_id":2739347,"language_key":"sq","name":"Një Naq`"}
+{"id":210929781,"city_id":2739348,"language_key":"sq","name":"An Nabi Hud"}
+{"id":210929858,"city_id":2739349,"language_key":"sq","name":"'Anxharah"}
+{"id":210929935,"city_id":2739350,"language_key":"sq","name":"`Amrawah"}
+{"id":210930012,"city_id":2739351,"language_key":"sq","name":"`Amrawah"}
+{"id":210930089,"city_id":2739352,"language_key":"sq","name":"Amrah ue Umejre"}
+{"id":210930243,"city_id":2739354,"language_key":"sq","name":"Amani"}
+{"id":210930320,"city_id":2739355,"language_key":"sq","name":"Al Yarut"}
+{"id":210930397,"city_id":2739356,"language_key":"sq","name":"alyarwt"}
+{"id":210930551,"city_id":2739358,"language_key":"sq","name":"alʿmyan"}
+{"id":210930628,"city_id":2739359,"language_key":"sq","name":"El Kuvejrah"}
+{"id":210930782,"city_id":2739361,"language_key":"sq","name":"Al Qurayyat"}
+{"id":210930859,"city_id":2739362,"language_key":"sq","name":"Shalashil"}
+{"id":210930936,"city_id":2739363,"language_key":"sq","name":"El Qisfah"}
+{"id":210931013,"city_id":2739364,"language_key":"sq","name":"El Qisfah"}
+{"id":210931090,"city_id":2739365,"language_key":"sq","name":"Al Khalidiyah ash Sharqiyah"}
+{"id":210931167,"city_id":2739366,"language_key":"sq","name":"Qatraneh"}
+{"id":210931244,"city_id":2739367,"language_key":"sq","name":"Al Qastal"}
+{"id":210931321,"city_id":2739368,"language_key":"sq","name":"Al Kasr"}
+{"id":210931398,"city_id":2739369,"language_key":"sq","name":"Al Mushayrifah al Gharbiyah"}
+{"id":210931475,"city_id":2739370,"language_key":"sq","name":"El Musheyrifah el Gharbiyah"}
+{"id":210931629,"city_id":2739372,"language_key":"sq","name":"El Mushejrife"}
+{"id":210931783,"city_id":2739374,"language_key":"sq","name":"El Mushaqqar"}
+{"id":210931860,"city_id":2739375,"language_key":"sq","name":"El Musejtibah"}
+{"id":210932091,"city_id":2739378,"language_key":"sq","name":"Manshiyat el Qunw"}
+{"id":210932168,"city_id":2739379,"language_key":"sq","name":"El Mukejfitah"}
+{"id":210932245,"city_id":2739380,"language_key":"sq","name":"El Muxhajde"}
+{"id":210932322,"city_id":2739381,"language_key":"sq","name":"Al Mughayir"}
+{"id":210932399,"city_id":2739382,"language_key":"sq","name":"Al Mudawwarah"}
+{"id":210932476,"city_id":2739383,"language_key":"sq","name":"El Mudawwarah"}
+{"id":210932553,"city_id":2739384,"language_key":"sq","name":"Ghawr al Mazra`ah"}
+{"id":210932630,"city_id":2739385,"language_key":"sq","name":"Al Marrazah"}
+{"id":210932707,"city_id":2739386,"language_key":"sq","name":"Al Mazar ash Shamali"}
+{"id":210932784,"city_id":2739387,"language_key":"sq","name":"Al Mazar al Janubi"}
+{"id":210932861,"city_id":2739388,"language_key":"sq","name":"Al Mazar al Janubi"}
+{"id":210932938,"city_id":2739389,"language_key":"sq","name":"Al Mathluthah"}
+{"id":210933015,"city_id":2739390,"language_key":"sq","name":"Al Mastabah"}
+{"id":210933169,"city_id":2739392,"language_key":"sq","name":"Al Masarrah al Gharbiyah"}
+{"id":210933246,"city_id":2739393,"language_key":"sq","name":"Al Mara'ah"}
+{"id":210933323,"city_id":2739394,"language_key":"sq","name":"Al Mantarah"}
+{"id":210933477,"city_id":2739396,"language_key":"sq","name":"Al Qarin"}
+{"id":210933631,"city_id":2739398,"language_key":"sq","name":"Menshijat Beni Hasan"}
+{"id":210933785,"city_id":2739400,"language_key":"sq","name":"Al Manshiyah al Mazzar"}
+{"id":210933939,"city_id":2739402,"language_key":"sq","name":"Al Ma'muniyah"}
+{"id":210934016,"city_id":2739403,"language_key":"sq","name":"El Makhbatah"}
+{"id":210934093,"city_id":2739404,"language_key":"sq","name":"Al Majdal"}
+{"id":210934170,"city_id":2739405,"language_key":"sq","name":"Mafrak"}
+{"id":210934247,"city_id":2739406,"language_key":"sq","name":"Al Madwar"}
+{"id":210934478,"city_id":2739409,"language_key":"sq","name":"Al Lajjun"}
+{"id":210934555,"city_id":2739410,"language_key":"sq","name":"Al Lajjun"}
+{"id":210934786,"city_id":2739413,"language_key":"sq","name":"Al Khurajbah"}
+{"id":210934863,"city_id":2739414,"language_key":"sq","name":"Al Khuraybah"}
+{"id":210935017,"city_id":2739416,"language_key":"sq","name":"Al Khirbah si Samra'"}
+{"id":210935094,"city_id":2739417,"language_key":"sq","name":"alkhraj"}
+{"id":210935171,"city_id":2739418,"language_key":"sq","name":"Al Khanasiri"}
+{"id":210935325,"city_id":2739420,"language_key":"sq","name":"Al Karamah"}
+{"id":210935402,"city_id":2739421,"language_key":"sq","name":"Al Kamshah"}
+{"id":210935479,"city_id":2739422,"language_key":"sq","name":"Al Kafrayn"}
+{"id":210935556,"city_id":2739423,"language_key":"sq","name":"Al Kiswah"}
+{"id":210935633,"city_id":2739424,"language_key":"sq","name":"Al Juwayyidah"}
+{"id":210935787,"city_id":2739426,"language_key":"sq","name":"Al Jumayyil"}
+{"id":210935941,"city_id":2739428,"language_key":"sq","name":"Al Judayyidah"}
+{"id":210936095,"city_id":2739430,"language_key":"sq","name":"Al Jubayhah"}
+{"id":210936172,"city_id":2739431,"language_key":"sq","name":"Al Jizah"}
+{"id":210936326,"city_id":2739433,"language_key":"sq","name":"Al Jazzazah"}
+{"id":210936557,"city_id":2739436,"language_key":"sq","name":"Esh Shejh Husejn"}
+{"id":210936634,"city_id":2739437,"language_key":"sq","name":"El-Xhafr"}
+{"id":210936865,"city_id":2739440,"language_key":"sq","name":"Al `Is"}
+{"id":210936942,"city_id":2739441,"language_key":"sq","name":"alʿraq"}
+{"id":210937019,"city_id":2739442,"language_key":"sq","name":"Al Husayniyah"}
+{"id":210937096,"city_id":2739443,"language_key":"sq","name":"Al Husayniyah"}
+{"id":210937250,"city_id":2739445,"language_key":"sq","name":"Al Husn"}
+{"id":210937327,"city_id":2739446,"language_key":"sq","name":"Al Hayy"}
+{"id":210937404,"city_id":2739447,"language_key":"sq","name":"Al Hawwasiyah"}
+{"id":210937481,"city_id":2739448,"language_key":"sq","name":"Al Hashimiyah"}
+{"id":210937558,"city_id":2739449,"language_key":"sq","name":"Al Hashimiyah"}
+{"id":210937635,"city_id":2739450,"language_key":"sq","name":"alhsa"}
+{"id":210937712,"city_id":2739451,"language_key":"sq","name":"Al Harbaj"}
+{"id":210937866,"city_id":2739453,"language_key":"sq","name":"Al Hakawah"}
+{"id":210938097,"city_id":2739456,"language_key":"sq","name":"Al Hamra'"}
+{"id":210938251,"city_id":2739458,"language_key":"sq","name":"Al Ghuwayr"}
+{"id":210938328,"city_id":2739459,"language_key":"sq","name":"Al Ghuwayr"}
+{"id":210938405,"city_id":2739460,"language_key":"sq","name":"Al Ghubayyah"}
+{"id":210938482,"city_id":2739461,"language_key":"sq","name":"Fuheis"}
+{"id":210938559,"city_id":2739462,"language_key":"sq","name":"Al Fajdah"}
+{"id":210938636,"city_id":2739463,"language_key":"sq","name":"Al Fardhakh"}
+{"id":210938790,"city_id":2739465,"language_key":"sq","name":"Al `Uwaydah"}
+{"id":210938944,"city_id":2739467,"language_key":"sq","name":"Usfur"}
+{"id":210939175,"city_id":2739470,"language_key":"sq","name":"Al Bunayyat al Janubiyah"}
+{"id":210939252,"city_id":2739471,"language_key":"sq","name":"Bir al Baytar"}
+{"id":210939329,"city_id":2739472,"language_key":"sq","name":"Al Bassah"}
+{"id":210939406,"city_id":2739473,"language_key":"sq","name":"El Bakurah"}
+{"id":210939483,"city_id":2739474,"language_key":"sq","name":"albaʿj"}
+{"id":210939560,"city_id":2739475,"language_key":"sq","name":"albhr"}
+{"id":210939637,"city_id":2739476,"language_key":"sq","name":"'Ajn al Bahhath"}
+{"id":210939714,"city_id":2739477,"language_key":"sq","name":"alʿyna"}
+{"id":210939868,"city_id":2739479,"language_key":"sq","name":"Al `Arudah"}
+{"id":210940022,"city_id":2739481,"language_key":"sq","name":"Al 'Arid"}
+{"id":210940176,"city_id":2739483,"language_key":"sq","name":"Akaba"}
+{"id":210940407,"city_id":2739486,"language_key":"sq","name":"`Al`al"}
+{"id":210940484,"city_id":2739487,"language_key":"sq","name":"`Al`al"}
+{"id":210940638,"city_id":2739489,"language_key":"sq","name":"El Adasijah"}
+{"id":210940792,"city_id":2739491,"language_key":"sq","name":"Ajloun"}
+{"id":210940869,"city_id":2739492,"language_key":"sq","name":"Adir"}
+{"id":210940946,"city_id":2739493,"language_key":"sq","name":"Edh Dhunaybah"}
+{"id":210941023,"city_id":2739494,"language_key":"sq","name":"Adh Dhunaybah"}
+{"id":210941485,"city_id":2739500,"language_key":"sq","name":"Ad Dafyanah"}
+{"id":210941562,"city_id":2739501,"language_key":"sq","name":"Ad Dafyanah"}
+{"id":210941716,"city_id":2739503,"language_key":"sq","name":"Ad Dabab"}
+{"id":210941870,"city_id":2739505,"language_key":"sq","name":"`Abur"}
+{"id":210941947,"city_id":2739506,"language_key":"sq","name":"Abu Makhtub"}
+{"id":210942024,"city_id":2739507,"language_key":"sq","name":"Ebu Makhtub"}
+{"id":210942101,"city_id":2739508,"language_key":"sq","name":"Ebu Hammur"}
+{"id":210942178,"city_id":2739509,"language_key":"sq","name":"Tumayr"}
+{"id":210942255,"city_id":2739510,"language_key":"sq","name":"Abu az Zighan"}
+{"id":210942332,"city_id":2739511,"language_key":"sq","name":"Umm as Salih"}
+{"id":210942409,"city_id":2739512,"language_key":"sq","name":"Umm si Salih"}
+{"id":210942486,"city_id":2739513,"language_key":"sq","name":"Ebu esh Shahm"}
+{"id":210942640,"city_id":2739515,"language_key":"sq","name":"Abu al Lasan"}
+{"id":210942717,"city_id":2739516,"language_key":"sq","name":"Al Qasimiyah"}
+{"id":210942794,"city_id":2739517,"language_key":"sq","name":"`Abil"}
+{"id":210942871,"city_id":2739518,"language_key":"sq","name":"Ar Rishah"}
+{"id":210943025,"city_id":2739520,"language_key":"sq","name":"Dhuhejbe"}
+{"id":210943102,"city_id":2739521,"language_key":"sq","name":"Al Manakhir"}
+{"id":210943179,"city_id":2739522,"language_key":"sq","name":"Al Muwaqqar"}
+{"id":210943256,"city_id":2739523,"language_key":"sq","name":"Dab'ah"}
+{"id":210943487,"city_id":2739526,"language_key":"sq","name":"Rahmah"}
+{"id":210943564,"city_id":2739527,"language_key":"sq","name":"Rahmah"}
+{"id":210943641,"city_id":2739528,"language_key":"sq","name":"El Humaymah el Jadidah"}
+{"id":210943795,"city_id":2739530,"language_key":"sq","name":"Qyteti Karak"}
+{"id":210944026,"city_id":2739533,"language_key":"sq","name":"Al Hamidiyah"}
+{"id":210944180,"city_id":2739535,"language_key":"sq","name":"Al Husayniyah"}
+{"id":210944411,"city_id":2739538,"language_key":"sq","name":"Sheyzam"}
+{"id":210944488,"city_id":2739539,"language_key":"sq","name":"Ebu Benna"}
+{"id":210944565,"city_id":2739540,"language_key":"sq","name":"Suvejmih"}
+{"id":210944719,"city_id":2739542,"language_key":"sq","name":"Si Salmani"}
+{"id":210944796,"city_id":2739543,"language_key":"sq","name":"Al Muhammadiyah"}
+{"id":210944873,"city_id":2739544,"language_key":"sq","name":"'Unayzah"}
+{"id":210945104,"city_id":2739547,"language_key":"sq","name":"Ez Zubejriyah"}
+{"id":210945181,"city_id":2739548,"language_key":"sq","name":"Al Manarah"}
+{"id":210945258,"city_id":2739549,"language_key":"sq","name":"Al Muthallath"}
+{"id":210945335,"city_id":2739550,"language_key":"sq","name":"Ra's al Qaw`iyah"}
+{"id":210945643,"city_id":2739554,"language_key":"sq","name":"Huwalah"}
+{"id":210945797,"city_id":2739556,"language_key":"sq","name":"Bir ad Dabbaghat"}
+{"id":210945874,"city_id":2739557,"language_key":"sq","name":"At Tumay`ah"}
+{"id":210945951,"city_id":2739558,"language_key":"sq","name":"El Xherba'el Kabirah"}
+{"id":210946028,"city_id":2739559,"language_key":"sq","name":"Al Qarin"}
+{"id":210946105,"city_id":2739560,"language_key":"sq","name":"Al Xherba' si Saghirah"}
+{"id":210946182,"city_id":2739561,"language_key":"sq","name":"Al ' Uwaynah"}
+{"id":210946259,"city_id":2739562,"language_key":"sq","name":"Në Tahunah"}
+{"id":210946336,"city_id":2739563,"language_key":"sq","name":"Umm Sayhun"}
+{"id":210946413,"city_id":2739564,"language_key":"sq","name":"albyda"}
+{"id":210946490,"city_id":2739565,"language_key":"sq","name":"Iskan al Hayy"}
+{"id":210946567,"city_id":2739566,"language_key":"sq","name":"Bir Abu al `Alak"}
+{"id":210946644,"city_id":2739567,"language_key":"sq","name":"Bir Ebu al `Alak"}
+{"id":210946952,"city_id":2739571,"language_key":"sq","name":"Bir Madhkur"}
+{"id":210947106,"city_id":2739573,"language_key":"sq","name":"Gharandal"}
+{"id":210947337,"city_id":2739576,"language_key":"sq","name":"Zuhejka"}
+{"id":210947414,"city_id":2739577,"language_key":"sq","name":"Adiba`ah"}
+{"id":210947491,"city_id":2739578,"language_key":"sq","name":"Adiba'ah"}
+{"id":210947722,"city_id":2739581,"language_key":"sq","name":"Al Burbaytah"}
+{"id":210947876,"city_id":2739583,"language_key":"sq","name":"Një Naimah"}
+{"id":210947953,"city_id":2739584,"language_key":"sq","name":"Shuqayra el Gharbiyah"}
+{"id":210948107,"city_id":2739586,"language_key":"sq","name":"Al Kadisiyah"}
+{"id":210948184,"city_id":2739587,"language_key":"sq","name":"El Ma`murah"}
+{"id":210948261,"city_id":2739588,"language_key":"sq","name":"alhyad"}
+{"id":210948338,"city_id":2739589,"language_key":"sq","name":"tasan"}
+{"id":210948415,"city_id":2739590,"language_key":"sq","name":"Al Qasimiyah"}
+{"id":210948492,"city_id":2739591,"language_key":"sq","name":"Al Qaryatayn"}
+{"id":210948800,"city_id":2739595,"language_key":"sq","name":"Si Sadaqah"}
+{"id":210948877,"city_id":2739596,"language_key":"sq","name":"Dilagah"}
+{"id":210949031,"city_id":2739598,"language_key":"sq","name":"Umm ar Rahm"}
+{"id":210949262,"city_id":2739601,"language_key":"sq","name":"Waqqas"}
+{"id":210949570,"city_id":2739605,"language_key":"sq","name":"khshm albtraʾ"}
+{"id":210949724,"city_id":2739607,"language_key":"sq","name":"Ar Rashidiyah"}
+{"id":210949801,"city_id":2739608,"language_key":"sq","name":"Ar Rashidiyah"}
+{"id":210949878,"city_id":2739609,"language_key":"sq","name":"Munayshir"}
+{"id":210949955,"city_id":2739610,"language_key":"sq","name":"Munayshir"}
+{"id":210950032,"city_id":2739611,"language_key":"sq","name":"Ad Dish"}
+{"id":210950109,"city_id":2739612,"language_key":"sq","name":"Në Tuwaysah"}
+{"id":210950186,"city_id":2739613,"language_key":"sq","name":"As Salihiyah"}
+{"id":210950263,"city_id":2739614,"language_key":"sq","name":"Si Salihiyah"}
+{"id":210950340,"city_id":2739615,"language_key":"sq","name":"Esh Shakiriyah"}
+{"id":210950417,"city_id":2739616,"language_key":"sq","name":"Dibbat Hanut"}
+{"id":210950571,"city_id":2739618,"language_key":"sq","name":"Al Muzaffar"}
+{"id":210950725,"city_id":2739620,"language_key":"sq","name":"Russeifa"}
+{"id":210950802,"city_id":2739621,"language_key":"sq","name":"Betania"}
+{"id":210950879,"city_id":2739622,"language_key":"sq","name":"Në Tabriyat"}
+{"id":210951110,"city_id":2739625,"language_key":"sq","name":"Al Manarah"}
+{"id":210951187,"city_id":2739626,"language_key":"sq","name":"Al Manarah"}
+{"id":210951264,"city_id":2739627,"language_key":"sq","name":"Uraynibah esh Sharkiyah"}
+{"id":210951341,"city_id":2739628,"language_key":"sq","name":"Ez Za`faran"}
+{"id":210951495,"city_id":2739630,"language_key":"sq","name":"Rujm Fahid"}
+{"id":210951726,"city_id":2739633,"language_key":"sq","name":"Al Basiliyah"}
+{"id":210951803,"city_id":2739634,"language_key":"sq","name":"Ash Shuhada'"}
+{"id":210951880,"city_id":2739635,"language_key":"sq","name":"Tumayr"}
+{"id":210952111,"city_id":2739638,"language_key":"sq","name":"Tur al Hashash"}
+{"id":210952419,"city_id":2739642,"language_key":"sq","name":"El Mabrukah"}
+{"id":210952573,"city_id":2739644,"language_key":"sq","name":"Al Katifah"}
+{"id":210952804,"city_id":2739647,"language_key":"sq","name":"Hamami ash Shamut"}
+{"id":210952881,"city_id":2739648,"language_key":"sq","name":"Ash Shamut"}
+{"id":210953112,"city_id":2739651,"language_key":"sq","name":"alfalj"}
+{"id":210953189,"city_id":2739652,"language_key":"sq","name":"Ad Damikhi"}
+{"id":210953266,"city_id":2739653,"language_key":"sq","name":"Ad Damikhi"}
+{"id":210953343,"city_id":2739654,"language_key":"sq","name":"Abu al Ghurban"}
+{"id":210953420,"city_id":2739655,"language_key":"sq","name":"Si Sulltani"}
+{"id":210953497,"city_id":2739656,"language_key":"sq","name":"Al Wadi al Abyad"}
+{"id":210953959,"city_id":2739662,"language_key":"sq","name":"alhrsh"}
+{"id":210954113,"city_id":2739664,"language_key":"sq","name":"Al Mathwah"}
+{"id":210954498,"city_id":2739669,"language_key":"sq","name":"Ad Dakhlah"}
+{"id":210954575,"city_id":2739670,"language_key":"sq","name":"Umm Butmah"}
+{"id":210954652,"city_id":2739671,"language_key":"sq","name":"Buvejde el Alimat"}
+{"id":210954806,"city_id":2739673,"language_key":"sq","name":"Al Ghadir al Abyad"}
+{"id":210954883,"city_id":2739674,"language_key":"sq","name":"Umm Hasmasah"}
+{"id":210954960,"city_id":2739675,"language_key":"sq","name":"Umm Hasmasah"}
+{"id":210955114,"city_id":2739677,"language_key":"sq","name":"Ar Rahmat"}
+{"id":210955191,"city_id":2739678,"language_key":"sq","name":"Al Mashraf"}
+{"id":210955268,"city_id":2739679,"language_key":"sq","name":"Al Mashraf"}
+{"id":210955576,"city_id":2739683,"language_key":"sq","name":"Manshiyat el Judu`"}
+{"id":210955653,"city_id":2739684,"language_key":"sq","name":"As Sa`idiyah"}
+{"id":210955730,"city_id":2739685,"language_key":"sq","name":"Si Sa`idiyah"}
+{"id":210955807,"city_id":2739686,"language_key":"sq","name":"Muthallath Sabha"}
+{"id":210955884,"city_id":2739687,"language_key":"sq","name":"Si Salihiyah"}
+{"id":210956038,"city_id":2739689,"language_key":"sq","name":"El Akib"}
+{"id":210956115,"city_id":2739690,"language_key":"sq","name":"Ar Rahab"}
+{"id":210956346,"city_id":2739693,"language_key":"sq","name":"Ravdat Basmah"}
+{"id":210956423,"city_id":2739694,"language_key":"sq","name":"Al Bustanah"}
+{"id":210956500,"city_id":2739695,"language_key":"sq","name":"Manshiyat al Ghayyath"}
+{"id":210956577,"city_id":2739696,"language_key":"sq","name":"Manshiyat al Ghayyath"}
+{"id":210956808,"city_id":2739699,"language_key":"sq","name":"Tala Bay"}
+{"id":210956885,"city_id":2739700,"language_key":"sq","name":"Alherafya"}
+{"id":210956962,"city_id":2739701,"language_key":"sq","name":"Dayr al Qinn"}
+{"id":210957039,"city_id":2739702,"language_key":"sq","name":"El Xhubejah"}
+{"id":210957116,"city_id":2739703,"language_key":"sq","name":"El Xhubejah"}
+{"id":210957270,"city_id":2739705,"language_key":"sq","name":"Madwar al Qinn"}
+{"id":210957347,"city_id":2739706,"language_key":"sq","name":"Tall Armah"}
+{"id":210957424,"city_id":2739707,"language_key":"sq","name":"Al Bishriyah"}
+{"id":210957501,"city_id":2739708,"language_key":"sq","name":"Al Bishriyah"}
+{"id":210957578,"city_id":2739709,"language_key":"sq","name":"Beni Hashim"}
+{"id":210957732,"city_id":2739711,"language_key":"sq","name":"Al Manarah"}
+{"id":210957809,"city_id":2739712,"language_key":"sq","name":"Si Saada"}
+{"id":210957963,"city_id":2739714,"language_key":"sq","name":"Najifah"}
+{"id":210958040,"city_id":2739715,"language_key":"sq","name":"Al Hamidiyah"}
+{"id":210958117,"city_id":2739716,"language_key":"sq","name":"El Munaysah"}
+{"id":210958194,"city_id":2739717,"language_key":"sq","name":"Ar Rifa`ijat"}
+{"id":210958271,"city_id":2739718,"language_key":"sq","name":"Qasim"}
+{"id":210958348,"city_id":2739719,"language_key":"sq","name":"Ad Dawlah"}
+{"id":210958502,"city_id":2739721,"language_key":"sq","name":"Shi`b as Suq"}
+{"id":210958656,"city_id":2739723,"language_key":"sq","name":"Ghadir dhe Nakah"}
+{"id":210958810,"city_id":2739725,"language_key":"sq","name":"Az Zababidah"}
+{"id":210958964,"city_id":2739727,"language_key":"sq","name":"El Mazra'ah"}
+{"id":210959118,"city_id":2739729,"language_key":"sq","name":"Shaqrah"}
+{"id":210959195,"city_id":2739730,"language_key":"sq","name":"Dahiyat el Husejn"}
+{"id":210959349,"city_id":2739732,"language_key":"sq","name":"El Mufarradat esh Sharkiyah"}
+{"id":210959657,"city_id":2739736,"language_key":"sq","name":"Ar Rawdah"}
+{"id":210959734,"city_id":2739737,"language_key":"sq","name":"Ar Rawdah"}
+{"id":210959811,"city_id":2739738,"language_key":"sq","name":"Hamnanah el Jadidah"}
+{"id":210959888,"city_id":2739739,"language_key":"sq","name":"Al Hariw"}
+{"id":210959965,"city_id":2739740,"language_key":"sq","name":"Al Marajim"}
+{"id":210960042,"city_id":2739741,"language_key":"sq","name":"Al Marajim"}
+{"id":210960119,"city_id":2739742,"language_key":"sq","name":"Az Zahhah"}
+{"id":210960427,"city_id":2739746,"language_key":"sq","name":"Ar Rahab"}
+{"id":210960581,"city_id":2739748,"language_key":"sq","name":"El Muamariyah"}
+{"id":210960658,"city_id":2739749,"language_key":"sq","name":"Az Za`faranah"}
+{"id":210960735,"city_id":2739750,"language_key":"sq","name":"Ez Za`faranah"}
+{"id":210960812,"city_id":2739751,"language_key":"sq","name":"Një Nammarah"}
+{"id":210960889,"city_id":2739752,"language_key":"sq","name":"El Mufarradat"}
+{"id":210960966,"city_id":2739753,"language_key":"sq","name":"Al Hararah"}
+{"id":210961197,"city_id":2739756,"language_key":"sq","name":"Manshijat si Sultah"}
+{"id":210961505,"city_id":2739760,"language_key":"sq","name":"Al Buwaydah esh Sharkiyah"}
+{"id":210961659,"city_id":2739762,"language_key":"sq","name":"Rujm Sab` esh Shamali"}
+{"id":210961813,"city_id":2739764,"language_key":"sq","name":"Al Harbijah"}
+{"id":210961967,"city_id":2739766,"language_key":"sq","name":"Al Hasab"}
+{"id":210962044,"city_id":2739767,"language_key":"sq","name":"almkhdhat"}
+{"id":210962198,"city_id":2739769,"language_key":"sq","name":"Tawahin al `Udwan"}
+{"id":210962275,"city_id":2739770,"language_key":"sq","name":"Tewahin el Udvan"}
+{"id":210962429,"city_id":2739772,"language_key":"sq","name":"Al Haziyah"}
+{"id":210962506,"city_id":2739773,"language_key":"sq","name":"Umm al Mahabish"}
+{"id":210962583,"city_id":2739774,"language_key":"sq","name":"Makhzan ad Dab`"}
+{"id":210962660,"city_id":2739775,"language_key":"sq","name":"Umm Zejtunah"}
+{"id":210962814,"city_id":2739777,"language_key":"sq","name":"Iskan al Kaide"}
+{"id":210962891,"city_id":2739778,"language_key":"sq","name":"El Musheyrifah el Wusta"}
+{"id":210962968,"city_id":2739779,"language_key":"sq","name":"Al `Abdalli"}
+{"id":210963045,"city_id":2739780,"language_key":"sq","name":"Al 'Abdalli"}
+{"id":210963122,"city_id":2739781,"language_key":"sq","name":"Dayr al Kahf"}
+{"id":210963199,"city_id":2739782,"language_key":"sq","name":"Al Masarrah ash Sharqiyah"}
+{"id":210963276,"city_id":2739783,"language_key":"sq","name":"Al Masarrah ash Sharqiyah"}
+{"id":210963430,"city_id":2739785,"language_key":"sq","name":"Sowayma"}
+{"id":210963584,"city_id":2739787,"language_key":"sq","name":"Al Harir"}
+{"id":210963661,"city_id":2739788,"language_key":"sq","name":"Khirbat Sahul"}
+{"id":210963892,"city_id":2739791,"language_key":"sq","name":"Mexhid"}
+{"id":210964046,"city_id":2739793,"language_key":"sq","name":"El Manshiyah el Fawka"}
+{"id":210964200,"city_id":2739795,"language_key":"sq","name":"Fudayn"}
+{"id":210964431,"city_id":2739798,"language_key":"sq","name":"alqsyb"}
+{"id":210964662,"city_id":2739801,"language_key":"sq","name":"Al Qarn"}
+{"id":210964739,"city_id":2739802,"language_key":"sq","name":"Wadi ar Rayyan"}
+{"id":210964816,"city_id":2739803,"language_key":"sq","name":"Wadi ar Rayjan"}
+{"id":210964970,"city_id":2739805,"language_key":"sq","name":"Al Kasabat"}
+{"id":210965278,"city_id":2739809,"language_key":"sq","name":"Al Muzeyri`ah"}
+{"id":210965432,"city_id":2739811,"language_key":"sq","name":"Az Zahiriyah"}
+{"id":210965817,"city_id":2739816,"language_key":"sq","name":"Al Khallah"}
+{"id":210965971,"city_id":2739818,"language_key":"sq","name":"Siras"}
+{"id":210966125,"city_id":2739820,"language_key":"sq","name":"Bijarat el Asal"}
+{"id":210966202,"city_id":2739821,"language_key":"sq","name":"Khirbat Tayyarah"}
+{"id":210966510,"city_id":2739825,"language_key":"sq","name":"Al Ibrahimiyah"}
+{"id":210966587,"city_id":2739826,"language_key":"sq","name":"Ar Rahmah"}
+{"id":210966664,"city_id":2739827,"language_key":"sq","name":"Manshiyat Kafr Sawm"}
+{"id":210966741,"city_id":2739828,"language_key":"sq","name":"Qahfat ash Shawt"}
+{"id":210966818,"city_id":2739829,"language_key":"sq","name":"El Huxhaj"}
+{"id":210967203,"city_id":2739834,"language_key":"sq","name":"Karmat Hisban"}
+{"id":210967280,"city_id":2739835,"language_key":"sq","name":"Në Tuwaylah"}
+{"id":210967434,"city_id":2739837,"language_key":"sq","name":"Umm Kuzbarah"}
+{"id":210967511,"city_id":2739838,"language_key":"sq","name":"Al `Ashshah"}
+{"id":210967588,"city_id":2739839,"language_key":"sq","name":"Ad Dakhlah"}
+{"id":210967973,"city_id":2739844,"language_key":"sq","name":"Manshiyat Ma`in"}
+{"id":210968050,"city_id":2739845,"language_key":"sq","name":"Al Wahah"}
+{"id":210968127,"city_id":2739846,"language_key":"sq","name":"Al Wahah"}
+{"id":210968281,"city_id":2739848,"language_key":"sq","name":"Hawiyat el Balawinah"}
+{"id":210968358,"city_id":2739849,"language_key":"sq","name":"As Safa"}
+{"id":210968435,"city_id":2739850,"language_key":"sq","name":"Al Qaryah as Sufla"}
+{"id":210968512,"city_id":2739851,"language_key":"sq","name":"Al Makruth"}
+{"id":210968820,"city_id":2739855,"language_key":"sq","name":"Al Ghadir"}
+{"id":210968897,"city_id":2739856,"language_key":"sq","name":"Al Ghadir"}
+{"id":210969282,"city_id":2739861,"language_key":"sq","name":"Daush"}
+{"id":210969359,"city_id":2739862,"language_key":"sq","name":"Ad Dar"}
+{"id":210969436,"city_id":2739863,"language_key":"sq","name":"Një Namiyah"}
+{"id":210969667,"city_id":2739866,"language_key":"sq","name":"Umm Shajarah"}
+{"id":210969821,"city_id":2739868,"language_key":"sq","name":"Ballutah"}
+{"id":210969975,"city_id":2739870,"language_key":"sq","name":"Ar Rayhaniyah"}
+{"id":210970052,"city_id":2739871,"language_key":"sq","name":"Al Qaryatayn"}
+{"id":210970129,"city_id":2739872,"language_key":"sq","name":"Libb"}
+{"id":210970514,"city_id":2739877,"language_key":"sq","name":"Al Yahun"}
+{"id":210970591,"city_id":2739878,"language_key":"sq","name":"Al Jahun"}
+{"id":210970668,"city_id":2739879,"language_key":"sq","name":"Al Bawayb"}
+{"id":210970745,"city_id":2739880,"language_key":"sq","name":"Al Bawayb"}
+{"id":210970976,"city_id":2739883,"language_key":"sq","name":"Zabdah"}
+{"id":210971053,"city_id":2739884,"language_key":"sq","name":"Zayta"}
+{"id":210971284,"city_id":2739887,"language_key":"sq","name":"Thughrat Zubejd"}
+{"id":210971361,"city_id":2739888,"language_key":"sq","name":"ras alaqrʿ"}
+{"id":210971515,"city_id":2739890,"language_key":"sq","name":"Al Fawwarah"}
+{"id":210971592,"city_id":2739891,"language_key":"sq","name":"El Fewarah"}
+{"id":210971669,"city_id":2739892,"language_key":"sq","name":"`Amamah"}
+{"id":210971746,"city_id":2739893,"language_key":"sq","name":"`Amamah"}
+{"id":210971977,"city_id":2739896,"language_key":"sq","name":"Al Badu'"}
+{"id":210972054,"city_id":2739897,"language_key":"sq","name":"Ar Rahmaniyah"}
+{"id":210972131,"city_id":2739898,"language_key":"sq","name":"Ar Rahmaniyah"}
+{"id":210972362,"city_id":2739901,"language_key":"sq","name":"Salhub"}
+{"id":210972516,"city_id":2739903,"language_key":"sq","name":"An Nasiriyah"}
+{"id":210972593,"city_id":2739904,"language_key":"sq","name":"Një Nasiriyah"}
+{"id":210972670,"city_id":2739905,"language_key":"sq","name":"Ash Shunah al Jadidah"}
+{"id":210972747,"city_id":2739906,"language_key":"sq","name":"Esh Shunah el Xhadidah"}
+{"id":210972824,"city_id":2739907,"language_key":"sq","name":"Al Jawasirah"}
+{"id":210972978,"city_id":2739909,"language_key":"sq","name":"El Ajaxhirah"}
+{"id":210973055,"city_id":2739910,"language_key":"sq","name":"Ar Rawdah"}
+{"id":210973132,"city_id":2739911,"language_key":"sq","name":"Ar Rabbah"}
+{"id":210973440,"city_id":2739915,"language_key":"sq","name":"Al Hakur"}
+{"id":210973517,"city_id":2739916,"language_key":"sq","name":"alkashf"}
+{"id":210973825,"city_id":2739920,"language_key":"sq","name":"Al Hashimiyah"}
+{"id":210974056,"city_id":2739923,"language_key":"sq","name":"El Xhuajdiyah"}
+{"id":210974518,"city_id":2739929,"language_key":"sq","name":"Ad Dakhlah"}
+{"id":210975057,"city_id":2739936,"language_key":"sq","name":"Al Balawinah"}
+{"id":210975134,"city_id":2739937,"language_key":"sq","name":"Al Jiftlik"}
+{"id":210975442,"city_id":2739941,"language_key":"sq","name":"Zahrat ar Raml"}
+{"id":210975519,"city_id":2739942,"language_key":"sq","name":"Zahrat ar Raml"}
+{"id":210975673,"city_id":2739944,"language_key":"sq","name":"Al Wada"}
+{"id":210975904,"city_id":2739947,"language_key":"sq","name":"Umm Harruba"}
+{"id":210976058,"city_id":2739949,"language_key":"sq","name":"Si Sarw"}
+{"id":210976135,"city_id":2739950,"language_key":"sq","name":"Al Butayn"}
+{"id":210976212,"city_id":2739951,"language_key":"sq","name":"Batna"}
+{"id":210976289,"city_id":2739952,"language_key":"sq","name":"Ruwaished"}
+{"id":210976366,"city_id":2739953,"language_key":"sq","name":"Rukban"}
+{"id":210976751,"city_id":2739958,"language_key":"sq","name":"Abu Laila"}
+{"id":210976828,"city_id":2739959,"language_key":"sq","name":"Umm në Tawwabin"}
+{"id":210976905,"city_id":2739960,"language_key":"sq","name":"Al `Araqin"}
+{"id":210976982,"city_id":2739961,"language_key":"sq","name":"Umm Hillal"}
+{"id":210977213,"city_id":2739964,"language_key":"sq","name":"Shahtur"}
+{"id":210977444,"city_id":2739967,"language_key":"sq","name":"Umk ar Rabakh"}
+{"id":210977521,"city_id":2739968,"language_key":"sq","name":"Një Nazazah"}
+{"id":210977752,"city_id":2739971,"language_key":"sq","name":"Karm si Sani`"}
+{"id":210978060,"city_id":2739975,"language_key":"sq","name":"Barda"}
+{"id":210978137,"city_id":2739976,"language_key":"sq","name":"Kumnah"}
+{"id":210978214,"city_id":2739977,"language_key":"sq","name":"Al Shihabiyah"}
+{"id":210978522,"city_id":2739981,"language_key":"sq","name":"Ar Rashidiyah"}
+{"id":210979677,"city_id":2739996,"language_key":"sq","name":"Umm al Ghizlan"}
+{"id":210979754,"city_id":2739997,"language_key":"sq","name":"Një Namurah"}
+{"id":210979908,"city_id":2739999,"language_key":"sq","name":"Az Zaytun"}
+{"id":210979985,"city_id":2740000,"language_key":"sq","name":"Al Kabariyah"}
+{"id":210980524,"city_id":2740007,"language_key":"sq","name":"`Asim"}
+{"id":210980832,"city_id":2740011,"language_key":"sq","name":"Al Murjam"}
+{"id":210980986,"city_id":2740013,"language_key":"sq","name":"Tirat Zejd"}
+{"id":210981063,"city_id":2740014,"language_key":"sq","name":"Balutah"}
+{"id":210981217,"city_id":2740016,"language_key":"sq","name":"Ebu esh Shurush"}
+{"id":210981371,"city_id":2740018,"language_key":"sq","name":"Al Haruth"}
+{"id":210981448,"city_id":2740019,"language_key":"sq","name":"Al Hashimiyah"}
+{"id":210981525,"city_id":2740020,"language_key":"sq","name":"El Ukdah"}
+{"id":210981602,"city_id":2740021,"language_key":"sq","name":"Ras Abu al Khayr"}
+{"id":210981987,"city_id":2740026,"language_key":"sq","name":"Ras si Sus"}
+{"id":210982064,"city_id":2740027,"language_key":"sq","name":"Një Nakab"}
+{"id":210982141,"city_id":2740028,"language_key":"sq","name":"El Jabisah"}
+{"id":210982295,"city_id":2740030,"language_key":"sq","name":"Ebu esh Sha`ar"}
+{"id":210982372,"city_id":2740031,"language_key":"sq","name":"Bajadir si Suwalimah"}
+{"id":210982449,"city_id":2740032,"language_key":"sq","name":"El Mudawwarah"}
+{"id":210982526,"city_id":2740033,"language_key":"sq","name":"Thughrat `Usfur"}
+{"id":210982603,"city_id":2740034,"language_key":"sq","name":"alhsban"}
+{"id":210982757,"city_id":2740036,"language_key":"sq","name":"Ibnul Azm"}
+{"id":210983065,"city_id":2740040,"language_key":"sq","name":"Al Murush"}
+{"id":210983142,"city_id":2740041,"language_key":"sq","name":"Ez Zeyzafunah"}
+{"id":210983604,"city_id":2740047,"language_key":"sq","name":"Al Hariw"}
+{"id":210983681,"city_id":2740048,"language_key":"sq","name":"alhrth"}
+{"id":210983758,"city_id":2740049,"language_key":"sq","name":"Al Birkah"}
+{"id":210984066,"city_id":2740053,"language_key":"sq","name":"Bassat ' Uqlah"}
+{"id":210984143,"city_id":2740054,"language_key":"sq","name":"Umm al Khashab"}
+{"id":210984374,"city_id":2740057,"language_key":"sq","name":"Ras ad Dallaqah"}
+{"id":210984451,"city_id":2740058,"language_key":"sq","name":"Umm Hamat"}
+{"id":210984528,"city_id":2740059,"language_key":"sq","name":"Bejt el Fakih"}
+{"id":210984836,"city_id":2740063,"language_key":"sq","name":"Al Jabbarat"}
+{"id":210985144,"city_id":2740067,"language_key":"sq","name":"Zaqrit el Hudra'"}
+{"id":210985298,"city_id":2740069,"language_key":"sq","name":"Adh Dhakhirah"}
+{"id":210985452,"city_id":2740071,"language_key":"sq","name":"Al Xhabal al Akhdar"}
+{"id":210985529,"city_id":2740072,"language_key":"sq","name":"Al Jabal al Akhdar"}
+{"id":210985760,"city_id":2740075,"language_key":"sq","name":"Al Mugajarat"}
+{"id":210985837,"city_id":2740076,"language_key":"sq","name":"krm slman"}
+{"id":210985914,"city_id":2740077,"language_key":"sq","name":"Bab al Habasiyah"}
+{"id":210985991,"city_id":2740078,"language_key":"sq","name":"Al Hashimiyah"}
+{"id":210986068,"city_id":2740079,"language_key":"sq","name":"Dayr si Simadiyah ash Shamali"}
+{"id":210986222,"city_id":2740081,"language_key":"sq","name":"Khallat al Halu"}
+{"id":210986376,"city_id":2740083,"language_key":"sq","name":"Bi'r ad Daliyah"}
+{"id":210986607,"city_id":2740086,"language_key":"sq","name":"Ghirnatah"}
+{"id":210986684,"city_id":2740087,"language_key":"sq","name":"Al Kadam"}
+{"id":210986761,"city_id":2740088,"language_key":"sq","name":"Al Kadam"}
+{"id":210986838,"city_id":2740089,"language_key":"sq","name":"Mukhannaq ad Dab`"}
+{"id":210987069,"city_id":2740092,"language_key":"sq","name":"Suvejlih"}
+{"id":210987146,"city_id":2740093,"language_key":"sq","name":"mrj alhmam"}
+{"id":210987223,"city_id":2740094,"language_key":"sq","name":"Ash-Shubak"}
+{"id":210987377,"city_id":2740096,"language_key":"sq","name":"Al Mansurah"}
+{"id":210987454,"city_id":2740097,"language_key":"sq","name":"Al Hulwah"}
+{"id":210987531,"city_id":2740098,"language_key":"sq","name":"Usfur"}
+{"id":210987608,"city_id":2740099,"language_key":"sq","name":"`Usfur"}

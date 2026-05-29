@@ -1,0 +1,578 @@
+{"id":335958423,"city_id":4363097,"language_key":"ja","name":"斗六市"}
+{"id":335959424,"city_id":4363110,"language_key":"ja","name":"永康区"}
+{"id":335960502,"city_id":4363124,"language_key":"ja","name":"永芳"}
+{"id":335961041,"city_id":4363131,"language_key":"ja","name":"永京"}
+{"id":335961811,"city_id":4363141,"language_key":"ja","name":"シ トウ クオ"}
+{"id":335962581,"city_id":4363151,"language_key":"ja","name":"ユリ"}
+{"id":335964044,"city_id":4363170,"language_key":"ja","name":"ユエ メイ"}
+{"id":335965430,"city_id":4363188,"language_key":"ja","name":"ユ ジング"}
+{"id":335965507,"city_id":4363189,"language_key":"ja","name":"ユ チ"}
+{"id":335965584,"city_id":4363190,"language_key":"ja","name":"ヨウチェ ヲ"}
+{"id":335966277,"city_id":4363199,"language_key":"ja","name":"ヨウチェ ケング"}
+{"id":335968741,"city_id":4363231,"language_key":"ja","name":"ユアン シャン"}
+{"id":335969588,"city_id":4363242,"language_key":"ja","name":"員林"}
+{"id":335969896,"city_id":4363246,"language_key":"ja","name":"元里"}
+{"id":335970589,"city_id":4363255,"language_key":"ja","name":"元昌"}
+{"id":335971667,"city_id":4363269,"language_key":"ja","name":"鶯歌区"}
+{"id":335972668,"city_id":4363282,"language_key":"ja","name":"ヤン クオ リアオ"}
+{"id":335974439,"city_id":4363305,"language_key":"ja","name":"ヤン ピング"}
+{"id":335977211,"city_id":4363341,"language_key":"ja","name":"楊梅区"}
+{"id":335979213,"city_id":4363367,"language_key":"ja","name":"チェング ゴング"}
+{"id":335981985,"city_id":4363403,"language_key":"ja","name":"ウータイ"}
+{"id":335984526,"city_id":4363436,"language_key":"ja","name":"山寮"}
+{"id":335987298,"city_id":4363472,"language_key":"ja","name":"五九林"}
+{"id":335987837,"city_id":4363479,"language_key":"ja","name":"五光市"}
+{"id":335988530,"city_id":4363488,"language_key":"ja","name":"五股区"}
+{"id":335989839,"city_id":4363505,"language_key":"ja","name":"ウ ジアン クオ"}
+{"id":335990763,"city_id":4363517,"language_key":"ja","name":"霧峰区"}
+{"id":335992688,"city_id":4363542,"language_key":"ja","name":"五結郷"}
+{"id":335998001,"city_id":4363611,"language_key":"ja","name":"魏佳"}
+{"id":336001312,"city_id":4363654,"language_key":"ja","name":"ワン タン"}
+{"id":336001620,"city_id":4363658,"language_key":"ja","name":"ヴァンダ"}
+{"id":336002852,"city_id":4363674,"language_key":"ja","name":"ワン ルアン"}
+{"id":336003083,"city_id":4363677,"language_key":"ja","name":"万里区"}
+{"id":336004238,"city_id":4363692,"language_key":"ja","name":"ワング トング ヱン"}
+{"id":336005085,"city_id":4363703,"language_key":"ja","name":"望寮"}
+{"id":336006163,"city_id":4363717,"language_key":"ja","name":"望安郷"}
+{"id":336008011,"city_id":4363741,"language_key":"ja","name":"ワイ シュイ ヱイ"}
+{"id":336008319,"city_id":4363745,"language_key":"ja","name":"シ タン"}
+{"id":336010013,"city_id":4363767,"language_key":"ja","name":"外江林"}
+{"id":336012169,"city_id":4363795,"language_key":"ja","name":"慈通"}
+{"id":336014941,"city_id":4363831,"language_key":"ja","name":"デゥン ゼィ ジアオ"}
+{"id":336015865,"city_id":4363843,"language_key":"ja","name":"東石寮"}
+{"id":336018175,"city_id":4363873,"language_key":"ja","name":"ドング シ チェン クオ"}
+{"id":336018560,"city_id":4363878,"language_key":"ja","name":"ドング シ"}
+{"id":336018791,"city_id":4363881,"language_key":"ja","name":"ドング シ"}
+{"id":336019407,"city_id":4363889,"language_key":"ja","name":"東山前"}
+{"id":336019484,"city_id":4363890,"language_key":"ja","name":"東山区"}
+{"id":336019638,"city_id":4363892,"language_key":"ja","name":"東山"}
+{"id":336021332,"city_id":4363914,"language_key":"ja","name":"銅鑼"}
+{"id":336023411,"city_id":4363941,"language_key":"ja","name":"東港"}
+{"id":336024797,"city_id":4363959,"language_key":"ja","name":"通暁"}
+{"id":336024874,"city_id":4363960,"language_key":"ja","name":"ドンシャオ"}
+{"id":336025182,"city_id":4363964,"language_key":"ja","name":"五快寮"}
+{"id":336025259,"city_id":4363965,"language_key":"ja","name":"東河郷"}
+{"id":336027184,"city_id":4363990,"language_key":"ja","name":"同安寮"}
+{"id":336028724,"city_id":4364010,"language_key":"ja","name":"テゥ ク"}
+{"id":336030957,"city_id":4364039,"language_key":"ja","name":"土城区"}
+{"id":336034422,"city_id":4364084,"language_key":"ja","name":"ズオ ズヘン"}
+{"id":336035115,"city_id":4364093,"language_key":"ja","name":"草屯"}
+{"id":336036116,"city_id":4364106,"language_key":"ja","name":"カオ シャン"}
+{"id":336038811,"city_id":4364141,"language_key":"ja","name":"ザオ キアオ"}
+{"id":336041814,"city_id":4364180,"language_key":"ja","name":"トウウー"}
+{"id":336042584,"city_id":4364190,"language_key":"ja","name":"トウ シェ"}
+{"id":336043123,"city_id":4364197,"language_key":"ja","name":"ドウ ナン"}
+{"id":336044894,"city_id":4364220,"language_key":"ja","name":"トウ フェン"}
+{"id":336045741,"city_id":4364231,"language_key":"ja","name":"頭前埔"}
+{"id":336046357,"city_id":4364239,"language_key":"ja","name":"トウ チェング"}
+{"id":336046434,"city_id":4364240,"language_key":"ja","name":"頭城鎮"}
+{"id":336048975,"city_id":4364273,"language_key":"ja","name":"ディング ドング ブ"}
+{"id":336049822,"city_id":4364284,"language_key":"ja","name":"ティアン ヱイ"}
+{"id":336051824,"city_id":4364310,"language_key":"ja","name":"ディング ブ"}
+{"id":336051978,"city_id":4364312,"language_key":"ja","name":"ディング ブ"}
+{"id":336052671,"city_id":4364321,"language_key":"ja","name":"金寧"}
+{"id":336053056,"city_id":4364326,"language_key":"ja","name":"ディング ネイ"}
+{"id":336055828,"city_id":4364362,"language_key":"ja","name":"ディングリ"}
+{"id":336056213,"city_id":4364367,"language_key":"ja","name":"ゴング グアン"}
+{"id":336066993,"city_id":4364507,"language_key":"ja","name":"天武"}
+{"id":336069303,"city_id":4364537,"language_key":"ja","name":"ティアン リアオ"}
+{"id":336072845,"city_id":4364583,"language_key":"ja","name":"田中鎮"}
+{"id":336078620,"city_id":4364658,"language_key":"ja","name":"大武郷"}
+{"id":336080237,"city_id":4364679,"language_key":"ja","name":"大同市"}
+{"id":336080699,"city_id":4364685,"language_key":"ja","name":"大同郷"}
+{"id":336081084,"city_id":4364690,"language_key":"ja","name":"ダ ドング"}
+{"id":336081623,"city_id":4364697,"language_key":"ja","name":"ダ クン"}
+{"id":336083471,"city_id":4364721,"language_key":"ja","name":"ダ タオ ピング"}
+{"id":336083933,"city_id":4364727,"language_key":"ja","name":"ダ タン"}
+{"id":336085319,"city_id":4364745,"language_key":"ja","name":"ダ シェ ヘゥ"}
+{"id":336086397,"city_id":4364759,"language_key":"ja","name":"広興"}
+{"id":336088322,"city_id":4364784,"language_key":"ja","name":"ダ ピ"}
+{"id":336096715,"city_id":4364893,"language_key":"ja","name":"淡水区"}
+{"id":336099333,"city_id":4364927,"language_key":"ja","name":"ダ ネイ"}
+{"id":336100026,"city_id":4364936,"language_key":"ja","name":"平鎮区"}
+{"id":336100796,"city_id":4364946,"language_key":"ja","name":"アル・ラフマニヤ"}
+{"id":336102182,"city_id":4364964,"language_key":"ja","name":"ダ ルン ヱイ"}
+{"id":336103876,"city_id":4364986,"language_key":"ja","name":"ダ リン ブ"}
+{"id":336104184,"city_id":4364990,"language_key":"ja","name":"大林鎮"}
+{"id":336104261,"city_id":4364991,"language_key":"ja","name":"ダ リン"}
+{"id":336109882,"city_id":4365064,"language_key":"ja","name":"ダ レン"}
+{"id":336110729,"city_id":4365075,"language_key":"ja","name":"太武"}
+{"id":336111114,"city_id":4365080,"language_key":"ja","name":"台東"}
+{"id":336111422,"city_id":4365084,"language_key":"ja","name":"太道坑"}
+{"id":336112500,"city_id":4365098,"language_key":"ja","name":"台北"}
+{"id":336112654,"city_id":4365100,"language_key":"ja","name":"太保市"}
+{"id":336112808,"city_id":4365102,"language_key":"ja","name":"新営区"}
+{"id":336112885,"city_id":4365103,"language_key":"ja","name":"台南"}
+{"id":336113116,"city_id":4365106,"language_key":"ja","name":"太麻里"}
+{"id":336113809,"city_id":4365115,"language_key":"ja","name":"台西"}
+{"id":336113886,"city_id":4365116,"language_key":"ja","name":"ダ ヘゥ"}
+{"id":336114117,"city_id":4365119,"language_key":"ja","name":"豊原区"}
+{"id":336114194,"city_id":4365120,"language_key":"ja","name":"台中"}
+{"id":336114348,"city_id":4365122,"language_key":"ja","name":"タイ アン"}
+{"id":336116427,"city_id":4365149,"language_key":"ja","name":"ダ ヘゥ"}
+{"id":336120739,"city_id":4365205,"language_key":"ja","name":"大庄"}
+{"id":336122433,"city_id":4365227,"language_key":"ja","name":"ダ キウ ユアン"}
+{"id":336124512,"city_id":4365254,"language_key":"ja","name":"大啓洞"}
+{"id":336124666,"city_id":4365256,"language_key":"ja","name":"新豊"}
+{"id":336125282,"city_id":4365264,"language_key":"ja","name":"ダーキ"}
+{"id":336125513,"city_id":4365267,"language_key":"ja","name":"大成"}
+{"id":336129440,"city_id":4365318,"language_key":"ja","name":"松泉港市"}
+{"id":336130056,"city_id":4365326,"language_key":"ja","name":"蘇澳鎮"}
+{"id":336134753,"city_id":4365387,"language_key":"ja","name":null}
+{"id":336136139,"city_id":4365405,"language_key":"ja","name":"四九儀"}
+{"id":336138988,"city_id":4365442,"language_key":"ja","name":"樹林区"}
+{"id":336143146,"city_id":4365496,"language_key":"ja","name":"シュイ トウ"}
+{"id":336144301,"city_id":4365511,"language_key":"ja","name":"シュイ シャング"}
+{"id":336146226,"city_id":4365536,"language_key":"ja","name":"シュイ リン"}
+{"id":336146303,"city_id":4365537,"language_key":"ja","name":"水里"}
+{"id":336148767,"city_id":4365569,"language_key":"ja","name":"水昌流"}
+{"id":336151308,"city_id":4365602,"language_key":"ja","name":"双渓区"}
+{"id":336152694,"city_id":4365620,"language_key":"ja","name":"ショウ フェング"}
+{"id":336152771,"city_id":4365621,"language_key":"ja","name":"グアング フ"}
+{"id":336153772,"city_id":4365634,"language_key":"ja","name":"石文渓"}
+{"id":336155697,"city_id":4365659,"language_key":"ja","name":"シクオ リアオ"}
+{"id":336157622,"city_id":4365684,"language_key":"ja","name":"石碇区"}
+{"id":336157776,"city_id":4365686,"language_key":"ja","name":"シ ディ"}
+{"id":336158931,"city_id":4365701,"language_key":"ja","name":"シ シュイ ゼィ"}
+{"id":336163859,"city_id":4365765,"language_key":"ja","name":"石門区"}
+{"id":336163936,"city_id":4365766,"language_key":"ja","name":"シ メン ケング"}
+{"id":336167478,"city_id":4365812,"language_key":"ja","name":"夏市区"}
+{"id":336170019,"city_id":4365845,"language_key":"ja","name":"シ フェン"}
+{"id":336171482,"city_id":4365864,"language_key":"ja","name":"シ チェング"}
+{"id":336172483,"city_id":4365877,"language_key":"ja","name":"シェゼィ ケング"}
+{"id":336173484,"city_id":4365890,"language_key":"ja","name":"シェトウ"}
+{"id":336174716,"city_id":4365906,"language_key":"ja","name":"深坑区"}
+{"id":336175024,"city_id":4365910,"language_key":"ja","name":"山西省"}
+{"id":336176564,"city_id":4365930,"language_key":"ja","name":"シェン ズヘン"}
+{"id":336177103,"city_id":4365937,"language_key":"ja","name":"蛇口"}
+{"id":336182031,"city_id":4366001,"language_key":"ja","name":"シャン ゼィ ジアオ"}
+{"id":336183109,"city_id":4366015,"language_key":"ja","name":"シャン ディング"}
+{"id":336183725,"city_id":4366023,"language_key":"ja","name":"シャン シャング"}
+{"id":336184264,"city_id":4366030,"language_key":"ja","name":"シャン バオ"}
+{"id":336186035,"city_id":4366053,"language_key":"ja","name":"シャン ヘゥア"}
+{"id":336188730,"city_id":4366088,"language_key":"ja","name":"シャング セィ ヘゥ"}
+{"id":336190732,"city_id":4366114,"language_key":"ja","name":"上林"}
+{"id":336191964,"city_id":4366130,"language_key":"ja","name":"ジ アン"}
+{"id":336194197,"city_id":4366159,"language_key":"ja","name":"山峰"}
+{"id":336195506,"city_id":4366176,"language_key":"ja","name":"シャン ジアオ"}
+{"id":336198817,"city_id":4366219,"language_key":"ja","name":"ワン ロング"}
+{"id":336199279,"city_id":4366225,"language_key":"ja","name":"サン ワン"}
+{"id":336200280,"city_id":4366238,"language_key":"ja","name":"サン デ メン"}
+{"id":336204053,"city_id":4366287,"language_key":"ja","name":"板橋区"}
+{"id":336205054,"city_id":4366300,"language_key":"ja","name":"サン クアイ クオ"}
+{"id":336207133,"city_id":4366327,"language_key":"ja","name":"三義"}
+{"id":336207749,"city_id":4366335,"language_key":"ja","name":"三星"}
+{"id":336208211,"city_id":4366341,"language_key":"ja","name":"サン キアケング"}
+{"id":336208288,"city_id":4366342,"language_key":"ja","name":"三峽区"}
+{"id":336210136,"city_id":4366366,"language_key":"ja","name":"三重区"}
+{"id":336210752,"city_id":4366374,"language_key":"ja","name":"三芝区"}
+{"id":336211137,"city_id":4366379,"language_key":"ja","name":"サン ジアン クオ"}
+{"id":336216527,"city_id":4366449,"language_key":"ja","name":"ブジ"}
+{"id":336218221,"city_id":4366471,"language_key":"ja","name":"武代"}
+{"id":336218606,"city_id":4366476,"language_key":"ja","name":"ブ ビアン"}
+{"id":336218991,"city_id":4366481,"language_key":"ja","name":"埔里鎮"}
+{"id":336219376,"city_id":4366486,"language_key":"ja","name":"福興"}
+{"id":336221686,"city_id":4366516,"language_key":"ja","name":"朴子市"}
+{"id":336221840,"city_id":4366518,"language_key":"ja","name":"朴子市"}
+{"id":336225228,"city_id":4366562,"language_key":"ja","name":"ピ トウ"}
+{"id":336227384,"city_id":4366590,"language_key":"ja","name":"平東"}
+{"id":336227461,"city_id":4366591,"language_key":"ja","name":"屏東市"}
+{"id":336229463,"city_id":4366617,"language_key":"ja","name":"坪林区"}
+{"id":336230156,"city_id":4366626,"language_key":"ja","name":"平渓区"}
+{"id":336231234,"city_id":4366640,"language_key":"ja","name":"南山"}
+{"id":336231773,"city_id":4366647,"language_key":"ja","name":"ピリアオ"}
+{"id":336237548,"city_id":4366722,"language_key":"ja","name":"北投区"}
+{"id":336237702,"city_id":4366724,"language_key":"ja","name":"北斗"}
+{"id":336241244,"city_id":4366770,"language_key":"ja","name":"ベイ メン"}
+{"id":336241398,"city_id":4366772,"language_key":"ja","name":"パイジルトウ"}
+{"id":336243092,"city_id":4366794,"language_key":"ja","name":"北港鎮"}
+{"id":336246172,"city_id":4366834,"language_key":"ja","name":"八徳区"}
+{"id":336246249,"city_id":4366835,"language_key":"ja","name":"定本仙坡"}
+{"id":336247558,"city_id":4366852,"language_key":"ja","name":"宝子角坑"}
+{"id":336248405,"city_id":4366863,"language_key":"ja","name":"バオ シャン"}
+{"id":336249021,"city_id":4366871,"language_key":"ja","name":"宝中"}
+{"id":336249483,"city_id":4366877,"language_key":"ja","name":"ダ ルン ヱイ"}
+{"id":336252717,"city_id":4366919,"language_key":"ja","name":"バ ル モ アン シェ"}
+{"id":336253564,"city_id":4366930,"language_key":"ja","name":"バ リアオ"}
+{"id":336256336,"city_id":4366966,"language_key":"ja","name":"バイシャ テゥン"}
+{"id":336256875,"city_id":4366973,"language_key":"ja","name":"白沙"}
+{"id":336258877,"city_id":4366999,"language_key":"ja","name":"白河"}
+{"id":336260802,"city_id":4367024,"language_key":"ja","name":"エ メイ"}
+{"id":336261649,"city_id":4367035,"language_key":"ja","name":"ニウ クオ"}
+{"id":336265191,"city_id":4367081,"language_key":"ja","name":"ニウ チョウ ブ"}
+{"id":336267116,"city_id":4367106,"language_key":"ja","name":"ニアオ ソング"}
+{"id":336271582,"city_id":4367164,"language_key":"ja","name":"ネイリ"}
+{"id":336272429,"city_id":4367175,"language_key":"ja","name":"ポ ネイ ケング"}
+{"id":336273122,"city_id":4367184,"language_key":"ja","name":"内湖区"}
+{"id":336278204,"city_id":4367250,"language_key":"ja","name":"南投市"}
+{"id":336279590,"city_id":4367268,"language_key":"ja","name":"ナン シ ルン"}
+{"id":336284133,"city_id":4367327,"language_key":"ja","name":"ケリ"}
+{"id":336285442,"city_id":4367344,"language_key":"ja","name":"ナン ガング"}
+{"id":336286520,"city_id":4367358,"language_key":"ja","name":"ナン ヘゥア"}
+{"id":336287598,"city_id":4367372,"language_key":"ja","name":"南渓"}
+{"id":336288753,"city_id":4367387,"language_key":"ja","name":"南庄郷"}
+{"id":336288830,"city_id":4367388,"language_key":"ja","name":"南庄郷"}
+{"id":336289215,"city_id":4367393,"language_key":"ja","name":"ナン ズホウ"}
+{"id":336289831,"city_id":4367401,"language_key":"ja","name":"南澳郷"}
+{"id":336290524,"city_id":4367410,"language_key":"ja","name":"牡丹"}
+{"id":336291217,"city_id":4367419,"language_key":"ja","name":"モリ荘"}
+{"id":336292526,"city_id":4367436,"language_key":"ja","name":"民雄"}
+{"id":336292834,"city_id":4367440,"language_key":"ja","name":"信義"}
+{"id":336293373,"city_id":4367447,"language_key":"ja","name":"ミング ジアン"}
+{"id":336295529,"city_id":4367475,"language_key":"ja","name":"苗栗市"}
+{"id":336297762,"city_id":4367504,"language_key":"ja","name":"梅山郷"}
+{"id":336298301,"city_id":4367511,"language_key":"ja","name":"美濃区"}
+{"id":336300996,"city_id":4367546,"language_key":"ja","name":"麻豆区"}
+{"id":336303075,"city_id":4367573,"language_key":"ja","name":"マオ ブ"}
+{"id":336306848,"city_id":4367622,"language_key":"ja","name":"馬公"}
+{"id":336307387,"city_id":4367629,"language_key":"ja","name":"マキシング"}
+{"id":336308850,"city_id":4367648,"language_key":"ja","name":"瑪家郷"}
+{"id":336309466,"city_id":4367656,"language_key":"ja","name":"鹿野"}
+{"id":336310390,"city_id":4367668,"language_key":"ja","name":"ル カオ"}
+{"id":336314240,"city_id":4367718,"language_key":"ja","name":"長治"}
+{"id":336314548,"city_id":4367722,"language_key":"ja","name":"ルン ベイ"}
+{"id":336316858,"city_id":4367752,"language_key":"ja","name":"龍潭区"}
+{"id":336322633,"city_id":4367827,"language_key":"ja","name":"ルク"}
+{"id":336322710,"city_id":4367828,"language_key":"ja","name":"鹿谷"}
+{"id":336322941,"city_id":4367831,"language_key":"ja","name":"鹿港鎮"}
+{"id":336324327,"city_id":4367849,"language_key":"ja","name":"芦洲区"}
+{"id":336325251,"city_id":4367861,"language_key":"ja","name":"羅東鎮"}
+{"id":336332489,"city_id":4367955,"language_key":"ja","name":"リウ ジアオ"}
+{"id":336337417,"city_id":4368019,"language_key":"ja","name":"林辺"}
+{"id":336337648,"city_id":4368022,"language_key":"ja","name":"リンドリー"}
+{"id":336337879,"city_id":4368025,"language_key":"ja","name":"リンルオ"}
+{"id":336338110,"city_id":4368028,"language_key":"ja","name":"林口区"}
+{"id":336340497,"city_id":4368059,"language_key":"ja","name":"李港"}
+{"id":336349506,"city_id":4368176,"language_key":"ja","name":"ライイ"}
+{"id":336355512,"city_id":4368254,"language_key":"ja","name":"国興"}
+{"id":336358207,"city_id":4368289,"language_key":"ja","name":"貢寮区"}
+{"id":336360286,"city_id":4368316,"language_key":"ja","name":"ゴング ヘゥア ケング"}
+{"id":336363135,"city_id":4368353,"language_key":"ja","name":"グ ケング"}
+{"id":336365214,"city_id":4368380,"language_key":"ja","name":"グイ ケ"}
+{"id":336366985,"city_id":4368403,"language_key":"ja","name":"観音区"}
+{"id":336367832,"city_id":4368414,"language_key":"ja","name":"グアン ティアン"}
+{"id":336368371,"city_id":4368421,"language_key":"ja","name":"グアン シャン"}
+{"id":336368448,"city_id":4368422,"language_key":"ja","name":"グアン ミアオ"}
+{"id":336368987,"city_id":4368429,"language_key":"ja","name":"グアンぃ"}
+{"id":336373530,"city_id":4368488,"language_key":"ja","name":"コウ ヘゥ"}
+{"id":336380691,"city_id":4368581,"language_key":"ja","name":"ガオ シュ"}
+{"id":336382308,"city_id":4368602,"language_key":"ja","name":"鳳山区"}
+{"id":336382385,"city_id":4368603,"language_key":"ja","name":"高雄市"}
+{"id":336385157,"city_id":4368639,"language_key":"ja","name":"カン ディング"}
+{"id":336390162,"city_id":4368704,"language_key":"ja","name":"岡山区"}
+{"id":336390701,"city_id":4368711,"language_key":"ja","name":"港衛寮"}
+{"id":336394551,"city_id":4368761,"language_key":"ja","name":"カン ジアオ"}
+{"id":336396938,"city_id":4368792,"language_key":"ja","name":"ルイ スイ"}
+{"id":336397631,"city_id":4368801,"language_key":"ja","name":"瑞芳区"}
+{"id":336398324,"city_id":4368810,"language_key":"ja","name":"リシンシンチュン"}
+{"id":336398632,"city_id":4368814,"language_key":"ja","name":"レン デ"}
+{"id":336401789,"city_id":4368855,"language_key":"ja","name":"宜蘭市"}
+{"id":336403175,"city_id":4368873,"language_key":"ja","name":"宜珠"}
+{"id":336403637,"city_id":4368879,"language_key":"ja","name":"イーキ"}
+{"id":336403945,"city_id":4368883,"language_key":"ja","name":"ヘゥ ヱイ"}
+{"id":336406640,"city_id":4368918,"language_key":"ja","name":"ヘゥ シャン"}
+{"id":336411876,"city_id":4368986,"language_key":"ja","name":"ヘゥ コウ"}
+{"id":336413185,"city_id":4369003,"language_key":"ja","name":"湖西"}
+{"id":336414032,"city_id":4369014,"language_key":"ja","name":"ヘゥア タン"}
+{"id":336416342,"city_id":4369044,"language_key":"ja","name":"花蓮市"}
+{"id":336418806,"city_id":4369076,"language_key":"ja","name":"雪佳"}
+{"id":336419576,"city_id":4369086,"language_key":"ja","name":"シウォジ"}
+{"id":336419961,"city_id":4369091,"language_key":"ja","name":"シウェイ"}
+{"id":336421116,"city_id":4369106,"language_key":"ja","name":"熊家王"}
+{"id":336422040,"city_id":4369118,"language_key":"ja","name":"秀林"}
+{"id":336423426,"city_id":4369136,"language_key":"ja","name":"西屯区"}
+{"id":336427584,"city_id":4369190,"language_key":"ja","name":"西山"}
+{"id":336430202,"city_id":4369224,"language_key":"ja","name":"西宝"}
+{"id":336430587,"city_id":4369229,"language_key":"ja","name":"新源"}
+{"id":336434283,"city_id":4369277,"language_key":"ja","name":"新店区"}
+{"id":336434976,"city_id":4369286,"language_key":"ja","name":"新大港"}
+{"id":336435284,"city_id":4369290,"language_key":"ja","name":"新市区"}
+{"id":336437517,"city_id":4369319,"language_key":"ja","name":"新皮"}
+{"id":336440058,"city_id":4369352,"language_key":"ja","name":"新寮"}
+{"id":336440674,"city_id":4369360,"language_key":"ja","name":"新地荘市"}
+{"id":336441983,"city_id":4369377,"language_key":"ja","name":"新港"}
+{"id":336442676,"city_id":4369386,"language_key":"ja","name":"ぃんフア"}
+{"id":336443754,"city_id":4369400,"language_key":"ja","name":"夏新興"}
+{"id":336450222,"city_id":4369484,"language_key":"ja","name":"新荘区"}
+{"id":336451916,"city_id":4369506,"language_key":"ja","name":"新竹市"}
+{"id":336452994,"city_id":4369520,"language_key":"ja","name":"金湖鎮"}
+{"id":336454380,"city_id":4369538,"language_key":"ja","name":"新城区"}
+{"id":336455920,"city_id":4369558,"language_key":"ja","name":"西洛"}
+{"id":336456921,"city_id":4369571,"language_key":"ja","name":"ぃぐぃ"}
+{"id":336457152,"city_id":4369574,"language_key":"ja","name":"西口"}
+{"id":336458461,"city_id":4369591,"language_key":"ja","name":"西湖"}
+{"id":336458846,"city_id":4369596,"language_key":"ja","name":"夏新"}
+{"id":336460386,"city_id":4369616,"language_key":"ja","name":"仙西"}
+{"id":336464467,"city_id":4369669,"language_key":"ja","name":"汐止区"}
+{"id":336469934,"city_id":4369740,"language_key":"ja","name":"シュイ ヱイ"}
+{"id":336471320,"city_id":4369758,"language_key":"ja","name":"定荘"}
+{"id":336473707,"city_id":4369789,"language_key":"ja","name":"夏平"}
+{"id":336475093,"city_id":4369807,"language_key":"ja","name":"シャオトゥシ"}
+{"id":336480098,"city_id":4369872,"language_key":"ja","name":"小雪山林班"}
+{"id":336481561,"city_id":4369891,"language_key":"ja","name":"ぃあにあん"}
+{"id":336488106,"city_id":4369976,"language_key":"ja","name":"夏利"}
+{"id":336488260,"city_id":4369978,"language_key":"ja","name":"夏国溪"}
+{"id":336498347,"city_id":4370109,"language_key":"ja","name":"猴硐"}
+{"id":336502120,"city_id":4370158,"language_key":"ja","name":"後壁区"}
+{"id":336502274,"city_id":4370160,"language_key":"ja","name":"ホウ ビ"}
+{"id":336503044,"city_id":4370170,"language_key":"ja","name":"後龍"}
+{"id":336505431,"city_id":4370201,"language_key":"ja","name":"ホウ ヘゥ ゼィ"}
+{"id":336506817,"city_id":4370219,"language_key":"ja","name":"後荘子"}
+{"id":336509204,"city_id":4370250,"language_key":"ja","name":"和平区"}
+{"id":336510436,"city_id":4370266,"language_key":"ja","name":"ヘ メイ"}
+{"id":336512207,"city_id":4370289,"language_key":"ja","name":"衡山"}
+{"id":336514517,"city_id":4370319,"language_key":"ja","name":"恒春鎮"}
+{"id":336517443,"city_id":4370357,"language_key":"ja","name":"ハイ デゥアン"}
+{"id":336518136,"city_id":4370366,"language_key":"ja","name":"ハイ ブ"}
+{"id":336519599,"city_id":4370385,"language_key":"ja","name":"ハイ フェング"}
+{"id":336521370,"city_id":4370408,"language_key":"ja","name":"フ ティアン"}
+{"id":336523526,"city_id":4370436,"language_key":"ja","name":"富里"}
+{"id":336525605,"city_id":4370463,"language_key":"ja","name":"復興"}
+{"id":336528762,"city_id":4370504,"language_key":"ja","name":"フェン ユアン"}
+{"id":336532535,"city_id":4370553,"language_key":"ja","name":"フェング ビン"}
+{"id":336533305,"city_id":4370563,"language_key":"ja","name":"鳳林"}
+{"id":336534845,"city_id":4370583,"language_key":"ja","name":"フェング フ"}
+{"id":336535153,"city_id":4370587,"language_key":"ja","name":"西州"}
+{"id":336537386,"city_id":4370616,"language_key":"ja","name":"ファンゼィ クオ"}
+{"id":336542776,"city_id":4370686,"language_key":"ja","name":"ファンル"}
+{"id":336543315,"city_id":4370693,"language_key":"ja","name":"ファング ユアン"}
+{"id":336544085,"city_id":4370703,"language_key":"ja","name":"ファングシャン"}
+{"id":336544470,"city_id":4370708,"language_key":"ja","name":"中和区"}
+{"id":336544624,"city_id":4370710,"language_key":"ja","name":"枋寮郷"}
+{"id":336546395,"city_id":4370733,"language_key":"ja","name":"エル シュイ"}
+{"id":336547704,"city_id":4370750,"language_key":"ja","name":"二林鎮"}
+{"id":336547858,"city_id":4370752,"language_key":"ja","name":"アーリン"}
+{"id":336549475,"city_id":4370773,"language_key":"ja","name":"二崇渓"}
+{"id":336550861,"city_id":4370791,"language_key":"ja","name":"祝維子"}
+{"id":336552632,"city_id":4370814,"language_key":"ja","name":"ズヘゥヱイ ネイ"}
+{"id":336555712,"city_id":4370854,"language_key":"ja","name":"竹東"}
+{"id":336556636,"city_id":4370866,"language_key":"ja","name":"ズヘゥティアン"}
+{"id":336556867,"city_id":4370869,"language_key":"ja","name":"祝唐"}
+{"id":336557868,"city_id":4370882,"language_key":"ja","name":"ズヘゥシャン"}
+{"id":336558407,"city_id":4370889,"language_key":"ja","name":"竹北市"}
+{"id":336558484,"city_id":4370890,"language_key":"ja","name":"チュン ヤング"}
+{"id":336560794,"city_id":4370920,"language_key":"ja","name":"春里"}
+{"id":336560871,"city_id":4370921,"language_key":"ja","name":"春里"}
+{"id":336561641,"city_id":4370931,"language_key":"ja","name":"正陽港"}
+{"id":336562103,"city_id":4370937,"language_key":"ja","name":"忠寮"}
+{"id":336568879,"city_id":4371025,"language_key":"ja","name":"中壢区"}
+{"id":336569033,"city_id":4371027,"language_key":"ja","name":"中レキ区"}
+{"id":336571035,"city_id":4371053,"language_key":"ja","name":"中坑"}
+{"id":336571959,"city_id":4371065,"language_key":"ja","name":"ゾンイジエ"}
+{"id":336580044,"city_id":4371170,"language_key":"ja","name":"竹南鎮"}
+{"id":336585742,"city_id":4371244,"language_key":"ja","name":"竹崎郷"}
+{"id":336587436,"city_id":4371266,"language_key":"ja","name":"ズヘゥアング ヱイ"}
+{"id":336591209,"city_id":4371315,"language_key":"ja","name":"卓蘭"}
+{"id":336591286,"city_id":4371316,"language_key":"ja","name":"卓渓"}
+{"id":336592672,"city_id":4371334,"language_key":"ja","name":"キウ クオ"}
+{"id":336594982,"city_id":4371364,"language_key":"ja","name":"瓊林"}
+{"id":336595598,"city_id":4371372,"language_key":"ja","name":"九梁渓"}
+{"id":336596753,"city_id":4371387,"language_key":"ja","name":"ジウ ガング"}
+{"id":336596984,"city_id":4371390,"language_key":"ja","name":"ジウ ル"}
+{"id":336598986,"city_id":4371416,"language_key":"ja","name":"九份"}
+{"id":336599294,"city_id":4371420,"language_key":"ja","name":"ジウ ファングクオ"}
+{"id":336602682,"city_id":4371464,"language_key":"ja","name":"キディアン"}
+{"id":336604761,"city_id":4371491,"language_key":"ja","name":"金山区"}
+{"id":336604992,"city_id":4371494,"language_key":"ja","name":"ジンシャ"}
+{"id":336605454,"city_id":4371500,"language_key":"ja","name":"晋城"}
+{"id":336611768,"city_id":4371582,"language_key":"ja","name":"清流"}
+{"id":336614386,"city_id":4371616,"language_key":"ja","name":"キ メイ"}
+{"id":336614694,"city_id":4371620,"language_key":"ja","name":"基隆市"}
+{"id":336615849,"city_id":4371635,"language_key":"ja","name":"キ ラオ"}
+{"id":336619006,"city_id":4371676,"language_key":"ja","name":"チ シャング"}
+{"id":336623857,"city_id":4371739,"language_key":"ja","name":"ジアン シ"}
+{"id":336630556,"city_id":4371826,"language_key":"ja","name":"旗津区"}
+{"id":336631480,"city_id":4371838,"language_key":"ja","name":"ティジ"}
+{"id":336632481,"city_id":4371851,"language_key":"ja","name":"嘉東"}
+{"id":336635638,"city_id":4371892,"language_key":"ja","name":"キアオ ゼィ トウ"}
+{"id":336635715,"city_id":4371893,"language_key":"ja","name":"礁渓郷"}
+{"id":336639411,"city_id":4371941,"language_key":"ja","name":"嘉里"}
+{"id":336640335,"city_id":4371953,"language_key":"ja","name":"嘉義市"}
+{"id":336640412,"city_id":4371954,"language_key":"ja","name":"啓東角"}
+{"id":336641490,"city_id":4371968,"language_key":"ja","name":"啓東角"}
+{"id":336648035,"city_id":4372053,"language_key":"ja","name":"車城郷"}
+{"id":336649498,"city_id":4372072,"language_key":"ja","name":"阿里山郷"}
+{"id":336650422,"city_id":4372084,"language_key":"ja","name":"チャオズホウ"}
+{"id":336652578,"city_id":4372112,"language_key":"ja","name":"ズハング シュワン"}
+{"id":336653425,"city_id":4372123,"language_key":"ja","name":"チャンビン"}
+{"id":336654503,"city_id":4372137,"language_key":"ja","name":"チェング ゼィ ブ"}
+{"id":336655042,"city_id":4372144,"language_key":"ja","name":"彰化市"}
+{"id":336658045,"city_id":4372183,"language_key":"ja","name":"くぃんぎぇくん"}
+{"id":336659431,"city_id":4372201,"language_key":"ja","name":"安定区"}
+{"id":336659585,"city_id":4372203,"language_key":"ja","name":"アン ディング"}
+{"id":336661202,"city_id":4372224,"language_key":"ja","name":"安中"}
+{"id":336670211,"city_id":4372341,"language_key":"ja","name":"クセィ シ ヱイ"}
+{"id":336674523,"city_id":4372397,"language_key":"ja","name":"マ クオ"}
+{"id":336688229,"city_id":4372575,"language_key":"ja","name":"ダ ヘゥ"}
+{"id":336690077,"city_id":4372599,"language_key":"ja","name":"テゥオ ピング"}
+{"id":336691925,"city_id":4372623,"language_key":"ja","name":"シ ウ フェン"}
+{"id":336692464,"city_id":4372630,"language_key":"ja","name":"パオ シ"}
+{"id":336695313,"city_id":4372667,"language_key":"ja","name":"ウーレ"}
+{"id":336705092,"city_id":4372794,"language_key":"ja","name":"三張"}
+{"id":336709327,"city_id":4372849,"language_key":"ja","name":"遼子"}
+{"id":336710559,"city_id":4372865,"language_key":"ja","name":"彰化"}
+{"id":336711483,"city_id":4372877,"language_key":"ja","name":"ワイ リアオ"}
+{"id":336714178,"city_id":4372912,"language_key":"ja","name":"ベンジフ"}
+{"id":336728808,"city_id":4373102,"language_key":"ja","name":"ゾンガオイ"}
+{"id":336731426,"city_id":4373136,"language_key":"ja","name":"グオ クオ"}
+{"id":336732273,"city_id":4373147,"language_key":"ja","name":"ルオ クオ"}
+{"id":336732735,"city_id":4373153,"language_key":"ja","name":"商洛国"}
+{"id":336733043,"city_id":4373157,"language_key":"ja","name":"ズハン クオ"}
+{"id":336738279,"city_id":4373225,"language_key":"ja","name":"ボゴンルン"}
+{"id":336739280,"city_id":4373238,"language_key":"ja","name":"魯明橋"}
+{"id":336741128,"city_id":4373262,"language_key":"ja","name":"唐寮"}
+{"id":336742129,"city_id":4373275,"language_key":"ja","name":"ク ケング"}
+{"id":336742591,"city_id":4373281,"language_key":"ja","name":"ズヒ ヲ"}
+{"id":336745594,"city_id":4373320,"language_key":"ja","name":"ラオチャティング"}
+{"id":336745979,"city_id":4373325,"language_key":"ja","name":"秋烏"}
+{"id":336747827,"city_id":4373349,"language_key":"ja","name":"ユ クオ"}
+{"id":336750445,"city_id":4373383,"language_key":"ja","name":"平鎮区"}
+{"id":336753756,"city_id":4373426,"language_key":"ja","name":"天中陽"}
+{"id":336755527,"city_id":4373449,"language_key":"ja","name":"フェン ジ ヘゥ"}
+{"id":336759454,"city_id":4373500,"language_key":"ja","name":"ダ ノング"}
+{"id":336760455,"city_id":4373513,"language_key":"ja","name":"ミン シェング シェク"}
+{"id":336760994,"city_id":4373520,"language_key":"ja","name":null}
+{"id":336768309,"city_id":4373615,"language_key":"ja","name":"ライ クオ"}
+{"id":336770773,"city_id":4373647,"language_key":"ja","name":"山寮"}
+{"id":336776317,"city_id":4373719,"language_key":"ja","name":"孫子林衛"}
+{"id":336776625,"city_id":4373723,"language_key":"ja","name":"冷水坑"}
+{"id":336780475,"city_id":4373773,"language_key":"ja","name":"チュ シュイ"}
+{"id":336800110,"city_id":4374028,"language_key":"ja","name":"柳水寨"}
+{"id":336802112,"city_id":4374054,"language_key":"ja","name":"典祁子"}
+{"id":336802266,"city_id":4374056,"language_key":"ja","name":"リ クオ"}
+{"id":336805654,"city_id":4374100,"language_key":"ja","name":"イエクオ"}
+{"id":336807348,"city_id":4374122,"language_key":"ja","name":"シ バ ジア"}
+{"id":336807887,"city_id":4374129,"language_key":"ja","name":"ミ クオ"}
+{"id":336813970,"city_id":4374208,"language_key":"ja","name":"ヘゥ シャン"}
+{"id":336819668,"city_id":4374282,"language_key":"ja","name":"新安坑"}
+{"id":336823287,"city_id":4374329,"language_key":"ja","name":"ダ ゲ ドング"}
+{"id":336836223,"city_id":4374497,"language_key":"ja","name":"バ キ"}
+{"id":336836608,"city_id":4374502,"language_key":"ja","name":"新豊"}
+{"id":336837455,"city_id":4374513,"language_key":"ja","name":"チャイジエ"}
+{"id":336838225,"city_id":4374523,"language_key":"ja","name":"ダ ク ヱイ"}
+{"id":336839380,"city_id":4374538,"language_key":"ja","name":"サン フェン スオ"}
+{"id":336840766,"city_id":4374556,"language_key":"ja","name":"夏寮子"}
+{"id":336840843,"city_id":4374557,"language_key":"ja","name":"テゥ キ ディング"}
+{"id":336841305,"city_id":4374563,"language_key":"ja","name":"高清倫"}
+{"id":336842383,"city_id":4374577,"language_key":"ja","name":"二寮"}
+{"id":336849467,"city_id":4374669,"language_key":"ja","name":"ネイ リアオ"}
+{"id":336852008,"city_id":4374702,"language_key":"ja","name":"嘉陵"}
+{"id":336853471,"city_id":4374721,"language_key":"ja","name":"ソングジアオ ゼィ"}
+{"id":336854164,"city_id":4374730,"language_key":"ja","name":"夏甘"}
+{"id":336855781,"city_id":4374751,"language_key":"ja","name":"ダ ズハイ"}
+{"id":336857321,"city_id":4374771,"language_key":"ja","name":"ベイ シ トウ"}
+{"id":336858322,"city_id":4374784,"language_key":"ja","name":"ズハオ クオ"}
+{"id":336859400,"city_id":4374798,"language_key":"ja","name":"ワジリャオ"}
+{"id":336859554,"city_id":4374800,"language_key":"ja","name":"ピ ネイ"}
+{"id":336865252,"city_id":4374874,"language_key":"ja","name":"シャン ジアオ"}
+{"id":336865406,"city_id":4374876,"language_key":"ja","name":"ジア ヘ"}
+{"id":336865560,"city_id":4374878,"language_key":"ja","name":"シャン ピング"}
+{"id":336866330,"city_id":4374888,"language_key":"ja","name":"龍興"}
+{"id":336870334,"city_id":4374940,"language_key":"ja","name":"金峰"}
+{"id":336874261,"city_id":4374991,"language_key":"ja","name":"ディング ビ シ"}
+{"id":336874415,"city_id":4374993,"language_key":"ja","name":"松双岩"}
+{"id":336876109,"city_id":4375015,"language_key":"ja","name":"下芬水嶺"}
+{"id":336876186,"city_id":4375016,"language_key":"ja","name":"ヘゥ トウ ブ ルオ"}
+{"id":336877033,"city_id":4375027,"language_key":"ja","name":"ピリ"}
+{"id":336878034,"city_id":4375040,"language_key":"ja","name":"しおうぃん"}
+{"id":336878342,"city_id":4375044,"language_key":"ja","name":"バ グ"}
+{"id":336880036,"city_id":4375066,"language_key":"ja","name":"ゴウ ベイ"}
+{"id":336881653,"city_id":4375087,"language_key":"ja","name":"ナン ヲ"}
+{"id":336883347,"city_id":4375109,"language_key":"ja","name":"シャンビライ"}
+{"id":336883963,"city_id":4375117,"language_key":"ja","name":"ズハング シュユアン"}
+{"id":336884040,"city_id":4375118,"language_key":"ja","name":"北角"}
+{"id":336884425,"city_id":4375123,"language_key":"ja","name":"快山"}
+{"id":336887197,"city_id":4375159,"language_key":"ja","name":"北坑"}
+{"id":336887813,"city_id":4375167,"language_key":"ja","name":"三星郷"}
+{"id":336888198,"city_id":4375172,"language_key":"ja","name":"ピジディン"}
+{"id":336889353,"city_id":4375187,"language_key":"ja","name":"シパン"}
+{"id":336892433,"city_id":4375227,"language_key":"ja","name":"シ エル フェン"}
+{"id":336892587,"city_id":4375229,"language_key":"ja","name":"羅寮平"}
+{"id":336897130,"city_id":4375288,"language_key":"ja","name":"ヘゥオタンケング"}
+{"id":336900749,"city_id":4375335,"language_key":"ja","name":"ユアン チュアング"}
+{"id":336901211,"city_id":4375341,"language_key":"ja","name":"ティアン ディ ゼィ"}
+{"id":336901827,"city_id":4375349,"language_key":"ja","name":"七星倫"}
+{"id":336902212,"city_id":4375354,"language_key":"ja","name":"土龍溝"}
+{"id":336904137,"city_id":4375379,"language_key":"ja","name":"西部"}
+{"id":336904445,"city_id":4375383,"language_key":"ja","name":"ダ ソングジアオ"}
+{"id":336905908,"city_id":4375402,"language_key":"ja","name":null}
+{"id":336906986,"city_id":4375416,"language_key":"ja","name":"南王貢寮"}
+{"id":336908834,"city_id":4375440,"language_key":"ja","name":"ベイ ホウ クオ"}
+{"id":336911837,"city_id":4375479,"language_key":"ja","name":"ナン ガング"}
+{"id":336916072,"city_id":4375534,"language_key":"ja","name":"尚荘市"}
+{"id":336920384,"city_id":4375590,"language_key":"ja","name":"五華"}
+{"id":336923387,"city_id":4375629,"language_key":"ja","name":"秋烏"}
+{"id":336926005,"city_id":4375663,"language_key":"ja","name":"ドング ディアン"}
+{"id":336937863,"city_id":4375817,"language_key":"ja","name":"ヱイ ヘゥ"}
+{"id":336939018,"city_id":4375832,"language_key":"ja","name":"夏布"}
+{"id":336948104,"city_id":4375950,"language_key":"ja","name":"ズヘン トウ ケング"}
+{"id":336950337,"city_id":4375979,"language_key":"ja","name":"ジウ セング トウ"}
+{"id":336960116,"city_id":4376106,"language_key":"ja","name":"新竹"}
+{"id":336978904,"city_id":4376350,"language_key":"ja","name":"ウ チェング コウ"}
+{"id":336979058,"city_id":4376352,"language_key":"ja","name":"仙東平"}
+{"id":336982138,"city_id":4376392,"language_key":"ja","name":"石子坑"}
+{"id":336984525,"city_id":4376423,"language_key":"ja","name":"五里坑"}
+{"id":336985218,"city_id":4376432,"language_key":"ja","name":"大寨村"}
+{"id":336986142,"city_id":4376444,"language_key":"ja","name":"サン ティアオ ズヘゥアング"}
+{"id":336987528,"city_id":4376462,"language_key":"ja","name":"新興"}
+{"id":336988452,"city_id":4376474,"language_key":"ja","name":"レン アイ"}
+{"id":336994227,"city_id":4376549,"language_key":"ja","name":"克荘"}
+{"id":336995767,"city_id":4376569,"language_key":"ja","name":"李枝角"}
+{"id":336995844,"city_id":4376570,"language_key":"ja","name":"ヘゥオシャオ リアオ ケング"}
+{"id":336996383,"city_id":4376577,"language_key":"ja","name":"ダ クオ ネイ"}
+{"id":336999540,"city_id":4376618,"language_key":"ja","name":"グイ ルン"}
+{"id":336999925,"city_id":4376623,"language_key":"ja","name":"チュン ファン ズハイ"}
+{"id":337000618,"city_id":4376632,"language_key":"ja","name":"枋寮"}
+{"id":337003390,"city_id":4376668,"language_key":"ja","name":"ズヘゥヱイ"}
+{"id":337006701,"city_id":4376711,"language_key":"ja","name":"グアン ニウ ヲ"}
+{"id":337019483,"city_id":4376877,"language_key":"ja","name":"広東荘市"}
+{"id":337019637,"city_id":4376879,"language_key":"ja","name":"望渓"}
+{"id":337020792,"city_id":4376894,"language_key":"ja","name":"カング ウ"}
+{"id":337021177,"city_id":4376899,"language_key":"ja","name":"カン頂郷"}
+{"id":337036038,"city_id":4377092,"language_key":"ja","name":"双連坡"}
+{"id":337041120,"city_id":4377158,"language_key":"ja","name":"東内寨"}
+{"id":337043584,"city_id":4377190,"language_key":"ja","name":"ダ ピング ディング"}
+{"id":337046202,"city_id":4377224,"language_key":"ja","name":"ヘ ドング"}
+{"id":337047973,"city_id":4377247,"language_key":"ja","name":"シディ"}
+{"id":337051669,"city_id":4377295,"language_key":"ja","name":"西銭子"}
+{"id":337056751,"city_id":4377361,"language_key":"ja","name":"ディンファンルー"}
+{"id":337059754,"city_id":4377400,"language_key":"ja","name":"ホウ ヘゥ ゼィ"}
+{"id":337063296,"city_id":4377446,"language_key":"ja","name":"シャ ミ ジ"}
+{"id":337063758,"city_id":4377452,"language_key":"ja","name":"マ ズヘゥヘゥ"}
+{"id":337069841,"city_id":4377531,"language_key":"ja","name":"シャン ジアオ"}
+{"id":337070688,"city_id":4377542,"language_key":"ja","name":"デング クオ"}
+{"id":337075231,"city_id":4377601,"language_key":"ja","name":"慈東坑"}
+{"id":337080082,"city_id":4377664,"language_key":"ja","name":"ベイ シ ケング"}
+{"id":337088783,"city_id":4377777,"language_key":"ja","name":"桃園市"}
+{"id":337089707,"city_id":4377789,"language_key":"ja","name":"シ トウ ブ"}
+{"id":337093249,"city_id":4377835,"language_key":"ja","name":"アル・ラフマニヤ"}
+{"id":337099255,"city_id":4377913,"language_key":"ja","name":"ハイ ヱイ"}
+{"id":337102643,"city_id":4377957,"language_key":"ja","name":"バイフ"}
+{"id":337105877,"city_id":4377999,"language_key":"ja","name":"ルンツィウェイ"}
+{"id":337108033,"city_id":4378027,"language_key":"ja","name":"ア バ ワン"}
+{"id":337111344,"city_id":4378070,"language_key":"ja","name":"サン ユン"}
+{"id":337117119,"city_id":4378145,"language_key":"ja","name":"渓州郷"}
+{"id":337118813,"city_id":4378167,"language_key":"ja","name":"ワング アン"}
+{"id":337119968,"city_id":4378182,"language_key":"ja","name":"ダン ハイ"}
+{"id":337122201,"city_id":4378211,"language_key":"ja","name":"シャオクオ"}
+{"id":337122817,"city_id":4378219,"language_key":"ja","name":"方橋"}
+{"id":337123895,"city_id":4378233,"language_key":"ja","name":"チェン クオ"}
+{"id":337126821,"city_id":4378271,"language_key":"ja","name":"シュイ ユアン デ"}
+{"id":337127360,"city_id":4378278,"language_key":"ja","name":"ルン ヱイ"}
+{"id":337128361,"city_id":4378291,"language_key":"ja","name":"キアン ズヘゥアング"}
+{"id":337128977,"city_id":4378299,"language_key":"ja","name":"ガングゼィ コウ"}
+{"id":337129978,"city_id":4378312,"language_key":"ja","name":"夏天寮"}
+{"id":337130825,"city_id":4378323,"language_key":"ja","name":"ク ケング"}
+{"id":337130902,"city_id":4378324,"language_key":"ja","name":"小坪林"}
+{"id":337136061,"city_id":4378391,"language_key":"ja","name":"ユリアオドン"}
+{"id":337142991,"city_id":4378481,"language_key":"ja","name":"呉山嶺角"}
+{"id":337143530,"city_id":4378488,"language_key":"ja","name":"ジウ シェ"}
+{"id":337144685,"city_id":4378503,"language_key":"ja","name":"ス ズヘン ブ"}
+{"id":337144993,"city_id":4378507,"language_key":"ja","name":"外成林"}
+{"id":337146764,"city_id":4378530,"language_key":"ja","name":"ナン ヘゥ コウ"}
+{"id":337152308,"city_id":4378602,"language_key":"ja","name":"嘉義"}
+{"id":337154541,"city_id":4378631,"language_key":"ja","name":"ホウ ワン"}
+{"id":337157698,"city_id":4378672,"language_key":"ja","name":"新東村"}
+{"id":337161856,"city_id":4378726,"language_key":"ja","name":"南竿郷"}
+{"id":337161933,"city_id":4378727,"language_key":"ja","name":"中興新村"}
+{"id":337162626,"city_id":4378736,"language_key":"ja","name":"新北市"}

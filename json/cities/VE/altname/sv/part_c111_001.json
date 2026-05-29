@@ -1,0 +1,885 @@
+{"id":354793503,"city_id":4607708,"language_key":"sv","name":"Río San Martin"}
+{"id":354793580,"city_id":4607709,"language_key":"sv","name":"San Francisco"}
+{"id":354793734,"city_id":4607711,"language_key":"sv","name":"San Francisco"}
+{"id":354794042,"city_id":4607715,"language_key":"sv","name":"Pedro Gonzalez"}
+{"id":354794735,"city_id":4607724,"language_key":"sv","name":"La Sierra"}
+{"id":354795274,"city_id":4607731,"language_key":"sv","name":"La Guardia"}
+{"id":354795505,"city_id":4607734,"language_key":"sv","name":"La Asunción"}
+{"id":354796429,"city_id":4607746,"language_key":"sv","name":"El Guamache"}
+{"id":354796583,"city_id":4607748,"language_key":"sv","name":"El Cercado"}
+{"id":354798431,"city_id":4607772,"language_key":"sv","name":"San Jose"}
+{"id":354799509,"city_id":4607786,"language_key":"sv","name":"El Palmar"}
+{"id":354800587,"city_id":4607800,"language_key":"sv","name":"El Corozo"}
+{"id":354800972,"city_id":4607805,"language_key":"sv","name":"Caricuao"}
+{"id":354801511,"city_id":4607812,"language_key":"sv","name":"Tocuyito"}
+{"id":354801742,"city_id":4607815,"language_key":"sv","name":"San Vicente"}
+{"id":354801819,"city_id":4607816,"language_key":"sv","name":"San Pablo"}
+{"id":354802204,"city_id":4607821,"language_key":"sv","name":"Pedernales"}
+{"id":354804437,"city_id":4607850,"language_key":"sv","name":"Buena Vista"}
+{"id":354804976,"city_id":4607857,"language_key":"sv","name":"Villa Nueva"}
+{"id":354806285,"city_id":4607874,"language_key":"sv","name":"El Toro"}
+{"id":354807132,"city_id":4607885,"language_key":"sv","name":"Santa Rosa"}
+{"id":354807286,"city_id":4607887,"language_key":"sv","name":"Santa Rosa"}
+{"id":354807748,"city_id":4607893,"language_key":"sv","name":"San Rafael"}
+{"id":354807979,"city_id":4607896,"language_key":"sv","name":"San Pedro"}
+{"id":354808364,"city_id":4607901,"language_key":"sv","name":"San Isidro"}
+{"id":354808518,"city_id":4607903,"language_key":"sv","name":"San Isidro"}
+{"id":354809365,"city_id":4607914,"language_key":"sv","name":"Los Ranchos"}
+{"id":354811059,"city_id":4607936,"language_key":"sv","name":"Las Porqueras"}
+{"id":354811213,"city_id":4607938,"language_key":"sv","name":"La Playa"}
+{"id":354811367,"city_id":4607940,"language_key":"sv","name":"La Playa"}
+{"id":354812060,"city_id":4607949,"language_key":"sv","name":"La Pedregosa"}
+{"id":354812676,"city_id":4607957,"language_key":"sv","name":"La Palmita"}
+{"id":354812907,"city_id":4607960,"language_key":"sv","name":"Palmarito"}
+{"id":354813215,"city_id":4607964,"language_key":"sv","name":"Los Naranjos"}
+{"id":354815294,"city_id":4607991,"language_key":"sv","name":"La Mesa"}
+{"id":354817373,"city_id":4608018,"language_key":"sv","name":"Jimenez"}
+{"id":354817681,"city_id":4608022,"language_key":"sv","name":"Jajo"}
+{"id":354818990,"city_id":4608039,"language_key":"sv","name":"La Ensenada"}
+{"id":354821608,"city_id":4608073,"language_key":"sv","name":"La Ceiba"}
+{"id":354822532,"city_id":4608085,"language_key":"sv","name":"Campo Alegre"}
+{"id":354824611,"city_id":4608112,"language_key":"sv","name":"El Alto"}
+{"id":354825381,"city_id":4608122,"language_key":"sv","name":"Las Adjuntas"}
+{"id":354827306,"city_id":4608147,"language_key":"sv","name":"Santa Cruz"}
+{"id":354831387,"city_id":4608200,"language_key":"sv","name":"El Paradero"}
+{"id":354831464,"city_id":4608201,"language_key":"sv","name":"Papelon"}
+{"id":354835237,"city_id":4608250,"language_key":"sv","name":"El Guayabo"}
+{"id":354838702,"city_id":4608295,"language_key":"sv","name":"El Chaparro"}
+{"id":354840088,"city_id":4608313,"language_key":"sv","name":"Campo Bonito"}
+{"id":354840165,"city_id":4608314,"language_key":"sv","name":"Campanario"}
+{"id":354840473,"city_id":4608318,"language_key":"sv","name":"Cambural"}
+{"id":354841243,"city_id":4608328,"language_key":"sv","name":"Ayacucho"}
+{"id":354841474,"city_id":4608331,"language_key":"sv","name":"La Angostura"}
+{"id":354841705,"city_id":4608334,"language_key":"sv","name":"Anaco"}
+{"id":354842244,"city_id":4608341,"language_key":"sv","name":"Agua Blanca"}
+{"id":354843399,"city_id":4608356,"language_key":"sv","name":"Santa Cruz de Guacas"}
+{"id":354844092,"city_id":4608365,"language_key":"sv","name":"El Real"}
+{"id":354844400,"city_id":4608369,"language_key":"sv","name":"Piedras Negras"}
+{"id":354845478,"city_id":4608383,"language_key":"sv","name":"La Mula"}
+{"id":354847018,"city_id":4608403,"language_key":"sv","name":"La Gloria"}
+{"id":354847403,"city_id":4608408,"language_key":"sv","name":"La Cuchilla"}
+{"id":354850098,"city_id":4608443,"language_key":"sv","name":"Zuata"}
+{"id":354850329,"city_id":4608446,"language_key":"sv","name":"Zona Rica"}
+{"id":354850560,"city_id":4608449,"language_key":"sv","name":"Zea"}
+{"id":354851022,"city_id":4608455,"language_key":"sv","name":"Zaraza"}
+{"id":354851561,"city_id":4608462,"language_key":"sv","name":"Zamora"}
+{"id":354852716,"city_id":4608477,"language_key":"sv","name":"Yumare"}
+{"id":354853178,"city_id":4608483,"language_key":"sv","name":"Yerba Buena"}
+{"id":354853794,"city_id":4608491,"language_key":"sv","name":"Yaritagua"}
+{"id":354853871,"city_id":4608492,"language_key":"sv","name":"Yaracal"}
+{"id":354854333,"city_id":4608498,"language_key":"sv","name":"Yaguaraparo"}
+{"id":354854564,"city_id":4608501,"language_key":"sv","name":"Yaguapa Abajo"}
+{"id":354854795,"city_id":4608504,"language_key":"sv","name":"Yagua"}
+{"id":354857490,"city_id":4608539,"language_key":"sv","name":"Villarroel"}
+{"id":354857644,"city_id":4608541,"language_key":"sv","name":"Villa Rosa"}
+{"id":354858568,"city_id":4608553,"language_key":"sv","name":"Villa de Cura"}
+{"id":354858799,"city_id":4608556,"language_key":"sv","name":"Villa Bruzual"}
+{"id":354859338,"city_id":4608563,"language_key":"sv","name":"Viento Fresco"}
+{"id":354861417,"city_id":4608590,"language_key":"sv","name":"El Venado"}
+{"id":354861956,"city_id":4608597,"language_key":"sv","name":"Veguitas"}
+{"id":354862110,"city_id":4608599,"language_key":"sv","name":"Las Casitas del Vegon de Nutrias"}
+{"id":354863342,"city_id":4608615,"language_key":"sv","name":"Valle La Tarasca"}
+{"id":354863419,"city_id":4608616,"language_key":"sv","name":"Valle Hondo"}
+{"id":354863881,"city_id":4608622,"language_key":"sv","name":"Valle de la Pascua"}
+{"id":354864112,"city_id":4608625,"language_key":"sv","name":"Vallecito"}
+{"id":354865344,"city_id":4608641,"language_key":"sv","name":"Valera"}
+{"id":354865498,"city_id":4608643,"language_key":"sv","name":"Valencia"}
+{"id":354866576,"city_id":4608657,"language_key":"sv","name":"Uverito"}
+{"id":354867962,"city_id":4608675,"language_key":"sv","name":"Urumaco"}
+{"id":354869040,"city_id":4608689,"language_key":"sv","name":"Grisslor"}
+{"id":354869348,"city_id":4608693,"language_key":"sv","name":"Urbana"}
+{"id":354869810,"city_id":4608699,"language_key":"sv","name":"Urama"}
+{"id":354870041,"city_id":4608702,"language_key":"sv","name":"Uracoa"}
+{"id":354870118,"city_id":4608703,"language_key":"sv","name":"Urachiche"}
+{"id":354870426,"city_id":4608707,"language_key":"sv","name":"Upata"}
+{"id":354870811,"city_id":4608712,"language_key":"sv","name":"Umuquena"}
+{"id":354872274,"city_id":4608731,"language_key":"sv","name":"Turmero"}
+{"id":354873583,"city_id":4608748,"language_key":"sv","name":"Tunapuy"}
+{"id":354873737,"city_id":4608750,"language_key":"sv","name":"Tunapuy"}
+{"id":354874045,"city_id":4608754,"language_key":"sv","name":"Tumba"}
+{"id":354874122,"city_id":4608755,"language_key":"sv","name":"Tumeremo"}
+{"id":354874969,"city_id":4608766,"language_key":"sv","name":"Tucupita"}
+{"id":354875585,"city_id":4608774,"language_key":"sv","name":"Tucupido"}
+{"id":354876047,"city_id":4608780,"language_key":"sv","name":"Tubo"}
+{"id":354876124,"city_id":4608781,"language_key":"sv","name":"Tucacas"}
+{"id":354876509,"city_id":4608786,"language_key":"sv","name":"Trujillo"}
+{"id":354878203,"city_id":4608808,"language_key":"sv","name":"Trento"}
+{"id":354878280,"city_id":4608809,"language_key":"sv","name":"Tres de Febrero"}
+{"id":354879204,"city_id":4608821,"language_key":"sv","name":"Colonia Tovar"}
+{"id":354879358,"city_id":4608823,"language_key":"sv","name":"Tovar"}
+{"id":354879974,"city_id":4608831,"language_key":"sv","name":"Tostos"}
+{"id":354880128,"city_id":4608833,"language_key":"sv","name":"Torunos"}
+{"id":354880513,"city_id":4608838,"language_key":"sv","name":"Torondoy"}
+{"id":354880975,"city_id":4608844,"language_key":"sv","name":"Torbes"}
+{"id":354882284,"city_id":4608861,"language_key":"sv","name":"Tocuyito"}
+{"id":354882438,"city_id":4608863,"language_key":"sv","name":"Tocuyito"}
+{"id":354882669,"city_id":4608866,"language_key":"sv","name":"Tocoron"}
+{"id":354882977,"city_id":4608870,"language_key":"sv","name":"Tocopero"}
+{"id":354883901,"city_id":4608882,"language_key":"sv","name":"Tinaquillo"}
+{"id":354884286,"city_id":4608887,"language_key":"sv","name":"Tinaco"}
+{"id":354884363,"city_id":4608888,"language_key":"sv","name":"Timotes"}
+{"id":354886442,"city_id":4608915,"language_key":"sv","name":"Tia Juana"}
+{"id":354886904,"city_id":4608921,"language_key":"sv","name":"Teresen"}
+{"id":354887674,"city_id":4608931,"language_key":"sv","name":"Temblador"}
+{"id":354889137,"city_id":4608950,"language_key":"sv","name":"Táriba"}
+{"id":354891678,"city_id":4608983,"language_key":"sv","name":"Tamare"}
+{"id":354892140,"city_id":4608989,"language_key":"sv","name":"Tamaca"}
+{"id":354892910,"city_id":4608999,"language_key":"sv","name":"Taguaya"}
+{"id":354894065,"city_id":4609014,"language_key":"sv","name":"Tacata"}
+{"id":354894373,"city_id":4609018,"language_key":"sv","name":"Tacarigua de La Laguna"}
+{"id":354895374,"city_id":4609031,"language_key":"sv","name":"Tabay"}
+{"id":354897068,"city_id":4609053,"language_key":"sv","name":"Sucre"}
+{"id":354897530,"city_id":4609059,"language_key":"sv","name":"Sosa"}
+{"id":354897684,"city_id":4609061,"language_key":"sv","name":"Sosa"}
+{"id":354898993,"city_id":4609078,"language_key":"sv","name":"Soledad"}
+{"id":354899609,"city_id":4609086,"language_key":"sv","name":"Socopo"}
+{"id":354900302,"city_id":4609095,"language_key":"sv","name":"Siquisique"}
+{"id":354900841,"city_id":4609102,"language_key":"sv","name":"Sinamaica"}
+{"id":354901919,"city_id":4609116,"language_key":"sv","name":"Sibaragua"}
+{"id":354902920,"city_id":4609129,"language_key":"sv","name":"Seboruco"}
+{"id":354904460,"city_id":4609149,"language_key":"sv","name":"Sarare"}
+{"id":354904537,"city_id":4609150,"language_key":"sv","name":"Sarare"}
+{"id":354905538,"city_id":4609163,"language_key":"sv","name":"San Vicente"}
+{"id":354907386,"city_id":4609187,"language_key":"sv","name":"Santo Domingo"}
+{"id":354908002,"city_id":4609195,"language_key":"sv","name":"Santa Teresa"}
+{"id":354908233,"city_id":4609198,"language_key":"sv","name":"Santa Teresa"}
+{"id":354909388,"city_id":4609213,"language_key":"sv","name":"Santa Rosalia"}
+{"id":354913469,"city_id":4609266,"language_key":"sv","name":"Santa Rosa"}
+{"id":354914316,"city_id":4609277,"language_key":"sv","name":"Santa Rita"}
+{"id":354914855,"city_id":4609284,"language_key":"sv","name":"Santa Rita"}
+{"id":354918089,"city_id":4609326,"language_key":"sv","name":"Santa Maria de Ipire"}
+{"id":354918320,"city_id":4609329,"language_key":"sv","name":"Santa Maria"}
+{"id":354920476,"city_id":4609357,"language_key":"sv","name":"Luciasången"}
+{"id":354920861,"city_id":4609362,"language_key":"sv","name":"Santa Lucía"}
+{"id":354921477,"city_id":4609370,"language_key":"sv","name":"Luciasången"}
+{"id":354922786,"city_id":4609387,"language_key":"sv","name":"Santa Isabel"}
+{"id":354922863,"city_id":4609388,"language_key":"sv","name":"Santa Isabel"}
+{"id":354924480,"city_id":4609409,"language_key":"sv","name":"Santa Ines"}
+{"id":354925712,"city_id":4609425,"language_key":"sv","name":"Santa Elena de Uairén"}
+{"id":354925866,"city_id":4609427,"language_key":"sv","name":"Santa Elena"}
+{"id":354927252,"city_id":4609445,"language_key":"sv","name":"Santa Cruz de Mora"}
+{"id":354927406,"city_id":4609447,"language_key":"sv","name":"Santa Cruz de Mara"}
+{"id":354927483,"city_id":4609448,"language_key":"sv","name":"Santa Cruz del Zulia"}
+{"id":354927637,"city_id":4609450,"language_key":"sv","name":"Santa Cruz"}
+{"id":354929023,"city_id":4609468,"language_key":"sv","name":"Santa Cruz"}
+{"id":354931641,"city_id":4609502,"language_key":"sv","name":"Santa Barbara"}
+{"id":354933027,"city_id":4609520,"language_key":"sv","name":"Santa Barbara"}
+{"id":354933797,"city_id":4609530,"language_key":"sv","name":"Santa Barbara"}
+{"id":354934798,"city_id":4609543,"language_key":"sv","name":"Santa Apolonia"}
+{"id":354934875,"city_id":4609544,"language_key":"sv","name":"Santa Anita"}
+{"id":354935414,"city_id":4609551,"language_key":"sv","name":"Santa Ana"}
+{"id":354936646,"city_id":4609567,"language_key":"sv","name":"Santa Ana"}
+{"id":354936800,"city_id":4609569,"language_key":"sv","name":"Santa Ana"}
+{"id":354937031,"city_id":4609572,"language_key":"sv","name":"Santa Ana"}
+{"id":354937801,"city_id":4609582,"language_key":"sv","name":"San Simon"}
+{"id":354937878,"city_id":4609583,"language_key":"sv","name":"San Silvestre"}
+{"id":354937955,"city_id":4609584,"language_key":"sv","name":"San Salvador"}
+{"id":354939803,"city_id":4609608,"language_key":"sv","name":"San Rafael de Orituco"}
+{"id":354939880,"city_id":4609609,"language_key":"sv","name":"San Rafael de Onoto"}
+{"id":354940111,"city_id":4609612,"language_key":"sv","name":"Carvajal"}
+{"id":354940265,"city_id":4609614,"language_key":"sv","name":"San Rafael de Canagua"}
+{"id":354940881,"city_id":4609622,"language_key":"sv","name":"San Rafael"}
+{"id":354945270,"city_id":4609679,"language_key":"sv","name":"San Pedro"}
+{"id":354949351,"city_id":4609732,"language_key":"sv","name":"San Pablo"}
+{"id":354950968,"city_id":4609753,"language_key":"sv","name":"San Nicolas"}
+{"id":354952585,"city_id":4609774,"language_key":"sv","name":"San Miguel"}
+{"id":354953740,"city_id":4609789,"language_key":"sv","name":"San Miguel"}
+{"id":354954433,"city_id":4609798,"language_key":"sv","name":"San Mateo"}
+{"id":354954510,"city_id":4609799,"language_key":"sv","name":"Río San Martin"}
+{"id":354955665,"city_id":4609814,"language_key":"sv","name":"San Luis"}
+{"id":354957205,"city_id":4609834,"language_key":"sv","name":"San Lorenzo"}
+{"id":354958668,"city_id":4609853,"language_key":"sv","name":"San Juan de Manapiare"}
+{"id":354958745,"city_id":4609854,"language_key":"sv","name":"San Juan de Los Morros"}
+{"id":354958822,"city_id":4609855,"language_key":"sv","name":"San Juan de los Cayos"}
+{"id":354959130,"city_id":4609859,"language_key":"sv","name":"Colon"}
+{"id":354959515,"city_id":4609864,"language_key":"sv","name":"San Juan Bautista"}
+{"id":354961671,"city_id":4609892,"language_key":"sv","name":"San Juan"}
+{"id":354962210,"city_id":4609899,"language_key":"sv","name":"San Jose de Tiznados"}
+{"id":354962364,"city_id":4609901,"language_key":"sv","name":"San Jose de Barlovento"}
+{"id":354963288,"city_id":4609913,"language_key":"sv","name":"San Jose de Guanipa"}
+{"id":354963750,"city_id":4609919,"language_key":"sv","name":"San Jose de Aerocuar"}
+{"id":354968062,"city_id":4609975,"language_key":"sv","name":"San Jose"}
+{"id":354969063,"city_id":4609988,"language_key":"sv","name":"San Joaquin"}
+{"id":354971681,"city_id":4610022,"language_key":"sv","name":"San Isidro"}
+{"id":354971989,"city_id":4610026,"language_key":"sv","name":"San Ignacio"}
+{"id":354973298,"city_id":4610043,"language_key":"sv","name":"San Francisco de Yare"}
+{"id":354973760,"city_id":4610049,"language_key":"sv","name":"San Francisco"}
+{"id":354974299,"city_id":4610056,"language_key":"sv","name":"San Francisco"}
+{"id":354975454,"city_id":4610071,"language_key":"sv","name":"San Fernando de Atabapo"}
+{"id":354975531,"city_id":4610072,"language_key":"sv","name":"San Fernando"}
+{"id":354975762,"city_id":4610075,"language_key":"sv","name":"San Fernando del Guapo"}
+{"id":354975916,"city_id":4610077,"language_key":"sv","name":"San Felix"}
+{"id":354976378,"city_id":4610083,"language_key":"sv","name":"San Felipe"}
+{"id":354978226,"city_id":4610107,"language_key":"sv","name":"San Diego"}
+{"id":354978303,"city_id":4610108,"language_key":"sv","name":"San Diego"}
+{"id":354978457,"city_id":4610110,"language_key":"sv","name":"San Diego"}
+{"id":354979150,"city_id":4610119,"language_key":"sv","name":"San Cristóbal"}
+{"id":354979689,"city_id":4610126,"language_key":"sv","name":"San Carlos del Zulia"}
+{"id":354979766,"city_id":4610127,"language_key":"sv","name":"San Carlos"}
+{"id":354979843,"city_id":4610128,"language_key":"sv","name":"San Carlos"}
+{"id":354980459,"city_id":4610136,"language_key":"sv","name":"San Carlos"}
+{"id":354982153,"city_id":4610158,"language_key":"sv","name":"Sanare"}
+{"id":354982461,"city_id":4610162,"language_key":"sv","name":"San Antonio del Tachira"}
+{"id":354982538,"city_id":4610163,"language_key":"sv","name":"San Antonio de Los Altos"}
+{"id":354982615,"city_id":4610164,"language_key":"sv","name":"San Antonio del Golfo"}
+{"id":354983077,"city_id":4610170,"language_key":"sv","name":"Capaya"}
+{"id":354984771,"city_id":4610192,"language_key":"sv","name":"San Antonio"}
+{"id":354987697,"city_id":4610230,"language_key":"sv","name":"San Antonio"}
+{"id":354988775,"city_id":4610244,"language_key":"sv","name":"San Agustin"}
+{"id":354990238,"city_id":4610263,"language_key":"sv","name":"Salom"}
+{"id":354994781,"city_id":4610322,"language_key":"sv","name":"Sabaneta"}
+{"id":354995705,"city_id":4610334,"language_key":"sv","name":"Sabana Libre"}
+{"id":354997168,"city_id":4610353,"language_key":"sv","name":"Sabana Grande"}
+{"id":354997707,"city_id":4610360,"language_key":"sv","name":"Sabana Grande"}
+{"id":354997938,"city_id":4610363,"language_key":"sv","name":"Sabana Grande"}
+{"id":354998246,"city_id":4610367,"language_key":"sv","name":"Sabana de Uchire"}
+{"id":354998631,"city_id":4610372,"language_key":"sv","name":"Sabana de Parra"}
+{"id":354998785,"city_id":4610374,"language_key":"sv","name":"Sabana de Mendoza"}
+{"id":355000171,"city_id":4610392,"language_key":"sv","name":"Rubio"}
+{"id":355000402,"city_id":4610395,"language_key":"sv","name":"La Villa del Rosario"}
+{"id":355000710,"city_id":4610399,"language_key":"sv","name":"El Rosario"}
+{"id":355001634,"city_id":4610411,"language_key":"sv","name":"Rojas"}
+{"id":355004098,"city_id":4610443,"language_key":"sv","name":"Rio Tocuyo"}
+{"id":355004175,"city_id":4610444,"language_key":"sv","name":"Rio Seco"}
+{"id":355004637,"city_id":4610450,"language_key":"sv","name":"Rio Negro"}
+{"id":355005561,"city_id":4610462,"language_key":"sv","name":"Rio Claro"}
+{"id":355006254,"city_id":4610471,"language_key":"sv","name":"Rio Chico"}
+{"id":355006408,"city_id":4610473,"language_key":"sv","name":"Rio Casanay"}
+{"id":355006485,"city_id":4610474,"language_key":"sv","name":"Rio Caribe"}
+{"id":355007101,"city_id":4610482,"language_key":"sv","name":"Rio Acarigua"}
+{"id":355010335,"city_id":4610524,"language_key":"sv","name":"Remolino"}
+{"id":355011490,"city_id":4610539,"language_key":"sv","name":"Rangel"}
+{"id":355015417,"city_id":4610590,"language_key":"sv","name":"Quiriquire"}
+{"id":355015571,"city_id":4610592,"language_key":"sv","name":"Quiriquire"}
+{"id":355016880,"city_id":4610609,"language_key":"sv","name":"Quíbor"}
+{"id":355018112,"city_id":4610625,"language_key":"sv","name":"Queniquea"}
+{"id":355018728,"city_id":4610633,"language_key":"sv","name":"Quebrada Seca"}
+{"id":355019344,"city_id":4610641,"language_key":"sv","name":"Quebrada Seca"}
+{"id":355019498,"city_id":4610643,"language_key":"sv","name":"San Francisco del Guri"}
+{"id":355021500,"city_id":4610669,"language_key":"sv","name":"Quebrada de La Virgen"}
+{"id":355021885,"city_id":4610674,"language_key":"sv","name":"Quebrada Arriba"}
+{"id":355023425,"city_id":4610694,"language_key":"sv","name":"Punto Fijo"}
+{"id":355024041,"city_id":4610702,"language_key":"sv","name":"Punta Gorda"}
+{"id":355024503,"city_id":4610708,"language_key":"sv","name":"Punta de Piedras"}
+{"id":355024580,"city_id":4610709,"language_key":"sv","name":"Punta de Piedra"}
+{"id":355024734,"city_id":4610711,"language_key":"sv","name":"Punta de Piedra"}
+{"id":355024888,"city_id":4610713,"language_key":"sv","name":"Punta de Mata"}
+{"id":355025427,"city_id":4610720,"language_key":"sv","name":"Punta Cardon"}
+{"id":355025889,"city_id":4610726,"language_key":"sv","name":"Punceres"}
+{"id":355026274,"city_id":4610731,"language_key":"sv","name":"Puerto Teteo"}
+{"id":355026428,"city_id":4610733,"language_key":"sv","name":"Puerto Rico"}
+{"id":355027044,"city_id":4610741,"language_key":"sv","name":"Puerto Nuevo"}
+{"id":355027121,"city_id":4610742,"language_key":"sv","name":"Puerto Nuevo"}
+{"id":355027198,"city_id":4610743,"language_key":"sv","name":"Puerto Nuevo"}
+{"id":355027429,"city_id":4610746,"language_key":"sv","name":"Puerto Miranda"}
+{"id":355027583,"city_id":4610748,"language_key":"sv","name":"Puerto Miranda"}
+{"id":355028353,"city_id":4610758,"language_key":"sv","name":"Puerto la Cruz"}
+{"id":355029123,"city_id":4610768,"language_key":"sv","name":"Puerto Escondido"}
+{"id":355029585,"city_id":4610774,"language_key":"sv","name":"Puerto de Nutrias"}
+{"id":355029739,"city_id":4610776,"language_key":"sv","name":"Puerto de Hierro"}
+{"id":355029816,"city_id":4610777,"language_key":"sv","name":"Puerto Cumarebo"}
+{"id":355030278,"city_id":4610783,"language_key":"sv","name":"Puerto Cabello"}
+{"id":355030586,"city_id":4610787,"language_key":"sv","name":"Puerto Ayacucho"}
+{"id":355033820,"city_id":4610829,"language_key":"sv","name":"Pueblo Nuevo"}
+{"id":355035514,"city_id":4610851,"language_key":"sv","name":"Pueblo Nuevo"}
+{"id":355036053,"city_id":4610858,"language_key":"sv","name":"Pueblo Llano"}
+{"id":355037747,"city_id":4610880,"language_key":"sv","name":"Pregonero"}
+{"id":355037824,"city_id":4610881,"language_key":"sv","name":"Pozuelos"}
+{"id":355039056,"city_id":4610897,"language_key":"sv","name":"Potreritos"}
+{"id":355041212,"city_id":4610925,"language_key":"sv","name":"Porlamar"}
+{"id":355045524,"city_id":4610981,"language_key":"sv","name":"Piritu"}
+{"id":355045601,"city_id":4610982,"language_key":"sv","name":"Piritu"}
+{"id":355045755,"city_id":4610984,"language_key":"sv","name":"Piritu"}
+{"id":355048373,"city_id":4611018,"language_key":"sv","name":"Pimpinela"}
+{"id":355053224,"city_id":4611081,"language_key":"sv","name":"Petare"}
+{"id":355054610,"city_id":4611099,"language_key":"sv","name":"Peribeca"}
+{"id":355055842,"city_id":4611115,"language_key":"sv","name":"Pena"}
+{"id":355057613,"city_id":4611138,"language_key":"sv","name":"Pedregal"}
+{"id":355058075,"city_id":4611144,"language_key":"sv","name":"Pedernales"}
+{"id":355058306,"city_id":4611147,"language_key":"sv","name":"Pedernales"}
+{"id":355058768,"city_id":4611153,"language_key":"sv","name":"Hydrolycus scomberoides"}
+{"id":355065621,"city_id":4611242,"language_key":"sv","name":"Pariaguan"}
+{"id":355066930,"city_id":4611259,"language_key":"sv","name":"Parapara"}
+{"id":355067931,"city_id":4611272,"language_key":"sv","name":"Paraiso de Chabasquen"}
+{"id":355068701,"city_id":4611282,"language_key":"sv","name":"La Plaza Paraguachi"}
+{"id":355068855,"city_id":4611284,"language_key":"sv","name":"Paraguaipoa"}
+{"id":355069471,"city_id":4611292,"language_key":"sv","name":"Paracotos"}
+{"id":355070164,"city_id":4611301,"language_key":"sv","name":"Papelon"}
+{"id":355071704,"city_id":4611321,"language_key":"sv","name":"Panaquire"}
+{"id":355072166,"city_id":4611327,"language_key":"sv","name":"Pampatar"}
+{"id":355072243,"city_id":4611328,"language_key":"sv","name":"Pampanito"}
+{"id":355072320,"city_id":4611329,"language_key":"sv","name":"Pampan"}
+{"id":355072782,"city_id":4611335,"language_key":"sv","name":"Palotal"}
+{"id":355074168,"city_id":4611353,"language_key":"sv","name":"Palomas"}
+{"id":355074861,"city_id":4611362,"language_key":"sv","name":"Palo Gordo"}
+{"id":355076478,"city_id":4611383,"language_key":"sv","name":"Palmira"}
+{"id":355077402,"city_id":4611395,"language_key":"sv","name":"Palma Sola"}
+{"id":355084871,"city_id":4611492,"language_key":"sv","name":"Osorio"}
+{"id":355086103,"city_id":4611508,"language_key":"sv","name":"Ortiz"}
+{"id":355086411,"city_id":4611512,"language_key":"sv","name":"Orope"}
+{"id":355087643,"city_id":4611528,"language_key":"sv","name":"Onoto"}
+{"id":355087874,"city_id":4611531,"language_key":"sv","name":"Onoto"}
+{"id":355091878,"city_id":4611583,"language_key":"sv","name":"Ocumare del Tuy"}
+{"id":355091955,"city_id":4611584,"language_key":"sv","name":"Ocumare de la Costa"}
+{"id":355092494,"city_id":4611591,"language_key":"sv","name":"Obispo"}
+{"id":355093495,"city_id":4611604,"language_key":"sv","name":"Nueva Bolivia"}
+{"id":355094265,"city_id":4611614,"language_key":"sv","name":"Nirgua"}
+{"id":355095112,"city_id":4611625,"language_key":"sv","name":"Naricual"}
+{"id":355095574,"city_id":4611631,"language_key":"sv","name":"Naiguata"}
+{"id":355095651,"city_id":4611632,"language_key":"sv","name":"Naguanagua"}
+{"id":355096652,"city_id":4611645,"language_key":"sv","name":"Munoz"}
+{"id":355097499,"city_id":4611656,"language_key":"sv","name":"Mulatal"}
+{"id":355098115,"city_id":4611664,"language_key":"sv","name":"Mucuruba"}
+{"id":355098962,"city_id":4611675,"language_key":"sv","name":"Mucumpiz"}
+{"id":355099116,"city_id":4611677,"language_key":"sv","name":"Mucuchíes"}
+{"id":355099193,"city_id":4611678,"language_key":"sv","name":"Mucuchíes"}
+{"id":355100194,"city_id":4611691,"language_key":"sv","name":"Motatan del Rio"}
+{"id":355100348,"city_id":4611693,"language_key":"sv","name":"Motatan"}
+{"id":355100579,"city_id":4611696,"language_key":"sv","name":"Mosquey"}
+{"id":355102427,"city_id":4611720,"language_key":"sv","name":"Moron"}
+{"id":355104121,"city_id":4611742,"language_key":"sv","name":"Morichal Largo"}
+{"id":355108356,"city_id":4611797,"language_key":"sv","name":"Monte Bello"}
+{"id":355109280,"city_id":4611809,"language_key":"sv","name":"Montalban"}
+{"id":355109588,"city_id":4611813,"language_key":"sv","name":"Monay"}
+{"id":355111051,"city_id":4611832,"language_key":"sv","name":"Mochima"}
+{"id":355111513,"city_id":4611838,"language_key":"sv","name":"Miton"}
+{"id":355111975,"city_id":4611844,"language_key":"sv","name":"San Francisco de Guayo"}
+{"id":355112437,"city_id":4611850,"language_key":"sv","name":"Mirimire"}
+{"id":355112591,"city_id":4611852,"language_key":"sv","name":"Miranda"}
+{"id":355114901,"city_id":4611882,"language_key":"sv","name":"Mexiko"}
+{"id":355116210,"city_id":4611899,"language_key":"sv","name":"Mesa de Cavacas"}
+{"id":355116749,"city_id":4611906,"language_key":"sv","name":"Mérida"}
+{"id":355119598,"city_id":4611943,"language_key":"sv","name":"Mendoza"}
+{"id":355119675,"city_id":4611944,"language_key":"sv","name":"Mendoza"}
+{"id":355133227,"city_id":4612120,"language_key":"sv","name":"Masparrito"}
+{"id":355134074,"city_id":4612131,"language_key":"sv","name":"Maroa"}
+{"id":355134305,"city_id":4612134,"language_key":"sv","name":"Maripa"}
+{"id":355134382,"city_id":4612135,"language_key":"sv","name":"Marin"}
+{"id":355134536,"city_id":4612137,"language_key":"sv","name":"Marin"}
+{"id":355134844,"city_id":4612141,"language_key":"sv","name":"Mariara"}
+{"id":355134998,"city_id":4612143,"language_key":"sv","name":"Mariara"}
+{"id":355136076,"city_id":4612157,"language_key":"sv","name":"Marcano"}
+{"id":355137000,"city_id":4612169,"language_key":"sv","name":"Maracay"}
+{"id":355137231,"city_id":4612172,"language_key":"sv","name":"Maracaibo"}
+{"id":355137616,"city_id":4612177,"language_key":"sv","name":"Mara"}
+{"id":355139079,"city_id":4612196,"language_key":"sv","name":"Maporal"}
+{"id":355139156,"city_id":4612197,"language_key":"sv","name":"Maporal"}
+{"id":355139387,"city_id":4612200,"language_key":"sv","name":"Maporal"}
+{"id":355139541,"city_id":4612202,"language_key":"sv","name":"Mapire"}
+{"id":355139695,"city_id":4612204,"language_key":"sv","name":"Maparari"}
+{"id":355140927,"city_id":4612220,"language_key":"sv","name":"Manteca"}
+{"id":355142313,"city_id":4612238,"language_key":"sv","name":"Manicuare"}
+{"id":355144315,"city_id":4612264,"language_key":"sv","name":"Mamporal"}
+{"id":355147472,"city_id":4612305,"language_key":"sv","name":"Maiquetia"}
+{"id":355148242,"city_id":4612315,"language_key":"sv","name":"Mahomito"}
+{"id":355148935,"city_id":4612324,"language_key":"sv","name":"Magdalena"}
+{"id":355149936,"city_id":4612337,"language_key":"sv","name":"Macuto"}
+{"id":355151399,"city_id":4612356,"language_key":"sv","name":"Machiques"}
+{"id":355152554,"city_id":4612371,"language_key":"sv","name":"Macapo"}
+{"id":355157482,"city_id":4612435,"language_key":"sv","name":"Los Teques"}
+{"id":355157713,"city_id":4612438,"language_key":"sv","name":"Los Taques"}
+{"id":355159792,"city_id":4612465,"language_key":"sv","name":"Los Rios"}
+{"id":355160485,"city_id":4612474,"language_key":"sv","name":"Los Rastrojos"}
+{"id":355165028,"city_id":4612533,"language_key":"sv","name":"Los Pijiguaos"}
+{"id":355170957,"city_id":4612610,"language_key":"sv","name":"Los Millanes"}
+{"id":355179427,"city_id":4612720,"language_key":"sv","name":"Los Guayos"}
+{"id":355179812,"city_id":4612725,"language_key":"sv","name":"Los Guasdalotes"}
+{"id":355182045,"city_id":4612754,"language_key":"sv","name":"Los Dos Caminos"}
+{"id":355185972,"city_id":4612805,"language_key":"sv","name":"Los Cocos"}
+{"id":355187743,"city_id":4612828,"language_key":"sv","name":"Los Chiguires"}
+{"id":355190361,"city_id":4612862,"language_key":"sv","name":"Los Carpinteros"}
+{"id":355196444,"city_id":4612941,"language_key":"sv","name":"Los Barrancos de Fajardo"}
+{"id":355197522,"city_id":4612955,"language_key":"sv","name":"Los Bagres"}
+{"id":355198369,"city_id":4612966,"language_key":"sv","name":"Los Araques"}
+{"id":355199524,"city_id":4612981,"language_key":"sv","name":"Los Altos"}
+{"id":355199755,"city_id":4612984,"language_key":"sv","name":"Los Altos"}
+{"id":355204298,"city_id":4613043,"language_key":"sv","name":"Lobatera"}
+{"id":355206223,"city_id":4613068,"language_key":"sv","name":"Limon"}
+{"id":355206685,"city_id":4613074,"language_key":"sv","name":"Libertad"}
+{"id":355206762,"city_id":4613075,"language_key":"sv","name":"Libertad"}
+{"id":355206839,"city_id":4613076,"language_key":"sv","name":"Canagua"}
+{"id":355206916,"city_id":4613077,"language_key":"sv","name":"Capacho Viejo"}
+{"id":355206993,"city_id":4613078,"language_key":"sv","name":"Lezama"}
+{"id":355208610,"city_id":4613099,"language_key":"sv","name":"La Yuca"}
+{"id":355212691,"city_id":4613152,"language_key":"sv","name":"La Victoria"}
+{"id":355213846,"city_id":4613167,"language_key":"sv","name":"La Victoria"}
+{"id":355215155,"city_id":4613184,"language_key":"sv","name":"La Vela de Coro"}
+{"id":355215540,"city_id":4613189,"language_key":"sv","name":"Veguitas"}
+{"id":355219929,"city_id":4613246,"language_key":"sv","name":"La Union"}
+{"id":355220853,"city_id":4613258,"language_key":"sv","name":"La Trinidad"}
+{"id":355223163,"city_id":4613288,"language_key":"sv","name":"La Trilla"}
+{"id":355223471,"city_id":4613292,"language_key":"sv","name":"La Toscana"}
+{"id":355228938,"city_id":4613363,"language_key":"sv","name":"Las Varas"}
+{"id":355229939,"city_id":4613376,"language_key":"sv","name":"Las Tunas"}
+{"id":355232095,"city_id":4613404,"language_key":"sv","name":"Las Tejerias"}
+{"id":355239564,"city_id":4613501,"language_key":"sv","name":"Las Piedras"}
+{"id":355241258,"city_id":4613523,"language_key":"sv","name":"Las Parcelas"}
+{"id":355244107,"city_id":4613560,"language_key":"sv","name":"Ollas de Caramacate"}
+{"id":355249343,"city_id":4613628,"language_key":"sv","name":"Las Mesas"}
+{"id":355249574,"city_id":4613631,"language_key":"sv","name":"Las Mercedes"}
+{"id":355250575,"city_id":4613644,"language_key":"sv","name":"Las Mercedes"}
+{"id":355258660,"city_id":4613749,"language_key":"sv","name":"La Sierra"}
+{"id":355261355,"city_id":4613784,"language_key":"sv","name":"Las Guacamayas"}
+{"id":355265513,"city_id":4613838,"language_key":"sv","name":"Las Elisas"}
+{"id":355267438,"city_id":4613863,"language_key":"sv","name":"Las Delicias"}
+{"id":355267823,"city_id":4613868,"language_key":"sv","name":"Las Delicias"}
+{"id":355269286,"city_id":4613887,"language_key":"sv","name":"Las Cruces"}
+{"id":355275369,"city_id":4613966,"language_key":"sv","name":"Las Calderas"}
+{"id":355282453,"city_id":4614058,"language_key":"sv","name":"La Sabana"}
+{"id":355284763,"city_id":4614088,"language_key":"sv","name":"La Roquena"}
+{"id":355288459,"city_id":4614136,"language_key":"sv","name":"La Reforma"}
+{"id":355291693,"city_id":4614178,"language_key":"sv","name":"La Quebrada"}
+{"id":355291924,"city_id":4614181,"language_key":"sv","name":"La Quebrada"}
+{"id":355294465,"city_id":4614214,"language_key":"sv","name":"La Providencia"}
+{"id":355297622,"city_id":4614255,"language_key":"sv","name":"La Plata"}
+{"id":355300163,"city_id":4614288,"language_key":"sv","name":"La Pica"}
+{"id":355303474,"city_id":4614331,"language_key":"sv","name":"La Paz"}
+{"id":355304090,"city_id":4614339,"language_key":"sv","name":"La Pastora"}
+{"id":355305553,"city_id":4614358,"language_key":"sv","name":"La Paragua"}
+{"id":355306169,"city_id":4614366,"language_key":"sv","name":"La Pampa de Aragua"}
+{"id":355306477,"city_id":4614370,"language_key":"sv","name":"La paloma"}
+{"id":355313022,"city_id":4614455,"language_key":"sv","name":"Lander"}
+{"id":355317334,"city_id":4614511,"language_key":"sv","name":"La Mocha"}
+{"id":355317796,"city_id":4614517,"language_key":"sv","name":"La Mision"}
+{"id":355318335,"city_id":4614524,"language_key":"sv","name":"La Miel"}
+{"id":355321184,"city_id":4614561,"language_key":"sv","name":"La Mata"}
+{"id":355327036,"city_id":4614637,"language_key":"sv","name":"La Luz"}
+{"id":355332657,"city_id":4614710,"language_key":"sv","name":"La Lagunita"}
+{"id":355333427,"city_id":4614720,"language_key":"sv","name":"La Laguna"}
+{"id":355335583,"city_id":4614748,"language_key":"sv","name":"La Jara"}
+{"id":355340973,"city_id":4614818,"language_key":"sv","name":"Lagunitas"}
+{"id":355341743,"city_id":4614828,"language_key":"sv","name":"Lagunillas"}
+{"id":355341820,"city_id":4614829,"language_key":"sv","name":"Lagunillas"}
+{"id":355342898,"city_id":4614843,"language_key":"sv","name":"Laguna Honda"}
+{"id":355344746,"city_id":4614867,"language_key":"sv","name":"La Guasduilla"}
+{"id":355346132,"city_id":4614885,"language_key":"sv","name":"La Guaira"}
+{"id":355351137,"city_id":4614950,"language_key":"sv","name":"La Fundacion"}
+{"id":355362995,"city_id":4615104,"language_key":"sv","name":"La Esmeralda"}
+{"id":355365998,"city_id":4615143,"language_key":"sv","name":"La Dominga"}
+{"id":355366152,"city_id":4615145,"language_key":"sv","name":"La Diecinueve"}
+{"id":355366614,"city_id":4615151,"language_key":"sv","name":"Democracia"}
+{"id":355372389,"city_id":4615226,"language_key":"sv","name":"La Cruz de Taratara"}
+{"id":355376316,"city_id":4615277,"language_key":"sv","name":"La Concepcion"}
+{"id":355376547,"city_id":4615280,"language_key":"sv","name":"Concepción"}
+{"id":355380474,"city_id":4615331,"language_key":"sv","name":"La Chorrera"}
+{"id":355382476,"city_id":4615357,"language_key":"sv","name":"Chameta"}
+{"id":355384016,"city_id":4615377,"language_key":"sv","name":"La Cejita"}
+{"id":355387173,"city_id":4615418,"language_key":"sv","name":"La Ceiba"}
+{"id":355390022,"city_id":4615455,"language_key":"sv","name":"Caramuca"}
+{"id":355394565,"city_id":4615514,"language_key":"sv","name":"La Cabana"}
+{"id":355399801,"city_id":4615582,"language_key":"sv","name":"La Batea"}
+{"id":355401341,"city_id":4615602,"language_key":"sv","name":"La Aurora"}
+{"id":355403574,"city_id":4615631,"language_key":"sv","name":"La Arena"}
+{"id":355405653,"city_id":4615658,"language_key":"sv","name":"La Aguadita"}
+{"id":355406500,"city_id":4615669,"language_key":"sv","name":"La Aguada"}
+{"id":355408656,"city_id":4615697,"language_key":"sv","name":"Kanavayen"}
+{"id":355408733,"city_id":4615698,"language_key":"sv","name":"Jusepin"}
+{"id":355408887,"city_id":4615700,"language_key":"sv","name":"Juncalito Abajo"}
+{"id":355409657,"city_id":4615710,"language_key":"sv","name":"Judibana"}
+{"id":355410350,"city_id":4615719,"language_key":"sv","name":"Juan Griego"}
+{"id":355414739,"city_id":4615776,"language_key":"sv","name":"Jalisco"}
+{"id":355414893,"city_id":4615778,"language_key":"sv","name":"Jaji"}
+{"id":355416279,"city_id":4615796,"language_key":"sv","name":"Jacura"}
+{"id":355416895,"city_id":4615804,"language_key":"sv","name":"Jabon"}
+{"id":355418435,"city_id":4615824,"language_key":"sv","name":"Isnotu"}
+{"id":355418743,"city_id":4615828,"language_key":"sv","name":"Irapa"}
+{"id":355419667,"city_id":4615840,"language_key":"sv","name":"Independencia"}
+{"id":355420514,"city_id":4615851,"language_key":"sv","name":"Humo Luz"}
+{"id":355420591,"city_id":4615852,"language_key":"sv","name":"Humocaro Bajo"}
+{"id":355420668,"city_id":4615853,"language_key":"sv","name":"Humocaro Alto"}
+{"id":355421592,"city_id":4615865,"language_key":"sv","name":"Higuerote"}
+{"id":355422901,"city_id":4615882,"language_key":"sv","name":"Hernandez"}
+{"id":355429908,"city_id":4615973,"language_key":"sv","name":"Guiria"}
+{"id":355430062,"city_id":4615975,"language_key":"sv","name":"Wiuiquina"}
+{"id":355430370,"city_id":4615979,"language_key":"sv","name":"Güigüe"}
+{"id":355432526,"city_id":4616007,"language_key":"sv","name":"Guayabones"}
+{"id":355432834,"city_id":4616011,"language_key":"sv","name":"Guayabal"}
+{"id":355434451,"city_id":4616032,"language_key":"sv","name":"Guayabal"}
+{"id":355434990,"city_id":4616039,"language_key":"sv","name":"Guatire"}
+{"id":355436068,"city_id":4616053,"language_key":"sv","name":"Guasipati"}
+{"id":355439456,"city_id":4616097,"language_key":"sv","name":"Guarico"}
+{"id":355440303,"city_id":4616108,"language_key":"sv","name":"Guarenas"}
+{"id":355440919,"city_id":4616116,"language_key":"sv","name":"Guardatinajas"}
+{"id":355440996,"city_id":4616117,"language_key":"sv","name":"Guaraunos"}
+{"id":355441227,"city_id":4616120,"language_key":"sv","name":"Guarataro"}
+{"id":355441920,"city_id":4616129,"language_key":"sv","name":"Guaraque"}
+{"id":355444076,"city_id":4616157,"language_key":"sv","name":"Guanta"}
+{"id":355445154,"city_id":4616171,"language_key":"sv","name":"Guanare"}
+{"id":355445308,"city_id":4616173,"language_key":"sv","name":"Guanare"}
+{"id":355445462,"city_id":4616175,"language_key":"sv","name":"Guanape"}
+{"id":355448542,"city_id":4616215,"language_key":"sv","name":"Guama"}
+{"id":355448850,"city_id":4616219,"language_key":"sv","name":"Guajira"}
+{"id":355450698,"city_id":4616243,"language_key":"sv","name":"Guadalupe"}
+{"id":355452546,"city_id":4616267,"language_key":"sv","name":"Guacara"}
+{"id":355454317,"city_id":4616290,"language_key":"sv","name":"Gomez"}
+{"id":355459553,"city_id":4616358,"language_key":"sv","name":"Flor de Patria"}
+{"id":355461247,"city_id":4616380,"language_key":"sv","name":"Farriar"}
+{"id":355462248,"city_id":4616393,"language_key":"sv","name":"Estoraque"}
+{"id":355464481,"city_id":4616422,"language_key":"sv","name":"Escondido"}
+{"id":355465405,"city_id":4616434,"language_key":"sv","name":"Encontrados"}
+{"id":355468177,"city_id":4616470,"language_key":"sv","name":"El Yagual"}
+{"id":355469332,"city_id":4616485,"language_key":"sv","name":"El Vigía"}
+{"id":355471565,"city_id":4616514,"language_key":"sv","name":"El Valle del Espiritu Santo"}
+{"id":355471642,"city_id":4616515,"language_key":"sv","name":"El Valle"}
+{"id":355473336,"city_id":4616537,"language_key":"sv","name":"El Triunfo"}
+{"id":355474568,"city_id":4616553,"language_key":"sv","name":"El Toro"}
+{"id":355474799,"city_id":4616556,"language_key":"sv","name":"El Toro"}
+{"id":355476031,"city_id":4616572,"language_key":"sv","name":"El Tocuyo"}
+{"id":355478264,"city_id":4616601,"language_key":"sv","name":"El Tigre"}
+{"id":355479881,"city_id":4616622,"language_key":"sv","name":"El Tejar"}
+{"id":355482576,"city_id":4616657,"language_key":"sv","name":"El Sombrero"}
+{"id":355482807,"city_id":4616660,"language_key":"sv","name":"El Socorro"}
+{"id":355483500,"city_id":4616669,"language_key":"sv","name":"El Socorro"}
+{"id":355483962,"city_id":4616675,"language_key":"sv","name":"El Socorro"}
+{"id":355484501,"city_id":4616682,"language_key":"sv","name":"El Silencio"}
+{"id":355485194,"city_id":4616691,"language_key":"sv","name":"El Siete"}
+{"id":355486195,"city_id":4616704,"language_key":"sv","name":"El Saman de Apure"}
+{"id":355490815,"city_id":4616764,"language_key":"sv","name":"Los Roques"}
+{"id":355498515,"city_id":4616864,"language_key":"sv","name":"El Refugio"}
+{"id":355498746,"city_id":4616867,"language_key":"sv","name":"El Recreo"}
+{"id":355501749,"city_id":4616906,"language_key":"sv","name":"El Pueblito"}
+{"id":355510450,"city_id":4617019,"language_key":"sv","name":"El Pinar"}
+{"id":355510912,"city_id":4617025,"language_key":"sv","name":"San Rafael del Pinal"}
+{"id":355511374,"city_id":4617031,"language_key":"sv","name":"El Pilar"}
+{"id":355511451,"city_id":4617032,"language_key":"sv","name":"El Pilar"}
+{"id":355517611,"city_id":4617112,"language_key":"sv","name":"El Pauji"}
+{"id":355518381,"city_id":4617122,"language_key":"sv","name":"El Pato"}
+{"id":355521538,"city_id":4617163,"language_key":"sv","name":"El Paradero"}
+{"id":355522308,"city_id":4617173,"language_key":"sv","name":"El Pao Viejo"}
+{"id":355522385,"city_id":4617174,"language_key":"sv","name":"El Pao"}
+{"id":355524387,"city_id":4617200,"language_key":"sv","name":"El Palmer"}
+{"id":355526235,"city_id":4617224,"language_key":"sv","name":"El Palmar"}
+{"id":355528314,"city_id":4617251,"language_key":"sv","name":"Elorza"}
+{"id":355529084,"city_id":4617261,"language_key":"sv","name":"El Nula"}
+{"id":355529392,"city_id":4617265,"language_key":"sv","name":"El Nogal"}
+{"id":355533242,"city_id":4617315,"language_key":"sv","name":"Lecherias"}
+{"id":355534089,"city_id":4617326,"language_key":"sv","name":"El Moralito"}
+{"id":355535244,"city_id":4617341,"language_key":"sv","name":"El Molinete"}
+{"id":355535629,"city_id":4617346,"language_key":"sv","name":"El Milagro"}
+{"id":355538478,"city_id":4617383,"language_key":"sv","name":"El Mene"}
+{"id":355540480,"city_id":4617409,"language_key":"sv","name":"El Manteco"}
+{"id":355540557,"city_id":4617410,"language_key":"sv","name":"El Manteco"}
+{"id":355540865,"city_id":4617414,"language_key":"sv","name":"El Manteco"}
+{"id":355547949,"city_id":4617506,"language_key":"sv","name":"El Limón piñal"}
+{"id":355550259,"city_id":4617536,"language_key":"sv","name":"El Lamedero"}
+{"id":355557651,"city_id":4617632,"language_key":"sv","name":"El Hatillo"}
+{"id":355559037,"city_id":4617650,"language_key":"sv","name":"El Guayabo"}
+{"id":355560115,"city_id":4617664,"language_key":"sv","name":"El Guate"}
+{"id":355560423,"city_id":4617668,"language_key":"sv","name":"El Guasimo"}
+{"id":355562040,"city_id":4617689,"language_key":"sv","name":"El Guapo"}
+{"id":355565659,"city_id":4617736,"language_key":"sv","name":"El Guacharo"}
+{"id":355567661,"city_id":4617762,"language_key":"sv","name":"El Furrial"}
+{"id":355570587,"city_id":4617800,"language_key":"sv","name":"El Eneal"}
+{"id":355571357,"city_id":4617810,"language_key":"sv","name":"El Encanto"}
+{"id":355572820,"city_id":4617829,"language_key":"sv","name":"El Dorado"}
+{"id":355573282,"city_id":4617835,"language_key":"sv","name":"El Dividive"}
+{"id":355579442,"city_id":4617915,"language_key":"sv","name":"El Cristo"}
+{"id":355580212,"city_id":4617925,"language_key":"sv","name":"El Corozo"}
+{"id":355581367,"city_id":4617940,"language_key":"sv","name":"El Corozo"}
+{"id":355582907,"city_id":4617960,"language_key":"sv","name":"El Consejo"}
+{"id":355583061,"city_id":4617962,"language_key":"sv","name":"El Consejo"}
+{"id":355585371,"city_id":4617992,"language_key":"sv","name":"El Cobre"}
+{"id":355585448,"city_id":4617993,"language_key":"sv","name":"El Cobre"}
+{"id":355590376,"city_id":4618057,"language_key":"sv","name":"El Cerrote"}
+{"id":355598538,"city_id":4618163,"language_key":"sv","name":"El Carmelo"}
+{"id":355601618,"city_id":4618203,"language_key":"sv","name":"El Canton"}
+{"id":355602003,"city_id":4618208,"language_key":"sv","name":"El Canton"}
+{"id":355604929,"city_id":4618246,"language_key":"sv","name":"El Callao"}
+{"id":355606315,"city_id":4618264,"language_key":"sv","name":"El Cafe"}
+{"id":355611705,"city_id":4618334,"language_key":"sv","name":"El Baul"}
+{"id":355618250,"city_id":4618419,"language_key":"sv","name":"El Amparo de Apure"}
+{"id":355618404,"city_id":4618421,"language_key":"sv","name":"El Amparo"}
+{"id":355624333,"city_id":4618498,"language_key":"sv","name":"Ejido"}
+{"id":355624949,"city_id":4618506,"language_key":"sv","name":"Duaca"}
+{"id":355625026,"city_id":4618507,"language_key":"sv","name":"Dos Rios"}
+{"id":355625950,"city_id":4618519,"language_key":"sv","name":"Dolores"}
+{"id":355626027,"city_id":4618520,"language_key":"sv","name":"Dolores"}
+{"id":355627490,"city_id":4618539,"language_key":"sv","name":"Dabajuro"}
+{"id":355629261,"city_id":4618562,"language_key":"sv","name":"Curiepe"}
+{"id":355629646,"city_id":4618567,"language_key":"sv","name":"Curiapo"}
+{"id":355629954,"city_id":4618571,"language_key":"sv","name":"Curbati"}
+{"id":355631802,"city_id":4618595,"language_key":"sv","name":"Cupira"}
+{"id":355634035,"city_id":4618624,"language_key":"sv","name":"Cumanacoa"}
+{"id":355634112,"city_id":4618625,"language_key":"sv","name":"Cumaná"}
+{"id":355636884,"city_id":4618661,"language_key":"sv","name":"Cubiro"}
+{"id":355637346,"city_id":4618667,"language_key":"sv","name":"Cuatro"}
+{"id":355637885,"city_id":4618674,"language_key":"sv","name":"Cuara"}
+{"id":355638347,"city_id":4618680,"language_key":"sv","name":"Cúa"}
+{"id":355648280,"city_id":4618809,"language_key":"sv","name":"Coro"}
+{"id":355648588,"city_id":4618813,"language_key":"sv","name":"Cordoba"}
+{"id":355648665,"city_id":4618814,"language_key":"sv","name":"Cordero"}
+{"id":355650744,"city_id":4618841,"language_key":"sv","name":"Conejo"}
+{"id":355651360,"city_id":4618849,"language_key":"sv","name":"Concha"}
+{"id":355651514,"city_id":4618851,"language_key":"sv","name":"Concepción"}
+{"id":355652669,"city_id":4618866,"language_key":"sv","name":"Colonia Tovar"}
+{"id":355652977,"city_id":4618870,"language_key":"sv","name":"Coloncito"}
+{"id":355653439,"city_id":4618876,"language_key":"sv","name":"Colina"}
+{"id":355653747,"city_id":4618880,"language_key":"sv","name":"Cojedes"}
+{"id":355656596,"city_id":4618917,"language_key":"sv","name":"Cocorote"}
+{"id":355656904,"city_id":4618921,"language_key":"sv","name":"Coco de Mono"}
+{"id":355657674,"city_id":4618931,"language_key":"sv","name":"Ciudad Ojeda"}
+{"id":355657751,"city_id":4618932,"language_key":"sv","name":"Guayana"}
+{"id":355657828,"city_id":4618933,"language_key":"sv","name":"Ciudad Urdaneta"}
+{"id":355657905,"city_id":4618934,"language_key":"sv","name":"Guayana"}
+{"id":355657982,"city_id":4618935,"language_key":"sv","name":"Ciudad Bolívar"}
+{"id":355658059,"city_id":4618936,"language_key":"sv","name":"Ciudad Bolivia"}
+{"id":355658136,"city_id":4618937,"language_key":"sv","name":"Ciudad Bolívar"}
+{"id":355658290,"city_id":4618939,"language_key":"sv","name":"Cimarron"}
+{"id":355659830,"city_id":4618959,"language_key":"sv","name":"Churuguara"}
+{"id":355660215,"city_id":4618964,"language_key":"sv","name":"Chunaure"}
+{"id":355660446,"city_id":4618967,"language_key":"sv","name":"Chuao"}
+{"id":355661293,"city_id":4618978,"language_key":"sv","name":"Choroni"}
+{"id":355662063,"city_id":4618988,"language_key":"sv","name":"Chivacoa"}
+{"id":355662756,"city_id":4618997,"language_key":"sv","name":"Chirgua"}
+{"id":355662987,"city_id":4619000,"language_key":"sv","name":"Chiquinquira"}
+{"id":355663988,"city_id":4619013,"language_key":"sv","name":"Chimborazo"}
+{"id":355664450,"city_id":4619019,"language_key":"sv","name":"Chiguara"}
+{"id":355664758,"city_id":4619023,"language_key":"sv","name":"Chichiriviche"}
+{"id":355665143,"city_id":4619028,"language_key":"sv","name":"Chejende"}
+{"id":355665605,"city_id":4619034,"language_key":"sv","name":"Charallave"}
+{"id":355667068,"city_id":4619053,"language_key":"sv","name":"Chamizal"}
+{"id":355667915,"city_id":4619064,"language_key":"sv","name":"Chaguaramas"}
+{"id":355668146,"city_id":4619067,"language_key":"sv","name":"Chaguaramal"}
+{"id":355668531,"city_id":4619072,"language_key":"sv","name":"Chacopata"}
+{"id":355669147,"city_id":4619080,"language_key":"sv","name":"Chacao"}
+{"id":355669609,"city_id":4619086,"language_key":"sv","name":"Ceuta"}
+{"id":355672381,"city_id":4619122,"language_key":"sv","name":"Ceped"}
+{"id":355672689,"city_id":4619126,"language_key":"sv","name":"Tacarigua"}
+{"id":355673921,"city_id":4619142,"language_key":"sv","name":"Cecilia"}
+{"id":355675769,"city_id":4619166,"language_key":"sv","name":"Caucaguito"}
+{"id":355675846,"city_id":4619167,"language_key":"sv","name":"Caucagua"}
+{"id":355676308,"city_id":4619173,"language_key":"sv","name":"Catia La Mar"}
+{"id":355676462,"city_id":4619175,"language_key":"sv","name":"Catia La Mar"}
+{"id":355676693,"city_id":4619178,"language_key":"sv","name":"Catatumbo"}
+{"id":355680004,"city_id":4619221,"language_key":"sv","name":"Casigua-El Cubo"}
+{"id":355680620,"city_id":4619229,"language_key":"sv","name":"Casanay"}
+{"id":355681852,"city_id":4619245,"language_key":"sv","name":"Casacoima"}
+{"id":355683777,"city_id":4619270,"language_key":"sv","name":"Carúpano"}
+{"id":355686010,"city_id":4619299,"language_key":"sv","name":"Carrizal"}
+{"id":355687319,"city_id":4619316,"language_key":"sv","name":"Carrasquero"}
+{"id":355688012,"city_id":4619325,"language_key":"sv","name":"Carora"}
+{"id":355688089,"city_id":4619326,"language_key":"sv","name":"Caroni"}
+{"id":355688474,"city_id":4619331,"language_key":"sv","name":"Carmen de Cura"}
+{"id":355688936,"city_id":4619337,"language_key":"sv","name":"Carirubana"}
+{"id":355689013,"city_id":4619338,"language_key":"sv","name":"Caripito"}
+{"id":355689090,"city_id":4619339,"language_key":"sv","name":"Caripe"}
+{"id":355689860,"city_id":4619349,"language_key":"sv","name":"Cariaco"}
+{"id":355691400,"city_id":4619369,"language_key":"sv","name":"Carayaca"}
+{"id":355694172,"city_id":4619405,"language_key":"sv","name":"Caramacate"}
+{"id":355694865,"city_id":4619414,"language_key":"sv","name":"Caracas"}
+{"id":355695019,"city_id":4619416,"language_key":"sv","name":"Caracas"}
+{"id":355696097,"city_id":4619430,"language_key":"sv","name":"Caraballeda"}
+{"id":355696713,"city_id":4619438,"language_key":"sv","name":"Capitanejo"}
+{"id":355697483,"city_id":4619448,"language_key":"sv","name":"Canape Capatarida"}
+{"id":355697714,"city_id":4619451,"language_key":"sv","name":"Capadare"}
+{"id":355698715,"city_id":4619464,"language_key":"sv","name":"Cantaura"}
+{"id":355701718,"city_id":4619503,"language_key":"sv","name":"Cano Negro"}
+{"id":355706107,"city_id":4619560,"language_key":"sv","name":"Canoabo"}
+{"id":355707108,"city_id":4619573,"language_key":"sv","name":"Candelaria"}
+{"id":355710958,"city_id":4619623,"language_key":"sv","name":"Campoma"}
+{"id":355711420,"city_id":4619629,"language_key":"sv","name":"Campo Florido"}
+{"id":355711651,"city_id":4619632,"language_key":"sv","name":"Campo Elias"}
+{"id":355711882,"city_id":4619635,"language_key":"sv","name":"Campo Elias"}
+{"id":355719582,"city_id":4619735,"language_key":"sv","name":"Camatagua"}
+{"id":355719967,"city_id":4619740,"language_key":"sv","name":"Camaguan"}
+{"id":355720891,"city_id":4619752,"language_key":"sv","name":"Kaldera"}
+{"id":355721353,"city_id":4619758,"language_key":"sv","name":"Calado"}
+{"id":355721430,"city_id":4619759,"language_key":"sv","name":"Calabozo"}
+{"id":355722046,"city_id":4619767,"language_key":"sv","name":"Caja Seca"}
+{"id":355723509,"city_id":4619786,"language_key":"sv","name":"Caigua"}
+{"id":355724125,"city_id":4619794,"language_key":"sv","name":"Caicara del Orinoco"}
+{"id":355724279,"city_id":4619796,"language_key":"sv","name":"Caicara del Orinoco"}
+{"id":355724587,"city_id":4619800,"language_key":"sv","name":"Caguada"}
+{"id":355724664,"city_id":4619801,"language_key":"sv","name":"Cagua"}
+{"id":355725203,"city_id":4619808,"language_key":"sv","name":"Cachipo"}
+{"id":355726512,"city_id":4619825,"language_key":"sv","name":"Cabure"}
+{"id":355726589,"city_id":4619826,"language_key":"sv","name":"Cabudare"}
+{"id":355726666,"city_id":4619827,"language_key":"sv","name":"Cabrera"}
+{"id":355726974,"city_id":4619831,"language_key":"sv","name":"Cabimas"}
+{"id":355729053,"city_id":4619858,"language_key":"sv","name":"Burbusay"}
+{"id":355729130,"city_id":4619859,"language_key":"sv","name":"Bum Bum"}
+{"id":355731748,"city_id":4619893,"language_key":"sv","name":"Buena Vista"}
+{"id":355731902,"city_id":4619895,"language_key":"sv","name":"Buena Vista"}
+{"id":355736522,"city_id":4619955,"language_key":"sv","name":"Buena Vista"}
+{"id":355737369,"city_id":4619966,"language_key":"sv","name":"Buchivacoa"}
+{"id":355738986,"city_id":4619987,"language_key":"sv","name":"Bruzual"}
+{"id":355739602,"city_id":4619995,"language_key":"sv","name":"Bramon"}
+{"id":355741681,"city_id":4620022,"language_key":"sv","name":"Borota"}
+{"id":355742297,"city_id":4620030,"language_key":"sv","name":"Borburata"}
+{"id":355742528,"city_id":4620033,"language_key":"sv","name":"Boraure"}
+{"id":355745300,"city_id":4620069,"language_key":"sv","name":"Bolivar"}
+{"id":355745762,"city_id":4620075,"language_key":"sv","name":"Boconoito"}
+{"id":355745916,"city_id":4620077,"language_key":"sv","name":"Bocono"}
+{"id":355747379,"city_id":4620096,"language_key":"sv","name":"Boca de Uchire"}
+{"id":355748765,"city_id":4620114,"language_key":"sv","name":"Boca del Rio"}
+{"id":355748842,"city_id":4620115,"language_key":"sv","name":"Boca del Rio"}
+{"id":355750074,"city_id":4620131,"language_key":"sv","name":"Boca de Casanarito"}
+{"id":355750151,"city_id":4620132,"language_key":"sv","name":"Boca de Aroa"}
+{"id":355751152,"city_id":4620145,"language_key":"sv","name":"Bobures"}
+{"id":355751306,"city_id":4620147,"language_key":"sv","name":"Bobare"}
+{"id":355751460,"city_id":4620149,"language_key":"sv","name":"Biscuy"}
+{"id":355751614,"city_id":4620151,"language_key":"sv","name":"Biruaca"}
+{"id":355751999,"city_id":4620156,"language_key":"sv","name":"Betijoque"}
+{"id":355752307,"city_id":4620160,"language_key":"sv","name":"Berlin"}
+{"id":355752615,"city_id":4620164,"language_key":"sv","name":"Bergantin"}
+{"id":355754694,"city_id":4620191,"language_key":"sv","name":"Belen"}
+{"id":355754848,"city_id":4620193,"language_key":"sv","name":"Belen"}
+{"id":355756234,"city_id":4620211,"language_key":"sv","name":"Bejuco"}
+{"id":355757851,"city_id":4620232,"language_key":"sv","name":"Baruta"}
+{"id":355759391,"city_id":4620252,"language_key":"sv","name":"Barrera Arriba"}
+{"id":355759545,"city_id":4620254,"language_key":"sv","name":"Barranquitas"}
+{"id":355760546,"city_id":4620267,"language_key":"sv","name":"Barrancas"}
+{"id":355760623,"city_id":4620268,"language_key":"sv","name":"Barrancas"}
+{"id":355761239,"city_id":4620276,"language_key":"sv","name":"Barquisimeto"}
+{"id":355762086,"city_id":4620287,"language_key":"sv","name":"Barinitas"}
+{"id":355762163,"city_id":4620288,"language_key":"sv","name":"Barinas"}
+{"id":355762317,"city_id":4620290,"language_key":"sv","name":"Barcelona, Venezuela"}
+{"id":355763164,"city_id":4620301,"language_key":"sv","name":"Barbacoas"}
+{"id":355763395,"city_id":4620304,"language_key":"sv","name":"Barbacoas"}
+{"id":355767091,"city_id":4620352,"language_key":"sv","name":"Bailadores"}
+{"id":355767476,"city_id":4620357,"language_key":"sv","name":"Bachaquero"}
+{"id":355771172,"city_id":4620405,"language_key":"sv","name":"Aroa"}
+{"id":355771326,"city_id":4620407,"language_key":"sv","name":"Arismendi"}
+{"id":355771403,"city_id":4620408,"language_key":"sv","name":"Arismendi"}
+{"id":355771942,"city_id":4620415,"language_key":"sv","name":"Arichuna"}
+{"id":355772019,"city_id":4620416,"language_key":"sv","name":"Aricagua"}
+{"id":355772096,"city_id":4620417,"language_key":"sv","name":"Aricagua"}
+{"id":355773328,"city_id":4620433,"language_key":"sv","name":"Arenas"}
+{"id":355773867,"city_id":4620440,"language_key":"sv","name":"Aregue"}
+{"id":355774252,"city_id":4620445,"language_key":"sv","name":"Araya"}
+{"id":355774560,"city_id":4620449,"language_key":"sv","name":"Araure"}
+{"id":355774637,"city_id":4620450,"language_key":"sv","name":"Arauquita"}
+{"id":355775869,"city_id":4620466,"language_key":"sv","name":"Araira"}
+{"id":355776793,"city_id":4620478,"language_key":"sv","name":"Aragua"}
+{"id":355776870,"city_id":4620479,"language_key":"sv","name":"Aragua de Barcelona"}
+{"id":355777871,"city_id":4620492,"language_key":"sv","name":"Apartaderos"}
+{"id":355778718,"city_id":4620503,"language_key":"sv","name":"Anzoategui"}
+{"id":355784570,"city_id":4620579,"language_key":"sv","name":"Altamira"}
+{"id":355784801,"city_id":4620582,"language_key":"sv","name":"Altagracia"}
+{"id":355784878,"city_id":4620583,"language_key":"sv","name":"Altagracia de La Montana"}
+{"id":355784955,"city_id":4620584,"language_key":"sv","name":"Altagracia"}
+{"id":355785032,"city_id":4620585,"language_key":"sv","name":"Altagracia"}
+{"id":355787034,"city_id":4620611,"language_key":"sv","name":"Algarrobo"}
+{"id":355788805,"city_id":4620634,"language_key":"sv","name":"Aguima"}
+{"id":355789960,"city_id":4620649,"language_key":"sv","name":"Aguasay"}
+{"id":355790037,"city_id":4620650,"language_key":"sv","name":"Agua Santa"}
+{"id":355794041,"city_id":4620702,"language_key":"sv","name":"Aguada Grande"}
+{"id":355798276,"city_id":4620757,"language_key":"sv","name":"Adicora"}
+{"id":355798815,"city_id":4620764,"language_key":"sv","name":"Achaguas"}
+{"id":355798892,"city_id":4620765,"language_key":"sv","name":"acequia"}
+{"id":355799508,"city_id":4620773,"language_key":"sv","name":"Acarigua"}
+{"id":355800124,"city_id":4620781,"language_key":"sv","name":"Abejales"}
+{"id":355803666,"city_id":4620827,"language_key":"sv","name":"Las Mesas"}
+{"id":355806823,"city_id":4620868,"language_key":"sv","name":"San Pablo"}
+{"id":355806900,"city_id":4620869,"language_key":"sv","name":"San Jose de Bolivar"}
+{"id":355817141,"city_id":4621002,"language_key":"sv","name":"Campo Bernal"}
+{"id":355822762,"city_id":4621075,"language_key":"sv","name":"San Pedro"}
+{"id":355825303,"city_id":4621108,"language_key":"sv","name":"Pinango"}
+{"id":355826997,"city_id":4621130,"language_key":"sv","name":"El Aguacatico"}
+{"id":355828383,"city_id":4621148,"language_key":"sv","name":"Los Vegotes"}
+{"id":355831386,"city_id":4621187,"language_key":"sv","name":"El Manguito"}
+{"id":355831771,"city_id":4621192,"language_key":"sv","name":"Las Delicias"}
+{"id":355832079,"city_id":4621196,"language_key":"sv","name":"Martin"}
+{"id":355834081,"city_id":4621222,"language_key":"sv","name":"Garcia"}
+{"id":355835467,"city_id":4621240,"language_key":"sv","name":"El Placer"}
+{"id":355850636,"city_id":4621437,"language_key":"sv","name":"La Florida"}
+{"id":355851406,"city_id":4621447,"language_key":"sv","name":"El Roble"}
+{"id":355852792,"city_id":4621465,"language_key":"sv","name":"Mijagueito"}
+{"id":355853177,"city_id":4621470,"language_key":"sv","name":"Los Cochinos"}
+{"id":355862879,"city_id":4621596,"language_key":"sv","name":"Pozo Verde"}
+{"id":355865420,"city_id":4621629,"language_key":"sv","name":"Cedeno"}
+{"id":355870425,"city_id":4621694,"language_key":"sv","name":"El Pozon"}
+{"id":355874352,"city_id":4621745,"language_key":"sv","name":"Pueblo Nuevo"}
+{"id":355881590,"city_id":4621839,"language_key":"sv","name":"Paso Real"}
+{"id":355882129,"city_id":4621846,"language_key":"sv","name":"Campo Solo"}
+{"id":355887442,"city_id":4621915,"language_key":"sv","name":"Corozal"}
+{"id":355896990,"city_id":4622039,"language_key":"sv","name":"Saucedo"}
+{"id":355901379,"city_id":4622096,"language_key":"sv","name":"Zambrano"}
+{"id":355902611,"city_id":4622112,"language_key":"sv","name":"El Trompillo"}
+{"id":355926712,"city_id":4622425,"language_key":"sv","name":"Santa Rita"}
+{"id":355944653,"city_id":4622658,"language_key":"sv","name":"La Taza"}
+{"id":355953739,"city_id":4622776,"language_key":"sv","name":"El Zorro"}
+{"id":355958128,"city_id":4622833,"language_key":"sv","name":"Patos Guayabal"}
+{"id":355958821,"city_id":4622842,"language_key":"sv","name":"Santa Rosa"}
+{"id":355963441,"city_id":4622902,"language_key":"sv","name":"Pedraza"}
+{"id":355973990,"city_id":4623039,"language_key":"sv","name":"Pueblo Nuevo"}
+{"id":355978995,"city_id":4623104,"language_key":"sv","name":"San Josesito"}
+{"id":355979380,"city_id":4623109,"language_key":"sv","name":"Uribante"}
+{"id":355987927,"city_id":4623220,"language_key":"sv","name":"Las Llanadas"}
+{"id":355991623,"city_id":4623268,"language_key":"sv","name":"Cordero"}
+{"id":356003712,"city_id":4623425,"language_key":"sv","name":"Paso Largo"}
+{"id":356010411,"city_id":4623512,"language_key":"sv","name":"Sierra Imataca"}
+{"id":356013414,"city_id":4623551,"language_key":"sv","name":"Merejina"}
+{"id":356014107,"city_id":4623560,"language_key":"sv","name":"Las Navas"}
+{"id":356023424,"city_id":4623681,"language_key":"sv","name":"El Recreo"}
+{"id":356032972,"city_id":4623805,"language_key":"sv","name":"Los Pozotes"}
+{"id":356038670,"city_id":4623879,"language_key":"sv","name":"Las Margaritas"}
+{"id":356054609,"city_id":4624086,"language_key":"sv","name":"El Pueblito"}
+{"id":356056919,"city_id":4624116,"language_key":"sv","name":"La Honda"}
+{"id":356058382,"city_id":4624135,"language_key":"sv","name":"Villa Araure Uno"}
+{"id":356061231,"city_id":4624172,"language_key":"sv","name":"El Picure"}
+{"id":356061847,"city_id":4624180,"language_key":"sv","name":"La Luz"}
+{"id":356070625,"city_id":4624294,"language_key":"sv","name":"Cujicito"}
+{"id":356080096,"city_id":4624417,"language_key":"sv","name":"Piedras Negras"}
+{"id":356082098,"city_id":4624443,"language_key":"sv","name":"El Roble"}
+{"id":356083407,"city_id":4624460,"language_key":"sv","name":"San Jacinto"}
+{"id":356094264,"city_id":4624601,"language_key":"sv","name":"Mamonal"}
+{"id":356097729,"city_id":4624646,"language_key":"sv","name":"San Luis"}
+{"id":356098191,"city_id":4624652,"language_key":"sv","name":"Santa Rita"}
+{"id":356111743,"city_id":4624828,"language_key":"sv","name":"La Isla"}
+{"id":356114823,"city_id":4624868,"language_key":"sv","name":"Maturín"}
+{"id":356117749,"city_id":4624906,"language_key":"sv","name":"El Paso de Los Indios"}
+{"id":356120367,"city_id":4624940,"language_key":"sv","name":"La Reacamara"}
+{"id":356128606,"city_id":4625047,"language_key":"sv","name":"Palmira"}
+{"id":356141157,"city_id":4625210,"language_key":"sv","name":"Turen"}
+{"id":356144160,"city_id":4625249,"language_key":"sv","name":"La Aguada"}
+{"id":356144237,"city_id":4625250,"language_key":"sv","name":"La Aguada"}
+{"id":356146701,"city_id":4625282,"language_key":"sv","name":"El Brasil"}
+{"id":356157173,"city_id":4625418,"language_key":"sv","name":"Guaricapo"}
+{"id":356162178,"city_id":4625483,"language_key":"sv","name":"Campo Lara"}
+{"id":356165104,"city_id":4625521,"language_key":"sv","name":"Kilometro Vientido"}
+{"id":356174575,"city_id":4625644,"language_key":"sv","name":"El Pajon"}
+{"id":356180273,"city_id":4625718,"language_key":"sv","name":"La Florida"}
+{"id":356180504,"city_id":4625721,"language_key":"sv","name":"La Fria"}
+{"id":356180735,"city_id":4625724,"language_key":"sv","name":"La Grita"}
+{"id":356181736,"city_id":4625737,"language_key":"sv","name":"Capacho Nuevo"}
+{"id":356186202,"city_id":4625795,"language_key":"sv","name":"Las Huertas"}
+{"id":356188358,"city_id":4625823,"language_key":"sv","name":"La Tendida"}
+{"id":356197752,"city_id":4625945,"language_key":"sv","name":"Cuesta Abajo"}
+{"id":356204220,"city_id":4626029,"language_key":"sv","name":"Lucia"}
+{"id":356215924,"city_id":4626181,"language_key":"sv","name":"Pueblo Nuevo"}
+{"id":356223162,"city_id":4626275,"language_key":"sv","name":"San Ramon"}
+{"id":356224009,"city_id":4626286,"language_key":"sv","name":"Santa Isabel"}
+{"id":356227705,"city_id":4626334,"language_key":"sv","name":"La Valeriana"}
+{"id":356228475,"city_id":4626344,"language_key":"sv","name":"Las Vegas"}
+{"id":356234943,"city_id":4626428,"language_key":"sv","name":"Chacopata"}
+{"id":356235482,"city_id":4626435,"language_key":"sv","name":"Chipichipe"}
+{"id":356242027,"city_id":4626520,"language_key":"sv","name":"Agua Blanca"}
+{"id":356247109,"city_id":4626586,"language_key":"sv","name":"Las Delicias"}
+{"id":356249496,"city_id":4626617,"language_key":"sv","name":"La Isla"}
+{"id":356254655,"city_id":4626684,"language_key":"sv","name":"El Playon"}
+{"id":356258890,"city_id":4626739,"language_key":"sv","name":"La Silleta"}
+{"id":356260969,"city_id":4626766,"language_key":"sv","name":"Arapuey"}
+{"id":356261200,"city_id":4626769,"language_key":"sv","name":"El Batey"}
+{"id":356263972,"city_id":4626805,"language_key":"sv","name":"Macapo"}
+{"id":356273828,"city_id":4626933,"language_key":"sv","name":"La Concordia"}
+{"id":356277139,"city_id":4626976,"language_key":"sv","name":"Manrique"}
+{"id":356283684,"city_id":4627061,"language_key":"sv","name":"Caucaguita"}
+{"id":356283761,"city_id":4627062,"language_key":"sv","name":"La Ceiba"}
+{"id":356293925,"city_id":4627194,"language_key":"sv","name":"Totumito"}
+{"id":356297621,"city_id":4627242,"language_key":"sv","name":"Guasdualito"}
+{"id":356298622,"city_id":4627255,"language_key":"sv","name":"Las Mercedes"}
+{"id":356300393,"city_id":4627278,"language_key":"sv","name":"San Fernando de Apure"}
+{"id":356300624,"city_id":4627281,"language_key":"sv","name":"San Juan de Payara"}
+{"id":356315947,"city_id":4627480,"language_key":"sv","name":"Santa Maria"}
+{"id":356317641,"city_id":4627502,"language_key":"sv","name":"Turmerito"}
+{"id":356318180,"city_id":4627509,"language_key":"sv","name":"Las Vegas"}
+{"id":356345438,"city_id":4627863,"language_key":"sv","name":"Mandigal"}
+{"id":356354678,"city_id":4627983,"language_key":"sv","name":"El Pilon"}
+{"id":356359375,"city_id":4628044,"language_key":"sv","name":"El Rosario"}
+{"id":356372311,"city_id":4628212,"language_key":"sv","name":"El Diario de Yaracuy"}
+{"id":356372850,"city_id":4628219,"language_key":"sv","name":"Santa Cruz de los Taques"}
+{"id":356373004,"city_id":4628221,"language_key":"sv","name":"La Gloria"}
+{"id":356376546,"city_id":4628267,"language_key":"sv","name":"El Junko"}
+{"id":356377624,"city_id":4628281,"language_key":"sv","name":"Marizapa"}
+{"id":356381397,"city_id":4628330,"language_key":"sv","name":"Garcia de Hevia Municipality"}

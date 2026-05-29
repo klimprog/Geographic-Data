@@ -1,0 +1,885 @@
+{"id":354793476,"city_id":4607708,"language_key":"ky","name":"Санта-Мария"}
+{"id":354793553,"city_id":4607709,"language_key":"ky","name":"Санта Инес"}
+{"id":354793707,"city_id":4607711,"language_key":"ky","name":"Сан-Франциско"}
+{"id":354794015,"city_id":4607715,"language_key":"ky","name":"Педро Гонсалес"}
+{"id":354794708,"city_id":4607724,"language_key":"ky","name":"Лас Пьедрас"}
+{"id":354795247,"city_id":4607731,"language_key":"ky","name":"Ла Гвардия"}
+{"id":354795478,"city_id":4607734,"language_key":"ky","name":"Ла-Асунсион"}
+{"id":354796402,"city_id":4607746,"language_key":"ky","name":"Ел Гуамацхе"}
+{"id":354796556,"city_id":4607748,"language_key":"ky","name":"Эль Хато"}
+{"id":354798404,"city_id":4607772,"language_key":"ky","name":"Сан-Хосе"}
+{"id":354799482,"city_id":4607786,"language_key":"ky","name":"Эл Пальмар"}
+{"id":354800560,"city_id":4607800,"language_key":"ky","name":"Эль Корозо"}
+{"id":354800945,"city_id":4607805,"language_key":"ky","name":"Царицуао"}
+{"id":354801484,"city_id":4607812,"language_key":"ky","name":"Тоцуыито"}
+{"id":354801715,"city_id":4607815,"language_key":"ky","name":"Сан-Висенте"}
+{"id":354801792,"city_id":4607816,"language_key":"ky","name":"Сан-Пабло"}
+{"id":354802177,"city_id":4607821,"language_key":"ky","name":"Педерналес"}
+{"id":354804410,"city_id":4607850,"language_key":"ky","name":"Буэна Виста"}
+{"id":354804949,"city_id":4607857,"language_key":"ky","name":null}
+{"id":354806258,"city_id":4607874,"language_key":"ky","name":"Эль Торо"}
+{"id":354807105,"city_id":4607885,"language_key":"ky","name":"Санто-Доминго"}
+{"id":354807259,"city_id":4607887,"language_key":"ky","name":"Санта Роза"}
+{"id":354807721,"city_id":4607893,"language_key":"ky","name":"Санта-Крус"}
+{"id":354807952,"city_id":4607896,"language_key":"ky","name":"Сан Педро"}
+{"id":354808337,"city_id":4607901,"language_key":"ky","name":"Сан-Хуан"}
+{"id":354808491,"city_id":4607903,"language_key":"ky","name":"Сан-Исидро"}
+{"id":354809338,"city_id":4607914,"language_key":"ky","name":"Эль-Ринкон"}
+{"id":354811032,"city_id":4607936,"language_key":"ky","name":"Лас Поркерас"}
+{"id":354811186,"city_id":4607938,"language_key":"ky","name":"Эл Плейон"}
+{"id":354811340,"city_id":4607940,"language_key":"ky","name":"Ла Плайя"}
+{"id":354812033,"city_id":4607949,"language_key":"ky","name":"Ла Педрегоса"}
+{"id":354812649,"city_id":4607957,"language_key":"ky","name":"Ла Пальмита"}
+{"id":354812880,"city_id":4607960,"language_key":"ky","name":"Пальмарито"}
+{"id":354813188,"city_id":4607964,"language_key":"ky","name":"Лос Наранжос"}
+{"id":354815267,"city_id":4607991,"language_key":"ky","name":"Ла Меса"}
+{"id":354817346,"city_id":4608018,"language_key":"ky","name":"Хименес"}
+{"id":354817654,"city_id":4608022,"language_key":"ky","name":"Йайо"}
+{"id":354818963,"city_id":4608039,"language_key":"ky","name":"Ла Энсенада"}
+{"id":354821581,"city_id":4608073,"language_key":"ky","name":"Ла Сейба"}
+{"id":354822505,"city_id":4608085,"language_key":"ky","name":"Кампо Алегре"}
+{"id":354824584,"city_id":4608112,"language_key":"ky","name":"Эль-Альто"}
+{"id":354825354,"city_id":4608122,"language_key":"ky","name":"Лас Адьюнтас"}
+{"id":354827279,"city_id":4608147,"language_key":"ky","name":"Санта Рита"}
+{"id":354831360,"city_id":4608200,"language_key":"ky","name":"Эль Парадеро"}
+{"id":354831437,"city_id":4608201,"language_key":"ky","name":"Папелон"}
+{"id":354835210,"city_id":4608250,"language_key":"ky","name":"Эль-Гуаябо"}
+{"id":354838675,"city_id":4608295,"language_key":"ky","name":"Эль Чапарро"}
+{"id":354840061,"city_id":4608313,"language_key":"ky","name":"Цампо Линдо"}
+{"id":354840138,"city_id":4608314,"language_key":"ky","name":"Кампо Кларо"}
+{"id":354840446,"city_id":4608318,"language_key":"ky","name":"Цамбурал"}
+{"id":354841216,"city_id":4608328,"language_key":"ky","name":"Аыацуцхо"}
+{"id":354841447,"city_id":4608331,"language_key":"ky","name":"Арагуита"}
+{"id":354841678,"city_id":4608334,"language_key":"ky","name":"Анацо"}
+{"id":354842217,"city_id":4608341,"language_key":"ky","name":"Агуа Бланка"}
+{"id":354843372,"city_id":4608356,"language_key":"ky","name":"Санта Цруз де Гуацас"}
+{"id":354844065,"city_id":4608365,"language_key":"ky","name":"Эль Реал"}
+{"id":354844373,"city_id":4608369,"language_key":"ky","name":"Пуэрто Вивас"}
+{"id":354845451,"city_id":4608383,"language_key":"ky","name":"Ла Мула"}
+{"id":354846991,"city_id":4608403,"language_key":"ky","name":"Лос Гуасимитос"}
+{"id":354847376,"city_id":4608408,"language_key":"ky","name":"Ла Кучилла"}
+{"id":354850071,"city_id":4608443,"language_key":"ky","name":"Зуата"}
+{"id":354850302,"city_id":4608446,"language_key":"ky","name":"Зона Рица"}
+{"id":354850533,"city_id":4608449,"language_key":"ky","name":"Зеа"}
+{"id":354850995,"city_id":4608455,"language_key":"ky","name":"Зараза"}
+{"id":354851534,"city_id":4608462,"language_key":"ky","name":"Замора"}
+{"id":354852689,"city_id":4608477,"language_key":"ky","name":"Ыумаре"}
+{"id":354853151,"city_id":4608483,"language_key":"ky","name":null}
+{"id":354853767,"city_id":4608491,"language_key":"ky","name":"Ыаритагуа"}
+{"id":354853844,"city_id":4608492,"language_key":"ky","name":"Ыарацал"}
+{"id":354854306,"city_id":4608498,"language_key":"ky","name":"Ыагуарапаро"}
+{"id":354854537,"city_id":4608501,"language_key":"ky","name":"Ыагуапа Абайо"}
+{"id":354854768,"city_id":4608504,"language_key":"ky","name":"Ыагуа"}
+{"id":354857463,"city_id":4608539,"language_key":"ky","name":"Вильярроел"}
+{"id":354857617,"city_id":4608541,"language_key":"ky","name":"Вилла Роса"}
+{"id":354858541,"city_id":4608553,"language_key":"ky","name":"Вилла де Цура"}
+{"id":354858772,"city_id":4608556,"language_key":"ky","name":"Вилла Брузуал"}
+{"id":354859311,"city_id":4608563,"language_key":"ky","name":"Виенто Фресцо"}
+{"id":354861390,"city_id":4608590,"language_key":"ky","name":"Эль Венадо"}
+{"id":354861929,"city_id":4608597,"language_key":"ky","name":"Вегуитас"}
+{"id":354862083,"city_id":4608599,"language_key":"ky","name":"Лас Цаситас дел Вегон де Нутриас"}
+{"id":354863315,"city_id":4608615,"language_key":"ky","name":"Валле Ла Тарасца"}
+{"id":354863392,"city_id":4608616,"language_key":"ky","name":"Валле Хондо"}
+{"id":354863854,"city_id":4608622,"language_key":"ky","name":"Валле де Ла Пасцуа"}
+{"id":354864085,"city_id":4608625,"language_key":"ky","name":"Валле де Гуанапе"}
+{"id":354865317,"city_id":4608641,"language_key":"ky","name":"Валера"}
+{"id":354865471,"city_id":4608643,"language_key":"ky","name":"Валенсия"}
+{"id":354866549,"city_id":4608657,"language_key":"ky","name":"Уверито"}
+{"id":354867935,"city_id":4608675,"language_key":"ky","name":"Урумацо"}
+{"id":354869013,"city_id":4608689,"language_key":"ky","name":"Урика"}
+{"id":354869321,"city_id":4608693,"language_key":"ky","name":"Урена"}
+{"id":354869783,"city_id":4608699,"language_key":"ky","name":"Урама"}
+{"id":354870014,"city_id":4608702,"language_key":"ky","name":"Урацоа"}
+{"id":354870091,"city_id":4608703,"language_key":"ky","name":"Урацхицхе"}
+{"id":354870399,"city_id":4608707,"language_key":"ky","name":"Упата"}
+{"id":354870784,"city_id":4608712,"language_key":"ky","name":"Умукена"}
+{"id":354872247,"city_id":4608731,"language_key":"ky","name":"Турмеро"}
+{"id":354873556,"city_id":4608748,"language_key":"ky","name":"Тунапуы"}
+{"id":354873710,"city_id":4608750,"language_key":"ky","name":"Тунапуы"}
+{"id":354874018,"city_id":4608754,"language_key":"ky","name":"Тунаме"}
+{"id":354874095,"city_id":4608755,"language_key":"ky","name":"Тумеремо"}
+{"id":354874942,"city_id":4608766,"language_key":"ky","name":"Тукупита"}
+{"id":354875558,"city_id":4608774,"language_key":"ky","name":"Туцупидо"}
+{"id":354876020,"city_id":4608780,"language_key":"ky","name":"Тукани"}
+{"id":354876097,"city_id":4608781,"language_key":"ky","name":"Туцацас"}
+{"id":354876482,"city_id":4608786,"language_key":"ky","name":"Трухильо"}
+{"id":354878176,"city_id":4608808,"language_key":"ky","name":"Үч Эскинас"}
+{"id":354878253,"city_id":4608809,"language_key":"ky","name":"Трес де Фебреро"}
+{"id":354879177,"city_id":4608821,"language_key":"ky","name":"Товар"}
+{"id":354879331,"city_id":4608823,"language_key":"ky","name":"Товар"}
+{"id":354879947,"city_id":4608831,"language_key":"ky","name":"Тостос"}
+{"id":354880101,"city_id":4608833,"language_key":"ky","name":"Торунос"}
+{"id":354880486,"city_id":4608838,"language_key":"ky","name":"Торондоы"}
+{"id":354880948,"city_id":4608844,"language_key":"ky","name":"Торбес"}
+{"id":354882257,"city_id":4608861,"language_key":"ky","name":"Тоцуыо де Ла Цоста"}
+{"id":354882411,"city_id":4608863,"language_key":"ky","name":"Тоцуыито"}
+{"id":354882642,"city_id":4608866,"language_key":"ky","name":"Тоцорон"}
+{"id":354882950,"city_id":4608870,"language_key":"ky","name":"Тоцоперо"}
+{"id":354883874,"city_id":4608882,"language_key":"ky","name":"Тинакуилло"}
+{"id":354884259,"city_id":4608887,"language_key":"ky","name":"Тинацо"}
+{"id":354884336,"city_id":4608888,"language_key":"ky","name":"Тимотес"}
+{"id":354886415,"city_id":4608915,"language_key":"ky","name":"Тиа Йуана"}
+{"id":354886877,"city_id":4608921,"language_key":"ky","name":"Тересен"}
+{"id":354887647,"city_id":4608931,"language_key":"ky","name":"Тембладор"}
+{"id":354889110,"city_id":4608950,"language_key":"ky","name":"Тариба"}
+{"id":354891651,"city_id":4608983,"language_key":"ky","name":"Тамаре"}
+{"id":354892113,"city_id":4608989,"language_key":"ky","name":"Тамаца"}
+{"id":354892883,"city_id":4608999,"language_key":"ky","name":"Тагуаыа"}
+{"id":354894038,"city_id":4609014,"language_key":"ky","name":"Таката"}
+{"id":354894346,"city_id":4609018,"language_key":"ky","name":"Тацаригуа де Ла Лагуна"}
+{"id":354895347,"city_id":4609031,"language_key":"ky","name":"Табаы"}
+{"id":354897041,"city_id":4609053,"language_key":"ky","name":"Сукре"}
+{"id":354897503,"city_id":4609059,"language_key":"ky","name":"Сотилло"}
+{"id":354897657,"city_id":4609061,"language_key":"ky","name":"Соса"}
+{"id":354898966,"city_id":4609078,"language_key":"ky","name":"Соледад"}
+{"id":354899582,"city_id":4609086,"language_key":"ky","name":"Соцопо"}
+{"id":354900275,"city_id":4609095,"language_key":"ky","name":"Сиквисик"}
+{"id":354900814,"city_id":4609102,"language_key":"ky","name":"Синамаица"}
+{"id":354901892,"city_id":4609116,"language_key":"ky","name":"Сибарагуа"}
+{"id":354902893,"city_id":4609129,"language_key":"ky","name":"Себоруцо"}
+{"id":354904433,"city_id":4609149,"language_key":"ky","name":"Сараре"}
+{"id":354904510,"city_id":4609150,"language_key":"ky","name":"Сараре"}
+{"id":354905511,"city_id":4609163,"language_key":"ky","name":"Сан-Висенте"}
+{"id":354907359,"city_id":4609187,"language_key":"ky","name":"Санто-Доминго"}
+{"id":354907975,"city_id":4609195,"language_key":"ky","name":"Сан Тимотео"}
+{"id":354908206,"city_id":4609198,"language_key":"ky","name":"Санта Тереса дел Туы"}
+{"id":354909361,"city_id":4609213,"language_key":"ky","name":"Санта Розалия"}
+{"id":354913442,"city_id":4609266,"language_key":"ky","name":"Санта Роза"}
+{"id":354914289,"city_id":4609277,"language_key":"ky","name":null}
+{"id":354914828,"city_id":4609284,"language_key":"ky","name":"Санта Рита"}
+{"id":354918062,"city_id":4609326,"language_key":"ky","name":"Санта Мариа де Ипире"}
+{"id":354918293,"city_id":4609329,"language_key":"ky","name":"Санта Мариа де Цапаро"}
+{"id":354920449,"city_id":4609357,"language_key":"ky","name":"Санта-Люсия"}
+{"id":354920834,"city_id":4609362,"language_key":"ky","name":"Санта-Люсия"}
+{"id":354921450,"city_id":4609370,"language_key":"ky","name":"Санта-Люсия"}
+{"id":354922759,"city_id":4609387,"language_key":"ky","name":"Санта-Изабел"}
+{"id":354922836,"city_id":4609388,"language_key":"ky","name":"Санта-Изабел"}
+{"id":354924453,"city_id":4609409,"language_key":"ky","name":"Санта Инес"}
+{"id":354925685,"city_id":4609425,"language_key":"ky","name":"Санта Елена де Уайрен"}
+{"id":354925839,"city_id":4609427,"language_key":"ky","name":"Санта Елена де Ареналес"}
+{"id":354927225,"city_id":4609445,"language_key":"ky","name":"Санта-Крус де Мора"}
+{"id":354927379,"city_id":4609447,"language_key":"ky","name":"Санта Цруз де Мара"}
+{"id":354927456,"city_id":4609448,"language_key":"ky","name":"Санта-Крус дел Зулия"}
+{"id":354927610,"city_id":4609450,"language_key":"ky","name":"Санта Цруз де Буцарал"}
+{"id":354928996,"city_id":4609468,"language_key":"ky","name":"Санта-Крус"}
+{"id":354931614,"city_id":4609502,"language_key":"ky","name":"Санта Каталина"}
+{"id":354933000,"city_id":4609520,"language_key":"ky","name":"Санта-Барбара"}
+{"id":354933770,"city_id":4609530,"language_key":"ky","name":"Санта-Барбара"}
+{"id":354934771,"city_id":4609543,"language_key":"ky","name":"Санта Аполониа"}
+{"id":354934848,"city_id":4609544,"language_key":"ky","name":"Санта Аполониа"}
+{"id":354935387,"city_id":4609551,"language_key":"ky","name":"Санта-Ана"}
+{"id":354936619,"city_id":4609567,"language_key":"ky","name":"Санта-Ана"}
+{"id":354936773,"city_id":4609569,"language_key":"ky","name":"Санта-Ана"}
+{"id":354937004,"city_id":4609572,"language_key":"ky","name":"Санта-Ана"}
+{"id":354937774,"city_id":4609582,"language_key":"ky","name":"Сан-Симон"}
+{"id":354937851,"city_id":4609583,"language_key":"ky","name":"Сан-Сильвестр"}
+{"id":354937928,"city_id":4609584,"language_key":"ky","name":"Сан Себастьян"}
+{"id":354939776,"city_id":4609608,"language_key":"ky","name":"Сан Рафаел де Оритуцо"}
+{"id":354939853,"city_id":4609609,"language_key":"ky","name":"Сан Рафаел де Оното"}
+{"id":354940084,"city_id":4609612,"language_key":"ky","name":"Карвахаль"}
+{"id":354940238,"city_id":4609614,"language_key":"ky","name":"Сан Рафаел де Цанагуа"}
+{"id":354940854,"city_id":4609622,"language_key":"ky","name":"Сан-Рафаэль"}
+{"id":354945243,"city_id":4609679,"language_key":"ky","name":"Сан-Педро де Коше"}
+{"id":354949324,"city_id":4609732,"language_key":"ky","name":"Сан-Пабло"}
+{"id":354950941,"city_id":4609753,"language_key":"ky","name":"Сан-Николас"}
+{"id":354952558,"city_id":4609774,"language_key":"ky","name":"Сан-Мигель"}
+{"id":354953713,"city_id":4609789,"language_key":"ky","name":"Сан-Мигель"}
+{"id":354954406,"city_id":4609798,"language_key":"ky","name":"Сан-Матео"}
+{"id":354954483,"city_id":4609799,"language_key":"ky","name":"Сан-Матео"}
+{"id":354955638,"city_id":4609814,"language_key":"ky","name":"Сан Луис"}
+{"id":354957178,"city_id":4609834,"language_key":"ky","name":"Сан Лоренцо"}
+{"id":354958641,"city_id":4609853,"language_key":"ky","name":"Сан Йуан де Манапиаре"}
+{"id":354958718,"city_id":4609854,"language_key":"ky","name":"Сан-Хуан-де-лос-Моррос"}
+{"id":354958795,"city_id":4609855,"language_key":"ky","name":"Сан Йуан де лос Цаыос"}
+{"id":354959103,"city_id":4609859,"language_key":"ky","name":"Колон"}
+{"id":354959488,"city_id":4609864,"language_key":"ky","name":"Сан-Хуан Баутиста"}
+{"id":354961644,"city_id":4609892,"language_key":"ky","name":"Сан-Хуан"}
+{"id":354962183,"city_id":4609899,"language_key":"ky","name":"Сан-Хосе де Тизнадос"}
+{"id":354962337,"city_id":4609901,"language_key":"ky","name":"Сан Йосе де Барловенто"}
+{"id":354963261,"city_id":4609913,"language_key":"ky","name":"Сан Йосе де Гуанипа"}
+{"id":354963723,"city_id":4609919,"language_key":"ky","name":"Сан Йосе де Аероцуар"}
+{"id":354968035,"city_id":4609975,"language_key":"ky","name":"Сан-Хосе"}
+{"id":354969036,"city_id":4609988,"language_key":"ky","name":"Сан Хоакин"}
+{"id":354971654,"city_id":4610022,"language_key":"ky","name":"Сан-Исидро"}
+{"id":354971962,"city_id":4610026,"language_key":"ky","name":"Сан-Игнасио"}
+{"id":354973271,"city_id":4610043,"language_key":"ky","name":"Сан Францисцо де Ыаре"}
+{"id":354973733,"city_id":4610049,"language_key":"ky","name":"Сан-Франциско де Асис"}
+{"id":354974272,"city_id":4610056,"language_key":"ky","name":"Сан-Франциско"}
+{"id":354975427,"city_id":4610071,"language_key":"ky","name":"Сан Фернандо де Атабапо"}
+{"id":354975504,"city_id":4610072,"language_key":"ky","name":"Сан Фернандо"}
+{"id":354975735,"city_id":4610075,"language_key":"ky","name":"Сан Феликс"}
+{"id":354975889,"city_id":4610077,"language_key":"ky","name":"Сан Феликс"}
+{"id":354976351,"city_id":4610083,"language_key":"ky","name":"Сан-Фелипе"}
+{"id":354978199,"city_id":4610107,"language_key":"ky","name":"Сан-Диего де Кабрутика"}
+{"id":354978276,"city_id":4610108,"language_key":"ky","name":"Сан Диего"}
+{"id":354978430,"city_id":4610110,"language_key":"ky","name":"Сан Диего"}
+{"id":354979123,"city_id":4610119,"language_key":"ky","name":"Сан-Кристобаль"}
+{"id":354979662,"city_id":4610126,"language_key":"ky","name":"Сан Касимиро"}
+{"id":354979739,"city_id":4610127,"language_key":"ky","name":"Сан Царлос де Рио Негро"}
+{"id":354979816,"city_id":4610128,"language_key":"ky","name":"Сан Царлос дел Зулиа"}
+{"id":354980432,"city_id":4610136,"language_key":"ky","name":"Сан-Карлос"}
+{"id":354982126,"city_id":4610158,"language_key":"ky","name":"Санаре"}
+{"id":354982434,"city_id":4610162,"language_key":"ky","name":"Сан Антонио дел Тацхира"}
+{"id":354982511,"city_id":4610163,"language_key":"ky","name":"Сан Антонио де Лос Алтос"}
+{"id":354982588,"city_id":4610164,"language_key":"ky","name":"Сан Антонио дел Голфо"}
+{"id":354983050,"city_id":4610170,"language_key":"ky","name":"Цапаыа"}
+{"id":354984744,"city_id":4610192,"language_key":"ky","name":"Сан Антонио"}
+{"id":354987670,"city_id":4610230,"language_key":"ky","name":"Сан Антонио"}
+{"id":354988748,"city_id":4610244,"language_key":"ky","name":"Сан Агустин"}
+{"id":354990211,"city_id":4610263,"language_key":"ky","name":"Салом"}
+{"id":354994754,"city_id":4610322,"language_key":"ky","name":"Сабанета"}
+{"id":354995678,"city_id":4610334,"language_key":"ky","name":"Сабана Либре"}
+{"id":354997141,"city_id":4610353,"language_key":"ky","name":"Сабана Гранде"}
+{"id":354997680,"city_id":4610360,"language_key":"ky","name":"Сабана Гранде"}
+{"id":354997911,"city_id":4610363,"language_key":"ky","name":"Сабана Гранде"}
+{"id":354998219,"city_id":4610367,"language_key":"ky","name":"Сабана де Уцхире"}
+{"id":354998604,"city_id":4610372,"language_key":"ky","name":"Сабана де Парра"}
+{"id":354998758,"city_id":4610374,"language_key":"ky","name":"Сабана де Мендоза"}
+{"id":355000144,"city_id":4610392,"language_key":"ky","name":"Рубио"}
+{"id":355000375,"city_id":4610395,"language_key":"ky","name":"Ла Вилла дел Росарио"}
+{"id":355000683,"city_id":4610399,"language_key":"ky","name":"Эль Росарио"}
+{"id":355001607,"city_id":4610411,"language_key":"ky","name":"Ройас"}
+{"id":355004071,"city_id":4610443,"language_key":"ky","name":"Рио Тоцуыо"}
+{"id":355004148,"city_id":4610444,"language_key":"ky","name":"Рио Секо"}
+{"id":355004610,"city_id":4610450,"language_key":"ky","name":"Рио-Негро"}
+{"id":355005534,"city_id":4610462,"language_key":"ky","name":"Рио Цларо"}
+{"id":355006227,"city_id":4610471,"language_key":"ky","name":"Рио Чико"}
+{"id":355006381,"city_id":4610473,"language_key":"ky","name":"Рио Цасанаы"}
+{"id":355006458,"city_id":4610474,"language_key":"ky","name":"Рио Царибе"}
+{"id":355007074,"city_id":4610482,"language_key":"ky","name":"Рио Ацаригуа"}
+{"id":355010308,"city_id":4610524,"language_key":"ky","name":"Ремолино"}
+{"id":355011463,"city_id":4610539,"language_key":"ky","name":"Рангель"}
+{"id":355015390,"city_id":4610590,"language_key":"ky","name":"Квирикир"}
+{"id":355015544,"city_id":4610592,"language_key":"ky","name":"Квирикир"}
+{"id":355016853,"city_id":4610609,"language_key":"ky","name":"Кибор"}
+{"id":355018085,"city_id":4610625,"language_key":"ky","name":"Квеникея"}
+{"id":355018701,"city_id":4610633,"language_key":"ky","name":"Квебрада Сека"}
+{"id":355019317,"city_id":4610641,"language_key":"ky","name":"Квебрада Сека"}
+{"id":355019471,"city_id":4610643,"language_key":"ky","name":"Сан Францисцо дел Гури"}
+{"id":355021473,"city_id":4610669,"language_key":"ky","name":"Куебрада де Ла Вирген"}
+{"id":355021858,"city_id":4610674,"language_key":"ky","name":"Квебрада Ариба"}
+{"id":355023398,"city_id":4610694,"language_key":"ky","name":"Пунто Фийо"}
+{"id":355024014,"city_id":4610702,"language_key":"ky","name":"Пунта Горда"}
+{"id":355024476,"city_id":4610708,"language_key":"ky","name":"Пунта де Пиедрас"}
+{"id":355024553,"city_id":4610709,"language_key":"ky","name":"Пунта де Пьедра"}
+{"id":355024707,"city_id":4610711,"language_key":"ky","name":"Пунта де Пьедра"}
+{"id":355024861,"city_id":4610713,"language_key":"ky","name":"Пунта де Мата"}
+{"id":355025400,"city_id":4610720,"language_key":"ky","name":"Пунта Цардон"}
+{"id":355025862,"city_id":4610726,"language_key":"ky","name":null}
+{"id":355026247,"city_id":4610731,"language_key":"ky","name":"Пуэрто Тетео"}
+{"id":355026401,"city_id":4610733,"language_key":"ky","name":"Пуерто Санто"}
+{"id":355027017,"city_id":4610741,"language_key":"ky","name":"Пуерто Пириту"}
+{"id":355027094,"city_id":4610742,"language_key":"ky","name":"Пуэрто Паэз"}
+{"id":355027171,"city_id":4610743,"language_key":"ky","name":"Пуэрто Нуэво"}
+{"id":355027402,"city_id":4610746,"language_key":"ky","name":"Пуерто Миранда"}
+{"id":355027556,"city_id":4610748,"language_key":"ky","name":"Пуерто Миранда"}
+{"id":355028326,"city_id":4610758,"language_key":"ky","name":"Пуерто де Ла Цруз"}
+{"id":355029096,"city_id":4610768,"language_key":"ky","name":"Пуерто Есцондидо"}
+{"id":355029558,"city_id":4610774,"language_key":"ky","name":"Пуерто де Нутриас"}
+{"id":355029712,"city_id":4610776,"language_key":"ky","name":"Пуэрто де Иерро"}
+{"id":355029789,"city_id":4610777,"language_key":"ky","name":"Пуерто Цумаребо"}
+{"id":355030251,"city_id":4610783,"language_key":"ky","name":"Пуерто Цабелло"}
+{"id":355030559,"city_id":4610787,"language_key":"ky","name":"Пуэрто-Аякучо"}
+{"id":355033793,"city_id":4610829,"language_key":"ky","name":"Пуэбло Нуэво"}
+{"id":355035487,"city_id":4610851,"language_key":"ky","name":"Пуебло Нуево Ел Цхиво"}
+{"id":355036026,"city_id":4610858,"language_key":"ky","name":"Пуебло Ллано"}
+{"id":355037720,"city_id":4610880,"language_key":"ky","name":"Прегонеро"}
+{"id":355037797,"city_id":4610881,"language_key":"ky","name":"Позуэлос"}
+{"id":355039029,"city_id":4610897,"language_key":"ky","name":"Потреритос"}
+{"id":355041185,"city_id":4610925,"language_key":"ky","name":"Порламар"}
+{"id":355045497,"city_id":4610981,"language_key":"ky","name":"Пириту"}
+{"id":355045574,"city_id":4610982,"language_key":"ky","name":"Пириту"}
+{"id":355045728,"city_id":4610984,"language_key":"ky","name":"Пириту"}
+{"id":355048346,"city_id":4611018,"language_key":"ky","name":"Пимпинела"}
+{"id":355053197,"city_id":4611081,"language_key":"ky","name":"Петаре"}
+{"id":355054583,"city_id":4611099,"language_key":"ky","name":"Перибеца"}
+{"id":355055815,"city_id":4611115,"language_key":"ky","name":"Пена"}
+{"id":355057586,"city_id":4611138,"language_key":"ky","name":"Педрегал"}
+{"id":355058048,"city_id":4611144,"language_key":"ky","name":"Педраза Ла Вьежа"}
+{"id":355058279,"city_id":4611147,"language_key":"ky","name":"Педерналес"}
+{"id":355058741,"city_id":4611153,"language_key":"ky","name":"Паяра"}
+{"id":355065594,"city_id":4611242,"language_key":"ky","name":"Париагуан"}
+{"id":355066903,"city_id":4611259,"language_key":"ky","name":"Парапара"}
+{"id":355067904,"city_id":4611272,"language_key":"ky","name":"Параисо де Цхабаскуен"}
+{"id":355068674,"city_id":4611282,"language_key":"ky","name":null}
+{"id":355068828,"city_id":4611284,"language_key":"ky","name":"Парагуаипоа"}
+{"id":355069444,"city_id":4611292,"language_key":"ky","name":"Парацотос"}
+{"id":355070137,"city_id":4611301,"language_key":"ky","name":"Папелон"}
+{"id":355071677,"city_id":4611321,"language_key":"ky","name":"Панаквайр"}
+{"id":355072139,"city_id":4611327,"language_key":"ky","name":"Пампатар"}
+{"id":355072216,"city_id":4611328,"language_key":"ky","name":"Пампанито"}
+{"id":355072293,"city_id":4611329,"language_key":"ky","name":"Пампан"}
+{"id":355072755,"city_id":4611335,"language_key":"ky","name":"Палотал"}
+{"id":355074141,"city_id":4611353,"language_key":"ky","name":"Пало Негро"}
+{"id":355074834,"city_id":4611362,"language_key":"ky","name":"Пало Гордо"}
+{"id":355076451,"city_id":4611383,"language_key":"ky","name":"Пальмира"}
+{"id":355077375,"city_id":4611395,"language_key":"ky","name":"Пальмасола"}
+{"id":355084844,"city_id":4611492,"language_key":"ky","name":"Оспино"}
+{"id":355086076,"city_id":4611508,"language_key":"ky","name":"Ортиз"}
+{"id":355086384,"city_id":4611512,"language_key":"ky","name":"Оропе"}
+{"id":355087616,"city_id":4611528,"language_key":"ky","name":"Оното"}
+{"id":355087847,"city_id":4611531,"language_key":"ky","name":"Оното"}
+{"id":355091851,"city_id":4611583,"language_key":"ky","name":"Окумаре дель Туй"}
+{"id":355091928,"city_id":4611584,"language_key":"ky","name":"Оцумаре де ла Цоста"}
+{"id":355092467,"city_id":4611591,"language_key":"ky","name":"Обиспос"}
+{"id":355093468,"city_id":4611604,"language_key":"ky","name":"Нуева Боливиа"}
+{"id":355094238,"city_id":4611614,"language_key":"ky","name":"Ниргуа"}
+{"id":355095085,"city_id":4611625,"language_key":"ky","name":"Нарикул"}
+{"id":355095547,"city_id":4611631,"language_key":"ky","name":"Наигуата"}
+{"id":355095624,"city_id":4611632,"language_key":"ky","name":"Нагуанагуа"}
+{"id":355096625,"city_id":4611645,"language_key":"ky","name":"Мунуц"}
+{"id":355097472,"city_id":4611656,"language_key":"ky","name":"Мулатал"}
+{"id":355098088,"city_id":4611664,"language_key":"ky","name":"Муцуруба"}
+{"id":355098935,"city_id":4611675,"language_key":"ky","name":"Муцумпиз"}
+{"id":355099089,"city_id":4611677,"language_key":"ky","name":null}
+{"id":355099166,"city_id":4611678,"language_key":"ky","name":"Муцуцхиес"}
+{"id":355100167,"city_id":4611691,"language_key":"ky","name":"Мотатан дель Рио"}
+{"id":355100321,"city_id":4611693,"language_key":"ky","name":"Мотатан"}
+{"id":355100552,"city_id":4611696,"language_key":"ky","name":"Москуеы"}
+{"id":355102400,"city_id":4611720,"language_key":"ky","name":"Морон"}
+{"id":355104094,"city_id":4611742,"language_key":"ky","name":"Морицхал Ларго"}
+{"id":355108329,"city_id":4611797,"language_key":"ky","name":"Монте Цармело"}
+{"id":355109253,"city_id":4611809,"language_key":"ky","name":"Монталбан"}
+{"id":355109561,"city_id":4611813,"language_key":"ky","name":"Акча"}
+{"id":355111024,"city_id":4611832,"language_key":"ky","name":"Моцхима"}
+{"id":355111486,"city_id":4611838,"language_key":"ky","name":"Митон"}
+{"id":355111948,"city_id":4611844,"language_key":"ky","name":"Сан Францисцо де Гуаыо"}
+{"id":355112410,"city_id":4611850,"language_key":"ky","name":"Миримире"}
+{"id":355112564,"city_id":4611852,"language_key":"ky","name":"Миранда"}
+{"id":355114874,"city_id":4611882,"language_key":"ky","name":"Мицхелена"}
+{"id":355116183,"city_id":4611899,"language_key":"ky","name":"Меса де Цавацас"}
+{"id":355116722,"city_id":4611906,"language_key":"ky","name":"Мерида"}
+{"id":355119571,"city_id":4611943,"language_key":"ky","name":"Мене Гранде"}
+{"id":355119648,"city_id":4611944,"language_key":"ky","name":"Мене де Мауроа"}
+{"id":355133200,"city_id":4612120,"language_key":"ky","name":"Маспаррито"}
+{"id":355134047,"city_id":4612131,"language_key":"ky","name":"Мароа"}
+{"id":355134278,"city_id":4612134,"language_key":"ky","name":"Марипа"}
+{"id":355134355,"city_id":4612135,"language_key":"ky","name":"Марипа"}
+{"id":355134509,"city_id":4612137,"language_key":"ky","name":"Марин"}
+{"id":355134817,"city_id":4612141,"language_key":"ky","name":"Маригуитар"}
+{"id":355134971,"city_id":4612143,"language_key":"ky","name":"Мариара"}
+{"id":355136049,"city_id":4612157,"language_key":"ky","name":"Марцано"}
+{"id":355136973,"city_id":4612169,"language_key":"ky","name":"Маракай"}
+{"id":355137204,"city_id":4612172,"language_key":"ky","name":"Маракайбо"}
+{"id":355137589,"city_id":4612177,"language_key":"ky","name":"Мара"}
+{"id":355139052,"city_id":4612196,"language_key":"ky","name":"Мапоралдык"}
+{"id":355139129,"city_id":4612197,"language_key":"ky","name":"Мапоралдык"}
+{"id":355139360,"city_id":4612200,"language_key":"ky","name":"Мапоралдык"}
+{"id":355139514,"city_id":4612202,"language_key":"ky","name":"Мапире"}
+{"id":355139668,"city_id":4612204,"language_key":"ky","name":"Мапарари"}
+{"id":355140900,"city_id":4612220,"language_key":"ky","name":"Мантеца"}
+{"id":355142286,"city_id":4612238,"language_key":"ky","name":"Маницуаре"}
+{"id":355144288,"city_id":4612264,"language_key":"ky","name":"Мампорал"}
+{"id":355147445,"city_id":4612305,"language_key":"ky","name":"Майкетия"}
+{"id":355148215,"city_id":4612315,"language_key":"ky","name":"Махомито"}
+{"id":355148908,"city_id":4612324,"language_key":"ky","name":"Магдалено"}
+{"id":355149909,"city_id":4612337,"language_key":"ky","name":"Мацуто"}
+{"id":355151372,"city_id":4612356,"language_key":"ky","name":"Мацхикуес"}
+{"id":355152527,"city_id":4612371,"language_key":"ky","name":"Мацапо"}
+{"id":355157455,"city_id":4612435,"language_key":"ky","name":"Лос-Текес"}
+{"id":355157686,"city_id":4612438,"language_key":"ky","name":"Лос Такуес"}
+{"id":355159765,"city_id":4612465,"language_key":"ky","name":"Лос Риос"}
+{"id":355160458,"city_id":4612474,"language_key":"ky","name":"Лос Растройос"}
+{"id":355165001,"city_id":4612533,"language_key":"ky","name":"Лос Пийигуаос"}
+{"id":355170930,"city_id":4612610,"language_key":"ky","name":"Лос Милланес"}
+{"id":355179400,"city_id":4612720,"language_key":"ky","name":"Лос Гуаыос"}
+{"id":355179785,"city_id":4612725,"language_key":"ky","name":"Лос Гуасдалотес"}
+{"id":355182018,"city_id":4612754,"language_key":"ky","name":"Лос Дос Цаминос"}
+{"id":355185945,"city_id":4612805,"language_key":"ky","name":"Лос-Кокос"}
+{"id":355187716,"city_id":4612828,"language_key":"ky","name":"Лос Цхигуирес"}
+{"id":355190334,"city_id":4612862,"language_key":"ky","name":"Лос Царпинтерос"}
+{"id":355196417,"city_id":4612941,"language_key":"ky","name":"Лос-Барранкос де Фахардо"}
+{"id":355197495,"city_id":4612955,"language_key":"ky","name":"Лос-Багрес"}
+{"id":355198342,"city_id":4612966,"language_key":"ky","name":"Лос Аракуес"}
+{"id":355199497,"city_id":4612981,"language_key":"ky","name":"Лос-Альтос"}
+{"id":355199728,"city_id":4612984,"language_key":"ky","name":"Лос-Альтос"}
+{"id":355204271,"city_id":4613043,"language_key":"ky","name":"Лобатера"}
+{"id":355206196,"city_id":4613068,"language_key":"ky","name":"Лимонар Адентро"}
+{"id":355206658,"city_id":4613074,"language_key":"ky","name":"Либертад"}
+{"id":355206735,"city_id":4613075,"language_key":"ky","name":"Либертад"}
+{"id":355206812,"city_id":4613076,"language_key":"ky","name":"Цанагуа"}
+{"id":355206889,"city_id":4613077,"language_key":"ky","name":"Цапацхо Виейо"}
+{"id":355206966,"city_id":4613078,"language_key":"ky","name":"Лезама"}
+{"id":355208583,"city_id":4613099,"language_key":"ky","name":"Ла Ыуца"}
+{"id":355212664,"city_id":4613152,"language_key":"ky","name":"Ла Виктория"}
+{"id":355213819,"city_id":4613167,"language_key":"ky","name":"Ла Виктория"}
+{"id":355215128,"city_id":4613184,"language_key":"ky","name":"Ла Вела де Цоро"}
+{"id":355215513,"city_id":4613189,"language_key":"ky","name":"Вегуитас"}
+{"id":355219902,"city_id":4613246,"language_key":"ky","name":"Ла Юнион"}
+{"id":355220826,"city_id":4613258,"language_key":"ky","name":"Ла Тринидад"}
+{"id":355223136,"city_id":4613288,"language_key":"ky","name":"Ла Трилла"}
+{"id":355223444,"city_id":4613292,"language_key":"ky","name":"Ла Тосцана"}
+{"id":355228911,"city_id":4613363,"language_key":"ky","name":"Лас Вегас"}
+{"id":355229912,"city_id":4613376,"language_key":"ky","name":"Лас Тунас"}
+{"id":355232068,"city_id":4613404,"language_key":"ky","name":"Лас Тежериас"}
+{"id":355239537,"city_id":4613501,"language_key":"ky","name":"Лас Пьедрас"}
+{"id":355241231,"city_id":4613523,"language_key":"ky","name":"Лас Парцелас"}
+{"id":355244080,"city_id":4613560,"language_key":"ky","name":"Оллас де Царамацате"}
+{"id":355249316,"city_id":4613628,"language_key":"ky","name":"Лас Месас"}
+{"id":355249547,"city_id":4613631,"language_key":"ky","name":"Лас Мерседес"}
+{"id":355250548,"city_id":4613644,"language_key":"ky","name":"Лас Мерседес"}
+{"id":355258633,"city_id":4613749,"language_key":"ky","name":"Ла Сиерра"}
+{"id":355261328,"city_id":4613784,"language_key":"ky","name":"Лас Гуацамаыас"}
+{"id":355265486,"city_id":4613838,"language_key":"ky","name":"Лас Елисас"}
+{"id":355267411,"city_id":4613863,"language_key":"ky","name":"Лас Делисиас"}
+{"id":355267796,"city_id":4613868,"language_key":"ky","name":"Лас Делисиас"}
+{"id":355269259,"city_id":4613887,"language_key":"ky","name":"Лас Крусес"}
+{"id":355275342,"city_id":4613966,"language_key":"ky","name":"Лас Цалдерас"}
+{"id":355282426,"city_id":4614058,"language_key":"ky","name":"Ларрайнзар"}
+{"id":355284736,"city_id":4614088,"language_key":"ky","name":"Ла Рокуена"}
+{"id":355288432,"city_id":4614136,"language_key":"ky","name":"Реформа"}
+{"id":355291666,"city_id":4614178,"language_key":"ky","name":"Ла Квебрада"}
+{"id":355291897,"city_id":4614181,"language_key":"ky","name":"Ла Квебрада"}
+{"id":355294438,"city_id":4614214,"language_key":"ky","name":"Ла Провиденсия"}
+{"id":355297595,"city_id":4614255,"language_key":"ky","name":"Ла Плата"}
+{"id":355300136,"city_id":4614288,"language_key":"ky","name":"Ла Пица"}
+{"id":355303447,"city_id":4614331,"language_key":"ky","name":"Ла-Пас"}
+{"id":355304063,"city_id":4614339,"language_key":"ky","name":"Ла Пастора"}
+{"id":355305526,"city_id":4614358,"language_key":"ky","name":"Ла Парагуа"}
+{"id":355306142,"city_id":4614366,"language_key":"ky","name":"Ла Пампа де Арагуа"}
+{"id":355306450,"city_id":4614370,"language_key":"ky","name":"Ла палома"}
+{"id":355312995,"city_id":4614455,"language_key":"ky","name":null}
+{"id":355317307,"city_id":4614511,"language_key":"ky","name":"Ла Моцха"}
+{"id":355317769,"city_id":4614517,"language_key":"ky","name":"Миссия"}
+{"id":355318308,"city_id":4614524,"language_key":"ky","name":"Ла Миел"}
+{"id":355321157,"city_id":4614561,"language_key":"ky","name":"Ла Мата"}
+{"id":355327009,"city_id":4614637,"language_key":"ky","name":"Ла Луз"}
+{"id":355332630,"city_id":4614710,"language_key":"ky","name":"Ла Лагунита"}
+{"id":355333400,"city_id":4614720,"language_key":"ky","name":"Ла Лагуна"}
+{"id":355335556,"city_id":4614748,"language_key":"ky","name":"Ла Жара"}
+{"id":355340946,"city_id":4614818,"language_key":"ky","name":"Лагунота"}
+{"id":355341716,"city_id":4614828,"language_key":"ky","name":"Лагунильялар"}
+{"id":355341793,"city_id":4614829,"language_key":"ky","name":"Лагунильялар"}
+{"id":355342871,"city_id":4614843,"language_key":"ky","name":"Лагуна Марцос"}
+{"id":355344719,"city_id":4614867,"language_key":"ky","name":"Ла Гуасдуилла"}
+{"id":355346105,"city_id":4614885,"language_key":"ky","name":"Ла-Гуайра"}
+{"id":355351110,"city_id":4614950,"language_key":"ky","name":"Фондация"}
+{"id":355362968,"city_id":4615104,"language_key":"ky","name":"Ла Эсмеральда"}
+{"id":355365971,"city_id":4615143,"language_key":"ky","name":"Ла Доминга"}
+{"id":355366125,"city_id":4615145,"language_key":"ky","name":null}
+{"id":355366587,"city_id":4615151,"language_key":"ky","name":"Демоцрациа"}
+{"id":355372362,"city_id":4615226,"language_key":"ky","name":"Ла Цруз де Таратара"}
+{"id":355376289,"city_id":4615277,"language_key":"ky","name":"Ла Консепсьон"}
+{"id":355376520,"city_id":4615280,"language_key":"ky","name":"Концепция"}
+{"id":355380447,"city_id":4615331,"language_key":"ky","name":"Ла Сиега"}
+{"id":355382449,"city_id":4615357,"language_key":"ky","name":"Цхамета"}
+{"id":355383989,"city_id":4615377,"language_key":"ky","name":"Ла Цейита"}
+{"id":355387146,"city_id":4615418,"language_key":"ky","name":"Ла Сейба"}
+{"id":355389995,"city_id":4615455,"language_key":"ky","name":"Царамуца"}
+{"id":355394538,"city_id":4615514,"language_key":"ky","name":"Ла Цабана"}
+{"id":355399774,"city_id":4615582,"language_key":"ky","name":"Ла Батеа"}
+{"id":355401314,"city_id":4615602,"language_key":"ky","name":"Ла Азулита"}
+{"id":355403547,"city_id":4615631,"language_key":"ky","name":"Ла Ареноза"}
+{"id":355405626,"city_id":4615658,"language_key":"ky","name":"Ла Агуадита"}
+{"id":355406473,"city_id":4615669,"language_key":"ky","name":"Ла Агуада"}
+{"id":355408629,"city_id":4615697,"language_key":"ky","name":"Канаваыен"}
+{"id":355408706,"city_id":4615698,"language_key":"ky","name":"Йусепин"}
+{"id":355408860,"city_id":4615700,"language_key":"ky","name":"Жунин"}
+{"id":355409630,"city_id":4615710,"language_key":"ky","name":"Йудибана"}
+{"id":355410323,"city_id":4615719,"language_key":"ky","name":"Йуан Гриего"}
+{"id":355414712,"city_id":4615776,"language_key":"ky","name":"Жалиско"}
+{"id":355414866,"city_id":4615778,"language_key":"ky","name":"Йайи"}
+{"id":355416252,"city_id":4615796,"language_key":"ky","name":"Йацура"}
+{"id":355416868,"city_id":4615804,"language_key":"ky","name":"Йабон"}
+{"id":355418408,"city_id":4615824,"language_key":"ky","name":"Исноту"}
+{"id":355418716,"city_id":4615828,"language_key":"ky","name":"Ирапа"}
+{"id":355419640,"city_id":4615840,"language_key":"ky","name":"Көз карандысыздык"}
+{"id":355420487,"city_id":4615851,"language_key":"ky","name":"Хумо Луз"}
+{"id":355420564,"city_id":4615852,"language_key":"ky","name":"Хумоцаро Байо"}
+{"id":355420641,"city_id":4615853,"language_key":"ky","name":"Хумоцаро Алто"}
+{"id":355421565,"city_id":4615865,"language_key":"ky","name":"Хигуероте"}
+{"id":355422874,"city_id":4615882,"language_key":"ky","name":"Хернандез"}
+{"id":355429881,"city_id":4615973,"language_key":"ky","name":"Гуириа"}
+{"id":355430035,"city_id":4615975,"language_key":"ky","name":"Уикина"}
+{"id":355430343,"city_id":4615979,"language_key":"ky","name":null}
+{"id":355432499,"city_id":4616007,"language_key":"ky","name":"Гуайябондор"}
+{"id":355432807,"city_id":4616011,"language_key":"ky","name":"Гуаябал"}
+{"id":355434424,"city_id":4616032,"language_key":"ky","name":"Гуаябал"}
+{"id":355434963,"city_id":4616039,"language_key":"ky","name":"Гуатире"}
+{"id":355436041,"city_id":4616053,"language_key":"ky","name":"Гуасипати"}
+{"id":355439429,"city_id":4616097,"language_key":"ky","name":"Гуарицо"}
+{"id":355440276,"city_id":4616108,"language_key":"ky","name":"Гуаренас"}
+{"id":355440892,"city_id":4616116,"language_key":"ky","name":"Гуардатинайас"}
+{"id":355440969,"city_id":4616117,"language_key":"ky","name":"Гуараунос"}
+{"id":355441200,"city_id":4616120,"language_key":"ky","name":"Гуаратаро"}
+{"id":355441893,"city_id":4616129,"language_key":"ky","name":"Гуарак"}
+{"id":355444049,"city_id":4616157,"language_key":"ky","name":"Гуанта"}
+{"id":355445127,"city_id":4616171,"language_key":"ky","name":"Гуанарито"}
+{"id":355445281,"city_id":4616173,"language_key":"ky","name":"Гуанаре"}
+{"id":355445435,"city_id":4616175,"language_key":"ky","name":"Гуанапе"}
+{"id":355448515,"city_id":4616215,"language_key":"ky","name":"Гуама"}
+{"id":355448823,"city_id":4616219,"language_key":"ky","name":"Гуайира"}
+{"id":355450671,"city_id":4616243,"language_key":"ky","name":"Гуадаррама"}
+{"id":355452519,"city_id":4616267,"language_key":"ky","name":"Гуацара"}
+{"id":355454290,"city_id":4616290,"language_key":"ky","name":"Гомес"}
+{"id":355459526,"city_id":4616358,"language_key":"ky","name":"Флор де Патриа"}
+{"id":355461220,"city_id":4616380,"language_key":"ky","name":"Фарриар"}
+{"id":355462221,"city_id":4616393,"language_key":"ky","name":"Есторакуе"}
+{"id":355464454,"city_id":4616422,"language_key":"ky","name":"Эскуке"}
+{"id":355465378,"city_id":4616434,"language_key":"ky","name":"Енцонтрадос"}
+{"id":355468150,"city_id":4616470,"language_key":"ky","name":"Ел Ыагуал"}
+{"id":355469305,"city_id":4616485,"language_key":"ky","name":"Ел Вигиа"}
+{"id":355471538,"city_id":4616514,"language_key":"ky","name":"Ел Валле дел Еспириту Санто"}
+{"id":355471615,"city_id":4616515,"language_key":"ky","name":"Эль-Валле"}
+{"id":355473309,"city_id":4616537,"language_key":"ky","name":"Эль Триунфо"}
+{"id":355474541,"city_id":4616553,"language_key":"ky","name":"Эль Торо"}
+{"id":355474772,"city_id":4616556,"language_key":"ky","name":"Эль Торо"}
+{"id":355476004,"city_id":4616572,"language_key":"ky","name":"Эль Хойо"}
+{"id":355478237,"city_id":4616601,"language_key":"ky","name":"Эль-Тигре"}
+{"id":355479854,"city_id":4616622,"language_key":"ky","name":"Ел Тейеро"}
+{"id":355482549,"city_id":4616657,"language_key":"ky","name":"Ел Сомбреро"}
+{"id":355482780,"city_id":4616660,"language_key":"ky","name":"Эл Сокорро"}
+{"id":355483473,"city_id":4616669,"language_key":"ky","name":"Эл Сокорро"}
+{"id":355483935,"city_id":4616675,"language_key":"ky","name":"Эл Сокорро"}
+{"id":355484474,"city_id":4616682,"language_key":"ky","name":"Ел Силенцио"}
+{"id":355485167,"city_id":4616691,"language_key":"ky","name":"Ел Сиете"}
+{"id":355486168,"city_id":4616704,"language_key":"ky","name":"Ел Саман де Апуре"}
+{"id":355490788,"city_id":4616764,"language_key":"ky","name":"Лос Рокуес"}
+{"id":355498488,"city_id":4616864,"language_key":"ky","name":"Эл Регало"}
+{"id":355498719,"city_id":4616867,"language_key":"ky","name":"Эл Рекрео"}
+{"id":355501722,"city_id":4616906,"language_key":"ky","name":"Эл Пуэблито"}
+{"id":355510423,"city_id":4617019,"language_key":"ky","name":"Эль Пинар"}
+{"id":355510885,"city_id":4617025,"language_key":"ky","name":"Сан Рафаел дел Пинал"}
+{"id":355511347,"city_id":4617031,"language_key":"ky","name":"Эль Пилар"}
+{"id":355511424,"city_id":4617032,"language_key":"ky","name":"Эль Пилар"}
+{"id":355517584,"city_id":4617112,"language_key":"ky","name":"Ел Пауйи"}
+{"id":355518354,"city_id":4617122,"language_key":"ky","name":"Эл Пато"}
+{"id":355521511,"city_id":4617163,"language_key":"ky","name":"Эль Парадеро"}
+{"id":355522281,"city_id":4617173,"language_key":"ky","name":"Ел Пао Виейо"}
+{"id":355522358,"city_id":4617174,"language_key":"ky","name":"Ел Пао"}
+{"id":355524360,"city_id":4617200,"language_key":"ky","name":"Ел Палмер"}
+{"id":355526208,"city_id":4617224,"language_key":"ky","name":"Эл Пальмар"}
+{"id":355528287,"city_id":4617251,"language_key":"ky","name":"Елорза"}
+{"id":355529057,"city_id":4617261,"language_key":"ky","name":"Ел Нула"}
+{"id":355529365,"city_id":4617265,"language_key":"ky","name":"Нокупетаро де Морелос"}
+{"id":355533215,"city_id":4617315,"language_key":"ky","name":"Лецхериас"}
+{"id":355534062,"city_id":4617326,"language_key":"ky","name":"Ел Моралито"}
+{"id":355535217,"city_id":4617341,"language_key":"ky","name":"Ел Молинете"}
+{"id":355535602,"city_id":4617346,"language_key":"ky","name":"Эль-Милагро"}
+{"id":355538451,"city_id":4617383,"language_key":"ky","name":"Ел Мене"}
+{"id":355540453,"city_id":4617409,"language_key":"ky","name":"Эль-Манзано"}
+{"id":355540530,"city_id":4617410,"language_key":"ky","name":"Ел Мантецо"}
+{"id":355540838,"city_id":4617414,"language_key":"ky","name":"Ел Мантецо"}
+{"id":355547922,"city_id":4617506,"language_key":"ky","name":"Эл Лимон"}
+{"id":355550232,"city_id":4617536,"language_key":"ky","name":"Ел Ламедеро"}
+{"id":355557624,"city_id":4617632,"language_key":"ky","name":"Эль Хатилло"}
+{"id":355559010,"city_id":4617650,"language_key":"ky","name":"Эль-Гуаябо"}
+{"id":355560088,"city_id":4617664,"language_key":"ky","name":"Ел Гуате"}
+{"id":355560396,"city_id":4617668,"language_key":"ky","name":"Ел Гуасимо"}
+{"id":355562013,"city_id":4617689,"language_key":"ky","name":"Ел Гуапо"}
+{"id":355565632,"city_id":4617736,"language_key":"ky","name":"Ел Гуацхаро"}
+{"id":355567634,"city_id":4617762,"language_key":"ky","name":"Ел Фурриал"}
+{"id":355570560,"city_id":4617800,"language_key":"ky","name":"Ел Енеал"}
+{"id":355571330,"city_id":4617810,"language_key":"ky","name":"Эль Энканто"}
+{"id":355572793,"city_id":4617829,"language_key":"ky","name":"Эль Дорадо"}
+{"id":355573255,"city_id":4617835,"language_key":"ky","name":"Ел Дивидиве"}
+{"id":355579415,"city_id":4617915,"language_key":"ky","name":"Эль Крусе"}
+{"id":355580185,"city_id":4617925,"language_key":"ky","name":"Эль Корозо"}
+{"id":355581340,"city_id":4617940,"language_key":"ky","name":"Эль Корозо"}
+{"id":355582880,"city_id":4617960,"language_key":"ky","name":"Ел Цонсейо"}
+{"id":355583034,"city_id":4617962,"language_key":"ky","name":"Ел Цонсейо"}
+{"id":355585344,"city_id":4617992,"language_key":"ky","name":"Эл Кобре"}
+{"id":355585421,"city_id":4617993,"language_key":"ky","name":"Эл Кобре"}
+{"id":355590349,"city_id":4618057,"language_key":"ky","name":"Эл Серроте"}
+{"id":355598511,"city_id":4618163,"language_key":"ky","name":"Ел Цармело"}
+{"id":355601591,"city_id":4618203,"language_key":"ky","name":"Эль Кантон"}
+{"id":355601976,"city_id":4618208,"language_key":"ky","name":"Эль Кантон"}
+{"id":355604902,"city_id":4618246,"language_key":"ky","name":"Ел Цаллао"}
+{"id":355606288,"city_id":4618264,"language_key":"ky","name":"Ел Цафе"}
+{"id":355611678,"city_id":4618334,"language_key":"ky","name":"Ел Баул"}
+{"id":355618223,"city_id":4618419,"language_key":"ky","name":"Эль Ампаро де Апуре"}
+{"id":355618377,"city_id":4618421,"language_key":"ky","name":"Ел Ампаро"}
+{"id":355624306,"city_id":4618498,"language_key":"ky","name":"Ейидо"}
+{"id":355624922,"city_id":4618506,"language_key":"ky","name":"Дуаца"}
+{"id":355624999,"city_id":4618507,"language_key":"ky","name":"Дос Риос"}
+{"id":355625923,"city_id":4618519,"language_key":"ky","name":"Долорес"}
+{"id":355626000,"city_id":4618520,"language_key":"ky","name":"Долорес"}
+{"id":355627463,"city_id":4618539,"language_key":"ky","name":"Дабайуро"}
+{"id":355629234,"city_id":4618562,"language_key":"ky","name":"Цуриепе"}
+{"id":355629619,"city_id":4618567,"language_key":"ky","name":"Цуриапо"}
+{"id":355629927,"city_id":4618571,"language_key":"ky","name":"Цурбати"}
+{"id":355631775,"city_id":4618595,"language_key":"ky","name":"Цупира"}
+{"id":355634008,"city_id":4618624,"language_key":"ky","name":"Цуманацоа"}
+{"id":355634085,"city_id":4618625,"language_key":"ky","name":"Кумана"}
+{"id":355636857,"city_id":4618661,"language_key":"ky","name":"Цубиро"}
+{"id":355637319,"city_id":4618667,"language_key":"ky","name":"Куатро Эскинас"}
+{"id":355637858,"city_id":4618674,"language_key":"ky","name":"Цуара"}
+{"id":355638320,"city_id":4618680,"language_key":"ky","name":"Цуа"}
+{"id":355648253,"city_id":4618809,"language_key":"ky","name":"Коро шаары"}
+{"id":355648561,"city_id":4618813,"language_key":"ky","name":"Цордоба"}
+{"id":355648638,"city_id":4618814,"language_key":"ky","name":"Цордеро"}
+{"id":355650717,"city_id":4618841,"language_key":"ky","name":"Конгорочо"}
+{"id":355651333,"city_id":4618849,"language_key":"ky","name":"Конча"}
+{"id":355651487,"city_id":4618851,"language_key":"ky","name":"Концепция"}
+{"id":355652642,"city_id":4618866,"language_key":"ky","name":"Цолониа Товар"}
+{"id":355652950,"city_id":4618870,"language_key":"ky","name":"Цолонцито"}
+{"id":355653412,"city_id":4618876,"language_key":"ky","name":"Цолина"}
+{"id":355653720,"city_id":4618880,"language_key":"ky","name":"Цойедес"}
+{"id":355656569,"city_id":4618917,"language_key":"ky","name":"Цоцороте"}
+{"id":355656877,"city_id":4618921,"language_key":"ky","name":"Цоцо де Моно"}
+{"id":355657647,"city_id":4618931,"language_key":"ky","name":"Клариндер"}
+{"id":355657724,"city_id":4618932,"language_key":"ky","name":"Циудад Пиар"}
+{"id":355657801,"city_id":4618933,"language_key":"ky","name":"Циудад Ойеда"}
+{"id":355657878,"city_id":4618934,"language_key":"ky","name":"Сьюдад Гусман"}
+{"id":355657955,"city_id":4618935,"language_key":"ky","name":"Циудад де Нутриас"}
+{"id":355658032,"city_id":4618936,"language_key":"ky","name":"Циудад Боливиа"}
+{"id":355658109,"city_id":4618937,"language_key":"ky","name":"Сьюдад-Боливар"}
+{"id":355658263,"city_id":4618939,"language_key":"ky","name":"Циприано"}
+{"id":355659803,"city_id":4618959,"language_key":"ky","name":"Цхуругуара"}
+{"id":355660188,"city_id":4618964,"language_key":"ky","name":"Цхунауре"}
+{"id":355660419,"city_id":4618967,"language_key":"ky","name":"Цхуао"}
+{"id":355661266,"city_id":4618978,"language_key":"ky","name":"Цхорони"}
+{"id":355662036,"city_id":4618988,"language_key":"ky","name":"Цхивацоа"}
+{"id":355662729,"city_id":4618997,"language_key":"ky","name":"Цхиргуа"}
+{"id":355662960,"city_id":4619000,"language_key":"ky","name":"Чикинкира"}
+{"id":355663961,"city_id":4619013,"language_key":"ky","name":"Чимборасо"}
+{"id":355664423,"city_id":4619019,"language_key":"ky","name":"Цхигуара"}
+{"id":355664731,"city_id":4619023,"language_key":"ky","name":"Цхицхиривицхе"}
+{"id":355665116,"city_id":4619028,"language_key":"ky","name":"Цхейенде"}
+{"id":355665578,"city_id":4619034,"language_key":"ky","name":"Цхараллаве"}
+{"id":355667041,"city_id":4619053,"language_key":"ky","name":"Чамизал"}
+{"id":355667888,"city_id":4619064,"language_key":"ky","name":"Цхагуарамас"}
+{"id":355668119,"city_id":4619067,"language_key":"ky","name":"Цхагуарамал"}
+{"id":355668504,"city_id":4619072,"language_key":"ky","name":"Цхацопата"}
+{"id":355669120,"city_id":4619080,"language_key":"ky","name":"Цхацао"}
+{"id":355669582,"city_id":4619086,"language_key":"ky","name":"Цеута"}
+{"id":355672354,"city_id":4619122,"language_key":"ky","name":"Цепед"}
+{"id":355672662,"city_id":4619126,"language_key":"ky","name":"Такаригуа"}
+{"id":355673894,"city_id":4619142,"language_key":"ky","name":"Седено"}
+{"id":355675742,"city_id":4619166,"language_key":"ky","name":"Цауцагуито"}
+{"id":355675819,"city_id":4619167,"language_key":"ky","name":"Цауцагуа"}
+{"id":355676281,"city_id":4619173,"language_key":"ky","name":"Цатуаро"}
+{"id":355676435,"city_id":4619175,"language_key":"ky","name":"Цатиа Ла Мар"}
+{"id":355676666,"city_id":4619178,"language_key":"ky","name":"Цататумбо"}
+{"id":355679977,"city_id":4619221,"language_key":"ky","name":"Цасигуа-Ел Цубо"}
+{"id":355680593,"city_id":4619229,"language_key":"ky","name":"Цасанаы"}
+{"id":355681825,"city_id":4619245,"language_key":"ky","name":"Цасацоима"}
+{"id":355683750,"city_id":4619270,"language_key":"ky","name":"Царупано"}
+{"id":355685983,"city_id":4619299,"language_key":"ky","name":"Каризал"}
+{"id":355687292,"city_id":4619316,"language_key":"ky","name":"Царраскуеро"}
+{"id":355687985,"city_id":4619325,"language_key":"ky","name":"Царора"}
+{"id":355688062,"city_id":4619326,"language_key":"ky","name":"Карони"}
+{"id":355688447,"city_id":4619331,"language_key":"ky","name":"Цармен де Цура"}
+{"id":355688909,"city_id":4619337,"language_key":"ky","name":"Царирубана"}
+{"id":355688986,"city_id":4619338,"language_key":"ky","name":"Царипито"}
+{"id":355689063,"city_id":4619339,"language_key":"ky","name":"Царипе"}
+{"id":355689833,"city_id":4619349,"language_key":"ky","name":"Цариацо"}
+{"id":355691373,"city_id":4619369,"language_key":"ky","name":"Цараыаца"}
+{"id":355694145,"city_id":4619405,"language_key":"ky","name":"Царамацате"}
+{"id":355694838,"city_id":4619414,"language_key":"ky","name":"Царацхе"}
+{"id":355694992,"city_id":4619416,"language_key":"ky","name":"Каракас"}
+{"id":355696070,"city_id":4619430,"language_key":"ky","name":"Царабалледа"}
+{"id":355696686,"city_id":4619438,"language_key":"ky","name":"Цапитанейо"}
+{"id":355697456,"city_id":4619448,"language_key":"ky","name":"Капатарида"}
+{"id":355697687,"city_id":4619451,"language_key":"ky","name":"Цападаре"}
+{"id":355698688,"city_id":4619464,"language_key":"ky","name":"Цантаура"}
+{"id":355701691,"city_id":4619503,"language_key":"ky","name":"Цано Негро"}
+{"id":355706080,"city_id":4619560,"language_key":"ky","name":"Цаноабо"}
+{"id":355707081,"city_id":4619573,"language_key":"ky","name":"Канделярия"}
+{"id":355710931,"city_id":4619623,"language_key":"ky","name":"Цампома"}
+{"id":355711393,"city_id":4619629,"language_key":"ky","name":"Цампо Гуаыараца"}
+{"id":355711624,"city_id":4619632,"language_key":"ky","name":"Цампо Елиас"}
+{"id":355711855,"city_id":4619635,"language_key":"ky","name":"Цампо Елиас"}
+{"id":355719555,"city_id":4619735,"language_key":"ky","name":"Цаматагуа"}
+{"id":355719940,"city_id":4619740,"language_key":"ky","name":"Цамагуан"}
+{"id":355720864,"city_id":4619752,"language_key":"ky","name":"Кальдералар"}
+{"id":355721326,"city_id":4619758,"language_key":"ky","name":"Цаладо"}
+{"id":355721403,"city_id":4619759,"language_key":"ky","name":"Калабозо"}
+{"id":355722019,"city_id":4619767,"language_key":"ky","name":"Цайа Сеца"}
+{"id":355723482,"city_id":4619786,"language_key":"ky","name":"Цаигуа"}
+{"id":355724098,"city_id":4619794,"language_key":"ky","name":"Кайкара"}
+{"id":355724252,"city_id":4619796,"language_key":"ky","name":"Цаицара дел Ориноцо"}
+{"id":355724560,"city_id":4619800,"language_key":"ky","name":"Цагуада"}
+{"id":355724637,"city_id":4619801,"language_key":"ky","name":"Чан-хуа"}
+{"id":355725176,"city_id":4619808,"language_key":"ky","name":"Цацхипо"}
+{"id":355726485,"city_id":4619825,"language_key":"ky","name":"Цабуре"}
+{"id":355726562,"city_id":4619826,"language_key":"ky","name":"Цабударе"}
+{"id":355726639,"city_id":4619827,"language_key":"ky","name":"Цабрута"}
+{"id":355726947,"city_id":4619831,"language_key":"ky","name":"Цабимас"}
+{"id":355729026,"city_id":4619858,"language_key":"ky","name":"Бурбусаы"}
+{"id":355729103,"city_id":4619859,"language_key":"ky","name":"Бум Бум"}
+{"id":355731721,"city_id":4619893,"language_key":"ky","name":"Буэнос-Айрес"}
+{"id":355731875,"city_id":4619895,"language_key":"ky","name":"Буэна Виста"}
+{"id":355736495,"city_id":4619955,"language_key":"ky","name":"Буэна Виста"}
+{"id":355737342,"city_id":4619966,"language_key":"ky","name":"Буцхивацоа"}
+{"id":355738959,"city_id":4619987,"language_key":"ky","name":"Брузуал"}
+{"id":355739575,"city_id":4619995,"language_key":"ky","name":"Брамон"}
+{"id":355741654,"city_id":4620022,"language_key":"ky","name":"Борота"}
+{"id":355742270,"city_id":4620030,"language_key":"ky","name":"Борбурата"}
+{"id":355742501,"city_id":4620033,"language_key":"ky","name":"Борауре"}
+{"id":355745273,"city_id":4620069,"language_key":"ky","name":"Боливар"}
+{"id":355745735,"city_id":4620075,"language_key":"ky","name":"Боцоноито"}
+{"id":355745889,"city_id":4620077,"language_key":"ky","name":"Боцоно"}
+{"id":355747352,"city_id":4620096,"language_key":"ky","name":"Боца де Уцхире"}
+{"id":355748738,"city_id":4620114,"language_key":"ky","name":"Боца дел Рио"}
+{"id":355748815,"city_id":4620115,"language_key":"ky","name":"Боца дел Рио"}
+{"id":355750047,"city_id":4620131,"language_key":"ky","name":"Боца де Цасанарито"}
+{"id":355750124,"city_id":4620132,"language_key":"ky","name":"Боца де Ароа"}
+{"id":355751125,"city_id":4620145,"language_key":"ky","name":"Бобурес"}
+{"id":355751279,"city_id":4620147,"language_key":"ky","name":"Бобаре"}
+{"id":355751433,"city_id":4620149,"language_key":"ky","name":"Бискукуй"}
+{"id":355751587,"city_id":4620151,"language_key":"ky","name":"Бируаца"}
+{"id":355751972,"city_id":4620156,"language_key":"ky","name":"Бетихоке"}
+{"id":355752280,"city_id":4620160,"language_key":"ky","name":"Бермудец"}
+{"id":355752588,"city_id":4620164,"language_key":"ky","name":"Бергантин"}
+{"id":355754667,"city_id":4620191,"language_key":"ky","name":"Беленеро"}
+{"id":355754821,"city_id":4620193,"language_key":"ky","name":"Белен"}
+{"id":355756207,"city_id":4620211,"language_key":"ky","name":"Бейума"}
+{"id":355757824,"city_id":4620232,"language_key":"ky","name":"Барута"}
+{"id":355759364,"city_id":4620252,"language_key":"ky","name":"Баррера Арриба"}
+{"id":355759518,"city_id":4620254,"language_key":"ky","name":"Барранкуитас"}
+{"id":355760519,"city_id":4620267,"language_key":"ky","name":"Барранкас"}
+{"id":355760596,"city_id":4620268,"language_key":"ky","name":"Барранкас"}
+{"id":355761212,"city_id":4620276,"language_key":"ky","name":"Баркизимето"}
+{"id":355762059,"city_id":4620287,"language_key":"ky","name":"Баринитас"}
+{"id":355762136,"city_id":4620288,"language_key":"ky","name":"Барина"}
+{"id":355762290,"city_id":4620290,"language_key":"ky","name":"Барселона"}
+{"id":355763137,"city_id":4620301,"language_key":"ky","name":"Барбацоас"}
+{"id":355763368,"city_id":4620304,"language_key":"ky","name":"Барбацоас"}
+{"id":355767064,"city_id":4620352,"language_key":"ky","name":"Баиладорес"}
+{"id":355767449,"city_id":4620357,"language_key":"ky","name":"Бачакеро"}
+{"id":355771145,"city_id":4620405,"language_key":"ky","name":"Ароа"}
+{"id":355771299,"city_id":4620407,"language_key":"ky","name":"Арисменди"}
+{"id":355771376,"city_id":4620408,"language_key":"ky","name":"Арисменди"}
+{"id":355771915,"city_id":4620415,"language_key":"ky","name":"Аричуна"}
+{"id":355771992,"city_id":4620416,"language_key":"ky","name":"Арицагуа"}
+{"id":355772069,"city_id":4620417,"language_key":"ky","name":"Арицагуа"}
+{"id":355773301,"city_id":4620433,"language_key":"ky","name":"Ареналар"}
+{"id":355773840,"city_id":4620440,"language_key":"ky","name":"Арегуе"}
+{"id":355774225,"city_id":4620445,"language_key":"ky","name":"Арая"}
+{"id":355774533,"city_id":4620449,"language_key":"ky","name":"Арауре"}
+{"id":355774610,"city_id":4620450,"language_key":"ky","name":"Араукита"}
+{"id":355775842,"city_id":4620466,"language_key":"ky","name":"Араира"}
+{"id":355776766,"city_id":4620478,"language_key":"ky","name":"Арагуа"}
+{"id":355776843,"city_id":4620479,"language_key":"ky","name":"Арагуа де Барцелона"}
+{"id":355777844,"city_id":4620492,"language_key":"ky","name":"Апартадерос"}
+{"id":355778691,"city_id":4620503,"language_key":"ky","name":"Анзоатегуи"}
+{"id":355784543,"city_id":4620579,"language_key":"ky","name":"Альтамира"}
+{"id":355784774,"city_id":4620582,"language_key":"ky","name":"Алтаграциа де Оритуцо"}
+{"id":355784851,"city_id":4620583,"language_key":"ky","name":"Алтаграциа де Ла Монтана"}
+{"id":355784928,"city_id":4620584,"language_key":"ky","name":"Алтаграциа"}
+{"id":355785005,"city_id":4620585,"language_key":"ky","name":"Лос-Пуэртос де Альтаграсиа"}
+{"id":355787007,"city_id":4620611,"language_key":"ky","name":"Алгарробо"}
+{"id":355788778,"city_id":4620634,"language_key":"ky","name":"Агуима"}
+{"id":355789933,"city_id":4620649,"language_key":"ky","name":"Агуасаы"}
+{"id":355790010,"city_id":4620650,"language_key":"ky","name":"Агуа Санта"}
+{"id":355794014,"city_id":4620702,"language_key":"ky","name":"Агуада Гранде"}
+{"id":355798249,"city_id":4620757,"language_key":"ky","name":"Адицора"}
+{"id":355798788,"city_id":4620764,"language_key":"ky","name":"Ацхагуас"}
+{"id":355798865,"city_id":4620765,"language_key":"ky","name":"Асеведо"}
+{"id":355799481,"city_id":4620773,"language_key":"ky","name":"Ацаригуа"}
+{"id":355800097,"city_id":4620781,"language_key":"ky","name":"Абейалес"}
+{"id":355803639,"city_id":4620827,"language_key":"ky","name":"Лас Месас"}
+{"id":355806796,"city_id":4620868,"language_key":"ky","name":"Ла Идеясы"}
+{"id":355806873,"city_id":4620869,"language_key":"ky","name":"Сан Йосе де Боливар"}
+{"id":355817114,"city_id":4621002,"language_key":"ky","name":"Цампо Бернал"}
+{"id":355822735,"city_id":4621075,"language_key":"ky","name":"Сан Педро"}
+{"id":355825276,"city_id":4621108,"language_key":"ky","name":"Пинанго"}
+{"id":355826970,"city_id":4621130,"language_key":"ky","name":"Ел Агуацатицо"}
+{"id":355828356,"city_id":4621148,"language_key":"ky","name":"Лос Веготес"}
+{"id":355831359,"city_id":4621187,"language_key":"ky","name":"Эл Мангито"}
+{"id":355831744,"city_id":4621192,"language_key":"ky","name":"Лас Делисиас"}
+{"id":355832052,"city_id":4621196,"language_key":"ky","name":"Мартин"}
+{"id":355834054,"city_id":4621222,"language_key":"ky","name":"Гарсиа"}
+{"id":355835440,"city_id":4621240,"language_key":"ky","name":"Эл Пласер"}
+{"id":355850609,"city_id":4621437,"language_key":"ky","name":"Бататал"}
+{"id":355851379,"city_id":4621447,"language_key":"ky","name":"Ел Перено"}
+{"id":355852765,"city_id":4621465,"language_key":"ky","name":"Миягуито"}
+{"id":355853150,"city_id":4621470,"language_key":"ky","name":"Лос Цоцхинос"}
+{"id":355862852,"city_id":4621596,"language_key":"ky","name":"Позо Верде"}
+{"id":355865393,"city_id":4621629,"language_key":"ky","name":"Седено"}
+{"id":355870398,"city_id":4621694,"language_key":"ky","name":"Ел Позон"}
+{"id":355874325,"city_id":4621745,"language_key":"ky","name":"Лос Патос"}
+{"id":355881563,"city_id":4621839,"language_key":"ky","name":"Пасо Реал"}
+{"id":355882102,"city_id":4621846,"language_key":"ky","name":"Цампо Соло"}
+{"id":355887415,"city_id":4621915,"language_key":"ky","name":"Лос-Мерейес"}
+{"id":355896963,"city_id":4622039,"language_key":"ky","name":"Сауцедо"}
+{"id":355901352,"city_id":4622096,"language_key":"ky","name":"Замбрано"}
+{"id":355902584,"city_id":4622112,"language_key":"ky","name":"Эль Тромпильо"}
+{"id":355926685,"city_id":4622425,"language_key":"ky","name":"Санта Рита"}
+{"id":355944626,"city_id":4622658,"language_key":"ky","name":"Ла Таза"}
+{"id":355953712,"city_id":4622776,"language_key":"ky","name":"Ел Зорро"}
+{"id":355958101,"city_id":4622833,"language_key":"ky","name":"Патос Гуаыабал"}
+{"id":355958794,"city_id":4622842,"language_key":"ky","name":"Исла Ратон"}
+{"id":355963414,"city_id":4622902,"language_key":"ky","name":"Педраза"}
+{"id":355973963,"city_id":4623039,"language_key":"ky","name":"Пуэбло Нуэво"}
+{"id":355978968,"city_id":4623104,"language_key":"ky","name":"Сан Йосесито"}
+{"id":355979353,"city_id":4623109,"language_key":"ky","name":"Урибанте"}
+{"id":355987900,"city_id":4623220,"language_key":"ky","name":"Лас Лланадас"}
+{"id":355991596,"city_id":4623268,"language_key":"ky","name":"Цордеро"}
+{"id":356003685,"city_id":4623425,"language_key":"ky","name":"Пасо Ларго"}
+{"id":356010384,"city_id":4623512,"language_key":"ky","name":"Сиерра Иматаца"}
+{"id":356013387,"city_id":4623551,"language_key":"ky","name":"Мерейина"}
+{"id":356014080,"city_id":4623560,"language_key":"ky","name":"Лас Навас"}
+{"id":356023397,"city_id":4623681,"language_key":"ky","name":"Эл Рекрео"}
+{"id":356032945,"city_id":4623805,"language_key":"ky","name":"Лос Позотес"}
+{"id":356038643,"city_id":4623879,"language_key":"ky","name":"Лас Маргаритас"}
+{"id":356054582,"city_id":4624086,"language_key":"ky","name":"Лас Тинажас"}
+{"id":356056892,"city_id":4624116,"language_key":"ky","name":"Ла Хонда"}
+{"id":356058355,"city_id":4624135,"language_key":"ky","name":"Вилла Арауре Уно"}
+{"id":356061204,"city_id":4624172,"language_key":"ky","name":"Ел Пицуре"}
+{"id":356061820,"city_id":4624180,"language_key":"ky","name":"Ла Луз"}
+{"id":356070598,"city_id":4624294,"language_key":"ky","name":"Цуйицито"}
+{"id":356080069,"city_id":4624417,"language_key":"ky","name":"Пьедрас Неграс"}
+{"id":356082071,"city_id":4624443,"language_key":"ky","name":"Эль-Ринкон"}
+{"id":356083380,"city_id":4624460,"language_key":"ky","name":"Сан Феликс"}
+{"id":356094237,"city_id":4624601,"language_key":"ky","name":"Мамонал"}
+{"id":356097702,"city_id":4624646,"language_key":"ky","name":"Сан Йосе де Гуарибе"}
+{"id":356098164,"city_id":4624652,"language_key":"ky","name":"Санта Рита"}
+{"id":356111716,"city_id":4624828,"language_key":"ky","name":"Эль Хуэсо"}
+{"id":356114796,"city_id":4624868,"language_key":"ky","name":"Матурин"}
+{"id":356117722,"city_id":4624906,"language_key":"ky","name":"Ел Пасо де Лос Индиос"}
+{"id":356120340,"city_id":4624940,"language_key":"ky","name":"Ла Реацамара"}
+{"id":356128579,"city_id":4625047,"language_key":"ky","name":"Пальмасола"}
+{"id":356141130,"city_id":4625210,"language_key":"ky","name":"Турен"}
+{"id":356144133,"city_id":4625249,"language_key":"ky","name":"Ла Агуада"}
+{"id":356144210,"city_id":4625250,"language_key":"ky","name":"Ла Агуада"}
+{"id":356146674,"city_id":4625282,"language_key":"ky","name":"Эль Бразилия"}
+{"id":356157146,"city_id":4625418,"language_key":"ky","name":"Гуарицапо"}
+{"id":356162151,"city_id":4625483,"language_key":"ky","name":"Цампо Лара"}
+{"id":356165077,"city_id":4625521,"language_key":"ky","name":"Километро Виентидо"}
+{"id":356174548,"city_id":4625644,"language_key":"ky","name":"Ел Пайон"}
+{"id":356180246,"city_id":4625718,"language_key":"ky","name":"Делициас"}
+{"id":356180477,"city_id":4625721,"language_key":"ky","name":"Ла Фриа"}
+{"id":356180708,"city_id":4625724,"language_key":"ky","name":"Ла Грита"}
+{"id":356181709,"city_id":4625737,"language_key":"ky","name":"Цапацхо Нуево"}
+{"id":356186175,"city_id":4625795,"language_key":"ky","name":"Лас-Уэртас"}
+{"id":356188331,"city_id":4625823,"language_key":"ky","name":"Ла Тендида"}
+{"id":356197725,"city_id":4625945,"language_key":"ky","name":"Цуеста Абайо"}
+{"id":356204193,"city_id":4626029,"language_key":"ky","name":"Луциа"}
+{"id":356215897,"city_id":4626181,"language_key":"ky","name":"Лос Позос Афуера"}
+{"id":356223135,"city_id":4626275,"language_key":"ky","name":"Рио Сан Педро"}
+{"id":356223982,"city_id":4626286,"language_key":"ky","name":"Санта-Елена"}
+{"id":356227678,"city_id":4626334,"language_key":"ky","name":"Ла Валериана"}
+{"id":356228448,"city_id":4626344,"language_key":"ky","name":"Лас Вегас"}
+{"id":356234916,"city_id":4626428,"language_key":"ky","name":"Цхацопата"}
+{"id":356235455,"city_id":4626435,"language_key":"ky","name":"Цхипицхипе"}
+{"id":356242000,"city_id":4626520,"language_key":"ky","name":"Агуа Бланка"}
+{"id":356247082,"city_id":4626586,"language_key":"ky","name":"Лас Делисиас"}
+{"id":356249469,"city_id":4626617,"language_key":"ky","name":"Ла Исла"}
+{"id":356254628,"city_id":4626684,"language_key":"ky","name":"Эл Плейон"}
+{"id":356258863,"city_id":4626739,"language_key":"ky","name":"Ла Силлета"}
+{"id":356260942,"city_id":4626766,"language_key":"ky","name":"Арапуеы"}
+{"id":356261173,"city_id":4626769,"language_key":"ky","name":"Ел Батеы"}
+{"id":356263945,"city_id":4626805,"language_key":"ky","name":"Мацапо"}
+{"id":356273801,"city_id":4626933,"language_key":"ky","name":"Конкордия"}
+{"id":356277112,"city_id":4626976,"language_key":"ky","name":"Манрикуе"}
+{"id":356283657,"city_id":4627061,"language_key":"ky","name":"Цауцагуита"}
+{"id":356283734,"city_id":4627062,"language_key":"ky","name":"Ла Сейба"}
+{"id":356293898,"city_id":4627194,"language_key":"ky","name":"Тотумито"}
+{"id":356297594,"city_id":4627242,"language_key":"ky","name":"Гуасдуалито"}
+{"id":356298595,"city_id":4627255,"language_key":"ky","name":"Лас Мерседес"}
+{"id":356300366,"city_id":4627278,"language_key":"ky","name":"Сан-Фернандо-де-Апуре"}
+{"id":356300597,"city_id":4627281,"language_key":"ky","name":"Сан Йуан де Паыара"}
+{"id":356315920,"city_id":4627480,"language_key":"ky","name":"Сан Себастьян"}
+{"id":356317614,"city_id":4627502,"language_key":"ky","name":"Турмерито"}
+{"id":356318153,"city_id":4627509,"language_key":"ky","name":"Варгас"}
+{"id":356345411,"city_id":4627863,"language_key":"ky","name":"Мандигал"}
+{"id":356354651,"city_id":4627983,"language_key":"ky","name":"Эл Пилон"}
+{"id":356359348,"city_id":4628044,"language_key":"ky","name":"Эль-Родео"}
+{"id":356372284,"city_id":4628212,"language_key":"ky","name":null}
+{"id":356372823,"city_id":4628219,"language_key":"ky","name":"Санта-Круз-де-лос-Такес"}
+{"id":356372977,"city_id":4628221,"language_key":"ky","name":"Көз карандысыздык"}
+{"id":356376519,"city_id":4628267,"language_key":"ky","name":"Ел Йунко"}
+{"id":356377597,"city_id":4628281,"language_key":"ky","name":"Маризапа"}
+{"id":356381370,"city_id":4628330,"language_key":"ky","name":"Гарциа де Хевиа Муниципалиты"}

@@ -1,0 +1,740 @@
+{"id":31547,"country":"AL","region":"AL-12","name":"Xarre","native_name":"Komuna Xarrë","population":4263,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31571,"country":"AL","region":"AL-12","name":"Sarande","native_name":"Sarandë","population":22613,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31575,"country":"AL","region":"AL-05","name":"Radat","native_name":"Radat","population":116,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31597,"country":"AL","region":"AL-12","name":"Mesopotam","native_name":"Mesopotam","population":2786,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31598,"country":"AL","region":"AL-12","name":"Markat","native_name":"Komuna Markat","population":1859,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31607,"country":"AL","region":"AL-12","name":"Livadhja","native_name":"Livadhja","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31614,"country":"AL","region":"AL-12","name":"Krongj","native_name":"Krongj","population":202,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31619,"country":"AL","region":"AL-12","name":"Konispol","native_name":"Konispol","population":1736,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31632,"country":"AL","region":"AL-05","name":"Kakavije","native_name":"Kakavijë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31642,"country":"AL","region":"AL-05","name":"Gline","native_name":"Glinë","population":514,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31646,"country":"AL","region":"AL-12","name":"Finiq","native_name":"Njësia administrative Finiq","population":6373,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31652,"country":"AL","region":"AL-12","name":"Dhiver","native_name":"Komuna Dhivër","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31654,"country":"AL","region":"AL-12","name":"Delvine","native_name":"Delvinë","population":5800,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31669,"country":"AL","region":"AL-12","name":"Aliko","native_name":"Komuna Aliko","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31675,"country":"AL","region":"AL-06","name":"Bucimas","native_name":"Buçimas","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31679,"country":"AL","region":"AL-01","name":"Dhores","native_name":"Dhorës","population":53,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31680,"country":"AL","region":"AL-09","name":"Zogjaj","native_name":"Zogjaj","population":497,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31681,"country":"AL","region":"AL-01","name":"Zogas","native_name":"Zogas","population":116,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31687,"country":"AL","region":"AL-06","name":"Zicisht","native_name":"Ziçisht","population":394,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31689,"country":"AL","region":"AL-01","name":"Zhepe","native_name":"Zhepë","population":779,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31693,"country":"AL","region":"AL-03","name":"Zgosht","native_name":"Zgosht","population":927,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31697,"country":"AL","region":"AL-01","name":"Zgerbonje","native_name":"Zgërbonjë","population":669,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31698,"country":"AL","region":"AL-09","name":"Zerqan","native_name":"Zerqan","population":4111,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31700,"country":"AL","region":"AL-09","name":"Zenisht","native_name":"Zenisht","population":1138,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31706,"country":"AL","region":"AL-03","name":"Zavaline","native_name":"Zavalinë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31708,"country":"AL","region":"AL-06","name":"Zaroshke","native_name":"Zaroshkë","population":364,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31709,"country":"AL","region":"AL-07","name":"Zapod","native_name":"Zapod","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31711,"country":"AL","region":"AL-01","name":"Zaloshnje","native_name":"Zaloshnjë","population":119,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31715,"country":"AL","region":"AL-09","name":"Zall-Rec","native_name":"Zall-Reç","population":14688,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31716,"country":"AL","region":"AL-07","name":"Zall","native_name":"Zallë","population":385,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31719,"country":"AL","region":"AL-09","name":"Zall-Dardhe","native_name":"Zall-Dardhë","population":769,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31729,"country":"AL","region":"AL-09","name":"Xiber-Hane","native_name":"Xibër-Hane","population":857,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31730,"country":"AL","region":"AL-09","name":"Xiber-Murrize","native_name":"Xibër-Murriz","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31742,"country":"AL","region":"AL-07","name":"Vrrin","native_name":"Vërrijë","population":119,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31744,"country":"AL","region":"AL-06","name":"Vreshtas","native_name":"Vreshtas","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31749,"country":"AL","region":"AL-06","name":"Vranisht","native_name":"Vranisht","population":911,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31750,"country":"AL","region":"AL-06","name":"Voskopoje","native_name":"Voskopoja","population":1283,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31751,"country":"AL","region":"AL-06","name":"Voskop","native_name":"Voskop","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31752,"country":"AL","region":"AL-01","name":"Vokopole","native_name":"Vokopolë","population":170,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31754,"country":"AL","region":"AL-01","name":"Vojnik","native_name":"Vojnik","population":181,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31755,"country":"AL","region":"AL-01","name":"Vodice","native_name":"Vodicë","population":570,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31757,"country":"AL","region":"AL-01","name":"Vlushe","native_name":"Vlushë","population":115,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31762,"country":"AL","region":"AL-09","name":"Vlashaj","native_name":"Vlashaj","population":177,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31765,"country":"AL","region":"AL-06","name":"Vithkuq","native_name":"Vithkuqi","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31766,"country":"AL","region":"AL-05","name":"Vithkuq","native_name":"Vithkuq","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31767,"country":"AL","region":"AL-01","name":"Visocke","native_name":"Visockë","population":65,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31769,"country":"AL","region":"AL-06","name":"Vishocice","native_name":"Vishocicë","population":924,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31779,"country":"AL","region":"AL-07","name":"Vile","native_name":"Vilë","population":258,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31782,"country":"AL","region":"AL-06","name":"Vidohove","native_name":"Vidohovë","population":740,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31785,"country":"AL","region":"AL-01","name":"Veseshte","native_name":"Veseshtë","population":88,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31786,"country":"AL","region":"AL-01","name":"Verzhezhe","native_name":"Vërzhezhë","population":335,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31787,"country":"AL","region":"AL-01","name":"Vertop","native_name":"Vërtop","population":4919,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31794,"country":"AL","region":"AL-12","name":"Vergo","native_name":"Komuna Vergo","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31798,"country":"AL","region":"AL-01","name":"Vendresha e Vogel","native_name":"Vendresha e Vogël","population":118,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31799,"country":"AL","region":"AL-01","name":"Vendreshe e Malit","native_name":"Vendreshë e Malit","population":72,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31800,"country":"AL","region":"AL-01","name":"Vendresha e Madhe","native_name":"Vendresha e Madhe","population":232,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31803,"country":"AL","region":"AL-01","name":"Veleshnje","native_name":"Veleshnjë","population":54,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31805,"country":"AL","region":"AL-06","name":"Velcan","native_name":"Velçan (Komuna Velçan)","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31815,"country":"AL","region":"AL-05","name":"Vanister","native_name":"Vanistër","population":288,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31818,"country":"AL","region":"AL-01","name":"Vale","native_name":"Valë","population":81,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31825,"country":"AL","region":"AL-09","name":"Ushtelence","native_name":"Ushtelencë","population":1097,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31826,"country":"AL","region":"AL-09","name":"Urxalle","native_name":"Urxallë","population":249,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31831,"country":"AL","region":"AL-07","name":"Ujmisht","native_name":"Ujmisht","population":1136,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31835,"country":"AL","region":"AL-06","name":"Udenisht","native_name":"Udënisht","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31840,"country":"AL","region":"AL-03","name":"Tunje","native_name":"Tunjë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31844,"country":"AL","region":"AL-09","name":"Tucep","native_name":"Tuçep","population":330,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31847,"country":"AL","region":"AL-01","name":"Turbohove","native_name":"Turbohovë","population":67,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31858,"country":"AL","region":"AL-03","name":"Tregan","native_name":"Komuna Tregan","population":3036,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31860,"country":"AL","region":"AL-09","name":"Trebisht-Mucine","native_name":"Trebisht-Muçinë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31863,"country":"AL","region":"AL-06","name":"Trebinje","native_name":"Trebinjë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31866,"country":"AL","region":"AL-01","name":"Trebel","native_name":"Trebël","population":64,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31870,"country":"AL","region":"AL-01","name":"Tozhar","native_name":"Tozhar","population":180,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31878,"country":"AL","region":"AL-05","name":"Topojan","native_name":"Topojan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31879,"country":"AL","region":"AL-01","name":"Tomor i Madh","native_name":"Tomor i Madh","population":793,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31880,"country":"AL","region":"AL-09","name":"Tomin","native_name":"Tomin","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31884,"country":"AL","region":"AL-01","name":"Therepel","native_name":"Therepel","population":255,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31888,"country":"AL","region":"AL-01","name":"Terrove","native_name":"Tërrovë","population":52,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31895,"country":"AL","region":"AL-05","name":"Tepelene","native_name":"Tepelenë","population":6761,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31896,"country":"AL","region":"AL-01","name":"Teman","native_name":"Teman","population":151,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31909,"country":"AL","region":"AL-07","name":"Surroj","native_name":"Surroj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31912,"country":"AL","region":"AL-03","name":"Sult","native_name":"Sult","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31913,"country":"AL","region":"AL-06","name":"Sul","native_name":"Sul","population":1301,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31914,"country":"AL","region":"AL-05","name":"Suke","native_name":"Sukë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31918,"country":"AL","region":"AL-09","name":"Suc","native_name":"Suç","population":984,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31920,"country":"AL","region":"AL-01","name":"Strore","native_name":"Strorë","population":113,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31923,"country":"AL","region":"AL-06","name":"Stropan","native_name":"Stropan","population":686,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31928,"country":"AL","region":"AL-03","name":"Stravaj","native_name":"Stravaj","population":2427,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31930,"country":"AL","region":"AL-01","name":"Straficke","native_name":"Strafickë","population":72,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31935,"country":"AL","region":"AL-03","name":"Stebleve","native_name":"Steblevë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31936,"country":"AL","region":"AL-09","name":"Stavec","native_name":"Staveç","population":112,"status":4,"native_status":"hamlet","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31937,"country":"AL","region":"AL-06","name":"Starje","native_name":"Starje","population":300,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31947,"country":"AL","region":"AL-01","name":"Spathare","native_name":"Spatharë","population":183,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31960,"country":"AL","region":"AL-09","name":"Sofracan","native_name":"Sofraçan","population":273,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31963,"country":"AL","region":"AL-09","name":"Sllove","native_name":"Sllovë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31969,"country":"AL","region":"AL-06","name":"Skorovot","native_name":"Skorovot","population":87,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31970,"country":"AL","region":"AL-05","name":"Skore","native_name":"Skore","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31972,"country":"AL","region":"AL-03","name":"Skenderbegas","native_name":"Skënderbegas","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31975,"country":"AL","region":"AL-07","name":"Skavice","native_name":"Skavicë","population":160,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31983,"country":"AL","region":"AL-03","name":"Shushice","native_name":"Shushicë","population":8731,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31984,"country":"AL","region":"AL-09","name":"Shupenze","native_name":"Shupenzë","population":3083,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31988,"country":"AL","region":"AL-09","name":"Shulbater","native_name":"Shulbatër","population":445,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31994,"country":"AL","region":"AL-07","name":"Shtiqen","native_name":"Shtiqën","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":31999,"country":"AL","region":"AL-03","name":"Shtemaj","native_name":"Shtëmaj","population":218,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32004,"country":"AL","region":"AL-09","name":"Shqefen","native_name":"Shqefën","population":223,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32009,"country":"AL","region":"AL-09","name":"Shoshaj","native_name":"Shoshaj","population":492,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32015,"country":"AL","region":"AL-09","name":"Shkalle","native_name":"Shkallë","population":602,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32016,"country":"AL","region":"AL-07","name":"Shishtavec","native_name":"Shishtavec","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32017,"country":"AL","region":"AL-03","name":"Shirgjan","native_name":"Shirgjan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32032,"country":"AL","region":"AL-08","name":"Shengjin","native_name":"Shëngjin","population":6805,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32037,"country":"AL","region":"AL-07","name":"Shenmeri","native_name":"Shëmri","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32058,"country":"AL","region":"AL-01","name":"Pellumbas","native_name":"Pëllumbas","population":466,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32061,"country":"AL","region":"AL-09","name":"Selishte","native_name":"Selishtë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32072,"country":"AL","region":"AL-01","name":"Selan","native_name":"Selan","population":92,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32076,"country":"AL","region":"AL-05","name":"Saraqinishte","native_name":"Saraqinisht","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32085,"country":"AL","region":"AL-09","name":"Rukaj","native_name":"Rukaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32088,"country":"AL","region":"AL-09","name":"Rripe","native_name":"Rripë","population":514,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32089,"country":"AL","region":"AL-03","name":"Rrile","native_name":"Rrilë","population":342,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32090,"country":"AL","region":"AL-09","name":"Rreth Kale","native_name":"Rreth Kale","population":706,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32092,"country":"AL","region":"AL-09","name":"Rremull","native_name":"Rremull","population":906,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32095,"country":"AL","region":"AL-03","name":"Rajce","native_name":"Rrajcë","population":8421,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32098,"country":"AL","region":"AL-01","name":"Roshnik Qender","native_name":"Roshnik","population":2513,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32105,"country":"AL","region":"AL-07","name":"Resk","native_name":"Resk","population":134,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32106,"country":"AL","region":"AL-08","name":"Reps","native_name":"Reps","population":900,"status":3,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32124,"country":"AL","region":"AL-09","name":"Radovesh","native_name":"Radovesh","population":366,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32131,"country":"AL","region":"AL-01","name":"Radesh","native_name":"Radësh","population":252,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32136,"country":"AL","region":"AL-06","name":"Qyteze","native_name":"Qyteza","population":57,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32139,"country":"AL","region":"AL-03","name":"Qukes-Skenderbe","native_name":"Qukës-Skënderbe","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32140,"country":"AL","region":"AL-03","name":"Qukes-Shkumbin","native_name":"Qukës-Shkumbin","population":650,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32144,"country":"AL","region":"AL-06","name":"Qinam","native_name":"Qinam","population":903,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32148,"country":"AL","region":"AL-05","name":"Qestorat","native_name":"Qestorat","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32154,"country":"AL","region":"AL-01","name":"Qereshnik","native_name":"Qereshnik","population":1105,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32163,"country":"AL","region":"AL-10","name":"Qafemal","native_name":"Qafë-Mali","population":1548,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32164,"country":"AL","region":"AL-01","name":"Qafe-Dardhe","native_name":"Qafë-Dardhë","population":343,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32174,"country":"AL","region":"AL-03","name":"Perrenjas-Fshat","native_name":"Prrenjas-Fshat","population":4015,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32175,"country":"AL","region":"AL-03","name":"Perrenjas","native_name":"Prrenjas","population":12308,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32177,"country":"AL","region":"AL-06","name":"Proptisht","native_name":"Komuna Proptisht","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32179,"country":"AL","region":"AL-06","name":"Proger","native_name":"Progër (Komuna Progër)","population":965,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32193,"country":"AL","region":"AL-01","name":"Potom","native_name":"Potom","population":672,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32200,"country":"AL","region":"AL-03","name":"Porocan","native_name":"Poroçan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32206,"country":"AL","region":"AL-06","name":"Poncare","native_name":"Ponçarë","population":1073,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32210,"country":"AL","region":"AL-03","name":"Polis-Gostime","native_name":"Polis","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32212,"country":"AL","region":"AL-01","name":"Polican","native_name":"Poliçan","population":8762,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32213,"country":"AL","region":"AL-05","name":"Polican","native_name":"Poliçan","population":4318,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32214,"country":"AL","region":"AL-06","name":"Polene","native_name":"Polenë","population":752,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32216,"country":"AL","region":"AL-06","name":"Pojan","native_name":"Pojan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32217,"country":"AL","region":"AL-06","name":"Pogradec","native_name":"Pogradeci","population":46070,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32220,"country":"AL","region":"AL-09","name":"Podgorce","native_name":"Podgorcë","population":256,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32233,"country":"AL","region":"AL-06","name":"Plase","native_name":"Plasë","population":1532,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32245,"country":"AL","region":"AL-03","name":"Pishaj","native_name":"Pishaj","population":4906,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32246,"country":"AL","region":"AL-06","name":"Pirg","native_name":"Pirgu","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32248,"country":"AL","region":"AL-06","name":"Pilur","native_name":"Pilur","population":1477,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32252,"country":"AL","region":"AL-05","name":"Gjinkar","native_name":"Komuna Petran","population":3243,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32253,"country":"AL","region":"AL-05","name":"Petran","native_name":"Petran","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32254,"country":"AL","region":"AL-09","name":"Petralbe","native_name":"Petralbë","population":464,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32258,"country":"AL","region":"AL-01","name":"Peshtan","native_name":"Peshtan","population":396,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32261,"country":"AL","region":"AL-09","name":"Peshkopi","native_name":"Peshkopia","population":14710,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32267,"country":"AL","region":"AL-05","name":"Permet","native_name":"Përmet","population":7980,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32268,"country":"AL","region":"AL-01","name":"Perisnake","native_name":"Perisnakë","population":103,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32283,"country":"AL","region":"AL-01","name":"Paraspuar","native_name":"Paraspuar","population":111,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32295,"country":"AL","region":"AL-09","name":"Ostreni i Math","native_name":"Ostren i Madh","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32298,"country":"AL","region":"AL-01","name":"Osoje","native_name":"Osojë","population":110,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32300,"country":"AL","region":"AL-07","name":"Osmanaj","native_name":"Osmanaj","population":625,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32304,"country":"AL","region":"AL-08","name":"Orosh","native_name":"Orosh","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32305,"country":"AL","region":"AL-06","name":"Ciflig","native_name":"Çiflig","population":1042,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32310,"country":"AL","region":"AL-03","name":"Orenje","native_name":"Orenjë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32314,"country":"AL","region":"AL-09","name":"Okshatine","native_name":"Okshatinë","population":1191,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32319,"country":"AL","region":"AL-05","name":"Odrie","native_name":"Komuna Odrie","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32322,"country":"AL","region":"AL-06","name":"Novosele","native_name":"Piskal-Novoselë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32324,"country":"AL","region":"AL-07","name":"Novosej","native_name":"Novosejë","population":77,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32326,"country":"AL","region":"AL-01","name":"Novaj","native_name":"Novaj","population":194,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32327,"country":"AL","region":"AL-05","name":"Picar","native_name":"Picar (Gjirokastër)","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32332,"country":"AL","region":"AL-01","name":"Nishove","native_name":"Nishovë","population":89,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32333,"country":"AL","region":"AL-01","name":"Nishice","native_name":"Nishicë","population":125,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32349,"country":"AL","region":"AL-09","name":"Nderfushas","native_name":"Ndërfushas","population":413,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32352,"country":"AL","region":"AL-07","name":"Nange","native_name":"Nanga","population":1505,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32365,"country":"AL","region":"AL-01","name":"Munushtir","native_name":"Munushtir","population":153,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32378,"country":"AL","region":"AL-03","name":"Mollas","native_name":"Mollas","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32379,"country":"AL","region":"AL-01","name":"Mollas","native_name":"Mollas","population":173,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32380,"country":"AL","region":"AL-06","name":"Mollas","native_name":"Mollasi (Kolonjë)","population":741,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32381,"country":"AL","region":"AL-06","name":"Mollaj","native_name":"Mollaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32390,"country":"AL","region":"AL-09","name":"Mishter","native_name":"Mishtër","population":870,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32391,"country":"AL","region":"AL-06","name":"Miras","native_name":"Mirasi","population":2342,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32394,"country":"AL","region":"AL-01","name":"Mimias","native_name":"Mimias","population":172,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32395,"country":"AL","region":"AL-01","name":"Melove","native_name":"Melovë","population":77,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32413,"country":"AL","region":"AL-06","name":"Menkulas","native_name":"Menkulas","population":1215,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32417,"country":"AL","region":"AL-01","name":"Mendrak","native_name":"Mëndrak","population":179,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32423,"country":"AL","region":"AL-09","name":"Melan","native_name":"Melan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32431,"country":"AL","region":"AL-01","name":"Mbrakull","native_name":"Mbrakull","population":706,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32432,"country":"AL","region":"AL-06","name":"Mborje","native_name":"Mborja","population":3850,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32440,"country":"AL","region":"AL-09","name":"Martanesh","native_name":"Martanesh","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32446,"country":"AL","region":"AL-09","name":"Maqellare","native_name":"Maqellarë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32451,"country":"AL","region":"AL-07","name":"Malqene","native_name":"Malqene","population":516,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32452,"country":"AL","region":"AL-09","name":"Mallunxe","native_name":"Mallunxë","population":481,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32453,"country":"AL","region":"AL-09","name":"Mallakaster","native_name":"Mallakastër","population":15838,"status":3,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32456,"country":"AL","region":"AL-06","name":"Maliq","native_name":"Maliqi","population":3735,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32459,"country":"AL","region":"AL-01","name":"Malinat","native_name":"Malinati","population":743,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32467,"country":"AL","region":"AL-09","name":"Majtare","native_name":"Majtarë","population":730,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32469,"country":"AL","region":"AL-09","name":"Macukull","native_name":"Macukull","population":814,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32472,"country":"AL","region":"AL-01","name":"Lybeshe","native_name":"Lybeshë","population":409,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32475,"country":"AL","region":"AL-01","name":"Luzaj","native_name":"Luzaj","population":480,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32476,"country":"AL","region":"AL-07","name":"Lusen","native_name":"Lusën","population":522,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32479,"country":"AL","region":"AL-03","name":"Lunik","native_name":"Luniku","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32491,"country":"AL","region":"AL-07","name":"Llugaj","native_name":"Llugaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32508,"country":"AL","region":"AL-09","name":"Lladomerice","native_name":"Lladomericë","population":544,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32511,"country":"AL","region":"AL-09","name":"Lis","native_name":"Lis","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32513,"country":"AL","region":"AL-06","name":"Liqenas","native_name":"Liqenas","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32515,"country":"AL","region":"AL-01","name":"Liqeth","native_name":"Liqeth","population":57,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32517,"country":"AL","region":"AL-05","name":"Lipe","native_name":"Lipë","population":351,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32524,"country":"AL","region":"AL-03","name":"Librazhd","native_name":"Librazhdi","population":15125,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32525,"country":"AL","region":"AL-06","name":"Libonik","native_name":"Libonik","population":2592,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32526,"country":"AL","region":"AL-05","name":"Libohove","native_name":"Libohova","population":2765,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32530,"country":"AL","region":"AL-03","name":"Letan","native_name":"Letan","population":459,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32534,"country":"AL","region":"AL-06","name":"Leskovik","native_name":"Leskoviku","population":2316,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32536,"country":"AL","region":"AL-01","name":"Leskove","native_name":"Leskova","population":89,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32539,"country":"AL","region":"AL-01","name":"Leshnje","native_name":"Leshnjë","population":496,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32547,"country":"AL","region":"AL-03","name":"Lenias","native_name":"Lenie","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32557,"country":"AL","region":"AL-06","name":"Lekas","native_name":"Lekas (Korçë)","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32561,"country":"AL","region":"AL-05","name":"Lazarat","native_name":"Lazarati","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32574,"country":"AL","region":"AL-06","name":"Lajthize","native_name":"Lajthizë","population":228,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32581,"country":"AL","region":"AL-03","name":"Labinot-Mal","native_name":"Labinot-Mal","population":null,"status":2,"native_status":"PPLA3","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32582,"country":"AL","region":"AL-03","name":"Labinot-Fushe","native_name":"Labinot-Fushë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32587,"country":"AL","region":"AL-03","name":"Kushove","native_name":"Kushovë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32593,"country":"AL","region":"AL-08","name":"Kurbnesh","native_name":"Kurbnesh","population":1429,"status":3,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32603,"country":"AL","region":"AL-03","name":"Kukur","native_name":"Kukur","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32605,"country":"AL","region":"AL-07","name":"Kukes","native_name":"Kukësi","population":17832,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32611,"country":"AL","region":"AL-01","name":"Kuc","native_name":"Kuç","population":58,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32613,"country":"AL","region":"AL-08","name":"Kthella e Eperme","native_name":"Kthella e Epërme","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32619,"country":"AL","region":"AL-07","name":"Krume","native_name":"Krumë","population":6006,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32626,"country":"AL","region":"AL-06","name":"Kreshove","native_name":"Kreshovë","population":214,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32630,"country":"AL","region":"AL-09","name":"Kraste","native_name":"Krasta","population":1540,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32635,"country":"AL","region":"AL-03","name":"Kozan","native_name":"Kozan","population":154,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32648,"country":"AL","region":"AL-05","name":"Kosine","native_name":"Kosinë","population":704,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32656,"country":"AL","region":"AL-06","name":"Korce","native_name":"Korçë","population":58259,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32657,"country":"AL","region":"AL-01","name":"Koprencke","native_name":"Koprenckë","population":130,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32663,"country":"AL","region":"AL-07","name":"Kolsh","native_name":"Kolsh","population":588,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32664,"country":"AL","region":"AL-05","name":"Kolonje","native_name":"Kolonjë","population":7519,"status":3,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32666,"country":"AL","region":"AL-07","name":"Kolesjan","native_name":"Kolesjan","population":945,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32672,"country":"AL","region":"AL-06","name":"Kodras","native_name":"Kodras","population":193,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32673,"country":"AL","region":"AL-03","name":"Kodovjat","native_name":"Kodovjat","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32683,"country":"AL","region":"AL-09","name":"Klos","native_name":"Klos","population":7873,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32684,"country":"AL","region":"AL-03","name":"Klos","native_name":"Klos","population":3262,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32702,"country":"AL","region":"AL-05","name":"Kelcyre","native_name":"Këlcyra","population":4400,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32707,"country":"AL","region":"AL-01","name":"Katundas","native_name":"Katundas","population":62,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32710,"country":"AL","region":"AL-09","name":"Kastriot","native_name":"Kastriot","population":9000,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32714,"country":"AL","region":"AL-01","name":"Karkanjoz","native_name":"Karkanjoz","population":467,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32716,"country":"AL","region":"AL-05","name":"Kardhiq","native_name":"Kardhiqi","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32719,"country":"AL","region":"AL-06","name":"Kapshtice","native_name":"Kapshticë","population":1064,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32720,"country":"AL","region":"AL-01","name":"Kapinove","native_name":"Kapinovë","population":575,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32721,"country":"AL","region":"AL-01","name":"Kapinove","native_name":"Kapinovë","population":78,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32732,"country":"AL","region":"AL-06","name":"Kallamas","native_name":"Tuminec","population":694,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32737,"country":"AL","region":"AL-07","name":"Kalis","native_name":"Kalis","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32742,"country":"AL","region":"AL-01","name":"Kakruke","native_name":"Kakrukë","population":277,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32755,"country":"AL","region":"AL-01","name":"Jaupas","native_name":"Jaupas","population":66,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32767,"country":"AL","region":"AL-10","name":"Iballe","native_name":"Iballa","population":231075,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32775,"country":"AL","region":"AL-03","name":"Hotolisht","native_name":"Hotolisht","population":3601,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32783,"country":"AL","region":"AL-09","name":"Homesh","native_name":"Homesh","population":1521,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32786,"country":"AL","region":"AL-06","name":"Hocisht","native_name":"Komuna Hoçisht","population":1741,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32791,"country":"AL","region":"AL-01","name":"Helmes","native_name":"Helmës","population":131,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32792,"country":"AL","region":"AL-06","name":"Helmes","native_name":"Helmës","population":290,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32794,"country":"AL","region":"AL-05","name":"Haskove","native_name":"Haskovë","population":428,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32815,"country":"AL","region":"AL-03","name":"Gurabardh","native_name":"Gurabardh","population":284,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32825,"country":"AL","region":"AL-01","name":"Greve","native_name":"Grevë","population":60,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32826,"country":"AL","region":"AL-01","name":"Grepcke","native_name":"Grepckë","population":138,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32834,"country":"AL","region":"AL-03","name":"Gramsh","native_name":"Gramshi","population":11556,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32837,"country":"AL","region":"AL-01","name":"Gradec","native_name":"Gradec","population":94,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32838,"country":"AL","region":"AL-06","name":"Grace","native_name":"Gracë","population":787,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32843,"country":"AL","region":"AL-06","name":"Grabocke","native_name":"Grabockë","population":58683,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32849,"country":"AL","region":"AL-03","name":"Gostime","native_name":"Gostimë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32852,"country":"AL","region":"AL-01","name":"Gostencke","native_name":"Gostënckë","population":78,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32855,"country":"AL","region":"AL-06","name":"Gorica e Vogel","native_name":"Goricë e Vogël","population":550,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32856,"country":"AL","region":"AL-06","name":"Gorice e Madhe","native_name":"Goricë e Madhe","population":546,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32858,"country":"AL","region":"AL-05","name":"Goranxi","native_name":"Goranxi","population":975,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32860,"country":"AL","region":"AL-06","name":"Gollomboc","native_name":"Gollomboç","population":283,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32862,"country":"AL","region":"AL-07","name":"Golaj","native_name":"Golaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32878,"country":"AL","region":"AL-09","name":"Gjorica e Siperme","native_name":"Gjoricë e Sipërme","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32884,"country":"AL","region":"AL-09","name":"Gjon","native_name":"Gjon","population":548,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32888,"country":"AL","region":"AL-05","name":"Gjirokaster","native_name":"Gjirokastër","population":21752,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32891,"country":"AL","region":"AL-03","name":"Gjinar","native_name":"Gjinar","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32892,"country":"AL","region":"AL-07","name":"Gjinaj","native_name":"Gjinaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32894,"country":"AL","region":"AL-01","name":"Gjergjove","native_name":"Gjergjovë","population":85,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32896,"country":"AL","region":"AL-03","name":"Gjergjan","native_name":"Gjergjan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32900,"country":"AL","region":"AL-07","name":"Gjegjan","native_name":"Gjegjan","population":239556,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32901,"country":"AL","region":"AL-10","name":"Gjegjan","native_name":"Gjegjan","population":913,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32918,"country":"AL","region":"AL-07","name":"Gabrice","native_name":"Gabricë","population":378,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32919,"country":"AL","region":"AL-01","name":"Fushe Peshtan","native_name":"Fushë Peshtan","population":457,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32920,"country":"AL","region":"AL-09","name":"Fushe-Muhurr","native_name":"Fushë-Muhurr","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32921,"country":"AL","region":"AL-09","name":"Fushe-Lure","native_name":"Fushë-Lurë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32923,"country":"AL","region":"AL-09","name":"Fushe-Cidhne","native_name":"Fushë-Çidhën","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32924,"country":"AL","region":"AL-09","name":"Fushe-Bulqize","native_name":"Fushë-Bulqizë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32926,"country":"AL","region":"AL-10","name":"Fushe-Arrez","native_name":"Fushë-Arrëz","population":2438,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32935,"country":"AL","region":"AL-05","name":"Frasher","native_name":"Frashëri","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32937,"country":"AL","region":"AL-01","name":"Floq","native_name":"Floq","population":62,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32942,"country":"AL","region":"AL-06","name":"Fitore","native_name":"Fitore","population":351,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32945,"country":"AL","region":"AL-10","name":"Fierze","native_name":"Fierzë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32951,"country":"AL","region":"AL-07","name":"Fajze","native_name":"Fajzë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32954,"country":"AL","region":"AL-06","name":"Erseke","native_name":"Erseka","population":7890,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32957,"country":"AL","region":"AL-03","name":"Elbasan","native_name":"Elbasani","population":100903,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32958,"country":"AL","region":"AL-06","name":"Ecmenik","native_name":"Eçmenik","population":653,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32973,"country":"AL","region":"AL-06","name":"Drithas","native_name":"Drithas","population":3266,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32975,"country":"AL","region":"AL-01","name":"Drenove","native_name":"Drenovë","population":145,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32976,"country":"AL","region":"AL-06","name":"Drenove","native_name":"Drenovë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32986,"country":"AL","region":"AL-03","name":"Dorez","native_name":"Dorëz","population":1932,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32991,"country":"AL","region":"AL-07","name":"Domaj","native_name":"Domaj","population":124,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32992,"country":"AL","region":"AL-10","name":"Dom","native_name":"Dom","population":579,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32993,"country":"AL","region":"AL-09","name":"Dom","native_name":"Dom","population":329,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":32998,"country":"AL","region":"AL-01","name":"Dobrushe","native_name":"Dobrushë","population":139,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33000,"country":"AL","region":"AL-01","name":"Dobrenj","native_name":"Dobrenj","population":72,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33001,"country":"AL","region":"AL-06","name":"Dobranj","native_name":"Dobranj","population":598,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33003,"country":"AL","region":"AL-06","name":"Diellas","native_name":"Diellas","population":524,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33004,"country":"AL","region":"AL-06","name":"Dishnice","native_name":"Dishnicë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33009,"country":"AL","region":"AL-09","name":"Deshat","native_name":"Deshat","population":258,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33014,"country":"AL","region":"AL-09","name":"Derjan","native_name":"Derjan","population":636,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33023,"country":"AL","region":"AL-01","name":"Gjerbes","native_name":"Gjerbës","population":813,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33025,"country":"AL","region":"AL-09","name":"Dars","native_name":"Dars","population":1033,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33029,"country":"AL","region":"AL-01","name":"Dardhe","native_name":"Dardhë","population":148,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33030,"country":"AL","region":"AL-06","name":"Dardhe","native_name":"Dardhë","population":502,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33035,"country":"AL","region":"AL-01","name":"Corovode","native_name":"Çorovoda","population":4051,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33036,"country":"AL","region":"AL-01","name":"Corogjaf","native_name":"Çorogjaf","population":142,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33037,"country":"AL","region":"AL-06","name":"Clirim","native_name":"Çlirim (Kolonjë)","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33038,"country":"AL","region":"AL-06","name":"Cipan","native_name":"Çipan","population":827,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33045,"country":"AL","region":"AL-06","name":"Cete","native_name":"Çetë","population":496,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33050,"country":"AL","region":"AL-01","name":"Cerove","native_name":"Cerovë","population":51,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33054,"country":"AL","region":"AL-06","name":"Cerje","native_name":"Cerjë","population":252,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33056,"country":"AL","region":"AL-01","name":"Cerice","native_name":"Cericë","population":69,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33057,"country":"AL","region":"AL-01","name":"Cerenisht","native_name":"Çerenisht","population":113,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33058,"country":"AL","region":"AL-09","name":"Cerenec i Poshtem","native_name":"Çerenec i Poshtëm","population":723,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33060,"country":"AL","region":"AL-06","name":"Cerava","native_name":"Çëravë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33063,"country":"AL","region":"AL-01","name":"Cepan","native_name":"Çepan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33069,"country":"AL","region":"AL-05","name":"Carshove","native_name":"Çarshovë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33071,"country":"AL","region":"AL-06","name":"Cangonj","native_name":"Cangonj","population":1240,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33072,"country":"AL","region":"AL-07","name":"Kokaj","native_name":"Çajë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33074,"country":"AL","region":"AL-01","name":"Buzuq","native_name":"Buzuq","population":99,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33076,"country":"AL","region":"AL-05","name":"Buz","native_name":"Buz","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33082,"country":"AL","region":"AL-07","name":"Bushtrice","native_name":"Bushtricë","population":607,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33083,"country":"AL","region":"AL-07","name":"Bushat","native_name":"Bushat","population":673,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33084,"country":"AL","region":"AL-09","name":"Burrel","native_name":"Burreli","population":10862,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33089,"country":"AL","region":"AL-09","name":"Burgajet","native_name":"Burgajet","population":1000,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33092,"country":"AL","region":"AL-09","name":"Bulqize","native_name":"Bulqiza","population":26826,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33099,"country":"AL","region":"AL-07","name":"Bujan","native_name":"Bujan","population":2550,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33124,"country":"AL","region":"AL-03","name":"Bradashesh","native_name":"Komuna Bradashesh","population":10700,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33129,"country":"AL","region":"AL-09","name":"Borovjan","native_name":"Borovjan","population":352,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33130,"country":"AL","region":"AL-03","name":"Borove","native_name":"Borovë","population":258,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33146,"country":"AL","region":"AL-09","name":"Bllace","native_name":"Bllacë","population":385,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33147,"country":"AL","region":"AL-06","name":"Blace","native_name":"Blacë","population":1304,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33148,"country":"AL","region":"AL-08","name":"Blinisht","native_name":"Blinisht","population":312,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33150,"country":"AL","region":"AL-10","name":"Blerim","native_name":"Blerim","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33159,"country":"AL","region":"AL-06","name":"Bilisht","native_name":"Bilishti","population":7287,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33160,"country":"AL","region":"AL-06","name":"Bicke","native_name":"Bickë","population":502,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33161,"country":"AL","region":"AL-06","name":"Bicke","native_name":"Bickë","population":185,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33162,"country":"AL","region":"AL-07","name":"Bicaj","native_name":"Bicaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33172,"country":"AL","region":"AL-06","name":"Dardhas","native_name":"Komuna Dardhas","population":2182,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33183,"country":"AL","region":"AL-01","name":"Belesove","native_name":"Belesovë","population":152,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33186,"country":"AL","region":"AL-06","name":"Bejkove","native_name":"Bejkovë","population":120,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33192,"country":"AL","region":"AL-06","name":"Barmash","native_name":"Barmash","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33194,"country":"AL","region":"AL-01","name":"Bargullas","native_name":"Bargullas","population":165,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33203,"country":"AL","region":"AL-03","name":"Balez","native_name":"Balëz","population":1492,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33205,"country":"AL","region":"AL-05","name":"Ballaban","native_name":"Ballaban","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33207,"country":"AL","region":"AL-01","name":"Balibardhe","native_name":"Balibardhë","population":208,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33210,"country":"AL","region":"AL-01","name":"Backe","native_name":"Backë","population":195,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33214,"country":"AL","region":"AL-06","name":"Baban","native_name":"Baban","population":1129,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33220,"country":"AL","region":"AL-06","name":"Arrez","native_name":"Arrëza","population":600,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33223,"country":"AL","region":"AL-07","name":"Arren","native_name":"Arrën","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33225,"country":"AL","region":"AL-09","name":"Arras","native_name":"Arras","population":3055,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33237,"country":"AL","region":"AL-07","name":"Aliaj","native_name":"Aliaj","population":276,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33245,"country":"AL","region":"AL-07","name":"Bytyc","native_name":"Bytyç","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33246,"country":"AL","region":"AL-03","name":"Librazhd-Qender","native_name":"Librazhd","population":12691,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33311,"country":"AL","region":"AL-09","name":"Plepa","native_name":"Plepa","population":1203,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33314,"country":"AL","region":"AL-03","name":"Funare","native_name":"Funarë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33316,"country":"AL","region":"AL-03","name":"Kusarth","native_name":"Kusarth","population":976,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33386,"country":"AL","region":"AL-07","name":"Shpat","native_name":"Shpat","population":89,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33447,"country":"AL","region":"AL-03","name":"Lumas","native_name":"Lumas","population":837,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33486,"country":"AL","region":"AL-06","name":"Moglice","native_name":"Moglicë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33496,"country":"AL","region":"AL-01","name":"Bogove","native_name":"Bogovë","population":1098,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33505,"country":"AL","region":"AL-01","name":"Cepan","native_name":"Çepan","population":740,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33525,"country":"AL","region":"AL-01","name":"Luck","native_name":"Luçk","population":6257,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33545,"country":"AL","region":"AL-01","name":"Sharove","native_name":"Sharovë","population":125,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33598,"country":"AL","region":"AL-05","name":"Piskove","native_name":"Piskovë","population":522,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33618,"country":"AL","region":"AL-12","name":"Lukove","native_name":"Lukova","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33621,"country":"AL","region":"AL-12","name":"Ksamil","native_name":"Komuna Ksamil","population":2994,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33635,"country":"AL","region":"AL-01","name":"Zhitomi i Vogel","native_name":"Zhitom i Vogël","population":126,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33636,"country":"AL","region":"AL-01","name":"Zhitomi i Madh","native_name":"Zhitom i Madh","population":205,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33639,"country":"AL","region":"AL-04","name":"Zharrez","native_name":"Zharrëz","population":5236,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33642,"country":"AL","region":"AL-01","name":"Zhapokike","native_name":"Zhapokikë","population":84,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33650,"country":"AL","region":"AL-08","name":"Zejmen","native_name":"Zejmen","population":1630,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33655,"country":"AL","region":"AL-11","name":"Zall-Herr","native_name":"Zall-Herr","population":9389,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33658,"country":"AL","region":"AL-11","name":"Zall-Bastar","native_name":"Zall-Bastar","population":3380,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33666,"country":"AL","region":"AL-03","name":"Xherije","native_name":"Xherije","population":500,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33669,"country":"AL","region":"AL-02","name":"Xhafzotaj","native_name":"Xhafzotaj","population":12381,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33671,"country":"AL","region":"AL-12","name":"Vuno","native_name":"Vunoi","population":486,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33673,"country":"AL","region":"AL-10","name":"Vukpalaj-Bajze","native_name":"Vukpalaj","population":768,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33676,"country":"AL","region":"AL-10","name":"Vukatane","native_name":"Vukatane","population":1113,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33682,"country":"AL","region":"AL-11","name":"Vrap","native_name":"Vrapi","population":3000,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33683,"country":"AL","region":"AL-12","name":"Vranisht","native_name":"Vranisht","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33684,"country":"AL","region":"AL-07","name":"Vrana","native_name":"Vrana","population":6650,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33688,"country":"AL","region":"AL-11","name":"Vore","native_name":"Vora","population":7937,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33689,"country":"AL","region":"AL-01","name":"Vokopole","native_name":"Vokopolë","population":302,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33693,"country":"AL","region":"AL-12","name":"Vlore","native_name":"Vlorë","population":99472,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33694,"country":"AL","region":"AL-01","name":"Vlashuk","native_name":"Vlashuk","population":552,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33699,"country":"AL","region":"AL-08","name":"Vinjoll","native_name":"Vinjoll","population":450,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33701,"country":"AL","region":"AL-11","name":"Vilez","native_name":"Vilëz","population":1265,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33705,"country":"AL","region":"AL-04","name":"Vidhishte","native_name":"Vidhishtë","population":2042,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33710,"country":"AL","region":"AL-01","name":"Veterrik","native_name":"Veteriku","population":822,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33719,"country":"AL","region":"AL-10","name":"Velipoje","native_name":"Velipoja","population":5031,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33721,"country":"AL","region":"AL-01","name":"Veleshnje","native_name":"Veleshnja","population":541,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33724,"country":"AL","region":"AL-01","name":"Velcan","native_name":"Velçan","population":176,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33725,"country":"AL","region":"AL-01","name":"Velagosht","native_name":"Velagosht","population":766,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33726,"country":"AL","region":"AL-01","name":"Velabisht","native_name":"Velabishti","population":8453,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33733,"country":"AL","region":"AL-11","name":"Vaqarr","native_name":"Vaqarri","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33745,"country":"AL","region":"AL-01","name":"Uznove","native_name":"Uznovë","population":2569,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33749,"country":"AL","region":"AL-01","name":"Ura Vajgurore","native_name":"Ura Vajgurore","population":6648,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33751,"country":"AL","region":"AL-08","name":"Ungrej","native_name":"Ungrej","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33752,"country":"AL","region":"AL-01","name":"Ullinjas","native_name":"Ullinjas","population":781,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33753,"country":"AL","region":"AL-09","name":"Ulez","native_name":"Ulza","population":617,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33768,"country":"AL","region":"AL-08","name":"Tresh","native_name":"Tresh","population":1914,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33774,"country":"AL","region":"AL-04","name":"Topoje","native_name":"Topojë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33777,"country":"AL","region":"AL-11","name":"Tirana","native_name":"Tirana","population":403909,"status":1,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33779,"country":"AL","region":"AL-02","name":"Thumane","native_name":"Thumanë","population":2567,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33780,"country":"AL","region":"AL-10","name":"Theth","native_name":"Thethi","population":80,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33786,"country":"AL","region":"AL-04","name":"Terbuf","native_name":"Tërbuf","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33795,"country":"AL","region":"AL-01","name":"Tapi","native_name":"Tapi","population":1780,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33799,"country":"AL","region":"AL-01","name":"Syzes","native_name":"Syzës","population":681,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33801,"country":"AL","region":"AL-11","name":"Synej","native_name":"Komuna Synej","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33807,"country":"AL","region":"AL-02","name":"Sukth","native_name":"Sukthi","population":9173,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33813,"country":"AL","region":"AL-04","name":"Strum","native_name":"Strum","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33814,"country":"AL","region":"AL-09","name":"Stojan","native_name":"Stojan","population":655,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33817,"country":"AL","region":"AL-01","name":"Starove","native_name":"Starova","population":1043,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33822,"country":"AL","region":"AL-01","name":"Sqepur","native_name":"Sqepur","population":585,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33824,"country":"AL","region":"AL-08","name":"Spiten","native_name":"Spiten","population":1692,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33834,"country":"AL","region":"AL-01","name":"Slanice","native_name":"Slanicë","population":299,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33836,"country":"AL","region":"AL-08","name":"Skuraj","native_name":"Skuraj","population":697,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33838,"country":"AL","region":"AL-01","name":"Skrevan","native_name":"Skrevan","population":802,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33841,"country":"AL","region":"AL-01","name":"Sinje","native_name":"Sinjë","population":3351,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33845,"country":"AL","region":"AL-11","name":"Sinaballaj","native_name":"Sinaballaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33849,"country":"AL","region":"AL-08","name":"Shullaz","native_name":"Shullaz","population":1654,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33853,"country":"AL","region":"AL-02","name":"Shtraze","native_name":"Shtrazë","population":277,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33864,"country":"AL","region":"AL-08","name":"Shperdheze","native_name":"Shpërdhezë","population":270,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33876,"country":"AL","region":"AL-08","name":"Shkopet","native_name":"Shkopet","population":322,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33877,"country":"AL","region":"AL-10","name":"Shkoder","native_name":"Shkodra","population":95553,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33882,"country":"AL","region":"AL-11","name":"Shkalle","native_name":"Shkallë","population":264,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33887,"country":"AL","region":"AL-02","name":"Shijak","native_name":"Shijaku","population":14138,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33888,"country":"AL","region":"AL-03","name":"Sheze","native_name":"Shezë e Madhe","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33900,"country":"AL","region":"AL-01","name":"Sheq Gajde","native_name":"Sheq Gajdë","population":456,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33901,"country":"AL","region":"AL-01","name":"Sheqes","native_name":"Sheqës","population":382,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33906,"country":"AL","region":"AL-08","name":"Shenkoll","native_name":"Shënkoll","population":4149,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33908,"country":"AL","region":"AL-08","name":"Shengjin","native_name":"Shëngjin","population":6963,"status":3,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33912,"country":"AL","region":"AL-11","name":"Shengjergj","native_name":"Shëngjergj","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33927,"country":"AL","region":"AL-03","name":"Shales","native_name":"Shalës","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33929,"country":"AL","region":"AL-10","name":"Nicaj-Shale","native_name":"Nicaj-Shalë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33933,"country":"AL","region":"AL-12","name":"Sevaster","native_name":"Sevaster","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33939,"country":"AL","region":"AL-08","name":"Selite","native_name":"Selitë","population":425,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33941,"country":"AL","region":"AL-07","name":"Valbone","native_name":"Valbonë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33945,"country":"AL","region":"AL-12","name":"Selenice","native_name":"Selenica","population":6912,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33957,"country":"AL","region":"AL-08","name":"Sanxhak","native_name":"Sanxhak","population":5013,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33960,"country":"AL","region":"AL-01","name":"Samatice","native_name":"Samaticë","population":1249,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33963,"country":"AL","region":"AL-01","name":"Salce-Kozare","native_name":"Salcë-Kozarë","population":301,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33967,"country":"AL","region":"AL-01","name":"Sadovice","native_name":"Sadovicë","population":99,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33968,"country":"AL","region":"AL-04","name":"Ruzhdie","native_name":"Ruzhdije","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33971,"country":"AL","region":"AL-08","name":"Rubik","native_name":"Rubik","population":2826,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33980,"country":"AL","region":"AL-11","name":"Rrogozhine","native_name":"Rrogozhina","population":7049,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33982,"country":"AL","region":"AL-08","name":"Rile","native_name":"Rilë","population":1805,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33990,"country":"AL","region":"AL-08","name":"Rreshen","native_name":"Rrësheni","population":9434,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33991,"country":"AL","region":"AL-01","name":"Rerez","native_name":"Rrërës-Kumaraku","population":907,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33995,"country":"AL","region":"AL-02","name":"Rrashbull","native_name":"Rrashbull","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33997,"country":"AL","region":"AL-03","name":"Rrasa e Siperme","native_name":"Rrasa e Sipërme","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":33999,"country":"AL","region":"AL-10","name":"Rrapshe-Stare","native_name":"Rrapsh","population":813,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34002,"country":"AL","region":"AL-10","name":"Rrape","native_name":"Rrapë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34007,"country":"AL","region":"AL-04","name":"Roskovec","native_name":"Roskovec","population":6657,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34021,"country":"AL","region":"AL-04","name":"Remas","native_name":"Remas","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34022,"country":"AL","region":"AL-01","name":"Remanice","native_name":"Remanica","population":378,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34026,"country":"AL","region":"AL-01","name":"Rehovice","native_name":"Rehovicë","population":145,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34038,"country":"AL","region":"AL-04","name":"Radostine","native_name":"Radostinë","population":1867,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34039,"country":"AL","region":"AL-12","name":"Radhime","native_name":"Radhimë","population":1132,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34047,"country":"AL","region":"AL-10","name":"Qerret","native_name":"Komuna Qerret","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34055,"country":"AL","region":"AL-10","name":"Qelez","native_name":"Qelëz (Pukë)","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34063,"country":"AL","region":"AL-10","name":"Puke","native_name":"Puka","population":6495,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34065,"country":"AL","region":"AL-08","name":"Prull","native_name":"Prull","population":140,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34067,"country":"AL","region":"AL-01","name":"Protoduar","native_name":"Protoduar","population":130,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34069,"country":"AL","region":"AL-05","name":"Progonat","native_name":"Progonat","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34073,"country":"AL","region":"AL-11","name":"Preze","native_name":"Prezë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34077,"country":"AL","region":"AL-01","name":"Poshnje","native_name":"Poshnjë","population":7375,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34079,"country":"AL","region":"AL-04","name":"Portez","native_name":"Njësia administrative Portëz","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34084,"country":"AL","region":"AL-01","name":"Pobrat","native_name":"Pobrat","population":1518,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34088,"country":"AL","region":"AL-08","name":"Pllane","native_name":"Pllanë","population":2151,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34092,"country":"AL","region":"AL-01","name":"Plashniku-Dy","native_name":"Plashniku-Dy","population":236,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34093,"country":"AL","region":"AL-01","name":"Plashnik i Madh","native_name":"Plashnik i Madh","population":83,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34097,"country":"AL","region":"AL-10","name":"Pjetroshan","native_name":"Pjetroshan","population":1216,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34111,"country":"AL","region":"AL-11","name":"Peza e Madhe","native_name":"Peza e Madhe","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34112,"country":"AL","region":"AL-11","name":"Petrele","native_name":"Petrelë","population":5542,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34118,"country":"AL","region":"AL-03","name":"Perparim","native_name":"Përparim","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34120,"country":"AL","region":"AL-01","name":"Perondi","native_name":"Perondi","population":5568,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34127,"country":"AL","region":"AL-03","name":"Peqin","native_name":"Peqini","population":8942,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34138,"country":"AL","region":"AL-04","name":"Patos Fshat","native_name":"Patos-Fshat","population":22679,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34139,"country":"AL","region":"AL-04","name":"Patos","native_name":"Patosi","population":17114,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34140,"country":"AL","region":"AL-08","name":"Patok","native_name":"Plazhi i Patokut","population":964,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34142,"country":"AL","region":"AL-08","name":"Patalej","native_name":"Patalej","population":309,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34143,"country":"AL","region":"AL-11","name":"Paskuqan","native_name":"Paskuqan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34144,"country":"AL","region":"AL-01","name":"Pashtraj","native_name":"Pashtraj","population":168,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34146,"country":"AL","region":"AL-01","name":"Pashalli","native_name":"Pashalli","population":742,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34148,"country":"AL","region":"AL-03","name":"Paper","native_name":"Papër","population":6348,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34151,"country":"AL","region":"AL-01","name":"Palikesht","native_name":"Palikështi","population":310,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34154,"country":"AL","region":"AL-12","name":"Palase","native_name":"Palasa","population":413,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34160,"country":"AL","region":"AL-03","name":"Pajove","native_name":"Pajovë","population":7000,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34162,"country":"AL","region":"AL-01","name":"Paftal","native_name":"Paftal","population":226,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34164,"country":"AL","region":"AL-01","name":"Otllak","native_name":"Otllak","population":4980,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34166,"country":"AL","region":"AL-01","name":"Orizaj","native_name":"Orizaj","population":679,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34167,"country":"AL","region":"AL-12","name":"Orikum","native_name":"Orikumi","population":2604,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34171,"country":"AL","region":"AL-10","name":"Oblika e Siperme","native_name":"Oblika e Sipërme","population":297,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34176,"country":"AL","region":"AL-12","name":"Novosele","native_name":"Novoselë","population":8209,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34179,"country":"AL","region":"AL-02","name":"Nikel","native_name":"Nikël","population":9518,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34182,"country":"AL","region":"AL-10","name":"Nicaj-Shosh","native_name":"Nicaj-Shosh","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34186,"country":"AL","region":"AL-04","name":"Ngracan","native_name":"Ngraçan","population":588,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34190,"country":"AL","region":"AL-11","name":"Ndroq","native_name":"Ndroq","population":5035,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34208,"country":"AL","region":"AL-11","name":"Murth","native_name":"Murth","population":166,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34231,"country":"AL","region":"AL-01","name":"Morave","native_name":"Moravë","population":1459,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34235,"country":"AL","region":"AL-01","name":"Molisht","native_name":"Molisht","population":390,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34245,"country":"AL","region":"AL-08","name":"Milot","native_name":"Milot","population":2157,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34271,"country":"AL","region":"AL-05","name":"Memaliaj","native_name":"Memaliaj","population":4951,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34279,"country":"AL","region":"AL-04","name":"Mbrostar-Ure","native_name":"Mbrostar","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34280,"country":"AL","region":"AL-01","name":"Mbreshtan","native_name":"Mbreshtan","population":280,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34281,"country":"AL","region":"AL-01","name":"Mbolan","native_name":"Mbolan","population":216,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34282,"country":"AL","region":"AL-01","name":"Mbjeshove","native_name":"Mbjeshovë","population":472,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34307,"country":"AL","region":"AL-02","name":"Manze","native_name":"Manëz","population":7185,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34308,"country":"AL","region":"AL-08","name":"Manati","native_name":"Manati","population":1603,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34310,"country":"AL","region":"AL-08","name":"Mamurras","native_name":"Mamurras","population":8282,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34311,"country":"AL","region":"AL-02","name":"Maminas","native_name":"Maminas","population":1018,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34315,"country":"AL","region":"AL-02","name":"Mallkuc","native_name":"Mallkuç","population":5460,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34326,"country":"AL","region":"AL-01","name":"Malas Grope","native_name":"Malas Gropa","population":273,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34327,"country":"AL","region":"AL-01","name":"Malas Breg","native_name":"Malas Breg","population":224,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34332,"country":"AL","region":"AL-01","name":"Magjate","native_name":"Magjatë","population":1637,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34336,"country":"AL","region":"AL-11","name":"Luzi i Vogel","native_name":"Luzi i Vogël","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34339,"country":"AL","region":"AL-04","name":"Lushnje","native_name":"Lushnja","population":61568,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34340,"country":"AL","region":"AL-08","name":"Lurth","native_name":"Lurth","population":312,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34349,"country":"AL","region":"AL-05","name":"Luftinje","native_name":"Komuna Luftinjë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34375,"country":"AL","region":"AL-04","name":"Libofshe","native_name":"Libofshë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34376,"country":"AL","region":"AL-08","name":"Lezhe","native_name":"Lezha","population":18695,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34381,"country":"AL","region":"AL-04","name":"Levan","native_name":"Levan","population":738,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34382,"country":"AL","region":"AL-01","name":"Levan","native_name":"Levan","population":280,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34394,"country":"AL","region":"AL-07","name":"Lekbibaj","native_name":"Lekbibaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34397,"country":"AL","region":"AL-11","name":"Lekaj","native_name":"Lekaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34405,"country":"AL","region":"AL-01","name":"Lapardha Nje","native_name":"Lapardha Një","population":1724,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34420,"country":"AL","region":"AL-08","name":"Lac","native_name":"Laçi","population":14970,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34421,"country":"AL","region":"AL-04","name":"Kute","native_name":"Kutë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34422,"country":"AL","region":"AL-01","name":"Kutalli","native_name":"Kutalli","population":9643,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34430,"country":"AL","region":"AL-04","name":"Kurjan","native_name":"Kurjan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34436,"country":"AL","region":"AL-04","name":"Kuman","native_name":"Kuman","population":2013,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34444,"country":"AL","region":"AL-01","name":"Kucove","native_name":"Kuçova","population":18166,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34446,"country":"AL","region":"AL-10","name":"Kuc","native_name":"Kuç","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34448,"country":"AL","region":"AL-01","name":"Kuc","native_name":"Kuç","population":403,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34452,"country":"AL","region":"AL-11","name":"Kryevidh","native_name":"Kryevidh","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34457,"country":"AL","region":"AL-04","name":"Krutja e Poshtme","native_name":"Krutje e Poshtme","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34458,"country":"AL","region":"AL-02","name":"Kruje","native_name":"Kruja","population":21286,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34460,"country":"AL","region":"AL-11","name":"Krrabe","native_name":"Krrabë","population":1177,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34466,"country":"AL","region":"AL-01","name":"Krekez","native_name":"Krekëz","population":301,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34470,"country":"AL","region":"AL-05","name":"Krahes","native_name":"Komuna Krahës","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34472,"country":"AL","region":"AL-01","name":"Kozare","native_name":"Kozarë","population":5622,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34476,"country":"AL","region":"AL-12","name":"Kote","native_name":"Kotë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34483,"country":"AL","region":"AL-01","name":"Koritez","native_name":"Koritëz","population":206,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34485,"country":"AL","region":"AL-10","name":"Kopliku i Siperm","native_name":"Koplik i Sipërm","population":1259,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34486,"country":"AL","region":"AL-10","name":"Koplik","native_name":"Kopliku","population":4078,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34488,"country":"AL","region":"AL-01","name":"Konizbalte","native_name":"Konizbaltë","population":596,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34491,"country":"AL","region":"AL-09","name":"Kombesi","native_name":"Komsi","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34494,"country":"AL","region":"AL-04","name":"Kolonje","native_name":"Njësia administrative Kolonjë","population":5728,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34497,"country":"AL","region":"AL-08","name":"Kolc","native_name":"Kolsh","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34501,"country":"AL","region":"AL-09","name":"Kokerdhok","native_name":"Kokërdhok","population":173,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34533,"country":"AL","region":"AL-11","name":"Kavaje","native_name":"Kavaja","population":30012,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34537,"country":"AL","region":"AL-02","name":"Katundi i Ri","native_name":"Katund i Ri","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34539,"country":"AL","region":"AL-10","name":"Kastrat","native_name":"Kastrat","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34545,"country":"AL","region":"AL-11","name":"Kashar","native_name":"Kashari","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34552,"country":"AL","region":"AL-03","name":"Karine","native_name":"Karinë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34554,"country":"AL","region":"AL-04","name":"Karbunara e Vogel","native_name":"Karbunara e Vogël","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34564,"country":"AL","region":"AL-11","name":"Kamez","native_name":"Kamza","population":61739,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34565,"country":"AL","region":"AL-10","name":"Kamice-Flake","native_name":"Kamicë-Flakë","population":957,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34570,"country":"AL","region":"AL-01","name":"Kamcisht","native_name":"Kamçisht","population":169,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34579,"country":"AL","region":"AL-08","name":"Kallmeti i Madh","native_name":"Kallmet i Madh","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34580,"country":"AL","region":"AL-11","name":"Kallmet","native_name":"Kallmet","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34582,"country":"AL","region":"AL-10","name":"Kalldrun","native_name":"Kalldrun","population":554,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34586,"country":"AL","region":"AL-04","name":"Kalenje","native_name":"Kalenjë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34593,"country":"AL","region":"AL-03","name":"Kajan","native_name":"Kajan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34597,"country":"AL","region":"AL-08","name":"Kacinar","native_name":"Kaçinar","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34602,"country":"AL","region":"AL-10","name":"Jubice","native_name":"Jubicë","population":572,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34609,"country":"AL","region":"AL-10","name":"Jaran","native_name":"Jeras","population":661,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34616,"country":"AL","region":"AL-02","name":"Ishem","native_name":"Ishëm","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34623,"country":"AL","region":"AL-04","name":"Hysgjokaj","native_name":"Hysgjokaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34627,"country":"AL","region":"AL-10","name":"Hot","native_name":"Hot","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34630,"country":"AL","region":"AL-01","name":"Hinge","native_name":"Hingë","population":762,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34631,"country":"AL","region":"AL-12","name":"Himare","native_name":"Himarë","population":5775,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34634,"country":"AL","region":"AL-11","name":"Helmas","native_name":"Helmas","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34637,"country":"AL","region":"AL-04","name":"Hekal","native_name":"Hekal","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34639,"country":"AL","region":"AL-01","name":"Havaleas","native_name":"Havaleas","population":1214,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34648,"country":"AL","region":"AL-02","name":"Hasan","native_name":"Hasan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34658,"country":"AL","region":"AL-10","name":"Hajmel","native_name":"Hajmel","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34666,"country":"AL","region":"AL-09","name":"Gurra e Vogel","native_name":"Gurra e Vogël","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34670,"country":"AL","region":"AL-10","name":"Guri i Zi","native_name":"Guri i Zi","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34671,"country":"AL","region":"AL-01","name":"Guri i Bardhe","native_name":"Hallaxhia","population":538,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34672,"country":"AL","region":"AL-08","name":"Gurez","native_name":"Gurëz","population":2130,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34683,"country":"AL","region":"AL-10","name":"Gruemire","native_name":"Gruemirë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34691,"country":"AL","region":"AL-04","name":"Greshice","native_name":"Greshicë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34693,"country":"AL","region":"AL-03","name":"Grekan","native_name":"Grekan","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34701,"country":"AL","region":"AL-04","name":"Gradishte","native_name":"Gradishtë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34703,"country":"AL","region":"AL-03","name":"Gracen","native_name":"Gracen","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34705,"country":"AL","region":"AL-04","name":"Grabjan","native_name":"Grabian","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34707,"country":"AL","region":"AL-11","name":"Gose e Madhe","native_name":"Gosë e Madhe","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34713,"country":"AL","region":"AL-01","name":"Clirim","native_name":"Çlirim","population":1097,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34716,"country":"AL","region":"AL-01","name":"Goraj","native_name":"Goraj","population":1714,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34720,"country":"AL","region":"AL-04","name":"Golem","native_name":"Golem i Madh","population":6994,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34726,"country":"AL","region":"AL-04","name":"Gobolesh","native_name":"Gobolesh","population":1302,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34735,"country":"AL","region":"AL-10","name":"Gjuraj-Boks","native_name":"Gjuraj-Boks","population":158,"status":4,"native_status":"hamlet","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34746,"country":"AL","region":"AL-03","name":"Gjocaj","native_name":"Gjoçaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34749,"country":"AL","region":"AL-04","name":"Gjinoqare","native_name":"Gjynaqarë","population":924,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34750,"country":"AL","region":"AL-03","name":"Gjevor","native_name":"Gjevor","population":1884,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34751,"country":"AL","region":"AL-01","name":"Gjoroven","native_name":"Gjoroveni","population":540,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34753,"country":"AL","region":"AL-02","name":"Gjepalaj","native_name":"Gjepalaj","population":1310,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34755,"country":"AL","region":"AL-11","name":"Gjecaj-Koder","native_name":"Gjeçaj-Kodër","population":2931,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34759,"country":"AL","region":"AL-10","name":"Gjan","native_name":"Gjan","population":2727,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34760,"country":"AL","region":"AL-08","name":"Gjader, Dajc","native_name":"Gjadëri","population":2369,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34765,"country":"AL","region":"AL-04","name":"Germenji i Vogel","native_name":"Gërmenj i Vogël","population":230,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34766,"country":"AL","region":"AL-04","name":"Germenj i Madh","native_name":"Gërmenj i Madh","population":884,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34768,"country":"AL","region":"AL-09","name":"German","native_name":"Gërman","population":754,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34771,"country":"AL","region":"AL-01","name":"Gege","native_name":"Gegë","population":1571,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34780,"country":"AL","region":"AL-01","name":"Galine","native_name":"Galinë","population":211,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34781,"country":"AL","region":"AL-08","name":"Gajush","native_name":"Gajush","population":570,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34782,"country":"AL","region":"AL-01","name":"Gajde","native_name":"Gajdë","population":596,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34783,"country":"AL","region":"AL-10","name":"Gagu","native_name":"Gagu","population":5468,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34785,"country":"AL","region":"AL-11","name":"Fushe-Preze","native_name":"Fushë-Prezë","population":537,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34787,"country":"AL","region":"AL-08","name":"Fushekuqe","native_name":"Fushëkuqe","population":1058,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34788,"country":"AL","region":"AL-02","name":"Fushe-Kruje","native_name":"Fushë-Krujë","population":10458,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34793,"country":"AL","region":"AL-12","name":"Ftere","native_name":"Fterra","population":168,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34795,"country":"AL","region":"AL-04","name":"Fratar","native_name":"Njësia administrative Fratar","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34796,"country":"AL","region":"AL-01","name":"Frasher","native_name":"Frashër","population":254,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34798,"country":"AL","region":"AL-09","name":"Frankth","native_name":"Frankth","population":870,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34799,"country":"AL","region":"AL-04","name":"Frakulla e Madhe","native_name":"Frakull e Madhe","population":1155,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34805,"country":"AL","region":"AL-08","name":"Fierze","native_name":"Fierzë","population":390,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34806,"country":"AL","region":"AL-04","name":"Fier-Shegan","native_name":"Fier-Shegan","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34808,"country":"AL","region":"AL-01","name":"Fier Mimar","native_name":"Fier Mimar","population":476,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34811,"country":"AL","region":"AL-04","name":"Fier","native_name":"Fier","population":56291,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34814,"country":"AL","region":"AL-08","name":"Ferr-Shkopet","native_name":"Ferr-Shkopet","population":278,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34816,"country":"AL","region":"AL-01","name":"Feras Kozare","native_name":"Feras Kozare","population":168,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34822,"country":"AL","region":"AL-11","name":"Farka e Madhe","native_name":"Farkë e Madhe","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34828,"country":"AL","region":"AL-01","name":"Dushnik","native_name":"Dushnik","population":1629,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34829,"country":"AL","region":"AL-12","name":"Shkalle Mavrove","native_name":"Shkallë Mavrovë","population":168,"status":4,"native_status":"hamlet","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34839,"country":"AL","region":"AL-02","name":"Durres","native_name":"Durrësi","population":130566,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34841,"country":"AL","region":"AL-12","name":"Dukati i Ri","native_name":"Dukati i Ri","population":322,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34846,"country":"AL","region":"AL-02","name":"Dukagjini i Ri","native_name":"Dukagjini i Ri","population":920,"status":4,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34847,"country":"AL","region":"AL-01","name":"Duhanas","native_name":"Duhanasi","population":1274,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34849,"country":"AL","region":"AL-01","name":"Drobonik","native_name":"Droboniku","population":615,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34850,"country":"AL","region":"AL-01","name":"Drize","native_name":"Drizë","population":593,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34854,"country":"AL","region":"AL-09","name":"Drite","native_name":"Dritë","population":452,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34855,"country":"AL","region":"AL-08","name":"Drite","native_name":"Dritë","population":863,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34858,"country":"AL","region":"AL-01","name":"Drenovice","native_name":"Drenovicë","population":1907,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34859,"country":"AL","region":"AL-04","name":"Drenove","native_name":"Drenovë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34860,"country":"AL","region":"AL-04","name":"Drenie","native_name":"Drenije","population":1746,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34862,"country":"AL","region":"AL-03","name":"Drangaj","native_name":"Drangaj","population":90431,"status":3,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34873,"country":"AL","region":"AL-01","name":"Donofrose","native_name":"Donofrosë","population":729,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34874,"country":"AL","region":"AL-11","name":"Domje","native_name":"Domje","population":139,"status":4,"native_status":"hamlet","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34880,"country":"AL","region":"AL-10","name":"Dober","native_name":"Dobër (Malësi e Madhe)","population":693,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34881,"country":"AL","region":"AL-04","name":"Divjake","native_name":"Divjakë","population":6957,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34883,"country":"AL","region":"AL-12","name":"Dhermi","native_name":"Dhërmiu","population":1800,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34887,"country":"AL","region":"AL-04","name":"Dermenas","native_name":"Dërmenas","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34892,"country":"AL","region":"AL-08","name":"Delbnisht","native_name":"Delbnisht","population":2108,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34893,"country":"AL","region":"AL-10","name":"Vau i Dejes","native_name":"Vau i Dejës","population":8117,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34896,"country":"AL","region":"AL-12","name":"Davidaj","native_name":"Davidaj","population":688,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34906,"country":"AL","region":"AL-11","name":"Dajt","native_name":"Njësia administrative Dajt","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34907,"country":"AL","region":"AL-10","name":"Dajc","native_name":"Dajç","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34908,"country":"AL","region":"AL-08","name":"Dajc","native_name":"Dajç","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34910,"country":"AL","region":"AL-07","name":"Curraj i Eperm","native_name":"Curraj i Sipërm","population":70,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34912,"country":"AL","region":"AL-04","name":"Cukasi i Ri","native_name":"Çukas i Ri","population":1193,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34914,"country":"AL","region":"AL-01","name":"Cukalat","native_name":"Cukalat","population":3045,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34915,"country":"AL","region":"AL-02","name":"Cudhi Zall","native_name":"Cudhi Zall","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34917,"country":"AL","region":"AL-04","name":"Corrush","native_name":"Çorrush","population":150,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34931,"country":"AL","region":"AL-11","name":"Cete","native_name":"Çetë","population":1314,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34935,"country":"AL","region":"AL-03","name":"Cerrik","native_name":"Cërriku","population":14269,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34954,"country":"AL","region":"AL-04","name":"Cakran","native_name":"Cakran","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34957,"country":"AL","region":"AL-10","name":"Bzhete","native_name":"Bzhetë","population":3765,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34961,"country":"AL","region":"AL-09","name":"Bushkash","native_name":"Bushkash","population":737,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34962,"country":"AL","region":"AL-10","name":"Bushat","native_name":"Bushat","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34970,"country":"AL","region":"AL-08","name":"Bulshize","native_name":"Bulshizë","population":199,"status":4,"native_status":"hamlet","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34971,"country":"AL","region":"AL-11","name":"Bulcesh","native_name":"Bulçesh","population":1162,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34975,"country":"AL","region":"AL-04","name":"Bubullime","native_name":"Bubullimë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34976,"country":"AL","region":"AL-02","name":"Bubq","native_name":"Bubq","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34990,"country":"AL","region":"AL-10","name":"Breg","native_name":"Breg","population":733,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34991,"country":"AL","region":"AL-10","name":"Bratosh","native_name":"Bratosh","population":530,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":34992,"country":"AL","region":"AL-12","name":"Brataj","native_name":"Komuna Brataj","population":2849,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35006,"country":"AL","region":"AL-10","name":"Bogic-Palvar","native_name":"Bogiç-Palvar","population":670,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35017,"country":"AL","region":"AL-01","name":"Bistrovice","native_name":"Bistrovicë","population":17540,"status":3,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35025,"country":"AL","region":"AL-01","name":"Bilce","native_name":"Bilça","population":870,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35037,"country":"AL","region":"AL-11","name":"Berzhite","native_name":"Bërzhitë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35038,"country":"AL","region":"AL-08","name":"Berzane","native_name":"Bërzanë","population":181,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35039,"country":"AL","region":"AL-11","name":"Berxull","native_name":"Bërxullë","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35046,"country":"AL","region":"AL-10","name":"Berdica e Madhe","native_name":"Bërdica e Madhe","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35047,"country":"AL","region":"AL-01","name":"Berat","native_name":"Berati","population":62232,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35051,"country":"AL","region":"AL-03","name":"Belsh","native_name":"Belsh","population":12952,"status":2,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35057,"country":"AL","region":"AL-09","name":"Baz","native_name":"Baz","population":1153,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35068,"country":"AL","region":"AL-01","name":"Bardhaj","native_name":"Bardhaj","population":221,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35077,"country":"AL","region":"AL-01","name":"Banaj","native_name":"Banaj","population":2500,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35082,"country":"AL","region":"AL-04","name":"Ballsh","native_name":"Ballshi","population":7156,"status":2,"native_status":"City","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35089,"country":"AL","region":"AL-04","name":"Ballagat","native_name":"Ballagat","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35090,"country":"AL","region":"AL-11","name":"Baldushk","native_name":"Baldushku","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35094,"country":"AL","region":"AL-10","name":"Ivanaj","native_name":"Ivanaj","population":789,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35106,"country":"AL","region":"AL-01","name":"Arrez","native_name":"Arrëz","population":440,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35107,"country":"AL","region":"AL-12","name":"Armen","native_name":"Armen","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35115,"country":"AL","region":"AL-04","name":"Aranitas","native_name":"Aranitas","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35124,"country":"AL","region":"AL-04","name":"Allkaj","native_name":"Allkaj","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35127,"country":"AL","region":"AL-01","name":"Allambres","native_name":"Allambrez","population":1079,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35129,"country":"AL","region":"AL-08","name":"Alk","native_name":"Alk","population":330,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35251,"country":"AL","region":"AL-11","name":"Golem","native_name":"Golem","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35253,"country":"AL","region":"AL-08","name":"Balldreni i Ri","native_name":"Balldreni i Ri","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35264,"country":"AL","region":"AL-10","name":"Aliaj","native_name":"Aliaj","population":1033,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35317,"country":"AL","region":"AL-10","name":"Bajze","native_name":"Bajza","population":2346,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35319,"country":"AL","region":"AL-10","name":"Sterbeq","native_name":"Stërbeq","population":636,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35323,"country":"AL","region":"AL-10","name":"Grude-Fushe","native_name":"Grudë-Fushë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35361,"country":"AL","region":"AL-08","name":"Fushe-Milot","native_name":"Fushë-Milot","population":2057,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35362,"country":"AL","region":"AL-08","name":"Uje","native_name":"Ujë","population":202,"status":4,"native_status":"hamlet","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35363,"country":"AL","region":"AL-09","name":"Lac","native_name":"Laç","population":1032,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35371,"country":"AL","region":"AL-11","name":"Koder-Vore","native_name":"Kodër-Vorë","population":1568,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35402,"country":"AL","region":"AL-03","name":"Fierze","native_name":"Komuna Fierzë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35404,"country":"AL","region":"AL-01","name":"Agim","native_name":"Agim","population":258,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35470,"country":"AL","region":"AL-01","name":"Lapardha Dy","native_name":"Lapardha Dy","population":1628,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35471,"country":"AL","region":"AL-01","name":"Rreth Tapi","native_name":"Rreth Tapi","population":771,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35472,"country":"AL","region":"AL-04","name":"Dushk","native_name":"Dushk","population":null,"status":2,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35487,"country":"AL","region":"AL-01","name":"Ciflik","native_name":"Çfliku","population":774,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35508,"country":"AL","region":"AL-01","name":"Gorican","native_name":"Goriçan","population":766,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35510,"country":"AL","region":"AL-01","name":"Vodez","native_name":"Vodëz","population":396,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35515,"country":"AL","region":"AL-01","name":"Bregas","native_name":"Bregas","population":240,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35598,"country":"AL","region":"AL-01","name":"Bardhaj i Ri","native_name":"Bardhaj i Ri","population":314,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35606,"country":"AL","region":"AL-04","name":"Selite","native_name":"Selitë","population":null,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35609,"country":"AL","region":"AL-12","name":"Vllahine","native_name":"Komuna Vllahinë","population":3111,"status":2,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35654,"country":"AL","region":"AL-07","name":"Bajram Curri","native_name":"Bajram Curri","population":5340,"status":2,"native_status":"town","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35656,"country":"AL","region":"AL-12","name":"Butrint","native_name":"Butrint","population":100,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35657,"country":"AL","region":"AL-06","name":"Xhafellare, Gjonc","native_name":"Xhafellare, Gjonç","population":50,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35658,"country":"AL","region":"AL-06","name":"Rips , Gjonc","native_name":"Rips , Gjonç","population":100,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35659,"country":"AL","region":"AL-06","name":"Evrenezas","native_name":"Evrenezas","population":200,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35665,"country":"AL","region":"AL-07","name":"Tropoje","native_name":"Tropojë","population":14189,"status":3,"native_status":"Municipality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35682,"country":"AL","region":"AL-01","name":"Roshnik i Vogel","native_name":"Roshnik i Vogël","population":99,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35683,"country":"AL","region":"AL-01","name":"Osmenzeze 1","native_name":"Osmenzezë 1","population":181,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35684,"country":"AL","region":"AL-01","name":"Osmenzeze 2","native_name":"Osmenzezë 2","population":166,"status":4,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35685,"country":"AL","region":"AL-01","name":"Cete","native_name":"Çetë","population":307,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35686,"country":"AL","region":"AL-01","name":"Perparim","native_name":"Përparim","population":77,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35687,"country":"AL","region":"AL-01","name":"Lugas","native_name":"Lugas","population":88,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35688,"country":"AL","region":"AL-01","name":"Lumas","native_name":"Lumas","population":3981,"status":4,"native_status":"village","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}
+{"id":35689,"country":"AL","region":"AL-01","name":"Qender Skrapar","native_name":"Qendër Skrapar","population":2545,"status":3,"native_status":"locality","timezone_utc":"UTC+1","timezone_iana":"Europe/Tirane"}

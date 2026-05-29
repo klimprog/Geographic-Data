@@ -1,0 +1,885 @@
+{"id":354793482,"city_id":4607708,"language_key":"mk","name":"Санта Марија"}
+{"id":354793559,"city_id":4607709,"language_key":"mk","name":"Санта Инес"}
+{"id":354793713,"city_id":4607711,"language_key":"mk","name":"Сан Франциско"}
+{"id":354794021,"city_id":4607715,"language_key":"mk","name":"Педро Гонзалес"}
+{"id":354794714,"city_id":4607724,"language_key":"mk","name":"Лас Пиедрас"}
+{"id":354795253,"city_id":4607731,"language_key":"mk","name":"Ла Гвардија"}
+{"id":354795484,"city_id":4607734,"language_key":"mk","name":"Ла Асунсион"}
+{"id":354796408,"city_id":4607746,"language_key":"mk","name":"Ел Гуамацхе"}
+{"id":354796562,"city_id":4607748,"language_key":"mk","name":"Ел Хато"}
+{"id":354798410,"city_id":4607772,"language_key":"mk","name":"Сан Хозе"}
+{"id":354799488,"city_id":4607786,"language_key":"mk","name":"Ел Палмар"}
+{"id":354800566,"city_id":4607800,"language_key":"mk","name":"Ел Корозо"}
+{"id":354800951,"city_id":4607805,"language_key":"mk","name":"Царицуао"}
+{"id":354801490,"city_id":4607812,"language_key":"mk","name":"Тоцуыито"}
+{"id":354801721,"city_id":4607815,"language_key":"mk","name":"Сан Висенте"}
+{"id":354801798,"city_id":4607816,"language_key":"mk","name":"Сан Пабло"}
+{"id":354802183,"city_id":4607821,"language_key":"mk","name":"Педерналес"}
+{"id":354804416,"city_id":4607850,"language_key":"mk","name":"Буена Виста"}
+{"id":354804955,"city_id":4607857,"language_key":"mk","name":"Лас Виртудс"}
+{"id":354806264,"city_id":4607874,"language_key":"mk","name":"Ел Торо"}
+{"id":354807111,"city_id":4607885,"language_key":"mk","name":"Санто Доминго"}
+{"id":354807265,"city_id":4607887,"language_key":"mk","name":"Санта Роза"}
+{"id":354807727,"city_id":4607893,"language_key":"mk","name":"Санта Круз"}
+{"id":354807958,"city_id":4607896,"language_key":"mk","name":"Сан Педро"}
+{"id":354808343,"city_id":4607901,"language_key":"mk","name":"Сан Хуан"}
+{"id":354808497,"city_id":4607903,"language_key":"mk","name":"Сан Исидро"}
+{"id":354809344,"city_id":4607914,"language_key":"mk","name":"Ел Ринкон"}
+{"id":354811038,"city_id":4607936,"language_key":"mk","name":"Лас Поркерас"}
+{"id":354811192,"city_id":4607938,"language_key":"mk","name":"Ел Плејон"}
+{"id":354811346,"city_id":4607940,"language_key":"mk","name":"Ла Плаја"}
+{"id":354812039,"city_id":4607949,"language_key":"mk","name":"Ла Педрегоса"}
+{"id":354812655,"city_id":4607957,"language_key":"mk","name":"Ла Палмита"}
+{"id":354812886,"city_id":4607960,"language_key":"mk","name":"Палмарито"}
+{"id":354813194,"city_id":4607964,"language_key":"mk","name":"Лос Наранџос"}
+{"id":354815273,"city_id":4607991,"language_key":"mk","name":"Ла Меса"}
+{"id":354817352,"city_id":4608018,"language_key":"mk","name":"Хименез"}
+{"id":354817660,"city_id":4608022,"language_key":"mk","name":"Йайо"}
+{"id":354818969,"city_id":4608039,"language_key":"mk","name":"Ла Енсенада"}
+{"id":354821587,"city_id":4608073,"language_key":"mk","name":"Ла Сеиба"}
+{"id":354822511,"city_id":4608085,"language_key":"mk","name":"Кампо Алегре"}
+{"id":354824590,"city_id":4608112,"language_key":"mk","name":"Ел Алто"}
+{"id":354825360,"city_id":4608122,"language_key":"mk","name":"Лас Адјунтас"}
+{"id":354827285,"city_id":4608147,"language_key":"mk","name":"Санта Рита"}
+{"id":354831366,"city_id":4608200,"language_key":"mk","name":"Ел Парадеро"}
+{"id":354831443,"city_id":4608201,"language_key":"mk","name":"Папелон"}
+{"id":354835216,"city_id":4608250,"language_key":"mk","name":"Ел Гвајабо"}
+{"id":354838681,"city_id":4608295,"language_key":"mk","name":"Ел Чапаро"}
+{"id":354840067,"city_id":4608313,"language_key":"mk","name":"Цампо Линдо"}
+{"id":354840144,"city_id":4608314,"language_key":"mk","name":"Кампо Кларо"}
+{"id":354840452,"city_id":4608318,"language_key":"mk","name":"Цамбурал"}
+{"id":354841222,"city_id":4608328,"language_key":"mk","name":"Аыацуцхо"}
+{"id":354841453,"city_id":4608331,"language_key":"mk","name":"Арагуита"}
+{"id":354841684,"city_id":4608334,"language_key":"mk","name":"Анацо"}
+{"id":354842223,"city_id":4608341,"language_key":"mk","name":"Агуа Бланка"}
+{"id":354843378,"city_id":4608356,"language_key":"mk","name":"Санта Цруз де Гуацас"}
+{"id":354844071,"city_id":4608365,"language_key":"mk","name":"Ел Реал"}
+{"id":354844379,"city_id":4608369,"language_key":"mk","name":"Порто Вивас"}
+{"id":354845457,"city_id":4608383,"language_key":"mk","name":"Ла Мула"}
+{"id":354846997,"city_id":4608403,"language_key":"mk","name":"Лос Гуасимитос"}
+{"id":354847382,"city_id":4608408,"language_key":"mk","name":"Ла Кучила"}
+{"id":354850077,"city_id":4608443,"language_key":"mk","name":"Зуата"}
+{"id":354850308,"city_id":4608446,"language_key":"mk","name":"Зона Рица"}
+{"id":354850539,"city_id":4608449,"language_key":"mk","name":"Зеа"}
+{"id":354851001,"city_id":4608455,"language_key":"mk","name":"Зараза"}
+{"id":354851540,"city_id":4608462,"language_key":"mk","name":"Замора"}
+{"id":354852695,"city_id":4608477,"language_key":"mk","name":"Ыумаре"}
+{"id":354853157,"city_id":4608483,"language_key":"mk","name":"Јоко"}
+{"id":354853773,"city_id":4608491,"language_key":"mk","name":"Ыаритагуа"}
+{"id":354853850,"city_id":4608492,"language_key":"mk","name":"Ыарацал"}
+{"id":354854312,"city_id":4608498,"language_key":"mk","name":"Ыагуарапаро"}
+{"id":354854543,"city_id":4608501,"language_key":"mk","name":"Ыагуапа Абайо"}
+{"id":354854774,"city_id":4608504,"language_key":"mk","name":"Ыагуа"}
+{"id":354857469,"city_id":4608539,"language_key":"mk","name":"Виљароел"}
+{"id":354857623,"city_id":4608541,"language_key":"mk","name":"Вилла Роса"}
+{"id":354858547,"city_id":4608553,"language_key":"mk","name":"Вилла де Цура"}
+{"id":354858778,"city_id":4608556,"language_key":"mk","name":"Вилла Брузуал"}
+{"id":354859317,"city_id":4608563,"language_key":"mk","name":"Виенто Фресцо"}
+{"id":354861396,"city_id":4608590,"language_key":"mk","name":"Ел Венадо"}
+{"id":354861935,"city_id":4608597,"language_key":"mk","name":"Вегуитас"}
+{"id":354862089,"city_id":4608599,"language_key":"mk","name":"Лас Цаситас дел Вегон де Нутриас"}
+{"id":354863321,"city_id":4608615,"language_key":"mk","name":"Валле Ла Тарасца"}
+{"id":354863398,"city_id":4608616,"language_key":"mk","name":"Вале Хондо"}
+{"id":354863860,"city_id":4608622,"language_key":"mk","name":"Валле де Ла Пасцуа"}
+{"id":354864091,"city_id":4608625,"language_key":"mk","name":"Валле де Гуанапе"}
+{"id":354865323,"city_id":4608641,"language_key":"mk","name":"Валера"}
+{"id":354865477,"city_id":4608643,"language_key":"mk","name":"Валенсија"}
+{"id":354866555,"city_id":4608657,"language_key":"mk","name":"Уверито"}
+{"id":354867941,"city_id":4608675,"language_key":"mk","name":"Урумацо"}
+{"id":354869019,"city_id":4608689,"language_key":"mk","name":"Урика"}
+{"id":354869327,"city_id":4608693,"language_key":"mk","name":"Урена"}
+{"id":354869789,"city_id":4608699,"language_key":"mk","name":"Урама"}
+{"id":354870020,"city_id":4608702,"language_key":"mk","name":"Урацоа"}
+{"id":354870097,"city_id":4608703,"language_key":"mk","name":"Урацхицхе"}
+{"id":354870405,"city_id":4608707,"language_key":"mk","name":"Упата"}
+{"id":354870790,"city_id":4608712,"language_key":"mk","name":"Умукена"}
+{"id":354872253,"city_id":4608731,"language_key":"mk","name":"Турмеро"}
+{"id":354873562,"city_id":4608748,"language_key":"mk","name":"Тунапуы"}
+{"id":354873716,"city_id":4608750,"language_key":"mk","name":"Тунапуы"}
+{"id":354874024,"city_id":4608754,"language_key":"mk","name":"Тунаме"}
+{"id":354874101,"city_id":4608755,"language_key":"mk","name":"Тумеремо"}
+{"id":354874948,"city_id":4608766,"language_key":"mk","name":"Туцупита"}
+{"id":354875564,"city_id":4608774,"language_key":"mk","name":"Туцупидо"}
+{"id":354876026,"city_id":4608780,"language_key":"mk","name":"Тучани"}
+{"id":354876103,"city_id":4608781,"language_key":"mk","name":"Туцацас"}
+{"id":354876488,"city_id":4608786,"language_key":"mk","name":"Трухиљо"}
+{"id":354878182,"city_id":4608808,"language_key":"mk","name":"Трес Ескинас"}
+{"id":354878259,"city_id":4608809,"language_key":"mk","name":"Трес де Фебреро"}
+{"id":354879183,"city_id":4608821,"language_key":"mk","name":"Товар"}
+{"id":354879337,"city_id":4608823,"language_key":"mk","name":"Товар"}
+{"id":354879953,"city_id":4608831,"language_key":"mk","name":"Тостос"}
+{"id":354880107,"city_id":4608833,"language_key":"mk","name":"Торунос"}
+{"id":354880492,"city_id":4608838,"language_key":"mk","name":"Торондоы"}
+{"id":354880954,"city_id":4608844,"language_key":"mk","name":"Торбес"}
+{"id":354882263,"city_id":4608861,"language_key":"mk","name":"Тоцуыо де Ла Цоста"}
+{"id":354882417,"city_id":4608863,"language_key":"mk","name":"Тоцуыито"}
+{"id":354882648,"city_id":4608866,"language_key":"mk","name":"Тоцорон"}
+{"id":354882956,"city_id":4608870,"language_key":"mk","name":"Тоцоперо"}
+{"id":354883880,"city_id":4608882,"language_key":"mk","name":"Тинакуилло"}
+{"id":354884265,"city_id":4608887,"language_key":"mk","name":"Тинацо"}
+{"id":354884342,"city_id":4608888,"language_key":"mk","name":"Тимотес"}
+{"id":354886421,"city_id":4608915,"language_key":"mk","name":"Тиа Йуана"}
+{"id":354886883,"city_id":4608921,"language_key":"mk","name":"Тересен"}
+{"id":354887653,"city_id":4608931,"language_key":"mk","name":"Тембладор"}
+{"id":354889116,"city_id":4608950,"language_key":"mk","name":"Тариба"}
+{"id":354891657,"city_id":4608983,"language_key":"mk","name":"Тамаре"}
+{"id":354892119,"city_id":4608989,"language_key":"mk","name":"Тамаца"}
+{"id":354892889,"city_id":4608999,"language_key":"mk","name":"Тагуаыа"}
+{"id":354894044,"city_id":4609014,"language_key":"mk","name":"Таката"}
+{"id":354894352,"city_id":4609018,"language_key":"mk","name":"Тацаригуа де Ла Лагуна"}
+{"id":354895353,"city_id":4609031,"language_key":"mk","name":"Табаы"}
+{"id":354897047,"city_id":4609053,"language_key":"mk","name":"Сукре"}
+{"id":354897509,"city_id":4609059,"language_key":"mk","name":"Сотиљо"}
+{"id":354897663,"city_id":4609061,"language_key":"mk","name":"Соса"}
+{"id":354898972,"city_id":4609078,"language_key":"mk","name":"Соледад"}
+{"id":354899588,"city_id":4609086,"language_key":"mk","name":"Соцопо"}
+{"id":354900281,"city_id":4609095,"language_key":"mk","name":"Сиквизик"}
+{"id":354900820,"city_id":4609102,"language_key":"mk","name":"Синамаица"}
+{"id":354901898,"city_id":4609116,"language_key":"mk","name":"Сибарагуа"}
+{"id":354902899,"city_id":4609129,"language_key":"mk","name":"Себоруцо"}
+{"id":354904439,"city_id":4609149,"language_key":"mk","name":"Сараре"}
+{"id":354904516,"city_id":4609150,"language_key":"mk","name":"Сараре"}
+{"id":354905517,"city_id":4609163,"language_key":"mk","name":"Сан Висенте"}
+{"id":354907365,"city_id":4609187,"language_key":"mk","name":"Санто Доминго"}
+{"id":354907981,"city_id":4609195,"language_key":"mk","name":"Сан Тимотео"}
+{"id":354908212,"city_id":4609198,"language_key":"mk","name":"Санта Тереса дел Туы"}
+{"id":354909367,"city_id":4609213,"language_key":"mk","name":"Санта Розалија"}
+{"id":354913448,"city_id":4609266,"language_key":"mk","name":"Санта Роза"}
+{"id":354914295,"city_id":4609277,"language_key":"mk","name":"Морихалито"}
+{"id":354914834,"city_id":4609284,"language_key":"mk","name":"Санта Рита"}
+{"id":354918068,"city_id":4609326,"language_key":"mk","name":"Санта Мариа де Ипире"}
+{"id":354918299,"city_id":4609329,"language_key":"mk","name":"Санта Мариа де Цапаро"}
+{"id":354920455,"city_id":4609357,"language_key":"mk","name":"Санта Лусија"}
+{"id":354920840,"city_id":4609362,"language_key":"mk","name":"Санта Лусија"}
+{"id":354921456,"city_id":4609370,"language_key":"mk","name":"Санта Лусија"}
+{"id":354922765,"city_id":4609387,"language_key":"mk","name":"Санта Изабел"}
+{"id":354922842,"city_id":4609388,"language_key":"mk","name":"Санта Изабел"}
+{"id":354924459,"city_id":4609409,"language_key":"mk","name":"Санта Инес"}
+{"id":354925691,"city_id":4609425,"language_key":"mk","name":"Санта Елена де Уаирен"}
+{"id":354925845,"city_id":4609427,"language_key":"mk","name":"Санта Елена де Ареналес"}
+{"id":354927231,"city_id":4609445,"language_key":"mk","name":"Санта Круз де Мора"}
+{"id":354927385,"city_id":4609447,"language_key":"mk","name":"Санта Цруз де Мара"}
+{"id":354927462,"city_id":4609448,"language_key":"mk","name":"Санта Круз дел Зулија"}
+{"id":354927616,"city_id":4609450,"language_key":"mk","name":"Санта Цруз де Буцарал"}
+{"id":354929002,"city_id":4609468,"language_key":"mk","name":"Санта Круз"}
+{"id":354931620,"city_id":4609502,"language_key":"mk","name":"Санта Каталина"}
+{"id":354933006,"city_id":4609520,"language_key":"mk","name":"Санта Барбара"}
+{"id":354933776,"city_id":4609530,"language_key":"mk","name":"Санта Барбара"}
+{"id":354934777,"city_id":4609543,"language_key":"mk","name":"Санта Аполониа"}
+{"id":354934854,"city_id":4609544,"language_key":"mk","name":"Санта Аполониа"}
+{"id":354935393,"city_id":4609551,"language_key":"mk","name":"Санта Ана"}
+{"id":354936625,"city_id":4609567,"language_key":"mk","name":"Санта Ана"}
+{"id":354936779,"city_id":4609569,"language_key":"mk","name":"Санта Ана"}
+{"id":354937010,"city_id":4609572,"language_key":"mk","name":"Санта Ана"}
+{"id":354937780,"city_id":4609582,"language_key":"mk","name":"Сан Симон"}
+{"id":354937857,"city_id":4609583,"language_key":"mk","name":"Сан Силвестре"}
+{"id":354937934,"city_id":4609584,"language_key":"mk","name":"Сан Себастијан"}
+{"id":354939782,"city_id":4609608,"language_key":"mk","name":"Сан Рафаел де Оритуцо"}
+{"id":354939859,"city_id":4609609,"language_key":"mk","name":"Сан Рафаел де Оното"}
+{"id":354940090,"city_id":4609612,"language_key":"mk","name":"Карвахал"}
+{"id":354940244,"city_id":4609614,"language_key":"mk","name":"Сан Рафаел де Цанагуа"}
+{"id":354940860,"city_id":4609622,"language_key":"mk","name":"Сан Рафаел"}
+{"id":354945249,"city_id":4609679,"language_key":"mk","name":"Сан Педро де Коче"}
+{"id":354949330,"city_id":4609732,"language_key":"mk","name":"Сан Пабло"}
+{"id":354950947,"city_id":4609753,"language_key":"mk","name":"Сан Николас"}
+{"id":354952564,"city_id":4609774,"language_key":"mk","name":"Сан Мигел"}
+{"id":354953719,"city_id":4609789,"language_key":"mk","name":"Сан Мигел"}
+{"id":354954412,"city_id":4609798,"language_key":"mk","name":"Сан Матео"}
+{"id":354954489,"city_id":4609799,"language_key":"mk","name":"Сан Матео"}
+{"id":354955644,"city_id":4609814,"language_key":"mk","name":"Сан Луис"}
+{"id":354957184,"city_id":4609834,"language_key":"mk","name":"Сан Лоренцо"}
+{"id":354958647,"city_id":4609853,"language_key":"mk","name":"Сан Йуан де Манапиаре"}
+{"id":354958724,"city_id":4609854,"language_key":"mk","name":"Сан Йуан де Лос Моррос"}
+{"id":354958801,"city_id":4609855,"language_key":"mk","name":"Сан Йуан де лос Цаыос"}
+{"id":354959109,"city_id":4609859,"language_key":"mk","name":"Дебело црево"}
+{"id":354959494,"city_id":4609864,"language_key":"mk","name":"Сан Хуан Баутиста"}
+{"id":354961650,"city_id":4609892,"language_key":"mk","name":"Сан Хуан"}
+{"id":354962189,"city_id":4609899,"language_key":"mk","name":"Сан Хозе де Тизнадос"}
+{"id":354962343,"city_id":4609901,"language_key":"mk","name":"Сан Йосе де Барловенто"}
+{"id":354963267,"city_id":4609913,"language_key":"mk","name":"Сан Йосе де Гуанипа"}
+{"id":354963729,"city_id":4609919,"language_key":"mk","name":"Сан Йосе де Аероцуар"}
+{"id":354968041,"city_id":4609975,"language_key":"mk","name":"Сан Хозе"}
+{"id":354969042,"city_id":4609988,"language_key":"mk","name":"Сан Хоакин"}
+{"id":354971660,"city_id":4610022,"language_key":"mk","name":"Сан Исидро"}
+{"id":354971968,"city_id":4610026,"language_key":"mk","name":"Сан Игнасио"}
+{"id":354973277,"city_id":4610043,"language_key":"mk","name":"Сан Францисцо де Ыаре"}
+{"id":354973739,"city_id":4610049,"language_key":"mk","name":"Сан Франциско де Асис"}
+{"id":354974278,"city_id":4610056,"language_key":"mk","name":"Сан Франциско"}
+{"id":354975433,"city_id":4610071,"language_key":"mk","name":"Сан Фернандо де Атабапо"}
+{"id":354975510,"city_id":4610072,"language_key":"mk","name":"Сан Фернандо"}
+{"id":354975741,"city_id":4610075,"language_key":"mk","name":"Сан Феликс"}
+{"id":354975895,"city_id":4610077,"language_key":"mk","name":"Сан Феликс"}
+{"id":354976357,"city_id":4610083,"language_key":"mk","name":"Сан Фелипе"}
+{"id":354978205,"city_id":4610107,"language_key":"mk","name":"Сан Диего де Кабрутика"}
+{"id":354978282,"city_id":4610108,"language_key":"mk","name":"Сан Диего"}
+{"id":354978436,"city_id":4610110,"language_key":"mk","name":"Сан Диего"}
+{"id":354979129,"city_id":4610119,"language_key":"mk","name":"Сан Кристобал"}
+{"id":354979668,"city_id":4610126,"language_key":"mk","name":"Сан Касемиро"}
+{"id":354979745,"city_id":4610127,"language_key":"mk","name":"Сан Царлос де Рио Негро"}
+{"id":354979822,"city_id":4610128,"language_key":"mk","name":"Сан Царлос дел Зулиа"}
+{"id":354980438,"city_id":4610136,"language_key":"mk","name":"Сан Карлос"}
+{"id":354982132,"city_id":4610158,"language_key":"mk","name":"Санаре"}
+{"id":354982440,"city_id":4610162,"language_key":"mk","name":"Сан Антонио дел Тацхира"}
+{"id":354982517,"city_id":4610163,"language_key":"mk","name":"Сан Антонио де Лос Алтос"}
+{"id":354982594,"city_id":4610164,"language_key":"mk","name":"Сан Антонио дел Голфо"}
+{"id":354983056,"city_id":4610170,"language_key":"mk","name":"Цапаыа"}
+{"id":354984750,"city_id":4610192,"language_key":"mk","name":"Сан Антонио"}
+{"id":354987676,"city_id":4610230,"language_key":"mk","name":"Сан Антонио"}
+{"id":354988754,"city_id":4610244,"language_key":"mk","name":"Сан Агустин"}
+{"id":354990217,"city_id":4610263,"language_key":"mk","name":"Салом"}
+{"id":354994760,"city_id":4610322,"language_key":"mk","name":"Сабанета"}
+{"id":354995684,"city_id":4610334,"language_key":"mk","name":"Сабана Либре"}
+{"id":354997147,"city_id":4610353,"language_key":"mk","name":"Сабана Гранде"}
+{"id":354997686,"city_id":4610360,"language_key":"mk","name":"Сабана Гранде"}
+{"id":354997917,"city_id":4610363,"language_key":"mk","name":"Сабана Гранде"}
+{"id":354998225,"city_id":4610367,"language_key":"mk","name":"Сабана де Уцхире"}
+{"id":354998610,"city_id":4610372,"language_key":"mk","name":"Сабана де Парра"}
+{"id":354998764,"city_id":4610374,"language_key":"mk","name":"Сабана де Мендоза"}
+{"id":355000150,"city_id":4610392,"language_key":"mk","name":"Рубио"}
+{"id":355000381,"city_id":4610395,"language_key":"mk","name":"Ла Вилла дел Росарио"}
+{"id":355000689,"city_id":4610399,"language_key":"mk","name":"Ел Росарио"}
+{"id":355001613,"city_id":4610411,"language_key":"mk","name":"Ройас"}
+{"id":355004077,"city_id":4610443,"language_key":"mk","name":"Рио Тоцуыо"}
+{"id":355004154,"city_id":4610444,"language_key":"mk","name":"Рио Секо"}
+{"id":355004616,"city_id":4610450,"language_key":"mk","name":"Рио Негро"}
+{"id":355005540,"city_id":4610462,"language_key":"mk","name":"Рио Цларо"}
+{"id":355006233,"city_id":4610471,"language_key":"mk","name":"Рио Чико"}
+{"id":355006387,"city_id":4610473,"language_key":"mk","name":"Рио Цасанаы"}
+{"id":355006464,"city_id":4610474,"language_key":"mk","name":"Рио Царибе"}
+{"id":355007080,"city_id":4610482,"language_key":"mk","name":"Рио Ацаригуа"}
+{"id":355010314,"city_id":4610524,"language_key":"mk","name":"Ремолино"}
+{"id":355011469,"city_id":4610539,"language_key":"mk","name":"Рангел"}
+{"id":355015396,"city_id":4610590,"language_key":"mk","name":"Квириквир"}
+{"id":355015550,"city_id":4610592,"language_key":"mk","name":"Квириквир"}
+{"id":355016859,"city_id":4610609,"language_key":"mk","name":"Квибор"}
+{"id":355018091,"city_id":4610625,"language_key":"mk","name":"Квеникеа"}
+{"id":355018707,"city_id":4610633,"language_key":"mk","name":"Квебрада Сека"}
+{"id":355019323,"city_id":4610641,"language_key":"mk","name":"Квебрада Сека"}
+{"id":355019477,"city_id":4610643,"language_key":"mk","name":"Сан Францисцо дел Гури"}
+{"id":355021479,"city_id":4610669,"language_key":"mk","name":"Куебрада де Ла Вирген"}
+{"id":355021864,"city_id":4610674,"language_key":"mk","name":"Квебрада Ариба"}
+{"id":355023404,"city_id":4610694,"language_key":"mk","name":"Пунто Фийо"}
+{"id":355024020,"city_id":4610702,"language_key":"mk","name":"Пунта Горда"}
+{"id":355024482,"city_id":4610708,"language_key":"mk","name":"Пунта де Пиедрас"}
+{"id":355024559,"city_id":4610709,"language_key":"mk","name":"Пунта де Пиедра"}
+{"id":355024713,"city_id":4610711,"language_key":"mk","name":"Пунта де Пиедра"}
+{"id":355024867,"city_id":4610713,"language_key":"mk","name":"Пунта де Мата"}
+{"id":355025406,"city_id":4610720,"language_key":"mk","name":"Пунта Цардон"}
+{"id":355025868,"city_id":4610726,"language_key":"mk","name":"Панчерес"}
+{"id":355026253,"city_id":4610731,"language_key":"mk","name":"Пуерто Тетео"}
+{"id":355026407,"city_id":4610733,"language_key":"mk","name":"Пуерто Санто"}
+{"id":355027023,"city_id":4610741,"language_key":"mk","name":"Пуерто Пириту"}
+{"id":355027100,"city_id":4610742,"language_key":"mk","name":"Порто Паез"}
+{"id":355027177,"city_id":4610743,"language_key":"mk","name":"Пуерто Нуево"}
+{"id":355027408,"city_id":4610746,"language_key":"mk","name":"Пуерто Миранда"}
+{"id":355027562,"city_id":4610748,"language_key":"mk","name":"Пуерто Миранда"}
+{"id":355028332,"city_id":4610758,"language_key":"mk","name":"Пуерто де Ла Цруз"}
+{"id":355029102,"city_id":4610768,"language_key":"mk","name":"Пуерто Есцондидо"}
+{"id":355029564,"city_id":4610774,"language_key":"mk","name":"Пуерто де Нутриас"}
+{"id":355029718,"city_id":4610776,"language_key":"mk","name":"Пуерто де Иеро"}
+{"id":355029795,"city_id":4610777,"language_key":"mk","name":"Пуерто Цумаребо"}
+{"id":355030257,"city_id":4610783,"language_key":"mk","name":"Пуерто Цабелло"}
+{"id":355030565,"city_id":4610787,"language_key":"mk","name":"Пуерто Аыацуцхо"}
+{"id":355033799,"city_id":4610829,"language_key":"mk","name":"Пуебло Нуево"}
+{"id":355035493,"city_id":4610851,"language_key":"mk","name":"Пуебло Нуево Ел Цхиво"}
+{"id":355036032,"city_id":4610858,"language_key":"mk","name":"Пуебло Ллано"}
+{"id":355037726,"city_id":4610880,"language_key":"mk","name":"Прегонеро"}
+{"id":355037803,"city_id":4610881,"language_key":"mk","name":"Позуелос"}
+{"id":355039035,"city_id":4610897,"language_key":"mk","name":"Потреритос"}
+{"id":355041191,"city_id":4610925,"language_key":"mk","name":"Порламар"}
+{"id":355045503,"city_id":4610981,"language_key":"mk","name":"Пириту"}
+{"id":355045580,"city_id":4610982,"language_key":"mk","name":"Пириту"}
+{"id":355045734,"city_id":4610984,"language_key":"mk","name":"Пириту"}
+{"id":355048352,"city_id":4611018,"language_key":"mk","name":"Пимпинела"}
+{"id":355053203,"city_id":4611081,"language_key":"mk","name":"Петаре"}
+{"id":355054589,"city_id":4611099,"language_key":"mk","name":"Перибеца"}
+{"id":355055821,"city_id":4611115,"language_key":"mk","name":"Пена"}
+{"id":355057592,"city_id":4611138,"language_key":"mk","name":"Педрегал"}
+{"id":355058054,"city_id":4611144,"language_key":"mk","name":"Педраза Ла Виеха"}
+{"id":355058285,"city_id":4611147,"language_key":"mk","name":"Педерналес"}
+{"id":355058747,"city_id":4611153,"language_key":"mk","name":"Пајара"}
+{"id":355065600,"city_id":4611242,"language_key":"mk","name":"Париагуан"}
+{"id":355066909,"city_id":4611259,"language_key":"mk","name":"Парапара"}
+{"id":355067910,"city_id":4611272,"language_key":"mk","name":"Параисо де Цхабаскуен"}
+{"id":355068680,"city_id":4611282,"language_key":"mk","name":"Ла Плаза Парагвачи"}
+{"id":355068834,"city_id":4611284,"language_key":"mk","name":"Парагуаипоа"}
+{"id":355069450,"city_id":4611292,"language_key":"mk","name":"Парацотос"}
+{"id":355070143,"city_id":4611301,"language_key":"mk","name":"Папелон"}
+{"id":355071683,"city_id":4611321,"language_key":"mk","name":"Панакир"}
+{"id":355072145,"city_id":4611327,"language_key":"mk","name":"Пампатар"}
+{"id":355072222,"city_id":4611328,"language_key":"mk","name":"Пампанито"}
+{"id":355072299,"city_id":4611329,"language_key":"mk","name":"Пампан"}
+{"id":355072761,"city_id":4611335,"language_key":"mk","name":"Палотол"}
+{"id":355074147,"city_id":4611353,"language_key":"mk","name":"Пало Негро"}
+{"id":355074840,"city_id":4611362,"language_key":"mk","name":"Пало Гордо"}
+{"id":355076457,"city_id":4611383,"language_key":"mk","name":"Палмира"}
+{"id":355077381,"city_id":4611395,"language_key":"mk","name":"Палмасола"}
+{"id":355084850,"city_id":4611492,"language_key":"mk","name":"Оспино"}
+{"id":355086082,"city_id":4611508,"language_key":"mk","name":"Ортиз"}
+{"id":355086390,"city_id":4611512,"language_key":"mk","name":"Оропе"}
+{"id":355087622,"city_id":4611528,"language_key":"mk","name":"Оното"}
+{"id":355087853,"city_id":4611531,"language_key":"mk","name":"Оното"}
+{"id":355091857,"city_id":4611583,"language_key":"mk","name":"Окумаре дел Туј"}
+{"id":355091934,"city_id":4611584,"language_key":"mk","name":"Оцумаре де ла Цоста"}
+{"id":355092473,"city_id":4611591,"language_key":"mk","name":"Обиспос"}
+{"id":355093474,"city_id":4611604,"language_key":"mk","name":"Нуева Боливиа"}
+{"id":355094244,"city_id":4611614,"language_key":"mk","name":"Ниргуа"}
+{"id":355095091,"city_id":4611625,"language_key":"mk","name":"Нарикуал"}
+{"id":355095553,"city_id":4611631,"language_key":"mk","name":"Наигуата"}
+{"id":355095630,"city_id":4611632,"language_key":"mk","name":"Нагуанагуа"}
+{"id":355096631,"city_id":4611645,"language_key":"mk","name":"Муњоз"}
+{"id":355097478,"city_id":4611656,"language_key":"mk","name":"Мулатал"}
+{"id":355098094,"city_id":4611664,"language_key":"mk","name":"Муцуруба"}
+{"id":355098941,"city_id":4611675,"language_key":"mk","name":"Муцумпиз"}
+{"id":355099095,"city_id":4611677,"language_key":"mk","name":"Муцуџепе"}
+{"id":355099172,"city_id":4611678,"language_key":"mk","name":"Муцуцхиес"}
+{"id":355100173,"city_id":4611691,"language_key":"mk","name":"Мотатан дел Рио"}
+{"id":355100327,"city_id":4611693,"language_key":"mk","name":"Мотатан"}
+{"id":355100558,"city_id":4611696,"language_key":"mk","name":"Москуеы"}
+{"id":355102406,"city_id":4611720,"language_key":"mk","name":"Морон"}
+{"id":355104100,"city_id":4611742,"language_key":"mk","name":"Морицхал Ларго"}
+{"id":355108335,"city_id":4611797,"language_key":"mk","name":"Монте Цармело"}
+{"id":355109259,"city_id":4611809,"language_key":"mk","name":"Монталбан"}
+{"id":355109567,"city_id":4611813,"language_key":"mk","name":"Монеј"}
+{"id":355111030,"city_id":4611832,"language_key":"mk","name":"Моцхима"}
+{"id":355111492,"city_id":4611838,"language_key":"mk","name":"Митон"}
+{"id":355111954,"city_id":4611844,"language_key":"mk","name":"Сан Францисцо де Гуаыо"}
+{"id":355112416,"city_id":4611850,"language_key":"mk","name":"Миримире"}
+{"id":355112570,"city_id":4611852,"language_key":"mk","name":"Миранда"}
+{"id":355114880,"city_id":4611882,"language_key":"mk","name":"Мицхелена"}
+{"id":355116189,"city_id":4611899,"language_key":"mk","name":"Меса де Цавацас"}
+{"id":355116728,"city_id":4611906,"language_key":"mk","name":"Мерида"}
+{"id":355119577,"city_id":4611943,"language_key":"mk","name":"Мене Гранде"}
+{"id":355119654,"city_id":4611944,"language_key":"mk","name":"Мене де Мауроа"}
+{"id":355133206,"city_id":4612120,"language_key":"mk","name":"Маспаррито"}
+{"id":355134053,"city_id":4612131,"language_key":"mk","name":"Мароа"}
+{"id":355134284,"city_id":4612134,"language_key":"mk","name":"Марипа"}
+{"id":355134361,"city_id":4612135,"language_key":"mk","name":"Марипа"}
+{"id":355134515,"city_id":4612137,"language_key":"mk","name":"Марин"}
+{"id":355134823,"city_id":4612141,"language_key":"mk","name":"Маригуитар"}
+{"id":355134977,"city_id":4612143,"language_key":"mk","name":"Мариара"}
+{"id":355136055,"city_id":4612157,"language_key":"mk","name":"Марцано"}
+{"id":355136979,"city_id":4612169,"language_key":"mk","name":"Маракај"}
+{"id":355137210,"city_id":4612172,"language_key":"mk","name":"Маракаибо"}
+{"id":355137595,"city_id":4612177,"language_key":"mk","name":"Мара"}
+{"id":355139058,"city_id":4612196,"language_key":"mk","name":"Мапорал"}
+{"id":355139135,"city_id":4612197,"language_key":"mk","name":"Мапорал"}
+{"id":355139366,"city_id":4612200,"language_key":"mk","name":"Мапорал"}
+{"id":355139520,"city_id":4612202,"language_key":"mk","name":"Мапире"}
+{"id":355139674,"city_id":4612204,"language_key":"mk","name":"Мапарари"}
+{"id":355140906,"city_id":4612220,"language_key":"mk","name":"Мантеца"}
+{"id":355142292,"city_id":4612238,"language_key":"mk","name":"Маницуаре"}
+{"id":355144294,"city_id":4612264,"language_key":"mk","name":"Мампорал"}
+{"id":355147451,"city_id":4612305,"language_key":"mk","name":"Маикетија"}
+{"id":355148221,"city_id":4612315,"language_key":"mk","name":"Махомито"}
+{"id":355148914,"city_id":4612324,"language_key":"mk","name":"Магдалено"}
+{"id":355149915,"city_id":4612337,"language_key":"mk","name":"Мацуто"}
+{"id":355151378,"city_id":4612356,"language_key":"mk","name":"Мацхикуес"}
+{"id":355152533,"city_id":4612371,"language_key":"mk","name":"Мацапо"}
+{"id":355157461,"city_id":4612435,"language_key":"mk","name":"Лос Текес"}
+{"id":355157692,"city_id":4612438,"language_key":"mk","name":"Лос Такуес"}
+{"id":355159771,"city_id":4612465,"language_key":"mk","name":"Лос Риос"}
+{"id":355160464,"city_id":4612474,"language_key":"mk","name":"Лос Растройос"}
+{"id":355165007,"city_id":4612533,"language_key":"mk","name":"Лос Пийигуаос"}
+{"id":355170936,"city_id":4612610,"language_key":"mk","name":"Лос Милланес"}
+{"id":355179406,"city_id":4612720,"language_key":"mk","name":"Лос Гуаыос"}
+{"id":355179791,"city_id":4612725,"language_key":"mk","name":"Лос Гуасдалотес"}
+{"id":355182024,"city_id":4612754,"language_key":"mk","name":"Лос Дос Цаминос"}
+{"id":355185951,"city_id":4612805,"language_key":"mk","name":"Лос Кокос"}
+{"id":355187722,"city_id":4612828,"language_key":"mk","name":"Лос Цхигуирес"}
+{"id":355190340,"city_id":4612862,"language_key":"mk","name":"Лос Царпинтерос"}
+{"id":355196423,"city_id":4612941,"language_key":"mk","name":"Лос Баранкос де Фахардо"}
+{"id":355197501,"city_id":4612955,"language_key":"mk","name":"Лос Багрес"}
+{"id":355198348,"city_id":4612966,"language_key":"mk","name":"Лос Аракуес"}
+{"id":355199503,"city_id":4612981,"language_key":"mk","name":"Лос Алтос"}
+{"id":355199734,"city_id":4612984,"language_key":"mk","name":"Лос Алтос"}
+{"id":355204277,"city_id":4613043,"language_key":"mk","name":"Лобатера"}
+{"id":355206202,"city_id":4613068,"language_key":"mk","name":"Лимонар Адентро"}
+{"id":355206664,"city_id":4613074,"language_key":"mk","name":"Либертад"}
+{"id":355206741,"city_id":4613075,"language_key":"mk","name":"Либертад"}
+{"id":355206818,"city_id":4613076,"language_key":"mk","name":"Цанагуа"}
+{"id":355206895,"city_id":4613077,"language_key":"mk","name":"Цапацхо Виейо"}
+{"id":355206972,"city_id":4613078,"language_key":"mk","name":"Лезама"}
+{"id":355208589,"city_id":4613099,"language_key":"mk","name":"Ла Ыуца"}
+{"id":355212670,"city_id":4613152,"language_key":"mk","name":"Ла Викторија"}
+{"id":355213825,"city_id":4613167,"language_key":"mk","name":"Ла Викторија"}
+{"id":355215134,"city_id":4613184,"language_key":"mk","name":"Ла Вела де Цоро"}
+{"id":355215519,"city_id":4613189,"language_key":"mk","name":"Вегуитас"}
+{"id":355219908,"city_id":4613246,"language_key":"mk","name":"Ла Унија"}
+{"id":355220832,"city_id":4613258,"language_key":"mk","name":"Ла Тринидад"}
+{"id":355223142,"city_id":4613288,"language_key":"mk","name":"Ла Трила"}
+{"id":355223450,"city_id":4613292,"language_key":"mk","name":"Ла Тосцана"}
+{"id":355228917,"city_id":4613363,"language_key":"mk","name":"Лас Вегас"}
+{"id":355229918,"city_id":4613376,"language_key":"mk","name":"Икстла"}
+{"id":355232074,"city_id":4613404,"language_key":"mk","name":"Лас Техеријас"}
+{"id":355239543,"city_id":4613501,"language_key":"mk","name":"Лас Пиедрас"}
+{"id":355241237,"city_id":4613523,"language_key":"mk","name":"Лас Парцелас"}
+{"id":355244086,"city_id":4613560,"language_key":"mk","name":"Оллас де Царамацате"}
+{"id":355249322,"city_id":4613628,"language_key":"mk","name":"Лас Месас"}
+{"id":355249553,"city_id":4613631,"language_key":"mk","name":"Лас Мерцедес"}
+{"id":355250554,"city_id":4613644,"language_key":"mk","name":"Лас Мерцедес"}
+{"id":355258639,"city_id":4613749,"language_key":"mk","name":"Ла Сиерра"}
+{"id":355261334,"city_id":4613784,"language_key":"mk","name":"Лас Гуацамаыас"}
+{"id":355265492,"city_id":4613838,"language_key":"mk","name":"Лас Елисас"}
+{"id":355267417,"city_id":4613863,"language_key":"mk","name":"Лас Деликијас"}
+{"id":355267802,"city_id":4613868,"language_key":"mk","name":"Лас Деликијас"}
+{"id":355269265,"city_id":4613887,"language_key":"mk","name":"Лас Крусис"}
+{"id":355275348,"city_id":4613966,"language_key":"mk","name":"Лас Цалдерас"}
+{"id":355282432,"city_id":4614058,"language_key":"mk","name":"Лараинзар"}
+{"id":355284742,"city_id":4614088,"language_key":"mk","name":"Ла Рокуена"}
+{"id":355288438,"city_id":4614136,"language_key":"mk","name":"Ла Реформа"}
+{"id":355291672,"city_id":4614178,"language_key":"mk","name":"Ла Квебрада"}
+{"id":355291903,"city_id":4614181,"language_key":"mk","name":"Ла Квебрада"}
+{"id":355294444,"city_id":4614214,"language_key":"mk","name":"Ла Провиденсија"}
+{"id":355297601,"city_id":4614255,"language_key":"mk","name":"Ла Плата"}
+{"id":355300142,"city_id":4614288,"language_key":"mk","name":"Ла Пица"}
+{"id":355303453,"city_id":4614331,"language_key":"mk","name":"Ла Паз"}
+{"id":355304069,"city_id":4614339,"language_key":"mk","name":"Ла Пастора"}
+{"id":355305532,"city_id":4614358,"language_key":"mk","name":"Ла Парагуа"}
+{"id":355306148,"city_id":4614366,"language_key":"mk","name":"Ла Пампа де Арагуа"}
+{"id":355306456,"city_id":4614370,"language_key":"mk","name":"Ла палома"}
+{"id":355313001,"city_id":4614455,"language_key":"mk","name":"Лендер"}
+{"id":355317313,"city_id":4614511,"language_key":"mk","name":"Ла Моцха"}
+{"id":355317775,"city_id":4614517,"language_key":"mk","name":"Мисија"}
+{"id":355318314,"city_id":4614524,"language_key":"mk","name":"Ла Миел"}
+{"id":355321163,"city_id":4614561,"language_key":"mk","name":"Ла Мата"}
+{"id":355327015,"city_id":4614637,"language_key":"mk","name":"Ла Луз"}
+{"id":355332636,"city_id":4614710,"language_key":"mk","name":"Ла Лагунита"}
+{"id":355333406,"city_id":4614720,"language_key":"mk","name":"Ла Лагуна"}
+{"id":355335562,"city_id":4614748,"language_key":"mk","name":"Ла Јара"}
+{"id":355340952,"city_id":4614818,"language_key":"mk","name":"Лагунота"}
+{"id":355341722,"city_id":4614828,"language_key":"mk","name":"Лагунили"}
+{"id":355341799,"city_id":4614829,"language_key":"mk","name":"Лагунили"}
+{"id":355342877,"city_id":4614843,"language_key":"mk","name":"Лагуна Марцос"}
+{"id":355344725,"city_id":4614867,"language_key":"mk","name":"Ла Гуасдуилла"}
+{"id":355346111,"city_id":4614885,"language_key":"mk","name":"Ла Гуаира"}
+{"id":355351116,"city_id":4614950,"language_key":"mk","name":"Ла Фондацион"}
+{"id":355362974,"city_id":4615104,"language_key":"mk","name":"Ла Есмералда"}
+{"id":355365977,"city_id":4615143,"language_key":"mk","name":"Ла Доминга"}
+{"id":355366131,"city_id":4615145,"language_key":"mk","name":"Ла Диечинев"}
+{"id":355366593,"city_id":4615151,"language_key":"mk","name":"Демоцрациа"}
+{"id":355372368,"city_id":4615226,"language_key":"mk","name":"Ла Цруз де Таратара"}
+{"id":355376295,"city_id":4615277,"language_key":"mk","name":"Ла Консепсион"}
+{"id":355376526,"city_id":4615280,"language_key":"mk","name":"Концепција"}
+{"id":355380453,"city_id":4615331,"language_key":"mk","name":"Ла Сиега"}
+{"id":355382455,"city_id":4615357,"language_key":"mk","name":"Цхамета"}
+{"id":355383995,"city_id":4615377,"language_key":"mk","name":"Ла Цейита"}
+{"id":355387152,"city_id":4615418,"language_key":"mk","name":"Ла Сеиба"}
+{"id":355390001,"city_id":4615455,"language_key":"mk","name":"Царамуца"}
+{"id":355394544,"city_id":4615514,"language_key":"mk","name":"Ла Цабана"}
+{"id":355399780,"city_id":4615582,"language_key":"mk","name":"Ла Батеа"}
+{"id":355401320,"city_id":4615602,"language_key":"mk","name":"Ла Азулита"}
+{"id":355403553,"city_id":4615631,"language_key":"mk","name":"Ла Ареноса"}
+{"id":355405632,"city_id":4615658,"language_key":"mk","name":"Ла Агуадита"}
+{"id":355406479,"city_id":4615669,"language_key":"mk","name":"Ла Агуада"}
+{"id":355408635,"city_id":4615697,"language_key":"mk","name":"Канаваыен"}
+{"id":355408712,"city_id":4615698,"language_key":"mk","name":"Йусепин"}
+{"id":355408866,"city_id":4615700,"language_key":"mk","name":"Џунин"}
+{"id":355409636,"city_id":4615710,"language_key":"mk","name":"Йудибана"}
+{"id":355410329,"city_id":4615719,"language_key":"mk","name":"Йуан Гриего"}
+{"id":355414718,"city_id":4615776,"language_key":"mk","name":"Ксалиско"}
+{"id":355414872,"city_id":4615778,"language_key":"mk","name":"Йайи"}
+{"id":355416258,"city_id":4615796,"language_key":"mk","name":"Йацура"}
+{"id":355416874,"city_id":4615804,"language_key":"mk","name":"Йабон"}
+{"id":355418414,"city_id":4615824,"language_key":"mk","name":"Исноту"}
+{"id":355418722,"city_id":4615828,"language_key":"mk","name":"Ирапа"}
+{"id":355419646,"city_id":4615840,"language_key":"mk","name":"Индепенденција"}
+{"id":355420493,"city_id":4615851,"language_key":"mk","name":"Хумо Луз"}
+{"id":355420570,"city_id":4615852,"language_key":"mk","name":"Хумоцаро Байо"}
+{"id":355420647,"city_id":4615853,"language_key":"mk","name":"Хумоцаро Алто"}
+{"id":355421571,"city_id":4615865,"language_key":"mk","name":"Хигуероте"}
+{"id":355422880,"city_id":4615882,"language_key":"mk","name":"Ксалкуахута"}
+{"id":355429887,"city_id":4615973,"language_key":"mk","name":"Гуириа"}
+{"id":355430041,"city_id":4615975,"language_key":"mk","name":"Виуикина"}
+{"id":355430349,"city_id":4615979,"language_key":"mk","name":"Геиге"}
+{"id":355432505,"city_id":4616007,"language_key":"mk","name":"Гвајабонес"}
+{"id":355432813,"city_id":4616011,"language_key":"mk","name":"Гвајабал"}
+{"id":355434430,"city_id":4616032,"language_key":"mk","name":"Гвајабал"}
+{"id":355434969,"city_id":4616039,"language_key":"mk","name":"Гуатире"}
+{"id":355436047,"city_id":4616053,"language_key":"mk","name":"Гуасипати"}
+{"id":355439435,"city_id":4616097,"language_key":"mk","name":"Гуарицо"}
+{"id":355440282,"city_id":4616108,"language_key":"mk","name":"Гуаренас"}
+{"id":355440898,"city_id":4616116,"language_key":"mk","name":"Гуардатинайас"}
+{"id":355440975,"city_id":4616117,"language_key":"mk","name":"Гуараунос"}
+{"id":355441206,"city_id":4616120,"language_key":"mk","name":"Гуаратаро"}
+{"id":355441899,"city_id":4616129,"language_key":"mk","name":"Гуарак"}
+{"id":355444055,"city_id":4616157,"language_key":"mk","name":"Гуанта"}
+{"id":355445133,"city_id":4616171,"language_key":"mk","name":"Гуанарито"}
+{"id":355445287,"city_id":4616173,"language_key":"mk","name":"Гуанаре"}
+{"id":355445441,"city_id":4616175,"language_key":"mk","name":"Гуанапе"}
+{"id":355448521,"city_id":4616215,"language_key":"mk","name":"Гуама"}
+{"id":355448829,"city_id":4616219,"language_key":"mk","name":"Гуайира"}
+{"id":355450677,"city_id":4616243,"language_key":"mk","name":"Гвадарама"}
+{"id":355452525,"city_id":4616267,"language_key":"mk","name":"Гуацара"}
+{"id":355454296,"city_id":4616290,"language_key":"mk","name":"Гомез"}
+{"id":355459532,"city_id":4616358,"language_key":"mk","name":"Флор де Патриа"}
+{"id":355461226,"city_id":4616380,"language_key":"mk","name":"Фарриар"}
+{"id":355462227,"city_id":4616393,"language_key":"mk","name":"Есторакуе"}
+{"id":355464460,"city_id":4616422,"language_key":"mk","name":"Ескуке"}
+{"id":355465384,"city_id":4616434,"language_key":"mk","name":"Енцонтрадос"}
+{"id":355468156,"city_id":4616470,"language_key":"mk","name":"Ел Ыагуал"}
+{"id":355469311,"city_id":4616485,"language_key":"mk","name":"Ел Вигиа"}
+{"id":355471544,"city_id":4616514,"language_key":"mk","name":"Ел Валле дел Еспириту Санто"}
+{"id":355471621,"city_id":4616515,"language_key":"mk","name":"Ел Вале"}
+{"id":355473315,"city_id":4616537,"language_key":"mk","name":"Ел Триунфо"}
+{"id":355474547,"city_id":4616553,"language_key":"mk","name":"Ел Торо"}
+{"id":355474778,"city_id":4616556,"language_key":"mk","name":"Ел Торо"}
+{"id":355476010,"city_id":4616572,"language_key":"mk","name":"Ел Окуаро"}
+{"id":355478243,"city_id":4616601,"language_key":"mk","name":"Ел Тигре"}
+{"id":355479860,"city_id":4616622,"language_key":"mk","name":"Ел Тейеро"}
+{"id":355482555,"city_id":4616657,"language_key":"mk","name":"Ел Сомбреро"}
+{"id":355482786,"city_id":4616660,"language_key":"mk","name":"Ел Сокоро"}
+{"id":355483479,"city_id":4616669,"language_key":"mk","name":"Ел Сокоро"}
+{"id":355483941,"city_id":4616675,"language_key":"mk","name":"Ел Сокоро"}
+{"id":355484480,"city_id":4616682,"language_key":"mk","name":"Ел Силенцио"}
+{"id":355485173,"city_id":4616691,"language_key":"mk","name":"Ел Сиете"}
+{"id":355486174,"city_id":4616704,"language_key":"mk","name":"Ел Саман де Апуре"}
+{"id":355490794,"city_id":4616764,"language_key":"mk","name":"Лос Рокуес"}
+{"id":355498494,"city_id":4616864,"language_key":"mk","name":"Ел Регало"}
+{"id":355498725,"city_id":4616867,"language_key":"mk","name":"Ел Рекрео"}
+{"id":355501728,"city_id":4616906,"language_key":"mk","name":"Ел Пуеблито"}
+{"id":355510429,"city_id":4617019,"language_key":"mk","name":"Ел Пинар"}
+{"id":355510891,"city_id":4617025,"language_key":"mk","name":"Сан Рафаел дел Пинал"}
+{"id":355511353,"city_id":4617031,"language_key":"mk","name":"Ел Пилар"}
+{"id":355511430,"city_id":4617032,"language_key":"mk","name":"Ел Пилар"}
+{"id":355517590,"city_id":4617112,"language_key":"mk","name":"Ел Пауйи"}
+{"id":355518360,"city_id":4617122,"language_key":"mk","name":"Ел Пато"}
+{"id":355521517,"city_id":4617163,"language_key":"mk","name":"Ел Парадеро"}
+{"id":355522287,"city_id":4617173,"language_key":"mk","name":"Ел Пао Виейо"}
+{"id":355522364,"city_id":4617174,"language_key":"mk","name":"Ел Пао"}
+{"id":355524366,"city_id":4617200,"language_key":"mk","name":"Ел Палмер"}
+{"id":355526214,"city_id":4617224,"language_key":"mk","name":"Ел Палмар"}
+{"id":355528293,"city_id":4617251,"language_key":"mk","name":"Елорза"}
+{"id":355529063,"city_id":4617261,"language_key":"mk","name":"Ел Нула"}
+{"id":355529371,"city_id":4617265,"language_key":"mk","name":"Нокупетаро де Морелос"}
+{"id":355533221,"city_id":4617315,"language_key":"mk","name":"Лецхериас"}
+{"id":355534068,"city_id":4617326,"language_key":"mk","name":"Ел Моралито"}
+{"id":355535223,"city_id":4617341,"language_key":"mk","name":"Ел Молинете"}
+{"id":355535608,"city_id":4617346,"language_key":"mk","name":"Ел Милагро"}
+{"id":355538457,"city_id":4617383,"language_key":"mk","name":"Ел Мене"}
+{"id":355540459,"city_id":4617409,"language_key":"mk","name":"Ел Манзано"}
+{"id":355540536,"city_id":4617410,"language_key":"mk","name":"Ел Мантецо"}
+{"id":355540844,"city_id":4617414,"language_key":"mk","name":"Ел Мантецо"}
+{"id":355547928,"city_id":4617506,"language_key":"mk","name":"Ел Лимон"}
+{"id":355550238,"city_id":4617536,"language_key":"mk","name":"Ел Ламедеро"}
+{"id":355557630,"city_id":4617632,"language_key":"mk","name":"Ел Хатиљо"}
+{"id":355559016,"city_id":4617650,"language_key":"mk","name":"Ел Гвајабо"}
+{"id":355560094,"city_id":4617664,"language_key":"mk","name":"Ел Гуате"}
+{"id":355560402,"city_id":4617668,"language_key":"mk","name":"Ел Гуасимо"}
+{"id":355562019,"city_id":4617689,"language_key":"mk","name":"Ел Гуапо"}
+{"id":355565638,"city_id":4617736,"language_key":"mk","name":"Ел Гуацхаро"}
+{"id":355567640,"city_id":4617762,"language_key":"mk","name":"Ел Фурриал"}
+{"id":355570566,"city_id":4617800,"language_key":"mk","name":"Ел Енеал"}
+{"id":355571336,"city_id":4617810,"language_key":"mk","name":"Ел Енканто"}
+{"id":355572799,"city_id":4617829,"language_key":"mk","name":"Ел Дорадо"}
+{"id":355573261,"city_id":4617835,"language_key":"mk","name":"Ел Дивидиве"}
+{"id":355579421,"city_id":4617915,"language_key":"mk","name":"Ел Крус"}
+{"id":355580191,"city_id":4617925,"language_key":"mk","name":"Ел Корозо"}
+{"id":355581346,"city_id":4617940,"language_key":"mk","name":"Ел Корозо"}
+{"id":355582886,"city_id":4617960,"language_key":"mk","name":"Ел Цонсейо"}
+{"id":355583040,"city_id":4617962,"language_key":"mk","name":"Ел Цонсейо"}
+{"id":355585350,"city_id":4617992,"language_key":"mk","name":"Ел Кобре"}
+{"id":355585427,"city_id":4617993,"language_key":"mk","name":"Ел Кобре"}
+{"id":355590355,"city_id":4618057,"language_key":"mk","name":"Ел Сероте"}
+{"id":355598517,"city_id":4618163,"language_key":"mk","name":"Ел Цармело"}
+{"id":355601597,"city_id":4618203,"language_key":"mk","name":"Ел Кантон"}
+{"id":355601982,"city_id":4618208,"language_key":"mk","name":"Ел Кантон"}
+{"id":355604908,"city_id":4618246,"language_key":"mk","name":"Ел Цаллао"}
+{"id":355606294,"city_id":4618264,"language_key":"mk","name":"Ел Цафе"}
+{"id":355611684,"city_id":4618334,"language_key":"mk","name":"Ел Баул"}
+{"id":355618229,"city_id":4618419,"language_key":"mk","name":"Ел Ампаро де Апуре"}
+{"id":355618383,"city_id":4618421,"language_key":"mk","name":"Ел Ампаро"}
+{"id":355624312,"city_id":4618498,"language_key":"mk","name":"Ейидо"}
+{"id":355624928,"city_id":4618506,"language_key":"mk","name":"Дуаца"}
+{"id":355625005,"city_id":4618507,"language_key":"mk","name":"Дос Риос"}
+{"id":355625929,"city_id":4618519,"language_key":"mk","name":"Долорес"}
+{"id":355626006,"city_id":4618520,"language_key":"mk","name":"Долорес"}
+{"id":355627469,"city_id":4618539,"language_key":"mk","name":"Дабайуро"}
+{"id":355629240,"city_id":4618562,"language_key":"mk","name":"Цуриепе"}
+{"id":355629625,"city_id":4618567,"language_key":"mk","name":"Цуриапо"}
+{"id":355629933,"city_id":4618571,"language_key":"mk","name":"Цурбати"}
+{"id":355631781,"city_id":4618595,"language_key":"mk","name":"Цупира"}
+{"id":355634014,"city_id":4618624,"language_key":"mk","name":"Цуманацоа"}
+{"id":355634091,"city_id":4618625,"language_key":"mk","name":"Цумана"}
+{"id":355636863,"city_id":4618661,"language_key":"mk","name":"Цубиро"}
+{"id":355637325,"city_id":4618667,"language_key":"mk","name":"Куатро Есквинас"}
+{"id":355637864,"city_id":4618674,"language_key":"mk","name":"Цуара"}
+{"id":355638326,"city_id":4618680,"language_key":"mk","name":"Цуа"}
+{"id":355648259,"city_id":4618809,"language_key":"mk","name":"Цоро"}
+{"id":355648567,"city_id":4618813,"language_key":"mk","name":"Цордоба"}
+{"id":355648644,"city_id":4618814,"language_key":"mk","name":"Цордеро"}
+{"id":355650723,"city_id":4618841,"language_key":"mk","name":"Конгорочо"}
+{"id":355651339,"city_id":4618849,"language_key":"mk","name":"Конха"}
+{"id":355651493,"city_id":4618851,"language_key":"mk","name":"Концепција"}
+{"id":355652648,"city_id":4618866,"language_key":"mk","name":"Цолониа Товар"}
+{"id":355652956,"city_id":4618870,"language_key":"mk","name":"Цолонцито"}
+{"id":355653418,"city_id":4618876,"language_key":"mk","name":"Цолина"}
+{"id":355653726,"city_id":4618880,"language_key":"mk","name":"Цойедес"}
+{"id":355656575,"city_id":4618917,"language_key":"mk","name":"Цоцороте"}
+{"id":355656883,"city_id":4618921,"language_key":"mk","name":"Цоцо де Моно"}
+{"id":355657653,"city_id":4618931,"language_key":"mk","name":"Кларини"}
+{"id":355657730,"city_id":4618932,"language_key":"mk","name":"Циудад Пиар"}
+{"id":355657807,"city_id":4618933,"language_key":"mk","name":"Циудад Ойеда"}
+{"id":355657884,"city_id":4618934,"language_key":"mk","name":"Гвајана"}
+{"id":355657961,"city_id":4618935,"language_key":"mk","name":"Циудад де Нутриас"}
+{"id":355658038,"city_id":4618936,"language_key":"mk","name":"Циудад Боливиа"}
+{"id":355658115,"city_id":4618937,"language_key":"mk","name":"Боливар"}
+{"id":355658269,"city_id":4618939,"language_key":"mk","name":"Циприано"}
+{"id":355659809,"city_id":4618959,"language_key":"mk","name":"Цхуругуара"}
+{"id":355660194,"city_id":4618964,"language_key":"mk","name":"Цхунауре"}
+{"id":355660425,"city_id":4618967,"language_key":"mk","name":"Цхуао"}
+{"id":355661272,"city_id":4618978,"language_key":"mk","name":"Цхорони"}
+{"id":355662042,"city_id":4618988,"language_key":"mk","name":"Цхивацоа"}
+{"id":355662735,"city_id":4618997,"language_key":"mk","name":"Цхиргуа"}
+{"id":355662966,"city_id":4619000,"language_key":"mk","name":"Чикинкира"}
+{"id":355663967,"city_id":4619013,"language_key":"mk","name":"Чимборазо"}
+{"id":355664429,"city_id":4619019,"language_key":"mk","name":"Цхигуара"}
+{"id":355664737,"city_id":4619023,"language_key":"mk","name":"Цхицхиривицхе"}
+{"id":355665122,"city_id":4619028,"language_key":"mk","name":"Цхейенде"}
+{"id":355665584,"city_id":4619034,"language_key":"mk","name":"Цхараллаве"}
+{"id":355667047,"city_id":4619053,"language_key":"mk","name":"Шамизал"}
+{"id":355667894,"city_id":4619064,"language_key":"mk","name":"Цхагуарамас"}
+{"id":355668125,"city_id":4619067,"language_key":"mk","name":"Цхагуарамал"}
+{"id":355668510,"city_id":4619072,"language_key":"mk","name":"Цхацопата"}
+{"id":355669126,"city_id":4619080,"language_key":"mk","name":"Цхацао"}
+{"id":355669588,"city_id":4619086,"language_key":"mk","name":"Цеута"}
+{"id":355672360,"city_id":4619122,"language_key":"mk","name":"Цепед"}
+{"id":355672668,"city_id":4619126,"language_key":"mk","name":"Такаригуа"}
+{"id":355673900,"city_id":4619142,"language_key":"mk","name":"Цедено"}
+{"id":355675748,"city_id":4619166,"language_key":"mk","name":"Цауцагуито"}
+{"id":355675825,"city_id":4619167,"language_key":"mk","name":"Цауцагуа"}
+{"id":355676287,"city_id":4619173,"language_key":"mk","name":"Цатуаро"}
+{"id":355676441,"city_id":4619175,"language_key":"mk","name":"Цатиа Ла Мар"}
+{"id":355676672,"city_id":4619178,"language_key":"mk","name":"Цататумбо"}
+{"id":355679983,"city_id":4619221,"language_key":"mk","name":"Цасигуа-Ел Цубо"}
+{"id":355680599,"city_id":4619229,"language_key":"mk","name":"Цасанаы"}
+{"id":355681831,"city_id":4619245,"language_key":"mk","name":"Цасацоима"}
+{"id":355683756,"city_id":4619270,"language_key":"mk","name":"Царупано"}
+{"id":355685989,"city_id":4619299,"language_key":"mk","name":"Каризал"}
+{"id":355687298,"city_id":4619316,"language_key":"mk","name":"Царраскуеро"}
+{"id":355687991,"city_id":4619325,"language_key":"mk","name":"Царора"}
+{"id":355688068,"city_id":4619326,"language_key":"mk","name":"Карони"}
+{"id":355688453,"city_id":4619331,"language_key":"mk","name":"Цармен де Цура"}
+{"id":355688915,"city_id":4619337,"language_key":"mk","name":"Царирубана"}
+{"id":355688992,"city_id":4619338,"language_key":"mk","name":"Царипито"}
+{"id":355689069,"city_id":4619339,"language_key":"mk","name":"Царипе"}
+{"id":355689839,"city_id":4619349,"language_key":"mk","name":"Цариацо"}
+{"id":355691379,"city_id":4619369,"language_key":"mk","name":"Цараыаца"}
+{"id":355694151,"city_id":4619405,"language_key":"mk","name":"Царамацате"}
+{"id":355694844,"city_id":4619414,"language_key":"mk","name":"Марбачче"}
+{"id":355694998,"city_id":4619416,"language_key":"mk","name":"Каракас"}
+{"id":355696076,"city_id":4619430,"language_key":"mk","name":"Царабалледа"}
+{"id":355696692,"city_id":4619438,"language_key":"mk","name":"Цапитанейо"}
+{"id":355697462,"city_id":4619448,"language_key":"mk","name":"Канапе Капатарида"}
+{"id":355697693,"city_id":4619451,"language_key":"mk","name":"Цападаре"}
+{"id":355698694,"city_id":4619464,"language_key":"mk","name":"Цантаура"}
+{"id":355701697,"city_id":4619503,"language_key":"mk","name":"Цано Негро"}
+{"id":355706086,"city_id":4619560,"language_key":"mk","name":"Цаноабо"}
+{"id":355707087,"city_id":4619573,"language_key":"mk","name":"Канделарија"}
+{"id":355710937,"city_id":4619623,"language_key":"mk","name":"Цампома"}
+{"id":355711399,"city_id":4619629,"language_key":"mk","name":"Цампо Гуаыараца"}
+{"id":355711630,"city_id":4619632,"language_key":"mk","name":"Цампо Елиас"}
+{"id":355711861,"city_id":4619635,"language_key":"mk","name":"Цампо Елиас"}
+{"id":355719561,"city_id":4619735,"language_key":"mk","name":"Цаматагуа"}
+{"id":355719946,"city_id":4619740,"language_key":"mk","name":"Цамагуан"}
+{"id":355720870,"city_id":4619752,"language_key":"mk","name":"Калдери"}
+{"id":355721332,"city_id":4619758,"language_key":"mk","name":"Цаладо"}
+{"id":355721409,"city_id":4619759,"language_key":"mk","name":"Калабозо"}
+{"id":355722025,"city_id":4619767,"language_key":"mk","name":"Цайа Сеца"}
+{"id":355723488,"city_id":4619786,"language_key":"mk","name":"Цаигуа"}
+{"id":355724104,"city_id":4619794,"language_key":"mk","name":"Каикара"}
+{"id":355724258,"city_id":4619796,"language_key":"mk","name":"Цаицара дел Ориноцо"}
+{"id":355724566,"city_id":4619800,"language_key":"mk","name":"Цагуада"}
+{"id":355724643,"city_id":4619801,"language_key":"mk","name":"Чанг-Хуа"}
+{"id":355725182,"city_id":4619808,"language_key":"mk","name":"Цацхипо"}
+{"id":355726491,"city_id":4619825,"language_key":"mk","name":"Цабуре"}
+{"id":355726568,"city_id":4619826,"language_key":"mk","name":"Цабударе"}
+{"id":355726645,"city_id":4619827,"language_key":"mk","name":"Цабрута"}
+{"id":355726953,"city_id":4619831,"language_key":"mk","name":"Цабимас"}
+{"id":355729032,"city_id":4619858,"language_key":"mk","name":"Бурбусаы"}
+{"id":355729109,"city_id":4619859,"language_key":"mk","name":"Бум Бум"}
+{"id":355731727,"city_id":4619893,"language_key":"mk","name":"Буенос Аирес"}
+{"id":355731881,"city_id":4619895,"language_key":"mk","name":"Буена Виста"}
+{"id":355736501,"city_id":4619955,"language_key":"mk","name":"Буена Виста"}
+{"id":355737348,"city_id":4619966,"language_key":"mk","name":"Буцхивацоа"}
+{"id":355738965,"city_id":4619987,"language_key":"mk","name":"Брузуал"}
+{"id":355739581,"city_id":4619995,"language_key":"mk","name":"Брамон"}
+{"id":355741660,"city_id":4620022,"language_key":"mk","name":"Борота"}
+{"id":355742276,"city_id":4620030,"language_key":"mk","name":"Борбурата"}
+{"id":355742507,"city_id":4620033,"language_key":"mk","name":"Борауре"}
+{"id":355745279,"city_id":4620069,"language_key":"mk","name":"Боливар"}
+{"id":355745741,"city_id":4620075,"language_key":"mk","name":"Боцоноито"}
+{"id":355745895,"city_id":4620077,"language_key":"mk","name":"Боцоно"}
+{"id":355747358,"city_id":4620096,"language_key":"mk","name":"Боца де Уцхире"}
+{"id":355748744,"city_id":4620114,"language_key":"mk","name":"Боца дел Рио"}
+{"id":355748821,"city_id":4620115,"language_key":"mk","name":"Боца дел Рио"}
+{"id":355750053,"city_id":4620131,"language_key":"mk","name":"Боца де Цасанарито"}
+{"id":355750130,"city_id":4620132,"language_key":"mk","name":"Боца де Ароа"}
+{"id":355751131,"city_id":4620145,"language_key":"mk","name":"Бобурес"}
+{"id":355751285,"city_id":4620147,"language_key":"mk","name":"Бобаре"}
+{"id":355751439,"city_id":4620149,"language_key":"mk","name":"Бискукуј"}
+{"id":355751593,"city_id":4620151,"language_key":"mk","name":"Бируаца"}
+{"id":355751978,"city_id":4620156,"language_key":"mk","name":"Бетижок"}
+{"id":355752286,"city_id":4620160,"language_key":"mk","name":"Бермудез"}
+{"id":355752594,"city_id":4620164,"language_key":"mk","name":"Бергантин"}
+{"id":355754673,"city_id":4620191,"language_key":"mk","name":"Беленеро"}
+{"id":355754827,"city_id":4620193,"language_key":"mk","name":"Белен"}
+{"id":355756213,"city_id":4620211,"language_key":"mk","name":"Бейума"}
+{"id":355757830,"city_id":4620232,"language_key":"mk","name":"Барута"}
+{"id":355759370,"city_id":4620252,"language_key":"mk","name":"Барера Ариба"}
+{"id":355759524,"city_id":4620254,"language_key":"mk","name":"Барранкуитас"}
+{"id":355760525,"city_id":4620267,"language_key":"mk","name":"Баранкас"}
+{"id":355760602,"city_id":4620268,"language_key":"mk","name":"Баранкас"}
+{"id":355761218,"city_id":4620276,"language_key":"mk","name":"Баркисимето"}
+{"id":355762065,"city_id":4620287,"language_key":"mk","name":"Баринитас"}
+{"id":355762142,"city_id":4620288,"language_key":"mk","name":"Баринас"}
+{"id":355762296,"city_id":4620290,"language_key":"mk","name":"Барселона"}
+{"id":355763143,"city_id":4620301,"language_key":"mk","name":"Барбацоас"}
+{"id":355763374,"city_id":4620304,"language_key":"mk","name":"Барбацоас"}
+{"id":355767070,"city_id":4620352,"language_key":"mk","name":"Баиладорес"}
+{"id":355767455,"city_id":4620357,"language_key":"mk","name":"Бачакеро"}
+{"id":355771151,"city_id":4620405,"language_key":"mk","name":"Ароа"}
+{"id":355771305,"city_id":4620407,"language_key":"mk","name":"Арисменди"}
+{"id":355771382,"city_id":4620408,"language_key":"mk","name":"Арисменди"}
+{"id":355771921,"city_id":4620415,"language_key":"mk","name":"Аричуна"}
+{"id":355771998,"city_id":4620416,"language_key":"mk","name":"Арицагуа"}
+{"id":355772075,"city_id":4620417,"language_key":"mk","name":"Арицагуа"}
+{"id":355773307,"city_id":4620433,"language_key":"mk","name":"Арените"}
+{"id":355773846,"city_id":4620440,"language_key":"mk","name":"Арегуе"}
+{"id":355774231,"city_id":4620445,"language_key":"mk","name":"Араја"}
+{"id":355774539,"city_id":4620449,"language_key":"mk","name":"Арауре"}
+{"id":355774616,"city_id":4620450,"language_key":"mk","name":"Араукита"}
+{"id":355775848,"city_id":4620466,"language_key":"mk","name":"Араира"}
+{"id":355776772,"city_id":4620478,"language_key":"mk","name":"Арагва"}
+{"id":355776849,"city_id":4620479,"language_key":"mk","name":"Арагуа де Барцелона"}
+{"id":355777850,"city_id":4620492,"language_key":"mk","name":"Апартадерос"}
+{"id":355778697,"city_id":4620503,"language_key":"mk","name":"Анзоатегуи"}
+{"id":355784549,"city_id":4620579,"language_key":"mk","name":"Алтамира"}
+{"id":355784780,"city_id":4620582,"language_key":"mk","name":"Алтаграциа де Оритуцо"}
+{"id":355784857,"city_id":4620583,"language_key":"mk","name":"Алтаграциа де Ла Монтана"}
+{"id":355784934,"city_id":4620584,"language_key":"mk","name":"Алтаграциа"}
+{"id":355785011,"city_id":4620585,"language_key":"mk","name":"Лос Пуертос де Алтаграсија"}
+{"id":355787013,"city_id":4620611,"language_key":"mk","name":"Алгарробо"}
+{"id":355788784,"city_id":4620634,"language_key":"mk","name":"Агуима"}
+{"id":355789939,"city_id":4620649,"language_key":"mk","name":"Агуасаы"}
+{"id":355790016,"city_id":4620650,"language_key":"mk","name":"Агуа Санта"}
+{"id":355794020,"city_id":4620702,"language_key":"mk","name":"Агуада Гранде"}
+{"id":355798255,"city_id":4620757,"language_key":"mk","name":"Адицора"}
+{"id":355798794,"city_id":4620764,"language_key":"mk","name":"Ацхагуас"}
+{"id":355798871,"city_id":4620765,"language_key":"mk","name":"Ацеведо"}
+{"id":355799487,"city_id":4620773,"language_key":"mk","name":"Ацаригуа"}
+{"id":355800103,"city_id":4620781,"language_key":"mk","name":"Абейалес"}
+{"id":355803645,"city_id":4620827,"language_key":"mk","name":"Лас Месас"}
+{"id":355806802,"city_id":4620868,"language_key":"mk","name":"Ла Идеја"}
+{"id":355806879,"city_id":4620869,"language_key":"mk","name":"Сан Йосе де Боливар"}
+{"id":355817120,"city_id":4621002,"language_key":"mk","name":"Цампо Бернал"}
+{"id":355822741,"city_id":4621075,"language_key":"mk","name":"Сан Педро"}
+{"id":355825282,"city_id":4621108,"language_key":"mk","name":"Пинанго"}
+{"id":355826976,"city_id":4621130,"language_key":"mk","name":"Ел Агуацатицо"}
+{"id":355828362,"city_id":4621148,"language_key":"mk","name":"Лос Веготес"}
+{"id":355831365,"city_id":4621187,"language_key":"mk","name":"Ел Мангвито"}
+{"id":355831750,"city_id":4621192,"language_key":"mk","name":"Лас Деликијас"}
+{"id":355832058,"city_id":4621196,"language_key":"mk","name":"Мартин"}
+{"id":355834060,"city_id":4621222,"language_key":"mk","name":"Гарсија"}
+{"id":355835446,"city_id":4621240,"language_key":"mk","name":"Ел Пласер"}
+{"id":355850615,"city_id":4621437,"language_key":"mk","name":"Батал"}
+{"id":355851385,"city_id":4621447,"language_key":"mk","name":"Ел Перено"}
+{"id":355852771,"city_id":4621465,"language_key":"mk","name":"Мијагеито"}
+{"id":355853156,"city_id":4621470,"language_key":"mk","name":"Лос Цоцхинос"}
+{"id":355862858,"city_id":4621596,"language_key":"mk","name":"Позо Верде"}
+{"id":355865399,"city_id":4621629,"language_key":"mk","name":"Цедено"}
+{"id":355870404,"city_id":4621694,"language_key":"mk","name":"Ел Позон"}
+{"id":355874331,"city_id":4621745,"language_key":"mk","name":"Лос Патос"}
+{"id":355881569,"city_id":4621839,"language_key":"mk","name":"Пасо Реал"}
+{"id":355882108,"city_id":4621846,"language_key":"mk","name":"Цампо Соло"}
+{"id":355887421,"city_id":4621915,"language_key":"mk","name":"Лос Мерејес"}
+{"id":355896969,"city_id":4622039,"language_key":"mk","name":"Сауцедо"}
+{"id":355901358,"city_id":4622096,"language_key":"mk","name":"Замбрано"}
+{"id":355902590,"city_id":4622112,"language_key":"mk","name":"Ел Тромпило"}
+{"id":355926691,"city_id":4622425,"language_key":"mk","name":"Санта Рита"}
+{"id":355944632,"city_id":4622658,"language_key":"mk","name":"Ла Таза"}
+{"id":355953718,"city_id":4622776,"language_key":"mk","name":"Ел Зорро"}
+{"id":355958107,"city_id":4622833,"language_key":"mk","name":"Патос Гуаыабал"}
+{"id":355958800,"city_id":4622842,"language_key":"mk","name":"Исла Ратон"}
+{"id":355963420,"city_id":4622902,"language_key":"mk","name":"Педраза"}
+{"id":355973969,"city_id":4623039,"language_key":"mk","name":"Пуебло Нуево"}
+{"id":355978974,"city_id":4623104,"language_key":"mk","name":"Сан Йосесито"}
+{"id":355979359,"city_id":4623109,"language_key":"mk","name":"Урибанте"}
+{"id":355987906,"city_id":4623220,"language_key":"mk","name":"Лас Лланадас"}
+{"id":355991602,"city_id":4623268,"language_key":"mk","name":"Цордеро"}
+{"id":356003691,"city_id":4623425,"language_key":"mk","name":"Пасо Ларго"}
+{"id":356010390,"city_id":4623512,"language_key":"mk","name":"Сиерра Иматаца"}
+{"id":356013393,"city_id":4623551,"language_key":"mk","name":"Мерейина"}
+{"id":356014086,"city_id":4623560,"language_key":"mk","name":"Лас Навас"}
+{"id":356023403,"city_id":4623681,"language_key":"mk","name":"Ел Рекрео"}
+{"id":356032951,"city_id":4623805,"language_key":"mk","name":"Лос Позотес"}
+{"id":356038649,"city_id":4623879,"language_key":"mk","name":"Лас Маргаритас"}
+{"id":356054588,"city_id":4624086,"language_key":"mk","name":"Лас Тинајас"}
+{"id":356056898,"city_id":4624116,"language_key":"mk","name":"Ла Хонда"}
+{"id":356058361,"city_id":4624135,"language_key":"mk","name":"Вила Арауре Уно"}
+{"id":356061210,"city_id":4624172,"language_key":"mk","name":"Ел Пицуре"}
+{"id":356061826,"city_id":4624180,"language_key":"mk","name":"Ла Луз"}
+{"id":356070604,"city_id":4624294,"language_key":"mk","name":"Цуйицито"}
+{"id":356080075,"city_id":4624417,"language_key":"mk","name":"Пиедрас Неграс"}
+{"id":356082077,"city_id":4624443,"language_key":"mk","name":"Ел Ринкон"}
+{"id":356083386,"city_id":4624460,"language_key":"mk","name":"Сан Феликс"}
+{"id":356094243,"city_id":4624601,"language_key":"mk","name":"Мамонал"}
+{"id":356097708,"city_id":4624646,"language_key":"mk","name":"Сан Йосе де Гуарибе"}
+{"id":356098170,"city_id":4624652,"language_key":"mk","name":"Санта Рита"}
+{"id":356111722,"city_id":4624828,"language_key":"mk","name":"Ел Хуесо"}
+{"id":356114802,"city_id":4624868,"language_key":"mk","name":"Матурин"}
+{"id":356117728,"city_id":4624906,"language_key":"mk","name":"Ел Пасо де Лос Индиос"}
+{"id":356120346,"city_id":4624940,"language_key":"mk","name":"Ла Реацамара"}
+{"id":356128585,"city_id":4625047,"language_key":"mk","name":"Палмасола"}
+{"id":356141136,"city_id":4625210,"language_key":"mk","name":"Турен"}
+{"id":356144139,"city_id":4625249,"language_key":"mk","name":"Ла Агуада"}
+{"id":356144216,"city_id":4625250,"language_key":"mk","name":"Ла Агуада"}
+{"id":356146680,"city_id":4625282,"language_key":"mk","name":"Ел Бразил"}
+{"id":356157152,"city_id":4625418,"language_key":"mk","name":"Гуарицапо"}
+{"id":356162157,"city_id":4625483,"language_key":"mk","name":"Цампо Лара"}
+{"id":356165083,"city_id":4625521,"language_key":"mk","name":"Километро Виентидо"}
+{"id":356174554,"city_id":4625644,"language_key":"mk","name":"Ел Пайон"}
+{"id":356180252,"city_id":4625718,"language_key":"mk","name":"Делика"}
+{"id":356180483,"city_id":4625721,"language_key":"mk","name":"Ла Фриа"}
+{"id":356180714,"city_id":4625724,"language_key":"mk","name":"Ла Грита"}
+{"id":356181715,"city_id":4625737,"language_key":"mk","name":"Цапацхо Нуево"}
+{"id":356186181,"city_id":4625795,"language_key":"mk","name":"Лас Уертас"}
+{"id":356188337,"city_id":4625823,"language_key":"mk","name":"Ла Тендида"}
+{"id":356197731,"city_id":4625945,"language_key":"mk","name":"Цуеста Абайо"}
+{"id":356204199,"city_id":4626029,"language_key":"mk","name":"Луциа"}
+{"id":356215903,"city_id":4626181,"language_key":"mk","name":"Лос Позос Афуера"}
+{"id":356223141,"city_id":4626275,"language_key":"mk","name":"Рио Сан Педро"}
+{"id":356223988,"city_id":4626286,"language_key":"mk","name":"Санта Елена"}
+{"id":356227684,"city_id":4626334,"language_key":"mk","name":"Ла Валериана"}
+{"id":356228454,"city_id":4626344,"language_key":"mk","name":"Лас Вегас"}
+{"id":356234922,"city_id":4626428,"language_key":"mk","name":"Цхацопата"}
+{"id":356235461,"city_id":4626435,"language_key":"mk","name":"Цхипицхипе"}
+{"id":356242006,"city_id":4626520,"language_key":"mk","name":"Агуа Бланка"}
+{"id":356247088,"city_id":4626586,"language_key":"mk","name":"Лас Деликијас"}
+{"id":356249475,"city_id":4626617,"language_key":"mk","name":"Ла Исла"}
+{"id":356254634,"city_id":4626684,"language_key":"mk","name":"Ел Плејон"}
+{"id":356258869,"city_id":4626739,"language_key":"mk","name":"Ла Силлета"}
+{"id":356260948,"city_id":4626766,"language_key":"mk","name":"Арапуеы"}
+{"id":356261179,"city_id":4626769,"language_key":"mk","name":"Ел Батеы"}
+{"id":356263951,"city_id":4626805,"language_key":"mk","name":"Мацапо"}
+{"id":356273807,"city_id":4626933,"language_key":"mk","name":"Ла Конкордија"}
+{"id":356277118,"city_id":4626976,"language_key":"mk","name":"Манрикуе"}
+{"id":356283663,"city_id":4627061,"language_key":"mk","name":"Цауцагуита"}
+{"id":356283740,"city_id":4627062,"language_key":"mk","name":"Ла Сеиба"}
+{"id":356293904,"city_id":4627194,"language_key":"mk","name":"Тотумито"}
+{"id":356297600,"city_id":4627242,"language_key":"mk","name":"Гуасдуалито"}
+{"id":356298601,"city_id":4627255,"language_key":"mk","name":"Лас Мерцедес"}
+{"id":356300372,"city_id":4627278,"language_key":"mk","name":"Сан Фернандо де Апуре"}
+{"id":356300603,"city_id":4627281,"language_key":"mk","name":"Сан Йуан де Паыара"}
+{"id":356315926,"city_id":4627480,"language_key":"mk","name":"Сан Себастијан"}
+{"id":356317620,"city_id":4627502,"language_key":"mk","name":"Турмерито"}
+{"id":356318159,"city_id":4627509,"language_key":"mk","name":"Варгас"}
+{"id":356345417,"city_id":4627863,"language_key":"mk","name":"Мандигал"}
+{"id":356354657,"city_id":4627983,"language_key":"mk","name":"Ел Пилон"}
+{"id":356359354,"city_id":4628044,"language_key":"mk","name":"Ел Родео"}
+{"id":356372290,"city_id":4628212,"language_key":"mk","name":"Ел Диарио де Јаракуј"}
+{"id":356372829,"city_id":4628219,"language_key":"mk","name":"Санта Круз де лос Такес"}
+{"id":356372983,"city_id":4628221,"language_key":"mk","name":"Индепенденција"}
+{"id":356376525,"city_id":4628267,"language_key":"mk","name":"Ел Йунко"}
+{"id":356377603,"city_id":4628281,"language_key":"mk","name":"Маризапа"}
+{"id":356381376,"city_id":4628330,"language_key":"mk","name":"Гарциа де Хевиа Муниципалиты"}

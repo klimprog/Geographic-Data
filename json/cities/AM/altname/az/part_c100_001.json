@@ -1,0 +1,964 @@
+{"id":2748365,"city_id":35694,"language_key":"az","name":"Zeytə"}
+{"id":2748442,"city_id":35695,"language_key":"az","name":"Paşalı"}
+{"id":2748519,"city_id":35696,"language_key":"az","name":"Çanaxçı"}
+{"id":2748596,"city_id":35697,"language_key":"az","name":"Goravan"}
+{"id":2748673,"city_id":35698,"language_key":"az","name":"Yeğvard"}
+{"id":2748750,"city_id":35699,"language_key":"az","name":"Şidli"}
+{"id":2748827,"city_id":35700,"language_key":"az","name":"Yeğeqnadzor"}
+{"id":2748904,"city_id":35701,"language_key":"az","name":"Şabadin"}
+{"id":2749058,"city_id":35703,"language_key":"az","name":"Bəcəyəzli"}
+{"id":2749135,"city_id":35704,"language_key":"az","name":"Şirazlı"}
+{"id":2749212,"city_id":35705,"language_key":"az","name":"Başkənd"}
+{"id":2749289,"city_id":35706,"language_key":"az","name":"Verişen"}
+{"id":2749366,"city_id":35707,"language_key":"az","name":"Verin Vac'agan"}
+{"id":2749443,"city_id":35708,"language_key":"az","name":"Yuzarı Xotanan"}
+{"id":2749520,"city_id":35709,"language_key":"az","name":"Yuxarı Gödəkli"}
+{"id":2749597,"city_id":35710,"language_key":"az","name":"Vedi"}
+{"id":2749674,"city_id":35711,"language_key":"az","name":"Vayk"}
+{"id":2749751,"city_id":35712,"language_key":"az","name":"Qaşqa"}
+{"id":2749828,"city_id":35713,"language_key":"az","name":"Seyidlər kəndi"}
+{"id":2749905,"city_id":35714,"language_key":"az","name":"Gülüdüzü"}
+{"id":2749982,"city_id":35715,"language_key":"az","name":"Vağudi"}
+{"id":2750059,"city_id":35716,"language_key":"az","name":"Vağravar"}
+{"id":2750136,"city_id":35717,"language_key":"az","name":"Ucanis"}
+{"id":2750213,"city_id":35718,"language_key":"az","name":"Uz"}
+{"id":2750290,"city_id":35719,"language_key":"az","name":"Urud"}
+{"id":2750444,"city_id":35721,"language_key":"az","name":"Tsab"}
+{"id":2750521,"city_id":35722,"language_key":"az","name":"Tulus"}
+{"id":2750598,"city_id":35723,"language_key":"az","name":"Tex"}
+{"id":2750675,"city_id":35724,"language_key":"az","name":"Tapşırıq"}
+{"id":2750752,"city_id":35725,"language_key":"az","name":"Vanasen"}
+{"id":2750829,"city_id":35726,"language_key":"az","name":"Tatevges"}
+{"id":2750906,"city_id":35727,"language_key":"az","name":"Tatev"}
+{"id":2750983,"city_id":35728,"language_key":"az","name":"Taştun"}
+{"id":2751060,"city_id":35729,"language_key":"az","name":"Dərətumb"}
+{"id":2751137,"city_id":35730,"language_key":"az","name":"Tandzaver"}
+{"id":2751214,"city_id":35731,"language_key":"az","name":"Tənzətap"}
+{"id":2751291,"city_id":35732,"language_key":"az","name":"Suvaranats"}
+{"id":2751368,"city_id":35733,"language_key":"az","name":"Surenavan"}
+{"id":2751445,"city_id":35734,"language_key":"az","name":"Kilsəkənd"}
+{"id":2751522,"city_id":35735,"language_key":"az","name":"Qalacıq"}
+{"id":2751599,"city_id":35736,"language_key":"az","name":"Sofulu"}
+{"id":2751676,"city_id":35737,"language_key":"az","name":"Sznak"}
+{"id":2751753,"city_id":35738,"language_key":"az","name":"Sisian"}
+{"id":2751830,"city_id":35739,"language_key":"az","name":"Yengicə"}
+{"id":2751907,"city_id":35740,"language_key":"az","name":"Şvanidzor"}
+{"id":2751984,"city_id":35741,"language_key":"az","name":"Şurnux"}
+{"id":2752061,"city_id":35742,"language_key":"az","name":"Şrvenants"}
+{"id":2752138,"city_id":35743,"language_key":"az","name":"Şişkert"}
+{"id":2752215,"city_id":35744,"language_key":"az","name":"Şinuayr"}
+{"id":2752292,"city_id":35745,"language_key":"az","name":"Lusarat"}
+{"id":2752369,"city_id":35746,"language_key":"az","name":"Şıxovuz"}
+{"id":2752523,"city_id":35748,"language_key":"az","name":"Şinadağ"}
+{"id":2752600,"city_id":35749,"language_key":"az","name":"Yuva"}
+{"id":2752677,"city_id":35750,"language_key":"az","name":"Həsənkənd"}
+{"id":2752754,"city_id":35751,"language_key":"az","name":"Şamb"}
+{"id":2752831,"city_id":35752,"language_key":"az","name":"Şəki"}
+{"id":2752908,"city_id":35753,"language_key":"az","name":"Şalat"}
+{"id":2752985,"city_id":35754,"language_key":"az","name":"Şahablı"}
+{"id":2753062,"city_id":35755,"language_key":"az","name":"Sevakar"}
+{"id":2753139,"city_id":35756,"language_key":"az","name":"Sers"}
+{"id":2753216,"city_id":35757,"language_key":"az","name":"Saybalı"}
+{"id":2753293,"city_id":35758,"language_key":"az","name":"Terp"}
+{"id":2753370,"city_id":35759,"language_key":"az","name":"Əlili"}
+{"id":2753447,"city_id":35760,"language_key":"az","name":"Sallı"}
+{"id":2753601,"city_id":35762,"language_key":"az","name":"Rind"}
+{"id":2753755,"city_id":35764,"language_key":"az","name":"Por"}
+{"id":2753909,"city_id":35766,"language_key":"az","name":"Nor Astgaberd"}
+{"id":2753986,"city_id":35767,"language_key":"az","name":"Orbatex"}
+{"id":2754063,"city_id":35768,"language_key":"az","name":"Oxtar"}
+{"id":2754140,"city_id":35769,"language_key":"az","name":"Nrnadzor"}
+{"id":2754217,"city_id":35770,"language_key":"az","name":"Xalisa"}
+{"id":2754294,"city_id":35771,"language_key":"az","name":"Nor Qyank"}
+{"id":2754371,"city_id":35772,"language_key":"az","name":"Nor Aznaberd"}
+{"id":2754448,"city_id":35773,"language_key":"az","name":"Noravan"}
+{"id":2754525,"city_id":35774,"language_key":"az","name":"Noraşenik"}
+{"id":2754679,"city_id":35776,"language_key":"az","name":"Aşağı Xotanan"}
+{"id":2754833,"city_id":35778,"language_key":"az","name":"Bargusat"}
+{"id":2754910,"city_id":35779,"language_key":"az","name":"Nerk'in Hand"}
+{"id":2754987,"city_id":35780,"language_key":"az","name":"Müsəlləm"}
+{"id":2755064,"city_id":35781,"language_key":"az","name":"Murğuz"}
+{"id":2755141,"city_id":35782,"language_key":"az","name":"Gödəkli"}
+{"id":2755218,"city_id":35783,"language_key":"az","name":"Meğri"}
+{"id":2755372,"city_id":35785,"language_key":"az","name":"Martiros"}
+{"id":2755449,"city_id":35786,"language_key":"az","name":"Maralzəmi"}
+{"id":2755526,"city_id":35787,"language_key":"az","name":"Malışka"}
+{"id":2755603,"city_id":35788,"language_key":"az","name":"Maldaş"}
+{"id":2755680,"city_id":35789,"language_key":"az","name":"Lor"}
+{"id":2755757,"city_id":35790,"language_key":"az","name":"Lichk"}
+{"id":2755834,"city_id":35791,"language_key":"az","name":"Kürdkənd"}
+{"id":2755911,"city_id":35792,"language_key":"az","name":"Lehvaz"}
+{"id":2755988,"city_id":35793,"language_key":"az","name":"Qızılcıq"}
+{"id":2756065,"city_id":35794,"language_key":"az","name":"Kuris"}
+{"id":2756142,"city_id":35795,"language_key":"az","name":"Andokavan"}
+{"id":2756219,"city_id":35796,"language_key":"az","name":"Kornidzor"}
+{"id":2756296,"city_id":35797,"language_key":"az","name":"Şıxlar"}
+{"id":2756373,"city_id":35798,"language_key":"az","name":"P'ok'r Vedi"}
+{"id":2756450,"city_id":35799,"language_key":"az","name":"Xoznavar"}
+{"id":2756527,"city_id":35800,"language_key":"az","name":"Xot"}
+{"id":2756604,"city_id":35801,"language_key":"az","name":"Almalı"}
+{"id":2756681,"city_id":35802,"language_key":"az","name":"Xınzırək"}
+{"id":2756758,"city_id":35803,"language_key":"az","name":"Xnatsax"}
+{"id":2756835,"city_id":35804,"language_key":"az","name":"Xdrans"}
+{"id":2756912,"city_id":35805,"language_key":"az","name":"Xalac"}
+{"id":2756989,"city_id":35806,"language_key":"az","name":"Xaçik"}
+{"id":2757066,"city_id":35807,"language_key":"az","name":"Quşçu"}
+{"id":2757143,"city_id":35808,"language_key":"az","name":"Qovşud"}
+{"id":2757297,"city_id":35810,"language_key":"az","name":"Kotanlı"}
+{"id":2757374,"city_id":35811,"language_key":"az","name":"Kərçivan"}
+{"id":2757451,"city_id":35812,"language_key":"az","name":"Qaraunc"}
+{"id":2757528,"city_id":35813,"language_key":"az","name":"Qaradığa"}
+{"id":2757605,"city_id":35814,"language_key":"az","name":"Qaraşen"}
+{"id":2757682,"city_id":35815,"language_key":"az","name":"Lusashogh"}
+{"id":2757759,"city_id":35816,"language_key":"az","name":"Qaraqulax"}
+{"id":2757836,"city_id":35817,"language_key":"az","name":"Kapan"}
+{"id":2757913,"city_id":35818,"language_key":"az","name":"Kağtsraşen"}
+{"id":2757990,"city_id":35819,"language_key":"az","name":"Qaxnut"}
+{"id":2758067,"city_id":35820,"language_key":"az","name":"Qacaran"}
+{"id":2758144,"city_id":35821,"language_key":"az","name":"Qədirli"}
+{"id":2758221,"city_id":35822,"language_key":"az","name":"Qabaxlı"}
+{"id":2758298,"city_id":35823,"language_key":"az","name":"Cermuk"}
+{"id":2758375,"city_id":35824,"language_key":"az","name":"Kirov"}
+{"id":2758452,"city_id":35825,"language_key":"az","name":"Qovuşuq"}
+{"id":2758529,"city_id":35826,"language_key":"az","name":"Gabud"}
+{"id":2758606,"city_id":35827,"language_key":"az","name":"Qudemnis"}
+{"id":2758683,"city_id":35828,"language_key":"az","name":"Hors"}
+{"id":2758760,"city_id":35829,"language_key":"az","name":"Gorus"}
+{"id":2758837,"city_id":35830,"language_key":"az","name":"Bazarçay"}
+{"id":2758914,"city_id":35831,"language_key":"az","name":"Komk"}
+{"id":2758991,"city_id":35832,"language_key":"az","name":"Gomaran"}
+{"id":2759068,"city_id":35833,"language_key":"az","name":"Gənəşik"}
+{"id":2759145,"city_id":35834,"language_key":"az","name":"Qndevaz"}
+{"id":2759222,"city_id":35835,"language_key":"az","name":"Qladzor"}
+{"id":2759376,"city_id":35837,"language_key":"az","name":"Getat'ag"}
+{"id":2759453,"city_id":35838,"language_key":"az","name":"Qoytur"}
+{"id":2759530,"city_id":35839,"language_key":"az","name":"Herher"}
+{"id":2759607,"city_id":35840,"language_key":"az","name":"Gığı"}
+{"id":2759684,"city_id":35841,"language_key":"az","name":"Geghanush"}
+{"id":2759761,"city_id":35842,"language_key":"az","name":"Qalidzor"}
+{"id":2759838,"city_id":35843,"language_key":"az","name":"Yelpin"}
+{"id":2759915,"city_id":35844,"language_key":"az","name":"Axtaxana"}
+{"id":2759992,"city_id":35845,"language_key":"az","name":"Tavrus"}
+{"id":2760069,"city_id":35846,"language_key":"az","name":"Ditsmayri"}
+{"id":2760146,"city_id":35847,"language_key":"az","name":"Daylaxlı"}
+{"id":2760223,"city_id":35848,"language_key":"az","name":"David Bəy"}
+{"id":2760300,"city_id":35849,"language_key":"az","name":"Dəstəgird"}
+{"id":2760377,"city_id":35850,"language_key":"az","name":"Daşlı"}
+{"id":2760454,"city_id":35851,"language_key":"az","name":"Dərəbas"}
+{"id":2760531,"city_id":35852,"language_key":"az","name":"Dəlilər"}
+{"id":2760685,"city_id":35854,"language_key":"az","name":"Çivə"}
+{"id":2760762,"city_id":35855,"language_key":"az","name":"Getisen"}
+{"id":2760839,"city_id":35856,"language_key":"az","name":"Capni"}
+{"id":2760993,"city_id":35858,"language_key":"az","name":"Çakaten"}
+{"id":2761070,"city_id":35859,"language_key":"az","name":"Berdik"}
+{"id":2761147,"city_id":35860,"language_key":"az","name":"Qarahəmzəli"}
+{"id":2761224,"city_id":35861,"language_key":"az","name":"Akner"}
+{"id":2761301,"city_id":35862,"language_key":"az","name":"Brnakot"}
+{"id":2761378,"city_id":35863,"language_key":"az","name":"Borisovka"}
+{"id":2761455,"city_id":35864,"language_key":"az","name":"Bnunis"}
+{"id":2761532,"city_id":35865,"language_key":"az","name":"Oğurbəyli"}
+{"id":2761609,"city_id":35866,"language_key":"az","name":"Bayandur"}
+{"id":2761686,"city_id":35867,"language_key":"az","name":"Sultanbəy"}
+{"id":2761763,"city_id":35868,"language_key":"az","name":"Məzrə"}
+{"id":2761840,"city_id":35869,"language_key":"az","name":"Yeritsatumb"}
+{"id":2761917,"city_id":35870,"language_key":"az","name":"Balak"}
+{"id":2761994,"city_id":35871,"language_key":"az","name":"Başnalı"}
+{"id":2762071,"city_id":35872,"language_key":"az","name":"Azadeğ"}
+{"id":2762148,"city_id":35873,"language_key":"az","name":"Ciğdamlı"}
+{"id":2762225,"city_id":35874,"language_key":"az","name":"Darğalı"}
+{"id":2762302,"city_id":35875,"language_key":"az","name":"Məsimli"}
+{"id":2762379,"city_id":35876,"language_key":"az","name":"Reyhanlı"}
+{"id":2762456,"city_id":35877,"language_key":"az","name":"Avşar"}
+{"id":2762533,"city_id":35878,"language_key":"az","name":"Sisyan (kənd)"}
+{"id":2762610,"city_id":35879,"language_key":"az","name":"Ağkənd"}
+{"id":2762687,"city_id":35880,"language_key":"az","name":"Artsvanik"}
+{"id":2762764,"city_id":35881,"language_key":"az","name":"Cul"}
+{"id":2762841,"city_id":35882,"language_key":"az","name":"Artaşat"}
+{"id":2762918,"city_id":35883,"language_key":"az","name":"Alagöz"}
+{"id":2762995,"city_id":35884,"language_key":"az","name":"Armaş"}
+{"id":2763072,"city_id":35885,"language_key":"az","name":"Arpa"}
+{"id":2763149,"city_id":35886,"language_key":"az","name":"Ərəvus"}
+{"id":2763226,"city_id":35887,"language_key":"az","name":"Ərəfsə"}
+{"id":2763303,"city_id":35888,"language_key":"az","name":"Ararat"}
+{"id":2763380,"city_id":35889,"language_key":"az","name":"Dəvəli"}
+{"id":2763457,"city_id":35890,"language_key":"az","name":"Araqadzor"}
+{"id":2763534,"city_id":35891,"language_key":"az","name":"Dortnu"}
+{"id":2763611,"city_id":35892,"language_key":"az","name":"Angeğakot"}
+{"id":2763688,"city_id":35893,"language_key":"az","name":"Alvank'"}
+{"id":2763765,"city_id":35894,"language_key":"az","name":"Əxlətyan"}
+{"id":2763842,"city_id":35895,"language_key":"az","name":"Aynazur"}
+{"id":2763919,"city_id":35896,"language_key":"az","name":"Acıbac"}
+{"id":2763996,"city_id":35897,"language_key":"az","name":"Ağvan"}
+{"id":2764073,"city_id":35898,"language_key":"az","name":"Ağdü"}
+{"id":2764150,"city_id":35899,"language_key":"az","name":"Ağyar"}
+{"id":2764227,"city_id":35900,"language_key":"az","name":"Əkərək"}
+{"id":2764304,"city_id":35901,"language_key":"az","name":"Əkərək"}
+{"id":2764766,"city_id":35907,"language_key":"az","name":"Ltsen"}
+{"id":2764843,"city_id":35908,"language_key":"az","name":"Harzis"}
+{"id":2764920,"city_id":35909,"language_key":"az","name":"Dzoraşen"}
+{"id":2764997,"city_id":35910,"language_key":"az","name":"Ərpi"}
+{"id":2765459,"city_id":35916,"language_key":"az","name":"Qaralar"}
+{"id":2765536,"city_id":35917,"language_key":"az","name":"Urtsadzor"}
+{"id":2765613,"city_id":35918,"language_key":"az","name":"Arazdəyən"}
+{"id":2765690,"city_id":35919,"language_key":"az","name":"Ağkənd"}
+{"id":2765767,"city_id":35920,"language_key":"az","name":"Kajarants"}
+{"id":2765844,"city_id":35921,"language_key":"az","name":"Lanjar"}
+{"id":2765921,"city_id":35922,"language_key":"az","name":"Keşişverən"}
+{"id":2765998,"city_id":35923,"language_key":"az","name":"Moz"}
+{"id":2766075,"city_id":35924,"language_key":"az","name":"Erdəpin"}
+{"id":2766152,"city_id":35925,"language_key":"az","name":"Zərincə"}
+{"id":2766229,"city_id":35926,"language_key":"az","name":"Karmirgyugh"}
+{"id":2766306,"city_id":35927,"language_key":"az","name":"Qaraqala"}
+{"id":2766383,"city_id":35928,"language_key":"az","name":"Horom"}
+{"id":2766460,"city_id":35929,"language_key":"az","name":"Marqara"}
+{"id":2766614,"city_id":35931,"language_key":"az","name":"Kat'narat"}
+{"id":2766691,"city_id":35932,"language_key":"az","name":"Ciftəli"}
+{"id":2766768,"city_id":35933,"language_key":"az","name":"Dəlləkli"}
+{"id":2766922,"city_id":35935,"language_key":"az","name":"Yayıcı"}
+{"id":2766999,"city_id":35936,"language_key":"az","name":"Balıqlı"}
+{"id":2767076,"city_id":35937,"language_key":"az","name":"Zəngilər"}
+{"id":2767153,"city_id":35938,"language_key":"az","name":"Zolaxaç"}
+{"id":2767230,"city_id":35939,"language_key":"az","name":"Zod"}
+{"id":2767307,"city_id":35940,"language_key":"az","name":"Qoncalı"}
+{"id":2767384,"city_id":35941,"language_key":"az","name":"Zar"}
+{"id":2767461,"city_id":35942,"language_key":"az","name":"Xeyirbəyli"}
+{"id":2767538,"city_id":35943,"language_key":"az","name":"Qarabulaq"}
+{"id":2767615,"city_id":35944,"language_key":"az","name":"İrəvan"}
+{"id":2767692,"city_id":35945,"language_key":"az","name":"Aralıq"}
+{"id":2767769,"city_id":35946,"language_key":"az","name":"Quru Araz"}
+{"id":2767846,"city_id":35947,"language_key":"az","name":"Eranos"}
+{"id":2767923,"city_id":35948,"language_key":"az","name":"Enok'avan"}
+{"id":2768077,"city_id":35950,"language_key":"az","name":"Dədəli"}
+{"id":2768154,"city_id":35951,"language_key":"az","name":"Qamışqut"}
+{"id":2768231,"city_id":35952,"language_key":"az","name":"Molla Bədəl"}
+{"id":2768308,"city_id":35953,"language_key":"az","name":"Üçkilsə"}
+{"id":2768385,"city_id":35954,"language_key":"az","name":"Yeğvard"}
+{"id":2768462,"city_id":35955,"language_key":"az","name":"Çivinli"}
+{"id":2768539,"city_id":35956,"language_key":"az","name":"Lcavan"}
+{"id":2768616,"city_id":35957,"language_key":"az","name":"Yağdan"}
+{"id":2768693,"city_id":35958,"language_key":"az","name":"Qızıldəmir"}
+{"id":2768770,"city_id":35959,"language_key":"az","name":"Xoşkotan"}
+{"id":2768847,"city_id":35960,"language_key":"az","name":"Quldərviş"}
+{"id":2768924,"city_id":35961,"language_key":"az","name":"Əskipara"}
+{"id":2769001,"city_id":35962,"language_key":"az","name":"Patrinc"}
+{"id":2769078,"city_id":35963,"language_key":"az","name":"Molla Musa"}
+{"id":2769155,"city_id":35964,"language_key":"az","name":"Voxçaberd"}
+{"id":2769232,"city_id":35965,"language_key":"az","name":"Oxçuoğlu"}
+{"id":2769309,"city_id":35966,"language_key":"az","name":"Axpradzor (Yuxarı Zağalı)"}
+{"id":2769463,"city_id":35968,"language_key":"az","name":"Yuxarı Şorca"}
+{"id":2769540,"city_id":35969,"language_key":"az","name":"Yuxarı Qaraqoymaz"}
+{"id":2769617,"city_id":35970,"language_key":"az","name":"Yuxarı Körpülü"}
+{"id":2769694,"city_id":35971,"language_key":"az","name":"Verin Karmiraxpür"}
+{"id":2769771,"city_id":35972,"language_key":"az","name":"Yuxarı Adyaman"}
+{"id":2769848,"city_id":35973,"language_key":"az","name":"Verin Dvin"}
+{"id":2769925,"city_id":35974,"language_key":"az","name":"Verin Bazmaberd"}
+{"id":2770002,"city_id":35975,"language_key":"az","name":"Verin Artasat"}
+{"id":2770079,"city_id":35976,"language_key":"az","name":"Vazaşen"}
+{"id":2770156,"city_id":35977,"language_key":"az","name":"Çırçır"}
+{"id":2770233,"city_id":35978,"language_key":"az","name":"Şirəqala"}
+{"id":2770310,"city_id":35979,"language_key":"az","name":"Güllücə"}
+{"id":2770387,"city_id":35980,"language_key":"az","name":"Basarkeçər"}
+{"id":2770464,"city_id":35981,"language_key":"az","name":"Aşağı Gözəldərə"}
+{"id":2770541,"city_id":35982,"language_key":"az","name":"Mehrablı"}
+{"id":2770618,"city_id":35983,"language_key":"az","name":"Çubuxçu"}
+{"id":2770695,"city_id":35984,"language_key":"az","name":"Vardagbyur"}
+{"id":2770772,"city_id":35985,"language_key":"az","name":"Tomardaş"}
+{"id":2770849,"city_id":35986,"language_key":"az","name":"Cəngi"}
+{"id":2770926,"city_id":35987,"language_key":"az","name":"Şəfəq (Kərkibaş)"}
+{"id":2771003,"city_id":35988,"language_key":"az","name":"Orconikidze"}
+{"id":2771080,"city_id":35989,"language_key":"az","name":"Aşağı Qanlıca"}
+{"id":2771157,"city_id":35990,"language_key":"az","name":"Abdalağalı"}
+{"id":2771234,"city_id":35991,"language_key":"az","name":"Şahəli"}
+{"id":2771311,"city_id":35992,"language_key":"az","name":"Uşi"}
+{"id":2771388,"city_id":35993,"language_key":"az","name":"Urud"}
+{"id":2771465,"city_id":35994,"language_key":"az","name":"Ucan"}
+{"id":2771542,"city_id":35995,"language_key":"az","name":"Tucur"}
+{"id":2771696,"city_id":35997,"language_key":"az","name":"T'umanyan"}
+{"id":2771773,"city_id":35998,"language_key":"az","name":"Armudlu (Şörəyel)"}
+{"id":2771850,"city_id":35999,"language_key":"az","name":"İmirli"}
+{"id":2771927,"city_id":36000,"language_key":"az","name":"Tsrviz"}
+{"id":2772004,"city_id":36001,"language_key":"az","name":"Kolagirən"}
+{"id":2772081,"city_id":36002,"language_key":"az","name":"Hacı Muxan"}
+{"id":2772158,"city_id":36003,"language_key":"az","name":"Aşağı Zağalı"}
+{"id":2772235,"city_id":36004,"language_key":"az","name":"Çubuxlu"}
+{"id":2772312,"city_id":36005,"language_key":"az","name":"Cızıxlar"}
+{"id":2772389,"city_id":36006,"language_key":"az","name":"Tsilkar"}
+{"id":2772466,"city_id":36007,"language_key":"az","name":"Tsater"}
+{"id":2772543,"city_id":36008,"language_key":"az","name":"Tsapatağ"}
+{"id":2772620,"city_id":36009,"language_key":"az","name":"Tsamakasar"}
+{"id":2772774,"city_id":36011,"language_key":"az","name":"Tsakkar"}
+{"id":2772851,"city_id":36012,"language_key":"az","name":"Tsaghkunk"}
+{"id":2772928,"city_id":36013,"language_key":"az","name":"Tsaghkunk"}
+{"id":2773005,"city_id":36014,"language_key":"az","name":"Tsaxkavan"}
+{"id":2773082,"city_id":36015,"language_key":"az","name":"Saxkavan"}
+{"id":2773159,"city_id":36016,"language_key":"az","name":"Təkərli"}
+{"id":2773236,"city_id":36017,"language_key":"az","name":"Kərimkənd"}
+{"id":2773313,"city_id":36018,"language_key":"az","name":"Hacıdur"}
+{"id":2773390,"city_id":36019,"language_key":"az","name":"Yuxarı Pirtikan"}
+{"id":2773467,"city_id":36020,"language_key":"az","name":"Hacı Xəlil"}
+{"id":2773544,"city_id":36021,"language_key":"az","name":"Avdıbəy"}
+{"id":2773621,"city_id":36022,"language_key":"az","name":"Dərəçiçək"}
+{"id":2773698,"city_id":36023,"language_key":"az","name":"İnəkdağı"}
+{"id":2773775,"city_id":36024,"language_key":"az","name":"Tavus"}
+{"id":2773852,"city_id":36025,"language_key":"az","name":"Gürcüeli"}
+{"id":2773929,"city_id":36026,"language_key":"az","name":"Qanlı"}
+{"id":2774006,"city_id":36027,"language_key":"az","name":"Tlik"}
+{"id":2774083,"city_id":36028,"language_key":"az","name":"T'egenik'"}
+{"id":2774160,"city_id":36029,"language_key":"az","name":"T'egut"}
+{"id":2774237,"city_id":36030,"language_key":"az","name":"Teger"}
+{"id":2774314,"city_id":36031,"language_key":"az","name":"Təzəkənd"}
+{"id":2774391,"city_id":36032,"language_key":"az","name":"T'avsut"}
+{"id":2774468,"city_id":36033,"language_key":"az","name":"Vorontsovka"}
+{"id":2774622,"city_id":36035,"language_key":"az","name":"Gegasar"}
+{"id":2774699,"city_id":36036,"language_key":"az","name":"Təpəkənd"}
+{"id":2774853,"city_id":36038,"language_key":"az","name":"Armudlu"}
+{"id":2775007,"city_id":36040,"language_key":"az","name":"Talbişah"}
+{"id":2775084,"city_id":36041,"language_key":"az","name":"Getahovit"}
+{"id":2775161,"city_id":36042,"language_key":"az","name":"Təknəli"}
+{"id":2775238,"city_id":36043,"language_key":"az","name":"Heydərbəy"}
+{"id":2775315,"city_id":36044,"language_key":"az","name":"Birinci Qılıcyataq"}
+{"id":2775392,"city_id":36045,"language_key":"az","name":"Cəlaloğlu"}
+{"id":2775469,"city_id":36046,"language_key":"az","name":"Spitak"}
+{"id":2775546,"city_id":36047,"language_key":"az","name":"Qulucan"}
+{"id":2775623,"city_id":36048,"language_key":"az","name":"Pagagbyur"}
+{"id":2775777,"city_id":36050,"language_key":"az","name":"Kərimarx"}
+{"id":2775854,"city_id":36051,"language_key":"az","name":"Zorba"}
+{"id":2775931,"city_id":36052,"language_key":"az","name":"Solak"}
+{"id":2776008,"city_id":36053,"language_key":"az","name":"Korbulaq"}
+{"id":2776085,"city_id":36054,"language_key":"az","name":"Sarvanlar"}
+{"id":2776162,"city_id":36055,"language_key":"az","name":"Kürd Pəmbi"}
+{"id":2776239,"city_id":36056,"language_key":"az","name":"Sultanabad"}
+{"id":2776316,"city_id":36057,"language_key":"az","name":"Şorca"}
+{"id":2776393,"city_id":36058,"language_key":"az","name":"Şınıx"}
+{"id":2776470,"city_id":36059,"language_key":"az","name":"Dovşanqışlaq"}
+{"id":2776547,"city_id":36060,"language_key":"az","name":"Qonaqqıran"}
+{"id":2776624,"city_id":36061,"language_key":"az","name":"Şqarşik"}
+{"id":2776701,"city_id":36062,"language_key":"az","name":"Korbulaq"}
+{"id":2776778,"city_id":36063,"language_key":"az","name":"Qızılörən"}
+{"id":2776855,"city_id":36064,"language_key":"az","name":"Bulxer"}
+{"id":2776932,"city_id":36065,"language_key":"az","name":"Kələkarx"}
+{"id":2777009,"city_id":36066,"language_key":"az","name":"Molla Dursun"}
+{"id":2777086,"city_id":36067,"language_key":"az","name":"Nərimanlı"}
+{"id":2777163,"city_id":36068,"language_key":"az","name":"Qoşabulaq"}
+{"id":2777240,"city_id":36069,"language_key":"az","name":"Şamud"}
+{"id":2777317,"city_id":36070,"language_key":"az","name":"Şamlıq"}
+{"id":2777394,"city_id":36071,"language_key":"az","name":"Şəmirəm"}
+{"id":2777471,"city_id":36072,"language_key":"az","name":"Qarabulaq"}
+{"id":2777548,"city_id":36073,"language_key":"az","name":"Qaradaş"}
+{"id":2777625,"city_id":36074,"language_key":"az","name":"Yelenovka"}
+{"id":2777702,"city_id":36075,"language_key":"az","name":"Semyonovka"}
+{"id":2777779,"city_id":36076,"language_key":"az","name":"Verin Sasunik"}
+{"id":2777856,"city_id":36077,"language_key":"az","name":"Dəliqardaş"}
+{"id":2777933,"city_id":36078,"language_key":"az","name":"Söyüdlü (Şörəyel)"}
+{"id":2778010,"city_id":36079,"language_key":"az","name":"Sarıgüh"}
+{"id":2778087,"city_id":36080,"language_key":"az","name":"Sərçəbed"}
+{"id":2778164,"city_id":36081,"language_key":"az","name":"Saratovka"}
+{"id":2778241,"city_id":36082,"language_key":"az","name":"İmirxan"}
+{"id":2778318,"city_id":36083,"language_key":"az","name":"Samurlu"}
+{"id":2778395,"city_id":36084,"language_key":"az","name":"Çotur"}
+{"id":2778472,"city_id":36085,"language_key":"az","name":"Göyyoxuş"}
+{"id":2778549,"city_id":36086,"language_key":"az","name":"Başkənd (Şörəyel)"}
+{"id":2778626,"city_id":36087,"language_key":"az","name":"Argalant"}
+{"id":2778703,"city_id":36088,"language_key":"az","name":"Tulnəbi"}
+{"id":2778780,"city_id":36089,"language_key":"az","name":"Saral"}
+{"id":2778857,"city_id":36090,"language_key":"az","name":"Bozdoğan"}
+{"id":2778934,"city_id":36091,"language_key":"az","name":"Güllücə"}
+{"id":2779011,"city_id":36092,"language_key":"az","name":"Kaniasir"}
+{"id":2779088,"city_id":36093,"language_key":"az","name":"Sanahin"}
+{"id":2779165,"city_id":36094,"language_key":"az","name":"Samaqar"}
+{"id":2779242,"city_id":36095,"language_key":"az","name":"Salut"}
+{"id":2779319,"city_id":36096,"language_key":"az","name":"Sağmosavan"}
+{"id":2779396,"city_id":36097,"language_key":"az","name":"Kondaxsaz"}
+{"id":2779473,"city_id":36098,"language_key":"az","name":"Çatqıran"}
+{"id":2779550,"city_id":36099,"language_key":"az","name":"Rəncbər"}
+{"id":2779627,"city_id":36100,"language_key":"az","name":"Rus Gərgəri"}
+{"id":2779704,"city_id":36101,"language_key":"az","name":"Ptxni"}
+{"id":2779781,"city_id":36102,"language_key":"az","name":"Ptghunk"}
+{"id":2779858,"city_id":36103,"language_key":"az","name":"İydəli"}
+{"id":2779935,"city_id":36104,"language_key":"az","name":"Proşyan"}
+{"id":2780012,"city_id":36105,"language_key":"az","name":"Privolnoye"}
+{"id":2780089,"city_id":36106,"language_key":"az","name":"Kiçik Şiştəpə"}
+{"id":2780166,"city_id":36107,"language_key":"az","name":"Kiçik Sarıyal"}
+{"id":2780243,"city_id":36108,"language_key":"az","name":"Kiçik Məzrə"}
+{"id":2780320,"city_id":36109,"language_key":"az","name":"Kiçik Arıxvəli"}
+{"id":2780397,"city_id":36110,"language_key":"az","name":"Poqr Ayrum"}
+{"id":2780474,"city_id":36111,"language_key":"az","name":"Zoravan"}
+{"id":2780551,"city_id":36112,"language_key":"az","name":"Kiçik Kəti"}
+{"id":2780628,"city_id":36113,"language_key":"az","name":"Ptgavan"}
+{"id":2780705,"city_id":36114,"language_key":"az","name":"Qurdqala"}
+{"id":2780782,"city_id":36115,"language_key":"az","name":"Mahmudcuq"}
+{"id":2780859,"city_id":36116,"language_key":"az","name":"P'arpi"}
+{"id":2780936,"city_id":36117,"language_key":"az","name":"Paravakar"}
+{"id":2781013,"city_id":36118,"language_key":"az","name":"P'arak'ar"}
+{"id":2781090,"city_id":36119,"language_key":"az","name":"Kaftarlı"}
+{"id":2781167,"city_id":36120,"language_key":"az","name":"P'ambak"}
+{"id":2781244,"city_id":36121,"language_key":"az","name":"Pəmbək"}
+{"id":2781321,"city_id":36122,"language_key":"az","name":"Yasovul"}
+{"id":2781398,"city_id":36123,"language_key":"az","name":"Kutniqışlaq"}
+{"id":2781475,"city_id":36124,"language_key":"az","name":"Hovnanadzor"}
+{"id":2781552,"city_id":36125,"language_key":"az","name":"Hovit"}
+{"id":2781629,"city_id":36126,"language_key":"az","name":"Oşakan"}
+{"id":2781706,"city_id":36127,"language_key":"az","name":"Quruboğaz"}
+{"id":2781783,"city_id":36128,"language_key":"az","name":"Orqov"}
+{"id":2781860,"city_id":36129,"language_key":"az","name":"Hobardzi"}
+{"id":2781937,"city_id":36130,"language_key":"az","name":"Sərdarabad"}
+{"id":2782014,"city_id":36131,"language_key":"az","name":"Ohanavan"}
+{"id":2782091,"city_id":36132,"language_key":"az","name":"Uzunlar"}
+{"id":2782168,"city_id":36133,"language_key":"az","name":"Nurnus"}
+{"id":2782245,"city_id":36134,"language_key":"az","name":"Barana"}
+{"id":2782322,"city_id":36135,"language_key":"az","name":"Novoseltsovo"}
+{"id":2782399,"city_id":36136,"language_key":"az","name":"Məçitli"}
+{"id":2782476,"city_id":36137,"language_key":"az","name":"Nə də Kharberd"}
+{"id":2782553,"city_id":36138,"language_key":"az","name":"Təzəkənd"}
+{"id":2782630,"city_id":36139,"language_key":"az","name":"Çatqıran"}
+{"id":2782707,"city_id":36140,"language_key":"az","name":"Yeni Başkənd"}
+{"id":2782784,"city_id":36141,"language_key":"az","name":"Boqdanovka"}
+{"id":2782861,"city_id":36142,"language_key":"az","name":"Noraşen"}
+{"id":2782938,"city_id":36143,"language_key":"az","name":"Saçlı"}
+{"id":2783015,"city_id":36144,"language_key":"az","name":"Əfəndi"}
+{"id":2783092,"city_id":36145,"language_key":"az","name":"Kürdkəndi"}
+{"id":2783169,"city_id":36146,"language_key":"az","name":"Nor Art'ik"}
+{"id":2783246,"city_id":36147,"language_key":"az","name":"Yeni Armavir"}
+{"id":2783400,"city_id":36149,"language_key":"az","name":"Qaraqala"}
+{"id":2783477,"city_id":36150,"language_key":"az","name":"Noramarg"}
+{"id":2783554,"city_id":36151,"language_key":"az","name":"Norakert"}
+{"id":2783631,"city_id":36152,"language_key":"az","name":"Norakert"}
+{"id":2783708,"city_id":36153,"language_key":"az","name":"Noradüz"}
+{"id":2783785,"city_id":36154,"language_key":"az","name":"Nor Açin"}
+{"id":2783862,"city_id":36155,"language_key":"az","name":"Əzizli"}
+{"id":2783939,"city_id":36156,"language_key":"az","name":"Danagirməz"}
+{"id":2784016,"city_id":36157,"language_key":"az","name":"Dastadem"}
+{"id":2784093,"city_id":36158,"language_key":"az","name":"Aşağı Şorca"}
+{"id":2784170,"city_id":36159,"language_key":"az","name":"Aşağı Qarakoymaz"}
+{"id":2784247,"city_id":36160,"language_key":"az","name":"Nerkin Karmiraxpür"}
+{"id":2784324,"city_id":36161,"language_key":"az","name":"Aşağı Adyaman"}
+{"id":2784401,"city_id":36162,"language_key":"az","name":"Aşağı Ağcaqala"}
+{"id":2784478,"city_id":36163,"language_key":"az","name":"Artsvanist"}
+{"id":2784555,"city_id":36164,"language_key":"az","name":"Aşağı Ağdan"}
+{"id":2784709,"city_id":36166,"language_key":"az","name":"Negots"}
+{"id":2784786,"city_id":36167,"language_key":"az","name":"Navur"}
+{"id":2784863,"city_id":36168,"language_key":"az","name":"Böyük Şəhriyar"}
+{"id":2784940,"city_id":36169,"language_key":"az","name":"Sirakamut"}
+{"id":2785017,"city_id":36170,"language_key":"az","name":"Xaçakilsə"}
+{"id":2785094,"city_id":36171,"language_key":"az","name":"Bozyoxuş"}
+{"id":2785171,"city_id":36172,"language_key":"az","name":"Böyük Kəpənək"}
+{"id":2785248,"city_id":36173,"language_key":"az","name":"Mülki"}
+{"id":2785325,"city_id":36174,"language_key":"az","name":"Ad Dar Qibal əl `Ulya"}
+{"id":2785402,"city_id":36175,"language_key":"az","name":"Muğan"}
+{"id":2785479,"city_id":36176,"language_key":"az","name":"Hacılar"}
+{"id":2785556,"city_id":36177,"language_key":"az","name":"Mrqaşen"}
+{"id":2785633,"city_id":36178,"language_key":"az","name":"Keçili"}
+{"id":2785710,"city_id":36179,"language_key":"az","name":"Zöhrablı"}
+{"id":2785787,"city_id":36180,"language_key":"az","name":"Damcılı"}
+{"id":2785864,"city_id":36181,"language_key":"az","name":"Mosesqex"}
+{"id":2785941,"city_id":36182,"language_key":"az","name":"Mxçyan"}
+{"id":2786018,"city_id":36183,"language_key":"az","name":"Mirək"}
+{"id":2786095,"city_id":36184,"language_key":"az","name":"Mixaylovka"}
+{"id":2786172,"city_id":36185,"language_key":"az","name":"Qəmərli"}
+{"id":2786249,"city_id":36186,"language_key":"az","name":"Böyük Şiştəpə"}
+{"id":2786326,"city_id":36187,"language_key":"az","name":"Böyük Sarıyal"}
+{"id":2786403,"city_id":36188,"language_key":"az","name":"Bəykənd"}
+{"id":2786480,"city_id":36189,"language_key":"az","name":"Böyük Məzrə"}
+{"id":2786557,"city_id":36190,"language_key":"az","name":"Böyük Arıxvəli"}
+{"id":2786634,"city_id":36191,"language_key":"az","name":"Kiçik Ayrım"}
+{"id":2786711,"city_id":36192,"language_key":"az","name":"Şahnəzər"}
+{"id":2786788,"city_id":36193,"language_key":"az","name":"Metsamor"}
+{"id":2786865,"city_id":36194,"language_key":"az","name":"Merdzavan"}
+{"id":2786942,"city_id":36195,"language_key":"az","name":"Məlikkənd"}
+{"id":2787019,"city_id":36196,"language_key":"az","name":"Qazançı (Şörəyel)"}
+{"id":2787096,"city_id":36197,"language_key":"az","name":"Qaraməmməd"}
+{"id":2787173,"city_id":36198,"language_key":"az","name":"Qaraisa"}
+{"id":2787250,"city_id":36199,"language_key":"az","name":"Tayçarıq"}
+{"id":2787327,"city_id":36200,"language_key":"az","name":"Medovka"}
+{"id":2787404,"city_id":36201,"language_key":"az","name":"Şahab"}
+{"id":2787481,"city_id":36202,"language_key":"az","name":"Mastara"}
+{"id":2787558,"city_id":36203,"language_key":"az","name":"Uluxanlı"}
+{"id":2787635,"city_id":36204,"language_key":"az","name":"Martuni"}
+{"id":2787712,"city_id":36205,"language_key":"az","name":"Martuni"}
+{"id":2787789,"city_id":36206,"language_key":"az","name":"Marts"}
+{"id":2787866,"city_id":36207,"language_key":"az","name":"Ağhəmzəli"}
+{"id":2787943,"city_id":36208,"language_key":"az","name":"Yuxarı Qanlıca"}
+{"id":2788020,"city_id":36209,"language_key":"az","name":"Paşakənd"}
+{"id":2788097,"city_id":36210,"language_key":"az","name":"Bozgöy"}
+{"id":2788174,"city_id":36211,"language_key":"az","name":"Molla Göyçə"}
+{"id":2788328,"city_id":36213,"language_key":"az","name":"Bovadzor"}
+{"id":2788405,"city_id":36214,"language_key":"az","name":"Ortakilsə"}
+{"id":2788482,"city_id":36215,"language_key":"az","name":"Mağaracıq"}
+{"id":2788559,"city_id":36216,"language_key":"az","name":"Mədinə"}
+{"id":2788636,"city_id":36217,"language_key":"az","name":"Lusagbyur"}
+{"id":2788713,"city_id":36218,"language_key":"az","name":"Suvanverdi"}
+{"id":2788790,"city_id":36219,"language_key":"az","name":"Talıboğlu"}
+{"id":2788867,"city_id":36220,"language_key":"az","name":"Qaranlıq"}
+{"id":2788944,"city_id":36221,"language_key":"az","name":"Aşağı Türkmənli"}
+{"id":2789021,"city_id":36222,"language_key":"az","name":"Qaranlıqdərə"}
+{"id":2789098,"city_id":36223,"language_key":"az","name":"Lukaşin"}
+{"id":2789175,"city_id":36224,"language_key":"az","name":"Lorut"}
+{"id":2789252,"city_id":36225,"language_key":"az","name":"Loru Berd"}
+{"id":2789329,"city_id":36226,"language_key":"az","name":"Calakənd"}
+{"id":2789406,"city_id":36227,"language_key":"az","name":"Gölkənd"}
+{"id":2789483,"city_id":36228,"language_key":"az","name":"Arıxvəli"}
+{"id":2789560,"city_id":36229,"language_key":"az","name":"Lernavan"}
+{"id":2789637,"city_id":36230,"language_key":"az","name":"Maqda"}
+{"id":2789714,"city_id":36231,"language_key":"az","name":"Hacıqara"}
+{"id":2789791,"city_id":36232,"language_key":"az","name":"Lernapar"}
+{"id":2789868,"city_id":36233,"language_key":"az","name":"Çorlu"}
+{"id":2789945,"city_id":36234,"language_key":"az","name":"Lernantsk"}
+{"id":2790022,"city_id":36235,"language_key":"az","name":"Yuxarı Axta"}
+{"id":2790099,"city_id":36236,"language_key":"az","name":"Şirvancıq"}
+{"id":2790176,"city_id":36237,"language_key":"az","name":"Kəsikbaş"}
+{"id":2790253,"city_id":36238,"language_key":"az","name":"Lermontovo"}
+{"id":2790330,"city_id":36239,"language_key":"az","name":"Yuxarı Əylənli"}
+{"id":2790407,"city_id":36240,"language_key":"az","name":"Lecan"}
+{"id":2790484,"city_id":36241,"language_key":"az","name":"Ördəkli"}
+{"id":2790561,"city_id":36242,"language_key":"az","name":"Ağzıbir"}
+{"id":2790638,"city_id":36243,"language_key":"az","name":"Musluqlu"}
+{"id":2790715,"city_id":36244,"language_key":"az","name":"Küzəcik"}
+{"id":2790792,"city_id":36245,"language_key":"az","name":"Debedavan"}
+{"id":2790869,"city_id":36246,"language_key":"az","name":"Güllücə"}
+{"id":2790946,"city_id":36247,"language_key":"az","name":"Kənkan"}
+{"id":2791023,"city_id":36248,"language_key":"az","name":"Garnaric"}
+{"id":2791100,"city_id":36249,"language_key":"az","name":"Urasar"}
+{"id":2791177,"city_id":36250,"language_key":"az","name":"Canəhməd"}
+{"id":2791254,"city_id":36251,"language_key":"az","name":"Zarkənd"}
+{"id":2791331,"city_id":36252,"language_key":"az","name":"Kurtan"}
+{"id":2791408,"city_id":36253,"language_key":"az","name":"Qursalı"}
+{"id":2791485,"city_id":36254,"language_key":"az","name":"Kruqlaya Şişka"}
+{"id":2791562,"city_id":36255,"language_key":"az","name":"Əlikiçik"}
+{"id":2791639,"city_id":36256,"language_key":"az","name":"Ağkilsə (Şörəyel)"}
+{"id":2791716,"city_id":36257,"language_key":"az","name":"Qurdbulaq"}
+{"id":2791793,"city_id":36258,"language_key":"az","name":"Şavarşevan"}
+{"id":2791870,"city_id":36259,"language_key":"az","name":"Yelqovan"}
+{"id":2791947,"city_id":36260,"language_key":"az","name":"Qoş"}
+{"id":2792024,"city_id":36261,"language_key":"az","name":"Qorçulu"}
+{"id":2792101,"city_id":36262,"language_key":"az","name":"Qoxb"}
+{"id":2792178,"city_id":36263,"language_key":"az","name":"Getavan"}
+{"id":2792255,"city_id":36264,"language_key":"az","name":"Cücəkənd"}
+{"id":2792332,"city_id":36265,"language_key":"az","name":"Böyük Qarakilsə"}
+{"id":2792409,"city_id":36266,"language_key":"az","name":"Nikolayevka"}
+{"id":2792486,"city_id":36267,"language_key":"az","name":"Qaraboya"}
+{"id":2792563,"city_id":36268,"language_key":"az","name":"Qırxdəyirman"}
+{"id":2792640,"city_id":36269,"language_key":"az","name":"Torpaqqala"}
+{"id":2792717,"city_id":36270,"language_key":"az","name":"Həştərək"}
+{"id":2792794,"city_id":36271,"language_key":"az","name":"Xaçpar"}
+{"id":2792871,"city_id":36272,"language_key":"az","name":"Xaçardzan"}
+{"id":2792948,"city_id":36273,"language_key":"az","name":"Xaçağbyur"}
+{"id":2793025,"city_id":36274,"language_key":"az","name":"Böyük Keyti"}
+{"id":2793102,"city_id":36275,"language_key":"az","name":"Kak'avasar"}
+{"id":2793179,"city_id":36276,"language_key":"az","name":"Qazançı"}
+{"id":2793256,"city_id":36277,"language_key":"az","name":"Katnaghbyur"}
+{"id":2793333,"city_id":36278,"language_key":"az","name":"Katnaghbyur"}
+{"id":2793410,"city_id":36279,"language_key":"az","name":"Katnaghbyur"}
+{"id":2793487,"city_id":36280,"language_key":"az","name":"Kat'najur"}
+{"id":2793564,"city_id":36281,"language_key":"az","name":"Dirəklər"}
+{"id":2793641,"city_id":36282,"language_key":"az","name":"Karmravan"}
+{"id":2793718,"city_id":36283,"language_key":"az","name":"Karmrasen"}
+{"id":2793795,"city_id":36284,"language_key":"az","name":"Qırmızılı"}
+{"id":2793872,"city_id":36285,"language_key":"az","name":"Dərbənd"}
+{"id":2793949,"city_id":36286,"language_key":"az","name":"Koğes"}
+{"id":2794026,"city_id":36287,"language_key":"az","name":"K'arinj"}
+{"id":2794103,"city_id":36288,"language_key":"az","name":"Gümüş"}
+{"id":2794180,"city_id":36289,"language_key":"az","name":"Gödəkbulaq"}
+{"id":2794257,"city_id":36290,"language_key":"az","name":"Karbi"}
+{"id":2794334,"city_id":36291,"language_key":"az","name":"K'arasamb"}
+{"id":2794411,"city_id":36292,"language_key":"az","name":"Karanlukh"}
+{"id":2794488,"city_id":36293,"language_key":"az","name":"K'arakert"}
+{"id":2794642,"city_id":36295,"language_key":"az","name":"Əfəndi"}
+{"id":2794719,"city_id":36296,"language_key":"az","name":"Sarımsaxlı"}
+{"id":2794796,"city_id":36297,"language_key":"az","name":"K'araberd"}
+{"id":2794873,"city_id":36298,"language_key":"az","name":"Göykilsə"}
+{"id":2794950,"city_id":36299,"language_key":"az","name":"Kaps"}
+{"id":2795027,"city_id":36300,"language_key":"az","name":"Murad təpə"}
+{"id":2795104,"city_id":36301,"language_key":"az","name":"Kanac'ut"}
+{"id":2795258,"city_id":36303,"language_key":"az","name":"Hacı Nəzər"}
+{"id":2795335,"city_id":36304,"language_key":"az","name":"Kəvər"}
+{"id":2795412,"city_id":36305,"language_key":"az","name":"Çaxmaq"}
+{"id":2795489,"city_id":36306,"language_key":"az","name":"Əmirxeyir"}
+{"id":2795566,"city_id":36307,"language_key":"az","name":"K'agsi"}
+{"id":2795643,"city_id":36308,"language_key":"az","name":"Qaraiman"}
+{"id":2795720,"city_id":36309,"language_key":"az","name":"Kakavadzor"}
+{"id":2795797,"city_id":36310,"language_key":"az","name":"Kaçaçkut"}
+{"id":2795874,"city_id":36311,"language_key":"az","name":"Qabaqtəpə"}
+{"id":2795951,"city_id":36312,"language_key":"az","name":"Sarıyaqub"}
+{"id":2796028,"city_id":36313,"language_key":"az","name":"İtsakar"}
+{"id":2796105,"city_id":36314,"language_key":"az","name":"Qarabulaq"}
+{"id":2796182,"city_id":36315,"language_key":"az","name":"İrind"}
+{"id":2796259,"city_id":36316,"language_key":"az","name":"Maisyan"}
+{"id":2796336,"city_id":36317,"language_key":"az","name":"Vartana"}
+{"id":2796413,"city_id":36318,"language_key":"az","name":"İlməzli"}
+{"id":2796490,"city_id":36319,"language_key":"az","name":"Hogmik"}
+{"id":2796567,"city_id":36320,"language_key":"az","name":"İcevan"}
+{"id":2796644,"city_id":36321,"language_key":"az","name":"Aşağı Axta"}
+{"id":2796721,"city_id":36322,"language_key":"az","name":"Baytar"}
+{"id":2796798,"city_id":36323,"language_key":"az","name":"Sərdarabad"}
+{"id":2796875,"city_id":36324,"language_key":"az","name":"Qaraqışlaq"}
+{"id":2796952,"city_id":36325,"language_key":"az","name":"Hatsik"}
+{"id":2797029,"city_id":36326,"language_key":"az","name":"Haghartsin"}
+{"id":2797106,"city_id":36327,"language_key":"az","name":"Gümrü"}
+{"id":2797183,"city_id":36328,"language_key":"az","name":"Güllücə"}
+{"id":2797260,"city_id":36329,"language_key":"az","name":"Güləkərək"}
+{"id":2797337,"city_id":36330,"language_key":"az","name":"Kamaris"}
+{"id":2797414,"city_id":36331,"language_key":"az","name":"Kanç"}
+{"id":2797491,"city_id":36332,"language_key":"az","name":"Qapılı"}
+{"id":2797568,"city_id":36333,"language_key":"az","name":"Kalara"}
+{"id":2797645,"city_id":36334,"language_key":"az","name":"Şişqaya"}
+{"id":2797722,"city_id":36335,"language_key":"az","name":"Yaqublu (Pəmbək)"}
+{"id":2797799,"city_id":36336,"language_key":"az","name":"Qrampa"}
+{"id":2797876,"city_id":36337,"language_key":"az","name":"Qoş"}
+{"id":2798030,"city_id":36339,"language_key":"az","name":"Qoqt"}
+{"id":2798107,"city_id":36340,"language_key":"az","name":"Dəmirçilər"}
+{"id":2798184,"city_id":36341,"language_key":"az","name":"Goran"}
+{"id":2798338,"city_id":36343,"language_key":"az","name":"Nəzərəvan"}
+{"id":2798415,"city_id":36344,"language_key":"az","name":"Aznvadzor"}
+{"id":2798492,"city_id":36345,"language_key":"az","name":"Daharlı"}
+{"id":2798569,"city_id":36346,"language_key":"az","name":"Günən"}
+{"id":2798646,"city_id":36347,"language_key":"az","name":"Ağcaqışlaq"}
+{"id":2798723,"city_id":36348,"language_key":"az","name":"Cəfərabad"}
+{"id":2798800,"city_id":36349,"language_key":"az","name":"Qasıməli"}
+{"id":2798877,"city_id":36350,"language_key":"az","name":"Qarqulaq"}
+{"id":2798954,"city_id":36351,"language_key":"az","name":"Kətran"}
+{"id":2799031,"city_id":36352,"language_key":"az","name":"Qarqar"}
+{"id":2799108,"city_id":36353,"language_key":"az","name":"Keşişkənd"}
+{"id":2799185,"city_id":36354,"language_key":"az","name":"Artız"}
+{"id":2799262,"city_id":36355,"language_key":"az","name":"Qolqat"}
+{"id":2799339,"city_id":36356,"language_key":"az","name":"Göykümbət"}
+{"id":2799416,"city_id":36357,"language_key":"az","name":"Geghadzor"}
+{"id":2799493,"city_id":36358,"language_key":"az","name":"Gegadir"}
+{"id":2799570,"city_id":36359,"language_key":"az","name":"Kərpicli"}
+{"id":2799647,"city_id":36360,"language_key":"az","name":"Geğarkunik"}
+{"id":2799724,"city_id":36361,"language_key":"az","name":"Qayabaşı"}
+{"id":2799801,"city_id":36362,"language_key":"az","name":"Subatan"}
+{"id":2799878,"city_id":36363,"language_key":"az","name":"Şəhriz"}
+{"id":2799955,"city_id":36364,"language_key":"az","name":"Adıyaman"}
+{"id":2800032,"city_id":36365,"language_key":"az","name":"Baş Gərni"}
+{"id":2800109,"city_id":36366,"language_key":"az","name":"Aleksandrovka"}
+{"id":2800186,"city_id":36367,"language_key":"az","name":"Qaqarin"}
+{"id":2800263,"city_id":36368,"language_key":"az","name":"Fantan"}
+{"id":2800340,"city_id":36369,"language_key":"az","name":"Fioletovo"}
+{"id":2800417,"city_id":36370,"language_key":"az","name":"Qaraqaya"}
+{"id":2800494,"city_id":36371,"language_key":"az","name":"Üçüncü Qarakilsə"}
+{"id":2800571,"city_id":36372,"language_key":"az","name":"Evli"}
+{"id":2800648,"city_id":36373,"language_key":"az","name":"Tacirabaq"}
+{"id":2800725,"city_id":36374,"language_key":"az","name":"Boğazkəsən (Şörəyel)"}
+{"id":2800802,"city_id":36375,"language_key":"az","name":"Kolagirən"}
+{"id":2800879,"city_id":36376,"language_key":"az","name":"Aşağı Pirtikan"}
+{"id":2800956,"city_id":36377,"language_key":"az","name":"Vəliağalı"}
+{"id":2801033,"city_id":36378,"language_key":"az","name":"Gülablı"}
+{"id":2801110,"city_id":36379,"language_key":"az","name":"Bəzirxana"}
+{"id":2801187,"city_id":36380,"language_key":"az","name":"Cucevan"}
+{"id":2801264,"city_id":36381,"language_key":"az","name":"Crvej"}
+{"id":2801341,"city_id":36382,"language_key":"az","name":"Vardnav"}
+{"id":2801418,"city_id":36383,"language_key":"az","name":"Jrasen"}
+{"id":2801495,"city_id":36384,"language_key":"az","name":"Jrasen"}
+{"id":2801572,"city_id":36385,"language_key":"az","name":"Jrarat"}
+{"id":2801649,"city_id":36386,"language_key":"az","name":"Jrarat"}
+{"id":2801726,"city_id":36387,"language_key":"az","name":"Yuxarı Qarxun"}
+{"id":2801803,"city_id":36388,"language_key":"az","name":"Jrap'i"}
+{"id":2801880,"city_id":36389,"language_key":"az","name":"Cəbəçili"}
+{"id":2801957,"city_id":36390,"language_key":"az","name":"Jradzor"}
+{"id":2802034,"city_id":36391,"language_key":"az","name":"Jraber"}
+{"id":2802111,"city_id":36392,"language_key":"az","name":"Berk'aber"}
+{"id":2802188,"city_id":36393,"language_key":"az","name":"Cilizə"}
+{"id":2802265,"city_id":36394,"language_key":"az","name":"Cil"}
+{"id":2802342,"city_id":36395,"language_key":"az","name":"Canfida"}
+{"id":2802419,"city_id":36396,"language_key":"az","name":"Kiçik Camışlı"}
+{"id":2802496,"city_id":36397,"language_key":"az","name":"Jajur"}
+{"id":2802650,"city_id":36399,"language_key":"az","name":"Aşağı Düyün"}
+{"id":2802727,"city_id":36400,"language_key":"az","name":"Dsex"}
+{"id":2802804,"city_id":36401,"language_key":"az","name":"Toxluca"}
+{"id":2802881,"city_id":36402,"language_key":"az","name":"Çaykənd"}
+{"id":2802958,"city_id":36403,"language_key":"az","name":"Dovex"}
+{"id":2803035,"city_id":36404,"language_key":"az","name":"Doghs"}
+{"id":2803112,"city_id":36405,"language_key":"az","name":"Rəvazlı"}
+{"id":2803189,"city_id":36406,"language_key":"az","name":"Ditak"}
+{"id":2803266,"city_id":36407,"language_key":"az","name":"Dilican"}
+{"id":2803343,"city_id":36408,"language_key":"az","name":"Dian"}
+{"id":2803420,"city_id":36409,"language_key":"az","name":"Carcaris"}
+{"id":2803497,"city_id":36410,"language_key":"az","name":"Xaçkənd"}
+{"id":2803574,"city_id":36411,"language_key":"az","name":"Ddmaşen"}
+{"id":2803651,"city_id":36412,"language_key":"az","name":"Əylənli"}
+{"id":2803728,"city_id":36413,"language_key":"az","name":"Daşlı (Eçmiədzin)"}
+{"id":2803805,"city_id":36414,"language_key":"az","name":"Darbaz"}
+{"id":2803882,"city_id":36415,"language_key":"az","name":"Öksüz"}
+{"id":2803959,"city_id":36416,"language_key":"az","name":"Kiçik Şöllü Dəmirçi"}
+{"id":2804036,"city_id":36417,"language_key":"az","name":"Dərə"}
+{"id":2804113,"city_id":36418,"language_key":"az","name":"Aygehad"}
+{"id":2804190,"city_id":36419,"language_key":"az","name":"Dalarik"}
+{"id":2804267,"city_id":36420,"language_key":"az","name":"Çoratan"}
+{"id":2804344,"city_id":36421,"language_key":"az","name":"Çoçkan"}
+{"id":2804421,"city_id":36422,"language_key":"az","name":"Samadərviş"}
+{"id":2804498,"city_id":36423,"language_key":"az","name":"Zeynalağalı"}
+{"id":2804575,"city_id":36424,"language_key":"az","name":"C'kalov"}
+{"id":2804652,"city_id":36425,"language_key":"az","name":"Çinçin"}
+{"id":2804729,"city_id":36426,"language_key":"az","name":"Çinari"}
+{"id":2804806,"city_id":36427,"language_key":"az","name":"Mak'enis"}
+{"id":2804883,"city_id":36428,"language_key":"az","name":"Çarentsavan"}
+{"id":2804960,"city_id":36429,"language_key":"az","name":"Çəmbərək"}
+{"id":2805037,"city_id":36430,"language_key":"az","name":"Bjni"}
+{"id":2805114,"city_id":36431,"language_key":"az","name":"Aşirabad"}
+{"id":2805191,"city_id":36432,"language_key":"az","name":"Byurakan"}
+{"id":2805268,"city_id":36433,"language_key":"az","name":"Babakişi"}
+{"id":2805345,"city_id":36434,"language_key":"az","name":"Blaqodarnoye"}
+{"id":2805422,"city_id":36435,"language_key":"az","name":"Berkaşat"}
+{"id":2805499,"city_id":36436,"language_key":"az","name":"Berk'arat"}
+{"id":2805576,"city_id":36437,"language_key":"az","name":"Ağqala"}
+{"id":2805653,"city_id":36438,"language_key":"az","name":"Berdavan"}
+{"id":2805730,"city_id":36439,"language_key":"az","name":"Tovuzqala"}
+{"id":2805807,"city_id":36440,"language_key":"az","name":"Çilovxanlı"}
+{"id":2805884,"city_id":36441,"language_key":"az","name":"Bozabdal"}
+{"id":2805961,"city_id":36442,"language_key":"az","name":"Təkiyə"}
+{"id":2806115,"city_id":36444,"language_key":"az","name":"Bayandur"}
+{"id":2806192,"city_id":36445,"language_key":"az","name":"Bavra"}
+{"id":2806269,"city_id":36446,"language_key":"az","name":"Gandzak"}
+{"id":2806346,"city_id":36447,"language_key":"az","name":"Başköy"}
+{"id":2806423,"city_id":36448,"language_key":"az","name":"Bəriabad"}
+{"id":2806500,"city_id":36449,"language_key":"az","name":"Qurumsulu"}
+{"id":2806577,"city_id":36450,"language_key":"az","name":"Bəndovan"}
+{"id":2806654,"city_id":36451,"language_key":"az","name":"Yuxarı Qoylasar"}
+{"id":2806731,"city_id":36452,"language_key":"az","name":"Molla Bayazid"}
+{"id":2806808,"city_id":36453,"language_key":"az","name":"Məəgüb"}
+{"id":2806885,"city_id":36454,"language_key":"az","name":"Buğdaşen"}
+{"id":2806962,"city_id":36455,"language_key":"az","name":"Ləmbəli"}
+{"id":2807039,"city_id":36456,"language_key":"az","name":"Bağanıs"}
+{"id":2807116,"city_id":36457,"language_key":"az","name":"Azadaşen"}
+{"id":2807193,"city_id":36458,"language_key":"az","name":"Kiçik Qarakilsə"}
+{"id":2807270,"city_id":36459,"language_key":"az","name":"Azad"}
+{"id":2807347,"city_id":36460,"language_key":"az","name":"Hayt'ag"}
+{"id":2807424,"city_id":36461,"language_key":"az","name":"Böyük Ayrım"}
+{"id":2807501,"city_id":36462,"language_key":"az","name":"Daşkənd"}
+{"id":2807578,"city_id":36463,"language_key":"az","name":"Əyrivəng"}
+{"id":2807655,"city_id":36464,"language_key":"az","name":"Sonqurlu"}
+{"id":2807732,"city_id":36465,"language_key":"az","name":"Bacoğlu"}
+{"id":2807809,"city_id":36466,"language_key":"az","name":"Haykavan"}
+{"id":2807886,"city_id":36467,"language_key":"az","name":"Haykasar"}
+{"id":2807963,"city_id":36468,"language_key":"az","name":"Qoşavəng"}
+{"id":2808040,"city_id":36469,"language_key":"az","name":"Gölkənd"}
+{"id":2808117,"city_id":36470,"language_key":"az","name":"Ayaslı"}
+{"id":2808194,"city_id":36471,"language_key":"az","name":"Hacıqara"}
+{"id":2808271,"city_id":36472,"language_key":"az","name":"Quzugüdən"}
+{"id":2808348,"city_id":36473,"language_key":"az","name":"Ayğırgöl"}
+{"id":2808425,"city_id":36474,"language_key":"az","name":"Aytəpər"}
+{"id":2808502,"city_id":36475,"language_key":"az","name":"Ayqeovit"}
+{"id":2808579,"city_id":36476,"language_key":"az","name":"Qulalı"}
+{"id":2808656,"city_id":36477,"language_key":"az","name":"İlxıyabı"}
+{"id":2808810,"city_id":36479,"language_key":"az","name":"Lernamerdz"}
+{"id":2808887,"city_id":36480,"language_key":"az","name":"Siçanlı"}
+{"id":2808964,"city_id":36481,"language_key":"az","name":"Çobanmaz"}
+{"id":2809041,"city_id":36482,"language_key":"az","name":"Göysu"}
+{"id":2809118,"city_id":36483,"language_key":"az","name":"Avan"}
+{"id":2809195,"city_id":36484,"language_key":"az","name":"Toparlı"}
+{"id":2809272,"city_id":36485,"language_key":"az","name":"Hatsavan"}
+{"id":2809349,"city_id":36486,"language_key":"az","name":"Sabunçu"}
+{"id":2809503,"city_id":36488,"language_key":"az","name":"Əlibəyli"}
+{"id":2809580,"city_id":36489,"language_key":"az","name":"Atan"}
+{"id":2809657,"city_id":36490,"language_key":"az","name":"Ağqıraq"}
+{"id":2809734,"city_id":36491,"language_key":"az","name":"Əştərək"}
+{"id":2809811,"city_id":36492,"language_key":"az","name":"Qızıl Qoç"}
+{"id":2809888,"city_id":36493,"language_key":"az","name":"Aşnak"}
+{"id":2809965,"city_id":36494,"language_key":"az","name":"Ərzni"}
+{"id":2810042,"city_id":36495,"language_key":"az","name":"Ərzəkənd"}
+{"id":2810119,"city_id":36496,"language_key":"az","name":"Başkənd"}
+{"id":2810273,"city_id":36498,"language_key":"az","name":"Qızılkilsə"}
+{"id":2810350,"city_id":36499,"language_key":"az","name":"Ərtik"}
+{"id":2810427,"city_id":36500,"language_key":"az","name":"Boğutlu"}
+{"id":2810504,"city_id":36501,"language_key":"az","name":"Təkəli"}
+{"id":2810581,"city_id":36502,"language_key":"az","name":"Qarakilsə"}
+{"id":2810658,"city_id":36503,"language_key":"az","name":"Düzxaraba"}
+{"id":2810735,"city_id":36504,"language_key":"az","name":"İlançalan"}
+{"id":2810812,"city_id":36505,"language_key":"az","name":"Fəthabad"}
+{"id":2810889,"city_id":36506,"language_key":"az","name":"Ardanış"}
+{"id":2810966,"city_id":36507,"language_key":"az","name":"Hart'agyug"}
+{"id":2811043,"city_id":36508,"language_key":"az","name":"Körpəli"}
+{"id":2811120,"city_id":36509,"language_key":"az","name":"Arp'unk'"}
+{"id":2811197,"city_id":36510,"language_key":"az","name":"Arp'eni"}
+{"id":2811274,"city_id":36511,"language_key":"az","name":"Ərmənis"}
+{"id":2811351,"city_id":36512,"language_key":"az","name":"Ərinc"}
+{"id":2811428,"city_id":36513,"language_key":"az","name":"Qıpçaq (Şörəyel)"}
+{"id":2811505,"city_id":36514,"language_key":"az","name":"Lusakert"}
+{"id":2811582,"city_id":36515,"language_key":"az","name":"Cəfərabad"}
+{"id":2811659,"city_id":36516,"language_key":"az","name":"Uzunoba"}
+{"id":2811736,"city_id":36517,"language_key":"az","name":"Yekanlar"}
+{"id":2811813,"city_id":36518,"language_key":"az","name":"Aşağı Ağbaş"}
+{"id":2811890,"city_id":36519,"language_key":"az","name":"Çaybasar (Ağbaba)"}
+{"id":2811967,"city_id":36520,"language_key":"az","name":"Ağcaarx"}
+{"id":2812044,"city_id":36521,"language_key":"az","name":"Qaçağan"}
+{"id":2812121,"city_id":36522,"language_key":"az","name":"Çikdamal"}
+{"id":2812198,"city_id":36523,"language_key":"az","name":"Ağ Baş"}
+{"id":2812275,"city_id":36524,"language_key":"az","name":"Sədənağac"}
+{"id":2812352,"city_id":36525,"language_key":"az","name":"Qaraçanta"}
+{"id":2812429,"city_id":36526,"language_key":"az","name":"Pirmələk"}
+{"id":2812506,"city_id":36527,"language_key":"az","name":"Ardvi"}
+{"id":2812583,"city_id":36528,"language_key":"az","name":"Göllü"}
+{"id":2812660,"city_id":36529,"language_key":"az","name":"Arçut"}
+{"id":2812737,"city_id":36530,"language_key":"az","name":"Ərciz"}
+{"id":2812814,"city_id":36531,"language_key":"az","name":"Arbat"}
+{"id":2812891,"city_id":36532,"language_key":"az","name":"Evcilər"}
+{"id":2812968,"city_id":36533,"language_key":"az","name":"Ocaqqulu"}
+{"id":2813045,"city_id":36534,"language_key":"az","name":"Ərəmus"}
+{"id":2813122,"city_id":36535,"language_key":"az","name":"Aşağı Qarxun"}
+{"id":2813199,"city_id":36536,"language_key":"az","name":"Bazarcıq"}
+{"id":2813276,"city_id":36537,"language_key":"az","name":"Qaracoran"}
+{"id":2813353,"city_id":36538,"language_key":"az","name":"Qəzənfər"}
+{"id":2813430,"city_id":36539,"language_key":"az","name":"Alagöz"}
+{"id":2813507,"city_id":36540,"language_key":"az","name":"Araqatlar"}
+{"id":2813584,"city_id":36541,"language_key":"az","name":"Apnagyugh"}
+{"id":2813661,"city_id":36542,"language_key":"az","name":"Sarıyar"}
+{"id":2813738,"city_id":36543,"language_key":"az","name":"Abaran"}
+{"id":2813815,"city_id":36544,"language_key":"az","name":"Yuxarı Türkmənli"}
+{"id":2813892,"city_id":36545,"language_key":"az","name":"Bəykənd"}
+{"id":2813969,"city_id":36546,"language_key":"az","name":"İnəkli"}
+{"id":2814046,"city_id":36547,"language_key":"az","name":"Antaramej"}
+{"id":2814123,"city_id":36548,"language_key":"az","name":"Kolagirən"}
+{"id":2814200,"city_id":36549,"language_key":"az","name":"Misxana"}
+{"id":2814277,"city_id":36550,"language_key":"az","name":"Anipemza"}
+{"id":2814354,"city_id":36551,"language_key":"az","name":"Amoç"}
+{"id":2814431,"city_id":36552,"language_key":"az","name":"Amasia"}
+{"id":2814508,"city_id":36553,"language_key":"az","name":"Amasiya"}
+{"id":2814585,"city_id":36554,"language_key":"az","name":"Düzkənd"}
+{"id":2814662,"city_id":36555,"language_key":"az","name":"Allahverdi"}
+{"id":2814739,"city_id":36556,"language_key":"az","name":"Hallavar"}
+{"id":2814816,"city_id":36557,"language_key":"az","name":"Alparas"}
+{"id":2814893,"city_id":36558,"language_key":"az","name":"Alagöz"}
+{"id":2814970,"city_id":36559,"language_key":"az","name":"Gözlü"}
+{"id":2815047,"city_id":36560,"language_key":"az","name":"Akunk"}
+{"id":2815124,"city_id":36561,"language_key":"az","name":"Akunk"}
+{"id":2815201,"city_id":36562,"language_key":"az","name":"Ak'ori"}
+{"id":2815278,"city_id":36563,"language_key":"az","name":"Akner"}
+{"id":2815355,"city_id":36564,"language_key":"az","name":"Hako"}
+{"id":2815432,"city_id":36565,"language_key":"az","name":"Düzkənd"}
+{"id":2815509,"city_id":36566,"language_key":"az","name":"Türk Qarakilsəsi"}
+{"id":2815586,"city_id":36567,"language_key":"az","name":"P'yunik"}
+{"id":2815663,"city_id":36568,"language_key":"az","name":"Axum"}
+{"id":2815740,"city_id":36569,"language_key":"az","name":"Hagt'anak"}
+{"id":2815817,"city_id":36570,"language_key":"az","name":"Aşağı Axtala"}
+{"id":2815894,"city_id":36571,"language_key":"az","name":"Ağpat"}
+{"id":2815971,"city_id":36572,"language_key":"az","name":"Ahnidzor"}
+{"id":2816048,"city_id":36573,"language_key":"az","name":"Hovk'"}
+{"id":2816125,"city_id":36574,"language_key":"az","name":"Aqavnatun"}
+{"id":2816202,"city_id":36575,"language_key":"az","name":"Babakişi"}
+{"id":2816279,"city_id":36576,"language_key":"az","name":"Hagvi"}
+{"id":2816356,"city_id":36577,"language_key":"az","name":"Ağin"}
+{"id":2816433,"city_id":36578,"language_key":"az","name":"Yeniyol"}
+{"id":2816510,"city_id":36579,"language_key":"az","name":"Ağdzk"}
+{"id":2816587,"city_id":36580,"language_key":"az","name":"Ağbulaq"}
+{"id":2816664,"city_id":36581,"language_key":"az","name":"Salah"}
+{"id":2816741,"city_id":36582,"language_key":"az","name":"Ağcaqala"}
+{"id":2816818,"city_id":36583,"language_key":"az","name":"Qandzakar"}
+{"id":2816895,"city_id":36584,"language_key":"az","name":"Əkərək"}
+{"id":2816972,"city_id":36585,"language_key":"az","name":"Əkərək"}
+{"id":2817049,"city_id":36586,"language_key":"az","name":"Əkərək"}
+{"id":2817126,"city_id":36587,"language_key":"az","name":"Zovasar"}
+{"id":2817203,"city_id":36588,"language_key":"az","name":"Adamxan"}
+{"id":2817280,"city_id":36589,"language_key":"az","name":"Haçasu"}
+{"id":2817357,"city_id":36590,"language_key":"az","name":"Ellər"}
+{"id":2817434,"city_id":36591,"language_key":"az","name":"Yuxarı Ağbaş"}
+{"id":2817511,"city_id":36592,"language_key":"az","name":"Vardablur"}
+{"id":2817588,"city_id":36593,"language_key":"az","name":"Bitlicə"}
+{"id":2817665,"city_id":36594,"language_key":"az","name":"Alpava"}
+{"id":2817742,"city_id":36595,"language_key":"az","name":"Yengicə"}
+{"id":2818281,"city_id":36602,"language_key":"az","name":"Bendik"}
+{"id":2818435,"city_id":36604,"language_key":"az","name":"Azatamut"}
+{"id":2818512,"city_id":36605,"language_key":"az","name":"T'egut"}
+{"id":2818589,"city_id":36606,"language_key":"az","name":"Artsvaberd"}
+{"id":2818666,"city_id":36607,"language_key":"az","name":"Lernagog"}
+{"id":2818743,"city_id":36608,"language_key":"az","name":"Talış"}
+{"id":2818820,"city_id":36609,"language_key":"az","name":"Nor Yerznka"}
+{"id":2818897,"city_id":36610,"language_key":"az","name":"Aragatsotn"}
+{"id":2818974,"city_id":36611,"language_key":"az","name":"Sasunik"}
+{"id":2819051,"city_id":36612,"language_key":"az","name":"Zovuni"}
+{"id":2819128,"city_id":36613,"language_key":"az","name":"Kasax"}
+{"id":2819205,"city_id":36614,"language_key":"az","name":"Bagramyan"}
+{"id":2819282,"city_id":36615,"language_key":"az","name":"Myasnikyan"}
+{"id":2819359,"city_id":36616,"language_key":"az","name":"Hacı Bayram"}
+{"id":2819436,"city_id":36617,"language_key":"az","name":"Şahvarut"}
+{"id":2819513,"city_id":36618,"language_key":"az","name":"Aşağı Əylənli"}
+{"id":2819590,"city_id":36619,"language_key":"az","name":"Zart'onk'"}
+{"id":2819667,"city_id":36620,"language_key":"az","name":"Qəmərli"}
+{"id":2819744,"city_id":36621,"language_key":"az","name":"Aşağı Xatınarx"}
+{"id":2819821,"city_id":36622,"language_key":"az","name":"Bagramyan"}
+{"id":2819898,"city_id":36623,"language_key":"az","name":"Musaler"}
+{"id":2819975,"city_id":36624,"language_key":"az","name":"Hacı Elləz"}
+{"id":2820052,"city_id":36625,"language_key":"az","name":"Dastavan"}
+{"id":2820129,"city_id":36626,"language_key":"az","name":"Yuxarı Necili"}
+{"id":2820206,"city_id":36627,"language_key":"az","name":"Təzəkənd"}
+{"id":2820283,"city_id":36628,"language_key":"az","name":"Az Zanami"}
+{"id":2820360,"city_id":36629,"language_key":"az","name":"Qaranlıq"}
+{"id":2820437,"city_id":36630,"language_key":"az","name":"Kiçik Zeyvə"}
+{"id":2820514,"city_id":36631,"language_key":"az","name":"Aratasen"}
+{"id":2820591,"city_id":36632,"language_key":"az","name":"Yuxarı Xatınarx"}
+{"id":2820668,"city_id":36633,"language_key":"az","name":"Qarğabazarı"}
+{"id":2820745,"city_id":36634,"language_key":"az","name":"Şöllü Mehmandar"}
+{"id":2820822,"city_id":36635,"language_key":"az","name":"Aşağı Necili"}
+{"id":2820899,"city_id":36636,"language_key":"az","name":"Oskehat"}
+{"id":2820976,"city_id":36637,"language_key":"az","name":"Aralıq Kolanlı"}
+{"id":2821053,"city_id":36638,"language_key":"az","name":"Firəng kəndi"}
+{"id":2821130,"city_id":36639,"language_key":"az","name":"Aygek"}
+{"id":2821207,"city_id":36640,"language_key":"az","name":"Ferik"}
+{"id":2821284,"city_id":36641,"language_key":"az","name":"Sip'anik"}
+{"id":2821361,"city_id":36642,"language_key":"az","name":"Nor Edesia"}
+{"id":2821438,"city_id":36643,"language_key":"az","name":"Nor Amanos"}
+{"id":2821515,"city_id":36644,"language_key":"az","name":"Nor Artamet"}
+{"id":2821592,"city_id":36645,"language_key":"az","name":"T'airov"}
+{"id":2821669,"city_id":36646,"language_key":"az","name":"Verin Ptgni"}
+{"id":2821746,"city_id":36647,"language_key":"az","name":"Jrambar"}
+{"id":2821823,"city_id":36648,"language_key":"az","name":"Muğanlı"}
+{"id":2821900,"city_id":36649,"language_key":"az","name":"Aşağı Qoylasar"}
+{"id":2821977,"city_id":36650,"language_key":"az","name":"Arak'savan"}
+{"id":2822054,"city_id":36651,"language_key":"az","name":"Qaradağlı"}
+{"id":2822131,"city_id":36652,"language_key":"az","name":"Xarratlı"}
+{"id":2822208,"city_id":36653,"language_key":"az","name":"Nor Kyurin"}
+{"id":2822285,"city_id":36654,"language_key":"az","name":"Getap'nya"}
+{"id":2822362,"city_id":36655,"language_key":"az","name":"Değdzut"}
+{"id":2822439,"city_id":36656,"language_key":"az","name":"Cənnətli"}
+{"id":2822516,"city_id":36657,"language_key":"az","name":"Tuskulu"}
+{"id":2822593,"city_id":36658,"language_key":"az","name":"Narek"}
+{"id":2822670,"city_id":36659,"language_key":"az","name":"Vanand"}
+{"id":2822747,"city_id":36660,"language_key":"az","name":"Karmir Agek"}
+{"id":2822824,"city_id":36661,"language_key":"az","name":"Noravan"}
+{"id":2822901,"city_id":36662,"language_key":"az","name":"Xancyan"}
+{"id":2822978,"city_id":36663,"language_key":"az","name":"Nor Kesaria"}
+{"id":2823055,"city_id":36664,"language_key":"az","name":"Karathah"}
+{"id":2823132,"city_id":36665,"language_key":"az","name":"Nor Uği"}
+{"id":2823209,"city_id":36666,"language_key":"az","name":"Ginevet"}
+{"id":2823286,"city_id":36667,"language_key":"az","name":"Arayi Hoghamaser"}
+{"id":2823594,"city_id":36671,"language_key":"az","name":"Sadunts"}
+{"id":2823671,"city_id":36672,"language_key":"az","name":"Değdzavan"}
+{"id":2823748,"city_id":36673,"language_key":"az","name":"Senik"}
+{"id":2823825,"city_id":36674,"language_key":"az","name":"Argina"}
+{"id":2823902,"city_id":36675,"language_key":"az","name":"Artamet"}
+{"id":2823979,"city_id":36676,"language_key":"az","name":"Arevadast"}
+{"id":2824980,"city_id":36689,"language_key":"az","name":"Vahagnadzor"}
+{"id":2826597,"city_id":36710,"language_key":"az","name":"Aygevan"}
+{"id":2826674,"city_id":36711,"language_key":"az","name":"Arak's"}
+{"id":2826751,"city_id":36712,"language_key":"az","name":"Kogbavan"}
+{"id":2826828,"city_id":36713,"language_key":"az","name":"Talvorik"}
+{"id":2827444,"city_id":36721,"language_key":"az","name":"Nairi"}
+{"id":2828291,"city_id":36732,"language_key":"az","name":"Qoytul"}
+{"id":2828676,"city_id":36737,"language_key":"az","name":"Dprevank'"}
+{"id":2829523,"city_id":36748,"language_key":"az","name":"Partizak"}
+{"id":2829908,"city_id":36753,"language_key":"az","name":"Ot'evan"}
+{"id":2830216,"city_id":36757,"language_key":"az","name":"Aniavan"}
+{"id":2830909,"city_id":36766,"language_key":"az","name":"Zəngəzur"}
+{"id":2832295,"city_id":36784,"language_key":"az","name":"Lusakn"}
+{"id":2833450,"city_id":36799,"language_key":"az","name":"Düzkənd"}
+{"id":2833604,"city_id":36801,"language_key":"az","name":"Nor Artagers"}
+{"id":2833758,"city_id":36803,"language_key":"az","name":"Norapat"}
+{"id":2834143,"city_id":36808,"language_key":"az","name":"Jrarbi"}
+{"id":2834297,"city_id":36810,"language_key":"az","name":"Paruyr Sevak"}
+{"id":2834913,"city_id":36818,"language_key":"az","name":"Şoqakn"}
+{"id":2835991,"city_id":36832,"language_key":"az","name":"Saragyug"}
+{"id":2836068,"city_id":36833,"language_key":"az","name":"Güllübulaq"}
+{"id":2837069,"city_id":36846,"language_key":"az","name":"Lernahovit"}
+{"id":2837762,"city_id":36855,"language_key":"az","name":"K'arkop'"}
+{"id":2839687,"city_id":36880,"language_key":"az","name":"Getargel"}
+{"id":2843537,"city_id":36930,"language_key":"az","name":"Hatsikavan"}
+{"id":2843614,"city_id":36931,"language_key":"az","name":"Jajuravan"}
+{"id":2844692,"city_id":36945,"language_key":"az","name":"Nerkin Xndzoresk"}
+{"id":2844769,"city_id":36946,"language_key":"az","name":"Acarkut"}
+{"id":2844846,"city_id":36947,"language_key":"az","name":"Kayan"}
+{"id":2845924,"city_id":36961,"language_key":"az","name":"Antarasen"}
+{"id":2846155,"city_id":36964,"language_key":"az","name":"Sünik"}
+{"id":2846232,"city_id":36965,"language_key":"az","name":"Babikavan"}
+{"id":2846309,"city_id":36966,"language_key":"az","name":"Dzoraget"}
+{"id":2846386,"city_id":36967,"language_key":"az","name":"Armavir"}
+{"id":2846463,"city_id":36968,"language_key":"az","name":"Mont'eavan"}
+{"id":2846540,"city_id":36969,"language_key":"az","name":"Ughedzor"}

@@ -1,0 +1,885 @@
+{"id":354793480,"city_id":4607708,"language_key":"lv","name":"Santa Marija"}
+{"id":354793557,"city_id":4607709,"language_key":"lv","name":"Santa Ines"}
+{"id":354793711,"city_id":4607711,"language_key":"lv","name":"Sanfrancisko"}
+{"id":354794019,"city_id":4607715,"language_key":"lv","name":"Pedro Gonsaless"}
+{"id":354794712,"city_id":4607724,"language_key":"lv","name":"Las Piedras"}
+{"id":354795251,"city_id":4607731,"language_key":"lv","name":"La Guardia"}
+{"id":354795482,"city_id":4607734,"language_key":"lv","name":"Laasunsjona"}
+{"id":354796406,"city_id":4607746,"language_key":"lv","name":"El Guamache"}
+{"id":354796560,"city_id":4607748,"language_key":"lv","name":"El Hato"}
+{"id":354798408,"city_id":4607772,"language_key":"lv","name":"Sanhosē"}
+{"id":354799486,"city_id":4607786,"language_key":"lv","name":"El Palmar"}
+{"id":354800564,"city_id":4607800,"language_key":"lv","name":"El Korozo"}
+{"id":354800949,"city_id":4607805,"language_key":"lv","name":"Caricuao"}
+{"id":354801488,"city_id":4607812,"language_key":"lv","name":"Tosujita"}
+{"id":354801719,"city_id":4607815,"language_key":"lv","name":"Sanvisente"}
+{"id":354801796,"city_id":4607816,"language_key":"lv","name":"Sanpablo"}
+{"id":354802181,"city_id":4607821,"language_key":"lv","name":"Pedernales"}
+{"id":354804414,"city_id":4607850,"language_key":"lv","name":"Buena Vista"}
+{"id":354804953,"city_id":4607857,"language_key":"lv","name":"Las Virtudes"}
+{"id":354806262,"city_id":4607874,"language_key":"lv","name":"El Toro"}
+{"id":354807109,"city_id":4607885,"language_key":"lv","name":"Santodomingo"}
+{"id":354807263,"city_id":4607887,"language_key":"lv","name":"Santa Rosa"}
+{"id":354807725,"city_id":4607893,"language_key":"lv","name":"Santakrusa"}
+{"id":354807956,"city_id":4607896,"language_key":"lv","name":"Sanpedro"}
+{"id":354808341,"city_id":4607901,"language_key":"lv","name":"Sanhuana"}
+{"id":354808495,"city_id":4607903,"language_key":"lv","name":"San Isidro"}
+{"id":354809342,"city_id":4607914,"language_key":"lv","name":"El Rinkona"}
+{"id":354811036,"city_id":4607936,"language_key":"lv","name":"Las Porqueras"}
+{"id":354811190,"city_id":4607938,"language_key":"lv","name":"El Playon"}
+{"id":354811344,"city_id":4607940,"language_key":"lv","name":"La Playa"}
+{"id":354812037,"city_id":4607949,"language_key":"lv","name":"La Pedregosa"}
+{"id":354812653,"city_id":4607957,"language_key":"lv","name":"La Palmita"}
+{"id":354812884,"city_id":4607960,"language_key":"lv","name":"Palmarito"}
+{"id":354813192,"city_id":4607964,"language_key":"lv","name":"Los Naranjosa"}
+{"id":354815271,"city_id":4607991,"language_key":"lv","name":"La Mesa"}
+{"id":354817350,"city_id":4608018,"language_key":"lv","name":"Himeness"}
+{"id":354817658,"city_id":4608022,"language_key":"lv","name":"Jajo"}
+{"id":354818967,"city_id":4608039,"language_key":"lv","name":"La Ensenada"}
+{"id":354821585,"city_id":4608073,"language_key":"lv","name":"La Ceiba"}
+{"id":354822509,"city_id":4608085,"language_key":"lv","name":"Kampo Alegre"}
+{"id":354824588,"city_id":4608112,"language_key":"lv","name":"El Alto"}
+{"id":354825358,"city_id":4608122,"language_key":"lv","name":"Las Adjuntas"}
+{"id":354827283,"city_id":4608147,"language_key":"lv","name":"Santa Rita"}
+{"id":354831364,"city_id":4608200,"language_key":"lv","name":"El Paradero"}
+{"id":354831441,"city_id":4608201,"language_key":"lv","name":"Papelons"}
+{"id":354835214,"city_id":4608250,"language_key":"lv","name":"El Gvajabo"}
+{"id":354838679,"city_id":4608295,"language_key":"lv","name":"El Čaparro"}
+{"id":354840065,"city_id":4608313,"language_key":"lv","name":"Campo Lindo"}
+{"id":354840142,"city_id":4608314,"language_key":"lv","name":"Campo Claro"}
+{"id":354840450,"city_id":4608318,"language_key":"lv","name":"Cambural"}
+{"id":354841220,"city_id":4608328,"language_key":"lv","name":"Ayacucho"}
+{"id":354841451,"city_id":4608331,"language_key":"lv","name":"Araguita"}
+{"id":354841682,"city_id":4608334,"language_key":"lv","name":"Anako"}
+{"id":354842221,"city_id":4608341,"language_key":"lv","name":"Agua Blanca"}
+{"id":354843376,"city_id":4608356,"language_key":"lv","name":"Santa Cruz de Guacas"}
+{"id":354844069,"city_id":4608365,"language_key":"lv","name":"El Real"}
+{"id":354844377,"city_id":4608369,"language_key":"lv","name":"Puertovivasa"}
+{"id":354845455,"city_id":4608383,"language_key":"lv","name":"La Mula"}
+{"id":354846995,"city_id":4608403,"language_key":"lv","name":"Los Guasimitos"}
+{"id":354847380,"city_id":4608408,"language_key":"lv","name":"La Cuchilla"}
+{"id":354850075,"city_id":4608443,"language_key":"lv","name":"Zuata"}
+{"id":354850306,"city_id":4608446,"language_key":"lv","name":"Zona Rica"}
+{"id":354850537,"city_id":4608449,"language_key":"lv","name":"Zea"}
+{"id":354850999,"city_id":4608455,"language_key":"lv","name":"Zaraza"}
+{"id":354851538,"city_id":4608462,"language_key":"lv","name":"Zamora"}
+{"id":354852693,"city_id":4608477,"language_key":"lv","name":"Yumare"}
+{"id":354853155,"city_id":4608483,"language_key":"lv","name":"Yoco"}
+{"id":354853771,"city_id":4608491,"language_key":"lv","name":"Jaritagva"}
+{"id":354853848,"city_id":4608492,"language_key":"lv","name":"Yaracal"}
+{"id":354854310,"city_id":4608498,"language_key":"lv","name":"Yaguaraparo"}
+{"id":354854541,"city_id":4608501,"language_key":"lv","name":"Yaguapa Abajo"}
+{"id":354854772,"city_id":4608504,"language_key":"lv","name":"Yagua"}
+{"id":354857467,"city_id":4608539,"language_key":"lv","name":"Viljaroels"}
+{"id":354857621,"city_id":4608541,"language_key":"lv","name":"Villa Rosa"}
+{"id":354858545,"city_id":4608553,"language_key":"lv","name":"Villa de Cura"}
+{"id":354858776,"city_id":4608556,"language_key":"lv","name":"Villa Bruzual"}
+{"id":354859315,"city_id":4608563,"language_key":"lv","name":"Viento Fresco"}
+{"id":354861394,"city_id":4608590,"language_key":"lv","name":"El Venado"}
+{"id":354861933,"city_id":4608597,"language_key":"lv","name":"Veguitas"}
+{"id":354862087,"city_id":4608599,"language_key":"lv","name":"Las Casitas del Vegon de Nutrias"}
+{"id":354863319,"city_id":4608615,"language_key":"lv","name":"Valle La Tarasca"}
+{"id":354863396,"city_id":4608616,"language_key":"lv","name":"Valle Hondo"}
+{"id":354863858,"city_id":4608622,"language_key":"lv","name":"Valje de la Paskua"}
+{"id":354864089,"city_id":4608625,"language_key":"lv","name":"Valle de Guanape"}
+{"id":354865321,"city_id":4608641,"language_key":"lv","name":"Valera"}
+{"id":354865475,"city_id":4608643,"language_key":"lv","name":"Valensija"}
+{"id":354866553,"city_id":4608657,"language_key":"lv","name":"Uverito"}
+{"id":354867939,"city_id":4608675,"language_key":"lv","name":"Urumaco"}
+{"id":354869017,"city_id":4608689,"language_key":"lv","name":"Urica"}
+{"id":354869325,"city_id":4608693,"language_key":"lv","name":"Urena"}
+{"id":354869787,"city_id":4608699,"language_key":"lv","name":"Urama"}
+{"id":354870018,"city_id":4608702,"language_key":"lv","name":"Uracoa"}
+{"id":354870095,"city_id":4608703,"language_key":"lv","name":"Urachiche"}
+{"id":354870403,"city_id":4608707,"language_key":"lv","name":"Upata"}
+{"id":354870788,"city_id":4608712,"language_key":"lv","name":"Umuquena"}
+{"id":354872251,"city_id":4608731,"language_key":"lv","name":"Turmero"}
+{"id":354873560,"city_id":4608748,"language_key":"lv","name":"Tunapuy"}
+{"id":354873714,"city_id":4608750,"language_key":"lv","name":"Tunapuy"}
+{"id":354874022,"city_id":4608754,"language_key":"lv","name":"Tuname"}
+{"id":354874099,"city_id":4608755,"language_key":"lv","name":"Tumeremo"}
+{"id":354874946,"city_id":4608766,"language_key":"lv","name":"Tukupita"}
+{"id":354875562,"city_id":4608774,"language_key":"lv","name":"Tucupido"}
+{"id":354876024,"city_id":4608780,"language_key":"lv","name":"Tucani"}
+{"id":354876101,"city_id":4608781,"language_key":"lv","name":"Tucacas"}
+{"id":354876486,"city_id":4608786,"language_key":"lv","name":"Truhiljo"}
+{"id":354878180,"city_id":4608808,"language_key":"lv","name":"Tres Esquinas"}
+{"id":354878257,"city_id":4608809,"language_key":"lv","name":"Tres de Febrero"}
+{"id":354879181,"city_id":4608821,"language_key":"lv","name":"Tovar"}
+{"id":354879335,"city_id":4608823,"language_key":"lv","name":"Tovara"}
+{"id":354879951,"city_id":4608831,"language_key":"lv","name":"Tostos"}
+{"id":354880105,"city_id":4608833,"language_key":"lv","name":"Torunos"}
+{"id":354880490,"city_id":4608838,"language_key":"lv","name":"Torondoy"}
+{"id":354880952,"city_id":4608844,"language_key":"lv","name":"Torbes"}
+{"id":354882261,"city_id":4608861,"language_key":"lv","name":"Tocuyo de La Costa"}
+{"id":354882415,"city_id":4608863,"language_key":"lv","name":"Tocuyito"}
+{"id":354882646,"city_id":4608866,"language_key":"lv","name":"Tocoron"}
+{"id":354882954,"city_id":4608870,"language_key":"lv","name":"Tocopero"}
+{"id":354883878,"city_id":4608882,"language_key":"lv","name":"Tinakiljo"}
+{"id":354884263,"city_id":4608887,"language_key":"lv","name":"Tinaco"}
+{"id":354884340,"city_id":4608888,"language_key":"lv","name":"Timotes"}
+{"id":354886419,"city_id":4608915,"language_key":"lv","name":"Tia Juana"}
+{"id":354886881,"city_id":4608921,"language_key":"lv","name":"Teresen"}
+{"id":354887651,"city_id":4608931,"language_key":"lv","name":"Temblador"}
+{"id":354889114,"city_id":4608950,"language_key":"lv","name":"Tariba"}
+{"id":354891655,"city_id":4608983,"language_key":"lv","name":"Tamare"}
+{"id":354892117,"city_id":4608989,"language_key":"lv","name":"Tamaca"}
+{"id":354892887,"city_id":4608999,"language_key":"lv","name":"Taguaya"}
+{"id":354894042,"city_id":4609014,"language_key":"lv","name":"Tacata"}
+{"id":354894350,"city_id":4609018,"language_key":"lv","name":"Tacarigua de La Laguna"}
+{"id":354895351,"city_id":4609031,"language_key":"lv","name":"Tabay"}
+{"id":354897045,"city_id":4609053,"language_key":"lv","name":"Sucre"}
+{"id":354897507,"city_id":4609059,"language_key":"lv","name":"Sotillo"}
+{"id":354897661,"city_id":4609061,"language_key":"lv","name":"Sosa"}
+{"id":354898970,"city_id":4609078,"language_key":"lv","name":"Soledad"}
+{"id":354899586,"city_id":4609086,"language_key":"lv","name":"Socopo"}
+{"id":354900279,"city_id":4609095,"language_key":"lv","name":"Siquisique"}
+{"id":354900818,"city_id":4609102,"language_key":"lv","name":"Sinamaica"}
+{"id":354901896,"city_id":4609116,"language_key":"lv","name":"Sibaragua"}
+{"id":354902897,"city_id":4609129,"language_key":"lv","name":"Seboruco"}
+{"id":354904437,"city_id":4609149,"language_key":"lv","name":"Sarare"}
+{"id":354904514,"city_id":4609150,"language_key":"lv","name":"Sarare"}
+{"id":354905515,"city_id":4609163,"language_key":"lv","name":"Sanvisente"}
+{"id":354907363,"city_id":4609187,"language_key":"lv","name":"Santodomingo"}
+{"id":354907979,"city_id":4609195,"language_key":"lv","name":"San Timoteo"}
+{"id":354908210,"city_id":4609198,"language_key":"lv","name":"Santa Teresa del Tuy"}
+{"id":354909365,"city_id":4609213,"language_key":"lv","name":"Santa Rozālija"}
+{"id":354913446,"city_id":4609266,"language_key":"lv","name":"Santa Rosa"}
+{"id":354914293,"city_id":4609277,"language_key":"lv","name":"Morichalito"}
+{"id":354914832,"city_id":4609284,"language_key":"lv","name":"Santa Rita"}
+{"id":354918066,"city_id":4609326,"language_key":"lv","name":"Santa Maria de Ipire"}
+{"id":354918297,"city_id":4609329,"language_key":"lv","name":"Santa Maria de Caparo"}
+{"id":354920453,"city_id":4609357,"language_key":"lv","name":"Santa Lucija"}
+{"id":354920838,"city_id":4609362,"language_key":"lv","name":"Santalusija"}
+{"id":354921454,"city_id":4609370,"language_key":"lv","name":"Santa Lucija"}
+{"id":354922763,"city_id":4609387,"language_key":"lv","name":"Santa Izabella"}
+{"id":354922840,"city_id":4609388,"language_key":"lv","name":"Santa Izabella"}
+{"id":354924457,"city_id":4609409,"language_key":"lv","name":"Santa Ines"}
+{"id":354925689,"city_id":4609425,"language_key":"lv","name":"Santaelena de Uairena"}
+{"id":354925843,"city_id":4609427,"language_key":"lv","name":"Santa Elena de Arenales"}
+{"id":354927229,"city_id":4609445,"language_key":"lv","name":"Santakrusa de Mora"}
+{"id":354927383,"city_id":4609447,"language_key":"lv","name":"Santa Cruz de Mara"}
+{"id":354927460,"city_id":4609448,"language_key":"lv","name":"Santakrusa del Zūlija"}
+{"id":354927614,"city_id":4609450,"language_key":"lv","name":"Santa Cruz de Bucaral"}
+{"id":354929000,"city_id":4609468,"language_key":"lv","name":"Santakrusa"}
+{"id":354931618,"city_id":4609502,"language_key":"lv","name":"Santa Katalina"}
+{"id":354933004,"city_id":4609520,"language_key":"lv","name":"Santa Barbara"}
+{"id":354933774,"city_id":4609530,"language_key":"lv","name":"Santa Barbara"}
+{"id":354934775,"city_id":4609543,"language_key":"lv","name":"Santa Apolonia"}
+{"id":354934852,"city_id":4609544,"language_key":"lv","name":"Santa Apolonia"}
+{"id":354935391,"city_id":4609551,"language_key":"lv","name":"Santa Ana"}
+{"id":354936623,"city_id":4609567,"language_key":"lv","name":"Santa Ana"}
+{"id":354936777,"city_id":4609569,"language_key":"lv","name":"Santa Ana"}
+{"id":354937008,"city_id":4609572,"language_key":"lv","name":"Santa Ana"}
+{"id":354937778,"city_id":4609582,"language_key":"lv","name":"San Simon"}
+{"id":354937855,"city_id":4609583,"language_key":"lv","name":"Sansilvestra"}
+{"id":354937932,"city_id":4609584,"language_key":"lv","name":"Sansebastjana"}
+{"id":354939780,"city_id":4609608,"language_key":"lv","name":"San Rafael de Orituco"}
+{"id":354939857,"city_id":4609609,"language_key":"lv","name":"San Rafael de Onoto"}
+{"id":354940088,"city_id":4609612,"language_key":"lv","name":"Karvahals"}
+{"id":354940242,"city_id":4609614,"language_key":"lv","name":"San Rafael de Canagua"}
+{"id":354940858,"city_id":4609622,"language_key":"lv","name":"Sanrafaela"}
+{"id":354945247,"city_id":4609679,"language_key":"lv","name":"Sanpedro de Koče"}
+{"id":354949328,"city_id":4609732,"language_key":"lv","name":"Sanpablo"}
+{"id":354950945,"city_id":4609753,"language_key":"lv","name":"San Nikolas"}
+{"id":354952562,"city_id":4609774,"language_key":"lv","name":"Sanmigela"}
+{"id":354953717,"city_id":4609789,"language_key":"lv","name":"Sanmigela"}
+{"id":354954410,"city_id":4609798,"language_key":"lv","name":"San Mateo"}
+{"id":354954487,"city_id":4609799,"language_key":"lv","name":"San Mateo"}
+{"id":354955642,"city_id":4609814,"language_key":"lv","name":"Sanluisa"}
+{"id":354957182,"city_id":4609834,"language_key":"lv","name":"Sanlorenco"}
+{"id":354958645,"city_id":4609853,"language_key":"lv","name":"San Juan de Manapiare"}
+{"id":354958722,"city_id":4609854,"language_key":"lv","name":"San Juan de Los Morros"}
+{"id":354958799,"city_id":4609855,"language_key":"lv","name":"San Juan de los Cayos"}
+{"id":354959107,"city_id":4609859,"language_key":"lv","name":"Kols"}
+{"id":354959492,"city_id":4609864,"language_key":"lv","name":"Sanhuans Bautista"}
+{"id":354961648,"city_id":4609892,"language_key":"lv","name":"Sanhuana"}
+{"id":354962187,"city_id":4609899,"language_key":"lv","name":"Sanhosē de Tiznadosa"}
+{"id":354962341,"city_id":4609901,"language_key":"lv","name":"San Jose de Barlovento"}
+{"id":354963265,"city_id":4609913,"language_key":"lv","name":"San Jose de Guanipa"}
+{"id":354963727,"city_id":4609919,"language_key":"lv","name":"San Jose de Aerocuar"}
+{"id":354968039,"city_id":4609975,"language_key":"lv","name":"Sanhosē"}
+{"id":354969040,"city_id":4609988,"language_key":"lv","name":"Sanhoakina"}
+{"id":354971658,"city_id":4610022,"language_key":"lv","name":"San Isidro"}
+{"id":354971966,"city_id":4610026,"language_key":"lv","name":"San Ignacio"}
+{"id":354973275,"city_id":4610043,"language_key":"lv","name":"San Francisco de Yare"}
+{"id":354973737,"city_id":4610049,"language_key":"lv","name":"Sanfrancisko de Asisa"}
+{"id":354974276,"city_id":4610056,"language_key":"lv","name":"Sanfrancisko"}
+{"id":354975431,"city_id":4610071,"language_key":"lv","name":"Sanfernando de Atabapo"}
+{"id":354975508,"city_id":4610072,"language_key":"lv","name":"Sanfernando"}
+{"id":354975739,"city_id":4610075,"language_key":"lv","name":"Sanfernando del Guapo"}
+{"id":354975893,"city_id":4610077,"language_key":"lv","name":"Sanfēliksa"}
+{"id":354976355,"city_id":4610083,"language_key":"lv","name":"Sanfelipe"}
+{"id":354978203,"city_id":4610107,"language_key":"lv","name":"Sandjego de Kabrutika"}
+{"id":354978280,"city_id":4610108,"language_key":"lv","name":"Sandjego"}
+{"id":354978434,"city_id":4610110,"language_key":"lv","name":"Sandjego"}
+{"id":354979127,"city_id":4610119,"language_key":"lv","name":"Sankristobala"}
+{"id":354979666,"city_id":4610126,"language_key":"lv","name":"San Kazimiro"}
+{"id":354979743,"city_id":4610127,"language_key":"lv","name":"San Carlos de Rio Negro"}
+{"id":354979820,"city_id":4610128,"language_key":"lv","name":"San Carlos del Zulia"}
+{"id":354980436,"city_id":4610136,"language_key":"lv","name":"Sankarlosa"}
+{"id":354982130,"city_id":4610158,"language_key":"lv","name":"Sanare"}
+{"id":354982438,"city_id":4610162,"language_key":"lv","name":"San Antonio del Tachira"}
+{"id":354982515,"city_id":4610163,"language_key":"lv","name":"San Antonio de Los Altos"}
+{"id":354982592,"city_id":4610164,"language_key":"lv","name":"San Antonio del Golfo"}
+{"id":354983054,"city_id":4610170,"language_key":"lv","name":"Capaya"}
+{"id":354984748,"city_id":4610192,"language_key":"lv","name":"Sanantonio"}
+{"id":354987674,"city_id":4610230,"language_key":"lv","name":"Sanantonio"}
+{"id":354988752,"city_id":4610244,"language_key":"lv","name":"Sanagustina"}
+{"id":354990215,"city_id":4610263,"language_key":"lv","name":"Salom"}
+{"id":354994758,"city_id":4610322,"language_key":"lv","name":"Sabaneta"}
+{"id":354995682,"city_id":4610334,"language_key":"lv","name":"Sabana Libre"}
+{"id":354997145,"city_id":4610353,"language_key":"lv","name":"Sabana Grande"}
+{"id":354997684,"city_id":4610360,"language_key":"lv","name":"Sabana Grande"}
+{"id":354997915,"city_id":4610363,"language_key":"lv","name":"Sabana Grande"}
+{"id":354998223,"city_id":4610367,"language_key":"lv","name":"Sabana de Uchire"}
+{"id":354998608,"city_id":4610372,"language_key":"lv","name":"Sabana de Parra"}
+{"id":354998762,"city_id":4610374,"language_key":"lv","name":"Sabana de Mendoza"}
+{"id":355000148,"city_id":4610392,"language_key":"lv","name":"Rubio"}
+{"id":355000379,"city_id":4610395,"language_key":"lv","name":"La Villa del Rosario"}
+{"id":355000687,"city_id":4610399,"language_key":"lv","name":"El Rosario"}
+{"id":355001611,"city_id":4610411,"language_key":"lv","name":"Rojas"}
+{"id":355004075,"city_id":4610443,"language_key":"lv","name":"Rio Tocuyo"}
+{"id":355004152,"city_id":4610444,"language_key":"lv","name":"Rio Seco"}
+{"id":355004614,"city_id":4610450,"language_key":"lv","name":"Rio Negro"}
+{"id":355005538,"city_id":4610462,"language_key":"lv","name":"Rio Claro"}
+{"id":355006231,"city_id":4610471,"language_key":"lv","name":"Rio Čiko"}
+{"id":355006385,"city_id":4610473,"language_key":"lv","name":"Rio Casanay"}
+{"id":355006462,"city_id":4610474,"language_key":"lv","name":"Rio Caribe"}
+{"id":355007078,"city_id":4610482,"language_key":"lv","name":"Rio Acarigua"}
+{"id":355010312,"city_id":4610524,"language_key":"lv","name":"Remolino"}
+{"id":355011467,"city_id":4610539,"language_key":"lv","name":"Rangels"}
+{"id":355015394,"city_id":4610590,"language_key":"lv","name":"Quiriquire"}
+{"id":355015548,"city_id":4610592,"language_key":"lv","name":"Quiriquire"}
+{"id":355016857,"city_id":4610609,"language_key":"lv","name":"Kibora"}
+{"id":355018089,"city_id":4610625,"language_key":"lv","name":"Queniquea"}
+{"id":355018705,"city_id":4610633,"language_key":"lv","name":"Quebrada Seca"}
+{"id":355019321,"city_id":4610641,"language_key":"lv","name":"Quebrada Seca"}
+{"id":355019475,"city_id":4610643,"language_key":"lv","name":"San Francisco del Guri"}
+{"id":355021477,"city_id":4610669,"language_key":"lv","name":"Quebrada de La Virgen"}
+{"id":355021862,"city_id":4610674,"language_key":"lv","name":"Kvebrada Arriba"}
+{"id":355023402,"city_id":4610694,"language_key":"lv","name":"Puntofidžo"}
+{"id":355024018,"city_id":4610702,"language_key":"lv","name":"Punta Gorda"}
+{"id":355024480,"city_id":4610708,"language_key":"lv","name":"Punta de Piedras"}
+{"id":355024557,"city_id":4610709,"language_key":"lv","name":"Punta de Piedra"}
+{"id":355024711,"city_id":4610711,"language_key":"lv","name":"Punta de Piedra"}
+{"id":355024865,"city_id":4610713,"language_key":"lv","name":"Punta de Mata"}
+{"id":355025404,"city_id":4610720,"language_key":"lv","name":"Punta Cardon"}
+{"id":355025866,"city_id":4610726,"language_key":"lv","name":"Punceres"}
+{"id":355026251,"city_id":4610731,"language_key":"lv","name":"Puerto Teteo"}
+{"id":355026405,"city_id":4610733,"language_key":"lv","name":"Puerto Santo"}
+{"id":355027021,"city_id":4610741,"language_key":"lv","name":"Puerto Piritu"}
+{"id":355027098,"city_id":4610742,"language_key":"lv","name":"Puerto Paez"}
+{"id":355027175,"city_id":4610743,"language_key":"lv","name":"Puerto Nuevo"}
+{"id":355027406,"city_id":4610746,"language_key":"lv","name":"Puerto Miranda"}
+{"id":355027560,"city_id":4610748,"language_key":"lv","name":"Puerto Miranda"}
+{"id":355028330,"city_id":4610758,"language_key":"lv","name":"Puertolakrusa"}
+{"id":355029100,"city_id":4610768,"language_key":"lv","name":"Puerto Escondido"}
+{"id":355029562,"city_id":4610774,"language_key":"lv","name":"Puerto de Nutrias"}
+{"id":355029716,"city_id":4610776,"language_key":"lv","name":"Puerto de Hierro"}
+{"id":355029793,"city_id":4610777,"language_key":"lv","name":"Puerto Cumarebo"}
+{"id":355030255,"city_id":4610783,"language_key":"lv","name":"Puertokabelja"}
+{"id":355030563,"city_id":4610787,"language_key":"lv","name":"Puerto Ayacucho"}
+{"id":355033797,"city_id":4610829,"language_key":"lv","name":"Pueblo Nuevo"}
+{"id":355035491,"city_id":4610851,"language_key":"lv","name":"Pueblo Nuevo El Chivo"}
+{"id":355036030,"city_id":4610858,"language_key":"lv","name":"Pueblo Llano"}
+{"id":355037724,"city_id":4610880,"language_key":"lv","name":"Pregonero"}
+{"id":355037801,"city_id":4610881,"language_key":"lv","name":"Pozuelos"}
+{"id":355039033,"city_id":4610897,"language_key":"lv","name":"Potreritos"}
+{"id":355041189,"city_id":4610925,"language_key":"lv","name":"Porlamara"}
+{"id":355045501,"city_id":4610981,"language_key":"lv","name":"Piritu"}
+{"id":355045578,"city_id":4610982,"language_key":"lv","name":"Piritu"}
+{"id":355045732,"city_id":4610984,"language_key":"lv","name":"Piritu"}
+{"id":355048350,"city_id":4611018,"language_key":"lv","name":"Pimpinela"}
+{"id":355053201,"city_id":4611081,"language_key":"lv","name":"Petare"}
+{"id":355054587,"city_id":4611099,"language_key":"lv","name":"Peribeca"}
+{"id":355055819,"city_id":4611115,"language_key":"lv","name":"Pena"}
+{"id":355057590,"city_id":4611138,"language_key":"lv","name":"Pedregal"}
+{"id":355058052,"city_id":4611144,"language_key":"lv","name":"Pedraza La Vieja"}
+{"id":355058283,"city_id":4611147,"language_key":"lv","name":"Pedernales"}
+{"id":355058745,"city_id":4611153,"language_key":"lv","name":"Payara"}
+{"id":355065598,"city_id":4611242,"language_key":"lv","name":"Pariaguan"}
+{"id":355066907,"city_id":4611259,"language_key":"lv","name":"Parapara"}
+{"id":355067908,"city_id":4611272,"language_key":"lv","name":"Paraiso de Chabasquen"}
+{"id":355068678,"city_id":4611282,"language_key":"lv","name":"La Plaza Paraguachi"}
+{"id":355068832,"city_id":4611284,"language_key":"lv","name":"Paraguaipoa"}
+{"id":355069448,"city_id":4611292,"language_key":"lv","name":"Paracotos"}
+{"id":355070141,"city_id":4611301,"language_key":"lv","name":"Papelons"}
+{"id":355071681,"city_id":4611321,"language_key":"lv","name":"Panaquire"}
+{"id":355072143,"city_id":4611327,"language_key":"lv","name":"Pampatar"}
+{"id":355072220,"city_id":4611328,"language_key":"lv","name":"Pampanito"}
+{"id":355072297,"city_id":4611329,"language_key":"lv","name":"Pampan"}
+{"id":355072759,"city_id":4611335,"language_key":"lv","name":"Palotal"}
+{"id":355074145,"city_id":4611353,"language_key":"lv","name":"Palo Negro"}
+{"id":355074838,"city_id":4611362,"language_key":"lv","name":"Palo Gordo"}
+{"id":355076455,"city_id":4611383,"language_key":"lv","name":"Palmira"}
+{"id":355077379,"city_id":4611395,"language_key":"lv","name":"Palmasola"}
+{"id":355084848,"city_id":4611492,"language_key":"lv","name":"Ospino"}
+{"id":355086080,"city_id":4611508,"language_key":"lv","name":"Ortiz"}
+{"id":355086388,"city_id":4611512,"language_key":"lv","name":"Orope"}
+{"id":355087620,"city_id":4611528,"language_key":"lv","name":"Onoto"}
+{"id":355087851,"city_id":4611531,"language_key":"lv","name":"Onoto"}
+{"id":355091855,"city_id":4611583,"language_key":"lv","name":"Okumare"}
+{"id":355091932,"city_id":4611584,"language_key":"lv","name":"Ocumare de la Costa"}
+{"id":355092471,"city_id":4611591,"language_key":"lv","name":"Obispos"}
+{"id":355093472,"city_id":4611604,"language_key":"lv","name":"Nueva Bolivia"}
+{"id":355094242,"city_id":4611614,"language_key":"lv","name":"Nirgua"}
+{"id":355095089,"city_id":4611625,"language_key":"lv","name":"Naricual"}
+{"id":355095551,"city_id":4611631,"language_key":"lv","name":"Naiguata"}
+{"id":355095628,"city_id":4611632,"language_key":"lv","name":"Naguanagua"}
+{"id":355096629,"city_id":4611645,"language_key":"lv","name":"Munoz"}
+{"id":355097476,"city_id":4611656,"language_key":"lv","name":"Mulatal"}
+{"id":355098092,"city_id":4611664,"language_key":"lv","name":"Mucuruba"}
+{"id":355098939,"city_id":4611675,"language_key":"lv","name":"Mucumpiz"}
+{"id":355099093,"city_id":4611677,"language_key":"lv","name":"Mucujepe"}
+{"id":355099170,"city_id":4611678,"language_key":"lv","name":"Mucuchies"}
+{"id":355100171,"city_id":4611691,"language_key":"lv","name":"Motatan del Rio"}
+{"id":355100325,"city_id":4611693,"language_key":"lv","name":"Motatan"}
+{"id":355100556,"city_id":4611696,"language_key":"lv","name":"Mosquey"}
+{"id":355102404,"city_id":4611720,"language_key":"lv","name":"Morons"}
+{"id":355104098,"city_id":4611742,"language_key":"lv","name":"Morichal Largo"}
+{"id":355108333,"city_id":4611797,"language_key":"lv","name":"Monte Carmelo"}
+{"id":355109257,"city_id":4611809,"language_key":"lv","name":"Montalban"}
+{"id":355109565,"city_id":4611813,"language_key":"lv","name":"Monay"}
+{"id":355111028,"city_id":4611832,"language_key":"lv","name":"Mochima"}
+{"id":355111490,"city_id":4611838,"language_key":"lv","name":"Miton"}
+{"id":355111952,"city_id":4611844,"language_key":"lv","name":"San Francisco de Guayo"}
+{"id":355112414,"city_id":4611850,"language_key":"lv","name":"Mirimire"}
+{"id":355112568,"city_id":4611852,"language_key":"lv","name":"Miranda"}
+{"id":355114878,"city_id":4611882,"language_key":"lv","name":"Michelena"}
+{"id":355116187,"city_id":4611899,"language_key":"lv","name":"Mesa de Cavacas"}
+{"id":355116726,"city_id":4611906,"language_key":"lv","name":"Merida"}
+{"id":355119575,"city_id":4611943,"language_key":"lv","name":"Mene Grande"}
+{"id":355119652,"city_id":4611944,"language_key":"lv","name":"Mene de Mauroa"}
+{"id":355133204,"city_id":4612120,"language_key":"lv","name":"Masparrito"}
+{"id":355134051,"city_id":4612131,"language_key":"lv","name":"Maroa"}
+{"id":355134282,"city_id":4612134,"language_key":"lv","name":"Maripa"}
+{"id":355134359,"city_id":4612135,"language_key":"lv","name":"Maripa"}
+{"id":355134513,"city_id":4612137,"language_key":"lv","name":"Marin"}
+{"id":355134821,"city_id":4612141,"language_key":"lv","name":"Mariguitar"}
+{"id":355134975,"city_id":4612143,"language_key":"lv","name":"Mariara"}
+{"id":355136053,"city_id":4612157,"language_key":"lv","name":"Marcano"}
+{"id":355136977,"city_id":4612169,"language_key":"lv","name":"Marakaja"}
+{"id":355137208,"city_id":4612172,"language_key":"lv","name":"Marakaibo"}
+{"id":355137593,"city_id":4612177,"language_key":"lv","name":"Mara"}
+{"id":355139056,"city_id":4612196,"language_key":"lv","name":"Maporal"}
+{"id":355139133,"city_id":4612197,"language_key":"lv","name":"Maporal"}
+{"id":355139364,"city_id":4612200,"language_key":"lv","name":"Maporal"}
+{"id":355139518,"city_id":4612202,"language_key":"lv","name":"Mapire"}
+{"id":355139672,"city_id":4612204,"language_key":"lv","name":"Maparari"}
+{"id":355140904,"city_id":4612220,"language_key":"lv","name":"Manteca"}
+{"id":355142290,"city_id":4612238,"language_key":"lv","name":"Manicuare"}
+{"id":355144292,"city_id":4612264,"language_key":"lv","name":"Mamporal"}
+{"id":355147449,"city_id":4612305,"language_key":"lv","name":"Maiquetia"}
+{"id":355148219,"city_id":4612315,"language_key":"lv","name":"Mahomito"}
+{"id":355148912,"city_id":4612324,"language_key":"lv","name":"Magdaleno"}
+{"id":355149913,"city_id":4612337,"language_key":"lv","name":"Macuto"}
+{"id":355151376,"city_id":4612356,"language_key":"lv","name":"Mačikesa"}
+{"id":355152531,"city_id":4612371,"language_key":"lv","name":"Macapo"}
+{"id":355157459,"city_id":4612435,"language_key":"lv","name":"Los Teques"}
+{"id":355157690,"city_id":4612438,"language_key":"lv","name":"Los Taques"}
+{"id":355159769,"city_id":4612465,"language_key":"lv","name":"Los Rios"}
+{"id":355160462,"city_id":4612474,"language_key":"lv","name":"Los Rastrojos"}
+{"id":355165005,"city_id":4612533,"language_key":"lv","name":"Los Pijiguaos"}
+{"id":355170934,"city_id":4612610,"language_key":"lv","name":"Los Millanes"}
+{"id":355179404,"city_id":4612720,"language_key":"lv","name":"Los Guayos"}
+{"id":355179789,"city_id":4612725,"language_key":"lv","name":"Los Guasdalotes"}
+{"id":355182022,"city_id":4612754,"language_key":"lv","name":"Los Dos Caminos"}
+{"id":355185949,"city_id":4612805,"language_key":"lv","name":"Los Kokoss"}
+{"id":355187720,"city_id":4612828,"language_key":"lv","name":"Los Chiguires"}
+{"id":355190338,"city_id":4612862,"language_key":"lv","name":"Los Carpinteros"}
+{"id":355196421,"city_id":4612941,"language_key":"lv","name":"Los Barrancos de Fajardo"}
+{"id":355197499,"city_id":4612955,"language_key":"lv","name":"Los Bagres"}
+{"id":355198346,"city_id":4612966,"language_key":"lv","name":"Los Araques"}
+{"id":355199501,"city_id":4612981,"language_key":"lv","name":"Los Altos"}
+{"id":355199732,"city_id":4612984,"language_key":"lv","name":"Los Altos"}
+{"id":355204275,"city_id":4613043,"language_key":"lv","name":"Lobatera"}
+{"id":355206200,"city_id":4613068,"language_key":"lv","name":"Limonar Adentro"}
+{"id":355206662,"city_id":4613074,"language_key":"lv","name":"Libertad"}
+{"id":355206739,"city_id":4613075,"language_key":"lv","name":"Libertad"}
+{"id":355206816,"city_id":4613076,"language_key":"lv","name":"Canagua"}
+{"id":355206893,"city_id":4613077,"language_key":"lv","name":"Capacho Viejo"}
+{"id":355206970,"city_id":4613078,"language_key":"lv","name":"Lezama"}
+{"id":355208587,"city_id":4613099,"language_key":"lv","name":"La Yuca"}
+{"id":355212668,"city_id":4613152,"language_key":"lv","name":"Laviktorija"}
+{"id":355213823,"city_id":4613167,"language_key":"lv","name":"La Viktorija"}
+{"id":355215132,"city_id":4613184,"language_key":"lv","name":"La Vela de Coro"}
+{"id":355215517,"city_id":4613189,"language_key":"lv","name":"Veguitas"}
+{"id":355219906,"city_id":4613246,"language_key":"lv","name":"La Savienība"}
+{"id":355220830,"city_id":4613258,"language_key":"lv","name":"La Trinidāda"}
+{"id":355223140,"city_id":4613288,"language_key":"lv","name":"La Trilla"}
+{"id":355223448,"city_id":4613292,"language_key":"lv","name":"La Toscana"}
+{"id":355228915,"city_id":4613363,"language_key":"lv","name":"Lasvegasa"}
+{"id":355229916,"city_id":4613376,"language_key":"lv","name":"Las Tunas"}
+{"id":355232072,"city_id":4613404,"language_key":"lv","name":"Lastejeriasa"}
+{"id":355239541,"city_id":4613501,"language_key":"lv","name":"Las Piedras"}
+{"id":355241235,"city_id":4613523,"language_key":"lv","name":"Las Parcelas"}
+{"id":355244084,"city_id":4613560,"language_key":"lv","name":"Ollas de Caramacate"}
+{"id":355249320,"city_id":4613628,"language_key":"lv","name":"Las Mesas"}
+{"id":355249551,"city_id":4613631,"language_key":"lv","name":"Las Mercedes"}
+{"id":355250552,"city_id":4613644,"language_key":"lv","name":"Las Mercedes"}
+{"id":355258637,"city_id":4613749,"language_key":"lv","name":"La Sierra"}
+{"id":355261332,"city_id":4613784,"language_key":"lv","name":"Las Guacamayas"}
+{"id":355265490,"city_id":4613838,"language_key":"lv","name":"Las Elisas"}
+{"id":355267415,"city_id":4613863,"language_key":"lv","name":"Las Delicia"}
+{"id":355267800,"city_id":4613868,"language_key":"lv","name":"Las Delicia"}
+{"id":355269263,"city_id":4613887,"language_key":"lv","name":"Las Cruces"}
+{"id":355275346,"city_id":4613966,"language_key":"lv","name":"Las Calderas"}
+{"id":355282430,"city_id":4614058,"language_key":"lv","name":"Larrainzar"}
+{"id":355284740,"city_id":4614088,"language_key":"lv","name":"La Roquena"}
+{"id":355288436,"city_id":4614136,"language_key":"lv","name":"La Reforma"}
+{"id":355291670,"city_id":4614178,"language_key":"lv","name":"La Kvebrada"}
+{"id":355291901,"city_id":4614181,"language_key":"lv","name":"La Kvebrada"}
+{"id":355294442,"city_id":4614214,"language_key":"lv","name":"La Providencia"}
+{"id":355297599,"city_id":4614255,"language_key":"lv","name":"La Plata"}
+{"id":355300140,"city_id":4614288,"language_key":"lv","name":"La Pica"}
+{"id":355303451,"city_id":4614331,"language_key":"lv","name":"Lapasa"}
+{"id":355304067,"city_id":4614339,"language_key":"lv","name":"La Pastora"}
+{"id":355305530,"city_id":4614358,"language_key":"lv","name":"La Paragua"}
+{"id":355306146,"city_id":4614366,"language_key":"lv","name":"La Pampa de Aragua"}
+{"id":355306454,"city_id":4614370,"language_key":"lv","name":"La paloma"}
+{"id":355312999,"city_id":4614455,"language_key":"lv","name":"Lander"}
+{"id":355317311,"city_id":4614511,"language_key":"lv","name":"La Mocha"}
+{"id":355317773,"city_id":4614517,"language_key":"lv","name":"La Mision"}
+{"id":355318312,"city_id":4614524,"language_key":"lv","name":"La Miel"}
+{"id":355321161,"city_id":4614561,"language_key":"lv","name":"La Mata"}
+{"id":355327013,"city_id":4614637,"language_key":"lv","name":"La Luz"}
+{"id":355332634,"city_id":4614710,"language_key":"lv","name":"La Lagunita"}
+{"id":355333404,"city_id":4614720,"language_key":"lv","name":"La Laguna"}
+{"id":355335560,"city_id":4614748,"language_key":"lv","name":"La Jara"}
+{"id":355340950,"city_id":4614818,"language_key":"lv","name":"Lagunota"}
+{"id":355341720,"city_id":4614828,"language_key":"lv","name":"Lagunillas"}
+{"id":355341797,"city_id":4614829,"language_key":"lv","name":"Lagunillas"}
+{"id":355342875,"city_id":4614843,"language_key":"lv","name":"Laguna Marcos"}
+{"id":355344723,"city_id":4614867,"language_key":"lv","name":"La Guasduilla"}
+{"id":355346109,"city_id":4614885,"language_key":"lv","name":"La Guaira"}
+{"id":355351114,"city_id":4614950,"language_key":"lv","name":"La Fundacion"}
+{"id":355362972,"city_id":4615104,"language_key":"lv","name":"La Esmeralda"}
+{"id":355365975,"city_id":4615143,"language_key":"lv","name":"La Dominga"}
+{"id":355366129,"city_id":4615145,"language_key":"lv","name":"La Diecinueve"}
+{"id":355366591,"city_id":4615151,"language_key":"lv","name":"Democracia"}
+{"id":355372366,"city_id":4615226,"language_key":"lv","name":"La Cruz de Taratara"}
+{"id":355376293,"city_id":4615277,"language_key":"lv","name":"La Concepcion"}
+{"id":355376524,"city_id":4615280,"language_key":"lv","name":"Concepcion"}
+{"id":355380451,"city_id":4615331,"language_key":"lv","name":"La Ciega"}
+{"id":355382453,"city_id":4615357,"language_key":"lv","name":"Chameta"}
+{"id":355383993,"city_id":4615377,"language_key":"lv","name":"La Cejita"}
+{"id":355387150,"city_id":4615418,"language_key":"lv","name":"La Ceiba"}
+{"id":355389999,"city_id":4615455,"language_key":"lv","name":"Caramuca"}
+{"id":355394542,"city_id":4615514,"language_key":"lv","name":"La Cabana"}
+{"id":355399778,"city_id":4615582,"language_key":"lv","name":"La Batea"}
+{"id":355401318,"city_id":4615602,"language_key":"lv","name":"La Azulita"}
+{"id":355403551,"city_id":4615631,"language_key":"lv","name":"La Arenosa"}
+{"id":355405630,"city_id":4615658,"language_key":"lv","name":"La Aguadita"}
+{"id":355406477,"city_id":4615669,"language_key":"lv","name":"La Aguada"}
+{"id":355408633,"city_id":4615697,"language_key":"lv","name":"Kanavayen"}
+{"id":355408710,"city_id":4615698,"language_key":"lv","name":"Jusepin"}
+{"id":355408864,"city_id":4615700,"language_key":"lv","name":"Junins"}
+{"id":355409634,"city_id":4615710,"language_key":"lv","name":"Judibana"}
+{"id":355410327,"city_id":4615719,"language_key":"lv","name":"Juan Griego"}
+{"id":355414716,"city_id":4615776,"language_key":"lv","name":"Jalisco"}
+{"id":355414870,"city_id":4615778,"language_key":"lv","name":"Jaji"}
+{"id":355416256,"city_id":4615796,"language_key":"lv","name":"Jacura"}
+{"id":355416872,"city_id":4615804,"language_key":"lv","name":"Jabon"}
+{"id":355418412,"city_id":4615824,"language_key":"lv","name":"Isnotu"}
+{"id":355418720,"city_id":4615828,"language_key":"lv","name":"Irapa"}
+{"id":355419644,"city_id":4615840,"language_key":"lv","name":"Neatkarība"}
+{"id":355420491,"city_id":4615851,"language_key":"lv","name":"Humo Lūz"}
+{"id":355420568,"city_id":4615852,"language_key":"lv","name":"Humocaro Bajo"}
+{"id":355420645,"city_id":4615853,"language_key":"lv","name":"Humocaro Alto"}
+{"id":355421569,"city_id":4615865,"language_key":"lv","name":"Higuerote"}
+{"id":355422878,"city_id":4615882,"language_key":"lv","name":"Hernandez"}
+{"id":355429885,"city_id":4615973,"language_key":"lv","name":"Guiria"}
+{"id":355430039,"city_id":4615975,"language_key":"lv","name":"Wiuiquina"}
+{"id":355430347,"city_id":4615979,"language_key":"lv","name":"Gvigve"}
+{"id":355432503,"city_id":4616007,"language_key":"lv","name":"Gvajabonas"}
+{"id":355432811,"city_id":4616011,"language_key":"lv","name":"Gvajabala"}
+{"id":355434428,"city_id":4616032,"language_key":"lv","name":"Gvajabala"}
+{"id":355434967,"city_id":4616039,"language_key":"lv","name":"Gvatire"}
+{"id":355436045,"city_id":4616053,"language_key":"lv","name":"Guasipati"}
+{"id":355439433,"city_id":4616097,"language_key":"lv","name":"Guarico"}
+{"id":355440280,"city_id":4616108,"language_key":"lv","name":"Guarena"}
+{"id":355440896,"city_id":4616116,"language_key":"lv","name":"Guardatinajas"}
+{"id":355440973,"city_id":4616117,"language_key":"lv","name":"Guaraunos"}
+{"id":355441204,"city_id":4616120,"language_key":"lv","name":"Guarataro"}
+{"id":355441897,"city_id":4616129,"language_key":"lv","name":"Guaraque"}
+{"id":355444053,"city_id":4616157,"language_key":"lv","name":"Guanta"}
+{"id":355445131,"city_id":4616171,"language_key":"lv","name":"Guanarito"}
+{"id":355445285,"city_id":4616173,"language_key":"lv","name":"Gvanare"}
+{"id":355445439,"city_id":4616175,"language_key":"lv","name":"Gvanape"}
+{"id":355448519,"city_id":4616215,"language_key":"lv","name":"Guama"}
+{"id":355448827,"city_id":4616219,"language_key":"lv","name":"Guajira"}
+{"id":355450675,"city_id":4616243,"language_key":"lv","name":"Gvadarrama"}
+{"id":355452523,"city_id":4616267,"language_key":"lv","name":"Gvakara"}
+{"id":355454294,"city_id":4616290,"language_key":"lv","name":"Gomess"}
+{"id":355459530,"city_id":4616358,"language_key":"lv","name":"Flor de Patria"}
+{"id":355461224,"city_id":4616380,"language_key":"lv","name":"Farriar"}
+{"id":355462225,"city_id":4616393,"language_key":"lv","name":"Estoraque"}
+{"id":355464458,"city_id":4616422,"language_key":"lv","name":"Escuque"}
+{"id":355465382,"city_id":4616434,"language_key":"lv","name":"Encontrados"}
+{"id":355468154,"city_id":4616470,"language_key":"lv","name":"El Yagual"}
+{"id":355469309,"city_id":4616485,"language_key":"lv","name":"Elvidžija"}
+{"id":355471542,"city_id":4616514,"language_key":"lv","name":"El Valle del Espiritu Santo"}
+{"id":355471619,"city_id":4616515,"language_key":"lv","name":"El Valle"}
+{"id":355473313,"city_id":4616537,"language_key":"lv","name":"El Triunfo"}
+{"id":355474545,"city_id":4616553,"language_key":"lv","name":"El Toro"}
+{"id":355474776,"city_id":4616556,"language_key":"lv","name":"El Toro"}
+{"id":355476008,"city_id":4616572,"language_key":"lv","name":"Eltukujo"}
+{"id":355478241,"city_id":4616601,"language_key":"lv","name":"Eltigre"}
+{"id":355479858,"city_id":4616622,"language_key":"lv","name":"El Tejero"}
+{"id":355482553,"city_id":4616657,"language_key":"lv","name":"El Sombrero"}
+{"id":355482784,"city_id":4616660,"language_key":"lv","name":"El Socorro"}
+{"id":355483477,"city_id":4616669,"language_key":"lv","name":"El Socorro"}
+{"id":355483939,"city_id":4616675,"language_key":"lv","name":"El Socorro"}
+{"id":355484478,"city_id":4616682,"language_key":"lv","name":"El Silencio"}
+{"id":355485171,"city_id":4616691,"language_key":"lv","name":"El Siete"}
+{"id":355486172,"city_id":4616704,"language_key":"lv","name":"El Saman de Apure"}
+{"id":355490792,"city_id":4616764,"language_key":"lv","name":"Los Roques"}
+{"id":355498492,"city_id":4616864,"language_key":"lv","name":"El Regalo"}
+{"id":355498723,"city_id":4616867,"language_key":"lv","name":"El Recreo"}
+{"id":355501726,"city_id":4616906,"language_key":"lv","name":"El Pueblito"}
+{"id":355510427,"city_id":4617019,"language_key":"lv","name":"El Pinar"}
+{"id":355510889,"city_id":4617025,"language_key":"lv","name":"San Rafael del Pinal"}
+{"id":355511351,"city_id":4617031,"language_key":"lv","name":"El Pilar"}
+{"id":355511428,"city_id":4617032,"language_key":"lv","name":"El Pilar"}
+{"id":355517588,"city_id":4617112,"language_key":"lv","name":"El Pauji"}
+{"id":355518358,"city_id":4617122,"language_key":"lv","name":"El Pato"}
+{"id":355521515,"city_id":4617163,"language_key":"lv","name":"El Paradero"}
+{"id":355522285,"city_id":4617173,"language_key":"lv","name":"El Pao Viejo"}
+{"id":355522362,"city_id":4617174,"language_key":"lv","name":"El Pao"}
+{"id":355524364,"city_id":4617200,"language_key":"lv","name":"El Palmer"}
+{"id":355526212,"city_id":4617224,"language_key":"lv","name":"El Palmar"}
+{"id":355528291,"city_id":4617251,"language_key":"lv","name":"Elorza"}
+{"id":355529061,"city_id":4617261,"language_key":"lv","name":"El Nula"}
+{"id":355529369,"city_id":4617265,"language_key":"lv","name":"Nokupetaro de Morelos"}
+{"id":355533219,"city_id":4617315,"language_key":"lv","name":"Lecherias"}
+{"id":355534066,"city_id":4617326,"language_key":"lv","name":"El Moralito"}
+{"id":355535221,"city_id":4617341,"language_key":"lv","name":"El Molinete"}
+{"id":355535606,"city_id":4617346,"language_key":"lv","name":"El Milagro"}
+{"id":355538455,"city_id":4617383,"language_key":"lv","name":"El Mene"}
+{"id":355540457,"city_id":4617409,"language_key":"lv","name":"El Manzano"}
+{"id":355540534,"city_id":4617410,"language_key":"lv","name":"El Manteco"}
+{"id":355540842,"city_id":4617414,"language_key":"lv","name":"El Manteco"}
+{"id":355547926,"city_id":4617506,"language_key":"lv","name":"Ellimona"}
+{"id":355550236,"city_id":4617536,"language_key":"lv","name":"El Lamedero"}
+{"id":355557628,"city_id":4617632,"language_key":"lv","name":"El Hatillo"}
+{"id":355559014,"city_id":4617650,"language_key":"lv","name":"El Gvajabo"}
+{"id":355560092,"city_id":4617664,"language_key":"lv","name":"El Guate"}
+{"id":355560400,"city_id":4617668,"language_key":"lv","name":"El Guasimo"}
+{"id":355562017,"city_id":4617689,"language_key":"lv","name":"El Guapo"}
+{"id":355565636,"city_id":4617736,"language_key":"lv","name":"El Guacharo"}
+{"id":355567638,"city_id":4617762,"language_key":"lv","name":"El Furrial"}
+{"id":355570564,"city_id":4617800,"language_key":"lv","name":"El Eneal"}
+{"id":355571334,"city_id":4617810,"language_key":"lv","name":"El Encanto"}
+{"id":355572797,"city_id":4617829,"language_key":"lv","name":"Eldorado"}
+{"id":355573259,"city_id":4617835,"language_key":"lv","name":"El Dividive"}
+{"id":355579419,"city_id":4617915,"language_key":"lv","name":"El Cruce"}
+{"id":355580189,"city_id":4617925,"language_key":"lv","name":"El Korozo"}
+{"id":355581344,"city_id":4617940,"language_key":"lv","name":"El Korozo"}
+{"id":355582884,"city_id":4617960,"language_key":"lv","name":"El Consejo"}
+{"id":355583038,"city_id":4617962,"language_key":"lv","name":"El Consejo"}
+{"id":355585348,"city_id":4617992,"language_key":"lv","name":"El Cobre"}
+{"id":355585425,"city_id":4617993,"language_key":"lv","name":"El Cobre"}
+{"id":355590353,"city_id":4618057,"language_key":"lv","name":"El Cerrote"}
+{"id":355598515,"city_id":4618163,"language_key":"lv","name":"El Carmelo"}
+{"id":355601595,"city_id":4618203,"language_key":"lv","name":"El Kantona"}
+{"id":355601980,"city_id":4618208,"language_key":"lv","name":"El Kantona"}
+{"id":355604906,"city_id":4618246,"language_key":"lv","name":"El Callao"}
+{"id":355606292,"city_id":4618264,"language_key":"lv","name":"El Cafe"}
+{"id":355611682,"city_id":4618334,"language_key":"lv","name":"El Baul"}
+{"id":355618227,"city_id":4618419,"language_key":"lv","name":"El Amparo de Apure"}
+{"id":355618381,"city_id":4618421,"language_key":"lv","name":"El Amparo"}
+{"id":355624310,"city_id":4618498,"language_key":"lv","name":"Ehido"}
+{"id":355624926,"city_id":4618506,"language_key":"lv","name":"Duaca"}
+{"id":355625003,"city_id":4618507,"language_key":"lv","name":"Dos Rios"}
+{"id":355625927,"city_id":4618519,"language_key":"lv","name":"Doloresa"}
+{"id":355626004,"city_id":4618520,"language_key":"lv","name":"Doloresa"}
+{"id":355627467,"city_id":4618539,"language_key":"lv","name":"Dabajuro"}
+{"id":355629238,"city_id":4618562,"language_key":"lv","name":"Curiepe"}
+{"id":355629623,"city_id":4618567,"language_key":"lv","name":"Curiapo"}
+{"id":355629931,"city_id":4618571,"language_key":"lv","name":"Curbati"}
+{"id":355631779,"city_id":4618595,"language_key":"lv","name":"Cupira"}
+{"id":355634012,"city_id":4618624,"language_key":"lv","name":"Cumanacoa"}
+{"id":355634089,"city_id":4618625,"language_key":"lv","name":"Kumana"}
+{"id":355636861,"city_id":4618661,"language_key":"lv","name":"Cubiro"}
+{"id":355637323,"city_id":4618667,"language_key":"lv","name":"Kuatro Eskvinass"}
+{"id":355637862,"city_id":4618674,"language_key":"lv","name":"Cuara"}
+{"id":355638324,"city_id":4618680,"language_key":"lv","name":"Kua"}
+{"id":355648257,"city_id":4618809,"language_key":"lv","name":"Koro"}
+{"id":355648565,"city_id":4618813,"language_key":"lv","name":"Cordoba"}
+{"id":355648642,"city_id":4618814,"language_key":"lv","name":"Cordero"}
+{"id":355650721,"city_id":4618841,"language_key":"lv","name":"Congorocho"}
+{"id":355651337,"city_id":4618849,"language_key":"lv","name":"Konča"}
+{"id":355651491,"city_id":4618851,"language_key":"lv","name":"Concepcion"}
+{"id":355652646,"city_id":4618866,"language_key":"lv","name":"Colonia Tovar"}
+{"id":355652954,"city_id":4618870,"language_key":"lv","name":"Coloncito"}
+{"id":355653416,"city_id":4618876,"language_key":"lv","name":"Colina"}
+{"id":355653724,"city_id":4618880,"language_key":"lv","name":"Cojedes"}
+{"id":355656573,"city_id":4618917,"language_key":"lv","name":"Cocorote"}
+{"id":355656881,"city_id":4618921,"language_key":"lv","name":"Coco de Mono"}
+{"id":355657651,"city_id":4618931,"language_key":"lv","name":"Klarines"}
+{"id":355657728,"city_id":4618932,"language_key":"lv","name":"Ciudad Piar"}
+{"id":355657805,"city_id":4618933,"language_key":"lv","name":"Sjudadurdaneta"}
+{"id":355657882,"city_id":4618934,"language_key":"lv","name":"Sjudadgajana"}
+{"id":355657959,"city_id":4618935,"language_key":"lv","name":"Ciudad de Nutrias"}
+{"id":355658036,"city_id":4618936,"language_key":"lv","name":"Ciudad Bolivia"}
+{"id":355658113,"city_id":4618937,"language_key":"lv","name":"Sjudadbolivara"}
+{"id":355658267,"city_id":4618939,"language_key":"lv","name":"Cipriano"}
+{"id":355659807,"city_id":4618959,"language_key":"lv","name":"Churuguara"}
+{"id":355660192,"city_id":4618964,"language_key":"lv","name":"Chunaure"}
+{"id":355660423,"city_id":4618967,"language_key":"lv","name":"Chuao"}
+{"id":355661270,"city_id":4618978,"language_key":"lv","name":"Choroni"}
+{"id":355662040,"city_id":4618988,"language_key":"lv","name":"Chivacoa"}
+{"id":355662733,"city_id":4618997,"language_key":"lv","name":"Chirgua"}
+{"id":355662964,"city_id":4619000,"language_key":"lv","name":"Chiquinquira"}
+{"id":355663965,"city_id":4619013,"language_key":"lv","name":"Čimborazo"}
+{"id":355664427,"city_id":4619019,"language_key":"lv","name":"Chiguara"}
+{"id":355664735,"city_id":4619023,"language_key":"lv","name":"Chichiriviche"}
+{"id":355665120,"city_id":4619028,"language_key":"lv","name":"Chejende"}
+{"id":355665582,"city_id":4619034,"language_key":"lv","name":"Čaralave"}
+{"id":355667045,"city_id":4619053,"language_key":"lv","name":"Chamizal"}
+{"id":355667892,"city_id":4619064,"language_key":"lv","name":"Chaguaramas"}
+{"id":355668123,"city_id":4619067,"language_key":"lv","name":"Chaguaramal"}
+{"id":355668508,"city_id":4619072,"language_key":"lv","name":"Chacopata"}
+{"id":355669124,"city_id":4619080,"language_key":"lv","name":"Chacao"}
+{"id":355669586,"city_id":4619086,"language_key":"lv","name":"Ceuta"}
+{"id":355672358,"city_id":4619122,"language_key":"lv","name":"Ceped"}
+{"id":355672666,"city_id":4619126,"language_key":"lv","name":"Takarigua"}
+{"id":355673898,"city_id":4619142,"language_key":"lv","name":"Cedeno"}
+{"id":355675746,"city_id":4619166,"language_key":"lv","name":"Caucaguito"}
+{"id":355675823,"city_id":4619167,"language_key":"lv","name":"Caucagua"}
+{"id":355676285,"city_id":4619173,"language_key":"lv","name":"Catuaro"}
+{"id":355676439,"city_id":4619175,"language_key":"lv","name":"Catia La Mar"}
+{"id":355676670,"city_id":4619178,"language_key":"lv","name":"Catatumbo"}
+{"id":355679981,"city_id":4619221,"language_key":"lv","name":"Casigua-El Cubo"}
+{"id":355680597,"city_id":4619229,"language_key":"lv","name":"Casanay"}
+{"id":355681829,"city_id":4619245,"language_key":"lv","name":"Casacoima"}
+{"id":355683754,"city_id":4619270,"language_key":"lv","name":"Karupana"}
+{"id":355685987,"city_id":4619299,"language_key":"lv","name":"Carrizal"}
+{"id":355687296,"city_id":4619316,"language_key":"lv","name":"Carrasquero"}
+{"id":355687989,"city_id":4619325,"language_key":"lv","name":"Karora"}
+{"id":355688066,"city_id":4619326,"language_key":"lv","name":"Karoni"}
+{"id":355688451,"city_id":4619331,"language_key":"lv","name":"Carmen de Cura"}
+{"id":355688913,"city_id":4619337,"language_key":"lv","name":"Carirubana"}
+{"id":355688990,"city_id":4619338,"language_key":"lv","name":"Karipita"}
+{"id":355689067,"city_id":4619339,"language_key":"lv","name":"Caripe"}
+{"id":355689837,"city_id":4619349,"language_key":"lv","name":"Cariaco"}
+{"id":355691377,"city_id":4619369,"language_key":"lv","name":"Carayaca"}
+{"id":355694149,"city_id":4619405,"language_key":"lv","name":"Caramacate"}
+{"id":355694842,"city_id":4619414,"language_key":"lv","name":"Marbačeha"}
+{"id":355694996,"city_id":4619416,"language_key":"lv","name":"Karakasa"}
+{"id":355696074,"city_id":4619430,"language_key":"lv","name":"Caraballeda"}
+{"id":355696690,"city_id":4619438,"language_key":"lv","name":"Capitanejo"}
+{"id":355697460,"city_id":4619448,"language_key":"lv","name":"Kanape Kapatarida"}
+{"id":355697691,"city_id":4619451,"language_key":"lv","name":"Capadare"}
+{"id":355698692,"city_id":4619464,"language_key":"lv","name":"Cantaura"}
+{"id":355701695,"city_id":4619503,"language_key":"lv","name":"Cano Negro"}
+{"id":355706084,"city_id":4619560,"language_key":"lv","name":"Canoabo"}
+{"id":355707085,"city_id":4619573,"language_key":"lv","name":"Kandelārija"}
+{"id":355710935,"city_id":4619623,"language_key":"lv","name":"Campoma"}
+{"id":355711397,"city_id":4619629,"language_key":"lv","name":"Campo Guayaraca"}
+{"id":355711628,"city_id":4619632,"language_key":"lv","name":"Campo Elias"}
+{"id":355711859,"city_id":4619635,"language_key":"lv","name":"Campo Elias"}
+{"id":355719559,"city_id":4619735,"language_key":"lv","name":"Camatagua"}
+{"id":355719944,"city_id":4619740,"language_key":"lv","name":"Camaguan"}
+{"id":355720868,"city_id":4619752,"language_key":"lv","name":"Calchehtok"}
+{"id":355721330,"city_id":4619758,"language_key":"lv","name":"Calado"}
+{"id":355721407,"city_id":4619759,"language_key":"lv","name":"Kalabosa"}
+{"id":355722023,"city_id":4619767,"language_key":"lv","name":"Caja Seca"}
+{"id":355723486,"city_id":4619786,"language_key":"lv","name":"Caigua"}
+{"id":355724102,"city_id":4619794,"language_key":"lv","name":"Caicara"}
+{"id":355724256,"city_id":4619796,"language_key":"lv","name":"Kaikara del Orinoko"}
+{"id":355724564,"city_id":4619800,"language_key":"lv","name":"Caguada"}
+{"id":355724641,"city_id":4619801,"language_key":"lv","name":"Kagva"}
+{"id":355725180,"city_id":4619808,"language_key":"lv","name":"Cachipo"}
+{"id":355726489,"city_id":4619825,"language_key":"lv","name":"Cabure"}
+{"id":355726566,"city_id":4619826,"language_key":"lv","name":"Kabudare"}
+{"id":355726643,"city_id":4619827,"language_key":"lv","name":"Cabruta"}
+{"id":355726951,"city_id":4619831,"language_key":"lv","name":"Kabimasa"}
+{"id":355729030,"city_id":4619858,"language_key":"lv","name":"Burbusay"}
+{"id":355729107,"city_id":4619859,"language_key":"lv","name":"Bum Bum"}
+{"id":355731725,"city_id":4619893,"language_key":"lv","name":"Buenosairesa"}
+{"id":355731879,"city_id":4619895,"language_key":"lv","name":"Buena Vista"}
+{"id":355736499,"city_id":4619955,"language_key":"lv","name":"Buena Vista"}
+{"id":355737346,"city_id":4619966,"language_key":"lv","name":"Buchivacoa"}
+{"id":355738963,"city_id":4619987,"language_key":"lv","name":"Bruzual"}
+{"id":355739579,"city_id":4619995,"language_key":"lv","name":"Bramon"}
+{"id":355741658,"city_id":4620022,"language_key":"lv","name":"Borota"}
+{"id":355742274,"city_id":4620030,"language_key":"lv","name":"Borburata"}
+{"id":355742505,"city_id":4620033,"language_key":"lv","name":"Boraure"}
+{"id":355745277,"city_id":4620069,"language_key":"lv","name":"Bolivar"}
+{"id":355745739,"city_id":4620075,"language_key":"lv","name":"Boconoito"}
+{"id":355745893,"city_id":4620077,"language_key":"lv","name":"Bocono"}
+{"id":355747356,"city_id":4620096,"language_key":"lv","name":"Boca de Uchire"}
+{"id":355748742,"city_id":4620114,"language_key":"lv","name":"Boca del Rio"}
+{"id":355748819,"city_id":4620115,"language_key":"lv","name":"Boca del Rio"}
+{"id":355750051,"city_id":4620131,"language_key":"lv","name":"Boca de Casanarito"}
+{"id":355750128,"city_id":4620132,"language_key":"lv","name":"Boca de Aroa"}
+{"id":355751129,"city_id":4620145,"language_key":"lv","name":"Bobures"}
+{"id":355751283,"city_id":4620147,"language_key":"lv","name":"Bobare"}
+{"id":355751437,"city_id":4620149,"language_key":"lv","name":"Biscucuy"}
+{"id":355751591,"city_id":4620151,"language_key":"lv","name":"Biruaca"}
+{"id":355751976,"city_id":4620156,"language_key":"lv","name":"Betijoque"}
+{"id":355752284,"city_id":4620160,"language_key":"lv","name":"Bermudeza"}
+{"id":355752592,"city_id":4620164,"language_key":"lv","name":"Bergantin"}
+{"id":355754671,"city_id":4620191,"language_key":"lv","name":"Belenero"}
+{"id":355754825,"city_id":4620193,"language_key":"lv","name":"Belen"}
+{"id":355756211,"city_id":4620211,"language_key":"lv","name":"Bejuma"}
+{"id":355757828,"city_id":4620232,"language_key":"lv","name":"Baruta"}
+{"id":355759368,"city_id":4620252,"language_key":"lv","name":"Barera Arriba"}
+{"id":355759522,"city_id":4620254,"language_key":"lv","name":"Barranquitas"}
+{"id":355760523,"city_id":4620267,"language_key":"lv","name":"Barrancas"}
+{"id":355760600,"city_id":4620268,"language_key":"lv","name":"Barankasa"}
+{"id":355761216,"city_id":4620276,"language_key":"lv","name":"Barkisimeto"}
+{"id":355762063,"city_id":4620287,"language_key":"lv","name":"Barinitas"}
+{"id":355762140,"city_id":4620288,"language_key":"lv","name":"Barina"}
+{"id":355762294,"city_id":4620290,"language_key":"lv","name":"Barselona"}
+{"id":355763141,"city_id":4620301,"language_key":"lv","name":"Barbacoas"}
+{"id":355763372,"city_id":4620304,"language_key":"lv","name":"Barbacoas"}
+{"id":355767068,"city_id":4620352,"language_key":"lv","name":"Bailadores"}
+{"id":355767453,"city_id":4620357,"language_key":"lv","name":"Bačakero"}
+{"id":355771149,"city_id":4620405,"language_key":"lv","name":"Aroa"}
+{"id":355771303,"city_id":4620407,"language_key":"lv","name":"Arismendi"}
+{"id":355771380,"city_id":4620408,"language_key":"lv","name":"Arismendi"}
+{"id":355771919,"city_id":4620415,"language_key":"lv","name":"Arichuna"}
+{"id":355771996,"city_id":4620416,"language_key":"lv","name":"Aricagua"}
+{"id":355772073,"city_id":4620417,"language_key":"lv","name":"Aricagua"}
+{"id":355773305,"city_id":4620433,"language_key":"lv","name":"Arēnas"}
+{"id":355773844,"city_id":4620440,"language_key":"lv","name":"Aregue"}
+{"id":355774229,"city_id":4620445,"language_key":"lv","name":"Araya"}
+{"id":355774537,"city_id":4620449,"language_key":"lv","name":"Araure"}
+{"id":355774614,"city_id":4620450,"language_key":"lv","name":"Arauquita"}
+{"id":355775846,"city_id":4620466,"language_key":"lv","name":"Araira"}
+{"id":355776770,"city_id":4620478,"language_key":"lv","name":"Aragua"}
+{"id":355776847,"city_id":4620479,"language_key":"lv","name":"Aragua de Barcelona"}
+{"id":355777848,"city_id":4620492,"language_key":"lv","name":"Apartaderos"}
+{"id":355778695,"city_id":4620503,"language_key":"lv","name":"Anzoategui"}
+{"id":355784547,"city_id":4620579,"language_key":"lv","name":"Altamira"}
+{"id":355784778,"city_id":4620582,"language_key":"lv","name":"Altagracia de Orituco"}
+{"id":355784855,"city_id":4620583,"language_key":"lv","name":"Altagracia de La Montana"}
+{"id":355784932,"city_id":4620584,"language_key":"lv","name":"Altagracia"}
+{"id":355785009,"city_id":4620585,"language_key":"lv","name":"Los Puertos de Altagracia"}
+{"id":355787011,"city_id":4620611,"language_key":"lv","name":"Algarrobo"}
+{"id":355788782,"city_id":4620634,"language_key":"lv","name":"Aguima"}
+{"id":355789937,"city_id":4620649,"language_key":"lv","name":"Aguasay"}
+{"id":355790014,"city_id":4620650,"language_key":"lv","name":"Agua Santa"}
+{"id":355794018,"city_id":4620702,"language_key":"lv","name":"Aguada Grande"}
+{"id":355798253,"city_id":4620757,"language_key":"lv","name":"Adicora"}
+{"id":355798792,"city_id":4620764,"language_key":"lv","name":"Achaguas"}
+{"id":355798869,"city_id":4620765,"language_key":"lv","name":"Acevedo"}
+{"id":355799485,"city_id":4620773,"language_key":"lv","name":"Akarigva"}
+{"id":355800101,"city_id":4620781,"language_key":"lv","name":"Abejales"}
+{"id":355803643,"city_id":4620827,"language_key":"lv","name":"Las Mesas"}
+{"id":355806800,"city_id":4620868,"language_key":"lv","name":"La Idea"}
+{"id":355806877,"city_id":4620869,"language_key":"lv","name":"San Jose de Bolivar"}
+{"id":355817118,"city_id":4621002,"language_key":"lv","name":"Campo Bernal"}
+{"id":355822739,"city_id":4621075,"language_key":"lv","name":"Sanpedro"}
+{"id":355825280,"city_id":4621108,"language_key":"lv","name":"Pinango"}
+{"id":355826974,"city_id":4621130,"language_key":"lv","name":"El Aguacatico"}
+{"id":355828360,"city_id":4621148,"language_key":"lv","name":"Los Vegotes"}
+{"id":355831363,"city_id":4621187,"language_key":"lv","name":"El Manguito"}
+{"id":355831748,"city_id":4621192,"language_key":"lv","name":"Las Delicia"}
+{"id":355832056,"city_id":4621196,"language_key":"lv","name":"Mārtiņš"}
+{"id":355834058,"city_id":4621222,"language_key":"lv","name":"Garsija"}
+{"id":355835444,"city_id":4621240,"language_key":"lv","name":"El Placer"}
+{"id":355850613,"city_id":4621437,"language_key":"lv","name":"Batatal"}
+{"id":355851383,"city_id":4621447,"language_key":"lv","name":"El Pereno"}
+{"id":355852769,"city_id":4621465,"language_key":"lv","name":"Mijagueito"}
+{"id":355853154,"city_id":4621470,"language_key":"lv","name":"Los Cochinos"}
+{"id":355862856,"city_id":4621596,"language_key":"lv","name":"Pozo Verde"}
+{"id":355865397,"city_id":4621629,"language_key":"lv","name":"Cedeno"}
+{"id":355870402,"city_id":4621694,"language_key":"lv","name":"El Pozon"}
+{"id":355874329,"city_id":4621745,"language_key":"lv","name":"Los Patos"}
+{"id":355881567,"city_id":4621839,"language_key":"lv","name":"Paso Real"}
+{"id":355882106,"city_id":4621846,"language_key":"lv","name":"Campo Solo"}
+{"id":355887419,"city_id":4621915,"language_key":"lv","name":"Los Mereyes"}
+{"id":355896967,"city_id":4622039,"language_key":"lv","name":"Saucedo"}
+{"id":355901356,"city_id":4622096,"language_key":"lv","name":"Zambrano"}
+{"id":355902588,"city_id":4622112,"language_key":"lv","name":"El Trompillo"}
+{"id":355926689,"city_id":4622425,"language_key":"lv","name":"Santa Rita"}
+{"id":355944630,"city_id":4622658,"language_key":"lv","name":"La Taza"}
+{"id":355953716,"city_id":4622776,"language_key":"lv","name":"El Zorro"}
+{"id":355958105,"city_id":4622833,"language_key":"lv","name":"Patos Guayabal"}
+{"id":355958798,"city_id":4622842,"language_key":"lv","name":"Isla Raton"}
+{"id":355963418,"city_id":4622902,"language_key":"lv","name":"Pedraza"}
+{"id":355973967,"city_id":4623039,"language_key":"lv","name":"Pueblo Nuevo"}
+{"id":355978972,"city_id":4623104,"language_key":"lv","name":"San Josesito"}
+{"id":355979357,"city_id":4623109,"language_key":"lv","name":"Uribante"}
+{"id":355987904,"city_id":4623220,"language_key":"lv","name":"Las Llanadas"}
+{"id":355991600,"city_id":4623268,"language_key":"lv","name":"Cordero"}
+{"id":356003689,"city_id":4623425,"language_key":"lv","name":"Paso Largo"}
+{"id":356010388,"city_id":4623512,"language_key":"lv","name":"Sierra Imataca"}
+{"id":356013391,"city_id":4623551,"language_key":"lv","name":"Merejina"}
+{"id":356014084,"city_id":4623560,"language_key":"lv","name":"Las Navas"}
+{"id":356023401,"city_id":4623681,"language_key":"lv","name":"El Recreo"}
+{"id":356032949,"city_id":4623805,"language_key":"lv","name":"Los Pozotes"}
+{"id":356038647,"city_id":4623879,"language_key":"lv","name":"Las Margaritas"}
+{"id":356054586,"city_id":4624086,"language_key":"lv","name":"Las Tinajas"}
+{"id":356056896,"city_id":4624116,"language_key":"lv","name":"La Honda"}
+{"id":356058359,"city_id":4624135,"language_key":"lv","name":"Villa Araure Uno"}
+{"id":356061208,"city_id":4624172,"language_key":"lv","name":"El Picure"}
+{"id":356061824,"city_id":4624180,"language_key":"lv","name":"La Luz"}
+{"id":356070602,"city_id":4624294,"language_key":"lv","name":"Cujicito"}
+{"id":356080073,"city_id":4624417,"language_key":"lv","name":"Piedras Negras"}
+{"id":356082075,"city_id":4624443,"language_key":"lv","name":"El Rinkona"}
+{"id":356083384,"city_id":4624460,"language_key":"lv","name":"Sanfēliksa"}
+{"id":356094241,"city_id":4624601,"language_key":"lv","name":"Mamonal"}
+{"id":356097706,"city_id":4624646,"language_key":"lv","name":"San Jose de Guaribe"}
+{"id":356098168,"city_id":4624652,"language_key":"lv","name":"Santa Rita"}
+{"id":356111720,"city_id":4624828,"language_key":"lv","name":"El Hueso"}
+{"id":356114800,"city_id":4624868,"language_key":"lv","name":"Maturina"}
+{"id":356117726,"city_id":4624906,"language_key":"lv","name":"El Paso de Los Indios"}
+{"id":356120344,"city_id":4624940,"language_key":"lv","name":"La Reacamara"}
+{"id":356128583,"city_id":4625047,"language_key":"lv","name":"Palmasola"}
+{"id":356141134,"city_id":4625210,"language_key":"lv","name":"Turen"}
+{"id":356144137,"city_id":4625249,"language_key":"lv","name":"La Aguada"}
+{"id":356144214,"city_id":4625250,"language_key":"lv","name":"La Aguada"}
+{"id":356146678,"city_id":4625282,"language_key":"lv","name":"El Brasil"}
+{"id":356157150,"city_id":4625418,"language_key":"lv","name":"Guaricapo"}
+{"id":356162155,"city_id":4625483,"language_key":"lv","name":"Campo Lara"}
+{"id":356165081,"city_id":4625521,"language_key":"lv","name":"Kilometro Vientido"}
+{"id":356174552,"city_id":4625644,"language_key":"lv","name":"El Pajon"}
+{"id":356180250,"city_id":4625718,"language_key":"lv","name":"Delikateses"}
+{"id":356180481,"city_id":4625721,"language_key":"lv","name":"La Fria"}
+{"id":356180712,"city_id":4625724,"language_key":"lv","name":"Lagrita"}
+{"id":356181713,"city_id":4625737,"language_key":"lv","name":"Capacho Nuevo"}
+{"id":356186179,"city_id":4625795,"language_key":"lv","name":"Las Huertas"}
+{"id":356188335,"city_id":4625823,"language_key":"lv","name":"La Tendida"}
+{"id":356197729,"city_id":4625945,"language_key":"lv","name":"Cuesta Abajo"}
+{"id":356204197,"city_id":4626029,"language_key":"lv","name":"Lucia"}
+{"id":356215901,"city_id":4626181,"language_key":"lv","name":"Los Pozos Afuera"}
+{"id":356223139,"city_id":4626275,"language_key":"lv","name":"Rio San Pedro"}
+{"id":356223986,"city_id":4626286,"language_key":"lv","name":"Santa Elena"}
+{"id":356227682,"city_id":4626334,"language_key":"lv","name":"La Valeriana"}
+{"id":356228452,"city_id":4626344,"language_key":"lv","name":"Lasvegasa"}
+{"id":356234920,"city_id":4626428,"language_key":"lv","name":"Chacopata"}
+{"id":356235459,"city_id":4626435,"language_key":"lv","name":"Chipichipe"}
+{"id":356242004,"city_id":4626520,"language_key":"lv","name":"Agua Blanca"}
+{"id":356247086,"city_id":4626586,"language_key":"lv","name":"Las Delicia"}
+{"id":356249473,"city_id":4626617,"language_key":"lv","name":"La Isla"}
+{"id":356254632,"city_id":4626684,"language_key":"lv","name":"El Playon"}
+{"id":356258867,"city_id":4626739,"language_key":"lv","name":"La Silleta"}
+{"id":356260946,"city_id":4626766,"language_key":"lv","name":"Arapuey"}
+{"id":356261177,"city_id":4626769,"language_key":"lv","name":"El Batey"}
+{"id":356263949,"city_id":4626805,"language_key":"lv","name":"Macapo"}
+{"id":356273805,"city_id":4626933,"language_key":"lv","name":"La Concordia"}
+{"id":356277116,"city_id":4626976,"language_key":"lv","name":"Manrique"}
+{"id":356283661,"city_id":4627061,"language_key":"lv","name":"Caucaguita"}
+{"id":356283738,"city_id":4627062,"language_key":"lv","name":"La Ceiba"}
+{"id":356293902,"city_id":4627194,"language_key":"lv","name":"Totumito"}
+{"id":356297598,"city_id":4627242,"language_key":"lv","name":"Guasdualito"}
+{"id":356298599,"city_id":4627255,"language_key":"lv","name":"Las Mercedes"}
+{"id":356300370,"city_id":4627278,"language_key":"lv","name":"Sanfernando de Apure"}
+{"id":356300601,"city_id":4627281,"language_key":"lv","name":"San Juan de Payara"}
+{"id":356315924,"city_id":4627480,"language_key":"lv","name":"Sansebastjana"}
+{"id":356317618,"city_id":4627502,"language_key":"lv","name":"Turmerito"}
+{"id":356318157,"city_id":4627509,"language_key":"lv","name":"Vargas"}
+{"id":356345415,"city_id":4627863,"language_key":"lv","name":"Mandigal"}
+{"id":356354655,"city_id":4627983,"language_key":"lv","name":"El Pilons"}
+{"id":356359352,"city_id":4628044,"language_key":"lv","name":"El Rodeo"}
+{"id":356372288,"city_id":4628212,"language_key":"lv","name":"El Diario de Yaracuy"}
+{"id":356372827,"city_id":4628219,"language_key":"lv","name":"Santa Cruz de los Taques"}
+{"id":356372981,"city_id":4628221,"language_key":"lv","name":"Neatkarība"}
+{"id":356376523,"city_id":4628267,"language_key":"lv","name":"El Junko"}
+{"id":356377601,"city_id":4628281,"language_key":"lv","name":"Marizapa"}
+{"id":356381374,"city_id":4628330,"language_key":"lv","name":"Garcia de Hevia Municipality"}

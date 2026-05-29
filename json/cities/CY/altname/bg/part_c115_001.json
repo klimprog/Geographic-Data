@@ -1,0 +1,656 @@
+{"id":102944155,"city_id":1336938,"language_key":"bg","name":"Статос-Агиос Фотиос"}
+{"id":102944232,"city_id":1336939,"language_key":"bg","name":"Пано Пыргос"}
+{"id":102944309,"city_id":1336940,"language_key":"bg","name":"Неа Димата"}
+{"id":102944386,"city_id":1336941,"language_key":"bg","name":"Протарас"}
+{"id":102944694,"city_id":1336945,"language_key":"bg","name":"Агиос Николаос"}
+{"id":102944771,"city_id":1336946,"language_key":"bg","name":"Капсалос"}
+{"id":102945002,"city_id":1336949,"language_key":"bg","name":"Свети Георги"}
+{"id":102945233,"city_id":1336952,"language_key":"bg","name":"Зиги"}
+{"id":102945310,"city_id":1336953,"language_key":"bg","name":"Зоопиги"}
+{"id":102945387,"city_id":1336954,"language_key":"bg","name":"Закаки"}
+{"id":102945464,"city_id":1336955,"language_key":"bg","name":"Ипсонас"}
+{"id":102945541,"city_id":1336956,"language_key":"bg","name":"Гиолу"}
+{"id":102945618,"city_id":1336957,"language_key":"bg","name":"Ялуса"}
+{"id":102945695,"city_id":1336958,"language_key":"bg","name":"Гиалия"}
+{"id":102945772,"city_id":1336959,"language_key":"bg","name":"Героваса"}
+{"id":102945849,"city_id":1336960,"language_key":"bg","name":"Героскипу (квартал)"}
+{"id":102945926,"city_id":1336961,"language_key":"bg","name":"Геролаккос"}
+{"id":102946003,"city_id":1336962,"language_key":"bg","name":"Гермасогеиа"}
+{"id":102946080,"city_id":1336963,"language_key":"bg","name":"Гери"}
+{"id":102946157,"city_id":1336964,"language_key":"bg","name":"Гераса"}
+{"id":102946234,"city_id":1336965,"language_key":"bg","name":"Герани"}
+{"id":102946311,"city_id":1336966,"language_key":"bg","name":"Геракиес"}
+{"id":102946388,"city_id":1336967,"language_key":"bg","name":"Генагра"}
+{"id":102946465,"city_id":1336968,"language_key":"bg","name":"Ксилотимву"}
+{"id":102946542,"city_id":1336969,"language_key":"bg","name":"Ксилофагу"}
+{"id":102946619,"city_id":1336970,"language_key":"bg","name":"Ксилиатос"}
+{"id":102946773,"city_id":1336972,"language_key":"bg","name":"Тсери"}
+{"id":102946850,"city_id":1336973,"language_key":"bg","name":"Фродисиа"}
+{"id":102946927,"city_id":1336974,"language_key":"bg","name":"Вреция"}
+{"id":102947004,"city_id":1336975,"language_key":"bg","name":"Вуно"}
+{"id":102947081,"city_id":1336976,"language_key":"bg","name":"Вуни"}
+{"id":102947158,"city_id":1336977,"language_key":"bg","name":"Ороклини"}
+{"id":102947235,"city_id":1336978,"language_key":"bg","name":"Вони"}
+{"id":102947312,"city_id":1336979,"language_key":"bg","name":"Воколида"}
+{"id":102947389,"city_id":1336980,"language_key":"bg","name":"Юзаки"}
+{"id":102947466,"city_id":1336981,"language_key":"bg","name":"Вицада"}
+{"id":102947543,"city_id":1336982,"language_key":"bg","name":"Викла"}
+{"id":102947620,"city_id":1336983,"language_key":"bg","name":"Вавла"}
+{"id":102947697,"city_id":1336984,"language_key":"bg","name":"Вавациния"}
+{"id":102947774,"city_id":1336985,"language_key":"bg","name":"Ватили"}
+{"id":102947851,"city_id":1336986,"language_key":"bg","name":"Ватилакас"}
+{"id":102947928,"city_id":1336987,"language_key":"bg","name":"Василеиа"}
+{"id":102948005,"city_id":1336988,"language_key":"bg","name":"Васили"}
+{"id":102948082,"city_id":1336989,"language_key":"bg","name":"Васа Киланиу"}
+{"id":102948159,"city_id":1336990,"language_key":"bg","name":"Васа Келакиу"}
+{"id":102948236,"city_id":1336991,"language_key":"bg","name":"Варисеиа"}
+{"id":102948313,"city_id":1336992,"language_key":"bg","name":"Тымвоу"}
+{"id":102948390,"city_id":1336993,"language_key":"bg","name":"Цада"}
+{"id":102948467,"city_id":1336994,"language_key":"bg","name":"Трипимени"}
+{"id":102948544,"city_id":1336995,"language_key":"bg","name":"Трули"}
+{"id":102948621,"city_id":1336996,"language_key":"bg","name":"Троодос"}
+{"id":102948698,"city_id":1336997,"language_key":"bg","name":"Трис Елиес"}
+{"id":102948775,"city_id":1336998,"language_key":"bg","name":"Тримитуса"}
+{"id":102948852,"city_id":1336999,"language_key":"bg","name":"Тремитуса"}
+{"id":102948929,"city_id":1337000,"language_key":"bg","name":"Тримити"}
+{"id":102949006,"city_id":1337001,"language_key":"bg","name":"Тримиклини"}
+{"id":102949160,"city_id":1337003,"language_key":"bg","name":"Трикомо"}
+{"id":102949237,"city_id":1337004,"language_key":"bg","name":"Треметусия"}
+{"id":102949314,"city_id":1337005,"language_key":"bg","name":"Трапеза"}
+{"id":102949391,"city_id":1337006,"language_key":"bg","name":"Трахипедула"}
+{"id":102949468,"city_id":1337007,"language_key":"bg","name":"Трацхони"}
+{"id":102949545,"city_id":1337008,"language_key":"bg","name":"Трахони"}
+{"id":102949622,"city_id":1337009,"language_key":"bg","name":"Тохни"}
+{"id":102949699,"city_id":1337010,"language_key":"bg","name":"Тими"}
+{"id":102949776,"city_id":1337011,"language_key":"bg","name":"Тхермеиа"}
+{"id":102949853,"city_id":1337012,"language_key":"bg","name":"Телетра"}
+{"id":102949930,"city_id":1337013,"language_key":"bg","name":"Терсефану"}
+{"id":102950007,"city_id":1337014,"language_key":"bg","name":"Тера"}
+{"id":102950084,"city_id":1337015,"language_key":"bg","name":"Темвриа"}
+{"id":102950161,"city_id":1337016,"language_key":"bg","name":"Темплос"}
+{"id":102950238,"city_id":1337017,"language_key":"bg","name":"Таврос"}
+{"id":102950315,"city_id":1337018,"language_key":"bg","name":"Тала"}
+{"id":102950392,"city_id":1337019,"language_key":"bg","name":"Сырианоцхори"}
+{"id":102950469,"city_id":1337020,"language_key":"bg","name":"Синграси"}
+{"id":102950546,"city_id":1337021,"language_key":"bg","name":"Сикопетра"}
+{"id":102950700,"city_id":1337023,"language_key":"bg","name":"Стили"}
+{"id":102950777,"city_id":1337024,"language_key":"bg","name":"Строволос"}
+{"id":102950854,"city_id":1337025,"language_key":"bg","name":"Струмби"}
+{"id":102950931,"city_id":1337026,"language_key":"bg","name":"Стронгилос"}
+{"id":102951008,"city_id":1337027,"language_key":"bg","name":"Стени"}
+{"id":102951085,"city_id":1337028,"language_key":"bg","name":"Ставрокону"}
+{"id":102951239,"city_id":1337030,"language_key":"bg","name":"Спитали"}
+{"id":102951316,"city_id":1337031,"language_key":"bg","name":"Спилиа"}
+{"id":102951393,"city_id":1337032,"language_key":"bg","name":"Спатарико"}
+{"id":102951470,"city_id":1337033,"language_key":"bg","name":"Сотира (окръг Фамагуста)"}
+{"id":102951547,"city_id":1337034,"language_key":"bg","name":"Сотира"}
+{"id":102951624,"city_id":1337035,"language_key":"bg","name":"Софтадес"}
+{"id":102951701,"city_id":1337036,"language_key":"bg","name":"Скоуриотисса"}
+{"id":102951778,"city_id":1337037,"language_key":"bg","name":"Скули"}
+{"id":102951855,"city_id":1337038,"language_key":"bg","name":"Скыллоура"}
+{"id":102951932,"city_id":1337039,"language_key":"bg","name":"Скарину"}
+{"id":102952009,"city_id":1337040,"language_key":"bg","name":"Сисклипос"}
+{"id":102952086,"city_id":1337041,"language_key":"bg","name":"Синда"}
+{"id":102952163,"city_id":1337042,"language_key":"bg","name":"Синаорос"}
+{"id":102952240,"city_id":1337043,"language_key":"bg","name":"Симу"}
+{"id":102952317,"city_id":1337044,"language_key":"bg","name":"Силику"}
+{"id":102952394,"city_id":1337045,"language_key":"bg","name":"Сиа"}
+{"id":102952471,"city_id":1337046,"language_key":"bg","name":"Селлади тоу Аппи"}
+{"id":102952548,"city_id":1337047,"language_key":"bg","name":"Агиос Иоаннис Селемани"}
+{"id":102952625,"city_id":1337048,"language_key":"bg","name":"Саранти"}
+{"id":102952702,"city_id":1337049,"language_key":"bg","name":"Сарама"}
+{"id":102952779,"city_id":1337050,"language_key":"bg","name":"Санида"}
+{"id":102952856,"city_id":1337051,"language_key":"bg","name":"Сандаларис"}
+{"id":102952933,"city_id":1337052,"language_key":"bg","name":"Саламиу"}
+{"id":102953087,"city_id":1337054,"language_key":"bg","name":"Ризокарпасо"}
+{"id":102953241,"city_id":1337056,"language_key":"bg","name":"Пиргос"}
+{"id":102953318,"city_id":1337057,"language_key":"bg","name":"Пирга"}
+{"id":102953395,"city_id":1337058,"language_key":"bg","name":"Пила"}
+{"id":102953472,"city_id":1337059,"language_key":"bg","name":"Псимолофоу"}
+{"id":102953549,"city_id":1337060,"language_key":"bg","name":"Псилатос"}
+{"id":102953626,"city_id":1337061,"language_key":"bg","name":"Псевдас"}
+{"id":102953703,"city_id":1337062,"language_key":"bg","name":"Псематисменос"}
+{"id":102953780,"city_id":1337063,"language_key":"bg","name":"Псати"}
+{"id":102953857,"city_id":1337064,"language_key":"bg","name":"Продромос"}
+{"id":102953934,"city_id":1337065,"language_key":"bg","name":"Продроми"}
+{"id":102954011,"city_id":1337066,"language_key":"bg","name":"Претори"}
+{"id":102954088,"city_id":1337067,"language_key":"bg","name":"Прастио"}
+{"id":102954165,"city_id":1337068,"language_key":"bg","name":"Прастио"}
+{"id":102954242,"city_id":1337069,"language_key":"bg","name":"Прастио (Келаки)"}
+{"id":102954319,"city_id":1337070,"language_key":"bg","name":"Прастио"}
+{"id":102954396,"city_id":1337071,"language_key":"bg","name":"Потамитиса"}
+{"id":102954473,"city_id":1337072,"language_key":"bg","name":"Потамиу"}
+{"id":102954550,"city_id":1337073,"language_key":"bg","name":"Потамия"}
+{"id":102954627,"city_id":1337074,"language_key":"bg","name":"Потами"}
+{"id":102954704,"city_id":1337075,"language_key":"bg","name":"Помос"}
+{"id":102954781,"city_id":1337076,"language_key":"bg","name":"Полыстыпос"}
+{"id":102954858,"city_id":1337077,"language_key":"bg","name":"Политико"}
+{"id":102954935,"city_id":1337078,"language_key":"bg","name":"Полис"}
+{"id":102955012,"city_id":1337079,"language_key":"bg","name":"Полеми"}
+{"id":102955166,"city_id":1337081,"language_key":"bg","name":"Платанистаса"}
+{"id":102955243,"city_id":1337082,"language_key":"bg","name":"Платаниссос"}
+{"id":102955320,"city_id":1337083,"language_key":"bg","name":"Платанистия"}
+{"id":102955474,"city_id":1337085,"language_key":"bg","name":"Платани"}
+{"id":102955628,"city_id":1337087,"language_key":"bg","name":"Пигениа"}
+{"id":102955705,"city_id":1337088,"language_key":"bg","name":"Писури"}
+{"id":102955782,"city_id":1337089,"language_key":"bg","name":"Пилери"}
+{"id":102955859,"city_id":1337090,"language_key":"bg","name":"Фтерикоуди"}
+{"id":102955936,"city_id":1337091,"language_key":"bg","name":"Фтерицха"}
+{"id":102956013,"city_id":1337092,"language_key":"bg","name":"Френарос"}
+{"id":102956090,"city_id":1337093,"language_key":"bg","name":"Фота"}
+{"id":102956167,"city_id":1337094,"language_key":"bg","name":"Фламуди"}
+{"id":102956244,"city_id":1337095,"language_key":"bg","name":"Фити"}
+{"id":102956321,"city_id":1337096,"language_key":"bg","name":"Финикас"}
+{"id":102956398,"city_id":1337097,"language_key":"bg","name":"Финикария"}
+{"id":102956475,"city_id":1337098,"language_key":"bg","name":"Фини"}
+{"id":102956552,"city_id":1337099,"language_key":"bg","name":"Филуса Хрисохус"}
+{"id":102956629,"city_id":1337100,"language_key":"bg","name":"Филуса Келокедарон"}
+{"id":102956706,"city_id":1337101,"language_key":"bg","name":"Фыллиа"}
+{"id":102956783,"city_id":1337102,"language_key":"bg","name":"Фикардоу"}
+{"id":102956860,"city_id":1337103,"language_key":"bg","name":"Фасула"}
+{"id":102956937,"city_id":1337104,"language_key":"bg","name":"Фасула"}
+{"id":102957014,"city_id":1337105,"language_key":"bg","name":"Фармакас"}
+{"id":102957091,"city_id":1337106,"language_key":"bg","name":"Фалия"}
+{"id":102957168,"city_id":1337107,"language_key":"bg","name":"Пея"}
+{"id":102957245,"city_id":1337108,"language_key":"bg","name":"Петрофани"}
+{"id":102957322,"city_id":1337109,"language_key":"bg","name":"Петра тоу Дигени"}
+{"id":102957399,"city_id":1337110,"language_key":"bg","name":"Петра"}
+{"id":102957476,"city_id":1337111,"language_key":"bg","name":"Периволия ту Трикому"}
+{"id":102957553,"city_id":1337112,"language_key":"bg","name":"Перволия"}
+{"id":102957630,"city_id":1337113,"language_key":"bg","name":"Перистеронари"}
+{"id":102957784,"city_id":1337115,"language_key":"bg","name":"Перистерона"}
+{"id":102957861,"city_id":1337116,"language_key":"bg","name":"Перистерона"}
+{"id":102957938,"city_id":1337117,"language_key":"bg","name":"Пергамос"}
+{"id":102958015,"city_id":1337118,"language_key":"bg","name":"Пера Педи"}
+{"id":102958092,"city_id":1337119,"language_key":"bg","name":"Пера Цхорио"}
+{"id":102958169,"city_id":1337120,"language_key":"bg","name":"Пера"}
+{"id":102958246,"city_id":1337121,"language_key":"bg","name":"Пентагеиа"}
+{"id":102958323,"city_id":1337122,"language_key":"bg","name":"Пендалия"}
+{"id":102958400,"city_id":1337123,"language_key":"bg","name":"Пендакомо"}
+{"id":102958477,"city_id":1337124,"language_key":"bg","name":"Пелендри"}
+{"id":102958554,"city_id":1337125,"language_key":"bg","name":"Пелатуса"}
+{"id":102958631,"city_id":1337126,"language_key":"bg","name":"Педоулас"}
+{"id":102958708,"city_id":1337127,"language_key":"bg","name":"Патрики"}
+{"id":102958862,"city_id":1337129,"language_key":"bg","name":"Пареклисия"}
+{"id":102958939,"city_id":1337130,"language_key":"bg","name":"Парамита"}
+{"id":102959016,"city_id":1337131,"language_key":"bg","name":"Паралимни"}
+{"id":102959093,"city_id":1337132,"language_key":"bg","name":"Пафос"}
+{"id":102959170,"city_id":1337133,"language_key":"bg","name":"Пано Зодеиа"}
+{"id":102959247,"city_id":1337134,"language_key":"bg","name":"Пано Полемидия"}
+{"id":102959324,"city_id":1337135,"language_key":"bg","name":"Платрес"}
+{"id":102959401,"city_id":1337136,"language_key":"bg","name":"Пано Фласу"}
+{"id":102959478,"city_id":1337137,"language_key":"bg","name":"Панагия"}
+{"id":102959555,"city_id":1337138,"language_key":"bg","name":"Левкара"}
+{"id":102959632,"city_id":1337139,"language_key":"bg","name":"Пано Коутрафас"}
+{"id":102959709,"city_id":1337140,"language_key":"bg","name":"Кивидес"}
+{"id":102959786,"city_id":1337141,"language_key":"bg","name":"Пано Дикомо"}
+{"id":102959863,"city_id":1337142,"language_key":"bg","name":"Пано Дефтера"}
+{"id":102959940,"city_id":1337143,"language_key":"bg","name":"Ародес"}
+{"id":102960017,"city_id":1337144,"language_key":"bg","name":"Архимандрита"}
+{"id":102960171,"city_id":1337146,"language_key":"bg","name":"Пано Акурдалия"}
+{"id":102960248,"city_id":1337147,"language_key":"bg","name":"Панагра"}
+{"id":102960325,"city_id":1337148,"language_key":"bg","name":"Палодия"}
+{"id":102960402,"city_id":1337149,"language_key":"bg","name":"Палеософос"}
+{"id":102960479,"city_id":1337150,"language_key":"bg","name":"Палиомилос"}
+{"id":102960556,"city_id":1337151,"language_key":"bg","name":"Палаиометоцхо"}
+{"id":102960633,"city_id":1337152,"language_key":"bg","name":"Палаикытхро"}
+{"id":102960710,"city_id":1337153,"language_key":"bg","name":"Палаицхори"}
+{"id":102960787,"city_id":1337154,"language_key":"bg","name":"Пацхыаммос"}
+{"id":102960864,"city_id":1337155,"language_key":"bg","name":"Пахна"}
+{"id":102960941,"city_id":1337156,"language_key":"bg","name":"Овгорос"}
+{"id":102961018,"city_id":1337157,"language_key":"bg","name":"Ороунта"}
+{"id":102961172,"city_id":1337159,"language_key":"bg","name":"Ормидия"}
+{"id":102961249,"city_id":1337160,"language_key":"bg","name":"Орга"}
+{"id":102961326,"city_id":1337161,"language_key":"bg","name":"Ора"}
+{"id":102961403,"city_id":1337162,"language_key":"bg","name":"Омодос"}
+{"id":102961480,"city_id":1337163,"language_key":"bg","name":"Оду"}
+{"id":102961557,"city_id":1337164,"language_key":"bg","name":"Нисоу"}
+{"id":102961634,"city_id":1337165,"language_key":"bg","name":"Оикос"}
+{"id":102961711,"city_id":1337166,"language_key":"bg","name":"Никоклия"}
+{"id":102961788,"city_id":1337167,"language_key":"bg","name":"Никитас"}
+{"id":102961865,"city_id":1337168,"language_key":"bg","name":"Никитари"}
+{"id":102961942,"city_id":1337169,"language_key":"bg","name":"Никозия"}
+{"id":102962019,"city_id":1337170,"language_key":"bg","name":"Нета"}
+{"id":102962096,"city_id":1337171,"language_key":"bg","name":"Нео Цхорио"}
+{"id":102962173,"city_id":1337172,"language_key":"bg","name":"Нео Хорио (окръг Пафос)"}
+{"id":102962250,"city_id":1337173,"language_key":"bg","name":"Ната"}
+{"id":102962327,"city_id":1337174,"language_key":"bg","name":"Мыртоу"}
+{"id":102962404,"city_id":1337175,"language_key":"bg","name":"Моутоуллас"}
+{"id":102962481,"city_id":1337176,"language_key":"bg","name":"Мутаяка"}
+{"id":102962558,"city_id":1337177,"language_key":"bg","name":"Мусулита"}
+{"id":102962635,"city_id":1337178,"language_key":"bg","name":"Мусере"}
+{"id":102962789,"city_id":1337180,"language_key":"bg","name":"Мосфилоти"}
+{"id":102962866,"city_id":1337181,"language_key":"bg","name":"Мосфилери"}
+{"id":102962943,"city_id":1337182,"language_key":"bg","name":"Морфоу"}
+{"id":102963097,"city_id":1337184,"language_key":"bg","name":"Мора"}
+{"id":102963174,"city_id":1337185,"language_key":"bg","name":"Мониатис"}
+{"id":102963251,"city_id":1337186,"language_key":"bg","name":"Мони"}
+{"id":102963328,"city_id":1337187,"language_key":"bg","name":"Монарга"}
+{"id":102963405,"city_id":1337188,"language_key":"bg","name":"Монагрули"}
+{"id":102963482,"city_id":1337189,"language_key":"bg","name":"Монагри"}
+{"id":102963559,"city_id":1337190,"language_key":"bg","name":"Митсеро"}
+{"id":102963636,"city_id":1337191,"language_key":"bg","name":"Милиу"}
+{"id":102963713,"city_id":1337192,"language_key":"bg","name":"Мыликоури"}
+{"id":102963790,"city_id":1337193,"language_key":"bg","name":"Милия"}
+{"id":102963867,"city_id":1337194,"language_key":"bg","name":"Милия"}
+{"id":102963944,"city_id":1337195,"language_key":"bg","name":"Миа Милиа"}
+{"id":102964021,"city_id":1337196,"language_key":"bg","name":"Месоги"}
+{"id":102964098,"city_id":1337197,"language_key":"bg","name":"Меса Гитония"}
+{"id":102964175,"city_id":1337198,"language_key":"bg","name":"Месана"}
+{"id":102964252,"city_id":1337199,"language_key":"bg","name":"Меса Хорио"}
+{"id":102964406,"city_id":1337201,"language_key":"bg","name":"Меноя"}
+{"id":102964483,"city_id":1337202,"language_key":"bg","name":"Менеу"}
+{"id":102964560,"city_id":1337203,"language_key":"bg","name":"Мелусия"}
+{"id":102964637,"city_id":1337204,"language_key":"bg","name":"Мелини"}
+{"id":102964714,"city_id":1337205,"language_key":"bg","name":"Меландра"}
+{"id":102964791,"city_id":1337206,"language_key":"bg","name":"Меланарга"}
+{"id":102964868,"city_id":1337207,"language_key":"bg","name":"Меладия"}
+{"id":102964945,"city_id":1337208,"language_key":"bg","name":"Мазотос"}
+{"id":102965099,"city_id":1337210,"language_key":"bg","name":"Матиколони"}
+{"id":102965176,"city_id":1337211,"language_key":"bg","name":"Матхиатис"}
+{"id":102965253,"city_id":1337212,"language_key":"bg","name":"Масари"}
+{"id":102965330,"city_id":1337213,"language_key":"bg","name":"Марони"}
+{"id":102965407,"city_id":1337214,"language_key":"bg","name":"Маронас"}
+{"id":102965484,"city_id":1337215,"language_key":"bg","name":"Мари"}
+{"id":102965638,"city_id":1337217,"language_key":"bg","name":"Марги"}
+{"id":102965715,"city_id":1337218,"language_key":"bg","name":"Маратовунос"}
+{"id":102965792,"city_id":1337219,"language_key":"bg","name":"Маратунда"}
+{"id":102965869,"city_id":1337220,"language_key":"bg","name":"Марата"}
+{"id":102965946,"city_id":1337221,"language_key":"bg","name":"Мандрия"}
+{"id":102966023,"city_id":1337222,"language_key":"bg","name":"Мандрия"}
+{"id":102966100,"city_id":1337223,"language_key":"bg","name":"Мандрес"}
+{"id":102966177,"city_id":1337224,"language_key":"bg","name":"Мандрес"}
+{"id":102966331,"city_id":1337226,"language_key":"bg","name":"Мамундали"}
+{"id":102966408,"city_id":1337227,"language_key":"bg","name":"Мамония"}
+{"id":102966485,"city_id":1337228,"language_key":"bg","name":"Маммари"}
+{"id":102966562,"city_id":1337229,"language_key":"bg","name":"Мелоунта"}
+{"id":102966639,"city_id":1337230,"language_key":"bg","name":"Малоунта"}
+{"id":102966793,"city_id":1337232,"language_key":"bg","name":"Малия"}
+{"id":102966870,"city_id":1337233,"language_key":"bg","name":"Макрасика"}
+{"id":102966947,"city_id":1337234,"language_key":"bg","name":"Макунда"}
+{"id":102967024,"city_id":1337235,"language_key":"bg","name":"Лытхродонтас"}
+{"id":102967101,"city_id":1337236,"language_key":"bg","name":"Литрангоми"}
+{"id":102967178,"city_id":1337237,"language_key":"bg","name":"Лисос"}
+{"id":102967255,"city_id":1337238,"language_key":"bg","name":"Лиси"}
+{"id":102967332,"city_id":1337239,"language_key":"bg","name":"Лымпиа"}
+{"id":102967409,"city_id":1337240,"language_key":"bg","name":"Луварас"}
+{"id":102967486,"city_id":1337241,"language_key":"bg","name":"Лоутрос"}
+{"id":102967563,"city_id":1337242,"language_key":"bg","name":"Лоуроукина"}
+{"id":102967640,"city_id":1337243,"language_key":"bg","name":"Лукруну"}
+{"id":102967717,"city_id":1337244,"language_key":"bg","name":"Лофу"}
+{"id":102967794,"city_id":1337245,"language_key":"bg","name":"Ливера"}
+{"id":102967948,"city_id":1337247,"language_key":"bg","name":"Ливадия"}
+{"id":102968025,"city_id":1337248,"language_key":"bg","name":"Ливадиа"}
+{"id":102968102,"city_id":1337249,"language_key":"bg","name":"Ливади"}
+{"id":102968179,"city_id":1337250,"language_key":"bg","name":"Лиопетри"}
+{"id":102968256,"city_id":1337251,"language_key":"bg","name":"Линоу"}
+{"id":102968333,"city_id":1337252,"language_key":"bg","name":"Лимнитис"}
+{"id":102968410,"city_id":1337253,"language_key":"bg","name":"Лимния"}
+{"id":102968487,"city_id":1337254,"language_key":"bg","name":"Лимнатис"}
+{"id":102968564,"city_id":1337255,"language_key":"bg","name":"Лимасол"}
+{"id":102968641,"city_id":1337256,"language_key":"bg","name":"Летимву"}
+{"id":102968718,"city_id":1337257,"language_key":"bg","name":"Леонарисо"}
+{"id":102968795,"city_id":1337258,"language_key":"bg","name":"Лемона"}
+{"id":102968872,"city_id":1337259,"language_key":"bg","name":"Лемиту"}
+{"id":102968949,"city_id":1337260,"language_key":"bg","name":"Лемба"}
+{"id":102969026,"city_id":1337261,"language_key":"bg","name":"Левконико"}
+{"id":102969103,"city_id":1337262,"language_key":"bg","name":"Лефка"}
+{"id":102969180,"city_id":1337263,"language_key":"bg","name":"Лазаниас"}
+{"id":102969257,"city_id":1337264,"language_key":"bg","name":"Лая"}
+{"id":102969334,"city_id":1337265,"language_key":"bg","name":"Латсиа"}
+{"id":102969411,"city_id":1337266,"language_key":"bg","name":"Ласа"}
+{"id":102969488,"city_id":1337267,"language_key":"bg","name":"Ларнакас тис Лапиту"}
+{"id":102969565,"city_id":1337268,"language_key":"bg","name":"Ларнака"}
+{"id":102969642,"city_id":1337269,"language_key":"bg","name":"Лапитхос"}
+{"id":102969719,"city_id":1337270,"language_key":"bg","name":"Лапитиу"}
+{"id":102969796,"city_id":1337271,"language_key":"bg","name":"Лапатос"}
+{"id":102969873,"city_id":1337272,"language_key":"bg","name":"Лания"}
+{"id":102969950,"city_id":1337273,"language_key":"bg","name":"Лагоудера"}
+{"id":102970104,"city_id":1337275,"language_key":"bg","name":"Кытхреа"}
+{"id":102970181,"city_id":1337276,"language_key":"bg","name":"Кирения"}
+{"id":102970258,"city_id":1337277,"language_key":"bg","name":"Кыра"}
+{"id":102970335,"city_id":1337278,"language_key":"bg","name":"Киперунда"}
+{"id":102970412,"city_id":1337279,"language_key":"bg","name":"Криту Тера"}
+{"id":102970489,"city_id":1337280,"language_key":"bg","name":"Криту Мароту"}
+{"id":102970566,"city_id":1337281,"language_key":"bg","name":"Крини"}
+{"id":102970643,"city_id":1337282,"language_key":"bg","name":"Кридеиа"}
+{"id":102970720,"city_id":1337283,"language_key":"bg","name":"Куцовендис"}
+{"id":102970874,"city_id":1337285,"language_key":"bg","name":"Коуроу Монастири"}
+{"id":102970951,"city_id":1337286,"language_key":"bg","name":"Куклия"}
+{"id":102971028,"city_id":1337287,"language_key":"bg","name":"Куклия"}
+{"id":102971105,"city_id":1337288,"language_key":"bg","name":"Кука"}
+{"id":102971182,"city_id":1337289,"language_key":"bg","name":"Корфи"}
+{"id":102971259,"city_id":1337290,"language_key":"bg","name":"Коровия"}
+{"id":102971336,"city_id":1337291,"language_key":"bg","name":"Корнос"}
+{"id":102971413,"city_id":1337292,"language_key":"bg","name":"Корнокипос"}
+{"id":102971490,"city_id":1337293,"language_key":"bg","name":"Кормакитис"}
+{"id":102971567,"city_id":1337294,"language_key":"bg","name":"Коракоу"}
+{"id":102971644,"city_id":1337295,"language_key":"bg","name":"Кофину"}
+{"id":102971721,"city_id":1337296,"language_key":"bg","name":"Кония"}
+{"id":102971798,"city_id":1337297,"language_key":"bg","name":"Кондеменос"}
+{"id":102971875,"city_id":1337298,"language_key":"bg","name":"Кондеа"}
+{"id":102971952,"city_id":1337299,"language_key":"bg","name":"Коми Кепир"}
+{"id":102972029,"city_id":1337300,"language_key":"bg","name":"Кома ту Ялу"}
+{"id":102972106,"city_id":1337301,"language_key":"bg","name":"Колоси"}
+{"id":102972183,"city_id":1337302,"language_key":"bg","name":"Колони"}
+{"id":102972260,"city_id":1337303,"language_key":"bg","name":"Коккинотримитхиа"}
+{"id":102972337,"city_id":1337304,"language_key":"bg","name":"Коккина"}
+{"id":102972414,"city_id":1337305,"language_key":"bg","name":"Котсиатис"}
+{"id":102972491,"city_id":1337306,"language_key":"bg","name":"Кнодара"}
+{"id":102972568,"city_id":1337307,"language_key":"bg","name":"Клонари"}
+{"id":102972645,"city_id":1337308,"language_key":"bg","name":"Клироу"}
+{"id":102972722,"city_id":1337309,"language_key":"bg","name":"Клепини"}
+{"id":102972799,"city_id":1337310,"language_key":"bg","name":"Клавдия"}
+{"id":102972876,"city_id":1337311,"language_key":"bg","name":"Кивисили"}
+{"id":102972953,"city_id":1337312,"language_key":"bg","name":"Кити"}
+{"id":102973030,"city_id":1337313,"language_key":"bg","name":"Кидаси"}
+{"id":102973107,"city_id":1337314,"language_key":"bg","name":"Кисуса"}
+{"id":102973184,"city_id":1337315,"language_key":"bg","name":"Кисонерга"}
+{"id":102973261,"city_id":1337316,"language_key":"bg","name":"Кинуса"}
+{"id":102973338,"city_id":1337317,"language_key":"bg","name":"Килиния"}
+{"id":102973415,"city_id":1337318,"language_key":"bg","name":"Кили"}
+{"id":102973492,"city_id":1337319,"language_key":"bg","name":"Килани"}
+{"id":102973569,"city_id":1337320,"language_key":"bg","name":"Киланемос"}
+{"id":102973646,"city_id":1337321,"language_key":"bg","name":"Хрисоху"}
+{"id":102973723,"city_id":1337322,"language_key":"bg","name":"Цхрысилиоу"}
+{"id":102973877,"city_id":1337324,"language_key":"bg","name":"Хулу"}
+{"id":102973954,"city_id":1337325,"language_key":"bg","name":"Холи"}
+{"id":102974031,"city_id":1337326,"language_key":"bg","name":"Холетрия"}
+{"id":102974108,"city_id":1337327,"language_key":"bg","name":"Хлорака"}
+{"id":102974185,"city_id":1337328,"language_key":"bg","name":"Хирокития"}
+{"id":102974262,"city_id":1337329,"language_key":"bg","name":"Цхаркеиа"}
+{"id":102974339,"city_id":1337330,"language_key":"bg","name":"Хандрия"}
+{"id":102974493,"city_id":1337332,"language_key":"bg","name":"Аласа"}
+{"id":102974570,"city_id":1337333,"language_key":"bg","name":"Киомоуртзоу"}
+{"id":102974647,"city_id":1337334,"language_key":"bg","name":"Келокедара"}
+{"id":102974724,"city_id":1337335,"language_key":"bg","name":"Келия"}
+{"id":102974801,"city_id":1337336,"language_key":"bg","name":"Келаки"}
+{"id":102974878,"city_id":1337337,"language_key":"bg","name":"Кедарес"}
+{"id":102974955,"city_id":1337338,"language_key":"bg","name":"Казафани"}
+{"id":102975032,"city_id":1337339,"language_key":"bg","name":"Катыдата"}
+{"id":102975109,"city_id":1337340,"language_key":"bg","name":"Като Зодеиа"}
+{"id":102975263,"city_id":1337342,"language_key":"bg","name":"Пирга"}
+{"id":102975340,"city_id":1337343,"language_key":"bg","name":"Като Пыргос"}
+{"id":102975417,"city_id":1337344,"language_key":"bg","name":"Като Полемидия"}
+{"id":102975494,"city_id":1337345,"language_key":"bg","name":"Като Платрес"}
+{"id":102975571,"city_id":1337346,"language_key":"bg","name":"Като Фласоу"}
+{"id":102975648,"city_id":1337347,"language_key":"bg","name":"Като Милос"}
+{"id":102975725,"city_id":1337348,"language_key":"bg","name":"Като Мони"}
+{"id":102975802,"city_id":1337349,"language_key":"bg","name":"Като Лефкара"}
+{"id":102975879,"city_id":1337350,"language_key":"bg","name":"Като Лакатамеиа"}
+{"id":102975956,"city_id":1337351,"language_key":"bg","name":"Като Коутрафас"}
+{"id":102976033,"city_id":1337352,"language_key":"bg","name":"Катокопиа"}
+{"id":102976187,"city_id":1337354,"language_key":"bg","name":"Като Дрис"}
+{"id":102976264,"city_id":1337355,"language_key":"bg","name":"Като Дикомо"}
+{"id":102976341,"city_id":1337356,"language_key":"bg","name":"Като Дефтера"}
+{"id":102976418,"city_id":1337357,"language_key":"bg","name":"Ародес"}
+{"id":102976572,"city_id":1337359,"language_key":"bg","name":"Амиандос"}
+{"id":102976649,"city_id":1337360,"language_key":"bg","name":"Като Акурдалия"}
+{"id":102976726,"city_id":1337361,"language_key":"bg","name":"Катикас"}
+{"id":102976803,"city_id":1337362,"language_key":"bg","name":"Каталионтас"}
+{"id":102976880,"city_id":1337363,"language_key":"bg","name":"Карпасия"}
+{"id":102976957,"city_id":1337364,"language_key":"bg","name":"Карми"}
+{"id":102977034,"city_id":1337365,"language_key":"bg","name":"Каравостаси"}
+{"id":102977111,"city_id":1337366,"language_key":"bg","name":"Каравас"}
+{"id":102977188,"city_id":1337367,"language_key":"bg","name":"Карамулидес"}
+{"id":102977265,"city_id":1337368,"language_key":"bg","name":"Каракоуми"}
+{"id":102977342,"city_id":1337369,"language_key":"bg","name":"Капилио"}
+{"id":102977419,"city_id":1337370,"language_key":"bg","name":"Капедес"}
+{"id":102977496,"city_id":1337371,"language_key":"bg","name":"Кантара"}
+{"id":102977573,"city_id":1337372,"language_key":"bg","name":"Канавиу"}
+{"id":102977650,"city_id":1337373,"language_key":"bg","name":"Каннавиа"}
+{"id":102977727,"city_id":1337374,"language_key":"bg","name":"Канли"}
+{"id":102977804,"city_id":1337375,"language_key":"bg","name":"Канту"}
+{"id":102977881,"city_id":1337376,"language_key":"bg","name":"Каминария"}
+{"id":102977958,"city_id":1337377,"language_key":"bg","name":"Камбили"}
+{"id":102978035,"city_id":1337378,"language_key":"bg","name":"Кампос"}
+{"id":102978112,"city_id":1337379,"language_key":"bg","name":"Кампиа"}
+{"id":102978189,"city_id":1337380,"language_key":"bg","name":"Кампи"}
+{"id":102978266,"city_id":1337381,"language_key":"bg","name":"Кавакита"}
+{"id":102978343,"city_id":1337382,"language_key":"bg","name":"Калопсида"}
+{"id":102978420,"city_id":1337383,"language_key":"bg","name":"Калопанагиотис"}
+{"id":102978497,"city_id":1337384,"language_key":"bg","name":"Кало Чорио"}
+{"id":102978728,"city_id":1337387,"language_key":"bg","name":"Кало Хорио"}
+{"id":102978805,"city_id":1337388,"language_key":"bg","name":"Кало Хорио (окръг Лимасол)"}
+{"id":102978882,"city_id":1337389,"language_key":"bg","name":"Калогреа"}
+{"id":102978959,"city_id":1337390,"language_key":"bg","name":"Калепия"}
+{"id":102979036,"city_id":1337391,"language_key":"bg","name":"Калиана"}
+{"id":102979113,"city_id":1337392,"language_key":"bg","name":"Калавасос"}
+{"id":102979190,"city_id":1337393,"language_key":"bg","name":"Какопетриа"}
+{"id":102979267,"city_id":1337394,"language_key":"bg","name":"Истиндзион"}
+{"id":102979344,"city_id":1337395,"language_key":"bg","name":"Иния"}
+{"id":102979498,"city_id":1337397,"language_key":"bg","name":"Гыпсоу"}
+{"id":102979575,"city_id":1337398,"language_key":"bg","name":"Гоури"}
+{"id":102979652,"city_id":1337399,"language_key":"bg","name":"Гуфес"}
+{"id":102979729,"city_id":1337400,"language_key":"bg","name":"Гуди"}
+{"id":102979806,"city_id":1337401,"language_key":"bg","name":"Казивера"}
+{"id":102979883,"city_id":1337402,"language_key":"bg","name":"Кионели"}
+{"id":102979960,"city_id":1337403,"language_key":"bg","name":"Гастрия"}
+{"id":102980037,"city_id":1337404,"language_key":"bg","name":"Галинопорни"}
+{"id":102980114,"city_id":1337405,"language_key":"bg","name":"Галини"}
+{"id":102980191,"city_id":1337406,"language_key":"bg","name":"Галатия"}
+{"id":102980268,"city_id":1337407,"language_key":"bg","name":"Галатария"}
+{"id":102980345,"city_id":1337408,"language_key":"bg","name":"Галата"}
+{"id":102980422,"city_id":1337409,"language_key":"bg","name":"Гаидоурас"}
+{"id":102980499,"city_id":1337410,"language_key":"bg","name":"Фамагуста"}
+{"id":102980576,"city_id":1337411,"language_key":"bg","name":"Аглантзиа"}
+{"id":102980653,"city_id":1337412,"language_key":"bg","name":"Екзо Меточи"}
+{"id":102980730,"city_id":1337413,"language_key":"bg","name":"Еврыцхоу"}
+{"id":102980884,"city_id":1337415,"language_key":"bg","name":"Авдиму"}
+{"id":102980961,"city_id":1337416,"language_key":"bg","name":"Ерими"}
+{"id":102981038,"city_id":1337417,"language_key":"bg","name":"Епископеио"}
+{"id":102981115,"city_id":1337418,"language_key":"bg","name":"Епископи"}
+{"id":102981192,"city_id":1337419,"language_key":"bg","name":"Епископи"}
+{"id":102981269,"city_id":1337420,"language_key":"bg","name":"Епицхо"}
+{"id":102981346,"city_id":1337421,"language_key":"bg","name":"Ептакоми"}
+{"id":102981423,"city_id":1337422,"language_key":"bg","name":"Ептагония"}
+{"id":102981500,"city_id":1337423,"language_key":"bg","name":"Енгоми"}
+{"id":102981577,"city_id":1337424,"language_key":"bg","name":"Емба"}
+{"id":102981654,"city_id":1337425,"language_key":"bg","name":"Агиои Илиофотои"}
+{"id":102981731,"city_id":1337426,"language_key":"bg","name":"Еледио"}
+{"id":102981808,"city_id":1337427,"language_key":"bg","name":"Елиа"}
+{"id":102981885,"city_id":1337428,"language_key":"bg","name":"Елиа"}
+{"id":102982116,"city_id":1337431,"language_key":"bg","name":"Димес"}
+{"id":102982193,"city_id":1337432,"language_key":"bg","name":"Дриму"}
+{"id":102982270,"city_id":1337433,"language_key":"bg","name":"Друсия"}
+{"id":102982347,"city_id":1337434,"language_key":"bg","name":"Дромолаксия"}
+{"id":102982424,"city_id":1337435,"language_key":"bg","name":"Триния"}
+{"id":102982501,"city_id":1337436,"language_key":"bg","name":"Дорос"}
+{"id":102982578,"city_id":1337437,"language_key":"bg","name":"Дора"}
+{"id":102982655,"city_id":1337438,"language_key":"bg","name":"Диориос"}
+{"id":102982732,"city_id":1337439,"language_key":"bg","name":"Диерона"}
+{"id":102982809,"city_id":1337440,"language_key":"bg","name":"Дериния"}
+{"id":102982886,"city_id":1337441,"language_key":"bg","name":"Денеиа"}
+{"id":102982963,"city_id":1337442,"language_key":"bg","name":"Давлос"}
+{"id":102983040,"city_id":1337443,"language_key":"bg","name":"Дали"}
+{"id":102983117,"city_id":1337444,"language_key":"bg","name":"Деликипос"}
+{"id":102983194,"city_id":1337445,"language_key":"bg","name":"Церкези"}
+{"id":102983271,"city_id":1337446,"language_key":"bg","name":"Дзяос"}
+{"id":102983348,"city_id":1337447,"language_key":"bg","name":"Тсакистра"}
+{"id":102983425,"city_id":1337448,"language_key":"bg","name":"Богази"}
+{"id":102983502,"city_id":1337449,"language_key":"bg","name":"Беикиои"}
+{"id":102983579,"city_id":1337450,"language_key":"bg","name":"Белапаис"}
+{"id":102983656,"city_id":1337451,"language_key":"bg","name":"Агиос Георгиос (окръг Фамагуста)"}
+{"id":102983810,"city_id":1337453,"language_key":"bg","name":"Агиос Георгиос Кафкаллоу"}
+{"id":102983887,"city_id":1337454,"language_key":"bg","name":"Агиос Георгиос"}
+{"id":102983964,"city_id":1337455,"language_key":"bg","name":"Агиос Георгиос"}
+{"id":102984041,"city_id":1337456,"language_key":"bg","name":"Айос Василиос"}
+{"id":102984118,"city_id":1337457,"language_key":"bg","name":"Агиос Тихонас"}
+{"id":102984195,"city_id":1337458,"language_key":"bg","name":"Агиос Тхомас"}
+{"id":102984272,"city_id":1337459,"language_key":"bg","name":"Агиос Терапон"}
+{"id":102984349,"city_id":1337460,"language_key":"bg","name":"Агиос Теодорос"}
+{"id":102984580,"city_id":1337463,"language_key":"bg","name":"Агиос Теодорос (окръг Лимасол)"}
+{"id":102984657,"city_id":1337464,"language_key":"bg","name":"Агиос Теодорос"}
+{"id":102984734,"city_id":1337465,"language_key":"bg","name":"Агиос Симеон"}
+{"id":102984811,"city_id":1337466,"language_key":"bg","name":"Агиос Созоменос"}
+{"id":102984888,"city_id":1337467,"language_key":"bg","name":"Агиос Сергиос"}
+{"id":102985042,"city_id":1337469,"language_key":"bg","name":"Агиос Павлос"}
+{"id":102985119,"city_id":1337470,"language_key":"bg","name":"Агиос Николаос"}
+{"id":102985196,"city_id":1337471,"language_key":"bg","name":"Агиос Николаос"}
+{"id":102985273,"city_id":1337472,"language_key":"bg","name":"Агиос Николаос"}
+{"id":102985427,"city_id":1337474,"language_key":"bg","name":"Агиос Мамас"}
+{"id":102985504,"city_id":1337475,"language_key":"bg","name":"Агиос Константинос"}
+{"id":102985581,"city_id":1337476,"language_key":"bg","name":"Агиос Харитон"}
+{"id":102985658,"city_id":1337477,"language_key":"bg","name":"Агиос Исидорос"}
+{"id":102985735,"city_id":1337478,"language_key":"bg","name":"Агиос Иоаннис"}
+{"id":102985812,"city_id":1337479,"language_key":"bg","name":"Агиос Йоанис"}
+{"id":102985889,"city_id":1337480,"language_key":"bg","name":"Агиос Йоанис"}
+{"id":102985966,"city_id":1337481,"language_key":"bg","name":"Агиос Яковос"}
+{"id":102986043,"city_id":1337482,"language_key":"bg","name":"Агиос Евстатиос"}
+{"id":102986120,"city_id":1337483,"language_key":"bg","name":"Агиос Ермолаос"}
+{"id":102986197,"city_id":1337484,"language_key":"bg","name":"Агиос Епифаниос"}
+{"id":102986274,"city_id":1337485,"language_key":"bg","name":"Агиос Епифаниос"}
+{"id":102986351,"city_id":1337486,"language_key":"bg","name":"Агиос Епиктитос"}
+{"id":102986505,"city_id":1337488,"language_key":"bg","name":"Агиос Дометиос"}
+{"id":102986582,"city_id":1337489,"language_key":"bg","name":"Агиос Димитриос"}
+{"id":102986659,"city_id":1337490,"language_key":"bg","name":"Агиос Димитрианос"}
+{"id":102986736,"city_id":1337491,"language_key":"bg","name":"Агиос Атанасиос"}
+{"id":102986890,"city_id":1337493,"language_key":"bg","name":"Агиос Андроникос"}
+{"id":102986967,"city_id":1337494,"language_key":"bg","name":"Агиос Амвросиос (окръг Кирения)"}
+{"id":102987044,"city_id":1337495,"language_key":"bg","name":"Агиос Амвросиос"}
+{"id":102987121,"city_id":1337496,"language_key":"bg","name":"Агии Вавацинияс"}
+{"id":102987198,"city_id":1337497,"language_key":"bg","name":"Агиои Тримитхиас"}
+{"id":102987275,"city_id":1337498,"language_key":"bg","name":"Агия Варвара"}
+{"id":102987352,"city_id":1337499,"language_key":"bg","name":"Агия Варвара"}
+{"id":102987429,"city_id":1337500,"language_key":"bg","name":"Агия Трияс"}
+{"id":102987506,"city_id":1337501,"language_key":"bg","name":"Агия Фьлаксис"}
+{"id":102987583,"city_id":1337502,"language_key":"bg","name":"Агия Напа"}
+{"id":102987660,"city_id":1337503,"language_key":"bg","name":"Агия Маринуда"}
+{"id":102987737,"city_id":1337504,"language_key":"bg","name":"Агиа Марина"}
+{"id":102987814,"city_id":1337505,"language_key":"bg","name":"Агия Марина Хрисохус"}
+{"id":102988045,"city_id":1337508,"language_key":"bg","name":"Агия Ирини"}
+{"id":102988122,"city_id":1337509,"language_key":"bg","name":"Агиа Еирини"}
+{"id":102988199,"city_id":1337510,"language_key":"bg","name":"Агия Анна"}
+{"id":102988276,"city_id":1337511,"language_key":"bg","name":"Агия"}
+{"id":102988353,"city_id":1337512,"language_key":"bg","name":"Аксилу"}
+{"id":102988430,"city_id":1337513,"language_key":"bg","name":"Авлона"}
+{"id":102988507,"city_id":1337514,"language_key":"bg","name":"Авгору"}
+{"id":102988584,"city_id":1337515,"language_key":"bg","name":"Авголида"}
+{"id":102988661,"city_id":1337516,"language_key":"bg","name":"Авделеро"}
+{"id":102988815,"city_id":1337518,"language_key":"bg","name":"Ахна"}
+{"id":102988892,"city_id":1337519,"language_key":"bg","name":"Атиену"}
+{"id":102988969,"city_id":1337520,"language_key":"bg","name":"Астромеритис"}
+{"id":102989046,"city_id":1337521,"language_key":"bg","name":"Аспрогия"}
+{"id":102989123,"city_id":1337522,"language_key":"bg","name":"Асоматос"}
+{"id":102989200,"city_id":1337523,"language_key":"bg","name":"Асоматос"}
+{"id":102989277,"city_id":1337524,"language_key":"bg","name":"Аскас"}
+{"id":102989431,"city_id":1337526,"language_key":"bg","name":"Асия"}
+{"id":102989508,"city_id":1337527,"language_key":"bg","name":"Асгата"}
+{"id":102989585,"city_id":1337528,"language_key":"bg","name":"Артеми"}
+{"id":102989662,"city_id":1337529,"language_key":"bg","name":"Арсос"}
+{"id":102989739,"city_id":1337530,"language_key":"bg","name":"Арсос"}
+{"id":102989816,"city_id":1337531,"language_key":"bg","name":"Арнади"}
+{"id":102989893,"city_id":1337532,"language_key":"bg","name":"Арму"}
+{"id":102989970,"city_id":1337533,"language_key":"bg","name":"Армину"}
+{"id":102990047,"city_id":1337534,"language_key":"bg","name":"Арменохори"}
+{"id":102990124,"city_id":1337535,"language_key":"bg","name":"Ергатес"}
+{"id":102990201,"city_id":1337536,"language_key":"bg","name":"Аргаки"}
+{"id":102990278,"city_id":1337537,"language_key":"bg","name":"Аргака"}
+{"id":102990355,"city_id":1337538,"language_key":"bg","name":"Ардана"}
+{"id":102990432,"city_id":1337539,"language_key":"bg","name":"Аракапас"}
+{"id":102990509,"city_id":1337540,"language_key":"bg","name":"Арадипу"}
+{"id":102990586,"city_id":1337541,"language_key":"bg","name":"Аредиоу"}
+{"id":102990663,"city_id":1337542,"language_key":"bg","name":"Апсиу"}
+{"id":102990817,"city_id":1337544,"language_key":"bg","name":"Аплики"}
+{"id":102990894,"city_id":1337545,"language_key":"bg","name":"Апланда"}
+{"id":102990971,"city_id":1337546,"language_key":"bg","name":"Афания"}
+{"id":102991048,"city_id":1337547,"language_key":"bg","name":"Апесия"}
+{"id":102991125,"city_id":1337548,"language_key":"bg","name":"Аногира"}
+{"id":102991202,"city_id":1337549,"language_key":"bg","name":"Анголеми"}
+{"id":102991279,"city_id":1337550,"language_key":"bg","name":"Англисидес"}
+{"id":102991356,"city_id":1337551,"language_key":"bg","name":"Ангастина"}
+{"id":102991433,"city_id":1337552,"language_key":"bg","name":"Андролику"}
+{"id":102991510,"city_id":1337553,"language_key":"bg","name":"Анагеиа"}
+{"id":102991587,"city_id":1337554,"language_key":"bg","name":"Анаваргос"}
+{"id":102991664,"city_id":1337555,"language_key":"bg","name":"Анарита"}
+{"id":102991741,"city_id":1337556,"language_key":"bg","name":"Анафотия"}
+{"id":102991818,"city_id":1337557,"language_key":"bg","name":"Аналионтас"}
+{"id":102991895,"city_id":1337558,"language_key":"bg","name":"Анадиу"}
+{"id":102991972,"city_id":1337559,"language_key":"bg","name":"Ампеликоу"}
+{"id":102992049,"city_id":1337560,"language_key":"bg","name":"Амаргети"}
+{"id":102992203,"city_id":1337562,"language_key":"bg","name":"Алона"}
+{"id":102992280,"city_id":1337563,"language_key":"bg","name":"Алода"}
+{"id":102992357,"city_id":1337564,"language_key":"bg","name":"Алитхиноу"}
+{"id":102992434,"city_id":1337565,"language_key":"bg","name":"Алетрико"}
+{"id":102992511,"city_id":1337566,"language_key":"bg","name":"Алектора"}
+{"id":102992588,"city_id":1337567,"language_key":"bg","name":"Аламинос"}
+{"id":102992665,"city_id":1337568,"language_key":"bg","name":"Алампра"}
+{"id":102992742,"city_id":1337569,"language_key":"bg","name":"Акрунда"}
+{"id":102992819,"city_id":1337570,"language_key":"bg","name":"Акурсос"}
+{"id":102992896,"city_id":1337571,"language_key":"bg","name":"Ахериту"}
+{"id":102992973,"city_id":1337572,"language_key":"bg","name":"Ахелия"}
+{"id":102993050,"city_id":1337573,"language_key":"bg","name":"Акапну"}
+{"id":102993127,"city_id":1337574,"language_key":"bg","name":"Аканту"}
+{"id":102993204,"city_id":1337575,"language_key":"bg","name":"Акаки"}
+{"id":102993281,"city_id":1337576,"language_key":"bg","name":"Агрос"}
+{"id":102993435,"city_id":1337578,"language_key":"bg","name":"Агрокипиа"}
+{"id":102993512,"city_id":1337579,"language_key":"bg","name":"Агридия"}
+{"id":102993589,"city_id":1337580,"language_key":"bg","name":"Агридаки"}
+{"id":102993666,"city_id":1337581,"language_key":"bg","name":"Агирта"}
+{"id":102993897,"city_id":1337584,"language_key":"bg","name":"Менико"}
+{"id":102994282,"city_id":1337589,"language_key":"bg","name":"Агиос Андреас"}
+{"id":102994359,"city_id":1337590,"language_key":"bg","name":"Омоноиа"}
+{"id":102994436,"city_id":1337591,"language_key":"bg","name":"Тсифликоудиа"}
+{"id":102994590,"city_id":1337593,"language_key":"bg","name":"Апостолос Андреас"}
+{"id":102994667,"city_id":1337594,"language_key":"bg","name":"Апостолои Петрос каи Павлос"}
+{"id":102994821,"city_id":1337596,"language_key":"bg","name":"Агиа Напа"}
+{"id":102994898,"city_id":1337597,"language_key":"bg","name":"Агиос Антониос"}
+{"id":102995052,"city_id":1337599,"language_key":"bg","name":"Арнаоутогеитониа"}
+{"id":102995129,"city_id":1337600,"language_key":"bg","name":"Катхолики"}
+{"id":102995206,"city_id":1337601,"language_key":"bg","name":"Света Параскева"}
+{"id":102995283,"city_id":1337602,"language_key":"bg","name":"Айос Атанасиос (квартал)"}
+{"id":102995360,"city_id":1337603,"language_key":"bg","name":"Агиос Георгиос Франкоуди"}
+{"id":102995437,"city_id":1337604,"language_key":"bg","name":"Агиос Стылианос"}
+{"id":102995514,"city_id":1337605,"language_key":"bg","name":"Апостле Лике"}
+{"id":102995591,"city_id":1337606,"language_key":"bg","name":"река Гермасойя"}
+{"id":102995745,"city_id":1337608,"language_key":"bg","name":"Апостле Барнабас"}
+{"id":102995822,"city_id":1337609,"language_key":"bg","name":"Арчангел Мицхаел"}
+{"id":102995899,"city_id":1337610,"language_key":"bg","name":"Макариос Г΄"}
+{"id":102995976,"city_id":1337611,"language_key":"bg","name":"Панагия Евангелистрия (Полемидия)"}
+{"id":102996053,"city_id":1337612,"language_key":"bg","name":"Героскипу"}
+{"id":102996130,"city_id":1337613,"language_key":"bg","name":"Община Ларнака"}
+{"id":102996207,"city_id":1337614,"language_key":"bg","name":"Община Дромолаксия-Менеу"}
+{"id":102996284,"city_id":1337615,"language_key":"bg","name":"Свети Георги"}
+{"id":102996361,"city_id":1337616,"language_key":"bg","name":"Ставрос"}
+{"id":102996438,"city_id":1337617,"language_key":"bg","name":"Агиа Зони"}
+{"id":102996592,"city_id":1337619,"language_key":"bg","name":"Акрополис"}
+{"id":102996669,"city_id":1337620,"language_key":"bg","name":"Цхрысоспилиотисса"}
+{"id":102996823,"city_id":1337622,"language_key":"bg","name":"Агиос Николаос"}
+{"id":102996900,"city_id":1337623,"language_key":"bg","name":"Агиос Лоукас"}
+{"id":102997593,"city_id":1337632,"language_key":"bg","name":"Агиа Параскеви"}
+{"id":102997978,"city_id":1337637,"language_key":"bg","name":"Продромос"}
+{"id":102998132,"city_id":1337639,"language_key":"bg","name":"Свети Георги"}
+{"id":102998209,"city_id":1337640,"language_key":"bg","name":"Агиос Павлос"}
+{"id":102998286,"city_id":1337641,"language_key":"bg","name":"Агиои Константинос каи Елени"}
+{"id":102998363,"city_id":1337642,"language_key":"bg","name":"Панагиа Евангелистриа"}
+{"id":102998440,"city_id":1337643,"language_key":"bg","name":"Агиа Параскеви"}
+{"id":102998517,"city_id":1337644,"language_key":"bg","name":"Агиос Николаос"}
+{"id":102998671,"city_id":1337646,"language_key":"bg","name":"Арцхангелос-Антхоуполи"}
+{"id":102998748,"city_id":1337647,"language_key":"bg","name":"Свети Георги"}
+{"id":102998825,"city_id":1337648,"language_key":"bg","name":"Агиос Елефтхериос"}
+{"id":102998902,"city_id":1337649,"language_key":"bg","name":"Агиос Василеиос"}
+{"id":102998979,"city_id":1337650,"language_key":"bg","name":"Агиос Димитриос"}
+{"id":102999056,"city_id":1337651,"language_key":"bg","name":"Апостолос Варнавас каи Агиос Макариос"}
+{"id":102999133,"city_id":1337652,"language_key":"bg","name":"Етхномартырас Кыприанос"}
+{"id":102999210,"city_id":1337653,"language_key":"bg","name":"Ставрос"}
+{"id":102999287,"city_id":1337654,"language_key":"bg","name":"Цхрыселеоуса"}
+{"id":102999441,"city_id":1337656,"language_key":"bg","name":"Агиос Антониос"}
+{"id":102999518,"city_id":1337657,"language_key":"bg","name":"Агиос Иоаннис"}
+{"id":102999595,"city_id":1337658,"language_key":"bg","name":"Агиос Кассианос"}
+{"id":102999672,"city_id":1337659,"language_key":"bg","name":"Свети Сава"}
+{"id":102999749,"city_id":1337660,"language_key":"bg","name":"Агия Марина Келокедарон"}
+{"id":102999826,"city_id":1337661,"language_key":"bg","name":"Тсада - Тремитхоуса - Тала (Бордерс)"}
+{"id":102999903,"city_id":1337662,"language_key":"bg","name":"Община Пафос"}
+{"id":102999980,"city_id":1337663,"language_key":"bg","name":"Агиос Тхеодорос"}
+{"id":103000057,"city_id":1337664,"language_key":"bg","name":"Полис"}
+{"id":103000134,"city_id":1337665,"language_key":"bg","name":"Агиос Павлос"}
+{"id":103000211,"city_id":1337666,"language_key":"bg","name":"Арсос"}
+{"id":103000288,"city_id":1337667,"language_key":"bg","name":"Агиои Анаргырои И"}
+{"id":103000365,"city_id":1337668,"language_key":"bg","name":"Агиои Анаргырои ИИ"}
+{"id":103000519,"city_id":1337670,"language_key":"bg","name":"Агиос Фаноуриос"}
+{"id":103000596,"city_id":1337671,"language_key":"bg","name":"Апостолос Лоукас"}
+{"id":103000750,"city_id":1337673,"language_key":"bg","name":"Влацхос"}
+{"id":103000827,"city_id":1337674,"language_key":"bg","name":"Камарес"}
+{"id":103000904,"city_id":1337675,"language_key":"bg","name":"Коккинес"}
+{"id":103000981,"city_id":1337676,"language_key":"bg","name":"Сотирос"}
+{"id":103001135,"city_id":1337678,"language_key":"bg","name":"Цхрысополитисса"}

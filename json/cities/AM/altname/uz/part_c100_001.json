@@ -1,0 +1,964 @@
+{"id":2748435,"city_id":35694,"language_key":"uz","name":"Zedea"}
+{"id":2748512,"city_id":35695,"language_key":"uz","name":"Zaritap"}
+{"id":2748589,"city_id":35696,"language_key":"uz","name":"Zangakatun"}
+{"id":2748666,"city_id":35697,"language_key":"uz","name":"Goravan"}
+{"id":2748743,"city_id":35698,"language_key":"uz","name":"Yegvard"}
+{"id":2748820,"city_id":35699,"language_key":"uz","name":"Yeghegnavan"}
+{"id":2748897,"city_id":35700,"language_key":"uz","name":"Yeghegnadzor"}
+{"id":2748974,"city_id":35701,"language_key":"uz","name":"Yegheg"}
+{"id":2749128,"city_id":35703,"language_key":"uz","name":"Vostan"}
+{"id":2749205,"city_id":35704,"language_key":"uz","name":"Vosketap"}
+{"id":2749282,"city_id":35705,"language_key":"uz","name":"Vernashen"}
+{"id":2749359,"city_id":35706,"language_key":"uz","name":"Verishen"}
+{"id":2749436,"city_id":35707,"language_key":"uz","name":"Verin Vac'agan"}
+{"id":2749513,"city_id":35708,"language_key":"uz","name":"Verin Khotanan"}
+{"id":2749590,"city_id":35709,"language_key":"uz","name":"Vardavank"}
+{"id":2749667,"city_id":35710,"language_key":"uz","name":"Vedi"}
+{"id":2749744,"city_id":35711,"language_key":"uz","name":"Vayk"}
+{"id":2749821,"city_id":35712,"language_key":"uz","name":"Vardashat"}
+{"id":2749898,"city_id":35713,"language_key":"uz","name":"Vardanidzor"}
+{"id":2749975,"city_id":35714,"language_key":"uz","name":"Vardahovit"}
+{"id":2750052,"city_id":35715,"language_key":"uz","name":"Vaghatin"}
+{"id":2750129,"city_id":35716,"language_key":"uz","name":"Vahravar"}
+{"id":2750206,"city_id":35717,"language_key":"uz","name":"Uzhanis"}
+{"id":2750283,"city_id":35718,"language_key":"uz","name":"Uyts"}
+{"id":2750360,"city_id":35719,"language_key":"uz","name":"Vorotan"}
+{"id":2750514,"city_id":35721,"language_key":"uz","name":"Tsav, Armaniston"}
+{"id":2750591,"city_id":35722,"language_key":"uz","name":"Tolors"}
+{"id":2750668,"city_id":35723,"language_key":"uz","name":"Tegh"}
+{"id":2750745,"city_id":35724,"language_key":"uz","name":"Vazifa"}
+{"id":2750822,"city_id":35725,"language_key":"uz","name":"Vanasen"}
+{"id":2750899,"city_id":35726,"language_key":"uz","name":"Vorotan"}
+{"id":2750976,"city_id":35727,"language_key":"uz","name":"Tatev (qishloq)"}
+{"id":2751053,"city_id":35728,"language_key":"uz","name":"Tashtun"}
+{"id":2751130,"city_id":35729,"language_key":"uz","name":"Taratumb"}
+{"id":2751207,"city_id":35730,"language_key":"uz","name":"Tandzaver"}
+{"id":2751284,"city_id":35731,"language_key":"uz","name":"Tandzatap"}
+{"id":2751361,"city_id":35732,"language_key":"uz","name":"Svarants"}
+{"id":2751438,"city_id":35733,"language_key":"uz","name":"Surenavan"}
+{"id":2751515,"city_id":35734,"language_key":"uz","name":"Srashen"}
+{"id":2751592,"city_id":35735,"language_key":"uz","name":"Spandaryan"}
+{"id":2751669,"city_id":35736,"language_key":"uz","name":"Nzhdeh, Armaniston"}
+{"id":2751746,"city_id":35737,"language_key":"uz","name":"Sznak"}
+{"id":2751823,"city_id":35738,"language_key":"uz","name":"Sisian"}
+{"id":2751900,"city_id":35739,"language_key":"uz","name":"Sisavan"}
+{"id":2751977,"city_id":35740,"language_key":"uz","name":"Shvanidzor"}
+{"id":2752054,"city_id":35741,"language_key":"uz","name":"Shurnukh"}
+{"id":2752131,"city_id":35742,"language_key":"uz","name":"Shrvenants"}
+{"id":2752208,"city_id":35743,"language_key":"uz","name":"Shishkert"}
+{"id":2752285,"city_id":35744,"language_key":"uz","name":"Shinuhayr"}
+{"id":2752362,"city_id":35745,"language_key":"uz","name":"Lusarat"}
+{"id":2752439,"city_id":35746,"language_key":"uz","name":"Shikahogh"}
+{"id":2752593,"city_id":35748,"language_key":"uz","name":"Shenatagh"}
+{"id":2752670,"city_id":35749,"language_key":"uz","name":"Shahumyan"}
+{"id":2752747,"city_id":35750,"language_key":"uz","name":"Shatin"}
+{"id":2752824,"city_id":35751,"language_key":"uz","name":"Shamb"}
+{"id":2752901,"city_id":35752,"language_key":"uz","name":"Shaki"}
+{"id":2752978,"city_id":35753,"language_key":"uz","name":"Shaghat"}
+{"id":2753055,"city_id":35754,"language_key":"uz","name":"Shaghap"}
+{"id":2753132,"city_id":35755,"language_key":"uz","name":"Sevakar"}
+{"id":2753209,"city_id":35756,"language_key":"uz","name":"Sers"}
+{"id":2753286,"city_id":35757,"language_key":"uz","name":"Sarnakunk"}
+{"id":2753363,"city_id":35758,"language_key":"uz","name":"Saravan"}
+{"id":2753440,"city_id":35759,"language_key":"uz","name":"Salvard"}
+{"id":2753517,"city_id":35760,"language_key":"uz","name":"Salli, Armaniston"}
+{"id":2753671,"city_id":35762,"language_key":"uz","name":"Rind"}
+{"id":2753825,"city_id":35764,"language_key":"uz","name":"Por"}
+{"id":2753979,"city_id":35766,"language_key":"uz","name":"Nor Astgaberd"}
+{"id":2754056,"city_id":35767,"language_key":"uz","name":"Horbategh"}
+{"id":2754133,"city_id":35768,"language_key":"uz","name":"Okhtar"}
+{"id":2754210,"city_id":35769,"language_key":"uz","name":"Nrnadzor"}
+{"id":2754287,"city_id":35770,"language_key":"uz","name":"Noyakert"}
+{"id":2754364,"city_id":35771,"language_key":"uz","name":"Nor Kyank"}
+{"id":2754441,"city_id":35772,"language_key":"uz","name":"Nor Aznaberd"}
+{"id":2754518,"city_id":35773,"language_key":"uz","name":"Noravan"}
+{"id":2754595,"city_id":35774,"language_key":"uz","name":"Norashenik"}
+{"id":2754749,"city_id":35776,"language_key":"uz","name":"Nerkin Khotanan"}
+{"id":2754903,"city_id":35778,"language_key":"uz","name":"Bargusat"}
+{"id":2754980,"city_id":35779,"language_key":"uz","name":"Nerkin Hand"}
+{"id":2755057,"city_id":35780,"language_key":"uz","name":"Dzagikavan"}
+{"id":2755134,"city_id":35781,"language_key":"uz","name":"Tsghuni"}
+{"id":2755211,"city_id":35782,"language_key":"uz","name":"Mrgavet"}
+{"id":2755288,"city_id":35783,"language_key":"uz","name":"Meghri"}
+{"id":2755442,"city_id":35785,"language_key":"uz","name":"Martiros"}
+{"id":2755519,"city_id":35786,"language_key":"uz","name":"Tkhkut"}
+{"id":2755596,"city_id":35787,"language_key":"uz","name":"Malishka"}
+{"id":2755673,"city_id":35788,"language_key":"uz","name":"Kashuni, Armaniston"}
+{"id":2755750,"city_id":35789,"language_key":"uz","name":"Lor, Armaniston"}
+{"id":2755827,"city_id":35790,"language_key":"uz","name":"Lichk"}
+{"id":2755904,"city_id":35791,"language_key":"uz","name":"Lernadzor"}
+{"id":2755981,"city_id":35792,"language_key":"uz","name":"Lehvaz"}
+{"id":2756058,"city_id":35793,"language_key":"uz","name":"Ishkhanasar"}
+{"id":2756135,"city_id":35794,"language_key":"uz","name":"Kuris, Armaniston"}
+{"id":2756212,"city_id":35795,"language_key":"uz","name":"Andokavan"}
+{"id":2756289,"city_id":35796,"language_key":"uz","name":"Kornidzor"}
+{"id":2756366,"city_id":35797,"language_key":"uz","name":"Torunik"}
+{"id":2756443,"city_id":35798,"language_key":"uz","name":"P'ok'r Vedi"}
+{"id":2756520,"city_id":35799,"language_key":"uz","name":"Khoznavar"}
+{"id":2756597,"city_id":35800,"language_key":"uz","name":"Khot, Armaniston"}
+{"id":2756674,"city_id":35801,"language_key":"uz","name":"Khndzorut"}
+{"id":2756751,"city_id":35802,"language_key":"uz","name":"Khndzoresk"}
+{"id":2756828,"city_id":35803,"language_key":"uz","name":"Khnatsakh"}
+{"id":2756905,"city_id":35804,"language_key":"uz","name":"Khdrants"}
+{"id":2756982,"city_id":35805,"language_key":"uz","name":"Acanan"}
+{"id":2757059,"city_id":35806,"language_key":"uz","name":"Khachik"}
+{"id":2757136,"city_id":35807,"language_key":"uz","name":"Kechut"}
+{"id":2757213,"city_id":35808,"language_key":"uz","name":"Kavchut"}
+{"id":2757367,"city_id":35810,"language_key":"uz","name":"Karmrashen"}
+{"id":2757444,"city_id":35811,"language_key":"uz","name":"Karchevan"}
+{"id":2757521,"city_id":35812,"language_key":"uz","name":"K'arahunj"}
+{"id":2757598,"city_id":35813,"language_key":"uz","name":"Vanek, Armaniston"}
+{"id":2757675,"city_id":35814,"language_key":"uz","name":"Karashen"}
+{"id":2757752,"city_id":35815,"language_key":"uz","name":"Lusashogh"}
+{"id":2757829,"city_id":35816,"language_key":"uz","name":"Karaglukh"}
+{"id":2757906,"city_id":35817,"language_key":"uz","name":"Kapan"}
+{"id":2757983,"city_id":35818,"language_key":"uz","name":"Kaghtsrashen"}
+{"id":2758060,"city_id":35819,"language_key":"uz","name":"Kaghnut"}
+{"id":2758137,"city_id":35820,"language_key":"uz","name":"Kajaran"}
+{"id":2758214,"city_id":35821,"language_key":"uz","name":"Lanjanist"}
+{"id":2758291,"city_id":35822,"language_key":"uz","name":"Gogt'anik"}
+{"id":2758368,"city_id":35823,"language_key":"uz","name":"Jermuk"}
+{"id":2758445,"city_id":35824,"language_key":"uz","name":"Taperakan"}
+{"id":2758522,"city_id":35825,"language_key":"uz","name":"Hermon, Armaniston"}
+{"id":2758599,"city_id":35826,"language_key":"uz","name":"Kapuyt"}
+{"id":2758676,"city_id":35827,"language_key":"uz","name":"Gudemnis"}
+{"id":2758753,"city_id":35828,"language_key":"uz","name":"Hors, Armaniston"}
+{"id":2758830,"city_id":35829,"language_key":"uz","name":"Goris"}
+{"id":2758907,"city_id":35830,"language_key":"uz","name":"Gorayk"}
+{"id":2758984,"city_id":35831,"language_key":"uz","name":"Gomk"}
+{"id":2759061,"city_id":35832,"language_key":"uz","name":"Gomaran"}
+{"id":2759138,"city_id":35833,"language_key":"uz","name":"Gnishik"}
+{"id":2759215,"city_id":35834,"language_key":"uz","name":"Gndevaz"}
+{"id":2759292,"city_id":35835,"language_key":"uz","name":"Gladzor"}
+{"id":2759446,"city_id":35837,"language_key":"uz","name":"Getat'ag"}
+{"id":2759523,"city_id":35838,"language_key":"uz","name":"Getap"}
+{"id":2759600,"city_id":35839,"language_key":"uz","name":"Herher"}
+{"id":2759677,"city_id":35840,"language_key":"uz","name":"Geghi"}
+{"id":2759754,"city_id":35841,"language_key":"uz","name":"Geghanush"}
+{"id":2759831,"city_id":35842,"language_key":"uz","name":"Halidzor"}
+{"id":2759908,"city_id":35843,"language_key":"uz","name":"Yelpin"}
+{"id":2759985,"city_id":35844,"language_key":"uz","name":"Dzorastan"}
+{"id":2760062,"city_id":35845,"language_key":"uz","name":"Tavrus"}
+{"id":2760139,"city_id":35846,"language_key":"uz","name":"Ditsmayri"}
+{"id":2760216,"city_id":35847,"language_key":"uz","name":"Arin"}
+{"id":2760293,"city_id":35848,"language_key":"uz","name":"Davit Bek, Armaniston"}
+{"id":2760370,"city_id":35849,"language_key":"uz","name":"Dastakert"}
+{"id":2760447,"city_id":35850,"language_key":"uz","name":"Dashtakar"}
+{"id":2760524,"city_id":35851,"language_key":"uz","name":"Darbas"}
+{"id":2760601,"city_id":35852,"language_key":"uz","name":"Dalar"}
+{"id":2760755,"city_id":35854,"language_key":"uz","name":"Chiva"}
+{"id":2760832,"city_id":35855,"language_key":"uz","name":"Getisen"}
+{"id":2760909,"city_id":35856,"language_key":"uz","name":"Chapni"}
+{"id":2761063,"city_id":35858,"language_key":"uz","name":"Chakaten"}
+{"id":2761140,"city_id":35859,"language_key":"uz","name":"Berdik"}
+{"id":2761217,"city_id":35860,"language_key":"uz","name":"Burastan"}
+{"id":2761294,"city_id":35861,"language_key":"uz","name":"Akner (Syunik)"}
+{"id":2761371,"city_id":35862,"language_key":"uz","name":"Brnakot"}
+{"id":2761448,"city_id":35863,"language_key":"uz","name":"Tsghuk"}
+{"id":2761525,"city_id":35864,"language_key":"uz","name":"Bnunis"}
+{"id":2761602,"city_id":35865,"language_key":"uz","name":"Berkanush"}
+{"id":2761679,"city_id":35866,"language_key":"uz","name":"Vaghatur"}
+{"id":2761756,"city_id":35867,"language_key":"uz","name":"Bardzruni"}
+{"id":2761833,"city_id":35868,"language_key":"uz","name":"Mutsk"}
+{"id":2761910,"city_id":35869,"language_key":"uz","name":"Bardzravan"}
+{"id":2761987,"city_id":35870,"language_key":"uz","name":"Balak, Armaniston"}
+{"id":2762064,"city_id":35871,"language_key":"uz","name":"Baghramyan"}
+{"id":2762141,"city_id":35872,"language_key":"uz","name":"Azatek"}
+{"id":2762218,"city_id":35873,"language_key":"uz","name":"Azatavan"}
+{"id":2762295,"city_id":35874,"language_key":"uz","name":"Aygezard"}
+{"id":2762372,"city_id":35875,"language_key":"uz","name":"Aygepat"}
+{"id":2762449,"city_id":35876,"language_key":"uz","name":"Aygavan"}
+{"id":2762526,"city_id":35877,"language_key":"uz","name":"Avshar"}
+{"id":2762603,"city_id":35878,"language_key":"uz","name":"Hatsavan"}
+{"id":2762680,"city_id":35879,"language_key":"uz","name":"Ashotavan"}
+{"id":2762757,"city_id":35880,"language_key":"uz","name":"Artsvanik"}
+{"id":2762834,"city_id":35881,"language_key":"uz","name":"Artavan"}
+{"id":2762911,"city_id":35882,"language_key":"uz","name":"Artashat"}
+{"id":2762988,"city_id":35883,"language_key":"uz","name":"Yeghegis"}
+{"id":2763065,"city_id":35884,"language_key":"uz","name":"Armas"}
+{"id":2763142,"city_id":35885,"language_key":"uz","name":"Areni"}
+{"id":2763219,"city_id":35886,"language_key":"uz","name":"Aravus"}
+{"id":2763296,"city_id":35887,"language_key":"uz","name":"Arevis"}
+{"id":2763373,"city_id":35888,"language_key":"uz","name":"Ararat"}
+{"id":2763450,"city_id":35889,"language_key":"uz","name":"Ararat"}
+{"id":2763527,"city_id":35890,"language_key":"uz","name":"Arajadzor"}
+{"id":2763604,"city_id":35891,"language_key":"uz","name":"Antarashat"}
+{"id":2763681,"city_id":35892,"language_key":"uz","name":"Angeghakot"}
+{"id":2763758,"city_id":35893,"language_key":"uz","name":"Alvank'"}
+{"id":2763835,"city_id":35894,"language_key":"uz","name":"Akhlatyan"}
+{"id":2763912,"city_id":35895,"language_key":"uz","name":"Aghavnadzor"}
+{"id":2763989,"city_id":35896,"language_key":"uz","name":"Ajabaj"}
+{"id":2764066,"city_id":35897,"language_key":"uz","name":"Aghvani"}
+{"id":2764143,"city_id":35898,"language_key":"uz","name":"Aghitu"}
+{"id":2764220,"city_id":35899,"language_key":"uz","name":"Agarakadzor"}
+{"id":2764297,"city_id":35900,"language_key":"uz","name":"Agarak"}
+{"id":2764374,"city_id":35901,"language_key":"uz","name":"Agarak"}
+{"id":2764836,"city_id":35907,"language_key":"uz","name":"Ltsen"}
+{"id":2764913,"city_id":35908,"language_key":"uz","name":"Harzis"}
+{"id":2764990,"city_id":35909,"language_key":"uz","name":"Dzorashen"}
+{"id":2765067,"city_id":35910,"language_key":"uz","name":"Arpi"}
+{"id":2765529,"city_id":35916,"language_key":"uz","name":"Aralez"}
+{"id":2765606,"city_id":35917,"language_key":"uz","name":"Urtsadzor"}
+{"id":2765683,"city_id":35918,"language_key":"uz","name":"Yeraskh"}
+{"id":2765760,"city_id":35919,"language_key":"uz","name":"Aghnjadzor"}
+{"id":2765837,"city_id":35920,"language_key":"uz","name":"Kajarants"}
+{"id":2765914,"city_id":35921,"language_key":"uz","name":"Lanjar"}
+{"id":2765991,"city_id":35922,"language_key":"uz","name":"Urtsalanj"}
+{"id":2766068,"city_id":35923,"language_key":"uz","name":"Mozrov"}
+{"id":2766145,"city_id":35924,"language_key":"uz","name":"Artabuynk'"}
+{"id":2766222,"city_id":35925,"language_key":"uz","name":"Zarinja"}
+{"id":2766299,"city_id":35926,"language_key":"uz","name":"Karmirgyugh"}
+{"id":2766376,"city_id":35927,"language_key":"uz","name":"Sevaberd"}
+{"id":2766453,"city_id":35928,"language_key":"uz","name":"Horom"}
+{"id":2766530,"city_id":35929,"language_key":"uz","name":"Margara"}
+{"id":2766684,"city_id":35931,"language_key":"uz","name":"Kat'narat"}
+{"id":2766761,"city_id":35932,"language_key":"uz","name":"Zuygaghbyur"}
+{"id":2766838,"city_id":35933,"language_key":"uz","name":"Zovashen"}
+{"id":2766992,"city_id":35935,"language_key":"uz","name":"Zovaber"}
+{"id":2767069,"city_id":35936,"language_key":"uz","name":"Zorakert"}
+{"id":2767146,"city_id":35937,"language_key":"uz","name":"Zorak, Armaniston"}
+{"id":2767223,"city_id":35938,"language_key":"uz","name":"Zolakar"}
+{"id":2767300,"city_id":35939,"language_key":"uz","name":"Sot'k'"}
+{"id":2767377,"city_id":35940,"language_key":"uz","name":"Zarishat"}
+{"id":2767454,"city_id":35941,"language_key":"uz","name":"Zar"}
+{"id":2767531,"city_id":35942,"language_key":"uz","name":"Yervandashat, Armaniston"}
+{"id":2767608,"city_id":35943,"language_key":"uz","name":"Yernjatap"}
+{"id":2767685,"city_id":35944,"language_key":"uz","name":"Erevan"}
+{"id":2767762,"city_id":35945,"language_key":"uz","name":"Yerazgavors, Armaniston"}
+{"id":2767839,"city_id":35946,"language_key":"uz","name":"Yeraskhahun"}
+{"id":2767916,"city_id":35947,"language_key":"uz","name":"Yeranos"}
+{"id":2767993,"city_id":35948,"language_key":"uz","name":"Yenokavan"}
+{"id":2768147,"city_id":35950,"language_key":"uz","name":"Yeghnik"}
+{"id":2768224,"city_id":35951,"language_key":"uz","name":"Yeghegnut"}
+{"id":2768301,"city_id":35952,"language_key":"uz","name":"Yeghegnut"}
+{"id":2768378,"city_id":35953,"language_key":"uz","name":"Echmiadzin"}
+{"id":2768455,"city_id":35954,"language_key":"uz","name":"Yeghvard"}
+{"id":2768532,"city_id":35955,"language_key":"uz","name":"Yeghnajur"}
+{"id":2768609,"city_id":35956,"language_key":"uz","name":"Lcavan"}
+{"id":2768686,"city_id":35957,"language_key":"uz","name":"Yaghdan"}
+{"id":2768763,"city_id":35958,"language_key":"uz","name":"Voskevaz"}
+{"id":2768840,"city_id":35959,"language_key":"uz","name":"Voskevan"}
+{"id":2768917,"city_id":35960,"language_key":"uz","name":"Vosketas"}
+{"id":2768994,"city_id":35961,"language_key":"uz","name":"Voskepar"}
+{"id":2769071,"city_id":35962,"language_key":"uz","name":"Voskehat"}
+{"id":2769148,"city_id":35963,"language_key":"uz","name":"Voskehask"}
+{"id":2769225,"city_id":35964,"language_key":"uz","name":"Voghjaberd"}
+{"id":2769302,"city_id":35965,"language_key":"uz","name":"Voghji"}
+{"id":2769379,"city_id":35966,"language_key":"uz","name":"Axpradzor"}
+{"id":2769533,"city_id":35968,"language_key":"uz","name":"Verin Sorza"}
+{"id":2769610,"city_id":35969,"language_key":"uz","name":"Verin Sasnashen"}
+{"id":2769687,"city_id":35970,"language_key":"uz","name":"Zorakan"}
+{"id":2769764,"city_id":35971,"language_key":"uz","name":"Verin Karmiraghbyur"}
+{"id":2769841,"city_id":35972,"language_key":"uz","name":"Verin Getashen"}
+{"id":2769918,"city_id":35973,"language_key":"uz","name":"Verin Dvin"}
+{"id":2769995,"city_id":35974,"language_key":"uz","name":"Verin Bazmaberd"}
+{"id":2770072,"city_id":35975,"language_key":"uz","name":"Verin Artashat"}
+{"id":2770149,"city_id":35976,"language_key":"uz","name":"Vazashen"}
+{"id":2770226,"city_id":35977,"language_key":"uz","name":"Varser"}
+{"id":2770303,"city_id":35978,"language_key":"uz","name":"Vardenut"}
+{"id":2770380,"city_id":35979,"language_key":"uz","name":"Vardenis"}
+{"id":2770457,"city_id":35980,"language_key":"uz","name":"Vardenis"}
+{"id":2770534,"city_id":35981,"language_key":"uz","name":"Vardenik"}
+{"id":2770611,"city_id":35982,"language_key":"uz","name":"Vardashen"}
+{"id":2770688,"city_id":35983,"language_key":"uz","name":"Vardanashen"}
+{"id":2770765,"city_id":35984,"language_key":"uz","name":"Vardaghbyur"}
+{"id":2770842,"city_id":35985,"language_key":"uz","name":"Vardakar"}
+{"id":2770919,"city_id":35986,"language_key":"uz","name":"Vardablur"}
+{"id":2770996,"city_id":35987,"language_key":"uz","name":"Vanevan"}
+{"id":2771073,"city_id":35988,"language_key":"uz","name":"Vahan, Armaniston"}
+{"id":2771150,"city_id":35989,"language_key":"uz","name":"Vahramaberd"}
+{"id":2771227,"city_id":35990,"language_key":"uz","name":"Vaghashen"}
+{"id":2771304,"city_id":35991,"language_key":"uz","name":"Vahagni"}
+{"id":2771381,"city_id":35992,"language_key":"uz","name":"Ushi"}
+{"id":2771458,"city_id":35993,"language_key":"uz","name":"Urut"}
+{"id":2771535,"city_id":35994,"language_key":"uz","name":"Ujan"}
+{"id":2771612,"city_id":35995,"language_key":"uz","name":"T't'ujur"}
+{"id":2771766,"city_id":35997,"language_key":"uz","name":"T'umanyan"}
+{"id":2771843,"city_id":35998,"language_key":"uz","name":"Tufashen"}
+{"id":2771920,"city_id":35999,"language_key":"uz","name":"Ttujur"}
+{"id":2771997,"city_id":36000,"language_key":"uz","name":"Lusahovit"}
+{"id":2772074,"city_id":36001,"language_key":"uz","name":"Tsovinar, Armaniston"}
+{"id":2772151,"city_id":36002,"language_key":"uz","name":"Tsovazard"}
+{"id":2772228,"city_id":36003,"language_key":"uz","name":"Tsovak"}
+{"id":2772305,"city_id":36004,"language_key":"uz","name":"Tsovagyugh"}
+{"id":2772382,"city_id":36005,"language_key":"uz","name":"Tsoghamarg"}
+{"id":2772459,"city_id":36006,"language_key":"uz","name":"Tsilkar"}
+{"id":2772536,"city_id":36007,"language_key":"uz","name":"Tsater"}
+{"id":2772613,"city_id":36008,"language_key":"uz","name":"Tsapatagh"}
+{"id":2772690,"city_id":36009,"language_key":"uz","name":"Tsamakasar"}
+{"id":2772844,"city_id":36011,"language_key":"uz","name":"Tsakkar"}
+{"id":2772921,"city_id":36012,"language_key":"uz","name":"Tsaghkunk"}
+{"id":2772998,"city_id":36013,"language_key":"uz","name":"Tsaghkunk"}
+{"id":2773075,"city_id":36014,"language_key":"uz","name":"Tsaghkavan"}
+{"id":2773152,"city_id":36015,"language_key":"uz","name":"Verin Tsaghkavan"}
+{"id":2773229,"city_id":36016,"language_key":"uz","name":"Tsaghkashen"}
+{"id":2773306,"city_id":36017,"language_key":"uz","name":"Tsaghkashen"}
+{"id":2773383,"city_id":36018,"language_key":"uz","name":"Tsaghkashat"}
+{"id":2773460,"city_id":36019,"language_key":"uz","name":"Tsaghkasar"}
+{"id":2773537,"city_id":36020,"language_key":"uz","name":"Tsaghkahovit"}
+{"id":2773614,"city_id":36021,"language_key":"uz","name":"Tsaghkaber"}
+{"id":2773691,"city_id":36022,"language_key":"uz","name":"Tsaghkadzor"}
+{"id":2773768,"city_id":36023,"language_key":"uz","name":"Tretuk'"}
+{"id":2773845,"city_id":36024,"language_key":"uz","name":"Tavus"}
+{"id":2773922,"city_id":36025,"language_key":"uz","name":"Torosgyugh"}
+{"id":2773999,"city_id":36026,"language_key":"uz","name":"Torfavan"}
+{"id":2774076,"city_id":36027,"language_key":"uz","name":"Tlik"}
+{"id":2774153,"city_id":36028,"language_key":"uz","name":"T'egenik'"}
+{"id":2774230,"city_id":36029,"language_key":"uz","name":"Teghut"}
+{"id":2774307,"city_id":36030,"language_key":"uz","name":"Teger"}
+{"id":2774384,"city_id":36031,"language_key":"uz","name":"Tsovasar"}
+{"id":2774461,"city_id":36032,"language_key":"uz","name":"T'avsut"}
+{"id":2774538,"city_id":36033,"language_key":"uz","name":"Tashir"}
+{"id":2774692,"city_id":36035,"language_key":"uz","name":"Gegasar"}
+{"id":2774769,"city_id":36036,"language_key":"uz","name":"Berdashen"}
+{"id":2774923,"city_id":36038,"language_key":"uz","name":"Tandzut"}
+{"id":2775077,"city_id":36040,"language_key":"uz","name":"Tallbisah"}
+{"id":2775154,"city_id":36041,"language_key":"uz","name":"Getahovit"}
+{"id":2775231,"city_id":36042,"language_key":"uz","name":"Goghovit"}
+{"id":2775308,"city_id":36043,"language_key":"uz","name":"Sverdlov (Armaniston)"}
+{"id":2775385,"city_id":36044,"language_key":"uz","name":"Suser"}
+{"id":2775462,"city_id":36045,"language_key":"uz","name":"Stepanavan"}
+{"id":2775539,"city_id":36046,"language_key":"uz","name":"Spitak"}
+{"id":2775616,"city_id":36047,"language_key":"uz","name":"Spandaryan"}
+{"id":2775693,"city_id":36048,"language_key":"uz","name":"Pagagbyur"}
+{"id":2775847,"city_id":36050,"language_key":"uz","name":"Alashkert, Armaniston"}
+{"id":2775924,"city_id":36051,"language_key":"uz","name":"Sorik"}
+{"id":2776001,"city_id":36052,"language_key":"uz","name":"Solak, Armaniston"}
+{"id":2776078,"city_id":36053,"language_key":"uz","name":"Sizavet"}
+{"id":2776155,"city_id":36054,"language_key":"uz","name":"Sis, Armaniston"}
+{"id":2776232,"city_id":36055,"language_key":"uz","name":"Sipan, Armaniston"}
+{"id":2776309,"city_id":36056,"language_key":"uz","name":"Paghakn"}
+{"id":2776386,"city_id":36057,"language_key":"uz","name":"Shoghakat"}
+{"id":2776463,"city_id":36058,"language_key":"uz","name":"Shnogh"}
+{"id":2776540,"city_id":36059,"language_key":"uz","name":"Shirakavan, Armaniston"}
+{"id":2776617,"city_id":36060,"language_key":"uz","name":"Shirak, Armaniston"}
+{"id":2776694,"city_id":36061,"language_key":"uz","name":"Shgharshik"}
+{"id":2776771,"city_id":36062,"language_key":"uz","name":"Shenkani"}
+{"id":2776848,"city_id":36063,"language_key":"uz","name":"Senavan"}
+{"id":2776925,"city_id":36064,"language_key":"uz","name":"Shenavan"}
+{"id":2777002,"city_id":36065,"language_key":"uz","name":"Shenavan"}
+{"id":2777079,"city_id":36066,"language_key":"uz","name":"Shahumyan"}
+{"id":2777156,"city_id":36067,"language_key":"uz","name":"Satvan"}
+{"id":2777233,"city_id":36068,"language_key":"uz","name":"Satjrek'"}
+{"id":2777310,"city_id":36069,"language_key":"uz","name":"Samut"}
+{"id":2777387,"city_id":36070,"language_key":"uz","name":"Shamlugh"}
+{"id":2777464,"city_id":36071,"language_key":"uz","name":"Samiram"}
+{"id":2777541,"city_id":36072,"language_key":"uz","name":"Shaghik"}
+{"id":2777618,"city_id":36073,"language_key":"uz","name":"Sevkar"}
+{"id":2777695,"city_id":36074,"language_key":"uz","name":"Sevan"}
+{"id":2777772,"city_id":36075,"language_key":"uz","name":"Semyonovka, Armaniston"}
+{"id":2777849,"city_id":36076,"language_key":"uz","name":"Verin Sasunik"}
+{"id":2777926,"city_id":36077,"language_key":"uz","name":"Sarukhan"}
+{"id":2778003,"city_id":36078,"language_key":"uz","name":"Sarnaghbyur"}
+{"id":2778080,"city_id":36079,"language_key":"uz","name":"Sarigyugh"}
+{"id":2778157,"city_id":36080,"language_key":"uz","name":"Sarchapet"}
+{"id":2778234,"city_id":36081,"language_key":"uz","name":"Saratovka"}
+{"id":2778311,"city_id":36082,"language_key":"uz","name":"Saratak"}
+{"id":2778388,"city_id":36083,"language_key":"uz","name":"Sarapat"}
+{"id":2778465,"city_id":36084,"language_key":"uz","name":"Saramej"}
+{"id":2778542,"city_id":36085,"language_key":"uz","name":"Saralanj"}
+{"id":2778619,"city_id":36086,"language_key":"uz","name":"Argalant"}
+{"id":2778696,"city_id":36087,"language_key":"uz","name":"Argalant"}
+{"id":2778773,"city_id":36088,"language_key":"uz","name":"Saralanj"}
+{"id":2778850,"city_id":36089,"language_key":"uz","name":"Nor Khachakap"}
+{"id":2778927,"city_id":36090,"language_key":"uz","name":"Sarakap"}
+{"id":2779004,"city_id":36091,"language_key":"uz","name":"Sarahart"}
+{"id":2779081,"city_id":36092,"language_key":"uz","name":"Kaniashir"}
+{"id":2779158,"city_id":36093,"language_key":"uz","name":"Sanahin"}
+{"id":2779235,"city_id":36094,"language_key":"uz","name":"Geghakert"}
+{"id":2779312,"city_id":36095,"language_key":"uz","name":"Salut"}
+{"id":2779389,"city_id":36096,"language_key":"uz","name":"Saghmosavan"}
+{"id":2779466,"city_id":36097,"language_key":"uz","name":"Rya Taza"}
+{"id":2779543,"city_id":36098,"language_key":"uz","name":"Geghashen"}
+{"id":2779620,"city_id":36099,"language_key":"uz","name":"Ranchpar"}
+{"id":2779697,"city_id":36100,"language_key":"uz","name":"Pushkino, Armaniston"}
+{"id":2779774,"city_id":36101,"language_key":"uz","name":"Ptghni"}
+{"id":2779851,"city_id":36102,"language_key":"uz","name":"Ptghunk"}
+{"id":2779928,"city_id":36103,"language_key":"uz","name":"Pshatavan"}
+{"id":2780005,"city_id":36104,"language_key":"uz","name":"Proshyan"}
+{"id":2780082,"city_id":36105,"language_key":"uz","name":"Privolnoye"}
+{"id":2780159,"city_id":36106,"language_key":"uz","name":"Pokr Sepasar"}
+{"id":2780236,"city_id":36107,"language_key":"uz","name":"Pokr Sariar"}
+{"id":2780313,"city_id":36108,"language_key":"uz","name":"P'ok'r Masrik"}
+{"id":2780390,"city_id":36109,"language_key":"uz","name":"Pokr Mantash"}
+{"id":2780467,"city_id":36110,"language_key":"uz","name":"Pokr Ayrum"}
+{"id":2780544,"city_id":36111,"language_key":"uz","name":"Zoravan"}
+{"id":2780621,"city_id":36112,"language_key":"uz","name":"Pokrashen"}
+{"id":2780698,"city_id":36113,"language_key":"uz","name":"Ptgavan"}
+{"id":2780775,"city_id":36114,"language_key":"uz","name":"Petrovka"}
+{"id":2780852,"city_id":36115,"language_key":"uz","name":"Pemzashen"}
+{"id":2780929,"city_id":36116,"language_key":"uz","name":"P'arpi"}
+{"id":2781006,"city_id":36117,"language_key":"uz","name":"Paravakar"}
+{"id":2781083,"city_id":36118,"language_key":"uz","name":"P'arak'ar"}
+{"id":2781160,"city_id":36119,"language_key":"uz","name":"P'anik"}
+{"id":2781237,"city_id":36120,"language_key":"uz","name":"P'ambak"}
+{"id":2781314,"city_id":36121,"language_key":"uz","name":"P'ambak"}
+{"id":2781391,"city_id":36122,"language_key":"uz","name":"Hovuni"}
+{"id":2781468,"city_id":36123,"language_key":"uz","name":"Hovtasen"}
+{"id":2781545,"city_id":36124,"language_key":"uz","name":"Hovnanadzor"}
+{"id":2781622,"city_id":36125,"language_key":"uz","name":"Hovit"}
+{"id":2781699,"city_id":36126,"language_key":"uz","name":"Oshakan"}
+{"id":2781776,"city_id":36127,"language_key":"uz","name":"Mijnatun"}
+{"id":2781853,"city_id":36128,"language_key":"uz","name":"Orgov"}
+{"id":2781930,"city_id":36129,"language_key":"uz","name":"Xobardzi"}
+{"id":2782007,"city_id":36130,"language_key":"uz","name":"Sardarapat, Armaniston"}
+{"id":2782084,"city_id":36131,"language_key":"uz","name":"Ohanavan"}
+{"id":2782161,"city_id":36132,"language_key":"uz","name":"Odzun"}
+{"id":2782238,"city_id":36133,"language_key":"uz","name":"Nurnus"}
+{"id":2782315,"city_id":36134,"language_key":"uz","name":"Noyemberyan"}
+{"id":2782392,"city_id":36135,"language_key":"uz","name":"Novoseltsovo"}
+{"id":2782469,"city_id":36136,"language_key":"uz","name":"Nor Kyank'"}
+{"id":2782546,"city_id":36137,"language_key":"uz","name":"Nor Kharberd"}
+{"id":2782623,"city_id":36138,"language_key":"uz","name":"Nor Gyugh"}
+{"id":2782700,"city_id":36139,"language_key":"uz","name":"Nor Geghi"}
+{"id":2782777,"city_id":36140,"language_key":"uz","name":"Getik"}
+{"id":2782854,"city_id":36141,"language_key":"uz","name":"Norashen"}
+{"id":2782931,"city_id":36142,"language_key":"uz","name":"Norashen"}
+{"id":2783008,"city_id":36143,"language_key":"uz","name":"Norasen"}
+{"id":2783085,"city_id":36144,"language_key":"uz","name":"Norashen"}
+{"id":2783162,"city_id":36145,"language_key":"uz","name":"Norashen"}
+{"id":2783239,"city_id":36146,"language_key":"uz","name":"Na Artik"}
+{"id":2783316,"city_id":36147,"language_key":"uz","name":"Nor Armavir"}
+{"id":2783470,"city_id":36149,"language_key":"uz","name":"Noramut"}
+{"id":2783547,"city_id":36150,"language_key":"uz","name":"Noramarg"}
+{"id":2783624,"city_id":36151,"language_key":"uz","name":"Norakert"}
+{"id":2783701,"city_id":36152,"language_key":"uz","name":"Norakert"}
+{"id":2783778,"city_id":36153,"language_key":"uz","name":"Noratus"}
+{"id":2783855,"city_id":36154,"language_key":"uz","name":"Nohchacan"}
+{"id":2783932,"city_id":36155,"language_key":"uz","name":"Norabak"}
+{"id":2784009,"city_id":36156,"language_key":"uz","name":"Nigavan"}
+{"id":2784086,"city_id":36157,"language_key":"uz","name":"Dastadem"}
+{"id":2784163,"city_id":36158,"language_key":"uz","name":"Nerk'in Sorza"}
+{"id":2784240,"city_id":36159,"language_key":"uz","name":"Nerkin Sasnashen"}
+{"id":2784317,"city_id":36160,"language_key":"uz","name":"Nerkin Karmiraghbyur"}
+{"id":2784394,"city_id":36161,"language_key":"uz","name":"Nerkin Getashen"}
+{"id":2784471,"city_id":36162,"language_key":"uz","name":"Nerkin Bazmaberd"}
+{"id":2784548,"city_id":36163,"language_key":"uz","name":"Artsvanist"}
+{"id":2784625,"city_id":36164,"language_key":"uz","name":"Aknaghbyur"}
+{"id":2784779,"city_id":36166,"language_key":"uz","name":"Neghots"}
+{"id":2784856,"city_id":36167,"language_key":"uz","name":"Navur"}
+{"id":2784933,"city_id":36168,"language_key":"uz","name":"Nalbandyan, Armaniston"}
+{"id":2785010,"city_id":36169,"language_key":"uz","name":"Sirakamut"}
+{"id":2785087,"city_id":36170,"language_key":"uz","name":"Nahapetavan"}
+{"id":2785164,"city_id":36171,"language_key":"uz","name":"Musayelyan"}
+{"id":2785241,"city_id":36172,"language_key":"uz","name":"Basen, Armaniston"}
+{"id":2785318,"city_id":36173,"language_key":"uz","name":"Kaypak"}
+{"id":2785395,"city_id":36174,"language_key":"uz","name":"Mughni"}
+{"id":2785472,"city_id":36175,"language_key":"uz","name":"Hovtamej"}
+{"id":2785549,"city_id":36176,"language_key":"uz","name":"Mrgastan"}
+{"id":2785626,"city_id":36177,"language_key":"uz","name":"Mrgashen"}
+{"id":2785703,"city_id":36178,"language_key":"uz","name":"Mrgashat"}
+{"id":2785780,"city_id":36179,"language_key":"uz","name":"Mrganush"}
+{"id":2785857,"city_id":36180,"language_key":"uz","name":"Yeghipatrush"}
+{"id":2785934,"city_id":36181,"language_key":"uz","name":"Movses"}
+{"id":2786011,"city_id":36182,"language_key":"uz","name":"Mxchyan"}
+{"id":2786088,"city_id":36183,"language_key":"uz","name":"Mirak, Armaniston"}
+{"id":2786165,"city_id":36184,"language_key":"uz","name":"Mikhayelovka"}
+{"id":2786242,"city_id":36185,"language_key":"uz","name":"Metsamor (qishloq)"}
+{"id":2786319,"city_id":36186,"language_key":"uz","name":"Mets Sepasar"}
+{"id":2786396,"city_id":36187,"language_key":"uz","name":"Mets Sariar"}
+{"id":2786473,"city_id":36188,"language_key":"uz","name":"Mets Parni"}
+{"id":2786550,"city_id":36189,"language_key":"uz","name":"Mets Masrik"}
+{"id":2786627,"city_id":36190,"language_key":"uz","name":"Mets Mantash"}
+{"id":2786704,"city_id":36191,"language_key":"uz","name":"Mets Ayrum"}
+{"id":2786781,"city_id":36192,"language_key":"uz","name":"Metsavan"}
+{"id":2786858,"city_id":36193,"language_key":"uz","name":"Metsamor"}
+{"id":2786935,"city_id":36194,"language_key":"uz","name":"Merdzavan"}
+{"id":2787012,"city_id":36195,"language_key":"uz","name":"Melikgyugh"}
+{"id":2787089,"city_id":36196,"language_key":"uz","name":"Meghrashen"}
+{"id":2787166,"city_id":36197,"language_key":"uz","name":"Meghrashat"}
+{"id":2787243,"city_id":36198,"language_key":"uz","name":"Meghvahovit"}
+{"id":2787320,"city_id":36199,"language_key":"uz","name":"Meghradzor"}
+{"id":2787397,"city_id":36200,"language_key":"uz","name":"Medovka"}
+{"id":2787474,"city_id":36201,"language_key":"uz","name":"Mayakovski, Armaniston"}
+{"id":2787551,"city_id":36202,"language_key":"uz","name":"Mastara"}
+{"id":2787628,"city_id":36203,"language_key":"uz","name":"Masis (qishloq)"}
+{"id":2787705,"city_id":36204,"language_key":"uz","name":"Martuni"}
+{"id":2787782,"city_id":36205,"language_key":"uz","name":"Martuni"}
+{"id":2787859,"city_id":36206,"language_key":"uz","name":"Marts"}
+{"id":2787936,"city_id":36207,"language_key":"uz","name":"Marmarashen"}
+{"id":2788013,"city_id":36208,"language_key":"uz","name":"Marmashen"}
+{"id":2788090,"city_id":36209,"language_key":"uz","name":"Marmarik"}
+{"id":2788167,"city_id":36210,"language_key":"uz","name":"Margahovit"}
+{"id":2788244,"city_id":36211,"language_key":"uz","name":"Maralik"}
+{"id":2788398,"city_id":36213,"language_key":"uz","name":"Bovadzor"}
+{"id":2788475,"city_id":36214,"language_key":"uz","name":"Mayisyan"}
+{"id":2788552,"city_id":36215,"language_key":"uz","name":"Gtashen"}
+{"id":2788629,"city_id":36216,"language_key":"uz","name":"Madina, Armaniston"}
+{"id":2788706,"city_id":36217,"language_key":"uz","name":"Lusagbyur"}
+{"id":2788783,"city_id":36218,"language_key":"uz","name":"Lusaghbyur"}
+{"id":2788860,"city_id":36219,"language_key":"uz","name":"Lusakert"}
+{"id":2788937,"city_id":36220,"language_key":"uz","name":"Lusagyugh"}
+{"id":2789014,"city_id":36221,"language_key":"uz","name":"Lusagyugh"}
+{"id":2789091,"city_id":36222,"language_key":"uz","name":"Lusadzor"}
+{"id":2789168,"city_id":36223,"language_key":"uz","name":"Lukashin"}
+{"id":2789245,"city_id":36224,"language_key":"uz","name":"Lorut"}
+{"id":2789322,"city_id":36225,"language_key":"uz","name":"Lori berd"}
+{"id":2789399,"city_id":36226,"language_key":"uz","name":"Lchkadzor"}
+{"id":2789476,"city_id":36227,"language_key":"uz","name":"Lichk"}
+{"id":2789553,"city_id":36228,"language_key":"uz","name":"Lernut"}
+{"id":2789630,"city_id":36229,"language_key":"uz","name":"Lernavan"}
+{"id":2789707,"city_id":36230,"language_key":"uz","name":"Lernarot"}
+{"id":2789784,"city_id":36231,"language_key":"uz","name":"Lernapat"}
+{"id":2789861,"city_id":36232,"language_key":"uz","name":"Lernapar"}
+{"id":2789938,"city_id":36233,"language_key":"uz","name":"Lernantsk"}
+{"id":2790015,"city_id":36234,"language_key":"uz","name":"Lernantsk"}
+{"id":2790092,"city_id":36235,"language_key":"uz","name":"Lernanist"}
+{"id":2790169,"city_id":36236,"language_key":"uz","name":"Lernakert"}
+{"id":2790246,"city_id":36237,"language_key":"uz","name":"Lernakert"}
+{"id":2790323,"city_id":36238,"language_key":"uz","name":"Lermontovo"}
+{"id":2790400,"city_id":36239,"language_key":"uz","name":"Khoronk"}
+{"id":2790477,"city_id":36240,"language_key":"uz","name":"Lejan"}
+{"id":2790554,"city_id":36241,"language_key":"uz","name":"Lchashen"}
+{"id":2790631,"city_id":36242,"language_key":"uz","name":"Lchap"}
+{"id":2790708,"city_id":36243,"language_key":"uz","name":"Lanjik"}
+{"id":2790785,"city_id":36244,"language_key":"uz","name":"Lanjaghbyur"}
+{"id":2790862,"city_id":36245,"language_key":"uz","name":"Debedavan"}
+{"id":2790939,"city_id":36246,"language_key":"uz","name":"Zovk"}
+{"id":2791016,"city_id":36247,"language_key":"uz","name":"Hatis"}
+{"id":2791093,"city_id":36248,"language_key":"uz","name":"Garnarich"}
+{"id":2791170,"city_id":36249,"language_key":"uz","name":"Urasar"}
+{"id":2791247,"city_id":36250,"language_key":"uz","name":"Kutakan"}
+{"id":2791324,"city_id":36251,"language_key":"uz","name":"Kut"}
+{"id":2791401,"city_id":36252,"language_key":"uz","name":"Kurtan"}
+{"id":2791478,"city_id":36253,"language_key":"uz","name":"Arjahovit"}
+{"id":2791555,"city_id":36254,"language_key":"uz","name":"Kruglaya shishka"}
+{"id":2791632,"city_id":36255,"language_key":"uz","name":"K'uc'ak"}
+{"id":2791709,"city_id":36256,"language_key":"uz","name":"Krashen"}
+{"id":2791786,"city_id":36257,"language_key":"uz","name":"Krasar"}
+{"id":2791863,"city_id":36258,"language_key":"uz","name":"Koti"}
+{"id":2791940,"city_id":36259,"language_key":"uz","name":"Kotayk'"}
+{"id":2792017,"city_id":36260,"language_key":"uz","name":"Kosh"}
+{"id":2792094,"city_id":36261,"language_key":"uz","name":"Gorgoch"}
+{"id":2792171,"city_id":36262,"language_key":"uz","name":"Koghb"}
+{"id":2792248,"city_id":36263,"language_key":"uz","name":"Getavan"}
+{"id":2792325,"city_id":36264,"language_key":"uz","name":"Dzyunashogh"}
+{"id":2792402,"city_id":36265,"language_key":"uz","name":"Vanadzor"}
+{"id":2792479,"city_id":36266,"language_key":"uz","name":"Amrakits"}
+{"id":2792556,"city_id":36267,"language_key":"uz","name":"Khnkoyan"}
+{"id":2792633,"city_id":36268,"language_key":"uz","name":"Hnaberd"}
+{"id":2792710,"city_id":36269,"language_key":"uz","name":"Hnaberd"}
+{"id":2792787,"city_id":36270,"language_key":"uz","name":"Khashtarak"}
+{"id":2792864,"city_id":36271,"language_key":"uz","name":"Xachpar"}
+{"id":2792941,"city_id":36272,"language_key":"uz","name":"Xachardzan"}
+{"id":2793018,"city_id":36273,"language_key":"uz","name":"Xachaghbyur"}
+{"id":2793095,"city_id":36274,"language_key":"uz","name":"Keti, Armaniston"}
+{"id":2793172,"city_id":36275,"language_key":"uz","name":"Kak'avasar"}
+{"id":2793249,"city_id":36276,"language_key":"uz","name":"Ghazanchi"}
+{"id":2793326,"city_id":36277,"language_key":"uz","name":"Katnaghbyur"}
+{"id":2793403,"city_id":36278,"language_key":"uz","name":"Katnaghbyur"}
+{"id":2793480,"city_id":36279,"language_key":"uz","name":"Katnaghbyur"}
+{"id":2793557,"city_id":36280,"language_key":"uz","name":"Kat'najur"}
+{"id":2793634,"city_id":36281,"language_key":"uz","name":"Karnut"}
+{"id":2793711,"city_id":36282,"language_key":"uz","name":"Karmravan"}
+{"id":2793788,"city_id":36283,"language_key":"uz","name":"Karmrasen"}
+{"id":2793865,"city_id":36284,"language_key":"uz","name":"Karmrasen"}
+{"id":2793942,"city_id":36285,"language_key":"uz","name":"Karmrakar"}
+{"id":2794019,"city_id":36286,"language_key":"uz","name":"Koghes"}
+{"id":2794096,"city_id":36287,"language_key":"uz","name":"K'arinj"}
+{"id":2794173,"city_id":36288,"language_key":"uz","name":"Karenis"}
+{"id":2794250,"city_id":36289,"language_key":"uz","name":"Karcagbyur"}
+{"id":2794327,"city_id":36290,"language_key":"uz","name":"Karbi"}
+{"id":2794404,"city_id":36291,"language_key":"uz","name":"K'arasamb"}
+{"id":2794481,"city_id":36292,"language_key":"uz","name":"Karanlukh"}
+{"id":2794558,"city_id":36293,"language_key":"uz","name":"Karakert"}
+{"id":2794712,"city_id":36295,"language_key":"uz","name":"Karadzor"}
+{"id":2794789,"city_id":36296,"language_key":"uz","name":"Karaberd"}
+{"id":2794866,"city_id":36297,"language_key":"uz","name":"Karaberd"}
+{"id":2794943,"city_id":36298,"language_key":"uz","name":"Kaputan"}
+{"id":2795020,"city_id":36299,"language_key":"uz","name":"Kaps"}
+{"id":2795097,"city_id":36300,"language_key":"uz","name":"Kanakeravan"}
+{"id":2795174,"city_id":36301,"language_key":"uz","name":"Kanac'ut"}
+{"id":2795328,"city_id":36303,"language_key":"uz","name":"Kamo, Armaniston"}
+{"id":2795405,"city_id":36304,"language_key":"uz","name":"Gavar"}
+{"id":2795482,"city_id":36305,"language_key":"uz","name":"Kamkhut"}
+{"id":2795559,"city_id":36306,"language_key":"uz","name":"Kalavan"}
+{"id":2795636,"city_id":36307,"language_key":"uz","name":"K'agsi"}
+{"id":2795713,"city_id":36308,"language_key":"uz","name":"Kakhakn"}
+{"id":2795790,"city_id":36309,"language_key":"uz","name":"Kakavadzor"}
+{"id":2795867,"city_id":36310,"language_key":"uz","name":"Kachachkut"}
+{"id":2795944,"city_id":36311,"language_key":"uz","name":"Ddmasar"}
+{"id":2796021,"city_id":36312,"language_key":"uz","name":"Jaghatsadzor"}
+{"id":2796098,"city_id":36313,"language_key":"uz","name":"Itsakar"}
+{"id":2796175,"city_id":36314,"language_key":"uz","name":"Isahakyan"}
+{"id":2796252,"city_id":36315,"language_key":"uz","name":"Irind"}
+{"id":2796329,"city_id":36316,"language_key":"uz","name":"Mayisyan"}
+{"id":2796406,"city_id":36317,"language_key":"uz","name":"Shahumyan"}
+{"id":2796483,"city_id":36318,"language_key":"uz","name":"Dastadem"}
+{"id":2796560,"city_id":36319,"language_key":"uz","name":"Hogmik"}
+{"id":2796637,"city_id":36320,"language_key":"uz","name":"Ijevan"}
+{"id":2796714,"city_id":36321,"language_key":"uz","name":"Hrazdan"}
+{"id":2796791,"city_id":36322,"language_key":"uz","name":"Hovtun"}
+{"id":2796868,"city_id":36323,"language_key":"uz","name":"Armavir"}
+{"id":2796945,"city_id":36324,"language_key":"uz","name":"Hayanist"}
+{"id":2797022,"city_id":36325,"language_key":"uz","name":"Xatsik"}
+{"id":2797099,"city_id":36326,"language_key":"uz","name":"Xaghartsin"}
+{"id":2797176,"city_id":36327,"language_key":"uz","name":"Gyumri"}
+{"id":2797253,"city_id":36328,"language_key":"uz","name":"Tsaghkut"}
+{"id":2797330,"city_id":36329,"language_key":"uz","name":"Gyulagarak"}
+{"id":2797407,"city_id":36330,"language_key":"uz","name":"Kamaris"}
+{"id":2797484,"city_id":36331,"language_key":"uz","name":"Kanch"}
+{"id":2797561,"city_id":36332,"language_key":"uz","name":"Gusanagyugh"}
+{"id":2797638,"city_id":36333,"language_key":"uz","name":"Ghukasavan"}
+{"id":2797715,"city_id":36334,"language_key":"uz","name":"Gegamasar"}
+{"id":2797792,"city_id":36335,"language_key":"uz","name":"Gugark'"}
+{"id":2797869,"city_id":36336,"language_key":"uz","name":"Tsiatsan"}
+{"id":2797946,"city_id":36337,"language_key":"uz","name":"Gosh"}
+{"id":2798100,"city_id":36339,"language_key":"uz","name":"Goght"}
+{"id":2798177,"city_id":36340,"language_key":"uz","name":"Gogavan"}
+{"id":2798254,"city_id":36341,"language_key":"uz","name":"Gogaran"}
+{"id":2798408,"city_id":36343,"language_key":"uz","name":"Ghazaravan"}
+{"id":2798485,"city_id":36344,"language_key":"uz","name":"Aznvadzor"}
+{"id":2798562,"city_id":36345,"language_key":"uz","name":"Getk"}
+{"id":2798639,"city_id":36346,"language_key":"uz","name":"Kirants, Armaniston"}
+{"id":2798716,"city_id":36347,"language_key":"uz","name":"Getazat"}
+{"id":2798793,"city_id":36348,"language_key":"uz","name":"Getashen"}
+{"id":2798870,"city_id":36349,"language_key":"uz","name":"Getap'"}
+{"id":2798947,"city_id":36350,"language_key":"uz","name":"Getap"}
+{"id":2799024,"city_id":36351,"language_key":"uz","name":"Getamej"}
+{"id":2799101,"city_id":36352,"language_key":"uz","name":"Gargar"}
+{"id":2799178,"city_id":36353,"language_key":"uz","name":"Gegharot"}
+{"id":2799255,"city_id":36354,"language_key":"uz","name":"Geghard, Armaniston"}
+{"id":2799332,"city_id":36355,"language_key":"uz","name":"Geganist"}
+{"id":2799409,"city_id":36356,"language_key":"uz","name":"Geghanist"}
+{"id":2799486,"city_id":36357,"language_key":"uz","name":"Geghadzor"}
+{"id":2799563,"city_id":36358,"language_key":"uz","name":"Gegadir"}
+{"id":2799640,"city_id":36359,"language_key":"uz","name":"Geghadir"}
+{"id":2799717,"city_id":36360,"language_key":"uz","name":"Gegharkunik"}
+{"id":2799794,"city_id":36361,"language_key":"uz","name":"Gegamabak"}
+{"id":2799871,"city_id":36362,"language_key":"uz","name":"Geghakar"}
+{"id":2799948,"city_id":36363,"language_key":"uz","name":"Geghamavan"}
+{"id":2800025,"city_id":36364,"language_key":"uz","name":"Garnahovit"}
+{"id":2800102,"city_id":36365,"language_key":"uz","name":"Garni"}
+{"id":2800179,"city_id":36366,"language_key":"uz","name":"Gharibjanyan"}
+{"id":2800256,"city_id":36367,"language_key":"uz","name":"Gagarin, Armaniston"}
+{"id":2800333,"city_id":36368,"language_key":"uz","name":"Fantan, Armaniston"}
+{"id":2800410,"city_id":36369,"language_key":"uz","name":"Fioletovo"}
+{"id":2800487,"city_id":36370,"language_key":"uz","name":"Dzoravank"}
+{"id":2800564,"city_id":36371,"language_key":"uz","name":"Dzorashen"}
+{"id":2800641,"city_id":36372,"language_key":"uz","name":"Dzoramut"}
+{"id":2800718,"city_id":36373,"language_key":"uz","name":"Dzoraghbyur"}
+{"id":2800795,"city_id":36374,"language_key":"uz","name":"Dzorakap"}
+{"id":2800872,"city_id":36375,"language_key":"uz","name":"Dzoraget"}
+{"id":2800949,"city_id":36376,"language_key":"uz","name":"Dzoragyugh"}
+{"id":2801026,"city_id":36377,"language_key":"uz","name":"Dzoragyugh"}
+{"id":2801103,"city_id":36378,"language_key":"uz","name":"Dzoraglukh"}
+{"id":2801180,"city_id":36379,"language_key":"uz","name":"Dzithankov"}
+{"id":2801257,"city_id":36380,"language_key":"uz","name":"Jujevan"}
+{"id":2801334,"city_id":36381,"language_key":"uz","name":"Jrvezh"}
+{"id":2801411,"city_id":36382,"language_key":"uz","name":"Jrashen"}
+{"id":2801488,"city_id":36383,"language_key":"uz","name":"Jrasen"}
+{"id":2801565,"city_id":36384,"language_key":"uz","name":"Jrashen"}
+{"id":2801642,"city_id":36385,"language_key":"uz","name":"Jrarat"}
+{"id":2801719,"city_id":36386,"language_key":"uz","name":"Jrarat"}
+{"id":2801796,"city_id":36387,"language_key":"uz","name":"Jrarat"}
+{"id":2801873,"city_id":36388,"language_key":"uz","name":"Jrap'i"}
+{"id":2801950,"city_id":36389,"language_key":"uz","name":"Jrahovit"}
+{"id":2802027,"city_id":36390,"language_key":"uz","name":"Jradzor"}
+{"id":2802104,"city_id":36391,"language_key":"uz","name":"Jraber"}
+{"id":2802181,"city_id":36392,"language_key":"uz","name":"Berk'aber"}
+{"id":2802258,"city_id":36393,"language_key":"uz","name":"Jiliza"}
+{"id":2802335,"city_id":36394,"language_key":"uz","name":"Jil"}
+{"id":2802412,"city_id":36395,"language_key":"uz","name":"Janfida"}
+{"id":2802489,"city_id":36396,"language_key":"uz","name":"Jamshlu"}
+{"id":2802566,"city_id":36397,"language_key":"uz","name":"Jajur"}
+{"id":2802720,"city_id":36399,"language_key":"uz","name":"Dvin, Armaniston"}
+{"id":2802797,"city_id":36400,"language_key":"uz","name":"Dsegh"}
+{"id":2802874,"city_id":36401,"language_key":"uz","name":"Drakhtik"}
+{"id":2802951,"city_id":36402,"language_key":"uz","name":"Dprabak"}
+{"id":2803028,"city_id":36403,"language_key":"uz","name":"Dovegh"}
+{"id":2803105,"city_id":36404,"language_key":"uz","name":"Doghs"}
+{"id":2803182,"city_id":36405,"language_key":"uz","name":"Ditavan"}
+{"id":2803259,"city_id":36406,"language_key":"uz","name":"Ditak, Armaniston"}
+{"id":2803336,"city_id":36407,"language_key":"uz","name":"Dilijan"}
+{"id":2803413,"city_id":36408,"language_key":"uz","name":"Dian"}
+{"id":2803490,"city_id":36409,"language_key":"uz","name":"Charchakis"}
+{"id":2803567,"city_id":36410,"language_key":"uz","name":"Debet, Armaniston"}
+{"id":2803644,"city_id":36411,"language_key":"uz","name":"Ddmashen"}
+{"id":2803721,"city_id":36412,"language_key":"uz","name":"Davtashen (village)"}
+{"id":2803798,"city_id":36413,"language_key":"uz","name":"Dasht, Armaniston"}
+{"id":2803875,"city_id":36414,"language_key":"uz","name":"Darpas"}
+{"id":2803952,"city_id":36415,"language_key":"uz","name":"Darik"}
+{"id":2804029,"city_id":36416,"language_key":"uz","name":"Darbnik"}
+{"id":2804106,"city_id":36417,"language_key":"uz","name":"Daranak"}
+{"id":2804183,"city_id":36418,"language_key":"uz","name":"Aygehat"}
+{"id":2804260,"city_id":36419,"language_key":"uz","name":"Dalarik"}
+{"id":2804337,"city_id":36420,"language_key":"uz","name":"Choratan"}
+{"id":2804414,"city_id":36421,"language_key":"uz","name":"Chochkan"}
+{"id":2804491,"city_id":36422,"language_key":"uz","name":"Chknagh"}
+{"id":2804568,"city_id":36423,"language_key":"uz","name":"Chkalovka"}
+{"id":2804645,"city_id":36424,"language_key":"uz","name":"C'kalov"}
+{"id":2804722,"city_id":36425,"language_key":"uz","name":"Chinchin"}
+{"id":2804799,"city_id":36426,"language_key":"uz","name":"Chinari, Armaniston"}
+{"id":2804876,"city_id":36427,"language_key":"uz","name":"Mak'enis"}
+{"id":2804953,"city_id":36428,"language_key":"uz","name":"Charentsavan"}
+{"id":2805030,"city_id":36429,"language_key":"uz","name":"Chambarak"}
+{"id":2805107,"city_id":36430,"language_key":"uz","name":"Bjni"}
+{"id":2805184,"city_id":36431,"language_key":"uz","name":"Byureghavan"}
+{"id":2805261,"city_id":36432,"language_key":"uz","name":"Byurakan"}
+{"id":2805338,"city_id":36433,"language_key":"uz","name":"Buzhakan"}
+{"id":2805415,"city_id":36434,"language_key":"uz","name":"Blagodarnoye"}
+{"id":2805492,"city_id":36435,"language_key":"uz","name":"Berkashat"}
+{"id":2805569,"city_id":36436,"language_key":"uz","name":"Berkarat"}
+{"id":2805646,"city_id":36437,"language_key":"uz","name":"Berdkunk"}
+{"id":2805723,"city_id":36438,"language_key":"uz","name":"Berdavan"}
+{"id":2805800,"city_id":36439,"language_key":"uz","name":"Berd"}
+{"id":2805877,"city_id":36440,"language_key":"uz","name":"Beniamin"}
+{"id":2805954,"city_id":36441,"language_key":"uz","name":"Bazum"}
+{"id":2806031,"city_id":36442,"language_key":"uz","name":"Bazmaghbyur"}
+{"id":2806185,"city_id":36444,"language_key":"uz","name":"Bayandur, Armaniston"}
+{"id":2806262,"city_id":36445,"language_key":"uz","name":"Bavra"}
+{"id":2806339,"city_id":36446,"language_key":"uz","name":"Gandzak"}
+{"id":2806416,"city_id":36447,"language_key":"uz","name":"Bashgyugh"}
+{"id":2806493,"city_id":36448,"language_key":"uz","name":"Barepat"}
+{"id":2806570,"city_id":36449,"language_key":"uz","name":"Barekamavan"}
+{"id":2806647,"city_id":36450,"language_key":"uz","name":"Bandivan"}
+{"id":2806724,"city_id":36451,"language_key":"uz","name":"Byuravan"}
+{"id":2806801,"city_id":36452,"language_key":"uz","name":"Bambakashat"}
+{"id":2806878,"city_id":36453,"language_key":"uz","name":"Balahovit"}
+{"id":2806955,"city_id":36454,"language_key":"uz","name":"Bagravan"}
+{"id":2807032,"city_id":36455,"language_key":"uz","name":"Bagratashen"}
+{"id":2807109,"city_id":36456,"language_key":"uz","name":"Baghanis"}
+{"id":2807186,"city_id":36457,"language_key":"uz","name":"Azatashen"}
+{"id":2807263,"city_id":36458,"language_key":"uz","name":"Azatan"}
+{"id":2807340,"city_id":36459,"language_key":"uz","name":"Azat, Armaniston"}
+{"id":2807417,"city_id":36460,"language_key":"uz","name":"Hayt'ag"}
+{"id":2807494,"city_id":36461,"language_key":"uz","name":"Ayrum"}
+{"id":2807571,"city_id":36462,"language_key":"uz","name":"Ayrk"}
+{"id":2807648,"city_id":36463,"language_key":"uz","name":"Hayravank"}
+{"id":2807725,"city_id":36464,"language_key":"uz","name":"Hayrenyats"}
+{"id":2807802,"city_id":36465,"language_key":"uz","name":"Haykavan"}
+{"id":2807879,"city_id":36466,"language_key":"uz","name":"Haykavan"}
+{"id":2807956,"city_id":36467,"language_key":"uz","name":"Haykasar"}
+{"id":2808033,"city_id":36468,"language_key":"uz","name":"Haykadzor"}
+{"id":2808110,"city_id":36469,"language_key":"uz","name":"Aygut"}
+{"id":2808187,"city_id":36470,"language_key":"uz","name":"Aygestan"}
+{"id":2808264,"city_id":36471,"language_key":"uz","name":"Aygeshat, Khoy"}
+{"id":2808341,"city_id":36472,"language_key":"uz","name":"Aygeshat"}
+{"id":2808418,"city_id":36473,"language_key":"uz","name":"Aknalich"}
+{"id":2808495,"city_id":36474,"language_key":"uz","name":"Aygepar"}
+{"id":2808572,"city_id":36475,"language_key":"uz","name":"Aygehovit"}
+{"id":2808649,"city_id":36476,"language_key":"uz","name":"Aygedzor"}
+{"id":2808726,"city_id":36477,"language_key":"uz","name":"Aygabats"}
+{"id":2808880,"city_id":36479,"language_key":"uz","name":"Lernamerdz"}
+{"id":2808957,"city_id":36480,"language_key":"uz","name":"Metsadzor"}
+{"id":2809034,"city_id":36481,"language_key":"uz","name":"Avshen"}
+{"id":2809111,"city_id":36482,"language_key":"uz","name":"Avazan"}
+{"id":2809188,"city_id":36483,"language_key":"uz","name":"Avaj"}
+{"id":2809265,"city_id":36484,"language_key":"uz","name":"Hatsik"}
+{"id":2809342,"city_id":36485,"language_key":"uz","name":"Xatsavan"}
+{"id":2809419,"city_id":36486,"language_key":"uz","name":"Hatsashen"}
+{"id":2809573,"city_id":36488,"language_key":"uz","name":"Artimet"}
+{"id":2809650,"city_id":36489,"language_key":"uz","name":"At'an"}
+{"id":2809727,"city_id":36490,"language_key":"uz","name":"Astghadzor"}
+{"id":2809804,"city_id":36491,"language_key":"uz","name":"Ashtarak"}
+{"id":2809881,"city_id":36492,"language_key":"uz","name":"Ashotsk"}
+{"id":2809958,"city_id":36493,"language_key":"uz","name":"Asnak"}
+{"id":2810035,"city_id":36494,"language_key":"uz","name":"Arzni"}
+{"id":2810112,"city_id":36495,"language_key":"uz","name":"Arzakan"}
+{"id":2810189,"city_id":36496,"language_key":"uz","name":"Artsvashen"}
+{"id":2810343,"city_id":36498,"language_key":"uz","name":"Artsni"}
+{"id":2810420,"city_id":36499,"language_key":"uz","name":"Art'ik"}
+{"id":2810497,"city_id":36500,"language_key":"uz","name":"Arteni"}
+{"id":2810574,"city_id":36501,"language_key":"uz","name":"Artavaz"}
+{"id":2810651,"city_id":36502,"language_key":"uz","name":"Hartavan"}
+{"id":2810728,"city_id":36503,"language_key":"uz","name":"Hart'asen"}
+{"id":2810805,"city_id":36504,"language_key":"uz","name":"Artashavan"}
+{"id":2810882,"city_id":36505,"language_key":"uz","name":"Artashar"}
+{"id":2810959,"city_id":36506,"language_key":"uz","name":"Artanish"}
+{"id":2811036,"city_id":36507,"language_key":"uz","name":"Hart'agyug"}
+{"id":2811113,"city_id":36508,"language_key":"uz","name":"Arshaluys"}
+{"id":2811190,"city_id":36509,"language_key":"uz","name":"Arp'unk'"}
+{"id":2811267,"city_id":36510,"language_key":"uz","name":"Arpeni"}
+{"id":2811344,"city_id":36511,"language_key":"uz","name":"Armanis"}
+{"id":2811421,"city_id":36512,"language_key":"uz","name":"Arinj"}
+{"id":2811498,"city_id":36513,"language_key":"uz","name":"Haric"}
+{"id":2811575,"city_id":36514,"language_key":"uz","name":"Argel"}
+{"id":2811652,"city_id":36515,"language_key":"uz","name":"Argavand"}
+{"id":2811729,"city_id":36516,"language_key":"uz","name":"Argavand"}
+{"id":2811806,"city_id":36517,"language_key":"uz","name":"Arevsat"}
+{"id":2811883,"city_id":36518,"language_key":"uz","name":"Arevshat"}
+{"id":2811960,"city_id":36519,"language_key":"uz","name":"Arevik"}
+{"id":2812037,"city_id":36520,"language_key":"uz","name":"Arevik"}
+{"id":2812114,"city_id":36521,"language_key":"uz","name":"Arevatsag"}
+{"id":2812191,"city_id":36522,"language_key":"uz","name":"Arevashogh"}
+{"id":2812268,"city_id":36523,"language_key":"uz","name":"Arevashat"}
+{"id":2812345,"city_id":36524,"language_key":"uz","name":"Areguni"}
+{"id":2812422,"city_id":36525,"language_key":"uz","name":"Aregnadem"}
+{"id":2812499,"city_id":36526,"language_key":"uz","name":"T'at'ul"}
+{"id":2812576,"city_id":36527,"language_key":"uz","name":"Ardvi"}
+{"id":2812653,"city_id":36528,"language_key":"uz","name":"Ardenis"}
+{"id":2812730,"city_id":36529,"language_key":"uz","name":"Arjut"}
+{"id":2812807,"city_id":36530,"language_key":"uz","name":"Arcis"}
+{"id":2812884,"city_id":36531,"language_key":"uz","name":"Arbat, Armaniston"}
+{"id":2812961,"city_id":36532,"language_key":"uz","name":"Arazap"}
+{"id":2813038,"city_id":36533,"language_key":"uz","name":"Arapi, Armaniston"}
+{"id":2813115,"city_id":36534,"language_key":"uz","name":"Aramus, Armaniston"}
+{"id":2813192,"city_id":36535,"language_key":"uz","name":"Araks (Vagharshapat)"}
+{"id":2813269,"city_id":36536,"language_key":"uz","name":"Arayi"}
+{"id":2813346,"city_id":36537,"language_key":"uz","name":"Aragyugh"}
+{"id":2813423,"city_id":36538,"language_key":"uz","name":"Aragats"}
+{"id":2813500,"city_id":36539,"language_key":"uz","name":"Aragatsavan"}
+{"id":2813577,"city_id":36540,"language_key":"uz","name":"Aragats"}
+{"id":2813654,"city_id":36541,"language_key":"uz","name":"Apnagyugh"}
+{"id":2813731,"city_id":36542,"language_key":"uz","name":"Apaven"}
+{"id":2813808,"city_id":36543,"language_key":"uz","name":"Aparan"}
+{"id":2813885,"city_id":36544,"language_key":"uz","name":"Apaga"}
+{"id":2813962,"city_id":36545,"language_key":"uz","name":"Anushavan"}
+{"id":2814039,"city_id":36546,"language_key":"uz","name":"Antarut"}
+{"id":2814116,"city_id":36547,"language_key":"uz","name":"Antaramej"}
+{"id":2814193,"city_id":36548,"language_key":"uz","name":"Antaramut"}
+{"id":2814270,"city_id":36549,"language_key":"uz","name":"Hankavan"}
+{"id":2814347,"city_id":36550,"language_key":"uz","name":"Anipemza"}
+{"id":2814424,"city_id":36551,"language_key":"uz","name":"Amoj"}
+{"id":2814501,"city_id":36552,"language_key":"uz","name":"Amasia"}
+{"id":2814578,"city_id":36553,"language_key":"uz","name":"Amasia"}
+{"id":2814655,"city_id":36554,"language_key":"uz","name":"Alvar (Armaniston)"}
+{"id":2814732,"city_id":36555,"language_key":"uz","name":"Alaverdi, Armaniston"}
+{"id":2814809,"city_id":36556,"language_key":"uz","name":"Lernajur"}
+{"id":2814886,"city_id":36557,"language_key":"uz","name":"Alapars"}
+{"id":2814963,"city_id":36558,"language_key":"uz","name":"Alagyaz"}
+{"id":2815040,"city_id":36559,"language_key":"uz","name":"Akunk (Aragatsotn)"}
+{"id":2815117,"city_id":36560,"language_key":"uz","name":"Akunk"}
+{"id":2815194,"city_id":36561,"language_key":"uz","name":"Akunk, Aragatsotn"}
+{"id":2815271,"city_id":36562,"language_key":"uz","name":"Akori, Armaniston"}
+{"id":2815348,"city_id":36563,"language_key":"uz","name":"Akner"}
+{"id":2815425,"city_id":36564,"language_key":"uz","name":"Hako"}
+{"id":2815502,"city_id":36565,"language_key":"uz","name":"Akhuryan kayaran"}
+{"id":2815579,"city_id":36566,"language_key":"uz","name":"Akhurik"}
+{"id":2815656,"city_id":36567,"language_key":"uz","name":"P'yunik"}
+{"id":2815733,"city_id":36568,"language_key":"uz","name":"Varagavan"}
+{"id":2815810,"city_id":36569,"language_key":"uz","name":"Hagt'anak"}
+{"id":2815887,"city_id":36570,"language_key":"uz","name":"Akhtala (qishloq)"}
+{"id":2815964,"city_id":36571,"language_key":"uz","name":"Haghpat"}
+{"id":2816041,"city_id":36572,"language_key":"uz","name":"Ahnidzor"}
+{"id":2816118,"city_id":36573,"language_key":"uz","name":"Hovk'"}
+{"id":2816195,"city_id":36574,"language_key":"uz","name":"Aghavnatun"}
+{"id":2816272,"city_id":36575,"language_key":"uz","name":"Aghavnadzor"}
+{"id":2816349,"city_id":36576,"language_key":"uz","name":"Hagvi"}
+{"id":2816426,"city_id":36577,"language_key":"uz","name":"Aghin"}
+{"id":2816503,"city_id":36578,"language_key":"uz","name":"Aghvorik"}
+{"id":2816580,"city_id":36579,"language_key":"uz","name":"Aghdzk"}
+{"id":2816657,"city_id":36580,"language_key":"uz","name":"Aghberk"}
+{"id":2816734,"city_id":36581,"language_key":"uz","name":"Aghavnavank"}
+{"id":2816811,"city_id":36582,"language_key":"uz","name":"Tsaghkalanj"}
+{"id":2816888,"city_id":36583,"language_key":"uz","name":"Gandzakar"}
+{"id":2816965,"city_id":36584,"language_key":"uz","name":"Agarak"}
+{"id":2817042,"city_id":36585,"language_key":"uz","name":"Agarakavan"}
+{"id":2817119,"city_id":36586,"language_key":"uz","name":"Agarak"}
+{"id":2817196,"city_id":36587,"language_key":"uz","name":"Zovasar"}
+{"id":2817273,"city_id":36588,"language_key":"uz","name":"Vardadzor"}
+{"id":2817350,"city_id":36589,"language_key":"uz","name":"Achajur"}
+{"id":2817427,"city_id":36590,"language_key":"uz","name":"Abovyan"}
+{"id":2817504,"city_id":36591,"language_key":"uz","name":"Abovyan"}
+{"id":2817581,"city_id":36592,"language_key":"uz","name":"Vardablur"}
+{"id":2817658,"city_id":36593,"language_key":"uz","name":"Bardzrashen"}
+{"id":2817735,"city_id":36594,"language_key":"uz","name":"Nshavan"}
+{"id":2817812,"city_id":36595,"language_key":"uz","name":"Norabats"}
+{"id":2818351,"city_id":36602,"language_key":"uz","name":"Bendik"}
+{"id":2818505,"city_id":36604,"language_key":"uz","name":"Azatamut"}
+{"id":2818582,"city_id":36605,"language_key":"uz","name":"T'egut"}
+{"id":2818659,"city_id":36606,"language_key":"uz","name":"Artsvaberd"}
+{"id":2818736,"city_id":36607,"language_key":"uz","name":"Lernagog"}
+{"id":2818813,"city_id":36608,"language_key":"uz","name":"Aruch"}
+{"id":2818890,"city_id":36609,"language_key":"uz","name":"Nor Yerznka"}
+{"id":2818967,"city_id":36610,"language_key":"uz","name":"Aragatsotn"}
+{"id":2819044,"city_id":36611,"language_key":"uz","name":"Sasunik"}
+{"id":2819121,"city_id":36612,"language_key":"uz","name":"Zovuni"}
+{"id":2819198,"city_id":36613,"language_key":"uz","name":"Kasax"}
+{"id":2819275,"city_id":36614,"language_key":"uz","name":"Baghramyan"}
+{"id":2819352,"city_id":36615,"language_key":"uz","name":"Myasnikyan"}
+{"id":2819429,"city_id":36616,"language_key":"uz","name":"Bagaran"}
+{"id":2819506,"city_id":36617,"language_key":"uz","name":"Hushakert"}
+{"id":2819583,"city_id":36618,"language_key":"uz","name":"Lenughi"}
+{"id":2819660,"city_id":36619,"language_key":"uz","name":"Zart'onk'"}
+{"id":2819737,"city_id":36620,"language_key":"uz","name":"Metsamor (qishloq)"}
+{"id":2819814,"city_id":36621,"language_key":"uz","name":"Gay, Armaniston"}
+{"id":2819891,"city_id":36622,"language_key":"uz","name":"Baghramyan (Parakar)"}
+{"id":2819968,"city_id":36623,"language_key":"uz","name":"Musaler"}
+{"id":2820045,"city_id":36624,"language_key":"uz","name":"Darakert"}
+{"id":2820122,"city_id":36625,"language_key":"uz","name":"Dashtavan"}
+{"id":2820199,"city_id":36626,"language_key":"uz","name":"Nizami, Armaniston"}
+{"id":2820276,"city_id":36627,"language_key":"uz","name":"Ayntap, Armaniston"}
+{"id":2820353,"city_id":36628,"language_key":"uz","name":"Az Zanami"}
+{"id":2820430,"city_id":36629,"language_key":"uz","name":"Geghhovit"}
+{"id":2820507,"city_id":36630,"language_key":"uz","name":"Taronik"}
+{"id":2820584,"city_id":36631,"language_key":"uz","name":"Aratasen"}
+{"id":2820661,"city_id":36632,"language_key":"uz","name":"Aknashen"}
+{"id":2820738,"city_id":36633,"language_key":"uz","name":"Haykashen, Armaniston"}
+{"id":2820815,"city_id":36634,"language_key":"uz","name":"Hovtashat"}
+{"id":2820892,"city_id":36635,"language_key":"uz","name":"Sayat-Nova, Armaniston"}
+{"id":2820969,"city_id":36636,"language_key":"uz","name":"Voskehat"}
+{"id":2821046,"city_id":36637,"language_key":"uz","name":"Griboyedov, Armaniston"}
+{"id":2821123,"city_id":36638,"language_key":"uz","name":"Amberd"}
+{"id":2821200,"city_id":36639,"language_key":"uz","name":"Aygek"}
+{"id":2821277,"city_id":36640,"language_key":"uz","name":"Ferik, Armaniston"}
+{"id":2821354,"city_id":36641,"language_key":"uz","name":"Sip'anik"}
+{"id":2821431,"city_id":36642,"language_key":"uz","name":"Nor Yedesia"}
+{"id":2821508,"city_id":36643,"language_key":"uz","name":"Nor Amanos"}
+{"id":2821585,"city_id":36644,"language_key":"uz","name":"Nor Artamet"}
+{"id":2821662,"city_id":36645,"language_key":"uz","name":"T'airov"}
+{"id":2821739,"city_id":36646,"language_key":"uz","name":"Verin Ptgni"}
+{"id":2821816,"city_id":36647,"language_key":"uz","name":"Jrambar"}
+{"id":2821893,"city_id":36648,"language_key":"uz","name":"Hovtashen"}
+{"id":2821970,"city_id":36649,"language_key":"uz","name":"Dimitrov, Armaniston"}
+{"id":2822047,"city_id":36650,"language_key":"uz","name":"Arak'savan"}
+{"id":2822124,"city_id":36651,"language_key":"uz","name":"Mrgavet"}
+{"id":2822201,"city_id":36652,"language_key":"uz","name":"Arevabuyr"}
+{"id":2822278,"city_id":36653,"language_key":"uz","name":"Nor Kyurin"}
+{"id":2822355,"city_id":36654,"language_key":"uz","name":"Getapnya"}
+{"id":2822432,"city_id":36655,"language_key":"uz","name":"Deghdzut"}
+{"id":2822509,"city_id":36656,"language_key":"uz","name":"Lanjazat"}
+{"id":2822586,"city_id":36657,"language_key":"uz","name":"Lusakunk'"}
+{"id":2822663,"city_id":36658,"language_key":"uz","name":"Narek"}
+{"id":2822740,"city_id":36659,"language_key":"uz","name":"Vanand"}
+{"id":2822817,"city_id":36660,"language_key":"uz","name":"Karmir Aghek"}
+{"id":2822894,"city_id":36661,"language_key":"uz","name":"Noravan"}
+{"id":2822971,"city_id":36662,"language_key":"uz","name":"Khanjyan, Armaniston"}
+{"id":2823048,"city_id":36663,"language_key":"uz","name":"Nor Kesaria"}
+{"id":2823125,"city_id":36664,"language_key":"uz","name":"Karathah"}
+{"id":2823202,"city_id":36665,"language_key":"uz","name":"Nor Ughi"}
+{"id":2823279,"city_id":36666,"language_key":"uz","name":"Ginevet"}
+{"id":2823356,"city_id":36667,"language_key":"uz","name":"Arayi Hoghamaser"}
+{"id":2823664,"city_id":36671,"language_key":"uz","name":"Sadunts"}
+{"id":2823741,"city_id":36672,"language_key":"uz","name":"Deghdzavan"}
+{"id":2823818,"city_id":36673,"language_key":"uz","name":"Senik"}
+{"id":2823895,"city_id":36674,"language_key":"uz","name":"Argina"}
+{"id":2823972,"city_id":36675,"language_key":"uz","name":"Artamet"}
+{"id":2824049,"city_id":36676,"language_key":"uz","name":"Arevadasht"}
+{"id":2825050,"city_id":36689,"language_key":"uz","name":"Vahagnadzor"}
+{"id":2826667,"city_id":36710,"language_key":"uz","name":"Aygevan"}
+{"id":2826744,"city_id":36711,"language_key":"uz","name":"Arak's"}
+{"id":2826821,"city_id":36712,"language_key":"uz","name":"Kogbavan"}
+{"id":2826898,"city_id":36713,"language_key":"uz","name":"Talvorik"}
+{"id":2827514,"city_id":36721,"language_key":"uz","name":"Nairi"}
+{"id":2828361,"city_id":36732,"language_key":"uz","name":"Khnusik"}
+{"id":2828746,"city_id":36737,"language_key":"uz","name":"Dprevank"}
+{"id":2829593,"city_id":36748,"language_key":"uz","name":"Partizak"}
+{"id":2829978,"city_id":36753,"language_key":"uz","name":"Otevan"}
+{"id":2830286,"city_id":36757,"language_key":"uz","name":"Aniavan"}
+{"id":2830979,"city_id":36766,"language_key":"uz","name":"Hart'asen"}
+{"id":2832365,"city_id":36784,"language_key":"uz","name":"Lusakn"}
+{"id":2833520,"city_id":36799,"language_key":"uz","name":"Arevut"}
+{"id":2833674,"city_id":36801,"language_key":"uz","name":"Nor Artagers"}
+{"id":2833828,"city_id":36803,"language_key":"uz","name":"Norapat"}
+{"id":2834213,"city_id":36808,"language_key":"uz","name":"Jrarbi"}
+{"id":2834367,"city_id":36810,"language_key":"uz","name":"Paruyr Sevak, Armaniston"}
+{"id":2834983,"city_id":36818,"language_key":"uz","name":"Shoghakn"}
+{"id":2836061,"city_id":36832,"language_key":"uz","name":"Saragyug"}
+{"id":2836138,"city_id":36833,"language_key":"uz","name":"Byurakn"}
+{"id":2837139,"city_id":36846,"language_key":"uz","name":"Lernahovit"}
+{"id":2837832,"city_id":36855,"language_key":"uz","name":"K'arkop'"}
+{"id":2839757,"city_id":36880,"language_key":"uz","name":"Getargel"}
+{"id":2843607,"city_id":36930,"language_key":"uz","name":"Xatsikavan"}
+{"id":2843684,"city_id":36931,"language_key":"uz","name":"Jajuravan"}
+{"id":2844762,"city_id":36945,"language_key":"uz","name":"Nerkin Xndzoresk"}
+{"id":2844839,"city_id":36946,"language_key":"uz","name":"Acarkut"}
+{"id":2844916,"city_id":36947,"language_key":"uz","name":"Kayan"}
+{"id":2845994,"city_id":36961,"language_key":"uz","name":"Antarasen"}
+{"id":2846225,"city_id":36964,"language_key":"uz","name":"Syunik'"}
+{"id":2846302,"city_id":36965,"language_key":"uz","name":"Babikavan"}
+{"id":2846379,"city_id":36966,"language_key":"uz","name":"Dzoraget"}
+{"id":2846456,"city_id":36967,"language_key":"uz","name":"Armavir"}
+{"id":2846533,"city_id":36968,"language_key":"uz","name":"Mont'eavan"}
+{"id":2846610,"city_id":36969,"language_key":"uz","name":"Ughedzor"}

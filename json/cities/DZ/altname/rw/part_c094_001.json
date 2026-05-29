@@ -1,0 +1,991 @@
+{"id":110949356,"city_id":1440901,"language_key":"rw","name":"Boumerdas"}
+{"id":110949972,"city_id":1440909,"language_key":"rw","name":"Zoui"}
+{"id":110950203,"city_id":1440912,"language_key":"rw","name":"Zoubiria"}
+{"id":110950665,"city_id":1440918,"language_key":"rw","name":"Zitouna"}
+{"id":110950973,"city_id":1440922,"language_key":"rw","name":"Zighout Youcef"}
+{"id":110951050,"city_id":1440923,"language_key":"rw","name":"Ziama Mansouria"}
+{"id":110951281,"city_id":1440926,"language_key":"rw","name":"Zerouala"}
+{"id":110951358,"city_id":1440927,"language_key":"rw","name":"Zerizer"}
+{"id":110951435,"city_id":1440928,"language_key":"rw","name":"Zeribet el Oued"}
+{"id":110951666,"city_id":1440931,"language_key":"rw","name":"Zeralda"}
+{"id":110951820,"city_id":1440933,"language_key":"rw","name":"Had Sahary"}
+{"id":110952205,"city_id":1440938,"language_key":"rw","name":"Zemmouri"}
+{"id":110952282,"city_id":1440939,"language_key":"rw","name":"Zemoura"}
+{"id":110952436,"city_id":1440941,"language_key":"rw","name":"Zelfana"}
+{"id":110952590,"city_id":1440943,"language_key":"rw","name":"Zekri"}
+{"id":110952821,"city_id":1440946,"language_key":"rw","name":"Zeboudja"}
+{"id":110953283,"city_id":1440952,"language_key":"rw","name":"Zaouiet Kounta"}
+{"id":110953360,"city_id":1440953,"language_key":"rw","name":"Zaouiet ed Debarh"}
+{"id":110955054,"city_id":1440975,"language_key":"rw","name":"Zahana"}
+{"id":110955285,"city_id":1440978,"language_key":"rw","name":"Zaatra"}
+{"id":110955516,"city_id":1440981,"language_key":"rw","name":"Youb"}
+{"id":110955747,"city_id":1440984,"language_key":"rw","name":"Yakouren"}
+{"id":110956055,"city_id":1440988,"language_key":"rw","name":"larhat"}
+{"id":110956209,"city_id":1440990,"language_key":"rw","name":"Oued Chorfa"}
+{"id":110956825,"city_id":1440998,"language_key":"rw","name":"Verte Rive"}
+{"id":110956902,"city_id":1440999,"language_key":"rw","name":"Bir Safsaf"}
+{"id":110957056,"city_id":1441001,"language_key":"rw","name":"Tsabit"}
+{"id":110957210,"city_id":1441003,"language_key":"rw","name":"Trifaoui"}
+{"id":110957672,"city_id":1441009,"language_key":"rw","name":"Tousnina"}
+{"id":110957749,"city_id":1441010,"language_key":"rw","name":"Tousmouline"}
+{"id":110958442,"city_id":1441019,"language_key":"rw","name":"Touggourt"}
+{"id":110958673,"city_id":1441022,"language_key":"rw","name":"Touffana"}
+{"id":110958827,"city_id":1441024,"language_key":"rw","name":"Toudja"}
+{"id":110959520,"city_id":1441033,"language_key":"rw","name":"Tolga"}
+{"id":110959828,"city_id":1441037,"language_key":"rw","name":"Seghouane"}
+{"id":110959982,"city_id":1441039,"language_key":"rw","name":"Tleta"}
+{"id":110960136,"city_id":1441041,"language_key":"rw","name":"Tlemcen"}
+{"id":110960290,"city_id":1441043,"language_key":"rw","name":"T'Kout"}
+{"id":110961137,"city_id":1441054,"language_key":"rw","name":"Tizi Rached"}
+{"id":110961214,"city_id":1441055,"language_key":"rw","name":"Tizi Ouzou"}
+{"id":110961676,"city_id":1441061,"language_key":"rw","name":"Tizi-n-Tleta"}
+{"id":110961984,"city_id":1441065,"language_key":"rw","name":"Tizi-n-Bechar"}
+{"id":110962369,"city_id":1441070,"language_key":"rw","name":"Tizi Gheniff"}
+{"id":110962754,"city_id":1441075,"language_key":"rw","name":"Tizi"}
+{"id":110963062,"city_id":1441079,"language_key":"rw","name":"Tixter"}
+{"id":110963447,"city_id":1441084,"language_key":"rw","name":"Tit"}
+{"id":110963678,"city_id":1441087,"language_key":"rw","name":"Tissemsilt"}
+{"id":110964140,"city_id":1441093,"language_key":"rw","name":"Tirmitine"}
+{"id":110964987,"city_id":1441104,"language_key":"rw","name":"Tipasa"}
+{"id":110965064,"city_id":1441105,"language_key":"rw","name":"Tiout"}
+{"id":110965218,"city_id":1441107,"language_key":"rw","name":"Tilouline"}
+{"id":110965526,"city_id":1441111,"language_key":"rw","name":"Ti-n-Zaouatene"}
+{"id":110965988,"city_id":1441117,"language_key":"rw","name":"Tinebdar"}
+{"id":110966065,"city_id":1441118,"language_key":"rw","name":"Tindouf"}
+{"id":110966219,"city_id":1441120,"language_key":"rw","name":"Timokten"}
+{"id":110966527,"city_id":1441124,"language_key":"rw","name":"Timizart"}
+{"id":110966604,"city_id":1441125,"language_key":"rw","name":"Timimoun"}
+{"id":110966758,"city_id":1441127,"language_key":"rw","name":"Timgad"}
+{"id":110966835,"city_id":1441128,"language_key":"rw","name":"el hed"}
+{"id":110967451,"city_id":1441136,"language_key":"rw","name":"Tilatou"}
+{"id":110967759,"city_id":1441140,"language_key":"rw","name":"Tikobain"}
+{"id":110968144,"city_id":1441145,"language_key":"rw","name":"Tigzirt"}
+{"id":110968375,"city_id":1441148,"language_key":"rw","name":"Tiguedidine"}
+{"id":110968606,"city_id":1441151,"language_key":"rw","name":"Tighenif"}
+{"id":110968991,"city_id":1441156,"language_key":"rw","name":"Tifrit"}
+{"id":110969145,"city_id":1441158,"language_key":"rw","name":"Tifra"}
+{"id":110969838,"city_id":1441167,"language_key":"rw","name":"Tidmaine"}
+{"id":110969992,"city_id":1441169,"language_key":"rw","name":"Tidjelabine"}
+{"id":110970531,"city_id":1441176,"language_key":"rw","name":"Tiberguent"}
+{"id":110970762,"city_id":1441179,"language_key":"rw","name":"Tibane"}
+{"id":110970839,"city_id":1441180,"language_key":"rw","name":"Tiaret"}
+{"id":110971224,"city_id":1441185,"language_key":"rw","name":"Theniet el Had"}
+{"id":110971301,"city_id":1441186,"language_key":"rw","name":"Thenia"}
+{"id":110971532,"city_id":1441189,"language_key":"rw","name":"Texenna"}
+{"id":110971609,"city_id":1441190,"language_key":"rw","name":"Tessala"}
+{"id":110972148,"city_id":1441197,"language_key":"rw","name":"Terga"}
+{"id":110972379,"city_id":1441200,"language_key":"rw","name":"Tenira"}
+{"id":110972456,"city_id":1441201,"language_key":"rw","name":"Teniet en Nasr"}
+{"id":110972533,"city_id":1441202,"language_key":"rw","name":"Teniet el Abed"}
+{"id":110972687,"city_id":1441204,"language_key":"rw","name":"Tenes"}
+{"id":110973149,"city_id":1441210,"language_key":"rw","name":"Temacine"}
+{"id":110973457,"city_id":1441214,"language_key":"rw","name":"Telerghma"}
+{"id":110973534,"city_id":1441215,"language_key":"rw","name":"tlagh"}
+{"id":110973765,"city_id":1441218,"language_key":"rw","name":"Teghalimet"}
+{"id":110974612,"city_id":1441229,"language_key":"rw","name":"Tebessa"}
+{"id":110974689,"city_id":1441230,"language_key":"rw","name":"Tebesbest"}
+{"id":110974843,"city_id":1441232,"language_key":"rw","name":"Tazrouts"}
+{"id":110975151,"city_id":1441236,"language_key":"rw","name":"Tazrouk"}
+{"id":110975228,"city_id":1441237,"language_key":"rw","name":"Tazoult-Lambese"}
+{"id":110975305,"city_id":1441238,"language_key":"rw","name":"Tazoult"}
+{"id":110975459,"city_id":1441240,"language_key":"rw","name":"Tamsahelt"}
+{"id":110975536,"city_id":1441241,"language_key":"rw","name":"Tamsahelt"}
+{"id":110976614,"city_id":1441255,"language_key":"rw","name":"Taya"}
+{"id":110976691,"city_id":1441256,"language_key":"rw","name":"takslant"}
+{"id":110976999,"city_id":1441260,"language_key":"rw","name":"Tassamert"}
+{"id":110977307,"city_id":1441264,"language_key":"rw","name":null}
+{"id":110978000,"city_id":1441273,"language_key":"rw","name":"Tarmount"}
+{"id":110978154,"city_id":1441275,"language_key":"rw","name":"Tarik Ibn Ziad"}
+{"id":110978462,"city_id":1441279,"language_key":"rw","name":"Tarhit Ouled Hellal"}
+{"id":110980079,"city_id":1441300,"language_key":"rw","name":"Taourirt Mimoun"}
+{"id":110980310,"city_id":1441303,"language_key":"rw","name":"Taurirt Ighil"}
+{"id":110981465,"city_id":1441318,"language_key":"rw","name":"Taourga"}
+{"id":110981542,"city_id":1441319,"language_key":"rw","name":"Taourga"}
+{"id":110981619,"city_id":1441320,"language_key":"rw","name":"Taoura"}
+{"id":110981773,"city_id":1441322,"language_key":"rw","name":"Taougrite"}
+{"id":110982081,"city_id":1441326,"language_key":"rw","name":"Tamzoura"}
+{"id":110982235,"city_id":1441328,"language_key":"rw","name":"Tamza"}
+{"id":110982312,"city_id":1441329,"language_key":"rw","name":"tamtrt"}
+{"id":110982466,"city_id":1441331,"language_key":"rw","name":"Tamokra"}
+{"id":110982620,"city_id":1441333,"language_key":"rw","name":"Tamlouka"}
+{"id":110982928,"city_id":1441337,"language_key":"rw","name":"tamst"}
+{"id":110983005,"city_id":1441338,"language_key":"rw","name":"Tamesguida"}
+{"id":110983082,"city_id":1441339,"language_key":"rw","name":"Tamesguida"}
+{"id":110983390,"city_id":1441343,"language_key":"rw","name":"Tamentit"}
+{"id":110983467,"city_id":1441344,"language_key":"rw","name":"Tamentfoust"}
+{"id":110983852,"city_id":1441349,"language_key":"rw","name":"Tamda"}
+{"id":110984083,"city_id":1441352,"language_key":"rw","name":"Tamazirt"}
+{"id":110984391,"city_id":1441356,"language_key":"rw","name":"Tamanghasset"}
+{"id":110984545,"city_id":1441358,"language_key":"rw","name":"Tamalous"}
+{"id":110987086,"city_id":1441391,"language_key":"rw","name":"Takhemaret"}
+{"id":110987240,"city_id":1441393,"language_key":"rw","name":"Takerbouzt"}
+{"id":110988010,"city_id":1441403,"language_key":"rw","name":"Taibet"}
+{"id":110988318,"city_id":1441407,"language_key":"rw","name":"Taher"}
+{"id":110990551,"city_id":1441436,"language_key":"rw","name":"Takhemaret"}
+{"id":110990628,"city_id":1441437,"language_key":"rw","name":"Tagoust"}
+{"id":110991475,"city_id":1441448,"language_key":"rw","name":"Taghit"}
+{"id":110991860,"city_id":1441453,"language_key":"rw","name":"Tafraout"}
+{"id":110992938,"city_id":1441467,"language_key":"rw","name":"Tadmit"}
+{"id":110993015,"city_id":1441468,"language_key":"rw","name":"Tadmait"}
+{"id":110993477,"city_id":1441474,"language_key":"rw","name":"Tadjenanet"}
+{"id":110993554,"city_id":1441475,"language_key":"rw","name":"Tadjena"}
+{"id":110994863,"city_id":1441492,"language_key":"rw","name":"tablat"}
+{"id":110995017,"city_id":1441494,"language_key":"rw","name":"Tabia"}
+{"id":110995248,"city_id":1441497,"language_key":"rw","name":"Taberkant"}
+{"id":110995556,"city_id":1441501,"language_key":"rw","name":"Tabelbala"}
+{"id":110996403,"city_id":1441512,"language_key":"rw","name":"Stidia"}
+{"id":110996480,"city_id":1441513,"language_key":"rw","name":"Staoueli"}
+{"id":110996711,"city_id":1441516,"language_key":"rw","name":"Sour el Ghozlane"}
+{"id":110996865,"city_id":1441518,"language_key":"rw","name":"Sour"}
+{"id":110996942,"city_id":1441519,"language_key":"rw","name":"Souma"}
+{"id":110997173,"city_id":1441522,"language_key":"rw","name":"Souk el Khemis"}
+{"id":110997250,"city_id":1441523,"language_key":"rw","name":"Souk el Had"}
+{"id":110997404,"city_id":1441525,"language_key":"rw","name":"Lardjem"}
+{"id":110997558,"city_id":1441527,"language_key":"rw","name":"Sidi Abderrahmane"}
+{"id":110997866,"city_id":1441531,"language_key":"rw","name":"Souk Ahras"}
+{"id":110998097,"city_id":1441534,"language_key":"rw","name":"Souidania"}
+{"id":110998251,"city_id":1441536,"language_key":"rw","name":"Sougueur"}
+{"id":110998867,"city_id":1441544,"language_key":"rw","name":"Souahlia"}
+{"id":110998944,"city_id":1441545,"language_key":"rw","name":"Souagui"}
+{"id":110999714,"city_id":1441555,"language_key":"rw","name":"Slim"}
+{"id":110999945,"city_id":1441558,"language_key":"rw","name":"Skikda"}
+{"id":111000176,"city_id":1441561,"language_key":"rw","name":"Sirat"}
+{"id":111000407,"city_id":1441564,"language_key":"rw","name":"Si Mustapha"}
+{"id":111000869,"city_id":1441570,"language_key":"rw","name":"Sigus"}
+{"id":111000946,"city_id":1441571,"language_key":"rw","name":"Sig"}
+{"id":111001562,"city_id":1441579,"language_key":"rw","name":"Sidi Tifour"}
+{"id":111001716,"city_id":1441581,"language_key":"rw","name":"Sidi Slimane"}
+{"id":111002024,"city_id":1441585,"language_key":"rw","name":"Sidi Salah"}
+{"id":111002178,"city_id":1441587,"language_key":"rw","name":"Sidi Safi"}
+{"id":111002409,"city_id":1441590,"language_key":"rw","name":"Sidi Rached"}
+{"id":111002563,"city_id":1441592,"language_key":"rw","name":"Sidi Okba"}
+{"id":111002717,"city_id":1441594,"language_key":"rw","name":"Sidi Namane"}
+{"id":111002871,"city_id":1441596,"language_key":"rw","name":"Sidi Moussa"}
+{"id":111003410,"city_id":1441603,"language_key":"rw","name":"Sidi M'Hamed Ben Ali"}
+{"id":111003487,"city_id":1441604,"language_key":"rw","name":"Sidi Mezghiche"}
+{"id":111003641,"city_id":1441606,"language_key":"rw","name":"Sidi Merouane"}
+{"id":111003718,"city_id":1441607,"language_key":"rw","name":"Sidi Medjahed"}
+{"id":111003872,"city_id":1441609,"language_key":"rw","name":"Sidi Makhlouf"}
+{"id":111004180,"city_id":1441613,"language_key":"rw","name":"Sidi Lakhdar"}
+{"id":111004411,"city_id":1441616,"language_key":"rw","name":"Sidi Ladjel"}
+{"id":111004873,"city_id":1441622,"language_key":"rw","name":"Sidi Khalifa"}
+{"id":111004950,"city_id":1441623,"language_key":"rw","name":"Sidi Khaled"}
+{"id":111005027,"city_id":1441624,"language_key":"rw","name":"Sidi Khaled"}
+{"id":111005258,"city_id":1441627,"language_key":"rw","name":"Sidi Kada"}
+{"id":111005335,"city_id":1441628,"language_key":"rw","name":"Sidi Hosni"}
+{"id":111005489,"city_id":1441630,"language_key":"rw","name":"Sidi Hamadouche"}
+{"id":111005797,"city_id":1441634,"language_key":"rw","name":"Sidi Ghiles"}
+{"id":111005951,"city_id":1441636,"language_key":"rw","name":"Sidi Embarek"}
+{"id":111006490,"city_id":1441643,"language_key":"rw","name":"Sidi Lamine"}
+{"id":111006644,"city_id":1441645,"language_key":"rw","name":"Sidi ech Chahmi"}
+{"id":111006952,"city_id":1441649,"language_key":"rw","name":"Sidi Daoud"}
+{"id":111007183,"city_id":1441652,"language_key":"rw","name":"Sidi Brahim"}
+{"id":111007337,"city_id":1441654,"language_key":"rw","name":"Sidi Brahim"}
+{"id":111007876,"city_id":1441661,"language_key":"rw","name":"Sidi Bouabida"}
+{"id":111007953,"city_id":1441662,"language_key":"rw","name":"Sidi Benyebka"}
+{"id":111008415,"city_id":1441668,"language_key":"rw","name":"Sidi Ben Adda"}
+{"id":111008723,"city_id":1441672,"language_key":"rw","name":"Sidi Bel Abbes"}
+{"id":111008877,"city_id":1441674,"language_key":"rw","name":"Sidi Bakhti"}
+{"id":111009108,"city_id":1441677,"language_key":"rw","name":"Sidi Aoun"}
+{"id":111009185,"city_id":1441678,"language_key":"rw","name":"Sidi Amrane"}
+{"id":111009416,"city_id":1441681,"language_key":"rw","name":"Sidi Ameur"}
+{"id":111009647,"city_id":1441684,"language_key":"rw","name":"Sidi Amar"}
+{"id":111009878,"city_id":1441687,"language_key":"rw","name":"Sidi Ali Boussidi"}
+{"id":111010032,"city_id":1441689,"language_key":"rw","name":"Sidi Ali Ben Yahia"}
+{"id":111010109,"city_id":1441690,"language_key":"rw","name":"Sidi Ali"}
+{"id":111010186,"city_id":1441691,"language_key":"rw","name":"Sidi Ali"}
+{"id":111010263,"city_id":1441692,"language_key":"rw","name":"Sidi Akkacha"}
+{"id":111010494,"city_id":1441695,"language_key":"rw","name":"Sidi Aissa"}
+{"id":111010725,"city_id":1441698,"language_key":"rw","name":"Sidi Aich"}
+{"id":111010956,"city_id":1441701,"language_key":"rw","name":"Sidi Abdelli"}
+{"id":111011033,"city_id":1441702,"language_key":"rw","name":"Sidi Abdelaziz"}
+{"id":111011572,"city_id":1441709,"language_key":"rw","name":"Sfizef"}
+{"id":111011649,"city_id":1441710,"language_key":"rw","name":"Sfissifa"}
+{"id":111011880,"city_id":1441713,"language_key":"rw","name":"Settara"}
+{"id":111011957,"city_id":1441714,"language_key":"rw","name":"Setif"}
+{"id":111012188,"city_id":1441717,"language_key":"rw","name":"Seriana"}
+{"id":111012419,"city_id":1441720,"language_key":"rw","name":"Seraidi"}
+{"id":111012650,"city_id":1441723,"language_key":"rw","name":"Sendjas"}
+{"id":111012881,"city_id":1441726,"language_key":"rw","name":"Semaoun"}
+{"id":111013035,"city_id":1441728,"language_key":"rw","name":"Selmana"}
+{"id":111013420,"city_id":1441733,"language_key":"rw","name":"Seggana"}
+{"id":111013574,"city_id":1441735,"language_key":"rw","name":"Sedrata"}
+{"id":111013959,"city_id":1441740,"language_key":"rw","name":"Seddouk"}
+{"id":111014036,"city_id":1441741,"language_key":"rw","name":"Aziz"}
+{"id":111014190,"city_id":1441743,"language_key":"rw","name":"Sebdou"}
+{"id":111014806,"city_id":1441751,"language_key":"rw","name":"Sbaa"}
+{"id":111014883,"city_id":1441752,"language_key":"rw","name":"Sayada"}
+{"id":111015037,"city_id":1441754,"language_key":"rw","name":"Saoula"}
+{"id":111015114,"city_id":1441755,"language_key":"rw","name":"Saneg"}
+{"id":111015345,"city_id":1441758,"language_key":"rw","name":"Sali"}
+{"id":111015499,"city_id":1441760,"language_key":"rw","name":"Salah Bouchaour"}
+{"id":111015576,"city_id":1441761,"language_key":"rw","name":"Salah Bey"}
+{"id":111016654,"city_id":1441775,"language_key":"rw","name":"Saida"}
+{"id":111016808,"city_id":1441777,"language_key":"rw","name":"Sahouria"}
+{"id":111017347,"city_id":1441784,"language_key":"rw","name":"Sabra"}
+{"id":111018117,"city_id":1441794,"language_key":"rw","name":"Rouissat"}
+{"id":111018194,"city_id":1441795,"language_key":"rw","name":"Rouina"}
+{"id":111018271,"city_id":1441796,"language_key":"rw","name":"Rouiba"}
+{"id":111018579,"city_id":1441800,"language_key":"rw","name":"Rouached"}
+{"id":111018810,"city_id":1441803,"language_key":"rw","name":"Roseville"}
+{"id":111018887,"city_id":1441804,"language_key":"rw","name":"Roknia"}
+{"id":111018964,"city_id":1441805,"language_key":"rw","name":"Robbah"}
+{"id":111021659,"city_id":1441840,"language_key":"rw","name":"Remchi"}
+{"id":111021736,"city_id":1441841,"language_key":"rw","name":"Relizane"}
+{"id":111022044,"city_id":1441845,"language_key":"rw","name":"Reguiba"}
+{"id":111022198,"city_id":1441847,"language_key":"rw","name":"Reghaia"}
+{"id":111022352,"city_id":1441849,"language_key":"rw","name":"Reggane"}
+{"id":111022506,"city_id":1441851,"language_key":"rw","name":"Redjas"}
+{"id":111022583,"city_id":1441852,"language_key":"rw","name":"Rechaiga"}
+{"id":111022737,"city_id":1441854,"language_key":"rw","name":"Rebaia"}
+{"id":111023122,"city_id":1441859,"language_key":"rw","name":"Ras el Oued"}
+{"id":111023199,"city_id":1441860,"language_key":"rw","name":"Ras el Ma"}
+{"id":111023353,"city_id":1441862,"language_key":"rw","name":"Ras el Ma"}
+{"id":111023584,"city_id":1441865,"language_key":"rw","name":"Ras el Aioun"}
+{"id":111023969,"city_id":1441870,"language_key":"rw","name":"Ramka"}
+{"id":111024200,"city_id":1441873,"language_key":"rw","name":"Rahouia"}
+{"id":111024431,"city_id":1441876,"language_key":"rw","name":"Rahia"}
+{"id":111024662,"city_id":1441879,"language_key":"rw","name":"Rabta"}
+{"id":111025201,"city_id":1441886,"language_key":"rw","name":"Rais Hamidou"}
+{"id":111025894,"city_id":1441895,"language_key":"rw","name":"Ain Zaouia"}
+{"id":111026356,"city_id":1441901,"language_key":"rw","name":"Ouzera"}
+{"id":111026741,"city_id":1441906,"language_key":"rw","name":"Ourlal"}
+{"id":111027896,"city_id":1441921,"language_key":"rw","name":"Oum Drou"}
+{"id":111028435,"city_id":1441928,"language_key":"rw","name":"Oum el Bouaghi"}
+{"id":111028743,"city_id":1441932,"language_key":"rw","name":"Oum Ali"}
+{"id":111028820,"city_id":1441933,"language_key":"rw","name":"Oumache"}
+{"id":111029359,"city_id":1441940,"language_key":"rw","name":"Ain Bouyahia"}
+{"id":111029590,"city_id":1441943,"language_key":"rw","name":"Ouled Slimane"}
+{"id":111029744,"city_id":1441945,"language_key":"rw","name":"Ouled Slama Fouaga"}
+{"id":111031053,"city_id":1441962,"language_key":"rw","name":"Ouled Salem"}
+{"id":111031438,"city_id":1441967,"language_key":"rw","name":"Ouled Said"}
+{"id":111031900,"city_id":1441973,"language_key":"rw","name":"Ouled Rahmoun"}
+{"id":111031977,"city_id":1441974,"language_key":"rw","name":"Ouled Rached"}
+{"id":111032054,"city_id":1441975,"language_key":"rw","name":"Ouled Rabah"}
+{"id":111032439,"city_id":1441980,"language_key":"rw","name":"Ouled Moussa"}
+{"id":111032901,"city_id":1441986,"language_key":"rw","name":"Ouled Mimoun"}
+{"id":111033979,"city_id":1442000,"language_key":"rw","name":"Ouled Koulla"}
+{"id":111034133,"city_id":1442002,"language_key":"rw","name":"Ouled Khaled"}
+{"id":111034672,"city_id":1442009,"language_key":"rw","name":"Ouled Hamla"}
+{"id":111034903,"city_id":1442012,"language_key":"rw","name":"Ouled Haddaj"}
+{"id":111035057,"city_id":1442014,"language_key":"rw","name":"Ouled Fayet"}
+{"id":111035134,"city_id":1442015,"language_key":"rw","name":null}
+{"id":111035981,"city_id":1442026,"language_key":"rw","name":"Ouled Djillali"}
+{"id":111036058,"city_id":1442027,"language_key":"rw","name":"Ouled Djellal"}
+{"id":111036135,"city_id":1442028,"language_key":"rw","name":"Selmane"}
+{"id":111036520,"city_id":1442033,"language_key":"rw","name":"Ouled Chebel"}
+{"id":111036828,"city_id":1442037,"language_key":"rw","name":"Ouled Brahim"}
+{"id":111036982,"city_id":1442039,"language_key":"rw","name":"Ouled Brahim"}
+{"id":111037675,"city_id":1442048,"language_key":"rw","name":"Ouled Bessem"}
+{"id":111039600,"city_id":1442073,"language_key":"rw","name":"Ouled Aiche"}
+{"id":111039677,"city_id":1442074,"language_key":"rw","name":"Ouled Attia"}
+{"id":111039908,"city_id":1442077,"language_key":"rw","name":"Ouled Amara"}
+{"id":111040293,"city_id":1442082,"language_key":"rw","name":"Ouled Allal"}
+{"id":111040678,"city_id":1442087,"language_key":"rw","name":"Ouled Ali"}
+{"id":111040909,"city_id":1442090,"language_key":"rw","name":"Ouled Aissa"}
+{"id":111041987,"city_id":1442104,"language_key":"rw","name":"Ouled Abbes"}
+{"id":111046145,"city_id":1442158,"language_key":"rw","name":"Oulad Said"}
+{"id":111046299,"city_id":1442160,"language_key":"rw","name":"Oulad Rhenam"}
+{"id":111052690,"city_id":1442243,"language_key":"rw","name":"Ouled Sidi Brahim"}
+{"id":111052921,"city_id":1442246,"language_key":"rw","name":"Oulad Bou Renane"}
+{"id":111053306,"city_id":1442251,"language_key":"rw","name":"Oulad Bou en Nouar"}
+{"id":111054461,"city_id":1442266,"language_key":"rw","name":"Oulad Ben Ali"}
+{"id":111057541,"city_id":1442306,"language_key":"rw","name":"Oulad Aissa"}
+{"id":111057849,"city_id":1442310,"language_key":"rw","name":"Oulad Aissa"}
+{"id":111058773,"city_id":1442322,"language_key":"rw","name":"Oulach"}
+{"id":111059235,"city_id":1442328,"language_key":"rw","name":"Ougrina"}
+{"id":111059466,"city_id":1442331,"language_key":"rw","name":"Ouenza"}
+{"id":111059620,"city_id":1442333,"language_key":"rw","name":"Oued Zenati"}
+{"id":111059774,"city_id":1442335,"language_key":"rw","name":"Oued Touati"}
+{"id":111059928,"city_id":1442337,"language_key":"rw","name":"Oued Tlelat"}
+{"id":111060005,"city_id":1442338,"language_key":"rw","name":"Oued Taria"}
+{"id":111060082,"city_id":1442339,"language_key":"rw","name":"Oued Taga"}
+{"id":111060159,"city_id":1442340,"language_key":"rw","name":"Oued Smar"}
+{"id":111060236,"city_id":1442341,"language_key":"rw","name":"Oued Sly"}
+{"id":111060544,"city_id":1442345,"language_key":"rw","name":"Oued Rhiou"}
+{"id":111060621,"city_id":1442346,"language_key":"rw","name":"Oued Morra"}
+{"id":111060852,"city_id":1442349,"language_key":"rw","name":"Oued Ksob"}
+{"id":111060929,"city_id":1442350,"language_key":"rw","name":"Oued Ghir"}
+{"id":111061083,"city_id":1442352,"language_key":"rw","name":"Oued Fodda"}
+{"id":111061160,"city_id":1442353,"language_key":"rw","name":"Oued Essalem"}
+{"id":111061237,"city_id":1442354,"language_key":"rw","name":"Oued el Ma"}
+{"id":111061314,"city_id":1442355,"language_key":"rw","name":"Oued el Kheir"}
+{"id":111061468,"city_id":1442357,"language_key":"rw","name":"Oued el Djemaa"}
+{"id":111061545,"city_id":1442358,"language_key":"rw","name":"Oued el Aneb"}
+{"id":111061622,"city_id":1442359,"language_key":"rw","name":"Oued el Alleug"}
+{"id":111061776,"city_id":1442361,"language_key":"rw","name":"Oued el Abtal"}
+{"id":111062007,"city_id":1442364,"language_key":"rw","name":"Oued Cheham"}
+{"id":111062084,"city_id":1442365,"language_key":"rw","name":"Oued Berkeche"}
+{"id":111062161,"city_id":1442366,"language_key":"rw","name":"Oued Bel Kassem"}
+{"id":111063085,"city_id":1442378,"language_key":"rw","name":"Ouarizane"}
+{"id":111063162,"city_id":1442379,"language_key":"rw","name":"Ouargla"}
+{"id":111063316,"city_id":1442381,"language_key":"rw","name":"Ouamri"}
+{"id":111063778,"city_id":1442387,"language_key":"rw","name":"Ouadhiya"}
+{"id":111064009,"city_id":1442390,"language_key":"rw","name":"Oran"}
+{"id":111064240,"city_id":1442393,"language_key":"rw","name":"Oggaz"}
+{"id":111064779,"city_id":1442400,"language_key":"rw","name":"N'Goussa"}
+{"id":111064856,"city_id":1442401,"language_key":"rw","name":"N'Gaous"}
+{"id":111065318,"city_id":1442407,"language_key":"rw","name":"Negrine"}
+{"id":111065395,"city_id":1442408,"language_key":"rw","name":"Nedroma"}
+{"id":111065934,"city_id":1442415,"language_key":"rw","name":"Nakhla"}
+{"id":111066396,"city_id":1442421,"language_key":"rw","name":"Nador"}
+{"id":111066550,"city_id":1442423,"language_key":"rw","name":"Naciria"}
+{"id":111066627,"city_id":1442424,"language_key":"rw","name":"Djouab"}
+{"id":111066704,"city_id":1442425,"language_key":"rw","name":"Naama"}
+{"id":111067474,"city_id":1442435,"language_key":"rw","name":"M'Toussa"}
+{"id":111067628,"city_id":1442437,"language_key":"rw","name":"M'Sila"}
+{"id":111068475,"city_id":1442448,"language_key":"rw","name":"Mouzaia"}
+{"id":111069014,"city_id":1442455,"language_key":"rw","name":"Moulay Slissen"}
+{"id":111069091,"city_id":1442456,"language_key":"rw","name":"Moulay Larbi"}
+{"id":111069784,"city_id":1442465,"language_key":"rw","name":"Mostaganem"}
+{"id":111069938,"city_id":1442467,"language_key":"rw","name":"Morsott"}
+{"id":111070785,"city_id":1442478,"language_key":"rw","name":"Mohammadia"}
+{"id":111070862,"city_id":1442479,"language_key":"rw","name":"mghrar"}
+{"id":111071016,"city_id":1442481,"language_key":"rw","name":"Mocta Douz"}
+{"id":111071247,"city_id":1442484,"language_key":"rw","name":"M'Lili"}
+{"id":111071786,"city_id":1442491,"language_key":"rw","name":"Misserghin"}
+{"id":111072017,"city_id":1442494,"language_key":"rw","name":"Miliana"}
+{"id":111072094,"city_id":1442495,"language_key":"rw","name":"Mila"}
+{"id":111072633,"city_id":1442502,"language_key":"rw","name":"Mezloug"}
+{"id":111072864,"city_id":1442505,"language_key":"rw","name":"Mezaourou"}
+{"id":111073095,"city_id":1442508,"language_key":"rw","name":"Metlili Chaamba"}
+{"id":111073172,"city_id":1442509,"language_key":"rw","name":"Metlili"}
+{"id":111073249,"city_id":1442510,"language_key":"rw","name":"Metkaouak"}
+{"id":111073326,"city_id":1442511,"language_key":"rw","name":"Metarfa"}
+{"id":111074019,"city_id":1442520,"language_key":"rw","name":"Messelmoun"}
+{"id":111074250,"city_id":1442523,"language_key":"rw","name":"Messaad"}
+{"id":111074404,"city_id":1442525,"language_key":"rw","name":"Mesra"}
+{"id":111074558,"city_id":1442527,"language_key":"rw","name":"Meskiana"}
+{"id":111074866,"city_id":1442531,"language_key":"rw","name":"Mers el Kebir"}
+{"id":111075328,"city_id":1442537,"language_key":"rw","name":"Merouana"}
+{"id":111075482,"city_id":1442539,"language_key":"rw","name":"Merine"}
+{"id":111075559,"city_id":1442540,"language_key":"rw","name":"Meridja"}
+{"id":111076098,"city_id":1442547,"language_key":"rw","name":"Merad"}
+{"id":111076175,"city_id":1442548,"language_key":"rw","name":"Menzel el Abtal"}
+{"id":111076329,"city_id":1442550,"language_key":"rw","name":"Mendes"}
+{"id":111076637,"city_id":1442554,"language_key":"rw","name":"Menaceur"}
+{"id":111076714,"city_id":1442555,"language_key":"rw","name":"Menaa"}
+{"id":111076791,"city_id":1442556,"language_key":"rw","name":"Melouza"}
+{"id":111077022,"city_id":1442559,"language_key":"rw","name":"Mellala"}
+{"id":111077099,"city_id":1442560,"language_key":"rw","name":"Mellakou"}
+{"id":111077484,"city_id":1442565,"language_key":"rw","name":"Melaab"}
+{"id":111077638,"city_id":1442567,"language_key":"rw","name":"Mekla"}
+{"id":111078100,"city_id":1442573,"language_key":"rw","name":"Mekhadma"}
+{"id":111078485,"city_id":1442578,"language_key":"rw","name":"Mehdia daira de meghila"}
+{"id":111078716,"city_id":1442581,"language_key":"rw","name":"Megarine"}
+{"id":111078793,"city_id":1442582,"language_key":"rw","name":"mftah"}
+{"id":111078870,"city_id":1442583,"language_key":"rw","name":"Medroussa"}
+{"id":111078947,"city_id":1442584,"language_key":"rw","name":"Medrissa"}
+{"id":111079101,"city_id":1442586,"language_key":"rw","name":"Medjez Sfa"}
+{"id":111079255,"city_id":1442588,"language_key":"rw","name":"Medjedel"}
+{"id":111079332,"city_id":1442589,"language_key":"rw","name":"Medjana"}
+{"id":111079409,"city_id":1442590,"language_key":"rw","name":"Mediouna"}
+{"id":111079486,"city_id":1442591,"language_key":"rw","name":"Mediouna"}
+{"id":111079563,"city_id":1442592,"language_key":"rw","name":"Medina"}
+{"id":111079640,"city_id":1442593,"language_key":"rw","name":"Medea"}
+{"id":111079717,"city_id":1442594,"language_key":"rw","name":"Mechtras"}
+{"id":111106898,"city_id":1442947,"language_key":"rw","name":"Draa Klalouche"}
+{"id":111139238,"city_id":1443367,"language_key":"rw","name":"Mechtat Barbaiga"}
+{"id":111139931,"city_id":1443376,"language_key":"rw","name":"Mechta Asnina"}
+{"id":111140008,"city_id":1443377,"language_key":"rw","name":"Mechta Arras"}
+{"id":111144166,"city_id":1443431,"language_key":"rw","name":"Mechroha"}
+{"id":111144628,"city_id":1443437,"language_key":"rw","name":"Mecheria"}
+{"id":111145013,"city_id":1443442,"language_key":"rw","name":"M'Daourouch"}
+{"id":111145090,"city_id":1443443,"language_key":"rw","name":"M'Cil"}
+{"id":111145167,"city_id":1443444,"language_key":"rw","name":"M'Chouneche"}
+{"id":111145321,"city_id":1443446,"language_key":"rw","name":"M'Chedallah"}
+{"id":111145706,"city_id":1443451,"language_key":"rw","name":"Mazouna"}
+{"id":111145937,"city_id":1443454,"language_key":"rw","name":"Mazagran"}
+{"id":111146245,"city_id":1443458,"language_key":"rw","name":"Matmata"}
+{"id":111146322,"city_id":1443459,"language_key":"rw","name":"Matemore"}
+{"id":111146553,"city_id":1443462,"language_key":"rw","name":"Mascara"}
+{"id":111146861,"city_id":1443466,"language_key":"rw","name":"Marhoum"}
+{"id":111147169,"city_id":1443470,"language_key":"rw","name":"Maoussa"}
+{"id":111147477,"city_id":1443474,"language_key":"rw","name":"Mansourah"}
+{"id":111147554,"city_id":1443475,"language_key":"rw","name":"Mansoura"}
+{"id":111148247,"city_id":1443484,"language_key":"rw","name":"Makouda"}
+{"id":111149094,"city_id":1443495,"language_key":"rw","name":"Mahelma"}
+{"id":111149556,"city_id":1443501,"language_key":"rw","name":"Magra"}
+{"id":111149633,"city_id":1443502,"language_key":"rw","name":"Magra"}
+{"id":111149941,"city_id":1443506,"language_key":"rw","name":"Maghnia"}
+{"id":111150634,"city_id":1443515,"language_key":"rw","name":"Maafa"}
+{"id":111151404,"city_id":1443525,"language_key":"rw","name":"Lioua"}
+{"id":111151558,"city_id":1443527,"language_key":"rw","name":"Lichana"}
+{"id":111151712,"city_id":1443529,"language_key":"rw","name":"Yellel"}
+{"id":111152405,"city_id":1443538,"language_key":"rw","name":"Les Issers"}
+{"id":111152559,"city_id":1443540,"language_key":"rw","name":"Heumis"}
+{"id":111152713,"city_id":1443542,"language_key":"rw","name":"El Azizia"}
+{"id":111155177,"city_id":1443574,"language_key":"rw","name":"L'Arbaa Nait Irathen"}
+{"id":111155254,"city_id":1443575,"language_key":"rw","name":"larbaʿ"}
+{"id":111155485,"city_id":1443578,"language_key":"rw","name":"lmtar"}
+{"id":111156178,"city_id":1443587,"language_key":"rw","name":"Lakhdaria"}
+{"id":111156409,"city_id":1443590,"language_key":"rw","name":"Lahlef"}
+{"id":111156563,"city_id":1443592,"language_key":"rw","name":"Laghouat"}
+{"id":111156794,"city_id":1443595,"language_key":"rw","name":"Laayoune"}
+{"id":111157025,"city_id":1443598,"language_key":"rw","name":"Ksour"}
+{"id":111157564,"city_id":1443605,"language_key":"rw","name":"Ksar Sbahi"}
+{"id":111157949,"city_id":1443610,"language_key":"rw","name":"Ksar el Hirane"}
+{"id":111158103,"city_id":1443612,"language_key":"rw","name":"Ksar el Boukhari"}
+{"id":111158334,"city_id":1443615,"language_key":"rw","name":"Ksar Chellala"}
+{"id":111158719,"city_id":1443620,"language_key":"rw","name":"Kristel"}
+{"id":111159181,"city_id":1443626,"language_key":"rw","name":"Kouinine"}
+{"id":111159720,"city_id":1443633,"language_key":"rw","name":"Kolea"}
+{"id":111160028,"city_id":1443637,"language_key":"rw","name":"Khraicia"}
+{"id":111160182,"city_id":1443639,"language_key":"rw","name":"Kherrata"}
+{"id":111160490,"city_id":1443643,"language_key":"rw","name":"El Amra"}
+{"id":111160721,"city_id":1443646,"language_key":"rw","name":"Khenchela"}
+{"id":111160952,"city_id":1443649,"language_key":"rw","name":"Khemisti"}
+{"id":111161029,"city_id":1443650,"language_key":"rw","name":"Khemis Miliana"}
+{"id":111161106,"city_id":1443651,"language_key":"rw","name":"Khemis el Khechna"}
+{"id":111161414,"city_id":1443655,"language_key":"rw","name":"Khelil"}
+{"id":111161491,"city_id":1443656,"language_key":"rw","name":"Khelil"}
+{"id":111162184,"city_id":1443665,"language_key":"rw","name":"Khalouia"}
+{"id":111162338,"city_id":1443667,"language_key":"rw","name":"Al Fallah"}
+{"id":111162492,"city_id":1443669,"language_key":"rw","name":"Khadra"}
+{"id":111162646,"city_id":1443671,"language_key":"rw","name":"krzaz"}
+{"id":111162877,"city_id":1443674,"language_key":"rw","name":"Kerkera"}
+{"id":111163339,"city_id":1443680,"language_key":"rw","name":"Kenadsa"}
+{"id":111164032,"city_id":1443689,"language_key":"rw","name":"Keddara"}
+{"id":111164109,"city_id":1443690,"language_key":"rw","name":"Kedadra"}
+{"id":111164879,"city_id":1443700,"language_key":"rw","name":"Kaous"}
+{"id":111164956,"city_id":1443701,"language_key":"rw","name":"Kanoua"}
+{"id":111165187,"city_id":1443704,"language_key":"rw","name":"Kalaa"}
+{"id":111165264,"city_id":1443705,"language_key":"rw","name":"Kais"}
+{"id":111165572,"city_id":1443709,"language_key":"rw","name":"Kadiria"}
+{"id":111165957,"city_id":1443714,"language_key":"rw","name":"Jijel"}
+{"id":111166034,"city_id":1443715,"language_key":"rw","name":"Djidiouia"}
+{"id":111170192,"city_id":1443769,"language_key":"rw","name":"I Guezzam"}
+{"id":111171039,"city_id":1443780,"language_key":"rw","name":"Illizi"}
+{"id":111172887,"city_id":1443804,"language_key":"rw","name":"Igli"}
+{"id":111172964,"city_id":1443805,"language_key":"rw","name":"Ighram"}
+{"id":111173041,"city_id":1443806,"language_key":"rw","name":"Ifri"}
+{"id":111173272,"city_id":1443809,"language_key":"rw","name":"Iflissen"}
+{"id":111173349,"city_id":1443810,"language_key":"rw","name":"Ifigha"}
+{"id":111173426,"city_id":1443811,"language_key":"rw","name":"Iferhounene"}
+{"id":111175582,"city_id":1443839,"language_key":"rw","name":"Hennaya"}
+{"id":111175967,"city_id":1443844,"language_key":"rw","name":"Heliopolis"}
+{"id":111176275,"city_id":1443848,"language_key":"rw","name":"Hassi R'mel"}
+{"id":111176506,"city_id":1443851,"language_key":"rw","name":"Hassi Messaoud"}
+{"id":111176660,"city_id":1443853,"language_key":"rw","name":"Hassi Mefsoukh"}
+{"id":111176968,"city_id":1443857,"language_key":"rw","name":"Hassi el Ghella"}
+{"id":111177122,"city_id":1443859,"language_key":"rw","name":"Assi Bou Nif"}
+{"id":111177430,"city_id":1443863,"language_key":"rw","name":"Hassi Bahbah"}
+{"id":111177738,"city_id":1443867,"language_key":"rw","name":"Hassasna"}
+{"id":111179586,"city_id":1443891,"language_key":"rw","name":"Hammam Sokhna"}
+{"id":111179817,"city_id":1443894,"language_key":"rw","name":"Hammam Righa"}
+{"id":111180125,"city_id":1443898,"language_key":"rw","name":"Hammam Melouane"}
+{"id":111180279,"city_id":1443900,"language_key":"rw","name":"Hammam Guergour"}
+{"id":111180356,"city_id":1443901,"language_key":"rw","name":"Hammamet"}
+{"id":111180664,"city_id":1443905,"language_key":"rw","name":"Hammam Bou Hadjar"}
+{"id":111180741,"city_id":1443906,"language_key":"rw","name":"Hammam Boughrara"}
+{"id":111180972,"city_id":1443909,"language_key":"rw","name":"Hamma Bouziane"}
+{"id":111181819,"city_id":1443920,"language_key":"rw","name":"Hamala"}
+{"id":111181973,"city_id":1443922,"language_key":"rw","name":"Hamadia"}
+{"id":111182589,"city_id":1443930,"language_key":"rw","name":"Hadjout"}
+{"id":111183205,"city_id":1443938,"language_key":"rw","name":"Hadjad"}
+{"id":111183359,"city_id":1443940,"language_key":"rw","name":"Hacine"}
+{"id":111183975,"city_id":1443948,"language_key":"rw","name":"Guertoufa"}
+{"id":111184206,"city_id":1443951,"language_key":"rw","name":"Guernini"}
+{"id":111184283,"city_id":1443952,"language_key":"rw","name":"Guergour"}
+{"id":111184514,"city_id":1443955,"language_key":"rw","name":"Guerara"}
+{"id":111184591,"city_id":1443956,"language_key":"rw","name":"Guenzet"}
+{"id":111184899,"city_id":1443960,"language_key":"rw","name":"Guendouz"}
+{"id":111185207,"city_id":1443964,"language_key":"rw","name":"Guemar"}
+{"id":111185438,"city_id":1443967,"language_key":"rw","name":"Gueltat Sidi Saad"}
+{"id":111185515,"city_id":1443968,"language_key":"rw","name":"Guelma"}
+{"id":111185592,"city_id":1443969,"language_key":"rw","name":"Guellal"}
+{"id":111186516,"city_id":1443981,"language_key":"rw","name":"Grarem"}
+{"id":111186670,"city_id":1443983,"language_key":"rw","name":"Graba"}
+{"id":111186747,"city_id":1443984,"language_key":"rw","name":"Gouraya"}
+{"id":111187286,"city_id":1443991,"language_key":"rw","name":"Gosbat"}
+{"id":111187363,"city_id":1443992,"language_key":"rw","name":"Ghriss"}
+{"id":111187440,"city_id":1443993,"language_key":"rw","name":"Ghazaouet"}
+{"id":111187517,"city_id":1443994,"language_key":"rw","name":"Ghassoul"}
+{"id":111187594,"city_id":1443995,"language_key":"rw","name":"Ghardaia"}
+{"id":111187671,"city_id":1443996,"language_key":"rw","name":"Gdyel"}
+{"id":111188133,"city_id":1444002,"language_key":"rw","name":"Froha"}
+{"id":111188287,"city_id":1444004,"language_key":"rw","name":"Frenda"}
+{"id":111188364,"city_id":1444005,"language_key":"rw","name":"Freha"}
+{"id":111188595,"city_id":1444008,"language_key":"rw","name":"Foum Toub"}
+{"id":111188903,"city_id":1444012,"language_key":"rw","name":"Fouka"}
+{"id":111188980,"city_id":1444013,"language_key":"rw","name":"Foughala"}
+{"id":111189134,"city_id":1444015,"language_key":"rw","name":"Fornaka"}
+{"id":111189596,"city_id":1444021,"language_key":"rw","name":"Benairia"}
+{"id":111190289,"city_id":1444030,"language_key":"rw","name":"Fermatou"}
+{"id":111190443,"city_id":1444032,"language_key":"rw","name":"Ferkane"}
+{"id":111190905,"city_id":1444038,"language_key":"rw","name":"Feraoun"}
+{"id":111191059,"city_id":1444040,"language_key":"rw","name":"Fenoughil"}
+{"id":111191290,"city_id":1444043,"language_key":"rw","name":"Feidh el Botma"}
+{"id":111191444,"city_id":1444045,"language_key":"rw","name":"Fedj M'Zala"}
+{"id":111191675,"city_id":1444048,"language_key":"rw","name":"Fatis"}
+{"id":111193677,"city_id":1444074,"language_key":"rw","name":"Es Senia"}
+{"id":111193831,"city_id":1444076,"language_key":"rw","name":"Es Sebt"}
+{"id":111195063,"city_id":1444092,"language_key":"rw","name":"En Nedjma"}
+{"id":111195371,"city_id":1444096,"language_key":"rw","name":"Emir Abdelkader"}
+{"id":111195602,"city_id":1444099,"language_key":"rw","name":"El Tarf"}
+{"id":111196295,"city_id":1444108,"language_key":"rw","name":"El Outaya"}
+{"id":111196449,"city_id":1444110,"language_key":"rw","name":"El Ouricia"}
+{"id":111196526,"city_id":1444111,"language_key":"rw","name":"El Ouloudj"}
+{"id":111196603,"city_id":1444112,"language_key":"rw","name":"El Ouldja"}
+{"id":111197219,"city_id":1444120,"language_key":"rw","name":"El Oued"}
+{"id":111197373,"city_id":1444122,"language_key":"rw","name":"El Ouata"}
+{"id":111197758,"city_id":1444127,"language_key":"rw","name":"El Omaria"}
+{"id":111197835,"city_id":1444128,"language_key":"rw","name":"El Ogla"}
+{"id":111198836,"city_id":1444141,"language_key":"rw","name":"El Milia"}
+{"id":111198990,"city_id":1444143,"language_key":"rw","name":"El Mezeraa"}
+{"id":111199606,"city_id":1444151,"language_key":"rw","name":"El Meridj"}
+{"id":111200684,"city_id":1444165,"language_key":"rw","name":"El Meghaier"}
+{"id":111200992,"city_id":1444169,"language_key":"rw","name":"El Matmar"}
+{"id":111201069,"city_id":1444170,"language_key":"rw","name":"El Marsa"}
+{"id":111201839,"city_id":1444180,"language_key":"rw","name":"El Malah"}
+{"id":111202378,"city_id":1444187,"language_key":"rw","name":"El Main"}
+{"id":111202840,"city_id":1444193,"language_key":"rw","name":"El Madher"}
+{"id":111203533,"city_id":1444202,"language_key":"rw","name":"El Kseur"}
+{"id":111204226,"city_id":1444211,"language_key":"rw","name":"El Kouif"}
+{"id":111204380,"city_id":1444213,"language_key":"rw","name":"El Koudia"}
+{"id":111204611,"city_id":1444216,"language_key":"rw","name":"El Khroub"}
+{"id":111204919,"city_id":1444220,"language_key":"rw","name":"El Khemis"}
+{"id":111206228,"city_id":1444237,"language_key":"rw","name":"El Keurt"}
+{"id":111206305,"city_id":1444238,"language_key":"rw","name":"El Kerma"}
+{"id":111207460,"city_id":1444253,"language_key":"rw","name":"El Karimia"}
+{"id":111207614,"city_id":1444255,"language_key":"rw","name":"El Kantara"}
+{"id":111207691,"city_id":1444256,"language_key":"rw","name":"El Kala"}
+{"id":111207845,"city_id":1444258,"language_key":"rw","name":"El Idrissia"}
+{"id":111208923,"city_id":1444272,"language_key":"rw","name":"El Hassi"}
+{"id":111209231,"city_id":1444276,"language_key":"rw","name":"El Haouch"}
+{"id":111210848,"city_id":1444297,"language_key":"rw","name":"El Hamma"}
+{"id":111211079,"city_id":1444300,"language_key":"rw","name":"El Hamel"}
+{"id":111211233,"city_id":1444302,"language_key":"rw","name":"El Hamdaniya"}
+{"id":111211849,"city_id":1444310,"language_key":"rw","name":"El Hadjira"}
+{"id":111212157,"city_id":1444314,"language_key":"rw","name":"El Hadjar"}
+{"id":111212696,"city_id":1444321,"language_key":"rw","name":"El Had"}
+{"id":111212773,"city_id":1444322,"language_key":"rw","name":"El Hachimia"}
+{"id":111212850,"city_id":1444323,"language_key":"rw","name":"El Hachichia"}
+{"id":111213081,"city_id":1444326,"language_key":"rw","name":"El Hacaiba"}
+{"id":111213543,"city_id":1444332,"language_key":"rw","name":"El Guettar"}
+{"id":111214544,"city_id":1444345,"language_key":"rw","name":"El Gor"}
+{"id":111214621,"city_id":1444346,"language_key":"rw","name":"El Menia"}
+{"id":111214698,"city_id":1444347,"language_key":"rw","name":"El Ghomri"}
+{"id":111214775,"city_id":1444348,"language_key":"rw","name":"El Ghicha"}
+{"id":111215160,"city_id":1444353,"language_key":"rw","name":"El Fedjoudj"}
+{"id":111215314,"city_id":1444355,"language_key":"rw","name":"El Eulma"}
+{"id":111215545,"city_id":1444358,"language_key":"rw","name":"El Emir Abdelkader"}
+{"id":111215930,"city_id":1444363,"language_key":"rw","name":"Djemaa Ouled Cheikh"}
+{"id":111216469,"city_id":1444370,"language_key":"rw","name":"El Braya"}
+{"id":111216700,"city_id":1444373,"language_key":"rw","name":"El Bour"}
+{"id":111216777,"city_id":1444374,"language_key":"rw","name":"El Bordj"}
+{"id":111216854,"city_id":1444375,"language_key":"rw","name":"El Bordj"}
+{"id":111217085,"city_id":1444378,"language_key":"rw","name":"El Biod"}
+{"id":111217701,"city_id":1444386,"language_key":"rw","name":"El Bayadh"}
+{"id":111218933,"city_id":1444402,"language_key":"rw","name":"El Attaf"}
+{"id":111219241,"city_id":1444406,"language_key":"rw","name":"El Assafia"}
+{"id":111219318,"city_id":1444407,"language_key":"rw","name":"Chlef"}
+{"id":111219395,"city_id":1444408,"language_key":"rw","name":"El Arrouch"}
+{"id":111219472,"city_id":1444409,"language_key":"rw","name":"El Aricha"}
+{"id":111220473,"city_id":1444422,"language_key":"rw","name":"El Aouinet"}
+{"id":111220781,"city_id":1444426,"language_key":"rw","name":"El Aouana"}
+{"id":111221166,"city_id":1444431,"language_key":"rw","name":"El Ancor"}
+{"id":111221243,"city_id":1444432,"language_key":"rw","name":"El Ancer"}
+{"id":111221320,"city_id":1444433,"language_key":"rw","name":"El Anasser"}
+{"id":111221474,"city_id":1444435,"language_key":"rw","name":"El Amria"}
+{"id":111222475,"city_id":1444448,"language_key":"rw","name":"El Aioun"}
+{"id":111223014,"city_id":1444455,"language_key":"rw","name":"El Affroun"}
+{"id":111223091,"city_id":1444456,"language_key":"rw","name":"El Adjiba"}
+{"id":111223168,"city_id":1444457,"language_key":"rw","name":"El Achour"}
+{"id":111223245,"city_id":1444458,"language_key":"rw","name":"El Achir"}
+{"id":111223322,"city_id":1444459,"language_key":"rw","name":"El Ach"}
+{"id":111223399,"city_id":1444460,"language_key":"rw","name":"El Abiodh Sidi Cheikh"}
+{"id":111223630,"city_id":1444463,"language_key":"rw","name":"El Abadia"}
+{"id":111224477,"city_id":1444474,"language_key":"rw","name":"Eddis"}
+{"id":111224785,"city_id":1444478,"language_key":"rw","name":"Ech Chettia"}
+{"id":111225401,"city_id":1444486,"language_key":"rw","name":"Drean"}
+{"id":111225478,"city_id":1444487,"language_key":"rw","name":"Drea"}
+{"id":111225555,"city_id":1444488,"language_key":"rw","name":"Draria"}
+{"id":111225940,"city_id":1444493,"language_key":"rw","name":"Draa Esmar"}
+{"id":111226017,"city_id":1444494,"language_key":"rw","name":"Draa el Mizan"}
+{"id":111226171,"city_id":1444496,"language_key":"rw","name":"Draa Ben Khedda"}
+{"id":111226325,"city_id":1444498,"language_key":"rw","name":"Douera"}
+{"id":111226402,"city_id":1444499,"language_key":"rw","name":"Doucen"}
+{"id":111228250,"city_id":1444523,"language_key":"rw","name":"Sidi Bouzid"}
+{"id":111232870,"city_id":1444583,"language_key":"rw","name":"Guerdjoum"}
+{"id":111239030,"city_id":1444663,"language_key":"rw","name":"Mekhatriya"}
+{"id":111244420,"city_id":1444733,"language_key":"rw","name":"Beni Yahi"}
+{"id":111244882,"city_id":1444739,"language_key":"rw","name":"Ben Daoud"}
+{"id":111247115,"city_id":1444768,"language_key":"rw","name":"Douaouda"}
+{"id":111247808,"city_id":1444777,"language_key":"rw","name":"Djilali Ben Amar"}
+{"id":111248886,"city_id":1444791,"language_key":"rw","name":"Djinet"}
+{"id":111248963,"city_id":1444792,"language_key":"rw","name":"Djendel"}
+{"id":111249040,"city_id":1444793,"language_key":"rw","name":"Djendel"}
+{"id":111249810,"city_id":1444803,"language_key":"rw","name":"Djemila"}
+{"id":111250041,"city_id":1444806,"language_key":"rw","name":"Djellal"}
+{"id":111250118,"city_id":1444807,"language_key":"rw","name":"Djelfa"}
+{"id":111250349,"city_id":1444810,"language_key":"rw","name":"Djedida"}
+{"id":111250811,"city_id":1444816,"language_key":"rw","name":"Djebala"}
+{"id":111250888,"city_id":1444817,"language_key":"rw","name":"Djebahia"}
+{"id":111251273,"city_id":1444822,"language_key":"rw","name":"Djanet"}
+{"id":111251504,"city_id":1444825,"language_key":"rw","name":"Djamaa"}
+{"id":111251812,"city_id":1444829,"language_key":"rw","name":"Didouche Mourad"}
+{"id":111252351,"city_id":1444836,"language_key":"rw","name":"Dhaya"}
+{"id":111252428,"city_id":1444837,"language_key":"rw","name":"Dhalaa"}
+{"id":111252505,"city_id":1444838,"language_key":"rw","name":"Derrag"}
+{"id":111253121,"city_id":1444846,"language_key":"rw","name":"Dellys"}
+{"id":111254738,"city_id":1444867,"language_key":"rw","name":"Debila"}
+{"id":111256509,"city_id":1444890,"language_key":"rw","name":"Dar el Beida"}
+{"id":111256740,"city_id":1444893,"language_key":"rw","name":"Dar Chioukh"}
+{"id":111257895,"city_id":1444908,"language_key":"rw","name":"Damous"}
+{"id":111258126,"city_id":1444911,"language_key":"rw","name":"Dahmouni"}
+{"id":111258588,"city_id":1444917,"language_key":"rw","name":"Constantine"}
+{"id":111259050,"city_id":1444923,"language_key":"rw","name":"Chrea"}
+{"id":111259820,"city_id":1444933,"language_key":"rw","name":"Chorfa"}
+{"id":111260051,"city_id":1444936,"language_key":"rw","name":"Chir"}
+{"id":111260128,"city_id":1444937,"language_key":"rw","name":"Chiffa"}
+{"id":111260359,"city_id":1444940,"language_key":"rw","name":"Cheurfa"}
+{"id":111260821,"city_id":1444946,"language_key":"rw","name":"Chetouane"}
+{"id":111260898,"city_id":1444947,"language_key":"rw","name":"Chetma"}
+{"id":111260975,"city_id":1444948,"language_key":"rw","name":"Chetaibi"}
+{"id":111261206,"city_id":1444951,"language_key":"rw","name":"Cheria"}
+{"id":111261437,"city_id":1444954,"language_key":"rw","name":"Cherchell"}
+{"id":111261514,"city_id":1444955,"language_key":"rw","name":"Cheraia"}
+{"id":111261899,"city_id":1444960,"language_key":"rw","name":"Cheraga"}
+{"id":111262361,"city_id":1444966,"language_key":"rw","name":"Chemora"}
+{"id":111262438,"city_id":1444967,"language_key":"rw","name":"Chemini"}
+{"id":111262592,"city_id":1444969,"language_key":"rw","name":"Chellata"}
+{"id":111262669,"city_id":1444970,"language_key":"rw","name":"Chellalat el Adhaouara"}
+{"id":111262900,"city_id":1444973,"language_key":"rw","name":"Chellal"}
+{"id":111263054,"city_id":1444975,"language_key":"rw","name":"Chelghoum el Aid"}
+{"id":111263131,"city_id":1444976,"language_key":"rw","name":"Chekfa"}
+{"id":111263901,"city_id":1444986,"language_key":"rw","name":"Chebli"}
+{"id":111264209,"city_id":1444990,"language_key":"rw","name":"Charouine"}
+{"id":111264286,"city_id":1444991,"language_key":"rw","name":"Charef"}
+{"id":111264363,"city_id":1444992,"language_key":"rw","name":"Chaiba"}
+{"id":111264440,"city_id":1444993,"language_key":"rw","name":"Chahbounia"}
+{"id":111264671,"city_id":1444996,"language_key":"rw","name":"Chabet el Ameur"}
+{"id":111265133,"city_id":1445002,"language_key":"rw","name":"Chaabat el Leham"}
+{"id":111265595,"city_id":1445008,"language_key":"rw","name":"Brida"}
+{"id":111265672,"city_id":1445009,"language_key":"rw","name":"Brezina"}
+{"id":111265980,"city_id":1445013,"language_key":"rw","name":"Branis"}
+{"id":111266442,"city_id":1445019,"language_key":"rw","name":"Bouzina"}
+{"id":111266673,"city_id":1445022,"language_key":"rw","name":"Bouzeghaia"}
+{"id":111268213,"city_id":1445042,"language_key":"rw","name":"Bou Tlelis"}
+{"id":111268367,"city_id":1445044,"language_key":"rw","name":"Bouteldja"}
+{"id":111268829,"city_id":1445050,"language_key":"rw","name":"Boussemghoun"}
+{"id":111269060,"city_id":1445053,"language_key":"rw","name":"Bouskene"}
+{"id":111270138,"city_id":1445067,"language_key":"rw","name":"Bou Saada"}
+{"id":111270600,"city_id":1445073,"language_key":"rw","name":"Bourkika"}
+{"id":111271139,"city_id":1445080,"language_key":"rw","name":"Ain Soltane"}
+{"id":111271755,"city_id":1445088,"language_key":"rw","name":"Bounoual"}
+{"id":111272525,"city_id":1445098,"language_key":"rw","name":"Boumagueur"}
+{"id":111273141,"city_id":1445106,"language_key":"rw","name":"Boumahra Ahmed"}
+{"id":111274758,"city_id":1445127,"language_key":"rw","name":"Boukadir"}
+{"id":111274912,"city_id":1445129,"language_key":"rw","name":"Bou Ismail"}
+{"id":111275143,"city_id":1445132,"language_key":"rw","name":"Bouira"}
+{"id":111275297,"city_id":1445134,"language_key":"rw","name":"Bouinan"}
+{"id":111275451,"city_id":1445136,"language_key":"rw","name":"Bouhmama"}
+{"id":111275682,"city_id":1445139,"language_key":"rw","name":"Bou Henni"}
+{"id":111276067,"city_id":1445144,"language_key":"rw","name":"Bou Hanifia el Hamamat"}
+{"id":111276760,"city_id":1445153,"language_key":"rw","name":"Bougzoul"}
+{"id":111276837,"city_id":1445154,"language_key":"rw","name":"Bouguirat"}
+{"id":111276991,"city_id":1445156,"language_key":"rw","name":"Bou Guema"}
+{"id":111277068,"city_id":1445157,"language_key":"rw","name":"Bougtob"}
+{"id":111277299,"city_id":1445160,"language_key":"rw","name":"Bougara"}
+{"id":111277376,"city_id":1445161,"language_key":"rw","name":"Bougaa"}
+{"id":111277761,"city_id":1445166,"language_key":"rw","name":"Boufatis"}
+{"id":111277838,"city_id":1445167,"language_key":"rw","name":"Boufarik"}
+{"id":111277915,"city_id":1445168,"language_key":"rw","name":"Bounoghra"}
+{"id":111278146,"city_id":1445171,"language_key":"rw","name":"Boudoukha"}
+{"id":111278223,"city_id":1445172,"language_key":"rw","name":"Boudouau"}
+{"id":111278377,"city_id":1445174,"language_key":"rw","name":"Boudjima"}
+{"id":111278531,"city_id":1445176,"language_key":"rw","name":"Boudjellil"}
+{"id":111278993,"city_id":1445182,"language_key":"rw","name":"Boudouaou el Bahri"}
+{"id":111279301,"city_id":1445186,"language_key":"rw","name":"Bouchegouf"}
+{"id":111279994,"city_id":1445195,"language_key":"rw","name":"Houasnia"}
+{"id":111280148,"city_id":1445197,"language_key":"rw","name":"Bou Aziz"}
+{"id":111280225,"city_id":1445198,"language_key":"rw","name":"Bouati Mahmoud"}
+{"id":111280687,"city_id":1445204,"language_key":"rw","name":"Bou Arfa"}
+{"id":111281457,"city_id":1445214,"language_key":"rw","name":"Boualem"}
+{"id":111282304,"city_id":1445225,"language_key":"rw","name":"Bordj Zemoura"}
+{"id":111282689,"city_id":1445230,"language_key":"rw","name":"Bordj Omar Driss"}
+{"id":111282766,"city_id":1445231,"language_key":"rw","name":"Bordj Okhriss"}
+{"id":111282997,"city_id":1445234,"language_key":"rw","name":"Bordj Menaiel"}
+{"id":111283613,"city_id":1445242,"language_key":"rw","name":"Bordj Ghdir"}
+{"id":111283690,"city_id":1445243,"language_key":"rw","name":"Bordj Emir Khaled"}
+{"id":111283767,"city_id":1445244,"language_key":"rw","name":"Bordj el Kiffan"}
+{"id":111283998,"city_id":1445247,"language_key":"rw","name":"Bordj el Emir Abdelkader"}
+{"id":111284229,"city_id":1445250,"language_key":"rw","name":"Bordj el Bahri"}
+{"id":111285846,"city_id":1445271,"language_key":"rw","name":"Bordj Bou Arreridj"}
+{"id":111287540,"city_id":1445293,"language_key":"rw","name":"Boghni"}
+{"id":111287617,"city_id":1445294,"language_key":"rw","name":"Boghar"}
+{"id":111287848,"city_id":1445297,"language_key":"rw","name":"Blidet Amor"}
+{"id":111287925,"city_id":1445298,"language_key":"rw","name":"Blida"}
+{"id":111288233,"city_id":1445302,"language_key":"rw","name":"Touahria"}
+{"id":111288541,"city_id":1445306,"language_key":"rw","name":"Bitam"}
+{"id":111288695,"city_id":1445308,"language_key":"rw","name":"Biskra"}
+{"id":111288772,"city_id":1445309,"language_key":"rw","name":"Birtouta"}
+{"id":111289388,"city_id":1445317,"language_key":"rw","name":"Birkhadem"}
+{"id":111289465,"city_id":1445318,"language_key":"rw","name":"Bir Kasdali"}
+{"id":111289542,"city_id":1445319,"language_key":"rw","name":"Birine"}
+{"id":111289850,"city_id":1445323,"language_key":"rw","name":"Bir Haddada"}
+{"id":111290004,"city_id":1445325,"language_key":"rw","name":"Bir Ghbalou"}
+{"id":111290620,"city_id":1445333,"language_key":"rw","name":"Bir el Djir"}
+{"id":111290697,"city_id":1445334,"language_key":"rw","name":"Bir el Ater"}
+{"id":111290928,"city_id":1445337,"language_key":"rw","name":"Bir Chouhada"}
+{"id":111292083,"city_id":1445352,"language_key":"rw","name":"Bettioua"}
+{"id":111292314,"city_id":1445355,"language_key":"rw","name":"Besbes"}
+{"id":111292391,"city_id":1445356,"language_key":"rw","name":"Berrouaghia"}
+{"id":111292468,"city_id":1445357,"language_key":"rw","name":"Berriche"}
+{"id":111292545,"city_id":1445358,"language_key":"rw","name":"Berriane"}
+{"id":111292622,"city_id":1445359,"language_key":"rw","name":"Berrahal"}
+{"id":111292930,"city_id":1445363,"language_key":"rw","name":"Berhoum"}
+{"id":111293392,"city_id":1445369,"language_key":"rw","name":"Benzouh"}
+{"id":111293700,"city_id":1445373,"language_key":"rw","name":"Benyahia Abderrahmane"}
+{"id":111294085,"city_id":1445378,"language_key":"rw","name":"Ben S'Rour"}
+{"id":111294239,"city_id":1445380,"language_key":"rw","name":"Bensekrane"}
+{"id":111294393,"city_id":1445382,"language_key":"rw","name":"Ben Salah"}
+{"id":111294778,"city_id":1445387,"language_key":"rw","name":"Ben N'Choud"}
+{"id":111295086,"city_id":1445391,"language_key":"rw","name":"Ben Mehidi"}
+{"id":111295702,"city_id":1445399,"language_key":"rw","name":"Beni Tamou"}
+{"id":111296010,"city_id":1445403,"language_key":"rw","name":"Beni Slimane"}
+{"id":111296087,"city_id":1445404,"language_key":"rw","name":"Beni Slimane"}
+{"id":111296318,"city_id":1445407,"language_key":"rw","name":"Beni Saf"}
+{"id":111296549,"city_id":1445410,"language_key":"rw","name":"Beni Rached"}
+{"id":111296626,"city_id":1445411,"language_key":"rw","name":"Barbouche"}
+{"id":111296703,"city_id":1445412,"language_key":"rw","name":"Beni Ounif"}
+{"id":111297165,"city_id":1445418,"language_key":"rw","name":"Beni Mester"}
+{"id":111297242,"city_id":1445419,"language_key":"rw","name":"Beni Mered"}
+{"id":111298474,"city_id":1445435,"language_key":"rw","name":"Beni Ikhlef"}
+{"id":111298628,"city_id":1445437,"language_key":"rw","name":"Beni Haoua"}
+{"id":111299013,"city_id":1445442,"language_key":"rw","name":"Beni Guecha"}
+{"id":111299090,"city_id":1445443,"language_key":"rw","name":"Beni Fouda"}
+{"id":111299167,"city_id":1445444,"language_key":"rw","name":"Beni Fouda"}
+{"id":111299552,"city_id":1445449,"language_key":"rw","name":"Beni Douala"}
+{"id":111299706,"city_id":1445451,"language_key":"rw","name":"Beni Brahim"}
+{"id":111300168,"city_id":1445457,"language_key":"rw","name":"Beni Bechir"}
+{"id":111300245,"city_id":1445458,"language_key":"rw","name":"Beni Bahdel"}
+{"id":111300399,"city_id":1445460,"language_key":"rw","name":"Beniane"}
+{"id":111300553,"city_id":1445462,"language_key":"rw","name":"Beni Amrane"}
+{"id":111300707,"city_id":1445464,"language_key":"rw","name":"Beni Aissi"}
+{"id":111300938,"city_id":1445467,"language_key":"rw","name":"Beni Abbes"}
+{"id":111301015,"city_id":1445468,"language_key":"rw","name":"Ben Henni"}
+{"id":111301169,"city_id":1445470,"language_key":"rw","name":"Ben Haroun"}
+{"id":111301708,"city_id":1445477,"language_key":"rw","name":"Bouda"}
+{"id":111302093,"city_id":1445482,"language_key":"rw","name":"Ben Badis"}
+{"id":111302170,"city_id":1445483,"language_key":"rw","name":"Arbaoun"}
+{"id":111302632,"city_id":1445489,"language_key":"rw","name":"Ben 'Aknoun"}
+{"id":111303171,"city_id":1445496,"language_key":"rw","name":"Belkheir"}
+{"id":111303941,"city_id":1445506,"language_key":"rw","name":"Belarbi"}
+{"id":111304249,"city_id":1445510,"language_key":"rw","name":"Bekkouche Lakhdar"}
+{"id":111304326,"city_id":1445511,"language_key":"rw","name":"Bekkaria"}
+{"id":111304557,"city_id":1445514,"language_key":"rw","name":"Bejaia"}
+{"id":111305019,"city_id":1445520,"language_key":"rw","name":"Bechloul"}
+{"id":111305327,"city_id":1445524,"language_key":"rw","name":"Bechar"}
+{"id":111305943,"city_id":1445532,"language_key":"rw","name":"Batna"}
+{"id":111306174,"city_id":1445535,"language_key":"rw","name":"Barika"}
+{"id":111306405,"city_id":1445538,"language_key":"rw","name":"Barbacha"}
+{"id":111306482,"city_id":1445539,"language_key":"rw","name":"Baraki"}
+{"id":111306559,"city_id":1445540,"language_key":"rw","name":"Baniou"}
+{"id":111306790,"city_id":1445543,"language_key":"rw","name":"Balloul"}
+{"id":111307560,"city_id":1445553,"language_key":"rw","name":"Baghlia"}
+{"id":111307637,"city_id":1445554,"language_key":"rw","name":"Baghai"}
+{"id":111307945,"city_id":1445558,"language_key":"rw","name":"Bab Ezzouar"}
+{"id":111308022,"city_id":1445559,"language_key":"rw","name":"Bab el Assa"}
+{"id":111308099,"city_id":1445560,"language_key":"rw","name":"babar"}
+{"id":111308176,"city_id":1445561,"language_key":"rw","name":"Baba Hassen"}
+{"id":111308484,"city_id":1445565,"language_key":"rw","name":"Azaba"}
+{"id":111308715,"city_id":1445568,"language_key":"rw","name":"Azouza"}
+{"id":111309716,"city_id":1445581,"language_key":"rw","name":"Azeffoun"}
+{"id":111309870,"city_id":1445583,"language_key":"rw","name":"Azazga"}
+{"id":111310332,"city_id":1445589,"language_key":"rw","name":"Attatba"}
+{"id":111311256,"city_id":1445601,"language_key":"rw","name":"Asfour"}
+{"id":111311333,"city_id":1445602,"language_key":"rw","name":"Arzew"}
+{"id":111311410,"city_id":1445603,"language_key":"rw","name":"Arris"}
+{"id":111311718,"city_id":1445607,"language_key":"rw","name":"Arib"}
+{"id":111311872,"city_id":1445609,"language_key":"rw","name":"Arhribs"}
+{"id":111312488,"city_id":1445617,"language_key":"rw","name":"Arbatache"}
+{"id":111312565,"city_id":1445618,"language_key":"rw","name":"Arbaouat"}
+{"id":111312873,"city_id":1445622,"language_key":"rw","name":"Arba"}
+{"id":111313181,"city_id":1445626,"language_key":"rw","name":"Aourir"}
+{"id":111313412,"city_id":1445629,"language_key":"rw","name":"Aulef"}
+{"id":111313720,"city_id":1445633,"language_key":"rw","name":"Aougrout"}
+{"id":111313797,"city_id":1445634,"language_key":"rw","name":"Aouf"}
+{"id":111313874,"city_id":1445635,"language_key":"rw","name":"Aubellil"}
+{"id":111314105,"city_id":1445638,"language_key":"rw","name":"Aomar"}
+{"id":111314182,"city_id":1445639,"language_key":"rw","name":"Aokas"}
+{"id":111314721,"city_id":1445646,"language_key":"rw","name":"Annaba"}
+{"id":111314875,"city_id":1445648,"language_key":"rw","name":"Andrieche"}
+{"id":111315414,"city_id":1445655,"language_key":"rw","name":"Amoucha"}
+{"id":111315491,"city_id":1445656,"language_key":"rw","name":"Ammi Moussa"}
+{"id":111315799,"city_id":1445660,"language_key":"rw","name":"Amizour"}
+{"id":111316569,"city_id":1445670,"language_key":"rw","name":"Amalou"}
+{"id":111316646,"city_id":1445671,"language_key":"rw","name":"Amalou"}
+{"id":111317647,"city_id":1445684,"language_key":"rw","name":"Algiers"}
+{"id":111318263,"city_id":1445692,"language_key":"rw","name":"Akfadou"}
+{"id":111318571,"city_id":1445696,"language_key":"rw","name":"Akbou"}
+{"id":111318725,"city_id":1445698,"language_key":"rw","name":"Akaoudj"}
+{"id":111318802,"city_id":1445699,"language_key":"rw","name":"Akabli"}
+{"id":111319418,"city_id":1445707,"language_key":"rw","name":"Ait Smail"}
+{"id":111322190,"city_id":1445743,"language_key":"rw","name":"Ait Frah"}
+{"id":111322575,"city_id":1445748,"language_key":"rw","name":"Ait Djemaa"}
+{"id":111324115,"city_id":1445768,"language_key":"rw","name":"Ait Aicha"}
+{"id":111324962,"city_id":1445779,"language_key":"rw","name":"'Ain ZouiT'"}
+{"id":111325193,"city_id":1445782,"language_key":"rw","name":"'Ain Zerga"}
+{"id":111325424,"city_id":1445785,"language_key":"rw","name":"'Ain Zada"}
+{"id":111325501,"city_id":1445786,"language_key":"rw","name":"Ain Youcef"}
+{"id":111325578,"city_id":1445787,"language_key":"rw","name":"Ain Yagout"}
+{"id":111325732,"city_id":1445789,"language_key":"rw","name":"'Ain Trick"}
+{"id":111326040,"city_id":1445793,"language_key":"rw","name":"Ain Touta"}
+{"id":111326117,"city_id":1445794,"language_key":"rw","name":"'Ain Touila'"}
+{"id":111326348,"city_id":1445797,"language_key":"rw","name":"'Ain Torki"}
+{"id":111326425,"city_id":1445798,"language_key":"rw","name":"'Ain Tolba"}
+{"id":111326656,"city_id":1445801,"language_key":"rw","name":"'Ain Tindamine"}
+{"id":111326810,"city_id":1445803,"language_key":"rw","name":"Ain Temouchent"}
+{"id":111327272,"city_id":1445809,"language_key":"rw","name":"Ain Taya"}
+{"id":111327349,"city_id":1445810,"language_key":"rw","name":"'Ain Taghrout"}
+{"id":111327426,"city_id":1445811,"language_key":"rw","name":"Ain Soltane"}
+{"id":111327503,"city_id":1445812,"language_key":"rw","name":"Ain Smara"}
+{"id":111327657,"city_id":1445814,"language_key":"rw","name":"'Ain Sidi Ali"}
+{"id":111327888,"city_id":1445817,"language_key":"rw","name":"'Ain Seynour"}
+{"id":111327965,"city_id":1445818,"language_key":"rw","name":"Ain Sefra"}
+{"id":111328273,"city_id":1445822,"language_key":"rw","name":"'Ain Roua'"}
+{"id":111328581,"city_id":1445826,"language_key":"rw","name":"Ain Oussera"}
+{"id":111328812,"city_id":1445829,"language_key":"rw","name":"Ain Oulmene"}
+{"id":111329197,"city_id":1445834,"language_key":"rw","name":"Ain Nouissy"}
+{"id":111329351,"city_id":1445836,"language_key":"rw","name":"'Ain Naga"}
+{"id":111329659,"city_id":1445840,"language_key":"rw","name":"Ain M'Lila"}
+{"id":111329736,"city_id":1445841,"language_key":"rw","name":"'Ain Messaoud"}
+{"id":111329890,"city_id":1445843,"language_key":"rw","name":"'Ain Merane"}
+{"id":111330275,"city_id":1445848,"language_key":"rw","name":"'Ain Makhlouf"}
+{"id":111330583,"city_id":1445852,"language_key":"rw","name":"Ain Lechiakh"}
+{"id":111330660,"city_id":1445853,"language_key":"rw","name":"Ain Laloui"}
+{"id":111330737,"city_id":1445854,"language_key":"rw","name":"'Ain Kihal"}
+{"id":111330891,"city_id":1445856,"language_key":"rw","name":"Ain Khiar"}
+{"id":111331199,"city_id":1445860,"language_key":"rw","name":"'Ain Khadra"}
+{"id":111331276,"city_id":1445861,"language_key":"rw","name":"'Ain Kermes"}
+{"id":111331353,"city_id":1445862,"language_key":"rw","name":"'Ain Kerma"}
+{"id":111331584,"city_id":1445865,"language_key":"rw","name":"Ain Kercha"}
+{"id":111332354,"city_id":1445875,"language_key":"rw","name":"'Ain Fezza'"}
+{"id":111332508,"city_id":1445877,"language_key":"rw","name":"'Ain Fekan"}
+{"id":111332585,"city_id":1445878,"language_key":"rw","name":"Ain Feka"}
+{"id":111332662,"city_id":1445879,"language_key":"rw","name":"Ain Fares"}
+{"id":111332739,"city_id":1445880,"language_key":"rw","name":"Ain Fakroun"}
+{"id":111333355,"city_id":1445888,"language_key":"rw","name":"'Ain el Turk"}
+{"id":111333432,"city_id":1445889,"language_key":"rw","name":"'Ain el Orak"}
+{"id":111333586,"city_id":1445891,"language_key":"rw","name":"'Ain el Melh"}
+{"id":111333971,"city_id":1445896,"language_key":"rw","name":"'Ain el Kerma"}
+{"id":111334048,"city_id":1445897,"language_key":"rw","name":"'Ain el Kebira"}
+{"id":111334356,"city_id":1445901,"language_key":"rw","name":"'Ain el Hammam"}
+{"id":111334510,"city_id":1445903,"language_key":"rw","name":"Ain el Hadjel"}
+{"id":111334741,"city_id":1445906,"language_key":"rw","name":"'Ain el Hadjar"}
+{"id":111334818,"city_id":1445907,"language_key":"rw","name":"Ain el Hadid"}
+{"id":111335280,"city_id":1445913,"language_key":"rw","name":"Ain el Bya"}
+{"id":111335511,"city_id":1445916,"language_key":"rw","name":"'Ain el Berd"}
+{"id":111335665,"city_id":1445918,"language_key":"rw","name":"'Ain el Bell"}
+{"id":111335896,"city_id":1445921,"language_key":"rw","name":"'Ain el Assel"}
+{"id":111335973,"city_id":1445922,"language_key":"rw","name":"Ain el Arbaa"}
+{"id":111336589,"city_id":1445930,"language_key":"rw","name":"'Ain Deheb"}
+{"id":111336666,"city_id":1445931,"language_key":"rw","name":"Ain Defla"}
+{"id":111337128,"city_id":1445937,"language_key":"rw","name":"'Ain Charchar'"}
+{"id":111337282,"city_id":1445939,"language_key":"rw","name":"'Ain Bouziane"}
+{"id":111337590,"city_id":1445943,"language_key":"rw","name":"Ain Boudinar"}
+{"id":111337667,"city_id":1445944,"language_key":"rw","name":"'Ain Boucif"}
+{"id":111337821,"city_id":1445946,"language_key":"rw","name":"Ain Bessem"}
+{"id":111337898,"city_id":1445947,"language_key":"rw","name":"'Ain Berda'"}
+{"id":111337975,"city_id":1445948,"language_key":"rw","name":"'Ain Ben Khelil"}
+{"id":111338052,"city_id":1445949,"language_key":"rw","name":"'Ain Benian'"}
+{"id":111338129,"city_id":1445950,"language_key":"rw","name":"'Ain Ben Beida"}
+{"id":111338360,"city_id":1445953,"language_key":"rw","name":"Ain Beida"}
+{"id":111338514,"city_id":1445955,"language_key":"rw","name":"'Ain Babouche"}
+{"id":111338591,"city_id":1445956,"language_key":"rw","name":"'Ain Azel'"}
+{"id":111338668,"city_id":1445957,"language_key":"rw","name":"Ain Arnat"}
+{"id":111338745,"city_id":1445958,"language_key":"rw","name":"'Ain Arko"}
+{"id":111338976,"city_id":1445961,"language_key":"rw","name":"'Ain Abid"}
+{"id":111339053,"city_id":1445962,"language_key":"rw","name":"'Ain Abessa"}
+{"id":111339592,"city_id":1445969,"language_key":"rw","name":"Ahmed Rachedi"}
+{"id":111339900,"city_id":1445973,"language_key":"rw","name":"Ahmed Bel Hadj"}
+{"id":111341440,"city_id":1445993,"language_key":"rw","name":"aghlal"}
+{"id":111341979,"city_id":1446000,"language_key":"rw","name":"Afloru"}
+{"id":111342133,"city_id":1446002,"language_key":"rw","name":"Afir"}
+{"id":111343057,"city_id":1446014,"language_key":"rw","name":"Adar"}
+{"id":111344212,"city_id":1446029,"language_key":"rw","name":"Abou el Hassan"}
+{"id":111345829,"city_id":1446050,"language_key":"rw","name":"Abalessa"}
+{"id":111345906,"city_id":1446051,"language_key":"rw","name":"Abadla"}
+{"id":111347215,"city_id":1446068,"language_key":"rw","name":"Tenira"}
+{"id":111348601,"city_id":1446086,"language_key":"rw","name":"Lac des Oiseaux"}
+{"id":111350526,"city_id":1446111,"language_key":"rw","name":"Semmar"}
+{"id":111352066,"city_id":1446131,"language_key":"rw","name":"El Kharrouba"}
+{"id":111356763,"city_id":1446192,"language_key":"rw","name":"Labiod Medjadja"}
+{"id":111363154,"city_id":1446275,"language_key":"rw","name":"Ouled Hamou"}
+{"id":111371470,"city_id":1446383,"language_key":"rw","name":"Tacheta Zougagha"}
+{"id":111372394,"city_id":1446395,"language_key":"rw","name":"Ain Djasser"}
+{"id":111372856,"city_id":1446401,"language_key":"rw","name":"Bouhlou"}
+{"id":111383636,"city_id":1446541,"language_key":"rw","name":"El Harrach"}
+{"id":111383713,"city_id":1446542,"language_key":"rw","name":"El H'madna"}
+{"id":111388333,"city_id":1446602,"language_key":"rw","name":"Djebabra"}
+{"id":111396572,"city_id":1446709,"language_key":"rw","name":"Sidi Ziane"}
+{"id":111398189,"city_id":1446730,"language_key":"rw","name":"Sidi Ahmed"}
+{"id":111402039,"city_id":1446780,"language_key":"rw","name":"Ferraguig"}
+{"id":111410355,"city_id":1446888,"language_key":"rw","name":"Sidi Bakhti"}
+{"id":111411125,"city_id":1446898,"language_key":"rw","name":"Dar Ben Abdellah"}
+{"id":111413512,"city_id":1446929,"language_key":"rw","name":"Sidi Larbi Belmaktar"}
+{"id":111431299,"city_id":1447160,"language_key":"rw","name":"Lahmar"}
+{"id":111432608,"city_id":1447177,"language_key":"rw","name":"Souk el Djemaa"}
+{"id":111444543,"city_id":1447332,"language_key":"rw","name":"Bir Ould Khelifa"}
+{"id":111444697,"city_id":1447334,"language_key":"rw","name":"Club des Pins"}
+{"id":111446083,"city_id":1447352,"language_key":"rw","name":"`Ain el Turc"}
+{"id":111448316,"city_id":1447381,"language_key":"rw","name":"Timiaouine"}
+{"id":111448393,"city_id":1447382,"language_key":"rw","name":"Bordj Badji Mokhtar"}
+{"id":111448778,"city_id":1447387,"language_key":"rw","name":"Babor"}
+{"id":111449009,"city_id":1447390,"language_key":"rw","name":"Muri Salah"}
+{"id":111449317,"city_id":1447394,"language_key":"rw","name":"Ababsa"}
+{"id":111449471,"city_id":1447396,"language_key":"rw","name":"Rouachdia"}
+{"id":111449548,"city_id":1447397,"language_key":"rw","name":"Smala"}
+{"id":111460867,"city_id":1447544,"language_key":"rw","name":"Ain Rahma"}
+{"id":111471339,"city_id":1447680,"language_key":"rw","name":"Safsaf"}
+{"id":111471724,"city_id":1447685,"language_key":"rw","name":"Souaflia"}
+{"id":111476729,"city_id":1447750,"language_key":"rw","name":"Sidi Lazreg"}
+{"id":111481580,"city_id":1447813,"language_key":"rw","name":"Ouled Khelifa"}
+{"id":111487894,"city_id":1447895,"language_key":"rw","name":"Sidi Baizid"}
+{"id":111488972,"city_id":1447909,"language_key":"rw","name":"Sobha"}
+{"id":111490204,"city_id":1447925,"language_key":"rw","name":"Djelida"}
+{"id":111494747,"city_id":1447984,"language_key":"rw","name":"Taghzout"}
+{"id":111502139,"city_id":1448080,"language_key":"rw","name":"Bouaiche"}
+{"id":111505527,"city_id":1448124,"language_key":"rw","name":"Hannacha"}
+{"id":111507452,"city_id":1448149,"language_key":"rw","name":"Ouled Bouachra"}
+{"id":111507991,"city_id":1448156,"language_key":"rw","name":"Hassi Fedoul"}
+{"id":111514690,"city_id":1448243,"language_key":"rw","name":"Moussadek"}
+{"id":111534325,"city_id":1448498,"language_key":"rw","name":"Sidi Said"}
+{"id":111535480,"city_id":1448513,"language_key":"rw","name":"Mekhatriya"}
+{"id":111538868,"city_id":1448557,"language_key":"rw","name":"Tiberkanine"}
+{"id":111539792,"city_id":1448569,"language_key":"rw","name":"Ouled Ammar"}
+{"id":111540023,"city_id":1448572,"language_key":"rw","name":"Zeddine"}
+{"id":111540408,"city_id":1448577,"language_key":"rw","name":"Merabtine"}
+{"id":111542025,"city_id":1448598,"language_key":"rw","name":"Drablia"}
+{"id":111542410,"city_id":1448603,"language_key":"rw","name":"Sidi Zahar"}
+{"id":111542949,"city_id":1448610,"language_key":"rw","name":"Ouled Slama"}
+{"id":111543873,"city_id":1448622,"language_key":"rw","name":"Bouhadjar"}
+{"id":111545875,"city_id":1448648,"language_key":"rw","name":"Ridane"}
+{"id":111546568,"city_id":1448657,"language_key":"rw","name":"Oued Djemaa"}
+{"id":111546722,"city_id":1448659,"language_key":"rw","name":"El Guettana"}
+{"id":111547646,"city_id":1448671,"language_key":"rw","name":"Commune des Beni Bou Attab"}
+{"id":111547723,"city_id":1448672,"language_key":"rw","name":"Ait Yahia"}
+{"id":111548262,"city_id":1448679,"language_key":"rw","name":"Bourouba"}
+{"id":111548570,"city_id":1448683,"language_key":"rw","name":"Oued Koriche"}
+{"id":111548647,"city_id":1448684,"language_key":"rw","name":"Ali Mendjeli"}
+{"id":111548801,"city_id":1448686,"language_key":"rw","name":"Guelaftia"}
+{"id":111548955,"city_id":1448688,"language_key":"rw","name":"Ouled Sabor"}
+{"id":111549032,"city_id":1448689,"language_key":"rw","name":"Aghbalou"}
+{"id":111549263,"city_id":1448692,"language_key":"rw","name":"Tafraout"}
+{"id":111549879,"city_id":1448700,"language_key":"rw","name":"El Mouradia"}
+{"id":111549956,"city_id":1448701,"language_key":"rw","name":"Khettouti Sed El Djir"}
+{"id":111550264,"city_id":1448705,"language_key":"rw","name":"District of Taher"}
+{"id":111550341,"city_id":1448706,"language_key":"rw","name":"Collo"}
+{"id":111550418,"city_id":1448707,"language_key":"rw","name":"Maatka"}
+{"id":111550495,"city_id":1448708,"language_key":"rw","name":"Sidi Amar"}
+{"id":111550572,"city_id":1448709,"language_key":"rw","name":"Douar El Ma"}
+{"id":111550649,"city_id":1448710,"language_key":"rw","name":"El Borma"}
+{"id":111550803,"city_id":1448712,"language_key":"rw","name":"Zaouia"}
+{"id":111550880,"city_id":1448713,"language_key":"rw","name":"Kasbate El Djena"}
+{"id":111550957,"city_id":1448714,"language_key":"rw","name":"Deldoul"}
+{"id":111551034,"city_id":1448715,"language_key":"rw","name":"Tinerkouk"}
+{"id":111551111,"city_id":1448716,"language_key":"rw","name":"Ksar Kaddour"}
+{"id":111551188,"city_id":1448717,"language_key":"rw","name":"Talmine"}
+{"id":111551265,"city_id":1448718,"language_key":"rw","name":"Muri Zghmir"}

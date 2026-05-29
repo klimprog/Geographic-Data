@@ -1,0 +1,578 @@
+{"id":4363097,"country":"TW","region":null,"name":"Douliu","native_name":"斗六市","population":108355,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363110,"country":"TW","region":null,"name":"Yongkang","native_name":"永康","population":232970,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363124,"country":"TW","region":"TW-KHH","name":"Yongfang","native_name":"永芳","population":8332,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363131,"country":"TW","region":null,"name":"Yongjing","native_name":"永靖","population":33363,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363141,"country":"TW","region":null,"name":"Shitoucuo","native_name":"石頭厝","population":733,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363151,"country":"TW","region":null,"name":"Yuli","native_name":"玉里","population":22556,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363170,"country":"TW","region":null,"name":"Yuemei","native_name":"月眉","population":761,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363188,"country":"TW","region":null,"name":"Yujing","native_name":"玉井","population":16597,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363189,"country":"TW","region":null,"name":"Yuchi","native_name":"魚池","population":11453,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363190,"country":"TW","region":null,"name":"Youchewo","native_name":"油車窩","population":160,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363199,"country":"TW","region":"TW-TPE","name":"Youchekeng","native_name":"油車坑","population":26,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363231,"country":"TW","region":null,"name":"Yuanshan","native_name":"圓山","population":31218,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363242,"country":"TW","region":null,"name":"Yuanlin","native_name":"員林","population":119068,"status":3,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363246,"country":"TW","region":null,"name":"Yuanli","native_name":"苑裡","population":41302,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363255,"country":"TW","region":null,"name":"Yuanchang","native_name":"元長","population":19764,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363269,"country":"TW","region":"TW-TPE","name":"Yingge","native_name":"鶯歌","population":88509,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363282,"country":"TW","region":null,"name":"Yancuoliao","native_name":"顏厝寮","population":2121,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363305,"country":"TW","region":null,"name":"Yanping","native_name":"延平","population":1750,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363341,"country":"TW","region":null,"name":"Yangmei","native_name":"楊梅區","population":180723,"status":3,"native_status":"PPL","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363367,"country":"TW","region":null,"name":"Chenggong","native_name":"成功","population":9305,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363403,"country":"TW","region":null,"name":"Wutai","native_name":"霧臺","population":1461,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363436,"country":"TW","region":null,"name":"Shanliao","native_name":"山寮","population":1657,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363472,"country":"TW","region":null,"name":"Wugulin","native_name":"五股林","population":120,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363479,"country":"TW","region":null,"name":"Wuguang","native_name":"五塊厝","population":209,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363488,"country":"TW","region":null,"name":"Wugu","native_name":"五股","population":93577,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363505,"country":"TW","region":null,"name":"Wujiancuo","native_name":"五間厝","population":52,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363517,"country":"TW","region":null,"name":"Wufeng","native_name":"霧峰區","population":63537,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363542,"country":"TW","region":null,"name":"Wujie","native_name":"武界","population":39141,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363611,"country":"TW","region":null,"name":"Weijia","native_name":"Weijia","population":13171,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363654,"country":"TW","region":null,"name":"Wantan","native_name":"灣潭","population":1534,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363658,"country":"TW","region":null,"name":"Wandan","native_name":"萬丹","population":46732,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363674,"country":"TW","region":null,"name":"Wanluan","native_name":"萬巒","population":19316,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363677,"country":"TW","region":"TW-TPE","name":"Wanli","native_name":"萬里","population":20796,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363692,"country":"TW","region":null,"name":"Wangtongwen","native_name":"王通塭","population":1419,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363703,"country":"TW","region":null,"name":"Wangliao","native_name":"網寮","population":584,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363717,"country":"TW","region":null,"name":"Wang'an","native_name":"望安","population":3583,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363741,"country":"TW","region":null,"name":"Waishuiwei","native_name":"外水尾","population":53695,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363745,"country":"TW","region":null,"name":"Shitan","native_name":"獅潭","population":2657,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363767,"country":"TW","region":null,"name":"Waiganglin","native_name":"外岡林","population":95,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363795,"country":"TW","region":null,"name":"Citong","native_name":"莿桐","population":24998,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363831,"country":"TW","region":null,"name":"Dunzijiao","native_name":"墩子脚","population":2143,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363843,"country":"TW","region":null,"name":"Dongshiliao","native_name":"東勢寮","population":50094,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363873,"country":"TW","region":null,"name":"Dongshichencuo","native_name":"東勢陳厝","population":601,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363878,"country":"TW","region":null,"name":"Dongshi","native_name":"東勢","population":561,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363881,"country":"TW","region":null,"name":"Dongshi","native_name":"東石","population":14968,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363889,"country":"TW","region":null,"name":"Dongshanqian","native_name":"東山","population":2909,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363890,"country":"TW","region":null,"name":"Dongshan","native_name":"冬山","population":52046,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363892,"country":"TW","region":null,"name":"Dongshan","native_name":"東山","population":21320,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363914,"country":"TW","region":null,"name":"Tongluo","native_name":"銅鑼","population":16993,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363941,"country":"TW","region":null,"name":"Donggang","native_name":"東港","population":45036,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363959,"country":"TW","region":null,"name":"Tongxiao","native_name":"通霄","population":25915,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363960,"country":"TW","region":null,"name":"Dongxiao","native_name":"巫厝","population":9219,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363964,"country":"TW","region":null,"name":"Wukuailiao","native_name":"五塊寮","population":25379,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363965,"country":"TW","region":null,"name":"Donghe","native_name":"東和","population":7376,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4363990,"country":"TW","region":null,"name":"Tong'anliao","native_name":"同安寮","population":24100,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364010,"country":"TW","region":"TW-TPE","name":"Tuku","native_name":"土庫","population":25781,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364039,"country":"TW","region":"TW-TPE","name":"Tucheng","native_name":"土城","population":241006,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364084,"country":"TW","region":null,"name":"Zuozhen","native_name":"左鎮","population":4980,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364093,"country":"TW","region":null,"name":"Caotun","native_name":"草屯","population":94817,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364106,"country":"TW","region":null,"name":"Caoshan","native_name":"草山","population":27439,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364141,"country":"TW","region":null,"name":"Zaoqiao","native_name":"造橋","population":12387,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364180,"country":"TW","region":null,"name":"Touwu","native_name":"頭屋","population":8974,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364190,"country":"TW","region":null,"name":"Toushe","native_name":"頭社","population":51,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364197,"country":"TW","region":null,"name":"Dounan","native_name":"斗南","population":41487,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364220,"country":"TW","region":null,"name":"Toufen","native_name":"頭份","population":106523,"status":3,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364231,"country":"TW","region":null,"name":"Touqianpu","native_name":"頭前寮","population":1862,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364239,"country":"TW","region":"TW-TPE","name":"Toucheng","native_name":"頭城","population":25378,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364240,"country":"TW","region":null,"name":"Toucheng","native_name":"頭城","population":28147,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364273,"country":"TW","region":null,"name":"Dingdongbu","native_name":"頂東埔","population":145,"status":4,"native_status":"village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364284,"country":"TW","region":null,"name":"Tianwei","native_name":"田尾","population":25456,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364310,"country":"TW","region":null,"name":"Dingbu","native_name":"頂埔","population":13850,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364312,"country":"TW","region":null,"name":"Dingbu","native_name":"頂埔","population":6978,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364321,"country":"TW","region":null,"name":"Jinning","native_name":"頂半天","population":16485,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364326,"country":"TW","region":null,"name":"Dingnei","native_name":"碇內","population":12145,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364362,"country":"TW","region":null,"name":"Dingli","native_name":"頂犂","population":42947,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364367,"country":"TW","region":"TW-KHH","name":"Gongguan","native_name":"公館","population":27644,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364507,"country":"TW","region":null,"name":"Tianbu","native_name":"典寶","population":116,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364537,"country":"TW","region":null,"name":"Tianliao","native_name":"田寮","population":33410,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364583,"country":"TW","region":null,"name":"Tianzhong","native_name":"田中","population":34903,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364658,"country":"TW","region":"TW-TPE","name":"Dawu","native_name":"大武","population":2846,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364679,"country":"TW","region":null,"name":"Datong","native_name":"大同","population":3999,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364685,"country":"TW","region":null,"name":"Datong","native_name":"大同","population":5975,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364690,"country":"TW","region":null,"name":"Dadong","native_name":"大東","population":12490,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364697,"country":"TW","region":null,"name":"Dacun","native_name":"大村","population":42858,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364721,"country":"TW","region":null,"name":"Dataoping","native_name":"大桃坪","population":2141,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364727,"country":"TW","region":null,"name":"Datan","native_name":"大潭","population":35674,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364745,"country":"TW","region":"TW-TPE","name":"Dashehu","native_name":"大舌湖","population":675,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364759,"country":"TW","region":null,"name":"Guangxing","native_name":"廣興","population":18791,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364784,"country":"TW","region":null,"name":"Dapi","native_name":"大埤","population":15427,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364893,"country":"TW","region":"TW-TPE","name":"Danshui","native_name":"淡水","population":195769,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364927,"country":"TW","region":null,"name":"Danei","native_name":"大內","population":9962,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364936,"country":"TW","region":null,"name":"Pingzhen","native_name":"平鎮","population":229431,"status":3,"native_status":"PPL","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364946,"country":"TW","region":null,"name":"Danan","native_name":"大南","population":31406,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364964,"country":"TW","region":"TW-TPE","name":"Dalunwei","native_name":"大崙尾","population":16900,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364986,"country":"TW","region":"TW-KHH","name":"Dalinbu","native_name":"大林埔","population":319,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364990,"country":"TW","region":null,"name":"Xiaofenlin","native_name":"小分林","population":28633,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4364991,"country":"TW","region":null,"name":"Dalin","native_name":"大林","population":37573,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365064,"country":"TW","region":null,"name":"Daren","native_name":"達仁","population":1695,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365075,"country":"TW","region":null,"name":"Taiwu","native_name":"太武","population":3427,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365080,"country":"TW","region":null,"name":"Taitung","native_name":"臺東","population":103260,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365084,"country":"TW","region":null,"name":"Taidoukeng","native_name":"臺上","population":23,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365098,"country":"TW","region":null,"name":"Taipei","native_name":"台北市","population":2655515,"status":1,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365100,"country":"TW","region":null,"name":"Taibao","native_name":"太保","population":38696,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365102,"country":"TW","region":null,"name":"Xinying","native_name":"新營","population":74932,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365103,"country":"TW","region":null,"name":"Tainan","native_name":"臺南市","population":1855662,"status":2,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365106,"country":"TW","region":null,"name":"Taimali","native_name":"太麻里","population":8621,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365115,"country":"TW","region":null,"name":"Taixi","native_name":"臺西","population":15306,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365116,"country":"TW","region":"TW-TPE","name":"Dahu","native_name":"大湖","population":11053,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365119,"country":"TW","region":null,"name":"Fengyuan","native_name":"豐原","population":163634,"status":2,"native_status":"neighbourhood","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365120,"country":"TW","region":null,"name":"Taichung","native_name":"臺中市","population":2559485,"status":2,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365122,"country":"TW","region":null,"name":"Tai'an","native_name":"泰安","population":2808,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365149,"country":"TW","region":null,"name":"Dahu","native_name":"大湖","population":164,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365205,"country":"TW","region":null,"name":"Dazhuang","native_name":"大莊","population":240428,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365227,"country":"TW","region":null,"name":"Daqiuyuan","native_name":"大丘園","population":28942,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365254,"country":"TW","region":null,"name":"Daqiedong","native_name":"大茄苳","population":2496,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365256,"country":"TW","region":null,"name":"Xinfeng","native_name":"新豐","population":65910,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365264,"country":"TW","region":null,"name":"Daqi","native_name":"大崎","population":4100,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365267,"country":"TW","region":null,"name":"Dacheng","native_name":"大城","population":11327,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365318,"country":"TW","region":null,"name":"Songquangang","native_name":"松泉崗","population":1362,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365326,"country":"TW","region":null,"name":"Su'ao","native_name":"蘇澳","population":37421,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365387,"country":"TW","region":null,"name":"Sihu","native_name":"泗湖","population":21351,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365405,"country":"TW","region":null,"name":"Sijiuyi","native_name":"四鬮一","population":1208,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365442,"country":"TW","region":"TW-TPE","name":"Shulin","native_name":"樹林區","population":179866,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365496,"country":"TW","region":null,"name":"Shuitou","native_name":"水頭","population":444,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365511,"country":"TW","region":null,"name":"Shuishang","native_name":"水上","population":52011,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365536,"country":"TW","region":null,"name":"Shuilin","native_name":"水林","population":16966,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365537,"country":"TW","region":null,"name":"Shuili","native_name":"水里","population":12700,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365569,"country":"TW","region":null,"name":"Shuichangliu","native_name":"水長流","population":980,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365602,"country":"TW","region":"TW-TPE","name":"Shuangxi","native_name":"雙溪","population":7771,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365620,"country":"TW","region":null,"name":"Shoufeng","native_name":"壽豐","population":24692,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365621,"country":"TW","region":"TW-KHH","name":"Guangfu","native_name":"廣福","population":10473,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365634,"country":"TW","region":null,"name":"Shiwenxi","native_name":"石頭灣","population":1412,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365659,"country":"TW","region":null,"name":"Shicuoliao","native_name":"施厝寮","population":330,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365684,"country":"TW","region":"TW-TPE","name":"Shiding","native_name":"石碇","population":7235,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365686,"country":"TW","region":"TW-TPE","name":"Shidi","native_name":"石底","population":3998,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365701,"country":"TW","region":"TW-TPE","name":"Shishuizi","native_name":"濕水仔","population":3083,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365765,"country":"TW","region":"TW-TPE","name":"Shimen","native_name":"石門","population":11605,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365766,"country":"TW","region":"TW-TPE","name":"Shimenkeng","native_name":"石門坑","population":4300,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365812,"country":"TW","region":null,"name":"Xiashigu","native_name":"下十股","population":1886,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365845,"country":"TW","region":null,"name":"Shifen","native_name":"十份","population":6774,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365864,"country":"TW","region":null,"name":"Shicheng","native_name":"石城","population":139,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365877,"country":"TW","region":null,"name":"Shezikeng","native_name":"檨子坑","population":5741,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365890,"country":"TW","region":null,"name":"Shetou","native_name":"社頭","population":36565,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365906,"country":"TW","region":"TW-TPE","name":"Shenkeng","native_name":"深坑","population":23633,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365910,"country":"TW","region":null,"name":"Shengang","native_name":"神岡","population":36187,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365930,"country":"TW","region":null,"name":"Shenzhen","native_name":"深圳","population":6700,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4365937,"country":"TW","region":null,"name":"Shekou","native_name":"社口","population":658,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366001,"country":"TW","region":"TW-TPE","name":"Shanzijiao","native_name":"山仔脚","population":45992,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366015,"country":"TW","region":null,"name":"Shanding","native_name":"山頂","population":1036,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366023,"country":"TW","region":null,"name":"Shanshang","native_name":"山上","population":7359,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366030,"country":"TW","region":null,"name":"Shanbao","native_name":"山豹","population":5020,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366053,"country":"TW","region":null,"name":"Shanhua","native_name":"善化","population":47660,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366088,"country":"TW","region":null,"name":"Shangsihu","native_name":"上四湖","population":188,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366114,"country":"TW","region":null,"name":"Shanglin","native_name":"上寮","population":719,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366130,"country":"TW","region":"TW-KHH","name":"Ji'an","native_name":"吉安","population":82246,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366159,"country":"TW","region":null,"name":"Shanfeng","native_name":"山豬窟","population":3226,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366176,"country":"TW","region":null,"name":"Shanjiao","native_name":"山腳","population":3178,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366219,"country":"TW","region":null,"name":"Wanrong","native_name":"萬榮","population":3378,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366225,"country":"TW","region":null,"name":"Sanwan","native_name":"三灣","population":4836,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366238,"country":"TW","region":null,"name":"Sandimen","native_name":"三地門","population":5472,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366287,"country":"TW","region":"TW-TPE","name":"Banqiao","native_name":"板橋區","population":551221,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366300,"country":"TW","region":null,"name":"Sankuaicuo","native_name":"三塊厝","population":711,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366327,"country":"TW","region":null,"name":"Sanyi","native_name":"三義","population":14314,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366335,"country":"TW","region":null,"name":"Sanxing","native_name":"三星","population":26466,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366341,"country":"TW","region":null,"name":"Sanxiakeng","native_name":"三洽坑","population":194,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366342,"country":"TW","region":"TW-TPE","name":"Sanxia","native_name":"三峽","population":115280,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366366,"country":"TW","region":"TW-TPE","name":"Sanchong","native_name":"三重","population":382871,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366374,"country":"TW","region":"TW-TPE","name":"Sanzhi","native_name":"三芝","population":22762,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366379,"country":"TW","region":null,"name":"Sanjiancuo","native_name":"三間厝","population":670,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366449,"country":"TW","region":null,"name":"Buzi","native_name":"埔子","population":40467,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366471,"country":"TW","region":null,"name":"Budai","native_name":"布袋","population":19268,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366476,"country":"TW","region":null,"name":"Pubian","native_name":"埔邊","population":34928,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366481,"country":"TW","region":null,"name":"Puli","native_name":"埔里鎮","population":81526,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366486,"country":"TW","region":null,"name":"Fuxing","native_name":"復興","population":44836,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366516,"country":"TW","region":null,"name":"Boziliao","native_name":"萡子寮","population":690,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366518,"country":"TW","region":null,"name":"Pozi","native_name":"朴子","population":40537,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366562,"country":"TW","region":null,"name":"Pitou","native_name":"埤頭","population":28306,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366590,"country":"TW","region":null,"name":"Pingdong","native_name":"Pingdong","population":205388,"status":3,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366591,"country":"TW","region":null,"name":"Pingtung","native_name":"屏東市","population":193238,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366617,"country":"TW","region":"TW-TPE","name":"Pinglin","native_name":"坪林","population":6439,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366626,"country":"TW","region":"TW-TPE","name":"Pingxi","native_name":"平溪","population":4089,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366640,"country":"TW","region":null,"name":"Nanshan","native_name":"南山","population":624,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366647,"country":"TW","region":null,"name":"Piliao","native_name":"皮寮","population":26822,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366722,"country":"TW","region":null,"name":"Beitou","native_name":"北投","population":249576,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366724,"country":"TW","region":null,"name":"Beidou","native_name":"北斗","population":32939,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366770,"country":"TW","region":null,"name":"Beimen","native_name":"北門","population":11333,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366772,"country":"TW","region":null,"name":"Paizilutou","native_name":"排仔路頭","population":1627,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366794,"country":"TW","region":null,"name":"Beigang","native_name":"北港","population":33300,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366834,"country":"TW","region":null,"name":"Bade","native_name":"八德","population":211659,"status":3,"native_status":"PPL","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366835,"country":"TW","region":null,"name":"Dingbenxianpou","native_name":"頂本縣廍","population":166,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366852,"country":"TW","region":null,"name":"Baozijiaokeng","native_name":"下莊","population":2283,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366863,"country":"TW","region":null,"name":"Baoshan","native_name":"寶山","population":19410,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366871,"country":"TW","region":null,"name":"Baozhong","native_name":"褒忠","population":9686,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366877,"country":"TW","region":null,"name":"Dalunwei","native_name":"大崙尾","population":4167,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366919,"country":"TW","region":null,"name":"Balumo'anshe","native_name":"巴魯莫安社","population":6951,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366930,"country":"TW","region":null,"name":"Baliao","native_name":"八寮","population":7021,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366966,"country":"TW","region":null,"name":"Baishatun","native_name":"白沙屯","population":12384,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366973,"country":"TW","region":null,"name":"Baisha","native_name":"白砂","population":5826,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4366999,"country":"TW","region":null,"name":"Baihe","native_name":"白河","population":28819,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367024,"country":"TW","region":null,"name":"Emei","native_name":"峨眉","population":4112,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367035,"country":"TW","region":null,"name":"Niucuo","native_name":"牛厝","population":7397,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367081,"country":"TW","region":null,"name":"Niuchoubu","native_name":"牛稠埔","population":1308,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367106,"country":"TW","region":null,"name":"Niaosong","native_name":"蔦松","population":82,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367164,"country":"TW","region":null,"name":"Neili","native_name":"內壢","population":112845,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367175,"country":"TW","region":null,"name":"Poneikeng","native_name":"坡內坑","population":67119,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367184,"country":"TW","region":null,"name":"Neihu","native_name":"內湖","population":274538,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367250,"country":"TW","region":null,"name":"Nantou","native_name":"南投","population":101761,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367268,"country":"TW","region":"TW-KHH","name":"Nanshilun","native_name":"南勢崙","population":175,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367327,"country":"TW","region":null,"name":"Keli","native_name":"南公館","population":1855,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367344,"country":"TW","region":null,"name":"Nangang","native_name":"南港","population":11548,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367358,"country":"TW","region":null,"name":"Nanhua","native_name":"南化","population":8838,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367372,"country":"TW","region":null,"name":"Nanxi","native_name":"楠西","population":19580,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367387,"country":"TW","region":null,"name":"Nanzhuhu","native_name":"南竹湖","population":269,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367388,"country":"TW","region":null,"name":"Nanzhuang","native_name":"南庄","population":7102,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367393,"country":"TW","region":"TW-KHH","name":"Nanzhou","native_name":"南洲","population":9167,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367401,"country":"TW","region":null,"name":"Nan'ao","native_name":"南澳","population":5333,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367410,"country":"TW","region":null,"name":"Mudan","native_name":"牡丹","population":2629,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367419,"country":"TW","region":null,"name":"Molizhuang","native_name":"茉莉莊","population":15588,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367436,"country":"TW","region":null,"name":"Minxiong","native_name":"民雄","population":85391,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367440,"country":"TW","region":null,"name":"Xinyi","native_name":"信義","population":11424,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367447,"country":"TW","region":null,"name":"Mingjian","native_name":"名間","population":30749,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367475,"country":"TW","region":null,"name":"Miaoli","native_name":"苗栗","population":86284,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367504,"country":"TW","region":null,"name":"Meishan","native_name":"美山","population":15088,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367511,"country":"TW","region":"TW-KHH","name":"Meinong","native_name":"美濃","population":36678,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367546,"country":"TW","region":null,"name":"Madou","native_name":"麻豆","population":43911,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367573,"country":"TW","region":null,"name":"Maobu","native_name":"茅埔","population":470,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367622,"country":"TW","region":null,"name":"Magong","native_name":"馬公","population":60090,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367629,"country":"TW","region":null,"name":"Mailiao","native_name":"馬興","population":36134,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367648,"country":"TW","region":null,"name":"Majia","native_name":"馬家","population":5571,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367656,"country":"TW","region":null,"name":"Luye","native_name":"鹿野","population":7116,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367668,"country":"TW","region":null,"name":"Lucao","native_name":"鹿草","population":13611,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367718,"country":"TW","region":null,"name":"Changzhi","native_name":"長治","population":28865,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367722,"country":"TW","region":null,"name":"Lunbei","native_name":"崙背","population":18793,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367752,"country":"TW","region":null,"name":"Longtan","native_name":"龍潭","population":126941,"status":4,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367827,"country":"TW","region":"TW-TPE","name":"Luku","native_name":"鹿窟","population":265,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367828,"country":"TW","region":null,"name":"Lugu","native_name":"鹿谷","population":17746,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367831,"country":"TW","region":null,"name":"Lugang","native_name":"鹿港","population":87076,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367849,"country":"TW","region":"TW-TPE","name":"Luzhou","native_name":"蘆洲","population":199022,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367861,"country":"TW","region":null,"name":"Luodong","native_name":"羅東","population":69861,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4367955,"country":"TW","region":null,"name":"Liujiao","native_name":"六腳","population":16719,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368019,"country":"TW","region":null,"name":"Linbian","native_name":"林内村","population":13730,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368022,"country":"TW","region":null,"name":"Linnei","native_name":"林內","population":16094,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368025,"country":"TW","region":null,"name":"Linluo","native_name":"麟洛","population":9487,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368028,"country":"TW","region":"TW-TPE","name":"Linkou","native_name":"林口","population":135050,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368059,"country":"TW","region":null,"name":"Ligang","native_name":"里港","population":20250,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368176,"country":"TW","region":null,"name":"Laiyi","native_name":"來義","population":5203,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368254,"country":"TW","region":null,"name":"Guoxing","native_name":"國姓","population":12593,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368289,"country":"TW","region":"TW-TPE","name":"Gongliao","native_name":"貢寮","population":10810,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368316,"country":"TW","region":null,"name":"Gonghuakeng","native_name":"公華坑","population":160617,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368353,"country":"TW","region":null,"name":"Gukeng","native_name":"古坑","population":26217,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368380,"country":"TW","region":null,"name":"Guike","native_name":"龜殼","population":1049,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368403,"country":"TW","region":null,"name":"Guanyin","native_name":"觀音","population":75134,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368414,"country":"TW","region":null,"name":"Guantian","native_name":"官田","population":21535,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368421,"country":"TW","region":null,"name":"Guanshan","native_name":"關山","population":7812,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368422,"country":"TW","region":null,"name":"Guanmiao","native_name":"關廟","population":34601,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368429,"country":"TW","region":null,"name":"Guanxi","native_name":"關西","population":29693,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368488,"country":"TW","region":null,"name":"Kouhu","native_name":"口湖","population":16261,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368581,"country":"TW","region":null,"name":"Gaoshu","native_name":"高樹","population":17271,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368602,"country":"TW","region":"TW-KHH","name":"Fengshan","native_name":"鳳山區","population":355659,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368603,"country":"TW","region":"TW-KHH","name":"Kaohsiung","native_name":"高雄市","population":2734275,"status":2,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368639,"country":"TW","region":null,"name":"Kanding","native_name":"崁頂","population":10789,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368704,"country":"TW","region":"TW-KHH","name":"Gangshan","native_name":"岡山","population":95287,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368711,"country":"TW","region":null,"name":"Gangweiliao","native_name":"港尾寮","population":32839,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368761,"country":"TW","region":null,"name":"Kanjiao","native_name":"崁脚","population":441,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368792,"country":"TW","region":null,"name":"Ruisui","native_name":"瑞穗","population":8582,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368801,"country":"TW","region":"TW-TPE","name":"Ruifang","native_name":"瑞芳","population":36745,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368810,"country":"TW","region":"TW-TPE","name":"Rixinxincun","native_name":"仁武","population":168,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368814,"country":"TW","region":null,"name":"Rende","native_name":"仁德","population":5075,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368855,"country":"TW","region":null,"name":"Yilan","native_name":"宜蘭","population":94547,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368873,"country":"TW","region":null,"name":"Yizhu","native_name":"義竹","population":12127,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368879,"country":"TW","region":null,"name":"Yiqi","native_name":"義崎","population":7542,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368883,"country":"TW","region":null,"name":"Huwei","native_name":"虎尾","population":77513,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368918,"country":"TW","region":null,"name":"Hushan","native_name":"湖山","population":9217,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4368986,"country":"TW","region":null,"name":"Hukou","native_name":"湖口","population":99774,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369003,"country":"TW","region":null,"name":"Huxi","native_name":"湖西","population":11578,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369014,"country":"TW","region":null,"name":"Huatan","native_name":"花壇","population":45420,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369044,"country":"TW","region":null,"name":"Hualien City","native_name":"花蓮市","population":99458,"status":2,"native_status":"neighbourhood","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369076,"country":"TW","region":null,"name":"Xuejia","native_name":"學甲","population":18457,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369086,"country":"TW","region":null,"name":"Xiwozi","native_name":"細窩子","population":4764,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369091,"country":"TW","region":null,"name":"Xiwei","native_name":"溪尾","population":512,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369106,"country":"TW","region":null,"name":"Xiongjiaowo","native_name":"芎蕉窩","population":483,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369118,"country":"TW","region":null,"name":"Xiulin","native_name":"秀林","population":15184,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369136,"country":"TW","region":null,"name":"Xitun","native_name":"西屯","population":236107,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369190,"country":"TW","region":null,"name":"Xishan","native_name":"西山","population":57118,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369224,"country":"TW","region":null,"name":"Xibao","native_name":"西寶","population":39933,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369229,"country":"TW","region":"TW-KHH","name":"Xinyuan","native_name":"新園","population":30983,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369277,"country":"TW","region":"TW-TPE","name":"Xindian","native_name":"新店區","population":305924,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369286,"country":"TW","region":"TW-KHH","name":"Xindagang","native_name":"新水","population":5806,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369290,"country":"TW","region":null,"name":"Xinshi","native_name":"新市","population":37875,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369319,"country":"TW","region":null,"name":"Xinpi","native_name":"新北寮","population":7958,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369352,"country":"TW","region":"TW-KHH","name":"Xinliao","native_name":"新寮","population":557,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369360,"country":"TW","region":null,"name":"Xinjizhuang","native_name":"新吉莊","population":656,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369377,"country":"TW","region":null,"name":"Xingang","native_name":"新港","population":27976,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369386,"country":"TW","region":null,"name":"Xinhua","native_name":"新化","population":43727,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369400,"country":"TW","region":null,"name":"Xiaxinxing","native_name":"下新興","population":56,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369484,"country":"TW","region":"TW-TPE","name":"Xinzhuang","native_name":"新莊","population":423722,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369506,"country":"TW","region":null,"name":"Hsinchu","native_name":"新竹","population":455403,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369520,"country":"TW","region":null,"name":"Jinhu","native_name":"金湖鎮","population":30826,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369538,"country":"TW","region":null,"name":"Xincheng","native_name":"新城","population":25236,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369558,"country":"TW","region":null,"name":"Xiluo","native_name":"西螺","population":37181,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369571,"country":"TW","region":null,"name":"Xiguli","native_name":"頭角","population":6166,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369574,"country":"TW","region":null,"name":"Xikou","native_name":"溪口","population":11755,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369591,"country":"TW","region":null,"name":"Xihu","native_name":"溪湖","population":50536,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369596,"country":"TW","region":null,"name":"Xiaxixin","native_name":"下溪心","population":76234,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369616,"country":"TW","region":null,"name":"Xianxi","native_name":"線西","population":16158,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369669,"country":"TW","region":"TW-TPE","name":"Xizhi","native_name":"汐止","population":207278,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369740,"country":"TW","region":null,"name":"Shuiwei","native_name":"水尾","population":202,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369758,"country":"TW","region":null,"name":"Dingzhuang","native_name":"頂莊","population":2987,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369789,"country":"TW","region":null,"name":"Xiaping","native_name":"下坪","population":81,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369807,"country":"TW","region":null,"name":"Xiaotushi","native_name":"小塗師","population":2150,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369872,"country":"TW","region":null,"name":"Xiaoxueshanlinban","native_name":"新庄","population":2650,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369891,"country":"TW","region":null,"name":"Xianian","native_name":"廈粘","population":1218,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369976,"country":"TW","region":null,"name":"Xiali","native_name":"下犂","population":8646,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4369978,"country":"TW","region":null,"name":"Xiaguoxi","native_name":"下過溪","population":27857,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370109,"country":"TW","region":"TW-TPE","name":"Houtong","native_name":"侯硐","population":1703,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370158,"country":"TW","region":null,"name":"Houbian","native_name":"後壁","population":52,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370160,"country":"TW","region":null,"name":"Houbi","native_name":"後壁","population":24066,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370170,"country":"TW","region":null,"name":"Houlong","native_name":"後龍","population":33874,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370201,"country":"TW","region":null,"name":"Houhuzi","native_name":"後湖仔","population":6005,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370219,"country":"TW","region":null,"name":"Houzhuangzi","native_name":"後莊仔","population":2994,"status":4,"native_status":"village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370250,"country":"TW","region":"TW-KHH","name":"Heshangzhuang","native_name":"和尚莊","population":788,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370266,"country":"TW","region":null,"name":"Hemei","native_name":"和美","population":93165,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370289,"country":"TW","region":"TW-KHH","name":"Hengshan","native_name":"橫山","population":11885,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370319,"country":"TW","region":null,"name":"Hengchun","native_name":"恆春鎮","population":29702,"status":2,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370357,"country":"TW","region":null,"name":"Haiduan","native_name":"海端","population":2242,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370366,"country":"TW","region":"TW-KHH","name":"Haibu","native_name":"海埔","population":7442,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370385,"country":"TW","region":null,"name":"Haifeng","native_name":"海豐","population":131,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370408,"country":"TW","region":null,"name":"Futian","native_name":"福田","population":91,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370436,"country":"TW","region":null,"name":"Fuli","native_name":"富里","population":8012,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370463,"country":"TW","region":null,"name":"Tianliao","native_name":"田寮","population":315,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370504,"country":"TW","region":null,"name":"Fenyuan","native_name":"芬園","population":21321,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370553,"country":"TW","region":null,"name":"Fengbin","native_name":"豐濱","population":2043,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370563,"country":"TW","region":null,"name":"Fenglin","native_name":"楓林","population":8604,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370583,"country":"TW","region":null,"name":"Fengfu","native_name":"豐富","population":452,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370587,"country":"TW","region":null,"name":"Xizhou","native_name":"溪洲","population":27185,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370616,"country":"TW","region":null,"name":"Fanzicuo","native_name":"番子厝","population":25832,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370686,"country":"TW","region":null,"name":"Fanlu","native_name":"番路","population":9046,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370693,"country":"TW","region":null,"name":"Fangyuan","native_name":"芳苑","population":27103,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370703,"country":"TW","region":null,"name":"Fangshan","native_name":"Fangshan","population":4069,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370708,"country":"TW","region":"TW-TPE","name":"Chung-ho","native_name":"中和","population":406183,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370710,"country":"TW","region":null,"name":"Fangliao","native_name":"枋寮","population":21292,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370733,"country":"TW","region":null,"name":"Ershui","native_name":"二水","population":13013,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370750,"country":"TW","region":null,"name":"Erlun","native_name":"二崙","population":21558,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370752,"country":"TW","region":null,"name":"Erlin","native_name":"二林","population":43652,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370773,"country":"TW","region":null,"name":"Erchongxi","native_name":"二重溪","population":8535,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370791,"country":"TW","region":null,"name":"Zhuweizi","native_name":"竹圍子","population":769,"status":4,"native_status":"village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370814,"country":"TW","region":null,"name":"Zhuweinei","native_name":"竹圍內","population":66,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370854,"country":"TW","region":null,"name":"Zhudong","native_name":"竹東","population":96518,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370866,"country":"TW","region":null,"name":"Zhutian","native_name":"竹田","population":18973,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370869,"country":"TW","region":null,"name":"Zhutang","native_name":"竹塘","population":10283,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370882,"country":"TW","region":null,"name":"Zhushan","native_name":"竹山","population":44083,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370889,"country":"TW","region":null,"name":"Zhubei","native_name":"竹北","population":218236,"status":2,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370890,"country":"TW","region":null,"name":"Chunyang","native_name":"春陽","population":18068,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370920,"country":"TW","region":null,"name":"Chunri","native_name":"圳心","population":3484,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370921,"country":"TW","region":null,"name":"Chunri","native_name":"春日","population":451,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370931,"country":"TW","region":null,"name":"Jhongyanggang","native_name":"中央岡","population":6982,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4370937,"country":"TW","region":null,"name":"Zhongliao","native_name":"中寮","population":9668,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371025,"country":"TW","region":"TW-KHH","name":"Zhongliao","native_name":"中寮","population":125,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371027,"country":"TW","region":null,"name":"Zhongli","native_name":"中壢","population":433048,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371053,"country":"TW","region":null,"name":"Zhongkeng","native_name":"中坑","population":8350,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371065,"country":"TW","region":null,"name":"Zhongyijie","native_name":"中一結","population":126,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371170,"country":"TW","region":null,"name":"Zhunan","native_name":"竹南","population":98406,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371244,"country":"TW","region":null,"name":"Zhuqi","native_name":"竹崎","population":24977,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371266,"country":"TW","region":null,"name":"Zhuangwei","native_name":"壯圍","population":22172,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371315,"country":"TW","region":null,"name":"Zhuolan","native_name":"卓蘭","population":13120,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371316,"country":"TW","region":null,"name":"Zhuoxi","native_name":"卓溪","population":3073,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371334,"country":"TW","region":null,"name":"Qiucuo","native_name":"邱厝","population":6215,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371364,"country":"TW","region":null,"name":"Qionglin","native_name":"瓊林","population":22154,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371372,"country":"TW","region":null,"name":"Jiuliangxi","native_name":"酒姑仔","population":807,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371387,"country":"TW","region":null,"name":"Jiugang","native_name":"舊港","population":423,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371390,"country":"TW","region":null,"name":"Jiuru","native_name":"九如","population":19576,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371416,"country":"TW","region":"TW-TPE","name":"Jiufen","native_name":"九份","population":3100,"status":4,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371420,"country":"TW","region":null,"name":"Jiufangcuo","native_name":"九房厝","population":10458,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371464,"country":"TW","region":null,"name":"Qidian","native_name":"奇斯薩庫","population":297,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371491,"country":"TW","region":"TW-TPE","name":"Jinshan","native_name":"金山","population":20210,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371494,"country":"TW","region":null,"name":"Jinsha","native_name":"Jinsha","population":8868,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371500,"country":"TW","region":null,"name":"Jincheng","native_name":"金城","population":37507,"status":2,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371582,"country":"TW","region":null,"name":"Qingliu","native_name":"清流","population":59553,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371616,"country":"TW","region":null,"name":"Qimei","native_name":"奇美","population":1487,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371620,"country":"TW","region":null,"name":"Keelung","native_name":"基隆市","population":364354,"status":2,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371635,"country":"TW","region":null,"name":"Qilao","native_name":"耆老","population":11985,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371676,"country":"TW","region":null,"name":"Chishang","native_name":"池上","population":7025,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371739,"country":"TW","region":null,"name":"Jianshi","native_name":"尖石","population":5116,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371826,"country":"TW","region":"TW-KHH","name":"Qijin","native_name":"旗津區","population":25874,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371838,"country":"TW","region":null,"name":"Jiji","native_name":"集集","population":9234,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371851,"country":"TW","region":null,"name":"Jiadong","native_name":"加走寮","population":15503,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371892,"country":"TW","region":"TW-KHH","name":"Qiaozitou","native_name":"橋子頭","population":3808,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371893,"country":"TW","region":null,"name":"Jiaoxi","native_name":"礁溪","population":34370,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371941,"country":"TW","region":null,"name":"Jiali","native_name":"佳裏","population":59458,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371953,"country":"TW","region":null,"name":"Chiayi City","native_name":"嘉義市","population":263188,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371954,"country":"TW","region":null,"name":"Qiedongjiao","native_name":"茄苳腳","population":226,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4371968,"country":"TW","region":null,"name":"Qiedongjiao","native_name":"茄苳腳","population":55,"status":4,"native_status":"village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372053,"country":"TW","region":"TW-TPE","name":"Checheng","native_name":"車埕","population":6034,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372072,"country":"TW","region":null,"name":"Alishan","native_name":"阿里山","population":2317,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372084,"country":"TW","region":null,"name":"Chaozhou","native_name":"潮洲","population":54224,"status":3,"native_status":"Urban Township (Zhen)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372112,"country":"TW","region":"TW-TPE","name":"Zhangshuwan","native_name":"樟樹灣","population":958,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372123,"country":"TW","region":null,"name":"Changbin","native_name":"長濱","population":4691,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372137,"country":"TW","region":null,"name":"Chengzibu","native_name":"城子埔","population":2688,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372144,"country":"TW","region":null,"name":"Chang-hua","native_name":"彰化","population":225687,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372183,"country":"TW","region":null,"name":"Qingyecun","native_name":"青葉村","population":745,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372201,"country":"TW","region":"TW-KHH","name":"Ancuo","native_name":"安厝","population":8362,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372203,"country":"TW","region":null,"name":"Anding","native_name":"安定","population":30447,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372224,"country":"TW","region":"TW-KHH","name":"Anzhong","native_name":"庵前","population":111,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372341,"country":"TW","region":null,"name":"Xishiwei","native_name":"西勢尾","population":270,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372397,"country":"TW","region":null,"name":"Macuo","native_name":"馬厝","population":406,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372575,"country":"TW","region":null,"name":"Dahu","native_name":"大湖","population":1700,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372599,"country":"TW","region":null,"name":"Tuoping","native_name":"拖坪","population":81410,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372623,"country":"TW","region":null,"name":"Shiwufen","native_name":"十五份","population":11754,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372630,"country":"TW","region":null,"name":"Paoshi","native_name":"砲石","population":5873,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372667,"country":"TW","region":null,"name":"Wule","native_name":"武樂","population":204,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372794,"country":"TW","region":null,"name":"Sanzhang","native_name":"Shang-hsin-t’ien","population":521,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372849,"country":"TW","region":null,"name":"Liaozi","native_name":"竹圍子","population":3459,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372865,"country":"TW","region":null,"name":"Changhua","native_name":"彰化市","population":223368,"status":3,"native_status":"City (Shi)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372877,"country":"TW","region":null,"name":"Wailiao","native_name":"外寮","population":32,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4372912,"country":"TW","region":null,"name":"Benjihu","native_name":"Mo-t’ien-ling","population":2503,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373102,"country":"TW","region":null,"name":"Zhonggaoyi","native_name":"中高義","population":46,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373136,"country":"TW","region":null,"name":"Guocuo","native_name":"郭厝","population":4329,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373147,"country":"TW","region":null,"name":"Luocuo","native_name":"羅厝","population":2765,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373153,"country":"TW","region":null,"name":"Shangluocuo","native_name":"上羅厝","population":4952,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373157,"country":"TW","region":null,"name":"Zhancuo","native_name":"詹厝","population":481,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373225,"country":"TW","region":null,"name":"Bogonglun","native_name":"伯公崙","population":1897,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373238,"country":"TW","region":null,"name":"Lumingqiao","native_name":"鹿鳴橋","population":20136,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373262,"country":"TW","region":null,"name":"Tangliao","native_name":"糖寮","population":354,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373275,"country":"TW","region":null,"name":"Cukeng","native_name":"粗坑","population":11770,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373281,"country":"TW","region":null,"name":"Zhiwo","native_name":"直窩","population":1326,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373320,"country":"TW","region":null,"name":"Laochating","native_name":"老茶亭","population":1153,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373325,"country":"TW","region":null,"name":"Qiuwu","native_name":"邱屋","population":192,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373349,"country":"TW","region":null,"name":"Yucuo","native_name":"余厝","population":52150,"status":4,"native_status":"town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373383,"country":"TW","region":null,"name":"Pingzhen","native_name":"平鎮區","population":229431,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373426,"country":"TW","region":null,"name":"Tianzhongyang","native_name":"田中央","population":10287,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373449,"country":"TW","region":null,"name":"Fenjihu","native_name":"糞箕湖","population":18660,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373500,"country":"TW","region":null,"name":"Danong","native_name":"大農","population":4599,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373513,"country":"TW","region":null,"name":"Minshengshequ","native_name":"民生社區","population":46,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373520,"country":"TW","region":null,"name":"Haluzi","native_name":"哈路仔","population":571,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373615,"country":"TW","region":null,"name":"Laicuo","native_name":"賴厝","population":7821,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373647,"country":"TW","region":null,"name":"Shanliao","native_name":"山寮","population":968,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373719,"country":"TW","region":null,"name":"Sunzilinwei","native_name":"筍子林尾","population":3246,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373723,"country":"TW","region":null,"name":"Lengshuikeng","native_name":"冷水坑","population":153,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4373773,"country":"TW","region":null,"name":"Chushui","native_name":"出水","population":5729,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374028,"country":"TW","region":null,"name":"Liuxiucaizhai","native_name":"劉秀才宅","population":101,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374054,"country":"TW","region":null,"name":"Dianqiliaozi","native_name":"電氣寮仔","population":39986,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374056,"country":"TW","region":null,"name":"Licuo","native_name":"李厝","population":6938,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374100,"country":"TW","region":null,"name":"Yecuo","native_name":"葉厝","population":4513,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374122,"country":"TW","region":null,"name":"Shibajia","native_name":"十八甲","population":1120,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374129,"country":"TW","region":null,"name":"Micuo","native_name":"米厝","population":442,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374208,"country":"TW","region":null,"name":"Hushan","native_name":"虎山","population":214,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374282,"country":"TW","region":null,"name":"Shinankeng","native_name":"P’i-liao","population":112,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374329,"country":"TW","region":null,"name":"Dagedong","native_name":"大哥洞","population":331,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374497,"country":"TW","region":null,"name":"Baqi","native_name":"芭崎","population":1801,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374502,"country":"TW","region":null,"name":"Xinfeng","native_name":"新豐","population":1359,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374513,"country":"TW","region":null,"name":"Chaijie","native_name":"柴櫛","population":20417,"status":3,"native_status":"CDP","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374523,"country":"TW","region":null,"name":"Dakuwei","native_name":"大堀尾","population":670,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374538,"country":"TW","region":null,"name":"Sanfensuo","native_name":"三分所","population":730,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374556,"country":"TW","region":null,"name":"Xialiaozi","native_name":"下寮仔","population":556,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374557,"country":"TW","region":null,"name":"Tuqiding","native_name":"土埼頂","population":1860,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374563,"country":"TW","region":null,"name":"Goujinglun","native_name":"狗頸崙","population":803,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374577,"country":"TW","region":null,"name":"Erliao","native_name":"二寮","population":264,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374669,"country":"TW","region":"TW-KHH","name":"Neiliao","native_name":"内寮","population":101,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374702,"country":"TW","region":"TW-KHH","name":"Jialing","native_name":"嘉嶺","population":388,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374721,"country":"TW","region":"TW-KHH","name":"Songjiaozi","native_name":"松腳子","population":195,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374730,"country":"TW","region":null,"name":"Xiakan","native_name":"下崁","population":648,"status":4,"native_status":"village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374751,"country":"TW","region":null,"name":"Dazhai","native_name":"大宅","population":263,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374771,"country":"TW","region":"TW-KHH","name":"Beishitou","native_name":"北勢頭","population":44,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374784,"country":"TW","region":null,"name":"Zhaocuo","native_name":"趙厝","population":328,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374798,"country":"TW","region":"TW-KHH","name":"Waziliao","native_name":"挖仔寮","population":1980,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374800,"country":"TW","region":"TW-KHH","name":"Pinei","native_name":"埤內","population":254,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374874,"country":"TW","region":null,"name":"Shanjiao","native_name":"山脚","population":158,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374876,"country":"TW","region":null,"name":"Jiahe","native_name":"加和","population":31,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374878,"country":"TW","region":null,"name":"Shanping","native_name":"山平","population":274,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374888,"country":"TW","region":null,"name":"Longxing","native_name":"隆興","population":231,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374940,"country":"TW","region":null,"name":"Jinfeng","native_name":"金峰","population":2280,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374991,"country":"TW","region":null,"name":"Dingbishi","native_name":"頂筆石","population":80,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4374993,"country":"TW","region":null,"name":"Songshuangyan","native_name":"松瀧岩","population":1163,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375015,"country":"TW","region":null,"name":"Xiafenshuiling","native_name":"下分水嶺","population":405,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375016,"country":"TW","region":null,"name":"Hutou Buluo","native_name":"虎頭部落","population":548,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375027,"country":"TW","region":null,"name":"Piri","native_name":"埤日","population":42,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375040,"country":"TW","region":null,"name":"Sioulin","native_name":"泥船","population":1124,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375044,"country":"TW","region":null,"name":"Bagu","native_name":"八股","population":142,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375066,"country":"TW","region":null,"name":"Goubei","native_name":"溝背","population":263,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375087,"country":"TW","region":null,"name":"Nanwo","native_name":"南窩","population":20986,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375109,"country":"TW","region":null,"name":"Shangbilai","native_name":"上比來","population":4965,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375117,"country":"TW","region":null,"name":"Zhangshuyuan","native_name":"樟樹園","population":110,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375118,"country":"TW","region":null,"name":"Beijiao","native_name":"北角","population":68,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375123,"country":"TW","region":null,"name":"Kuaishan","native_name":"檜山","population":640,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375159,"country":"TW","region":null,"name":"Beikeng","native_name":"北坑","population":193,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375167,"country":"TW","region":null,"name":"Sanxing","native_name":"三興","population":21146,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375172,"country":"TW","region":"TW-TPE","name":"Piziding","native_name":"埤仔頂","population":1505,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375187,"country":"TW","region":"TW-TPE","name":"Shipang","native_name":"石磅","population":52,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375227,"country":"TW","region":"TW-TPE","name":"Shi'erfen","native_name":"十二分","population":94,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375229,"country":"TW","region":"TW-TPE","name":"Luoliaoping","native_name":"羅料坪","population":3456,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375288,"country":"TW","region":null,"name":"Huotankeng","native_name":"火炭坑","population":379,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375335,"country":"TW","region":"TW-TPE","name":"Yuanchuang","native_name":"圓窗","population":246,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375341,"country":"TW","region":null,"name":"Tiandizi","native_name":"田底仔","population":82,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375349,"country":"TW","region":null,"name":"Qixinglun","native_name":"七星崙","population":7362,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375354,"country":"TW","region":null,"name":"Tulonggou","native_name":"土壠溝","population":138,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375379,"country":"TW","region":null,"name":"Xibu","native_name":"溪埔","population":1003,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375383,"country":"TW","region":null,"name":"Dasongjiao","native_name":"大松腳","population":3005,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375402,"country":"TW","region":null,"name":"Sihuzi","native_name":"四戸子","population":101,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375416,"country":"TW","region":null,"name":"Nanwanggongliao","native_name":"南王功寮","population":484,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375440,"country":"TW","region":null,"name":"Beihoucuo","native_name":"北後厝","population":205,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375479,"country":"TW","region":null,"name":"Nangang","native_name":"南港","population":68,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375534,"country":"TW","region":null,"name":"Shangzhuang","native_name":"上莊","population":3,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375590,"country":"TW","region":null,"name":"Wuhua","native_name":"五化","population":781,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375629,"country":"TW","region":null,"name":"Qiuwu","native_name":"邱屋","population":82,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375663,"country":"TW","region":null,"name":"Dongdian","native_name":"東店","population":31399,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375817,"country":"TW","region":null,"name":"Weihu","native_name":"尾湖","population":298,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375832,"country":"TW","region":null,"name":"Xiabu","native_name":"下埔","population":5832,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375950,"country":"TW","region":null,"name":"Zhentoukeng","native_name":"圳頭坑","population":218,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4375979,"country":"TW","region":null,"name":"Jiucengtou","native_name":"九層頭","population":4943,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376106,"country":"TW","region":null,"name":"Xinzhu","native_name":"新竹","population":499468,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376350,"country":"TW","region":null,"name":"Wuchengkou","native_name":"五城口","population":1398,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376352,"country":"TW","region":null,"name":"Xiandongping","native_name":"仙洞坪","population":2134,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376392,"country":"TW","region":null,"name":"Sezikeng","native_name":"澀子坑","population":457,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376423,"country":"TW","region":null,"name":"Wulikeng","native_name":"五里坑","population":756,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376432,"country":"TW","region":null,"name":"Zhen'anjiao","native_name":"圳岸脚","population":1383,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376444,"country":"TW","region":null,"name":"Santiaozhuang","native_name":"三條庄","population":10735,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376462,"country":"TW","region":null,"name":"Xinxing","native_name":"新興","population":472,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376474,"country":"TW","region":null,"name":"Ren'ai","native_name":"仁愛","population":11366,"status":3,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376549,"country":"TW","region":null,"name":"Kezhuang","native_name":"客庄","population":158,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376569,"country":"TW","region":null,"name":"Lizhijiao","native_name":"荔枝脚","population":805,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376570,"country":"TW","region":null,"name":"Huoshaoliaokeng","native_name":"火燒寮坑","population":763,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376577,"country":"TW","region":null,"name":"Dacuonei","native_name":"大厝内","population":114,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376618,"country":"TW","region":null,"name":"Guilun","native_name":"龜倫","population":237,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376623,"country":"TW","region":null,"name":"Chunfanzhai","native_name":"春帆宅","population":8224,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376632,"country":"TW","region":null,"name":"Fangliao","native_name":"枋寮","population":1829,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376668,"country":"TW","region":null,"name":"Zhuwei","native_name":"竹圍","population":1665,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376711,"country":"TW","region":null,"name":"Guanniuwo","native_name":"關牛窩","population":126,"status":3,"native_status":"Village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376877,"country":"TW","region":null,"name":"Guangdongzhuang","native_name":"廣東莊","population":474,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376879,"country":"TW","region":null,"name":"Wangxi","native_name":"望溪","population":682,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376894,"country":"TW","region":null,"name":"Kangwu","native_name":"康屋","population":863,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4376899,"country":"TW","region":null,"name":"Chengzi","native_name":"城仔","population":47,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377092,"country":"TW","region":null,"name":"Shuanglianpo","native_name":"雙連陂","population":1687,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377158,"country":"TW","region":null,"name":"Dongneizha","native_name":"東內柵","population":1721,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377190,"country":"TW","region":null,"name":"Dapingding","native_name":"大坪頂","population":587,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377224,"country":"TW","region":null,"name":"Hedong","native_name":"合東","population":235,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377247,"country":"TW","region":null,"name":"Xidi","native_name":"溪底","population":1394,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377295,"country":"TW","region":null,"name":"Xiqianzi","native_name":"溪墘仔","population":6641,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377361,"country":"TW","region":null,"name":"Dingfanlu","native_name":"頂番路","population":222,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377400,"country":"TW","region":null,"name":"Houhuzi","native_name":"後湖仔","population":186,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377446,"country":"TW","region":null,"name":"Shamiji","native_name":"沙米箕","population":121,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377452,"country":"TW","region":"TW-KHH","name":"Mazhuhu","native_name":"麻竹湖","population":509,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377531,"country":"TW","region":null,"name":"Shanjiao","native_name":"山脚","population":1877,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377542,"country":"TW","region":null,"name":"Dengcuo","native_name":"鄧厝","population":537,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377601,"country":"TW","region":"TW-KHH","name":"Citongkeng","native_name":"莿桐坑","population":426,"status":4,"native_status":"village","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377664,"country":"TW","region":"TW-KHH","name":"Beishikeng","native_name":"北勢坑","population":56590,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377777,"country":"TW","region":null,"name":"Taoyuan","native_name":"桃園區","population":474697,"status":2,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377789,"country":"TW","region":null,"name":"Shitoubu","native_name":"石頭埔","population":915,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377835,"country":"TW","region":null,"name":"Danan","native_name":"大湳","population":10667,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377913,"country":"TW","region":"TW-TPE","name":"Haiwei","native_name":"海尾","population":7027,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377957,"country":"TW","region":null,"name":"Baifu","native_name":"百福","population":8399,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4377999,"country":"TW","region":null,"name":"Lunziwei","native_name":"崙子尾","population":296,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378027,"country":"TW","region":null,"name":"Abawan","native_name":"阿巴灣","population":1487,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378070,"country":"TW","region":null,"name":"Sanyun","native_name":"散雲","population":4677,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378145,"country":"TW","region":null,"name":"Xizhou","native_name":"溪洲","population":27910,"status":3,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378167,"country":"TW","region":null,"name":"Wang'an","native_name":"望安","population":82,"status":4,"native_status":"hamlet","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378182,"country":"TW","region":"TW-TPE","name":"Danhai","native_name":"淡海","population":127,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378211,"country":"TW","region":"TW-TPE","name":"Xiaocuo","native_name":"蕭厝","population":154,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378219,"country":"TW","region":null,"name":"Fangqiao","native_name":"枋橋","population":12695,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378233,"country":"TW","region":"TW-TPE","name":"Chencuo","native_name":"陳厝","population":496,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378271,"country":"TW","region":null,"name":"Shuiyuandi","native_name":"水源地","population":847,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378278,"country":"TW","region":"TW-TPE","name":"Lunwei","native_name":"崙尾","population":1341,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378291,"country":"TW","region":null,"name":"Qianzhuang","native_name":"前庄","population":4461,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378299,"country":"TW","region":"TW-TPE","name":"Gangzikou","native_name":"港仔口","population":357,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378312,"country":"TW","region":"TW-TPE","name":"Xiatianliao","native_name":"下田寮","population":8233,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378323,"country":"TW","region":null,"name":"Cukeng","native_name":"粗坑","population":1228,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378324,"country":"TW","region":"TW-TPE","name":"Xiaopinglin","native_name":"小坪林","population":361,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378391,"country":"TW","region":null,"name":"Yuliaodong","native_name":"魚寮東","population":11447,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378481,"country":"TW","region":null,"name":"Wushanlingjiao","native_name":"烏山嶺腳","population":205,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378488,"country":"TW","region":null,"name":"Jiushe","native_name":"舊社","population":6430,"status":3,"native_status":"Township","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378503,"country":"TW","region":null,"name":"Suzhenbu","native_name":"蘇貞埔","population":455,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378507,"country":"TW","region":null,"name":"Waicenglin","native_name":"外層林","population":115,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378530,"country":"TW","region":null,"name":"Nanhukou","native_name":"南湖口","population":163,"status":3,"native_status":"Census-Designated Place","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378602,"country":"TW","region":null,"name":"Jiayi","native_name":"佳義","population":252028,"status":3,"native_status":"City","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378631,"country":"TW","region":null,"name":"Houwan","native_name":"後灣","population":584,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378672,"country":"TW","region":null,"name":"Xindongcun","native_name":"新東村","population":85,"status":3,"native_status":"Town","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378726,"country":"TW","region":null,"name":"Nangan","native_name":"南竿鄉","population":7723,"status":2,"native_status":"Rural Township (Xiang)","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378727,"country":"TW","region":null,"name":"Zhongxing New Village","native_name":"中興新村","population":25549,"status":2,"native_status":"locality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}
+{"id":4378736,"country":"TW","region":"TW-TPE","name":"New Taipei City","native_name":"新北市","population":4185157,"status":3,"native_status":"Special Municipality","timezone_utc":"UTC+8","timezone_iana":"Asia/Taipei"}

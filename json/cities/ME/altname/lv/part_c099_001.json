@@ -1,0 +1,976 @@
+{"id":232307655,"city_id":3016983,"language_key":"lv","name":"Rožaje"}
+{"id":232307732,"city_id":3016984,"language_key":"lv","name":"Radetina"}
+{"id":232307809,"city_id":3016985,"language_key":"lv","name":"Poroca"}
+{"id":232308348,"city_id":3016992,"language_key":"lv","name":"Ibarac"}
+{"id":232308425,"city_id":3016993,"language_key":"lv","name":"Grahovo"}
+{"id":232309349,"city_id":3017005,"language_key":"lv","name":"Bac"}
+{"id":232309580,"city_id":3017008,"language_key":"lv","name":"Bovan"}
+{"id":232309657,"city_id":3017009,"language_key":"lv","name":"Dolina"}
+{"id":232310196,"city_id":3017016,"language_key":"lv","name":"Donja Lovnica"}
+{"id":232310504,"city_id":3017020,"language_key":"lv","name":"Plumci"}
+{"id":232310658,"city_id":3017022,"language_key":"lv","name":"Halilovic"}
+{"id":232310735,"city_id":3017023,"language_key":"lv","name":"Dubovik"}
+{"id":232310889,"city_id":3017025,"language_key":"lv","name":"Kopiljaca [historical]"}
+{"id":232310966,"city_id":3017026,"language_key":"lv","name":"Sredani"}
+{"id":232311582,"city_id":3017034,"language_key":"lv","name":"Redzica Krlje"}
+{"id":232311659,"city_id":3017035,"language_key":"lv","name":"Koljeno"}
+{"id":232311736,"city_id":3017036,"language_key":"lv","name":"Visnjice"}
+{"id":232311813,"city_id":3017037,"language_key":"lv","name":"Donji Besnik"}
+{"id":232311890,"city_id":3017038,"language_key":"lv","name":"Dzudzevici"}
+{"id":232312275,"city_id":3017043,"language_key":"lv","name":"Seosnica"}
+{"id":232312352,"city_id":3017044,"language_key":"lv","name":"Tuzeva Luka"}
+{"id":232312583,"city_id":3017047,"language_key":"lv","name":"Kacari"}
+{"id":232312891,"city_id":3017051,"language_key":"lv","name":"Dracinovac"}
+{"id":232313430,"city_id":3017058,"language_key":"lv","name":"Zupci"}
+{"id":232313507,"city_id":3017059,"language_key":"lv","name":"Zukovica"}
+{"id":232313584,"city_id":3017060,"language_key":"lv","name":"Zoganj"}
+{"id":232313892,"city_id":3017064,"language_key":"lv","name":"Zirci"}
+{"id":232313969,"city_id":3017065,"language_key":"lv","name":"Zidovici"}
+{"id":232314046,"city_id":3017066,"language_key":"lv","name":"Zelenika"}
+{"id":232314277,"city_id":3017069,"language_key":"lv","name":"Zankovici"}
+{"id":232314431,"city_id":3017071,"language_key":"lv","name":"Zaljevo"}
+{"id":232314585,"city_id":3017073,"language_key":"lv","name":"Zagrade"}
+{"id":232314739,"city_id":3017075,"language_key":"lv","name":"Zagora"}
+{"id":232315124,"city_id":3017080,"language_key":"lv","name":"Zablak"}
+{"id":232315201,"city_id":3017081,"language_key":"lv","name":"Vusane"}
+{"id":232315355,"city_id":3017083,"language_key":"lv","name":"Vuksanlekici"}
+{"id":232315740,"city_id":3017088,"language_key":"lv","name":"Vrela"}
+{"id":232315817,"city_id":3017089,"language_key":"lv","name":"Gornja Vrbica"}
+{"id":232315971,"city_id":3017091,"language_key":"lv","name":"Vrba"}
+{"id":232316125,"city_id":3017093,"language_key":"lv","name":"Vranjina"}
+{"id":232316202,"city_id":3017094,"language_key":"lv","name":"Vranj"}
+{"id":232316664,"city_id":3017100,"language_key":"lv","name":"Vladni"}
+{"id":232316895,"city_id":3017103,"language_key":"lv","name":"Visnjevo"}
+{"id":232317049,"city_id":3017105,"language_key":"lv","name":"Virpazar"}
+{"id":232317126,"city_id":3017106,"language_key":"lv","name":"Vinicka"}
+{"id":232317280,"city_id":3017108,"language_key":"lv","name":"Vilusi"}
+{"id":232317511,"city_id":3017111,"language_key":"lv","name":"Velje Selo"}
+{"id":232317588,"city_id":3017112,"language_key":"lv","name":"Velje Selo"}
+{"id":232317819,"city_id":3017115,"language_key":"lv","name":"Vaskovo"}
+{"id":232318127,"city_id":3017119,"language_key":"lv","name":"Ulciņa"}
+{"id":232318281,"city_id":3017121,"language_key":"lv","name":"Ugnji"}
+{"id":232318358,"city_id":3017122,"language_key":"lv","name":"Ubli"}
+{"id":232318435,"city_id":3017123,"language_key":"lv","name":"Ubli"}
+{"id":232318743,"city_id":3017127,"language_key":"lv","name":"Tuzi Ljevorecke"}
+{"id":232318820,"city_id":3017128,"language_key":"lv","name":"Tuzi"}
+{"id":232319051,"city_id":3017131,"language_key":"lv","name":"Tudemili"}
+{"id":232319128,"city_id":3017132,"language_key":"lv","name":"Tucane"}
+{"id":232319359,"city_id":3017135,"language_key":"lv","name":"Trnovo"}
+{"id":232319590,"city_id":3017138,"language_key":"lv","name":"Tresnjevo"}
+{"id":232319821,"city_id":3017141,"language_key":"lv","name":"Trebesinj"}
+{"id":232319898,"city_id":3017142,"language_key":"lv","name":"Trabojin"}
+{"id":232320052,"city_id":3017144,"language_key":"lv","name":"Tomba"}
+{"id":232320129,"city_id":3017145,"language_key":"lv","name":"Tomasevo"}
+{"id":232320283,"city_id":3017147,"language_key":"lv","name":"Tivata"}
+{"id":232320514,"city_id":3017150,"language_key":"lv","name":"Tejani"}
+{"id":232320591,"city_id":3017151,"language_key":"lv","name":"Sveti Stefan"}
+{"id":232320745,"city_id":3017153,"language_key":"lv","name":"Sveti Dorde"}
+{"id":232320822,"city_id":3017154,"language_key":"lv","name":"Sutvara"}
+{"id":232320899,"city_id":3017155,"language_key":"lv","name":"Sutomore"}
+{"id":232321053,"city_id":3017157,"language_key":"lv","name":"Susuna"}
+{"id":232321130,"city_id":3017158,"language_key":"lv","name":"Sustas"}
+{"id":232321207,"city_id":3017159,"language_key":"lv","name":"Suscepan"}
+{"id":232321284,"city_id":3017160,"language_key":"lv","name":"Donje Sume"}
+{"id":232321438,"city_id":3017162,"language_key":"lv","name":"Sukobin"}
+{"id":232321669,"city_id":3017165,"language_key":"lv","name":"Stube"}
+{"id":232321823,"city_id":3017167,"language_key":"lv","name":"Strojtenica"}
+{"id":232321900,"city_id":3017168,"language_key":"lv","name":"Strahinici"}
+{"id":232322131,"city_id":3017171,"language_key":"lv","name":"Stedim"}
+{"id":232322208,"city_id":3017172,"language_key":"lv","name":"Staro Selo"}
+{"id":232322285,"city_id":3017173,"language_key":"lv","name":"Stari Bar"}
+{"id":232322362,"city_id":3017174,"language_key":"lv","name":"Staniselici"}
+{"id":232322516,"city_id":3017176,"language_key":"lv","name":"Srpska"}
+{"id":232322593,"city_id":3017177,"language_key":"lv","name":"Sretnja"}
+{"id":232322747,"city_id":3017179,"language_key":"lv","name":"Spuz"}
+{"id":232322824,"city_id":3017180,"language_key":"lv","name":"Spina"}
+{"id":232322901,"city_id":3017181,"language_key":"lv","name":"Sobaici"}
+{"id":232323209,"city_id":3017185,"language_key":"lv","name":"Sljuke"}
+{"id":232323363,"city_id":3017187,"language_key":"lv","name":"Slatina"}
+{"id":232323748,"city_id":3017192,"language_key":"lv","name":"Sjenozeta"}
+{"id":232323825,"city_id":3017193,"language_key":"lv","name":"Sjerogoste"}
+{"id":232324518,"city_id":3017202,"language_key":"lv","name":"Sekulici"}
+{"id":232324595,"city_id":3017203,"language_key":"lv","name":"Savnik"}
+{"id":232324672,"city_id":3017204,"language_key":"lv","name":"Sasovici"}
+{"id":232324749,"city_id":3017205,"language_key":"lv","name":"Sas"}
+{"id":232325519,"city_id":3017215,"language_key":"lv","name":"Risan"}
+{"id":232325596,"city_id":3017216,"language_key":"lv","name":"Rijeka Crnojevica"}
+{"id":232325673,"city_id":3017217,"language_key":"lv","name":"Rijecani"}
+{"id":232325750,"city_id":3017218,"language_key":"lv","name":"Resnik"}
+{"id":232326058,"city_id":3017222,"language_key":"lv","name":"Ratisevina"}
+{"id":232326135,"city_id":3017223,"language_key":"lv","name":"Rastovac"}
+{"id":232326289,"city_id":3017225,"language_key":"lv","name":"Rakonje"}
+{"id":232326520,"city_id":3017228,"language_key":"lv","name":"Radovici"}
+{"id":232327059,"city_id":3017235,"language_key":"lv","name":"Provalija"}
+{"id":232327213,"city_id":3017237,"language_key":"lv","name":"Prnjavor"}
+{"id":232327290,"city_id":3017238,"language_key":"lv","name":"Pristan"}
+{"id":232327367,"city_id":3017239,"language_key":"lv","name":"Prisoja"}
+{"id":232327444,"city_id":3017240,"language_key":"lv","name":"Pripčici"}
+{"id":232327521,"city_id":3017241,"language_key":"lv","name":"Prijevor"}
+{"id":232327829,"city_id":3017245,"language_key":"lv","name":"Prifta"}
+{"id":232327983,"city_id":3017247,"language_key":"lv","name":"Prevlaka"}
+{"id":232328060,"city_id":3017248,"language_key":"lv","name":"Previs"}
+{"id":232328137,"city_id":3017249,"language_key":"lv","name":"Prentin Do"}
+{"id":232328291,"city_id":3017251,"language_key":"lv","name":"Prcan"}
+{"id":232328368,"city_id":3017252,"language_key":"lv","name":"Pracica"}
+{"id":232328599,"city_id":3017255,"language_key":"lv","name":"Pozeginja"}
+{"id":232328676,"city_id":3017256,"language_key":"lv","name":"Donja Povija"}
+{"id":232328830,"city_id":3017258,"language_key":"lv","name":"Potkrajci"}
+{"id":232328907,"city_id":3017259,"language_key":"lv","name":"Poscenje"}
+{"id":232329061,"city_id":3017261,"language_key":"lv","name":"Ponikvica"}
+{"id":232329138,"city_id":3017262,"language_key":"lv","name":"Ponari"}
+{"id":232329292,"city_id":3017264,"language_key":"lv","name":"Poljice"}
+{"id":232329369,"city_id":3017265,"language_key":"lv","name":"Polje"}
+{"id":232329677,"city_id":3017269,"language_key":"lv","name":"Podi"}
+{"id":232329754,"city_id":3017270,"language_key":"lv","name":"Pothum"}
+{"id":232329831,"city_id":3017271,"language_key":"lv","name":"Podgorica"}
+{"id":232329985,"city_id":3017273,"language_key":"lv","name":"Poda"}
+{"id":232330216,"city_id":3017276,"language_key":"lv","name":"Pluzine"}
+{"id":232330293,"city_id":3017277,"language_key":"lv","name":"Pljevlja"}
+{"id":232330370,"city_id":3017278,"language_key":"lv","name":"Plav"}
+{"id":232330524,"city_id":3017280,"language_key":"lv","name":"Pikalja"}
+{"id":232330601,"city_id":3017281,"language_key":"lv","name":"Pikalja"}
+{"id":232330832,"city_id":3017284,"language_key":"lv","name":"Petrovac na Moru"}
+{"id":232330909,"city_id":3017285,"language_key":"lv","name":"Petnik"}
+{"id":232330986,"city_id":3017286,"language_key":"lv","name":"Pesca"}
+{"id":232331063,"city_id":3017287,"language_key":"lv","name":"Perast"}
+{"id":232331140,"city_id":3017288,"language_key":"lv","name":"Pelinkovici"}
+{"id":232331217,"city_id":3017289,"language_key":"lv","name":"Pelev Brijeg"}
+{"id":232331294,"city_id":3017290,"language_key":"lv","name":"Pecurice"}
+{"id":232331679,"city_id":3017295,"language_key":"lv","name":"Papani"}
+{"id":232331833,"city_id":3017297,"language_key":"lv","name":"Ozrinici"}
+{"id":232332064,"city_id":3017300,"language_key":"lv","name":"Ovtocici"}
+{"id":232332295,"city_id":3017303,"language_key":"lv","name":"Orlīna"}
+{"id":232332372,"city_id":3017304,"language_key":"lv","name":"Orja Luka"}
+{"id":232332603,"city_id":3017307,"language_key":"lv","name":"Donji Orahovac"}
+{"id":232332911,"city_id":3017311,"language_key":"lv","name":"Ocinici"}
+{"id":232332988,"city_id":3017312,"language_key":"lv","name":"Obrov"}
+{"id":232333142,"city_id":3017314,"language_key":"lv","name":"Oblatno"}
+{"id":232333219,"city_id":3017315,"language_key":"lv","name":"Katuniste"}
+{"id":232333296,"city_id":3017316,"language_key":"lv","name":"Novsici"}
+{"id":232333373,"city_id":3017317,"language_key":"lv","name":"Novoselje"}
+{"id":232333450,"city_id":3017318,"language_key":"lv","name":"Negusi"}
+{"id":232333527,"city_id":3017319,"language_key":"lv","name":"Nikšiča"}
+{"id":232333604,"city_id":3017320,"language_key":"lv","name":"Nikmaras"}
+{"id":232333681,"city_id":3017321,"language_key":"lv","name":"Nedakusi"}
+{"id":232333758,"city_id":3017322,"language_key":"lv","name":"Nedajno"}
+{"id":232333989,"city_id":3017325,"language_key":"lv","name":"Murino"}
+{"id":232334066,"city_id":3017326,"language_key":"lv","name":"Muo"}
+{"id":232334297,"city_id":3017329,"language_key":"lv","name":"Mrcevac"}
+{"id":232334374,"city_id":3017330,"language_key":"lv","name":"Moticki Gaj"}
+{"id":232334451,"city_id":3017331,"language_key":"lv","name":"Donje Morakovo"}
+{"id":232334528,"city_id":3017332,"language_key":"lv","name":"Moraice"}
+{"id":232334759,"city_id":3017335,"language_key":"lv","name":"Mokro"}
+{"id":232334990,"city_id":3017338,"language_key":"lv","name":"Mojkovac"}
+{"id":232335067,"city_id":3017339,"language_key":"lv","name":"Mojanovici"}
+{"id":232335144,"city_id":3017340,"language_key":"lv","name":"Mljeticak"}
+{"id":232335221,"city_id":3017341,"language_key":"lv","name":"Misici"}
+{"id":232335375,"city_id":3017343,"language_key":"lv","name":"Milovo"}
+{"id":232335452,"city_id":3017344,"language_key":"lv","name":"Milovo"}
+{"id":232335529,"city_id":3017345,"language_key":"lv","name":"Milovici"}
+{"id":232335837,"city_id":3017349,"language_key":"lv","name":"Mide"}
+{"id":232335914,"city_id":3017350,"language_key":"lv","name":"Mezgalji"}
+{"id":232336222,"city_id":3017354,"language_key":"lv","name":"Meljine"}
+{"id":232336299,"city_id":3017355,"language_key":"lv","name":"Matesevo"}
+{"id":232336376,"city_id":3017356,"language_key":"lv","name":"Mataguzi"}
+{"id":232336453,"city_id":3017357,"language_key":"lv","name":"Martinovici"}
+{"id":232336684,"city_id":3017360,"language_key":"lv","name":"Mandici"}
+{"id":232336761,"city_id":3017361,"language_key":"lv","name":"Malenza"}
+{"id":232336838,"city_id":3017362,"language_key":"lv","name":"Mala Gorana"}
+{"id":232336992,"city_id":3017364,"language_key":"lv","name":"Mahala"}
+{"id":232337223,"city_id":3017367,"language_key":"lv","name":"Donji Luzac"}
+{"id":232337377,"city_id":3017369,"language_key":"lv","name":"Lubnice"}
+{"id":232337454,"city_id":3017370,"language_key":"lv","name":"Lozna"}
+{"id":232337762,"city_id":3017374,"language_key":"lv","name":"Liverovici"}
+{"id":232337839,"city_id":3017375,"language_key":"lv","name":"Livari"}
+{"id":232338070,"city_id":3017378,"language_key":"lv","name":"Lipci"}
+{"id":232338455,"city_id":3017383,"language_key":"lv","name":"Lepetani"}
+{"id":232338532,"city_id":3017384,"language_key":"lv","name":"Lepenac"}
+{"id":232338609,"city_id":3017385,"language_key":"lv","name":"Leovo Brdo"}
+{"id":232338686,"city_id":3017386,"language_key":"lv","name":"Lekici"}
+{"id":232338917,"city_id":3017389,"language_key":"lv","name":"Lazarev Krst"}
+{"id":232339148,"city_id":3017392,"language_key":"lv","name":"Kuti"}
+{"id":232339225,"city_id":3017393,"language_key":"lv","name":"Kuti"}
+{"id":232339302,"city_id":3017394,"language_key":"lv","name":"Kurilo"}
+{"id":232339456,"city_id":3017396,"language_key":"lv","name":"Kunak"}
+{"id":232339610,"city_id":3017398,"language_key":"lv","name":"Kujava"}
+{"id":232339918,"city_id":3017402,"language_key":"lv","name":"Kruta"}
+{"id":232340072,"city_id":3017404,"language_key":"lv","name":"Krusevo"}
+{"id":232340149,"city_id":3017405,"language_key":"lv","name":"Krusevo"}
+{"id":232340226,"city_id":3017406,"language_key":"lv","name":"Bijelo Polje"}
+{"id":232340380,"city_id":3017408,"language_key":"lv","name":"Kruce"}
+{"id":232340919,"city_id":3017415,"language_key":"lv","name":"Krasici"}
+{"id":232340996,"city_id":3017416,"language_key":"lv","name":"Krajnji Do"}
+{"id":232341227,"city_id":3017419,"language_key":"lv","name":"Kovren"}
+{"id":232341304,"city_id":3017420,"language_key":"lv","name":"Kotora"}
+{"id":232341535,"city_id":3017423,"language_key":"lv","name":"Kostanica"}
+{"id":232341920,"city_id":3017428,"language_key":"lv","name":"Kornet"}
+{"id":232342228,"city_id":3017432,"language_key":"lv","name":"Komarno"}
+{"id":232342305,"city_id":3017433,"language_key":"lv","name":"Kolenovici"}
+{"id":232342382,"city_id":3017434,"language_key":"lv","name":"Kolasin"}
+{"id":232342921,"city_id":3017441,"language_key":"lv","name":"Kanje"}
+{"id":232342998,"city_id":3017442,"language_key":"lv","name":"Kameno"}
+{"id":232343845,"city_id":3017453,"language_key":"lv","name":"Jabuka"}
+{"id":232344230,"city_id":3017458,"language_key":"lv","name":"Hassi Berkane"}
+{"id":232344307,"city_id":3017459,"language_key":"lv","name":"Igalo"}
+{"id":232344384,"city_id":3017460,"language_key":"lv","name":"Hercegnovi"}
+{"id":232344615,"city_id":3017463,"language_key":"lv","name":"Gusine"}
+{"id":232344769,"city_id":3017465,"language_key":"lv","name":"Gruda"}
+{"id":232344846,"city_id":3017466,"language_key":"lv","name":"Grbavci"}
+{"id":232345077,"city_id":3017469,"language_key":"lv","name":"Gradina"}
+{"id":232345231,"city_id":3017471,"language_key":"lv","name":"Gradani"}
+{"id":232345693,"city_id":3017477,"language_key":"lv","name":"Gostilj"}
+{"id":232345770,"city_id":3017478,"language_key":"lv","name":"Gostilj"}
+{"id":232345924,"city_id":3017480,"language_key":"lv","name":"Gosici"}
+{"id":232346155,"city_id":3017483,"language_key":"lv","name":"Gornji Stoj"}
+{"id":232346232,"city_id":3017484,"language_key":"lv","name":"Gornji Rsojevici"}
+{"id":232346309,"city_id":3017485,"language_key":"lv","name":"Gornji Orahovac"}
+{"id":232346540,"city_id":3017488,"language_key":"lv","name":"Gornji Kokoti"}
+{"id":232347233,"city_id":3017497,"language_key":"lv","name":"Goricani"}
+{"id":232347310,"city_id":3017498,"language_key":"lv","name":"Golubovci"}
+{"id":232347387,"city_id":3017499,"language_key":"lv","name":"Golemadi"}
+{"id":232347541,"city_id":3017501,"language_key":"lv","name":"Godine"}
+{"id":232347849,"city_id":3017505,"language_key":"lv","name":"Donji Frutak"}
+{"id":232348003,"city_id":3017507,"language_key":"lv","name":"Farmaci"}
+{"id":232348157,"city_id":3017509,"language_key":"lv","name":"Duzi"}
+{"id":232348234,"city_id":3017510,"language_key":"lv","name":"Duske"}
+{"id":232348388,"city_id":3017512,"language_key":"lv","name":"Durici"}
+{"id":232348465,"city_id":3017513,"language_key":"lv","name":"Duravci"}
+{"id":232348542,"city_id":3017514,"language_key":"lv","name":"Durasevici"}
+{"id":232348619,"city_id":3017515,"language_key":"lv","name":"Dupilo"}
+{"id":232348773,"city_id":3017517,"language_key":"lv","name":"Dulici"}
+{"id":232349466,"city_id":3017526,"language_key":"lv","name":"Drusici"}
+{"id":232349774,"city_id":3017530,"language_key":"lv","name":"Dragova Luka"}
+{"id":232350159,"city_id":3017535,"language_key":"lv","name":"Dosude"}
+{"id":232350236,"city_id":3017536,"language_key":"lv","name":"Donji Stoj"}
+{"id":232350313,"city_id":3017537,"language_key":"lv","name":"Donji Rsojevici"}
+{"id":232350390,"city_id":3017538,"language_key":"lv","name":"Donji Murici"}
+{"id":232350467,"city_id":3017539,"language_key":"lv","name":"Donji Morinj"}
+{"id":232350544,"city_id":3017540,"language_key":"lv","name":"Donji Kokoti"}
+{"id":232350775,"city_id":3017543,"language_key":"lv","name":"Dona Lastva"}
+{"id":232351006,"city_id":3017546,"language_key":"lv","name":"Dolac"}
+{"id":232351160,"city_id":3017548,"language_key":"lv","name":"Dodosi"}
+{"id":232351237,"city_id":3017549,"language_key":"lv","name":"Dobrsko Selo"}
+{"id":232351391,"city_id":3017551,"language_key":"lv","name":"Dobrakova"}
+{"id":232351468,"city_id":3017552,"language_key":"lv","name":"Dinosa"}
+{"id":232351622,"city_id":3017554,"language_key":"lv","name":"Dendinovici"}
+{"id":232351699,"city_id":3017555,"language_key":"lv","name":"Denasi"}
+{"id":232351853,"city_id":3017557,"language_key":"lv","name":"Darza"}
+{"id":232351930,"city_id":3017558,"language_key":"lv","name":"Danilovgrad"}
+{"id":232352007,"city_id":3017559,"language_key":"lv","name":"Dalovici"}
+{"id":232352161,"city_id":3017561,"language_key":"lv","name":"Dajbabe"}
+{"id":232352238,"city_id":3017562,"language_key":"lv","name":"Dabovici"}
+{"id":232352315,"city_id":3017563,"language_key":"lv","name":"Dabezici"}
+{"id":232352777,"city_id":3017569,"language_key":"lv","name":"Gornji Crnci"}
+{"id":232352854,"city_id":3017570,"language_key":"lv","name":"Crnca"}
+{"id":232353085,"city_id":3017573,"language_key":"lv","name":"Cetiņe"}
+{"id":232353316,"city_id":3017576,"language_key":"lv","name":"Celuga"}
+{"id":232353470,"city_id":3017578,"language_key":"lv","name":"Buronji"}
+{"id":232353547,"city_id":3017579,"language_key":"lv","name":"Bukovik"}
+{"id":232353778,"city_id":3017582,"language_key":"lv","name":"Budva"}
+{"id":232353855,"city_id":3017583,"language_key":"lv","name":"Buce"}
+{"id":232354009,"city_id":3017585,"language_key":"lv","name":"Brsno"}
+{"id":232354163,"city_id":3017587,"language_key":"lv","name":"Brijestovo"}
+{"id":232354317,"city_id":3017589,"language_key":"lv","name":"Brezine"}
+{"id":232354471,"city_id":3017591,"language_key":"lv","name":"Brca"}
+{"id":232354702,"city_id":3017594,"language_key":"lv","name":"Brajse"}
+{"id":232354933,"city_id":3017597,"language_key":"lv","name":"Botun"}
+{"id":232355010,"city_id":3017598,"language_key":"lv","name":"Boronjina"}
+{"id":232355164,"city_id":3017600,"language_key":"lv","name":"Boreti"}
+{"id":232355241,"city_id":3017601,"language_key":"lv","name":"Boljevici"}
+{"id":232355318,"city_id":3017602,"language_key":"lv","name":"Boljanina"}
+{"id":232355857,"city_id":3017609,"language_key":"lv","name":"Bogisici"}
+{"id":232355934,"city_id":3017610,"language_key":"lv","name":"Bogicevici"}
+{"id":232356165,"city_id":3017613,"language_key":"lv","name":"Bogajici"}
+{"id":232356242,"city_id":3017614,"language_key":"lv","name":"Boboviste"}
+{"id":232356550,"city_id":3017618,"language_key":"lv","name":"Bjelosi"}
+{"id":232356858,"city_id":3017622,"language_key":"lv","name":"Bioce"}
+{"id":232356935,"city_id":3017623,"language_key":"lv","name":"Bijelo Polje"}
+{"id":232357012,"city_id":3017624,"language_key":"lv","name":"Bijelo Polje"}
+{"id":232357089,"city_id":3017625,"language_key":"lv","name":"Bijelo Polje"}
+{"id":232357166,"city_id":3017626,"language_key":"lv","name":"Bijelo Polje"}
+{"id":232357243,"city_id":3017627,"language_key":"lv","name":"Bijela"}
+{"id":232357320,"city_id":3017628,"language_key":"lv","name":"Bijedici"}
+{"id":232357397,"city_id":3017629,"language_key":"lv","name":"Bigor"}
+{"id":232357474,"city_id":3017630,"language_key":"lv","name":"Bezuje"}
+{"id":232357628,"city_id":3017632,"language_key":"lv","name":"Bes"}
+{"id":232357782,"city_id":3017634,"language_key":"lv","name":"Berislavci"}
+{"id":232357936,"city_id":3017636,"language_key":"lv","name":"Becici"}
+{"id":232358090,"city_id":3017638,"language_key":"lv","name":"Bartula"}
+{"id":232358167,"city_id":3017639,"language_key":"lv","name":"Bare Sumanovica"}
+{"id":232358244,"city_id":3017640,"language_key":"lv","name":"Beran Selo"}
+{"id":232358321,"city_id":3017641,"language_key":"lv","name":"Bārs"}
+{"id":232358398,"city_id":3017642,"language_key":"lv","name":"Baosici"}
+{"id":232358475,"city_id":3017643,"language_key":"lv","name":"Balabani"}
+{"id":232359014,"city_id":3017650,"language_key":"lv","name":"Andrijevica"}
+{"id":232359091,"city_id":3017651,"language_key":"lv","name":"Ambula"}
+{"id":232359322,"city_id":3017654,"language_key":"lv","name":"Toljevina"}
+{"id":232359553,"city_id":3017657,"language_key":"lv","name":"Stajista"}
+{"id":232360015,"city_id":3017663,"language_key":"lv","name":"Senicista"}
+{"id":232361170,"city_id":3017678,"language_key":"lv","name":"Bara"}
+{"id":232361247,"city_id":3017679,"language_key":"lv","name":"Umac"}
+{"id":232361478,"city_id":3017682,"language_key":"lv","name":"Rojevici"}
+{"id":232361709,"city_id":3017685,"language_key":"lv","name":"Gornja Spila"}
+{"id":232361863,"city_id":3017687,"language_key":"lv","name":"Unijerina"}
+{"id":232362094,"city_id":3017690,"language_key":"lv","name":"Seveljski Do"}
+{"id":232362402,"city_id":3017694,"language_key":"lv","name":"Ramadica Do"}
+{"id":232362710,"city_id":3017698,"language_key":"lv","name":"Strpca"}
+{"id":232362941,"city_id":3017701,"language_key":"lv","name":"Kumbor"}
+{"id":232363942,"city_id":3017714,"language_key":"lv","name":"Mirac"}
+{"id":232364404,"city_id":3017720,"language_key":"lv","name":"Selo"}
+{"id":232365482,"city_id":3017734,"language_key":"lv","name":"Cukovici"}
+{"id":232365790,"city_id":3017738,"language_key":"lv","name":"Baloci"}
+{"id":232365944,"city_id":3017740,"language_key":"lv","name":"Dusici"}
+{"id":232366175,"city_id":3017743,"language_key":"lv","name":"Rakica Kuce"}
+{"id":232366945,"city_id":3017753,"language_key":"lv","name":"Crni Nugli"}
+{"id":232367407,"city_id":3017759,"language_key":"lv","name":"Jasikovica"}
+{"id":232368100,"city_id":3017768,"language_key":"lv","name":"Viti Jasen"}
+{"id":232368177,"city_id":3017769,"language_key":"lv","name":"Krug"}
+{"id":232368254,"city_id":3017770,"language_key":"lv","name":"Medede"}
+{"id":232368331,"city_id":3017771,"language_key":"lv","name":"Savina Kruska"}
+{"id":232368485,"city_id":3017773,"language_key":"lv","name":"Musterovici"}
+{"id":232369409,"city_id":3017785,"language_key":"lv","name":"Ptic"}
+{"id":232369948,"city_id":3017792,"language_key":"lv","name":"Prosica"}
+{"id":232370949,"city_id":3017805,"language_key":"lv","name":"Petnica"}
+{"id":232371180,"city_id":3017808,"language_key":"lv","name":"Podbisce"}
+{"id":232371257,"city_id":3017809,"language_key":"lv","name":"Ravna Rijeka"}
+{"id":232372412,"city_id":3017824,"language_key":"lv","name":"Dobra Sela"}
+{"id":232372797,"city_id":3017829,"language_key":"lv","name":"Trusina"}
+{"id":232374029,"city_id":3017845,"language_key":"lv","name":"Meki Do"}
+{"id":232374568,"city_id":3017852,"language_key":"lv","name":"Meteriz"}
+{"id":232374876,"city_id":3017856,"language_key":"lv","name":"Kacunica"}
+{"id":232375338,"city_id":3017862,"language_key":"lv","name":"Kamisevo"}
+{"id":232376262,"city_id":3017874,"language_key":"lv","name":"Dolina"}
+{"id":232376878,"city_id":3017882,"language_key":"lv","name":"Duli"}
+{"id":232376955,"city_id":3017883,"language_key":"lv","name":"Strazice"}
+{"id":232377648,"city_id":3017892,"language_key":"lv","name":"Denovici"}
+{"id":232378187,"city_id":3017899,"language_key":"lv","name":"Avlija"}
+{"id":232378418,"city_id":3017902,"language_key":"lv","name":"Rogaci"}
+{"id":232378495,"city_id":3017903,"language_key":"lv","name":"Vojnici"}
+{"id":232378572,"city_id":3017904,"language_key":"lv","name":"Hajlovina"}
+{"id":232378649,"city_id":3017905,"language_key":"lv","name":"Vukasovici"}
+{"id":232378880,"city_id":3017908,"language_key":"lv","name":"Donji Unac"}
+{"id":232379265,"city_id":3017913,"language_key":"lv","name":"Madzarski Kraj"}
+{"id":232379342,"city_id":3017914,"language_key":"lv","name":"Seoca"}
+{"id":232379419,"city_id":3017915,"language_key":"lv","name":"Belusevac"}
+{"id":232381036,"city_id":3017936,"language_key":"lv","name":"Guke"}
+{"id":232381729,"city_id":3017945,"language_key":"lv","name":"Jezero"}
+{"id":232381883,"city_id":3017947,"language_key":"lv","name":"Cardak"}
+{"id":232381960,"city_id":3017948,"language_key":"lv","name":"Dvorista"}
+{"id":232383192,"city_id":3017964,"language_key":"lv","name":"Kacak"}
+{"id":232383500,"city_id":3017968,"language_key":"lv","name":"Ljubojevac"}
+{"id":232383808,"city_id":3017972,"language_key":"lv","name":"Kukavice"}
+{"id":232383885,"city_id":3017973,"language_key":"lv","name":"Potkamen"}
+{"id":232383962,"city_id":3017974,"language_key":"lv","name":"Jasen"}
+{"id":232384424,"city_id":3017980,"language_key":"lv","name":"Zaugline"}
+{"id":232384963,"city_id":3017987,"language_key":"lv","name":"Zabrnjica"}
+{"id":232385040,"city_id":3017988,"language_key":"lv","name":"Rogovina"}
+{"id":232385117,"city_id":3017989,"language_key":"lv","name":"Iva"}
+{"id":232385194,"city_id":3017990,"language_key":"lv","name":"Vijenac"}
+{"id":232385271,"city_id":3017991,"language_key":"lv","name":"Kljun"}
+{"id":232385425,"city_id":3017993,"language_key":"lv","name":"Pribakovici"}
+{"id":232385656,"city_id":3017996,"language_key":"lv","name":"Klapusi"}
+{"id":232385887,"city_id":3017999,"language_key":"lv","name":"Jahovici"}
+{"id":232386426,"city_id":3018006,"language_key":"lv","name":"Priboj"}
+{"id":232387119,"city_id":3018015,"language_key":"lv","name":"Krusevo"}
+{"id":232388043,"city_id":3018027,"language_key":"lv","name":"Scepan-Polje"}
+{"id":232388274,"city_id":3018030,"language_key":"lv","name":"Oglavina"}
+{"id":232388736,"city_id":3018036,"language_key":"lv","name":"Dakovici"}
+{"id":232389044,"city_id":3018040,"language_key":"lv","name":"Bara"}
+{"id":232389121,"city_id":3018041,"language_key":"lv","name":"Gornje Mrcevo"}
+{"id":232389352,"city_id":3018044,"language_key":"lv","name":"Suplja Stijena"}
+{"id":232389506,"city_id":3018046,"language_key":"lv","name":"Lucice"}
+{"id":232389660,"city_id":3018048,"language_key":"lv","name":"Ravne Smreke"}
+{"id":232390122,"city_id":3018054,"language_key":"lv","name":"Strmecica"}
+{"id":232390661,"city_id":3018061,"language_key":"lv","name":"Cipcije"}
+{"id":232390738,"city_id":3018062,"language_key":"lv","name":"Omar"}
+{"id":232390815,"city_id":3018063,"language_key":"lv","name":"Tepacko Polje"}
+{"id":232391123,"city_id":3018067,"language_key":"lv","name":"Cardak"}
+{"id":232391277,"city_id":3018069,"language_key":"lv","name":"Pitomine"}
+{"id":232391585,"city_id":3018073,"language_key":"lv","name":"Sumanovac"}
+{"id":232391662,"city_id":3018074,"language_key":"lv","name":"Virak"}
+{"id":232391816,"city_id":3018076,"language_key":"lv","name":"Posleniste"}
+{"id":232392509,"city_id":3018085,"language_key":"lv","name":"Merulja"}
+{"id":232393279,"city_id":3018095,"language_key":"lv","name":"Kosorska Bukovica"}
+{"id":232394280,"city_id":3018108,"language_key":"lv","name":"Curukaca"}
+{"id":232394357,"city_id":3018109,"language_key":"lv","name":"Nabojine"}
+{"id":232394819,"city_id":3018115,"language_key":"lv","name":"Dedovo Polje"}
+{"id":232395512,"city_id":3018124,"language_key":"lv","name":"Palez"}
+{"id":232396513,"city_id":3018137,"language_key":"lv","name":"Rasova"}
+{"id":232396744,"city_id":3018140,"language_key":"lv","name":"Orasac"}
+{"id":232396975,"city_id":3018143,"language_key":"lv","name":"Stancani"}
+{"id":232397052,"city_id":3018144,"language_key":"lv","name":"Okruglica"}
+{"id":232397129,"city_id":3018145,"language_key":"lv","name":"Dublje"}
+{"id":232397360,"city_id":3018148,"language_key":"lv","name":"Kaljici"}
+{"id":232397514,"city_id":3018150,"language_key":"lv","name":"Perotin"}
+{"id":232397899,"city_id":3018155,"language_key":"lv","name":"Kucetina"}
+{"id":232398207,"city_id":3018159,"language_key":"lv","name":"Lijeska"}
+{"id":232398746,"city_id":3018166,"language_key":"lv","name":"Rasnovic"}
+{"id":232400055,"city_id":3018183,"language_key":"lv","name":"Breza"}
+{"id":232400517,"city_id":3018189,"language_key":"lv","name":"Sljucka Strana"}
+{"id":232401826,"city_id":3018206,"language_key":"lv","name":"Sakovo Selo"}
+{"id":232402442,"city_id":3018214,"language_key":"lv","name":"Besevina"}
+{"id":232403443,"city_id":3018227,"language_key":"lv","name":"Racevo"}
+{"id":232405137,"city_id":3018249,"language_key":"lv","name":"Kojovici"}
+{"id":232405368,"city_id":3018252,"language_key":"lv","name":"Rudnice"}
+{"id":232405445,"city_id":3018253,"language_key":"lv","name":"Zaviden"}
+{"id":232405522,"city_id":3018254,"language_key":"lv","name":"Cavlovic Kula"}
+{"id":232405599,"city_id":3018255,"language_key":"lv","name":"Raovici"}
+{"id":232405676,"city_id":3018256,"language_key":"lv","name":"Loncari"}
+{"id":232405753,"city_id":3018257,"language_key":"lv","name":"Podrudine"}
+{"id":232405984,"city_id":3018260,"language_key":"lv","name":"Dobra Voda"}
+{"id":232406292,"city_id":3018264,"language_key":"lv","name":"Potkovacica"}
+{"id":232406446,"city_id":3018266,"language_key":"lv","name":"Adilovici"}
+{"id":232406523,"city_id":3018267,"language_key":"lv","name":"Jagnila"}
+{"id":232406600,"city_id":3018268,"language_key":"lv","name":"Bozici"}
+{"id":232406754,"city_id":3018270,"language_key":"lv","name":"Klismerine"}
+{"id":232406831,"city_id":3018271,"language_key":"lv","name":"Orevine"}
+{"id":232407139,"city_id":3018275,"language_key":"lv","name":"Krnja"}
+{"id":232407293,"city_id":3018277,"language_key":"lv","name":"Plijesi"}
+{"id":232407524,"city_id":3018280,"language_key":"lv","name":"Slepac"}
+{"id":232407678,"city_id":3018282,"language_key":"lv","name":"Kobiljaca"}
+{"id":232408140,"city_id":3018288,"language_key":"lv","name":"Rasova"}
+{"id":232408294,"city_id":3018290,"language_key":"lv","name":"Jelica Doline"}
+{"id":232408448,"city_id":3018292,"language_key":"lv","name":"Male Sljeme"}
+{"id":232409680,"city_id":3018308,"language_key":"lv","name":"Rajkoviči Plavce brdo"}
+{"id":232410065,"city_id":3018313,"language_key":"lv","name":"Sadici"}
+{"id":232410373,"city_id":3018317,"language_key":"lv","name":"Majna Gora"}
+{"id":232412144,"city_id":3018340,"language_key":"lv","name":"Dzafica Brdo"}
+{"id":232412298,"city_id":3018342,"language_key":"lv","name":"Lozņica"}
+{"id":232412452,"city_id":3018344,"language_key":"lv","name":"Zaton"}
+{"id":232412683,"city_id":3018347,"language_key":"lv","name":"Njegnjevo"}
+{"id":232412760,"city_id":3018348,"language_key":"lv","name":"Sutivan"}
+{"id":232412991,"city_id":3018351,"language_key":"lv","name":"Laljevici"}
+{"id":232413299,"city_id":3018355,"language_key":"lv","name":"Gubavac"}
+{"id":232413530,"city_id":3018358,"language_key":"lv","name":"Unevina"}
+{"id":232413992,"city_id":3018364,"language_key":"lv","name":"Osoje"}
+{"id":232414377,"city_id":3018369,"language_key":"lv","name":"Gornje Selo"}
+{"id":232414454,"city_id":3018370,"language_key":"lv","name":"Lemes"}
+{"id":232414531,"city_id":3018371,"language_key":"lv","name":"Kucetine"}
+{"id":232414685,"city_id":3018373,"language_key":"lv","name":"Guvnista"}
+{"id":232414762,"city_id":3018374,"language_key":"lv","name":"Krc"}
+{"id":232415147,"city_id":3018379,"language_key":"lv","name":"Potrk"}
+{"id":232415378,"city_id":3018382,"language_key":"lv","name":"Perovici"}
+{"id":232416687,"city_id":3018399,"language_key":"lv","name":"Gomile"}
+{"id":232416841,"city_id":3018401,"language_key":"lv","name":"Ubli"}
+{"id":232417380,"city_id":3018408,"language_key":"lv","name":"Kostanica"}
+{"id":232417919,"city_id":3018415,"language_key":"lv","name":"Donji Kosici"}
+{"id":232418073,"city_id":3018417,"language_key":"lv","name":"Kupusci"}
+{"id":232418227,"city_id":3018419,"language_key":"lv","name":"Rmuse"}
+{"id":232418535,"city_id":3018423,"language_key":"lv","name":"Prisoja"}
+{"id":232418997,"city_id":3018429,"language_key":"lv","name":"Donji Crnci"}
+{"id":232419074,"city_id":3018430,"language_key":"lv","name":"Podlunjica"}
+{"id":232419151,"city_id":3018431,"language_key":"lv","name":"Celinacki Dolovi"}
+{"id":232419382,"city_id":3018434,"language_key":"lv","name":"Lastva"}
+{"id":232419613,"city_id":3018437,"language_key":"lv","name":"Martinovici"}
+{"id":232419690,"city_id":3018438,"language_key":"lv","name":"Brajici"}
+{"id":232419844,"city_id":3018440,"language_key":"lv","name":"Belveder"}
+{"id":232420922,"city_id":3018454,"language_key":"lv","name":"Kljajevici"}
+{"id":232420999,"city_id":3018455,"language_key":"lv","name":"Begova Dol"}
+{"id":232421076,"city_id":3018456,"language_key":"lv","name":"Jasenovi Do"}
+{"id":232421153,"city_id":3018457,"language_key":"lv","name":"Cerovi Do"}
+{"id":232421230,"city_id":3018458,"language_key":"lv","name":"Posajci"}
+{"id":232422924,"city_id":3018480,"language_key":"lv","name":"Sabani"}
+{"id":232424926,"city_id":3018506,"language_key":"lv","name":"Vodni Do"}
+{"id":232425003,"city_id":3018507,"language_key":"lv","name":"Podazdrijelo"}
+{"id":232425465,"city_id":3018513,"language_key":"lv","name":"Arbanasi"}
+{"id":232425542,"city_id":3018514,"language_key":"lv","name":"Donja Brova"}
+{"id":232425619,"city_id":3018515,"language_key":"lv","name":"Petrovici"}
+{"id":232425696,"city_id":3018516,"language_key":"lv","name":"Papratni Do"}
+{"id":232426235,"city_id":3018523,"language_key":"lv","name":"Kuciste"}
+{"id":232426389,"city_id":3018525,"language_key":"lv","name":"Rovine"}
+{"id":232426620,"city_id":3018528,"language_key":"lv","name":"Zaselje"}
+{"id":232426697,"city_id":3018529,"language_key":"lv","name":"Nerim"}
+{"id":232426851,"city_id":3018531,"language_key":"lv","name":"Zovina"}
+{"id":232426928,"city_id":3018532,"language_key":"lv","name":"Jasikovac"}
+{"id":232427544,"city_id":3018540,"language_key":"lv","name":"Ljeskovi Do"}
+{"id":232427852,"city_id":3018544,"language_key":"lv","name":"Ovsine"}
+{"id":232427929,"city_id":3018545,"language_key":"lv","name":"Krstace"}
+{"id":232428083,"city_id":3018547,"language_key":"lv","name":"Blagojevic"}
+{"id":232428237,"city_id":3018549,"language_key":"lv","name":"Zagvozdak"}
+{"id":232428468,"city_id":3018552,"language_key":"lv","name":"Zmukici"}
+{"id":232428699,"city_id":3018555,"language_key":"lv","name":"Dinov Do"}
+{"id":232428930,"city_id":3018558,"language_key":"lv","name":"Musta Rupa"}
+{"id":232429007,"city_id":3018559,"language_key":"lv","name":"Komansko Brdo"}
+{"id":232429084,"city_id":3018560,"language_key":"lv","name":"Prijeko Pocivalo"}
+{"id":232429161,"city_id":3018561,"language_key":"lv","name":"Danave"}
+{"id":232429238,"city_id":3018562,"language_key":"lv","name":"Danave"}
+{"id":232430239,"city_id":3018575,"language_key":"lv","name":"Velji Do"}
+{"id":232430470,"city_id":3018578,"language_key":"lv","name":"Ljeskov Do"}
+{"id":232430701,"city_id":3018581,"language_key":"lv","name":"Kopitov Do"}
+{"id":232430778,"city_id":3018582,"language_key":"lv","name":"Dragosev Do"}
+{"id":232430932,"city_id":3018584,"language_key":"lv","name":"Grandovina"}
+{"id":232431009,"city_id":3018585,"language_key":"lv","name":"Poljkovac"}
+{"id":232431086,"city_id":3018586,"language_key":"lv","name":"Grandov Do"}
+{"id":232431317,"city_id":3018589,"language_key":"lv","name":"Kulina"}
+{"id":232431625,"city_id":3018593,"language_key":"lv","name":"Jabukovac"}
+{"id":232431779,"city_id":3018595,"language_key":"lv","name":"Papratni Do"}
+{"id":232432010,"city_id":3018598,"language_key":"lv","name":"Stazer"}
+{"id":232432087,"city_id":3018599,"language_key":"lv","name":"Zeleni Do"}
+{"id":232432164,"city_id":3018600,"language_key":"lv","name":"Ozebli Do"}
+{"id":232432241,"city_id":3018601,"language_key":"lv","name":"Obadovica"}
+{"id":232432395,"city_id":3018603,"language_key":"lv","name":"Dajcin Do"}
+{"id":232432549,"city_id":3018605,"language_key":"lv","name":"Kovacev Do"}
+{"id":232432626,"city_id":3018606,"language_key":"lv","name":"Crvena Paprat"}
+{"id":232432703,"city_id":3018607,"language_key":"lv","name":"Rupice"}
+{"id":232432780,"city_id":3018608,"language_key":"lv","name":"Bandicka Zupa"}
+{"id":232432857,"city_id":3018609,"language_key":"lv","name":"Crnioni Do"}
+{"id":232433319,"city_id":3018615,"language_key":"lv","name":"Bobova Ulica"}
+{"id":232433627,"city_id":3018619,"language_key":"lv","name":"Krna Jela"}
+{"id":232433704,"city_id":3018620,"language_key":"lv","name":"Potkraj"}
+{"id":232433781,"city_id":3018621,"language_key":"lv","name":"Zagulj"}
+{"id":232433935,"city_id":3018623,"language_key":"lv","name":"Boksin Do"}
+{"id":232434166,"city_id":3018626,"language_key":"lv","name":"Zamacev Do"}
+{"id":232434397,"city_id":3018629,"language_key":"lv","name":"Trebovinski Pod"}
+{"id":232434474,"city_id":3018630,"language_key":"lv","name":"Ljeskovi Dolovi"}
+{"id":232434628,"city_id":3018632,"language_key":"lv","name":"Serdar Kula"}
+{"id":232434705,"city_id":3018633,"language_key":"lv","name":"Zuri"}
+{"id":232435167,"city_id":3018639,"language_key":"lv","name":"Steci"}
+{"id":232435244,"city_id":3018640,"language_key":"lv","name":"Ponorni Do"}
+{"id":232435321,"city_id":3018641,"language_key":"lv","name":"Priporci"}
+{"id":232435398,"city_id":3018642,"language_key":"lv","name":"Braticevi Dolovi"}
+{"id":232435552,"city_id":3018644,"language_key":"lv","name":"Tijesak"}
+{"id":232435706,"city_id":3018646,"language_key":"lv","name":"Docici"}
+{"id":232435783,"city_id":3018647,"language_key":"lv","name":"Dulov Do"}
+{"id":232435860,"city_id":3018648,"language_key":"lv","name":"Kopilov Do"}
+{"id":232435937,"city_id":3018649,"language_key":"lv","name":"Lipov Do"}
+{"id":232436014,"city_id":3018650,"language_key":"lv","name":"Podstrana"}
+{"id":232436091,"city_id":3018651,"language_key":"lv","name":"Elezov Do"}
+{"id":232436707,"city_id":3018659,"language_key":"lv","name":"Mijajlov Do"}
+{"id":232437015,"city_id":3018663,"language_key":"lv","name":"Bajov Do"}
+{"id":232437246,"city_id":3018666,"language_key":"lv","name":"Bride"}
+{"id":232437477,"city_id":3018669,"language_key":"lv","name":"Ziva"}
+{"id":232437554,"city_id":3018670,"language_key":"lv","name":"Begova Glavica"}
+{"id":232437631,"city_id":3018671,"language_key":"lv","name":"Ogorjelo Zdrijelo"}
+{"id":232437708,"city_id":3018672,"language_key":"lv","name":"Buronjski Do"}
+{"id":232437862,"city_id":3018674,"language_key":"lv","name":"Bobovine"}
+{"id":232437939,"city_id":3018675,"language_key":"lv","name":"Kracedo"}
+{"id":232438016,"city_id":3018676,"language_key":"lv","name":"Golubinje"}
+{"id":232438170,"city_id":3018678,"language_key":"lv","name":"Duboki Do"}
+{"id":232438247,"city_id":3018679,"language_key":"lv","name":"Ovcji Do"}
+{"id":232439248,"city_id":3018692,"language_key":"lv","name":"Koracevac"}
+{"id":232439325,"city_id":3018693,"language_key":"lv","name":"Srni Do"}
+{"id":232439402,"city_id":3018694,"language_key":"lv","name":"Kovce Do"}
+{"id":232439633,"city_id":3018697,"language_key":"lv","name":"Krnulic"}
+{"id":232439710,"city_id":3018698,"language_key":"lv","name":"Donje Selo"}
+{"id":232439864,"city_id":3018700,"language_key":"lv","name":"Celinski Do"}
+{"id":232440403,"city_id":3018707,"language_key":"lv","name":"Zgrade"}
+{"id":232440634,"city_id":3018710,"language_key":"lv","name":"Gornje Morakovo"}
+{"id":232440788,"city_id":3018712,"language_key":"lv","name":"Bistrice"}
+{"id":232440865,"city_id":3018713,"language_key":"lv","name":"Medede"}
+{"id":232440942,"city_id":3018714,"language_key":"lv","name":"Rijeka"}
+{"id":232441096,"city_id":3018716,"language_key":"lv","name":"Poda"}
+{"id":232441327,"city_id":3018719,"language_key":"lv","name":"Gostojevici"}
+{"id":232441481,"city_id":3018721,"language_key":"lv","name":"Jasikovac"}
+{"id":232441635,"city_id":3018723,"language_key":"lv","name":"Lisic Do"}
+{"id":232442097,"city_id":3018729,"language_key":"lv","name":"Mijokusovici"}
+{"id":232442559,"city_id":3018735,"language_key":"lv","name":"Selista"}
+{"id":232442636,"city_id":3018736,"language_key":"lv","name":"Gornji Frutak"}
+{"id":232442713,"city_id":3018737,"language_key":"lv","name":"Usanovici"}
+{"id":232442867,"city_id":3018739,"language_key":"lv","name":"Muzevice"}
+{"id":232443021,"city_id":3018741,"language_key":"lv","name":"Burtaisi"}
+{"id":232443175,"city_id":3018743,"language_key":"lv","name":"Dolovi Kovacki"}
+{"id":232443329,"city_id":3018745,"language_key":"lv","name":"Gostilje Brajovicko"}
+{"id":232443483,"city_id":3018747,"language_key":"lv","name":"Donja Glizica"}
+{"id":232443560,"city_id":3018748,"language_key":"lv","name":"Medeze"}
+{"id":232444715,"city_id":3018763,"language_key":"lv","name":"Krasovina"}
+{"id":232444792,"city_id":3018764,"language_key":"lv","name":"Simonovici"}
+{"id":232445023,"city_id":3018767,"language_key":"lv","name":"Potkula"}
+{"id":232445331,"city_id":3018771,"language_key":"lv","name":"Lalevici"}
+{"id":232445408,"city_id":3018772,"language_key":"lv","name":"Vucica"}
+{"id":232445485,"city_id":3018773,"language_key":"lv","name":"Podgrizde"}
+{"id":232445639,"city_id":3018775,"language_key":"lv","name":"Trsa"}
+{"id":232446640,"city_id":3018788,"language_key":"lv","name":"Milovici"}
+{"id":232446717,"city_id":3018789,"language_key":"lv","name":"Brod"}
+{"id":232446948,"city_id":3018792,"language_key":"lv","name":"Kuta"}
+{"id":232447564,"city_id":3018800,"language_key":"lv","name":"Turava"}
+{"id":232448180,"city_id":3018808,"language_key":"lv","name":"Kopito"}
+{"id":232448257,"city_id":3018809,"language_key":"lv","name":"Koljat"}
+{"id":232448565,"city_id":3018813,"language_key":"lv","name":"Donje Selo"}
+{"id":232448950,"city_id":3018818,"language_key":"lv","name":"Zabrde"}
+{"id":232449104,"city_id":3018820,"language_key":"lv","name":"Jelovica"}
+{"id":232449335,"city_id":3018823,"language_key":"lv","name":"Pocivala"}
+{"id":232449412,"city_id":3018824,"language_key":"lv","name":"Rusenovici"}
+{"id":232449566,"city_id":3018826,"language_key":"lv","name":"Grebnica"}
+{"id":232449951,"city_id":3018831,"language_key":"lv","name":"Dolovi"}
+{"id":232450028,"city_id":3018832,"language_key":"lv","name":"Mekote"}
+{"id":232450182,"city_id":3018834,"language_key":"lv","name":"Gornji Tupan"}
+{"id":232450259,"city_id":3018835,"language_key":"lv","name":"Bjelovici"}
+{"id":232450721,"city_id":3018841,"language_key":"lv","name":"Kamenari"}
+{"id":232451337,"city_id":3018849,"language_key":"lv","name":"Gorica"}
+{"id":232451568,"city_id":3018852,"language_key":"lv","name":"Dubrovca Do"}
+{"id":232452107,"city_id":3018859,"language_key":"lv","name":"Stari Viskovici"}
+{"id":232452184,"city_id":3018860,"language_key":"lv","name":"Pogana"}
+{"id":232452492,"city_id":3018864,"language_key":"lv","name":"Dub"}
+{"id":232452800,"city_id":3018868,"language_key":"lv","name":"Pometenik"}
+{"id":232453031,"city_id":3018871,"language_key":"lv","name":"Trosavac"}
+{"id":232453570,"city_id":3018878,"language_key":"lv","name":"Podgrede"}
+{"id":232453724,"city_id":3018880,"language_key":"lv","name":"Arapi"}
+{"id":232453878,"city_id":3018882,"language_key":"lv","name":"Cerak"}
+{"id":232454186,"city_id":3018886,"language_key":"lv","name":"Golijski Stozi"}
+{"id":232454956,"city_id":3018896,"language_key":"lv","name":"Petrovo Polje"}
+{"id":232455110,"city_id":3018898,"language_key":"lv","name":"Raspuce"}
+{"id":232455187,"city_id":3018899,"language_key":"lv","name":"Todorov Dub"}
+{"id":232455264,"city_id":3018900,"language_key":"lv","name":"Bukovik"}
+{"id":232455418,"city_id":3018902,"language_key":"lv","name":"Pasina Voda"}
+{"id":232455572,"city_id":3018904,"language_key":"lv","name":"Mokra Njiva"}
+{"id":232455649,"city_id":3018905,"language_key":"lv","name":"Ornice"}
+{"id":232455726,"city_id":3018906,"language_key":"lv","name":"Zavrh"}
+{"id":232456188,"city_id":3018912,"language_key":"lv","name":"Vidov Potok"}
+{"id":232456496,"city_id":3018916,"language_key":"lv","name":"Seniciste"}
+{"id":232456573,"city_id":3018917,"language_key":"lv","name":"Drazin Vrt"}
+{"id":232457420,"city_id":3018928,"language_key":"lv","name":"Veliko Radevo"}
+{"id":232457497,"city_id":3018929,"language_key":"lv","name":"Skalari"}
+{"id":232458036,"city_id":3018936,"language_key":"lv","name":"Mitrovici"}
+{"id":232458190,"city_id":3018938,"language_key":"lv","name":"Vidrovan"}
+{"id":232458344,"city_id":3018940,"language_key":"lv","name":"Ratajica Glavica"}
+{"id":232458498,"city_id":3018942,"language_key":"lv","name":"Vir"}
+{"id":232460269,"city_id":3018965,"language_key":"lv","name":"Radanovici"}
+{"id":232463888,"city_id":3019012,"language_key":"lv","name":"Velembusi"}
+{"id":232464196,"city_id":3019016,"language_key":"lv","name":"Susan"}
+{"id":232465736,"city_id":3019036,"language_key":"lv","name":"Ravna Rijeka"}
+{"id":232466044,"city_id":3019040,"language_key":"lv","name":"Crkvina"}
+{"id":232466352,"city_id":3019044,"language_key":"lv","name":"Podvlah"}
+{"id":232467738,"city_id":3019062,"language_key":"lv","name":"Mustafica Grede"}
+{"id":232467815,"city_id":3019063,"language_key":"lv","name":"Jasikovac"}
+{"id":232468585,"city_id":3019073,"language_key":"lv","name":"Cemenca"}
+{"id":232468893,"city_id":3019077,"language_key":"lv","name":"Bedem"}
+{"id":232468970,"city_id":3019078,"language_key":"lv","name":"Lepirica"}
+{"id":232469047,"city_id":3019079,"language_key":"lv","name":"Kovacev Do"}
+{"id":232469124,"city_id":3019080,"language_key":"lv","name":"Kolo"}
+{"id":232469201,"city_id":3019081,"language_key":"lv","name":"Zabrnjica"}
+{"id":232469355,"city_id":3019083,"language_key":"lv","name":"Briski Do"}
+{"id":232469509,"city_id":3019085,"language_key":"lv","name":"Prijevori"}
+{"id":232469586,"city_id":3019086,"language_key":"lv","name":"Palez"}
+{"id":232469740,"city_id":3019088,"language_key":"lv","name":"Kamenica"}
+{"id":232469817,"city_id":3019089,"language_key":"lv","name":"Krivace"}
+{"id":232469894,"city_id":3019090,"language_key":"lv","name":"Poljane"}
+{"id":232470048,"city_id":3019092,"language_key":"lv","name":"Osjecenica"}
+{"id":232470279,"city_id":3019095,"language_key":"lv","name":"Bozdarev Do"}
+{"id":232470895,"city_id":3019103,"language_key":"lv","name":"Vuci Do"}
+{"id":232470972,"city_id":3019104,"language_key":"lv","name":"Solinski Brijeg"}
+{"id":232471434,"city_id":3019110,"language_key":"lv","name":"Stankov Do"}
+{"id":232471588,"city_id":3019112,"language_key":"lv","name":"Plitki Do"}
+{"id":232471665,"city_id":3019113,"language_key":"lv","name":"Razdolje"}
+{"id":232471742,"city_id":3019114,"language_key":"lv","name":"Petrovica Do"}
+{"id":232471819,"city_id":3019115,"language_key":"lv","name":"Mededov Do"}
+{"id":232471896,"city_id":3019116,"language_key":"lv","name":"Aluga"}
+{"id":232472435,"city_id":3019123,"language_key":"lv","name":"Studenac"}
+{"id":232472666,"city_id":3019126,"language_key":"lv","name":"Rudica Laka"}
+{"id":232472820,"city_id":3019128,"language_key":"lv","name":"Jezerca"}
+{"id":232472897,"city_id":3019129,"language_key":"lv","name":"Kapavica"}
+{"id":232472974,"city_id":3019130,"language_key":"lv","name":"Vrljeroski Do"}
+{"id":232473051,"city_id":3019131,"language_key":"lv","name":"Borak"}
+{"id":232473128,"city_id":3019132,"language_key":"lv","name":"Gracanica"}
+{"id":232473590,"city_id":3019138,"language_key":"lv","name":"Mala Rzista"}
+{"id":232473898,"city_id":3019142,"language_key":"lv","name":"Borovi Do"}
+{"id":232474668,"city_id":3019152,"language_key":"lv","name":"Lipov Do"}
+{"id":232474745,"city_id":3019153,"language_key":"lv","name":"Zagonac"}
+{"id":232475053,"city_id":3019157,"language_key":"lv","name":"Pistala"}
+{"id":232475284,"city_id":3019160,"language_key":"lv","name":"Kruska"}
+{"id":232475361,"city_id":3019161,"language_key":"lv","name":"Plijevor"}
+{"id":232475669,"city_id":3019165,"language_key":"lv","name":"Sjenokos"}
+{"id":232475746,"city_id":3019166,"language_key":"lv","name":"Ivanj-Do"}
+{"id":232475977,"city_id":3019169,"language_key":"lv","name":"Gorin Do"}
+{"id":232476054,"city_id":3019170,"language_key":"lv","name":"Padine"}
+{"id":232476670,"city_id":3019178,"language_key":"lv","name":"Milusina Pecina"}
+{"id":232476747,"city_id":3019179,"language_key":"lv","name":"Jasika"}
+{"id":232476978,"city_id":3019182,"language_key":"lv","name":"Miolje Polje"}
+{"id":232477055,"city_id":3019183,"language_key":"lv","name":"Ploce"}
+{"id":232477825,"city_id":3019193,"language_key":"lv","name":"Popovici"}
+{"id":232478056,"city_id":3019196,"language_key":"lv","name":"Lūks"}
+{"id":232478133,"city_id":3019197,"language_key":"lv","name":"Gorica"}
+{"id":232478210,"city_id":3019198,"language_key":"lv","name":"Glizica"}
+{"id":232478518,"city_id":3019202,"language_key":"lv","name":"Ljutotuk"}
+{"id":232478595,"city_id":3019203,"language_key":"lv","name":"Stanjevica Rupa"}
+{"id":232478826,"city_id":3019206,"language_key":"lv","name":"Pitoma Loza"}
+{"id":232478980,"city_id":3019208,"language_key":"lv","name":"Petriči"}
+{"id":232479057,"city_id":3019209,"language_key":"lv","name":"Brdo"}
+{"id":232479134,"city_id":3019210,"language_key":"lv","name":"Busin Do"}
+{"id":232479211,"city_id":3019211,"language_key":"lv","name":"Kalezici"}
+{"id":232479288,"city_id":3019212,"language_key":"lv","name":"Dugi Laz"}
+{"id":232479519,"city_id":3019215,"language_key":"lv","name":"Branlovica"}
+{"id":232479596,"city_id":3019216,"language_key":"lv","name":"Glavica"}
+{"id":232479673,"city_id":3019217,"language_key":"lv","name":"Gornja Markovina"}
+{"id":232479750,"city_id":3019218,"language_key":"lv","name":"Oselina"}
+{"id":232479904,"city_id":3019220,"language_key":"lv","name":"Skanjci"}
+{"id":232480212,"city_id":3019224,"language_key":"lv","name":"Opacac"}
+{"id":232480289,"city_id":3019225,"language_key":"lv","name":"Mihaljevici"}
+{"id":232480520,"city_id":3019228,"language_key":"lv","name":"Kosmac"}
+{"id":232480597,"city_id":3019229,"language_key":"lv","name":"Dapkovici"}
+{"id":232480828,"city_id":3019232,"language_key":"lv","name":"Milocer"}
+{"id":232481290,"city_id":3019238,"language_key":"lv","name":"Jaicevici"}
+{"id":232481675,"city_id":3019243,"language_key":"lv","name":"Kralji Stari"}
+{"id":232481752,"city_id":3019244,"language_key":"lv","name":"Donje Polje"}
+{"id":232481829,"city_id":3019245,"language_key":"lv","name":"Podlastva"}
+{"id":232482599,"city_id":3019255,"language_key":"lv","name":"Buljici"}
+{"id":232483292,"city_id":3019264,"language_key":"lv","name":"Masnica"}
+{"id":232484524,"city_id":3019280,"language_key":"lv","name":"Kacanik"}
+{"id":232484832,"city_id":3019284,"language_key":"lv","name":"Lovnocelo"}
+{"id":232484909,"city_id":3019285,"language_key":"lv","name":"Husejinovici"}
+{"id":232486064,"city_id":3019300,"language_key":"lv","name":"Lukin Vir"}
+{"id":232487527,"city_id":3019319,"language_key":"lv","name":"Zar"}
+{"id":232487989,"city_id":3019325,"language_key":"lv","name":"Maslari"}
+{"id":232489144,"city_id":3019340,"language_key":"lv","name":"Dolja"}
+{"id":232489837,"city_id":3019349,"language_key":"lv","name":"Stubica"}
+{"id":232491839,"city_id":3019375,"language_key":"lv","name":"Malo Nemanjine"}
+{"id":232491916,"city_id":3019376,"language_key":"lv","name":"Donja Ljesnica"}
+{"id":232492301,"city_id":3019381,"language_key":"lv","name":"Vrsevo"}
+{"id":232492532,"city_id":3019384,"language_key":"lv","name":"Tarhanisi"}
+{"id":232492686,"city_id":3019386,"language_key":"lv","name":"Agovica"}
+{"id":232492763,"city_id":3019387,"language_key":"lv","name":"Srednje Zaostro"}
+{"id":232493302,"city_id":3019394,"language_key":"lv","name":"Dapsici"}
+{"id":232494072,"city_id":3019404,"language_key":"lv","name":"Mucici"}
+{"id":232494457,"city_id":3019409,"language_key":"lv","name":"Musovici"}
+{"id":232495150,"city_id":3019418,"language_key":"lv","name":"Durovici"}
+{"id":232495304,"city_id":3019420,"language_key":"lv","name":"Pocic"}
+{"id":232495535,"city_id":3019423,"language_key":"lv","name":"Pricelje"}
+{"id":232495689,"city_id":3019425,"language_key":"lv","name":"Gola Strana"}
+{"id":232495920,"city_id":3019428,"language_key":"lv","name":"Vinogradista"}
+{"id":232495997,"city_id":3019429,"language_key":"lv","name":"Potoci"}
+{"id":232496151,"city_id":3019431,"language_key":"lv","name":"Bunca"}
+{"id":232496459,"city_id":3019435,"language_key":"lv","name":"Kostrikovica"}
+{"id":232496536,"city_id":3019436,"language_key":"lv","name":"Sibionica"}
+{"id":232496613,"city_id":3019437,"language_key":"lv","name":"Vuksanovo Gumno"}
+{"id":232498307,"city_id":3019459,"language_key":"lv","name":"Kraljevac"}
+{"id":232498461,"city_id":3019461,"language_key":"lv","name":"Krkor"}
+{"id":232498538,"city_id":3019462,"language_key":"lv","name":"Levaja"}
+{"id":232498692,"city_id":3019464,"language_key":"lv","name":"Kami"}
+{"id":232498769,"city_id":3019465,"language_key":"lv","name":"Guberinici"}
+{"id":232499539,"city_id":3019475,"language_key":"lv","name":"Donja Trebjesica"}
+{"id":232499770,"city_id":3019478,"language_key":"lv","name":"Donja Sela"}
+{"id":232500232,"city_id":3019484,"language_key":"lv","name":"Mrtvo Doboko"}
+{"id":232500617,"city_id":3019489,"language_key":"lv","name":"Drijen"}
+{"id":232501079,"city_id":3019495,"language_key":"lv","name":"Raicevine"}
+{"id":232501233,"city_id":3019497,"language_key":"lv","name":"Krzevo"}
+{"id":232501310,"city_id":3019498,"language_key":"lv","name":"Kosetine"}
+{"id":232501541,"city_id":3019501,"language_key":"lv","name":"Presjeka"}
+{"id":232501618,"city_id":3019502,"language_key":"lv","name":"Gropa"}
+{"id":232501772,"city_id":3019504,"language_key":"lv","name":"Begovina"}
+{"id":232501849,"city_id":3019505,"language_key":"lv","name":"Jastreb"}
+{"id":232502003,"city_id":3019507,"language_key":"lv","name":"Donji Curilac"}
+{"id":232502080,"city_id":3019508,"language_key":"lv","name":"Gornji Curilac"}
+{"id":232502157,"city_id":3019509,"language_key":"lv","name":"Grlic"}
+{"id":232502388,"city_id":3019512,"language_key":"lv","name":"Planinica"}
+{"id":232502696,"city_id":3019516,"language_key":"lv","name":"Dekovici"}
+{"id":232503158,"city_id":3019522,"language_key":"lv","name":"Smailagica Polje"}
+{"id":232503466,"city_id":3019526,"language_key":"lv","name":"Trebaljevo"}
+{"id":232504544,"city_id":3019540,"language_key":"lv","name":"Sljivlje"}
+{"id":232505006,"city_id":3019546,"language_key":"lv","name":"Prisojak"}
+{"id":232505545,"city_id":3019553,"language_key":"lv","name":"Klikovace"}
+{"id":232507624,"city_id":3019580,"language_key":"lv","name":"Osojnik"}
+{"id":232507932,"city_id":3019584,"language_key":"lv","name":"Poljane"}
+{"id":232509395,"city_id":3019603,"language_key":"lv","name":"Novo Selo"}
+{"id":232509549,"city_id":3019605,"language_key":"lv","name":"Veleta"}
+{"id":232509857,"city_id":3019609,"language_key":"lv","name":"Kolasinovici"}
+{"id":232511089,"city_id":3019625,"language_key":"lv","name":"Calanovica"}
+{"id":232511166,"city_id":3019626,"language_key":"lv","name":"Drakovici"}
+{"id":232511551,"city_id":3019631,"language_key":"lv","name":"Rajicev Do"}
+{"id":232511628,"city_id":3019632,"language_key":"lv","name":"Lubovo"}
+{"id":232511782,"city_id":3019634,"language_key":"lv","name":"Hadulica"}
+{"id":232511936,"city_id":3019636,"language_key":"lv","name":"Bobula"}
+{"id":232512013,"city_id":3019637,"language_key":"lv","name":"Krstovace"}
+{"id":232512244,"city_id":3019640,"language_key":"lv","name":"Gornje Kunovo"}
+{"id":232512321,"city_id":3019641,"language_key":"lv","name":"Sume"}
+{"id":232512398,"city_id":3019642,"language_key":"lv","name":"Daronji Do"}
+{"id":232512475,"city_id":3019643,"language_key":"lv","name":"Pod-Daznik"}
+{"id":232512552,"city_id":3019644,"language_key":"lv","name":"Knez Polje"}
+{"id":232512706,"city_id":3019646,"language_key":"lv","name":"Prijevori"}
+{"id":232513014,"city_id":3019650,"language_key":"lv","name":"Markovina"}
+{"id":232513168,"city_id":3019652,"language_key":"lv","name":"Brajevici"}
+{"id":232513476,"city_id":3019656,"language_key":"lv","name":"Cenici"}
+{"id":232514477,"city_id":3019669,"language_key":"lv","name":"Urljev Do"}
+{"id":232515016,"city_id":3019676,"language_key":"lv","name":"Tursko"}
+{"id":232515401,"city_id":3019681,"language_key":"lv","name":"Radanovici"}
+{"id":232516325,"city_id":3019693,"language_key":"lv","name":"Maglenca"}
+{"id":232516402,"city_id":3019694,"language_key":"lv","name":"Rvana Gora"}
+{"id":232516941,"city_id":3019701,"language_key":"lv","name":"Vecerici"}
+{"id":232517942,"city_id":3019714,"language_key":"lv","name":"Brekovac"}
+{"id":232518019,"city_id":3019715,"language_key":"lv","name":"Travni Do"}
+{"id":232518712,"city_id":3019724,"language_key":"lv","name":"Cerovo Prodo"}
+{"id":232518943,"city_id":3019727,"language_key":"lv","name":"Kabala"}
+{"id":232519020,"city_id":3019728,"language_key":"lv","name":"Spilice"}
+{"id":232519174,"city_id":3019730,"language_key":"lv","name":"Durasevici"}
+{"id":232519251,"city_id":3019731,"language_key":"lv","name":"Marovici"}
+{"id":232519328,"city_id":3019732,"language_key":"lv","name":"Zmijice"}
+{"id":232519405,"city_id":3019733,"language_key":"lv","name":"Magazini"}
+{"id":232519559,"city_id":3019735,"language_key":"lv","name":"Durovici"}
+{"id":232519790,"city_id":3019738,"language_key":"lv","name":"Juncevici"}
+{"id":232520329,"city_id":3019745,"language_key":"lv","name":"Pestorici"}
+{"id":232520868,"city_id":3019752,"language_key":"lv","name":"Milovici"}
+{"id":232524256,"city_id":3019796,"language_key":"lv","name":"Mercajevac"}
+{"id":232526104,"city_id":3019820,"language_key":"lv","name":"Badreh"}
+{"id":232526489,"city_id":3019825,"language_key":"lv","name":"Krsnica"}
+{"id":232526797,"city_id":3019829,"language_key":"lv","name":"Staro Mijatovo"}
+{"id":232526874,"city_id":3019830,"language_key":"lv","name":"Mekica Kula"}
+{"id":232527259,"city_id":3019835,"language_key":"lv","name":"Dulovine"}
+{"id":232527490,"city_id":3019838,"language_key":"lv","name":"Pripčici"}
+{"id":232527875,"city_id":3019843,"language_key":"lv","name":"Femica Krs"}
+{"id":232527952,"city_id":3019844,"language_key":"lv","name":"Potkrs"}
+{"id":232528568,"city_id":3019852,"language_key":"lv","name":"Dobrodo"}
+{"id":232528876,"city_id":3019856,"language_key":"lv","name":"Grabovica"}
+{"id":232529030,"city_id":3019858,"language_key":"lv","name":"Donji Orasi"}
+{"id":232529107,"city_id":3019859,"language_key":"lv","name":"Slanjina"}
+{"id":232529184,"city_id":3019860,"language_key":"lv","name":"Gluhi Do"}
+{"id":232529261,"city_id":3019861,"language_key":"lv","name":"Vuckovici"}
+{"id":232529415,"city_id":3019863,"language_key":"lv","name":"Ivanova Aluga"}
+{"id":232529569,"city_id":3019865,"language_key":"lv","name":"Donji Kraj"}
+{"id":232529800,"city_id":3019868,"language_key":"lv","name":"Umci"}
+{"id":232530493,"city_id":3019877,"language_key":"lv","name":"Donji Vukovici"}
+{"id":232530570,"city_id":3019878,"language_key":"lv","name":"Medupotocje"}
+{"id":232530724,"city_id":3019880,"language_key":"lv","name":"Vukove Zgrade"}
+{"id":232530801,"city_id":3019881,"language_key":"lv","name":"Brnovici"}
+{"id":232530878,"city_id":3019882,"language_key":"lv","name":"Lainja"}
+{"id":232531032,"city_id":3019884,"language_key":"lv","name":"Palic"}
+{"id":232531109,"city_id":3019885,"language_key":"lv","name":"Markoviči"}
+{"id":232531263,"city_id":3019887,"language_key":"lv","name":"Mrcinici"}
+{"id":232531340,"city_id":3019888,"language_key":"lv","name":"Razdrt"}
+{"id":232531494,"city_id":3019890,"language_key":"lv","name":"Jasikovi Do"}
+{"id":232531571,"city_id":3019891,"language_key":"lv","name":"Prokaplje"}
+{"id":232531648,"city_id":3019892,"language_key":"lv","name":"Abzi-Kula"}
+{"id":232531725,"city_id":3019893,"language_key":"lv","name":"Njegule"}
+{"id":232531879,"city_id":3019895,"language_key":"lv","name":"Tvrdos"}
+{"id":232533188,"city_id":3019912,"language_key":"lv","name":"Srednja Mahala"}
+{"id":232533419,"city_id":3019915,"language_key":"lv","name":"Zgrada"}
+{"id":232533650,"city_id":3019918,"language_key":"lv","name":"Zlatna Obala"}
+{"id":232536961,"city_id":3019961,"language_key":"lv","name":"Bacevnik"}
+{"id":232537731,"city_id":3019971,"language_key":"lv","name":"Rezevici"}
+{"id":232537808,"city_id":3019972,"language_key":"lv","name":"Krusevica"}
+{"id":232537885,"city_id":3019973,"language_key":"lv","name":"Lucice"}
+{"id":232538039,"city_id":3019975,"language_key":"lv","name":"Golubovici"}
+{"id":232538424,"city_id":3019980,"language_key":"lv","name":"Gardovici"}
+{"id":232538501,"city_id":3019981,"language_key":"lv","name":"Vrtace"}
+{"id":232538809,"city_id":3019985,"language_key":"lv","name":"Cukovac"}
+{"id":232538963,"city_id":3019987,"language_key":"lv","name":"Celine"}
+{"id":232539040,"city_id":3019988,"language_key":"lv","name":"Povijevo"}
+{"id":232539271,"city_id":3019991,"language_key":"lv","name":"Metaljka"}
+{"id":232539348,"city_id":3019992,"language_key":"lv","name":"Panjevi"}
+{"id":232539579,"city_id":3019995,"language_key":"lv","name":"Petrovici"}
+{"id":232540118,"city_id":3020002,"language_key":"lv","name":"Peani"}
+{"id":232540426,"city_id":3020006,"language_key":"lv","name":"Bazdan"}
+{"id":232540503,"city_id":3020007,"language_key":"lv","name":"Babunci"}
+{"id":232540811,"city_id":3020011,"language_key":"lv","name":"Drakulovici"}
+{"id":232541504,"city_id":3020020,"language_key":"lv","name":"Ravni Laz"}
+{"id":232541581,"city_id":3020021,"language_key":"lv","name":"Misoka"}
+{"id":232541658,"city_id":3020022,"language_key":"lv","name":"Mokri Do"}
+{"id":232541735,"city_id":3020023,"language_key":"lv","name":"Stijensko Brdo"}
+{"id":232541812,"city_id":3020024,"language_key":"lv","name":"Crnacko Brdo"}
+{"id":232541889,"city_id":3020025,"language_key":"lv","name":"Trebinci"}
+{"id":232543275,"city_id":3020043,"language_key":"lv","name":"Liplja"}
+{"id":232543429,"city_id":3020045,"language_key":"lv","name":"Grdovine"}
+{"id":232543660,"city_id":3020048,"language_key":"lv","name":"Muline"}
+{"id":232543737,"city_id":3020049,"language_key":"lv","name":"Streljanice"}
+{"id":232543814,"city_id":3020050,"language_key":"lv","name":"Vinogradine"}
+{"id":232543891,"city_id":3020051,"language_key":"lv","name":"Smira"}
+{"id":232543968,"city_id":3020052,"language_key":"lv","name":"Bratozica"}
+{"id":232544045,"city_id":3020053,"language_key":"lv","name":"Donji Kos"}
+{"id":232544122,"city_id":3020054,"language_key":"lv","name":"Čornijs Potiks"}
+{"id":232544276,"city_id":3020056,"language_key":"lv","name":"Donji Orahovac"}
+{"id":232544353,"city_id":3020057,"language_key":"lv","name":"Trstenik"}
+{"id":232544507,"city_id":3020059,"language_key":"lv","name":"Gornja Trebjesica"}
+{"id":232545277,"city_id":3020069,"language_key":"lv","name":"Muo"}
+{"id":232545431,"city_id":3020071,"language_key":"lv","name":"Kovacica"}
+{"id":232545508,"city_id":3020072,"language_key":"lv","name":"Velje Slacko"}
+{"id":232545662,"city_id":3020074,"language_key":"lv","name":"Ķīpa"}
+{"id":232545739,"city_id":3020075,"language_key":"lv","name":"Pozduj"}
+{"id":232545893,"city_id":3020077,"language_key":"lv","name":"Katavici"}
+{"id":232545970,"city_id":3020078,"language_key":"lv","name":"Medvega"}
+{"id":232546355,"city_id":3020083,"language_key":"lv","name":"Begova Luka"}
+{"id":232546432,"city_id":3020084,"language_key":"lv","name":"Celj"}
+{"id":232546971,"city_id":3020091,"language_key":"lv","name":"Savina Glavica"}
+{"id":232547279,"city_id":3020095,"language_key":"lv","name":"Prentovici"}
+{"id":232547356,"city_id":3020096,"language_key":"lv","name":"Brat-Njive"}
+{"id":232547510,"city_id":3020098,"language_key":"lv","name":"Podbabac"}
+{"id":232547741,"city_id":3020101,"language_key":"lv","name":"Rafajlovici"}
+{"id":232548280,"city_id":3020108,"language_key":"lv","name":"Zmijina"}
+{"id":232549435,"city_id":3020123,"language_key":"lv","name":"Przno"}
+{"id":232549512,"city_id":3020124,"language_key":"lv","name":"Milocer"}
+{"id":232549820,"city_id":3020128,"language_key":"lv","name":"Dovista"}
+{"id":232550051,"city_id":3020131,"language_key":"lv","name":"Dolina"}
+{"id":232550128,"city_id":3020132,"language_key":"lv","name":"Trgovista"}
+{"id":232550205,"city_id":3020133,"language_key":"lv","name":"Podrid"}
+{"id":232550282,"city_id":3020134,"language_key":"lv","name":"Pitomine"}
+{"id":232550359,"city_id":3020135,"language_key":"lv","name":"Graovista"}
+{"id":232550513,"city_id":3020137,"language_key":"lv","name":"Korijen"}
+{"id":232550590,"city_id":3020138,"language_key":"lv","name":"Rt"}
+{"id":232550821,"city_id":3020141,"language_key":"lv","name":"Koraj-Do"}
+{"id":232551129,"city_id":3020145,"language_key":"lv","name":"Kolevici"}
+{"id":232551283,"city_id":3020147,"language_key":"lv","name":"Dedinice"}
+{"id":232551360,"city_id":3020148,"language_key":"lv","name":"Mocila"}
+{"id":232551437,"city_id":3020149,"language_key":"lv","name":"Poljana"}
+{"id":232551668,"city_id":3020152,"language_key":"lv","name":"Dedina Ravan"}
+{"id":232551745,"city_id":3020153,"language_key":"lv","name":"Pilote"}
+{"id":232551899,"city_id":3020155,"language_key":"lv","name":"Mededa"}
+{"id":232552053,"city_id":3020157,"language_key":"lv","name":"Banje Brdo"}
+{"id":232552130,"city_id":3020158,"language_key":"lv","name":"Ceca"}
+{"id":232552515,"city_id":3020163,"language_key":"lv","name":"Novakovice"}
+{"id":232552592,"city_id":3020164,"language_key":"lv","name":"Svine"}
+{"id":232552669,"city_id":3020165,"language_key":"lv","name":"Meljaci"}
+{"id":232553824,"city_id":3020180,"language_key":"lv","name":"Bunca"}
+{"id":232554209,"city_id":3020185,"language_key":"lv","name":"Vrh Polja"}
+{"id":232554286,"city_id":3020186,"language_key":"lv","name":"Grabe"}
+{"id":232554825,"city_id":3020193,"language_key":"lv","name":"Banovina"}
+{"id":232555595,"city_id":3020203,"language_key":"lv","name":"Mulinovo Pocivalo"}
+{"id":232556442,"city_id":3020214,"language_key":"lv","name":"Mitrovici"}
+{"id":232557289,"city_id":3020225,"language_key":"lv","name":"Civlak"}
+{"id":232557366,"city_id":3020226,"language_key":"lv","name":"Valdanos"}
+{"id":232557597,"city_id":3020229,"language_key":"lv","name":"Velika plaza"}
+{"id":232557674,"city_id":3020230,"language_key":"lv","name":"Donja Klezna"}
+{"id":232557751,"city_id":3020231,"language_key":"lv","name":"Lisna Bori"}
+{"id":232557905,"city_id":3020233,"language_key":"lv","name":"Mozura"}
+{"id":232558059,"city_id":3020235,"language_key":"lv","name":"Bregvija"}
+{"id":232558213,"city_id":3020237,"language_key":"lv","name":"Mala"}
+{"id":232558367,"city_id":3020239,"language_key":"lv","name":"Badreh"}
+{"id":232558675,"city_id":3020243,"language_key":"lv","name":"Gajevi"}
+{"id":232558829,"city_id":3020245,"language_key":"lv","name":"Vagan"}
+{"id":232558983,"city_id":3020247,"language_key":"lv","name":"Colovici"}
+{"id":232559137,"city_id":3020249,"language_key":"lv","name":"Ustupo"}
+{"id":232559291,"city_id":3020251,"language_key":"lv","name":"Presmenice"}
+{"id":232559368,"city_id":3020252,"language_key":"lv","name":"Nokte"}
+{"id":232559445,"city_id":3020253,"language_key":"lv","name":"Podkrs"}
+{"id":232561293,"city_id":3020277,"language_key":"lv","name":"Livadani"}
+{"id":232561601,"city_id":3020281,"language_key":"lv","name":"Gogici"}
+{"id":232561678,"city_id":3020282,"language_key":"lv","name":"Donje Stupine"}
+{"id":232561755,"city_id":3020283,"language_key":"lv","name":"Gornje Stupine"}
+{"id":232562371,"city_id":3020291,"language_key":"lv","name":"Rujevica"}
+{"id":232563526,"city_id":3020306,"language_key":"lv","name":"Gornje Dajbabe"}
+{"id":232563603,"city_id":3020307,"language_key":"lv","name":"Donje Dajbabe"}
+{"id":232564912,"city_id":3020324,"language_key":"lv","name":"Greca"}
+{"id":232565066,"city_id":3020326,"language_key":"lv","name":"Zivkovici"}
+{"id":232565374,"city_id":3020330,"language_key":"lv","name":"Kostrovici"}
+{"id":232565451,"city_id":3020331,"language_key":"lv","name":"Prelevici"}
+{"id":232565528,"city_id":3020332,"language_key":"lv","name":"Poljana"}
+{"id":232565605,"city_id":3020333,"language_key":"lv","name":"Kamensko"}
+{"id":232566683,"city_id":3020347,"language_key":"lv","name":"Kovijec"}
+{"id":232567376,"city_id":3020356,"language_key":"lv","name":"Priboj"}
+{"id":232567530,"city_id":3020358,"language_key":"lv","name":"Vranicke Njive"}
+{"id":232567992,"city_id":3020364,"language_key":"lv","name":"Donji Medun"}
+{"id":232568146,"city_id":3020366,"language_key":"lv","name":"Vrba"}
+{"id":232568223,"city_id":3020367,"language_key":"lv","name":"Radovac"}
+{"id":232568608,"city_id":3020372,"language_key":"lv","name":"Braka"}
+{"id":232568762,"city_id":3020374,"language_key":"lv","name":"Premici"}
+{"id":232568993,"city_id":3020377,"language_key":"lv","name":"Konik"}
+{"id":232569147,"city_id":3020379,"language_key":"lv","name":"Kucista"}
+{"id":232569301,"city_id":3020381,"language_key":"lv","name":"Rabri"}
+{"id":232569532,"city_id":3020384,"language_key":"lv","name":"Lopari"}
+{"id":232569917,"city_id":3020389,"language_key":"lv","name":"Kajos"}
+{"id":232570148,"city_id":3020392,"language_key":"lv","name":"Vulevici"}
+{"id":232570764,"city_id":3020400,"language_key":"lv","name":"Role"}
+{"id":232570841,"city_id":3020401,"language_key":"lv","name":"Macaj"}
+{"id":232570918,"city_id":3020402,"language_key":"lv","name":"Vatnikaj"}
+{"id":232570995,"city_id":3020403,"language_key":"lv","name":"Nik Dokaj"}
+{"id":232571072,"city_id":3020404,"language_key":"lv","name":"Prenkaj"}
+{"id":232571149,"city_id":3020405,"language_key":"lv","name":"Hasanoj"}
+{"id":232571457,"city_id":3020409,"language_key":"lv","name":"Ploca"}
+{"id":232572689,"city_id":3020425,"language_key":"lv","name":"Lekperici"}
+{"id":232572920,"city_id":3020428,"language_key":"lv","name":"Dencici"}
+{"id":232573151,"city_id":3020431,"language_key":"lv","name":"Veliki Ostros"}
+{"id":232573228,"city_id":3020432,"language_key":"lv","name":"Denasevici"}
+{"id":232573305,"city_id":3020433,"language_key":"lv","name":"Alibrahimaj"}
+{"id":232573536,"city_id":3020436,"language_key":"lv","name":"Capre Mahala"}
+{"id":232573613,"city_id":3020437,"language_key":"lv","name":"Suma"}
+{"id":232573690,"city_id":3020438,"language_key":"lv","name":"Zenj"}
+{"id":232573844,"city_id":3020440,"language_key":"lv","name":"Decbitrici"}
+{"id":232574229,"city_id":3020445,"language_key":"lv","name":"Mali Ostros"}
+{"id":232574537,"city_id":3020449,"language_key":"lv","name":"GJenoviči"}
+{"id":232574691,"city_id":3020451,"language_key":"lv","name":"Budechevitsa"}
+{"id":232574768,"city_id":3020452,"language_key":"lv","name":"Bandici"}
