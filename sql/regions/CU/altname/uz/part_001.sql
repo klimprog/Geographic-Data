@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CU-01', 'uz', 'Provinsiya de Pinar del Rio'),
+('CU-03', 'uz', 'Gavana'),
+('CU-04', 'uz', 'Matanzas viloyati'),
+('CU-05', 'uz', 'Villa Klara viloyati'),
+('CU-06', 'uz', 'Cienfuegos viloyati'),
+('CU-07', 'uz', 'Sancti Spiritus viloyati'),
+('CU-08', 'uz', 'Ciego de Avila viloyati'),
+('CU-09', 'uz', 'Kamaguey viloyati'),
+('CU-10', 'uz', 'Las Tunas viloyati'),
+('CU-11', 'uz', 'Holguin viloyati'),
+('CU-12', 'uz', 'Granma viloyati'),
+('CU-13', 'uz', 'Santiago de Cuba viloyati'),
+('CU-14', 'uz', 'Guantanamo viloyati'),
+('CU-15', 'uz', 'Artemisa'),
+('CU-16', 'uz', 'Mayabeque'),
+('CU-99', 'uz', 'Municipio Especial Isla de la Juventud');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MN-035', 'az', 'Orxon vilayəti'),
+('MN-037', 'az', 'Darxan-Uul vilayəti'),
+('MN-039', 'az', 'Xentiy vilayəti'),
+('MN-041', 'az', 'Khövsgöl Vilayəti'),
+('MN-043', 'az', 'Hovd'),
+('MN-046', 'az', 'Uvs'),
+('MN-047', 'az', 'Mərkəzi Aymağı'),
+('MN-049', 'az', 'Selenqe vilayəti'),
+('MN-051', 'az', 'Süxbaatar vilayəti'),
+('MN-053', 'az', 'Ömnöqovi vilayəti'),
+('MN-055', 'az', 'Övorkhangay Aymağı'),
+('MN-057', 'az', 'Zavxan vilayəti'),
+('MN-059', 'az', 'Orta Govi Aymağı'),
+('MN-061', 'az', 'Dornod vilayəti'),
+('MN-063', 'az', 'Dornoqovi vilayəti'),
+('MN-064', 'az', 'Qovisümber vilayəti'),
+('MN-065', 'az', 'Qovi-Altay vilayəti'),
+('MN-067', 'az', 'Bulqan vilayəti'),
+('MN-069', 'az', 'Bayankhonqor'),
+('MN-071', 'az', 'Bayan-Ölgiy Aymağı'),
+('MN-073', 'az', 'Arxanqay'),
+('MN-1', 'az', 'Ulaanbaatar');
+
+SET FOREIGN_KEY_CHECKS=1;

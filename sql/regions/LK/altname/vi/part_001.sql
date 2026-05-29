@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'vi', 'Western Province'),
+('LK-11', 'vi', 'Colombo'),
+('LK-12', 'vi', 'Gampaha'),
+('LK-13', 'vi', 'Kalutara'),
+('LK-2', 'vi', 'Tỉnh Trung Tâm'),
+('LK-21', 'vi', 'Kandy'),
+('LK-22', 'vi', 'Matale'),
+('LK-23', 'vi', 'Nuwara Eliya'),
+('LK-3', 'vi', 'Southern Province'),
+('LK-31', 'vi', 'Galle'),
+('LK-32', 'vi', 'Matara'),
+('LK-33', 'vi', 'Hambantota'),
+('LK-4', 'vi', 'Tỉnh Phía Bắc'),
+('LK-41', 'vi', 'Jaffna'),
+('LK-42', 'vi', 'Kilinochchi'),
+('LK-43', 'vi', 'Mannar'),
+('LK-44', 'vi', 'Vavuniya'),
+('LK-45', 'vi', 'Mullaittivu'),
+('LK-5', 'vi', 'Tỉnh Phía Đông'),
+('LK-51', 'vi', 'Batticaloa'),
+('LK-52', 'vi', 'Ampara'),
+('LK-53', 'vi', 'Trincomalee'),
+('LK-6', 'vi', 'North Western Province'),
+('LK-61', 'vi', 'Kurunegala'),
+('LK-62', 'vi', 'Puttalam'),
+('LK-7', 'vi', 'Tỉnh Trung Bắc'),
+('LK-71', 'vi', 'Anuradhapura'),
+('LK-72', 'vi', 'Polonnaruwa'),
+('LK-8', 'vi', 'Province of Uva'),
+('LK-81', 'vi', 'Badulla'),
+('LK-82', 'vi', 'Monaragala'),
+('LK-9', 'vi', 'Tỉnh Sabaragamuwa'),
+('LK-91', 'vi', 'Ratnapura'),
+('LK-92', 'vi', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HN-AT', 'hu', 'Atlántida megye'),
+('HN-CH', 'hu', 'Choluteca megye'),
+('HN-CL', 'hu', 'Colón megye'),
+('HN-CM', 'hu', 'Comayagua megye'),
+('HN-CP', 'hu', 'Copán megye'),
+('HN-CR', 'hu', 'Cortés megye'),
+('HN-EP', 'hu', 'El Paraíso megye'),
+('HN-FM', 'hu', 'Francisco Morazán megye'),
+('HN-GD', 'hu', 'Gracias a Dios megye'),
+('HN-IB', 'hu', 'Islas de la Bahía megye'),
+('HN-IN', 'hu', 'Intibucá megye'),
+('HN-LE', 'hu', 'Lempira megye'),
+('HN-LP', 'hu', 'La Paz megye'),
+('HN-OC', 'hu', 'Ocotepeque megye'),
+('HN-OL', 'hu', 'Olancho megye'),
+('HN-SB', 'hu', 'Santa Bárbara megye'),
+('HN-VA', 'hu', 'Valle megye'),
+('HN-YO', 'hu', 'Yoro megye');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(320371784, 4160673, 'lt', 'Seravalė'),
+(320371861, 4160674, 'lt', 'San Marinas'),
+(320371938, 4160675, 'lt', 'Kjezanuova'),
+(320372015, 4160676, 'lt', 'Montedžardinas'),
+(320372092, 4160677, 'lt', 'Fiorentinas'),
+(320372169, 4160678, 'lt', 'Falčianas'),
+(320372246, 4160679, 'lt', 'Faetanas'),
+(320372323, 4160680, 'lt', 'Domagnano'),
+(320372400, 4160681, 'lt', 'Dogana'),
+(320372477, 4160682, 'lt', 'Borgo Madžorė'),
+(320372554, 4160683, 'lt', 'Acquaviva'),
+(320372631, 4160684, 'lt', 'Fiorina'),
+(320372785, 4160686, 'lt', 'Murata'),
+(320372862, 4160687, 'lt', 'Ventoso'),
+(320373016, 4160689, 'lt', 'Torraccia'),
+(320373247, 4160692, 'lt', 'Valdragone');
+
+SET FOREIGN_KEY_CHECKS=1;

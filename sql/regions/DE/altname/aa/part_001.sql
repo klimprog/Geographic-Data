@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'aa', 'Brandenburg'),
+('DE-BE', 'aa', 'Berliin baaxo'),
+('DE-BW', 'aa', 'Baden-Wurttemberg'),
+('DE-BY', 'aa', 'Bavariya'),
+('DE-HB', 'aa', 'Biremen'),
+('DE-HE', 'aa', 'Hessen'),
+('DE-HH', 'aa', 'currik tan kee hanseatik magaala hamburgi'),
+('DE-MV', 'aa', 'Mecklenburg-Vorpommern'),
+('DE-NI', 'aa', 'Gubi Saksoni'),
+('DE-NW', 'aa', 'Nordrayin-Westfalen'),
+('DE-RP', 'aa', 'Reyinlandi-Pfalz'),
+('DE-SH', 'aa', 'Schleswig-Holstein'),
+('DE-SL', 'aa', 'Saarland'),
+('DE-SN', 'aa', 'Saksoni'),
+('DE-ST', 'aa', 'Saksoni-Anhalti'),
+('DE-TH', 'aa', 'Turingiya');
+
+SET FOREIGN_KEY_CHECKS=1;

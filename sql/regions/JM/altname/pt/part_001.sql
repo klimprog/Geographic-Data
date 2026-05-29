@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('JM-01', 'pt', 'Kingston'),
+('JM-02', 'pt', 'Saint Andrew'),
+('JM-03', 'pt', 'Saint Thomas'),
+('JM-04', 'pt', 'Portland'),
+('JM-05', 'pt', 'Saint Mary'),
+('JM-06', 'pt', 'Saint Ann'),
+('JM-07', 'pt', 'Trelawny'),
+('JM-08', 'pt', 'Saint James'),
+('JM-09', 'pt', 'Hanover'),
+('JM-10', 'pt', 'Westmoreland'),
+('JM-11', 'pt', 'Saint Elizabeth'),
+('JM-12', 'pt', 'Manchester'),
+('JM-13', 'pt', 'Clarendon'),
+('JM-14', 'pt', 'Saint Catherine');
+
+SET FOREIGN_KEY_CHECKS=1;

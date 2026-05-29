@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('AF-BAL', 'AF', 'Balkh', 'ولایت بلخ', 8753, 1245100, 'UTC+4:30', 'Asia/Kabul'),
+('AF-BAM', 'AF', 'Wilayat-e Bamyan', 'ولایت بامیان', 17456, 484648, 'UTC+4:30', 'Asia/Kabul'),
+('AF-BDG', 'AF', 'Badghis', 'ولایت بادغیس', 6267, 792155, 'UTC+4:30', 'Asia/Kabul'),
+('AF-BDS', 'AF', 'Badakhshan', 'ولایت بدخشان', 14129, 1062937, 'UTC+4:30', 'Asia/Kabul'),
+('AF-BGL', 'AF', 'Wilayat-e Baghlan', 'ولایت بغلان', 6717, 872234, 'UTC+5, UTC+4:30', 'Asia/Kabul, Asia/Karachi'),
+('AF-DAY', 'AF', 'Daykundi Province', 'دایکندی', 7597, 440000, 'UTC+4:30', 'Asia/Kabul'),
+('AF-FRA', 'AF', 'Farah', 'ولایت فراه', 14194, 470939, 'UTC+4:30', 'Asia/Kabul'),
+('AF-FYB', 'AF', 'Faryab Province', 'ولایت فاریاب', 8646, 913866, 'UTC+4:30', 'Asia/Kabul'),
+('AF-GHA', 'AF', 'Wilayat-e Ghazni', 'ولایت غزنی', 13590, 1168800, 'UTC+4:30', 'Asia/Kabul'),
+('AF-GHO', 'AF', 'Wilayat-e Ghor', 'ولایت غور', 16596, 657200, 'UTC+4:30', 'Asia/Kabul'),
+('AF-HEL', 'AF', 'Helmand', 'ولایت هلمند', 9432, 925666, 'UTC+4:30', 'Asia/Kabul'),
+('AF-HER', 'AF', 'Herat', 'ولایت هرات', 12784, 1382139, 'UTC+4:30', 'Asia/Kabul'),
+('AF-JOW', 'AF', 'Wilayat-e Jowzjan', 'ولایت جوزجان', 3397, 747618, 'UTC+4:30', 'Asia/Kabul'),
+('AF-KAB', 'AF', 'Wilayat-e Kabul', 'ولایت کابل', NULL, 3138338, 'UTC+4:30', 'Asia/Kabul'),
+('AF-KAN', 'AF', 'Kandahar', 'ولایت قندهار', 11711, 1665487, 'UTC+4:30', 'Asia/Kabul'),
+('AF-KAP', 'AF', 'Wilayat-e Kapisa', 'ولایت کاپیسا', 4065, 472584, 'UTC+4:30', 'Asia/Kabul'),
+('AF-KDZ', 'AF', 'Kunduz', 'ولایت کندوز', 10070, 718823, 'UTC+4:30', 'Asia/Kabul'),
+('AF-KHO', 'AF', 'Velayat-e Khowst', 'ولایت خوست', 10526, 283283, 'UTC+4:30', 'Asia/Kabul'),
+('AF-KNR', 'AF', 'Wilayat-e Kunar', 'ولایت کنر', 18151, 562411, 'UTC+4:30', 'Asia/Kabul'),
+('AF-LAG', 'AF', 'Wilayat-e Laghman', 'ولایت لغمان', 8726, 651326, 'UTC+4:30', 'Asia/Kabul'),
+('AF-LOG', 'AF', 'Wilayat-e Logar', 'ولایت لوگر', 6724, 373100, 'UTC+4:30', 'Asia/Kabul'),
+('AF-NAN', 'AF', 'Nangarhar', 'ولایت ننگرهار', 12593, 1538444, 'UTC+4:30', 'Asia/Kabul'),
+('AF-NIM', 'AF', 'Wilayat-e Nimroz', 'نیمروز', 758, 234086, 'UTC+4:30', 'Asia/Kabul'),
+('AF-NUR', 'AF', 'Velayat-e Nurestan', 'ولایت نورستان', 6705, 130000, 'UTC+4:30', 'Asia/Kabul'),
+('AF-PAN', 'AF', 'Panjshir', 'ولایت پنجشیر', 20725, 146100, 'UTC+4:30', 'Asia/Kabul'),
+('AF-PAR', 'AF', 'Parwan', 'ولایت پروان', 16281, 786152, 'UTC+4:30', 'Asia/Kabul'),
+('AF-PIA', 'AF', 'Wilayat-e Paktiya', 'ولایت پکتیا', 13929, 503572, 'UTC+4:30', 'Asia/Kabul'),
+('AF-PKA', 'AF', 'Wilayat-e Paktika', 'ولایت پکتیکا', 31209, 476740, 'UTC+4:30', 'Asia/Kabul'),
+('AF-SAM', 'AF', 'Samangan', 'ولایت سمنگان', 4833, 599331, 'UTC+4:30', 'Asia/Kabul'),
+('AF-SAR', 'AF', 'Sar-e Pul', 'ولایت سرپل', 4396, 727277, 'UTC+4:30', 'Asia/Kabul'),
+('AF-TAK', 'AF', 'Wilayat-e Takhar', 'ولایت تخار', 2021, 933700, 'UTC+4:30, UTC+5:30', 'Asia/Kabul, Asia/Kolkata'),
+('AF-URU', 'AF', 'Uruzgan', 'ولایت اروزگان', 1850, 301867, 'UTC+4:30', 'Asia/Kabul'),
+('AF-WAR', 'AF', 'Wardak', 'ولایت میدان وردک', 25004, 342048, 'UTC+4:30', 'Asia/Kabul'),
+('AF-ZAB', 'AF', 'Wilayat-e Zabul', 'ولایت زابل', 6491, 444585, 'UTC+4:30', 'Asia/Kabul');
+
+SET FOREIGN_KEY_CHECKS=1;

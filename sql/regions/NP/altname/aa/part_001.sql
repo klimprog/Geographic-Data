@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NP-P1', 'aa', 'Koshi'),
+('NP-P2', 'aa', 'Madhesh'),
+('NP-P3', 'aa', 'Bagmatih rakaakay'),
+('NP-P4', 'aa', 'Gandaki paradesh'),
+('NP-P5', 'aa', 'Lumbiini rakaakay'),
+('NP-P6', 'aa', 'Karnaali rakaakay'),
+('NP-P7', 'aa', 'Sudurpashiim paradesh');
+
+SET FOREIGN_KEY_CHECKS=1;

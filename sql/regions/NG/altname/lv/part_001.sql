@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'lv', 'Abija'),
+('NG-AD', 'lv', 'Adamavas štats'),
+('NG-AK', 'lv', 'Akvas Ibomas štats'),
+('NG-AN', 'lv', 'Anambras štats'),
+('NG-BA', 'lv', 'Bauči štats'),
+('NG-BE', 'lv', 'Benue štats'),
+('NG-BO', 'lv', 'Borno štats'),
+('NG-BY', 'lv', 'Bajelsas štats'),
+('NG-CR', 'lv', 'Krosriveras štats'),
+('NG-DE', 'lv', 'Deltas štats'),
+('NG-EB', 'lv', 'Eboņi štats'),
+('NG-ED', 'lv', 'Edo štats'),
+('NG-EK', 'lv', 'Ekiti štats'),
+('NG-EN', 'lv', 'Enugu štats'),
+('NG-FC', 'lv', 'Federālā galvaspilsētas teritorija'),
+('NG-GO', 'lv', 'Gombes štats'),
+('NG-IM', 'lv', 'Imo štats'),
+('NG-JI', 'lv', 'Džigavas štats'),
+('NG-KD', 'lv', 'Kadunas štats'),
+('NG-KE', 'lv', 'Kebi štats'),
+('NG-KN', 'lv', 'Kano štats'),
+('NG-KO', 'lv', 'Kogi štats'),
+('NG-KT', 'lv', 'Kacinas štats'),
+('NG-KW', 'lv', 'Kvaras štats'),
+('NG-LA', 'lv', 'Lagosa'),
+('NG-NA', 'lv', 'Nasaravas štats'),
+('NG-NI', 'lv', 'Nigēras štats'),
+('NG-OG', 'lv', 'Oguno štats'),
+('NG-ON', 'lv', 'Ondo'),
+('NG-OS', 'lv', 'Osunas štats'),
+('NG-OY', 'lv', 'Ojo'),
+('NG-PL', 'lv', 'Plato štats'),
+('NG-RI', 'lv', 'Riversas štats'),
+('NG-SO', 'lv', 'Sokoto štats'),
+('NG-TA', 'lv', 'Tarabas štats'),
+('NG-YO', 'lv', 'Jobes štats'),
+('NG-ZA', 'lv', 'Zamfaras štats');
+
+SET FOREIGN_KEY_CHECKS=1;

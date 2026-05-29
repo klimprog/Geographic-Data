@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'dz', 'ཇོན་སི་ཊོན་ཨེ་ཊོལ།'),
+('UM-71', 'dz', 'མིཌ་ཝེ་ཨེ་ཊོལ།'),
+('UM-76', 'dz', 'ནཝ་ས་གླིང་ཕྲན།'),
+('UM-79', 'dz', 'ཝེཀ་ཨ་ཊོལ།'),
+('UM-81', 'dz', 'བེ་ཀར་གླིང་ཕྲན།'),
+('UM-84', 'dz', 'ཧའོ་ལེནཌ་གླིང་ཕྲན།'),
+('UM-86', 'dz', 'ཇར་ཝིས་གླིང་ཕྲན།'),
+('UM-89', 'dz', 'ཀིང་མེན་རིཕ།'),
+('UM-95', 'dz', 'པཱལ་མའི་ར་ཨེ་ཊོལ།');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MU-AG', 'hy', 'Ագալեգա'),
+('MU-BL', 'hy', 'Րիվիերե Նոիրե Դիստրիծտ'),
+('MU-CC', 'hy', 'Ծարգադոս Ծարաձոս'),
+('MU-FL', 'hy', 'Ֆլակ թաղամաս'),
+('MU-GP', 'hy', 'Գրանդ Պորտ Դիստրիծտ'),
+('MU-MO', 'hy', 'Մոկա Դիստրիծտ'),
+('MU-PA', 'hy', 'Պամպլեմոուսսես Դիստրիծտ'),
+('MU-PL', 'hy', 'Պորտ Լոուիս Դիստրիծտ'),
+('MU-PW', 'hy', 'Պլաինես Ւիլհեմս Դիստրիծտ'),
+('MU-RO', 'hy', 'Րոդրիգուես'),
+('MU-RR', 'hy', 'Րիվիերե դու Րեմպարտ Դիստրիծտ'),
+('MU-SA', 'hy', 'Սավաննե Դիստրիծտ');
+
+SET FOREIGN_KEY_CHECKS=1;

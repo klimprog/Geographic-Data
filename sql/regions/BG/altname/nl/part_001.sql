@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'nl', 'Blagoëvgrad'),
+('BG-02', 'nl', 'Boergas'),
+('BG-03', 'nl', 'Varna'),
+('BG-04', 'nl', 'Veliko Tarnovo'),
+('BG-05', 'nl', 'Vidin'),
+('BG-06', 'nl', 'Vratsa'),
+('BG-07', 'nl', 'Gabrovo'),
+('BG-08', 'nl', 'Dobritsj'),
+('BG-09', 'nl', 'Kardzjali'),
+('BG-10', 'nl', 'Kjoestendil'),
+('BG-11', 'nl', 'Lovetsj'),
+('BG-12', 'nl', 'Montana'),
+('BG-13', 'nl', 'Pazardzjik'),
+('BG-14', 'nl', 'Pernik'),
+('BG-15', 'nl', 'Pleven'),
+('BG-16', 'nl', 'Plovdiv'),
+('BG-17', 'nl', 'Razgrad'),
+('BG-18', 'nl', 'Roese'),
+('BG-19', 'nl', 'Silistra'),
+('BG-20', 'nl', 'Sliven'),
+('BG-21', 'nl', 'Smoljan'),
+('BG-22', 'nl', 'Sofia-Grad'),
+('BG-23', 'nl', 'Sofia'),
+('BG-24', 'nl', 'Stara Zagora'),
+('BG-25', 'nl', 'Targovisjte'),
+('BG-26', 'nl', 'Chaskovo'),
+('BG-27', 'nl', 'Sjoemen'),
+('BG-28', 'nl', 'Jambol');
+
+SET FOREIGN_KEY_CHECKS=1;

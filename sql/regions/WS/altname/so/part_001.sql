@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('WS-AA', 'so', 'A''ana'),
+('WS-AL', 'so', 'Aiga-i-le-Tai'),
+('WS-AT', 'so', 'Atua'),
+('WS-FA', 'so', 'Fa''asaleleaga'),
+('WS-GE', 'so', 'Gaga''emauga'),
+('WS-GI', 'so', 'Gaga''ifomauga'),
+('WS-PA', 'so', 'Palauli'),
+('WS-SA', 'so', 'Satupa''itea'),
+('WS-TU', 'so', 'Tuamasaga'),
+('WS-VF', 'so', 'Vaa-o-Fonoti'),
+('WS-VS', 'so', 'Vaysigano');
+
+SET FOREIGN_KEY_CHECKS=1;

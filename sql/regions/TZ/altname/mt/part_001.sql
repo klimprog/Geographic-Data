@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TZ-01', 'mt', 'Reġjun ta'' Arusha'),
+('TZ-02', 'mt', 'Ir-Reġjun ta’ Dar es Salaam'),
+('TZ-03', 'mt', 'Reġjun ta'' Dodoma'),
+('TZ-04', 'mt', 'Iringa Reġjun'),
+('TZ-05', 'mt', 'Reġjun Kagera'),
+('TZ-06', 'mt', 'Reġjun tat-Tramuntana ta'' Pemba'),
+('TZ-07', 'mt', 'Reġjun tat-Tramuntana ta’ Zanzibar'),
+('TZ-08', 'mt', 'Reġjun ta'' Kigoma'),
+('TZ-09', 'mt', 'Reġjun ta'' Kilimanjaro'),
+('TZ-10', 'mt', 'Pemba Reġjun Tan-Nofsinhar'),
+('TZ-11', 'mt', 'Reġjun Ċentrali/Nofsinhar ta’ Zanzibar'),
+('TZ-12', 'mt', 'Reġjun ta’ Lindi'),
+('TZ-13', 'mt', 'Reġjun Mara'),
+('TZ-14', 'mt', 'Reġjun Mbeya'),
+('TZ-15', 'mt', 'Reġjun ta'' Mjini Magharabi'),
+('TZ-16', 'mt', 'Reġjun Morogoro'),
+('TZ-17', 'mt', 'Reġjun Mtwara'),
+('TZ-18', 'mt', 'Reġjun tal-Mwanza'),
+('TZ-19', 'mt', 'Pwani'),
+('TZ-20', 'mt', 'Reġjun ta’ Rukwa'),
+('TZ-21', 'mt', 'Reġjun Ruvuma'),
+('TZ-22', 'mt', 'Reġjun ta'' Shinyanga'),
+('TZ-23', 'mt', 'Reġjun Singida'),
+('TZ-24', 'mt', 'Reġjun ta’ Tabora'),
+('TZ-25', 'mt', 'Reġjun Tanga'),
+('TZ-26', 'mt', 'Reġjun ta'' Manyara'),
+('TZ-27', 'mt', 'Reġjun ta'' Geita'),
+('TZ-28', 'mt', 'Reġjun Katavi'),
+('TZ-29', 'mt', 'Reġjun ta'' Njombe'),
+('TZ-30', 'mt', 'Reġjun Simiyu'),
+('TZ-31', 'mt', 'Songwe');
+
+SET FOREIGN_KEY_CHECKS=1;

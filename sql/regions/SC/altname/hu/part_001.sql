@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SC-01', 'hu', 'Anse aux Pins'),
+('SC-02', 'hu', 'Anse Boileau'),
+('SC-03', 'hu', 'Anse Etoile'),
+('SC-04', 'hu', 'Au Cap'),
+('SC-05', 'hu', 'Anse Royale'),
+('SC-06', 'hu', 'Baie Lazare'),
+('SC-07', 'hu', 'Baie Sainte Anne'),
+('SC-08', 'hu', 'Beau Vallon'),
+('SC-09', 'hu', 'Bel Air'),
+('SC-10', 'hu', 'Bel Ombre'),
+('SC-11', 'hu', 'Cascade'),
+('SC-12', 'hu', 'Glacis'),
+('SC-13', 'hu', 'Grand''Anse'),
+('SC-14', 'hu', 'Grand''Anse Praslin'),
+('SC-15', 'hu', 'La Digue and Inner Islands'),
+('SC-16', 'hu', 'English-folyó'),
+('SC-17', 'hu', 'Mont Buxton'),
+('SC-18', 'hu', 'Mont Fleuri'),
+('SC-19', 'hu', 'Plaisance'),
+('SC-20', 'hu', 'Pointe La Rue'),
+('SC-21', 'hu', 'Port Glaud'),
+('SC-22', 'hu', 'Saint Louis'),
+('SC-23', 'hu', 'Takamaka'),
+('SC-24', 'hu', 'Les Mamelles'),
+('SC-25', 'hu', 'Roche Caiman'),
+('SC-26', 'hu', 'Ile Kitartás I'),
+('SC-27', 'hu', 'Ile Kitartás II');
+
+SET FOREIGN_KEY_CHECKS=1;

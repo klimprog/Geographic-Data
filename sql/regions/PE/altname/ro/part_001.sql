@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PE-AMA', 'ro', 'Amazonas'),
+('PE-ANC', 'ro', 'Ancash'),
+('PE-APU', 'ro', 'Apurímac'),
+('PE-ARE', 'ro', 'Arequipa'),
+('PE-AYA', 'ro', 'Ayacucho'),
+('PE-CAJ', 'ro', 'Cajamarca'),
+('PE-CAL', 'ro', 'Provincia Constitucional del Callao'),
+('PE-CUS', 'ro', 'Cusco'),
+('PE-HUC', 'ro', 'Departamentul de Huánuco'),
+('PE-HUV', 'ro', 'Departamentul Huancavelica'),
+('PE-ICA', 'ro', 'Departamento de Ica'),
+('PE-JUN', 'ro', 'Junín'),
+('PE-LAL', 'ro', 'Departamento de La Libertad'),
+('PE-LAM', 'ro', 'Departamentul de Lambayeque'),
+('PE-LIM', 'ro', 'Departamentul Lima'),
+('PE-LMA', 'ro', 'Provincia Lima'),
+('PE-LOR', 'ro', 'Loreto'),
+('PE-MDD', 'ro', 'Departamento de Madre de Dios'),
+('PE-MOQ', 'ro', 'Moquegua'),
+('PE-PAS', 'ro', 'Pasco'),
+('PE-PIU', 'ro', 'Piura'),
+('PE-PUN', 'ro', 'Puno'),
+('PE-SAM', 'ro', 'Departamentul de San Martin'),
+('PE-TAC', 'ro', 'Tacna'),
+('PE-TUM', 'ro', 'Departamento de Tumbes'),
+('PE-UCA', 'ro', 'Ucayali');
+
+SET FOREIGN_KEY_CHECKS=1;

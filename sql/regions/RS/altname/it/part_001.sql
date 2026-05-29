@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('RS-00', 'it', 'Belgrado'),
+('RS-01', 'it', 'Severnobački okrug'),
+('RS-02', 'it', 'Srednjebanatski okrug'),
+('RS-03', 'it', 'Severnobanatski okrug'),
+('RS-04', 'it', 'Južnobanatski okrug'),
+('RS-05', 'it', 'Zapadnobački okrug'),
+('RS-06', 'it', 'Južnobački okrug'),
+('RS-07', 'it', 'Sremski okrug'),
+('RS-08', 'it', 'Mačvanski okrug'),
+('RS-09', 'it', 'Kolubarski okrug'),
+('RS-10', 'it', 'Podunavski okrug'),
+('RS-11', 'it', 'Braničevski okrug'),
+('RS-12', 'it', 'Šumadijski okrug'),
+('RS-13', 'it', 'Pomoravski okrug'),
+('RS-14', 'it', 'Borski okrug'),
+('RS-15', 'it', 'Zaječarski okrug'),
+('RS-16', 'it', 'Zlatiborski okrug'),
+('RS-17', 'it', 'Moravički okrug'),
+('RS-18', 'it', 'Raški okrug'),
+('RS-19', 'it', 'Rasinski okrug'),
+('RS-20', 'it', 'Nišavski okrug'),
+('RS-21', 'it', 'Toplički okrug'),
+('RS-22', 'it', 'Pirotski okrug'),
+('RS-23', 'it', 'Jablanički okrug'),
+('RS-24', 'it', 'Pčinjski okrug'),
+('RS-25', 'it', 'Kosovski okrug'),
+('RS-26', 'it', 'Pećki okrug'),
+('RS-27', 'it', 'Prizrenski okrug'),
+('RS-28', 'it', 'Zona Kosovsko-Mitrovački'),
+('RS-29', 'it', 'Kosovsko-Pomoravski okrug'),
+('RS-KM', 'it', 'Kosovo-Metohija'),
+('RS-VO', 'it', 'Voivodina');
+
+SET FOREIGN_KEY_CHECKS=1;

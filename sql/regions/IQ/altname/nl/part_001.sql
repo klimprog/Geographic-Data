@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IQ-AN', 'nl', 'Al-Anbar'),
+('IQ-AR', 'nl', 'Arbil'),
+('IQ-BA', 'nl', 'Basra'),
+('IQ-BB', 'nl', 'Babil'),
+('IQ-BG', 'nl', 'Bagdad'),
+('IQ-DA', 'nl', 'Duhok'),
+('IQ-DI', 'nl', 'Diyala'),
+('IQ-DQ', 'nl', 'Dhi Qar'),
+('IQ-KA', 'nl', 'Karbala'),
+('IQ-KI', 'nl', 'Kirkoek'),
+('IQ-KR', 'nl', 'Iqlīm Kūrdistān'),
+('IQ-MA', 'nl', 'Maysan'),
+('IQ-MU', 'nl', 'Al-Muthanna'),
+('IQ-NA', 'nl', 'An-Najaf'),
+('IQ-NI', 'nl', 'Ninawa'),
+('IQ-QA', 'nl', 'Al-Qadisiyah'),
+('IQ-SD', 'nl', 'Salah ad Din'),
+('IQ-SU', 'nl', 'Sulaymaniyah'),
+('IQ-WA', 'nl', 'Wasit');
+
+SET FOREIGN_KEY_CHECKS=1;

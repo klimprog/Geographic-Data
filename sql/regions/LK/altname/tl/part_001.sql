@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'tl', 'Western Province'),
+('LK-11', 'tl', 'Colombo'),
+('LK-12', 'tl', 'Gampaha'),
+('LK-13', 'tl', 'Kalutara'),
+('LK-2', 'tl', 'Central Province'),
+('LK-21', 'tl', 'Kandy'),
+('LK-22', 'tl', 'Matale'),
+('LK-23', 'tl', 'Nuwara Eliya'),
+('LK-3', 'tl', 'Southern Province'),
+('LK-31', 'tl', 'Galle'),
+('LK-32', 'tl', 'Matara'),
+('LK-33', 'tl', 'Hambantota'),
+('LK-4', 'tl', 'Hilagang Lalawigan'),
+('LK-41', 'tl', 'Jaffna'),
+('LK-42', 'tl', 'Kilinochchi'),
+('LK-43', 'tl', 'Mannar'),
+('LK-44', 'tl', 'Vavuniya'),
+('LK-45', 'tl', 'Mullaittivu'),
+('LK-5', 'tl', 'Silangang Lalawigan'),
+('LK-51', 'tl', 'Batticaloa'),
+('LK-52', 'tl', 'Ampara'),
+('LK-53', 'tl', 'Trincomalee'),
+('LK-6', 'tl', 'North Western Province'),
+('LK-61', 'tl', 'Kurunegala'),
+('LK-62', 'tl', 'Puttalam'),
+('LK-7', 'tl', 'North Central Province'),
+('LK-71', 'tl', 'Anuradhapura'),
+('LK-72', 'tl', 'Polonnaruwa'),
+('LK-8', 'tl', NULL),
+('LK-81', 'tl', 'Badulla'),
+('LK-82', 'tl', 'Monaragala'),
+('LK-9', 'tl', 'Lalawigan ng Sabaragamuwa'),
+('LK-91', 'tl', 'Ratnapura'),
+('LK-92', 'tl', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

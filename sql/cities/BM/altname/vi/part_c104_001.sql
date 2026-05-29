@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(16037404, 208278, 'vi', 'Flatts Village'),
+(16037558, 208280, 'vi', 'Somerset Village'),
+(16037712, 208282, 'vi', 'St. George''s'),
+(16038251, 208289, 'vi', 'Hamilton'),
+(16038713, 208295, 'vi', 'Cross Bay'),
+(16038790, 208296, 'vi', 'Stovel Bay');
+
+SET FOREIGN_KEY_CHECKS=1;

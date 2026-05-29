@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SO-AW', 'pl', 'Awdal'),
+('SO-BK', 'pl', 'Bakool'),
+('SO-BN', 'pl', 'Banaadir'),
+('SO-BR', 'pl', 'Bari'),
+('SO-BY', 'pl', 'Bay'),
+('SO-GA', 'pl', 'Galguduud'),
+('SO-GE', 'pl', 'Gedo'),
+('SO-HI', 'pl', 'Hiran'),
+('SO-JD', 'pl', 'Dżuba Środkowa'),
+('SO-JH', 'pl', 'Dżuba Dolna'),
+('SO-MU', 'pl', 'Mudug'),
+('SO-NU', 'pl', 'Nugal'),
+('SO-SA', 'pl', 'Sanaag'),
+('SO-SD', 'pl', 'Shabeellaha Dhexe'),
+('SO-SH', 'pl', 'Shabeellaha Hoose'),
+('SO-SO', 'pl', 'Sool'),
+('SO-TO', 'pl', 'Gobolka Togdheer'),
+('SO-WO', 'pl', 'Gobolka Woqooyi Galbeed');
+
+SET FOREIGN_KEY_CHECKS=1;

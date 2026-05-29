@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'ht', 'Balaka'),
+('MW-BL', 'ht', 'Blantyre'),
+('MW-C', 'ht', 'Rejyon Santral'),
+('MW-CK', 'ht', 'Chikwawa'),
+('MW-CR', 'ht', 'Chiradzulu'),
+('MW-CT', 'ht', 'Chitipa'),
+('MW-DE', 'ht', 'Dedza'),
+('MW-DO', 'ht', 'Dowa'),
+('MW-KR', 'ht', 'Karonga'),
+('MW-KS', 'ht', 'Kasungu'),
+('MW-LI', 'ht', 'Lilongwe'),
+('MW-LK', 'ht', 'Likoma'),
+('MW-MC', 'ht', 'Mchinji'),
+('MW-MG', 'ht', 'Mangochi'),
+('MW-MH', 'ht', 'Machinga'),
+('MW-MU', 'ht', 'Mulanje'),
+('MW-MW', 'ht', 'Mwanza'),
+('MW-MZ', 'ht', 'Mzimba'),
+('MW-N', 'ht', 'Rejyon Nò'),
+('MW-NB', 'ht', 'Nkhata Bay'),
+('MW-NE', 'ht', 'Neno'),
+('MW-NI', 'ht', 'Ntchisi'),
+('MW-NK', 'ht', 'Nkhotakota'),
+('MW-NS', 'ht', 'Nsanje'),
+('MW-NU', 'ht', 'Ntcheu'),
+('MW-PH', 'ht', 'Phalombe'),
+('MW-RU', 'ht', 'Rumphi'),
+('MW-S', 'ht', 'Rejyon Sid la'),
+('MW-SA', 'ht', 'Salima'),
+('MW-TH', 'ht', 'Thyolo'),
+('MW-ZO', 'ht', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

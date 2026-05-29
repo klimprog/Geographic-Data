@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072133, 52885, 'sw', 'Villa Las Estrellas'),
+(4072210, 52886, 'sw', 'Kituo cha Davis'),
+(4072287, 52887, 'sw', 'Msingi Mkuu Bernardo O''Higgins Riquelme'),
+(4072364, 52888, 'sw', 'Kituo cha Showa'),
+(4072441, 52889, 'sw', 'Kituo cha Jang Bogo'),
+(4072518, 52890, 'sw', 'Kituo cha SANAE IV'),
+(4072595, 52891, 'sw', 'Kituo cha Qinling'),
+(4072672, 52892, 'sw', 'Kituo cha Zhongshan'),
+(4072749, 52893, 'sw', 'Kituo cha Mawson'),
+(4072980, 52896, 'sw', NULL),
+(4073211, 52899, 'sw', 'Kituo cha Novolazarevskaya'),
+(4073365, 52901, 'sw', 'Kituo cha Mirny');
+
+SET FOREIGN_KEY_CHECKS=1;

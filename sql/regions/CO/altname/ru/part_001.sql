@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'ru', 'Амасонас'),
+('CO-ANT', 'ru', 'Антьокия'),
+('CO-ARA', 'ru', 'Араука'),
+('CO-ATL', 'ru', 'Атлантико'),
+('CO-BOL', 'ru', 'Боливар'),
+('CO-BOY', 'ru', 'Бояка'),
+('CO-CAL', 'ru', 'Кальдас'),
+('CO-CAQ', 'ru', 'Какета'),
+('CO-CAS', 'ru', 'Касанаре'),
+('CO-CAU', 'ru', 'Каука'),
+('CO-CES', 'ru', 'Сесар'),
+('CO-CHO', 'ru', 'Чоко'),
+('CO-COR', 'ru', 'Кордова'),
+('CO-CUN', 'ru', 'Кундинамарка'),
+('CO-DC', 'ru', 'Дистрито Капитал де Богота'),
+('CO-GUA', 'ru', 'Гуайния'),
+('CO-GUV', 'ru', 'Гуавьяре'),
+('CO-HUI', 'ru', 'Уила'),
+('CO-LAG', 'ru', 'Гуахира'),
+('CO-MAG', 'ru', 'Магдалена'),
+('CO-MET', 'ru', 'Ме́та'),
+('CO-NAR', 'ru', 'Нариньо'),
+('CO-NSA', 'ru', 'Северный Сантандер'),
+('CO-PUT', 'ru', 'Путумайо'),
+('CO-QUI', 'ru', 'Киндио'),
+('CO-RIS', 'ru', 'Рисаральда'),
+('CO-SAN', 'ru', 'Сантандер'),
+('CO-SAP', 'ru', 'Сан-Андрес-и-Провиденсия'),
+('CO-SUC', 'ru', 'Сукре'),
+('CO-TOL', 'ru', 'Толима'),
+('CO-VAC', 'ru', 'Валье-дель-Каука'),
+('CO-VAU', 'ru', 'Ваупес'),
+('CO-VID', 'ru', 'Вичада');
+
+SET FOREIGN_KEY_CHECKS=1;

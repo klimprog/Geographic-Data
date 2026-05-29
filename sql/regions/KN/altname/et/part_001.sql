@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'et', 'Kristuse Kirik Nichola Linn'),
+('KN-02', 'et', 'Saint Anne Sandy Point'),
+('KN-03', 'et', 'Saint George Basseterre'),
+('KN-04', 'et', 'Saint George Gingerland'),
+('KN-05', 'et', 'Saint James Windward'),
+('KN-06', 'et', 'Saint John Capesterre'),
+('KN-07', 'et', 'Püha John Figtree'),
+('KN-08', 'et', 'Saint Mary Cayon'),
+('KN-09', 'et', 'Saint Paul Capesterre'),
+('KN-10', 'et', 'Saint Paul Charlestown'),
+('KN-11', 'et', 'Püha Peter Basseterre'),
+('KN-12', 'et', 'Püha Thomase madalik'),
+('KN-13', 'et', 'Saint Thomas Middle Island'),
+('KN-15', 'et', 'Trinity Palmetto Point'),
+('KN-K', 'et', 'Saint Kitts'),
+('KN-N', 'et', 'Nevis');
+
+SET FOREIGN_KEY_CHECKS=1;

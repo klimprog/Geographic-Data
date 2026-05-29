@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('VE-A', 'cs', 'Distrikt hlavního města'),
+('VE-B', 'cs', 'Anzoátegui'),
+('VE-C', 'cs', 'Apure'),
+('VE-D', 'cs', 'Aragua'),
+('VE-E', 'cs', 'Barinas'),
+('VE-F', 'cs', 'Bolívar'),
+('VE-G', 'cs', 'Carabobo'),
+('VE-H', 'cs', 'Cojedes'),
+('VE-I', 'cs', 'Falcón'),
+('VE-J', 'cs', 'Guárico'),
+('VE-K', 'cs', 'Lara'),
+('VE-L', 'cs', 'Mérida (stát)'),
+('VE-M', 'cs', 'Miranda'),
+('VE-N', 'cs', 'Monagas'),
+('VE-O', 'cs', 'Nueva Esparta'),
+('VE-P', 'cs', 'Portuguesa (stát)'),
+('VE-R', 'cs', 'Sucre (stát)'),
+('VE-S', 'cs', 'Táchira'),
+('VE-T', 'cs', 'Trujillo'),
+('VE-U', 'cs', 'Yaracuy'),
+('VE-V', 'cs', 'Zulia'),
+('VE-W', 'cs', 'Federální dependence'),
+('VE-X', 'cs', 'La Guaira'),
+('VE-Y', 'cs', 'Delta Amacuro'),
+('VE-Z', 'cs', 'Amazonas');
+
+SET FOREIGN_KEY_CHECKS=1;

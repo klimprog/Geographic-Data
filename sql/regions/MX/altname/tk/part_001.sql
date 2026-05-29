@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'tk', 'Estado de Aguascalientes'),
+('MX-BCN', 'tk', 'Estado de Baja Kaliforniýa'),
+('MX-BCS', 'tk', 'Estado de Baja California Sur'),
+('MX-CAM', 'tk', 'Estado de Campeche'),
+('MX-CHH', 'tk', 'Estado de Çihuahua'),
+('MX-CHP', 'tk', 'Estado de Çiapas'),
+('MX-CMX', 'tk', 'Mehiko'),
+('MX-COA', 'tk', 'Estado de Coahuila de Zaragoza'),
+('MX-COL', 'tk', 'Estado de Kolima'),
+('MX-DUR', 'tk', 'Estado de Durango'),
+('MX-GRO', 'tk', 'Estado de Guerrero'),
+('MX-GUA', 'tk', 'Estado de Guanajuato'),
+('MX-HID', 'tk', 'Estado de Hidalgo'),
+('MX-JAL', 'tk', 'Estado de Jalisko'),
+('MX-MEX', 'tk', 'Estado de Meksika'),
+('MX-MIC', 'tk', 'Estado de Michoacan de Okampo'),
+('MX-MOR', 'tk', 'Estado de Morelos'),
+('MX-NAY', 'tk', 'Estado de Naýarit'),
+('MX-NLE', 'tk', 'Estado de Nuevo Leon'),
+('MX-OAX', 'tk', 'Estado de Oaxaka'),
+('MX-PUE', 'tk', 'Estado de Puebla'),
+('MX-QUE', 'tk', 'Estado de Keretaro'),
+('MX-ROO', 'tk', 'Estado de Quintana Roo'),
+('MX-SIN', 'tk', 'Estado de Sinaloa'),
+('MX-SLP', 'tk', 'Estado de San Luis Potosi'),
+('MX-SON', 'tk', 'Estado de Sonora'),
+('MX-TAB', 'tk', 'Estado de Tabasco'),
+('MX-TAM', 'tk', 'Estado de Tamaulipas'),
+('MX-TLA', 'tk', 'Estado de Tlaxkala'),
+('MX-VER', 'tk', 'Estado de Veracruz-Llave'),
+('MX-YUC', 'tk', 'Estado de atanukatan'),
+('MX-ZAC', 'tk', 'Estado de Zakatekas');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170077, 2885326, 'pl', 'shumaymat'),
+(222170154, 2885327, 'pl', 'Az Zawr'),
+(222170462, 2885331, 'pl', 'Hawalli'),
+(222170539, 2885332, 'pl', 'duaydat'),
+(222170693, 2885334, 'pl', 'dant'),
+(222170770, 2885335, 'pl', 'Az Zawr'),
+(222171001, 2885338, 'pl', 'Ar-Rikka'),
+(222171309, 2885342, 'pl', 'Al Wafra'),
+(222171386, 2885343, 'pl', 'Al’Udayliyah'),
+(222171771, 2885348, 'pl', 'Kuwejt'),
+(222171925, 2885350, 'pl', 'Al-Dżahra'),
+(222172079, 2885352, 'pl', 'Al Funaytis'),
+(222172233, 2885354, 'pl', 'Al-Farwanija'),
+(222172310, 2885355, 'pl', 'Al-Farwanija'),
+(222172387, 2885356, 'pl', 'aalbidaʿ'),
+(222172618, 2885359, 'pl', 'Al-Ahmadi'),
+(222172849, 2885362, 'pl', 'Ad Diba`iyah'),
+(222173157, 2885366, 'pl', 'aabraq khaytan'),
+(222173234, 2885367, 'pl', 'Jako Salihiyah'),
+(222174389, 2885382, 'pl', 'Autostrada Śmierci'),
+(222174620, 2885385, 'pl', 'Mubarak al-Kabir'),
+(222174697, 2885386, 'pl', 'Al''Adan'),
+(222174774, 2885387, 'pl', 'Al-Masayel'),
+(222174851, 2885388, 'pl', 'Al-Masayel'),
+(222174928, 2885389, 'pl', 'Abu Fatira'),
+(222175005, 2885390, 'pl', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

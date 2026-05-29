@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CG-11', 'hu', 'Bouenza'),
+('CG-12', 'hu', 'Pool'),
+('CG-13', 'hu', 'Szangha'),
+('CG-14', 'hu', 'Plateaux'),
+('CG-15', 'hu', 'Cuvette-Ouest'),
+('CG-16', 'hu', 'Pointe-Noire'),
+('CG-2', 'hu', 'Lekoumou'),
+('CG-5', 'hu', 'Kouilou'),
+('CG-7', 'hu', 'Likouala'),
+('CG-8', 'hu', 'Cuvette'),
+('CG-9', 'hu', 'Niari'),
+('CG-BZV', 'hu', 'Brazzaville');
+
+SET FOREIGN_KEY_CHECKS=1;

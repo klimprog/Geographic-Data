@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IQ-AN', 'fa', 'استان انبار'),
+('IQ-AR', 'fa', 'اربیل'),
+('IQ-BA', 'fa', 'استان بصره'),
+('IQ-BB', 'fa', 'استان بابل'),
+('IQ-BG', 'fa', 'استان بغداد'),
+('IQ-DA', 'fa', 'استان دهوک'),
+('IQ-DI', 'fa', 'استان دیاله'),
+('IQ-DQ', 'fa', 'استان ذی‌قار'),
+('IQ-KA', 'fa', 'استان کربلا'),
+('IQ-KI', 'fa', 'استان کرکوک'),
+('IQ-KR', 'fa', 'اقلیم کردستان'),
+('IQ-MA', 'fa', 'استان میسان'),
+('IQ-MU', 'fa', 'استان مثنی'),
+('IQ-NA', 'fa', 'نجف'),
+('IQ-NI', 'fa', 'نینوا'),
+('IQ-QA', 'fa', 'استان قادسیه'),
+('IQ-SD', 'fa', 'استان صلاح‌الدین'),
+('IQ-SU', 'fa', 'استان سلیمانیه'),
+('IQ-WA', 'fa', 'استان واسط');
+
+SET FOREIGN_KEY_CHECKS=1;

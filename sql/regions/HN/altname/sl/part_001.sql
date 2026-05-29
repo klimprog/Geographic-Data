@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HN-AT', 'sl', 'Departamento de Atlántida'),
+('HN-CH', 'sl', 'Departamento de Choluteca'),
+('HN-CL', 'sl', 'Departamento de Colon'),
+('HN-CM', 'sl', 'Departamento de Comayagua'),
+('HN-CP', 'sl', 'Departamento Copán'),
+('HN-CR', 'sl', 'Departamento de Cortes'),
+('HN-EP', 'sl', 'Departamento de El Paraiso'),
+('HN-FM', 'sl', 'Departamento de Francisco Morazan'),
+('HN-GD', 'sl', 'Departamento de Gracias a Dios'),
+('HN-IB', 'sl', 'Islas de la Bahía'),
+('HN-IN', 'sl', 'Departamento de Intibuca'),
+('HN-LE', 'sl', 'Departamento de Lempira'),
+('HN-LP', 'sl', 'Departamento de La Paz'),
+('HN-OC', 'sl', 'Departamento Ocotepeque'),
+('HN-OL', 'sl', 'Departamento de Olancho'),
+('HN-SB', 'sl', 'Santa Barbara'),
+('HN-VA', 'sl', 'Departamento de Valle'),
+('HN-YO', 'sl', 'Departamento de Yoro');
+
+SET FOREIGN_KEY_CHECKS=1;

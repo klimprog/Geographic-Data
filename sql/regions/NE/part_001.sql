@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('NE-1', 'NE', 'Agadez', 'Agadez', 3442604, 511188, 'UTC+1', 'Africa/Niamey'),
+('NE-2', 'NE', 'Diffa', 'Diffa', 3441085, 489531, 'UTC+1', 'Africa/Niamey'),
+('NE-3', 'NE', 'Dosso Region', 'Dosso', 3440933, 2078339, 'UTC+1', 'Africa/Niamey'),
+('NE-4', 'NE', 'Maradi', 'Maradi', 3438082, 3117810, 'UTC+1', 'Africa/Niamey'),
+('NE-5', 'NE', 'Tahoua', 'Tahoua', 3436989, 2741922, 'UTC+1', 'Africa/Niamey'),
+('NE-6', 'NE', 'Tillaberi Region', 'Tillabéri', 3436684, 2572125, 'UTC+0, UTC+1', 'Africa/Ouagadougou, Africa/Niamey'),
+('NE-7', 'NE', 'Zinder', 'Zinder', 3436117, 2916929, 'UTC+1', 'Africa/Niamey'),
+('NE-8', 'NE', 'Niamey', 'Niamey', NULL, 1302910, 'UTC+1', 'Africa/Niamey');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'km', 'បាឡាកា'),
+('MW-BL', 'km', 'ប្លែនធីរ'),
+('MW-C', 'km', 'តំបន់កណ្តាល'),
+('MW-CK', 'km', 'ឈីកវ៉ា'),
+('MW-CR', 'km', 'ឈីរ៉ាដហ្សូលូ'),
+('MW-CT', 'km', 'ជីទីប៉ា'),
+('MW-DE', 'km', 'ដេតហ្សា'),
+('MW-DO', 'km', 'ដូវ៉ា'),
+('MW-KR', 'km', 'ការ៉ុងហ្គា'),
+('MW-KS', 'km', 'កាស៊ុងហ្គូ'),
+('MW-LI', 'km', 'លីឡុងវ៉េ'),
+('MW-LK', 'km', 'លីកូម៉ា'),
+('MW-MC', 'km', 'មីឈីនជី'),
+('MW-MG', 'km', 'ម៉ង់ហ្គោជី'),
+('MW-MH', 'km', 'ម៉ាឈីង'),
+('MW-MU', 'km', NULL),
+('MW-MW', 'km', 'មវ៉ាន់ហ្សា'),
+('MW-MZ', 'km', 'មីហ្សីមបា'),
+('MW-N', 'km', 'តំបន់ភាគខាងជើង'),
+('MW-NB', 'km', NULL),
+('MW-NE', 'km', 'ណេណូ'),
+('MW-NI', 'km', 'ណឈីស៊ី'),
+('MW-NK', 'km', 'ណុកតាកូតា'),
+('MW-NS', 'km', 'ណង់ជេ'),
+('MW-NU', 'km', 'ណុច'),
+('MW-PH', 'km', 'ផ្លុំបេ'),
+('MW-RU', 'km', 'រំភី'),
+('MW-S', 'km', 'តំបន់ភាគខាងត្បូង'),
+('MW-SA', 'km', 'សាលីម៉ា'),
+('MW-TH', 'km', 'ធីឡូ'),
+('MW-ZO', 'km', 'ហ្សុមបា');
+
+SET FOREIGN_KEY_CHECKS=1;

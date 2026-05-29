@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'ar', 'آنهوي'),
+('CN-BJ', 'ar', 'بكين'),
+('CN-CQ', 'ar', 'تشونغتشينغ'),
+('CN-FJ', 'ar', 'فوجيان'),
+('CN-GD', 'ar', 'غوانغدونغ'),
+('CN-GS', 'ar', 'قانسو'),
+('CN-GX', 'ar', 'قوانغشي'),
+('CN-GZ', 'ar', 'قويتشو'),
+('CN-HA', 'ar', 'خنان'),
+('CN-HB', 'ar', 'خوبي'),
+('CN-HE', 'ar', 'خبي'),
+('CN-HI', 'ar', 'هاينان'),
+('CN-HK', 'ar', NULL),
+('CN-HL', 'ar', 'هيلونغجيانغ'),
+('CN-HN', 'ar', 'خونان'),
+('CN-JL', 'ar', 'جيلين'),
+('CN-JS', 'ar', 'جيانغسو'),
+('CN-JX', 'ar', 'جيانغشي'),
+('CN-LN', 'ar', 'لياونينغ'),
+('CN-MO', 'ar', 'مكه صار'),
+('CN-NM', 'ar', 'منغوليا الداخلية'),
+('CN-NX', 'ar', 'نينغشيا'),
+('CN-QH', 'ar', 'تشينغهاي'),
+('CN-SC', 'ar', 'سيتشوان'),
+('CN-SD', 'ar', 'شاندونغ'),
+('CN-SH', 'ar', 'شانغهاي'),
+('CN-SN', 'ar', 'شنشي'),
+('CN-SX', 'ar', 'شانشي'),
+('CN-TJ', 'ar', 'تيانجين'),
+('CN-TW', 'ar', 'تايوان شنغ'),
+('CN-XJ', 'ar', 'سنجان'),
+('CN-XZ', 'ar', 'منطقة التبت ذاتية الحكم'),
+('CN-YN', 'ar', 'يونان'),
+('CN-ZJ', 'ar', 'جيجيانغ');
+
+SET FOREIGN_KEY_CHECKS=1;

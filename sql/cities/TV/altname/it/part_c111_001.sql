@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(335954880, 4363051, 'it', 'Tanrake'),
+(335954957, 4363052, 'it', 'Itogawa'),
+(335955034, 4363053, 'it', 'Tanrake'),
+(335955111, 4363054, 'it', 'Niutao'),
+(335955265, 4363056, 'it', 'Funafuti'),
+(335955342, 4363057, 'it', 'Asau'),
+(335955419, 4363058, 'it', 'Funafuti'),
+(335955496, 4363059, 'it', 'Asau'),
+(335955650, 4363061, 'it', 'Nukualofa'),
+(335955727, 4363062, 'it', 'Pepesala Village'),
+(335955804, 4363063, 'it', 'Lolua'),
+(335955881, 4363064, 'it', 'Hauma'),
+(335955958, 4363065, 'it', 'Isole Makin'),
+(335956035, 4363066, 'it', 'Teava Village'),
+(335956112, 4363067, 'it', 'Savave'),
+(335956189, 4363068, 'it', 'Motufoua School'),
+(335956266, 4363069, 'it', 'Savave');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'kl', 'Batha-p eqqaani'),
+('TD-BG', 'kl', 'Barh-El-Gazel'),
+('TD-BO', 'kl', 'Borkou-p nunaqarfiani'),
+('TD-CB', 'kl', 'Nunap immikkoortua Chari-Baguirmi'),
+('TD-EE', 'kl', 'Ennedi-Est'),
+('TD-EO', 'kl', 'Ennedi-Ouest'),
+('TD-GR', 'kl', 'Guera-p eqqaani'),
+('TD-HL', 'kl', 'Hadjer-Lamis'),
+('TD-KA', 'kl', 'Kanem-ip eqqaani'),
+('TD-LC', 'kl', NULL),
+('TD-LO', 'kl', 'Logone Vest-region'),
+('TD-LR', 'kl', 'Logone Orientalimi nunap immikkoortuani'),
+('TD-MA', 'kl', 'Mandoul'),
+('TD-MC', 'kl', 'Moyen-Chari-p eqqaani'),
+('TD-ME', 'kl', 'Mayo-Kebbi Est'),
+('TD-MO', 'kl', 'Mayo-Kebbi Vest-imi nunap immikkoortuani'),
+('TD-ND', 'kl', 'N''Djamena'),
+('TD-OD', 'kl', 'Ouaddai-p nunaqarfiani'),
+('TD-SA', 'kl', NULL),
+('TD-SI', 'kl', 'Sila'),
+('TD-TA', 'kl', 'Tandjile-p eqqaani'),
+('TD-TI', 'kl', 'Tibestimi nunap immikkoortuani'),
+('TD-WF', 'kl', 'Wadi Fira-p eqqaani');
+
+SET FOREIGN_KEY_CHECKS=1;

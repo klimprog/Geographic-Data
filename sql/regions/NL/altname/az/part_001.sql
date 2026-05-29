@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NL-AW', 'az', 'Aruba'),
+('NL-BQ1', 'az', 'Bonaire'),
+('NL-BQ2', 'az', 'Səba'),
+('NL-BQ3', 'az', 'Sint-Eustatius'),
+('NL-CW', 'az', 'Kurasao'),
+('NL-DR', 'az', 'Drenthe'),
+('NL-FL', 'az', 'Flevoland'),
+('NL-FR', 'az', 'Frislandiya'),
+('NL-GE', 'az', 'Gelderland'),
+('NL-GR', 'az', 'Xroninqen'),
+('NL-LI', 'az', 'Limburq'),
+('NL-NB', 'az', 'Şimali Brabant'),
+('NL-NH', 'az', 'Şimali Hollandiya'),
+('NL-OV', 'az', 'Overijssel'),
+('NL-SX', 'az', 'Sint-Marten'),
+('NL-UT', 'az', 'Utrext'),
+('NL-ZE', 'az', 'Zelanda'),
+('NL-ZH', 'az', 'Cənubi Hollandiya');
+
+SET FOREIGN_KEY_CHECKS=1;

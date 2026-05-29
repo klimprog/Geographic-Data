@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'sk', 'Andamany a Nikobary'),
+('IN-AP', 'sk', 'Ándhrapradéš'),
+('IN-AR', 'sk', 'Arunáčalpradéš'),
+('IN-AS', 'sk', 'Ásam'),
+('IN-BR', 'sk', 'Bihár'),
+('IN-CG', 'sk', 'Čhattísgarh'),
+('IN-CH', 'sk', 'Čandígarh'),
+('IN-DH', 'sk', 'Dadra a Nagar Haveli a Daman a Diu'),
+('IN-DL', 'sk', 'National Capital Territory of Delhi'),
+('IN-GA', 'sk', 'Goa'),
+('IN-GJ', 'sk', 'Gudžarát'),
+('IN-HP', 'sk', 'Himáčalpradéš'),
+('IN-HR', 'sk', 'Harijána'),
+('IN-JH', 'sk', 'Džhárkhand'),
+('IN-JK', 'sk', 'Džammú a Kašmír'),
+('IN-KA', 'sk', 'Karnátaka'),
+('IN-KL', 'sk', 'Kérala'),
+('IN-LA', 'sk', 'Ladakh'),
+('IN-LD', 'sk', 'Lakadivy'),
+('IN-MH', 'sk', 'Maháraštra'),
+('IN-ML', 'sk', 'Meghálaj'),
+('IN-MN', 'sk', 'Manípur'),
+('IN-MP', 'sk', 'Madhjapradéš'),
+('IN-MZ', 'sk', 'Mizorám'),
+('IN-NL', 'sk', 'Nágsko'),
+('IN-OD', 'sk', 'Urísa'),
+('IN-PB', 'sk', 'Pandžáb'),
+('IN-PY', 'sk', 'Puttučéri'),
+('IN-RJ', 'sk', 'Radžastan'),
+('IN-SK', 'sk', 'Sikkim'),
+('IN-TN', 'sk', 'Tamilnádu'),
+('IN-TR', 'sk', 'Tripura'),
+('IN-TS', 'sk', 'Telangána'),
+('IN-UK', 'sk', 'Uttarákhand'),
+('IN-UP', 'sk', 'Uttarpradéš'),
+('IN-WB', 'sk', 'Západné Bengálsko');
+
+SET FOREIGN_KEY_CHECKS=1;

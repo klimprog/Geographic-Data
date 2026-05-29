@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('FJ-01', 'kl', 'Ba'),
+('FJ-02', 'kl', 'Bua'),
+('FJ-03', 'kl', 'Cakaudrove'),
+('FJ-04', 'kl', 'Kadavumi'),
+('FJ-05', 'kl', 'Lau'),
+('FJ-06', 'kl', 'Lomaiviti'),
+('FJ-07', 'kl', 'Macuata'),
+('FJ-08', 'kl', 'Nadroga aamma Navosa'),
+('FJ-09', 'kl', 'Naitasiri'),
+('FJ-10', 'kl', 'Namosi'),
+('FJ-11', 'kl', 'Ra'),
+('FJ-12', 'kl', 'Rewa'),
+('FJ-13', 'kl', 'Serua'),
+('FJ-14', 'kl', 'Tailevu'),
+('FJ-C', 'kl', 'Central'),
+('FJ-E', 'kl', 'Eastern'),
+('FJ-N', 'kl', 'Northern'),
+('FJ-R', 'kl', 'Rotuma'),
+('FJ-W', 'kl', 'Western');
+
+SET FOREIGN_KEY_CHECKS=1;

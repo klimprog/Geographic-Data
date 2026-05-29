@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NO-03', 'fi', 'Oslon maakunta'),
+('NO-11', 'fi', 'Rogalandin lääni'),
+('NO-15', 'fi', 'Møren ja Romsdalin lääni'),
+('NO-18', 'fi', 'Nordlandin lääni'),
+('NO-21', 'fi', 'Svalbard (arktinen alue)'),
+('NO-22', 'fi', 'Jan Mayen (arktinen alue)'),
+('NO-30', 'fi', 'Vikenin fylke'),
+('NO-34', 'fi', 'Innlandet'),
+('NO-38', 'fi', 'Vestfoldin ja Telemarkin lääni'),
+('NO-42', 'fi', 'Agder'),
+('NO-46', 'fi', 'Vestland'),
+('NO-50', 'fi', 'Trøndelagin lääni'),
+('NO-54', 'fi', 'Tromssan ja Finnmarkin lääni');
+
+SET FOREIGN_KEY_CHECKS=1;

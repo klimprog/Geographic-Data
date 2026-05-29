@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'id', 'Abia'),
+('NG-AD', 'id', 'Adamawa'),
+('NG-AK', 'id', 'Akwa Ibom'),
+('NG-AN', 'id', 'Anambra'),
+('NG-BA', 'id', 'Bauchi'),
+('NG-BE', 'id', 'Benue'),
+('NG-BO', 'id', 'Borno'),
+('NG-BY', 'id', 'Bayelsa'),
+('NG-CR', 'id', 'Cross River'),
+('NG-DE', 'id', 'Delta'),
+('NG-EB', 'id', 'Ebonyi'),
+('NG-ED', 'id', 'Edo'),
+('NG-EK', 'id', 'Ekiti'),
+('NG-EN', 'id', 'Enugu'),
+('NG-FC', 'id', 'Wilayah Ibu Kota Federal'),
+('NG-GO', 'id', 'Gombe'),
+('NG-IM', 'id', 'Imo'),
+('NG-JI', 'id', 'Jigawa'),
+('NG-KD', 'id', 'Kaduna'),
+('NG-KE', 'id', 'Kebbi'),
+('NG-KN', 'id', 'Kano'),
+('NG-KO', 'id', 'Kogi'),
+('NG-KT', 'id', 'Katsina'),
+('NG-KW', 'id', 'Kwara'),
+('NG-LA', 'id', 'Lagos'),
+('NG-NA', 'id', 'Nassarawa'),
+('NG-NI', 'id', 'Niger'),
+('NG-OG', 'id', 'Ogun'),
+('NG-ON', 'id', 'Ondo'),
+('NG-OS', 'id', 'Osun'),
+('NG-OY', 'id', 'Oyo'),
+('NG-PL', 'id', 'Plateau'),
+('NG-RI', 'id', 'Rivers'),
+('NG-SO', 'id', 'Sokoto'),
+('NG-TA', 'id', 'Taraba'),
+('NG-YO', 'id', 'Yobe'),
+('NG-ZA', 'id', 'Zamfara');
+
+SET FOREIGN_KEY_CHECKS=1;

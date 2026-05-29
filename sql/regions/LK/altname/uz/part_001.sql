@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'uz', 'Gʻarbiy viloyat'),
+('LK-11', 'uz', 'Kolombo'),
+('LK-12', 'uz', 'Gampaha'),
+('LK-13', 'uz', 'Kalutara'),
+('LK-2', 'uz', 'Markaziy viloyat'),
+('LK-21', 'uz', 'Kandy'),
+('LK-22', 'uz', 'Matale'),
+('LK-23', 'uz', 'Nuwara Eliya'),
+('LK-3', 'uz', 'Janubiy viloyat'),
+('LK-31', 'uz', 'Galle'),
+('LK-32', 'uz', 'Matara'),
+('LK-33', 'uz', 'Hambantota'),
+('LK-4', 'uz', 'Shimoli viloyat'),
+('LK-41', 'uz', 'Jaffna'),
+('LK-42', 'uz', 'Kilinochchi'),
+('LK-43', 'uz', 'Mannar'),
+('LK-44', 'uz', 'Vavuniya'),
+('LK-45', 'uz', 'Mullaittivu'),
+('LK-5', 'uz', 'Sharqiy viloyat'),
+('LK-51', 'uz', 'Battikaloa'),
+('LK-52', 'uz', 'Ampara'),
+('LK-53', 'uz', 'Trincomalee'),
+('LK-6', 'uz', 'Shimoli-gʻarbiy viloyat'),
+('LK-61', 'uz', 'Kurunegala'),
+('LK-62', 'uz', 'Puttalam'),
+('LK-7', 'uz', 'Shimoli-markaziy viloyat'),
+('LK-71', 'uz', 'Anuradhapura'),
+('LK-72', 'uz', 'Polonnaruva'),
+('LK-8', 'uz', 'Uva viloyati'),
+('LK-81', 'uz', 'Badulla'),
+('LK-82', 'uz', 'Monaragala'),
+('LK-9', 'uz', 'Sabaragamuva viloyati'),
+('LK-91', 'uz', 'Ratnapura'),
+('LK-92', 'uz', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

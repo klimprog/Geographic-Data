@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'is', 'Balaka'),
+('MW-BL', 'is', 'Blantyre'),
+('MW-C', 'is', 'Mið-Svæðið'),
+('MW-CK', 'is', 'Chikwawa'),
+('MW-CR', 'is', 'Chiradzulu'),
+('MW-CT', 'is', 'Chitipa'),
+('MW-DE', 'is', 'Dedza'),
+('MW-DO', 'is', 'Dowa'),
+('MW-KR', 'is', 'Karonga'),
+('MW-KS', 'is', 'Kasungú'),
+('MW-LI', 'is', 'Lilongwe'),
+('MW-LK', 'is', 'Líkóma'),
+('MW-MC', 'is', 'Mchinji'),
+('MW-MG', 'is', 'Mangóchi'),
+('MW-MH', 'is', 'Machinga'),
+('MW-MU', 'is', 'Mulanje'),
+('MW-MW', 'is', 'Mwanza'),
+('MW-MZ', 'is', 'Mzimba'),
+('MW-N', 'is', 'Norðursvæði'),
+('MW-NB', 'is', 'Nkhata Bay'),
+('MW-NE', 'is', 'Neno'),
+('MW-NI', 'is', 'Ntchisi'),
+('MW-NK', 'is', 'Nkhotakota'),
+('MW-NS', 'is', 'Nsanje'),
+('MW-NU', 'is', 'Ntcheu'),
+('MW-PH', 'is', 'Phalombe'),
+('MW-RU', 'is', 'Rumphi'),
+('MW-S', 'is', 'Suðursvæði'),
+('MW-SA', 'is', 'Salima'),
+('MW-TH', 'is', 'Thyolo'),
+('MW-ZO', 'is', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

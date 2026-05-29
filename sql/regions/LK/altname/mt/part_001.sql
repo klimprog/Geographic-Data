@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'mt', 'Provinċja tal-Punent'),
+('LK-11', 'mt', 'Colombo'),
+('LK-12', 'mt', 'Gampaha'),
+('LK-13', 'mt', 'Kalutara'),
+('LK-2', 'mt', 'Provinċja Ċentrali'),
+('LK-21', 'mt', 'Kandy'),
+('LK-22', 'mt', 'Matale'),
+('LK-23', 'mt', 'Nuwara Eliya'),
+('LK-3', 'mt', 'Provinċja tan-Nofsinhar'),
+('LK-31', 'mt', 'Galle'),
+('LK-32', 'mt', 'Matara'),
+('LK-33', 'mt', 'Ħambantota'),
+('LK-4', 'mt', 'Provinċja tat-Tramuntana'),
+('LK-41', 'mt', 'Jaffna'),
+('LK-42', 'mt', 'Kilinochchi'),
+('LK-43', 'mt', 'Mannar'),
+('LK-44', 'mt', 'Vavuniya'),
+('LK-45', 'mt', 'Mullaittivu'),
+('LK-5', 'mt', 'Provinċja tal-Lvant'),
+('LK-51', 'mt', 'Batticaloa'),
+('LK-52', 'mt', 'Ampara'),
+('LK-53', 'mt', 'Trincomalee'),
+('LK-6', 'mt', 'Provinċja tal-Majjistral'),
+('LK-61', 'mt', 'Kurunegala'),
+('LK-62', 'mt', 'Puttalam'),
+('LK-7', 'mt', 'Provinċja Ċentrali u tat-Tramuntana'),
+('LK-71', 'mt', 'Anuradhapura'),
+('LK-72', 'mt', 'Polonnaruwa'),
+('LK-8', 'mt', 'Provinċja ta'' Uva'),
+('LK-81', 'mt', 'Badulla'),
+('LK-82', 'mt', 'Monaragala'),
+('LK-9', 'mt', 'Provinċja ta'' Sabaragamuwa'),
+('LK-91', 'mt', 'Ratnapura'),
+('LK-92', 'mt', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PG-CPK', 'am', 'ቺምቡ ክልል'),
+('PG-CPM', 'am', 'ማዕከላዊ ክልል'),
+('PG-EBR', 'am', 'ምስራቅ ኒው ብሪታንያ ክልል'),
+('PG-EHG', 'am', 'ምስራቅ ከፍታ ክልል'),
+('PG-EPW', 'am', 'እንጋ ክልል'),
+('PG-ESW', 'am', 'ምስራቅ ሴፒክ ክልል'),
+('PG-GPK', 'am', 'የባሕር ወሰን ክልል'),
+('PG-HLA', 'am', 'ሄላ ክልል'),
+('PG-JWK', 'am', 'ጂዋካ ክልል'),
+('PG-MBA', 'am', 'ሚልን ቤይ ክልል'),
+('PG-MPL', 'am', 'ሞሮብ ክልል'),
+('PG-MPM', 'am', 'ማዳንግ ክልል'),
+('PG-MRL', 'am', 'ማኑስ ክልል'),
+('PG-NCD', 'am', 'ብሔራዊ ዋና ከተማ'),
+('PG-NIK', 'am', 'ኒው አየርላንድ'),
+('PG-NPP', 'am', 'ኦሮ ክልል'),
+('PG-NSB', 'am', 'ቦዑጋእንቪልለ'),
+('PG-SAN', 'am', 'ሳንዳውን ክልል'),
+('PG-SHM', 'am', 'ደቡብ ከፍታ ክልል'),
+('PG-WBK', 'am', 'ምዕራብ ኒው ብሪታንያ ክልል'),
+('PG-WHM', 'am', 'ምዕራብ ከፍታ ክልል'),
+('PG-WPD', 'am', 'ምዕራብ ክልል');
+
+SET FOREIGN_KEY_CHECKS=1;

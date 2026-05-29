@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(128027500, 1662695, 'sq', 'Willis'),
+(128028039, 1662702, 'sq', 'Victoria'),
+(128028193, 1662704, 'sq', 'Upper Pearls'),
+(128028270, 1662705, 'sq', 'Upper La Taste'),
+(128028347, 1662706, 'sq', 'Upper La Tante'),
+(128028501, 1662708, 'sq', 'Fshati Bashkimi'),
+(128028963, 1662714, 'sq', 'Tivoli'),
+(128030195, 1662730, 'sq', 'Sauteurs'),
+(128030965, 1662740, 'sq', 'Saint George''s'),
+(128031042, 1662741, 'sq', 'Shën Davidit'),
+(128035277, 1662796, 'sq', 'Mount Craven'),
+(128035662, 1662801, 'sq', 'Morne Tranquille'),
+(128039743, 1662854, 'sq', 'Hillsborough'),
+(128040436, 1662863, 'sq', 'Grenville'),
+(128040590, 1662865, 'sq', 'Grand Roy'),
+(128041052, 1662871, 'sq', 'Gouyave');
+
+SET FOREIGN_KEY_CHECKS=1;

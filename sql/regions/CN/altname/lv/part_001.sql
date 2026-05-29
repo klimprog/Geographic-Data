@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'lv', 'Aņhui'),
+('CN-BJ', 'lv', 'bei jing'),
+('CN-CQ', 'lv', 'Čuncjina'),
+('CN-FJ', 'lv', 'Fudzjaņa'),
+('CN-GD', 'lv', 'Guanduna'),
+('CN-GS', 'lv', 'Gaņsu'),
+('CN-GX', 'lv', 'Guansji Džuanu autonomais reģions'),
+('CN-GZ', 'lv', 'Guidžou'),
+('CN-HA', 'lv', 'Henaņa'),
+('CN-HB', 'lv', 'Hubei'),
+('CN-HE', 'lv', 'Hebei'),
+('CN-HI', 'lv', 'Hainaņa'),
+('CN-HK', 'lv', 'Honkongas SAR'),
+('CN-HL', 'lv', 'Heilundzjana'),
+('CN-HN', 'lv', 'Hunaņa'),
+('CN-JL', 'lv', 'Dzjiliņa'),
+('CN-JS', 'lv', 'Dzjansu'),
+('CN-JX', 'lv', 'Dzjansji'),
+('CN-LN', 'lv', 'Liaonina'),
+('CN-MO', 'lv', 'Makao SAR'),
+('CN-NM', 'lv', 'Iekšējā Mongolija'),
+('CN-NX', 'lv', 'Ninsjas Hueju autonomais reģions'),
+('CN-QH', 'lv', 'Cjinhai'),
+('CN-SC', 'lv', 'Sičuaņa'),
+('CN-SD', 'lv', 'Šaņduna'),
+('CN-SH', 'lv', 'Šanhaja'),
+('CN-SN', 'lv', 'Šaaņsji'),
+('CN-SX', 'lv', 'Šaņsji'),
+('CN-TJ', 'lv', 'Tjaņdziņa'),
+('CN-TW', 'lv', 'Taivāna Šenga'),
+('CN-XJ', 'lv', 'Siņdzjana'),
+('CN-XZ', 'lv', 'Tibetas autonomais reģions'),
+('CN-YN', 'lv', 'Juņnaņa'),
+('CN-ZJ', 'lv', 'Džedzjana');
+
+SET FOREIGN_KEY_CHECKS=1;

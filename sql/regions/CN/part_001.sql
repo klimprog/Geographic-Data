@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('CN-AH', 'CN', 'Anhui', '安徽', 455230, 64610000, 'UTC+8', 'Asia/Shanghai'),
+('CN-BJ', 'CN', 'Beijing Shi', '北京', NULL, 14933274, 'UTC+8', 'Asia/Shanghai'),
+('CN-CQ', 'CN', 'Chongqing Shi', '重庆市', 460067, 28390000, 'UTC+8', 'Asia/Shanghai'),
+('CN-FJ', 'CN', 'Fujian', '福建省', 456937, 36890000, 'UTC+8', 'Asia/Taipei, Asia/Shanghai'),
+('CN-GD', 'CN', 'Guangdong', '广东', 456132, 104303132, 'UTC+8, UTC+6', 'Asia/Macau, Asia/Urumqi, Asia/Shanghai'),
+('CN-GS', 'CN', 'Gansu', '甘肃', 451898, 26280000, 'UTC+8, UTC+6', 'Asia/Urumqi, Asia/Shanghai'),
+('CN-GX', 'CN', 'Guangxi Zhuang Autonomous Region', '广西', 448208, 48160000, 'UTC+8, UTC+6, UTC+7', 'Asia/Bangkok, Asia/Urumqi, Asia/Shanghai'),
+('CN-GZ', 'CN', 'Guizhou', '贵州', 455806, 37930000, 'UTC+8', 'Asia/Shanghai'),
+('CN-HA', 'CN', 'Henan', '河南', 435971, 94290000, 'UTC+8', 'Asia/Shanghai'),
+('CN-HB', 'CN', 'Hubei', '湖北', 441271, 57110000, 'UTC+8', 'Asia/Shanghai'),
+('CN-HE', 'CN', 'Hebei Sheng', '河北', 444600, 69890000, 'UTC+8', 'Asia/Shanghai'),
+('CN-HI', 'CN', 'Hainan', '海南', 455493, 8540000, 'UTC+8', 'Asia/Shanghai'),
+('CN-HK', 'CN', 'Hong Kong SAR', NULL, NULL, NULL, 'UTC+8, UTC+6', 'Asia/Shanghai, Asia/Urumqi'),
+('CN-HL', 'CN', 'Heilongjiang', '黑龙江', 508620, 38250000, 'UTC+8, UTC+6, UTC+10, UTC+9', 'Asia/Vladivostok, Asia/Yakutsk, Asia/Urumqi, Asia/Shanghai'),
+('CN-HN', 'CN', 'Hunan', '湖南', 460588, 66980000, 'UTC+8, UTC+6:30', 'Asia/Yangon, Asia/Shanghai'),
+('CN-JL', 'CN', 'Jilin', '吉林', 509613, 27340000, 'UTC+8, UTC+9', 'Asia/Pyongyang, Asia/Shanghai'),
+('CN-JS', 'CN', 'Jiangsu', '江苏', 448278, 76770000, 'UTC+8', 'Asia/Shanghai'),
+('CN-JX', 'CN', 'Jiangxi', '江西', 448425, 44000000, 'UTC+8', 'Asia/Shanghai'),
+('CN-LN', 'CN', 'Liaoning', '辽宁', 506899, 43150000, 'UTC+8', 'Asia/Shanghai'),
+('CN-MO', 'CN', 'Macao SAR', NULL, NULL, NULL, 'UTC+8, UTC+6', 'Asia/Shanghai, Asia/Urumqi'),
+('CN-NM', 'CN', 'Inner Mongolia Autonomous Region', '内蒙古', 508519, 24259735, 'UTC+8', 'Asia/Shanghai'),
+('CN-NX', 'CN', 'Ningxia Hui Autonomous Region', '宁夏', 437583, 6180000, 'UTC+8', 'Asia/Shanghai'),
+('CN-QH', 'CN', 'Qinghai', '青海', 439398, 5626722, 'UTC+8', 'Asia/Shanghai'),
+('CN-SC', 'CN', 'Sichuan', '四川', 460373, 87250000, 'UTC+8', 'Asia/Shanghai'),
+('CN-SD', 'CN', 'Shandong', '山东', 452887, 94170000, 'UTC+8', 'Asia/Shanghai'),
+('CN-SH', 'CN', 'Shanghai Shi', '上海市', 445401, 18880000, 'UTC+8', 'Asia/Shanghai'),
+('CN-SN', 'CN', 'Shaanxi', '陕西', 440807, 37620000, 'UTC+8', 'Asia/Shanghai'),
+('CN-SX', 'CN', 'Shanxi', '山西', 443117, 34110000, 'UTC+8', 'Asia/Shanghai'),
+('CN-TJ', 'CN', 'Tianjin Shi', '天津', 442636, 14000000, 'UTC+8', 'Asia/Shanghai'),
+('CN-TW', 'CN', 'Taiwan Sheng', NULL, NULL, NULL, 'UTC+8, UTC+6', 'Asia/Shanghai, Asia/Urumqi'),
+('CN-XJ', 'CN', 'Xinjiang Uyghur Autonomous Region', '新疆', 423823, 21310000, 'UTC+8, UTC+6', 'Asia/Urumqi, Asia/Shanghai'),
+('CN-XZ', 'CN', 'Tibet Autonomous Region', '西藏', 423104, 2870000, 'UTC+8', 'Asia/Shanghai'),
+('CN-YN', 'CN', 'Yunnan', '云南', 452059, 45430000, 'UTC+8, UTC+6:30, UTC+7', 'Asia/Yangon, Asia/Vientiane, Asia/Shanghai'),
+('CN-ZJ', 'CN', 'Zhejiang', '浙江', 455397, 51200000, 'UTC+8', 'Asia/Shanghai');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SN-DB', 'zh', '久尔贝勒区'),
+('SN-DK', 'zh', '达喀尔区'),
+('SN-FK', 'zh', '法蒂克区'),
+('SN-KA', 'zh', '卡夫林區'),
+('SN-KD', 'zh', '科爾達區'),
+('SN-KE', 'zh', '凱杜古區'),
+('SN-KL', 'zh', '考拉克区'),
+('SN-LG', 'zh', '盧加區'),
+('SN-MT', 'zh', '馬塔姆區'),
+('SN-SE', 'zh', '塞久區'),
+('SN-SL', 'zh', '聖路易區'),
+('SN-TC', 'zh', '坦巴昆達區'),
+('SN-TH', 'zh', '捷斯區'),
+('SN-ZG', 'zh', '济金绍尔区');
+
+SET FOREIGN_KEY_CHECKS=1;

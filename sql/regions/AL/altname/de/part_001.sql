@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'de', 'Bezirk Berat'),
+('AL-02', 'de', 'Bezirk Durrës'),
+('AL-03', 'de', 'Bezirk Elbasan'),
+('AL-04', 'de', 'Bezirk Fier'),
+('AL-05', 'de', 'Bezirk Gjirokastër'),
+('AL-06', 'de', 'Bezirk Korçë'),
+('AL-07', 'de', 'Bezirk Kukës'),
+('AL-08', 'de', 'Bezirk Lezhë'),
+('AL-09', 'de', 'Bezirk Dibër'),
+('AL-10', 'de', 'Bezirk Shkodër'),
+('AL-11', 'de', 'Tirana'),
+('AL-12', 'de', 'Bezirk Vlorë');
+
+SET FOREIGN_KEY_CHECKS=1;

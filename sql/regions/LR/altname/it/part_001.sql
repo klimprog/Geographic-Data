@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LR-BG', 'it', 'contea di Bong'),
+('LR-BM', 'it', 'contea di Bomi'),
+('LR-CM', 'it', 'contea di Grand Cape Mount'),
+('LR-GB', 'it', 'contea di Grand Bassa'),
+('LR-GG', 'it', 'contea di Grand Gedeh'),
+('LR-GK', 'it', 'contea di Grand Kru'),
+('LR-GP', 'it', 'contea di Gbarpolu'),
+('LR-LO', 'it', 'contea di Lofa'),
+('LR-MG', 'it', 'contea di Margibi'),
+('LR-MO', 'it', 'contea di Montserrado'),
+('LR-MY', 'it', 'contea di Maryland'),
+('LR-NI', 'it', 'contea di Nimba'),
+('LR-RG', 'it', 'contea di River Gee'),
+('LR-RI', 'it', 'contea di River Cess'),
+('LR-SI', 'it', 'contea di Sinoe');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170065, 2885326, 'lt', 'shumaymat'),
+(222170142, 2885327, 'lt', 'Az Zawr'),
+(222170450, 2885331, 'lt', 'Havalis'),
+(222170527, 2885332, 'lt', 'duaydat'),
+(222170681, 2885334, 'lt', 'dant'),
+(222170758, 2885335, 'lt', 'Az Zawr'),
+(222170989, 2885338, 'lt', 'Ar Riqqah'),
+(222171297, 2885342, 'lt', 'Al Wafrah'),
+(222171374, 2885343, 'lt', 'Al `Udayliyah'),
+(222171759, 2885348, 'lt', 'Kuveitas'),
+(222171913, 2885350, 'lt', 'Al Džahra'),
+(222172067, 2885352, 'lt', 'Al Funaytis'),
+(222172221, 2885354, 'lt', 'alfntas'),
+(222172298, 2885355, 'lt', 'Al Farvanija'),
+(222172375, 2885356, 'lt', 'aalbidaʿ'),
+(222172606, 2885359, 'lt', 'Al Achmadis'),
+(222172837, 2885362, 'lt', 'Ad Diba`iyah'),
+(222173145, 2885366, 'lt', 'aabraq khaytan'),
+(222173222, 2885367, 'lt', 'Tawile'),
+(222174377, 2885382, 'lt', 'Mirties greitkelis'),
+(222174608, 2885385, 'lt', 'Mubarak Al Kabiras'),
+(222174685, 2885386, 'lt', 'Al''Adanas'),
+(222174762, 2885387, 'lt', 'Al-Masayel'),
+(222174839, 2885388, 'lt', 'Al-Masayel'),
+(222174916, 2885389, 'lt', 'Abu Fatira'),
+(222174993, 2885390, 'lt', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

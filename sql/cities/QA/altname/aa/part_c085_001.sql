@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(298503052, 3876664, 'aa', '''ayn az zugayna'),
+(298503283, 3876667, 'aa', 'Rawdaat Shamiim'),
+(298503360, 3876668, 'aa', 'Ummu salaal macammad .'),
+(298503437, 3876669, 'aa', 'Ummu sallaal qali'),
+(298503514, 3876670, 'aa', NULL),
+(298503822, 3876674, 'aa', 'Ummu Guwaylinah'),
+(298503899, 3876675, 'aa', 'Ummu Bab'),
+(298504438, 3876682, 'aa', 'Ummuul quhaab'),
+(298504669, 3876685, 'aa', 'Qummuul ''Amaad'),
+(298505054, 3876690, 'aa', 'nuʿayjat'),
+(298505285, 3876693, 'aa', 'muqaydir rawdat rashiid'),
+(298505439, 3876695, 'aa', 'Madinat ash Shamaal'),
+(298505747, 3876699, 'aa', 'dukhan'),
+(298505901, 3876701, 'aa', 'Az Zaayin'),
+(298506825, 3876713, 'aa', 'Ash Shihaniya'),
+(298506979, 3876715, 'aa', 'Ar Ruwayitte'),
+(298507133, 3876717, 'aa', 'Ar Rayyaan'),
+(298507287, 3876719, 'aa', 'Al Wukayri'),
+(298507364, 3876720, 'aa', 'Al wakra'),
+(298508057, 3876729, 'aa', 'alkhurayb'),
+(298508288, 3876732, 'aa', 'Al-Kaawur'),
+(298508442, 3876734, 'aa', 'Qarrarah'),
+(298508596, 3876736, 'aa', 'Al cumayliya'),
+(298508904, 3876740, 'aa', 'Al-guwayriyah'),
+(298509597, 3876749, 'aa', 'Dooha'),
+(298510136, 3876756, 'aa', 'Abu-Samrah'),
+(298510983, 3876767, 'aa', 'Fuwayrit'),
+(298513524, 3876800, 'aa', 'Ummu Guwaylinah'),
+(298516758, 3876842, 'aa', 'Lusail');
+
+SET FOREIGN_KEY_CHECKS=1;

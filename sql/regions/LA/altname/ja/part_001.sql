@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LA-AT', 'ja', 'アッタプー県'),
+('LA-BK', 'ja', 'ボーケーオ県'),
+('LA-BL', 'ja', 'ボーリカムサイ県'),
+('LA-CH', 'ja', 'チャンパーサック県'),
+('LA-HO', 'ja', 'フアパン県'),
+('LA-KH', 'ja', 'カムムアン県'),
+('LA-LM', 'ja', 'ルアンナムター県'),
+('LA-LP', 'ja', 'ルアンパバーン県'),
+('LA-OU', 'ja', 'ウドムサイ県'),
+('LA-PH', 'ja', 'ポンサーリー県'),
+('LA-SL', 'ja', 'サーラワン県'),
+('LA-SV', 'ja', 'サワンナケート県'),
+('LA-VI', 'ja', 'ヴィエンチャン県'),
+('LA-VT', 'ja', 'ヴィエンチャン都'),
+('LA-XA', 'ja', 'サイニャブーリー県'),
+('LA-XE', 'ja', 'セーコーン県'),
+('LA-XI', 'ja', 'シエンクワーン県'),
+('LA-XS', 'ja', 'サイソンブーン県');
+
+SET FOREIGN_KEY_CHECKS=1;

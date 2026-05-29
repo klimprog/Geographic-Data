@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SN-DB', 'uk', 'Регіон Діурбель'),
+('SN-DK', 'uk', 'Дакар'),
+('SN-FK', 'uk', 'Регіон Фатік'),
+('SN-KA', 'uk', 'Регіон Кафрин'),
+('SN-KD', 'uk', 'Регіон Колда'),
+('SN-KE', 'uk', 'Регіон Кедугу'),
+('SN-KL', 'uk', 'Каолак'),
+('SN-LG', 'uk', 'Регіон Луга'),
+('SN-MT', 'uk', 'Регіон Матам'),
+('SN-SE', 'uk', 'Регіон Седіу'),
+('SN-SL', 'uk', 'Сент-Луїс'),
+('SN-TC', 'uk', 'Регіон Тамбакунда'),
+('SN-TH', 'uk', 'Регіон Тієс'),
+('SN-ZG', 'uk', 'Регіон Зігіншор');
+
+SET FOREIGN_KEY_CHECKS=1;

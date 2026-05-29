@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(240679880, 3125713, 'rw', 'Salem'),
+(240679957, 3125714, 'rw', 'Mutagatifu Peters'),
+(240680111, 3125716, 'rw', 'Saint John''s Village'),
+(240680188, 3125717, 'rw', 'Roche''s Yard'),
+(240680342, 3125719, 'rw', 'Plymouth'),
+(240680496, 3125721, 'rw', 'Morris'''),
+(240680573, 3125722, 'rw', 'Molyneux'),
+(240680650, 3125723, 'rw', 'Mango Hill'),
+(240680804, 3125725, 'rw', 'Judy Piece'),
+(240680881, 3125726, 'rw', 'Harris'),
+(240680958, 3125727, 'rw', 'Happy Hill'),
+(240681112, 3125729, 'rw', 'Gerald''s'),
+(240681189, 3125730, 'rw', 'Gages'),
+(240681266, 3125731, 'rw', 'Frith'),
+(240681420, 3125733, 'rw', 'Farm'),
+(240681497, 3125734, 'rw', 'Drummond''s'),
+(240681574, 3125735, 'rw', 'Dick Hill'),
+(240681651, 3125736, 'rw', 'Davy Hill'),
+(240681728, 3125737, 'rw', 'Cudjoe Head'),
+(240681805, 3125738, 'rw', 'Cavalla Hill'),
+(240681959, 3125740, 'rw', 'Baker Hill'),
+(240682036, 3125741, 'rw', 'Brades'),
+(240682113, 3125742, 'rw', 'Elberton'),
+(240682190, 3125743, 'rw', 'Garibaldi Hill'),
+(240682267, 3125744, 'rw', 'Lookout');
+
+SET FOREIGN_KEY_CHECKS=1;

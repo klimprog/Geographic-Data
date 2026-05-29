@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GM-B', 'dv', 'ބަންޖުލް އެވެ'),
+('GM-L', 'dv', 'ލޯވަރ ރިވަރ ޑިވިޜަންގައެވެ'),
+('GM-M', 'dv', 'ސެންޓްރަލް ރިވަރ އެވެ'),
+('GM-N', 'dv', 'ނޯތު ބޭންކް'),
+('GM-U', 'dv', 'މަތީ ކޯރެވެ'),
+('GM-W', 'dv', 'ހުޅަނގު އައްސޭރީގައެވެ');
+
+SET FOREIGN_KEY_CHECKS=1;

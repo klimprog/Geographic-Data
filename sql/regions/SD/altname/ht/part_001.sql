@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'ht', 'Sant Darfour Eta'),
+('SD-DE', 'ht', 'East Darfour'),
+('SD-DN', 'ht', 'North Darfour'),
+('SD-DS', 'ht', 'Sid Darfour'),
+('SD-DW', 'ht', 'West Darfour'),
+('SD-GD', 'ht', 'Eta Al Qadarif'),
+('SD-GK', 'ht', 'Eta Kordofan Lwès'),
+('SD-GZ', 'ht', 'Eta Al Jazirah'),
+('SD-KA', 'ht', 'Eta Kassala'),
+('SD-KH', 'ht', 'Khartoum'),
+('SD-KN', 'ht', 'Kordofan Nò'),
+('SD-KS', 'ht', 'Sid Kordofan'),
+('SD-NB', 'ht', 'Blue Nil'),
+('SD-NO', 'ht', 'Nò'),
+('SD-NR', 'ht', 'Rivyè Nil'),
+('SD-NW', 'ht', 'Nil blan'),
+('SD-RS', 'ht', 'Lanmè Wouj'),
+('SD-SI', 'ht', 'Sennar');
+
+SET FOREIGN_KEY_CHECKS=1;

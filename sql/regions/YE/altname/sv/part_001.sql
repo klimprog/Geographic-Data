@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'sv', 'Abyan'),
+('YE-AD', 'sv', 'Aden'),
+('YE-AM', 'sv', 'Amran'),
+('YE-BA', 'sv', 'Al-Bayda'),
+('YE-DA', 'sv', 'Ad-Dali'),
+('YE-DH', 'sv', 'Dhamar'),
+('YE-HD', 'sv', 'Guvernementet Hadhramaut'),
+('YE-HJ', 'sv', 'Hajjah'),
+('YE-HU', 'sv', 'al-Hudayda'),
+('YE-IB', 'sv', 'Ibb'),
+('YE-JA', 'sv', 'Al-Jawf'),
+('YE-LA', 'sv', 'Lahij'),
+('YE-MA', 'sv', 'Marib'),
+('YE-MR', 'sv', 'Al-Mahrah'),
+('YE-MW', 'sv', 'Al-Mahwit'),
+('YE-RA', 'sv', 'Raymah'),
+('YE-SA', 'sv', 'Amanat Alasimah'),
+('YE-SD', 'sv', 'Sadah'),
+('YE-SH', 'sv', 'Shabwah'),
+('YE-SN', 'sv', 'Guvernementet Sana''a'),
+('YE-SU', 'sv', 'Socotra'),
+('YE-TA', 'sv', 'Taizz');
+
+SET FOREIGN_KEY_CHECKS=1;

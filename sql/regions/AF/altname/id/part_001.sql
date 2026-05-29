@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'id', 'Provinsi Balkh'),
+('AF-BAM', 'id', 'Provinsi Bamiyan'),
+('AF-BDG', 'id', 'Provinsi Badghis'),
+('AF-BDS', 'id', 'Provinsi Badakhshan'),
+('AF-BGL', 'id', 'Provinsi Baghlan'),
+('AF-DAY', 'id', 'Provinsi Daykundi'),
+('AF-FRA', 'id', 'Provinsi Farah'),
+('AF-FYB', 'id', 'Provinsi Faryab'),
+('AF-GHA', 'id', 'Provinsi Ghazni'),
+('AF-GHO', 'id', 'Provinsi Ghōr'),
+('AF-HEL', 'id', 'Provinsi Helmand'),
+('AF-HER', 'id', 'Provinsi Herat'),
+('AF-JOW', 'id', 'Provinsi Jowzjan'),
+('AF-KAB', 'id', 'Provinsi Kabul'),
+('AF-KAN', 'id', 'Provinsi Kandahar'),
+('AF-KAP', 'id', 'Provinsi Kapisa'),
+('AF-KDZ', 'id', 'Provinsi Kondoz'),
+('AF-KHO', 'id', 'Provinsi Khost'),
+('AF-KNR', 'id', 'Provinsi Kunar'),
+('AF-LAG', 'id', 'Laghman'),
+('AF-LOG', 'id', 'Logar'),
+('AF-NAN', 'id', 'Provinsi Nangarhar'),
+('AF-NIM', 'id', 'Nimruz'),
+('AF-NUR', 'id', 'Nurestan'),
+('AF-PAN', 'id', 'Provinsi Panjshir'),
+('AF-PAR', 'id', 'Provinsi Parwan'),
+('AF-PIA', 'id', 'Paktia'),
+('AF-PKA', 'id', 'Paktika'),
+('AF-SAM', 'id', 'Samangan'),
+('AF-SAR', 'id', 'Provinsi Sar-e Pol'),
+('AF-TAK', 'id', 'Takhar'),
+('AF-URU', 'id', 'Provinsi Oruzgan'),
+('AF-WAR', 'id', 'Maidan Wardak'),
+('AF-ZAB', 'id', 'Zabul');
+
+SET FOREIGN_KEY_CHECKS=1;

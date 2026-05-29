@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'km', 'រដ្ឋអាប៊ី'),
+('NG-AD', 'km', NULL),
+('NG-AK', 'km', NULL),
+('NG-AN', 'km', 'រដ្ឋអាណាមប្រា'),
+('NG-BA', 'km', NULL),
+('NG-BE', 'km', NULL),
+('NG-BO', 'km', NULL),
+('NG-BY', 'km', NULL),
+('NG-CR', 'km', 'រដ្ឋឆ្លងទន្លេ'),
+('NG-DE', 'km', 'រដ្ឋដីសណ្ត'),
+('NG-EB', 'km', NULL),
+('NG-ED', 'km', 'អេដូ'),
+('NG-EK', 'km', NULL),
+('NG-EN', 'km', NULL),
+('NG-FC', 'km', 'ដែនដីរាជធានីសហព័ន្ធ'),
+('NG-GO', 'km', NULL),
+('NG-IM', 'km', 'រដ្ឋអ៊ីម៉ូ'),
+('NG-JI', 'km', 'រដ្ឋជីហ្គាវ៉ា'),
+('NG-KD', 'km', NULL),
+('NG-KE', 'km', NULL),
+('NG-KN', 'km', 'រដ្ឋកាណូ'),
+('NG-KO', 'km', NULL),
+('NG-KT', 'km', NULL),
+('NG-KW', 'km', NULL),
+('NG-LA', 'km', NULL),
+('NG-NA', 'km', 'រដ្ឋណាសារ៉ាវ៉ា'),
+('NG-NI', 'km', 'រដ្ឋនីហ្សេរីយ៉ា'),
+('NG-OG', 'km', NULL),
+('NG-ON', 'km', NULL),
+('NG-OS', 'km', 'រដ្ឋអូស៊ុន'),
+('NG-OY', 'km', 'រដ្ឋអូយ៉ូ'),
+('NG-PL', 'km', 'រដ្ឋខ្ពង់រាប'),
+('NG-RI', 'km', 'រដ្ឋទន្លេ'),
+('NG-SO', 'km', 'រដ្ឋសូកូតូ'),
+('NG-TA', 'km', 'រដ្ឋតារ៉ាបា'),
+('NG-YO', 'km', NULL),
+('NG-ZA', 'km', NULL);
+
+SET FOREIGN_KEY_CHECKS=1;

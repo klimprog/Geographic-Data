@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CU-01', 'da', 'Pinar del Río Provinsen'),
+('CU-03', 'da', 'La Habana'),
+('CU-04', 'da', 'Matanzas Provinsen'),
+('CU-05', 'da', 'Villa Clara Provinsen'),
+('CU-06', 'da', 'Cienfuegos Provinsen'),
+('CU-07', 'da', 'Sancti Spíritus Provinsen'),
+('CU-08', 'da', 'Ciego de Ávila Provinsen'),
+('CU-09', 'da', 'Camagüey Provinsen'),
+('CU-10', 'da', 'Las Tunas Provinsen'),
+('CU-11', 'da', 'Holguín Provinsen'),
+('CU-12', 'da', 'Granma Provinsen'),
+('CU-13', 'da', 'Santiago de Cuba Provinsen'),
+('CU-14', 'da', 'Guantanamo-provinsen'),
+('CU-15', 'da', 'Artemisa Province'),
+('CU-16', 'da', 'Mayabeque Province'),
+('CU-99', 'da', 'Municipio Especial Isla de la Juventud');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IL-D', 'ja', '南部地区'),
+('IL-HA', 'ja', 'ハイファ地区'),
+('IL-JM', 'ja', 'エルサレム地区'),
+('IL-M', 'ja', '中央地区'),
+('IL-TA', 'ja', 'テルアビブ地区'),
+('IL-Z', 'ja', '北部地区');
+
+SET FOREIGN_KEY_CHECKS=1;

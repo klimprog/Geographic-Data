@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'et', 'Muhafazat Abyan'),
+('YE-AD', 'et', 'Kuberner number üks'),
+('YE-AM', 'et', 'Muhafazat ''Amran'),
+('YE-BA', 'et', 'albydaʾ'),
+('YE-DA', 'et', 'Muhafazat ad Dali'''),
+('YE-DH', 'et', 'dhmar'),
+('YE-HD', 'et', 'Hadhramaut'' kubermang'),
+('YE-HJ', 'et', 'Muhafazat Hajjah'),
+('YE-HU', 'et', 'Muhafazat al Hudaydah'),
+('YE-IB', 'et', 'Ibb'),
+('YE-JA', 'et', 'Muhafazat al Jawf'),
+('YE-LA', 'et', 'Muhafazat Lahij'),
+('YE-MA', 'et', 'Muhafazat Ma''rib'),
+('YE-MR', 'et', 'Al Mahrah'),
+('YE-MW', 'et', 'Al Mahwit'),
+('YE-RA', 'et', 'Muhafazat Raymah'),
+('YE-SA', 'et', 'Amanat alasimah'),
+('YE-SD', 'et', 'Muhafazat Sa`dah'),
+('YE-SH', 'et', 'Shabwah'),
+('YE-SN', 'et', 'Sanaa'),
+('YE-SU', 'et', 'Sokotra'),
+('YE-TA', 'et', 'Muhafazat Ta`izz');
+
+SET FOREIGN_KEY_CHECKS=1;

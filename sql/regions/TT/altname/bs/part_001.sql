@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TT-ARI', 'bs', 'Borough of Arima'),
+('TT-CHA', 'bs', 'Chaguanas'),
+('TT-CTT', 'bs', 'Couva-Tabaquite-Talparo'),
+('TT-DMN', 'bs', 'Diego Martin Regional Corporation'),
+('TT-MRC', 'bs', 'Mayaro'),
+('TT-PED', 'bs', 'Penal/Debe'),
+('TT-POS', 'bs', 'Port of Spain'),
+('TT-PRT', 'bs', 'Princes Town'),
+('TT-PTF', 'bs', 'Point Fortin'),
+('TT-SFO', 'bs', 'San Fernando'),
+('TT-SGE', 'bs', 'Sangre Grande Regional Corporation'),
+('TT-SIP', 'bs', 'Siparia Regional Corporation'),
+('TT-SJL', 'bs', 'San Juan/Laventille'),
+('TT-TOB', 'bs', 'Tobago'),
+('TT-TUP', 'bs', 'Tunapuna/Piarco');
+
+SET FOREIGN_KEY_CHECKS=1;

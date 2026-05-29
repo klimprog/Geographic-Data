@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'ro', 'Regiunea Batha'),
+('TD-BG', 'ro', 'Regiunea Barh el Ghazel'),
+('TD-BO', 'ro', 'Regiunea Borkou'),
+('TD-CB', 'ro', 'Regiunea Chari-Baguirmi'),
+('TD-EE', 'ro', 'Ennedi-Est'),
+('TD-EO', 'ro', 'Ennedi-Ouest'),
+('TD-GR', 'ro', 'Regiunea Guéra'),
+('TD-HL', 'ro', 'Regiunea Hadjer-Lamis'),
+('TD-KA', 'ro', 'Regiunea Kanem'),
+('TD-LC', 'ro', 'Regiunea Lac'),
+('TD-LO', 'ro', 'Regiunea Logone Occidental'),
+('TD-LR', 'ro', 'Regiunea Logone Oriental'),
+('TD-MA', 'ro', 'Regiunea Mandoul'),
+('TD-MC', 'ro', 'Regiunea Moyen-Chari'),
+('TD-ME', 'ro', 'Regiunea Mayo-Kebbi Est'),
+('TD-MO', 'ro', 'Regiunea Mayo-Kebbi Ouest'),
+('TD-ND', 'ro', 'N''Djamena'),
+('TD-OD', 'ro', 'Regiunea Ouaddaï'),
+('TD-SA', 'ro', 'Regiunea Salamat'),
+('TD-SI', 'ro', 'Regiunea Sila'),
+('TD-TA', 'ro', 'Regiunea Tandjilé'),
+('TD-TI', 'ro', 'Regiunea Tibesti'),
+('TD-WF', 'ro', 'Regiunea Wadi Fira');
+
+SET FOREIGN_KEY_CHECKS=1;

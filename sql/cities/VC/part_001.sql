@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities` (`id`, `country`, `region`, `name`, `native_name`, `population`, `status`, `native_status`, `timezone_utc`, `timezone_iana`) VALUES
+(4607550, 'VC', 'VC-02', 'Vermont', 'Vermont', 635, 4, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607559, 'VC', 'VC-03', 'Rosehall', 'Rosehall', 954, 4, 'village', 'UTC-4', 'America/St_Vincent'),
+(4607565, 'VC', 'VC-02', 'Questelles', 'Questelles', 1163, 4, 'locality', 'UTC-4', 'America/St_Vincent'),
+(4607566, 'VC', 'VC-06', 'Port Elizabeth', 'Port Elizabeth', 839, 2, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607567, 'VC', 'VC-01', 'Peruvian Vale', 'Peruvian Vale', 1060, 4, 'village', 'UTC-4', 'America/St_Vincent'),
+(4607575, 'VC', 'VC-02', 'New Montrose', 'Montrose (St. Vincent)', 1598, 4, 'village', 'UTC-4', 'America/St_Vincent'),
+(4607576, 'VC', 'VC-01', 'Mesopotamia', 'Mesopotamia', 443, 4, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607578, 'VC', 'VC-02', 'Layou', 'Layou', 886, 2, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607579, 'VC', 'VC-04', 'Kingstown', 'Kingstown', 24518, 1, 'City proper', 'UTC-4', 'America/St_Vincent'),
+(4607581, 'VC', 'VC-01', 'Greiggs', 'Greggs', 1476, 4, 'village', 'UTC-4', 'America/St_Vincent'),
+(4607582, 'VC', 'VC-01', 'Georgetown', 'Georgetown', 1680, 2, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607586, 'VC', 'VC-01', 'Fancy', 'Fancy', 490, 4, 'village', 'UTC-4', 'America/St_Vincent'),
+(4607588, 'VC', 'VC-06', 'Dovers', 'Dovers', 525, 4, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607595, 'VC', 'VC-03', 'Chateaubelair', 'Chateaubelair', 735, 2, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607598, 'VC', 'VC-02', 'Campden Park', 'Camden Park', 5198, 3, 'City', 'UTC-4', 'America/St_Vincent'),
+(4607599, 'VC', 'VC-01', 'Byera Village', 'Byera Village', 1365, 4, 'locality', 'UTC-4', 'America/St_Vincent'),
+(4607600, 'VC', 'VC-04', 'Brighton Village', 'Brighton Village', 355, 3, 'locality', 'UTC-4', 'America/St_Vincent'),
+(4607601, 'VC', 'VC-01', 'Biabou', 'Biabou', 1050, 4, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607603, 'VC', 'VC-04', 'Belmont', 'Belmont', 314, 4, 'village', 'UTC-4', 'America/St_Vincent'),
+(4607604, 'VC', 'VC-05', 'Barrouallie', 'Barrouallie', 1000, 2, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607610, 'VC', 'VC-02', 'Redemption', 'Redemption', 1875, 4, 'locality', 'UTC-4', 'America/St_Vincent'),
+(4607613, 'VC', 'VC-04', 'Calliaqua', 'Calliaqua', 24205, 4, 'town', 'UTC-4', 'America/St_Vincent'),
+(4607644, 'VC', 'VC-03', 'Grand Bois', 'Grand Bois', 1298, 4, 'hamlet', 'UTC-4', 'America/St_Vincent'),
+(4607647, 'VC', 'VC-03', 'Kings Pleasure', 'Kings Pleasure', 1255, 3, 'Census-Designated Place', 'UTC-4', 'America/St_Vincent'),
+(4607662, 'VC', 'VC-03', 'Friendship', 'Friendship', 220, 3, 'PPL', 'UTC-4', 'America/St_Vincent'),
+(4607664, 'VC', 'VC-03', 'Petit Bordel', 'Petit Bordel', 1084, 3, 'PPL', 'UTC-4', 'America/St_Vincent'),
+(4607699, 'VC', 'VC-04', 'Diamond', 'Diamond', 1971, 4, 'village', 'UTC-4', 'America/St_Vincent'),
+(4607700, 'VC', 'VC-01', 'Friendly Village', 'Friendly Village', 1074, 3, 'PPL', 'UTC-4', 'America/St_Vincent'),
+(4607701, 'VC', 'VC-02', 'Penniston', 'Penniston', 468, 3, 'PPL', 'UTC-4', 'America/St_Vincent'),
+(4607702, 'VC', 'VC-02', 'Retreat', 'Retreat', 482, 3, 'PPL', 'UTC-4', 'America/St_Vincent');
+
+SET FOREIGN_KEY_CHECKS=1;

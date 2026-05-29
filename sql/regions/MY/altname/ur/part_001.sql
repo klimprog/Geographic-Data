@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MY-01', 'ur', 'جوھر'),
+('MY-02', 'ur', 'قدح'),
+('MY-03', 'ur', 'کیلانتن'),
+('MY-04', 'ur', 'ملاکا'),
+('MY-05', 'ur', 'نگری سمبیلان'),
+('MY-06', 'ur', 'پاہانگ'),
+('MY-07', 'ur', 'پینانگ'),
+('MY-08', 'ur', 'پیراک'),
+('MY-09', 'ur', 'پرلس'),
+('MY-10', 'ur', 'سلنگور'),
+('MY-11', 'ur', 'تیرنگانو'),
+('MY-12', 'ur', 'صباح'),
+('MY-13', 'ur', 'سراواک'),
+('MY-14', 'ur', 'كَُلَ لُمپُر'),
+('MY-15', 'ur', 'لابوان'),
+('MY-16', 'ur', 'پتراجایا');
+
+SET FOREIGN_KEY_CHECKS=1;

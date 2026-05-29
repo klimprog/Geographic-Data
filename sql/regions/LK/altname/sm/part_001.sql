@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'sm', 'Itumalo i Sisifo'),
+('LK-11', 'sm', 'Kolombo'),
+('LK-12', 'sm', 'Gampaha'),
+('LK-13', 'sm', 'Kalutara'),
+('LK-2', 'sm', 'Itumalo Tutotonu'),
+('LK-21', 'sm', 'Kandy'),
+('LK-22', 'sm', 'Matale'),
+('LK-23', 'sm', 'Nuwara Eliya'),
+('LK-3', 'sm', 'Itumalo i Saute'),
+('LK-31', 'sm', 'Galle'),
+('LK-32', 'sm', 'Matara'),
+('LK-33', 'sm', 'Hambantota'),
+('LK-4', 'sm', 'Itumalo i Matu'),
+('LK-41', 'sm', 'Jaffna'),
+('LK-42', 'sm', 'Kilinochchi'),
+('LK-43', 'sm', 'Manara'),
+('LK-44', 'sm', 'Vavuniya'),
+('LK-45', 'sm', 'Mullaittivu'),
+('LK-5', 'sm', 'Itumalo i Sasa''e'),
+('LK-51', 'sm', 'Batticaloa'),
+('LK-52', 'sm', 'Ampara'),
+('LK-53', 'sm', 'Trincomalee'),
+('LK-6', 'sm', 'Itumalo i Sisifo i Matu'),
+('LK-61', 'sm', 'Kurunegala'),
+('LK-62', 'sm', 'Puttalam'),
+('LK-7', 'sm', 'Itumalo Tutotonu i Matu'),
+('LK-71', 'sm', 'Anuradhapura'),
+('LK-72', 'sm', 'Polonnaruwa'),
+('LK-8', 'sm', NULL),
+('LK-81', 'sm', 'Badula'),
+('LK-82', 'sm', 'Monaragala'),
+('LK-9', 'sm', 'Itumalo o Sabaragamuwa'),
+('LK-91', 'sm', 'Ratnapura'),
+('LK-92', 'sm', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

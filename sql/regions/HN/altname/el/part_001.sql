@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HN-AT', 'el', 'Ατλαντίδα'),
+('HN-CH', 'el', 'Τσολουτέκα'),
+('HN-CL', 'el', 'Κολόν'),
+('HN-CM', 'el', 'Τμήμα Κομαγιάγκουα'),
+('HN-CP', 'el', 'Κοπάν'),
+('HN-CR', 'el', 'Κορτές'),
+('HN-EP', 'el', 'Ελ Παραΐσο'),
+('HN-FM', 'el', 'Φρανκίσκο Μοραζάν'),
+('HN-GD', 'el', 'Γκρασίας α Ντίος'),
+('HN-IB', 'el', 'Νησιά Μπέι'),
+('HN-IN', 'el', 'Ιντιμπουκά'),
+('HN-LE', 'el', 'Λεμπίραν'),
+('HN-LP', 'el', 'Λα Παζ'),
+('HN-OC', 'el', 'Οκοτεπέκε'),
+('HN-OL', 'el', 'Ολάντσο'),
+('HN-SB', 'el', 'Σάντα Μπάρμπαρα'),
+('HN-VA', 'el', 'Βάλλε'),
+('HN-YO', 'el', 'Γιόρο');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'it', 'provincia del Congo Centrale'),
+('CD-BU', 'it', 'provincia del Basso Uele'),
+('CD-EQ', 'it', 'provincia dell''Equatore'),
+('CD-HK', 'it', 'provincia dell''Alto Katanga'),
+('CD-HL', 'it', 'Haut-Lomami'),
+('CD-HU', 'it', 'Haut-Uélé'),
+('CD-IT', 'it', 'provincia dell''Ituri'),
+('CD-KC', 'it', 'Provincia del Kasai Centrale'),
+('CD-KE', 'it', 'provincia del Kasai Orientale'),
+('CD-KG', 'it', 'provincia di Kwango'),
+('CD-KL', 'it', 'Provincia di Kwilu'),
+('CD-KN', 'it', 'Kinshasa'),
+('CD-KS', 'it', 'Provincia del Kasai'),
+('CD-LO', 'it', 'Lomami'),
+('CD-LU', 'it', 'Provincia di Lualaba'),
+('CD-MA', 'it', 'provincia di Maniema'),
+('CD-MN', 'it', 'Provincia di Mai-Ndombe'),
+('CD-MO', 'it', 'Provincia di Mongala'),
+('CD-NK', 'it', 'provincia del Kivu Nord'),
+('CD-NU', 'it', 'Provincia del Nord Ubangi'),
+('CD-SA', 'it', 'Provincia di Sankuru'),
+('CD-SK', 'it', 'provincia del Kivu Sud'),
+('CD-SU', 'it', 'Provincia del Sud-Ubangi'),
+('CD-TA', 'it', 'provincia di Tanganyika'),
+('CD-TO', 'it', 'Provincia di Tshopo'),
+('CD-TU', 'it', 'Provincia di Tshuapa');
+
+SET FOREIGN_KEY_CHECKS=1;

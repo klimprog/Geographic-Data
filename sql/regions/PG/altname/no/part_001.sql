@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PG-CPK', 'no', 'Chimbu Province'),
+('PG-CPM', 'no', 'Central (Papua Ny-Guinea)'),
+('PG-EBR', 'no', 'East New Britain Province'),
+('PG-EHG', 'no', 'Eastern Highlands Province'),
+('PG-EPW', 'no', 'Enga Province'),
+('PG-ESW', 'no', 'East Sepik'),
+('PG-GPK', 'no', 'Gulf Province'),
+('PG-HLA', 'no', 'Hela Province'),
+('PG-JWK', 'no', 'Jiwaka Province'),
+('PG-MBA', 'no', 'Milne Bay (provins)'),
+('PG-MPL', 'no', 'Morobe Province'),
+('PG-MPM', 'no', 'Madang Province'),
+('PG-MRL', 'no', 'Manus Province'),
+('PG-NCD', 'no', 'Port Moresby'),
+('PG-NIK', 'no', 'New Ireland'),
+('PG-NPP', 'no', 'Oro'),
+('PG-NSB', 'no', 'Bougainville (autonom region)'),
+('PG-SAN', 'no', 'Sandaun Province'),
+('PG-SHM', 'no', 'Southern Highlands Province'),
+('PG-WBK', 'no', 'West New Britain Province'),
+('PG-WHM', 'no', 'Western Highlands Province'),
+('PG-WPD', 'no', 'Western Province');
+
+SET FOREIGN_KEY_CHECKS=1;

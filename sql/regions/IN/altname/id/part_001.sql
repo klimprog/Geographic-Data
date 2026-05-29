@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'id', 'Kepulauan Andaman dan Nikobar'),
+('IN-AP', 'id', 'Andhra Pradesh'),
+('IN-AR', 'id', 'Arunachal Pradesh'),
+('IN-AS', 'id', 'Assam'),
+('IN-BR', 'id', 'Bihar'),
+('IN-CG', 'id', 'Chhattisgarh'),
+('IN-CH', 'id', 'Chandigarh'),
+('IN-DH', 'id', 'Dadra dan Nagar Haveli dan Daman dan Diu'),
+('IN-DL', 'id', 'Delhi'),
+('IN-GA', 'id', 'Goa'),
+('IN-GJ', 'id', 'Gujarat'),
+('IN-HP', 'id', 'Himachal Pradesh'),
+('IN-HR', 'id', 'Haryana'),
+('IN-JH', 'id', 'Jharkhand'),
+('IN-JK', 'id', 'Jammu dan Kashmir'),
+('IN-KA', 'id', 'Karnataka'),
+('IN-KL', 'id', 'Kerala'),
+('IN-LA', 'id', 'Ladakh'),
+('IN-LD', 'id', 'Lakshadweep'),
+('IN-MH', 'id', 'Maharashtra'),
+('IN-ML', 'id', 'Meghalaya'),
+('IN-MN', 'id', 'Manipur'),
+('IN-MP', 'id', 'Madhya Pradesh'),
+('IN-MZ', 'id', 'Mizoram'),
+('IN-NL', 'id', 'Nagaland'),
+('IN-OD', 'id', 'Orissa'),
+('IN-PB', 'id', 'Punjab'),
+('IN-PY', 'id', 'Puducherry'),
+('IN-RJ', 'id', 'Rajasthan'),
+('IN-SK', 'id', 'Sikkim'),
+('IN-TN', 'id', 'Tamil Nadu'),
+('IN-TR', 'id', 'Tripura'),
+('IN-TS', 'id', 'Telangana'),
+('IN-UK', 'id', 'Uttarakhand'),
+('IN-UP', 'id', 'Uttar Pradesh'),
+('IN-WB', 'id', 'Benggala Barat');
+
+SET FOREIGN_KEY_CHECKS=1;

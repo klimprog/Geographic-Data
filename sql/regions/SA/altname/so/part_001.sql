@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SA-01', 'so', 'Gobolka Riyadh'),
+('SA-02', 'so', 'Gobolka Makkah'),
+('SA-03', 'so', 'Gobolka Medina'),
+('SA-04', 'so', 'Gobolka Bariga'),
+('SA-05', 'so', 'Gobolka Al-Qassim'),
+('SA-06', 'so', 'Gobolka Hail'),
+('SA-07', 'so', 'Gobolka Tabuk'),
+('SA-08', 'so', 'Gobolka Hadafka Waqooyi'),
+('SA-09', 'so', 'Gobolka Jizan'),
+('SA-10', 'so', 'Gobolka Najran'),
+('SA-11', 'so', 'Gobolka Al Bahah'),
+('SA-12', 'so', 'Gobolka Al Jawf'),
+('SA-14', 'so', 'Gobolka Asir');
+
+SET FOREIGN_KEY_CHECKS=1;

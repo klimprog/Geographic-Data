@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'zu', 'Andaman and Nicobar'),
+('IN-AP', 'zu', 'Andhra Pradesh'),
+('IN-AR', 'zu', 'Arunachal Pradesh'),
+('IN-AS', 'zu', 'Assam'),
+('IN-BR', 'zu', 'Bihar'),
+('IN-CG', 'zu', 'Chhattisgarh'),
+('IN-CH', 'zu', 'Chandigarh'),
+('IN-DH', 'zu', 'U-Dadra no-Nagar Haveli no-Daman no-Diu'),
+('IN-DL', 'zu', 'National Capital Territory of Delhi'),
+('IN-GA', 'zu', 'Goa'),
+('IN-GJ', 'zu', 'Gujarat'),
+('IN-HP', 'zu', 'Himachal Pradesh'),
+('IN-HR', 'zu', 'Haryana'),
+('IN-JH', 'zu', 'Jharkhand'),
+('IN-JK', 'zu', 'Jammu and Kashmir'),
+('IN-KA', 'zu', 'Karnataka'),
+('IN-KL', 'zu', 'Kerala'),
+('IN-LA', 'zu', 'Ladakh'),
+('IN-LD', 'zu', 'Lakshadweep'),
+('IN-MH', 'zu', 'Maharashtra'),
+('IN-ML', 'zu', 'Meghalaya'),
+('IN-MN', 'zu', 'Manipur'),
+('IN-MP', 'zu', 'Madhya Pradesh'),
+('IN-MZ', 'zu', 'Mizoram'),
+('IN-NL', 'zu', 'Nagaland'),
+('IN-OD', 'zu', 'Odisha'),
+('IN-PB', 'zu', 'Punjab'),
+('IN-PY', 'zu', 'Puducherry'),
+('IN-RJ', 'zu', 'Rajasthan'),
+('IN-SK', 'zu', 'Sikkim'),
+('IN-TN', 'zu', 'Tamil Nadu'),
+('IN-TR', 'zu', 'Tripura'),
+('IN-TS', 'zu', 'Telangana'),
+('IN-UK', 'zu', 'Uttarakhand'),
+('IN-UP', 'zu', 'Uttar Pradesh'),
+('IN-WB', 'zu', 'West Bengal');
+
+SET FOREIGN_KEY_CHECKS=1;

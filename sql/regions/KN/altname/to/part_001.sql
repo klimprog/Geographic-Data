@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'to', 'Siasi ''o Kalaisi Kolo Nichola'),
+('KN-02', 'to', 'Poini ʻOneʻone ʻo Sā ʻAna'),
+('KN-03', 'to', 'Sā Siaosi Pāseteli'),
+('KN-04', 'to', 'Sā Siaosi Kinilani'),
+('KN-05', 'to', 'Sēmisi Uiniuati'),
+('KN-06', 'to', 'Sā Sione Kapesitā'),
+('KN-07', 'to', 'Sā Sione Fikitī'),
+('KN-08', 'to', 'Sā Mele Keioni'),
+('KN-09', 'to', 'Sā Paula Kapesitā'),
+('KN-10', 'to', 'Sā Paula Sālesitauni'),
+('KN-11', 'to', 'Ko Sā Pita Pāseteli'),
+('KN-12', 'to', 'Sā Tōmasi Loulani'),
+('KN-13', 'to', NULL),
+('KN-15', 'to', 'Poini Paameto Toluʻi ʻOtuá'),
+('KN-K', 'to', 'Sā Kiti'),
+('KN-N', 'to', 'Nevisi');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'zh', '中達爾富爾州'),
+('SD-DE', 'zh', '东達爾富爾州'),
+('SD-DN', 'zh', '北達爾富爾州'),
+('SD-DS', 'zh', '南达尔富尔州'),
+('SD-DW', 'zh', '西达尔富尔州'),
+('SD-GD', 'zh', '加达里夫州'),
+('SD-GK', 'zh', '西科尔多凡州'),
+('SD-GZ', 'zh', '杰济拉州'),
+('SD-KA', 'zh', '卡萨拉州'),
+('SD-KH', 'zh', '喀土穆州'),
+('SD-KN', 'zh', '北科尔多凡州'),
+('SD-KS', 'zh', '南科尔多凡州'),
+('SD-NB', 'zh', '青尼罗州'),
+('SD-NO', 'zh', '北部州'),
+('SD-NR', 'zh', '尼罗州'),
+('SD-NW', 'zh', '白尼罗州'),
+('SD-RS', 'zh', '紅海州'),
+('SD-SI', 'zh', '森纳尔州');
+
+SET FOREIGN_KEY_CHECKS=1;

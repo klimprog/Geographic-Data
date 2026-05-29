@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'sr', 'Абија'),
+('NG-AD', 'sr', 'Адамава'),
+('NG-AK', 'sr', 'Аква Ибом'),
+('NG-AN', 'sr', 'Анамбра'),
+('NG-BA', 'sr', 'Баучи'),
+('NG-BE', 'sr', 'Бенуе'),
+('NG-BO', 'sr', 'Борно'),
+('NG-BY', 'sr', 'Бајелса'),
+('NG-CR', 'sr', 'Крос Ривер'),
+('NG-DE', 'sr', 'Делта'),
+('NG-EB', 'sr', 'Ебоњи'),
+('NG-ED', 'sr', 'Едо'),
+('NG-EK', 'sr', 'Екити'),
+('NG-EN', 'sr', 'Енугу'),
+('NG-FC', 'sr', 'ФЦТ'),
+('NG-GO', 'sr', 'Гомбе'),
+('NG-IM', 'sr', 'Имо'),
+('NG-JI', 'sr', 'Џигава'),
+('NG-KD', 'sr', 'Кадуна'),
+('NG-KE', 'sr', 'Кеби'),
+('NG-KN', 'sr', 'Кано'),
+('NG-KO', 'sr', 'Коги'),
+('NG-KT', 'sr', 'Кацина'),
+('NG-KW', 'sr', 'Квара'),
+('NG-LA', 'sr', 'Лагос'),
+('NG-NA', 'sr', 'Насарава'),
+('NG-NI', 'sr', 'Нигер'),
+('NG-OG', 'sr', 'Огун'),
+('NG-ON', 'sr', 'Ондо'),
+('NG-OS', 'sr', 'Осун'),
+('NG-OY', 'sr', 'Ојо'),
+('NG-PL', 'sr', 'Плато'),
+('NG-RI', 'sr', 'Риверс'),
+('NG-SO', 'sr', 'Сокото'),
+('NG-TA', 'sr', 'Тараба'),
+('NG-YO', 'sr', 'Јобе'),
+('NG-ZA', 'sr', 'Замфара');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'ko', '브란덴부르크 주'),
+('DE-BE', 'ko', '베를린'),
+('DE-BW', 'ko', '바덴뷔르템베르크주'),
+('DE-BY', 'ko', '바이에른 자유주'),
+('DE-HB', 'ko', '자유 한자 도시 브레멘'),
+('DE-HE', 'ko', '헤센 주'),
+('DE-HH', 'ko', '자유 한자 도시 함부르크'),
+('DE-MV', 'ko', '메클렌부르크포어포메른 주'),
+('DE-NI', 'ko', '니더작센 주'),
+('DE-NW', 'ko', '노르트라인베스트팔렌 주'),
+('DE-RP', 'ko', '라인란트팔츠주'),
+('DE-SH', 'ko', '슐레스비히홀슈타인 주'),
+('DE-SL', 'ko', '자를란트주'),
+('DE-SN', 'ko', '작센 자유주'),
+('DE-ST', 'ko', '작센안할트 주'),
+('DE-TH', 'ko', '튀링겐 자유주');
+
+SET FOREIGN_KEY_CHECKS=1;

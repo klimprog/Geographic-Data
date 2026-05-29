@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BW-CE', 'dz', 'དབུས་ས་ཁུལ།'),
+('BW-CH', 'dz', 'ཆོ་བེ་རྫོང་།'),
+('BW-FR', 'dz', 'ཕཱརན་སི་ཊཱོན་གྱི་གྲོང་ཁྱེར།'),
+('BW-GA', 'dz', 'ག་བོ་རོན།'),
+('BW-GH', 'dz', 'གྷན་ཟི་རྫོང་ཁག།'),
+('BW-JW', 'dz', 'ཇྭ་ནེང་།'),
+('BW-KG', 'dz', 'ཀ་ག་ལ་ག་དི་རྫོང་ཁག།'),
+('BW-KL', 'dz', 'ཀག་གླེང་རྫོང་ཁག།'),
+('BW-KW', 'dz', 'ཀྭེ་ནེང་རྫོང་ཁག།'),
+('BW-LO', 'dz', 'ལོ་བ་རྩེ།'),
+('BW-NE', 'dz', 'བྱང་ཤར་རྫོང་ཁག།'),
+('BW-NW', 'dz', 'བྱང་ནུབ་རྫོང་ཁག།'),
+('BW-SE', 'dz', 'ལྷོ་ཤར་རྫོང་ཁག།'),
+('BW-SO', 'dz', NULL),
+('BW-SP', 'dz', 'སེ་ལི་བེ་ཕི་ཀྭེ།'),
+('BW-ST', 'dz', 'སོཝ་གྲོང་ཁྱེར།');
+
+SET FOREIGN_KEY_CHECKS=1;

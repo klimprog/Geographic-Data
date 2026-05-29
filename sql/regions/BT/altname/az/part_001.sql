@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BT-11', 'az', 'Paro'),
+('BT-12', 'az', 'Chukha'),
+('BT-13', 'az', 'Haa'),
+('BT-14', 'az', 'Samtse rayonu'),
+('BT-15', 'az', 'Thimphu rayonu'),
+('BT-21', 'az', 'Tsirang rayonu'),
+('BT-22', 'az', 'Dagana'),
+('BT-23', 'az', 'Punaxa Dzonqxaq'),
+('BT-24', 'az', 'Wangdue Phodrang Dzongkhag'),
+('BT-31', 'az', 'Sarpang rayonu'),
+('BT-32', 'az', 'Trongsa Dzongkhag'),
+('BT-33', 'az', 'Bumthang rayonu'),
+('BT-34', 'az', 'Zhemgang rayonu'),
+('BT-41', 'az', 'Trashigang rayonu'),
+('BT-42', 'az', 'Mongar'),
+('BT-43', 'az', 'Pemagatshel'),
+('BT-44', 'az', 'Lhuntse'),
+('BT-45', 'az', 'Samdrup Jongkhar'),
+('BT-GA', 'az', 'Gasa'),
+('BT-TY', 'az', 'Traşi Yangste');
+
+SET FOREIGN_KEY_CHECKS=1;

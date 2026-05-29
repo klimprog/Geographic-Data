@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'it', 'provincia di Azuay'),
+('EC-B', 'it', 'provincia di Bolívar'),
+('EC-C', 'it', 'provincia del Carchi'),
+('EC-D', 'it', 'provincia di Orellana'),
+('EC-E', 'it', 'provincia di Esmeraldas'),
+('EC-F', 'it', 'provincia di Cañar'),
+('EC-G', 'it', 'provincia del Guayas'),
+('EC-H', 'it', 'provincia del Chimborazo'),
+('EC-I', 'it', 'provincia dell''Imbabura'),
+('EC-L', 'it', 'provincia di Loja'),
+('EC-M', 'it', 'provincia di Manabí'),
+('EC-N', 'it', 'provincia del Napo'),
+('EC-O', 'it', 'provincia di El Oro'),
+('EC-P', 'it', 'provincia del Pichincha'),
+('EC-R', 'it', 'provincia di Los Ríos'),
+('EC-S', 'it', 'provincia di Morona-Santiago'),
+('EC-SD', 'it', 'provincia di Santo Domingo de los Tsáchilas'),
+('EC-SE', 'it', 'provincia di Santa Elena'),
+('EC-T', 'it', 'provincia del Tungurahua'),
+('EC-U', 'it', 'provincia di Sucumbíos'),
+('EC-W', 'it', 'provincia delle Galápagos'),
+('EC-X', 'it', 'provincia del Cotopaxi'),
+('EC-Y', 'it', 'provincia del Pastaza'),
+('EC-Z', 'it', 'provincia di Zamora Chinchipe');
+
+SET FOREIGN_KEY_CHECKS=1;

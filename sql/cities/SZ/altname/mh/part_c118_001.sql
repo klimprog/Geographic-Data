@@ -1,0 +1,41 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(323113756, 4196283, 'mh', 'Thunzini'),
+(323114064, 4196287, 'mh', 'Siteki'),
+(323114295, 4196290, 'mh', 'Sidvokodvo'),
+(323114680, 4196295, 'mh', 'Piggs Peak'),
+(323114834, 4196297, 'mh', 'Nsoko'),
+(323115142, 4196301, 'mh', 'Nhlangano'),
+(323115681, 4196308, 'mh', 'Mhlume'),
+(323115835, 4196310, 'mh', 'Mhlambanyatsi'),
+(323116066, 4196313, 'mh', 'Mbabane'),
+(323116220, 4196315, 'mh', 'Manzini'),
+(323116451, 4196318, 'mh', 'Malkerns'),
+(323117221, 4196328, 'mh', 'Lobamba'),
+(323117375, 4196330, 'mh', 'Lavumisa'),
+(323117452, 4196331, 'mh', 'Kwaluseni'),
+(323117529, 4196332, 'mh', 'Kubuta'),
+(323117991, 4196338, 'mh', 'Hluti'),
+(323118068, 4196339, 'mh', 'Hlatikulu'),
+(323118761, 4196348, 'mh', 'Darkton'),
+(323118992, 4196351, 'mh', 'Bulembu'),
+(323119069, 4196352, 'mh', 'Bhunya'),
+(323119377, 4196356, 'mh', 'Vuvulane'),
+(323119454, 4196357, 'mh', 'Ngwenya'),
+(323119531, 4196358, 'mh', 'Ntfonjeni'),
+(323119916, 4196363, 'mh', 'Simunye'),
+(323132621, 4196528, 'mh', 'Thembisa'),
+(323137087, 4196586, 'mh', 'Mangcongco'),
+(323144941, 4196688, 'mh', 'Lukhetseni'),
+(323145403, 4196694, 'mh', 'Nkanyezini'),
+(323146404, 4196707, 'mh', 'Maloya'),
+(323147328, 4196719, 'mh', 'Ngcoseni'),
+(323154797, 4196816, 'mh', 'Makhatsatweni'),
+(323156029, 4196832, 'mh', 'Sivule'),
+(323158416, 4196863, 'mh', 'Ndabazezwe'),
+(323162574, 4196917, 'mh', 'Geja'),
+(323162728, 4196919, 'mh', 'Mhadlo');
+
+SET FOREIGN_KEY_CHECKS=1;

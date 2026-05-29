@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'en', 'Anenii Noi'),
+('MD-BA', 'en', 'Bălţi'),
+('MD-BD', 'en', 'Bender'),
+('MD-BR', 'en', 'Briceni'),
+('MD-BS', 'en', 'Basarabeasca'),
+('MD-CA', 'en', 'Cahul'),
+('MD-CL', 'en', 'Călărași'),
+('MD-CM', 'en', 'Cimișlia'),
+('MD-CR', 'en', 'Criuleni'),
+('MD-CS', 'en', 'Căușeni'),
+('MD-CT', 'en', 'Cantemir'),
+('MD-CU', 'en', 'Chișinău'),
+('MD-DO', 'en', 'Dondușeni'),
+('MD-DR', 'en', 'Drochia'),
+('MD-DU', 'en', 'Dubăsari'),
+('MD-ED', 'en', 'Edineț'),
+('MD-FA', 'en', 'Fălești'),
+('MD-FL', 'en', 'Florești'),
+('MD-GA', 'en', 'Gagauzia'),
+('MD-GL', 'en', 'Glodeni'),
+('MD-HI', 'en', 'Hîncești'),
+('MD-IA', 'en', 'Ialoveni'),
+('MD-LE', 'en', 'Leova'),
+('MD-NI', 'en', 'Nisporeni'),
+('MD-OC', 'en', 'Ocniţa'),
+('MD-OR', 'en', 'Orhei'),
+('MD-RE', 'en', 'Rezina'),
+('MD-RI', 'en', 'Rîșcani'),
+('MD-SD', 'en', 'Șoldănești'),
+('MD-SI', 'en', 'Sîngerei'),
+('MD-SN', 'en', 'Transnistria'),
+('MD-SO', 'en', 'Soroca'),
+('MD-ST', 'en', 'Strășeni'),
+('MD-SV', 'en', 'Ştefan Vodă'),
+('MD-TA', 'en', 'Taraclia'),
+('MD-TE', 'en', 'Telenești'),
+('MD-UN', 'en', 'Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

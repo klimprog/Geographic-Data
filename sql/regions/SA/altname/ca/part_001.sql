@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SA-01', 'ca', 'Província de Riyad'),
+('SA-02', 'ca', 'Regió de la Meca'),
+('SA-03', 'ca', 'Província de Medina'),
+('SA-04', 'ca', 'Província Oriental'),
+('SA-05', 'ca', 'Província d''Al-Qassim'),
+('SA-06', 'ca', 'Província de Ha''il'),
+('SA-07', 'ca', 'Província de Tabuk'),
+('SA-08', 'ca', 'Província de la Frontera Septentrional'),
+('SA-09', 'ca', 'Província de Jizan'),
+('SA-10', 'ca', 'Província de Najran'),
+('SA-11', 'ca', 'Província d''Al-Bahah'),
+('SA-12', 'ca', 'Província d''Al-Jawf'),
+('SA-14', 'ca', 'Província d''Asir');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SC-01', 'fo', 'Anse-aux-Pins'),
+('SC-02', 'fo', 'Anse Boileau'),
+('SC-03', 'fo', 'Anse Etoile'),
+('SC-04', 'fo', 'Au Cap'),
+('SC-05', 'fo', 'Anse Royale'),
+('SC-06', 'fo', 'Baie Lazare'),
+('SC-07', 'fo', 'Baie Sainte Anne'),
+('SC-08', 'fo', 'Beau Vallon'),
+('SC-09', 'fo', 'Bel Air'),
+('SC-10', 'fo', 'Bel Ombre'),
+('SC-11', 'fo', 'Cascade'),
+('SC-12', 'fo', 'Glacis'),
+('SC-13', 'fo', 'Grand''Anse Mahe'),
+('SC-14', 'fo', 'Grand''Anse Praslin'),
+('SC-15', 'fo', 'La Digue and Inner Islands'),
+('SC-16', 'fo', 'La Riviere Anglaise'),
+('SC-17', 'fo', 'Mont Buxton'),
+('SC-18', 'fo', 'Mont Fleuri'),
+('SC-19', 'fo', 'Plaisance'),
+('SC-20', 'fo', 'Pointe La Rue'),
+('SC-21', 'fo', 'Port Glaud'),
+('SC-22', 'fo', 'Saint Louis'),
+('SC-23', 'fo', 'Takamaka'),
+('SC-24', 'fo', 'Les Mamelles'),
+('SC-25', 'fo', 'Roche Caiman'),
+('SC-26', 'fo', 'Ile Áhaldni I'),
+('SC-27', 'fo', 'Ile Áhaldni II');
+
+SET FOREIGN_KEY_CHECKS=1;

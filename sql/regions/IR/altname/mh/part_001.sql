@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'mh', 'Markazi Province'),
+('IR-01', 'mh', 'Gilan Province'),
+('IR-02', 'mh', 'Mazandaran Province'),
+('IR-03', 'mh', 'East Azerbaijan Province'),
+('IR-04', 'mh', 'West Azerbaijan Province'),
+('IR-05', 'mh', 'Kermanshah Province'),
+('IR-06', 'mh', 'Khuzestan Province'),
+('IR-07', 'mh', 'Fars Province'),
+('IR-08', 'mh', 'Kerman Province'),
+('IR-09', 'mh', 'Razavi Khorasan Province'),
+('IR-10', 'mh', 'Isfahan Province'),
+('IR-11', 'mh', 'Sistan im Baluchestan Province'),
+('IR-12', 'mh', 'Kurdistan Province'),
+('IR-13', 'mh', 'Hamadan Province'),
+('IR-14', 'mh', 'Chaharmahal im Bakhtiari Province'),
+('IR-15', 'mh', 'Lorestan Province'),
+('IR-16', 'mh', 'Ilam Province'),
+('IR-17', 'mh', 'Kohgiluyeh im Boyer-Ahmad Province'),
+('IR-18', 'mh', 'Bushehr Province'),
+('IR-19', 'mh', 'Zanjan Province'),
+('IR-20', 'mh', 'Semnan Province'),
+('IR-21', 'mh', 'Yazd Province'),
+('IR-22', 'mh', 'Hormozgan Province'),
+('IR-23', 'mh', 'Tehran Province'),
+('IR-24', 'mh', 'Ardabil Province'),
+('IR-25', 'mh', 'Qom Province'),
+('IR-26', 'mh', 'Qazvin Province'),
+('IR-27', 'mh', 'Golestan Province'),
+('IR-28', 'mh', 'North Khorasan Province'),
+('IR-29', 'mh', 'South Khorasan Province'),
+('IR-30', 'mh', 'Alborz Province');
+
+SET FOREIGN_KEY_CHECKS=1;

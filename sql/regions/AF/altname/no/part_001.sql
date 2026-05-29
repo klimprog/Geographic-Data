@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'no', 'Balkh (provins)'),
+('AF-BAM', 'no', 'Bamiyan (provins)'),
+('AF-BDG', 'no', 'Badghis'),
+('AF-BDS', 'no', 'Badakhshan'),
+('AF-BGL', 'no', 'Baghlan (provins)'),
+('AF-DAY', 'no', 'Daikondi (provins)'),
+('AF-FRA', 'no', 'Farah (provins)'),
+('AF-FYB', 'no', 'Faryab'),
+('AF-GHA', 'no', 'Ghazni (provins)'),
+('AF-GHO', 'no', 'Ghowr (provins)'),
+('AF-HEL', 'no', 'Helmand (provins)'),
+('AF-HER', 'no', 'Herat'),
+('AF-JOW', 'no', 'Jowzjan (provins)'),
+('AF-KAB', 'no', 'Kabul (provins)'),
+('AF-KAN', 'no', 'Kandahar (provins)'),
+('AF-KAP', 'no', 'Kapisa (provins)'),
+('AF-KDZ', 'no', 'Kunduz (provins)'),
+('AF-KHO', 'no', 'Khost (provins)'),
+('AF-KNR', 'no', 'Konar (provins)'),
+('AF-LAG', 'no', 'Laghman (provins)'),
+('AF-LOG', 'no', 'Lowgar (provins)'),
+('AF-NAN', 'no', 'Nangarhar (provins)'),
+('AF-NIM', 'no', 'Nimruz (provins)'),
+('AF-NUR', 'no', 'Nuristān (provins)'),
+('AF-PAN', 'no', 'Panjshir (provins)'),
+('AF-PAR', 'no', 'Parvan (provins)'),
+('AF-PIA', 'no', 'Paktia'),
+('AF-PKA', 'no', 'Paktika (provins)'),
+('AF-SAM', 'no', 'Samangan (provins)'),
+('AF-SAR', 'no', 'Sar-e Pol (provins)'),
+('AF-TAK', 'no', 'Takhar (provins)'),
+('AF-URU', 'no', 'Oruzgan'),
+('AF-WAR', 'no', 'Vardak (provins)'),
+('AF-ZAB', 'no', 'Zabol');
+
+SET FOREIGN_KEY_CHECKS=1;

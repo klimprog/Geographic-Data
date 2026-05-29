@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KH-1', 'es', 'Provincia de Banteay Mean Chey'),
+('KH-10', 'es', 'Kratie'),
+('KH-11', 'es', 'Mondolkiri'),
+('KH-12', 'es', 'Nom Pen'),
+('KH-13', 'es', 'Provincia de Preah Wijía'),
+('KH-14', 'es', 'Provincia de Prey Veng'),
+('KH-15', 'es', 'Provincia de Pursat'),
+('KH-16', 'es', 'Provincia de Ratanak Kirí'),
+('KH-17', 'es', 'Siem Reap'),
+('KH-18', 'es', 'Ciudad de Sihanoukville'),
+('KH-19', 'es', 'Provincia de Stung Treng'),
+('KH-2', 'es', 'Provincia de Battambang'),
+('KH-20', 'es', 'Provincia de Svay Rieng'),
+('KH-21', 'es', 'Takeo'),
+('KH-22', 'es', 'Provincia de Oddar Mean Chey'),
+('KH-23', 'es', 'Provincia de Kep'),
+('KH-24', 'es', 'Provincia de Pailín'),
+('KH-25', 'es', 'Tboung Khmum'),
+('KH-3', 'es', 'Provincia de Kompung Cham'),
+('KH-4', 'es', 'Provincia de Kompung Chinang'),
+('KH-5', 'es', 'Provincia de Kompung Speu'),
+('KH-6', 'es', 'Provincia de Kompung Thom'),
+('KH-7', 'es', 'Provincia de Kampot'),
+('KH-8', 'es', 'Provincia de Kandal'),
+('KH-9', 'es', 'Provincia de Koh Kong');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GA-1', 'si', 'එස්ටුඅයර් පළාත'),
+('GA-2', 'si', 'හෞට්-ඔගෞඑ පළාත'),
+('GA-3', 'si', 'මොයෙන්-ඔගුවේ පළාත'),
+('GA-4', 'si', 'එන්ගෝඋනි පළාත'),
+('GA-5', 'si', 'එන්යන්ගා පළාත'),
+('GA-6', 'si', 'ඔගූඑ-අයිවින්ඩෝ පළාත'),
+('GA-7', 'si', 'ඔගොඌඒ-ලොලෝ පළාත'),
+('GA-8', 'si', 'ඔගෞඑ මැරිටයිම් පළාත'),
+('GA-9', 'si', 'වොලෙඋ-එන්ටෙම් පළාත');
+
+SET FOREIGN_KEY_CHECKS=1;

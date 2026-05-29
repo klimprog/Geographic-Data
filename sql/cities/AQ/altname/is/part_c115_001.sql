@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072097, 52885, 'is', 'Villa Las Estrellas'),
+(4072174, 52886, 'is', 'Davis stöð'),
+(4072251, 52887, 'is', 'Hershöfðingi Bernardo O''Higgins Riquelme'),
+(4072328, 52888, 'is', 'Showa stöð'),
+(4072405, 52889, 'is', 'Jang Bogo lestarstöðin'),
+(4072482, 52890, 'is', 'SANAE IV lestarstöðin'),
+(4072559, 52891, 'is', 'Qinling stöð'),
+(4072636, 52892, 'is', 'Zhongshan lestarstöðin'),
+(4072713, 52893, 'is', 'Mawson stöð'),
+(4072944, 52896, 'is', 'Framfarastöð'),
+(4073175, 52899, 'is', 'Novolazarevskaya lestarstöðin'),
+(4073329, 52901, 'is', 'Mirny lestarstöðin');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PW-002', 'lt', 'Aimelikas'),
+('PW-004', 'lt', 'Airajus'),
+('PW-010', 'lt', 'Angauras'),
+('PW-050', 'lt', 'Hatohobėjus'),
+('PW-100', 'lt', 'Kajangelis'),
+('PW-150', 'lt', 'Kororas'),
+('PW-212', 'lt', 'Melekokas'),
+('PW-214', 'lt', 'Ngarardas'),
+('PW-218', 'lt', 'Ngarčelongas'),
+('PW-222', 'lt', 'Ngardmau'),
+('PW-224', 'lt', 'Ngatpangas'),
+('PW-226', 'lt', 'Ngčesaras'),
+('PW-227', 'lt', 'Ngaremlengujis'),
+('PW-228', 'lt', 'Ngivalas'),
+('PW-350', 'lt', 'Peleliu'),
+('PW-370', 'lt', 'Sonsorolis');
+
+SET FOREIGN_KEY_CHECKS=1;

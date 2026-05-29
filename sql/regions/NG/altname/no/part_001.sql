@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'no', 'Abia (delstat)'),
+('NG-AD', 'no', 'Adamawa (delstat)'),
+('NG-AK', 'no', 'Akwa Ibom'),
+('NG-AN', 'no', 'Anambra'),
+('NG-BA', 'no', 'Bauchi (delstat)'),
+('NG-BE', 'no', 'Benue (delstat)'),
+('NG-BO', 'no', 'Borno (delstat)'),
+('NG-BY', 'no', 'Bayelsa'),
+('NG-CR', 'no', 'Cross River'),
+('NG-DE', 'no', 'Delta (delstat)'),
+('NG-EB', 'no', 'Ebonyi'),
+('NG-ED', 'no', 'Edo (delstat)'),
+('NG-EK', 'no', 'Ekiti'),
+('NG-EN', 'no', 'Enugu (delstat)'),
+('NG-FC', 'no', 'FCT'),
+('NG-GO', 'no', 'Gombe (delstat)'),
+('NG-IM', 'no', 'Imo (delstat)'),
+('NG-JI', 'no', 'Jigawa'),
+('NG-KD', 'no', 'Kaduna (delstat)'),
+('NG-KE', 'no', 'Kebbi'),
+('NG-KN', 'no', 'Kano (delstat)'),
+('NG-KO', 'no', 'Kogi (delstat)'),
+('NG-KT', 'no', 'Katsina (delstat)'),
+('NG-KW', 'no', 'Kwara'),
+('NG-LA', 'no', 'Lagos (delstat)'),
+('NG-NA', 'no', 'Nasarawa'),
+('NG-NI', 'no', 'Niger (delstat)'),
+('NG-OG', 'no', 'Ogun (delstat)'),
+('NG-ON', 'no', 'Ondo'),
+('NG-OS', 'no', 'Osun (delstat)'),
+('NG-OY', 'no', 'Oyo (delstat)'),
+('NG-PL', 'no', 'Plateau (delstat)'),
+('NG-RI', 'no', 'Rivers State'),
+('NG-SO', 'no', 'Sokoto (delstat)'),
+('NG-TA', 'no', 'Taraba'),
+('NG-YO', 'no', 'Yobe'),
+('NG-ZA', 'no', 'Zamfara');
+
+SET FOREIGN_KEY_CHECKS=1;

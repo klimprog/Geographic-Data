@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'tr', 'Batı Eyaleti'),
+('LK-11', 'tr', 'Kolombo'),
+('LK-12', 'tr', 'Gampaha'),
+('LK-13', 'tr', 'Kalutara'),
+('LK-2', 'tr', 'Merkez İl'),
+('LK-21', 'tr', 'Kandy'),
+('LK-22', 'tr', 'Matale'),
+('LK-23', 'tr', 'Nuwara Eliya'),
+('LK-3', 'tr', 'Güney Eyaleti'),
+('LK-31', 'tr', 'Galle'),
+('LK-32', 'tr', 'Matara'),
+('LK-33', 'tr', 'Hambantota'),
+('LK-4', 'tr', 'Kuzey Eyaleti'),
+('LK-41', 'tr', 'Jaffna'),
+('LK-42', 'tr', 'Kilinochchi'),
+('LK-43', 'tr', 'Mannar'),
+('LK-44', 'tr', 'Vavuniya'),
+('LK-45', 'tr', 'Mullaittivu'),
+('LK-5', 'tr', 'Doğu Eyaleti'),
+('LK-51', 'tr', 'Batticaloa'),
+('LK-52', 'tr', 'Ampara'),
+('LK-53', 'tr', 'Trincomalee'),
+('LK-6', 'tr', 'Kuzey Batı Eyaleti'),
+('LK-61', 'tr', 'Kurunegala'),
+('LK-62', 'tr', 'Puttalam'),
+('LK-7', 'tr', 'Kuzey Merkez Eyaleti'),
+('LK-71', 'tr', 'Anuradhapura'),
+('LK-72', 'tr', 'Polonnaruva'),
+('LK-8', 'tr', 'Uva'),
+('LK-81', 'tr', 'Badulla'),
+('LK-82', 'tr', 'Monaragala'),
+('LK-9', 'tr', 'Sabaragamuwa Eyaleti'),
+('LK-91', 'tr', 'Ratnapura'),
+('LK-92', 'tr', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

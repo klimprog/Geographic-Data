@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PT-01', 'vi', 'Aveiro'),
+('PT-02', 'vi', 'Beja'),
+('PT-03', 'vi', 'Braga'),
+('PT-04', 'vi', 'Bragança'),
+('PT-05', 'vi', 'Castelo Branco'),
+('PT-06', 'vi', 'Coimbra'),
+('PT-07', 'vi', 'Évora'),
+('PT-08', 'vi', 'Faro'),
+('PT-09', 'vi', 'Guarda'),
+('PT-10', 'vi', 'Leiria'),
+('PT-11', 'vi', 'Lisbon'),
+('PT-12', 'vi', 'Portalegre'),
+('PT-13', 'vi', 'Porto'),
+('PT-14', 'vi', 'Santarém'),
+('PT-15', 'vi', 'Setúbal'),
+('PT-16', 'vi', 'Viana do Castelo'),
+('PT-17', 'vi', 'Vila Real'),
+('PT-18', 'vi', 'Viseu'),
+('PT-20', 'vi', 'Açores'),
+('PT-30', 'vi', 'Madeira');
+
+SET FOREIGN_KEY_CHECKS=1;

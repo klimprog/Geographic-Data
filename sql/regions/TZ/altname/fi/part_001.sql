@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TZ-01', 'fi', 'Arushan alue'),
+('TZ-02', 'fi', 'Dar es Salaam'),
+('TZ-03', 'fi', 'Dodoman alue'),
+('TZ-04', 'fi', 'Iringan alue'),
+('TZ-05', 'fi', 'Kageran alue'),
+('TZ-06', 'fi', 'North Pemban maakunta'),
+('TZ-07', 'fi', 'Zanzibar Northn maakunta'),
+('TZ-08', 'fi', 'Kigoman alue'),
+('TZ-09', 'fi', 'Kilimanjaron alue'),
+('TZ-10', 'fi', 'South Pemban maakunta'),
+('TZ-11', 'fi', 'Sansibarin Keski/Etelä-alue'),
+('TZ-12', 'fi', 'Lindin alue'),
+('TZ-13', 'fi', 'Maran alue'),
+('TZ-14', 'fi', 'Mbeyan alue'),
+('TZ-15', 'fi', 'Zanzibar Urban/West Region'),
+('TZ-16', 'fi', 'Morogoron alue'),
+('TZ-17', 'fi', 'Mtwaran alue'),
+('TZ-18', 'fi', 'Mwanzan alue'),
+('TZ-19', 'fi', 'Pwanin alue'),
+('TZ-20', 'fi', 'Rukwan alue'),
+('TZ-21', 'fi', 'Ruvuman alue'),
+('TZ-22', 'fi', 'Shinyangan alue'),
+('TZ-23', 'fi', 'Singidan alue'),
+('TZ-24', 'fi', 'Taboran alue'),
+('TZ-25', 'fi', 'Tangan alue'),
+('TZ-26', 'fi', 'Manyaran alue'),
+('TZ-27', 'fi', 'Geitan alue'),
+('TZ-28', 'fi', 'Katavin alue'),
+('TZ-29', 'fi', 'Njomben alue'),
+('TZ-30', 'fi', 'Simiyun alue'),
+('TZ-31', 'fi', 'Songwe');
+
+SET FOREIGN_KEY_CHECKS=1;

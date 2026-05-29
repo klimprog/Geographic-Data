@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'sq', 'Estado de Aguascalientes'),
+('MX-BCN', 'sq', 'Baja California'),
+('MX-BCS', 'sq', 'Estado de Baja California Sur'),
+('MX-CAM', 'sq', 'Estado de Campeche'),
+('MX-CHH', 'sq', 'Estado de Chihuahua'),
+('MX-CHP', 'sq', 'Estado de Chiapas'),
+('MX-CMX', 'sq', 'Meksiko'),
+('MX-COA', 'sq', 'Estado de Coahuila de Zaragoza'),
+('MX-COL', 'sq', 'Estado de Colima'),
+('MX-DUR', 'sq', 'Estado de Durango'),
+('MX-GRO', 'sq', 'Estado de Guerrero'),
+('MX-GUA', 'sq', 'Estado de Guanajuato'),
+('MX-HID', 'sq', 'Estado de Hidalgo'),
+('MX-JAL', 'sq', 'Estado de Jalisco'),
+('MX-MEX', 'sq', 'Estado de Mexico'),
+('MX-MIC', 'sq', 'Estado de Michoacan de Ocampo'),
+('MX-MOR', 'sq', 'Estado de Morelos'),
+('MX-NAY', 'sq', 'Estado de Nayarit'),
+('MX-NLE', 'sq', 'Estado de Nuevo Leon'),
+('MX-OAX', 'sq', 'Oaxaca'),
+('MX-PUE', 'sq', 'Estado de Puebla'),
+('MX-QUE', 'sq', 'Estado de Queretaro'),
+('MX-ROO', 'sq', 'Estado de Quintana Roo'),
+('MX-SIN', 'sq', 'Estado de Sinaloa'),
+('MX-SLP', 'sq', 'Estado de San Luis Potosi'),
+('MX-SON', 'sq', 'Estado de Sonora'),
+('MX-TAB', 'sq', 'Estado de Tabasco'),
+('MX-TAM', 'sq', 'Estado de Tamaulipas'),
+('MX-TLA', 'sq', 'Estado de Tlaxcala'),
+('MX-VER', 'sq', 'Estado de Veracruz-Llave'),
+('MX-YUC', 'sq', 'Estado de Jukatan'),
+('MX-ZAC', 'sq', 'Estado de Zacatecas');
+
+SET FOREIGN_KEY_CHECKS=1;

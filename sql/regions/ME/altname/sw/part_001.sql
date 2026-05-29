@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ME-01', 'sw', 'Andrijevica'),
+('ME-02', 'sw', 'Bar'),
+('ME-03', 'sw', 'Berane'),
+('ME-04', 'sw', 'Bijelo Polje'),
+('ME-05', 'sw', 'Budva'),
+('ME-06', 'sw', 'Cetine'),
+('ME-07', 'sw', 'Danilovgrad'),
+('ME-08', 'sw', 'Herceg Novi'),
+('ME-09', 'sw', 'Kolasin'),
+('ME-10', 'sw', 'Kotor'),
+('ME-11', 'sw', 'Mojkovac'),
+('ME-12', 'sw', 'Niksic'),
+('ME-13', 'sw', 'Plav'),
+('ME-14', 'sw', 'Pljevlja'),
+('ME-15', 'sw', 'Pluzine'),
+('ME-16', 'sw', 'Podgorica'),
+('ME-17', 'sw', 'Rozaje Municipality'),
+('ME-18', 'sw', 'Savnik'),
+('ME-19', 'sw', 'Tivat'),
+('ME-20', 'sw', 'Ulcin'),
+('ME-21', 'sw', 'Zablak'),
+('ME-22', 'sw', 'Gusinje Municipality'),
+('ME-23', 'sw', 'Petnjica Municipality'),
+('ME-24', 'sw', 'Tuzi Municipality'),
+('ME-25', 'sw', 'Zeta');
+
+SET FOREIGN_KEY_CHECKS=1;

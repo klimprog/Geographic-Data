@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'to', 'an hui'),
+('CN-BJ', 'to', 'bei jing'),
+('CN-CQ', 'to', 'chong qing shi'),
+('CN-FJ', 'to', 'Fujiani'),
+('CN-GD', 'to', 'guang dong'),
+('CN-GS', 'to', 'gan su'),
+('CN-GX', 'to', 'guang xi'),
+('CN-GZ', 'to', 'gui zhou'),
+('CN-HA', 'to', 'he nan'),
+('CN-HB', 'to', 'hu bei'),
+('CN-HE', 'to', 'he bei'),
+('CN-HI', 'to', 'hai nan'),
+('CN-HK', 'to', 'Hongo Kongo SAR'),
+('CN-HL', 'to', 'hei long jiang'),
+('CN-HN', 'to', 'hu nan'),
+('CN-JL', 'to', 'ji lin'),
+('CN-JS', 'to', 'jiang su'),
+('CN-JX', 'to', 'jiang xi'),
+('CN-LN', 'to', 'liao ning'),
+('CN-MO', 'to', 'Makao SAR'),
+('CN-NM', 'to', 'Vahefonua Tauʻatāina ʻo Mongolia Lotolotó'),
+('CN-NX', 'to', 'ning xia'),
+('CN-QH', 'to', 'qing hai'),
+('CN-SC', 'to', 'si chuan'),
+('CN-SD', 'to', 'shan dong'),
+('CN-SH', 'to', 'shang hai shi'),
+('CN-SN', 'to', 'shan xi'),
+('CN-SX', 'to', 'shan xi'),
+('CN-TJ', 'to', 'tian jin'),
+('CN-TW', 'to', 'Taiuani Sheng'),
+('CN-XJ', 'to', 'xin jiang'),
+('CN-XZ', 'to', 'Vahefonua Tau''ataina ''o Tibet'),
+('CN-YN', 'to', 'yun nan'),
+('CN-ZJ', 'to', 'zhe jiang');
+
+SET FOREIGN_KEY_CHECKS=1;

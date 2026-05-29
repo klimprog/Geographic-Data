@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CA-AB', 'de', 'Alberta'),
+('CA-BC', 'de', 'Britisch-Kolumbien'),
+('CA-MB', 'de', 'Manitoba'),
+('CA-NB', 'de', 'Neubraunschweig'),
+('CA-NL', 'de', 'Neufundland'),
+('CA-NS', 'de', 'Neuschottland'),
+('CA-NT', 'de', 'Nordwest-Territorien'),
+('CA-NU', 'de', 'Nunavut'),
+('CA-ON', 'de', 'Ontario'),
+('CA-PE', 'de', 'Prinz-Edward-Insel'),
+('CA-QC', 'de', 'Québec'),
+('CA-SK', 'de', 'Saskatchewan'),
+('CA-YT', 'de', 'Yukon');
+
+SET FOREIGN_KEY_CHECKS=1;

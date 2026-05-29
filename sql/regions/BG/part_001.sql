@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('BG-01', 'BG', 'Blagoevgrad', 'Благоевград', 202466, 323552, 'UTC+2', 'Europe/Sofia'),
+('BG-02', 'BG', 'Burgas', 'Бургас', 202165, 409018, 'UTC+2', 'Europe/Sofia'),
+('BG-03', 'BG', 'Varna', 'Варна', 197807, 475074, 'UTC+2', 'Europe/Sofia'),
+('BG-04', 'BG', 'Oblast Veliko Tarnovo', 'Велико Търново', 197770, 258494, 'UTC+2', 'Europe/Sofia'),
+('BG-05', 'BG', 'Oblast Vidin', 'Видин', 197718, 101018, 'UTC+2', 'Europe/Sofia'),
+('BG-06', 'BG', 'Oblast Vratsa', 'Враца', 197590, 186848, 'UTC+2', 'Europe/Sofia'),
+('BG-07', 'BG', 'Gabrovo', 'Габрово', 201362, 122702, 'UTC+2', 'Europe/Sofia'),
+('BG-08', 'BG', 'Oblast Dobrich', 'Добрич', 198030, 186016, 'UTC+2', 'Europe/Sofia'),
+('BG-09', 'BG', 'Oblast Kardzhali', 'Кърджали', 200227, 152808, 'UTC+2', 'Europe/Sofia'),
+('BG-10', 'BG', 'Oblast Kyustendil', 'Кюстендил', 200199, 136686, 'UTC+2', 'Europe/Sofia'),
+('BG-11', 'BG', 'Lovech', 'Ловеч', 200097, 141422, 'UTC+2', 'Europe/Sofia'),
+('BG-12', 'BG', 'Oblast Montana', 'Монтана', 199817, 148098, 'UTC+2', 'Europe/Sofia'),
+('BG-13', 'BG', 'Pazardzhik', 'Пазарджик', 199340, 275548, 'UTC+2', 'Europe/Sofia'),
+('BG-14', 'BG', 'Pernik', 'Перник', 199308, 133530, 'UTC+2', 'Europe/Sofia'),
+('BG-15', 'BG', 'Oblast Pleven', 'Плевен', 199217, 269752, 'UTC+2', 'Europe/Sofia'),
+('BG-16', 'BG', 'Plovdiv', 'Пловдив', 199211, 683027, 'UTC+2', 'Europe/Sofia'),
+('BG-17', 'BG', 'Oblast Razgrad', 'Област Разград', 198855, 125190, 'UTC+2', 'Europe/Sofia'),
+('BG-18', 'BG', 'Oblast Ruse', 'Русе', 198741, 235252, 'UTC+2', 'Europe/Sofia'),
+('BG-19', 'BG', 'Oblast Silistra', 'Силистра', 198554, 119474, 'UTC+2', 'Europe/Sofia'),
+('BG-20', 'BG', 'Oblast Sliven', 'Сливен', 198459, 197473, 'UTC+2', 'Europe/Sofia'),
+('BG-21', 'BG', 'Oblast Smolyan', 'Смолян', 198423, 121572, 'UTC+2', 'Europe/Sofia'),
+('BG-22', 'BG', 'Sofia-Grad', 'Област София град', NULL, NULL, 'UTC+2', 'Europe/Sofia'),
+('BG-23', 'BG', 'Sofia', 'Софийска област', NULL, 1241396, 'UTC+2', 'Europe/Sofia'),
+('BG-24', 'BG', 'Oblast Stara Zagora', 'Стара Загора', 198305, 333265, 'UTC+2', 'Europe/Sofia'),
+('BG-25', 'BG', 'Oblast Targovishte', 'Търговище', 197875, 120818, 'UTC+2', 'Europe/Sofia'),
+('BG-26', 'BG', 'Haskovo', 'Хасково', 200666, 246238, 'UTC+2', 'Europe/Sofia'),
+('BG-27', 'BG', 'Oblast Shumen', 'Шумен', 198560, 180528, 'UTC+2', 'Europe/Sofia'),
+('BG-28', 'BG', 'Oblast Yambol', 'Ямбол', 197496, 131447, 'UTC+2', 'Europe/Sofia');
+
+SET FOREIGN_KEY_CHECKS=1;

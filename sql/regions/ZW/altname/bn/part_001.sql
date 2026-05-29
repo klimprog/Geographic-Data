@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ZW-BU', 'bn', 'বুলাওয়াইও'),
+('ZW-HA', 'bn', 'হারারে'),
+('ZW-MA', 'bn', 'মনিকাল্যান্ড প্রদেশ'),
+('ZW-MC', 'bn', 'ম্যাশোনাল্যান্ড কেন্দ্রীয় প্রদেশ'),
+('ZW-ME', 'bn', 'ম্যাশনাল্যান্ড পূর্ব প্রদেশ'),
+('ZW-MI', 'bn', 'মিডল্যান্ডস প্রদেশ'),
+('ZW-MN', 'bn', 'মাতাবেলেল্যান্ড উত্তর প্রদেশ'),
+('ZW-MS', 'bn', 'মাটাবেলেল্যান্ড দক্ষিন প্রদেশ'),
+('ZW-MV', 'bn', 'মাাভিঙ্গো প্রদেশ'),
+('ZW-MW', 'bn', 'ম্যাশনাল্যান্ড ওয়েস্ট প্রদেশ');
+
+SET FOREIGN_KEY_CHECKS=1;

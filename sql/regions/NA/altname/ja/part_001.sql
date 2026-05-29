@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NA-CA', 'ja', 'カプリビ州'),
+('NA-ER', 'ja', 'エロンゴ州'),
+('NA-HA', 'ja', 'ハルダプ州'),
+('NA-KA', 'ja', 'カラス州'),
+('NA-KE', 'ja', '東カバンゴ州'),
+('NA-KH', 'ja', 'ホマス州'),
+('NA-KU', 'ja', 'クネネ州'),
+('NA-KW', 'ja', '西カバンゴ州'),
+('NA-OD', 'ja', 'オチョソンデュパ州'),
+('NA-OH', 'ja', 'オマヘケ州'),
+('NA-ON', 'ja', 'オシャナ州'),
+('NA-OS', 'ja', 'オムサティ州'),
+('NA-OT', 'ja', 'オシコト州'),
+('NA-OW', 'ja', 'オハングウェナ州');
+
+SET FOREIGN_KEY_CHECKS=1;

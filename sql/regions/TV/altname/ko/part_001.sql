@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TV-FUN', 'ko', '푸나푸티'),
+('TV-NIT', 'ko', '니우타오섬'),
+('TV-NKF', 'ko', '누쿠페타우 환초'),
+('TV-NKL', 'ko', '누쿨라엘라에 환초'),
+('TV-NMA', 'ko', '나누메아 환초'),
+('TV-NMG', 'ko', '나누망가섬'),
+('TV-NUI', 'ko', '누이 환초'),
+('TV-VAI', 'ko', '바이투푸섬');
+
+SET FOREIGN_KEY_CHECKS=1;

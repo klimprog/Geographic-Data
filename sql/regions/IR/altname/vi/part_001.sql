@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'vi', 'Markazi'),
+('IR-01', 'vi', 'Gilan'),
+('IR-02', 'vi', 'Mazandaran'),
+('IR-03', 'vi', 'Đông Azarbaijan'),
+('IR-04', 'vi', 'Tây Azerbaijan'),
+('IR-05', 'vi', 'Kermanshah'),
+('IR-06', 'vi', 'Khuzestan'),
+('IR-07', 'vi', 'Fars'),
+('IR-08', 'vi', 'Kerman'),
+('IR-09', 'vi', 'Razavi Khorasan'),
+('IR-10', 'vi', 'Isfahan'),
+('IR-11', 'vi', 'Tỉnh Sistan và Baluchestan'),
+('IR-12', 'vi', 'Kurdistan'),
+('IR-13', 'vi', 'Hamadan'),
+('IR-14', 'vi', 'Chaharmahal và Bakhtiari'),
+('IR-15', 'vi', 'Lorestan'),
+('IR-16', 'vi', 'Ilam'),
+('IR-17', 'vi', 'Tỉnh Kohgiluyeh và Boyer-Ahmad'),
+('IR-18', 'vi', 'Bushehr'),
+('IR-19', 'vi', 'Zanjan'),
+('IR-20', 'vi', 'Semnan (tỉnh)'),
+('IR-21', 'vi', 'Yazd'),
+('IR-22', 'vi', 'Hormozgan'),
+('IR-23', 'vi', 'Tehran'),
+('IR-24', 'vi', 'Ardabil'),
+('IR-25', 'vi', 'Qom'),
+('IR-26', 'vi', 'Qazvin'),
+('IR-27', 'vi', 'Golestan'),
+('IR-28', 'vi', 'Tỉnh Bắc Khorasan'),
+('IR-29', 'vi', 'Tỉnh Nam Khorasan'),
+('IR-30', 'vi', 'Tỉnh Alborz');
+
+SET FOREIGN_KEY_CHECKS=1;

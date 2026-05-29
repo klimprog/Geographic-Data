@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CY-01', 'lt', 'Nikosijos apygarda'),
+('CY-02', 'lt', 'Limasolio apygarda'),
+('CY-03', 'lt', 'Larnakos apygarda'),
+('CY-04', 'lt', 'Famagustos apygarda'),
+('CY-05', 'lt', 'Pafoso apygarda'),
+('CY-06', 'lt', 'Kirenijos apygarda');
+
+SET FOREIGN_KEY_CHECKS=1;

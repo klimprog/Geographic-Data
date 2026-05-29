@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('VE-A', 'is', 'Distrito Capital'),
+('VE-B', 'is', 'Anzoategui'),
+('VE-C', 'is', 'Estado Apure'),
+('VE-D', 'is', 'Estado Aragua'),
+('VE-E', 'is', 'Estado Barinas'),
+('VE-F', 'is', 'Estado Bolivar'),
+('VE-G', 'is', 'Estado Carabobo'),
+('VE-H', 'is', 'Estado Cojedes'),
+('VE-I', 'is', 'Estado Falcon'),
+('VE-J', 'is', 'Estado Guarico'),
+('VE-K', 'is', 'Estado Lara'),
+('VE-L', 'is', 'Estado Merida'),
+('VE-M', 'is', 'Miranda'),
+('VE-N', 'is', 'Estado Monagas'),
+('VE-O', 'is', 'Nueva Esparta'),
+('VE-P', 'is', 'Portuguesa'),
+('VE-R', 'is', 'Estado Sucre'),
+('VE-S', 'is', 'Tachira'),
+('VE-T', 'is', 'Estado Trujillo'),
+('VE-U', 'is', 'Yaracuy'),
+('VE-V', 'is', 'Zulia'),
+('VE-W', 'is', 'Dependencias Federales'),
+('VE-X', 'is', 'Estado La Guaira'),
+('VE-Y', 'is', 'Delta Amacuro'),
+('VE-Z', 'is', 'Amazonas');
+
+SET FOREIGN_KEY_CHECKS=1;

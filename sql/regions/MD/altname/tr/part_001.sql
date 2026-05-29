@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'tr', 'Anenii Noi ili'),
+('MD-BA', 'tr', 'Balçık'),
+('MD-BD', 'tr', 'Bender Municipality'),
+('MD-BR', 'tr', 'Briceni ili'),
+('MD-BS', 'tr', 'Besarabka ili'),
+('MD-CA', 'tr', 'Kartal ili'),
+('MD-CL', 'tr', 'Călărași ili'),
+('MD-CM', 'tr', 'Cimișlia ili'),
+('MD-CR', 'tr', 'Criuleni ili'),
+('MD-CS', 'tr', 'Căușeni ili'),
+('MD-CT', 'tr', 'Kandemir'),
+('MD-CU', 'tr', 'Kişinev'),
+('MD-DO', 'tr', 'Dondușeni ili'),
+('MD-DR', 'tr', 'Drochia ili'),
+('MD-DU', 'tr', 'Dubăsari ili'),
+('MD-ED', 'tr', 'Yeniköy ili'),
+('MD-FA', 'tr', 'Fălești ili'),
+('MD-FL', 'tr', 'Florești ili'),
+('MD-GA', 'tr', 'Gagavuzya'),
+('MD-GL', 'tr', 'Glodeni ili'),
+('MD-HI', 'tr', 'Hîncești ili'),
+('MD-IA', 'tr', 'Ialoveni ili'),
+('MD-LE', 'tr', 'Leova ili'),
+('MD-NI', 'tr', 'Nisporeni ili'),
+('MD-OC', 'tr', 'Ocnița ili'),
+('MD-OR', 'tr', 'Orhei ili'),
+('MD-RE', 'tr', 'Rezina ili'),
+('MD-RI', 'tr', 'Rîșcani ili'),
+('MD-SD', 'tr', 'Șoldănești ili'),
+('MD-SI', 'tr', 'Sîngerei ili'),
+('MD-SN', 'tr', 'Dinyester''in Sol Yakasının İdari-Bölgesel Birimleri'),
+('MD-SO', 'tr', 'Suryaka ili'),
+('MD-ST', 'tr', 'Strășeni ili'),
+('MD-SV', 'tr', 'Kızıl ili'),
+('MD-TA', 'tr', 'Taraclia ili'),
+('MD-TE', 'tr', 'Telenești ili'),
+('MD-UN', 'tr', 'Ungheni ili');
+
+SET FOREIGN_KEY_CHECKS=1;

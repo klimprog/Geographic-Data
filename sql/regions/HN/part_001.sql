@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('HN-AT', 'HN', 'Departamento de Atlantida', 'Departamento de Atlántida', 1738561, 11370, 'UTC-6', 'America/Tegucigalpa'),
+('HN-CH', 'HN', 'Departamento de Choluteca', 'Departamento de Choluteca', 1742214, 420350, 'UTC-6', 'America/Tegucigalpa'),
+('HN-CL', 'HN', 'Departamento de Colon', 'Departamento de Colón', 1733345, NULL, 'UTC-6', 'America/Tegucigalpa'),
+('HN-CM', 'HN', 'Departamento de Comayagua', 'Departamento de Comayagua', 1742102, 390643, 'UTC-6', 'America/Tegucigalpa'),
+('HN-CP', 'HN', 'Departamento de Copan', 'Departamento de Copán', 1733861, NULL, 'UTC-6', 'America/Tegucigalpa'),
+('HN-CR', 'HN', 'Departamento de Cortes', 'Departamento de Cortés', 1734086, 1202510, 'UTC-6', 'America/Tegucigalpa'),
+('HN-EP', 'HN', 'Departamento de El Paraiso', 'Departamento de El Paraíso', 1733114, 383565, 'UTC-6', 'America/Tegucigalpa'),
+('HN-FM', 'HN', 'Departamento de Francisco Morazan', 'Departamento de Francisco Morazán', NULL, 1680700, 'UTC-6', 'America/Tegucigalpa'),
+('HN-GD', 'HN', 'Departamento de Gracias a Dios', 'Departamento de Gracias a Dios', 1735051, 76278, 'UTC-6', 'America/Tegucigalpa'),
+('HN-IB', 'HN', 'Departamento de Islas de la Bahia', 'Islas de la Bahía', 1734747, NULL, 'UTC-6', 'America/Tegucigalpa'),
+('HN-IN', 'HN', 'Departamento de Intibuca', 'Departamento de Intibucá', 1738343, 232509, 'UTC-6', 'America/Tegucigalpa'),
+('HN-LE', 'HN', 'Departamento de Lempira', 'Departamento de Lempira', 1739254, 277910, 'UTC-6', 'America/Tegucigalpa'),
+('HN-LP', 'HN', 'Departamento de La Paz', 'Departamento de La Paz', 1737800, 173731, 'UTC-6', 'America/Tegucigalpa'),
+('HN-OC', 'HN', 'Departamento de Ocotepeque', 'Departamento de Ocotepeque', 1735780, 118558, 'UTC-6', 'America/Tegucigalpa'),
+('HN-OL', 'HN', 'Departamento de Olancho', 'Departamento de Olancho', 1738765, 458365, 'UTC-6', 'America/Tegucigalpa, America/Managua'),
+('HN-SB', 'HN', 'Departamento de Santa Barbara', 'Santa Barbara', 1734013, 368298, 'UTC-6', 'America/Tegucigalpa'),
+('HN-VA', 'HN', 'Departamento de Valle', 'Departamento de Valle', 1735837, 160346, 'UTC-6', 'America/Tegucigalpa'),
+('HN-YO', 'HN', 'Departamento de Yoro', 'Departamento de Yoro', 1733130, 503886, 'UTC-6', 'America/Tegucigalpa');
+
+SET FOREIGN_KEY_CHECKS=1;

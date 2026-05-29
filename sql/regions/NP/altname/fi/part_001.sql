@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NP-P1', 'fi', 'Koshi'),
+('NP-P2', 'fi', 'Madhesh'),
+('NP-P3', 'fi', 'Bagmatin maakunta'),
+('NP-P4', 'fi', 'Gandaki Pradesh'),
+('NP-P5', 'fi', 'Lumbinin maakunta'),
+('NP-P6', 'fi', 'Karnalin maakunta'),
+('NP-P7', 'fi', 'Sudurpashchim Pradesh');
+
+SET FOREIGN_KEY_CHECKS=1;

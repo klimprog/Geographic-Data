@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LI-01', 'ms', 'Balzers'),
+('LI-02', 'ms', 'Eschen'),
+('LI-03', 'ms', 'Gamprin'),
+('LI-04', 'ms', 'Mauren'),
+('LI-05', 'ms', 'Planken'),
+('LI-06', 'ms', 'Ruggell'),
+('LI-07', 'ms', 'Schaan'),
+('LI-08', 'ms', 'Schellenberg'),
+('LI-09', 'ms', 'Triesen'),
+('LI-10', 'ms', 'Triesenberg'),
+('LI-11', 'ms', 'Vaduz');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MH-ALK', 'th', 'ไอลักษณ์'),
+('MH-ALL', 'th', 'ไอลิงแลปแลป'),
+('MH-ARN', 'th', 'อาร์โน'),
+('MH-AUR', 'th', 'ออ'),
+('MH-EBO', 'th', 'อีบอน'),
+('MH-ENI', 'th', 'เอเนเวทัค & อูเจลัง'),
+('MH-JAB', 'th', 'จาบัต'),
+('MH-JAL', 'th', 'จาลุต'),
+('MH-KIL', 'th', 'บิกินี่และคิลลี่'),
+('MH-KWA', 'th', 'ควาจาเลน'),
+('MH-L', 'th', 'โซ่ราลิค'),
+('MH-LAE', 'th', 'แล'),
+('MH-LIB', 'th', 'ลิบ'),
+('MH-LIK', 'th', NULL),
+('MH-MAJ', 'th', 'มาจูโร'),
+('MH-MAL', 'th', 'มาโลแลป'),
+('MH-MEJ', 'th', 'เมจิต'),
+('MH-MIL', 'th', 'มิลี่'),
+('MH-NMK', 'th', 'นัมดริก'),
+('MH-NMU', 'th', 'นามู'),
+('MH-RON', 'th', 'รองเกลัพ'),
+('MH-T', 'th', NULL),
+('MH-UJA', 'th', 'อูแจ'),
+('MH-UTI', 'th', 'อุตริก'),
+('MH-WTH', 'th', 'โวโธ'),
+('MH-WTJ', 'th', 'วอตเจ');
+
+SET FOREIGN_KEY_CHECKS=1;

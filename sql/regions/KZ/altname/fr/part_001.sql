@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KZ-10', 'fr', 'Abai Region'),
+('KZ-11', 'fr', 'Akmola'),
+('KZ-15', 'fr', 'Aktobe'),
+('KZ-19', 'fr', 'Almaty Oblysy'),
+('KZ-23', 'fr', 'Atyrau Oblisi'),
+('KZ-27', 'fr', 'Kazakhstan-Occidental'),
+('KZ-31', 'fr', 'Zhambyl'),
+('KZ-33', 'fr', 'Jetisu Region'),
+('KZ-35', 'fr', 'Karaganda'),
+('KZ-39', 'fr', 'Kostanaï'),
+('KZ-43', 'fr', 'Kyzylorda'),
+('KZ-47', 'fr', 'Mangystau'),
+('KZ-55', 'fr', 'Pavlodar'),
+('KZ-59', 'fr', 'Kazakhstan-Septentrional'),
+('KZ-61', 'fr', 'Turkestan'),
+('KZ-62', 'fr', 'Ulytau Region'),
+('KZ-63', 'fr', 'Kazakhstan-Oriental'),
+('KZ-71', 'fr', 'Astana'),
+('KZ-75', 'fr', 'Almaty'),
+('KZ-79', 'fr', 'Chymkent');
+
+SET FOREIGN_KEY_CHECKS=1;

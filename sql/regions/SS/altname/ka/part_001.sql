@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SS-BN', 'ka', 'ჩრდილოეთი ბაჰრ-ელ-გაზალი'),
+('SS-BW', 'ka', 'დასავლეთი ბაჰრ-ელ-გაზალი'),
+('SS-EC', 'ka', 'ცენტრალური ეკვატორია'),
+('SS-EE', 'ka', 'აღმოსავლეთი ეკვატორია'),
+('SS-EW', 'ka', 'დასავლეთი ეკვატორია'),
+('SS-JG', 'ka', 'ჯონგლი'),
+('SS-LK', 'ka', 'ტბები'),
+('SS-NU', 'ka', 'ზემო ნილოსი'),
+('SS-UY', 'ka', 'ერთობა'),
+('SS-WR', 'ka', 'ვარაბი');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SB-CE', 'uz', 'Markaziy viloyat'),
+('SB-CH', 'uz', 'Choisel viloyati'),
+('SB-CT', 'uz', 'Xoniara'),
+('SB-GU', 'uz', 'Gvadalkanal viloyati'),
+('SB-IS', 'uz', 'Isabel viloyati'),
+('SB-MK', 'uz', 'Makira-Ulava viloyati'),
+('SB-ML', 'uz', 'Malaita viloyati'),
+('SB-RB', 'uz', 'Rennell va Bellona viloyati'),
+('SB-TE', 'uz', 'Temotu viloyati'),
+('SB-WE', 'uz', 'Gʻarbiy viloyat');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'tr', 'Bengo Bölgesi'),
+('AO-BGU', 'tr', 'Benguela Bölgesi'),
+('AO-BIE', 'tr', 'Bié Bölgesi'),
+('AO-CAB', 'tr', 'Cabinda Bölgesi'),
+('AO-CCU', 'tr', 'Cuando Cubango Bölgesi'),
+('AO-CNN', 'tr', 'Cunene Bölgesi'),
+('AO-CNO', 'tr', 'Cuanza Norte Bölgesi'),
+('AO-CUS', 'tr', 'Cuanza Sul Bölgesi'),
+('AO-HUA', 'tr', 'Huambo Bölgesi'),
+('AO-HUI', 'tr', 'Huíla Bölgesi'),
+('AO-LNO', 'tr', 'Lunda Norte Bölgesi'),
+('AO-LSU', 'tr', 'Lunda Sul Bölgesi'),
+('AO-LUA', 'tr', 'Luanda Bölgesi'),
+('AO-MAL', 'tr', 'Malanje Bölgesi'),
+('AO-MOX', 'tr', 'Moxico Bölgesi'),
+('AO-NAM', 'tr', 'Namibe Bölgesi'),
+('AO-UIG', 'tr', 'Uíge Bölgesi'),
+('AO-ZAI', 'tr', 'Zaire Bölgesi');
+
+SET FOREIGN_KEY_CHECKS=1;

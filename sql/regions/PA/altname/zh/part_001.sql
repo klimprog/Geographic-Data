@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PA-1', 'zh', '博卡斯德爾托羅省'),
+('PA-10', 'zh', '西巴拿馬省'),
+('PA-2', 'zh', '科克萊省'),
+('PA-3', 'zh', '科隆省'),
+('PA-4', 'zh', '奇里基省'),
+('PA-5', 'zh', '達連省'),
+('PA-6', 'zh', '埃雷拉省'),
+('PA-7', 'zh', '洛斯桑托斯省'),
+('PA-8', 'zh', '巴拿馬省'),
+('PA-9', 'zh', '貝拉瓜斯省'),
+('PA-EM', 'zh', '恩贝拉-沃内安特区'),
+('PA-KY', 'zh', '雅拉庫納族自治區'),
+('PA-NB', 'zh', '恩戈貝布格勒自治區'),
+('PA-NT', 'zh', '纳索·杰尔·迪');
+
+SET FOREIGN_KEY_CHECKS=1;

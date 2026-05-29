@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('PW-002', 'PW', 'State of Aimeliik', 'Aimeliik', 3873693, 270, 'UTC+9', 'Pacific/Palau'),
+('PW-004', 'PW', 'State of Airai', 'Airai', 3873692, 2723, 'UTC+9', 'Pacific/Palau'),
+('PW-010', 'PW', 'State of Angaur', 'Angaur', 3873682, 320, 'UTC+9', 'Pacific/Palau'),
+('PW-050', 'PW', 'State of Hatohobei', 'Hatohobei', 3873685, 44, 'UTC+9', 'Pacific/Palau'),
+('PW-100', 'PW', 'State of Kayangel', 'Kayangel', 3873688, 188, 'UTC+9', 'Pacific/Palau'),
+('PW-150', 'PW', 'State of Koror', 'Koror', 3873632, 12676, 'UTC+9', 'Pacific/Palau'),
+('PW-212', 'PW', 'State of Melekeok', 'Melekeok', 3873657, 391, 'UTC+9', 'Pacific/Palau'),
+('PW-214', 'PW', 'State of Ngaraard', 'Ngaraard', 3873640, 581, 'UTC+9', 'Pacific/Palau'),
+('PW-218', 'PW', 'State of Ngarchelong', 'Ngarchelong', 3873680, 488, 'UTC+9', 'Pacific/Palau'),
+('PW-222', 'PW', 'State of Ngardmau', 'Ngardmau', 3873694, 166, 'UTC+9', 'Pacific/Palau'),
+('PW-224', 'PW', 'State of Ngatpang', 'Ngatpang', 3873659, 464, 'UTC+9', 'Pacific/Palau'),
+('PW-226', 'PW', 'State of Ngchesar', 'Ngchesar', 3873665, 300, 'UTC+9', 'Pacific/Palau'),
+('PW-227', 'PW', 'State of Ngeremlengui', 'Ngeremlengui', 3873661, 317, 'UTC+9', 'Pacific/Palau'),
+('PW-228', 'PW', 'State of Ngiwal', 'Ngiwal', 3873671, 223, 'UTC+9', 'Pacific/Palau'),
+('PW-350', 'PW', 'State of Peleliu', 'Peleliu', 3873689, 702, 'UTC+9', 'Pacific/Palau'),
+('PW-370', 'PW', 'State of Sonsorol', 'Sonsorol', 3873686, 100, 'UTC+9', 'Pacific/Palau');
+
+SET FOREIGN_KEY_CHECKS=1;

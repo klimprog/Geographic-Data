@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ET-AA', 'ko', '아디스아바바'),
+('ET-AF', 'ko', '아파르주'),
+('ET-AM', 'ko', '암하라주'),
+('ET-BE', 'ko', '베니샹굴구무즈주'),
+('ET-DD', 'ko', '디레다와'),
+('ET-GA', 'ko', '감벨라주'),
+('ET-HA', 'ko', '하라리주'),
+('ET-OR', 'ko', '오로미아주'),
+('ET-SI', 'ko', '시다마주'),
+('ET-SN', 'ko', '남부국민민족인민주'),
+('ET-SO', 'ko', '소말리주'),
+('ET-SW', 'ko', '남서부 에티오피아 민족 지역'),
+('ET-TI', 'ko', '티그라이주');
+
+SET FOREIGN_KEY_CHECKS=1;

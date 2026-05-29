@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UZ-AN', 'tg', 'Вилояти Андиҷон'),
+('UZ-BU', 'tg', 'Вилояти Бухоро'),
+('UZ-FA', 'tg', 'Вилояти Фарғона'),
+('UZ-JI', 'tg', 'Вилояти Ҷиззах'),
+('UZ-NG', 'tg', 'Вилояти Намангон'),
+('UZ-NW', 'tg', 'Вилояти Навоӣ'),
+('UZ-QA', 'tg', 'Вилояти Қашқадарё'),
+('UZ-QR', 'tg', 'Ҷумҳурии Қароқалпоқистон'),
+('UZ-SA', 'tg', 'Вилояти Самарқанд'),
+('UZ-SI', 'tg', 'Вилояти Сирдарё'),
+('UZ-SU', 'tg', 'Вилояти Сурхондарё'),
+('UZ-TK', 'tg', 'Тошкент'),
+('UZ-TO', 'tg', 'Вилояти Тошканд'),
+('UZ-XO', 'tg', 'Вилояти Хоразм');
+
+SET FOREIGN_KEY_CHECKS=1;

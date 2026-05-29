@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'uz', 'Anhui'),
+('CN-BJ', 'uz', 'Pekin'),
+('CN-CQ', 'uz', 'Chongqin'),
+('CN-FJ', 'uz', 'Fucjan'),
+('CN-GD', 'uz', 'Guangdun'),
+('CN-GS', 'uz', 'Gansu'),
+('CN-GX', 'uz', 'Guangsi'),
+('CN-GZ', 'uz', 'Guyzho'),
+('CN-HA', 'uz', 'Xenan'),
+('CN-HB', 'uz', 'Xubey'),
+('CN-HE', 'uz', 'Xebey'),
+('CN-HI', 'uz', 'Xaynan'),
+('CN-HK', 'uz', 'Gonkong SAR'),
+('CN-HL', 'uz', 'Heilongjiang'),
+('CN-HN', 'uz', 'Hunan'),
+('CN-JL', 'uz', 'Jilin'),
+('CN-JS', 'uz', 'Jiangsu'),
+('CN-JX', 'uz', 'Jiangsi'),
+('CN-LN', 'uz', 'Liaoning'),
+('CN-MO', 'uz', 'Makao SAR'),
+('CN-NM', 'uz', 'Ichki Mongoliya'),
+('CN-NX', 'uz', 'Ningsia'),
+('CN-QH', 'uz', 'Qingxay'),
+('CN-SC', 'uz', 'Sichuan'),
+('CN-SD', 'uz', 'Shandun'),
+('CN-SH', 'uz', 'Shanxay'),
+('CN-SN', 'uz', 'Shensi'),
+('CN-SX', 'uz', 'Shan''si'),
+('CN-TJ', 'uz', 'Tyan''jin'),
+('CN-TW', 'uz', 'Tayvan Sheng'),
+('CN-XJ', 'uz', 'Sincan'),
+('CN-XZ', 'uz', 'Taybет'),
+('CN-YN', 'uz', 'Yunnan'),
+('CN-ZJ', 'uz', 'Jejiang');
+
+SET FOREIGN_KEY_CHECKS=1;

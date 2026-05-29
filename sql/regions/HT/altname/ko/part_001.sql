@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HT-AR', 'ko', '아르티보니트주'),
+('HT-CE', 'ko', '중앙주'),
+('HT-GA', 'ko', '그랑당스주'),
+('HT-ND', 'ko', '북부주'),
+('HT-NE', 'ko', '북동부주'),
+('HT-NI', 'ko', '니프주'),
+('HT-NO', 'ko', '북서부주'),
+('HT-OU', 'ko', '서부주'),
+('HT-SD', 'ko', '남부주'),
+('HT-SE', 'ko', '남동부주');
+
+SET FOREIGN_KEY_CHECKS=1;

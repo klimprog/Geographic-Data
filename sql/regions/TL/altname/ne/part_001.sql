@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TL-AL', 'ne', 'आइलेउ'),
+('TL-AN', 'ne', 'ऐनारो'),
+('TL-BA', 'ne', 'बौचु'),
+('TL-BO', 'ne', 'बोबोनारो'),
+('TL-CO', 'ne', 'चॊवलिम'),
+('TL-DI', 'ne', 'डिली'),
+('TL-ER', 'ne', 'ऎर्मॆर'),
+('TL-LA', 'ne', 'लाउटेन'),
+('TL-LI', 'ne', 'लिक्विका'),
+('TL-MF', 'ne', 'मनुफ़हि'),
+('TL-MT', 'ne', 'मानातुतो'),
+('TL-OE', 'ne', 'ओकुसे'),
+('TL-VI', 'ne', 'विकेक');
+
+SET FOREIGN_KEY_CHECKS=1;

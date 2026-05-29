@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'ko', '돌니실롱스크주'),
+('PL-04', 'ko', '쿠야비포모제주'),
+('PL-06', 'ko', '루블린주'),
+('PL-08', 'ko', '루부시주'),
+('PL-10', 'ko', '우치주'),
+('PL-12', 'ko', '마워폴스카주'),
+('PL-14', 'ko', '마조프셰주'),
+('PL-16', 'ko', '오폴레주'),
+('PL-18', 'ko', '포드카르파츠키에주'),
+('PL-20', 'ko', '포들라스키에주'),
+('PL-22', 'ko', '포모제주'),
+('PL-24', 'ko', '실롱스크주'),
+('PL-26', 'ko', '시비엥토크시스키에주'),
+('PL-28', 'ko', '바르미아마주리주'),
+('PL-30', 'ko', '비엘코폴스카주'),
+('PL-32', 'ko', '서포모제주');
+
+SET FOREIGN_KEY_CHECKS=1;

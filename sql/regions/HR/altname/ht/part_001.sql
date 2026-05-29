@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HR-01', 'ht', 'Konte Zagrèb'),
+('HR-02', 'ht', 'Konte Krapina-Zagorje'),
+('HR-03', 'ht', 'Konte Sisak-Moslavina'),
+('HR-04', 'ht', 'Konte Karlovac'),
+('HR-05', 'ht', 'Konte Varazdin'),
+('HR-06', 'ht', 'Konte Koprivnica-Krizevci'),
+('HR-07', 'ht', 'Konte Bjelovar-Bilogora'),
+('HR-08', 'ht', 'Konte Primorje-Gorski Kotar'),
+('HR-09', 'ht', 'Konte Lika-Senj'),
+('HR-10', 'ht', 'Konte Virovitica-Podravina'),
+('HR-11', 'ht', 'Konte Pozega-Slavonia'),
+('HR-12', 'ht', 'Konte Brod-Posavina'),
+('HR-13', 'ht', 'Konte Zadar'),
+('HR-14', 'ht', 'Konte Osijek-Baranja'),
+('HR-15', 'ht', 'Konte Sibenik-Knin'),
+('HR-16', 'ht', 'Konte Vukovar-Srijem'),
+('HR-17', 'ht', 'Konte Split-Dalmati'),
+('HR-18', 'ht', 'Konte Istri'),
+('HR-19', 'ht', 'Konte Dibrovnik-Neretva'),
+('HR-20', 'ht', 'Konte Megimurje'),
+('HR-21', 'ht', 'Zagreb');
+
+SET FOREIGN_KEY_CHECKS=1;

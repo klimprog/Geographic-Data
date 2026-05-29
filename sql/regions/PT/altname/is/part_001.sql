@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PT-01', 'is', 'Distrito de Aveiro'),
+('PT-02', 'is', 'Distrito de Beja'),
+('PT-03', 'is', 'Distrito de Braga'),
+('PT-04', 'is', 'Distrito de Braganca'),
+('PT-05', 'is', 'Distrito de Castelo Branco'),
+('PT-06', 'is', 'Distrito de Coimbra'),
+('PT-07', 'is', 'Distrito de Evora'),
+('PT-08', 'is', 'Distrito de Faro'),
+('PT-09', 'is', 'Distrito da Guarda'),
+('PT-10', 'is', 'Distrito de Leiria'),
+('PT-11', 'is', 'Distrito de Lisboa'),
+('PT-12', 'is', 'Distrito de Portalegre'),
+('PT-13', 'is', 'Distrito do Porto'),
+('PT-14', 'is', 'Distrito de Santarem'),
+('PT-15', 'is', 'Distrito de Setubal'),
+('PT-16', 'is', 'Distrito de Viana do Castelo'),
+('PT-17', 'is', 'Distrito de Vila Real'),
+('PT-18', 'is', 'Distrito de Viseu'),
+('PT-20', 'is', 'Asóreyjar'),
+('PT-30', 'is', 'Madeiraeyjar');
+
+SET FOREIGN_KEY_CHECKS=1;

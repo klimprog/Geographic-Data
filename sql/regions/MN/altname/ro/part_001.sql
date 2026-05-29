@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MN-035', 'ro', 'Orchon-Aimag'),
+('MN-037', 'ro', 'Darchan-Uul-Aimag'),
+('MN-039', 'ro', 'Chentii-Aimag'),
+('MN-041', 'ro', 'Chöwsgöl-Aimag'),
+('MN-043', 'ro', 'Chowd-Aimag'),
+('MN-046', 'ro', 'Uws-Aimag'),
+('MN-047', 'ro', 'Töw-Aimag'),
+('MN-049', 'ro', 'Selenge-Aimag'),
+('MN-051', 'ro', 'Süchbaatar-Aimag'),
+('MN-053', 'ro', 'Ömnö-Gobi-Aimag'),
+('MN-055', 'ro', 'Öwörchangai-Aimag'),
+('MN-057', 'ro', 'Zawchan-Aimag'),
+('MN-059', 'ro', 'Dund-Gobi-Aimag'),
+('MN-061', 'ro', 'Dornod-Aimag'),
+('MN-063', 'ro', 'Dorno-Gobi-Aimag'),
+('MN-064', 'ro', 'Gobi-Sümber-Aimag'),
+('MN-065', 'ro', 'Gobi-Altai-Aimag'),
+('MN-067', 'ro', 'Bulgan-Aimag'),
+('MN-069', 'ro', 'Bajanchongor-Aimag'),
+('MN-071', 'ro', 'Bajan-Ölgii-Aimag'),
+('MN-073', 'ro', 'Archangai-Aimag'),
+('MN-1', 'ro', 'Ulaanbaatar');
+
+SET FOREIGN_KEY_CHECKS=1;

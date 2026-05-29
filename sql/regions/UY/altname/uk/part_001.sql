@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UY-AR', 'uk', 'Артиґас'),
+('UY-CA', 'uk', 'Канелонес'),
+('UY-CL', 'uk', 'Серро-Ларґо'),
+('UY-CO', 'uk', 'Колонія'),
+('UY-DU', 'uk', 'Дурасно'),
+('UY-FD', 'uk', 'Флорида'),
+('UY-FS', 'uk', 'Флорес'),
+('UY-LA', 'uk', 'Лавальєха'),
+('UY-MA', 'uk', 'Мальдонадо'),
+('UY-MO', 'uk', 'Монтевідео'),
+('UY-PA', 'uk', 'Пайсанду'),
+('UY-RN', 'uk', 'Ріо-Неґро'),
+('UY-RO', 'uk', 'Роча'),
+('UY-RV', 'uk', 'Ривера'),
+('UY-SA', 'uk', 'Сальто'),
+('UY-SJ', 'uk', 'Сан-Хосе'),
+('UY-SO', 'uk', 'Соріано'),
+('UY-TA', 'uk', 'Такуарембо'),
+('UY-TT', 'uk', 'Трейнта-і-Трес');
+
+SET FOREIGN_KEY_CHECKS=1;

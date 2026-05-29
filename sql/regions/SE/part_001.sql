@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('SE-AB', 'SE', 'Stockholm County', 'Stockholms län', NULL, 2127006, 'UTC+1', 'Europe/Stockholm'),
+('SE-AC', 'SE', 'Vaesterbotten County', 'Västerbottens län', 4107128, 260217, 'UTC+1', 'Europe/Stockholm'),
+('SE-BD', 'SE', 'Norrbotten County', 'Norrbottens län', 4107754, 248637, 'UTC+1', 'Europe/Stockholm'),
+('SE-C', 'SE', 'Uppsala County', 'Uppsala län', 4110601, 341977, 'UTC+1', 'Europe/Stockholm, Europe/Paris'),
+('SE-D', 'SE', 'Soedermanland County', 'Södermanlands län', 4118240, 274723, 'UTC+1', 'Europe/Stockholm'),
+('SE-E', 'SE', 'OEstergoetland County', 'Östergötlands län', 4120901, 433784, 'UTC+1', 'Europe/Stockholm'),
+('SE-F', 'SE', 'Joenkoeping County', 'Jönköpings län', 4123587, 339116, 'UTC+1', 'Europe/Stockholm'),
+('SE-G', 'SE', 'Kronoberg County', 'Kronobergs län', 4109542, 185887, 'UTC+1', 'Europe/Stockholm'),
+('SE-H', 'SE', 'Kalmar County', 'Kalmar län', 4123315, 233548, 'UTC+1', 'Europe/Stockholm'),
+('SE-I', 'SE', 'Gotland County', 'Gotlands län', 4109171, 57241, 'UTC+1', 'Europe/Stockholm'),
+('SE-K', 'SE', 'Blekinge County', 'Blekinge län', 4123121, 152315, 'UTC+1', 'Europe/Stockholm'),
+('SE-M', 'SE', 'Skane County', 'Skåne län', 4120245, 1263088, 'UTC+1', 'Europe/Stockholm'),
+('SE-N', 'SE', 'Halland County', 'Hallands län', 4125665, 304116, 'UTC+1', 'Europe/Stockholm'),
+('SE-O', 'SE', 'Vaestra Goetaland County', 'Västra Götalands län', 4126906, 1600447, 'UTC+1', 'Europe/Stockholm'),
+('SE-S', 'SE', 'Vaermland County', 'Värmlands län', 4123114, 273080, 'UTC+1', 'Europe/Stockholm'),
+('SE-T', 'SE', 'OErebro County', 'Örebro län', 4117804, 283113, 'UTC+1', 'Europe/Stockholm'),
+('SE-U', 'SE', 'Vaestmanland County', 'Västmanlands län', 4109922, 256224, 'UTC+1', 'Europe/Stockholm'),
+('SE-W', 'SE', 'Dalarna County', 'Dalarnas län', 4128415, 276555, 'UTC+1', 'Europe/Stockholm'),
+('SE-X', 'SE', 'Gaevleborg County', 'Gävleborgs län', 4127222, 276637, 'UTC+1', 'Europe/Stockholm'),
+('SE-Y', 'SE', 'Vaesternorrland County', 'Västernorrlands län', 4125388, 241981, 'UTC+1', 'Europe/Stockholm'),
+('SE-Z', 'SE', 'Jaemtland County', 'Jämtlands län', 4117410, 126201, 'UTC+1', 'Europe/Stockholm');
+
+SET FOREIGN_KEY_CHECKS=1;

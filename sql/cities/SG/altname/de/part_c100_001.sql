@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(318382923, 4134844, 'de', 'West Coast Village'),
+(318383000, 4134845, 'de', 'Ulu Bedok'),
+(318383077, 4134846, 'de', 'Thong Hoe Village'),
+(318383154, 4134847, 'de', 'Singapur'),
+(318383308, 4134849, 'de', 'Singapur'),
+(318383385, 4134850, 'de', 'Sembawang-Anwesen'),
+(318383770, 4134855, 'de', 'Dorf Pulau Ubin'),
+(318383847, 4134856, 'de', 'Matilda Estate'),
+(318384001, 4134858, 'de', 'Lam San Village'),
+(318384078, 4134859, 'de', 'Keat Hong Village'),
+(318385002, 4134871, 'de', 'Kampong Tebing Terjun'),
+(318385079, 4134872, 'de', 'Kampong Teban'),
+(318386311, 4134888, 'de', 'Kampong Saigon'),
+(318386696, 4134893, 'de', 'Kampong Pesek'),
+(318387158, 4134899, 'de', 'Kampong Pasir Ris'),
+(318387928, 4134909, 'de', 'Kampong Loyang'),
+(318388621, 4134918, 'de', 'Kampong Java Teban'),
+(318389006, 4134923, 'de', 'Kampong Bukit Panjang'),
+(318390315, 4134940, 'de', 'Chia Keng'),
+(318390469, 4134942, 'de', 'Buona Vista'),
+(318390623, 4134944, 'de', 'Dorf Bukit Mandai'),
+(318391008, 4134949, 'de', 'Jurong'),
+(318391316, 4134953, 'de', 'Woodlands'),
+(318391855, 4134960, 'de', 'Ang Mo Kio New Town'),
+(318391932, 4134961, 'de', 'Bukit Panjang New Town'),
+(318392009, 4134962, 'de', 'Choa Chu Kang New Town'),
+(318392086, 4134963, 'de', 'Queenstown Estate'),
+(318392163, 4134964, 'de', 'Choa Chu Kang Neustadt'),
+(318392779, 4134972, 'de', 'Sengkang Neustadt');
+
+SET FOREIGN_KEY_CHECKS=1;

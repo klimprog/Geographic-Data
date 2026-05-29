@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GA-1', 'de', 'Estuaire'),
+('GA-2', 'de', 'Haut-Ogooué'),
+('GA-3', 'de', 'Moyen-Ogooué'),
+('GA-4', 'de', 'Nguni'),
+('GA-5', 'de', 'Nyanga'),
+('GA-6', 'de', 'Ogooué-Ivindo'),
+('GA-7', 'de', 'Ogooué-Lolo'),
+('GA-8', 'de', 'Ogooué-Maritime'),
+('GA-9', 'de', 'Woleu-Ntem');
+
+SET FOREIGN_KEY_CHECKS=1;

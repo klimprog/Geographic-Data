@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CY-01', 'zh', '尼科西亚区'),
+('CY-02', 'zh', '利马索尔区'),
+('CY-03', 'zh', '拉纳卡区'),
+('CY-04', 'zh', '法马古斯塔区'),
+('CY-05', 'zh', '帕福斯区'),
+('CY-06', 'zh', '凯里尼亚区');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'de', 'Oblast Winnyzja'),
+('UA-07', 'de', 'Oblast Wolyn'),
+('UA-09', 'de', 'Oblast Luhansk'),
+('UA-12', 'de', 'Oblast Dnipropetrowsk'),
+('UA-14', 'de', 'Oblast Donezk'),
+('UA-18', 'de', 'Oblast Schytomyr'),
+('UA-21', 'de', 'Transkarpatien'),
+('UA-23', 'de', 'Oblast Saporischschja'),
+('UA-26', 'de', 'Oblast Iwano-Frankiwsk'),
+('UA-30', 'de', 'Stadt Kiew'),
+('UA-32', 'de', 'Oblast Kiew'),
+('UA-35', 'de', 'Oblast Kirowohrad'),
+('UA-40', 'de', 'Stadt Sewastopol'),
+('UA-43', 'de', 'Krim'),
+('UA-46', 'de', 'Oblast Lwiw'),
+('UA-48', 'de', 'Oblast Mykolajiw'),
+('UA-51', 'de', 'Odessa'),
+('UA-53', 'de', 'Oblast Poltawa'),
+('UA-56', 'de', 'Oblast Riwne'),
+('UA-59', 'de', 'Sumy'),
+('UA-61', 'de', 'Oblast Ternopil'),
+('UA-63', 'de', 'Oblast Charkiw'),
+('UA-65', 'de', 'Oblast Cherson'),
+('UA-68', 'de', 'Oblast Chmelnyzkyj'),
+('UA-71', 'de', 'Oblast Tscherkassy'),
+('UA-74', 'de', 'Oblast Tschernihiw'),
+('UA-77', 'de', 'Tscherniwzi');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'is', 'Neðri-Slesía'),
+('PL-04', 'is', 'Kujavíska-Pommern'),
+('PL-06', 'is', 'Lublin'),
+('PL-08', 'is', 'Lubusz'),
+('PL-10', 'is', 'Łódź'),
+('PL-12', 'is', 'Litla-Pólland'),
+('PL-14', 'is', 'Masóvía'),
+('PL-16', 'is', 'Opole'),
+('PL-18', 'is', 'Neðri-Karpatía'),
+('PL-20', 'is', 'Podlasía'),
+('PL-22', 'is', 'Pommern (hérað)'),
+('PL-24', 'is', 'Slesía'),
+('PL-26', 'is', 'Święty Krzyż'),
+('PL-28', 'is', 'Ermland-Masúría'),
+('PL-30', 'is', 'Stóra-Pólland'),
+('PL-32', 'is', 'Vestur-Pommern');
+
+SET FOREIGN_KEY_CHECKS=1;

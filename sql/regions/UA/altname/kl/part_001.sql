@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'kl', 'Vinnytsya-p nunaqarfiani'),
+('UA-07', 'kl', 'Volynska-p nunaqarfiani'),
+('UA-09', 'kl', 'Luhanskap nunaqarfiani'),
+('UA-12', 'kl', 'Dnipropetrovskip nunaqarfiani'),
+('UA-14', 'kl', 'Donetska-p nunaqarfiani'),
+('UA-18', 'kl', 'Zhytomyrska-p nunaqarfiani'),
+('UA-21', 'kl', NULL),
+('UA-23', 'kl', 'Zaporizhja-p nunaqarfiani'),
+('UA-26', 'kl', 'Ivano-Frankivsk-ip nunaqarfiani'),
+('UA-30', 'kl', 'Misto Kiev'),
+('UA-32', 'kl', 'Kiev-ip nunaqarfiani'),
+('UA-35', 'kl', 'Kirovohrad-ip nunaqarfiani'),
+('UA-40', 'kl', 'Sebastopol-ip illoqarfia'),
+('UA-43', 'kl', NULL),
+('UA-46', 'kl', 'Lvivska-p nunaqarfiani'),
+('UA-48', 'kl', 'Mykolaiv-ip nunaqarfiani'),
+('UA-51', 'kl', 'Odeska-p nunaqarfiani'),
+('UA-53', 'kl', 'Poltavap nunaqarfiani'),
+('UA-56', 'kl', 'Rivnenska-p nunaqarfiani'),
+('UA-59', 'kl', NULL),
+('UA-61', 'kl', 'Ternopil-ip eqqaani'),
+('UA-63', 'kl', 'Kharkivska-p nunaqarfiani'),
+('UA-65', 'kl', 'Khersonip nunaqarfiani'),
+('UA-68', 'kl', NULL),
+('UA-71', 'kl', 'Tjerkasyp nunaqarfiani'),
+('UA-74', 'kl', 'Tjernihivska-p nunaqarfiani'),
+('UA-77', 'kl', 'Tjernivtsip nunaqarfiani');
+
+SET FOREIGN_KEY_CHECKS=1;

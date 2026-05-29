@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'lv', 'Rietumu province'),
+('LK-11', 'lv', 'Kolombo'),
+('LK-12', 'lv', 'Gampaha'),
+('LK-13', 'lv', 'Kalutara'),
+('LK-2', 'lv', 'Centrālā province'),
+('LK-21', 'lv', 'Kandijs'),
+('LK-22', 'lv', 'Matale'),
+('LK-23', 'lv', 'Nuwara Eliya'),
+('LK-3', 'lv', 'Dienvidu province'),
+('LK-31', 'lv', 'Galle'),
+('LK-32', 'lv', 'Matara'),
+('LK-33', 'lv', 'Hambantota'),
+('LK-4', 'lv', 'Ziemeļu province'),
+('LK-41', 'lv', 'Jaffna'),
+('LK-42', 'lv', 'Kilinočči'),
+('LK-43', 'lv', 'Mannara'),
+('LK-44', 'lv', 'Vavunija'),
+('LK-45', 'lv', 'Mullaittivu'),
+('LK-5', 'lv', 'Austrumu province'),
+('LK-51', 'lv', 'Batticaloa'),
+('LK-52', 'lv', 'Ampara'),
+('LK-53', 'lv', 'Trincomalee'),
+('LK-6', 'lv', 'Ziemeļrietumu province'),
+('LK-61', 'lv', 'Kurunegala'),
+('LK-62', 'lv', 'Puttalam'),
+('LK-7', 'lv', 'Ziemeļu centrālā province'),
+('LK-71', 'lv', 'Anuradhapura'),
+('LK-72', 'lv', 'Polonnaruva'),
+('LK-8', 'lv', 'Province of Uva'),
+('LK-81', 'lv', 'Badulla'),
+('LK-82', 'lv', 'Monaragala'),
+('LK-9', 'lv', 'Sabaragamuvas province'),
+('LK-91', 'lv', 'Ratnapura'),
+('LK-92', 'lv', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

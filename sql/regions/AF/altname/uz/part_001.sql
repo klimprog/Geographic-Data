@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'uz', 'Balx'),
+('AF-BAM', 'uz', 'Bomiyon'),
+('AF-BDG', 'uz', 'Badgʻis'),
+('AF-BDS', 'uz', 'Badaxshon'),
+('AF-BGL', 'uz', 'Bagʻlon'),
+('AF-DAY', 'uz', 'Daykundi'),
+('AF-FRA', 'uz', 'Farah'),
+('AF-FYB', 'uz', 'Foryob'),
+('AF-GHA', 'uz', 'Gʻazni viloyati'),
+('AF-GHO', 'uz', 'Gʻoʻr'),
+('AF-HEL', 'uz', 'Hilmand viloyati'),
+('AF-HER', 'uz', 'Hirot viloyati'),
+('AF-JOW', 'uz', 'Joʻzjon'),
+('AF-KAB', 'uz', 'Kobul viloyati'),
+('AF-KAN', 'uz', 'Qandahor viloyati'),
+('AF-KAP', 'uz', 'Kapisa viloyati'),
+('AF-KDZ', 'uz', 'Qunduz viloyati'),
+('AF-KHO', 'uz', 'Xust viloyati'),
+('AF-KNR', 'uz', 'Kunar'),
+('AF-LAG', 'uz', 'Lagʻmon viloyati'),
+('AF-LOG', 'uz', 'Luvgar'),
+('AF-NAN', 'uz', 'Nangarhor'),
+('AF-NIM', 'uz', 'Nimruz viloyati'),
+('AF-NUR', 'uz', 'Nuriston'),
+('AF-PAN', 'uz', 'Panjsher viloyati'),
+('AF-PAR', 'uz', 'Parvan'),
+('AF-PIA', 'uz', 'Paktiya'),
+('AF-PKA', 'uz', 'Paktika Province'),
+('AF-SAM', 'uz', 'Samangan'),
+('AF-SAR', 'uz', 'Sarupul viloyati'),
+('AF-TAK', 'uz', 'Taxor viloyati'),
+('AF-URU', 'uz', 'Uroʻzgon viloyati'),
+('AF-WAR', 'uz', 'Maidan Vardak viloyati'),
+('AF-ZAB', 'uz', 'Zobul viloyati');
+
+SET FOREIGN_KEY_CHECKS=1;

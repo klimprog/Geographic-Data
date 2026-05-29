@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LS-A', 'he', 'מַסֶרֻ דִסטרִקט'),
+('LS-B', 'he', 'בֻטהַ־בֻטהֶ'),
+('LS-C', 'he', 'לֶרִבֶ'),
+('LS-D', 'he', 'בראה'),
+('LS-E', 'he', 'מפטנג'),
+('LS-F', 'he', 'מֳהַלֶ''ס הֳֶך דִסטרִקט'),
+('LS-G', 'he', 'קֻטהִנג'),
+('LS-H', 'he', 'קאצ''ה''ס נק'),
+('LS-J', 'he', 'מֳכהֳטלֳנג דִסטרִקט'),
+('LS-K', 'he', 'טהַבַ־טסֶכַ');
+
+SET FOREIGN_KEY_CHECKS=1;

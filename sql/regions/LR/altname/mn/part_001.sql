@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LR-BG', 'mn', 'Бонг Цоунты'),
+('LR-BM', 'mn', 'Боми Цоунты'),
+('LR-CM', 'mn', 'Гранд Цапе Моунт Цоунты'),
+('LR-GB', 'mn', 'Гранд Басса Цоунты'),
+('LR-GG', 'mn', 'Гранд Гедех Цоунты'),
+('LR-GK', 'mn', 'Гранд Кру Цоунты'),
+('LR-GP', 'mn', 'Гбарполу Цоунты'),
+('LR-LO', 'mn', 'Лофа Цоунты'),
+('LR-MG', 'mn', 'Маргиби Цоунты'),
+('LR-MO', 'mn', 'Монтсеррадо Цоунты'),
+('LR-MY', 'mn', 'Марыланд Цоунты'),
+('LR-NI', 'mn', 'Нимба'),
+('LR-RG', 'mn', 'Ривер Гее Цоунты'),
+('LR-RI', 'mn', 'Ривер Цесс Цоунты'),
+('LR-SI', 'mn', 'Синое Цоунты');
+
+SET FOREIGN_KEY_CHECKS=1;

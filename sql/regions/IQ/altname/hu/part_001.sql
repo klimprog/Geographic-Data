@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IQ-AN', 'hu', 'Anbár kormányzóság'),
+('IQ-AR', 'hu', 'Erbíl kormányzóság'),
+('IQ-BA', 'hu', 'Baszra kormányzóság'),
+('IQ-BB', 'hu', 'Bábil kormányzóság'),
+('IQ-BG', 'hu', 'Bagdad kormányzóság'),
+('IQ-DA', 'hu', 'Dahúk kormányzóság'),
+('IQ-DI', 'hu', 'Dijála kormányzóság'),
+('IQ-DQ', 'hu', 'Dzi Kár kormányzóság'),
+('IQ-KA', 'hu', 'Kerbela kormányzóság'),
+('IQ-KI', 'hu', 'Kirkuk kormányzóság'),
+('IQ-KR', 'hu', 'Iqlīm Kūrdistān'),
+('IQ-MA', 'hu', 'Mejszán kormányzóság'),
+('IQ-MU', 'hu', 'Muszanna kormányzóság'),
+('IQ-NA', 'hu', 'Nedzsef kormányzóság'),
+('IQ-NI', 'hu', 'Ninive kormányzóság'),
+('IQ-QA', 'hu', 'Kádiszijja kormányzóság'),
+('IQ-SD', 'hu', 'Szaláh ed-Dín kormányzóság'),
+('IQ-SU', 'hu', 'Szulejmánijja kormányzóság'),
+('IQ-WA', 'hu', 'Vászit kormányzóság');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072122, 52885, 'ro', 'Vila Las Estrellas'),
+(4072199, 52886, 'ro', 'Stația Davis'),
+(4072276, 52887, 'ro', 'Generalul de bază Bernardo O''Higgins Riquelme'),
+(4072353, 52888, 'ro', 'Stația Showa'),
+(4072430, 52889, 'ro', 'Stația Jang Bogo'),
+(4072507, 52890, 'ro', 'Gara SANAE IV'),
+(4072584, 52891, 'ro', 'Stația Qinling'),
+(4072661, 52892, 'ro', 'Gara Zhongshan'),
+(4072738, 52893, 'ro', 'Stația Mawson'),
+(4072969, 52896, 'ro', 'Stația de progres'),
+(4073200, 52899, 'ro', 'Stația Novolazarevskaya'),
+(4073354, 52901, 'ro', 'Mirnîi');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LS-A', 'ht', 'Maseru District'),
+('LS-B', 'ht', 'Butha-Buthe'),
+('LS-C', 'ht', 'Leribe'),
+('LS-D', 'ht', 'Berea'),
+('LS-E', 'ht', 'Mafeteng District'),
+('LS-F', 'ht', 'Mohale''s Hoek District'),
+('LS-G', 'ht', 'Quthing'),
+('LS-H', 'ht', 'Qacha''s Nek District'),
+('LS-J', 'ht', 'Mokhotlong District'),
+('LS-K', 'ht', 'Thaba-Tseka');
+
+SET FOREIGN_KEY_CHECKS=1;

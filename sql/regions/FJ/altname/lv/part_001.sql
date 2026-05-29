@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('FJ-01', 'lv', 'Ba'),
+('FJ-02', 'lv', 'Bua'),
+('FJ-03', 'lv', 'Čakaudrove'),
+('FJ-04', 'lv', 'Kadavu'),
+('FJ-05', 'lv', 'Lau'),
+('FJ-06', 'lv', 'Lomaiviti'),
+('FJ-07', 'lv', 'Macuata'),
+('FJ-08', 'lv', 'Nadroga un Navosa'),
+('FJ-09', 'lv', 'Naitasiri'),
+('FJ-10', 'lv', 'Namosi'),
+('FJ-11', 'lv', 'Ra'),
+('FJ-12', 'lv', 'Rewa'),
+('FJ-13', 'lv', 'Serua'),
+('FJ-14', 'lv', 'Tailevu'),
+('FJ-C', 'lv', 'Centrālais apgabals'),
+('FJ-E', 'lv', 'Austrumu apgabals'),
+('FJ-N', 'lv', 'Ziemeļu apgabals'),
+('FJ-R', 'lv', 'Rotuma'),
+('FJ-W', 'lv', 'Rietumu apgabals');
+
+SET FOREIGN_KEY_CHECKS=1;

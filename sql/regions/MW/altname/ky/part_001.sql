@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'ky', 'Балака'),
+('MW-BL', 'ky', 'Блантайр'),
+('MW-C', 'ky', 'Борбордук Region'),
+('MW-CK', 'ky', 'Чиквава'),
+('MW-CR', 'ky', 'Чираджулу'),
+('MW-CT', 'ky', 'Читипа'),
+('MW-DE', 'ky', 'Дедза'),
+('MW-DO', 'ky', 'Дова'),
+('MW-KR', 'ky', 'Каронга'),
+('MW-KS', 'ky', 'Касунгу'),
+('MW-LI', 'ky', 'Лилонгве'),
+('MW-LK', 'ky', 'Ликома'),
+('MW-MC', 'ky', 'Мчинжи'),
+('MW-MG', 'ky', 'Мангочи'),
+('MW-MH', 'ky', 'Мачинга'),
+('MW-MU', 'ky', 'Муланже'),
+('MW-MW', 'ky', 'Мванза'),
+('MW-MZ', 'ky', 'Мзимба'),
+('MW-N', 'ky', 'Түндүк Region'),
+('MW-NB', 'ky', 'Нката Булуңу'),
+('MW-NE', 'ky', 'Нено'),
+('MW-NI', 'ky', 'Нтчиси'),
+('MW-NK', 'ky', 'Нхотакота'),
+('MW-NS', 'ky', 'Нсанже'),
+('MW-NU', 'ky', 'Нтчеу'),
+('MW-PH', 'ky', 'Фаломбе'),
+('MW-RU', 'ky', 'Румфи'),
+('MW-S', 'ky', 'Түштүк Region'),
+('MW-SA', 'ky', 'Салима'),
+('MW-TH', 'ky', 'Тиоло'),
+('MW-ZO', 'ky', 'Зомба');
+
+SET FOREIGN_KEY_CHECKS=1;

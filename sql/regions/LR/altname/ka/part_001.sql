@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LR-BG', 'ka', 'ბონგის საგრაფო'),
+('LR-BM', 'ka', 'ბომის საგრაფო'),
+('LR-CM', 'ka', 'გრანდ კეიპ მაუნტის ოლქი'),
+('LR-GB', 'ka', 'გრანდ ბასას ოლქი'),
+('LR-GG', 'ka', 'გრანდ გედეჰის ოლქი'),
+('LR-GK', 'ka', 'გრანდ კრუს ოლქი'),
+('LR-GP', 'ka', 'გბარპოლუს ოლქი'),
+('LR-LO', 'ka', 'ლოფას ოლქი'),
+('LR-MG', 'ka', 'მარგიბის ოლქი'),
+('LR-MO', 'ka', 'მონსერადოს ოლქი'),
+('LR-MY', 'ka', 'მერილენდის ოლქი'),
+('LR-NI', 'ka', 'ნიმბას ოლქი'),
+('LR-RG', 'ka', 'რივერ გიის ოლქი'),
+('LR-RI', 'ka', 'მდინარე ცესის საგრაფო'),
+('LR-SI', 'ka', 'სინოეს ოლქი');
+
+SET FOREIGN_KEY_CHECKS=1;

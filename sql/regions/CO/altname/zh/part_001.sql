@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'zh', '亚马孙省'),
+('CO-ANT', 'zh', '安蒂奥基亚省'),
+('CO-ARA', 'zh', '阿劳卡省'),
+('CO-ATL', 'zh', '大西洋省'),
+('CO-BOL', 'zh', '玻利瓦尔省'),
+('CO-BOY', 'zh', '博亚卡省'),
+('CO-CAL', 'zh', '卡尔达斯省'),
+('CO-CAQ', 'zh', '卡克塔省'),
+('CO-CAS', 'zh', '卡萨纳雷省'),
+('CO-CAU', 'zh', '考卡省'),
+('CO-CES', 'zh', '塞萨尔省'),
+('CO-CHO', 'zh', '乔科省'),
+('CO-COR', 'zh', '科爾多瓦省'),
+('CO-CUN', 'zh', '昆迪納馬卡省'),
+('CO-DC', 'zh', '波哥大首都区'),
+('CO-GUA', 'zh', '瓜伊尼亚省'),
+('CO-GUV', 'zh', '瓜维亚雷省'),
+('CO-HUI', 'zh', '乌伊拉省'),
+('CO-LAG', 'zh', '瓜希拉省'),
+('CO-MAG', 'zh', '马格达莱纳省'),
+('CO-MET', 'zh', '梅塔省'),
+('CO-NAR', 'zh', '纳里尼奥省'),
+('CO-NSA', 'zh', '北桑坦德省'),
+('CO-PUT', 'zh', '普图马约省'),
+('CO-QUI', 'zh', '金迪奥省'),
+('CO-RIS', 'zh', '里萨拉尔达省'),
+('CO-SAN', 'zh', '桑坦德省'),
+('CO-SAP', 'zh', '聖安德烈斯-普羅維登西亞和聖卡塔利娜群島省'),
+('CO-SUC', 'zh', '苏克雷省'),
+('CO-TOL', 'zh', '托利马省'),
+('CO-VAC', 'zh', '考卡山谷省'),
+('CO-VAU', 'zh', '沃佩斯省'),
+('CO-VID', 'zh', '比查达省');
+
+SET FOREIGN_KEY_CHECKS=1;

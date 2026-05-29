@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'ms', 'Daerah Berat'),
+('AL-02', 'ms', 'Daerah Durrës'),
+('AL-03', 'ms', 'Daerah Elbasan'),
+('AL-04', 'ms', 'Daerah Fier'),
+('AL-05', 'ms', 'Daerah Gjirokaster'),
+('AL-06', 'ms', 'Daerah Korça'),
+('AL-07', 'ms', 'Daerah Kukes'),
+('AL-08', 'ms', 'Daerah Lezhë'),
+('AL-09', 'ms', 'Daerah Diber'),
+('AL-10', 'ms', 'Daerah Shkodër'),
+('AL-11', 'ms', 'Tirana'),
+('AL-12', 'ms', 'Daerah Vlorë');
+
+SET FOREIGN_KEY_CHECKS=1;

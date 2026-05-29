@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ML-1', 'lt', 'Kajeso regionas'),
+('ML-10', 'lt', 'Taoudenit'),
+('ML-2', 'lt', 'Kulikoro regionas'),
+('ML-3', 'lt', 'Sikaso regionas'),
+('ML-4', 'lt', 'Segu regionas'),
+('ML-5', 'lt', 'Mopčio regionas'),
+('ML-6', 'lt', 'Tombuktu regionas'),
+('ML-7', 'lt', 'Gao regionas'),
+('ML-8', 'lt', 'Kidalio regionas'),
+('ML-9', 'lt', 'Menaka'),
+('ML-BKO', 'lt', 'Bamakas');
+
+SET FOREIGN_KEY_CHECKS=1;

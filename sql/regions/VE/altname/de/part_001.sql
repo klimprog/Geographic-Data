@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('VE-A', 'de', 'Bundesbezirk'),
+('VE-B', 'de', 'Anzoátegui'),
+('VE-C', 'de', 'Apure'),
+('VE-D', 'de', 'Aragua'),
+('VE-E', 'de', 'Barinas'),
+('VE-F', 'de', 'Bolívar'),
+('VE-G', 'de', 'Carabobo'),
+('VE-H', 'de', 'Cojedes'),
+('VE-I', 'de', 'Falcón'),
+('VE-J', 'de', 'Guarico'),
+('VE-K', 'de', 'Lara'),
+('VE-L', 'de', 'Merida'),
+('VE-M', 'de', 'Miranda'),
+('VE-N', 'de', 'Monagas'),
+('VE-O', 'de', 'Nueva Esparta'),
+('VE-P', 'de', 'Portuguesa'),
+('VE-R', 'de', 'Sucre'),
+('VE-S', 'de', 'Tachira'),
+('VE-T', 'de', 'Trujillo'),
+('VE-U', 'de', 'Yaracuy'),
+('VE-V', 'de', 'Zulia'),
+('VE-W', 'de', 'Dependencias Federales'),
+('VE-X', 'de', 'Vargas'),
+('VE-Y', 'de', 'Delta Amacuro'),
+('VE-Z', 'de', 'Amazonas');
+
+SET FOREIGN_KEY_CHECKS=1;

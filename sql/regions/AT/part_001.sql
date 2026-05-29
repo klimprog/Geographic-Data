@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('AT-1', 'AT', 'Burgenland', 'Burgenland', 79030, 281022, 'UTC+1', 'Europe/Vienna'),
+('AT-2', 'AT', 'Kaernten', 'Kärnten', 76157, 565762, 'UTC+1', 'Europe/Vienna'),
+('AT-3', 'AT', 'Niederoesterreich', 'Niederösterreich', 71625, 1576622, 'UTC+1', 'Europe/Vienna'),
+('AT-4', 'AT', 'Oberoesterreich', 'Oberösterreich', 75185, 1400851, 'UTC+1', 'Europe/Vienna'),
+('AT-5', 'AT', 'Salzburg', 'Land Salzburg', 71913, 533083, 'UTC+1', 'Europe/Vienna'),
+('AT-6', 'AT', 'Steiermark', 'Steiermark', 77926, 1185175, 'UTC+1', 'Europe/Vienna'),
+('AT-7', 'AT', 'Tirol', 'Tirol', 76581, 692214, 'UTC+1', 'Europe/Vienna'),
+('AT-8', 'AT', 'Vorarlberg', 'Vorarlberg', 79801, 359737, 'UTC+1', 'Europe/Vienna'),
+('AT-9', 'AT', 'Wien', 'Bundesland Wien', NULL, 1569316, 'UTC+1', 'Europe/Vienna');
+
+SET FOREIGN_KEY_CHECKS=1;

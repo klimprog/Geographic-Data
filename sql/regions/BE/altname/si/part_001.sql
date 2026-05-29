@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BE-BRU', 'si', 'බ්‍රසල්ස්-කැපිටල් කලාපය'),
+('BE-VAN', 'si', 'ඇන්ට්වර්පන්'),
+('BE-VBR', 'si', 'ව්ලාම්ස්-බ්‍රබන්ට්'),
+('BE-VLG', 'si', 'ෆ්ලෙමිෂ් කලාපය, බෙල්ජියම'),
+('BE-VLI', 'si', 'ලිම්බර්ග්'),
+('BE-VOV', 'si', 'ඌස්ට්-ව්ලාංදෙරෙන්'),
+('BE-VWV', 'si', 'බටහිර-ව්ලැන්ඩරන්'),
+('BE-WAL', 'si', 'වොලෝනියා කලාපය, බෙල්ජියම'),
+('BE-WBR', 'si', 'බ්රබන්ට් වොලන්'),
+('BE-WHT', 'si', 'හයිනාට්'),
+('BE-WLG', 'si', 'ලීජ්'),
+('BE-WLX', 'si', 'ලක්සම්බර්ග්'),
+('BE-WNA', 'si', 'නමූර්');
+
+SET FOREIGN_KEY_CHECKS=1;

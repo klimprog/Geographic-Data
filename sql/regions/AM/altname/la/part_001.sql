@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AM-AG', 'la', 'Aragatsotn'),
+('AM-AR', 'la', 'Ararat'),
+('AM-AV', 'la', 'Armavir'),
+('AM-ER', 'la', 'Erivanum'),
+('AM-GR', 'la', 'Gegark''unik'''),
+('AM-KT', 'la', 'Kotayk'''),
+('AM-LO', 'la', 'Lori'),
+('AM-SH', 'la', 'Sirak'),
+('AM-SU', 'la', 'Syunik'''),
+('AM-TV', 'la', 'Tavus'),
+('AM-VD', 'la', 'Vayots Dzor');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('GD-01', 'GD', 'Saint Andrew', 'Saint Andrew Parish', 1662863, 25339, 'UTC-4', 'America/Grenada'),
+('GD-02', 'GD', 'Saint David', 'Saint David Parish', 1662741, 11486, 'UTC-4', 'America/Grenada'),
+('GD-03', 'GD', 'Saint George', 'Saint George Parish', NULL, 33264, 'UTC-4', 'America/Grenada'),
+('GD-04', 'GD', 'Saint John', 'Saint John Parish', 1662871, 9176, 'UTC-4', 'America/Grenada'),
+('GD-05', 'GD', 'Saint Mark', 'Saint Mark Parish', 1662702, 4067, 'UTC-4', 'America/Grenada'),
+('GD-06', 'GD', 'Saint Patrick', 'Saint Patrick Parish', 1662730, 10533, 'UTC-4', 'America/Grenada'),
+('GD-10', 'GD', 'Carriacou and Petite Martinique', 'Carriacou and Petite Martinique', 1662854, 5000, 'UTC-4', 'America/Grenada');
+
+SET FOREIGN_KEY_CHECKS=1;

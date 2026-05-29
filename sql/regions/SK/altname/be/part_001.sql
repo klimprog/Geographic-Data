@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SK-BC', 'be', 'Банскабістрыцкі край'),
+('SK-BL', 'be', 'Браціслаўскі край'),
+('SK-KI', 'be', 'Кошыцкі край'),
+('SK-NI', 'be', 'Нітранскі край'),
+('SK-PV', 'be', 'Прэшаўскі край'),
+('SK-TA', 'be', 'Трнаўскі край'),
+('SK-TC', 'be', 'Трэнчынскі край'),
+('SK-ZI', 'be', 'Жылінскі край');
+
+SET FOREIGN_KEY_CHECKS=1;

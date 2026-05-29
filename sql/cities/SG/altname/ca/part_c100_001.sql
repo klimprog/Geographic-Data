@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(318382920, 4134844, 'ca', 'West Coast Village'),
+(318382997, 4134845, 'ca', 'Ulu Bedok'),
+(318383074, 4134846, 'ca', 'Thong Hoe Village'),
+(318383151, 4134847, 'ca', 'Sungai Simpang'),
+(318383305, 4134849, 'ca', 'Singapore'),
+(318383382, 4134850, 'ca', 'Finca Sembawang'),
+(318383767, 4134855, 'ca', 'Poble de Pulau Ubin'),
+(318383844, 4134856, 'ca', 'Matilda Estate'),
+(318383998, 4134858, 'ca', 'Lam San Village'),
+(318384075, 4134859, 'ca', 'Keat Hong Village'),
+(318384999, 4134871, 'ca', 'Kampong Tebing Terjun'),
+(318385076, 4134872, 'ca', 'Kampong Teban'),
+(318386308, 4134888, 'ca', 'Kampong Saigon'),
+(318386693, 4134893, 'ca', 'Kampong Pesek'),
+(318387155, 4134899, 'ca', 'Kampong Pasir Ris'),
+(318387925, 4134909, 'ca', 'Kampong Loyang'),
+(318388618, 4134918, 'ca', 'Kampong Java Teban'),
+(318389003, 4134923, 'ca', 'Kampong Bukit Panjang'),
+(318390312, 4134940, 'ca', 'Chia Keng'),
+(318390466, 4134942, 'ca', 'Buona Vista'),
+(318390620, 4134944, 'ca', 'Poble de Bukit Mandai'),
+(318391005, 4134949, 'ca', 'Jurong'),
+(318391313, 4134953, 'ca', 'Yishun New Town'),
+(318391852, 4134960, 'ca', 'Ang Mo Kio New Town'),
+(318391929, 4134961, 'ca', 'Bukit Panjang New Town'),
+(318392006, 4134962, 'ca', 'Ciutat Nova de Choa Chu Kang'),
+(318392083, 4134963, 'ca', 'Queenstown Estate'),
+(318392160, 4134964, 'ca', 'Ciutat Nova de Choa Chu Kang'),
+(318392776, 4134972, 'ca', 'Ciutat Nova de Sengkang');
+
+SET FOREIGN_KEY_CHECKS=1;

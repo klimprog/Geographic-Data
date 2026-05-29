@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'am', 'አቢያ ግዛት'),
+('NG-AD', 'am', 'አዳማዋ'),
+('NG-AK', 'am', 'አክዋ ኢቦም ግዛት'),
+('NG-AN', 'am', 'አናምብራ'),
+('NG-BA', 'am', 'ባውቺ'),
+('NG-BE', 'am', 'ቤኑዌ ግዛት'),
+('NG-BO', 'am', 'ቦርኖ ግዛት'),
+('NG-BY', 'am', 'ባይelስা ግዛት'),
+('NG-CR', 'am', 'ክሮስ ሪভር ግዛት'),
+('NG-DE', 'am', 'ዴልታ'),
+('NG-EB', 'am', 'ኢቦኒ ግዛት'),
+('NG-ED', 'am', 'ኤዶ ግዛት'),
+('NG-EK', 'am', 'ኢክቲ ግዛት'),
+('NG-EN', 'am', 'እኑጉ ግዛት'),
+('NG-FC', 'am', 'ኤፍሲቲ'),
+('NG-GO', 'am', 'ጎምቤ ግዛት'),
+('NG-IM', 'am', 'ኢሞ ግዛት'),
+('NG-JI', 'am', 'ጂጋዋ ግዛት'),
+('NG-KD', 'am', 'ካዱና ግዛት'),
+('NG-KE', 'am', 'ከቢ'),
+('NG-KN', 'am', 'ካኖ ግዛት'),
+('NG-KO', 'am', 'ኮጊ ግዛት'),
+('NG-KT', 'am', 'ካትሲና ግዛት'),
+('NG-KW', 'am', 'ኩዋራ ግዛት'),
+('NG-LA', 'am', 'ላጎስ'),
+('NG-NA', 'am', 'ናሳራዋ ግዛት'),
+('NG-NI', 'am', 'ኒጀር ግዛት'),
+('NG-OG', 'am', 'ኦጉን ግዛት'),
+('NG-ON', 'am', 'ኦንዶ ግዛት'),
+('NG-OS', 'am', 'ኦሱን ግዛት'),
+('NG-OY', 'am', 'ኦዮ ግዛት'),
+('NG-PL', 'am', 'ላዕላይ ግዛት'),
+('NG-RI', 'am', 'ሪভርስ ግዛት'),
+('NG-SO', 'am', 'ሶኮቶ ግዛት'),
+('NG-TA', 'am', 'ታራባ ግዛት'),
+('NG-YO', 'am', 'ዮበ ግዛት'),
+('NG-ZA', 'am', 'ዛምፋራ ግዛት');
+
+SET FOREIGN_KEY_CHECKS=1;

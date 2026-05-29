@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'uz', 'Balaka'),
+('MW-BL', 'uz', 'Blantyre'),
+('MW-C', 'uz', 'Markaziy Region'),
+('MW-CK', 'uz', 'Chikvava'),
+('MW-CR', 'uz', 'Chiradzulu'),
+('MW-CT', 'uz', 'Chitipa'),
+('MW-DE', 'uz', 'Dedza'),
+('MW-DO', 'uz', 'Dowa'),
+('MW-KR', 'uz', 'Karonga'),
+('MW-KS', 'uz', 'Kasungu'),
+('MW-LI', 'uz', 'Lilongve'),
+('MW-LK', 'uz', 'Likoma'),
+('MW-MC', 'uz', 'Mchinji'),
+('MW-MG', 'uz', 'Mangochi'),
+('MW-MH', 'uz', 'Machinga'),
+('MW-MU', 'uz', 'Mulanje'),
+('MW-MW', 'uz', 'Mvanza'),
+('MW-MZ', 'uz', 'Mzimba'),
+('MW-N', 'uz', 'Shimol Region'),
+('MW-NB', 'uz', 'Nkhata ko''rfazi'),
+('MW-NE', 'uz', 'Neno'),
+('MW-NI', 'uz', 'Ntchisi'),
+('MW-NK', 'uz', 'Nxotakota'),
+('MW-NS', 'uz', 'Nsanje'),
+('MW-NU', 'uz', 'Ntcheu'),
+('MW-PH', 'uz', 'Phalombe'),
+('MW-RU', 'uz', 'Rumphi'),
+('MW-S', 'uz', 'Janub Region'),
+('MW-SA', 'uz', 'Salima'),
+('MW-TH', 'uz', 'Thyolo'),
+('MW-ZO', 'uz', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

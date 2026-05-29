@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MM-01', 'ja', 'ザガイン管区'),
+('MM-02', 'ja', 'バゴー管区'),
+('MM-03', 'ja', 'マグウェイ'),
+('MM-04', 'ja', 'マンダレー管区'),
+('MM-05', 'ja', 'タニンダーイー管区'),
+('MM-06', 'ja', 'ヤンゴン管区'),
+('MM-07', 'ja', 'イラワジ'),
+('MM-11', 'ja', 'カチン州'),
+('MM-12', 'ja', 'カヤー州'),
+('MM-13', 'ja', 'カレン州'),
+('MM-14', 'ja', 'チン州'),
+('MM-15', 'ja', 'モン'),
+('MM-16', 'ja', 'ラカイン'),
+('MM-17', 'ja', 'シャン州'),
+('MM-18', 'ja', 'ネピドー');
+
+SET FOREIGN_KEY_CHECKS=1;

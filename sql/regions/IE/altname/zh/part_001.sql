@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'zh', '康諾特省'),
+('IE-CE', 'zh', '克莱尔'),
+('IE-CN', 'zh', '卡文'),
+('IE-CO', 'zh', '软木塞'),
+('IE-CW', 'zh', '卡洛'),
+('IE-D', 'zh', '都柏林'),
+('IE-DL', 'zh', '多尼戈尔'),
+('IE-G', 'zh', '戈尔韦'),
+('IE-KE', 'zh', '基尔代尔'),
+('IE-KK', 'zh', '基尔肯尼'),
+('IE-KY', 'zh', '克里'),
+('IE-L', 'zh', '倫斯特省'),
+('IE-LD', 'zh', '朗福德'),
+('IE-LH', 'zh', NULL),
+('IE-LK', 'zh', '利默里克'),
+('IE-LM', 'zh', '利特里姆'),
+('IE-LS', 'zh', '莱伊什'),
+('IE-M', 'zh', '芒斯特省'),
+('IE-MH', 'zh', '米斯'),
+('IE-MN', 'zh', '莫纳汉'),
+('IE-MO', 'zh', '梅奥'),
+('IE-OY', 'zh', '奥法利'),
+('IE-RN', 'zh', '罗斯康门'),
+('IE-SO', 'zh', '斯莱戈'),
+('IE-TA', 'zh', '蒂珀雷里'),
+('IE-U', 'zh', '阿爾斯特省'),
+('IE-WD', 'zh', '沃特福德'),
+('IE-WH', 'zh', '韦斯特米斯'),
+('IE-WW', 'zh', '威克洛'),
+('IE-WX', 'zh', '韦克斯福德');
+
+SET FOREIGN_KEY_CHECKS=1;

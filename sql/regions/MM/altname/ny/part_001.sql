@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MM-01', 'ny', 'Chigawo cha Sagaing'),
+('MM-02', 'ny', 'Chigawo cha Bago'),
+('MM-03', 'ny', 'Magway Region'),
+('MM-04', 'ny', 'Chigawo cha Mandalay'),
+('MM-05', 'ny', 'Tanintharyi Region'),
+('MM-06', 'ny', 'Chigawo cha Yangon'),
+('MM-07', 'ny', 'Chigawo cha Ayeyarwady'),
+('MM-11', 'ny', 'Kachin State'),
+('MM-12', 'ny', 'Kaya State'),
+('MM-13', 'ny', 'Kayin State'),
+('MM-14', 'ny', 'Chin State'),
+('MM-15', 'ny', 'Mon State'),
+('MM-16', 'ny', 'Rakhine State'),
+('MM-17', 'ny', 'Shan State'),
+('MM-18', 'ny', 'Nay Pyi Taw');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GW-BA', 'th', 'บาฟาต้า'),
+('GW-BL', 'th', 'โบลามา'),
+('GW-BM', 'th', 'ไบโอโบ้'),
+('GW-BS', 'th', 'ภูมิภาคบิสเซา'),
+('GW-CA', 'th', 'ภูมิภาคคาเชอ'),
+('GW-GA', 'th', 'กาบู'),
+('GW-L', 'th', 'เลสเต'),
+('GW-N', 'th', 'นอร์เต'),
+('GW-OI', 'th', 'ภูมิภาคออย'),
+('GW-QU', 'th', 'ควินารา'),
+('GW-S', 'th', 'ซุล'),
+('GW-TO', 'th', 'ทอมบาลี');
+
+SET FOREIGN_KEY_CHECKS=1;

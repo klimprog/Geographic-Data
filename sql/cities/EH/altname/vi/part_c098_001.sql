@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(113795834, 1477868, 'vi', 'Zug'),
+(113795911, 1477869, 'vi', 'Tifariti'),
+(113795988, 1477870, 'vi', 'Tichla'),
+(113796065, 1477871, 'vi', 'El Marsa'),
+(113796219, 1477873, 'vi', 'Al Mahbas'),
+(113796296, 1477874, 'vi', 'Lemsid'),
+(113796604, 1477878, 'vi', 'Hasi Gueleita'),
+(113796681, 1477879, 'vi', 'El Aargub'),
+(113796758, 1477880, 'vi', 'El Aaiún'),
+(113796912, 1477882, 'vi', 'Dchira'),
+(113796989, 1477883, 'vi', 'Uad Damran'),
+(113797143, 1477885, 'vi', 'Mũi Bojador'),
+(113797220, 1477886, 'vi', 'Bu Craa'),
+(113797374, 1477888, 'vi', 'Bir Ganduz'),
+(113797451, 1477889, 'vi', 'Bir Anzarane'),
+(113797605, 1477891, 'vi', 'Aghwinit'),
+(113797682, 1477892, 'vi', 'Dakhla'),
+(113797836, 1477894, 'vi', 'Mijek'),
+(113797913, 1477895, 'vi', 'Foum el Oued'),
+(113797990, 1477896, 'vi', 'Daoura'),
+(113798067, 1477897, 'vi', 'Bir Lehlou'),
+(113798144, 1477898, 'vi', 'Amgala'),
+(113798221, 1477899, 'vi', 'Sidi Ahmed Laaroussi'),
+(113798375, 1477901, 'vi', 'El Hagounia'),
+(113798452, 1477902, 'vi', 'Aftissat'),
+(113798529, 1477903, 'vi', 'Agti el Ghazi'),
+(113798683, 1477905, 'vi', 'Jdiriya'),
+(113798760, 1477906, 'vi', 'Haouza'),
+(113798991, 1477909, 'vi', 'Farsia'),
+(113799068, 1477910, 'vi', 'Meharrize'),
+(113799145, 1477911, 'vi', 'Oum Dreyga'),
+(113799376, 1477914, 'vi', 'Jraifia');
+
+SET FOREIGN_KEY_CHECKS=1;

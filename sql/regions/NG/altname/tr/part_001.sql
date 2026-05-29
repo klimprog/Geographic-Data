@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'tr', 'Abia Eyaleti'),
+('NG-AD', 'tr', 'Adamawa Eyaleti'),
+('NG-AK', 'tr', 'Akwa Ibom Eyaleti'),
+('NG-AN', 'tr', 'Anambra Eyaleti'),
+('NG-BA', 'tr', 'Bauchi Eyaleti'),
+('NG-BE', 'tr', 'Benue Eyaleti'),
+('NG-BO', 'tr', 'Borno Eyaleti'),
+('NG-BY', 'tr', 'Bayelsa Eyaleti'),
+('NG-CR', 'tr', 'Cross River Eyaleti'),
+('NG-DE', 'tr', 'Delta Eyaleti'),
+('NG-EB', 'tr', 'Ebonyi Eyaleti'),
+('NG-ED', 'tr', 'Edo Eyaleti'),
+('NG-EK', 'tr', 'Ekiti Eyaleti'),
+('NG-EN', 'tr', 'Enugu Eyaleti'),
+('NG-FC', 'tr', 'Federal Başkent Bölgesi'),
+('NG-GO', 'tr', 'Gombe Eyaleti'),
+('NG-IM', 'tr', 'Imo Eyaleti'),
+('NG-JI', 'tr', 'Jigawa Eyaleti'),
+('NG-KD', 'tr', 'Kaduna Eyaleti'),
+('NG-KE', 'tr', 'Kebbi Eyaleti'),
+('NG-KN', 'tr', 'Kano Devleti'),
+('NG-KO', 'tr', 'Kogi Eyaleti'),
+('NG-KT', 'tr', 'Katsina Eyaleti'),
+('NG-KW', 'tr', 'Kwara Eyaleti'),
+('NG-LA', 'tr', 'Lagos Eyaleti'),
+('NG-NA', 'tr', 'Nasarawa Eyaleti'),
+('NG-NI', 'tr', 'Niger Eyaleti'),
+('NG-OG', 'tr', 'Ogun Eyaleti'),
+('NG-ON', 'tr', 'Ondo Eyaleti'),
+('NG-OS', 'tr', 'Osun Eyaleti'),
+('NG-OY', 'tr', 'Oyo Eyaleti'),
+('NG-PL', 'tr', 'Plateau Eyaleti'),
+('NG-RI', 'tr', 'Rivers Eyaleti'),
+('NG-SO', 'tr', 'Sokoto Eyaleti'),
+('NG-TA', 'tr', 'Taraba Eyaleti'),
+('NG-YO', 'tr', 'Yobe Eyaleti'),
+('NG-ZA', 'tr', 'Zamfara Eyaleti');
+
+SET FOREIGN_KEY_CHECKS=1;

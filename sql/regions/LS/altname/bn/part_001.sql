@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LS-A', 'bn', 'মাসেরো জেলা'),
+('LS-B', 'bn', 'বুথা বুথে জেলা'),
+('LS-C', 'bn', 'লেরিবে জেলা'),
+('LS-D', 'bn', 'বেরিয়া জেলা'),
+('LS-E', 'bn', 'মাফেতেং জেলা'),
+('LS-F', 'bn', 'মোহালেস হোয়েক জেলা'),
+('LS-G', 'bn', 'কুতিং জেলা'),
+('LS-H', 'bn', 'কাচাস নেক জেলা'),
+('LS-J', 'bn', 'মোকুলং জেলা'),
+('LS-K', 'bn', 'থাবা তেস্কা জেলা');
+
+SET FOREIGN_KEY_CHECKS=1;

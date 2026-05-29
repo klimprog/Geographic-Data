@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SN-DB', 'dz', 'ཌིའོར་བེལ།'),
+('SN-DK', 'dz', 'ཌ་ཀར།'),
+('SN-FK', 'dz', 'ཕ་ཊིཀ།'),
+('SN-KA', 'dz', 'ཀ་ཕི་རིན་གྱི་ལུང་ཕྱོགས།'),
+('SN-KD', 'dz', 'ཀོལ་ཌ།'),
+('SN-KE', 'dz', 'ཀེ་ཌོ་གུའི་ལུང་ཕྱོགས།'),
+('SN-KL', 'dz', 'ཀའོ་ལཱཀ།'),
+('SN-LG', 'dz', 'ལོ་ག་'),
+('SN-MT', 'dz', 'མ་ཏམ།'),
+('SN-SE', 'dz', 'ལུང་ཕྱོགས་སེ་དྷིའུ།'),
+('SN-SL', 'dz', 'སེནཊ་ལུའིསི།'),
+('SN-TC', 'dz', 'ཏམ་བཱ་ཀུན་ཌ།'),
+('SN-TH', 'dz', 'ཐིསི་གི་ལུང་ཕྱོགས།'),
+('SN-ZG', 'dz', 'ཟི་གུའིན་ཆོར།');
+
+SET FOREIGN_KEY_CHECKS=1;

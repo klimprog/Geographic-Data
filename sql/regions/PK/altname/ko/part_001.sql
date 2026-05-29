@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PK-BA', 'ko', '발루치스탄주'),
+('PK-GB', 'ko', '길기트발티스탄'),
+('PK-IS', 'ko', '이슬라마바드 수도권'),
+('PK-JK', 'ko', '아자드 카슈미르'),
+('PK-KP', 'ko', '카이베르파크툰크와주'),
+('PK-PB', 'ko', '펀자브주'),
+('PK-SD', 'ko', '신드주');
+
+SET FOREIGN_KEY_CHECKS=1;

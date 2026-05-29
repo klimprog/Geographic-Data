@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'tr', 'Andaman ve Nikobar adaları'),
+('IN-AP', 'tr', 'Andhra Pradeş'),
+('IN-AR', 'tr', 'Arunaçhal Pradesh'),
+('IN-AS', 'tr', 'Assam'),
+('IN-BR', 'tr', 'Bihar'),
+('IN-CG', 'tr', 'Chhattisgarh'),
+('IN-CH', 'tr', 'Çhandigarh'),
+('IN-DH', 'tr', 'Dadra ve Nagar Haveli ve Daman ve Diu'),
+('IN-DL', 'tr', 'Delhi'),
+('IN-GA', 'tr', 'Goa'),
+('IN-GJ', 'tr', 'Gucerat'),
+('IN-HP', 'tr', 'Himaçhal Pradeş'),
+('IN-HR', 'tr', 'Haryana'),
+('IN-JH', 'tr', 'Jharkhand'),
+('IN-JK', 'tr', 'Cemmu ve Keşmir'),
+('IN-KA', 'tr', 'Karnataka'),
+('IN-KL', 'tr', 'Kerala'),
+('IN-LA', 'tr', 'Ladakh'),
+('IN-LD', 'tr', 'Lakşadvip Adaları'),
+('IN-MH', 'tr', 'Maharaştra'),
+('IN-ML', 'tr', 'Meghalaya'),
+('IN-MN', 'tr', 'Manipur'),
+('IN-MP', 'tr', 'Madhya Pradeş'),
+('IN-MZ', 'tr', 'Mizoram'),
+('IN-NL', 'tr', 'Nagaland'),
+('IN-OD', 'tr', 'Orissa'),
+('IN-PB', 'tr', 'Pencap'),
+('IN-PY', 'tr', 'Puduçeri'),
+('IN-RJ', 'tr', 'Racastan'),
+('IN-SK', 'tr', 'Sikkim'),
+('IN-TN', 'tr', 'Tamil Nadu'),
+('IN-TR', 'tr', 'Tripura'),
+('IN-TS', 'tr', 'Telangana'),
+('IN-UK', 'tr', 'Uttarakhand'),
+('IN-UP', 'tr', 'Uttar Pradeş'),
+('IN-WB', 'tr', 'Batı Bengal');
+
+SET FOREIGN_KEY_CHECKS=1;

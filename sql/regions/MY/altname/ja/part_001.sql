@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MY-01', 'ja', 'ジョホール州'),
+('MY-02', 'ja', 'ケダ州'),
+('MY-03', 'ja', 'クランタン州'),
+('MY-04', 'ja', 'ムラカ州'),
+('MY-05', 'ja', 'ヌグリ・スンビラン州'),
+('MY-06', 'ja', 'パハン州'),
+('MY-07', 'ja', 'ペナン州'),
+('MY-08', 'ja', 'ペラ州'),
+('MY-09', 'ja', 'プルリス州'),
+('MY-10', 'ja', 'セランゴール州'),
+('MY-11', 'ja', 'トレンガヌ州'),
+('MY-12', 'ja', 'サバ州'),
+('MY-13', 'ja', 'サラワク州'),
+('MY-14', 'ja', 'クアラルンプール'),
+('MY-15', 'ja', 'ラブアン'),
+('MY-16', 'ja', 'プトラジャヤ');
+
+SET FOREIGN_KEY_CHECKS=1;

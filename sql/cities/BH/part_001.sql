@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities` (`id`, `country`, `region`, `name`, `native_name`, `population`, `status`, `native_status`, `timezone_utc`, `timezone_iana`) VALUES
+(203196, 'BH', 'BH-13', 'Sitrah', 'سترة', 72601, 4, 'Town', 'UTC+3', 'Asia/Bahrain'),
+(203200, 'BH', 'BH-13', 'Sanabis', 'سَنَابِس', 6564, 4, 'PPL', 'UTC+3', 'Asia/Bahrain'),
+(203213, 'BH', 'BH-14', 'Madinat `Isa', 'مَدِينَة عِيسَى', 38090, 3, 'town', 'UTC+3', 'Asia/Bahrain'),
+(203222, 'BH', 'BH-13', 'Jidd Hafs', 'جِدّ حَفْص', 49162, 4, 'Town', 'UTC+3', 'Asia/Bahrain'),
+(203232, 'BH', 'BH-17', 'Madinat Hamad', 'مَدِينَة حَمَد', 133450, 3, 'town', 'UTC+3', 'Asia/Bahrain'),
+(203239, 'BH', 'BH-14', 'Dar Kulayb', 'دَار كُلَيْب', 65466, 4, 'town', 'UTC+3', 'Asia/Bahrain'),
+(203262, 'BH', 'BH-15', 'Al Muharraq', 'محرق', 176583, 3, 'locality', 'UTC+3', 'Asia/Bahrain'),
+(203264, 'BH', 'BH-13', 'Manama', 'المنامة', 147074, 1, 'City proper', 'UTC+3', 'Asia/Bahrain'),
+(203276, 'BH', 'BH-15', 'Al Hadd', 'اَلْحَدّ', 12797, 4, 'locality', 'UTC+3', 'Asia/Bahrain'),
+(203282, 'BH', 'BH-17', 'Ad Diraz', 'اَلدِّرَاز', 18000, 4, 'village', 'UTC+3', 'Asia/Bahrain'),
+(203286, 'BH', 'BH-14', 'Ar Rifa''', 'اَلرِّفَاع', 97523, 3, 'Town', 'UTC+3', 'Asia/Bahrain');
+
+SET FOREIGN_KEY_CHECKS=1;

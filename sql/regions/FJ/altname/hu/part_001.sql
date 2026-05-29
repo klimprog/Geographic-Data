@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('FJ-01', 'hu', 'Ba'),
+('FJ-02', 'hu', 'Bua'),
+('FJ-03', 'hu', 'Cakaudrove'),
+('FJ-04', 'hu', 'Kadavu'),
+('FJ-05', 'hu', 'Lau'),
+('FJ-06', 'hu', 'Lomaiviti'),
+('FJ-07', 'hu', 'Macuata'),
+('FJ-08', 'hu', 'Nadroga és Navosa'),
+('FJ-09', 'hu', 'Naitasiri'),
+('FJ-10', 'hu', 'Namosi'),
+('FJ-11', 'hu', 'Rá'),
+('FJ-12', 'hu', 'Rewa'),
+('FJ-13', 'hu', 'Serua'),
+('FJ-14', 'hu', 'Tailevu'),
+('FJ-C', 'hu', 'Közép'),
+('FJ-E', 'hu', 'Eastern'),
+('FJ-N', 'hu', 'Északi'),
+('FJ-R', 'hu', 'Rotuma'),
+('FJ-W', 'hu', 'Western');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KZ-10', 'is', 'Abaj oblysy'),
+('KZ-11', 'is', 'Aqmolafylki'),
+('KZ-15', 'is', 'Aktöbefylki'),
+('KZ-19', 'is', 'Almatyfylki'),
+('KZ-23', 'is', 'Atýráfylki'),
+('KZ-27', 'is', 'Vestur-Kasakstanfylki'),
+('KZ-31', 'is', 'Djambýlfylki'),
+('KZ-33', 'is', 'Zetisu oblysy'),
+('KZ-35', 'is', 'Karagandyfylki'),
+('KZ-39', 'is', 'Kóstanæfylki'),
+('KZ-43', 'is', 'Kusulórdafylki'),
+('KZ-47', 'is', 'Mangystáfylki'),
+('KZ-55', 'is', 'Pavlódarfylki'),
+('KZ-59', 'is', 'Norður-Kasakstanfylki'),
+('KZ-61', 'is', 'Suður-Kasakstanfylki'),
+('KZ-62', 'is', 'Ulytau oblysy'),
+('KZ-63', 'is', 'Austur-Kasakstanfylki'),
+('KZ-71', 'is', 'Astana'),
+('KZ-75', 'is', 'Almaty'),
+('KZ-79', 'is', 'Symkent');
+
+SET FOREIGN_KEY_CHECKS=1;

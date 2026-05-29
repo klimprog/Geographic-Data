@@ -1,0 +1,10 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(322318779, 4185959, 'dv', 'ލޯވަރ ޕްރިންސް ކުއާޓަރ އެވެ'),
+(322318856, 4185960, 'dv', 'ފިލިޕްސްބަރގް އެވެ'),
+(322318933, 4185961, 'dv', 'ލޯވަރ ޕްރިންސް ކުއާޓަރ އެވެ'),
+(322319241, 4185965, 'dv', 'ކޮލަބައޯއަން އެވެ');
+
+SET FOREIGN_KEY_CHECKS=1;

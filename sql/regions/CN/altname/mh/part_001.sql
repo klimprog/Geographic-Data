@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'mh', 'an hui'),
+('CN-BJ', 'mh', 'bei jing'),
+('CN-CQ', 'mh', 'chong qing shi'),
+('CN-FJ', 'mh', 'Fujian'),
+('CN-GD', 'mh', 'guang dong'),
+('CN-GS', 'mh', 'gan su'),
+('CN-GX', 'mh', 'guang xi'),
+('CN-GZ', 'mh', 'gui zhou'),
+('CN-HA', 'mh', 'he nan'),
+('CN-HB', 'mh', 'hu bei'),
+('CN-HE', 'mh', 'he bei'),
+('CN-HI', 'mh', 'hai nan'),
+('CN-HK', 'mh', 'Hong Kong SAR'),
+('CN-HL', 'mh', 'hei long jiang'),
+('CN-HN', 'mh', 'hu nan'),
+('CN-JL', 'mh', 'ji lin'),
+('CN-JS', 'mh', 'jiang su'),
+('CN-JX', 'mh', 'jiang xi'),
+('CN-LN', 'mh', 'liao ning'),
+('CN-MO', 'mh', 'Macao SAR'),
+('CN-NM', 'mh', 'Inner Mongolia Autonomous Region'),
+('CN-NX', 'mh', 'ning xia'),
+('CN-QH', 'mh', 'qing hai'),
+('CN-SC', 'mh', 'si chuan'),
+('CN-SD', 'mh', 'shan dong'),
+('CN-SH', 'mh', 'shang hai shi'),
+('CN-SN', 'mh', 'shan xi'),
+('CN-SX', 'mh', 'shan xi'),
+('CN-TJ', 'mh', 'tian jin'),
+('CN-TW', 'mh', 'Taiwan Sheng'),
+('CN-XJ', 'mh', 'xin jiang'),
+('CN-XZ', 'mh', 'Tibet Autonomous Region'),
+('CN-YN', 'mh', 'yun nan'),
+('CN-ZJ', 'mh', 'zhe jiang');
+
+SET FOREIGN_KEY_CHECKS=1;

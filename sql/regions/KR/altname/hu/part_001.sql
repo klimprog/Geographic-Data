@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KR-11', 'hu', 'Szöul'),
+('KR-26', 'hu', 'Puszan'),
+('KR-27', 'hu', 'Tegu'),
+('KR-28', 'hu', 'Incshon'),
+('KR-29', 'hu', 'Kvangdzsu'),
+('KR-30', 'hu', 'Tedzson'),
+('KR-31', 'hu', 'Ulszan'),
+('KR-41', 'hu', 'Kjonggi'),
+('KR-42', 'hu', 'Kangvon'),
+('KR-43', 'hu', 'Észak-Cshungcshong'),
+('KR-44', 'hu', 'Dél-Cshungcshong'),
+('KR-45', 'hu', 'Észak-Csolla'),
+('KR-46', 'hu', 'Dél-Csolla'),
+('KR-47', 'hu', 'Észak-Kjongszang'),
+('KR-48', 'hu', 'Dél-Kjongszang'),
+('KR-49', 'hu', 'Csedzsu'),
+('KR-50', 'hu', 'Szedzsong (település)');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PW-002', 'sm', 'Aimeliik'),
+('PW-004', 'sm', 'Airai'),
+('PW-010', 'sm', 'Angaur'),
+('PW-050', 'sm', 'Hatohobei'),
+('PW-100', 'sm', 'Kayangel'),
+('PW-150', 'sm', 'Koror'),
+('PW-212', 'sm', 'Melekeok'),
+('PW-214', 'sm', 'Ngaraard'),
+('PW-218', 'sm', 'Ngarchelong'),
+('PW-222', 'sm', 'Ngardmau'),
+('PW-224', 'sm', 'Ngatpang'),
+('PW-226', 'sm', 'Ngchesar'),
+('PW-227', 'sm', 'Ngeremlengui'),
+('PW-228', 'sm', 'Ngiwal'),
+('PW-350', 'sm', 'Peleliu'),
+('PW-370', 'sm', 'Sonsorol');
+
+SET FOREIGN_KEY_CHECKS=1;

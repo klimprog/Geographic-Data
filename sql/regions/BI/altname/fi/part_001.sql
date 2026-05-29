@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BI-BB', 'fi', 'Bubanzan provinssi'),
+('BI-BL', 'fi', 'Bujumbura Rural'),
+('BI-BM', 'fi', 'Bujumbura Mairie'),
+('BI-BR', 'fi', 'Bururin provinssi'),
+('BI-CA', 'fi', 'Cankuzon provinssi'),
+('BI-CI', 'fi', 'Cibitoken provinssi'),
+('BI-GI', 'fi', 'Gitegan provinssi'),
+('BI-KI', 'fi', 'Kirundon provinssi'),
+('BI-KR', 'fi', 'Karuzin provinssi'),
+('BI-KY', 'fi', 'Kayanzan provinssi'),
+('BI-MA', 'fi', 'Makamban provinssi'),
+('BI-MU', 'fi', 'Muramvyan provinssi'),
+('BI-MW', 'fi', 'Mwaron provinssi'),
+('BI-MY', 'fi', 'Muyingan provinssi'),
+('BI-NG', 'fi', 'Ngozin provinssi'),
+('BI-RM', 'fi', 'Rumongen provinssi'),
+('BI-RT', 'fi', 'Rutanan provinssi'),
+('BI-RY', 'fi', 'Ruyigin provinssi');
+
+SET FOREIGN_KEY_CHECKS=1;

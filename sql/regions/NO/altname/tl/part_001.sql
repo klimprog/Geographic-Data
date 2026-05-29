@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NO-03', 'tl', 'Oslo County'),
+('NO-11', 'tl', 'Rogaland Fylke'),
+('NO-15', 'tl', 'More og Romsdal fylke'),
+('NO-18', 'tl', 'Nordland Fylke'),
+('NO-21', 'tl', 'Svalbard (Rehiyon ng Arctic)'),
+('NO-22', 'tl', 'Jan Mayen (Rehiyon ng Arctic)'),
+('NO-30', 'tl', 'Viken'),
+('NO-34', 'tl', 'Innlandet'),
+('NO-38', 'tl', 'Vestfold og Telemark'),
+('NO-42', 'tl', 'Agder'),
+('NO-46', 'tl', 'Vestland'),
+('NO-50', 'tl', 'Trondelag'),
+('NO-54', 'tl', 'Troms og Finnmark');
+
+SET FOREIGN_KEY_CHECKS=1;

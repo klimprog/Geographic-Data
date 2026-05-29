@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170026, 2885326, 'aa', 'shumaymat'),
+(222170103, 2885327, 'aa', 'Az Zawri'),
+(222170411, 2885331, 'aa', 'Hawaali'),
+(222170488, 2885332, 'aa', 'duaydat'),
+(222170642, 2885334, 'aa', 'dant'),
+(222170719, 2885335, 'aa', 'Az Zawri'),
+(222170950, 2885338, 'aa', 'Ar Rikkah'),
+(222171258, 2885342, 'aa', 'Al Wafrah'),
+(222171335, 2885343, 'aa', 'Al-Qudayliya.'),
+(222171720, 2885348, 'aa', 'Kuweet Magaala'),
+(222171874, 2885350, 'aa', 'aaljahraʾ'),
+(222172028, 2885352, 'aa', 'Al Funaytis'),
+(222172182, 2885354, 'aa', 'alfntas'),
+(222172259, 2885355, 'aa', 'Al farwaaniyah'),
+(222172336, 2885356, 'aa', 'aalbidaʿ'),
+(222172567, 2885359, 'aa', 'Al Acmadi'),
+(222172798, 2885362, 'aa', 'Ad Dibaay'),
+(222173106, 2885366, 'aa', 'aabraq khaytan'),
+(222173183, 2885367, 'aa', NULL),
+(222174338, 2885382, 'aa', NULL),
+(222174569, 2885385, 'aa', 'Mubaarak Al Kabiir'),
+(222174646, 2885386, 'aa', 'Al-Adan'),
+(222174723, 2885387, 'aa', 'mazaari al qabdali'),
+(222174800, 2885388, 'aa', 'Al-Masayel'),
+(222174877, 2885389, 'aa', 'Abu Fatira'),
+(222174954, 2885390, 'aa', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'az', 'Novoannen rayonu'),
+('MD-BA', 'az', 'Belsı'),
+('MD-BD', 'az', 'Bender şəhər dairəsi'),
+('MD-BR', 'az', 'Briçan rayonu'),
+('MD-BS', 'az', 'Basarabeasca'),
+('MD-CA', 'az', 'Cahul'),
+('MD-CL', 'az', 'Rayonul Calarasi'),
+('MD-CM', 'az', 'Cimişlia'),
+('MD-CR', 'az', 'Kriuleni'),
+('MD-CS', 'az', 'Kauşanski rayonu'),
+('MD-CT', 'az', 'Kantemir rayonu'),
+('MD-CU', 'az', 'Kişinev şəhər'),
+('MD-DO', 'az', 'Dondüşan rayonu'),
+('MD-DR', 'az', 'Drokiya'),
+('MD-DU', 'az', 'Dubasari rayonu'),
+('MD-ED', 'az', 'Edinet rayonu'),
+('MD-FA', 'az', 'Faleşt rayonu'),
+('MD-FL', 'az', 'Floresti'),
+('MD-GA', 'az', 'Qaqauziya'),
+('MD-GL', 'az', 'Glodeni'),
+('MD-HI', 'az', 'Hinçesti rayonu'),
+('MD-IA', 'az', 'Yalovenni'),
+('MD-LE', 'az', 'Leova'),
+('MD-NI', 'az', 'Nisporeni'),
+('MD-OC', 'az', 'Oknitsa rayonu'),
+('MD-OR', 'az', 'Orhey'),
+('MD-RE', 'az', 'Rezina'),
+('MD-RI', 'az', 'Riskani'),
+('MD-SD', 'az', 'Soldanesti'),
+('MD-SI', 'az', 'Sincierey'),
+('MD-SN', 'az', 'Transnistiya'),
+('MD-SO', 'az', 'Soroka rayonu'),
+('MD-ST', 'az', 'Strasheni'),
+('MD-SV', 'az', 'Stefan-Voda'),
+('MD-TA', 'az', 'Taraqlı'),
+('MD-TE', 'az', 'Teleneşti'),
+('MD-UN', 'az', 'Unqeni');
+
+SET FOREIGN_KEY_CHECKS=1;

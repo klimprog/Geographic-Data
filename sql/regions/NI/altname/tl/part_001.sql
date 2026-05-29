@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NI-AN', 'tl', 'Hilagang Caribbean Coast'),
+('NI-AS', 'tl', 'South Caribbean Coast'),
+('NI-BO', 'tl', 'Departamento de Boaco'),
+('NI-CA', 'tl', 'Departamento ng Carazo'),
+('NI-CI', 'tl', 'Departamento ng Chinandega'),
+('NI-CO', 'tl', 'Departamento ng Chontales'),
+('NI-ES', 'tl', 'Departamento ng Esteli'),
+('NI-GR', 'tl', 'Departamento ng Granada'),
+('NI-JI', 'tl', 'Departamento ng Jinotega'),
+('NI-LE', 'tl', 'Departamento de Leon'),
+('NI-MD', 'tl', 'Departamento ng Madriz'),
+('NI-MN', 'tl', 'Departamento ng Managua'),
+('NI-MS', 'tl', 'Departamento ng Masaya'),
+('NI-MT', 'tl', 'Departamento ng Matagalpa'),
+('NI-NS', 'tl', 'Departamento ng Nueva Segovia'),
+('NI-RI', 'tl', 'Departamento de Rivas'),
+('NI-SJ', 'tl', 'Departamento ng Rio San Juan');
+
+SET FOREIGN_KEY_CHECKS=1;

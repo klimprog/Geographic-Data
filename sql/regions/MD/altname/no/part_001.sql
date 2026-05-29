@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'no', 'Anenii Noi (distrikt)'),
+('MD-BA', 'no', 'Bălți'),
+('MD-BD', 'no', 'Municipiul Bender'),
+('MD-BR', 'no', 'Briceni (distrikt)'),
+('MD-BS', 'no', 'Basarabeasca (distrikt)'),
+('MD-CA', 'no', 'Cahul (distrikt)'),
+('MD-CL', 'no', 'Călărași (distrikt)'),
+('MD-CM', 'no', 'Cimișlia (distrikt)'),
+('MD-CR', 'no', 'Criuleni (distrikt)'),
+('MD-CS', 'no', 'Căușeni (distrikt)'),
+('MD-CT', 'no', 'Cantemir (distrikt)'),
+('MD-CU', 'no', 'Municipiul Chisinau'),
+('MD-DO', 'no', 'Dondușeni (distrikt)'),
+('MD-DR', 'no', 'Drochia (distrikt)'),
+('MD-DU', 'no', 'Dubășari (distrikt)'),
+('MD-ED', 'no', 'Edineț (distrikt)'),
+('MD-FA', 'no', 'Fălești (distrikt)'),
+('MD-FL', 'no', 'Florești (distrikt)'),
+('MD-GA', 'no', 'Gagaus'),
+('MD-GL', 'no', 'Glodeni (distrikt)'),
+('MD-HI', 'no', 'Hîncești (distrikt)'),
+('MD-IA', 'no', 'Ialoveni (distrikt)'),
+('MD-LE', 'no', 'Leova (distrikt)'),
+('MD-NI', 'no', 'Nisporeni (distrikt)'),
+('MD-OC', 'no', 'Ocnița (distrikt)'),
+('MD-OR', 'no', 'Orhei (distrikt)'),
+('MD-RE', 'no', 'Rezina (distrikt)'),
+('MD-RI', 'no', 'Rîșcani (distrikt)'),
+('MD-SD', 'no', 'Șoldănești (distrikt)'),
+('MD-SI', 'no', 'Sîngerei (distrikt)'),
+('MD-SN', 'no', 'Administrative-territoriale enheter på venstre bredd av Dnestr'),
+('MD-SO', 'no', 'Soroca (distrikt)'),
+('MD-ST', 'no', 'Strășeni (distrikt)'),
+('MD-SV', 'no', 'Ștefan Vodă (distrikt)'),
+('MD-TA', 'no', 'Taraclia (distrikt)'),
+('MD-TE', 'no', 'Telenești (distrikt)'),
+('MD-UN', 'no', 'Ungheni (distrikt)');
+
+SET FOREIGN_KEY_CHECKS=1;

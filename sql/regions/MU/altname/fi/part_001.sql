@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MU-AG', 'fi', 'Agaléga'),
+('MU-BL', 'fi', 'Rivière Noiren kaupunginosa'),
+('MU-CC', 'fi', 'Cargados Carajos'),
+('MU-FL', 'fi', 'Flacqin kaupunginosa'),
+('MU-GP', 'fi', 'Grand Portin kaupunginosa'),
+('MU-MO', 'fi', 'Moka'),
+('MU-PA', 'fi', 'Pamplemoussesin kaupunginosa'),
+('MU-PL', 'fi', 'Port Louis District'),
+('MU-PW', 'fi', 'Plaines Wilhemsin kaupunginosa'),
+('MU-RO', 'fi', 'Rodrigues'),
+('MU-RR', 'fi', 'Rivière du Rempartin kaupunginosa'),
+('MU-SA', 'fi', 'Savannen kaupunginosa');
+
+SET FOREIGN_KEY_CHECKS=1;

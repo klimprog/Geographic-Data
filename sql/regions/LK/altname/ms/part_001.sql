@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'ms', 'Wilayah Barat'),
+('LK-11', 'ms', 'Colombo'),
+('LK-12', 'ms', 'Gampaha'),
+('LK-13', 'ms', 'Kalutara'),
+('LK-2', 'ms', 'Wilayah Pusat'),
+('LK-21', 'ms', 'Kandy'),
+('LK-22', 'ms', 'Matale'),
+('LK-23', 'ms', 'Nuwara Eliya'),
+('LK-3', 'ms', 'Wilayah Selatan'),
+('LK-31', 'ms', 'Galle'),
+('LK-32', 'ms', 'Matara'),
+('LK-33', 'ms', 'Hambantota'),
+('LK-4', 'ms', 'Wilayah Utara'),
+('LK-41', 'ms', 'Jaffna'),
+('LK-42', 'ms', 'Kilinochchi'),
+('LK-43', 'ms', 'Mannar'),
+('LK-44', 'ms', 'Vavuniya'),
+('LK-45', 'ms', 'Mullaittivu'),
+('LK-5', 'ms', 'Wilayah Timur'),
+('LK-51', 'ms', 'Batticaloa'),
+('LK-52', 'ms', 'Ampara'),
+('LK-53', 'ms', 'Trincomalee'),
+('LK-6', 'ms', 'Wilayah Barat Laut'),
+('LK-61', 'ms', 'Kurunegala'),
+('LK-62', 'ms', 'Puttalam'),
+('LK-7', 'ms', 'Wilayah Pusat Utara'),
+('LK-71', 'ms', 'Anuradhapura'),
+('LK-72', 'ms', 'Polonnaruwa'),
+('LK-8', 'ms', 'Wilayah Uva'),
+('LK-81', 'ms', 'Badulla'),
+('LK-82', 'ms', 'Monaragala'),
+('LK-9', 'ms', 'Wilayah Sabaragamuwa'),
+('LK-91', 'ms', 'Ratnapura'),
+('LK-92', 'ms', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

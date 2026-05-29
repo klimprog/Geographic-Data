@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PE-AMA', 'la', 'Regio Amazonum'),
+('PE-ANC', 'la', 'Regio Ancashensis'),
+('PE-APU', 'la', 'Regio Apurimacensis'),
+('PE-ARE', 'la', 'Regio Arequipensis'),
+('PE-AYA', 'la', 'Regio Aiacuchensis'),
+('PE-CAJ', 'la', 'Regio Caiamarcensis'),
+('PE-CAL', 'la', 'Provincia Callaënsis'),
+('PE-CUS', 'la', 'Regio Cuscensis'),
+('PE-HUC', 'la', 'Regio Huanucensis'),
+('PE-HUV', 'la', 'Regio Huancavelicensis'),
+('PE-ICA', 'la', 'Regio Icensis'),
+('PE-JUN', 'la', 'Regio Iuninensis'),
+('PE-LAL', 'la', 'Regio Libertatis'),
+('PE-LAM', 'la', 'Regio Lambayequensis'),
+('PE-LIM', 'la', 'Regio Limensis'),
+('PE-LMA', 'la', 'Provincia de Lima'),
+('PE-LOR', 'la', 'Regio Laureti'),
+('PE-MDD', 'la', 'Regio Fluminis Matris Dei'),
+('PE-MOQ', 'la', 'Regio Moqueguensis'),
+('PE-PAS', 'la', 'Regio Pascensis'),
+('PE-PIU', 'la', 'Regio Piurensis'),
+('PE-PUN', 'la', 'Regio Punensis'),
+('PE-SAM', 'la', 'Regio Sancti Martini'),
+('PE-TAC', 'la', 'Regio Tacnensis'),
+('PE-TUM', 'la', 'Regio Tumbensis'),
+('PE-UCA', 'la', 'Regio Ucaialensis');
+
+SET FOREIGN_KEY_CHECKS=1;

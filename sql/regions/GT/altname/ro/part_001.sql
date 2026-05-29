@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GT-01', 'ro', 'Departamentul de Guatemala'),
+('GT-02', 'ro', 'Departamento de El Progreso'),
+('GT-03', 'ro', 'Departamentul Sacatepequez'),
+('GT-04', 'ro', 'Departamentul Chimaltenango'),
+('GT-05', 'ro', 'Departamentul de Escuintla'),
+('GT-06', 'ro', 'Departamentul Santa Rosa'),
+('GT-07', 'ro', 'Departamento de Solola'),
+('GT-08', 'ro', 'Totonicapan'),
+('GT-09', 'ro', 'Departamento de Quetzaltenango'),
+('GT-10', 'ro', 'Suchitepequez'),
+('GT-11', 'ro', 'Departamentul de Retalhuleu'),
+('GT-12', 'ro', 'Departamentul de San Marcos'),
+('GT-13', 'ro', 'Departamentul de Huehuetenango'),
+('GT-14', 'ro', 'Departamento del Quiche'),
+('GT-15', 'ro', 'Departamentul de Baja Verapaz'),
+('GT-16', 'ro', 'Departamentul de Alta Verapaz'),
+('GT-17', 'ro', 'Departamento del Peten'),
+('GT-18', 'ro', 'Departamento de Izabal'),
+('GT-19', 'ro', 'Departamento de Zacapa'),
+('GT-20', 'ro', 'Departamento de Chiquimula'),
+('GT-21', 'ro', 'Jalapa'),
+('GT-22', 'ro', 'Departamentul de Jutiapa');
+
+SET FOREIGN_KEY_CHECKS=1;

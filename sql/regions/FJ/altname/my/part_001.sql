@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('FJ-01', 'my', NULL),
+('FJ-02', 'my', 'ဘူ'),
+('FJ-03', 'my', 'ကာကာဒရော့ဗ်'),
+('FJ-04', 'my', 'ကဒါဗူ'),
+('FJ-05', 'my', NULL),
+('FJ-06', 'my', 'လိုမာဗီတီ'),
+('FJ-07', 'my', 'မကွာတာ'),
+('FJ-08', 'my', 'နာဒိုဂိုနှင့်နာဗိုဆာ'),
+('FJ-09', 'my', 'နိုင်တာစီရီ'),
+('FJ-10', 'my', 'နာမိုစီ'),
+('FJ-11', 'my', NULL),
+('FJ-12', 'my', 'ရေဝ'),
+('FJ-13', 'my', NULL),
+('FJ-14', 'my', 'တာလေဗူ'),
+('FJ-C', 'my', 'ဗဟိုဌာနခွဲ'),
+('FJ-E', 'my', 'အရှေ့ပိုင်းဌာန'),
+('FJ-N', 'my', 'မြောက်ပိုင်းတိုင်း'),
+('FJ-R', 'my', 'ရိုတိုမာ'),
+('FJ-W', 'my', 'အနောက်ပိုင်းဌာန');
+
+SET FOREIGN_KEY_CHECKS=1;

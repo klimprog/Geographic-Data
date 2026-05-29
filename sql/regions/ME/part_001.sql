@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('ME-01', 'ME', 'Andrijevica', 'Андријевица', 3017650, 5071, 'UTC+1', 'Europe/Podgorica'),
+('ME-02', 'ME', 'Bar', 'Бар', 3017641, 40037, 'UTC+1', 'Europe/Podgorica'),
+('ME-03', 'ME', 'Berane', 'Беране', 3017458, NULL, 'UTC+1', 'Europe/Podgorica'),
+('ME-04', 'ME', 'Bijelo Polje', 'Бијело Поље', 3017624, 15883, 'UTC+1', 'Europe/Podgorica'),
+('ME-05', 'ME', 'Budva', 'Будва', 3017582, NULL, 'UTC+1', 'Europe/Podgorica'),
+('ME-06', 'ME', 'Cetinje', 'Цетиње', 3017573, 18482, 'UTC+1', 'Europe/Podgorica'),
+('ME-07', 'ME', 'Danilovgrad', 'Даниловград', 3017558, 5208, 'UTC+1', 'Europe/Podgorica'),
+('ME-08', 'ME', 'Herceg Novi', 'Херцег Нови', 3017460, 30864, 'UTC+1', 'Europe/Podgorica'),
+('ME-09', 'ME', 'Opstina Kolasin', 'Колашин', 3017434, 2989, 'UTC+1', 'Europe/Podgorica'),
+('ME-10', 'ME', 'Kotor', 'Котор', 3017420, 22601, 'UTC+1', 'Europe/Podgorica'),
+('ME-11', 'ME', 'Mojkovac', 'Мојковац', 3017338, 4120, 'UTC+1', 'Europe/Podgorica'),
+('ME-12', 'ME', 'Opstina Niksic', 'Никшић', 3017319, 56970, 'UTC+1', 'Europe/Podgorica'),
+('ME-13', 'ME', 'Opstina Plav', 'Плав', 3017278, 13108, 'UTC+1', 'Europe/Podgorica'),
+('ME-14', 'ME', 'Pljevlja', 'Пљевља', 3017277, 19489, 'UTC+1', 'Europe/Podgorica'),
+('ME-15', 'ME', 'Opstina Pluzine', 'Плужине', 3017276, 4295, 'UTC+1', 'Europe/Podgorica'),
+('ME-16', 'ME', 'Podgorica', 'Подгорица', NULL, 185937, 'UTC+1', 'Europe/Podgorica'),
+('ME-17', 'ME', 'Opstina Rozaje', 'Рожаје', 3016983, 23312, 'UTC+1', 'Europe/Podgorica'),
+('ME-18', 'ME', 'Opstina Savnik', 'Шавник', 3017203, 2947, 'UTC+1', 'Europe/Podgorica'),
+('ME-19', 'ME', 'Tivat', 'Тиват', 3017147, 10149, 'UTC+1', 'Europe/Podgorica'),
+('ME-20', 'ME', 'Ulcinj', 'Улцињ', 3017119, 19921, 'UTC+1', 'Europe/Podgorica'),
+('ME-21', 'ME', 'Opstina Zabljak', 'Жабљак', 3017080, NULL, 'UTC+1', 'Europe/Podgorica'),
+('ME-22', 'ME', 'Gusinje', 'Гусиње', 3017463, NULL, 'UTC+1', 'Europe/Podgorica'),
+('ME-23', 'ME', 'Petnjica', 'Петњица', 3017805, NULL, 'UTC+1', 'Europe/Podgorica'),
+('ME-24', 'ME', 'Tuzi', 'Тузи', 3017128, NULL, 'UTC+1', 'Europe/Podgorica'),
+('ME-25', 'ME', 'Zeta', NULL, 3017498, NULL, 'UTC+1', 'Europe/Podgorica');
+
+SET FOREIGN_KEY_CHECKS=1;

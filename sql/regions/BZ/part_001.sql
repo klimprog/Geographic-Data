@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('BZ-BZ', 'BZ', 'Belize District', 'Belize District', 321556, 89247, 'UTC-6', 'America/Belize'),
+('BZ-CY', 'BZ', 'Cayo District', 'Cayo District', NULL, 66565, 'UTC-6', 'America/Belize, America/Guatemala'),
+('BZ-CZL', 'BZ', 'Corozal District', 'Corozal District', 321479, 35417, 'UTC-6', 'America/Belize'),
+('BZ-OW', 'BZ', 'Orange Walk District', 'Orange Walk District', 321336, 45419, 'UTC-6', 'America/Belize'),
+('BZ-SC', 'BZ', 'Stann Creek District', 'Southern District', 321459, 29882, 'UTC-6', 'America/Belize'),
+('BZ-TOL', 'BZ', 'Toledo District', 'Toledo District', 321313, 27598, 'UTC-6', 'America/Belize');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'bs', 'Vinička oblast'),
+('UA-07', 'bs', 'Volinjska oblast'),
+('UA-09', 'bs', 'Luganska oblast'),
+('UA-12', 'bs', 'Dnjipropetrovska oblast'),
+('UA-14', 'bs', 'Donjecka oblast'),
+('UA-18', 'bs', 'Žitomirska oblast'),
+('UA-21', 'bs', 'Zakarpatska oblast'),
+('UA-23', 'bs', 'Zaporiška oblast'),
+('UA-26', 'bs', 'Ivano-Frankivska oblast'),
+('UA-30', 'bs', 'Misto Kyiv'),
+('UA-32', 'bs', 'Kijevska oblast'),
+('UA-35', 'bs', 'Kirovogradska oblast'),
+('UA-40', 'bs', 'Sebastopol City'),
+('UA-43', 'bs', 'Autonomna Republika Krim'),
+('UA-46', 'bs', 'Lavovska oblast'),
+('UA-48', 'bs', 'Mikolajivska oblast'),
+('UA-51', 'bs', 'Odeska oblast'),
+('UA-53', 'bs', 'Poltavska oblast'),
+('UA-56', 'bs', 'Rivanjska oblast'),
+('UA-59', 'bs', 'Sumska oblast'),
+('UA-61', 'bs', 'Ternopiljska oblast'),
+('UA-63', 'bs', 'Harkivska oblast'),
+('UA-65', 'bs', 'Hersonska oblast'),
+('UA-68', 'bs', 'Hmeljnička oblast'),
+('UA-71', 'bs', 'Čerkaška oblast'),
+('UA-74', 'bs', 'Černigivska oblast'),
+('UA-77', 'bs', 'Černjivačka oblast');
+
+SET FOREIGN_KEY_CHECKS=1;

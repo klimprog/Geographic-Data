@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'az', 'Mərkəzi Darfuru'),
+('SD-DE', 'az', 'Şərq Darfuru'),
+('SD-DN', 'az', 'Şimali Darfur'),
+('SD-DS', 'az', 'Cənubi Darfur'),
+('SD-DW', 'az', 'Qərb Darfuru'),
+('SD-GD', 'az', 'Al-Qadarif'),
+('SD-GK', 'az', 'Qərb Kordofan Dövləti'),
+('SD-GZ', 'az', 'Al-Jazirah'),
+('SD-KA', 'az', 'Kassala'),
+('SD-KH', 'az', 'Xartum'),
+('SD-KN', 'az', 'Şimal Kordofanı'),
+('SD-KS', 'az', 'Cənub Kordofanı'),
+('SD-NB', 'az', 'Mavi Nil'),
+('SD-NO', 'az', 'Şimal Dövləti'),
+('SD-NR', 'az', 'Nil vilayəti'),
+('SD-NW', 'az', 'Ağ Nil'),
+('SD-RS', 'az', 'Qırmızı Dəniz'),
+('SD-SI', 'az', 'Sinnar');
+
+SET FOREIGN_KEY_CHECKS=1;

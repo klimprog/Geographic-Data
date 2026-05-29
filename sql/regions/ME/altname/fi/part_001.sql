@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ME-01', 'fi', 'Andrijevican kunta'),
+('ME-02', 'fi', 'Barin kunta'),
+('ME-03', 'fi', 'Beranen kunta'),
+('ME-04', 'fi', 'Bijelo Poljen kunta'),
+('ME-05', 'fi', 'Budvan kunta'),
+('ME-06', 'fi', 'Cetinjen kunta'),
+('ME-07', 'fi', 'Danilovgradin kunta'),
+('ME-08', 'fi', 'Herceg Novin kunta'),
+('ME-09', 'fi', 'Kolašinin kunta'),
+('ME-10', 'fi', 'Kotor'),
+('ME-11', 'fi', 'Mojkovacin kunta'),
+('ME-12', 'fi', 'Nikšićn kunta'),
+('ME-13', 'fi', 'Plavin kunta'),
+('ME-14', 'fi', 'Pljevljan kunta'),
+('ME-15', 'fi', 'Plužinen kunta'),
+('ME-16', 'fi', 'Podgorica'),
+('ME-17', 'fi', 'Rozaje'),
+('ME-18', 'fi', 'Šavnikin kunta'),
+('ME-19', 'fi', 'Tivat'),
+('ME-20', 'fi', 'Ulcinjin kunta'),
+('ME-21', 'fi', 'Žabljakin kunta'),
+('ME-22', 'fi', 'Gusine'),
+('ME-23', 'fi', 'Petnica'),
+('ME-24', 'fi', 'Tuzi'),
+('ME-25', 'fi', 'Zeta');
+
+SET FOREIGN_KEY_CHECKS=1;

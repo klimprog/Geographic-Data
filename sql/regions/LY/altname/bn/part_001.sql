@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LY-BA', 'bn', 'বেনগাজি'),
+('LY-BU', 'bn', 'আল বুতনান'),
+('LY-DR', 'bn', 'দারনাহ'),
+('LY-GT', 'bn', 'ঘাট'),
+('LY-JA', 'bn', 'আল জাবাল আল আখদার'),
+('LY-JG', 'bn', 'জাবাল আল ঘারবি'),
+('LY-JI', 'bn', 'আল জাফারা'),
+('LY-JU', 'bn', 'আল জুফরা'),
+('LY-KF', 'bn', 'কুফ্রা জেলা'),
+('LY-MB', 'bn', 'আল মারকাব'),
+('LY-MI', 'bn', 'মিসরাতাহ'),
+('LY-MJ', 'bn', 'আল মার্জ'),
+('LY-MQ', 'bn', 'মারজুক জেলা'),
+('LY-NL', 'bn', 'নালুত'),
+('LY-NQ', 'bn', 'আন নুকাত আল খামস'),
+('LY-SB', 'bn', 'সাবা জেলা'),
+('LY-SR', 'bn', 'সুরত'),
+('LY-TB', 'bn', 'ত্রিপলি'),
+('LY-WA', 'bn', 'আল ওয়াহাট'),
+('LY-WD', 'bn', 'ওয়াদি আল হায়াত'),
+('LY-WS', 'bn', 'ওয়াদি আশ শাতি'),
+('LY-ZA', 'bn', 'আজ জাউইয়াহ');
+
+SET FOREIGN_KEY_CHECKS=1;

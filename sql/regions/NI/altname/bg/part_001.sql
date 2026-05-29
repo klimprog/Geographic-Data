@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NI-AN', 'bg', 'Северно карибско крайбрежие'),
+('NI-AS', 'bg', 'Южно карибско крайбрежие'),
+('NI-BO', 'bg', 'Боако'),
+('NI-CA', 'bg', 'Карасо'),
+('NI-CI', 'bg', 'Чинандега'),
+('NI-CO', 'bg', 'Чонталес'),
+('NI-ES', 'bg', 'Естели'),
+('NI-GR', 'bg', 'Гранада'),
+('NI-JI', 'bg', 'Хинотега'),
+('NI-LE', 'bg', 'Леон'),
+('NI-MD', 'bg', 'Мадрис'),
+('NI-MN', 'bg', 'Департамент Манагуа'),
+('NI-MS', 'bg', 'Масая'),
+('NI-MT', 'bg', 'Матагалпа'),
+('NI-NS', 'bg', 'Нуева Сеговия'),
+('NI-RI', 'bg', 'Ривас'),
+('NI-SJ', 'bg', 'Рио Сан Хуан');
+
+SET FOREIGN_KEY_CHECKS=1;

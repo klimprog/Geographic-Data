@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'et', 'Bengo provints'),
+('AO-BGU', 'et', 'Benguela provints'),
+('AO-BIE', 'et', 'Bié provints'),
+('AO-CAB', 'et', 'Cabinda provints'),
+('AO-CCU', 'et', 'Kuando Kubango provints'),
+('AO-CNN', 'et', 'Cunene provints'),
+('AO-CNO', 'et', 'Põhja-Kwanza provints'),
+('AO-CUS', 'et', 'Lõuna-Kwanza provints'),
+('AO-HUA', 'et', 'Huambo provints'),
+('AO-HUI', 'et', 'Huíla provints'),
+('AO-LNO', 'et', 'Põhja-Lunda provints'),
+('AO-LSU', 'et', 'Lõuna-Lunda provints'),
+('AO-LUA', 'et', 'Luanda provints'),
+('AO-MAL', 'et', 'Malanje provints'),
+('AO-MOX', 'et', 'Moxico provints'),
+('AO-NAM', 'et', 'Namibe provints'),
+('AO-UIG', 'et', 'Uíge provints'),
+('AO-ZAI', 'et', 'Zaire provints');
+
+SET FOREIGN_KEY_CHECKS=1;

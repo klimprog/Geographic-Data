@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CG-11', 'da', 'Bouenza Department'),
+('CG-12', 'da', 'Pool Department'),
+('CG-13', 'da', 'Sangha Department'),
+('CG-14', 'da', 'Plateaux Department'),
+('CG-15', 'da', 'Cuvette-Ouest Department'),
+('CG-16', 'da', 'Pointe-Noire'),
+('CG-2', 'da', 'Lekoumou Department'),
+('CG-5', 'da', 'Kouilou Department'),
+('CG-7', 'da', 'Likouala Department'),
+('CG-8', 'da', 'Cuvette Department'),
+('CG-9', 'da', 'Niari Department'),
+('CG-BZV', 'da', 'Brazzaville');
+
+SET FOREIGN_KEY_CHECKS=1;

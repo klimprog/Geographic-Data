@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'da', 'Alexandria'),
+('EG-ASN', 'da', 'Aswan'),
+('EG-AST', 'da', 'Asyut'),
+('EG-BA', 'da', 'Al-Bahr al-Ahmar'),
+('EG-BH', 'da', 'Al Buhayrah'),
+('EG-BNS', 'da', 'Bani Suwayf'),
+('EG-C', 'da', 'Al Qahirah'),
+('EG-DK', 'da', 'Ad Daqahliyah'),
+('EG-DT', 'da', 'Dumyat'),
+('EG-FYM', 'da', 'Al Fayyum'),
+('EG-GH', 'da', 'Al Gharbiyah'),
+('EG-GZ', 'da', 'Al Jizah'),
+('EG-IS', 'da', 'Al Isma''iliyah'),
+('EG-JS', 'da', 'Janub Sina'''),
+('EG-KB', 'da', 'Al Qalyubiyah'),
+('EG-KFS', 'da', 'Kafr ash Shaykh'),
+('EG-KN', 'da', 'Qina'),
+('EG-LX', 'da', 'Luxor'),
+('EG-MN', 'da', 'Al Minya'),
+('EG-MNF', 'da', 'Al Minufiyah'),
+('EG-MT', 'da', 'Matruh'),
+('EG-PTS', 'da', 'Bur Sa''id'),
+('EG-SHG', 'da', 'Sohag Governorate'),
+('EG-SHR', 'da', 'Ash Sharqiyah'),
+('EG-SIN', 'da', 'Shamal Sina'''),
+('EG-SUZ', 'da', 'Suez Governorate'),
+('EG-WAD', 'da', 'New Valley Governorate');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SN-DB', 'bn', 'ডিউরেবেল অঞ্চল'),
+('SN-DK', 'bn', 'ডাকার'),
+('SN-FK', 'bn', 'ফ্যাটিক'),
+('SN-KA', 'bn', 'ক্যাফ্রিন'),
+('SN-KD', 'bn', 'কোডলা'),
+('SN-KE', 'bn', 'কেদুগু'),
+('SN-KL', 'bn', 'কাওলাক'),
+('SN-LG', 'bn', 'লুগা'),
+('SN-MT', 'bn', 'মাতাম'),
+('SN-SE', 'bn', 'সেধিউ'),
+('SN-SL', 'bn', 'সেন্ট লুইস'),
+('SN-TC', 'bn', 'তাম্বাকুন্ডা অঞ্চল'),
+('SN-TH', 'bn', 'থিস'),
+('SN-ZG', 'bn', 'জিগুইনকা');
+
+SET FOREIGN_KEY_CHECKS=1;

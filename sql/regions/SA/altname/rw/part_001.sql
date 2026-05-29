@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SA-01', 'rw', 'Akarere ka Riyadh'),
+('SA-02', 'rw', 'Akarere ka Maka'),
+('SA-03', 'rw', 'Akarere ka Medina'),
+('SA-04', 'rw', 'Intara y''Iburasirazuba'),
+('SA-05', 'rw', 'Akarere ka Al-Qassim'),
+('SA-06', 'rw', 'Ha''il'),
+('SA-07', 'rw', 'Akarere ka Tabuk'),
+('SA-08', 'rw', NULL),
+('SA-09', 'rw', 'Akarere ka Jazan'),
+('SA-10', 'rw', 'njran'),
+('SA-11', 'rw', 'Akarere ka Al Bahah'),
+('SA-12', 'rw', 'aljwf'),
+('SA-14', 'rw', 'Akarere ka Asir');
+
+SET FOREIGN_KEY_CHECKS=1;

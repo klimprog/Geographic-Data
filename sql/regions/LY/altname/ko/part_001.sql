@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LY-BA', 'ko', '샤비야트 방가지'),
+('LY-BU', 'ko', '알부트난 주'),
+('LY-DR', 'ko', '다르나 주'),
+('LY-GT', 'ko', '가트주'),
+('LY-JA', 'ko', '알자발알아크다르 주'),
+('LY-JG', 'ko', '알자발알가르비 주'),
+('LY-JI', 'ko', '알즈파라 주'),
+('LY-JU', 'ko', '주프라 주'),
+('LY-KF', 'ko', '알쿠프라 주'),
+('LY-MB', 'ko', '알무르굽 주'),
+('LY-MI', 'ko', '미스라타주'),
+('LY-MJ', 'ko', '알마르즈 주'),
+('LY-MQ', 'ko', '무르주크주'),
+('LY-NL', 'ko', '날루트주'),
+('LY-NQ', 'ko', '안누카트알캄스 주'),
+('LY-SB', 'ko', '세바주'),
+('LY-SR', 'ko', '시르테주'),
+('LY-TB', 'ko', '타라불루스주'),
+('LY-WA', 'ko', '알와하트주'),
+('LY-WD', 'ko', '와디알하야주'),
+('LY-WS', 'ko', '와디알샤티주'),
+('LY-ZA', 'ko', '앗자위야 주');
+
+SET FOREIGN_KEY_CHECKS=1;

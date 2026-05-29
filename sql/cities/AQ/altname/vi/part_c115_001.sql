@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072143, 52885, 'vi', 'Villa Las Estrellas'),
+(4072220, 52886, 'vi', 'Trạm Davis'),
+(4072297, 52887, 'vi', 'Base General Bernardo O''Higgins Riquelme'),
+(4072374, 52888, 'vi', 'Showa Station'),
+(4072451, 52889, 'vi', 'Trạm Jang Bogo'),
+(4072528, 52890, 'vi', 'Trạm SANAE IV'),
+(4072605, 52891, 'vi', 'Ga Tần Lĩnh'),
+(4072682, 52892, 'vi', 'Ga Trung Sơn'),
+(4072759, 52893, 'vi', 'Ga Mawson'),
+(4072990, 52896, 'vi', 'Progress Station'),
+(4073221, 52899, 'vi', 'Ga Novolazarevskaya'),
+(4073375, 52901, 'vi', 'Trạm Mirny');
+
+SET FOREIGN_KEY_CHECKS=1;

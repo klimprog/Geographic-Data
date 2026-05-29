@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(315634803, 4099154, 'fr', 'Victoria'),
+(315634880, 4099155, 'fr', 'Takamaka'),
+(315634957, 4099156, 'fr', 'Port Glaud'),
+(315635034, 4099157, 'fr', 'Misère, Seychelles'),
+(315635265, 4099160, 'fr', 'La Réunion, Seychelles'),
+(315635342, 4099161, 'fr', 'De Quincey, Mahé'),
+(315635419, 4099162, 'fr', 'Cascade'),
+(315635496, 4099163, 'fr', 'Bel Ombre'),
+(315635573, 4099164, 'fr', 'Beau Vallon'),
+(315635727, 4099166, 'fr', 'Anse Royale'),
+(315635804, 4099167, 'fr', 'Anse Boileau'),
+(315635881, 4099168, 'fr', 'Baie Sainte Anne'),
+(315636035, 4099170, 'fr', 'Grand''Anse'),
+(315636112, 4099171, 'fr', 'Silhouette Island'),
+(315636189, 4099172, 'fr', 'Anse aux Pins'),
+(315636266, 4099173, 'fr', 'Quatre Bornes'),
+(315636343, 4099174, 'fr', 'Baie Lazare'),
+(315636574, 4099177, 'fr', 'La Passe'),
+(315636651, 4099178, 'fr', 'Ile au Cerf'),
+(315636805, 4099180, 'fr', 'Vista do Mar'),
+(315637036, 4099183, 'fr', 'Anse Lazio'),
+(315637421, 4099188, 'fr', 'Caïman'),
+(315637498, 4099189, 'fr', 'Île du Nord'),
+(315637575, 4099190, 'fr', 'Perseverance'),
+(315637652, 4099191, 'fr', 'La Rivière Anglaise'),
+(315637729, 4099192, 'fr', 'Desroches'),
+(315637883, 4099194, 'fr', 'Aldabra');
+
+SET FOREIGN_KEY_CHECKS=1;

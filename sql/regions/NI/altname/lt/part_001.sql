@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NI-AN', 'lt', 'Šiaurės Atlantiko autonominis regionas'),
+('NI-AS', 'lt', 'Pietų Atlantiko autonominis regionas'),
+('NI-BO', 'lt', 'Boako departamentas'),
+('NI-CA', 'lt', 'Karaso departamentas'),
+('NI-CI', 'lt', 'Činandegos departamentas'),
+('NI-CO', 'lt', 'Čontaleso departamentas'),
+('NI-ES', 'lt', 'Esteli departamentas'),
+('NI-GR', 'lt', 'Granados departamentas'),
+('NI-JI', 'lt', 'Chinotegos departamentas'),
+('NI-LE', 'lt', 'Leono departamentas'),
+('NI-MD', 'lt', 'Madriso departamentas'),
+('NI-MN', 'lt', 'Managvos departamentas'),
+('NI-MS', 'lt', 'Masajos departamentas'),
+('NI-MT', 'lt', 'Matagalpos departamentas'),
+('NI-NS', 'lt', 'Nueva Segovijos departamentas'),
+('NI-RI', 'lt', 'Rivaso departamentas'),
+('NI-SJ', 'lt', 'Rio San Chuano departamentas');
+
+SET FOREIGN_KEY_CHECKS=1;

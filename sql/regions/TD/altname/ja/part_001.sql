@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'ja', 'バタ州'),
+('TD-BG', 'ja', 'バルフ・エル・ガゼル'),
+('TD-BO', 'ja', 'ボルク州'),
+('TD-CB', 'ja', 'シャリ＝バギルミ州'),
+('TD-EE', 'ja', '東エネディ州'),
+('TD-EO', 'ja', '西エネディ州'),
+('TD-GR', 'ja', 'ゲラ州'),
+('TD-HL', 'ja', 'ハジェル＝ラミ州'),
+('TD-KA', 'ja', 'カネム州'),
+('TD-LC', 'ja', 'ラク州'),
+('TD-LO', 'ja', 'ロゴン・オクシデンタル州'),
+('TD-LR', 'ja', 'ロゴン・オリエンタル州'),
+('TD-MA', 'ja', 'マンドゥル州'),
+('TD-MC', 'ja', 'モワイヤン・シャリ州'),
+('TD-ME', 'ja', '東マヨ・ケッビ州'),
+('TD-MO', 'ja', '西マヨ・ケッビ州'),
+('TD-ND', 'ja', 'ンジャメナ'),
+('TD-OD', 'ja', 'ワダイ州'),
+('TD-SA', 'ja', 'サラマト州'),
+('TD-SI', 'ja', 'シラ州'),
+('TD-TA', 'ja', 'タンジレ州'),
+('TD-TI', 'ja', 'ティベスティ州'),
+('TD-WF', 'ja', 'ワジ・フィラ州');
+
+SET FOREIGN_KEY_CHECKS=1;

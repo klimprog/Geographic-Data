@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'sk', 'Alexandria'),
+('EG-ASN', 'sk', 'aswan'),
+('EG-AST', 'sk', 'Asjút'),
+('EG-BA', 'sk', 'Al-Bahr al-Ahmar'),
+('EG-BH', 'sk', 'Al-Buhajra'),
+('EG-BNS', 'sk', 'Muhafazat Bani Suwayf'),
+('EG-C', 'sk', 'Káhira'),
+('EG-DK', 'sk', 'Muhafazat ad Daqahliyah'),
+('EG-DT', 'sk', 'Guvernorát Damietta'),
+('EG-FYM', 'sk', 'Muhafazat al-Fayyum'),
+('EG-GH', 'sk', 'Muhafazat al-Gharbiyah'),
+('EG-GZ', 'sk', 'Muhafazat al Jizah'),
+('EG-IS', 'sk', 'Al-Ismá’ílíja'),
+('EG-JS', 'sk', 'Guvernorát Južný Sinaj'),
+('EG-KB', 'sk', 'Muhafazat al-Qalyubiyah'),
+('EG-KFS', 'sk', 'Kafr aš-Šajch'),
+('EG-KN', 'sk', 'Muhafazat Qina'),
+('EG-LX', 'sk', 'Luxor'),
+('EG-MN', 'sk', 'Muhafazat al Minya'),
+('EG-MNF', 'sk', 'Muhafazat al Minufiyah'),
+('EG-MT', 'sk', 'Muhafazat Matruh'),
+('EG-PTS', 'sk', 'Port Said'),
+('EG-SHG', 'sk', 'Sawhádž'),
+('EG-SHR', 'sk', 'Muhafazat ash Sharqiyah'),
+('EG-SIN', 'sk', 'Severný Sinaj'),
+('EG-SUZ', 'sk', 'Suez'),
+('EG-WAD', 'sk', 'Al-Wádí al-Džadíd');
+
+SET FOREIGN_KEY_CHECKS=1;

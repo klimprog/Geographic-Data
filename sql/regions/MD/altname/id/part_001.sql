@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'id', 'Raionul Anenii Noi'),
+('MD-BA', 'id', 'Bălţi'),
+('MD-BD', 'id', 'Bender'),
+('MD-BR', 'id', 'Raionul Briceni'),
+('MD-BS', 'id', 'Raionul Basarabeasca'),
+('MD-CA', 'id', 'Raionul Cahul'),
+('MD-CL', 'id', 'Raionul Călărași'),
+('MD-CM', 'id', 'Raionul Cimișlia'),
+('MD-CR', 'id', 'Raionul Criuleni'),
+('MD-CS', 'id', 'Raionul Căușeni'),
+('MD-CT', 'id', 'Raionul Cantemir'),
+('MD-CU', 'id', 'Municipiul Chisinau'),
+('MD-DO', 'id', 'Raionul Dondușeni'),
+('MD-DR', 'id', 'Raionul Drochia'),
+('MD-DU', 'id', 'Raionul Dubăsari'),
+('MD-ED', 'id', 'Raionul Edineț'),
+('MD-FA', 'id', 'Raionul Fălești'),
+('MD-FL', 'id', 'Raionul Florești'),
+('MD-GA', 'id', 'Gagauzia'),
+('MD-GL', 'id', 'Raionul Glodeni'),
+('MD-HI', 'id', 'Raionul Hîncești'),
+('MD-IA', 'id', 'Raionul Ialoveni'),
+('MD-LE', 'id', 'Raionul Leova'),
+('MD-NI', 'id', 'Raionul Nisporeni'),
+('MD-OC', 'id', 'Raionul Ocnița'),
+('MD-OR', 'id', 'Raionul Orhei'),
+('MD-RE', 'id', 'Raionul Rezina'),
+('MD-RI', 'id', 'Raionul Rîșcani'),
+('MD-SD', 'id', 'Raionul Șoldănești'),
+('MD-SI', 'id', 'Raionul Sîngerei'),
+('MD-SN', 'id', 'Unit Administratif-Teritorial Tepi Kiri Dniester'),
+('MD-SO', 'id', 'Raionul Soroca'),
+('MD-ST', 'id', 'Raionul Strășeni'),
+('MD-SV', 'id', 'Raionul Ștefan Vodă'),
+('MD-TA', 'id', 'Raionul Taraclia'),
+('MD-TE', 'id', 'Raionul Telenești'),
+('MD-UN', 'id', 'Raionul Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

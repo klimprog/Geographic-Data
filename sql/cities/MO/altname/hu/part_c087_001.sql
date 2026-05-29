@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(240024888, 3117207, 'hu', 'Makaó'),
+(240024965, 3117208, 'hu', 'Makaó'),
+(240025042, 3117209, 'hu', 'Lai Chi Van'),
+(240025119, 3117210, 'hu', 'hei sha'),
+(240025196, 3117211, 'hu', 'lu huan'),
+(240025273, 3117212, 'hu', 'zhuo jia cun'),
+(240025350, 3117213, 'hu', 'jiu ao'),
+(240025427, 3117214, 'hu', 'Cotai'),
+(240025504, 3117215, 'hu', 'Se');
+
+SET FOREIGN_KEY_CHECKS=1;

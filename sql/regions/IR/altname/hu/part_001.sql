@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'hu', 'Markazi tartomány'),
+('IR-01', 'hu', 'Gilán tartomány'),
+('IR-02', 'hu', 'Mázandarán tartomány'),
+('IR-03', 'hu', 'Kelet-Azerbajdzsán tartomány'),
+('IR-04', 'hu', 'Nyugat-Azerbajdzsán tartomány'),
+('IR-05', 'hu', 'Kermánsáh tartomány'),
+('IR-06', 'hu', 'Huzesztán tartomány'),
+('IR-07', 'hu', 'Fársz tartomány'),
+('IR-08', 'hu', 'Kermán tartomány'),
+('IR-09', 'hu', 'Razavi Horászán tartomány'),
+('IR-10', 'hu', 'Iszfahán tartomány'),
+('IR-11', 'hu', 'Szisztán és Beludzsisztán tartomány'),
+('IR-12', 'hu', 'Kurdisztán tartomány'),
+('IR-13', 'hu', 'Hamadán tartomány'),
+('IR-14', 'hu', 'Csahármahál és Bahtijári tartomány'),
+('IR-15', 'hu', 'Loresztán tartomány'),
+('IR-16', 'hu', 'Ilám tartomány'),
+('IR-17', 'hu', 'Kohgiluje és Bujer Ahmad tartomány'),
+('IR-18', 'hu', 'Busehr tartomány'),
+('IR-19', 'hu', 'Zandzsán tartomány'),
+('IR-20', 'hu', 'Szemnán tartomány'),
+('IR-21', 'hu', 'Jazd tartomány'),
+('IR-22', 'hu', 'Hormozgán tartomány'),
+('IR-23', 'hu', 'Teherán tartomány'),
+('IR-24', 'hu', 'Ardabil tartomány'),
+('IR-25', 'hu', 'Kom tartomány'),
+('IR-26', 'hu', 'Kazvin tartomány'),
+('IR-27', 'hu', 'Golesztán tartomány'),
+('IR-28', 'hu', 'Észak-Horászán tartomány'),
+('IR-29', 'hu', 'Dél-Horászán tartomány'),
+('IR-30', 'hu', 'Alborz tartomány');
+
+SET FOREIGN_KEY_CHECKS=1;

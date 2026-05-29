@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'ca', 'districte d''Anenii Noi'),
+('MD-BA', 'ca', 'Bălți'),
+('MD-BD', 'ca', 'Bender'),
+('MD-BR', 'ca', 'districte de Briceni'),
+('MD-BS', 'ca', 'districte de Basarabeasca'),
+('MD-CA', 'ca', 'Districte de Cahul'),
+('MD-CL', 'ca', 'districte de Călărași'),
+('MD-CM', 'ca', 'districte de Cimișlia'),
+('MD-CR', 'ca', 'districte de Criuleni'),
+('MD-CS', 'ca', 'districte de Căușeni'),
+('MD-CT', 'ca', 'districte de Cantemir'),
+('MD-CU', 'ca', 'Chisinau'),
+('MD-DO', 'ca', 'districte de Dondușeni'),
+('MD-DR', 'ca', 'districte de Drochia'),
+('MD-DU', 'ca', 'districte de Dubăsari'),
+('MD-ED', 'ca', 'Districte d''Edineț'),
+('MD-FA', 'ca', 'Districte de Falești'),
+('MD-FL', 'ca', 'districte de Florești'),
+('MD-GA', 'ca', 'Gagaúsia'),
+('MD-GL', 'ca', 'districte de Glodeni'),
+('MD-HI', 'ca', 'districte de Hîncești'),
+('MD-IA', 'ca', 'districte de Ialoveni'),
+('MD-LE', 'ca', 'districte de Leova'),
+('MD-NI', 'ca', 'districte de Nisporeni'),
+('MD-OC', 'ca', 'districte d''Ocnița'),
+('MD-OR', 'ca', 'Districte dOrhei'),
+('MD-RE', 'ca', 'districte de Rezina'),
+('MD-RI', 'ca', 'districte de Rîșcani'),
+('MD-SD', 'ca', 'Districte de Șoldănești'),
+('MD-SI', 'ca', 'districte de Sîngerei'),
+('MD-SN', 'ca', 'Unitats Administratives Territorials de la Ribera Esquerra del Dnièster'),
+('MD-SO', 'ca', 'districte de Soroca'),
+('MD-ST', 'ca', 'districte de Strășeni'),
+('MD-SV', 'ca', 'Districte de Ștefan Vodă'),
+('MD-TA', 'ca', 'districte de Taraclia'),
+('MD-TE', 'ca', 'districte de Telenești'),
+('MD-UN', 'ca', 'Districte dUngheni');
+
+SET FOREIGN_KEY_CHECKS=1;

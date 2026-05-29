@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MM-01', 'id', 'Region Sagaing'),
+('MM-02', 'id', 'Region Bago'),
+('MM-03', 'id', 'Region Magway'),
+('MM-04', 'id', 'Region Mandalay'),
+('MM-05', 'id', 'Region Tanintharyi'),
+('MM-06', 'id', 'Region Yangon'),
+('MM-07', 'id', 'Region Ayeyarwady'),
+('MM-11', 'id', 'Negara Bagian Kachin'),
+('MM-12', 'id', 'Negara Bagian Kayah'),
+('MM-13', 'id', 'Negara Bagian Kayin'),
+('MM-14', 'id', 'Negara Bagian Chin'),
+('MM-15', 'id', 'Mon State'),
+('MM-16', 'id', 'Negara Bagian Rakhine'),
+('MM-17', 'id', 'Negara Bagian Shan'),
+('MM-18', 'id', 'Naypyidaw Union Territory');
+
+SET FOREIGN_KEY_CHECKS=1;

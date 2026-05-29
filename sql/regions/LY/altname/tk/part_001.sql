@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LY-BA', 'tk', 'Şabiyat Banghazi'),
+('LY-BU', 'tk', 'Al Butnan'),
+('LY-DR', 'tk', 'Darnah'),
+('LY-GT', 'tk', 'ghat'),
+('LY-JA', 'tk', 'Al Jabal al Akhdar'),
+('LY-JG', 'tk', 'Jabal al Garbi etraby'),
+('LY-JI', 'tk', 'Al Jafarah'),
+('LY-JU', 'tk', 'Al Jufra'),
+('LY-KF', 'tk', 'Al Kufra'),
+('LY-MB', 'tk', 'Al Marqab'),
+('LY-MI', 'tk', 'Şabiyat Misratah'),
+('LY-MJ', 'tk', 'Al Marj'),
+('LY-MQ', 'tk', 'Murzuq'),
+('LY-NL', 'tk', 'Nalut'),
+('LY-NQ', 'tk', 'An Nuqat al Hams'),
+('LY-SB', 'tk', 'Sabha'),
+('LY-SR', 'tk', 'Surt'),
+('LY-TB', 'tk', 'Tripoli'),
+('LY-WA', 'tk', 'alwahat'),
+('LY-WD', 'tk', 'Wadi al Haýat'),
+('LY-WS', 'tk', 'Wadi aş Şati'''),
+('LY-ZA', 'tk', 'Az Zawiýa');
+
+SET FOREIGN_KEY_CHECKS=1;

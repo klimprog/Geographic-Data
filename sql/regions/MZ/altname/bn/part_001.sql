@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MZ-A', 'bn', 'নিয়াসসা প্রদেশ'),
+('MZ-B', 'bn', 'মনিকা প্রদেশ'),
+('MZ-G', 'bn', 'গাজা প্রদেশ'),
+('MZ-I', 'bn', 'ইনহাম্বানে প্রদেশ'),
+('MZ-L', 'bn', 'ম্যাপুটো প্রদেশ'),
+('MZ-MPM', 'bn', 'সিদাদে দে মাপুতো'),
+('MZ-N', 'bn', 'নম্পুলা প্রদেশ'),
+('MZ-P', 'bn', 'ক্যাবো ডেল্গাদো প্রদেশ'),
+('MZ-Q', 'bn', 'জাম্বেজিয়া প্রদেশ'),
+('MZ-S', 'bn', 'সোফালা প্রদেশ'),
+('MZ-T', 'bn', 'তেতে প্রদেশ');
+
+SET FOREIGN_KEY_CHECKS=1;

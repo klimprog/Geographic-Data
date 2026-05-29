@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PE-AMA', 'vi', 'Khu vực Amazonas'),
+('PE-ANC', 'vi', 'Vùng Ancash'),
+('PE-APU', 'vi', 'Apurímac'),
+('PE-ARE', 'vi', 'Khu vực Arequipa'),
+('PE-AYA', 'vi', 'Vùng Ayacucho'),
+('PE-CAJ', 'vi', 'Cajamarca'),
+('PE-CAL', 'vi', 'Callao'),
+('PE-CUS', 'vi', 'Khu vực Cusco'),
+('PE-HUC', 'vi', 'Khu vực Huánuco'),
+('PE-HUV', 'vi', 'Khu vực Huancavelica'),
+('PE-ICA', 'vi', 'Khu vực Ica'),
+('PE-JUN', 'vi', 'Khu vực Junín'),
+('PE-LAL', 'vi', 'Khu vực La Libertad'),
+('PE-LAM', 'vi', 'Khu vực Lambayeque'),
+('PE-LIM', 'vi', 'Khu vực Lima'),
+('PE-LMA', 'vi', 'Tỉnh Lima'),
+('PE-LOR', 'vi', 'Khu vực Loreto'),
+('PE-MDD', 'vi', 'Khu vực Madre de Dios'),
+('PE-MOQ', 'vi', 'Khu vực Moquegua'),
+('PE-PAS', 'vi', 'Khu vực Pasco'),
+('PE-PIU', 'vi', 'Khu vực Piura'),
+('PE-PUN', 'vi', 'Puno'),
+('PE-SAM', 'vi', 'San Martín'),
+('PE-TAC', 'vi', 'Khu vựcTacna'),
+('PE-TUM', 'vi', 'Khu vực hành chính Tumbes'),
+('PE-UCA', 'vi', 'Ucayali');
+
+SET FOREIGN_KEY_CHECKS=1;

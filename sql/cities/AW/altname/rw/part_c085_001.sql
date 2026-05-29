@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(7763735, 100828, 'rw', 'Tanki Leendert'),
+(7763812, 100829, 'rw', 'San Nicolas'),
+(7763966, 100831, 'rw', 'Sero Colorado'),
+(7764043, 100832, 'rw', 'Santa Cruz'),
+(7764120, 100833, 'rw', 'Savaneta'),
+(7764197, 100834, 'rw', 'Pos Chiquito'),
+(7764274, 100835, 'rw', 'Paradera'),
+(7764351, 100836, 'rw', 'Oranjestad'),
+(7764813, 100842, 'rw', 'Arashi');
+
+SET FOREIGN_KEY_CHECKS=1;

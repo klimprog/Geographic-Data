@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KW-AH', 'dz', 'མུ་ཧ་ཕ་ཛཊ་ཨཱལ་ཨ་ཧ་མ་ཌི།'),
+('KW-FA', 'dz', 'མུ་ཧ་ཕ་ཟཏ་ཨཱལ་ཕར་ཝ་ནི་ཡ།'),
+('KW-HA', 'dz', 'མུ་ཧ་ཕ་ཟཏ་ཧ་ཝ་ལི།'),
+('KW-JA', 'dz', 'མུ་ཧ་ཕ་ཟཊ་ཨཱལ་ཇ་ཧ་རཱ།'),
+('KW-KU', 'dz', 'ཨལ་ཨ་སི་མ་མངའ་སྡེ།'),
+('KW-MU', 'dz', 'མུ་ཧ་ཕ་ཟཏ་མུ་བ་རཀ་ཨཱལ་ཀ་བིར།');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LR-BG', 'en', 'Bong County'),
+('LR-BM', 'en', 'Bomi County'),
+('LR-CM', 'en', 'Grand Cape Mount County'),
+('LR-GB', 'en', 'Grand Bassa County'),
+('LR-GG', 'en', 'Grand Gedeh County'),
+('LR-GK', 'en', 'Grand Kru County'),
+('LR-GP', 'en', 'Gbarpolu County'),
+('LR-LO', 'en', 'Lofa County'),
+('LR-MG', 'en', 'Margibi County'),
+('LR-MO', 'en', 'Montserrado County'),
+('LR-MY', 'en', 'Maryland County'),
+('LR-NI', 'en', 'Nimba'),
+('LR-RG', 'en', 'River Gee County'),
+('LR-RI', 'en', 'River Cess County'),
+('LR-SI', 'en', 'Sinoe County');
+
+SET FOREIGN_KEY_CHECKS=1;

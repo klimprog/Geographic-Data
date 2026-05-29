@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'so', 'Gobalka Galbeed'),
+('LK-11', 'so', 'Colombo'),
+('LK-12', 'so', 'Gampaha'),
+('LK-13', 'so', 'Kalutara'),
+('LK-2', 'so', 'Gobalka Dhexe'),
+('LK-21', 'so', 'Kandy'),
+('LK-22', 'so', 'Matale'),
+('LK-23', 'so', 'Nuwara Eliya'),
+('LK-3', 'so', 'Gobalka Koonfur'),
+('LK-31', 'so', 'Galle'),
+('LK-32', 'so', 'Matara'),
+('LK-33', 'so', 'Hambantota'),
+('LK-4', 'so', 'Gobalka Waqooyi'),
+('LK-41', 'so', 'Jaffna'),
+('LK-42', 'so', 'Kilinochchi'),
+('LK-43', 'so', 'Mannar'),
+('LK-44', 'so', 'Vavuniya'),
+('LK-45', 'so', 'Mullaittivu'),
+('LK-5', 'so', 'Gobalka Bari'),
+('LK-51', 'so', 'Batticaloa'),
+('LK-52', 'so', 'Ampara'),
+('LK-53', 'so', 'Trincomalee'),
+('LK-6', 'so', 'Gobalka Waqooyi-Galbeed'),
+('LK-61', 'so', 'Kurunegala'),
+('LK-62', 'so', 'Puttalam'),
+('LK-7', 'so', 'Gobalka Waqooyi-Dhexe'),
+('LK-71', 'so', 'Anuradhapura'),
+('LK-72', 'so', 'Polonnaruwa'),
+('LK-8', 'so', 'Gobalka Uva'),
+('LK-81', 'so', 'Badulla'),
+('LK-82', 'so', 'Monaragala'),
+('LK-9', 'so', 'Gobalka Sabaragamuwa'),
+('LK-91', 'so', 'Ratnapura'),
+('LK-92', 'so', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

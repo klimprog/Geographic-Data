@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('JM-01', 'am', 'ኪንግስተን'),
+('JM-02', 'am', 'ሴንት አንድሪው ፓሪሽ'),
+('JM-03', 'am', 'ሴንት ቶማስ ፓሪሽ'),
+('JM-04', 'am', 'ፖርትላንድ ፓሪሽ'),
+('JM-05', 'am', 'ሴንት ማሪ ፓሪሽ'),
+('JM-06', 'am', 'ሴንት አን ፓሪሽ'),
+('JM-07', 'am', 'ትሬላውንስ ፓሪሽ'),
+('JM-08', 'am', 'ሴንት ጄምስ ፓሪሽ'),
+('JM-09', 'am', 'ሃኖቨር'),
+('JM-10', 'am', 'ወስትሞርላንድ'),
+('JM-11', 'am', 'ሴንት ኤሊዛቤት'),
+('JM-12', 'am', 'ማንቸስተር'),
+('JM-13', 'am', 'ክላረንደን'),
+('JM-14', 'am', 'ሴንት ካተሪን ፓሪሽ');
+
+SET FOREIGN_KEY_CHECKS=1;

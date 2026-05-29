@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'it', 'distretto di Anenii Noi'),
+('MD-BA', 'it', 'Bălți'),
+('MD-BD', 'it', 'Bender'),
+('MD-BR', 'it', 'distretto di Briceni'),
+('MD-BS', 'it', 'distretto di Basarabeasca'),
+('MD-CA', 'it', 'distretto di Cahul'),
+('MD-CL', 'it', 'distretto di Călărași'),
+('MD-CM', 'it', 'distretto di Cimișlia'),
+('MD-CR', 'it', 'distretto di Criuleni'),
+('MD-CS', 'it', 'distretto di Căușeni'),
+('MD-CT', 'it', 'distretto di Cantemir'),
+('MD-CU', 'it', 'Municipio di Chisinau'),
+('MD-DO', 'it', 'distretto di Dondușeni'),
+('MD-DR', 'it', 'distretto di Drochia'),
+('MD-DU', 'it', 'distretto di Dubăsari'),
+('MD-ED', 'it', 'distretto di Edineț'),
+('MD-FA', 'it', 'distretto di Fălești'),
+('MD-FL', 'it', 'distretto di Florești'),
+('MD-GA', 'it', 'Gagauzia'),
+('MD-GL', 'it', 'distretto di Glodeni'),
+('MD-HI', 'it', 'distretto di Hîncești'),
+('MD-IA', 'it', 'distretto di Ialoveni'),
+('MD-LE', 'it', 'distretto di Leova'),
+('MD-NI', 'it', 'distretto di Nisporeni'),
+('MD-OC', 'it', 'distretto di Ocnița'),
+('MD-OR', 'it', 'Distretto di Orhei'),
+('MD-RE', 'it', 'distretto di Rezina'),
+('MD-RI', 'it', 'distretto di Rîșcani'),
+('MD-SD', 'it', 'distretto di Șoldănești'),
+('MD-SI', 'it', 'distretto di Sîngerei'),
+('MD-SN', 'it', 'unità amministrative territoriali della sponda sinistra del Dnestr'),
+('MD-SO', 'it', 'distretto di Soroca'),
+('MD-ST', 'it', 'distretto di Strășeni'),
+('MD-SV', 'it', 'distretto di Ștefan Vodă'),
+('MD-TA', 'it', 'distretto di Taraclia'),
+('MD-TE', 'it', 'distretto di Telenești'),
+('MD-UN', 'it', 'Distretto di Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

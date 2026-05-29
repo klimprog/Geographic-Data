@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'km', NULL),
+('IN-AP', 'km', NULL),
+('IN-AR', 'km', NULL),
+('IN-AS', 'km', 'អាសាម'),
+('IN-BR', 'km', NULL),
+('IN-CG', 'km', NULL),
+('IN-CH', 'km', NULL),
+('IN-DH', 'km', NULL),
+('IN-DL', 'km', 'ដែនដីរាជធានីជាតិនៃទីក្រុងដេលី'),
+('IN-GA', 'km', 'ហ្គោអា'),
+('IN-GJ', 'km', NULL),
+('IN-HP', 'km', NULL),
+('IN-HR', 'km', NULL),
+('IN-JH', 'km', NULL),
+('IN-JK', 'km', NULL),
+('IN-KA', 'km', NULL),
+('IN-KL', 'km', NULL),
+('IN-LA', 'km', 'ឡាដាក'),
+('IN-LD', 'km', NULL),
+('IN-MH', 'km', NULL),
+('IN-ML', 'km', 'មេហ្គាឡាយ៉ា'),
+('IN-MN', 'km', 'ម៉ានីពួរ'),
+('IN-MP', 'km', NULL),
+('IN-MZ', 'km', 'មីហ្សូរ៉ាម'),
+('IN-NL', 'km', NULL),
+('IN-OD', 'km', NULL),
+('IN-PB', 'km', NULL),
+('IN-PY', 'km', NULL),
+('IN-RJ', 'km', NULL),
+('IN-SK', 'km', 'ស៊ីគីម'),
+('IN-TN', 'km', NULL),
+('IN-TR', 'km', 'ទ្រីបុរ'),
+('IN-TS', 'km', NULL),
+('IN-UK', 'km', NULL),
+('IN-UP', 'km', NULL),
+('IN-WB', 'km', 'បេងហ្គាល់ខាងលិច');
+
+SET FOREIGN_KEY_CHECKS=1;

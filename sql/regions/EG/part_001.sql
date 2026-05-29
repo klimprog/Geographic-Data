@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('EG-ALX', 'EG', 'Alexandria', 'الاسكندرية', 1471260, 3811516, 'UTC+2', 'Africa/Cairo'),
+('EG-ASN', 'EG', 'Muhafazat Aswan', 'أسوان', 1470525, 1394687, 'UTC+2', 'Africa/Cairo'),
+('EG-AST', 'EG', 'Muhafazat Asyut', 'أسيوط', 1470523, 4123441, 'UTC+2', 'Africa/Cairo'),
+('EG-BA', 'EG', 'Red Sea Governorate', 'محافظة البحر الأحمر', 1471431, 288233, 'UTC+2', 'Africa/Cairo'),
+('EG-BH', 'EG', 'Beheira Governorate', 'البحيرة', 1470086, 4689632, 'UTC+2', 'Africa/Cairo'),
+('EG-BNS', 'EG', 'Muhafazat Bani Suwayf', 'بني سويف', 1470266, 2771138, 'UTC+2', 'Africa/Cairo'),
+('EG-C', 'EG', 'Cairo Governorate', 'القاهرة', NULL, 7734614, 'UTC+2', 'Africa/Cairo'),
+('EG-DK', 'EG', 'Muhafazat ad Daqahliyah', 'الدقهلية', 1471054, 5818363, 'UTC+2', 'Africa/Cairo'),
+('EG-DT', 'EG', 'Damietta Governorate', 'دمياط', 1469948, 1076132, 'UTC+2', 'Africa/Cairo'),
+('EG-FYM', 'EG', 'Muhafazat al Fayyum', 'الفيوم', 1471451, 3072181, 'UTC+2', 'Africa/Cairo'),
+('EG-GH', 'EG', 'Muhafazat al Gharbiyah', 'الغربية', 1466461, 3920800, 'UTC+2', 'Africa/Cairo'),
+('EG-GZ', 'EG', 'Muhafazat al Jizah', 'محافظة الجيزة', 1471216, 3326444, 'UTC+2', 'Africa/Cairo'),
+('EG-IS', 'EG', 'Ismailia Governorate', 'الإسماعيلية', 1471258, 863315, 'UTC+2', 'Africa/Cairo'),
+('EG-JS', 'EG', 'South Sinai Governorate', 'جنوب سيناء', 1470480, 164574, 'UTC+2', 'Africa/Cairo'),
+('EG-KB', 'EG', 'Muhafazat al Qalyubiyah', 'القليوبية', 1470354, 3881462, 'UTC+2', 'Africa/Cairo'),
+('EG-KFS', 'EG', 'Kafr ash Shaykh', 'كفر الشيخ', 1468575, 3093754, 'UTC+2', 'Africa/Cairo'),
+('EG-KN', 'EG', 'Muhafazat Qina', 'قنا', 1466916, 2959175, 'UTC+2', 'Africa/Cairo'),
+('EG-LX', 'EG', 'Luxor', 'الأقصر', 1470876, 1119222, 'UTC+2', 'Africa/Cairo'),
+('EG-MN', 'EG', 'Muhafazat al Minya', 'المنيا', 1470997, 5004421, 'UTC+2', 'Africa/Cairo'),
+('EG-MNF', 'EG', 'Muhafazat al Minufiyah', 'المنوفية', 1466675, 3228928, 'UTC+2', 'Africa/Cairo'),
+('EG-MT', 'EG', 'Muhafazat Matruh', 'مطروح', 1467833, 427573, 'UTC+2', 'Africa/Cairo'),
+('EG-PTS', 'EG', 'Port Said', 'بور سعيد', 1470113, 538378, 'UTC+2', 'Africa/Cairo'),
+('EG-SHG', 'EG', 'Muhafazat Suhaj', 'سوهاج', 1466553, 4469151, 'UTC+2', 'Africa/Cairo'),
+('EG-SHR', 'EG', 'Muhafazat ash Sharqiyah', 'الشرقية', 1470414, 5109642, 'UTC+2', 'Africa/Cairo'),
+('EG-SIN', 'EG', 'North Sinai', 'شمال سيناء', 1471613, 314258, 'UTC+2', 'Africa/Cairo'),
+('EG-SUZ', 'EG', 'Suez', 'السويس', 1470526, 488125, 'UTC+2', 'Africa/Cairo'),
+('EG-WAD', 'EG', 'New Valley', 'الوادي الجديد', 1471158, 169598, 'UTC+2', 'Africa/Cairo');
+
+SET FOREIGN_KEY_CHECKS=1;

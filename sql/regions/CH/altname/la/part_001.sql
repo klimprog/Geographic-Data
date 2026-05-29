@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'la', 'Argovia'),
+('CH-AI', 'la', 'Abbatis Cella Interior'),
+('CH-AR', 'la', 'Abbatis Cella Exterior'),
+('CH-BE', 'la', 'Berna'),
+('CH-BL', 'la', 'Pagus Basilia rus'),
+('CH-BS', 'la', 'Pagus Basilia Urbs'),
+('CH-FR', 'la', 'Friburgum'),
+('CH-GE', 'la', 'Genava'),
+('CH-GL', 'la', 'Glarona'),
+('CH-GR', 'la', 'Grisonia'),
+('CH-JU', 'la', 'Pagus Iura'),
+('CH-LU', 'la', 'Lucerna'),
+('CH-NE', 'la', 'Pagus Novicastrensis'),
+('CH-NW', 'la', 'Subsilvania inferior'),
+('CH-OW', 'la', 'Subsilvania superior'),
+('CH-SG', 'la', 'Sanctogallum'),
+('CH-SH', 'la', 'Scafusa'),
+('CH-SO', 'la', 'Solodurum'),
+('CH-SZ', 'la', 'Suitia'),
+('CH-TG', 'la', 'Turgovia'),
+('CH-TI', 'la', 'Ticinum'),
+('CH-UR', 'la', 'Urania'),
+('CH-VD', 'la', 'Pagus Valdensis'),
+('CH-VS', 'la', 'Valesia'),
+('CH-ZG', 'la', 'Tugium'),
+('CH-ZH', 'la', 'Turicensis');
+
+SET FOREIGN_KEY_CHECKS=1;

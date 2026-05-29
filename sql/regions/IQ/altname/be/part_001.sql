@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IQ-AN', 'be', 'Мухафаза Анбар'),
+('IQ-AR', 'be', 'Эрбіль'),
+('IQ-BA', 'be', 'Басра'),
+('IQ-BB', 'be', 'Бабіль'),
+('IQ-BG', 'be', 'Багдад'),
+('IQ-DA', 'be', 'Губернатарства Духок'),
+('IQ-DI', 'be', 'Дыяла'),
+('IQ-DQ', 'be', 'мухафаза Ды-Кар'),
+('IQ-KA', 'be', 'Мухафаза Кербела'),
+('IQ-KI', 'be', 'Кіркук'),
+('IQ-KR', 'be', 'Іклімскі Курдыстан'),
+('IQ-MA', 'be', 'мухафаза Майсан'),
+('IQ-MU', 'be', 'Мухафаза Мутана'),
+('IQ-NA', 'be', 'Наджаф'),
+('IQ-NI', 'be', 'Найнава'),
+('IQ-QA', 'be', 'Кадысія'),
+('IQ-SD', 'be', 'мухафаза Салах-эд-Дзін'),
+('IQ-SU', 'be', 'Мухафаза Сулейманія'),
+('IQ-WA', 'be', 'Васіт');
+
+SET FOREIGN_KEY_CHECKS=1;

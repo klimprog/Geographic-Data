@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SE-AB', 'lv', 'Stokholmas lēne'),
+('SE-AC', 'lv', 'Vesterbotenas lēne'),
+('SE-BD', 'lv', 'Norbotenas lēne'),
+('SE-C', 'lv', 'Upsālas lēne'),
+('SE-D', 'lv', 'Sēdermanlandes lēne'),
+('SE-E', 'lv', 'Esterjētlandes lēne'),
+('SE-F', 'lv', 'Jenšēpingas lēne'),
+('SE-G', 'lv', 'Krūnuberjas lēne'),
+('SE-H', 'lv', 'Kalmāras lēne'),
+('SE-I', 'lv', 'Gotlandes lēne'),
+('SE-K', 'lv', 'Blēkinges lēne'),
+('SE-M', 'lv', 'Skones lēne'),
+('SE-N', 'lv', 'Hallandes lēne'),
+('SE-O', 'lv', 'Vesterjētlandes lēne'),
+('SE-S', 'lv', 'Vermlandes lēne'),
+('SE-T', 'lv', 'Erebrū lēne'),
+('SE-U', 'lv', 'Vestmanlandes lēne'),
+('SE-W', 'lv', 'Dalarnas lēne'),
+('SE-X', 'lv', 'Jēvleborjas lēne'),
+('SE-Y', 'lv', 'Vesternorlandes lēne'),
+('SE-Z', 'lv', 'Jemtlandes lēne');
+
+SET FOREIGN_KEY_CHECKS=1;

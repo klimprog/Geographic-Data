@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CL-AI', 'ko', '아이센델헤네랄카를로스이바녜스델캄포주'),
+('CL-AN', 'ko', '안토파가스타주'),
+('CL-AP', 'ko', '아리카이파리나코타주'),
+('CL-AR', 'ko', '아라우카니아주'),
+('CL-AT', 'ko', '아타카마주'),
+('CL-BI', 'ko', '비오비오주'),
+('CL-CO', 'ko', '코킴보주'),
+('CL-LI', 'ko', '리베르타도르헤네랄베르나르도오이긴스주'),
+('CL-LL', 'ko', '로스라고스주'),
+('CL-LR', 'ko', '로스리오스주'),
+('CL-MA', 'ko', '마가야네스 이 안타르티카칠레나 주'),
+('CL-ML', 'ko', '마울레주'),
+('CL-NB', 'ko', '눕레'),
+('CL-RM', 'ko', '산티아고 수도주'),
+('CL-TA', 'ko', '타라파카주'),
+('CL-VS', 'ko', '발파라이소주');
+
+SET FOREIGN_KEY_CHECKS=1;

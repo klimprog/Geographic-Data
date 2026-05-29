@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SN-DB', 'ca', 'Regió de Diourbel'),
+('SN-DK', 'ca', 'Dakar'),
+('SN-FK', 'ca', 'Fatick'),
+('SN-KA', 'ca', 'Kaffrine'),
+('SN-KD', 'ca', 'Kolda'),
+('SN-KE', 'ca', 'Kedougou'),
+('SN-KL', 'ca', 'Kaolack'),
+('SN-LG', 'ca', 'Louga'),
+('SN-MT', 'ca', 'Matam'),
+('SN-SE', 'ca', 'Sédhiou'),
+('SN-SL', 'ca', 'regió de Saint-Louis'),
+('SN-TC', 'ca', 'Tambacounda'),
+('SN-TH', 'ca', 'Thiès'),
+('SN-ZG', 'ca', 'regió de Ziguinchor');
+
+SET FOREIGN_KEY_CHECKS=1;

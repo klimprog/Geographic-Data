@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'hu', 'Blagoevgrad megye'),
+('BG-02', 'hu', 'Burgasz megye'),
+('BG-03', 'hu', 'Várna megye'),
+('BG-04', 'hu', 'Veliko Tarnovo megye'),
+('BG-05', 'hu', 'Vidin megye'),
+('BG-06', 'hu', 'Vraca megye'),
+('BG-07', 'hu', 'Gabrovo megye'),
+('BG-08', 'hu', 'Dobrics megye'),
+('BG-09', 'hu', 'Kardzsali megye'),
+('BG-10', 'hu', 'Kjusztendil megye'),
+('BG-11', 'hu', 'Lovecs megye'),
+('BG-12', 'hu', 'Montana megye'),
+('BG-13', 'hu', 'Pazardzsik megye'),
+('BG-14', 'hu', 'Pernik megye'),
+('BG-15', 'hu', 'Pleven megye'),
+('BG-16', 'hu', 'Plovdiv megye'),
+('BG-17', 'hu', 'Razgrad megye'),
+('BG-18', 'hu', 'Rusze megye'),
+('BG-19', 'hu', 'Szilisztra megye'),
+('BG-20', 'hu', 'Szliven megye'),
+('BG-21', 'hu', 'Szmoljan megye'),
+('BG-22', 'hu', 'Szófia főváros'),
+('BG-23', 'hu', 'Szófia megye'),
+('BG-24', 'hu', 'Sztara Zagora megye'),
+('BG-25', 'hu', 'Targoviste megye'),
+('BG-26', 'hu', 'Haszkovo megye'),
+('BG-27', 'hu', 'Sumen megye'),
+('BG-28', 'hu', 'Jambol megye');
+
+SET FOREIGN_KEY_CHECKS=1;

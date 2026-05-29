@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'ca', 'Anhui'),
+('CN-BJ', 'ca', 'bei jing'),
+('CN-CQ', 'ca', 'Chongqing'),
+('CN-FJ', 'ca', 'Fujian'),
+('CN-GD', 'ca', 'Guangdong'),
+('CN-GS', 'ca', 'Gansu'),
+('CN-GX', 'ca', 'Guangxi'),
+('CN-GZ', 'ca', 'Guizhou'),
+('CN-HA', 'ca', 'Henan'),
+('CN-HB', 'ca', 'Hubei'),
+('CN-HE', 'ca', 'Hebei'),
+('CN-HI', 'ca', 'Hainan'),
+('CN-HK', 'ca', 'RAE de Hong Kong'),
+('CN-HL', 'ca', 'Heilongjiang'),
+('CN-HN', 'ca', 'Hunan'),
+('CN-JL', 'ca', 'Jilin'),
+('CN-JS', 'ca', 'Jiangsu'),
+('CN-JX', 'ca', 'Jiangxi'),
+('CN-LN', 'ca', 'Liaoning'),
+('CN-MO', 'ca', 'RAE de Macau'),
+('CN-NM', 'ca', 'Mongòlia Interior'),
+('CN-NX', 'ca', 'Ningxia'),
+('CN-QH', 'ca', 'Qinghai'),
+('CN-SC', 'ca', 'Sichuan'),
+('CN-SD', 'ca', 'Shandong'),
+('CN-SH', 'ca', 'Shanghai'),
+('CN-SN', 'ca', 'Shaanxi'),
+('CN-SX', 'ca', 'Shanxi'),
+('CN-TJ', 'ca', 'Tianjin'),
+('CN-TW', 'ca', 'Taiwan Sheng'),
+('CN-XJ', 'ca', 'Xinjiang'),
+('CN-XZ', 'ca', 'Tibet'),
+('CN-YN', 'ca', 'Yunnan'),
+('CN-ZJ', 'ca', 'Zhejiang');
+
+SET FOREIGN_KEY_CHECKS=1;

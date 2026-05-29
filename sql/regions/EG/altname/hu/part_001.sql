@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'hu', 'Alexandria kormányzóság'),
+('EG-ASN', 'hu', 'Asszuán kormányzóság'),
+('EG-AST', 'hu', 'Aszjút kormányzóság'),
+('EG-BA', 'hu', 'Al-Baḥr al-Aḥmar'),
+('EG-BH', 'hu', 'El-Beheira'),
+('EG-BNS', 'hu', 'Bani Szuvajf'),
+('EG-C', 'hu', 'Kairó'),
+('EG-DK', 'hu', 'Ad-Daqahliyah'),
+('EG-DT', 'hu', 'Damietta'),
+('EG-FYM', 'hu', 'El-Fajjúm'),
+('EG-GH', 'hu', 'Gharbijja'),
+('EG-GZ', 'hu', 'El-Gíza'),
+('EG-IS', 'hu', 'El-Iszmáilika'),
+('EG-JS', 'hu', 'Dél-Sínai kormányzóság'),
+('EG-KB', 'hu', 'Al-Qalyubiyah'),
+('EG-KFS', 'hu', 'Kafr El Sheikh'),
+('EG-KN', 'hu', 'Qina'),
+('EG-LX', 'hu', 'Luxor'),
+('EG-MN', 'hu', 'Al-Minya'),
+('EG-MNF', 'hu', 'Al-Minufiyah'),
+('EG-MT', 'hu', 'Matrúh'),
+('EG-PTS', 'hu', 'Port Szaíd'),
+('EG-SHG', 'hu', 'Szohág kormányzóság'),
+('EG-SHR', 'hu', 'Ash Sharqiyah'),
+('EG-SIN', 'hu', 'Shamal Sina'''),
+('EG-SUZ', 'hu', 'As-Suways'),
+('EG-WAD', 'hu', 'Al-Wadi al-Jadid');
+
+SET FOREIGN_KEY_CHECKS=1;

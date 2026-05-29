@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('IN-AN', 'IN', 'Union Territory of Andaman and Nicobar Islands', 'Andaman and Nicobar', 2045379, 380581, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-AP', 'IN', 'State of Andhra Pradesh', 'Andhra Pradesh', 2582679, 49386799, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-AR', 'IN', 'State of Arunachal Pradesh', 'Arunachal Pradesh', 2053242, 1383727, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-AS', 'IN', 'Assam', 'Assam', 2055343, 31205576, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-BR', 'IN', 'State of Bihar', 'Bihar', 2045949, 104099452, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-CG', 'IN', 'State of Chhattisgarh', 'Chhattisgarh', 2045083, 25545198, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-CH', 'IN', 'Union Territory of Chandigarh', 'Chandigarh', 2057048, 1055450, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-DH', 'IN', 'Dadra and Nagar Haveli and Daman and Diu', NULL, 2056209, NULL, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-DL', 'IN', 'National Capital Territory of Delhi', 'National Capital Territory of Delhi', 2055959, 16787941, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-GA', 'IN', 'Goa', 'Goa', 2046350, 1458545, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-GJ', 'IN', 'State of Gujarat', 'Gujarat', 2054785, 60439692, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-HP', 'IN', 'State of Himachal Pradesh', 'Himachal Pradesh', 2042948, 6864602, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-HR', 'IN', 'State of Haryana', 'Haryana', NULL, 25351462, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-JH', 'IN', 'State of Jharkhand', 'Jharkhand', 2044702, 32988134, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-JK', 'IN', 'State of Jammu and Kashmir', 'Jammu and Kashmir', 2042507, 12541302, 'UTC+5, UTC+5:30', 'Asia/Karachi, Asia/Kolkata'),
+('IN-KA', 'IN', 'State of Karnataka', 'Karnataka', 2059022, 61095297, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-KL', 'IN', 'State of Kerala', 'Kerala', 2041419, 33406061, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-LA', 'IN', 'Ladakh', 'Ladakh', 2051811, NULL, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-LD', 'IN', 'Union Territory of Lakshadweep', 'Lakshadweep', 2051525, 64473, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-MH', 'IN', 'State of Maharashtra', 'Maharashtra', 2057459, 112374333, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-ML', 'IN', 'Meghalaya', 'Meghalaya', 2043163, 2966889, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-MN', 'IN', 'Manipur', 'Manipur', 2053327, 2855794, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-MP', 'IN', 'Madhya Pradesh', 'Madhya Pradesh', 2057843, 72626809, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-MZ', 'IN', 'Mizoram', 'Mizoram', 2060449, 1097206, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-NL', 'IN', 'State of Nagaland', 'Nagaland', 2050718, 1978502, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-OD', 'IN', 'State of Odisha', 'Odisha', 2057824, 41974218, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-PB', 'IN', 'State of Punjab', 'Punjab', NULL, 27743338, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-PY', 'IN', 'Union Territory of Puducherry', 'Puducherry', 2045411, 1247953, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-RJ', 'IN', 'State of Rajasthan', 'Rajasthan', 2053133, 68548437, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-SK', 'IN', 'Sikkim', 'Sikkim', 2054725, 610577, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-TN', 'IN', 'State of Tamil Nadu', 'Tamil Nadu', 2049303, 72147030, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-TR', 'IN', 'Tripura', 'Tripura', 2060526, 3673917, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-TS', 'IN', 'State of Telangana', 'Telangana', 2053385, 35193978, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-UK', 'IN', 'State of Uttarakhand', 'Uttarakhand', 2055972, 10086292, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-UP', 'IN', 'Uttar Pradesh', 'Uttar Pradesh', 2049450, 199812341, 'UTC+5:30', 'Asia/Kolkata'),
+('IN-WB', 'IN', 'West Bengal', 'West Bengal', 2057227, 91276115, 'UTC+5:30', 'Asia/Kolkata');
+
+SET FOREIGN_KEY_CHECKS=1;

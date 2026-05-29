@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'km', 'អាណេនី ណូយ'),
+('MD-BA', 'km', 'ក្រុងបាទី'),
+('MD-BD', 'km', NULL),
+('MD-BR', 'km', 'ប្រីស៊ីនី'),
+('MD-BS', 'km', 'បាសារ៉ាបេសកា'),
+('MD-CA', 'km', NULL),
+('MD-CL', 'km', NULL),
+('MD-CM', 'km', 'ស៊ីមីសៀ'),
+('MD-CR', 'km', 'គ្រីយូឡេនី'),
+('MD-CS', 'km', NULL),
+('MD-CT', 'km', NULL),
+('MD-CU', 'km', NULL),
+('MD-DO', 'km', 'ដុនឌូសេនី'),
+('MD-DR', 'km', NULL),
+('MD-DU', 'km', NULL),
+('MD-ED', 'km', NULL),
+('MD-FA', 'km', 'ហ្វាឡេស្ទី'),
+('MD-FL', 'km', NULL),
+('MD-GA', 'km', 'ហ្គាហ្គូសៀ'),
+('MD-GL', 'km', NULL),
+('MD-HI', 'km', 'ហិនសេទី'),
+('MD-IA', 'km', 'អ៊ីលឡូវីនី'),
+('MD-LE', 'km', 'ឡេវ៉ា'),
+('MD-NI', 'km', 'នីស្ប៉ីនី'),
+('MD-OC', 'km', NULL),
+('MD-OR', 'km', 'អ័រហៃ'),
+('MD-RE', 'km', 'រ៉េស៊ីណា'),
+('MD-RI', 'km', 'រីស្កានី'),
+('MD-SD', 'km', NULL),
+('MD-SI', 'km', 'តារាចម្រៀង'),
+('MD-SN', 'km', NULL),
+('MD-SO', 'km', NULL),
+('MD-ST', 'km', NULL),
+('MD-SV', 'km', NULL),
+('MD-TA', 'km', 'តារ៉ាកៀ'),
+('MD-TE', 'km', NULL),
+('MD-UN', 'km', 'រ៉យអ៊ូល អ៊ុងហ្គេនី');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(272698411, 3541538, 'sq', 'Tuapa'),
+(272698796, 3541543, 'sq', 'Mutalau'),
+(272699258, 3541549, 'sq', 'Makefu'),
+(272699412, 3541551, 'sq', 'Liku'),
+(272699566, 3541553, 'sq', 'Lakepa'),
+(272699643, 3541554, 'sq', 'Hikutivake'),
+(272699720, 3541555, 'sq', 'Hakupu'),
+(272699951, 3541558, 'sq', 'Fatiau'),
+(272700105, 3541560, 'sq', 'Avatele'),
+(272700259, 3541562, 'sq', 'Alofi'),
+(272700336, 3541563, 'sq', 'Mutalau'),
+(272700567, 3541566, 'sq', 'Motutapu'),
+(272701337, 3541576, 'sq', 'Vaeja'),
+(272701414, 3541577, 'sq', 'Tamakautoga');
+
+SET FOREIGN_KEY_CHECKS=1;

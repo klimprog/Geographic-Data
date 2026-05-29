@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'id', 'Balaka'),
+('MW-BL', 'id', 'Blantyre'),
+('MW-C', 'id', 'Region Tengah'),
+('MW-CK', 'id', 'Chikwawa'),
+('MW-CR', 'id', 'Chiradzulu'),
+('MW-CT', 'id', 'Chitipa'),
+('MW-DE', 'id', 'Dedza'),
+('MW-DO', 'id', 'Dowa'),
+('MW-KR', 'id', 'Karonga'),
+('MW-KS', 'id', 'Kasungu'),
+('MW-LI', 'id', 'Lilongwe'),
+('MW-LK', 'id', 'Likoma'),
+('MW-MC', 'id', 'Mchinji'),
+('MW-MG', 'id', 'Manggachi'),
+('MW-MH', 'id', 'Machinga'),
+('MW-MU', 'id', 'Mulanje'),
+('MW-MW', 'id', 'Mwanza'),
+('MW-MZ', 'id', 'Mzimba'),
+('MW-N', 'id', 'Wilayah Utara'),
+('MW-NB', 'id', 'Teluk Nkhata'),
+('MW-NE', 'id', 'Neno'),
+('MW-NI', 'id', 'Ntchisi'),
+('MW-NK', 'id', 'Nkhotakota'),
+('MW-NS', 'id', 'Nsanje'),
+('MW-NU', 'id', 'Ntcheu'),
+('MW-PH', 'id', 'Phalombe'),
+('MW-RU', 'id', 'Rumphi'),
+('MW-S', 'id', 'Wilayah Selatan'),
+('MW-SA', 'id', 'Salima'),
+('MW-TH', 'id', 'Thyolo'),
+('MW-ZO', 'id', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

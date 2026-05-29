@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PA-1', 'el', 'Μπόκας ντελ Τόρο'),
+('PA-10', 'el', 'Παναμάς Οέστε'),
+('PA-2', 'el', 'Κοκλέ'),
+('PA-3', 'el', 'Κολόν'),
+('PA-4', 'el', 'Τσιρίκι'),
+('PA-5', 'el', 'Νταριέν'),
+('PA-6', 'el', 'Χερέρα'),
+('PA-7', 'el', 'Λος Σάντος'),
+('PA-8', 'el', 'Παναμάς'),
+('PA-9', 'el', 'Βεραγκούας'),
+('PA-EM', 'el', 'Εμπερά-Γουναάν'),
+('PA-KY', 'el', 'Γκούνα Γιάλα'),
+('PA-NB', 'el', 'Νγκόμπε-Μπουγκλέ'),
+('PA-NT', 'el', 'Νάσο Τξερ Δι');
+
+SET FOREIGN_KEY_CHECKS=1;

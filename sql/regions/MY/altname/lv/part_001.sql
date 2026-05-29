@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MY-01', 'lv', 'Džohora'),
+('MY-02', 'lv', 'Kedaha'),
+('MY-03', 'lv', 'Kelantana'),
+('MY-04', 'lv', 'Melaka'),
+('MY-05', 'lv', 'Negerisembulana'),
+('MY-06', 'lv', 'Pahana'),
+('MY-07', 'lv', 'Penanga'),
+('MY-08', 'lv', 'Peraka'),
+('MY-09', 'lv', 'Perlis'),
+('MY-10', 'lv', 'Selanora'),
+('MY-11', 'lv', 'Terenganu'),
+('MY-12', 'lv', 'Sabaha'),
+('MY-13', 'lv', 'Saravaka'),
+('MY-14', 'lv', 'Kuala Lumpur'),
+('MY-15', 'lv', 'Labuana'),
+('MY-16', 'lv', 'Putradžaja');
+
+SET FOREIGN_KEY_CHECKS=1;

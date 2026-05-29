@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(356394587, 4628502, 'cs', 'Annaberg'),
+(356397821, 4628544, 'cs', 'Charlotte Amalie'),
+(356397898, 4628545, 'cs', 'Christiansted'),
+(356398745, 4628556, 'cs', 'Korálový záliv'),
+(356398976, 4628559, 'cs', 'Diamant'),
+(356400593, 4628580, 'cs', 'Frederiksted'),
+(356401517, 4628592, 'cs', 'Grove Place'),
+(356403442, 4628617, 'cs', 'Leinster Bay'),
+(356408216, 4628679, 'cs', 'Svatý Kříž'),
+(356409448, 4628695, 'cs', 'Sorgenfri'),
+(356410218, 4628705, 'cs', 'Tutu');
+
+SET FOREIGN_KEY_CHECKS=1;

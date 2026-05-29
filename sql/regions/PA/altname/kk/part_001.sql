@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PA-1', 'kk', 'Бокас-дель-Торо облысы'),
+('PA-10', 'kk', 'Панама-Оесте облысы'),
+('PA-2', 'kk', 'Провинция де Кокле'),
+('PA-3', 'kk', 'Провинсия де Колон'),
+('PA-4', 'kk', 'Чирики облысы'),
+('PA-5', 'kk', 'Провинсия дель Дарьен'),
+('PA-6', 'kk', 'Еррера облысы'),
+('PA-7', 'kk', 'Лос-Сантос облысы'),
+('PA-8', 'kk', 'Провинция де Панама'),
+('PA-9', 'kk', 'Веraguas облысы'),
+('PA-EM', 'kk', 'Ембера'),
+('PA-KY', 'kk', 'Гуна Яла'),
+('PA-NB', 'kk', 'Ngoebe-Bugle комарка'),
+('PA-NT', 'kk', 'Насо Тьер Ди');
+
+SET FOREIGN_KEY_CHECKS=1;

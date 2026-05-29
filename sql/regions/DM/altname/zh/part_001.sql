@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'zh', '圣安德鲁区'),
+('DM-03', 'zh', '聖戴維堂區'),
+('DM-04', 'zh', '聖喬治區'),
+('DM-05', 'zh', '聖約翰區'),
+('DM-06', 'zh', '聖約瑟夫堂區'),
+('DM-07', 'zh', '聖盧克區'),
+('DM-08', 'zh', '聖馬克堂區'),
+('DM-09', 'zh', '聖帕特里克堂區'),
+('DM-10', 'zh', '聖保羅堂區'),
+('DM-11', 'zh', '聖彼得堂區');
+
+SET FOREIGN_KEY_CHECKS=1;

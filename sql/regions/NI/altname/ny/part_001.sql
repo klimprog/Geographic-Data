@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NI-AN', 'ny', 'Nyanja ya North Caribbean'),
+('NI-AS', 'ny', 'Nyanja ya South Caribbean'),
+('NI-BO', 'ny', 'Departamento de Boaco'),
+('NI-CA', 'ny', 'Departamento de Carazo'),
+('NI-CI', 'ny', 'Departamento de Chinandega'),
+('NI-CO', 'ny', 'Departamento de Chontales'),
+('NI-ES', 'ny', 'Departamento de Esteli'),
+('NI-GR', 'ny', 'Departamento de Granada'),
+('NI-JI', 'ny', 'Departamento de Jinotega'),
+('NI-LE', 'ny', 'Departamento de Leon'),
+('NI-MD', 'ny', 'Departamento de Madriz'),
+('NI-MN', 'ny', 'Departamento de Managua'),
+('NI-MS', 'ny', 'Departamento de Masaya'),
+('NI-MT', 'ny', 'Departamento de Matagalpa'),
+('NI-NS', 'ny', 'Departamento de Nueva Segovia'),
+('NI-RI', 'ny', 'Departamento de Rivas'),
+('NI-SJ', 'ny', 'Departamento de Rio San Juan');
+
+SET FOREIGN_KEY_CHECKS=1;

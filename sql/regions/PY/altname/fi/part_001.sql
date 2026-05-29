@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PY-1', 'fi', 'Concepciónin maakunta'),
+('PY-10', 'fi', 'Alto Paranán maakunta'),
+('PY-11', 'fi', 'Centralin departmentti'),
+('PY-12', 'fi', 'Ñeembucún maakunta'),
+('PY-13', 'fi', 'Amambayn maakunta'),
+('PY-14', 'fi', 'Canindeyún maakunta'),
+('PY-15', 'fi', 'Presidente Hayesin maakunta'),
+('PY-16', 'fi', 'Alto Paraguayn maakunta'),
+('PY-19', 'fi', 'Boquerónin maakunta'),
+('PY-2', 'fi', 'San Pedron maakunta'),
+('PY-3', 'fi', 'Cordilleran maakunta'),
+('PY-4', 'fi', 'Guairán maakunta'),
+('PY-5', 'fi', 'Caaguazún maakunta'),
+('PY-6', 'fi', 'Caazapán maakunta'),
+('PY-7', 'fi', 'Itapúan maakunta'),
+('PY-8', 'fi', 'Misionesin maakunta'),
+('PY-9', 'fi', 'Paraguarín maakunta'),
+('PY-ASU', 'fi', 'Asuncion');
+
+SET FOREIGN_KEY_CHECKS=1;

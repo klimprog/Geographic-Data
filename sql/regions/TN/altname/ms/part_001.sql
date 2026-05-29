@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TN-11', 'ms', 'Kawasan kegabenoran Tunis'),
+('TN-12', 'ms', 'Kawasan kegabenoran Ariana'),
+('TN-13', 'ms', 'Ben Arous Governorate'),
+('TN-14', 'ms', 'Kawasan kegabenoran Manouba'),
+('TN-21', 'ms', 'Kawasan kegabenoran Nabeul'),
+('TN-22', 'ms', 'Kawasan kegabenoran Zaghouan'),
+('TN-23', 'ms', 'Kawasan kegabenoran Bizerte'),
+('TN-31', 'ms', 'Gabenor Beja'),
+('TN-32', 'ms', 'Kawasan kegabenoran Jendouba'),
+('TN-33', 'ms', 'Kawasan kegabenoran Kef'),
+('TN-34', 'ms', 'Kawasan kegabenoran Siliana'),
+('TN-41', 'ms', 'Kawasan kegabenoran Kairouan'),
+('TN-42', 'ms', 'Kawasan kegabenoran Kasserine'),
+('TN-43', 'ms', 'Kawasan kegabenoran Sidi Bou Said'),
+('TN-51', 'ms', 'Kawasan kegabenoran Sousse'),
+('TN-52', 'ms', 'Kawasan kegabenoran Monastir'),
+('TN-53', 'ms', 'Kawasan kegabenoran Mahdia'),
+('TN-61', 'ms', 'Kawasan kegabenoran Sfax'),
+('TN-71', 'ms', 'Kawasan kegabenoran Gafsa'),
+('TN-72', 'ms', 'Kawasan kegabenoran Tozeur'),
+('TN-73', 'ms', 'Kegabenoran Kebili'),
+('TN-81', 'ms', 'Kawasan kegabenoran Gabès'),
+('TN-82', 'ms', 'Kawasan kegabenoran Medenine'),
+('TN-83', 'ms', 'Kawasan kegabenoran Tataouine');
+
+SET FOREIGN_KEY_CHECKS=1;

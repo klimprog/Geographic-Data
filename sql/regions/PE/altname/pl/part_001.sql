@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PE-AMA', 'pl', 'Region Amazonas'),
+('PE-ANC', 'pl', 'Region Ancash'),
+('PE-APU', 'pl', 'Region Apurímac'),
+('PE-ARE', 'pl', 'Region Arequipa'),
+('PE-AYA', 'pl', 'Region Ayacucho'),
+('PE-CAJ', 'pl', 'Region Cajamarca'),
+('PE-CAL', 'pl', 'Callao'),
+('PE-CUS', 'pl', 'Region Cuzco'),
+('PE-HUC', 'pl', 'Region Huánuco'),
+('PE-HUV', 'pl', 'Region Huancavelica'),
+('PE-ICA', 'pl', 'Region Ica'),
+('PE-JUN', 'pl', 'Region Junín'),
+('PE-LAL', 'pl', 'Region La Libertad'),
+('PE-LAM', 'pl', 'Region Lambayeque'),
+('PE-LIM', 'pl', 'Region Lima'),
+('PE-LMA', 'pl', 'Prowincja Lima'),
+('PE-LOR', 'pl', 'Region Loreto'),
+('PE-MDD', 'pl', 'Region Madre de Dios'),
+('PE-MOQ', 'pl', 'Region Moquegua'),
+('PE-PAS', 'pl', 'Region Pasco'),
+('PE-PIU', 'pl', 'Region Piura'),
+('PE-PUN', 'pl', 'Region Puno'),
+('PE-SAM', 'pl', 'Region San Martín'),
+('PE-TAC', 'pl', 'Region Tacna'),
+('PE-TUM', 'pl', 'Region Tumbes'),
+('PE-UCA', 'pl', 'Region Ukajali');
+
+SET FOREIGN_KEY_CHECKS=1;

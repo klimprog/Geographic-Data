@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'lb', 'Anenii Noi'),
+('MD-BA', 'lb', 'Bălţi'),
+('MD-BD', 'lb', 'Bender'),
+('MD-BR', 'lb', 'Briceni'),
+('MD-BS', 'lb', 'Basarabeasca'),
+('MD-CA', 'lb', 'Raionul Cahul'),
+('MD-CL', 'lb', 'Raionul Calarasi'),
+('MD-CM', 'lb', 'Cimislia'),
+('MD-CR', 'lb', 'Criuleni'),
+('MD-CS', 'lb', 'Raionul Causeni'),
+('MD-CT', 'lb', 'Cantemir'),
+('MD-CU', 'lb', 'Municipiul Chisinau'),
+('MD-DO', 'lb', 'Donduseni'),
+('MD-DR', 'lb', 'Raionul Drochia'),
+('MD-DU', 'lb', 'Raionul Dubasari'),
+('MD-ED', 'lb', 'Raionul Edinet'),
+('MD-FA', 'lb', 'Falesti'),
+('MD-FL', 'lb', 'Floresti'),
+('MD-GA', 'lb', 'Gagauzia'),
+('MD-GL', 'lb', 'Glodeni'),
+('MD-HI', 'lb', 'Hincesti'),
+('MD-IA', 'lb', 'Ialoveni'),
+('MD-LE', 'lb', 'Leova'),
+('MD-NI', 'lb', 'Nisporeni'),
+('MD-OC', 'lb', 'Raionul Ocnita'),
+('MD-OR', 'lb', 'Orhei'),
+('MD-RE', 'lb', 'Rezina'),
+('MD-RI', 'lb', 'Riscani'),
+('MD-SD', 'lb', 'Soldanesti'),
+('MD-SI', 'lb', 'Singerei'),
+('MD-SN', 'lb', 'Administrativ-Territorial Unitéiten vun der lénkser Bank vun der Dniester'),
+('MD-SO', 'lb', 'Raionul Soroca'),
+('MD-ST', 'lb', 'Raionul Straseni'),
+('MD-SV', 'lb', 'Raionul Stefan Voda'),
+('MD-TA', 'lb', 'Taraclia'),
+('MD-TE', 'lb', 'Telenesti'),
+('MD-UN', 'lb', 'Raionul Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

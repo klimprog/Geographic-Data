@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SE-AB', 'tr', 'Stockholm'),
+('SE-AC', 'tr', 'Västerbotten ili'),
+('SE-BD', 'tr', 'Norrbotten ili'),
+('SE-C', 'tr', 'Uppsala ili'),
+('SE-D', 'tr', 'Södermanland ili'),
+('SE-E', 'tr', 'Östergötland ili'),
+('SE-F', 'tr', 'Jönköping ili'),
+('SE-G', 'tr', 'Kronoberg ili'),
+('SE-H', 'tr', 'Kalmar ili'),
+('SE-I', 'tr', 'Gotland ili'),
+('SE-K', 'tr', 'Blekinge ili'),
+('SE-M', 'tr', 'Skåne ili'),
+('SE-N', 'tr', 'Halland ili'),
+('SE-O', 'tr', 'Västra Götaland ili'),
+('SE-S', 'tr', 'Värmland ili'),
+('SE-T', 'tr', 'Örebro ili'),
+('SE-U', 'tr', 'Västmanland ili'),
+('SE-W', 'tr', 'Dalarna ili'),
+('SE-X', 'tr', 'Gävleborg ili'),
+('SE-Y', 'tr', 'Västernorrland ili'),
+('SE-Z', 'tr', 'Jämtland ili');
+
+SET FOREIGN_KEY_CHECKS=1;

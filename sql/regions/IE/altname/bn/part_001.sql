@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'bn', 'কনখট'),
+('IE-CE', 'bn', 'ক্লেয়ার'),
+('IE-CN', 'bn', 'কাভান'),
+('IE-CO', 'bn', 'কর্ক'),
+('IE-CW', 'bn', 'কার্লো'),
+('IE-D', 'bn', 'ডাবলিন'),
+('IE-DL', 'bn', 'ডোনেগাল'),
+('IE-G', 'bn', 'গালওয়ে'),
+('IE-KE', 'bn', 'কিল্ডারে'),
+('IE-KK', 'bn', 'কিলকেনি'),
+('IE-KY', 'bn', 'কেরি'),
+('IE-L', 'bn', 'লেইনস্টার'),
+('IE-LD', 'bn', 'লংফোর্ড'),
+('IE-LH', 'bn', 'লাউথ'),
+('IE-LK', 'bn', 'লিমেরিক'),
+('IE-LM', 'bn', 'লেইট্রিম'),
+('IE-LS', 'bn', 'লাওইস'),
+('IE-M', 'bn', 'মানস্টার'),
+('IE-MH', 'bn', 'মেথ'),
+('IE-MN', 'bn', 'মোনাঘান'),
+('IE-MO', 'bn', 'মায়ো'),
+('IE-OY', 'bn', 'অফলি'),
+('IE-RN', 'bn', 'রসকমন'),
+('IE-SO', 'bn', 'স্লাইগো'),
+('IE-TA', 'bn', 'টিপারারি'),
+('IE-U', 'bn', 'আল্সটার'),
+('IE-WD', 'bn', 'ওয়াটারফোর্ড'),
+('IE-WH', 'bn', 'ওয়েস্টমিথ'),
+('IE-WW', 'bn', 'উইকলো'),
+('IE-WX', 'bn', 'ওয়েক্সফোর্ড');
+
+SET FOREIGN_KEY_CHECKS=1;

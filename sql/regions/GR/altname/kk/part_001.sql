@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GR-69', 'kk', 'Афон Тауы'),
+('GR-A', 'kk', 'Шығыс Македония және Фракия'),
+('GR-B', 'kk', 'Орталық Македония'),
+('GR-C', 'kk', 'Батыс Македония'),
+('GR-D', 'kk', 'Эпирус'),
+('GR-E', 'kk', 'Фессалия'),
+('GR-F', 'kk', 'Иондық аралдары'),
+('GR-G', 'kk', 'Батыс Греция'),
+('GR-H', 'kk', 'Орталық Греция'),
+('GR-I', 'kk', 'Аттика'),
+('GR-J', 'kk', 'Пелопоннес'),
+('GR-K', 'kk', 'Солтүстік Эгей'),
+('GR-L', 'kk', 'Оңтүстік Эгей'),
+('GR-M', 'kk', 'Крит');
+
+SET FOREIGN_KEY_CHECKS=1;

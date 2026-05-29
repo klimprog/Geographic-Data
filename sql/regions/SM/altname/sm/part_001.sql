@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SM-01', 'sm', 'Acquaviva'),
+('SM-02', 'sm', 'Chiesanuova'),
+('SM-03', 'sm', 'Domagnano'),
+('SM-04', 'sm', 'Faetano'),
+('SM-05', 'sm', 'Fiorentino'),
+('SM-06', 'sm', 'Borgo Maggiore'),
+('SM-07', 'sm', 'Castello i San Marino Citta'),
+('SM-08', 'sm', 'Montegiardino'),
+('SM-09', 'sm', 'Serravalle');
+
+SET FOREIGN_KEY_CHECKS=1;

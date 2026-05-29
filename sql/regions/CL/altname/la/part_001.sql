@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CL-AI', 'la', 'regio Aysenensis'),
+('CL-AN', 'la', 'Regio Antofagastensis'),
+('CL-AP', 'la', 'Arica y Parinacota'),
+('CL-AR', 'la', 'Regio Araucana'),
+('CL-AT', 'la', 'Regio Atacamensis'),
+('CL-BI', 'la', 'Regio Biobioensis'),
+('CL-CO', 'la', 'Coquimbo'),
+('CL-LI', 'la', 'Libertador General Bernardo O''Higgins'),
+('CL-LL', 'la', 'Regio Lacustris seu Lacuum'),
+('CL-LR', 'la', 'Regio Fluminum'),
+('CL-MA', 'la', 'regio Magellanensis et Antarctica Chilensis'),
+('CL-ML', 'la', 'Regio Maulensis'),
+('CL-NB', 'la', 'regio Nublensis'),
+('CL-RM', 'la', 'Regio Metropolitana Iacobopolis'),
+('CL-TA', 'la', 'Regio Tarapacensis'),
+('CL-VS', 'la', 'Regio Vallis Paradisi');
+
+SET FOREIGN_KEY_CHECKS=1;

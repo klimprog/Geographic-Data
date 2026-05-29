@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'cs', 'Balch'),
+('AF-BAM', 'cs', 'Bamján'),
+('AF-BDG', 'cs', 'Bádghís'),
+('AF-BDS', 'cs', 'Badachšán'),
+('AF-BGL', 'cs', 'Baghlán'),
+('AF-DAY', 'cs', 'Dájkundí'),
+('AF-FRA', 'cs', 'Faráh'),
+('AF-FYB', 'cs', 'Fárjáb'),
+('AF-GHA', 'cs', 'Ghazní'),
+('AF-GHO', 'cs', 'Ghór'),
+('AF-HEL', 'cs', 'Hilmand'),
+('AF-HER', 'cs', 'Herát'),
+('AF-JOW', 'cs', 'Džúzdžán'),
+('AF-KAB', 'cs', 'Kábul'),
+('AF-KAN', 'cs', 'Kandahár'),
+('AF-KAP', 'cs', 'Kápísá'),
+('AF-KDZ', 'cs', 'Kundúz'),
+('AF-KHO', 'cs', 'Chóst'),
+('AF-KNR', 'cs', 'Kúnar'),
+('AF-LAG', 'cs', 'Laghmán'),
+('AF-LOG', 'cs', 'Lógar'),
+('AF-NAN', 'cs', 'Nangarhár'),
+('AF-NIM', 'cs', 'Nímróz'),
+('AF-NUR', 'cs', 'Núristán'),
+('AF-PAN', 'cs', 'Pandžšír'),
+('AF-PAR', 'cs', 'Parván'),
+('AF-PIA', 'cs', 'Paktíja'),
+('AF-PKA', 'cs', 'Paktíka'),
+('AF-SAM', 'cs', 'Samangán'),
+('AF-SAR', 'cs', 'Sar-e Pol'),
+('AF-TAK', 'cs', 'Tachár'),
+('AF-URU', 'cs', 'Orúzgán'),
+('AF-WAR', 'cs', 'Vardak'),
+('AF-ZAB', 'cs', 'Zábul');
+
+SET FOREIGN_KEY_CHECKS=1;

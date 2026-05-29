@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LA-AT', 'ne', 'अट्टापु'),
+('LA-BK', 'ne', 'ख्होउएङ्ग बोको'),
+('LA-BL', 'ne', 'बोलिखम्क्सई'),
+('LA-CH', 'ne', 'चम्पसक'),
+('LA-HO', 'ne', 'हाउफान'),
+('LA-KH', 'ne', 'खम्मौवान'),
+('LA-LM', 'ne', 'लुआङनम्था'),
+('LA-LP', 'ne', 'लुआंग प्राबाङ प्रान्त'),
+('LA-OU', 'ne', 'ख्होउएङ्ग ओउदोम्क्षै'),
+('LA-PH', 'ne', 'खुङ फोंगसाली'),
+('LA-SL', 'ne', 'सलावान'),
+('LA-SV', 'ne', 'खुउङ सवानाखेत'),
+('LA-VI', 'ne', 'भेन्टियान प्रान्त'),
+('LA-VT', 'ne', 'भियन्तियाने प्रान्त'),
+('LA-XA', 'ne', 'झाइग्नाबुली'),
+('LA-XE', 'ne', 'खुङ शेकोङ'),
+('LA-XI', 'ne', 'सियाङखाउङ'),
+('LA-XS', 'ne', 'क्साइसोम्बुन प्रान्त');
+
+SET FOREIGN_KEY_CHECKS=1;

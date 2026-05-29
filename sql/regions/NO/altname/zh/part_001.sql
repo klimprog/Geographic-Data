@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NO-03', 'zh', '奥斯陆'),
+('NO-11', 'zh', '罗加兰郡'),
+('NO-15', 'zh', '默勒-鲁姆斯达尔郡'),
+('NO-18', 'zh', '诺尔兰郡'),
+('NO-21', 'zh', '斯瓦尔巴群岛（北极地区）'),
+('NO-22', 'zh', '扬马延（北极地区）'),
+('NO-30', 'zh', '維肯郡'),
+('NO-34', 'zh', '內陸郡'),
+('NO-38', 'zh', '西福尔-泰勒马克郡'),
+('NO-42', 'zh', '阿格德爾'),
+('NO-46', 'zh', '韋斯特蘭郡'),
+('NO-50', 'zh', '特倫德拉格'),
+('NO-54', 'zh', '特罗姆斯-芬马克郡');
+
+SET FOREIGN_KEY_CHECKS=1;

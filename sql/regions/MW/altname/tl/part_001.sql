@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'tl', 'Balaka'),
+('MW-BL', 'tl', 'Blantyre'),
+('MW-C', 'tl', 'Gitnang Rehiyon'),
+('MW-CK', 'tl', 'Chikwawa'),
+('MW-CR', 'tl', 'Chiradzulu'),
+('MW-CT', 'tl', 'Chitipa'),
+('MW-DE', 'tl', 'Dedza'),
+('MW-DO', 'tl', 'Dowa'),
+('MW-KR', 'tl', 'Karonga'),
+('MW-KS', 'tl', 'Kasungu'),
+('MW-LI', 'tl', 'Lilongwe'),
+('MW-LK', 'tl', 'Likoma'),
+('MW-MC', 'tl', 'Mchinji'),
+('MW-MG', 'tl', 'Mangochi'),
+('MW-MH', 'tl', 'Machinga'),
+('MW-MU', 'tl', 'Mulanje'),
+('MW-MW', 'tl', 'Mwanza'),
+('MW-MZ', 'tl', 'Mzimba'),
+('MW-N', 'tl', 'Hilagang Rehiyon'),
+('MW-NB', 'tl', 'Nkhata Bay'),
+('MW-NE', 'tl', 'Neno'),
+('MW-NI', 'tl', 'Ntchisi'),
+('MW-NK', 'tl', 'Nkhotakota'),
+('MW-NS', 'tl', 'Nsanje'),
+('MW-NU', 'tl', 'Ntcheu'),
+('MW-PH', 'tl', 'Phalombe'),
+('MW-RU', 'tl', 'Rumphi'),
+('MW-S', 'tl', 'Timog Rehiyon'),
+('MW-SA', 'tl', 'Salima'),
+('MW-TH', 'tl', 'Thyolo'),
+('MW-ZO', 'tl', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

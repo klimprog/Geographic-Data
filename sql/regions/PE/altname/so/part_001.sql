@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PE-AMA', 'so', 'Amazonas'),
+('PE-ANC', 'so', 'Ancash'),
+('PE-APU', 'so', 'Apurimac Department'),
+('PE-ARE', 'so', 'Arequipa'),
+('PE-AYA', 'so', 'Ayacucho'),
+('PE-CAJ', 'so', 'Cajamarca Department'),
+('PE-CAL', 'so', NULL),
+('PE-CUS', 'so', 'Cuzco Department'),
+('PE-HUC', 'so', 'Huanuco Department'),
+('PE-HUV', 'so', 'Huancavelica'),
+('PE-ICA', 'so', 'Ica'),
+('PE-JUN', 'so', 'Junin'),
+('PE-LAL', 'so', 'La Libertad'),
+('PE-LAM', 'so', 'Lambayeque'),
+('PE-LIM', 'so', 'Lima region'),
+('PE-LMA', 'so', 'Lima Province'),
+('PE-LOR', 'so', 'Loreto'),
+('PE-MDD', 'so', 'Madre de Dios'),
+('PE-MOQ', 'so', 'Moquegua Department'),
+('PE-PAS', 'so', 'Pasco'),
+('PE-PIU', 'so', 'Piura'),
+('PE-PUN', 'so', 'Puno'),
+('PE-SAM', 'so', 'San Martin Department'),
+('PE-TAC', 'so', 'Tacna'),
+('PE-TUM', 'so', 'Tumbes'),
+('PE-UCA', 'so', 'Ucayali');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'ro', 'Christ Church Nichola Town'),
+('KN-02', 'ro', 'Saint Anne Sandy Point'),
+('KN-03', 'ro', 'Sfântul Gheorghe Basseterre'),
+('KN-04', 'ro', 'Sfântul Gheorghe Gingerland'),
+('KN-05', 'ro', 'Saint James Windward'),
+('KN-06', 'ro', 'Sfântul Ioan Capesterre'),
+('KN-07', 'ro', 'Sfântul Ioan Figtree'),
+('KN-08', 'ro', 'Caionul Sfânta Maria'),
+('KN-09', 'ro', 'Sfântul Paul Capesterre'),
+('KN-10', 'ro', 'Sfântul Paul Charlestown'),
+('KN-11', 'ro', 'Sfântul Petru Basseterre'),
+('KN-12', 'ro', 'Țara de joasă Sfântul Toma'),
+('KN-13', 'ro', 'Insula de mijloc Saint Thomas'),
+('KN-15', 'ro', 'Trinity Palmetto Point'),
+('KN-K', 'ro', 'Saint Kitts'),
+('KN-N', 'ro', 'Nevis');
+
+SET FOREIGN_KEY_CHECKS=1;

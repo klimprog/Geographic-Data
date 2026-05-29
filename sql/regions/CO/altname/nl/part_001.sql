@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'nl', 'Amazonas'),
+('CO-ANT', 'nl', 'Antioquia'),
+('CO-ARA', 'nl', 'Arauca'),
+('CO-ATL', 'nl', 'Atlántico'),
+('CO-BOL', 'nl', 'Bolívar'),
+('CO-BOY', 'nl', 'Boyacá'),
+('CO-CAL', 'nl', 'Caldas'),
+('CO-CAQ', 'nl', 'Caquetá'),
+('CO-CAS', 'nl', 'Casanare'),
+('CO-CAU', 'nl', 'Cauca'),
+('CO-CES', 'nl', 'Cesar'),
+('CO-CHO', 'nl', 'Chocó'),
+('CO-COR', 'nl', 'Córdoba'),
+('CO-CUN', 'nl', 'Cundinamarca'),
+('CO-DC', 'nl', 'Bogota'),
+('CO-GUA', 'nl', 'Guainía'),
+('CO-GUV', 'nl', 'Guaviare'),
+('CO-HUI', 'nl', 'Huila'),
+('CO-LAG', 'nl', 'La Guajira'),
+('CO-MAG', 'nl', 'Magdalena'),
+('CO-MET', 'nl', 'Meta'),
+('CO-NAR', 'nl', 'Nariño'),
+('CO-NSA', 'nl', 'Norte de Santander'),
+('CO-PUT', 'nl', 'Putumayo'),
+('CO-QUI', 'nl', 'Quindío'),
+('CO-RIS', 'nl', 'Risaralda'),
+('CO-SAN', 'nl', 'Santander'),
+('CO-SAP', 'nl', 'San Andrés en Providencia'),
+('CO-SUC', 'nl', 'Sucre'),
+('CO-TOL', 'nl', 'Tolima'),
+('CO-VAC', 'nl', 'Valle del Cauca'),
+('CO-VAU', 'nl', 'Vaupés'),
+('CO-VID', 'nl', 'Vichada');
+
+SET FOREIGN_KEY_CHECKS=1;

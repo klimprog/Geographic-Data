@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(157101491, 2040280, 'bs', 'Santon'),
+(157101799, 2040284, 'bs', 'Ramsey'),
+(157101953, 2040286, 'bs', 'Port Saint Mary'),
+(157102030, 2040287, 'bs', 'Port Erin'),
+(157102107, 2040288, 'bs', 'Peel'),
+(157102184, 2040289, 'bs', 'Patrick'),
+(157102261, 2040290, 'bs', 'Onchan'),
+(157102338, 2040291, 'bs', 'Maughold'),
+(157102415, 2040292, 'bs', 'Lezayre'),
+(157102492, 2040293, 'bs', 'Laxey'),
+(157102569, 2040294, 'bs', 'Kirk Michael'),
+(157102646, 2040295, 'bs', 'Kirk Braddan'),
+(157102723, 2040296, 'bs', 'Jurby'),
+(157102954, 2040299, 'bs', 'Douglas, Ostrvo Man'),
+(157103262, 2040303, 'bs', 'Crosby'),
+(157103493, 2040306, 'bs', 'Colby'),
+(157103570, 2040307, 'bs', 'Castletown'),
+(157103647, 2040308, 'bs', 'Bride'),
+(157103724, 2040309, 'bs', 'Balad Musallam'),
+(157103878, 2040311, 'bs', 'Ballabeg'),
+(157103955, 2040312, 'bs', 'Andreas'),
+(157104032, 2040313, 'bs', 'Ballaugh'),
+(157104263, 2040316, 'bs', 'Little London');
+
+SET FOREIGN_KEY_CHECKS=1;

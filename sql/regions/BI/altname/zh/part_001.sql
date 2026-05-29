@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BI-BB', 'zh', '布班扎省'),
+('BI-BL', 'zh', '布松布拉鄉村省'),
+('BI-BM', 'zh', '布琼布拉市省'),
+('BI-BR', 'zh', '布鲁里省'),
+('BI-CA', 'zh', '坎庫佐省'),
+('BI-CI', 'zh', '锡比托凯省'),
+('BI-GI', 'zh', '基特加省'),
+('BI-KI', 'zh', '基龍多省'),
+('BI-KR', 'zh', '卡鲁济省'),
+('BI-KY', 'zh', '卡揚扎省'),
+('BI-MA', 'zh', '馬坎巴省'),
+('BI-MU', 'zh', '穆拉姆维亚省'),
+('BI-MW', 'zh', '穆瓦洛省'),
+('BI-MY', 'zh', '穆因加省'),
+('BI-NG', 'zh', '恩戈齊省'),
+('BI-RM', 'zh', '鲁蒙盖省'),
+('BI-RT', 'zh', '魯塔納省'),
+('BI-RY', 'zh', '鲁伊吉省');
+
+SET FOREIGN_KEY_CHECKS=1;

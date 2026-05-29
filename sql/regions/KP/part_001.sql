@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('KP-01', 'KP', 'Pyongyang', '평양직할시', NULL, 2514692, 'UTC+9', 'Asia/Pyongyang'),
+('KP-02', 'KP', 'South Pyongan', '平南', 2798354, 4051696, 'UTC+9', 'Asia/Pyongyang'),
+('KP-03', 'KP', 'North Pyongan', '平北', 2813209, 2728662, 'UTC+9', 'Asia/Pyongyang'),
+('KP-04', 'KP', 'Chagang-do', '자강', 2814843, 1299830, 'UTC+9', 'Asia/Pyongyang'),
+('KP-05', 'KP', 'Hwanghae-namdo', '黃南', 2802700, 2310485, 'UTC+9', 'Asia/Pyongyang'),
+('KP-06', 'KP', 'Hwanghae-bukto', '黃北', 2797503, 2113672, 'UTC+9', 'Asia/Pyongyang'),
+('KP-07', 'KP', 'Kangwon-do', '강원도', 2794402, 1477582, 'UTC+9', 'Asia/Pyongyang'),
+('KP-08', 'KP', 'South Hamgyong', '咸南', 2802560, 3066013, 'UTC+9', 'Asia/Pyongyang'),
+('KP-09', 'KP', 'North Hamgyong Province', '咸北', 2815601, 2327362, 'UTC+8, UTC+9', 'Asia/Pyongyang, Asia/Shanghai'),
+('KP-10', 'KP', 'Ryanggang', '兩江', 2814994, 719269, 'UTC+8, UTC+9', 'Asia/Pyongyang, Asia/Shanghai'),
+('KP-13', 'KP', 'Rason', '라선특별시', 2814331, 196954, 'UTC+9', 'Asia/Pyongyang'),
+('KP-14', 'KP', 'Nampo', NULL, 2799792, NULL, 'UTC+9', 'Asia/Pyongyang'),
+('KP-15', 'KP', 'Kaesong', NULL, 2801734, NULL, 'UTC+9', 'Asia/Pyongyang');
+
+SET FOREIGN_KEY_CHECKS=1;

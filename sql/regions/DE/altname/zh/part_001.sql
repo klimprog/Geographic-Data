@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'zh', '勃兰登堡'),
+('DE-BE', 'zh', '柏林'),
+('DE-BW', 'zh', '巴登-符腾堡'),
+('DE-BY', 'zh', '巴伐利亚州'),
+('DE-HB', 'zh', '不來梅州'),
+('DE-HE', 'zh', '黑森州'),
+('DE-HH', 'zh', '汉堡'),
+('DE-MV', 'zh', '梅克伦堡－前波美拉尼亚'),
+('DE-NI', 'zh', '下萨克森'),
+('DE-NW', 'zh', '北莱茵-威斯特法伦'),
+('DE-RP', 'zh', '莱茵兰-普法尔茨'),
+('DE-SH', 'zh', '石勒苏益格-荷尔斯泰因'),
+('DE-SL', 'zh', '萨尔兰州'),
+('DE-SN', 'zh', '萨克森自由州'),
+('DE-ST', 'zh', '萨克森-安哈尔特'),
+('DE-TH', 'zh', '圖林根州');
+
+SET FOREIGN_KEY_CHECKS=1;

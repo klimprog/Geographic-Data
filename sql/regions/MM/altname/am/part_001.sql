@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MM-01', 'am', 'ሳጋይንግ ክልል'),
+('MM-02', 'am', 'ባጎ ክልል'),
+('MM-03', 'am', 'ማግዋይ'),
+('MM-04', 'am', 'ማንዳሌ ክልል'),
+('MM-05', 'am', 'ታንንታሪ ክልል'),
+('MM-06', 'am', 'ያንጎን'),
+('MM-07', 'am', 'አየያርዋዲ'),
+('MM-11', 'am', 'ካቺን ክልል'),
+('MM-12', 'am', 'ካያ ክልል'),
+('MM-13', 'am', 'ካይን ክልል'),
+('MM-14', 'am', 'ቺን ክልል'),
+('MM-15', 'am', 'ሞን'),
+('MM-16', 'am', 'ራካይን'),
+('MM-17', 'am', 'ሻን ክልል'),
+('MM-18', 'am', 'ናይ ፒዪ ታው');
+
+SET FOREIGN_KEY_CHECKS=1;

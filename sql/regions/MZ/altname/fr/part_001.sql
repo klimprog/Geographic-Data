@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MZ-A', 'fr', 'Niassa'),
+('MZ-B', 'fr', 'Manica'),
+('MZ-G', 'fr', 'Gaza'),
+('MZ-I', 'fr', 'Inhambane'),
+('MZ-L', 'fr', 'Province de Maputo'),
+('MZ-MPM', 'fr', 'Ville de Maputo'),
+('MZ-N', 'fr', 'Nampula'),
+('MZ-P', 'fr', 'Cabo Delgado'),
+('MZ-Q', 'fr', 'Zambézie'),
+('MZ-S', 'fr', 'Sofala'),
+('MZ-T', 'fr', 'Tete');
+
+SET FOREIGN_KEY_CHECKS=1;

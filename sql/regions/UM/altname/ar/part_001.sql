@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'ar', 'جزيرة جونستون المرجانية'),
+('UM-71', 'ar', 'جزر ميدواي'),
+('UM-76', 'ar', 'جزيرة نافاسا'),
+('UM-79', 'ar', 'وَكِ ِسلَند'),
+('UM-81', 'ar', 'جزيرة بيكر'),
+('UM-84', 'ar', 'جزيرة هاولاند'),
+('UM-86', 'ar', 'جزيرة جارفيس'),
+('UM-89', 'ar', 'شعب كينغمان المرجانية'),
+('UM-95', 'ar', 'جزر بالميرا المرجانية');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MN-035', 'tr', 'Orhun'),
+('MN-037', 'tr', 'Darhan-Ul'),
+('MN-039', 'tr', 'Hentii ili'),
+('MN-041', 'tr', 'Hövsgöl'),
+('MN-043', 'tr', 'Hovd'),
+('MN-046', 'tr', 'Uvs'),
+('MN-047', 'tr', 'Tuv'),
+('MN-049', 'tr', 'Selenge'),
+('MN-051', 'tr', 'Sühbatur'),
+('MN-053', 'tr', 'Umnugobi'),
+('MN-055', 'tr', 'Övörhangay'),
+('MN-057', 'tr', 'Zavhan'),
+('MN-059', 'tr', 'Dundgobi'),
+('MN-061', 'tr', 'Dornod'),
+('MN-063', 'tr', 'Dornogobi'),
+('MN-064', 'tr', 'Gobisümber'),
+('MN-065', 'tr', 'Gobi-Altay'),
+('MN-067', 'tr', 'Bulgan'),
+('MN-069', 'tr', 'Bayanhongor'),
+('MN-071', 'tr', 'Bayan Ölgii ili'),
+('MN-073', 'tr', 'Arhangay'),
+('MN-1', 'tr', 'Ulan Batur');
+
+SET FOREIGN_KEY_CHECKS=1;

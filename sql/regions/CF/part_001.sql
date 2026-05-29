@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('CF-AC', 'CF', 'Ouham', 'Ouham', 377723, 369220, 'UTC+1', 'Africa/Bangui'),
+('CF-BB', 'CF', 'Bamingui-Bangoran', 'Bamingui-Bangoran', 374340, 39779, 'UTC+1', 'Africa/Bangui'),
+('CF-BGF', 'CF', 'Commune de Bangui', 'Bangui', NULL, 542393, 'UTC+1', 'Africa/Bangui'),
+('CF-BK', 'CF', 'Basse-Kotto', 'Basse-Kotto', 374373, 205805, 'UTC+1', 'Africa/Bangui'),
+('CF-HK', 'CF', 'Haute-Kotto', 'Haute-Kotto', 375210, 72244, 'UTC+1', 'Africa/Bangui'),
+('CF-HM', 'CF', 'Haut-Mbomou', 'Haut-Mbomou', 374207, 39543, 'UTC+1', 'Africa/Bangui'),
+('CF-HS', 'CF', 'Mambere-Kadei', 'Mambéré-Kadéï', 378318, 299555, 'UTC+1', 'Africa/Bangui'),
+('CF-KB', 'CF', 'Prefecture de la Nana-Grebizi', 'Nana-Grébizi', 376873, 117816, 'UTC+1', 'Africa/Bangui'),
+('CF-KG', 'CF', 'Prefecture de la Kemo', 'Kémo', 376059, 101627, 'UTC+1', 'Africa/Bangui'),
+('CF-LB', 'CF', 'Lobaye', 'Lobaye', 376523, 220983, 'UTC+1', 'Africa/Bangui'),
+('CF-MB', 'CF', 'Mbomou', 'Mbomou', 375434, 164009, 'UTC+1', 'Africa/Bangui'),
+('CF-MP', 'CF', 'Ombella-Mpoko', 'Ombella-M''Poko', 378264, 323347, 'UTC+1', 'Africa/Bangui'),
+('CF-NM', 'CF', 'Prefecture de la Nana-Mambere', 'Nana-Mambéré', 377630, 185013, 'UTC+1', 'Africa/Bangui'),
+('CF-OP', 'CF', 'Prefecture de l''Ouham-Pende', 'Ouham-Pendé', 377397, 333161, 'UTC+1', 'Africa/Bangui'),
+('CF-SE', 'CF', 'Prefecture de la Sangha-Mbaere', 'Sangha-Mbaéré', 376274, 93537, 'UTC+1', 'Africa/Bangui'),
+('CF-UK', 'CF', 'Ouaka', 'Ouaka', 375487, 226816, 'UTC+1', 'Africa/Bangui'),
+('CF-VK', 'CF', 'Vakaga', 'Vakaga', 375323, 38096, 'UTC+1', 'Africa/Bangui');
+
+SET FOREIGN_KEY_CHECKS=1;

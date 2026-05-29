@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('LI-01', 'LI', 'Balzers', 'Balzers', 2915676, 4447, 'UTC+1', 'Europe/Vaduz'),
+('LI-02', 'LI', 'Eschen', 'Eschen', 2915674, 4008, 'UTC+1', 'Europe/Vaduz'),
+('LI-03', 'LI', 'Gamprin', 'Gamprin', 2915673, 1268, 'UTC+1', 'Europe/Vaduz'),
+('LI-04', 'LI', 'Mauren', 'Mauren', 2915672, 3626, 'UTC+1', 'Europe/Vaduz'),
+('LI-05', 'LI', 'Planken', 'Planken', 2915670, 377, 'UTC+1', 'Europe/Vaduz'),
+('LI-06', 'LI', 'Ruggell', 'Ruggell', 2915669, 1862, 'UTC+1', 'Europe/Vaduz'),
+('LI-07', 'LI', 'Schaan', 'Schaan', 2915668, 5748, 'UTC+1', 'Europe/Vaduz'),
+('LI-08', 'LI', 'Schellenberg', 'Schellenberg', 2915666, 1004, 'UTC+1', 'Europe/Vaduz'),
+('LI-09', 'LI', 'Triesen', 'Triesen', 2915665, 4701, 'UTC+1', 'Europe/Vaduz'),
+('LI-10', 'LI', 'Triesenberg', 'Triesenberg', 2915664, 2689, 'UTC+1', 'Europe/Vaduz'),
+('LI-11', 'LI', 'Vaduz', 'Vaduz', NULL, 5197, 'UTC+1', 'Europe/Vaduz');
+
+SET FOREIGN_KEY_CHECKS=1;

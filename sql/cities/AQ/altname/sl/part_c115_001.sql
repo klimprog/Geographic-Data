@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072127, 52885, 'sl', 'Villa Las Estrellas'),
+(4072204, 52886, 'sl', 'Postaja Davis'),
+(4072281, 52887, 'sl', 'General baze Bernardo O''Higgins Riquelme'),
+(4072358, 52888, 'sl', 'Postaja Showa'),
+(4072435, 52889, 'sl', 'Postaja Jang Bogo'),
+(4072512, 52890, 'sl', 'Postaja SANAE IV'),
+(4072589, 52891, 'sl', 'Postaja Qinling'),
+(4072666, 52892, 'sl', 'Postaja Zhongshan'),
+(4072743, 52893, 'sl', 'Postaja Mawson'),
+(4072974, 52896, 'sl', 'Postaja napredka'),
+(4073205, 52899, 'sl', 'Postaja Novolazarevskaya'),
+(4073359, 52901, 'sl', 'Postaja Mirny');
+
+SET FOREIGN_KEY_CHECKS=1;

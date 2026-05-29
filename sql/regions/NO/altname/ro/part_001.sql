@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NO-03', 'ro', 'Oslo'),
+('NO-11', 'ro', 'Rogaland'),
+('NO-15', 'ro', 'Møre og Romsdal'),
+('NO-18', 'ro', 'Nordland'),
+('NO-21', 'ro', 'Svalbard (regiunea arctică)'),
+('NO-22', 'ro', 'Jan Mayen (regiunea arctică)'),
+('NO-30', 'ro', 'Viken'),
+('NO-34', 'ro', 'Innlandet'),
+('NO-38', 'ro', 'Vestfold og Telemark'),
+('NO-42', 'ro', 'Agder'),
+('NO-46', 'ro', 'Vestland'),
+('NO-50', 'ro', 'Trøndelag'),
+('NO-54', 'ro', 'Troms og Finnmark');
+
+SET FOREIGN_KEY_CHECKS=1;

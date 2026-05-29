@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PG-CPK', 'lt', 'Čimbu provincija'),
+('PG-CPM', 'lt', 'Centrinė provincija'),
+('PG-EBR', 'lt', 'Rytinė Naujosios Britanijos provincija'),
+('PG-EHG', 'lt', 'Rytų Kanų provincija'),
+('PG-EPW', 'lt', 'Engos provincija'),
+('PG-ESW', 'lt', 'Rytų Sepiko provincija'),
+('PG-GPK', 'lt', 'Galfas'),
+('PG-HLA', 'lt', 'Helos provincija'),
+('PG-JWK', 'lt', 'Dživakos provincija'),
+('PG-MBA', 'lt', 'Milne Bėjaus provincija'),
+('PG-MPL', 'lt', 'Morobės provincija'),
+('PG-MPM', 'lt', 'Madango provincija'),
+('PG-MRL', 'lt', 'Manuso provincija'),
+('PG-NCD', 'lt', 'Nacionalinė sostinės teritorija (Papua Naujoji Gvinėja)'),
+('PG-NIK', 'lt', 'Naujosios Airijos provincija'),
+('PG-NPP', 'lt', 'Oro provincija'),
+('PG-NSB', 'lt', 'Bugenvilio autonominis regionas'),
+('PG-SAN', 'lt', 'Sandauno provincija'),
+('PG-SHM', 'lt', 'Pietinis Kalnų regionas'),
+('PG-WBK', 'lt', 'Rytų Naujosios Britanijos provincija'),
+('PG-WHM', 'lt', 'Rytų Kalniečių provincija'),
+('PG-WPD', 'lt', 'Vakarų provincija');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PA-1', 'sq', 'Provinca e Bocas del Toro'),
+('PA-10', 'sq', 'Panama Oeste'),
+('PA-2', 'sq', 'Provincia de Cocle'),
+('PA-3', 'sq', 'Provincia de Colon'),
+('PA-4', 'sq', 'Provincia de Chiriqui'),
+('PA-5', 'sq', 'Provincia del Darien'),
+('PA-6', 'sq', 'Provincia de Herrera'),
+('PA-7', 'sq', 'Provinca e Los Santos'),
+('PA-8', 'sq', 'Provincia de Panama'),
+('PA-9', 'sq', 'Provinca e Veraguas'),
+('PA-EM', 'sq', 'Embera'),
+('PA-KY', 'sq', 'Guna Yala'),
+('PA-NB', 'sq', 'Ngoebe-Bugle'),
+('PA-NT', 'sq', 'Naso Tjer Di');
+
+SET FOREIGN_KEY_CHECKS=1;

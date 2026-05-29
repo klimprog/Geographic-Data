@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'bn', 'বালাকা'),
+('MW-BL', 'bn', 'ব্লানটায়ার'),
+('MW-C', 'bn', 'কেন্দ্রীয় Region'),
+('MW-CK', 'bn', 'চিকওয়াওয়া'),
+('MW-CR', 'bn', 'চিরোডজুলু'),
+('MW-CT', 'bn', 'চিটিপা'),
+('MW-DE', 'bn', 'ডেডজা'),
+('MW-DO', 'bn', 'দোওয়া'),
+('MW-KR', 'bn', 'কারোঙ্গা'),
+('MW-KS', 'bn', 'কাসুঙ্গু'),
+('MW-LI', 'bn', 'লিলংওয়ে'),
+('MW-LK', 'bn', 'লিকোমা'),
+('MW-MC', 'bn', 'মচিনজি'),
+('MW-MG', 'bn', 'মাঙ্গোচি'),
+('MW-MH', 'bn', 'মাচিঙ্গা'),
+('MW-MU', 'bn', 'মুলানজে'),
+('MW-MW', 'bn', 'মওয়ানজা'),
+('MW-MZ', 'bn', 'মজিম্বা'),
+('MW-N', 'bn', 'উত্তর Region'),
+('MW-NB', 'bn', 'নখাতা উপসাগর'),
+('MW-NE', 'bn', 'নেনো'),
+('MW-NI', 'bn', 'নতচিসি'),
+('MW-NK', 'bn', 'নখোতাকোটা'),
+('MW-NS', 'bn', 'নসানজে'),
+('MW-NU', 'bn', 'নটচেউ'),
+('MW-PH', 'bn', 'ফালোম্বে'),
+('MW-RU', 'bn', 'রুমফি'),
+('MW-S', 'bn', 'দক্ষিণ Region'),
+('MW-SA', 'bn', 'সালিমা'),
+('MW-TH', 'bn', 'থাইওলো'),
+('MW-ZO', 'bn', 'জোম্বা');
+
+SET FOREIGN_KEY_CHECKS=1;

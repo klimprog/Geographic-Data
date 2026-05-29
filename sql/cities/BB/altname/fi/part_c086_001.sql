@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(9634568, 125125, 'fi', 'Wotton'),
+(9635261, 125134, 'fi', 'White Hill'),
+(9635877, 125142, 'fi', 'Welchman Hall'),
+(9638803, 125180, 'fi', 'Crane'),
+(9639188, 125185, 'fi', 'Sutherland Road'),
+(9639419, 125188, 'fi', 'Sunset Crest'),
+(9640420, 125201, 'fi', 'Speightstown'),
+(9640805, 125206, 'fi', 'Six Mens'),
+(9640882, 125207, 'fi', 'Six Cross Roads'),
+(9647427, 125292, 'fi', 'Oistins'),
+(9649352, 125317, 'fi', 'Mile and a Quarter'),
+(9654588, 125385, 'fi', 'Holetown'),
+(9654819, 125388, 'fi', 'Hillaby'),
+(9656513, 125410, 'fi', 'Grönlanti'),
+(9657822, 125427, 'fi', 'Garrison'),
+(9658669, 125438, 'fi', 'Neljä Tuulta'),
+(9658823, 125440, 'fi', 'Four Cross Roads'),
+(9659054, 125443, 'fi', 'Foster Hall'),
+(9659285, 125446, 'fi', 'Flat Rock'),
+(9662673, 125490, 'fi', 'Crab Hill'),
+(9663443, 125500, 'fi', 'Colleton'),
+(9665137, 125522, 'fi', 'Checker Hall'),
+(9666754, 125543, 'fi', 'Bruce Vale'),
+(9667139, 125548, 'fi', 'Bridgetown'),
+(9668448, 125565, 'fi', 'Blackmans'),
+(9669295, 125576, 'fi', 'Bel Air'),
+(9669603, 125580, 'fi', 'Bathsheba'),
+(9669988, 125585, 'fi', 'Babbs'),
+(9671836, 125609, 'fi', 'Thorpes Cottage');
+
+SET FOREIGN_KEY_CHECKS=1;

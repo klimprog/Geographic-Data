@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'sk', 'Západná provincia'),
+('LK-11', 'sk', 'Colombo'),
+('LK-12', 'sk', 'Gampaha'),
+('LK-13', 'sk', 'Kalutara'),
+('LK-2', 'sk', 'centrálna provincia'),
+('LK-21', 'sk', 'Kandy'),
+('LK-22', 'sk', 'Matale'),
+('LK-23', 'sk', 'Nuwara Eliya'),
+('LK-3', 'sk', 'Južná provincia'),
+('LK-31', 'sk', 'Galle'),
+('LK-32', 'sk', 'Matara'),
+('LK-33', 'sk', 'Hambantota'),
+('LK-4', 'sk', 'Severná provincia'),
+('LK-41', 'sk', 'Jaffna'),
+('LK-42', 'sk', 'Kilinochchi'),
+('LK-43', 'sk', 'Mannar'),
+('LK-44', 'sk', 'Vavuniya'),
+('LK-45', 'sk', 'Mullaittivu'),
+('LK-5', 'sk', 'Východná provincia'),
+('LK-51', 'sk', 'Batticaloa'),
+('LK-52', 'sk', 'Ampara'),
+('LK-53', 'sk', 'Trincomalee'),
+('LK-6', 'sk', 'Severozápadná provincia'),
+('LK-61', 'sk', 'Kurunegala'),
+('LK-62', 'sk', 'Puttalam'),
+('LK-7', 'sk', 'Severná centrálna provincia'),
+('LK-71', 'sk', 'Anuradhapura'),
+('LK-72', 'sk', 'Polonnaruwa'),
+('LK-8', 'sk', 'Provincia Uva'),
+('LK-81', 'sk', 'Badulla'),
+('LK-82', 'sk', 'Monaragala'),
+('LK-9', 'sk', 'Provincia Sabaragamuwa'),
+('LK-91', 'sk', 'Ratnapura'),
+('LK-92', 'sk', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

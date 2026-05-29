@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(16037366, 208278, 'ky', 'Флаттс Виллаге'),
+(16037520, 208280, 'ky', 'Сомерсет Виллаге'),
+(16037674, 208282, 'ky', 'Сент-Джордж'),
+(16038213, 208289, 'ky', 'Гамильтон'),
+(16038675, 208295, 'ky', 'Цросс Баы'),
+(16038752, 208296, 'ky', 'Стовел Баы');
+
+SET FOREIGN_KEY_CHECKS=1;

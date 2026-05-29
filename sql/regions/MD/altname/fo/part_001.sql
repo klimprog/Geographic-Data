@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'fo', 'Anenii Noi'),
+('MD-BA', 'fo', 'Bălţi'),
+('MD-BD', 'fo', 'Bender'),
+('MD-BR', 'fo', 'Briceni'),
+('MD-BS', 'fo', 'Basarabeasca'),
+('MD-CA', 'fo', 'Raiónul Cahul'),
+('MD-CL', 'fo', 'Raiónul Calarasi'),
+('MD-CM', 'fo', 'Cimislía'),
+('MD-CR', 'fo', 'Criuleni'),
+('MD-CS', 'fo', 'Raiónul Causeni'),
+('MD-CT', 'fo', 'Kantemir'),
+('MD-CU', 'fo', NULL),
+('MD-DO', 'fo', 'Donduseni'),
+('MD-DR', 'fo', 'Raiónul Drókia'),
+('MD-DU', 'fo', 'Rajónul Dubasari'),
+('MD-ED', 'fo', 'Raiónul Edinet'),
+('MD-FA', 'fo', 'Falesti'),
+('MD-FL', 'fo', NULL),
+('MD-GA', 'fo', 'Gagauzia'),
+('MD-GL', 'fo', 'Gloden'),
+('MD-HI', 'fo', 'Hincesti'),
+('MD-IA', 'fo', 'Jaloveni'),
+('MD-LE', 'fo', 'Leova'),
+('MD-NI', 'fo', 'Nisporeni'),
+('MD-OC', 'fo', 'Raiónul Ókníta'),
+('MD-OR', 'fo', 'Orhei'),
+('MD-RE', 'fo', 'Rezina'),
+('MD-RI', 'fo', 'Riskani'),
+('MD-SD', 'fo', 'Soldanesti'),
+('MD-SI', 'fo', 'Singeri'),
+('MD-SN', 'fo', 'Fyrisitingarligar-økiseindir á Vinstra bakka av Dniester'),
+('MD-SO', 'fo', 'Raiónul Sóróka'),
+('MD-ST', 'fo', 'Raiónul Straseni'),
+('MD-SV', 'fo', 'Raiónul Stefan Voda'),
+('MD-TA', 'fo', 'Taraklia'),
+('MD-TE', 'fo', NULL),
+('MD-UN', 'fo', 'Raiónul Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

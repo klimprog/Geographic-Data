@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'lv', 'Amazonasas departaments'),
+('CO-ANT', 'lv', 'Antjokijas departaments'),
+('CO-ARA', 'lv', 'Araukas departments'),
+('CO-ATL', 'lv', 'Atlantiko departaments'),
+('CO-BOL', 'lv', 'Bolivara departaments'),
+('CO-BOY', 'lv', 'Bojasas departaments'),
+('CO-CAL', 'lv', 'Kaldasas departaments'),
+('CO-CAQ', 'lv', 'Kaketas departaments'),
+('CO-CAS', 'lv', 'Kasanares departaments'),
+('CO-CAU', 'lv', 'Kaukas departaments'),
+('CO-CES', 'lv', 'Sesaras departaments'),
+('CO-CHO', 'lv', 'Čoko departaments'),
+('CO-COR', 'lv', 'Kordobas departaments'),
+('CO-CUN', 'lv', 'Kundinamarkas departaments'),
+('CO-DC', 'lv', 'Distrito Capital de Bogota'),
+('CO-GUA', 'lv', 'Gvainijas departaments'),
+('CO-GUV', 'lv', 'Guavjares departaments'),
+('CO-HUI', 'lv', 'Uilas departaments'),
+('CO-LAG', 'lv', 'Lagvahiras departaments'),
+('CO-MAG', 'lv', 'Magdalenas departaments'),
+('CO-MET', 'lv', 'Metas departaments'),
+('CO-NAR', 'lv', 'Narinjo departaments'),
+('CO-NSA', 'lv', 'Ziemeļsantanderas departaments'),
+('CO-PUT', 'lv', 'Putumajo departaments'),
+('CO-QUI', 'lv', 'Kindio departaments'),
+('CO-RIS', 'lv', 'Risaraldas departaments'),
+('CO-SAN', 'lv', 'Santanderas departaments'),
+('CO-SAP', 'lv', 'Sanandresas, Providensijas un Santakatalinas arhipelāgs'),
+('CO-SUC', 'lv', 'Sukres departaments'),
+('CO-TOL', 'lv', 'Tolimas departaments'),
+('CO-VAC', 'lv', 'Valjes del Kaukas departaments'),
+('CO-VAU', 'lv', 'Vaupesas departaments'),
+('CO-VID', 'lv', 'Vičadas departaments');
+
+SET FOREIGN_KEY_CHECKS=1;

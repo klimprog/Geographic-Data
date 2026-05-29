@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'nl', 'Alexandrië'),
+('EG-ASN', 'nl', 'Aswan'),
+('EG-AST', 'nl', 'Assioet'),
+('EG-BA', 'nl', 'Rode Zee'),
+('EG-BH', 'nl', 'Al Buhayrah'),
+('EG-BNS', 'nl', 'Beni Suef'),
+('EG-C', 'nl', 'Gouvernement Caïro'),
+('EG-DK', 'nl', 'Ad Daqahliyah'),
+('EG-DT', 'nl', 'Damietta'),
+('EG-FYM', 'nl', 'Fajoem'),
+('EG-GH', 'nl', 'Al Gharbiyah'),
+('EG-GZ', 'nl', 'Gizeh'),
+('EG-IS', 'nl', 'Ismaïlia'),
+('EG-JS', 'nl', 'Zuid-Sinaï'),
+('EG-KB', 'nl', 'Al Qalyubiyah'),
+('EG-KFS', 'nl', 'Kafr el Sheikh'),
+('EG-KN', 'nl', 'Qina'),
+('EG-LX', 'nl', 'Luxor'),
+('EG-MN', 'nl', 'Minya'),
+('EG-MNF', 'nl', 'Al Minufiyah'),
+('EG-MT', 'nl', 'Matruh'),
+('EG-PTS', 'nl', 'Port Said'),
+('EG-SHG', 'nl', 'Suhaj'),
+('EG-SHR', 'nl', 'Ash Sharqiyah'),
+('EG-SIN', 'nl', 'Noord-Sinaï'),
+('EG-SUZ', 'nl', 'Suez'),
+('EG-WAD', 'nl', 'Nieuwe Vallei');
+
+SET FOREIGN_KEY_CHECKS=1;

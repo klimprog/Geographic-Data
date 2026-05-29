@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'es', 'Voivodato de Baja Silesia'),
+('PL-04', 'es', 'Cuyavia y Pomerania'),
+('PL-06', 'es', 'Voivodato de Lublin'),
+('PL-08', 'es', 'Voivodato de Lubusz'),
+('PL-10', 'es', 'Voivodato de Łódź'),
+('PL-12', 'es', 'Voivodato de Pequeña Polonia'),
+('PL-14', 'es', 'Voivodato de Mazovia'),
+('PL-16', 'es', 'Opole'),
+('PL-18', 'es', 'Voivodato de Subcarpacia'),
+('PL-20', 'es', 'Podlaquia'),
+('PL-22', 'es', 'Pomerania'),
+('PL-24', 'es', 'Silesia'),
+('PL-26', 'es', 'Santa Cruz'),
+('PL-28', 'es', 'Voivodato de Varmia y Masuria'),
+('PL-30', 'es', 'Voivodato de Gran Polonia'),
+('PL-32', 'es', 'Voivodato de Pomerania Occidental');
+
+SET FOREIGN_KEY_CHECKS=1;

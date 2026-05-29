@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SO-AW', 'es', 'Awdal'),
+('SO-BK', 'es', 'Bakool'),
+('SO-BN', 'es', 'Banaadir'),
+('SO-BR', 'es', 'Bari'),
+('SO-BY', 'es', 'Bay'),
+('SO-GA', 'es', 'Galguduud'),
+('SO-GE', 'es', 'Gedo'),
+('SO-HI', 'es', 'Hiiraan'),
+('SO-JD', 'es', 'Juba Medio'),
+('SO-JH', 'es', 'Juba Inferior'),
+('SO-MU', 'es', 'Mudug'),
+('SO-NU', 'es', 'Nugaal'),
+('SO-SA', 'es', 'Sanaag'),
+('SO-SD', 'es', 'Shabelle Medio'),
+('SO-SH', 'es', 'Shabelle Inferior'),
+('SO-SO', 'es', 'Sool'),
+('SO-TO', 'es', 'Togdheer'),
+('SO-WO', 'es', 'Woqooyi Galbeed');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CI-AB', 'bn', 'অ্যাবিজান স্বায়ত্তশাসিত জেলা'),
+('CI-BS', 'bn', 'বাস-সাসান্দ্রা'),
+('CI-CM', 'bn', 'কোমো জেলা'),
+('CI-DN', 'bn', 'ডেঙ্গুলে'),
+('CI-GD', 'bn', 'গোহ-জিবুয়া'),
+('CI-LC', 'bn', 'লাখ'),
+('CI-LG', 'bn', 'লেগুনস'),
+('CI-MG', 'bn', 'মন্টাগনেস'),
+('CI-SM', 'bn', 'সাসান্দ্রা-মারাহু'),
+('CI-SV', 'bn', 'সাভানেস'),
+('CI-VB', 'bn', 'ভ্যালি ডু বান্দামা'),
+('CI-WR', 'bn', 'ওরোবা'),
+('CI-YM', 'bn', 'ইয়ামাউসসুক্রো স্বায়ত্তশাসিত জেলা'),
+('CI-ZZ', 'bn', 'জানজান');
+
+SET FOREIGN_KEY_CHECKS=1;

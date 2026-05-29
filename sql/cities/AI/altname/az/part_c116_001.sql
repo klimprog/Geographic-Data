@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(2426043, 31508, 'az', 'Qərb Ucü Kəndü'),
+(2426274, 31511, 'az', 'Valley'),
+(2426351, 31512, 'az', 'Kvartal'),
+(2426505, 31514, 'az', 'Farrinqton'),
+(2426659, 31516, 'az', 'Daş Yer'),
+(2426736, 31517, 'az', 'Cənub Təpəsi Kəndü'),
+(2426890, 31519, 'az', 'Qumlu Yer Kəndü'),
+(2427044, 31521, 'az', 'Şimal Tərəfi'),
+(2427121, 31522, 'az', 'Şimal Təpəsi Kəndü'),
+(2427660, 31529, 'az', 'Adacıq Limanı'),
+(2427737, 31530, 'az', 'Corcan Təpəsi'),
+(2427891, 31532, 'az', 'Şərq Ucü Kəndü'),
+(2428276, 31537, 'az', 'Esən Nöqtə Kəndü'),
+(2428430, 31539, 'az', 'Qumlu Təpə');
+
+SET FOREIGN_KEY_CHECKS=1;

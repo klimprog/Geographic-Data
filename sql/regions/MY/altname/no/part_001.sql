@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MY-01', 'no', 'Johor'),
+('MY-02', 'no', 'Kedah'),
+('MY-03', 'no', 'Kelantan'),
+('MY-04', 'no', 'Malakka'),
+('MY-05', 'no', 'Negeri Sembilan'),
+('MY-06', 'no', 'Pahang'),
+('MY-07', 'no', 'Penang'),
+('MY-08', 'no', 'Perak'),
+('MY-09', 'no', 'Perlis'),
+('MY-10', 'no', 'Selangor'),
+('MY-11', 'no', 'Terengganu'),
+('MY-12', 'no', 'Sabah'),
+('MY-13', 'no', 'Sarawak'),
+('MY-14', 'no', 'Kuala Lumpur'),
+('MY-15', 'no', 'Labuan'),
+('MY-16', 'no', 'Putrajaya');
+
+SET FOREIGN_KEY_CHECKS=1;

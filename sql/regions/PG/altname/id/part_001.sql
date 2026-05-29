@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PG-CPK', 'id', 'Provinsi Simbu'),
+('PG-CPM', 'id', 'Provinsi Tengah'),
+('PG-EBR', 'id', 'Britania Baru Timur'),
+('PG-EHG', 'id', 'Provinsi Dataran Tinggi Timur'),
+('PG-EPW', 'id', 'Provinsi Enga'),
+('PG-ESW', 'id', 'Provinsi Sepik Timur'),
+('PG-GPK', 'id', 'Provinsi Teluk'),
+('PG-HLA', 'id', 'Hela Province'),
+('PG-JWK', 'id', 'Jiwaka Province'),
+('PG-MBA', 'id', 'Provinsi Teluk Milne'),
+('PG-MPL', 'id', 'Provinsi Morobe'),
+('PG-MPM', 'id', 'Provinsi Madang'),
+('PG-MRL', 'id', 'Provinsi Manus'),
+('PG-NCD', 'id', 'Daerah dan distrik ibu kota'),
+('PG-NIK', 'id', 'Provinsi Irlandia Baru'),
+('PG-NPP', 'id', 'Provinsi Oro'),
+('PG-NSB', 'id', 'Daerah Otonom Bougainville'),
+('PG-SAN', 'id', 'Provinsi Sandaun'),
+('PG-SHM', 'id', 'Provinsi Pegunungan Selatan'),
+('PG-WBK', 'id', 'Provinsi Britania Baru Barat'),
+('PG-WHM', 'id', 'Provinsi Dataran Tinggi Barat'),
+('PG-WPD', 'id', 'Provinsi Barat');
+
+SET FOREIGN_KEY_CHECKS=1;

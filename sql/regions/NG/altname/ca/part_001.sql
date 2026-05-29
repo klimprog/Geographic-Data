@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'ca', 'Abia'),
+('NG-AD', 'ca', 'Adamaua'),
+('NG-AK', 'ca', 'Akwa Ibom'),
+('NG-AN', 'ca', 'Anambra'),
+('NG-BA', 'ca', 'Estat de Bauchi'),
+('NG-BE', 'ca', 'Estat de Benue'),
+('NG-BO', 'ca', 'estat de Borno'),
+('NG-BY', 'ca', 'Bayelsa'),
+('NG-CR', 'ca', 'Cross River'),
+('NG-DE', 'ca', 'Estat del Delta'),
+('NG-EB', 'ca', 'Ebonyi'),
+('NG-ED', 'ca', 'Edo'),
+('NG-EK', 'ca', 'Estat Ekiti'),
+('NG-EN', 'ca', 'Estat d''Enugu'),
+('NG-FC', 'ca', 'Territori de la Capital Federal'),
+('NG-GO', 'ca', 'Estat de Gombe'),
+('NG-IM', 'ca', 'Imo'),
+('NG-JI', 'ca', 'Jigawa'),
+('NG-KD', 'ca', 'Estat de Kaduna'),
+('NG-KE', 'ca', 'Estat de Kebbi'),
+('NG-KN', 'ca', 'estat de Kano'),
+('NG-KO', 'ca', 'Estat de Kogi'),
+('NG-KT', 'ca', 'Estat de Katsina'),
+('NG-KW', 'ca', 'Kwara'),
+('NG-LA', 'ca', 'Estat de Lagos'),
+('NG-NA', 'ca', 'Estat de Nasarawa'),
+('NG-NI', 'ca', 'Estat del Níger'),
+('NG-OG', 'ca', 'Ogun'),
+('NG-ON', 'ca', 'Estat d''Ondo'),
+('NG-OS', 'ca', 'Estat d''Osun'),
+('NG-OY', 'ca', 'Oyo'),
+('NG-PL', 'ca', 'Estat de Plateau'),
+('NG-RI', 'ca', 'Rivers'),
+('NG-SO', 'ca', 'Estat de Sokoto'),
+('NG-TA', 'ca', 'Estat de Taraba'),
+('NG-YO', 'ca', 'Yobe'),
+('NG-ZA', 'ca', 'Estat de Zamfara');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SV-AH', 'he', 'מחלקת אהואצ '' פאן'),
+('SV-CA', 'he', 'דפרטמנטו ד כבנאס'),
+('SV-CH', 'he', 'דפרטמנטו ד כעלטננגו'),
+('SV-CU', 'he', 'קֻסקַטלַן'),
+('SV-LI', 'he', 'לה ליברטד'),
+('SV-MO', 'he', 'מחוז מורסאן'),
+('SV-PA', 'he', 'לה פאס'),
+('SV-SA', 'he', 'דפרטמנטו דה סנטה אנה'),
+('SV-SM', 'he', 'דפרטמנטו דה סן מיגל'),
+('SV-SO', 'he', 'דפרטמנטו ד סונסונייט'),
+('SV-SS', 'he', 'דפרטמנטו דה סן סלבדור'),
+('SV-SV', 'he', 'דפרטמנטו דה סן ויכנתא'),
+('SV-UN', 'he', 'דפרטמנטו דה לא אוניון'),
+('SV-US', 'he', 'ֻסֻלֻטַן');
+
+SET FOREIGN_KEY_CHECKS=1;

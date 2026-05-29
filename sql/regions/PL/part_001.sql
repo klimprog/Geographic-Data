@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('PL-02', 'PL', 'Lower Silesian Voivodeship', 'Województwo dolnośląskie', 3830653, 2876627, 'UTC+1', 'Europe/Warsaw'),
+('PL-04', 'PL', 'Kuyavian-Pomeranian Voivodeship', 'Województwo kujawsko-pomorskie', 3848710, 2069083, 'UTC+1', 'Europe/Warsaw'),
+('PL-06', 'PL', 'Lublin Voivodeship', 'Województwo lubelskie', 3819646, 2157202, 'UTC+1', 'Europe/Warsaw'),
+('PL-08', 'PL', 'Lubusz Voivodeship', 'województwo lubuskie', 3829564, 1010047, 'UTC+1', 'Europe/Warsaw'),
+('PL-10', 'PL', 'Lodz Voivodeship', 'Województwo łódzkie', 3840866, 2541832, 'UTC+1', 'Europe/Warsaw'),
+('PL-12', 'PL', 'Lesser Poland Voivodeship', 'Województwo małopolskie', 3842338, 3298270, 'UTC+1', 'Europe/Warsaw'),
+('PL-14', 'PL', 'Masovian Voivodeship', 'Województwo mazowieckie', NULL, 5222167, 'UTC+1', 'Europe/Warsaw'),
+('PL-16', 'PL', 'Opole Voivodeship', 'Województwo opolskie', 3838182, 1031097, 'UTC+1', 'Europe/Warsaw'),
+('PL-18', 'PL', 'Podkarpackie Voivodeship', 'województwo podkarpackie', 3814330, 2101732, 'UTC+1', 'Europe/Warsaw'),
+('PL-20', 'PL', 'Podlaskie Voivodeship', 'Województwo podlaskie', 3828631, 1189731, 'UTC+1', 'Europe/Warsaw'),
+('PL-22', 'PL', 'Pomeranian Voivodeship', 'Województwo pomorskie', 3846471, 2230099, 'UTC+1', 'Europe/Warsaw'),
+('PL-24', 'PL', 'Silesian Voivodeship', 'Województwo śląskie', 3843863, 4640725, 'UTC+1', 'Europe/Warsaw'),
+('PL-26', 'PL', 'Swietokrzyskie Voivodeship', 'Województwo świętokrzyskie', 3822637, 1270120, 'UTC+1', 'Europe/Warsaw'),
+('PL-28', 'PL', 'Warmian-Masurian Voivodeship', 'Województwo warmińsko-mazurskie', 3817291, 1427118, 'UTC+1', 'Europe/Warsaw'),
+('PL-30', 'PL', 'Greater Poland Voivodeship', 'województwo wielkopolskie', 3836562, 3408281, 'UTC+1', 'Europe/Warsaw'),
+('PL-32', 'PL', 'West Pomeranian Voivodeship', 'województwo zachodniopomorskie', 3832761, 1693198, 'UTC+1', 'Europe/Warsaw');
+
+SET FOREIGN_KEY_CHECKS=1;

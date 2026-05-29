@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'uz', 'Azuay'),
+('EC-B', 'uz', 'Bolivar'),
+('EC-C', 'uz', 'Carchi'),
+('EC-D', 'uz', 'Orellana viloyati'),
+('EC-E', 'uz', 'Esmeraldas'),
+('EC-F', 'uz', 'Kanar'),
+('EC-G', 'uz', 'Guayas'),
+('EC-H', 'uz', 'Chimborazo viloyati'),
+('EC-I', 'uz', 'Imbabura'),
+('EC-L', 'uz', 'Loja'),
+('EC-M', 'uz', 'Manabi'),
+('EC-N', 'uz', 'Napo'),
+('EC-O', 'uz', 'El Oro'),
+('EC-P', 'uz', 'Pichincha'),
+('EC-R', 'uz', 'Los Rios'),
+('EC-S', 'uz', 'Morona-Santiago viloyati'),
+('EC-SD', 'uz', 'Santo Domingo de los Tsachilas'),
+('EC-SE', 'uz', 'Santa Elena'),
+('EC-T', 'uz', 'Tungurahua viloyati'),
+('EC-U', 'uz', 'Sucumbios'),
+('EC-W', 'uz', 'Galapagos'),
+('EC-X', 'uz', 'Cotopaxi'),
+('EC-Y', 'uz', 'Pastaza viloyati'),
+('EC-Z', 'uz', 'Zamora Chinchipe');
+
+SET FOREIGN_KEY_CHECKS=1;

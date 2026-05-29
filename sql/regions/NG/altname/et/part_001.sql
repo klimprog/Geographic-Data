@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'et', 'Abia osariik'),
+('NG-AD', 'et', 'Adamawa osariik'),
+('NG-AK', 'et', 'Akwa Ibomi osariik'),
+('NG-AN', 'et', 'Anambra osariik'),
+('NG-BA', 'et', 'Bauchi osariik'),
+('NG-BE', 'et', 'Benue osariik'),
+('NG-BO', 'et', 'Borno'),
+('NG-BY', 'et', 'Bayelsa'),
+('NG-CR', 'et', 'Cross Riveri osariik'),
+('NG-DE', 'et', 'Delta osariik'),
+('NG-EB', 'et', 'Ebonyi osariik'),
+('NG-ED', 'et', 'Edo osariik'),
+('NG-EK', 'et', 'Ekiti osariik'),
+('NG-EN', 'et', 'Enugu osariik'),
+('NG-FC', 'et', 'Föderaalne pealinnaala'),
+('NG-GO', 'et', 'Gombe osariik'),
+('NG-IM', 'et', 'Imo osariik'),
+('NG-JI', 'et', 'Jigawa'),
+('NG-KD', 'et', 'Kaduna osariik'),
+('NG-KE', 'et', 'Kebbi osariik'),
+('NG-KN', 'et', 'Kano osariik'),
+('NG-KO', 'et', 'Kogi'),
+('NG-KT', 'et', 'Katsina osariik'),
+('NG-KW', 'et', 'Kwara osariik'),
+('NG-LA', 'et', 'Lagose osariik'),
+('NG-NA', 'et', 'Nasarawa'),
+('NG-NI', 'et', 'Nigeri osariik'),
+('NG-OG', 'et', 'Oguni osariik'),
+('NG-ON', 'et', 'Ondo osariik'),
+('NG-OS', 'et', 'Osuni osariik'),
+('NG-OY', 'et', 'Oyo osariik'),
+('NG-PL', 'et', 'Plateau osariik'),
+('NG-RI', 'et', 'Riversi osariik'),
+('NG-SO', 'et', 'Sokoto osariik'),
+('NG-TA', 'et', 'Taraba osariik'),
+('NG-YO', 'et', 'Yobe'),
+('NG-ZA', 'et', 'Zamfara osariik');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SA-01', 'az', 'Ər-Riyad regionu'),
+('SA-02', 'az', 'Məkkə bölgəsi'),
+('SA-03', 'az', 'Mədinə bölgəsi'),
+('SA-04', 'az', 'Şərq bölgəsi'),
+('SA-05', 'az', 'Qasım bölgəsi'),
+('SA-06', 'az', 'Hail bölgəsi'),
+('SA-07', 'az', 'Tabuk bölgəsi'),
+('SA-08', 'az', 'Şimal Sərhəd bölgəsi'),
+('SA-09', 'az', 'Cizanda bölgəsi'),
+('SA-10', 'az', 'Necran bölgəsi'),
+('SA-11', 'az', 'Al Bahah bölgəsi'),
+('SA-12', 'az', 'Al Jawf bölgəsi'),
+('SA-14', 'az', 'Əsir bölgəsi');
+
+SET FOREIGN_KEY_CHECKS=1;

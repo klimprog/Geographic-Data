@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'fo', 'Kristuskirkjan Nicholabýur'),
+('KN-02', 'fo', 'Sankta Anna Sandpunkt'),
+('KN-03', 'fo', 'Sankti Georgi Basseterre'),
+('KN-04', 'fo', 'Sankta Georgs Ingiferland'),
+('KN-05', 'fo', 'Sankti Jákupsvind'),
+('KN-06', 'fo', 'Sankti Jóhannes Kapesterre'),
+('KN-07', 'fo', 'Sankti Jóhannes Figrtræ'),
+('KN-08', 'fo', NULL),
+('KN-09', 'fo', 'Sankti Páll Kapesterre'),
+('KN-10', 'fo', 'Sankta Páll Karlbýur'),
+('KN-11', 'fo', 'Sankti Pætur Basseterre'),
+('KN-12', 'fo', 'Sankta Tummas Láglendi'),
+('KN-13', 'fo', 'Sankta Tummas Miðoyggj'),
+('KN-15', 'fo', 'Tríeindarpalmettopunkt'),
+('KN-K', 'fo', 'Sankta Kitts'),
+('KN-N', 'fo', 'Nevis');
+
+SET FOREIGN_KEY_CHECKS=1;

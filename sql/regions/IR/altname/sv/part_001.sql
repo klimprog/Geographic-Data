@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'sv', 'Markazi'),
+('IR-01', 'sv', 'Gilan'),
+('IR-02', 'sv', 'Mazandaran'),
+('IR-03', 'sv', 'Östazarbaijan'),
+('IR-04', 'sv', 'Västazarbaijan'),
+('IR-05', 'sv', 'Kermanshah'),
+('IR-06', 'sv', 'Khuzestan'),
+('IR-07', 'sv', 'Fars'),
+('IR-08', 'sv', 'Kerman'),
+('IR-09', 'sv', 'Razavikhorasan'),
+('IR-10', 'sv', 'Esfahan'),
+('IR-11', 'sv', 'Sistan och Baluchistan'),
+('IR-12', 'sv', 'Kurdistan'),
+('IR-13', 'sv', 'Hamadan'),
+('IR-14', 'sv', 'Chahar Mahal och Bakhtiari'),
+('IR-15', 'sv', 'Lorestan'),
+('IR-16', 'sv', 'Ilam'),
+('IR-17', 'sv', 'Kohgiluyeh och Buyer Ahmad'),
+('IR-18', 'sv', 'Bushehr'),
+('IR-19', 'sv', 'Zanjan'),
+('IR-20', 'sv', 'Semnan'),
+('IR-21', 'sv', 'Yazd'),
+('IR-22', 'sv', 'Hormozgan'),
+('IR-23', 'sv', 'Teheran'),
+('IR-24', 'sv', 'Ardabil'),
+('IR-25', 'sv', 'Qom'),
+('IR-26', 'sv', 'Qazvin'),
+('IR-27', 'sv', 'Golestan'),
+('IR-28', 'sv', 'Nordkhorasan'),
+('IR-29', 'sv', 'Sydkhorasan'),
+('IR-30', 'sv', 'Alborz');
+
+SET FOREIGN_KEY_CHECKS=1;

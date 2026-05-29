@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BE-BRU', 'uk', 'Брюссельський столичний регіон'),
+('BE-VAN', 'uk', 'Антверпен'),
+('BE-VBR', 'uk', 'Фламандський Брабант'),
+('BE-VLG', 'uk', 'Фламандський регіон'),
+('BE-VLI', 'uk', 'Лімбург'),
+('BE-VOV', 'uk', 'Ост-Влаандерен'),
+('BE-VWV', 'uk', 'Західна Фландрія'),
+('BE-WAL', 'uk', 'Валлонія'),
+('BE-WBR', 'uk', 'Брабант Валлон'),
+('BE-WHT', 'uk', 'Хайнаут'),
+('BE-WLG', 'uk', 'Льєж'),
+('BE-WLX', 'uk', 'Люксембург'),
+('BE-WNA', 'uk', 'Намюр');
+
+SET FOREIGN_KEY_CHECKS=1;

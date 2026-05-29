@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NP-P1', 'ur', 'کوشی'),
+('NP-P2', 'ur', 'مدھیش'),
+('NP-P3', 'ur', 'باگمتی پراونس'),
+('NP-P4', 'ur', 'گنڈکی پردیش'),
+('NP-P5', 'ur', 'لومبینی صوبہ'),
+('NP-P6', 'ur', 'صوبہ کرنالی'),
+('NP-P7', 'ur', 'سدورپشچم پردیش');
+
+SET FOREIGN_KEY_CHECKS=1;

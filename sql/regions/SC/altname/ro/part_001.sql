@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SC-01', 'ro', 'Districtul Anse aux Pins'),
+('SC-02', 'ro', 'Districtul Anse Boileau'),
+('SC-03', 'ro', 'Districtul Anse Etoile'),
+('SC-04', 'ro', 'Districtul Au Cap'),
+('SC-05', 'ro', 'Districtul Anse Royale'),
+('SC-06', 'ro', 'Districtul Baie Lazare'),
+('SC-07', 'ro', 'Districtul Baie Sainte Anne'),
+('SC-08', 'ro', 'Districtul Beau Vallon'),
+('SC-09', 'ro', 'Districtul Bel Air'),
+('SC-10', 'ro', 'Districtul Bel Ombre'),
+('SC-11', 'ro', 'Districtul Cascade'),
+('SC-12', 'ro', 'Districtul Glacis'),
+('SC-13', 'ro', 'Districtul Grand''Anse Mahé'),
+('SC-14', 'ro', 'Districtul Grand''Anse Praslin'),
+('SC-15', 'ro', 'Districtul La Digue'),
+('SC-16', 'ro', 'Districtul English River'),
+('SC-17', 'ro', 'Districtul Mont Buxton'),
+('SC-18', 'ro', 'Districtul Mont Fleuri'),
+('SC-19', 'ro', 'Districtul Plaisance'),
+('SC-20', 'ro', 'Districtul Pointe La Rue'),
+('SC-21', 'ro', 'Districtul Port Glaud'),
+('SC-22', 'ro', 'Saint Louis'),
+('SC-23', 'ro', 'Districtul Takamaka'),
+('SC-24', 'ro', 'Districtul Les Mamelles'),
+('SC-25', 'ro', 'Districtul Roche Caiman'),
+('SC-26', 'ro', 'Ile Perseverenta I'),
+('SC-27', 'ro', 'Ile Perseverance II');
+
+SET FOREIGN_KEY_CHECKS=1;

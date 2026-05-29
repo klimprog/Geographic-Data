@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'rw', 'Intara y''Iburengerazuba'),
+('LK-11', 'rw', 'Colombo'),
+('LK-12', 'rw', 'Gampaha'),
+('LK-13', 'rw', 'Kalutara'),
+('LK-2', 'rw', 'Intara yo hagati'),
+('LK-21', 'rw', 'Kandy'),
+('LK-22', 'rw', 'Matale'),
+('LK-23', 'rw', 'Nuwara Eliya'),
+('LK-3', 'rw', 'Intara y''Amajyepfo'),
+('LK-31', 'rw', 'Galle'),
+('LK-32', 'rw', 'Matara'),
+('LK-33', 'rw', 'Hambantota'),
+('LK-4', 'rw', 'Intara y''Amajyaruguru'),
+('LK-41', 'rw', 'Jaffna'),
+('LK-42', 'rw', 'Kilinochchi'),
+('LK-43', 'rw', 'Mannar'),
+('LK-44', 'rw', 'Vavuniya'),
+('LK-45', 'rw', 'Mullaittivu'),
+('LK-5', 'rw', 'Intara y''Iburasirazuba'),
+('LK-51', 'rw', 'Batticaloa'),
+('LK-52', 'rw', 'Ampara'),
+('LK-53', 'rw', 'Trincomalee'),
+('LK-6', 'rw', 'Intara y''Amajyaruguru'),
+('LK-61', 'rw', 'Kurunegala'),
+('LK-62', 'rw', 'Puttalam'),
+('LK-7', 'rw', 'Intara y''Amajyaruguru'),
+('LK-71', 'rw', 'Anuradhapura'),
+('LK-72', 'rw', 'Polonnaruwa'),
+('LK-8', 'rw', 'Intara ya Uva'),
+('LK-81', 'rw', 'Badulla'),
+('LK-82', 'rw', 'Monaragala'),
+('LK-9', 'rw', 'Intara ya Sabaragamuwa'),
+('LK-91', 'rw', 'Ratnapura'),
+('LK-92', 'rw', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(354781284, 4607550, 'da', 'Vermont'),
+(354781977, 4607559, 'da', 'Rosehall'),
+(354782439, 4607565, 'da', 'Questelles'),
+(354782516, 4607566, 'da', 'Port Elizabeth'),
+(354782593, 4607567, 'da', 'Peruvian Vale'),
+(354783209, 4607575, 'da', 'Ny Montrose'),
+(354783286, 4607576, 'da', 'Mesopotamien'),
+(354783440, 4607578, 'da', 'Layou'),
+(354783517, 4607579, 'da', 'Kingstown'),
+(354783671, 4607581, 'da', 'Greggs'),
+(354783748, 4607582, 'da', 'Georgetown'),
+(354784056, 4607586, 'da', 'Fancy'),
+(354784210, 4607588, 'da', 'Dovers'),
+(354784749, 4607595, 'da', 'Chateaubelair'),
+(354784980, 4607598, 'da', 'Camden Park'),
+(354785057, 4607599, 'da', 'Beruas'),
+(354785134, 4607600, 'da', 'Brighton Village'),
+(354785211, 4607601, 'da', 'Biabou'),
+(354785365, 4607603, 'da', 'Belmont'),
+(354785442, 4607604, 'da', 'Barrouallie'),
+(354785904, 4607610, 'da', 'Redemption'),
+(354786135, 4607613, 'da', 'Calliaqua'),
+(354788522, 4607644, 'da', 'Grand Bois'),
+(354788753, 4607647, 'da', 'Kings Pleasure'),
+(354789908, 4607662, 'da', 'Venskab'),
+(354790062, 4607664, 'da', 'Petit Bordel'),
+(354792757, 4607699, 'da', 'Diamant'),
+(354792834, 4607700, 'da', 'Friendly Village'),
+(354792911, 4607701, 'da', 'Penniston'),
+(354792988, 4607702, 'da', 'Tilbagetog');
+
+SET FOREIGN_KEY_CHECKS=1;

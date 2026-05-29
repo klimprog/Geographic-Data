@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NR-01', 'fi', 'Aiwo'),
+('NR-02', 'fi', 'Anabar'),
+('NR-03', 'fi', 'Anetan'),
+('NR-04', 'fi', 'Anibare'),
+('NR-05', 'fi', 'Baiti'),
+('NR-06', 'fi', 'Boe'),
+('NR-07', 'fi', 'Buada'),
+('NR-08', 'fi', 'Denigomodu'),
+('NR-09', 'fi', 'Ewa'),
+('NR-10', 'fi', 'Ijuw'),
+('NR-11', 'fi', 'Meneng'),
+('NR-12', 'fi', 'Nibok'),
+('NR-13', 'fi', 'Uaboe'),
+('NR-14', 'fi', 'Yaren');
+
+SET FOREIGN_KEY_CHECKS=1;

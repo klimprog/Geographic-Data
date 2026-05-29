@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MC-CL', 'ne', 'ला कोले'),
+('MC-CO', 'ne', 'ला कन्डामिन'),
+('MC-FO', 'ne', 'फन्टभिएल'),
+('MC-GA', 'ne', 'ला गारे'),
+('MC-JE', 'ne', 'जार्डिन एक्सोटिक'),
+('MC-LA', 'ne', 'लार्भोटो'),
+('MC-MA', 'ne', 'ंअल्बोउस्क़ुएत'),
+('MC-MC', 'ne', 'मोन्टे-कार्लो'),
+('MC-MG', 'ne', 'मोनेघेट्टी'),
+('MC-MO', 'ne', 'मोनाको-भिले'),
+('MC-MU', 'ne', 'मौलिन्स'),
+('MC-PH', 'ne', 'पोर्ट-हर्कुल'),
+('MC-SD', 'ne', 'सेन्ट-डेभोटे'),
+('MC-SO', 'ne', 'ला स्रोत'),
+('MC-SP', 'ne', 'स्पेलुग्स'),
+('MC-SR', 'ne', 'सेन्ट-रोमन'),
+('MC-VR', 'ne', 'भ्यालोन डे ला रुसे');
+
+SET FOREIGN_KEY_CHECKS=1;

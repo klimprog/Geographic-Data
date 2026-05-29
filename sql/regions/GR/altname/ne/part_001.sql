@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GR-69', 'ne', 'माउन्ट एथोस'),
+('GR-A', 'ne', 'पूर्वी म्यासेडोनिया र थ्रेस'),
+('GR-B', 'ne', 'सेन्ट्रल ंअचेदोनिअ'),
+('GR-C', 'ne', 'पश्चिमी म्यासेडोनिया'),
+('GR-D', 'ne', 'एपिरुस'),
+('GR-E', 'ne', 'थेसली'),
+('GR-F', 'ne', 'ईओनिअन इस्लान्ड्स'),
+('GR-G', 'ne', 'पश्चिमी ग्रीस'),
+('GR-H', 'ne', 'केन्द्रीय ग्रीस'),
+('GR-I', 'ne', 'अत्तिच'),
+('GR-J', 'ne', 'पेलोपोनेसस'),
+('GR-K', 'ne', 'उत्तरी एजियन'),
+('GR-L', 'ne', 'दक्षिण एजियन'),
+('GR-M', 'ne', 'क्रेट');
+
+SET FOREIGN_KEY_CHECKS=1;

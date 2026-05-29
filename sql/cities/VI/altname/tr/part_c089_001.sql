@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(356394648, 4628502, 'tr', 'Altona'),
+(356397882, 4628544, 'tr', 'Charlotte Amalie'),
+(356397959, 4628545, 'tr', 'Christiansted'),
+(356398806, 4628556, 'tr', 'Mercan Körfezi'),
+(356399037, 4628559, 'tr', 'Cruz Bay'),
+(356400654, 4628580, 'tr', 'Frederiksted'),
+(356401578, 4628592, 'tr', 'Grove Place'),
+(356403503, 4628617, 'tr', 'Leinster Bay'),
+(356408277, 4628679, 'tr', 'Saint Croix'),
+(356409509, 4628695, 'tr', 'Spanish Town'),
+(356410279, 4628705, 'tr', 'Tutu');
+
+SET FOREIGN_KEY_CHECKS=1;

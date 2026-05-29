@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SV-AH', 'ny', 'Ahuachapan'),
+('SV-CA', 'ny', 'Cabanas'),
+('SV-CH', 'ny', 'Departamento de Chalatenango'),
+('SV-CU', 'ny', 'Cuscatlan'),
+('SV-LI', 'ny', 'Departamento de La Libertad'),
+('SV-MO', 'ny', 'Morazan'),
+('SV-PA', 'ny', 'Departamento de La Paz'),
+('SV-SA', 'ny', 'Departamento de Santa Ana'),
+('SV-SM', 'ny', 'Departamento de San Miguel'),
+('SV-SO', 'ny', 'Departamento de Sonsonate'),
+('SV-SS', 'ny', 'Departamento de San Salvador'),
+('SV-SV', 'ny', 'Departamento de San Vicente'),
+('SV-UN', 'ny', 'La Union'),
+('SV-US', 'ny', 'Usulutan');
+
+SET FOREIGN_KEY_CHECKS=1;

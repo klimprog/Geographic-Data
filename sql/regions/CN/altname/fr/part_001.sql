@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'fr', 'Province d''Anhui'),
+('CN-BJ', 'fr', 'Municipalité de Pékin'),
+('CN-CQ', 'fr', 'Municipalité de Chongqing'),
+('CN-FJ', 'fr', 'Province de Fujian'),
+('CN-GD', 'fr', 'Guangdong'),
+('CN-GS', 'fr', 'Province de Gansu'),
+('CN-GX', 'fr', 'Guangxi'),
+('CN-GZ', 'fr', 'Province de Guizhou'),
+('CN-HA', 'fr', 'Province de Henan'),
+('CN-HB', 'fr', 'Province de Hubei'),
+('CN-HE', 'fr', 'Province de Hebei'),
+('CN-HI', 'fr', 'Hainan'),
+('CN-HK', 'fr', 'RAS de Hong Kong'),
+('CN-HL', 'fr', 'Province de Heilongjiang'),
+('CN-HN', 'fr', 'Province de Hunan'),
+('CN-JL', 'fr', 'Province de Jilin'),
+('CN-JS', 'fr', 'Province de Jiangsu'),
+('CN-JX', 'fr', 'Province de Jiangxi'),
+('CN-LN', 'fr', 'Province de Liaoning'),
+('CN-MO', 'fr', 'RAS de Macao'),
+('CN-NM', 'fr', 'Mongolie-Intérieure'),
+('CN-NX', 'fr', 'Ningxia'),
+('CN-QH', 'fr', 'Province de Qinghai'),
+('CN-SC', 'fr', 'Sichuan'),
+('CN-SD', 'fr', 'Province de Shandong'),
+('CN-SH', 'fr', 'Municipalité de Shanghai'),
+('CN-SN', 'fr', 'Province de Shaanxi'),
+('CN-SX', 'fr', 'Province de Shanxi'),
+('CN-TJ', 'fr', 'Municipalité de Tianjin'),
+('CN-TW', 'fr', 'Taïwan Sheng'),
+('CN-XJ', 'fr', 'Xinjiang'),
+('CN-XZ', 'fr', 'Tibet'),
+('CN-YN', 'fr', 'Province de Yunnan'),
+('CN-ZJ', 'fr', 'Province de Zhejiang');
+
+SET FOREIGN_KEY_CHECKS=1;

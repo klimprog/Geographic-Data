@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'sw', 'Idara ya Amazonas'),
+('CO-ANT', 'sw', 'Antioquia'),
+('CO-ARA', 'sw', 'Idara ya Arauca'),
+('CO-ATL', 'sw', 'Atlantika'),
+('CO-BOL', 'sw', 'Bolivar'),
+('CO-BOY', 'sw', 'Boyaca'),
+('CO-CAL', 'sw', 'Idara ya Caldas'),
+('CO-CAQ', 'sw', 'Caqueta'),
+('CO-CAS', 'sw', 'Idara ya Casanare'),
+('CO-CAU', 'sw', 'Idara ya Cauca'),
+('CO-CES', 'sw', 'Idara ya Cesar'),
+('CO-CHO', 'sw', 'Choco'),
+('CO-COR', 'sw', 'Cordoba'),
+('CO-CUN', 'sw', 'Kundinamarka'),
+('CO-DC', 'sw', 'Bogota D.C.'),
+('CO-GUA', 'sw', 'Idara ya Guainia'),
+('CO-GUV', 'sw', 'Idara ya Guaviare'),
+('CO-HUI', 'sw', 'Idara ya Huila'),
+('CO-LAG', 'sw', 'Idara ya La Guajira'),
+('CO-MAG', 'sw', 'Idara ya Magdalena'),
+('CO-MET', 'sw', 'Idara ya Meta'),
+('CO-NAR', 'sw', 'Narino'),
+('CO-NSA', 'sw', 'Idara ya Kaskazini Santander'),
+('CO-PUT', 'sw', 'Idara ya Putumayo'),
+('CO-QUI', 'sw', 'Idara ya Quindio'),
+('CO-RIS', 'sw', 'Idara ya Risaralda'),
+('CO-SAN', 'sw', 'Idara ya Santander'),
+('CO-SAP', 'sw', 'San Andres na Providencia'),
+('CO-SUC', 'sw', 'Idara ya Sucre'),
+('CO-TOL', 'sw', 'Idara ya Tolima'),
+('CO-VAC', 'sw', 'Idara ya Valle del Cauca'),
+('CO-VAU', 'sw', 'Vaupes'),
+('CO-VID', 'sw', 'Idara ya Vichada');
+
+SET FOREIGN_KEY_CHECKS=1;

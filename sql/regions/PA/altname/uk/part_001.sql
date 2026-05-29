@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PA-1', 'uk', 'Бокас-дель-Торо'),
+('PA-10', 'uk', 'Західна Панама'),
+('PA-2', 'uk', 'Кокле'),
+('PA-3', 'uk', 'Колон'),
+('PA-4', 'uk', 'Чирики'),
+('PA-5', 'uk', 'Дар''єн'),
+('PA-6', 'uk', 'Еррера'),
+('PA-7', 'uk', 'Лос-Сантос'),
+('PA-8', 'uk', 'Панама'),
+('PA-9', 'uk', 'Верагуас'),
+('PA-EM', 'uk', 'Ембера-Воунаан'),
+('PA-KY', 'uk', 'Ґуна-Яла'),
+('PA-NB', 'uk', 'Нґобе-Буґле'),
+('PA-NT', 'uk', 'Насо Т''єр Ді');
+
+SET FOREIGN_KEY_CHECKS=1;

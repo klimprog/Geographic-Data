@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(335954861, 4363051, 'da', 'Tumaseu landsby'),
+(335954938, 4363052, 'da', 'Itogawa'),
+(335955015, 4363053, 'da', 'Tanrake Village'),
+(335955092, 4363054, 'da', 'Temotu landsby'),
+(335955246, 4363056, 'da', 'Kulia Village'),
+(335955323, 4363057, 'da', 'Amatuku landsby'),
+(335955400, 4363058, 'da', 'Funafuti'),
+(335955477, 4363059, 'da', 'Asau Village'),
+(335955631, 4363061, 'da', 'Nukualofa'),
+(335955708, 4363062, 'da', 'Pepesala Village'),
+(335955785, 4363063, 'da', 'Lolua'),
+(335955862, 4363064, 'da', 'Hauma'),
+(335955939, 4363065, 'da', 'Tokelau'),
+(335956016, 4363066, 'da', 'Teava Village'),
+(335956093, 4363067, 'da', 'Meang Village'),
+(335956170, 4363068, 'da', 'Motufoua School'),
+(335956247, 4363069, 'da', 'Savave Village');
+
+SET FOREIGN_KEY_CHECKS=1;

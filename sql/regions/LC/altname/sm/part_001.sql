@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LC-01', 'sm', 'Anse la Raye Quarter'),
+('LC-02', 'sm', 'Castries'),
+('LC-03', 'sm', 'Choiseul'),
+('LC-05', 'sm', 'Dennery'),
+('LC-06', 'sm', 'Gros Islet Quarter'),
+('LC-07', 'sm', 'Laborie'),
+('LC-08', 'sm', 'Micoud'),
+('LC-10', 'sm', 'Soufriere Quarter'),
+('LC-11', 'sm', 'Vieux Fort Quarter'),
+('LC-12', 'sm', 'Canaries Quarter');
+
+SET FOREIGN_KEY_CHECKS=1;

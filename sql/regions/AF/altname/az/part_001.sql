@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'az', 'Bəlx vilayəti'),
+('AF-BAM', 'az', 'Bamiyan'),
+('AF-BDG', 'az', 'Badğis'),
+('AF-BDS', 'az', 'Bədəxşan'),
+('AF-BGL', 'az', 'Bəğlan'),
+('AF-DAY', 'az', 'Daykündi'),
+('AF-FRA', 'az', 'Fərah'),
+('AF-FYB', 'az', 'Fəryab'),
+('AF-GHA', 'az', 'Qəzni'),
+('AF-GHO', 'az', 'Qövr'),
+('AF-HEL', 'az', 'Hilmənd'),
+('AF-HER', 'az', 'Herat vilayəti'),
+('AF-JOW', 'az', 'Cövzcan'),
+('AF-KAB', 'az', 'Kabil vilayəti'),
+('AF-KAN', 'az', 'Qəndəhar vilayəti'),
+('AF-KAP', 'az', 'Kapisa'),
+('AF-KDZ', 'az', 'Künduz'),
+('AF-KHO', 'az', 'Xust'),
+('AF-KNR', 'az', 'Künər'),
+('AF-LAG', 'az', 'Ləğman'),
+('AF-LOG', 'az', 'Lövgər vilayəti'),
+('AF-NAN', 'az', 'Nəngərhar'),
+('AF-NIM', 'az', 'Nimruz'),
+('AF-NUR', 'az', 'Nuristan'),
+('AF-PAN', 'az', 'Pəncşir'),
+('AF-PAR', 'az', 'Parvan'),
+('AF-PIA', 'az', 'Paktiya'),
+('AF-PKA', 'az', 'Pəktika'),
+('AF-SAM', 'az', 'Səməngan'),
+('AF-SAR', 'az', 'Səri-Pul'),
+('AF-TAK', 'az', 'Təxar'),
+('AF-URU', 'az', 'Uruzgan'),
+('AF-WAR', 'az', 'Maydan Vardak vilayəti'),
+('AF-ZAB', 'az', 'Zabul vilayəti');
+
+SET FOREIGN_KEY_CHECKS=1;

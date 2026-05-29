@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LB-AK', 'lt', 'Mohafazat Aakkar'),
+('LB-AS', 'lt', 'Šiaurės Libano muchafaza'),
+('LB-BA', 'lt', 'Beiruto muchafaza'),
+('LB-BH', 'lt', 'Mohafazat Baalbek-Hermel'),
+('LB-BI', 'lt', 'Bekos muchafaza'),
+('LB-JA', 'lt', 'Pietų Libano muchafaza'),
+('LB-JL', 'lt', 'Kalnų Libano muchafaza'),
+('LB-NA', 'lt', 'Nabatijos rajonas');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'ko', '존스턴 환초'),
+('UM-71', 'ko', '미드웨이'),
+('UM-76', 'ko', '나바사 섬'),
+('UM-79', 'ko', '웨이크 섬'),
+('UM-81', 'ko', '베이커 섬'),
+('UM-84', 'ko', '하울랜드섬'),
+('UM-86', 'ko', '자르비스섬'),
+('UM-89', 'ko', '킹먼 암초'),
+('UM-95', 'ko', '팔미라 환초');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'sk', 'An-chuej'),
+('CN-BJ', 'sk', 'bei jing'),
+('CN-CQ', 'sk', 'Čchung-čching'),
+('CN-FJ', 'sk', 'Fu-ťien'),
+('CN-GD', 'sk', 'Kuang-tung'),
+('CN-GS', 'sk', 'Kan-su'),
+('CN-GX', 'sk', 'Kuang-si'),
+('CN-GZ', 'sk', 'Kuej-čou'),
+('CN-HA', 'sk', 'Che-nan'),
+('CN-HB', 'sk', 'Chu-pej'),
+('CN-HE', 'sk', 'Che-pej'),
+('CN-HI', 'sk', 'Chaj-nan'),
+('CN-HK', 'sk', 'OAO Hong Kong'),
+('CN-HL', 'sk', 'Chej-lung-ťiang'),
+('CN-HN', 'sk', 'hu nan'),
+('CN-JL', 'sk', 'Ťi-lin'),
+('CN-JS', 'sk', 'Ťiang-su'),
+('CN-JX', 'sk', 'Ťiang-si'),
+('CN-LN', 'sk', 'Liao-ning'),
+('CN-MO', 'sk', 'OAO Macao'),
+('CN-NM', 'sk', 'Vnútorné Mongolsko'),
+('CN-NX', 'sk', 'ning xia'),
+('CN-QH', 'sk', 'qing hai'),
+('CN-SC', 'sk', 'S’-čchuan'),
+('CN-SD', 'sk', 'Šan-tung'),
+('CN-SH', 'sk', 'Šanghaj'),
+('CN-SN', 'sk', 'Šen-si'),
+('CN-SX', 'sk', 'Šan-si'),
+('CN-TJ', 'sk', 'Tiencin'),
+('CN-TW', 'sk', 'Taiwan Sheng'),
+('CN-XJ', 'sk', 'Sin-ťiang'),
+('CN-XZ', 'sk', 'Tibet'),
+('CN-YN', 'sk', 'Jün-nan'),
+('CN-ZJ', 'sk', 'Če-ťiang');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BR-AC', 'ne', 'अच्रॆ'),
+('BR-AL', 'ne', 'अलागोआस'),
+('BR-AM', 'ne', 'अमज़ॊनस्'),
+('BR-AP', 'ne', 'अमप'),
+('BR-BA', 'ne', 'बहिअ'),
+('BR-CE', 'ne', 'चॆअर'),
+('BR-DF', 'ne', 'संघीय जिल्ला'),
+('BR-ES', 'ne', 'ऎस्पिरितॊ संतॊ'),
+('BR-GO', 'ne', 'गॊइअस्'),
+('BR-MA', 'ne', 'मरंहॊ'),
+('BR-MG', 'ne', 'मिनस् गॆरैस्'),
+('BR-MS', 'ne', 'मतॊ ग्रॊषॊ दॊ सुल्'),
+('BR-MT', 'ne', 'मतॊ ग्रॊषॊ'),
+('BR-PA', 'ne', 'पर'),
+('BR-PB', 'ne', 'परैब'),
+('BR-PE', 'ne', 'पॆर्नंबुचॊ'),
+('BR-PI', 'ne', 'पिऔइ'),
+('BR-PR', 'ne', 'परन'),
+('BR-RJ', 'ne', 'रिऒ दॆ जनॆइरॊ'),
+('BR-RN', 'ne', 'रिऒ ग्रंदॆ दॊ नॊर्तॆ'),
+('BR-RO', 'ne', 'रॊंदॊनिअ'),
+('BR-RR', 'ne', 'रॊरैम'),
+('BR-RS', 'ne', 'रिऒ ग्रंदॆ दॊ सुल्'),
+('BR-SC', 'ne', 'संत चतरिन'),
+('BR-SE', 'ne', 'सॆर्गिपॆ'),
+('BR-SP', 'ne', 'साँओ पाउलो'),
+('BR-TO', 'ne', 'तॊचंतिंस्');
+
+SET FOREIGN_KEY_CHECKS=1;

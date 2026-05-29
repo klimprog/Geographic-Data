@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'ca', 'Argòvia'),
+('CH-AI', 'ca', 'Appenzell Inner-Rhoden'),
+('CH-AR', 'ca', 'Appenzell Ausser-Rhoden'),
+('CH-BE', 'ca', 'Berna'),
+('CH-BL', 'ca', 'Basilea-Camp'),
+('CH-BS', 'ca', 'Basilea-Ciutat'),
+('CH-FR', 'ca', 'Cantó de Friburg'),
+('CH-GE', 'ca', 'cantó de Ginebra'),
+('CH-GL', 'ca', 'Cantó de Glarus'),
+('CH-GR', 'ca', 'Grisons'),
+('CH-JU', 'ca', 'Cantó del Jura'),
+('CH-LU', 'ca', 'Cantó de Lucerna'),
+('CH-NE', 'ca', 'cantó de Neuchâtel'),
+('CH-NW', 'ca', 'Nidwalden'),
+('CH-OW', 'ca', 'Obwalden'),
+('CH-SG', 'ca', 'cantó de Sankt Gallen'),
+('CH-SH', 'ca', 'cantó de Schaffhausen'),
+('CH-SO', 'ca', 'Cantó de Solothurn'),
+('CH-SZ', 'ca', 'Cantó de Schwyz'),
+('CH-TG', 'ca', 'Turgòvia'),
+('CH-TI', 'ca', 'Ticino'),
+('CH-UR', 'ca', 'Uri'),
+('CH-VD', 'ca', 'Vaud'),
+('CH-VS', 'ca', 'Valais'),
+('CH-ZG', 'ca', 'Cantó de Zug'),
+('CH-ZH', 'ca', 'cantó de Zúric');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'sw', 'Mkoa wa Magharibi'),
+('LK-11', 'sw', 'Colombo'),
+('LK-12', 'sw', 'Gampaha'),
+('LK-13', 'sw', 'Kalutara'),
+('LK-2', 'sw', 'Mkoa wa Kati'),
+('LK-21', 'sw', 'Kandy'),
+('LK-22', 'sw', 'Matale'),
+('LK-23', 'sw', 'Nuwara Eliya'),
+('LK-3', 'sw', 'Mkoa wa Kusini'),
+('LK-31', 'sw', 'Galle'),
+('LK-32', 'sw', 'Matara'),
+('LK-33', 'sw', 'Hambantota'),
+('LK-4', 'sw', 'Mkoa wa Kaskazini'),
+('LK-41', 'sw', 'Jaffna'),
+('LK-42', 'sw', 'Kilinochchi'),
+('LK-43', 'sw', 'Mannar'),
+('LK-44', 'sw', 'Vavuniya'),
+('LK-45', 'sw', 'Mullaittivu'),
+('LK-5', 'sw', 'Mkoa wa Mashariki'),
+('LK-51', 'sw', 'Batticaloa'),
+('LK-52', 'sw', 'Ampara'),
+('LK-53', 'sw', 'Trincomalee'),
+('LK-6', 'sw', 'Mkoa wa Kaskazini-Magharibi'),
+('LK-61', 'sw', 'Kurunegala'),
+('LK-62', 'sw', 'Puttalam'),
+('LK-7', 'sw', 'Mkoa wa Kaskazini-Kati'),
+('LK-71', 'sw', 'Anuradhapura'),
+('LK-72', 'sw', 'Polonnaruwa'),
+('LK-8', 'sw', 'Mkoa wa Uva'),
+('LK-81', 'sw', 'Badulla'),
+('LK-82', 'sw', 'Monaragala'),
+('LK-9', 'sw', 'Mkoa wa Sabaragamuwa'),
+('LK-91', 'sw', 'Ratnapura'),
+('LK-92', 'sw', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

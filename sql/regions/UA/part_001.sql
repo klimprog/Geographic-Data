@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('UA-05', 'UA', 'Vinnytsya Oblast', 'Вінницька область', 4388848, 1691061, 'UTC+2', 'Europe/Kyiv'),
+('UA-07', 'UA', 'Volynska Oblast', 'Волинська Область', 4399544, 1036891, 'UTC+2', 'Europe/Kyiv'),
+('UA-09', 'UA', 'Luhanska Oblast', 'Luhanska Oblast', 4399624, 2409000, 'UTC+3, UTC+2', 'Europe/Kyiv, Europe/Moscow'),
+('UA-12', 'UA', 'Dnipropetrovsk Oblast', 'Дніпропетровська область', 4405462, 3476200, 'UTC+2', 'Europe/Kyiv'),
+('UA-14', 'UA', 'Donetska Oblast', 'Donetska Oblast', 4405286, 4622900, 'UTC+2', 'Europe/Kyiv'),
+('UA-18', 'UA', 'Zhytomyrska Oblast', 'Житомирська Область', 4386675, 1328158, 'UTC+2', 'Europe/Kyiv'),
+('UA-21', 'UA', 'Zakarpattia Oblast', 'Закарпатська Область', 4389670, 1241887, 'UTC+2', 'Europe/Kyiv'),
+('UA-23', 'UA', 'Zaporizhzhya Oblast', 'Запорізька область', 4387280, 1785243, 'UTC+2', 'Europe/Kyiv'),
+('UA-26', 'UA', 'Ivano-Frankivsk Oblast', 'Івано-Франківська область', 4403447, 1381700, 'UTC+2', 'Europe/Kyiv'),
+('UA-30', 'UA', 'Misto Kyiv', 'Місто Київ', NULL, 2847200, 'UTC+2', 'Europe/Kyiv'),
+('UA-32', 'UA', 'Kyiv Oblast', 'Київська область', NULL, 1727800, 'UTC+2', 'Europe/Kyiv'),
+('UA-35', 'UA', 'Kirovohrad Oblast', 'Кіровоградська область', 4402171, 1057951, 'UTC+2', 'Europe/Kyiv'),
+('UA-40', 'UA', 'Sebastopol City', 'Місто Севастополь', 4392740, 416263, 'UTC+3', 'Europe/Simferopol'),
+('UA-43', 'UA', 'Autonomous Republic of Crimea', 'Республіка Крим', NULL, 1907106, 'UTC+3', 'Europe/Simferopol'),
+('UA-46', 'UA', 'Lvivska Oblast', 'Lvivska Oblast', 4399532, 2725900, 'UTC+2', 'Europe/Kyiv'),
+('UA-48', 'UA', 'Mykolayiv Oblast', 'Миколаївська область', 4397902, 1217103, 'UTC+2', 'Europe/Kyiv'),
+('UA-51', 'UA', 'Odeska Oblast', 'Одеська Область', 4396341, 2687543, 'UTC+2', 'Europe/Kyiv'),
+('UA-53', 'UA', 'Poltava Oblast', 'Полтавська область', 4394588, 1544085, 'UTC+2', 'Europe/Kyiv'),
+('UA-56', 'UA', 'Rivnenska Oblast', 'Рівненська Область', 4393713, 1154682, 'UTC+2', 'Europe/Kyiv'),
+('UA-59', 'UA', 'Sumska Oblast', 'Сумська Область', 4390923, 1221368, 'UTC+3, UTC+2', 'Europe/Kyiv, Europe/Moscow'),
+('UA-61', 'UA', 'Ternopil Oblast', 'Тернопільська Область', 4390515, 1107294, 'UTC+2', 'Europe/Kyiv'),
+('UA-63', 'UA', 'Kharkivska Oblast', 'Kharkivska Oblast', 4402714, 2808701, 'UTC+2', 'Europe/Kyiv'),
+('UA-65', 'UA', 'Kherson Oblast', 'Херсонська область', 4402688, 1126000, 'UTC+2', 'Europe/Kyiv'),
+('UA-68', 'UA', 'Khmelnytskyi Oblast', 'Хмельницька область', 4402623, 1367892, 'UTC+2', 'Europe/Kyiv'),
+('UA-71', 'UA', 'Cherkasy Oblast', 'Черкаська область', 4406133, 1335064, 'UTC+2', 'Europe/Kyiv'),
+('UA-74', 'UA', 'Chernihivska Oblast', 'Чернігівська', 4406090, 1156609, 'UTC+3, UTC+2', 'Europe/Kyiv, Europe/Moscow'),
+('UA-77', 'UA', 'Chernivtsi Oblast', 'Чернівецька область', 4406076, 904423, 'UTC+2', 'Europe/Kyiv');
+
+SET FOREIGN_KEY_CHECKS=1;

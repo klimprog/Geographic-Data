@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MM-01', 'is', 'Sagaing svæði'),
+('MM-02', 'is', 'Bago svæði'),
+('MM-03', 'is', 'Magway svæði'),
+('MM-04', 'is', 'Mandalay svæði'),
+('MM-05', 'is', 'Tanintharyi svæði'),
+('MM-06', 'is', 'Yangon svæði'),
+('MM-07', 'is', 'Ayeyarwady svæðinu'),
+('MM-11', 'is', 'Kachin fylki'),
+('MM-12', 'is', 'Kayah fylki'),
+('MM-13', 'is', 'Kayin fylki'),
+('MM-14', 'is', 'Chin fylki'),
+('MM-15', 'is', 'Mán fylki'),
+('MM-16', 'is', 'Rakhine fylki'),
+('MM-17', 'is', 'Shan fylki'),
+('MM-18', 'is', 'Nay Pyi Taw');
+
+SET FOREIGN_KEY_CHECKS=1;

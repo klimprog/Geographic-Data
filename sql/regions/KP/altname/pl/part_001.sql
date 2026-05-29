@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KP-01', 'pl', 'Pjongjang'),
+('KP-02', 'pl', 'P''yŏngan Południowy'),
+('KP-03', 'pl', 'P''yŏngan Północny'),
+('KP-04', 'pl', 'Chagang'),
+('KP-05', 'pl', 'Hwanghae Południowe'),
+('KP-06', 'pl', 'Hwanghae Północne'),
+('KP-07', 'pl', 'Kangwŏn'),
+('KP-08', 'pl', 'Hamgyŏng Południowy'),
+('KP-09', 'pl', 'Hamgyŏng Północny'),
+('KP-10', 'pl', 'Ryanggang'),
+('KP-13', 'pl', 'Rasŏn'),
+('KP-14', 'pl', 'Nampo'),
+('KP-15', 'pl', 'Kaesong');
+
+SET FOREIGN_KEY_CHECKS=1;

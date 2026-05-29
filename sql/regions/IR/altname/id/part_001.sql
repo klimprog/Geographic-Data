@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'id', 'Provinsi Markazi'),
+('IR-01', 'id', 'Provinsi Gilan'),
+('IR-02', 'id', 'Provinsi Mazandaran'),
+('IR-03', 'id', 'Provinsi Azerbaijan Timur'),
+('IR-04', 'id', 'Provinsi Azarbaijan Barat'),
+('IR-05', 'id', 'Provinsi Kermanshah'),
+('IR-06', 'id', 'Provinsi Khūzestān'),
+('IR-07', 'id', 'Provinsi Fars'),
+('IR-08', 'id', 'Provinsi Kermān'),
+('IR-09', 'id', 'Provinsi Razavi Khorasan'),
+('IR-10', 'id', 'Provinsi Isfahan'),
+('IR-11', 'id', 'Provinsi Sistan dan Baluchestan'),
+('IR-12', 'id', 'Provinsi Kurdistan'),
+('IR-13', 'id', 'Provinsi Hamadān'),
+('IR-14', 'id', 'Provinsi Chaharmahal dan Bakhtiari'),
+('IR-15', 'id', 'Provinsi Lorestān'),
+('IR-16', 'id', 'Provinsi Īlām'),
+('IR-17', 'id', 'Provinsi Kohgiluyeh dan Boyer-Ahmad'),
+('IR-18', 'id', 'Provinsi Bushehr'),
+('IR-19', 'id', 'Provinsi Zanjan'),
+('IR-20', 'id', 'Provinsi Semnān'),
+('IR-21', 'id', 'Provinsi Yazd'),
+('IR-22', 'id', 'Provinsi Hormozgān'),
+('IR-23', 'id', 'Provinsi Tehran'),
+('IR-24', 'id', 'Provinsi Ardabil'),
+('IR-25', 'id', 'Provinsi Qom'),
+('IR-26', 'id', 'Provinsi Qazvīn'),
+('IR-27', 'id', 'Provinsi Golestān'),
+('IR-28', 'id', 'Provinsi Khorasan Utara'),
+('IR-29', 'id', 'Provinsi Khorasan Selatan'),
+('IR-30', 'id', 'Provinsi Alborz');
+
+SET FOREIGN_KEY_CHECKS=1;

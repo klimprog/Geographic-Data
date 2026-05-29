@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BW-CE', 'bn', 'সেন্ট্রাল জেলা'),
+('BW-CH', 'bn', 'চোবে জেলা'),
+('BW-FR', 'bn', 'ফ্রান্সিসটাউন শহর'),
+('BW-GA', 'bn', 'গ্যাবোরোন'),
+('BW-GH', 'bn', 'গাঞ্জি জেলা'),
+('BW-JW', 'bn', 'জওয়ানেং'),
+('BW-KG', 'bn', 'কগালাগাডি জেলা'),
+('BW-KL', 'bn', 'ঘালেং জেলা'),
+('BW-KW', 'bn', 'কেনেং জেলা'),
+('BW-LO', 'bn', 'লোবাতসে'),
+('BW-NE', 'bn', 'উত্তর-পূর্ব'),
+('BW-NW', 'bn', 'নর্থ ওয়েস্ট জেলা'),
+('BW-SE', 'bn', 'দক্ষিণ-পূর্ব'),
+('BW-SO', 'bn', 'সাউদার্ন জেলা'),
+('BW-SP', 'bn', 'সেলিবে ফিকওয়ে'),
+('BW-ST', 'bn', 'সোওয়া টাউন');
+
+SET FOREIGN_KEY_CHECKS=1;

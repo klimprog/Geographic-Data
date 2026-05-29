@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'hy', 'Արգաու'),
+('CH-AI', 'hy', 'Ապենցել Իներռոդեն'),
+('CH-AR', 'hy', 'Ապենցել Աուսերռոդեն'),
+('CH-BE', 'hy', 'Բեռն'),
+('CH-BL', 'hy', 'Բազել-Լանդ'),
+('CH-BS', 'hy', 'Բազել Շտադտ'),
+('CH-FR', 'hy', 'Ֆրիբուրգ'),
+('CH-GE', 'hy', 'Ժնև'),
+('CH-GL', 'hy', 'Գլարուս'),
+('CH-GR', 'hy', 'Գրաուբյուդեն'),
+('CH-JU', 'hy', 'Յուրա'),
+('CH-LU', 'hy', 'Լյուցերն'),
+('CH-NE', 'hy', 'Նևշատել'),
+('CH-NW', 'hy', 'Նիդվալդեն'),
+('CH-OW', 'hy', 'Օբվալդեն'),
+('CH-SG', 'hy', 'Սանկտ Գալլեն'),
+('CH-SH', 'hy', 'Շաֆհաուզեն կանտոն'),
+('CH-SO', 'hy', 'Զոլոտուրն'),
+('CH-SZ', 'hy', 'Շվից'),
+('CH-TG', 'hy', 'Տուրգաու'),
+('CH-TI', 'hy', 'Տիչինո'),
+('CH-UR', 'hy', 'Ուրի'),
+('CH-VD', 'hy', 'Վո'),
+('CH-VS', 'hy', 'Վալե'),
+('CH-ZG', 'hy', 'Ցուգի կանտոն'),
+('CH-ZH', 'hy', 'Ցյուրիխ');
+
+SET FOREIGN_KEY_CHECKS=1;

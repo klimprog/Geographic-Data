@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BI-BB', 'fo', 'Bubanza'),
+('BI-BL', 'fo', 'Bujumbura Rural'),
+('BI-BM', 'fo', 'Bujumbura Mairie-provins'),
+('BI-BR', 'fo', 'Bururi'),
+('BI-CA', 'fo', 'Cankuzo'),
+('BI-CI', 'fo', 'Cibitoke'),
+('BI-GI', 'fo', 'Gitega'),
+('BI-KI', 'fo', 'Kirundo'),
+('BI-KR', 'fo', 'Karuzi'),
+('BI-KY', 'fo', 'Kayanza'),
+('BI-MA', 'fo', 'Makamba'),
+('BI-MU', 'fo', 'Muramvya'),
+('BI-MW', 'fo', 'Mwaro'),
+('BI-MY', 'fo', 'Muyinga'),
+('BI-NG', 'fo', 'Ngozi'),
+('BI-RM', 'fo', 'Rumonge'),
+('BI-RT', 'fo', 'Rutana'),
+('BI-RY', 'fo', 'Ruyigi');
+
+SET FOREIGN_KEY_CHECKS=1;

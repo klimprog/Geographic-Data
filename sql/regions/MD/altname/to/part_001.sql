@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'to', 'ʻAneni Noi'),
+('MD-BA', 'to', 'Balti'),
+('MD-BD', 'to', NULL),
+('MD-BR', 'to', NULL),
+('MD-BS', 'to', 'Pasarapeasika'),
+('MD-CA', 'to', 'Laioniuli Kahuli'),
+('MD-CL', 'to', 'Laioniuli Kalalasi'),
+('MD-CM', 'to', 'Simisilia'),
+('MD-CR', 'to', 'Criuleni'),
+('MD-CS', 'to', 'Laioniuli Kauseni'),
+('MD-CT', 'to', 'Kanitemi'),
+('MD-CU', 'to', NULL),
+('MD-DO', 'to', NULL),
+('MD-DR', 'to', NULL),
+('MD-DU', 'to', NULL),
+('MD-ED', 'to', 'Raionul ʻEtineti'),
+('MD-FA', 'to', 'Falesiti'),
+('MD-FL', 'to', 'Fololesi'),
+('MD-GA', 'to', 'Gagauzia'),
+('MD-GL', 'to', 'Koloteni'),
+('MD-HI', 'to', 'Hinisiti'),
+('MD-IA', 'to', 'ʻIaloveni'),
+('MD-LE', 'to', 'Leova'),
+('MD-NI', 'to', 'Nisipoleni'),
+('MD-OC', 'to', 'Laionuli ʻOkinitā'),
+('MD-OR', 'to', 'ʻOhei'),
+('MD-RE', 'to', NULL),
+('MD-RI', 'to', 'Lisikani'),
+('MD-SD', 'to', 'Solitanesiti'),
+('MD-SI', 'to', 'Singerei'),
+('MD-SN', 'to', 'Ngaahi ʻIuniti Puleʻanga-Fakavahefonua ʻo e ʻOtu Toʻohema ʻo e Dniester'),
+('MD-SO', 'to', 'Laioniuli Soloka'),
+('MD-ST', 'to', 'Laionuli Sitalaseni'),
+('MD-SV', 'to', 'Laioniuli Sitefani Vota'),
+('MD-TA', 'to', 'Talakilia'),
+('MD-TE', 'to', 'Telenisi'),
+('MD-UN', 'to', 'Laioniuli ʻUngeni');
+
+SET FOREIGN_KEY_CHECKS=1;

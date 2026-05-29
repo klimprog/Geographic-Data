@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GQ-AN', 'ro', 'Provincia Annobon'),
+('GQ-BN', 'ro', 'Provincia Bioko Norte'),
+('GQ-BS', 'ro', 'Provincia Bioko Sur'),
+('GQ-C', 'ro', 'Regiunea Continentală'),
+('GQ-CS', 'ro', 'Provincia de Centro Sur'),
+('GQ-DJ', 'ro', 'Djibloho'),
+('GQ-I', 'ro', 'Regiune Insulară'),
+('GQ-KN', 'ro', 'Provincia Kie-Ntem'),
+('GQ-LI', 'ro', 'Provincia Litoral'),
+('GQ-WN', 'ro', 'Provincia Wele-Nzas');
+
+SET FOREIGN_KEY_CHECKS=1;

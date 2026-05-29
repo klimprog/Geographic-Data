@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'zu', 'Kongo Central'),
+('CD-BU', 'zu', 'Bas-Uélé'),
+('CD-EQ', 'zu', 'Équateur Province'),
+('CD-HK', 'zu', 'Haut-Katanga Province'),
+('CD-HL', 'zu', 'Haut-Lomami'),
+('CD-HU', 'zu', 'Haut-Uélé'),
+('CD-IT', 'zu', 'Ituri Province'),
+('CD-KC', 'zu', 'Kasaï-Central'),
+('CD-KE', 'zu', 'Kasai-Oriental'),
+('CD-KG', 'zu', 'Kwango'),
+('CD-KL', 'zu', 'Kwilu Province'),
+('CD-KN', 'zu', 'Kinshasa'),
+('CD-KS', 'zu', 'Kasaï Province'),
+('CD-LO', 'zu', 'Lomami'),
+('CD-LU', 'zu', 'Lualaba Province'),
+('CD-MA', 'zu', 'Maniema'),
+('CD-MN', 'zu', 'Mai-Ndombe Province'),
+('CD-MO', 'zu', 'Mongala'),
+('CD-NK', 'zu', 'North Kivu'),
+('CD-NU', 'zu', 'Nord-Ubangi'),
+('CD-SA', 'zu', 'Sankuru'),
+('CD-SK', 'zu', 'South Kivu'),
+('CD-SU', 'zu', 'Province du Sud-Ubangi'),
+('CD-TA', 'zu', 'Tanganyika Province'),
+('CD-TO', 'zu', 'Tshopo'),
+('CD-TU', 'zu', 'Tshuapa');
+
+SET FOREIGN_KEY_CHECKS=1;

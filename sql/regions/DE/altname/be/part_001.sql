@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'be', 'Брандэнбург'),
+('DE-BE', 'be', 'Горад Берлін'),
+('DE-BW', 'be', 'Бадэн-Вюртэмберг'),
+('DE-BY', 'be', 'Баварыя'),
+('DE-HB', 'be', 'Брэмен'),
+('DE-HE', 'be', 'Гесэн'),
+('DE-HH', 'be', 'Гамбург'),
+('DE-MV', 'be', 'Мекленбург-Пярэдняя Памеранія'),
+('DE-NI', 'be', 'Ніжняя Саксонія'),
+('DE-NW', 'be', 'Паўночны Рэйн-Вестфалія'),
+('DE-RP', 'be', 'Рэйнланд-Пфальц'),
+('DE-SH', 'be', 'Шлезвіг-Гольштэйн'),
+('DE-SL', 'be', 'Саар'),
+('DE-SN', 'be', 'Саксонія'),
+('DE-ST', 'be', 'Саксонія-Ангальт'),
+('DE-TH', 'be', 'Цюрынгія');
+
+SET FOREIGN_KEY_CHECKS=1;

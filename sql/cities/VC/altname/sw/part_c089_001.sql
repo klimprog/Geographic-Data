@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(354781338, 4607550, 'sw', 'Vermont'),
+(354782031, 4607559, 'sw', 'Rosehall'),
+(354782493, 4607565, 'sw', 'Questelles'),
+(354782570, 4607566, 'sw', 'Port Elizabeth'),
+(354782647, 4607567, 'sw', 'Peruvian Vale'),
+(354783263, 4607575, 'sw', 'Montrose Mpya'),
+(354783340, 4607576, 'sw', 'Mesopotamia'),
+(354783494, 4607578, 'sw', 'Layou'),
+(354783571, 4607579, 'sw', 'Kingstown'),
+(354783725, 4607581, 'sw', 'Greggs'),
+(354783802, 4607582, 'sw', 'Georgetown'),
+(354784110, 4607586, 'sw', 'Fancy'),
+(354784264, 4607588, 'sw', 'Dovers'),
+(354784803, 4607595, 'sw', 'Chateaubelair'),
+(354785034, 4607598, 'sw', 'Camden Park'),
+(354785111, 4607599, 'sw', 'Beruas'),
+(354785188, 4607600, 'sw', 'Brighton Village'),
+(354785265, 4607601, 'sw', 'Biabou'),
+(354785419, 4607603, 'sw', 'Belmont'),
+(354785496, 4607604, 'sw', 'Barrouallie'),
+(354785958, 4607610, 'sw', 'Redemption'),
+(354786189, 4607613, 'sw', 'Calliaqua'),
+(354788576, 4607644, 'sw', 'Grand Bois'),
+(354788807, 4607647, 'sw', 'Kings Pleasure'),
+(354789962, 4607662, 'sw', 'Urafiki'),
+(354790116, 4607664, 'sw', 'Petit Bordel'),
+(354792811, 4607699, 'sw', 'Diamond'),
+(354792888, 4607700, 'sw', 'Friendly Village'),
+(354792965, 4607701, 'sw', 'Penniston'),
+(354793042, 4607702, 'sw', 'Retreat');
+
+SET FOREIGN_KEY_CHECKS=1;

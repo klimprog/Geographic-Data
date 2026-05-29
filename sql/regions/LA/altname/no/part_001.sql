@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LA-AT', 'no', 'Attapeu (provins)'),
+('LA-BK', 'no', 'Bokeo (provins)'),
+('LA-BL', 'no', 'Bolikhamsai (provins)'),
+('LA-CH', 'no', 'Champasack (provins)'),
+('LA-HO', 'no', 'Hua Phan (provins)'),
+('LA-KH', 'no', 'Khammuan (provins)'),
+('LA-LM', 'no', 'Luang Namtha (provins)'),
+('LA-LP', 'no', 'Luang Prabang (provins)'),
+('LA-OU', 'no', 'Udomxai (provins)'),
+('LA-PH', 'no', 'Phongsali (provins)'),
+('LA-SL', 'no', 'Saravane (provins)'),
+('LA-SV', 'no', 'Savannakhet (provins)'),
+('LA-VI', 'no', 'Vientiane (provins)'),
+('LA-VT', 'no', 'Vientiane prefektur'),
+('LA-XA', 'no', 'Sainyabuli (provins)'),
+('LA-XE', 'no', 'Sekong (provins)'),
+('LA-XI', 'no', 'Xieng Khouang'),
+('LA-XS', 'no', 'Xaisomboun-provinsen');
+
+SET FOREIGN_KEY_CHECKS=1;

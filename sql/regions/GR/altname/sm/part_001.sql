@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GR-69', 'sm', 'Mauga Athos'),
+('GR-A', 'sm', 'Maketonia i Sasae ma Thrace'),
+('GR-B', 'sm', 'Maketonia Tutotonu'),
+('GR-C', 'sm', 'Maketonia i Sisifo'),
+('GR-D', 'sm', 'Epirus'),
+('GR-E', 'sm', 'Thessaly'),
+('GR-F', 'sm', 'Atu Ionian'),
+('GR-G', 'sm', 'Eleni i Sisifo'),
+('GR-H', 'sm', 'Eleni Tutotonu'),
+('GR-I', 'sm', 'Attica'),
+('GR-J', 'sm', 'Peloponese'),
+('GR-K', 'sm', 'Aegean i Matu'),
+('GR-L', 'sm', 'Aegean i Saute'),
+('GR-M', 'sm', 'Kereta');
+
+SET FOREIGN_KEY_CHECKS=1;

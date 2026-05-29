@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SE-AB', 'sq', 'Stokkolma'),
+('SE-AC', 'sq', 'qarku i Vasterbotenit'),
+('SE-BD', 'sq', 'qarku i Norbotenit'),
+('SE-C', 'sq', 'qarku i Upsalës'),
+('SE-D', 'sq', 'Södermanland'),
+('SE-E', 'sq', 'qarku i Ostergotlandit'),
+('SE-F', 'sq', 'qarku i Jonkopingut'),
+('SE-G', 'sq', 'qarku i Kronobergut'),
+('SE-H', 'sq', 'qarku i Kalmarit'),
+('SE-I', 'sq', 'qarku i Gotlandit'),
+('SE-K', 'sq', 'Blekinge'),
+('SE-M', 'sq', 'Qarku Skåne'),
+('SE-N', 'sq', 'qarku i Halandit'),
+('SE-O', 'sq', 'qarku i Vastra Gotalandit'),
+('SE-S', 'sq', 'qarku i Varmlandit'),
+('SE-T', 'sq', 'qarku i Orebrosë'),
+('SE-U', 'sq', 'qarku i Vastmanlandit'),
+('SE-W', 'sq', 'qarku i Dalarnës'),
+('SE-X', 'sq', 'qarku i Gavleborgut'),
+('SE-Y', 'sq', 'qarku i Vasternorlandit'),
+('SE-Z', 'sq', 'Jämtland');
+
+SET FOREIGN_KEY_CHECKS=1;

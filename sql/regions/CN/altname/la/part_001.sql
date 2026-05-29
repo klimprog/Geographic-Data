@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'la', 'Anhui'),
+('CN-BJ', 'la', 'bei jing'),
+('CN-CQ', 'la', 'Chungkina'),
+('CN-FJ', 'la', 'Fujian'),
+('CN-GD', 'la', 'Quantunia'),
+('CN-GS', 'la', 'Gansu'),
+('CN-GX', 'la', 'Quansia'),
+('CN-GZ', 'la', 'Queichea'),
+('CN-HA', 'la', 'Honania'),
+('CN-HB', 'la', 'Hubei'),
+('CN-HE', 'la', 'Hebei'),
+('CN-HI', 'la', 'Hainania'),
+('CN-HK', 'la', 'Hong Kong SAR'),
+('CN-HL', 'la', 'Heilongjiang'),
+('CN-HN', 'la', 'Hunan'),
+('CN-JL', 'la', 'Jilin'),
+('CN-JS', 'la', 'Jiangsu'),
+('CN-JX', 'la', 'Quiansia'),
+('CN-LN', 'la', 'Liaoning'),
+('CN-MO', 'la', 'Macao SAR'),
+('CN-NM', 'la', 'Mongolia Citerior'),
+('CN-NX', 'la', 'Ningxia'),
+('CN-QH', 'la', 'Qinghai'),
+('CN-SC', 'la', 'Suchuen'),
+('CN-SD', 'la', 'Xantonia'),
+('CN-SH', 'la', 'Sciamhaevum'),
+('CN-SN', 'la', 'Xensia'),
+('CN-SX', 'la', 'Xansia'),
+('CN-TJ', 'la', 'Tiencinum'),
+('CN-TW', 'la', 'Taiwan Sheng'),
+('CN-XJ', 'la', 'Xinjiang'),
+('CN-XZ', 'la', 'Tibet Regio Autonoma'),
+('CN-YN', 'la', 'Iunnania'),
+('CN-ZJ', 'la', 'Cechiana');
+
+SET FOREIGN_KEY_CHECKS=1;

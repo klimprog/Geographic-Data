@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('FJ-01', 'ro', 'Ba'),
+('FJ-02', 'ro', 'Bua'),
+('FJ-03', 'ro', 'Cakaudrove'),
+('FJ-04', 'ro', 'Kadavu'),
+('FJ-05', 'ro', 'Lau'),
+('FJ-06', 'ro', 'Lomaiviti'),
+('FJ-07', 'ro', 'Macuata'),
+('FJ-08', 'ro', 'Nadroga și Navosa'),
+('FJ-09', 'ro', 'Naitasiri'),
+('FJ-10', 'ro', 'Namosi'),
+('FJ-11', 'ro', 'Ra'),
+('FJ-12', 'ro', 'Rewa'),
+('FJ-13', 'ro', 'Serua'),
+('FJ-14', 'ro', 'Tailevu'),
+('FJ-C', 'ro', 'Diviziunea Centrală'),
+('FJ-E', 'ro', 'Diviziunea Orientală'),
+('FJ-N', 'ro', 'Diviziunea de Nord'),
+('FJ-R', 'ro', 'Rotuma'),
+('FJ-W', 'ro', 'Diviziunea Occidentală');
+
+SET FOREIGN_KEY_CHECKS=1;

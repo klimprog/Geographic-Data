@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'mt', 'Istat Ċentrali tad-Darfur'),
+('SD-DE', 'mt', 'Darfur tal-Lvant'),
+('SD-DN', 'mt', 'Darfur tat-Tramuntana'),
+('SD-DS', 'mt', 'Darfur t''Isfel'),
+('SD-DW', 'mt', 'Darfur tal-Punent'),
+('SD-GD', 'mt', 'Istat ta'' Al Qadarif'),
+('SD-GK', 'mt', 'Istat tal-Kordofan tal-Punent'),
+('SD-GZ', 'mt', 'Istat Al Jazirah'),
+('SD-KA', 'mt', 'L-Istat ta'' Kassala'),
+('SD-KH', 'mt', 'Khartoum'),
+('SD-KN', 'mt', 'Kordofan tat-Tramuntana'),
+('SD-KS', 'mt', 'Kordofan t''Isfel'),
+('SD-NB', 'mt', 'Blue Nile'),
+('SD-NO', 'mt', 'Tramuntana'),
+('SD-NR', 'mt', 'Xmara Nil'),
+('SD-NW', 'mt', 'Nil abjad'),
+('SD-RS', 'mt', 'Baħar l-Aħmar'),
+('SD-SI', 'mt', 'Sennar');
+
+SET FOREIGN_KEY_CHECKS=1;

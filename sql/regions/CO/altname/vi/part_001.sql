@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'vi', 'Amazonas'),
+('CO-ANT', 'vi', 'Antioquia'),
+('CO-ARA', 'vi', 'Arauca'),
+('CO-ATL', 'vi', 'Atlántico'),
+('CO-BOL', 'vi', 'Bolívar'),
+('CO-BOY', 'vi', 'Khu vực hành chính Boyacá'),
+('CO-CAL', 'vi', 'Caldas'),
+('CO-CAQ', 'vi', 'Caquetá'),
+('CO-CAS', 'vi', 'Casanare'),
+('CO-CAU', 'vi', 'Cauca'),
+('CO-CES', 'vi', 'Khu vực hành chính Cesar'),
+('CO-CHO', 'vi', 'Chocó'),
+('CO-COR', 'vi', 'Khu vực hành chính Cordoba'),
+('CO-CUN', 'vi', 'Cundinamarca'),
+('CO-DC', 'vi', 'Bogotá'),
+('CO-GUA', 'vi', 'Khu hành chính Guainía'),
+('CO-GUV', 'vi', 'Khu vực hành chính Guaviare'),
+('CO-HUI', 'vi', 'Khu vực hành chính Huila'),
+('CO-LAG', 'vi', 'Khu vực hành chính La Guajira'),
+('CO-MAG', 'vi', 'Magdalena'),
+('CO-MET', 'vi', 'Meta'),
+('CO-NAR', 'vi', 'Nariño'),
+('CO-NSA', 'vi', 'Norte de Santander'),
+('CO-PUT', 'vi', 'Putumayo'),
+('CO-QUI', 'vi', 'Quindío'),
+('CO-RIS', 'vi', 'Risaralda'),
+('CO-SAN', 'vi', 'Khu vực hành chính Santander'),
+('CO-SAP', 'vi', 'Archipelago ở Saint Andréws, Providence và Saint Catalina'),
+('CO-SUC', 'vi', 'Khu vực hành chính Sucre'),
+('CO-TOL', 'vi', 'Khu vực hành chính Tolima'),
+('CO-VAC', 'vi', 'Valle del Cauca'),
+('CO-VAU', 'vi', 'Khu vực hành chính Vaupés'),
+('CO-VID', 'vi', 'Khu vực hành chính Vichada');
+
+SET FOREIGN_KEY_CHECKS=1;

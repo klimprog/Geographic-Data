@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'lt', 'Amazonės departamentas'),
+('CO-ANT', 'lt', 'Antiokijos departamentas'),
+('CO-ARA', 'lt', 'Araukos departamentas'),
+('CO-ATL', 'lt', 'Atlantiko departamentas'),
+('CO-BOL', 'lt', 'Bolivaro departamentas'),
+('CO-BOY', 'lt', 'Bojakos departamentas'),
+('CO-CAL', 'lt', 'Kaldaso departamentas'),
+('CO-CAQ', 'lt', 'Kaketos departamentas'),
+('CO-CAS', 'lt', 'Kasanarės departamentas'),
+('CO-CAU', 'lt', 'Kaukos departamentas'),
+('CO-CES', 'lt', 'Sesaro departamentas'),
+('CO-CHO', 'lt', 'Čioko departamentas'),
+('CO-COR', 'lt', 'Kordobos departamentas'),
+('CO-CUN', 'lt', 'Kundinamarkos departamentas'),
+('CO-DC', 'lt', 'Distrito Capital de Bogota'),
+('CO-GUA', 'lt', 'Guainijos departamentas'),
+('CO-GUV', 'lt', 'Guavjarės departamentas'),
+('CO-HUI', 'lt', 'Uilos departamentas'),
+('CO-LAG', 'lt', 'Gvachiros departamentas'),
+('CO-MAG', 'lt', 'Magdalenos departamentas'),
+('CO-MET', 'lt', 'Metos departamentas'),
+('CO-NAR', 'lt', 'Narinjo departamentas'),
+('CO-NSA', 'lt', 'Šiaurės Santandero departamentas'),
+('CO-PUT', 'lt', 'Putumajo departamentas'),
+('CO-QUI', 'lt', 'Kindijo departamentas'),
+('CO-RIS', 'lt', 'Risaraldos departamentas'),
+('CO-SAN', 'lt', 'Santandero departamentas'),
+('CO-SAP', 'lt', 'San Andresas ir Providensija'),
+('CO-SUC', 'lt', 'Sukrės departamentas'),
+('CO-TOL', 'lt', 'Tolimos departamentas'),
+('CO-VAC', 'lt', 'Valje del Kaukos departamentas'),
+('CO-VAU', 'lt', 'Vaupeso departamentas'),
+('CO-VID', 'lt', 'Vičados departamentas');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SS-BN', 'ne', 'नॊर्थॆर्न् बह्र् अल् घज़ल्'),
+('SS-BW', 'ne', 'वॆस्तॆर्न् बह्र् ऎल् घज़ल्'),
+('SS-EC', 'ne', 'चॆंत्रल् ऎक़ुअतॊरिअ'),
+('SS-EE', 'ne', 'ऎअस्तॆर्न् ऎक़ुअतॊरिअ'),
+('SS-EW', 'ne', 'वॆस्तॆर्न् ऎक़ुअतॊरिअ'),
+('SS-JG', 'ne', 'जॊन्ग्लॆइ'),
+('SS-LK', 'ne', 'लकॆस्'),
+('SS-NU', 'ne', 'उप्पॆर् निलॆ'),
+('SS-UY', 'ne', 'उनित्य्'),
+('SS-WR', 'ne', 'वारप राज्य');
+
+SET FOREIGN_KEY_CHECKS=1;

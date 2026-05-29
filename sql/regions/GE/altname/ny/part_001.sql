@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GE-AB', 'ny', 'Abkhazia'),
+('GE-AJ', 'ny', 'Adjara'),
+('GE-GU', 'ny', 'Guria'),
+('GE-IM', 'ny', 'Imereti'),
+('GE-KA', 'ny', 'k''akheti'),
+('GE-KK', 'ny', 'Kvemo Kartli'),
+('GE-MM', 'ny', 'mtskheta-mtianeti'),
+('GE-RL', 'ny', 'rach''a-lechkhumi da kvemo svaneti'),
+('GE-SJ', 'ny', 'Samtskhe-Javakheti'),
+('GE-SK', 'ny', 'Shida Kartli'),
+('GE-SZ', 'ny', 'samegrelo-zemo svaneti'),
+('GE-TB', 'ny', 'tbilisi');
+
+SET FOREIGN_KEY_CHECKS=1;

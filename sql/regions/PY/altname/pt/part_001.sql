@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PY-1', 'pt', 'Concepción'),
+('PY-10', 'pt', 'Alto Paraná'),
+('PY-11', 'pt', 'Central'),
+('PY-12', 'pt', 'Ñeembucú'),
+('PY-13', 'pt', 'Amambay'),
+('PY-14', 'pt', 'Canindeyú'),
+('PY-15', 'pt', 'Presidente Hayes'),
+('PY-16', 'pt', 'Alto Paraguai'),
+('PY-19', 'pt', 'Boquerón'),
+('PY-2', 'pt', 'San Pedro'),
+('PY-3', 'pt', 'Cordillera'),
+('PY-4', 'pt', 'Guairá'),
+('PY-5', 'pt', 'Caaguazú'),
+('PY-6', 'pt', 'Departamento de Caazapá'),
+('PY-7', 'pt', 'Itapúa'),
+('PY-8', 'pt', 'Misiones'),
+('PY-9', 'pt', 'Departamento de Paraguarí'),
+('PY-ASU', 'pt', 'Asunción');
+
+SET FOREIGN_KEY_CHECKS=1;

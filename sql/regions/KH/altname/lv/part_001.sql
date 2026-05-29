@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KH-1', 'lv', 'Bantīejmīenķeajas province'),
+('KH-10', 'lv', 'Kraķēhas province'),
+('KH-11', 'lv', 'Mondolkīrī province'),
+('KH-12', 'lv', 'Pnompeņa'),
+('KH-13', 'lv', 'Prīehvihīeras province'),
+('KH-14', 'lv', 'Prijvēnas province'),
+('KH-15', 'lv', 'Pothisatas province'),
+('KH-16', 'lv', 'Ratanakiri province'),
+('KH-17', 'lv', 'Sīemrīebas province'),
+('KH-18', 'lv', 'Sianukvila'),
+('KH-19', 'lv', 'Stentrēnas province'),
+('KH-2', 'lv', 'Batdambanas province'),
+('KH-20', 'lv', 'Svājrīenas province'),
+('KH-21', 'lv', 'Tākēvas province'),
+('KH-22', 'lv', 'Otarmīenķijas province'),
+('KH-23', 'lv', 'Kēbas province'),
+('KH-24', 'lv', 'Pajlinas province'),
+('KH-25', 'lv', 'Tbung Khmum'),
+('KH-3', 'lv', 'Kamponķhnanas province'),
+('KH-4', 'lv', 'Kampongčnangas province'),
+('KH-5', 'lv', 'Kampongspi province'),
+('KH-6', 'lv', 'Kamponthumas province'),
+('KH-7', 'lv', 'Kampotas province'),
+('KH-8', 'lv', 'Kandālas province'),
+('KH-9', 'lv', 'Kohkongas province');
+
+SET FOREIGN_KEY_CHECKS=1;

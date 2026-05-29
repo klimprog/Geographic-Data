@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'sv', 'Vinnytsia oblast'),
+('UA-07', 'sv', 'Volyn oblast'),
+('UA-09', 'sv', 'Luhansk oblast'),
+('UA-12', 'sv', 'Dnipropetrovsk oblast'),
+('UA-14', 'sv', 'Donetsk oblast'),
+('UA-18', 'sv', 'Zjytomyr oblast'),
+('UA-21', 'sv', 'Transkarpatiens oblast'),
+('UA-23', 'sv', 'Zaporizjzja oblast'),
+('UA-26', 'sv', 'Ivano-Frankivsk oblast'),
+('UA-30', 'sv', 'Kiev oblast'),
+('UA-32', 'sv', 'Kiev oblast'),
+('UA-35', 'sv', 'Kirovohrad oblast'),
+('UA-40', 'sv', 'Sebastopol stad'),
+('UA-43', 'sv', 'Autonoma republiken Krim'),
+('UA-46', 'sv', 'Lviv oblast'),
+('UA-48', 'sv', 'Mykolajiv oblast'),
+('UA-51', 'sv', 'Odessa oblast'),
+('UA-53', 'sv', 'Poltava oblast'),
+('UA-56', 'sv', 'Rivne oblast'),
+('UA-59', 'sv', 'Sumy oblast'),
+('UA-61', 'sv', 'Ternopil oblast'),
+('UA-63', 'sv', 'Charkiv oblast'),
+('UA-65', 'sv', 'Cherson oblast'),
+('UA-68', 'sv', 'Chmelnytskyj oblast'),
+('UA-71', 'sv', 'Tjerkasy oblast'),
+('UA-74', 'sv', 'Tjernihiv oblast'),
+('UA-77', 'sv', 'Tjernivtsi oblast');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BS-AK', 'az', 'Acklins'),
+('BS-BI', 'az', 'Bimini'),
+('BS-BP', 'az', 'Qara Nöqtə'),
+('BS-BY', 'az', 'Berri adaları'),
+('BS-CE', 'az', 'Mərkəzi Eleuthera'),
+('BS-CI', 'az', 'Ket-Aylend'),
+('BS-CK', 'az', 'Kruked-Aylend (Baham adaları)'),
+('BS-CO', 'az', 'Mərkəzi Abako'),
+('BS-CS', 'az', 'Mərkəzi Andros'),
+('BS-EG', 'az', 'Şərqi Böyük Bahama'),
+('BS-EX', 'az', 'Eksuma'),
+('BS-FP', 'az', 'Azad Limanı'),
+('BS-GC', 'az', 'Qrand-Ki adası'),
+('BS-HI', 'az', 'Liman Adası'),
+('BS-HT', 'az', 'Ümid Şəhəri'),
+('BS-IN', 'az', 'İnaqua'),
+('BS-LI', 'az', 'Uzun Ada'),
+('BS-MC', 'az', 'Manqrov Kej'),
+('BS-MG', 'az', 'Mayaguana District'),
+('BS-MI', 'az', 'Moore''s Island District'),
+('BS-NE', 'az', 'Şimal Eleuthera'),
+('BS-NO', 'az', 'Şimal Abako'),
+('BS-NP', 'az', 'Yeni Providence'),
+('BS-NS', 'az', 'Şimal Andros'),
+('BS-RC', 'az', 'Rom Kej'),
+('BS-RI', 'az', 'Qreyt-Raqqed-Aylend'),
+('BS-SA', 'az', 'Cənub Andros'),
+('BS-SE', 'az', 'Cənub Eleuthera'),
+('BS-SO', 'az', 'Cənubi Abako'),
+('BS-SS', 'az', 'San Salvador'),
+('BS-SW', 'az', 'İspan Quyuları'),
+('BS-WG', 'az', 'Qərb Böyük Bahama');
+
+SET FOREIGN_KEY_CHECKS=1;

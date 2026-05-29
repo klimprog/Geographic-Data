@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'tr', 'Christ Church Nichola Kasabası'),
+('KN-02', 'tr', 'Saint Anne Sandy Point'),
+('KN-03', 'tr', 'Aziz George Basseterre'),
+('KN-04', 'tr', 'Aziz George Zencefil'),
+('KN-05', 'tr', 'Saint James Windward'),
+('KN-06', 'tr', 'Aziz John Capesterre'),
+('KN-07', 'tr', 'Aziz John Figtree'),
+('KN-08', 'tr', 'Aziz Mary Cayonu'),
+('KN-09', 'tr', 'Saint Paul Capesterre'),
+('KN-10', 'tr', 'Saint Paul Charlestown'),
+('KN-11', 'tr', 'Aziz Peter Basseterre'),
+('KN-12', 'tr', 'Saint Thomas Ovası'),
+('KN-13', 'tr', 'Saint Thomas Orta Adası'),
+('KN-15', 'tr', 'Trinity Palmetto Noktası'),
+('KN-K', 'tr', 'Saint Kitts'),
+('KN-N', 'tr', 'Nevis');
+
+SET FOREIGN_KEY_CHECKS=1;

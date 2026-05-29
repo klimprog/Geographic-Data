@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BW-CE', 'tr', 'Merkez Bölgesi'),
+('BW-CH', 'tr', 'Chobe Bölgesi'),
+('BW-FR', 'tr', 'Francistown şehri'),
+('BW-GA', 'tr', 'Gaborone'),
+('BW-GH', 'tr', 'Ghanzi Bölgesi'),
+('BW-JW', 'tr', 'Jwaneng'),
+('BW-KG', 'tr', 'Kgalagadi Bölgesi'),
+('BW-KL', 'tr', 'Kgatleng Bölgesi'),
+('BW-KW', 'tr', 'Kweneng Bölgesi'),
+('BW-LO', 'tr', 'Lobatse'),
+('BW-NE', 'tr', 'Kuzeydoğu Bölgesi'),
+('BW-NW', 'tr', 'Kuzeybatı Bölgesi'),
+('BW-SE', 'tr', 'Güneydoğu Bölgesi'),
+('BW-SO', 'tr', 'Güney Bölgesi'),
+('BW-SP', 'tr', 'Selibe Phikwe'),
+('BW-ST', 'tr', 'Sowa Kasabası');
+
+SET FOREIGN_KEY_CHECKS=1;

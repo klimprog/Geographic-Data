@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'nl', 'Anenii Noi'),
+('MD-BA', 'nl', 'Bălți'),
+('MD-BD', 'nl', 'Bender'),
+('MD-BR', 'nl', 'Briceni'),
+('MD-BS', 'nl', 'Basarabeasca'),
+('MD-CA', 'nl', 'Cahul'),
+('MD-CL', 'nl', 'Călărași'),
+('MD-CM', 'nl', 'Cimișlia'),
+('MD-CR', 'nl', 'District Criuleni'),
+('MD-CS', 'nl', 'Căușeni'),
+('MD-CT', 'nl', 'Cantemir'),
+('MD-CU', 'nl', 'Chisinau'),
+('MD-DO', 'nl', 'Dondușeni'),
+('MD-DR', 'nl', 'Arrondissement Drochia'),
+('MD-DU', 'nl', 'Dubăsari'),
+('MD-ED', 'nl', 'Arrondissement Edineţ'),
+('MD-FA', 'nl', 'Fălești'),
+('MD-FL', 'nl', 'Florești'),
+('MD-GA', 'nl', 'Gagaoezië'),
+('MD-GL', 'nl', 'Glodeni'),
+('MD-HI', 'nl', 'Hîncești'),
+('MD-IA', 'nl', 'Ialoveni'),
+('MD-LE', 'nl', 'Leova'),
+('MD-NI', 'nl', 'Nisporeni'),
+('MD-OC', 'nl', 'Arrondissement Ocniţa'),
+('MD-OR', 'nl', 'Arrondissement Orhei'),
+('MD-RE', 'nl', 'Rezina'),
+('MD-RI', 'nl', 'Rîșcani'),
+('MD-SD', 'nl', 'Șoldănești'),
+('MD-SI', 'nl', 'Sîngerei'),
+('MD-SN', 'nl', 'Administratief-territoriale eenheden van de linkeroever van de Dnjestr'),
+('MD-SO', 'nl', 'Soroca'),
+('MD-ST', 'nl', 'Strășeni'),
+('MD-SV', 'nl', 'Ștefan Vodă'),
+('MD-TA', 'nl', 'Taraclia'),
+('MD-TE', 'nl', 'Telenești'),
+('MD-UN', 'nl', 'Arrondissement Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

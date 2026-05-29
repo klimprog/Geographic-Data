@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NI-AN', 'uk', 'Автономний Регіон Північної Атлантики'),
+('NI-AS', 'uk', 'Автономний Регіон Південної Атлантики'),
+('NI-BO', 'uk', 'Боако'),
+('NI-CA', 'uk', 'Карасо'),
+('NI-CI', 'uk', 'Чинандега'),
+('NI-CO', 'uk', 'Чонталес'),
+('NI-ES', 'uk', 'Естелі'),
+('NI-GR', 'uk', 'Гранада'),
+('NI-JI', 'uk', 'Хінотега'),
+('NI-LE', 'uk', 'Леон'),
+('NI-MD', 'uk', 'Мадрис'),
+('NI-MN', 'uk', 'Департамент Манаґуа'),
+('NI-MS', 'uk', 'Масая'),
+('NI-MT', 'uk', 'Матагальпа'),
+('NI-NS', 'uk', 'Нуева-Сеговія'),
+('NI-RI', 'uk', 'Рівас'),
+('NI-SJ', 'uk', 'Ріо-Сан-Хуан');
+
+SET FOREIGN_KEY_CHECKS=1;

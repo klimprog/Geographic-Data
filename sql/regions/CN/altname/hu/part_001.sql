@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'hu', 'Anhuj'),
+('CN-BJ', 'hu', 'Peking'),
+('CN-CQ', 'hu', 'Csungking'),
+('CN-FJ', 'hu', 'Fucsien'),
+('CN-GD', 'hu', 'Kuangtung'),
+('CN-GS', 'hu', 'Kanszu'),
+('CN-GX', 'hu', 'Kuanghszi'),
+('CN-GZ', 'hu', 'Kujcsou'),
+('CN-HA', 'hu', 'Honan'),
+('CN-HB', 'hu', 'Hupej'),
+('CN-HE', 'hu', 'Hopej'),
+('CN-HI', 'hu', 'Hajnan'),
+('CN-HK', 'hu', 'Hong Kong KKT'),
+('CN-HL', 'hu', 'Hejlungcsiang'),
+('CN-HN', 'hu', 'Hunan'),
+('CN-JL', 'hu', 'Csilin'),
+('CN-JS', 'hu', 'Csiangszu'),
+('CN-JX', 'hu', 'Csianghszi'),
+('CN-LN', 'hu', 'Liaoning'),
+('CN-MO', 'hu', 'Makaó KKT'),
+('CN-NM', 'hu', 'Belső-Mongólia Autonóm Terület'),
+('CN-NX', 'hu', 'Ninghszia-Huj Autonóm Terület'),
+('CN-QH', 'hu', 'Csinghaj'),
+('CN-SC', 'hu', 'Szecsuan'),
+('CN-SD', 'hu', 'Santung'),
+('CN-SH', 'hu', 'Sanghaj'),
+('CN-SN', 'hu', 'Senhszi'),
+('CN-SX', 'hu', 'Sanhszi'),
+('CN-TJ', 'hu', 'Tiencsin'),
+('CN-TW', 'hu', 'Tajvan Sheng'),
+('CN-XJ', 'hu', 'Hszincsiang'),
+('CN-XZ', 'hu', 'Tibeti Autonóm Terület'),
+('CN-YN', 'hu', 'Jünnan'),
+('CN-ZJ', 'hu', 'Csöcsiang');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PW-002', 'ko', '아이멜리크주'),
+('PW-004', 'ko', '아이라이주'),
+('PW-010', 'ko', '앙가우르주'),
+('PW-050', 'ko', '하토호베이주'),
+('PW-100', 'ko', '카양겔주'),
+('PW-150', 'ko', '코로르'),
+('PW-212', 'ko', '멜레케오크주'),
+('PW-214', 'ko', '가라르드주'),
+('PW-218', 'ko', '가르첼롱주'),
+('PW-222', 'ko', '가르드마우주'),
+('PW-224', 'ko', '가트팡주'),
+('PW-226', 'ko', '체사르주'),
+('PW-227', 'ko', '가렘렝구이주'),
+('PW-228', 'ko', '기왈주'),
+('PW-350', 'ko', '펠렐리우주'),
+('PW-370', 'ko', '손소롤주');
+
+SET FOREIGN_KEY_CHECKS=1;

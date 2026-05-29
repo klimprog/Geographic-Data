@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KR-11', 'sw', 'Seoul'),
+('KR-26', 'sw', 'Busan'),
+('KR-27', 'sw', 'Daegu'),
+('KR-28', 'sw', 'Incheon'),
+('KR-29', 'sw', 'Gwangju'),
+('KR-30', 'sw', 'Daejeon'),
+('KR-31', 'sw', 'Ulsan'),
+('KR-41', 'sw', 'Gyeonggi-do'),
+('KR-42', 'sw', 'Gangwon-do'),
+('KR-43', 'sw', 'Chungcheong Kaskazini'),
+('KR-44', 'sw', 'Chungcheongnam-do'),
+('KR-45', 'sw', 'Jeollabuk-do'),
+('KR-46', 'sw', 'Jeollanam-do'),
+('KR-47', 'sw', 'Gyeongsangbuk-do'),
+('KR-48', 'sw', 'Gyeongsangnam-do'),
+('KR-49', 'sw', 'Jeju-do'),
+('KR-50', 'sw', 'Sejong-si');
+
+SET FOREIGN_KEY_CHECKS=1;

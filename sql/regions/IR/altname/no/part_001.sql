@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'no', 'Markazi'),
+('IR-01', 'no', 'Gilan'),
+('IR-02', 'no', 'Mazandaran'),
+('IR-03', 'no', 'Øst-Aserbajdsjan'),
+('IR-04', 'no', 'Vest-Aserbajdsjan'),
+('IR-05', 'no', 'Kermanshah (provins)'),
+('IR-06', 'no', 'Khuzestan'),
+('IR-07', 'no', 'Fars'),
+('IR-08', 'no', 'Kermān (provins)'),
+('IR-09', 'no', 'Razavi-Khorasan'),
+('IR-10', 'no', 'Isfahan (provins)'),
+('IR-11', 'no', 'Sistan og Balutsjistan'),
+('IR-12', 'no', 'Kurdistan (provins)'),
+('IR-13', 'no', 'Hamadan (provins)'),
+('IR-14', 'no', 'Chahar Mahaal og Bakhtiari'),
+('IR-15', 'no', 'Luristan'),
+('IR-16', 'no', 'Ilam (provins)'),
+('IR-17', 'no', 'Kohkiluyeh og Buyer Ahmad'),
+('IR-18', 'no', 'Bushehr (provins)'),
+('IR-19', 'no', 'Zanjan (provins)'),
+('IR-20', 'no', 'Semnan (provins)'),
+('IR-21', 'no', 'Yazd (provins)'),
+('IR-22', 'no', 'Hormozgan'),
+('IR-23', 'no', 'Teheran (provins)'),
+('IR-24', 'no', 'Ardabil (provins)'),
+('IR-25', 'no', 'Qom (provins)'),
+('IR-26', 'no', 'Qazvin (provins)'),
+('IR-27', 'no', 'Golestan'),
+('IR-28', 'no', 'Nord-Khorasan'),
+('IR-29', 'no', 'Sør-Khorasan'),
+('IR-30', 'no', 'Alborz (provins)');
+
+SET FOREIGN_KEY_CHECKS=1;

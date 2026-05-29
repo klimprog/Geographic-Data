@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072130, 52885, 'sq', 'Vila Las Estrellas'),
+(4072207, 52886, 'sq', 'Stacioni Davis'),
+(4072284, 52887, 'sq', 'Gjenerali i bazës Bernardo O''Higgins Riquelme'),
+(4072361, 52888, 'sq', 'Stacioni Showa'),
+(4072438, 52889, 'sq', 'Stacioni Jang Bogo'),
+(4072515, 52890, 'sq', 'Stacioni SANAE IV'),
+(4072592, 52891, 'sq', 'Stacioni Qinling'),
+(4072669, 52892, 'sq', 'Stacioni Zhongshan'),
+(4072746, 52893, 'sq', 'Stacioni Mawson'),
+(4072977, 52896, 'sq', 'Stacioni i Përparimit'),
+(4073208, 52899, 'sq', 'Stacioni Novolazarevskaya'),
+(4073362, 52901, 'sq', 'Stacioni Mirny');
+
+SET FOREIGN_KEY_CHECKS=1;

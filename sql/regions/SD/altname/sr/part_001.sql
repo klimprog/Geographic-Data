@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'sr', 'Централни Дарфур'),
+('SD-DE', 'sr', 'Источни Дарфур'),
+('SD-DN', 'sr', 'Северни Дарфур'),
+('SD-DS', 'sr', 'Јужни Дарфур'),
+('SD-DW', 'sr', 'Западни Дарфур'),
+('SD-GD', 'sr', 'Ел Кадариф'),
+('SD-GK', 'sr', 'Западни Кордофан'),
+('SD-GZ', 'sr', 'Ел Џезира'),
+('SD-KA', 'sr', 'Касала'),
+('SD-KH', 'sr', 'Кхартоум'),
+('SD-KN', 'sr', 'Северни Кордофан'),
+('SD-KS', 'sr', 'Јужни Кордофан'),
+('SD-NB', 'sr', 'Плави Нил'),
+('SD-NO', 'sr', 'Север'),
+('SD-NR', 'sr', 'Нил'),
+('SD-NW', 'sr', 'Бели Нил'),
+('SD-RS', 'sr', 'Црвено море'),
+('SD-SI', 'sr', 'Сенар');
+
+SET FOREIGN_KEY_CHECKS=1;

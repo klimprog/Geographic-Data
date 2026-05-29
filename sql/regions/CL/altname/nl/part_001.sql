@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CL-AI', 'nl', 'Aysén del General Carlos Ibáñez del Campo'),
+('CL-AN', 'nl', 'Antofagasta'),
+('CL-AP', 'nl', 'Arica y Parinacota'),
+('CL-AR', 'nl', 'Araucanía'),
+('CL-AT', 'nl', 'Atacama'),
+('CL-BI', 'nl', 'Biobío'),
+('CL-CO', 'nl', 'Coquimbo'),
+('CL-LI', 'nl', 'Libertador General Bernardo O''Higgins'),
+('CL-LL', 'nl', 'Los Lagos'),
+('CL-LR', 'nl', 'Los Ríos'),
+('CL-MA', 'nl', 'Magallanes y la Antártica Chilena'),
+('CL-ML', 'nl', 'Maule'),
+('CL-NB', 'nl', 'Ñuble'),
+('CL-RM', 'nl', 'Región Metropolitana de Santiago'),
+('CL-TA', 'nl', 'Tarapacá'),
+('CL-VS', 'nl', 'Valparaíso');
+
+SET FOREIGN_KEY_CHECKS=1;

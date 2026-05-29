@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'sq', 'Provinca Blagojevgrad'),
+('BG-02', 'sq', 'Provinca Burgas'),
+('BG-03', 'sq', 'Provinca Varna'),
+('BG-04', 'sq', 'Provinca Veliko Tërnovo'),
+('BG-05', 'sq', 'Provinca Vidin'),
+('BG-06', 'sq', 'Provinca Vraca'),
+('BG-07', 'sq', 'Provinca Gabrovo'),
+('BG-08', 'sq', 'Provinca Dobriç'),
+('BG-09', 'sq', 'Provinca Kërxhali'),
+('BG-10', 'sq', 'Provinca Kjustendill'),
+('BG-11', 'sq', 'Provinca Loveç'),
+('BG-12', 'sq', 'Provinca Montana'),
+('BG-13', 'sq', 'Provinca Pazarxhik'),
+('BG-14', 'sq', 'Provinca Pernik'),
+('BG-15', 'sq', 'Provinca Pleven'),
+('BG-16', 'sq', 'Provinca Plovdiv'),
+('BG-17', 'sq', 'Provinca Razgrad'),
+('BG-18', 'sq', 'Provinca Rusje'),
+('BG-19', 'sq', 'Provinca Silistra'),
+('BG-20', 'sq', 'Provinca Sliven'),
+('BG-21', 'sq', 'Provinca Smoljan'),
+('BG-22', 'sq', 'Sofia kryeqytet'),
+('BG-23', 'sq', 'Provinca Sofia'),
+('BG-24', 'sq', 'Provinca Stara Zagora'),
+('BG-25', 'sq', 'Provinca Tërgovishçe'),
+('BG-26', 'sq', 'Provinca Haskovo'),
+('BG-27', 'sq', 'Provinca Shumen'),
+('BG-28', 'sq', 'Provinca Jambol');
+
+SET FOREIGN_KEY_CHECKS=1;

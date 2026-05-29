@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TL-AL', 'ko', '아일레우현'),
+('TL-AN', 'ko', '아이나루현'),
+('TL-BA', 'ko', '바우카우현'),
+('TL-BO', 'ko', '보보나루현'),
+('TL-CO', 'ko', '코바리마 현'),
+('TL-DI', 'ko', '딜리현'),
+('TL-ER', 'ko', '에르메라현'),
+('TL-LA', 'ko', '라우텡현'),
+('TL-LI', 'ko', '리키사현'),
+('TL-MF', 'ko', '마누파이현'),
+('TL-MT', 'ko', '마나투투현'),
+('TL-OE', 'ko', '오에쿠시현'),
+('TL-VI', 'ko', '비케크현');
+
+SET FOREIGN_KEY_CHECKS=1;

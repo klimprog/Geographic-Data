@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MY-01', 'km', 'ចូហូ'),
+('MY-02', 'km', 'ខេដា'),
+('MY-03', 'km', 'កុលតង់'),
+('MY-04', 'km', 'ម៉ាឡាកា'),
+('MY-05', 'km', NULL),
+('MY-06', 'km', 'ប៉ាហាំង'),
+('MY-07', 'km', 'ពូឡូ ភីណាង'),
+('MY-08', 'km', 'ពែក'),
+('MY-09', 'km', 'ពែរលីស'),
+('MY-10', 'km', 'សេឡង់ង័រ'),
+('MY-11', 'km', 'ត្រែងហ្គានូ'),
+('MY-12', 'km', 'សាបះ'),
+('MY-13', 'km', 'សារ៉ាវ៉ាក់'),
+('MY-14', 'km', 'កូឡាឡាំពួរ'),
+('MY-15', 'km', 'ឡាប៊ុន'),
+('MY-16', 'km', 'ពុត្រាចាយ៉ា');
+
+SET FOREIGN_KEY_CHECKS=1;

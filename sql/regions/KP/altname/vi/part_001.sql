@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KP-01', 'vi', 'Bình Nhưỡng'),
+('KP-02', 'vi', 'Pyongan Nam'),
+('KP-03', 'vi', 'Pyongan Bắc'),
+('KP-04', 'vi', 'Chagang'),
+('KP-05', 'vi', 'Hwanghae Nam'),
+('KP-06', 'vi', 'Hwanghae Bắc'),
+('KP-07', 'vi', 'Kangwon'),
+('KP-08', 'vi', 'Hamgyong Nam'),
+('KP-09', 'vi', 'Hamgyong Bắc'),
+('KP-10', 'vi', 'Ryanggang'),
+('KP-13', 'vi', 'Rason'),
+('KP-14', 'vi', 'Nampo'),
+('KP-15', 'vi', 'Kaesong');
+
+SET FOREIGN_KEY_CHECKS=1;

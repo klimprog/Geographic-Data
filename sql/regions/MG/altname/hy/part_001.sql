@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MG-A', 'hy', 'Տոամասինա'),
+('MG-D', 'hy', 'Անծիրանանա'),
+('MG-F', 'hy', 'Ֆիանարանցոա'),
+('MG-M', 'hy', 'Մահաջանգա'),
+('MG-T', 'hy', 'Անտանանարիվու'),
+('MG-U', 'hy', 'Տոլիարա');
+
+SET FOREIGN_KEY_CHECKS=1;

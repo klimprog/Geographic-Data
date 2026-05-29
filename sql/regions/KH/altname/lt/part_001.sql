@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KH-1', 'lt', 'Bantėj Mančėjaus provincija'),
+('KH-10', 'lt', 'Kratės provincija'),
+('KH-11', 'lt', 'Modulkirio provincija'),
+('KH-12', 'lt', 'Pnompenis'),
+('KH-13', 'lt', 'Prėja Vicharo provincija'),
+('KH-14', 'lt', 'Prei Vengo provincija'),
+('KH-15', 'lt', 'Pursuato provincija'),
+('KH-16', 'lt', 'Ratanakirio provincija'),
+('KH-17', 'lt', 'Sijem Ripo provincija'),
+('KH-18', 'lt', 'Sianukvilis'),
+('KH-19', 'lt', 'Sting Trengo provincija'),
+('KH-2', 'lt', 'Batambango provincija'),
+('KH-20', 'lt', 'Svei Rengo provincija'),
+('KH-21', 'lt', 'Tako provincija'),
+('KH-22', 'lt', 'Odaro Mičėjaus provincija'),
+('KH-23', 'lt', 'Kepo provincija'),
+('KH-24', 'lt', 'Pailino provincija'),
+('KH-25', 'lt', 'Tboung Khmum'),
+('KH-3', 'lt', 'Kampong Čiamo provincija'),
+('KH-4', 'lt', 'Kampong Čiango provincija'),
+('KH-5', 'lt', 'Kampong Spu provincija'),
+('KH-6', 'lt', 'Kampong Tomo provincija'),
+('KH-7', 'lt', 'Kampoto provincija'),
+('KH-8', 'lt', 'Kandalo provincija'),
+('KH-9', 'lt', 'Kog Kongo provincija');
+
+SET FOREIGN_KEY_CHECKS=1;

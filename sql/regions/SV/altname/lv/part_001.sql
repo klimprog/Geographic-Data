@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SV-AH', 'lv', 'Avačapanas departaments'),
+('SV-CA', 'lv', 'Kabanjasas departaments'),
+('SV-CH', 'lv', 'Departamento de Chalatenango'),
+('SV-CU', 'lv', 'Kuskatlanas departaments'),
+('SV-LI', 'lv', 'Lalibertadas departaments'),
+('SV-MO', 'lv', 'Morasanas departaments'),
+('SV-PA', 'lv', 'Lapaso departaments'),
+('SV-SA', 'lv', 'Santaanas departaments'),
+('SV-SM', 'lv', 'Sanmigelas departaments'),
+('SV-SO', 'lv', 'Sonsonates departaments'),
+('SV-SS', 'lv', 'Sansalvadoras departaments'),
+('SV-SV', 'lv', 'Sanvisentes departaments'),
+('SV-UN', 'lv', 'La Union'),
+('SV-US', 'lv', 'Usulutanas departaments');
+
+SET FOREIGN_KEY_CHECKS=1;

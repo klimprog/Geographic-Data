@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TN-11', 'vi', 'Tunis'),
+('TN-12', 'vi', 'Ariana'),
+('TN-13', 'vi', 'Tỉnh Ben Arous'),
+('TN-14', 'vi', 'Tỉnh Manouba'),
+('TN-21', 'vi', 'Tỉnh Nabeul'),
+('TN-22', 'vi', 'Tỉnh Zaghouan'),
+('TN-23', 'vi', 'Tỉnh Bizerte'),
+('TN-31', 'vi', 'Gouvernorat de Beja'),
+('TN-32', 'vi', 'Tỉnh Jendouba'),
+('TN-33', 'vi', 'Tỉnh Kef'),
+('TN-34', 'vi', 'Tỉnh Siliana'),
+('TN-41', 'vi', 'Kairouan'),
+('TN-42', 'vi', 'Tỉnh Kasserine'),
+('TN-43', 'vi', 'Tỉnh Sidi Bouzid'),
+('TN-51', 'vi', 'Tỉnh Sousse'),
+('TN-52', 'vi', 'Tỉnh Monastir'),
+('TN-53', 'vi', 'Tỉnh Mahdia'),
+('TN-61', 'vi', 'Tỉnh Sfax'),
+('TN-71', 'vi', 'Tỉnh Gafsa'),
+('TN-72', 'vi', 'Tỉnh Tozeur'),
+('TN-73', 'vi', 'Tỉnh Kebili'),
+('TN-81', 'vi', 'Tỉnh Gabès'),
+('TN-82', 'vi', 'Tỉnh Medenine'),
+('TN-83', 'vi', 'Tỉnh Tataouine');
+
+SET FOREIGN_KEY_CHECKS=1;

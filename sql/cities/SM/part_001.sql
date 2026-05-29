@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities` (`id`, `country`, `region`, `name`, `native_name`, `population`, `status`, `native_status`, `timezone_utc`, `timezone_iana`) VALUES
+(4160673, 'SM', 'SM-09', 'Serravalle', 'Serravalle', 9925, 2, 'town', 'UTC+1', 'Europe/San_Marino'),
+(4160674, 'SM', 'SM-07', 'San Marino', 'San Marino', 4340, 1, 'City proper', 'UTC+1', 'Europe/San_Marino'),
+(4160675, 'SM', 'SM-02', 'Poggio di Chiesanuova', 'Chiesanuova', 951, 2, 'Town', 'UTC+1', 'Europe/San_Marino'),
+(4160676, 'SM', 'SM-08', 'Monte Giardino', 'Montegiardino', 910, 2, 'locality', 'UTC+1', 'Europe/San_Marino'),
+(4160677, 'SM', 'SM-05', 'Fiorentino', 'Fiorentino', 2510, 2, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160678, 'SM', 'SM-09', 'Falciano', 'Falciano', 1000, 4, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160679, 'SM', 'SM-04', 'Faetano', 'Faetano', 1177, 2, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160680, 'SM', 'SM-03', 'Domagnano', 'Borgo Maggiore', 3161, 2, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160681, 'SM', 'SM-09', 'Dogana', 'Dogana', 7000, 4, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160682, 'SM', 'SM-06', 'Borgo Maggiore', 'Borgo Maggiore', 6424, 2, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160683, 'SM', 'SM-01', 'Acquaviva', 'Acquaviva', 1530, 2, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160684, 'SM', 'SM-09', 'Fiorina', 'Fiorina', 889, 4, 'hamlet', 'UTC+1', 'Europe/San_Marino'),
+(4160686, 'SM', 'SM-07', 'Murata', 'Murata', 1580, 4, 'village', 'UTC+1', 'Europe/San_Marino'),
+(4160687, 'SM', NULL, 'Ventoso', 'Ventoso', 200, 4, 'hamlet', 'UTC+1', 'Europe/San_Marino'),
+(4160689, 'SM', NULL, 'Torraccia', 'Torraccia', 150, 4, 'hamlet', 'UTC+1', 'Europe/San_Marino'),
+(4160692, 'SM', 'SM-06', 'Valdragone', 'Valdragone', 6983, 4, 'hamlet', 'UTC+1', 'Europe/San_Marino');
+
+SET FOREIGN_KEY_CHECKS=1;

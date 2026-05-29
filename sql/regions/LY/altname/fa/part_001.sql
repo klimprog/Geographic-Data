@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LY-BA', 'fa', 'بنغازی'),
+('LY-BU', 'fa', 'البطنان'),
+('LY-DR', 'fa', 'درنة'),
+('LY-GT', 'fa', 'غات'),
+('LY-JA', 'fa', 'الجبل الأخضر'),
+('LY-JG', 'fa', 'استان جبل غربی'),
+('LY-JI', 'fa', 'الجفارة'),
+('LY-JU', 'fa', 'استان جفره'),
+('LY-KF', 'fa', 'استان کفره'),
+('LY-MB', 'fa', 'المرقب'),
+('LY-MI', 'fa', 'مصراتة'),
+('LY-MJ', 'fa', 'المرج'),
+('LY-MQ', 'fa', 'استان مرزق'),
+('LY-NL', 'fa', 'نالوت'),
+('LY-NQ', 'fa', 'النقاط الخمس'),
+('LY-SB', 'fa', 'استان سبها'),
+('LY-SR', 'fa', 'سرت'),
+('LY-TB', 'fa', 'طرابلس'),
+('LY-WA', 'fa', 'الواحات'),
+('LY-WD', 'fa', 'وادي الحياة'),
+('LY-WS', 'fa', 'وادي الشاطئ'),
+('LY-ZA', 'fa', 'الزاویہ');
+
+SET FOREIGN_KEY_CHECKS=1;

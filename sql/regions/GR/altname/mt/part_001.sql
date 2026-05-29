@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GR-69', 'mt', 'Mount Athos'),
+('GR-A', 'mt', 'Maċedonja tal-Lvant u Traċja'),
+('GR-B', 'mt', 'Maċedonja Ċentrali'),
+('GR-C', 'mt', 'Maċedonja tal-Punent'),
+('GR-D', 'mt', 'Reġjun ta'' Epiru'),
+('GR-E', 'mt', 'Tessalja'),
+('GR-F', 'mt', 'Reġjun tal-Gżejjer tal-Jonju'),
+('GR-G', 'mt', 'Greċja tal-Punent'),
+('GR-H', 'mt', 'Il-Greċja Ċentrali'),
+('GR-I', 'mt', 'Attika'),
+('GR-J', 'mt', 'Peloponnese'),
+('GR-K', 'mt', 'Tramuntana tal-Eġew'),
+('GR-L', 'mt', 'Reġjun tan-Nofsinhar tal-Eġew'),
+('GR-M', 'mt', 'Reġjun ta'' Kreta');
+
+SET FOREIGN_KEY_CHECKS=1;

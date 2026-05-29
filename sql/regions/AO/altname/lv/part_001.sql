@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'lv', 'Bengo province'),
+('AO-BGU', 'lv', 'Bengelas province'),
+('AO-BIE', 'lv', 'Biē province'),
+('AO-CAB', 'lv', 'Kabindas province'),
+('AO-CCU', 'lv', 'Kvando-Kubango province'),
+('AO-CNN', 'lv', 'Kunenes province'),
+('AO-CNO', 'lv', 'Ziemeļkvanzas province'),
+('AO-CUS', 'lv', 'Dienvidkvanza'),
+('AO-HUA', 'lv', 'Hvambo province'),
+('AO-HUI', 'lv', 'Uilas province'),
+('AO-LNO', 'lv', 'Ziemeļlundas province'),
+('AO-LSU', 'lv', 'Dienvidlundas province'),
+('AO-LUA', 'lv', 'Luandas province'),
+('AO-MAL', 'lv', 'Malanžes province'),
+('AO-MOX', 'lv', 'Mošiko province'),
+('AO-NAM', 'lv', 'Namibes province'),
+('AO-UIG', 'lv', 'Uižes province'),
+('AO-ZAI', 'lv', 'Zaires province');
+
+SET FOREIGN_KEY_CHECKS=1;

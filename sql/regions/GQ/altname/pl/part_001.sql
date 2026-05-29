@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GQ-AN', 'pl', 'Provincia de Annobon'),
+('GQ-BN', 'pl', 'Provincia de Bioko Norte'),
+('GQ-BS', 'pl', 'Provincia de Bioko Sur'),
+('GQ-C', 'pl', 'Region kontynentalny'),
+('GQ-CS', 'pl', 'Prowincja Centro Sur'),
+('GQ-DJ', 'pl', 'Djibloho'),
+('GQ-I', 'pl', 'Region Insulaire'),
+('GQ-KN', 'pl', 'Provincia de Kie-Ntem'),
+('GQ-LI', 'pl', 'Provincia de Litoral'),
+('GQ-WN', 'pl', 'Provincia de Wele-Nzas');
+
+SET FOREIGN_KEY_CHECKS=1;

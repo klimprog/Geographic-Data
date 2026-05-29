@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AG-03', 'ko', '세인트조지구'),
+('AG-04', 'ko', '세인트존구'),
+('AG-05', 'ko', '세인트메리구'),
+('AG-06', 'ko', '세인트폴구'),
+('AG-07', 'ko', '세인트피터구'),
+('AG-08', 'ko', '세인트필립구'),
+('AG-10', 'ko', '바부다섬'),
+('AG-11', 'ko', '레돈다섬');
+
+SET FOREIGN_KEY_CHECKS=1;

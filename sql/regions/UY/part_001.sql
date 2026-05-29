@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('UY-AR', 'UY', 'Departamento de Artigas', 'Departamento de Artigas', 4599287, 78391, 'UTC-3', 'America/Montevideo'),
+('UY-CA', 'UY', 'Departamento de Canelones', 'Departamento de Canelones', 4599236, 490595, 'UTC-3', 'America/Montevideo'),
+('UY-CL', 'UY', 'Departamento de Cerro Largo', 'Cerro Largo', 4598949, 87019, 'UTC-3', 'America/Montevideo'),
+('UY-CO', 'UY', 'Departamento de Colonia', 'Departamento de Colonia', 4599185, 119249, 'UTC-3', 'America/Montevideo'),
+('UY-DU', 'UY', 'Departamento de Durazno', 'Departamento de Durazno', 4599136, 59176, 'UTC-3', 'America/Montevideo'),
+('UY-FD', 'UY', 'Departamento de Florida', 'departamento de Florida', 4599098, 68334, 'UTC-3', 'America/Montevideo'),
+('UY-FS', 'UY', 'Departamento de Flores', 'Departamento de Flores', 4598628, 25109, 'UTC-3', 'America/Montevideo'),
+('UY-LA', 'UY', 'Departamento de Lavalleja', 'Departamento de Lavalleja', 4598940, 60889, 'UTC-3', 'America/Montevideo'),
+('UY-MA', 'UY', 'Departamento de Maldonado', 'Departamento de Maldonado', 4598966, 142086, 'UTC-3', 'America/Montevideo'),
+('UY-MO', 'UY', 'Departamento de Montevideo', 'Departamento de Montevideo', NULL, 1324115, 'UTC-3', 'America/Montevideo'),
+('UY-PA', 'UY', 'Departamento de Paysandu', 'Departamento de Paysandú', 4598872, 113506, 'UTC-3', 'America/Montevideo'),
+('UY-RN', 'UY', 'Departamento de Rio Negro', 'Departamento de Río Negro', 4599095, 54255, 'UTC-3', 'America/Montevideo'),
+('UY-RO', 'UY', 'Departamento de Rocha', 'Departamento de Rocha', 4598732, 69938, 'UTC-3', 'America/Montevideo'),
+('UY-RV', 'UY', 'Departamento de Rivera', 'Departamento de Rivera', 4598733, 105701, 'UTC-3', 'America/Montevideo'),
+('UY-SA', 'UY', 'Departamento de Salto', 'Departamento de Salto', 4598722, 123793, 'UTC-3', 'America/Montevideo'),
+('UY-SJ', 'UY', 'Departamento de San Jose', 'Departamento de San José', 4598705, 103848, 'UTC-3', 'America/Montevideo'),
+('UY-SO', 'UY', 'Departamento de Soriano', 'Departamento de Soriano', 4598944, 84879, 'UTC-3', 'America/Montevideo'),
+('UY-TA', 'UY', 'Departamento de Tacuarembo', 'Departamento de Tacuarembó', 4598655, 91062, 'UTC-3', 'America/Montevideo'),
+('UY-TT', 'UY', 'Departamento de Treinta y Tres', 'Departamento de Treinta y Tres', 4598636, 49324, 'UTC-3', 'America/Montevideo');
+
+SET FOREIGN_KEY_CHECKS=1;

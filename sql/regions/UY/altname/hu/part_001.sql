@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UY-AR', 'hu', 'Artigas megye'),
+('UY-CA', 'hu', 'Canelones megye'),
+('UY-CL', 'hu', 'Cerro Largo megye'),
+('UY-CO', 'hu', 'Colonia megye'),
+('UY-DU', 'hu', 'Durazno megye'),
+('UY-FD', 'hu', 'Florida megye'),
+('UY-FS', 'hu', 'Flores megye'),
+('UY-LA', 'hu', 'Lavalleja megye'),
+('UY-MA', 'hu', 'Maldonado megye'),
+('UY-MO', 'hu', 'Montevideo megye'),
+('UY-PA', 'hu', 'Paysandú megye'),
+('UY-RN', 'hu', 'Río Negro megye'),
+('UY-RO', 'hu', 'Rocha megye'),
+('UY-RV', 'hu', 'Rivera megye'),
+('UY-SA', 'hu', 'Salto megye'),
+('UY-SJ', 'hu', 'San José megye'),
+('UY-SO', 'hu', 'Soriano megye'),
+('UY-TA', 'hu', 'Tacuarembó megye'),
+('UY-TT', 'hu', 'Treinta y Tres megye');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'hr', 'Christ Church Nichola Town'),
+('KN-02', 'hr', 'Saint Anne Sandy Point'),
+('KN-03', 'hr', 'Sveti George Basseterre'),
+('KN-04', 'hr', 'Sveti Juraj Gingerland'),
+('KN-05', 'hr', 'Sveti Jakov Windward'),
+('KN-06', 'hr', 'Sveti Ivan Capesterre'),
+('KN-07', 'hr', 'Sveti Ivan Smokvino drvo'),
+('KN-08', 'hr', 'Sveta Marija Cayon'),
+('KN-09', 'hr', 'Sveti Pavao Capesterre'),
+('KN-10', 'hr', 'Saint Paul Charlestown'),
+('KN-11', 'hr', 'Sveti Petar Basseterre'),
+('KN-12', 'hr', 'Sveti Toma Nizina'),
+('KN-13', 'hr', 'Sveti Toma Srednji otok'),
+('KN-15', 'hr', 'Trinity Palmetto Point'),
+('KN-K', 'hr', 'Sveti Kitts'),
+('KN-N', 'hr', 'Nevis');
+
+SET FOREIGN_KEY_CHECKS=1;

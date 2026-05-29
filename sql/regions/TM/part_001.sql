@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('TM-A', 'TM', 'Ahal', 'Ahal welaýaty', 4306792, 939700, 'UTC+5', 'Asia/Ashgabat'),
+('TM-B', 'TM', 'Balkan', 'Balkan welaýaty', 4306623, 551996, 'UTC+5', 'Asia/Ashgabat'),
+('TM-D', 'TM', 'Dasoguz Welayaty', 'Daşoguz welaýaty', 4306964, 1370400, 'UTC+5', 'Asia/Ashgabat'),
+('TM-L', 'TM', 'Lebap', 'Lebap welaýaty', 4307517, 1388461, 'UTC+5', 'Asia/Ashgabat'),
+('TM-M', 'TM', 'Mary', 'Mary welaýaty', 4307148, 1536553, 'UTC+5', 'Asia/Ashgabat'),
+('TM-S', 'TM', 'Ashgabat', 'Aşgabat', NULL, 840229, 'UTC+5', 'Asia/Ashgabat');
+
+SET FOREIGN_KEY_CHECKS=1;

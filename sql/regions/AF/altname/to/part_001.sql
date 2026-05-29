@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'to', 'Balkh'),
+('AF-BAM', 'to', NULL),
+('AF-BDG', 'to', NULL),
+('AF-BDS', 'to', 'Badakhshan'),
+('AF-BGL', 'to', NULL),
+('AF-DAY', 'to', 'Vahefonua Daykundi'),
+('AF-FRA', 'to', 'Falah'),
+('AF-FYB', 'to', 'Vahefonua Faryab'),
+('AF-GHA', 'to', NULL),
+('AF-GHO', 'to', NULL),
+('AF-HEL', 'to', 'Helimani'),
+('AF-HER', 'to', 'Helati'),
+('AF-JOW', 'to', 'Wilayati-e Sousiani'),
+('AF-KAB', 'to', 'Uilaati-e Kapuli'),
+('AF-KAN', 'to', NULL),
+('AF-KAP', 'to', 'Uilaati-e Kapisa'),
+('AF-KDZ', 'to', 'Kundusi'),
+('AF-KHO', 'to', 'Velayat-e Khowst'),
+('AF-KNR', 'to', 'Uilaati-e Kuna'),
+('AF-LAG', 'to', NULL),
+('AF-LOG', 'to', 'Uilaati-e Lokā'),
+('AF-NAN', 'to', 'Nangarhar'),
+('AF-NIM', 'to', 'Uilaati-e Nimilosi'),
+('AF-NUR', 'to', 'Velayati-e Nulesitani'),
+('AF-PAN', 'to', 'Panjshir'),
+('AF-PAR', 'to', 'Pauani'),
+('AF-PIA', 'to', 'Uilaati-e Pakitia'),
+('AF-PKA', 'to', 'Uilaati-e Paktika'),
+('AF-SAM', 'to', 'Samangani'),
+('AF-SAR', 'to', 'Sa-e Pul'),
+('AF-TAK', 'to', 'Uilaati-ʻe Takā'),
+('AF-URU', 'to', NULL),
+('AF-WAR', 'to', 'Wardak'),
+('AF-ZAB', 'to', NULL);
+
+SET FOREIGN_KEY_CHECKS=1;

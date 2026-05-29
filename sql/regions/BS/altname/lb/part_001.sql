@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BS-AK', 'lb', 'Acklins'),
+('BS-BI', 'lb', 'Bimini'),
+('BS-BP', 'lb', 'Black Point'),
+('BS-BY', 'lb', 'Berry Islands'),
+('BS-CE', 'lb', 'Central Eleuthera'),
+('BS-CI', 'lb', 'Cat Island'),
+('BS-CK', 'lb', 'Crooked Island'),
+('BS-CO', 'lb', 'Central Abaco'),
+('BS-CS', 'lb', 'Central Andros'),
+('BS-EG', 'lb', 'East Grand Bahama'),
+('BS-EX', 'lb', 'Exuma'),
+('BS-FP', 'lb', 'Freeport'),
+('BS-GC', 'lb', 'Grand Cay'),
+('BS-HI', 'lb', 'Harbour Island'),
+('BS-HT', 'lb', 'Hope Town'),
+('BS-IN', 'lb', 'Inagua'),
+('BS-LI', 'lb', 'Long Island'),
+('BS-MC', 'lb', 'Mangrove Cay'),
+('BS-MG', 'lb', 'Mayaguana District'),
+('BS-MI', 'lb', 'Moore''s Island District'),
+('BS-NE', 'lb', 'North Eleuthera'),
+('BS-NO', 'lb', 'North Abaco'),
+('BS-NP', 'lb', 'New Providence'),
+('BS-NS', 'lb', 'North Andros'),
+('BS-RC', 'lb', 'Rum Cay'),
+('BS-RI', 'lb', 'Ragged Island'),
+('BS-SA', 'lb', 'South Andros'),
+('BS-SE', 'lb', 'South Eleuthera'),
+('BS-SO', 'lb', 'South Abaco'),
+('BS-SS', 'lb', 'San Salvador'),
+('BS-SW', 'lb', 'Spanish Wells'),
+('BS-WG', 'lb', 'West Grand Bahama');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GH-AA', 'th', 'เขตเซ้าธ์ บานัต'),
+('GH-AF', 'th', 'อาฮาโฟ'),
+('GH-AH', 'th', 'อาชานติ'),
+('GH-BE', 'th', NULL),
+('GH-BO', 'th', 'โบโนเรกโิน'),
+('GH-CP', 'th', 'เจนตระลเรกโิน'),
+('GH-EP', 'th', 'อิสเทิร์น รีเจี้ยน'),
+('GH-NE', 'th', 'ตะวันออกเฉียงเหนือ'),
+('GH-NP', 'th', 'นอร์ท เทิร์น รีเจี้ยน'),
+('GH-OT', 'th', 'โอติ'),
+('GH-SV', 'th', 'สะวันนา'),
+('GH-TV', 'th', 'วอลตา'),
+('GH-UE', 'th', 'อัปเปอ อีส รีเจี้ยน'),
+('GH-UW', 'th', 'อัพเปอร์ เวสต์'),
+('GH-WN', 'th', 'เวซเตรนโนรทเรกโิน'),
+('GH-WP', 'th', 'เวสเทิร์น รีเจี้ยน');
+
+SET FOREIGN_KEY_CHECKS=1;

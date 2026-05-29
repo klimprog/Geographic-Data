@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'zh', '培拉特州'),
+('AL-02', 'zh', '都拉斯州'),
+('AL-03', 'zh', '爱尔巴桑州'),
+('AL-04', 'zh', '费里州'),
+('AL-05', 'zh', '吉诺卡斯特州'),
+('AL-06', 'zh', '科尔察州'),
+('AL-07', 'zh', '庫克斯州'),
+('AL-08', 'zh', '莱什州'),
+('AL-09', 'zh', '迪勃拉州'),
+('AL-10', 'zh', '斯库台州'),
+('AL-11', 'zh', '地拉那州'),
+('AL-12', 'zh', '发罗拉州');
+
+SET FOREIGN_KEY_CHECKS=1;

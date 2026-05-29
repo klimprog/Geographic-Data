@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'hu', 'Balh tartomány'),
+('AF-BAM', 'hu', 'Bámiján tartomány'),
+('AF-BDG', 'hu', 'Badghis'),
+('AF-BDS', 'hu', 'Badahsán'),
+('AF-BGL', 'hu', 'Baglán tartomány'),
+('AF-DAY', 'hu', 'Daykundi tartomány'),
+('AF-FRA', 'hu', 'Farah'),
+('AF-FYB', 'hu', 'Faryab'),
+('AF-GHA', 'hu', 'Ghazni'),
+('AF-GHO', 'hu', 'Wilayat-e Ghor'),
+('AF-HEL', 'hu', 'Helmand tartomány'),
+('AF-HER', 'hu', 'Herát'),
+('AF-JOW', 'hu', 'Wilayat-e Jowzjan'),
+('AF-KAB', 'hu', 'Kabul'),
+('AF-KAN', 'hu', 'Kandahar'),
+('AF-KAP', 'hu', 'Kapisa'),
+('AF-KDZ', 'hu', 'Kunduz'),
+('AF-KHO', 'hu', 'Velayat-e Khowst'),
+('AF-KNR', 'hu', 'Kunar'),
+('AF-LAG', 'hu', 'Laghman'),
+('AF-LOG', 'hu', 'Wilayat-e Logar'),
+('AF-NAN', 'hu', 'Nangarhar'),
+('AF-NIM', 'hu', 'Wilayat-e Nimroz'),
+('AF-NUR', 'hu', 'Nurisztán'),
+('AF-PAN', 'hu', 'Parwan'),
+('AF-PAR', 'hu', 'Parwan'),
+('AF-PIA', 'hu', 'Wilayat-e Paktiya'),
+('AF-PKA', 'hu', 'Paktika'),
+('AF-SAM', 'hu', 'Samangan'),
+('AF-SAR', 'hu', 'Sar-e Pul'),
+('AF-TAK', 'hu', 'Takhar'),
+('AF-URU', 'hu', 'Uruzgán'),
+('AF-WAR', 'hu', 'Wardak'),
+('AF-ZAB', 'hu', 'Zabul');
+
+SET FOREIGN_KEY_CHECKS=1;

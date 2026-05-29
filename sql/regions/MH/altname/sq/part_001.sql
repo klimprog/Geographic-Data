@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MH-ALK', 'sq', 'Ailuk'),
+('MH-ALL', 'sq', 'Ailinglaplap'),
+('MH-ARN', 'sq', 'Arno'),
+('MH-AUR', 'sq', 'Aur'),
+('MH-EBO', 'sq', 'Ebon'),
+('MH-ENI', 'sq', 'Enewetak dhe Ujelang'),
+('MH-JAB', 'sq', 'Jabat'),
+('MH-JAL', 'sq', 'Jaluit'),
+('MH-KIL', 'sq', 'Bikini & Kili'),
+('MH-KWA', 'sq', 'Kwajalein'),
+('MH-L', 'sq', 'Zinxhiri Ralik'),
+('MH-LAE', 'sq', 'Lae'),
+('MH-LIB', 'sq', 'Lib'),
+('MH-LIK', 'sq', 'Likiep'),
+('MH-MAJ', 'sq', 'Majuro'),
+('MH-MAL', 'sq', 'Maloelap'),
+('MH-MEJ', 'sq', 'Mejit'),
+('MH-MIL', 'sq', 'Mili'),
+('MH-NMK', 'sq', 'Namdrik'),
+('MH-NMU', 'sq', 'Namu'),
+('MH-RON', 'sq', 'Rongelap'),
+('MH-T', 'sq', 'Zinxhiri Ratak'),
+('MH-UJA', 'sq', 'Ujae'),
+('MH-UTI', 'sq', 'Utrik'),
+('MH-WTH', 'sq', 'Wotho'),
+('MH-WTJ', 'sq', 'Wotje');
+
+SET FOREIGN_KEY_CHECKS=1;

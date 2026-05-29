@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'ms', 'Wilayah Lower Silesian'),
+('PL-04', 'ms', 'Kujawsko-Pomorskie'),
+('PL-06', 'ms', 'Wilayah Lublin'),
+('PL-08', 'ms', 'Wilayah Lubusz'),
+('PL-10', 'ms', 'Wilayah Lodzkie'),
+('PL-12', 'ms', 'Wilayah Malopolskie'),
+('PL-14', 'ms', 'Mazovia'),
+('PL-16', 'ms', 'Opole Voivodeship'),
+('PL-18', 'ms', 'Wilayah Podkarpacie'),
+('PL-20', 'ms', 'Podlasie'),
+('PL-22', 'ms', 'Pomerania'),
+('PL-24', 'ms', 'Silesia'),
+('PL-26', 'ms', 'Swietokrzyskie'),
+('PL-28', 'ms', 'Wilayah Warminsko-Mazurskie'),
+('PL-30', 'ms', 'Wilayah Wielkopolskie'),
+('PL-32', 'ms', 'Wilayah Barat Pomerania');
+
+SET FOREIGN_KEY_CHECKS=1;

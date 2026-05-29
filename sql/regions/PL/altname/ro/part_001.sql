@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'ro', 'Voievodatul Silezia Inferioară'),
+('PL-04', 'ro', 'Voievodatul Cujavie-Pomerania'),
+('PL-06', 'ro', 'Lublin'),
+('PL-08', 'ro', 'Voievodatul Lubusz'),
+('PL-10', 'ro', 'voievodatul Łódź'),
+('PL-12', 'ro', 'voievodatul Polonia Mică'),
+('PL-14', 'ro', 'Voievodatul Mazovia'),
+('PL-16', 'ro', 'Voievodatul Opole'),
+('PL-18', 'ro', 'Voievodatul Carpaților de Jos'),
+('PL-20', 'ro', 'Voievodatul Podlasia'),
+('PL-22', 'ro', 'Voievodatul Pomerania'),
+('PL-24', 'ro', 'Voievodatul Silezia'),
+('PL-26', 'ro', 'Voievodatul Sfintei Cruci'),
+('PL-28', 'ro', 'Voievodatul Varmia și Mazuria'),
+('PL-30', 'ro', 'voievodatul Polonia Mare'),
+('PL-32', 'ro', 'Pomerania Occidentală');
+
+SET FOREIGN_KEY_CHECKS=1;

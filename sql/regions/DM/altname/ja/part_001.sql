@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'ja', 'セント・アンドルー'),
+('DM-03', 'ja', 'セント・デイヴィッド郡'),
+('DM-04', 'ja', 'セント・ジョージ'),
+('DM-05', 'ja', 'セント・ジョン郡'),
+('DM-06', 'ja', 'セント・ジョゼフ教区'),
+('DM-07', 'ja', 'セント・ルーク'),
+('DM-08', 'ja', 'セント・マーク'),
+('DM-09', 'ja', 'セント・パトリック'),
+('DM-10', 'ja', 'セント・ポール'),
+('DM-11', 'ja', 'セント・ピーター');
+
+SET FOREIGN_KEY_CHECKS=1;

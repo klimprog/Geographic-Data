@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'mt', 'Knisja Kristu Nichola Town'),
+('KN-02', 'mt', 'Sant''Anna Sandy Point'),
+('KN-03', 'mt', 'San Ġorġ Basseterre'),
+('KN-04', 'mt', 'San Ġorġ Gingerland'),
+('KN-05', 'mt', 'San Ġakbu Windward'),
+('KN-06', 'mt', 'San Ġwann Kapesterre'),
+('KN-07', 'mt', 'San Ġwann Figtree'),
+('KN-08', 'mt', 'Santa Marija Cayon'),
+('KN-09', 'mt', 'San Pawl Kapesterre'),
+('KN-10', 'mt', 'San Pawl Charlestown'),
+('KN-11', 'mt', 'San Pietru Basseterre'),
+('KN-12', 'mt', 'San Tumas Lowland'),
+('KN-13', 'mt', 'Saint Thomas Middle Island'),
+('KN-15', 'mt', 'Trinity Palmetto Point'),
+('KN-K', 'mt', 'San Kitts'),
+('KN-N', 'mt', 'Nevis');
+
+SET FOREIGN_KEY_CHECKS=1;

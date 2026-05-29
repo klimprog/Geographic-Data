@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'de', 'Andamanen und Nikobaren'),
+('IN-AP', 'de', 'Andhra Pradesh'),
+('IN-AR', 'de', 'Arunachal Pradesh'),
+('IN-AS', 'de', 'Assam'),
+('IN-BR', 'de', 'Bihar'),
+('IN-CG', 'de', 'Chhattisgarh'),
+('IN-CH', 'de', 'Chandigarh'),
+('IN-DH', 'de', 'Dadra und Nagar Haveli und Daman und Diu'),
+('IN-DL', 'de', 'Delhi'),
+('IN-GA', 'de', 'Goa'),
+('IN-GJ', 'de', 'Bundesstaat Gujarat'),
+('IN-HP', 'de', 'Bundesstaat Himachal Pradesh'),
+('IN-HR', 'de', 'Bundesstaat Haryana'),
+('IN-JH', 'de', 'Jharkhand'),
+('IN-JK', 'de', 'Jammu und Kaschmir'),
+('IN-KA', 'de', 'Bundesstaat Karnataka'),
+('IN-KL', 'de', 'Bundesstaat Kerala'),
+('IN-LA', 'de', 'Ladakh'),
+('IN-LD', 'de', 'Lakkadiven'),
+('IN-MH', 'de', 'Bundesstaat Maharashtra'),
+('IN-ML', 'de', 'Bundesstaat Meghalaya'),
+('IN-MN', 'de', 'Bundesstaat Manipur'),
+('IN-MP', 'de', 'Bundesstaat Madhya Pradesh'),
+('IN-MZ', 'de', 'Bundesstaat Mizoram'),
+('IN-NL', 'de', 'Bundesstaat Nagaland'),
+('IN-OD', 'de', 'Bundesstaat Odisha'),
+('IN-PB', 'de', 'Bundesstaat Punjab'),
+('IN-PY', 'de', 'Puducherry'),
+('IN-RJ', 'de', 'Bundesstaat Rajasthan'),
+('IN-SK', 'de', 'Bundesstaat Sikkim'),
+('IN-TN', 'de', 'Bundesstaat Tamil Nadu'),
+('IN-TR', 'de', 'Bundesstaat Tripura'),
+('IN-TS', 'de', 'Bundesstaat Telangana'),
+('IN-UK', 'de', 'Uttarakhand'),
+('IN-UP', 'de', 'Bundesstaat Uttar Pradesh'),
+('IN-WB', 'de', 'Westbengalen');
+
+SET FOREIGN_KEY_CHECKS=1;

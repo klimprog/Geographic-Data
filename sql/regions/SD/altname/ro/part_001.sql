@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'ro', 'Statul Darfur Central'),
+('SD-DE', 'ro', 'Statul Darfur de Est'),
+('SD-DN', 'ro', 'Statul Darfur de Nord'),
+('SD-DS', 'ro', 'Statul Darfur de Sud'),
+('SD-DW', 'ro', 'Statul Darfur de Vest'),
+('SD-GD', 'ro', 'Statul Gedarif'),
+('SD-GK', 'ro', 'Statul Kordofan de Vest'),
+('SD-GZ', 'ro', 'Statul Al Jazirah'),
+('SD-KA', 'ro', 'Kassala'),
+('SD-KH', 'ro', 'Statul Khartoum'),
+('SD-KN', 'ro', 'Statul Kordofan de Nord'),
+('SD-KS', 'ro', 'Statul Kordofan de Sud'),
+('SD-NB', 'ro', 'Statul Nilul Albastru'),
+('SD-NO', 'ro', 'Statul de Nord'),
+('SD-NR', 'ro', 'Statul Râul Nil'),
+('SD-NW', 'ro', 'Statul Nilul Alb'),
+('SD-RS', 'ro', 'Statul Marea Roșie'),
+('SD-SI', 'ro', 'Statul Sennar');
+
+SET FOREIGN_KEY_CHECKS=1;

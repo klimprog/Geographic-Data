@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('VE-A', 'fi', 'Pääkaupunkialue'),
+('VE-B', 'fi', 'Anzoátegui'),
+('VE-C', 'fi', 'Apure'),
+('VE-D', 'fi', 'Aragua'),
+('VE-E', 'fi', 'Barinas'),
+('VE-F', 'fi', 'Bolívar'),
+('VE-G', 'fi', 'Carabobo'),
+('VE-H', 'fi', 'Cojedes'),
+('VE-I', 'fi', 'Falcón'),
+('VE-J', 'fi', 'Guárico'),
+('VE-K', 'fi', 'Lara'),
+('VE-L', 'fi', 'Mérida'),
+('VE-M', 'fi', 'Miranda'),
+('VE-N', 'fi', 'Monagas'),
+('VE-O', 'fi', 'Nueva Esparta'),
+('VE-P', 'fi', 'Portuguesa'),
+('VE-R', 'fi', 'Sucre'),
+('VE-S', 'fi', 'Táchira'),
+('VE-T', 'fi', 'Trujillo'),
+('VE-U', 'fi', 'Yaracuy'),
+('VE-V', 'fi', 'Zulia'),
+('VE-W', 'fi', 'Liittovaltiollinen alue'),
+('VE-X', 'fi', 'La Guaira'),
+('VE-Y', 'fi', 'Delta Amacuro'),
+('VE-Z', 'fi', 'Amazonas');
+
+SET FOREIGN_KEY_CHECKS=1;

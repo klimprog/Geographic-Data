@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'lt', 'Andamanų ir Nikobarų salos'),
+('IN-AP', 'lt', 'Andhra Pradešas'),
+('IN-AR', 'lt', 'Arunačal Pradešas'),
+('IN-AS', 'lt', 'Asamas'),
+('IN-BR', 'lt', 'Biharas'),
+('IN-CG', 'lt', 'Čhatisgarhas'),
+('IN-CH', 'lt', 'Čandigarchas'),
+('IN-DH', 'lt', 'Dadra ir Nagar Haveli ir Damanas ir Diu'),
+('IN-DL', 'lt', 'National Capital Territory of Delhi'),
+('IN-GA', 'lt', 'Goa'),
+('IN-GJ', 'lt', 'Gudžaratas'),
+('IN-HP', 'lt', 'Himačal Pradešas'),
+('IN-HR', 'lt', 'Harjana'),
+('IN-JH', 'lt', 'Džharkhandas'),
+('IN-JK', 'lt', 'Džamu ir Kašmyras'),
+('IN-KA', 'lt', 'Karnataka'),
+('IN-KL', 'lt', 'Kerala'),
+('IN-LA', 'lt', 'Ladakh'),
+('IN-LD', 'lt', 'Lakšadvipas'),
+('IN-MH', 'lt', 'Maharaštra'),
+('IN-ML', 'lt', 'Meghalaja'),
+('IN-MN', 'lt', 'Manipuras'),
+('IN-MP', 'lt', 'Madhja Pradešas'),
+('IN-MZ', 'lt', 'Mizoramas'),
+('IN-NL', 'lt', 'Nagalandas'),
+('IN-OD', 'lt', 'Orisa'),
+('IN-PB', 'lt', 'Pandžabas'),
+('IN-PY', 'lt', 'Pudučeris'),
+('IN-RJ', 'lt', 'Radžasthanas'),
+('IN-SK', 'lt', 'Sikimas'),
+('IN-TN', 'lt', 'Tamilnadas'),
+('IN-TR', 'lt', 'Tripura'),
+('IN-TS', 'lt', 'Telangana'),
+('IN-UK', 'lt', 'Utarakhandas'),
+('IN-UP', 'lt', 'Utar Pradešas'),
+('IN-WB', 'lt', 'Vakarų Bengalija');
+
+SET FOREIGN_KEY_CHECKS=1;

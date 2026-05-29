@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PE-AMA', 'ky', 'Амазондар'),
+('PE-ANC', 'ky', 'Анкаш'),
+('PE-APU', 'ky', 'Апуримак Department'),
+('PE-ARE', 'ky', 'Арекипа'),
+('PE-AYA', 'ky', 'Аякучо'),
+('PE-CAJ', 'ky', 'Кахамарка Department'),
+('PE-CAL', 'ky', 'Провинция Конституцион дель Каллао'),
+('PE-CUS', 'ky', 'Куско Department'),
+('PE-HUC', 'ky', 'Хуануко Department'),
+('PE-HUV', 'ky', 'Уанкавелика'),
+('PE-ICA', 'ky', 'Ика'),
+('PE-JUN', 'ky', 'Хунин'),
+('PE-LAL', 'ky', 'Ла Либертад'),
+('PE-LAM', 'ky', 'Ламбайеке'),
+('PE-LIM', 'ky', 'Лима region'),
+('PE-LMA', 'ky', 'Лима Province'),
+('PE-LOR', 'ky', 'Лорето'),
+('PE-MDD', 'ky', 'Мадре де Диос'),
+('PE-MOQ', 'ky', 'Мокегуа Department'),
+('PE-PAS', 'ky', 'Паско'),
+('PE-PIU', 'ky', 'Пиура'),
+('PE-PUN', 'ky', 'Пуно'),
+('PE-SAM', 'ky', 'Сан-Мартин Department'),
+('PE-TAC', 'ky', 'Такна'),
+('PE-TUM', 'ky', 'Тумбес'),
+('PE-UCA', 'ky', 'Укаяли');
+
+SET FOREIGN_KEY_CHECKS=1;

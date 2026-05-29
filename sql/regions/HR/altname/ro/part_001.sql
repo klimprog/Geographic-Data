@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HR-01', 'ro', 'cantonul Zagreb'),
+('HR-02', 'ro', 'cantonul Krapina-Zagorje'),
+('HR-03', 'ro', 'cantonul Sisak-Moslavina'),
+('HR-04', 'ro', 'cantonul Karlovac'),
+('HR-05', 'ro', 'cantonul Varaždin'),
+('HR-06', 'ro', 'Cantonul Koprivnica-Križevci'),
+('HR-07', 'ro', 'cantonul Bjelovar-Bilogora'),
+('HR-08', 'ro', 'Primorje-Gorski Kotar'),
+('HR-09', 'ro', 'Lika-Senj'),
+('HR-10', 'ro', 'Cantonul Virovitica-Podravina'),
+('HR-11', 'ro', 'cantonul Požega-Slavonia'),
+('HR-12', 'ro', 'Cantonul Brod-Posavina'),
+('HR-13', 'ro', 'Cantonul Zadar'),
+('HR-14', 'ro', 'cantonul Osijek-Baranja'),
+('HR-15', 'ro', 'cantonul Šibenik-Knin'),
+('HR-16', 'ro', 'Vukovar-Srijem'),
+('HR-17', 'ro', 'Cantonul Split-Dalmația'),
+('HR-18', 'ro', 'Istria'),
+('HR-19', 'ro', 'cantonul Dubrovnik-Neretva'),
+('HR-20', 'ro', 'Cantonul Međimurje'),
+('HR-21', 'ro', 'Zagreb');
+
+SET FOREIGN_KEY_CHECKS=1;

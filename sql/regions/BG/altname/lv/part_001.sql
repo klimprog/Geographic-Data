@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'lv', 'Blagojevgrandas apgabals'),
+('BG-02', 'lv', 'Burgasas apgabals'),
+('BG-03', 'lv', 'Varnas apgabals'),
+('BG-04', 'lv', 'Veliko Tarnovas apgabals'),
+('BG-05', 'lv', 'Vidinas apgabals'),
+('BG-06', 'lv', 'Vracas apgabals'),
+('BG-07', 'lv', 'Gabrovas apgabals'),
+('BG-08', 'lv', 'Dobričas apgabals'),
+('BG-09', 'lv', 'Kardžali apgabals'),
+('BG-10', 'lv', 'Kjustendilas apgabals'),
+('BG-11', 'lv', 'Lovečas apgabals'),
+('BG-12', 'lv', 'Montanas apgabals'),
+('BG-13', 'lv', 'Pazardžikas apgabals'),
+('BG-14', 'lv', 'Pernikas apgabals'),
+('BG-15', 'lv', 'Plevenas apgabals'),
+('BG-16', 'lv', 'Plovdivas apgabals'),
+('BG-17', 'lv', 'Razgradas apgabals'),
+('BG-18', 'lv', 'Ruses apgabals'),
+('BG-19', 'lv', 'Silistras apgabals'),
+('BG-20', 'lv', 'Slivenas apgabals'),
+('BG-21', 'lv', 'Smoļanas province'),
+('BG-22', 'lv', 'Sofijas pilsētas apgabals'),
+('BG-23', 'lv', 'Sofijas apgabals'),
+('BG-24', 'lv', 'Stara Zagoras apgabals'),
+('BG-25', 'lv', 'Targovištes apgabals'),
+('BG-26', 'lv', 'Haskovas apgabals'),
+('BG-27', 'lv', 'Šumenas apgabals'),
+('BG-28', 'lv', 'Jambolas apgabals');
+
+SET FOREIGN_KEY_CHECKS=1;

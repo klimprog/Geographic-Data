@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TZ-01', 'da', 'Arusha'),
+('TZ-02', 'da', 'Dar-es-Salaam'),
+('TZ-03', 'da', 'Dodoma'),
+('TZ-04', 'da', 'Iringa'),
+('TZ-05', 'da', 'Kagera'),
+('TZ-06', 'da', 'Pemba Kaskazini'),
+('TZ-07', 'da', 'Unguja Kaskazini'),
+('TZ-08', 'da', 'Kigoma'),
+('TZ-09', 'da', 'Kilimanjaro'),
+('TZ-10', 'da', 'Pemba Kusini'),
+('TZ-11', 'da', 'Unguja Kusini'),
+('TZ-12', 'da', 'Lindi'),
+('TZ-13', 'da', 'Mara'),
+('TZ-14', 'da', 'Mbeya'),
+('TZ-15', 'da', 'Unguja Mjini Magharibi'),
+('TZ-16', 'da', 'Morogoro'),
+('TZ-17', 'da', 'Mtwara'),
+('TZ-18', 'da', 'Mwanza'),
+('TZ-19', 'da', 'Pwani'),
+('TZ-20', 'da', 'Rukwa'),
+('TZ-21', 'da', 'Ruvuma'),
+('TZ-22', 'da', 'Shinyanga'),
+('TZ-23', 'da', 'Singida'),
+('TZ-24', 'da', 'Tabora'),
+('TZ-25', 'da', 'Tanga'),
+('TZ-26', 'da', 'Manyara'),
+('TZ-27', 'da', 'Geita Region'),
+('TZ-28', 'da', 'Katavi Region'),
+('TZ-29', 'da', 'Njombe Region'),
+('TZ-30', 'da', 'Simiya'),
+('TZ-31', 'da', 'Songwe');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,41 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities` (`id`, `country`, `region`, `name`, `native_name`, `population`, `status`, `native_status`, `timezone_utc`, `timezone_iana`) VALUES
+(4196283, 'SZ', 'SZ-LU', 'Thunzini', 'Tshaneni', 1899, 4, 'locality', 'UTC+2', 'Africa/Mbabane'),
+(4196287, 'SZ', 'SZ-LU', 'Siteki', 'Siteki', 6152, 2, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196290, 'SZ', 'SZ-MA', 'Sidvokodvo', 'Sidvokodvo', 1746, 4, 'village', 'UTC+2', 'Africa/Mbabane'),
+(4196295, 'SZ', 'SZ-HH', 'Piggs Peak', 'Piggs Peak', 5750, 2, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196297, 'SZ', 'SZ-LU', 'Nsoko', 'Nsoko', 1175, 3, 'village', 'UTC+2', 'Africa/Mbabane'),
+(4196301, 'SZ', 'SZ-SH', 'Nhlangano', 'Nhlangano', 9016, 2, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196308, 'SZ', 'SZ-LU', 'Mhlume', 'Mhlume', 8652, 3, 'village', 'UTC+2', 'Africa/Mbabane'),
+(4196310, 'SZ', 'SZ-MA', 'Mhlambanyatsi', 'Mhlambanyatsi', 2886, 4, 'Town', 'UTC+2', 'Africa/Mbabane'),
+(4196313, 'SZ', 'SZ-HH', 'Mbabane', 'Mbabane', 76218, 1, 'City proper', 'UTC+2', 'Africa/Mbabane'),
+(4196315, 'SZ', 'SZ-MA', 'Manzini', 'Manzini', 110508, 2, 'city', 'UTC+2', 'Africa/Mbabane'),
+(4196318, 'SZ', 'SZ-MA', 'Malkerns', 'Malkerns', 9724, 4, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196328, 'SZ', 'SZ-HH', 'Lobamba', 'Lobamba', 7779, 3, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196330, 'SZ', 'SZ-SH', 'Lavumisa', 'Lavumisa', 2000, 3, 'village', 'UTC+2', 'Africa/Mbabane'),
+(4196331, 'SZ', 'SZ-MA', 'Kwaluseni', 'Kwaluseni', 3395, 4, 'Town', 'UTC+2', 'Africa/Mbabane'),
+(4196332, 'SZ', 'SZ-SH', 'Kubuta', 'Kubuta', 2038, 4, 'Town', 'UTC+2', 'Africa/Mbabane'),
+(4196338, 'SZ', 'SZ-SH', 'Hluti', 'Hluti', 6763, 3, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196339, 'SZ', 'SZ-SH', 'Hlathikhulu', 'Hlatikulu', 2748, 3, 'locality', 'UTC+2', 'Africa/Mbabane'),
+(4196348, 'SZ', 'SZ-HH', 'Darkton', 'Darkton', 1281, 4, 'locality', 'UTC+2', 'Africa/Mbabane'),
+(4196351, 'SZ', 'SZ-HH', 'Bulembu', 'Bulembu', 2260, 4, 'village', 'UTC+2', 'Africa/Mbabane'),
+(4196352, 'SZ', 'SZ-MA', 'Bhunya', 'Bhunya', 3046, 4, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196356, 'SZ', 'SZ-LU', 'Vuvulane', 'Vuvulane', 4155, 4, 'village', 'UTC+2', 'Africa/Mbabane'),
+(4196357, 'SZ', 'SZ-LU', 'Ngwenya', 'Ngwenya', 842, 3, 'locality', 'UTC+2', 'Africa/Mbabane'),
+(4196358, 'SZ', 'SZ-HH', 'Ntfonjeni', 'Ntfonjeni', NULL, 2, 'locality', 'UTC+2', 'Africa/Mbabane'),
+(4196363, 'SZ', 'SZ-LU', 'Simunye', 'Simunye', 18350, 3, 'town', 'UTC+2', 'Africa/Mbabane'),
+(4196528, 'SZ', 'SZ-LU', 'Thembisa', 'Thembisa', 411, 3, 'City', 'UTC+2', 'Africa/Mbabane'),
+(4196586, 'SZ', 'SZ-MA', 'Mangcongco', 'Mangcongco', 42296, 3, 'City', 'UTC+2', 'Africa/Mbabane'),
+(4196688, 'SZ', 'SZ-LU', 'Lukhetseni', 'Lukhetseni', 8067, 3, 'Township', 'UTC+2', 'Africa/Mbabane'),
+(4196694, 'SZ', 'SZ-MA', 'Nkanyezini', 'Nkanyezini', 165, 3, 'Township', 'UTC+2', 'Africa/Mbabane'),
+(4196707, 'SZ', 'SZ-HH', 'Maloya', 'Maloya', 146, 3, 'Census-Designated Place', 'UTC+2', 'Africa/Mbabane'),
+(4196719, 'SZ', 'SZ-MA', 'Ngcoseni', 'Ngcoseni', 250, 3, 'City', 'UTC+2', 'Africa/Mbabane'),
+(4196816, 'SZ', 'SZ-SH', 'Makhatsatweni', 'Makhatsatweni', 390, 3, 'Census-Designated Place', 'UTC+2', 'Africa/Mbabane'),
+(4196832, 'SZ', 'SZ-SH', 'Sivule', 'Sivule', 114, 3, 'Town', 'UTC+2', 'Africa/Mbabane'),
+(4196863, 'SZ', 'SZ-SH', 'Ndabazezwe', 'Ndabazezwe', 74, 3, 'Town', 'UTC+2', 'Africa/Mbabane'),
+(4196917, 'SZ', 'SZ-LU', 'Geja', 'Geja', 11865, 3, 'Census-Designated Place', 'UTC+2', 'Africa/Mbabane'),
+(4196919, 'SZ', 'SZ-LU', 'Mhadlo', 'Mhadlo', 973, 4, 'hamlet', 'UTC+2', 'Africa/Mbabane');
+
+SET FOREIGN_KEY_CHECKS=1;

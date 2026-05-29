@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(315634815, 4099154, 'kl', 'Viktoria'),
+(315634892, 4099155, 'kl', 'Takamaka'),
+(315634969, 4099156, 'kl', 'Port Glaud'),
+(315635046, 4099157, 'kl', 'Annertuumik''Anse'),
+(315635277, 4099160, 'kl', 'La Digue'),
+(315635354, 4099161, 'kl', 'De Quincey'),
+(315635431, 4099162, 'kl', 'Kaskade'),
+(315635508, 4099163, 'kl', 'Bel Ombre'),
+(315635585, 4099164, 'kl', 'Beau Vallon'),
+(315635739, 4099166, 'kl', 'Anse Royale'),
+(315635816, 4099167, 'kl', 'Anse Boileau'),
+(315635893, 4099168, 'kl', 'Baie Sainte Anne'),
+(315636047, 4099170, 'kl', 'Annertuumik''Anse'),
+(315636124, 4099171, 'kl', 'Silhouette Island'),
+(315636201, 4099172, 'kl', 'Anse aux Pins'),
+(315636278, 4099173, 'kl', 'Pointe La Rue'),
+(315636355, 4099174, 'kl', 'Baie Lazare'),
+(315636586, 4099177, 'kl', 'La Passe'),
+(315636663, 4099178, 'kl', 'Ile au Cerf'),
+(315636817, 4099180, 'kl', NULL),
+(315637048, 4099183, 'kl', 'Anse Lazio'),
+(315637433, 4099188, 'kl', 'Roche Kaiman'),
+(315637510, 4099189, 'kl', 'North Island'),
+(315637587, 4099190, 'kl', 'Perseverance'),
+(315637664, 4099191, 'kl', 'English River'),
+(315637741, 4099192, 'kl', 'Desroches'),
+(315637895, 4099194, 'kl', 'Aldabra');
+
+SET FOREIGN_KEY_CHECKS=1;

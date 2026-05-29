@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(320371782, 4160673, 'la', 'Olnanum'),
+(320371859, 4160674, 'la', 'Civitas Sancti Marini'),
+(320371936, 4160675, 'la', 'Ecclesia Nova'),
+(320372013, 4160676, 'la', 'Mons Viridarium'),
+(320372090, 4160677, 'la', 'Florentinum'),
+(320372167, 4160678, 'la', 'Falciano'),
+(320372244, 4160679, 'la', 'Faetanum'),
+(320372321, 4160680, 'la', 'Domagnano'),
+(320372398, 4160681, 'la', 'Dogana'),
+(320372475, 4160682, 'la', 'Burgus Maior'),
+(320372552, 4160683, 'la', 'Acquaviva'),
+(320372629, 4160684, 'la', 'Area Productiva'),
+(320372783, 4160686, 'la', 'Murata'),
+(320372860, 4160687, 'la', 'Ventoso'),
+(320373014, 4160689, 'la', 'Torraccia'),
+(320373245, 4160692, 'la', 'Valdragone');
+
+SET FOREIGN_KEY_CHECKS=1;

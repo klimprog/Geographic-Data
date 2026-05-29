@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SV-AH', 'fa', 'آهواچاپان'),
+('SV-CA', 'fa', 'کابانیاس'),
+('SV-CH', 'fa', 'استان چالاتنانگو'),
+('SV-CU', 'fa', 'کوسکاتلان'),
+('SV-LI', 'fa', 'ناحیه لا لیبرتاد'),
+('SV-MO', 'fa', 'موراسان'),
+('SV-PA', 'fa', 'ناحیه لاپاز'),
+('SV-SA', 'fa', 'ناحیه سانتا آنا'),
+('SV-SM', 'fa', 'ناحیه سان میگوئل'),
+('SV-SO', 'fa', 'بخش سونسوناتی'),
+('SV-SS', 'fa', 'بخش سن سالوادور'),
+('SV-SV', 'fa', 'ناحیه سان ویسنته'),
+('SV-UN', 'fa', 'لااتحاد'),
+('SV-US', 'fa', 'اوسولوتان');
+
+SET FOREIGN_KEY_CHECKS=1;

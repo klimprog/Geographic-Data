@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NL-AW', 'zh', '阿鲁巴岛'),
+('NL-BQ1', 'zh', '博内尔岛'),
+('NL-BQ2', 'zh', '萨巴'),
+('NL-BQ3', 'zh', '圣尤斯特歇斯岛'),
+('NL-CW', 'zh', '库拉索岛'),
+('NL-DR', 'zh', '德伦特省'),
+('NL-FL', 'zh', '弗莱福兰省'),
+('NL-FR', 'zh', '弗里斯兰省'),
+('NL-GE', 'zh', '海尔德兰省'),
+('NL-GR', 'zh', '格罗宁根省'),
+('NL-LI', 'zh', '林堡省'),
+('NL-NB', 'zh', '北布拉班特省'),
+('NL-NH', 'zh', '北荷兰省'),
+('NL-OV', 'zh', '上艾瑟尔省'),
+('NL-SX', 'zh', '圣马丁岛'),
+('NL-UT', 'zh', '乌得勒支省'),
+('NL-ZE', 'zh', '泽兰省'),
+('NL-ZH', 'zh', '南荷蘭省');
+
+SET FOREIGN_KEY_CHECKS=1;

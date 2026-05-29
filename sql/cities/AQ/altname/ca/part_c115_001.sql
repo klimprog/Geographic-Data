@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072077, 52885, 'ca', 'Villa Las Estrellas'),
+(4072154, 52886, 'ca', 'Estació de Davis'),
+(4072231, 52887, 'ca', 'Base General Bernardo O''Higgins Riquelme'),
+(4072308, 52888, 'ca', 'Estació de Showa'),
+(4072385, 52889, 'ca', 'Estació de Jang Bogo'),
+(4072462, 52890, 'ca', 'Estació SANAE IV'),
+(4072539, 52891, 'ca', 'Estació de Qinling'),
+(4072616, 52892, 'ca', 'Estació de Zhongshan'),
+(4072693, 52893, 'ca', 'Estació de Mawson'),
+(4072924, 52896, 'ca', 'Estació de progrés'),
+(4073155, 52899, 'ca', 'Estació de Novolazarevskaya'),
+(4073309, 52901, 'ca', 'Estació de Mirny');
+
+SET FOREIGN_KEY_CHECKS=1;

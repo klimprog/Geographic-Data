@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MH-ALK', 'tg', 'Айлук'),
+('MH-ALL', 'tg', 'Айлинглаплап'),
+('MH-ARN', 'tg', 'Арно'),
+('MH-AUR', 'tg', 'Аур'),
+('MH-EBO', 'tg', 'Эбон'),
+('MH-ENI', 'tg', 'Эневетак ва Ужеланг'),
+('MH-JAB', 'tg', 'Ҷабат'),
+('MH-JAL', 'tg', 'Ҷалуит'),
+('MH-KIL', 'tg', 'Бикини ва Кили'),
+('MH-KWA', 'tg', 'Кважалейн'),
+('MH-L', 'tg', 'Занҷираи Ралик'),
+('MH-LAE', 'tg', 'Лае'),
+('MH-LIB', 'tg', 'Либ'),
+('MH-LIK', 'tg', 'Ликиеп'),
+('MH-MAJ', 'tg', 'Мажуро'),
+('MH-MAL', 'tg', 'Малоелап'),
+('MH-MEJ', 'tg', 'Меҷит'),
+('MH-MIL', 'tg', 'Мили'),
+('MH-NMK', 'tg', 'Намдрик'),
+('MH-NMU', 'tg', 'Наму'),
+('MH-RON', 'tg', 'Ронгелап'),
+('MH-T', 'tg', 'Занҷираи Ратак'),
+('MH-UJA', 'tg', 'Ужае'),
+('MH-UTI', 'tg', 'Утрик'),
+('MH-WTH', 'tg', 'Вотхо'),
+('MH-WTJ', 'tg', 'Вотже');
+
+SET FOREIGN_KEY_CHECKS=1;

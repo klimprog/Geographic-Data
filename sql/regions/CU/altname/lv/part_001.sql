@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CU-01', 'lv', 'Pinaras del Rio province'),
+('CU-03', 'lv', 'La Habana'),
+('CU-04', 'lv', 'Matansasas province'),
+('CU-05', 'lv', 'Viljaklaras province'),
+('CU-06', 'lv', 'Sjenfuegosas province'),
+('CU-07', 'lv', 'Sanktispiritusas province'),
+('CU-08', 'lv', 'Sjego de Avilas province'),
+('CU-09', 'lv', 'Kamagvejas province'),
+('CU-10', 'lv', 'Lastunasas province'),
+('CU-11', 'lv', 'Holginas province'),
+('CU-12', 'lv', 'Granmas province'),
+('CU-13', 'lv', 'Santjago de Kubas province'),
+('CU-14', 'lv', 'Gvantanamo province'),
+('CU-15', 'lv', 'Artemisas province'),
+('CU-16', 'lv', 'Majabekes province'),
+('CU-99', 'lv', 'Municipio Special Isla de la Juventud');
+
+SET FOREIGN_KEY_CHECKS=1;

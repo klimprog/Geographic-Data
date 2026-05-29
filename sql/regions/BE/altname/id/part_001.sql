@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BE-BRU', 'id', 'Daerah Ibu Kota Brussel'),
+('BE-VAN', 'id', 'Antwerpen'),
+('BE-VBR', 'id', 'Vlaams-Brabant'),
+('BE-VLG', 'id', 'Daerah Flandria'),
+('BE-VLI', 'id', 'Limburg'),
+('BE-VOV', 'id', 'Oost-Vlaanderen'),
+('BE-VWV', 'id', 'Vlaanderen Barat'),
+('BE-WAL', 'id', 'Wallonia'),
+('BE-WBR', 'id', 'Brabant Wallon'),
+('BE-WHT', 'id', 'Hainaut'),
+('BE-WLG', 'id', NULL),
+('BE-WLX', 'id', 'Luksemburg'),
+('BE-WNA', 'id', 'Namur');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GR-69', 'ja', 'アトス山'),
+('GR-A', 'ja', '東マケドニア・トラキア'),
+('GR-B', 'ja', '中央マケドニア'),
+('GR-C', 'ja', '西マケドニア'),
+('GR-D', 'ja', 'イピロス'),
+('GR-E', 'ja', 'テッサリア'),
+('GR-F', 'ja', 'イオニア諸島'),
+('GR-G', 'ja', '西ギリシャ'),
+('GR-H', 'ja', '中央ギリシャ'),
+('GR-I', 'ja', 'アッティカ'),
+('GR-J', 'ja', 'ペロポネソス'),
+('GR-K', 'ja', '北エーゲ'),
+('GR-L', 'ja', '南エーゲ'),
+('GR-M', 'ja', 'クレタ');
+
+SET FOREIGN_KEY_CHECKS=1;

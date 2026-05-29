@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'rw', 'Bas-Congo'),
+('CD-BU', 'rw', 'Bas-Uele'),
+('CD-EQ', 'rw', 'Equateur'),
+('CD-HK', 'rw', 'Haut-Katanga'),
+('CD-HL', 'rw', 'Haut-Lomami'),
+('CD-HU', 'rw', 'Haut-Uele'),
+('CD-IT', 'rw', 'Ituri'),
+('CD-KC', 'rw', 'Kasai central'),
+('CD-KE', 'rw', 'Kasai-Oriental'),
+('CD-KG', 'rw', 'Kwango'),
+('CD-KL', 'rw', 'Kwilu'),
+('CD-KN', 'rw', 'Kinshasa'),
+('CD-KS', 'rw', 'Kasai'),
+('CD-LO', 'rw', 'Lomami'),
+('CD-LU', 'rw', 'Lualaba'),
+('CD-MA', 'rw', 'Maniema'),
+('CD-MN', 'rw', 'Mai-Ndombe'),
+('CD-MO', 'rw', 'Mongala'),
+('CD-NK', 'rw', 'Intara ya Kivu y’Amajyaruguru'),
+('CD-NU', 'rw', 'Intara du Nord-Ubangi'),
+('CD-SA', 'rw', 'Sankuru'),
+('CD-SK', 'rw', 'Intara ya Kivu y’Amajyepfo'),
+('CD-SU', 'rw', 'Intara du Sud-Ubangi'),
+('CD-TA', 'rw', 'Tanganyika'),
+('CD-TO', 'rw', 'Tshopo'),
+('CD-TU', 'rw', 'Tshuapa');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'da', 'Blagoevgrad (provins)'),
+('BG-02', 'da', 'Burgas'),
+('BG-03', 'da', 'Varna'),
+('BG-04', 'da', 'Veliko Tarnovo (provins)'),
+('BG-05', 'da', 'Vidin (provins)'),
+('BG-06', 'da', 'Vratsa (provins)'),
+('BG-07', 'da', 'Gabrovo (provins)'),
+('BG-08', 'da', 'Dobritj (provins)'),
+('BG-09', 'da', 'Kardzjali (provins)'),
+('BG-10', 'da', 'Kjustendil (provins)'),
+('BG-11', 'da', 'Lovetj'),
+('BG-12', 'da', 'Montana (provins)'),
+('BG-13', 'da', 'Pazardsjik (provins)'),
+('BG-14', 'da', 'Pernik (provins)'),
+('BG-15', 'da', 'Pleven (provins)'),
+('BG-16', 'da', 'Plovdiv'),
+('BG-17', 'da', 'Razgrad (provins)'),
+('BG-18', 'da', 'Ruse (provins)'),
+('BG-19', 'da', 'Silistra (provins)'),
+('BG-20', 'da', 'Sliven'),
+('BG-21', 'da', 'Smoljan (provins)'),
+('BG-22', 'da', 'Sofia-Grad'),
+('BG-23', 'da', 'Sofia'),
+('BG-24', 'da', 'Stara Zagora (provins)'),
+('BG-25', 'da', 'Targovisjte (provins)'),
+('BG-26', 'da', 'Haskovo'),
+('BG-27', 'da', 'Sjumen'),
+('BG-28', 'da', 'Jambol');
+
+SET FOREIGN_KEY_CHECKS=1;

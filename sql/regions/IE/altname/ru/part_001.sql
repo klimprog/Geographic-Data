@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'ru', 'Коннахт'),
+('IE-CE', 'ru', 'Клэр'),
+('IE-CN', 'ru', 'Каван'),
+('IE-CO', 'ru', 'Корк'),
+('IE-CW', 'ru', 'Карлоу'),
+('IE-D', 'ru', 'Дублин'),
+('IE-DL', 'ru', 'Донегаль'),
+('IE-G', 'ru', 'Голуэй'),
+('IE-KE', 'ru', 'Килдаре'),
+('IE-KK', 'ru', 'Килкенни'),
+('IE-KY', 'ru', 'Керри'),
+('IE-L', 'ru', 'Ленстер'),
+('IE-LD', 'ru', 'Лонгфорд'),
+('IE-LH', 'ru', 'Лаут'),
+('IE-LK', 'ru', 'Лимерик'),
+('IE-LM', 'ru', 'Литрим'),
+('IE-LS', 'ru', 'Лаоис'),
+('IE-M', 'ru', 'Манстер'),
+('IE-MH', 'ru', 'Меатх'),
+('IE-MN', 'ru', 'Монаган'),
+('IE-MO', 'ru', 'Майо'),
+('IE-OY', 'ru', 'Оффали'),
+('IE-RN', 'ru', 'Роскоммон'),
+('IE-SO', 'ru', 'Слиго'),
+('IE-TA', 'ru', 'Типперарий'),
+('IE-U', 'ru', 'Ольстер'),
+('IE-WD', 'ru', 'Уотерфорд'),
+('IE-WH', 'ru', 'Уэстмит'),
+('IE-WW', 'ru', 'Уиклоу'),
+('IE-WX', 'ru', 'Уэксфорд');
+
+SET FOREIGN_KEY_CHECKS=1;

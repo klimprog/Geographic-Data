@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TN-11', 'nl', 'Tunis'),
+('TN-12', 'nl', 'Ariana'),
+('TN-13', 'nl', 'Ben Arous'),
+('TN-14', 'nl', 'Manouba'),
+('TN-21', 'nl', 'Nabeul'),
+('TN-22', 'nl', 'Zaghouan'),
+('TN-23', 'nl', 'Bizerte'),
+('TN-31', 'nl', 'Béja'),
+('TN-32', 'nl', 'Jendouba'),
+('TN-33', 'nl', 'Kef'),
+('TN-34', 'nl', 'Siliana'),
+('TN-41', 'nl', 'Kairouan'),
+('TN-42', 'nl', 'Kasserine'),
+('TN-43', 'nl', 'Sidi Bouzid'),
+('TN-51', 'nl', 'Sousse'),
+('TN-52', 'nl', 'Monastir'),
+('TN-53', 'nl', 'Mahdia'),
+('TN-61', 'nl', 'Sfax'),
+('TN-71', 'nl', 'Gafsa'),
+('TN-72', 'nl', 'Tozeur'),
+('TN-73', 'nl', 'Kébili'),
+('TN-81', 'nl', 'Gabès'),
+('TN-82', 'nl', 'Médenine'),
+('TN-83', 'nl', 'Tataouine');
+
+SET FOREIGN_KEY_CHECKS=1;

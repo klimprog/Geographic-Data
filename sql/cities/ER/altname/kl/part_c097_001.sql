@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(113799412, 1477915, 'kl', 'Zula'),
+(113804879, 1477986, 'kl', 'Segheneyti'),
+(113808267, 1478030, 'kl', 'Nefasit'),
+(113808498, 1478033, 'kl', 'Nak''fa'),
+(113809345, 1478044, 'kl', 'Massawa'),
+(113810269, 1478056, 'kl', 'Mersa Fat''ma'),
+(113815428, 1478123, 'kl', 'Kieru'),
+(113815582, 1478125, 'kl', 'Keren'),
+(113818200, 1478159, 'kl', 'Himora'),
+(113820202, 1478185, 'kl', 'Hagaz'),
+(113822050, 1478209, 'kl', 'Ghinda''e'),
+(113825592, 1478255, 'kl', 'Edd'),
+(113827132, 1478275, 'kl', 'Debarwa'),
+(113828518, 1478293, 'kl', 'Dek''emhare'),
+(113828595, 1478294, 'kl', 'Dehalak'' Kebir'),
+(113834062, 1478365, 'kl', 'Beylul'),
+(113835063, 1478378, 'kl', 'Barentu'),
+(113837219, 1478406, 'kl', 'ASMARA'),
+(113837450, 1478409, 'kl', 'Assab'),
+(113838066, 1478417, 'kl', 'Areza'),
+(113840992, 1478455, 'kl', 'Ak''ordat'),
+(113843841, 1478492, 'kl', 'Mendefera'),
+(113845689, 1478516, 'kl', 'Adi-Quala'),
+(113845920, 1478519, 'kl', 'Adi Keyh'),
+(113857624, 1478671, 'kl', 'Badme'),
+(113903131, 1479262, 'kl', 'Mai-Mne');
+
+SET FOREIGN_KEY_CHECKS=1;

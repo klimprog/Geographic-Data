@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'mt', 'Provinċja ta'' Azuay'),
+('EC-B', 'mt', 'Bolivar'),
+('EC-C', 'mt', 'Carchi'),
+('EC-D', 'mt', 'Orellana'),
+('EC-E', 'mt', 'Esmeraldas'),
+('EC-F', 'mt', 'Kanar'),
+('EC-G', 'mt', 'Guayas'),
+('EC-H', 'mt', 'Ċimborazo'),
+('EC-I', 'mt', 'Imbabura'),
+('EC-L', 'mt', 'Loja'),
+('EC-M', 'mt', 'Manabi'),
+('EC-N', 'mt', 'Napo'),
+('EC-O', 'mt', 'El Oro'),
+('EC-P', 'mt', 'Pichincha'),
+('EC-R', 'mt', 'Provinċja de Los Rios'),
+('EC-S', 'mt', 'Morona Santiago'),
+('EC-SD', 'mt', 'Santo Domingo de los Tsachilas'),
+('EC-SE', 'mt', 'Santa Elena'),
+('EC-T', 'mt', 'Tungurahua'),
+('EC-U', 'mt', 'Sucumbios'),
+('EC-W', 'mt', 'Provinċja ta'' Galapagos'),
+('EC-X', 'mt', 'Cotopaxi'),
+('EC-Y', 'mt', 'Pastaza'),
+('EC-Z', 'mt', 'Zamora Chinchipe');
+
+SET FOREIGN_KEY_CHECKS=1;

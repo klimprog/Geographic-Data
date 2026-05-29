@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'am', 'ባላካ'),
+('MW-BL', 'am', 'ብላንትይረ'),
+('MW-C', 'am', 'መካከለኛ Region'),
+('MW-CK', 'am', 'ቺኳዋ'),
+('MW-CR', 'am', 'ቺራድዙሉ'),
+('MW-CT', 'am', 'ቺቲፓ'),
+('MW-DE', 'am', 'ዴድዛ'),
+('MW-DO', 'am', 'ዶዋ'),
+('MW-KR', 'am', 'ካሮንጋ'),
+('MW-KS', 'am', 'ካሱንጉ'),
+('MW-LI', 'am', 'ሊሎንግዌ'),
+('MW-LK', 'am', 'ሊኮማ'),
+('MW-MC', 'am', 'ምቺንጂ'),
+('MW-MG', 'am', 'ማንጎቺ'),
+('MW-MH', 'am', 'ማቺንጋ'),
+('MW-MU', 'am', 'ሙላንጄ'),
+('MW-MW', 'am', 'ምዋንዛ'),
+('MW-MZ', 'am', 'ምዚምባ'),
+('MW-N', 'am', 'ሰሜን Region'),
+('MW-NB', 'am', 'ንካታ ቤይ'),
+('MW-NE', 'am', 'ኔኖ'),
+('MW-NI', 'am', 'ንቺሲ'),
+('MW-NK', 'am', 'ንኮታኮታ'),
+('MW-NS', 'am', 'ንሳንጄ'),
+('MW-NU', 'am', 'ንቸሁ'),
+('MW-PH', 'am', 'ፋሎምቤ'),
+('MW-RU', 'am', 'ራምፊ'),
+('MW-S', 'am', 'ደቡብ Region'),
+('MW-SA', 'am', 'ሳሊማ'),
+('MW-TH', 'am', 'ቲዮሎ'),
+('MW-ZO', 'am', 'ዞምባ');
+
+SET FOREIGN_KEY_CHECKS=1;

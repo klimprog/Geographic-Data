@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'ur', 'وسطی دارفور'),
+('SD-DE', 'ur', 'مشرقی دارفور'),
+('SD-DN', 'ur', 'شمالی دارفور'),
+('SD-DS', 'ur', 'جنوبی دارفور'),
+('SD-DW', 'ur', 'مغربی دارفور'),
+('SD-GD', 'ur', 'القضارف'),
+('SD-GK', 'ur', 'مغربی کردفان'),
+('SD-GZ', 'ur', 'الجزیرہ'),
+('SD-KA', 'ur', 'کسلا'),
+('SD-KH', 'ur', 'خرطوم'),
+('SD-KN', 'ur', 'شمالی کردفان'),
+('SD-KS', 'ur', 'جنوبی کردفان'),
+('SD-NB', 'ur', 'نیل ازرق'),
+('SD-NO', 'ur', 'شمالی'),
+('SD-NR', 'ur', 'دریائے نیل'),
+('SD-NW', 'ur', 'نیل ابیض'),
+('SD-RS', 'ur', 'بحیرہ احمر'),
+('SD-SI', 'ur', 'سنار');
+
+SET FOREIGN_KEY_CHECKS=1;

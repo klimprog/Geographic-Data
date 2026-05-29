@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'lb', 'Batha Regioun'),
+('TD-BG', 'lb', 'Barh-El-Gazel'),
+('TD-BO', 'lb', 'Borkou Regioun'),
+('TD-CB', 'lb', 'Chari-Baguirmi Regioun'),
+('TD-EE', 'lb', 'Ennedi-Est'),
+('TD-EO', 'lb', 'Ennedi-Ouest'),
+('TD-GR', 'lb', 'Guera Regioun'),
+('TD-HL', 'lb', 'Hadjer-Lamis'),
+('TD-KA', 'lb', 'Kanem Regioun'),
+('TD-LC', 'lb', 'Lac Regioun'),
+('TD-LO', 'lb', 'Logone Occidental Regioun'),
+('TD-LR', 'lb', 'Logone orientaleschen Regioun'),
+('TD-MA', 'lb', 'Mandoul'),
+('TD-MC', 'lb', 'Moyen-Chari Regioun'),
+('TD-ME', 'lb', 'Mayo-Kebbi Est'),
+('TD-MO', 'lb', 'Mayo-Kebbi West Regioun'),
+('TD-ND', 'lb', 'N''Djamena'),
+('TD-OD', 'lb', 'Ouaddai Regioun'),
+('TD-SA', 'lb', 'Salamat Regioun'),
+('TD-SI', 'lb', 'Sila'),
+('TD-TA', 'lb', 'Tandjile Regioun'),
+('TD-TI', 'lb', 'Tibesti Regioun'),
+('TD-WF', 'lb', 'Wadi Fira Regioun');
+
+SET FOREIGN_KEY_CHECKS=1;

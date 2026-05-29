@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'lt', 'Anhui'),
+('CN-BJ', 'lt', 'bei jing'),
+('CN-CQ', 'lt', 'Čongčingas'),
+('CN-FJ', 'lt', 'Fudzianas'),
+('CN-GD', 'lt', 'Guangdongas'),
+('CN-GS', 'lt', 'Gansu'),
+('CN-GX', 'lt', 'Guangsi'),
+('CN-GZ', 'lt', 'Guidžou'),
+('CN-HA', 'lt', 'Henanas'),
+('CN-HB', 'lt', 'Hubėjus'),
+('CN-HE', 'lt', 'Hebei'),
+('CN-HI', 'lt', 'Hainanas'),
+('CN-HK', 'lt', 'Honkongo SAR'),
+('CN-HL', 'lt', 'Heilongdziangas'),
+('CN-HN', 'lt', 'Hunanas'),
+('CN-JL', 'lt', 'Dzilinas'),
+('CN-JS', 'lt', 'Dziangsu'),
+('CN-JX', 'lt', 'Dziangsi'),
+('CN-LN', 'lt', 'Liaoningas'),
+('CN-MO', 'lt', 'Makao SAR'),
+('CN-NM', 'lt', 'Vidinė Mongolija'),
+('CN-NX', 'lt', 'Ningsia'),
+('CN-QH', 'lt', 'Činghajus'),
+('CN-SC', 'lt', 'Sičuanas'),
+('CN-SD', 'lt', 'Šandongas'),
+('CN-SH', 'lt', 'Šanchajus'),
+('CN-SN', 'lt', 'Šaansi'),
+('CN-SX', 'lt', 'Šansi'),
+('CN-TJ', 'lt', 'Tiandzinas'),
+('CN-TW', 'lt', 'Taivanas Šengas'),
+('CN-XJ', 'lt', 'Sindziangas'),
+('CN-XZ', 'lt', 'Tibeto autonominis regionas'),
+('CN-YN', 'lt', 'Junanas'),
+('CN-ZJ', 'lt', 'Džedziangas');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(16037332, 208278, 'ar', 'فلاتس'),
+(16037486, 208280, 'ar', 'سومرست'),
+(16037640, 208282, 'ar', 'سانت جورج'),
+(16038179, 208289, 'ar', 'هاميلتون'),
+(16038641, 208295, 'ar', 'كروس باي'),
+(16038718, 208296, 'ar', 'خليج ستوف');
+
+SET FOREIGN_KEY_CHECKS=1;

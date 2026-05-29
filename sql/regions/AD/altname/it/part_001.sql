@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AD-02', 'it', 'parrocchia di Canillo'),
+('AD-03', 'it', 'parrocchia di Encamp'),
+('AD-04', 'it', 'parrocchia di La Massana'),
+('AD-05', 'it', 'parrocchia di Ordino'),
+('AD-06', 'it', 'Sant Julià de Lòria'),
+('AD-07', 'it', 'parrocchia di Andorra la Vella'),
+('AD-08', 'it', 'parrocchia di Escaldes-Engordany');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TT-ARI', 'vi', 'Arima'),
+('TT-CHA', 'vi', 'Chaguanas'),
+('TT-CTT', 'vi', 'Khu liên kết chung Couva-Tabaquite-Talparo'),
+('TT-DMN', 'vi', 'Khu liên kết chung Diego Martin'),
+('TT-MRC', 'vi', 'Khu liên kết chung Rio Claro-Mayaro'),
+('TT-PED', 'vi', 'Khu liên kết chung Penal-Debe'),
+('TT-POS', 'vi', 'Port of Spain'),
+('TT-PRT', 'vi', 'Khu liên kết chung Princes Town'),
+('TT-PTF', 'vi', 'Point Fortin'),
+('TT-SFO', 'vi', 'San Fernando'),
+('TT-SGE', 'vi', 'Khu liên kết chung Sangre Grande'),
+('TT-SIP', 'vi', 'Khu liên kết chung Siparia'),
+('TT-SJL', 'vi', 'Khu liên kết chung San Juan-Laventille'),
+('TT-TOB', 'vi', 'Tobago'),
+('TT-TUP', 'vi', 'Khu liên kết chung Tunapuna-Piarco');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LB-AK', 'fa', 'عكار'),
+('LB-AS', 'fa', 'شمال لبنان'),
+('LB-BA', 'fa', 'بیروت'),
+('LB-BH', 'fa', 'استان بعلبک الهرمل'),
+('LB-BI', 'fa', 'بقاع'),
+('LB-JA', 'fa', 'استان جنوبی لبنان'),
+('LB-JL', 'fa', 'کوه لبنان'),
+('LB-NA', 'fa', 'نبطیة');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MR-01', 'lb', 'Hodh ech Chargui'),
+('MR-02', 'lb', 'HodhelGharbi'),
+('MR-03', 'lb', 'Assaba'),
+('MR-04', 'lb', 'Gorgol'),
+('MR-05', 'lb', 'Brakna'),
+('MR-06', 'lb', 'Wilaya du Trarza'),
+('MR-07', 'lb', 'adrar'),
+('MR-08', 'lb', 'Dakhlet Nouadhibou'),
+('MR-09', 'lb', 'Tagant'),
+('MR-10', 'lb', 'Guidimaka'),
+('MR-11', 'lb', 'Tiris Zemmour'),
+('MR-12', 'lb', 'Inchiri'),
+('MR-13', 'lb', 'Nouakchott Ouest'),
+('MR-14', 'lb', 'Nouakchott Nord'),
+('MR-15', 'lb', 'Nouakchott Süd');
+
+SET FOREIGN_KEY_CHECKS=1;

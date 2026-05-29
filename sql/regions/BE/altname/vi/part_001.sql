@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BE-BRU', 'vi', 'Bruxelles'),
+('BE-VAN', 'vi', 'Antwerpen'),
+('BE-VBR', 'vi', 'Vlaams-Brabant'),
+('BE-VLG', 'vi', 'Vùng Flemish'),
+('BE-VLI', 'vi', 'Limburg'),
+('BE-VOV', 'vi', 'Oost-Vlaanderen'),
+('BE-VWV', 'vi', 'West-Vlaanderen'),
+('BE-WAL', 'vi', 'Wallonie'),
+('BE-WBR', 'vi', 'Brabant wallon'),
+('BE-WHT', 'vi', 'Hainaut'),
+('BE-WLG', 'vi', 'Liège'),
+('BE-WLX', 'vi', 'Luxembourg'),
+('BE-WNA', 'vi', 'Namur');
+
+SET FOREIGN_KEY_CHECKS=1;

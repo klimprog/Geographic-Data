@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(296742937, 3853805, 'is', 'Saint-Pierre'),
+(296743014, 3853806, 'is', 'Miquelon'),
+(296743091, 3853807, 'is', 'Petit-Barachois'),
+(296743168, 3853808, 'is', 'Village de l''Anse du Gouvernement'),
+(296743245, 3853809, 'is', 'La Croix'),
+(296743476, 3853812, 'is', 'Le Ruisseau Debons');
+
+SET FOREIGN_KEY_CHECKS=1;

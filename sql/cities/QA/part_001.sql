@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities` (`id`, `country`, `region`, `name`, `native_name`, `population`, `status`, `native_status`, `timezone_utc`, `timezone_iana`) VALUES
+(3876664, 'QA', 'QA-SH', '`Ayn az Zughayn', 'عين الزغين', 48159, 3, 'City', 'UTC+3', 'Asia/Qatar'),
+(3876667, 'QA', 'QA-SH', 'Rawdat Shamim', 'روضة شميم', 2631, 3, 'Town', 'UTC+3', 'Asia/Qatar'),
+(3876668, 'QA', 'QA-US', 'Umm Salal Muhammad', 'أم صلال محمد', 29391, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876669, 'QA', 'QA-US', 'Umm Salal `Ali', 'أم صلال علي', NULL, 2, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876670, 'QA', 'QA-WA', 'Musay`id', 'مسيعيد', 5769, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876674, 'QA', 'QA-SH', 'Umm Ghuwaylinah', 'أُمّ غُوَيْلِينَة', 39457, 3, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876675, 'QA', 'QA-RA', 'Umm Bab', 'أُمّ بَاب', 2500, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876682, 'QA', 'QA-SH', 'Umm al Quhab', 'أم القهاب', 253606, 3, 'Municipality', 'UTC+3', 'Asia/Qatar'),
+(3876685, 'QA', 'QA-US', 'Umm al `Amad', 'أم العمد', 87495, 3, 'City', 'UTC+3', 'Asia/Qatar'),
+(3876690, 'QA', 'QA-DA', 'Nu''ayjah', 'نُعَيْجَة', 19975, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876693, 'QA', 'QA-RA', 'Mu''aydhir Rawdat Rashid', 'معيذر روضة راشد', 27569, 3, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876695, 'QA', 'QA-MS', 'Madinat ash Shamal', 'مدينة الشمال', 2637, 2, 'village', 'UTC+3', 'Asia/Qatar'),
+(3876699, 'QA', 'QA-SH', 'Dukhan', 'دُخَان', 7250, 4, 'town', 'UTC+3', 'Asia/Qatar'),
+(3876701, 'QA', 'QA-ZA', 'Az Za''ayin', 'الظعاين', 54339, 2, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876713, 'QA', 'QA-SH', 'Ash Shihaniyah', 'الشيحانية', 8380, 2, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876715, 'QA', 'QA-MS', 'Ar Ruways', 'الرويس', 3334, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876717, 'QA', 'QA-RA', 'Ar Rayyan', 'الريان', 439089, 2, 'Municipality', 'UTC+3', 'Asia/Qatar'),
+(3876719, 'QA', 'QA-WA', 'Al Wukayr', 'الوكير', 5146, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876720, 'QA', 'QA-WA', 'Al Wakrah', 'الوكرة', 99680, 2, 'Municipality', 'UTC+3', 'Asia/Qatar'),
+(3876729, 'QA', 'QA-SH', 'Al Khurayb', 'الخُرَيْب', 4220, 3, 'Town', 'UTC+3', 'Asia/Qatar'),
+(3876732, 'QA', 'QA-KH', 'Al Khawr', 'الخور', 18923, 2, 'Town', 'UTC+3', 'Asia/Qatar'),
+(3876734, 'QA', 'QA-WA', 'Al Kharrarah', 'الخرارة', 179, 4, 'Town', 'UTC+3', 'Asia/Qatar'),
+(3876736, 'QA', 'QA-SH', 'Al Jumayliyah', 'الجميلية', 1788, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876740, 'QA', 'QA-KH', 'Al Ghuwayriyah', 'الغويرية', 2332, 3, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876749, 'QA', 'QA-DA', 'Doha', 'الدوحة', 886539, 1, 'Municipality', 'UTC+3', 'Asia/Qatar'),
+(3876756, 'QA', 'QA-RA', 'Abu Samrah', 'أبو سمرة', 938, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876767, 'QA', 'QA-MS', 'Fuwayrit', 'فويرط', 1333, 4, 'locality', 'UTC+3', 'Asia/Qatar'),
+(3876800, 'QA', 'QA-SH', 'Umm Ghuwaylinah', 'أم غويلينة', 2502, 3, 'Town', 'UTC+3', 'Asia/Qatar'),
+(3876842, 'QA', 'QA-ZA', 'Lusail', 'Lusail', 198600, 3, 'PPL', 'UTC+3', 'Asia/Qatar');
+
+SET FOREIGN_KEY_CHECKS=1;

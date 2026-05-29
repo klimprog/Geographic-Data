@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'az', 'Abia ştatı'),
+('NG-AD', 'az', 'Adamava ştatı'),
+('NG-AK', 'az', 'Akva İbom ştatı'),
+('NG-AN', 'az', 'Anambra ştatı'),
+('NG-BA', 'az', 'Bauçi ştatı'),
+('NG-BE', 'az', 'Benue ştatı'),
+('NG-BO', 'az', 'Borno ştatı'),
+('NG-BY', 'az', 'Bayelsa ştatı'),
+('NG-CR', 'az', 'Kross River ştatı'),
+('NG-DE', 'az', 'Delta ştatı'),
+('NG-EB', 'az', 'Ebonyi ştatı'),
+('NG-ED', 'az', 'Edo ştatı'),
+('NG-EK', 'az', 'Ekiti ştatı'),
+('NG-EN', 'az', 'Enuqu ştatı'),
+('NG-FC', 'az', 'FBT'),
+('NG-GO', 'az', 'Qombe ştatı'),
+('NG-IM', 'az', 'İmo ştatı'),
+('NG-JI', 'az', 'Ciqava'),
+('NG-KD', 'az', 'Kaduna ştatı'),
+('NG-KE', 'az', 'Kebbi ştatı'),
+('NG-KN', 'az', 'Kano ştatı'),
+('NG-KO', 'az', 'Kogi ştatı'),
+('NG-KT', 'az', 'Katsina ştatı'),
+('NG-KW', 'az', 'Kvara ştatı'),
+('NG-LA', 'az', 'Laqos ştatı'),
+('NG-NA', 'az', 'Nasarava ştatı'),
+('NG-NI', 'az', 'Niger ştatı'),
+('NG-OG', 'az', 'Oqun ştatı'),
+('NG-ON', 'az', 'Ondo ştatı'),
+('NG-OS', 'az', 'Osun ştatı'),
+('NG-OY', 'az', 'Oyo ştatı'),
+('NG-PL', 'az', 'Plato ştatı'),
+('NG-RI', 'az', 'Rivers ştatı'),
+('NG-SO', 'az', 'Sokoto ştatı'),
+('NG-TA', 'az', 'Taraba ştatı'),
+('NG-YO', 'az', 'Yobe ştatı'),
+('NG-ZA', 'az', 'Zamfara ştatı');
+
+SET FOREIGN_KEY_CHECKS=1;

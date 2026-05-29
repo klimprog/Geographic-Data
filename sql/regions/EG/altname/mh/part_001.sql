@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'mh', 'Alexandria'),
+('EG-ASN', 'mh', 'aswan'),
+('EG-AST', 'mh', 'Muhafazat Asyut'),
+('EG-BA', 'mh', 'Red Sea Governorate'),
+('EG-BH', 'mh', 'Beheira Governorate'),
+('EG-BNS', 'mh', 'Muhafazat Bani Suwayf'),
+('EG-C', 'mh', 'Cairo Governorate'),
+('EG-DK', 'mh', 'Muhafazat ad Daqahliyah'),
+('EG-DT', 'mh', 'Damietta Governorate'),
+('EG-FYM', 'mh', 'Muhafazat al Fayyum'),
+('EG-GH', 'mh', 'Muhafazat al Gharbiyah'),
+('EG-GZ', 'mh', 'Muhafazat al Jizah'),
+('EG-IS', 'mh', 'Ismailia Governorate'),
+('EG-JS', 'mh', 'South Sinai Governorate'),
+('EG-KB', 'mh', 'Muhafazat al Qalyubiyah'),
+('EG-KFS', 'mh', 'Kafr ash Shaykh'),
+('EG-KN', 'mh', 'Muhafazat Qina'),
+('EG-LX', 'mh', 'Luxor'),
+('EG-MN', 'mh', 'Muhafazat al Minya'),
+('EG-MNF', 'mh', 'Muhafazat al Minufiyah'),
+('EG-MT', 'mh', 'Muhafazat Matruh'),
+('EG-PTS', 'mh', 'Port Said'),
+('EG-SHG', 'mh', 'Muhafazat Suhaj'),
+('EG-SHR', 'mh', 'Muhafazat ash Sharqiyah'),
+('EG-SIN', 'mh', 'North Sinai'),
+('EG-SUZ', 'mh', 'Suez'),
+('EG-WAD', 'mh', 'New Valley');
+
+SET FOREIGN_KEY_CHECKS=1;

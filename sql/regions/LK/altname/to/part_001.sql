@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'to', 'Vahefonua Hihifo'),
+('LK-11', 'to', 'Kolomupo'),
+('LK-12', 'to', 'Kampaha'),
+('LK-13', 'to', 'Kalutala'),
+('LK-2', 'to', 'Vahefonua Lotolotó'),
+('LK-21', 'to', NULL),
+('LK-22', 'to', 'Matale'),
+('LK-23', 'to', 'Nuuala ʻElia'),
+('LK-3', 'to', 'Vahefonua Tonga'),
+('LK-31', 'to', NULL),
+('LK-32', 'to', 'Matala'),
+('LK-33', 'to', 'Hambanitota'),
+('LK-4', 'to', NULL),
+('LK-41', 'to', NULL),
+('LK-42', 'to', 'Kilinoki'),
+('LK-43', 'to', 'Mana'),
+('LK-44', 'to', 'Vavuniá'),
+('LK-45', 'to', 'Mulaititivu'),
+('LK-5', 'to', 'Vahefonua Hahake'),
+('LK-51', 'to', 'Patikaloa'),
+('LK-52', 'to', 'ʻAmpara'),
+('LK-53', 'to', 'Tilinikomali'),
+('LK-6', 'to', 'Vahefonua Tokelau Hihifo'),
+('LK-61', 'to', 'Kurunegala'),
+('LK-62', 'to', 'Putalami'),
+('LK-7', 'to', 'Vahefonua Tokelau Lotolotó'),
+('LK-71', 'to', 'ʻAnulatapura'),
+('LK-72', 'to', 'Polonaluva'),
+('LK-8', 'to', NULL),
+('LK-81', 'to', NULL),
+('LK-82', 'to', 'Monalakala'),
+('LK-9', 'to', 'Vahefonua Saparagamuwa'),
+('LK-91', 'to', 'Latinapura'),
+('LK-92', 'to', 'Kekala');
+
+SET FOREIGN_KEY_CHECKS=1;

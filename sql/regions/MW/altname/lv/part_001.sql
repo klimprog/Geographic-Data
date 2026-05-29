@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'lv', 'Balaka'),
+('MW-BL', 'lv', 'Blantaira'),
+('MW-C', 'lv', 'Centrālais reģions'),
+('MW-CK', 'lv', 'Čikvava'),
+('MW-CR', 'lv', 'Čiradzulu'),
+('MW-CT', 'lv', 'Čitipa'),
+('MW-DE', 'lv', 'Dedza'),
+('MW-DO', 'lv', 'Dova'),
+('MW-KR', 'lv', 'Karonga'),
+('MW-KS', 'lv', 'Kasungu'),
+('MW-LI', 'lv', 'Lilongve'),
+('MW-LK', 'lv', 'Likoma'),
+('MW-MC', 'lv', 'Mchinji'),
+('MW-MG', 'lv', 'Mangoči'),
+('MW-MH', 'lv', 'Mačinga'),
+('MW-MU', 'lv', 'Mulanje'),
+('MW-MW', 'lv', 'Mvanza'),
+('MW-MZ', 'lv', 'Mzimba'),
+('MW-N', 'lv', 'Ziemeļu reģions'),
+('MW-NB', 'lv', 'Nkhatas līcis'),
+('MW-NE', 'lv', 'Neno'),
+('MW-NI', 'lv', 'Ntchisi'),
+('MW-NK', 'lv', 'Nkhotakota'),
+('MW-NS', 'lv', 'Nsanje'),
+('MW-NU', 'lv', 'Ntcheu'),
+('MW-PH', 'lv', 'Phalombe'),
+('MW-RU', 'lv', 'Rumfi'),
+('MW-S', 'lv', 'Dienvidu reģions'),
+('MW-SA', 'lv', 'Salima'),
+('MW-TH', 'lv', 'Thyolo'),
+('MW-ZO', 'lv', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

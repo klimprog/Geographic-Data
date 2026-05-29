@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(323167364, 4196979, 'sk', 'Whitby'),
+(323167595, 4196982, 'sk', 'Kew'),
+(323167749, 4196984, 'sk', 'Cockburn Town'),
+(323167826, 4196985, 'sk', 'Five Cays Settlement'),
+(323167980, 4196987, 'sk', 'Cockburn Harbour'),
+(323168442, 4196993, 'sk', 'Wheeland'),
+(323169905, 4197012, 'sk', 'Palm Grove'),
+(323169982, 4197013, 'sk', 'Providenciales');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities` (`id`, `country`, `region`, `name`, `native_name`, `population`, `status`, `native_status`, `timezone_utc`, `timezone_iana`) VALUES
+(4363051, 'TV', 'TV-VAI', 'Tumaseu Village', 'Tanrake', 287, 3, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363052, 'TV', 'TV-NMG', 'Toga Village', 'Toga Village', 258, 2, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363053, 'TV', 'TV-NUI', 'Tanrake Village', 'Tanrake Village', 408, 2, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363054, 'TV', 'TV-VAI', 'Temotu Village', 'Niutao', 52, 4, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363056, 'TV', 'TV-NIT', 'Kulia Village', 'Kulia Village', 224, 2, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363057, 'TV', 'TV-FUN', 'Amatuku Village', 'Asau', 52, 4, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363058, 'TV', 'TV-FUN', 'Funafuti', 'Funafuti', 6173, 1, 'City proper', 'UTC+12', 'Pacific/Funafuti'),
+(4363059, 'TV', 'TV-VAI', 'Asau Village', 'Asau Village', 235, 2, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363061, 'TV', 'TV-NKL', 'Nukualofa Village', 'Nukualofa', 188, 4, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363062, 'TV', 'TV-NKL', 'Pepesala Village', 'Pepesala Village', 205, 4, 'hamlet', 'UTC+12', 'Pacific/Funafuti'),
+(4363063, 'TV', 'TV-NMA', 'Lolua Village', 'Lolua', 215, 4, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363064, 'TV', 'TV-NMA', 'Hauma Village', 'Hauma', 181, 4, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363065, 'TV', 'TV-NMG', 'Tokelau Village', 'Tokelau', 281, 4, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363066, 'TV', 'TV-NIT', 'Teava Village', 'Teava Village', 439, 3, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363067, 'TV', 'TV-NUI', 'Meang Village', 'Meang Village', 127, 4, 'locality', 'UTC+12', 'Pacific/Funafuti'),
+(4363068, 'TV', 'TV-VAI', 'Motufoua School', 'Motufoua School', 506, 4, 'hamlet', 'UTC+12', 'Pacific/Funafuti'),
+(4363069, 'TV', 'TV-NKF', 'Savave Village', 'Savave Village', 586, 2, 'hamlet', 'UTC+12', 'Pacific/Funafuti');
+
+SET FOREIGN_KEY_CHECKS=1;

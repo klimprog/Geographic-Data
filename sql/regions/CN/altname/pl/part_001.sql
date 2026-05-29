@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'pl', 'Anhui'),
+('CN-BJ', 'pl', 'Pekin'),
+('CN-CQ', 'pl', 'Chongqing'),
+('CN-FJ', 'pl', 'Fujian'),
+('CN-GD', 'pl', 'Guangdong'),
+('CN-GS', 'pl', 'Gansu'),
+('CN-GX', 'pl', 'Kuangsi'),
+('CN-GZ', 'pl', 'Kuejczou'),
+('CN-HA', 'pl', 'Henan'),
+('CN-HB', 'pl', 'Hubei'),
+('CN-HE', 'pl', 'Hebei'),
+('CN-HI', 'pl', 'Hajnan'),
+('CN-HK', 'pl', 'Hongkong SAR'),
+('CN-HL', 'pl', 'Heilongjiang'),
+('CN-HN', 'pl', 'Hunan'),
+('CN-JL', 'pl', 'Jilin'),
+('CN-JS', 'pl', 'Jiangsu'),
+('CN-JX', 'pl', 'Jiangxi'),
+('CN-LN', 'pl', 'Liaoning'),
+('CN-MO', 'pl', 'SAR Makau'),
+('CN-NM', 'pl', 'Mongolia Wewnętrzna'),
+('CN-NX', 'pl', 'Ningxia'),
+('CN-QH', 'pl', 'Qinghai'),
+('CN-SC', 'pl', 'Syczuan'),
+('CN-SD', 'pl', 'Szantung'),
+('CN-SH', 'pl', 'Szanghaj'),
+('CN-SN', 'pl', 'Shaanxi'),
+('CN-SX', 'pl', 'Shanxi'),
+('CN-TJ', 'pl', 'Tiencin'),
+('CN-TW', 'pl', 'Tajwan Sheng'),
+('CN-XJ', 'pl', 'Sinciang'),
+('CN-XZ', 'pl', 'Tybetański Region Autonomiczny'),
+('CN-YN', 'pl', 'Junnan'),
+('CN-ZJ', 'pl', 'Zhejiang');
+
+SET FOREIGN_KEY_CHECKS=1;

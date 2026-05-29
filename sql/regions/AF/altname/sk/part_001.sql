@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'sk', 'Balch'),
+('AF-BAM', 'sk', 'Bámján'),
+('AF-BDG', 'sk', 'Bádgís'),
+('AF-BDS', 'sk', 'Badachšán'),
+('AF-BGL', 'sk', 'Wilayat-e Baghlan'),
+('AF-DAY', 'sk', 'Dájkundí'),
+('AF-FRA', 'sk', 'Faráh'),
+('AF-FYB', 'sk', 'Fárjáb'),
+('AF-GHA', 'sk', 'Gazní'),
+('AF-GHO', 'sk', 'Wilayat-e Ghor'),
+('AF-HEL', 'sk', 'Helmand'),
+('AF-HER', 'sk', 'Herát'),
+('AF-JOW', 'sk', 'Wilayat-e Jowzjan'),
+('AF-KAB', 'sk', 'Kábul'),
+('AF-KAN', 'sk', 'Kandahár'),
+('AF-KAP', 'sk', 'Wilayat-e Kapisa'),
+('AF-KDZ', 'sk', 'Kunduz'),
+('AF-KHO', 'sk', 'Velayat-e Khowst'),
+('AF-KNR', 'sk', 'Wilayat-e Kunar'),
+('AF-LAG', 'sk', 'Wilayat-e Laghman'),
+('AF-LOG', 'sk', 'Wilayat-e Logar'),
+('AF-NAN', 'sk', 'Nangarhár'),
+('AF-NIM', 'sk', 'Wilayat-e Nimroz'),
+('AF-NUR', 'sk', 'Velayat-e Nurestan'),
+('AF-PAN', 'sk', 'Panjshir'),
+('AF-PAR', 'sk', 'Parwan'),
+('AF-PIA', 'sk', 'Wilayat-e Paktiya'),
+('AF-PKA', 'sk', 'Wilayat-e Paktika'),
+('AF-SAM', 'sk', 'Samangan'),
+('AF-SAR', 'sk', 'Sar-e Pul'),
+('AF-TAK', 'sk', 'Wilayat-e Tachar'),
+('AF-URU', 'sk', 'Uruzgán'),
+('AF-WAR', 'sk', 'Wardak'),
+('AF-ZAB', 'sk', 'Wilayat-e Zabul');
+
+SET FOREIGN_KEY_CHECKS=1;

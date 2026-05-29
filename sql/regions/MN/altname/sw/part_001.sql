@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MN-035', 'sw', 'Orhon'),
+('MN-037', 'sw', 'Darhan-Uul'),
+('MN-039', 'sw', 'Hentiy Aymag'),
+('MN-041', 'sw', 'Mkoa wa Khövsgöl'),
+('MN-043', 'sw', 'Hovd'),
+('MN-046', 'sw', 'Mkoa wa Uvs'),
+('MN-047', 'sw', 'Aymak ya Kati'),
+('MN-049', 'sw', 'Mkoa wa Selenge'),
+('MN-051', 'sw', 'Suhbaatar'),
+('MN-053', 'sw', 'Aymag ya Ömnögovi'),
+('MN-055', 'sw', 'Aymag ya Övorkhangay'),
+('MN-057', 'sw', 'Zavhan'),
+('MN-059', 'sw', 'Aymag ya Govi ya Kati'),
+('MN-061', 'sw', 'Aymak ya Mashariki'),
+('MN-063', 'sw', 'Aymag ya Govi ya Mashariki'),
+('MN-064', 'sw', 'Gov''sumber'),
+('MN-065', 'sw', 'Mkoa wa Govi-Altai'),
+('MN-067', 'sw', 'Aymag ya Bulgan'),
+('MN-069', 'sw', 'Bayanhongor'),
+('MN-071', 'sw', 'Aymag ya Bayan-Ölgii'),
+('MN-073', 'sw', 'Mkoa wa Arkhangai'),
+('MN-1', 'sw', 'Ulaanbaatar');
+
+SET FOREIGN_KEY_CHECKS=1;

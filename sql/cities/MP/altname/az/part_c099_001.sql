@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(240025713, 3117218, 'az', 'Navy Hill Village'),
+(240025790, 3117219, 'az', 'Dugi Village'),
+(240025944, 3117221, 'az', 'San Vicente Village'),
+(240026021, 3117222, 'az', 'Pagan Village'),
+(240026098, 3117223, 'az', 'Sinapalo Village'),
+(240026175, 3117224, 'az', 'Songsong'),
+(240026252, 3117225, 'az', 'Tanapag Village'),
+(240026406, 3117227, 'az', 'Garapan Village'),
+(240026560, 3117229, 'az', 'San Antonio Village'),
+(240026714, 3117231, 'az', 'San Jose kəndü'),
+(240026791, 3117232, 'az', 'Susupe Village'),
+(240027022, 3117235, 'az', 'Saipan'),
+(240027099, 3117236, 'az', 'Capitol Hill Village'),
+(240027253, 3117238, 'az', 'Puerto Rico Village'),
+(240027869, 3117246, 'az', 'Garapan');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ME-01', 'it', 'Andrijevica'),
+('ME-02', 'it', 'Comune di Antivari'),
+('ME-03', 'it', 'Berane'),
+('ME-04', 'it', 'Bijelo Polje'),
+('ME-05', 'it', 'Comune di Budua'),
+('ME-06', 'it', 'Comune di Cettigne'),
+('ME-07', 'it', 'Comune di Danilovgrad'),
+('ME-08', 'it', 'Castelnuovo'),
+('ME-09', 'it', 'Kolašin'),
+('ME-10', 'it', 'Cattaro'),
+('ME-11', 'it', 'Comune di Mojkovac'),
+('ME-12', 'it', 'Comune di Nikšić'),
+('ME-13', 'it', 'Comune di Plav'),
+('ME-14', 'it', 'Comune di Pljevlja'),
+('ME-15', 'it', 'Comune di Plužine'),
+('ME-16', 'it', 'Podgorica'),
+('ME-17', 'it', 'Rozaje'),
+('ME-18', 'it', 'Comune di Šavnik'),
+('ME-19', 'it', 'Comune di Teodo'),
+('ME-20', 'it', 'Comune di Dulcigno'),
+('ME-21', 'it', 'Comune di Žabljak'),
+('ME-22', 'it', 'Gusine'),
+('ME-23', 'it', 'Petnica'),
+('ME-24', 'it', 'Tuzi'),
+('ME-25', 'it', 'Zeta');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'tg', 'Вилояти Бенго'),
+('AO-BGU', 'tg', 'Бенгела'),
+('AO-BIE', 'tg', 'Бие'),
+('AO-CAB', 'tg', 'Вилояти Кабинда'),
+('AO-CCU', 'tg', 'Куандо Кобанго'),
+('AO-CNN', 'tg', 'Вилояти Сунене'),
+('AO-CNO', 'tg', 'Вилояти Кванзаи Шимолӣ'),
+('AO-CUS', 'tg', 'Вилояти Кванзаи Ҷанубӣ'),
+('AO-HUA', 'tg', 'Уамбо'),
+('AO-HUI', 'tg', 'Вилояти Ҳуила'),
+('AO-LNO', 'tg', 'Вилояти Луандаи Шимолӣ'),
+('AO-LSU', 'tg', 'Вилояти Луандаи Ҷанубӣ'),
+('AO-LUA', 'tg', 'Вилояти Луанда'),
+('AO-MAL', 'tg', 'Малање'),
+('AO-MOX', 'tg', 'Вилояти Мошико'),
+('AO-NAM', 'tg', 'Вилояти Намибе'),
+('AO-UIG', 'tg', 'Вилояти Уиге'),
+('AO-ZAI', 'tg', 'Вилояти Зайир');
+
+SET FOREIGN_KEY_CHECKS=1;

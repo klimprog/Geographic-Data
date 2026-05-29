@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'az', 'Aşağı Sileziya voyevodalığı'),
+('PL-04', 'az', 'Kujawsko-Pomorskie'),
+('PL-06', 'az', 'Lyublin voyevodluğu'),
+('PL-08', 'az', 'Lyubuş voyevodluğu'),
+('PL-10', 'az', 'Lodz voyevodluğu'),
+('PL-12', 'az', 'Kiçik Polşa voyevodluğu'),
+('PL-14', 'az', 'Mazoviya'),
+('PL-16', 'az', 'Opole Voivodliyi'),
+('PL-18', 'az', 'Alt Karpat voyevodluğu'),
+('PL-20', 'az', 'Podlasya'),
+('PL-22', 'az', 'Pomerania'),
+('PL-24', 'az', 'Sileziya'),
+('PL-26', 'az', 'Svyatokryzhskoe'),
+('PL-28', 'az', 'Varmiya-Mazuriya voyevodluğu'),
+('PL-30', 'az', 'Böyük Polşa voyevodluğu'),
+('PL-32', 'az', 'Qərbi Pomeraniya voyevodluğu');
+
+SET FOREIGN_KEY_CHECKS=1;

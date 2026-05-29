@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'pl', 'Rejon Anenii Noi'),
+('MD-BA', 'pl', 'Bielce'),
+('MD-BD', 'pl', 'Bender'),
+('MD-BR', 'pl', 'Rejon Briceni'),
+('MD-BS', 'pl', 'Rejon Basarabeasca'),
+('MD-CA', 'pl', 'Rejon Kaguł'),
+('MD-CL', 'pl', 'Rejon Călărași'),
+('MD-CM', 'pl', 'Rejon Cimișlia'),
+('MD-CR', 'pl', 'Rejon Criuleni'),
+('MD-CS', 'pl', 'Rejon Căușeni'),
+('MD-CT', 'pl', 'Rejon Cantemir'),
+('MD-CU', 'pl', 'Municipiul Kiszyniów'),
+('MD-DO', 'pl', 'Rejon Dondușeni'),
+('MD-DR', 'pl', 'Rejon Drochia'),
+('MD-DU', 'pl', 'Rejon Dubosary'),
+('MD-ED', 'pl', 'Rejon Edineţ'),
+('MD-FA', 'pl', 'Rejon Fălești'),
+('MD-FL', 'pl', 'Rejon Florești'),
+('MD-GA', 'pl', 'Gagauzja'),
+('MD-GL', 'pl', 'Rejon Glodeni'),
+('MD-HI', 'pl', 'Rejon Hîncești'),
+('MD-IA', 'pl', 'Rejon Ialoveni'),
+('MD-LE', 'pl', 'Rejon Leova'),
+('MD-NI', 'pl', 'Rejon Nisporeni'),
+('MD-OC', 'pl', 'Rejon Ocniţa'),
+('MD-OR', 'pl', 'Rejon Orgiejów'),
+('MD-RE', 'pl', 'Rejon Rezina'),
+('MD-RI', 'pl', 'Rejon Rîșcani'),
+('MD-SD', 'pl', 'Rejon Șoldănești'),
+('MD-SI', 'pl', 'Rejon Sîngerei'),
+('MD-SN', 'pl', 'Jednostki administracyjno-terytorialne lewego brzegu Dniestru'),
+('MD-SO', 'pl', 'Rejon Soroca'),
+('MD-ST', 'pl', 'Rejon Strășeni'),
+('MD-SV', 'pl', 'Rejon Ștefan Vodă'),
+('MD-TA', 'pl', 'Rejon Taraclia'),
+('MD-TE', 'pl', 'Rejon Telenești'),
+('MD-UN', 'pl', 'Rejon Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

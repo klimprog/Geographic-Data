@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'sq', 'Vinnytsya Oblast'),
+('UA-07', 'sq', 'Volynska Oblast'),
+('UA-09', 'sq', 'Rajoni i Luhanskut'),
+('UA-12', 'sq', 'Dnipropetrovsk Oblast'),
+('UA-14', 'sq', 'Rajoni i Donetskut'),
+('UA-18', 'sq', 'Zhytomyrska Oblast'),
+('UA-21', 'sq', 'Zakarpattia Oblast'),
+('UA-23', 'sq', 'Rajoni i Zaporizhias'),
+('UA-26', 'sq', 'Ivano-Frankivsk Oblast'),
+('UA-30', 'sq', 'Misto Kiev'),
+('UA-32', 'sq', 'Rajoni i Kievit'),
+('UA-35', 'sq', 'Kirovohrad Oblast'),
+('UA-40', 'sq', 'Qyteti Sebastopol'),
+('UA-43', 'sq', 'Republika Autonome e Krimesë'),
+('UA-46', 'sq', 'Lvivska Oblast'),
+('UA-48', 'sq', 'Rajoni i Mykolayiv'),
+('UA-51', 'sq', 'Odesa Oblast'),
+('UA-53', 'sq', 'Rajoni i Poltava'),
+('UA-56', 'sq', 'Rajoni i Rivnenska'),
+('UA-59', 'sq', 'Sumska Oblast'),
+('UA-61', 'sq', 'Ternopil Oblast'),
+('UA-63', 'sq', 'Kharkivska Oblast'),
+('UA-65', 'sq', 'Rajoni i Hersonit'),
+('UA-68', 'sq', 'Khmelnytskyi Oblast'),
+('UA-71', 'sq', 'Cherkasy Oblast'),
+('UA-74', 'sq', 'Chernihivska Oblast'),
+('UA-77', 'sq', 'Chernivtsi Oblast');
+
+SET FOREIGN_KEY_CHECKS=1;

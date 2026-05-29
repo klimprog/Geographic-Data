@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'it', 'Governatorato di Alessandria'),
+('EG-ASN', 'it', 'Governatorato di Assuan'),
+('EG-AST', 'it', 'Governatorato di Asyut'),
+('EG-BA', 'it', 'Governatorato del Mar Rosso'),
+('EG-BH', 'it', 'Governatorato di Buhayra'),
+('EG-BNS', 'it', 'Governatorato di Beni Suef'),
+('EG-C', 'it', 'Governatorato del Cairo'),
+('EG-DK', 'it', 'Governatorato di Daqahliyya'),
+('EG-DT', 'it', 'Governatorato di Damietta'),
+('EG-FYM', 'it', 'Governatorato di Faiyum'),
+('EG-GH', 'it', 'Governatorato di Gharbiyya'),
+('EG-GZ', 'it', 'Governatorato di Giza'),
+('EG-IS', 'it', 'Governatorato di Ismailia'),
+('EG-JS', 'it', 'Governatorato del Sinai del Sud'),
+('EG-KB', 'it', 'Governatorato di al-Qalyūbiyya'),
+('EG-KFS', 'it', 'Governatorato di Kafr el-Sheikh'),
+('EG-KN', 'it', 'Governatorato di Qena'),
+('EG-LX', 'it', 'Governatorato di Luxor'),
+('EG-MN', 'it', 'Governatorato di Minya'),
+('EG-MNF', 'it', 'Governatorato di al-Manufiyya'),
+('EG-MT', 'it', 'Governatorato di Matruh'),
+('EG-PTS', 'it', 'Governatorato di Porto Said'),
+('EG-SHG', 'it', 'Governatorato di Sohag'),
+('EG-SHR', 'it', 'Governatorato di Sharqiyya'),
+('EG-SIN', 'it', 'Governatorato del Sinai del Nord'),
+('EG-SUZ', 'it', 'Governatorato di Suez'),
+('EG-WAD', 'it', 'Governatorato di Wadi al-Jadid');
+
+SET FOREIGN_KEY_CHECKS=1;

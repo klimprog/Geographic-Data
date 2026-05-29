@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HR-01', 'da', 'Zagreb County'),
+('HR-02', 'da', 'Krapina-Zagorje County'),
+('HR-03', 'da', 'Sisak-Moslavina County'),
+('HR-04', 'da', 'Karlovac County'),
+('HR-05', 'da', 'Varaždin County'),
+('HR-06', 'da', 'Koprivnica-Križevci County'),
+('HR-07', 'da', 'Bjelovar-Bilogora County'),
+('HR-08', 'da', 'Primorje-Gorski Kotar County'),
+('HR-09', 'da', 'Lika-Senj distrikt'),
+('HR-10', 'da', 'Virovitica-Podravina County'),
+('HR-11', 'da', 'Požega-Slavonia County'),
+('HR-12', 'da', 'Brod-Posavina'),
+('HR-13', 'da', 'Zadar distrikt'),
+('HR-14', 'da', 'Osijek-Baranja County'),
+('HR-15', 'da', 'Šibenik-Knin County'),
+('HR-16', 'da', 'Vukovar-Syrmia County'),
+('HR-17', 'da', 'Split-Dalmatia County'),
+('HR-18', 'da', 'Istria County'),
+('HR-19', 'da', 'Dubrovnik-Neretva distrikt'),
+('HR-20', 'da', 'Međimurje County'),
+('HR-21', 'da', 'Zagreb');
+
+SET FOREIGN_KEY_CHECKS=1;

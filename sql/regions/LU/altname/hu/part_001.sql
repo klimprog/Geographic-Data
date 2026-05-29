@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LU-CA', 'hu', 'Capellen kanton'),
+('LU-CL', 'hu', 'Clervaux'),
+('LU-DI', 'hu', 'Diekirch kanton'),
+('LU-EC', 'hu', 'Echternach kanton'),
+('LU-ES', 'hu', 'Esch-sur-Alzette kanton'),
+('LU-GR', 'hu', 'Grevenmacher kanton'),
+('LU-LU', 'hu', 'Luxemburg'),
+('LU-ME', 'hu', 'Mersch kanton'),
+('LU-RD', 'hu', 'Redange kanton'),
+('LU-RM', 'hu', 'Remich kanton'),
+('LU-VD', 'hu', 'Vianden kanton'),
+('LU-WI', 'hu', 'Wiltz kanton');
+
+SET FOREIGN_KEY_CHECKS=1;

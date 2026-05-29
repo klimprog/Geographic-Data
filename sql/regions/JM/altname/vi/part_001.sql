@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('JM-01', 'vi', 'Giáo xứ Kingston'),
+('JM-02', 'vi', 'Saint Andrew'),
+('JM-03', 'vi', 'Giáo xứ Saint Thomas'),
+('JM-04', 'vi', 'Giáo xứ Portland'),
+('JM-05', 'vi', 'Giáo xứ Saint Mary'),
+('JM-06', 'vi', 'Giáo xứ Saint Ann'),
+('JM-07', 'vi', 'Giáo xứ Trelawny'),
+('JM-08', 'vi', 'Giáo xứ Saint James'),
+('JM-09', 'vi', 'Giáo xứ Hanover'),
+('JM-10', 'vi', 'Giáo xứ Westmoreland'),
+('JM-11', 'vi', 'Giáo xứ Saint Elizabeth'),
+('JM-12', 'vi', 'Giáo xứ Manchester'),
+('JM-13', 'vi', 'Giáo xứ Clarendon'),
+('JM-14', 'vi', 'Giáo xứ Saint Catherine');
+
+SET FOREIGN_KEY_CHECKS=1;

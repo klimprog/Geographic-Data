@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'uk', 'Абія'),
+('NG-AD', 'uk', 'Адамава'),
+('NG-AK', 'uk', 'Аква-Ібом'),
+('NG-AN', 'uk', 'Анамбра'),
+('NG-BA', 'uk', 'Баучі'),
+('NG-BE', 'uk', 'Бенуе'),
+('NG-BO', 'uk', 'Борно'),
+('NG-BY', 'uk', 'Баєльса'),
+('NG-CR', 'uk', 'Крос-Рівер'),
+('NG-DE', 'uk', 'Дельта'),
+('NG-EB', 'uk', 'Ебоньі'),
+('NG-ED', 'uk', 'Едо'),
+('NG-EK', 'uk', 'Екіті'),
+('NG-EN', 'uk', 'Енугу'),
+('NG-FC', 'uk', 'Федеральна столична територія'),
+('NG-GO', 'uk', 'Гомбе'),
+('NG-IM', 'uk', 'Імо'),
+('NG-JI', 'uk', 'Джигава'),
+('NG-KD', 'uk', 'Кадуна'),
+('NG-KE', 'uk', 'Кеббі'),
+('NG-KN', 'uk', 'Кано'),
+('NG-KO', 'uk', 'Когі'),
+('NG-KT', 'uk', 'Кацина'),
+('NG-KW', 'uk', 'Квара'),
+('NG-LA', 'uk', 'Лагос'),
+('NG-NA', 'uk', 'Насарава'),
+('NG-NI', 'uk', 'Нігер'),
+('NG-OG', 'uk', 'Огун'),
+('NG-ON', 'uk', 'Ондо'),
+('NG-OS', 'uk', 'Осун'),
+('NG-OY', 'uk', 'Ойо'),
+('NG-PL', 'uk', 'Плато'),
+('NG-RI', 'uk', 'Риверс'),
+('NG-SO', 'uk', 'Сокото'),
+('NG-TA', 'uk', 'Тараба'),
+('NG-YO', 'uk', 'Йобе'),
+('NG-ZA', 'uk', 'Замфара');
+
+SET FOREIGN_KEY_CHECKS=1;

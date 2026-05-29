@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'aa', 'Anenii Noyi'),
+('MD-BA', 'aa', 'Balti'),
+('MD-BD', 'aa', NULL),
+('MD-BR', 'aa', 'Biriseeni'),
+('MD-BS', 'aa', 'Basarabeyaska'),
+('MD-CA', 'aa', 'Rayonul Cahuul'),
+('MD-CL', 'aa', 'Rayyonuul kalaraasi'),
+('MD-CM', 'aa', 'Simisiliya'),
+('MD-CR', 'aa', 'Criuleni'),
+('MD-CS', 'aa', NULL),
+('MD-CT', 'aa', 'Kantemir'),
+('MD-CU', 'aa', NULL),
+('MD-DO', 'aa', 'Doonduseeni'),
+('MD-DR', 'aa', 'Rayonul Dirochiya'),
+('MD-DU', 'aa', 'Rayonuul Dubasaari'),
+('MD-ED', 'aa', 'Rayonul Edinet'),
+('MD-FA', 'aa', 'Falesti'),
+('MD-FL', 'aa', 'Filoresti'),
+('MD-GA', 'aa', 'Gagauzia'),
+('MD-GL', 'aa', 'Gilodeeni'),
+('MD-HI', 'aa', 'Hincesti'),
+('MD-IA', 'aa', 'Yaloveeni'),
+('MD-LE', 'aa', 'Leova'),
+('MD-NI', 'aa', 'Nisporeeni'),
+('MD-OC', 'aa', 'Rayonul Oknita'),
+('MD-OR', 'aa', 'Orhey'),
+('MD-RE', 'aa', 'Reeziina'),
+('MD-RI', 'aa', 'Riskaani'),
+('MD-SD', 'aa', 'Soldaanesti'),
+('MD-SI', 'aa', 'Singerey'),
+('MD-SN', 'aa', 'Xiinisso- Rakaakayih Footimaami Guri banki Dniester'),
+('MD-SO', 'aa', 'Rayyonuul Soroca'),
+('MD-ST', 'aa', 'Rayonul Istiraaseeni'),
+('MD-SV', 'aa', 'Rayonul Isteefan Vooda'),
+('MD-TA', 'aa', 'Tarakliya'),
+('MD-TE', 'aa', 'telenesti'),
+('MD-UN', 'aa', 'Rayonul Ungeeni');
+
+SET FOREIGN_KEY_CHECKS=1;

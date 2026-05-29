@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'si', 'බෙන්ගෝ පළාත'),
+('AO-BGU', 'si', 'බෙන්ගාලා පළාත'),
+('AO-BIE', 'si', 'බියේ පළාත'),
+('AO-CAB', 'si', 'කාබින්ඩා පළාත'),
+('AO-CCU', 'si', 'කුඅන්ඩෝ කුබන්ගෝ පළාත'),
+('AO-CNN', 'si', 'සියුනින් පළාත'),
+('AO-CNO', 'si', 'කුඅන්සා නොර්ටේ පළාත'),
+('AO-CUS', 'si', 'කුවන්සා සල්'),
+('AO-HUA', 'si', 'හුඅම්බෝ පළාත'),
+('AO-HUI', 'si', 'හුයිලා පළාත'),
+('AO-LNO', 'si', 'ලුන්ඩා නොර්ටේ පළාත'),
+('AO-LSU', 'si', 'ලුන්ඩා සුල් පළාත'),
+('AO-LUA', 'si', 'ලුඅන්ඩා පළාත'),
+('AO-MAL', 'si', 'මලන්ජේ පළාත'),
+('AO-MOX', 'si', 'මොක්සිකෝ පළාත'),
+('AO-NAM', 'si', 'නමිබේ පළාත'),
+('AO-UIG', 'si', 'උයිගේ පළාත'),
+('AO-ZAI', 'si', 'සයිරේ පළාත');
+
+SET FOREIGN_KEY_CHECKS=1;

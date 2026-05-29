@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CY-01', 'my', 'နီကိုရှားခရိုင်'),
+('CY-02', 'my', 'လီမာဆိုလ်ခရိုင်'),
+('CY-03', 'my', 'အီပါချိယာလားနာကာစ်'),
+('CY-04', 'my', 'ဖာမဂူစတာခရိုင်'),
+('CY-05', 'my', 'ပါဖော့စ်ခရိုင်'),
+('CY-06', 'my', 'ကီရင်နီးယားခရိုင်');
+
+SET FOREIGN_KEY_CHECKS=1;

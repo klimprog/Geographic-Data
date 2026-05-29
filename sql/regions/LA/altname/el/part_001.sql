@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LA-AT', 'el', 'Αττάπου'),
+('LA-BK', 'el', 'Μποκέο'),
+('LA-BL', 'el', 'Μπολικχαμξάι'),
+('LA-CH', 'el', 'Τσαμπασάκ'),
+('LA-HO', 'el', 'Χουαφάν'),
+('LA-KH', 'el', 'Χαμμουάν'),
+('LA-LM', 'el', 'Λουάνγκ Νάμθα'),
+('LA-LP', 'el', 'Λουάνγκ Πραμπάνγκ'),
+('LA-OU', 'el', 'Ουντομξάι'),
+('LA-PH', 'el', 'Φονγκσαλί'),
+('LA-SL', 'el', 'Σαλαβάν'),
+('LA-SV', 'el', 'Σαβανακέτ'),
+('LA-VI', 'el', 'Βιεντιάνε Προβίνκε'),
+('LA-VT', 'el', 'Βιεντιάν'),
+('LA-XA', 'el', 'Σενγιαμπούλι'),
+('LA-XE', 'el', 'Ξεκόνγκ'),
+('LA-XI', 'el', 'Ξιανγκχοάνγκ'),
+('LA-XS', 'el', 'Επαρχία Ξαϊσομπούν');
+
+SET FOREIGN_KEY_CHECKS=1;

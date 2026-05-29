@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PE-AMA', 'tl', 'Departamento ng Amazonas'),
+('PE-ANC', 'tl', 'Ancash'),
+('PE-APU', 'tl', 'Apurimac'),
+('PE-ARE', 'tl', 'Departamento ng Arequipa'),
+('PE-AYA', 'tl', 'Departamento ng Ayacucho'),
+('PE-CAJ', 'tl', 'Departamento ng Cajamarca'),
+('PE-CAL', 'tl', 'Provincia Constitucional del Callao'),
+('PE-CUS', 'tl', 'Departamento de Cusco'),
+('PE-HUC', 'tl', 'Departamento ng Huanuco'),
+('PE-HUV', 'tl', 'Departamento ng Huancavelica'),
+('PE-ICA', 'tl', 'Departamento de Ica'),
+('PE-JUN', 'tl', 'Departamento de Junin'),
+('PE-LAL', 'tl', 'Departamento ng La Libertad'),
+('PE-LAM', 'tl', 'Departamento ng Lambayeque'),
+('PE-LIM', 'tl', 'Departamento de Lima'),
+('PE-LMA', 'tl', 'Provincia de Lima'),
+('PE-LOR', 'tl', 'Departamento ng Loreto'),
+('PE-MDD', 'tl', 'Departamento ng Madre de Dios'),
+('PE-MOQ', 'tl', 'Departamento ng Moquegua'),
+('PE-PAS', 'tl', 'Departamento de Pasco'),
+('PE-PIU', 'tl', 'Departamento de Piura'),
+('PE-PUN', 'tl', 'Puno'),
+('PE-SAM', 'tl', 'Departamento ng San Martin'),
+('PE-TAC', 'tl', 'Departamento de Tacna'),
+('PE-TUM', 'tl', 'Departamento ng Tumbes'),
+('PE-UCA', 'tl', 'Ucayali');
+
+SET FOREIGN_KEY_CHECKS=1;

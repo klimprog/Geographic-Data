@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('OM-BJ', 'la', 'Al Batinah South Governorate'),
+('OM-BS', 'la', 'Al Batinah North Governorate'),
+('OM-BU', 'la', 'Muhafazat al-Buraymi'),
+('OM-DA', 'la', 'Muhafazat ad Dakhiliyah'),
+('OM-MA', 'la', 'Muhafazat Masqat'),
+('OM-MU', 'la', 'Musandam'),
+('OM-SJ', 'la', 'Cinis Sharqiyah Meridionalis'),
+('OM-SS', 'la', 'Cinis Sharqiyah North Governorate'),
+('OM-WU', 'la', 'Muhafazat al-Wusta'),
+('OM-ZA', 'la', 'Az Zahirah'),
+('OM-ZU', 'la', 'Dhofar Governorate');
+
+SET FOREIGN_KEY_CHECKS=1;

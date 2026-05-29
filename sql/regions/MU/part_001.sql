@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('MU-AG', 'MU', 'Agalega Islands', 'Agalega Islands', 3126435, 289, 'UTC+4', 'Indian/Mauritius'),
+('MU-BL', 'MU', 'Black River District', 'Rivière Noire District', 3125957, 70046, 'UTC+4', 'Indian/Mauritius'),
+('MU-CC', 'MU', 'Cargados Carajos', 'Cargados Carajos', 3126418, 63, 'UTC+4', 'Indian/Mauritius'),
+('MU-FL', 'MU', 'Flacq District', 'Flacq District', 3126142, 138447, 'UTC+4', 'Indian/Mauritius'),
+('MU-GP', 'MU', 'Grand Port District', 'Grand Port District', 3125985, 115391, 'UTC+4', 'Indian/Mauritius'),
+('MU-MO', 'MU', 'Moka District', 'Moka District', 3126005, 80544, 'UTC+4', 'Indian/Mauritius'),
+('MU-PA', 'MU', 'Pamplemousses District', 'Pamplemousses District', 3126026, 133870, 'UTC+4', 'Indian/Mauritius'),
+('MU-PL', 'MU', 'Port Louis District', 'Port Louis District', NULL, 133789, 'UTC+4', 'Indian/Mauritius'),
+('MU-PW', 'MU', 'Plaines Wilhems District', 'Plaines Wilhems District', 3126199, 385034, 'UTC+4', 'Indian/Mauritius'),
+('MU-RO', 'MU', 'Rodrigues', 'Rodrigues', 3126379, 36403, 'UTC+4', 'Indian/Mauritius'),
+('MU-RR', 'MU', 'Riviere du Rempart District', 'Rivière du Rempart District', 3125989, 107250, 'UTC+4', 'Indian/Mauritius'),
+('MU-SA', 'MU', 'Savanne District', 'Savanne District', 3125960, 70158, 'UTC+4', 'Indian/Mauritius');
+
+SET FOREIGN_KEY_CHECKS=1;

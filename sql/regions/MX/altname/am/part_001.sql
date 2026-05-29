@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'am', 'አጓስካሊየንተስ'),
+('MX-BCN', 'am', 'ባጃ ካሊፎርኒያ'),
+('MX-BCS', 'am', 'ባጃ ካሊፎርኒያ ሱር'),
+('MX-CAM', 'am', 'ካምፔቼ'),
+('MX-CHH', 'am', 'ቺዋዋ'),
+('MX-CHP', 'am', 'ቺያፓስ'),
+('MX-CMX', 'am', 'ሜክሲኮ ከተማ'),
+('MX-COA', 'am', 'ኮአሂላ'),
+('MX-COL', 'am', 'ኮሊማ'),
+('MX-DUR', 'am', 'ዱራንጎ'),
+('MX-GRO', 'am', 'ገሬሮ'),
+('MX-GUA', 'am', 'ጉዋናጁዋቶ'),
+('MX-HID', 'am', 'ሂዳልጎ'),
+('MX-JAL', 'am', 'ጃሊስኮ'),
+('MX-MEX', 'am', 'ሜክሲኮ'),
+('MX-MIC', 'am', 'ሚቻዋካን'),
+('MX-MOR', 'am', 'ሞሬሎስ'),
+('MX-NAY', 'am', 'ናያሪት'),
+('MX-NLE', 'am', 'ኑዌቮ ሊዮን'),
+('MX-OAX', 'am', 'ወሓካ'),
+('MX-PUE', 'am', 'ፑዌብላ'),
+('MX-QUE', 'am', 'ኩዌሬታሮ'),
+('MX-ROO', 'am', 'ኩንታና ሮ'),
+('MX-SIN', 'am', 'ሲናሎዋ'),
+('MX-SLP', 'am', 'ሳን ሉዊስ ፖቶሲ'),
+('MX-SON', 'am', 'ሶኖራ'),
+('MX-TAB', 'am', 'ታባስኮ'),
+('MX-TAM', 'am', 'ታማውሊፓስ'),
+('MX-TLA', 'am', 'ትላክስካላ'),
+('MX-VER', 'am', 'ቬራክሩዝ'),
+('MX-YUC', 'am', 'ዩካታን'),
+('MX-ZAC', 'am', 'ዛካቴካስ');
+
+SET FOREIGN_KEY_CHECKS=1;

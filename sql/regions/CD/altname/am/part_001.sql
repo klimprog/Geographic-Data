@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'am', 'ባስ-ኮንጎ'),
+('CD-BU', 'am', 'ባስ-ኤውሌ'),
+('CD-EQ', 'am', 'ኢኳቶር'),
+('CD-HK', 'am', 'ሃውት-ካታንጋ'),
+('CD-HL', 'am', 'ሃውት-ሎማሚ'),
+('CD-HU', 'am', 'ሃውት-ኤውሌ'),
+('CD-IT', 'am', 'ኢቱሪ'),
+('CD-KC', 'am', 'ካሳይ-ማዕከላዊ'),
+('CD-KE', 'am', 'ካሳይ-ምስራቅ'),
+('CD-KG', 'am', 'ኩዋንጎ'),
+('CD-KL', 'am', 'ኩዊሉ'),
+('CD-KN', 'am', 'ኪንሻሳ'),
+('CD-KS', 'am', 'ካሳይ'),
+('CD-LO', 'am', 'ሎማሚ'),
+('CD-LU', 'am', 'ሉዋላባ'),
+('CD-MA', 'am', 'ማኒየማ'),
+('CD-MN', 'am', 'ማይ-ንዶምቤ'),
+('CD-MO', 'am', 'ሞንጋላ'),
+('CD-NK', 'am', 'ሰሜን ኪቬ'),
+('CD-NU', 'am', 'ሰሜን-ኡባንጊ'),
+('CD-SA', 'am', 'ሳንኩሩ'),
+('CD-SK', 'am', 'ደቡብ ኪቬ'),
+('CD-SU', 'am', 'ደቡብ-ዩባንግ'),
+('CD-TA', 'am', 'ታንጋኒካ'),
+('CD-TO', 'am', 'ጦፖ'),
+('CD-TU', 'am', 'ጫዋጳ');
+
+SET FOREIGN_KEY_CHECKS=1;

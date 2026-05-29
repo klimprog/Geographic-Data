@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MR-01', 'zh', '東胡德省'),
+('MR-02', 'zh', '西胡德省'),
+('MR-03', 'zh', '阿薩巴省'),
+('MR-04', 'zh', '戈爾戈勒省'),
+('MR-05', 'zh', '卜拉克納省'),
+('MR-06', 'zh', '特拉扎省'),
+('MR-07', 'zh', '阿德拉爾省'),
+('MR-08', 'zh', '努瓦迪布灣省'),
+('MR-09', 'zh', '塔甘特省'),
+('MR-10', 'zh', '吉迪馬卡省'),
+('MR-11', 'zh', '提里斯-宰穆爾省'),
+('MR-12', 'zh', '因希里省'),
+('MR-13', 'zh', NULL),
+('MR-14', 'zh', '努瓦克肖特北'),
+('MR-15', 'zh', '南努瓦克肖特大区');
+
+SET FOREIGN_KEY_CHECKS=1;

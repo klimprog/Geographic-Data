@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(298517290, 3876848, 'tr', 'Les Trois-Bassins'),
+(298518214, 3876860, 'tr', 'Salazie'),
+(298518291, 3876861, 'tr', 'Saint-Pierre'),
+(298518368, 3876862, 'tr', 'Saint-Louis'),
+(298518445, 3876863, 'tr', 'Saint-Paul'),
+(298518522, 3876864, 'tr', 'Saint-Louis'),
+(298518599, 3876865, 'tr', 'Saint-Leu'),
+(298518676, 3876866, 'tr', 'Aziz Joseph'),
+(298519138, 3876872, 'tr', 'Sainte-Marie'),
+(298519215, 3876873, 'tr', 'Sainte-Rose'),
+(298519292, 3876874, 'tr', 'Sainte-Marie'),
+(298519600, 3876878, 'tr', 'Saint-Denis'),
+(298519754, 3876880, 'tr', 'Saint-Benoit'),
+(298519831, 3876881, 'tr', 'Saint-Andre'),
+(298522834, 3876920, 'tr', 'Petite-Ile'),
+(298525683, 3876957, 'tr', 'Le Tampon'),
+(298527069, 3876975, 'tr', 'Les Avirons'),
+(298527685, 3876983, 'tr', 'Le Limanı'),
+(298531227, 3877029, 'tr', 'La Possession'),
+(298531458, 3877032, 'tr', 'La Plaine-des-Palmistes'),
+(298532382, 3877044, 'tr', 'La Maré'),
+(298536771, 3877101, 'tr', 'L''Étang-Salé'),
+(298537156, 3877106, 'tr', 'Entre-Deux'),
+(298538157, 3877119, 'tr', 'Cilaos'),
+(298539158, 3877132, 'tr', 'Sütyen-Panon'),
+(298540236, 3877146, 'tr', 'Beytüllahim'),
+(298543393, 3877187, 'tr', 'Charrie'),
+(298548321, 3877251, 'tr', 'L''Hermitage'),
+(298552864, 3877310, 'tr', 'Cocatre'),
+(298555790, 3877348, 'tr', 'Bois Blanc');
+
+SET FOREIGN_KEY_CHECKS=1;

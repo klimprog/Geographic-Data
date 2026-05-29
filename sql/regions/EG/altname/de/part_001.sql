@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'de', 'Gouvernement Alexandria'),
+('EG-ASN', 'de', 'Aswan'),
+('EG-AST', 'de', 'Asyut'),
+('EG-BA', 'de', 'Rotes Meer'),
+('EG-BH', 'de', 'al-Buhaira'),
+('EG-BNS', 'de', 'Beni Suweif'),
+('EG-C', 'de', 'Gouvernement Kairo'),
+('EG-DK', 'de', 'ad-Daqahliyya'),
+('EG-DT', 'de', 'Dumyat'),
+('EG-FYM', 'de', 'Al-Fayyum'),
+('EG-GH', 'de', 'al-Gharbiyya'),
+('EG-GZ', 'de', 'al-Dschiza'),
+('EG-IS', 'de', 'Gouvernement Ismailia'),
+('EG-JS', 'de', 'Dschanub Sina'),
+('EG-KB', 'de', 'al-Qalyubiyya'),
+('EG-KFS', 'de', 'Kafr asch-Schaich'),
+('EG-KN', 'de', 'Qina'),
+('EG-LX', 'de', 'al-Uqsur'),
+('EG-MN', 'de', 'al-Minya'),
+('EG-MNF', 'de', 'al-Minufiyya'),
+('EG-MT', 'de', 'Gouvernement Matruh'),
+('EG-PTS', 'de', 'Bur Saʿid'),
+('EG-SHG', 'de', 'Sauhadsch'),
+('EG-SHR', 'de', 'Sharqia'),
+('EG-SIN', 'de', 'Schimal Sina'),
+('EG-SUZ', 'de', 'as-Suwais'),
+('EG-WAD', 'de', 'al-Wadi al-dschadid');
+
+SET FOREIGN_KEY_CHECKS=1;

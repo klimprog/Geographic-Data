@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LA-AT', 'lt', 'Atapu provincija'),
+('LA-BK', 'lt', 'Bokeo provincija'),
+('LA-BL', 'lt', 'Bolikamsajaus provincija'),
+('LA-CH', 'lt', 'Tiampasako provincija'),
+('LA-HO', 'lt', 'Huaphano provincija'),
+('LA-KH', 'lt', 'Kamuvanės provincija'),
+('LA-LM', 'lt', 'Luang Namtos provincija'),
+('LA-LP', 'lt', 'Luang Prabango provincija'),
+('LA-OU', 'lt', 'Udomsajaus provincija'),
+('LA-PH', 'lt', 'Fongsalio provincija'),
+('LA-SL', 'lt', 'Salavano provincija'),
+('LA-SV', 'lt', 'Savanaketo provincija'),
+('LA-VI', 'lt', 'Vientiano provincija'),
+('LA-VT', 'lt', 'Vientiano prefektūra'),
+('LA-XA', 'lt', 'Sainjabulio provincija'),
+('LA-XE', 'lt', 'Sekongo provincija'),
+('LA-XI', 'lt', 'Siankuano provincija'),
+('LA-XS', 'lt', 'Xaisomboun provincija');
+
+SET FOREIGN_KEY_CHECKS=1;

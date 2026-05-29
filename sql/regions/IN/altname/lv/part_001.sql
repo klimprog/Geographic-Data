@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'lv', 'Andamanu un Nikobaru Salas'),
+('IN-AP', 'lv', 'Āndhra Pradēša'),
+('IN-AR', 'lv', 'Arunāčala Pradēša'),
+('IN-AS', 'lv', 'Asama'),
+('IN-BR', 'lv', 'Bihāra'),
+('IN-CG', 'lv', 'Čhatīsgarha'),
+('IN-CH', 'lv', 'Čandīgarha'),
+('IN-DH', 'lv', 'Dadra un Nagars Haveli un Damans un Diu'),
+('IN-DL', 'lv', 'National Capital Territory of Delhi'),
+('IN-GA', 'lv', 'Goa'),
+('IN-GJ', 'lv', 'Gudžarāta'),
+('IN-HP', 'lv', 'Himāčala Pradēša'),
+('IN-HR', 'lv', 'Harjāna'),
+('IN-JH', 'lv', 'Džhārkhanda'),
+('IN-JK', 'lv', 'Džammu un Kašmīra'),
+('IN-KA', 'lv', 'Karnātaka'),
+('IN-KL', 'lv', 'Kerala'),
+('IN-LA', 'lv', 'Ladakh'),
+('IN-LD', 'lv', 'Lakšadvīpa'),
+('IN-MH', 'lv', 'Mahārāštra'),
+('IN-ML', 'lv', 'Meghālaja'),
+('IN-MN', 'lv', 'Manipura'),
+('IN-MP', 'lv', 'Madhja Pradēša'),
+('IN-MZ', 'lv', 'Mizorāma'),
+('IN-NL', 'lv', 'Nāgālenda'),
+('IN-OD', 'lv', 'Orisa'),
+('IN-PB', 'lv', 'Pendžāba'),
+('IN-PY', 'lv', 'Pudučerri'),
+('IN-RJ', 'lv', 'Rādžastāna'),
+('IN-SK', 'lv', 'Sikima'),
+('IN-TN', 'lv', 'Tamilnāda'),
+('IN-TR', 'lv', 'Tripura'),
+('IN-TS', 'lv', 'Telangāna'),
+('IN-UK', 'lv', 'Utarakhanda'),
+('IN-UP', 'lv', 'Utarpradēša'),
+('IN-WB', 'lv', 'Rietumbengāle');
+
+SET FOREIGN_KEY_CHECKS=1;

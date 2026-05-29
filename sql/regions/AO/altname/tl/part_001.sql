@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'tl', 'Lalawigan ng Bengo'),
+('AO-BGU', 'tl', 'Lalawigan ng Benguela'),
+('AO-BIE', 'tl', 'Lalawigan ng Bié'),
+('AO-CAB', 'tl', 'Lalawigan ng Cabinda'),
+('AO-CCU', 'tl', 'Lalawigan ng Cuando Cubango'),
+('AO-CNN', 'tl', 'Lalawigan ng Cunene'),
+('AO-CNO', 'tl', 'Lalawigan ng Cuanza Norte'),
+('AO-CUS', 'tl', 'Lalawigan ng Cuanza Sul'),
+('AO-HUA', 'tl', 'Lalawigan ng Huambo'),
+('AO-HUI', 'tl', 'Lalawigan ng Huíla'),
+('AO-LNO', 'tl', 'Lalawigan ng Lunda Norte'),
+('AO-LSU', 'tl', 'Lalawigan ng Lunda Sul'),
+('AO-LUA', 'tl', 'Lalawigan ng Luanda'),
+('AO-MAL', 'tl', 'Lalawigan ng Malanje'),
+('AO-MOX', 'tl', 'Lalawigan ng Moxico'),
+('AO-NAM', 'tl', 'Lalawigan ng Namibe'),
+('AO-UIG', 'tl', 'Lalawigan ng Uíge'),
+('AO-ZAI', 'tl', 'Lalawigan ng Zaire');
+
+SET FOREIGN_KEY_CHECKS=1;

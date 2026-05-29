@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SC-01', 'kl', 'Anse-aux-Pins'),
+('SC-02', 'kl', 'Anse Boileau'),
+('SC-03', 'kl', 'Anse Etoile'),
+('SC-04', 'kl', 'Au Cap'),
+('SC-05', 'kl', 'Anse Royale'),
+('SC-06', 'kl', 'Baie Lazare'),
+('SC-07', 'kl', 'Baie Sainte Anne'),
+('SC-08', 'kl', 'Beau Vallon'),
+('SC-09', 'kl', 'Bel Air'),
+('SC-10', 'kl', 'Bel Ombre'),
+('SC-11', 'kl', 'Cascade'),
+('SC-12', 'kl', 'Glacis'),
+('SC-13', 'kl', 'Grand''Anse Mahe'),
+('SC-14', 'kl', 'Grand''Anse Praslin'),
+('SC-15', 'kl', 'La Digue and Inner Islands'),
+('SC-16', 'kl', 'La Riviere Anglaise'),
+('SC-17', 'kl', 'Mont Buxton'),
+('SC-18', 'kl', 'Mont Fleuri'),
+('SC-19', 'kl', 'Plaisance'),
+('SC-20', 'kl', 'Pointe La Rue'),
+('SC-21', 'kl', 'Port Glaud'),
+('SC-22', 'kl', 'Saint Louis'),
+('SC-23', 'kl', 'Takamaka'),
+('SC-24', 'kl', 'Les Mamelles'),
+('SC-25', 'kl', 'Roche Caiman'),
+('SC-26', 'kl', 'Ile Pinertuneq I'),
+('SC-27', 'kl', 'Ile Pinertuneq II');
+
+SET FOREIGN_KEY_CHECKS=1;

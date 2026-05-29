@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'cs', 'Berat'),
+('AL-02', 'cs', 'Drač'),
+('AL-03', 'cs', 'Elbasan'),
+('AL-04', 'cs', 'Fier'),
+('AL-05', 'cs', 'Gjirokastër'),
+('AL-06', 'cs', 'Korçë'),
+('AL-07', 'cs', 'Kukës'),
+('AL-08', 'cs', 'Lezhë'),
+('AL-09', 'cs', 'Dibrë (kraj)'),
+('AL-10', 'cs', 'Shkodër'),
+('AL-11', 'cs', 'Tirana'),
+('AL-12', 'cs', 'Vlora');
+
+SET FOREIGN_KEY_CHECKS=1;

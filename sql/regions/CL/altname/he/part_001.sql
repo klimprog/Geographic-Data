@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CL-AI', 'he', 'אייסן'),
+('CL-AN', 'he', 'אנטופגסטה'),
+('CL-AP', 'he', 'אריקה ופרינאקוטה'),
+('CL-AR', 'he', 'אראוקניה'),
+('CL-AT', 'he', 'מחוז אטקמה'),
+('CL-BI', 'he', 'ביוביו'),
+('CL-CO', 'he', 'קוקימבו'),
+('CL-LI', 'he', 'או''היגינס'),
+('CL-LL', 'he', 'לוס לאגוס'),
+('CL-LR', 'he', 'לוס ריוס'),
+('CL-MA', 'he', 'מגאיאנס ואנטארקטיקה צ''ילנה'),
+('CL-ML', 'he', 'מאולה'),
+('CL-NB', 'he', 'ניובלה'),
+('CL-RM', 'he', 'מטרופולין סנטיאגו'),
+('CL-TA', 'he', 'טרפקה'),
+('CL-VS', 'he', 'ולפראיסו');
+
+SET FOREIGN_KEY_CHECKS=1;

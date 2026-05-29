@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'sw', 'Markazi'),
+('IR-01', 'sw', 'Kanda la Gilan'),
+('IR-02', 'sw', 'Mazandaran'),
+('IR-03', 'sw', 'Azarbayjan Mashariki'),
+('IR-04', 'sw', 'Azarbayjan Magharibi'),
+('IR-05', 'sw', 'Kanda la Kermanshah'),
+('IR-06', 'sw', 'Khuzestan'),
+('IR-07', 'sw', 'Fars'),
+('IR-08', 'sw', 'Kerman'),
+('IR-09', 'sw', 'Razavi Khorasan'),
+('IR-10', 'sw', 'Isfahan'),
+('IR-11', 'sw', 'Mkoa wa Sistan na Baluchistan'),
+('IR-12', 'sw', 'Kanda la Kurdistan'),
+('IR-13', 'sw', 'Kanda la Hamadan'),
+('IR-14', 'sw', 'Chaharmahal and Bakhtiari'),
+('IR-15', 'sw', 'Kanda la Lorestan'),
+('IR-16', 'sw', 'Kanda la Ilam'),
+('IR-17', 'sw', 'Kohgiluyeh and Boyer-Ahmad'),
+('IR-18', 'sw', 'Bushehr'),
+('IR-19', 'sw', 'Zanjan'),
+('IR-20', 'sw', 'Semnan'),
+('IR-21', 'sw', 'Kanda la Yazd'),
+('IR-22', 'sw', 'Mkoa wa Hormozgan'),
+('IR-23', 'sw', 'Tehran'),
+('IR-24', 'sw', 'Kanda la Ardabil'),
+('IR-25', 'sw', 'Jimbo la Qom'),
+('IR-26', 'sw', 'Kanda la Qazvin'),
+('IR-27', 'sw', 'Golestan'),
+('IR-28', 'sw', 'Khorasan Kaskazini'),
+('IR-29', 'sw', 'Jimbo la Khorasan Kusini'),
+('IR-30', 'sw', 'Jimbo la Alborz');
+
+SET FOREIGN_KEY_CHECKS=1;

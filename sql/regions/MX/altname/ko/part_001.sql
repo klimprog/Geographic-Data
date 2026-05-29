@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'ko', '아과스칼리엔테스주'),
+('MX-BCN', 'ko', '바하 칼리포르니아 주'),
+('MX-BCS', 'ko', '바하칼리포르니아수르주'),
+('MX-CAM', 'ko', '캄페체주'),
+('MX-CHH', 'ko', '치와와주'),
+('MX-CHP', 'ko', '치아파스 주'),
+('MX-CMX', 'ko', '멕시코시티'),
+('MX-COA', 'ko', '코아우일라주'),
+('MX-COL', 'ko', '콜리마주'),
+('MX-DUR', 'ko', '두랑고주'),
+('MX-GRO', 'ko', '게레로주'),
+('MX-GUA', 'ko', '과나후아토주'),
+('MX-HID', 'ko', '이달고주'),
+('MX-JAL', 'ko', '할리스코주'),
+('MX-MEX', 'ko', '멕시코주'),
+('MX-MIC', 'ko', '미초아칸주'),
+('MX-MOR', 'ko', '모렐로스주'),
+('MX-NAY', 'ko', '나야리트주'),
+('MX-NLE', 'ko', '누에보레온주'),
+('MX-OAX', 'ko', '오아하카주'),
+('MX-PUE', 'ko', '푸에블라주'),
+('MX-QUE', 'ko', '케레타로주'),
+('MX-ROO', 'ko', '킨타나로오주'),
+('MX-SIN', 'ko', '시날로아주'),
+('MX-SLP', 'ko', '산루이스포토시주'),
+('MX-SON', 'ko', '소노라주'),
+('MX-TAB', 'ko', '타바스코주'),
+('MX-TAM', 'ko', '타마울리파스주'),
+('MX-TLA', 'ko', '틀락스칼라주'),
+('MX-VER', 'ko', '베라크루스주'),
+('MX-YUC', 'ko', '유카탄주'),
+('MX-ZAC', 'ko', '사카테카스주');
+
+SET FOREIGN_KEY_CHECKS=1;

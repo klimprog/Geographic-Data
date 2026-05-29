@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LC-01', 'el', 'Άνς λα Ράιγ'),
+('LC-02', 'el', 'Κάστρις'),
+('LC-03', 'el', 'Χοισευλ'),
+('LC-05', 'el', 'Ντενερί'),
+('LC-06', 'el', 'Νησίδα Γκρος'),
+('LC-07', 'el', 'Λαμπόρι'),
+('LC-08', 'el', 'Μικούντ'),
+('LC-10', 'el', 'Σουφριέρ'),
+('LC-11', 'el', 'Βίε Φορ'),
+('LC-12', 'el', 'Κανάριες');
+
+SET FOREIGN_KEY_CHECKS=1;

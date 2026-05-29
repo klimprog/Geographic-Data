@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('GY-BA', 'GY', 'Barima-Waini Region', 'Barima-Waini', 1731315, 26941, 'UTC-4', 'America/Guyana'),
+('GY-CU', 'GY', 'Cuyuni-Mazaruni Region', 'Cuyuni-Mazaruni', 1731578, 20280, 'UTC-4', 'America/Guyana'),
+('GY-DE', 'GY', 'Demerara-Mahaica Region', 'Demerara-Mahaica', NULL, 313429, 'UTC-4', 'America/Guyana'),
+('GY-EB', 'GY', 'East Berbice-Corentyne Region', 'East Berbice-Corentyne', 1731247, 109431, 'UTC-4', 'America/Guyana'),
+('GY-ES', 'GY', 'Essequibo Islands-West Demerara Region', 'Essequibo Islands-West Demerara', 1731059, 107416, 'UTC-4', 'America/Guyana'),
+('GY-MA', 'GY', 'Mahaica-Berbice Region', 'Mahaica-Berbice', 1731687, 52400, 'UTC-4', 'America/Guyana'),
+('GY-PM', 'GY', 'Pomeroon-Supenaam Region', 'Pomeroon-Supenaam', 1731669, 46810, 'UTC-4', 'America/Guyana'),
+('GY-PT', 'GY', 'Potaro-Siparuni Region', 'Potaro-Siparuni', 1731309, 6671, 'UTC-4', 'America/Guyana'),
+('GY-UD', 'GY', 'Upper Demerara-Berbice Region', 'Upper Demerara-Berbice', 1731327, 44878, 'UTC-4', 'America/Guyana'),
+('GY-UT', 'GY', 'Upper Takutu-Upper Essequibo Region', 'Upper Takutu-Upper Essequibo', 1731330, 17706, 'UTC-4', 'America/Guyana');
+
+SET FOREIGN_KEY_CHECKS=1;

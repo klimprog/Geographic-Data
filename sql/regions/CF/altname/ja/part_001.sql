@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CF-AC', 'ja', 'ウハム州'),
+('CF-BB', 'ja', 'バミンギ・バンゴラン州'),
+('CF-BGF', 'ja', 'バンギ'),
+('CF-BK', 'ja', 'バス・コト州'),
+('CF-HK', 'ja', 'オート・コト州'),
+('CF-HM', 'ja', 'オー・ムボム州'),
+('CF-HS', 'ja', 'マンベレ・カデイ州'),
+('CF-KB', 'ja', 'ナナ・グレビジ'),
+('CF-KG', 'ja', 'ケモ州'),
+('CF-LB', 'ja', 'ロバイエ州'),
+('CF-MB', 'ja', 'ムボム州'),
+('CF-MP', 'ja', 'オンベラ・ムポコ州'),
+('CF-NM', 'ja', 'ナナ・メンベレ州'),
+('CF-OP', 'ja', 'ウハム・ペンデ州'),
+('CF-SE', 'ja', 'サンガ・ムバエレ州'),
+('CF-UK', 'ja', 'ワカ州'),
+('CF-VK', 'ja', 'バカガ州');
+
+SET FOREIGN_KEY_CHECKS=1;

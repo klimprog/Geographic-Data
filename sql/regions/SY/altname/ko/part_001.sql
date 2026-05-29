@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SY-DI', 'ko', '다마스쿠스주'),
+('SY-DR', 'ko', '다라주'),
+('SY-DY', 'ko', '데이르에조르주'),
+('SY-HA', 'ko', '하사카주'),
+('SY-HI', 'ko', '홈스주'),
+('SY-HL', 'ko', '알레포주'),
+('SY-HM', 'ko', '하마주'),
+('SY-ID', 'ko', '이들리브주'),
+('SY-LA', 'ko', '라타키아주'),
+('SY-QU', 'ko', '쿠네이트라주'),
+('SY-RA', 'ko', '락까주'),
+('SY-RD', 'ko', '리프디마슈크주'),
+('SY-SU', 'ko', '수와이다주'),
+('SY-TA', 'ko', '타르투스주');
+
+SET FOREIGN_KEY_CHECKS=1;

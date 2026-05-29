@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'zh', '巴塔区'),
+('TD-BG', 'zh', '加扎勒河區'),
+('TD-BO', 'zh', '博爾庫區'),
+('TD-CB', 'zh', '沙里-巴吉尔米区'),
+('TD-EE', 'zh', '東恩內迪區'),
+('TD-EO', 'zh', '西恩內迪區'),
+('TD-GR', 'zh', '蓋拉區'),
+('TD-HL', 'zh', '哈傑爾-拉密區'),
+('TD-KA', 'zh', '加奈姆區'),
+('TD-LC', 'zh', '湖區'),
+('TD-LO', 'zh', '西洛貢區'),
+('TD-LR', 'zh', '東洛貢區'),
+('TD-MA', 'zh', '芒杜爾區'),
+('TD-MC', 'zh', '中沙里區'),
+('TD-ME', 'zh', '東凱比河區'),
+('TD-MO', 'zh', '西凱比河區'),
+('TD-ND', 'zh', '恩賈梅納'),
+('TD-OD', 'zh', '瓦達伊區'),
+('TD-SA', 'zh', '萨拉马特区'),
+('TD-SI', 'zh', '西拉區'),
+('TD-TA', 'zh', '坦吉萊區'),
+('TD-TI', 'zh', '提貝斯提區'),
+('TD-WF', 'zh', '瓦迪菲拉區');
+
+SET FOREIGN_KEY_CHECKS=1;

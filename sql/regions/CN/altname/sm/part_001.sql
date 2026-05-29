@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'sm', 'an hui'),
+('CN-BJ', 'sm', 'bei jing'),
+('CN-CQ', 'sm', 'chong qing shi'),
+('CN-FJ', 'sm', 'Fujian'),
+('CN-GD', 'sm', 'guang dong'),
+('CN-GS', 'sm', 'gan su'),
+('CN-GX', 'sm', 'guang xi'),
+('CN-GZ', 'sm', 'gui zhou'),
+('CN-HA', 'sm', 'he nan'),
+('CN-HB', 'sm', 'Hubei'),
+('CN-HE', 'sm', 'he bei'),
+('CN-HI', 'sm', 'hai nan'),
+('CN-HK', 'sm', 'Hong Kong SAR'),
+('CN-HL', 'sm', 'hei long jiang'),
+('CN-HN', 'sm', 'hu nan'),
+('CN-JL', 'sm', 'ji lin'),
+('CN-JS', 'sm', 'jiang su'),
+('CN-JX', 'sm', 'jiang xi'),
+('CN-LN', 'sm', 'liao ning'),
+('CN-MO', 'sm', 'Macao SAR'),
+('CN-NM', 'sm', NULL),
+('CN-NX', 'sm', 'ning xia'),
+('CN-QH', 'sm', 'qing hai'),
+('CN-SC', 'sm', 'si chuan'),
+('CN-SD', 'sm', 'shan dong'),
+('CN-SH', 'sm', 'shang hai shi'),
+('CN-SN', 'sm', 'shan xi'),
+('CN-SX', 'sm', 'shan xi'),
+('CN-TJ', 'sm', 'tian jin'),
+('CN-TW', 'sm', 'Taiwan Sheng'),
+('CN-XJ', 'sm', 'xin jiang'),
+('CN-XZ', 'sm', 'Itumalo Tutoatasi o Tibet'),
+('CN-YN', 'sm', 'yun nan'),
+('CN-ZJ', 'sm', 'zhe jiang');
+
+SET FOREIGN_KEY_CHECKS=1;

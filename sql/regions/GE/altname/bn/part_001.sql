@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GE-AB', 'bn', 'আবখাজিয়া'),
+('GE-AJ', 'bn', 'আদজারা স্বায়ত্তশাসিত প্রজাতন্ত্র'),
+('GE-GU', 'bn', 'গুরিয়া'),
+('GE-IM', 'bn', 'ইমেরেতি'),
+('GE-KA', 'bn', 'কাখেতি'),
+('GE-KK', 'bn', 'কাভমো কার্তলি'),
+('GE-MM', 'bn', 'এম টি স্কেটা এমতিয়ানে'),
+('GE-RL', 'bn', 'রাচা-লেখখুমি এবং কভেমো স্বানেতি'),
+('GE-SJ', 'bn', 'সামতসখে-জাভাখেতি'),
+('GE-SK', 'bn', 'সিদা কার্টলি'),
+('GE-SZ', 'bn', 'সেমগ্রেলো-জেমো ভেনাতি'),
+('GE-TB', 'bn', 'তিবিলিসি');
+
+SET FOREIGN_KEY_CHECKS=1;

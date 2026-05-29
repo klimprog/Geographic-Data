@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SY-DI', 'ro', 'Guvernoratul Damasc'),
+('SY-DR', 'ro', 'Daraa'),
+('SY-DY', 'ro', 'Guvernoratul Deir ez-Zor'),
+('SY-HA', 'ro', 'Guvernoratul Al-Hasaka'),
+('SY-HI', 'ro', 'Guvernoratul Homs'),
+('SY-HL', 'ro', 'Guvernoratul Alep'),
+('SY-HM', 'ro', 'Guvernoratul Hama'),
+('SY-ID', 'ro', 'Guvernoratul Idlib'),
+('SY-LA', 'ro', 'Guvernoratul Latakia'),
+('SY-QU', 'ro', 'Guvernoratul Quneitra'),
+('SY-RA', 'ro', 'Guvernoratul Ar-Raqqa'),
+('SY-RD', 'ro', 'Guvernoratul Rif Dimashq'),
+('SY-SU', 'ro', 'Guvernoratul As-Suwayda'),
+('SY-TA', 'ro', 'Guvernoratul Tartus');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('JO-AJ', 'en', 'Ajloun'),
+('JO-AM', 'en', 'Amman'),
+('JO-AQ', 'en', 'Aqaba'),
+('JO-AT', 'en', 'Tafilah'),
+('JO-AZ', 'en', 'Zarqa'),
+('JO-BA', 'en', 'Balqa'),
+('JO-IR', 'en', 'Irbid'),
+('JO-JA', 'en', 'Jerash'),
+('JO-KA', 'en', 'Karak'),
+('JO-MA', 'en', 'Mafraq'),
+('JO-MD', 'en', 'Madaba'),
+('JO-MN', 'en', 'Ma’an');
+
+SET FOREIGN_KEY_CHECKS=1;

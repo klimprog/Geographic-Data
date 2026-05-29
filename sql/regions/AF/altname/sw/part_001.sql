@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'sw', 'Balkh'),
+('AF-BAM', 'sw', 'Bamyan'),
+('AF-BDG', 'sw', 'Badghis'),
+('AF-BDS', 'sw', 'Badakhshan'),
+('AF-BGL', 'sw', 'Baghlan'),
+('AF-DAY', 'sw', 'Daykundi'),
+('AF-FRA', 'sw', 'Farah'),
+('AF-FYB', 'sw', 'Faryab'),
+('AF-GHA', 'sw', 'Ghazni'),
+('AF-GHO', 'sw', 'Ghowr'),
+('AF-HEL', 'sw', 'Helmand'),
+('AF-HER', 'sw', 'Herat'),
+('AF-JOW', 'sw', 'Jowzjan'),
+('AF-KAB', 'sw', 'Kabul'),
+('AF-KAN', 'sw', 'Kandahar'),
+('AF-KAP', 'sw', 'Kapisa'),
+('AF-KDZ', 'sw', 'Kunduz'),
+('AF-KHO', 'sw', 'Khowst'),
+('AF-KNR', 'sw', 'Kunar'),
+('AF-LAG', 'sw', 'Laghman'),
+('AF-LOG', 'sw', 'Logar'),
+('AF-NAN', 'sw', 'Nangarhar'),
+('AF-NIM', 'sw', 'Nimroz'),
+('AF-NUR', 'sw', 'Nuristan'),
+('AF-PAN', 'sw', 'Panjshir'),
+('AF-PAR', 'sw', 'Parwan'),
+('AF-PIA', 'sw', 'Paktia'),
+('AF-PKA', 'sw', 'Paktika'),
+('AF-SAM', 'sw', 'Samangan'),
+('AF-SAR', 'sw', 'Kanda la Sar-e Pol'),
+('AF-TAK', 'sw', 'Takhar'),
+('AF-URU', 'sw', 'Oruzgan'),
+('AF-WAR', 'sw', 'Kanda la Maidan Wardak'),
+('AF-ZAB', 'sw', 'Zabul');
+
+SET FOREIGN_KEY_CHECKS=1;

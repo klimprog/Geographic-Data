@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GH-AA', 'tr', 'Büyük Accra Bölgesi'),
+('GH-AF', 'tr', 'Ahafo Region'),
+('GH-AH', 'tr', 'Ashanti Bölgesi'),
+('GH-BE', 'tr', 'Bono East Region'),
+('GH-BO', 'tr', 'Bono Region'),
+('GH-CP', 'tr', 'Merkez Bölgesi'),
+('GH-EP', 'tr', 'Doğu Bölgesi'),
+('GH-NE', 'tr', 'North East Region'),
+('GH-NP', 'tr', 'Kuzey Bölgesi'),
+('GH-OT', 'tr', 'Oti Region'),
+('GH-SV', 'tr', 'Savannah Region'),
+('GH-TV', 'tr', 'Volta Bölgesi'),
+('GH-UE', 'tr', 'Yukarı Doğu Bölgesi'),
+('GH-UW', 'tr', 'Yukarı Batı Bölgesi'),
+('GH-WN', 'tr', 'Western North Region'),
+('GH-WP', 'tr', 'Batı Bölgesi');
+
+SET FOREIGN_KEY_CHECKS=1;

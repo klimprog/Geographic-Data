@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'mt', 'Muhafazat Abyan'),
+('YE-AD', 'mt', 'Governorat Numru Wieħed'),
+('YE-AM', 'mt', 'Muhafazat ''Amran'),
+('YE-BA', 'mt', 'albydaʾ'),
+('YE-DA', 'mt', 'Muhafazat ad Dali'''),
+('YE-DH', 'mt', 'dhmar'),
+('YE-HD', 'mt', 'Governorat ta'' Hadramawt'),
+('YE-HJ', 'mt', 'Muhafazat Hajjah'),
+('YE-HU', 'mt', 'Governorat ta'' Al-Hudaida'),
+('YE-IB', 'mt', 'Ibb'),
+('YE-JA', 'mt', 'Muhafazat al-Ġawf'),
+('YE-LA', 'mt', 'Muhafazat Lahij'),
+('YE-MA', 'mt', 'Muhafazat Ma''rib'),
+('YE-MR', 'mt', 'Al Mahrah'),
+('YE-MW', 'mt', 'Al Mahwit'),
+('YE-RA', 'mt', 'Muhafazat Raymah'),
+('YE-SA', 'mt', 'Amanat Alasimah'),
+('YE-SD', 'mt', 'Muhafazat Sa`dah'),
+('YE-SH', 'mt', 'Shabwah'),
+('YE-SN', 'mt', 'Governorat ta'' Sana''a'),
+('YE-SU', 'mt', 'Socotra'),
+('YE-TA', 'mt', 'Muhafazat Ta`izz');
+
+SET FOREIGN_KEY_CHECKS=1;

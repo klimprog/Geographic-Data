@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MV-00', 'ms', 'Atol Ari Selatan'),
+('MV-01', 'ms', 'Atol Addu'),
+('MV-02', 'ms', 'Atol Ari Utara'),
+('MV-03', 'ms', 'Atol Faadhippolhu'),
+('MV-04', 'ms', 'Vaavu Atoll'),
+('MV-05', 'ms', 'Laamu Atoll'),
+('MV-07', 'ms', 'Haa Alif Atoll'),
+('MV-08', 'ms', 'Kolhumadulhu Atoll'),
+('MV-12', 'ms', 'Meemu Atoll'),
+('MV-13', 'ms', 'Atol Raa'),
+('MV-14', 'ms', 'Kepulauan Faafu'),
+('MV-17', 'ms', 'Dhaalu Atoll'),
+('MV-20', 'ms', 'Kepulauan Baa'),
+('MV-23', 'ms', 'Haa Dhaalu Atoll'),
+('MV-24', 'ms', 'Shaviyani Atoll'),
+('MV-25', 'ms', 'Atol Noonu'),
+('MV-26', 'ms', 'Kaafu Atoll'),
+('MV-27', 'ms', 'Atol Gaafu Alif'),
+('MV-28', 'ms', 'Atol Gaafu Dhaalu'),
+('MV-29', 'ms', 'Atol Gnyaviyani'),
+('MV-MLE', 'ms', 'male');
+
+SET FOREIGN_KEY_CHECKS=1;

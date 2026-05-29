@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NZ-AUK', 'ja', 'オークランド地方'),
+('NZ-BOP', 'ja', 'ベイ・オブ・プレンティ'),
+('NZ-CAN', 'ja', 'カンタベリー地方'),
+('NZ-CIT', 'ja', 'チャサム諸島'),
+('NZ-GIS', 'ja', 'ギズボーン地方'),
+('NZ-HKB', 'ja', 'ホークス・ベイ地方'),
+('NZ-MBH', 'ja', 'マールボロ地方'),
+('NZ-MWT', 'ja', 'マナワツ・ワンガヌイ'),
+('NZ-NSN', 'ja', 'ネルソン地方'),
+('NZ-NTL', 'ja', 'ノースランド地方'),
+('NZ-OTA', 'ja', 'オタゴ地方'),
+('NZ-STL', 'ja', 'サウスランド地方'),
+('NZ-TAS', 'ja', 'タスマン地方'),
+('NZ-TKI', 'ja', 'タラナキ地方'),
+('NZ-WGN', 'ja', 'ウェリントン地方'),
+('NZ-WKO', 'ja', 'ワイカト地方'),
+('NZ-WTC', 'ja', 'ウェスト・コースト地方');
+
+SET FOREIGN_KEY_CHECKS=1;

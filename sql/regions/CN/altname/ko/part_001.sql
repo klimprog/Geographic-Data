@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'ko', '안후이성'),
+('CN-BJ', 'ko', '베이징'),
+('CN-CQ', 'ko', '충칭시'),
+('CN-FJ', 'ko', '푸젠 성'),
+('CN-GD', 'ko', '광둥성'),
+('CN-GS', 'ko', '간쑤성'),
+('CN-GX', 'ko', '광시 좡족 자치구'),
+('CN-GZ', 'ko', '구이저우성'),
+('CN-HA', 'ko', '허난성'),
+('CN-HB', 'ko', '후베이 성'),
+('CN-HE', 'ko', '허베이성'),
+('CN-HI', 'ko', '하이난성'),
+('CN-HK', 'ko', '홍콩 특별 행정구'),
+('CN-HL', 'ko', '헤이룽장성'),
+('CN-HN', 'ko', '후난성'),
+('CN-JL', 'ko', '길림'),
+('CN-JS', 'ko', '장쑤성'),
+('CN-JX', 'ko', '장시성'),
+('CN-LN', 'ko', '랴오닝성'),
+('CN-MO', 'ko', '마카오 특별 행정구'),
+('CN-NM', 'ko', '내몽골 자치구'),
+('CN-NX', 'ko', '닝샤 후이족 자치구'),
+('CN-QH', 'ko', '칭하이성'),
+('CN-SC', 'ko', '쓰촨 성'),
+('CN-SD', 'ko', '산둥성'),
+('CN-SH', 'ko', '상하이시'),
+('CN-SN', 'ko', '산시 성'),
+('CN-SX', 'ko', '산시성'),
+('CN-TJ', 'ko', '톈진시'),
+('CN-TW', 'ko', '대만 셩'),
+('CN-XJ', 'ko', '신장 위구르 자치구'),
+('CN-XZ', 'ko', '티베트 자치구'),
+('CN-YN', 'ko', '윈난성'),
+('CN-ZJ', 'ko', '저장성');
+
+SET FOREIGN_KEY_CHECKS=1;

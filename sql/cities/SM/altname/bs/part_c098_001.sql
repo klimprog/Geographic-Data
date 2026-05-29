@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(320371752, 4160673, 'bs', 'Serravalle'),
+(320371829, 4160674, 'bs', 'San Marino'),
+(320371906, 4160675, 'bs', 'Poggio di Chiesanuova'),
+(320371983, 4160676, 'bs', 'Montegiardino'),
+(320372060, 4160677, 'bs', 'Fiorentino'),
+(320372137, 4160678, 'bs', 'Falciano'),
+(320372214, 4160679, 'bs', 'Faetano'),
+(320372291, 4160680, 'bs', 'Domagnano'),
+(320372368, 4160681, 'bs', 'Dogana'),
+(320372445, 4160682, 'bs', 'Borgo Maggiore'),
+(320372522, 4160683, 'bs', 'Acquaviva'),
+(320372599, 4160684, 'bs', 'Area Produktiva'),
+(320372753, 4160686, 'bs', 'Murata'),
+(320372830, 4160687, 'bs', 'Ventoso'),
+(320372984, 4160689, 'bs', 'Torraccia'),
+(320373215, 4160692, 'bs', 'Valdragone');
+
+SET FOREIGN_KEY_CHECKS=1;

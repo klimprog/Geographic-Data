@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ME-01', 'lv', 'Andrijevicas pašvaldība'),
+('ME-02', 'lv', 'Baras pašvaldība'),
+('ME-03', 'lv', 'Beranes pašvaldība'),
+('ME-04', 'lv', 'Bijelo Poljes pašvaldība'),
+('ME-05', 'lv', 'Budvas pašvaldība'),
+('ME-06', 'lv', 'Cetiņes pašvaldība'),
+('ME-07', 'lv', 'Danilovgradas pašvaldība'),
+('ME-08', 'lv', 'Hercegnovi pašvaldība'),
+('ME-09', 'lv', 'Kolašinas pašvaldība'),
+('ME-10', 'lv', 'Kotor'),
+('ME-11', 'lv', 'Mojkovacas pašvaldība'),
+('ME-12', 'lv', 'Nikšičas pašvaldība'),
+('ME-13', 'lv', 'Plavas pašvaldība'),
+('ME-14', 'lv', 'Pljevljas pašvaldība'),
+('ME-15', 'lv', 'Plužines pašvaldība'),
+('ME-16', 'lv', 'Podgorica'),
+('ME-17', 'lv', 'Rozaje'),
+('ME-18', 'lv', 'Šavnikas pašvaldība'),
+('ME-19', 'lv', 'Tivat'),
+('ME-20', 'lv', 'Ulciņas pašvaldība'),
+('ME-21', 'lv', 'Žabļakas pašvaldība'),
+('ME-22', 'lv', 'Gusine'),
+('ME-23', 'lv', 'Petnica'),
+('ME-24', 'lv', 'Tuzi'),
+('ME-25', 'lv', 'Zeta');
+
+SET FOREIGN_KEY_CHECKS=1;

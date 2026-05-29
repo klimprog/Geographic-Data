@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SB-CE', 'it', 'provincia Centrale'),
+('SB-CH', 'it', 'provincia di Choiseul'),
+('SB-CT', 'it', 'Honiara'),
+('SB-GU', 'it', 'provincia di Guadalcanal'),
+('SB-IS', 'it', 'provincia di Isabel'),
+('SB-MK', 'it', 'provincia di Makira-Ulawa'),
+('SB-ML', 'it', 'provincia di Malaita'),
+('SB-RB', 'it', 'provincia di Rennell e Bellona'),
+('SB-TE', 'it', 'provincia di Temotu'),
+('SB-WE', 'it', 'provincia Occidentale');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SN-DB', 'sw', 'Mkoa wa Diourbel'),
+('SN-DK', 'sw', 'Mkoa wa Dakar'),
+('SN-FK', 'sw', 'Mkoa wa Fatick'),
+('SN-KA', 'sw', 'Mkoa wa Kaffrine'),
+('SN-KD', 'sw', 'Mkoa wa Kolda'),
+('SN-KE', 'sw', 'Kedougou'),
+('SN-KL', 'sw', 'Mkoa wa Kaolack'),
+('SN-LG', 'sw', 'Mkoa wa Louga'),
+('SN-MT', 'sw', 'Mkoa wa Matam'),
+('SN-SE', 'sw', 'Mkoa wa Sedhiou'),
+('SN-SL', 'sw', 'Mkoa wa Saint-Louis'),
+('SN-TC', 'sw', 'Mkoa wa Tambacounda'),
+('SN-TH', 'sw', 'Thies'),
+('SN-ZG', 'sw', 'Mkoa wa Ziguinchor');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BI-BB', 'ur', 'بوبونزا صوبہ'),
+('BI-BL', 'ur', 'بوجمبورا دیہی صوبہ'),
+('BI-BM', 'ur', 'بوجمبورا میری صوبہ'),
+('BI-BR', 'ur', 'بوروری صوبہ'),
+('BI-CA', 'ur', 'کانکوزو صوبہ'),
+('BI-CI', 'ur', 'سیبیتوکے صوبہ'),
+('BI-GI', 'ur', 'گیتیگا صوبہ'),
+('BI-KI', 'ur', 'کیروندو صوبہ'),
+('BI-KR', 'ur', 'کاروزی صوبہ'),
+('BI-KY', 'ur', 'کایانزا صوبہ'),
+('BI-MA', 'ur', 'ماکامبا صوبہ'),
+('BI-MU', 'ur', 'مورامویا صوبہ'),
+('BI-MW', 'ur', 'موارو صوبہ'),
+('BI-MY', 'ur', 'موئینگا صوبہ'),
+('BI-NG', 'ur', 'نگوزی صوبہ'),
+('BI-RM', 'ur', 'رومونگی صوبہ'),
+('BI-RT', 'ur', 'روتانا صوبہ'),
+('BI-RY', 'ur', 'روئیگی صوبہ');
+
+SET FOREIGN_KEY_CHECKS=1;

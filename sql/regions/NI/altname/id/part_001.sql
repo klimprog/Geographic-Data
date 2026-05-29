@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NI-AN', 'id', 'Región Autónoma del Atlántico Norte'),
+('NI-AS', 'id', 'Región Autónoma del Atlántico Sur'),
+('NI-BO', 'id', 'Departemen Boaco'),
+('NI-CA', 'id', 'Departemen Carazo'),
+('NI-CI', 'id', 'Departemen Chinandega'),
+('NI-CO', 'id', 'Departemen Chontales'),
+('NI-ES', 'id', 'Departemen Estelí'),
+('NI-GR', 'id', 'Departemen Granada'),
+('NI-JI', 'id', 'Departemen Jinotega'),
+('NI-LE', 'id', 'Departemen León'),
+('NI-MD', 'id', 'Departemen Madriz'),
+('NI-MN', 'id', 'Departemen Managua'),
+('NI-MS', 'id', 'Departemen Masaya'),
+('NI-MT', 'id', 'Departemen Matagalpa'),
+('NI-NS', 'id', 'Departemen Nueva Segovia'),
+('NI-RI', 'id', 'Departemen Rivas'),
+('NI-SJ', 'id', 'Departemen Río San Juan');
+
+SET FOREIGN_KEY_CHECKS=1;

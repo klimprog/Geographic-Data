@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NP-P1', 'tg', 'Коши'),
+('NP-P2', 'tg', 'Мадхеш'),
+('NP-P3', 'tg', 'Багмати Province'),
+('NP-P4', 'tg', 'Province 4'),
+('NP-P5', 'tg', 'Лумбини Province'),
+('NP-P6', 'tg', 'Карнали Pradesh'),
+('NP-P7', 'tg', 'Судурпашчим Pradesh');
+
+SET FOREIGN_KEY_CHECKS=1;

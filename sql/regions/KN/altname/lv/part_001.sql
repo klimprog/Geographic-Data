@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KN-01', 'lv', 'Kristus baznīca Nikolaja pilsēta'),
+('KN-02', 'lv', 'Saint Anne Sandy Point'),
+('KN-03', 'lv', 'Svētais Džordžs Baseters'),
+('KN-04', 'lv', 'Svētais Džordžs Gingerlends'),
+('KN-05', 'lv', 'Svētais Džeimss Vējvards'),
+('KN-06', 'lv', 'Svētais Džons Kapesters'),
+('KN-07', 'lv', 'Svētais Džons Figtrs'),
+('KN-08', 'lv', 'Svētā Mērija Keijona'),
+('KN-09', 'lv', 'Svētais Pāvils Kapesters'),
+('KN-10', 'lv', 'Svētais Pols Čārlstauna'),
+('KN-11', 'lv', 'Svētais Pēteris Baseters'),
+('KN-12', 'lv', 'Svētā Tomasa zemiene'),
+('KN-13', 'lv', 'Svētā Tomasa Vidussala'),
+('KN-15', 'lv', 'Trīsvienības Palmetto punkts'),
+('KN-K', 'lv', 'Sentkitsa'),
+('KN-N', 'lv', 'Nevisa');
+
+SET FOREIGN_KEY_CHECKS=1;

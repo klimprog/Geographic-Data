@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HR-01', 'ca', 'comtat de Zagreb'),
+('HR-02', 'ca', 'Comtat de Krapina-Zagorje'),
+('HR-03', 'ca', 'comtat de Sisak-Moslavina'),
+('HR-04', 'ca', 'Comtat de Karlovac'),
+('HR-05', 'ca', 'Comtat de Varaždin'),
+('HR-06', 'ca', 'Comtat de Koprivnica-Križevci'),
+('HR-07', 'ca', 'comtat de Bjelovar-Bilogora'),
+('HR-08', 'ca', 'Comtat de Primorje – Gorski Kotar'),
+('HR-09', 'ca', 'Comtat de Lika-Senj'),
+('HR-10', 'ca', 'comtat de Virovitica-Podravina'),
+('HR-11', 'ca', 'Comtat de Požega-Eslavònia'),
+('HR-12', 'ca', 'Comtat de Brod-Posavina'),
+('HR-13', 'ca', 'Comtat de Zadar'),
+('HR-14', 'ca', 'Comtat d''Osijek-Baranja'),
+('HR-15', 'ca', 'Comtat de Šibenik-Knin'),
+('HR-16', 'ca', 'Comtat de Vukovar-Srijem'),
+('HR-17', 'ca', 'Comtat de Split-Dalmàcia'),
+('HR-18', 'ca', 'Comtat d''Ístria'),
+('HR-19', 'ca', 'Comtat de Dubrovnik-Neretva'),
+('HR-20', 'ca', 'Comtat de Međimurje'),
+('HR-21', 'ca', 'Zagreb');
+
+SET FOREIGN_KEY_CHECKS=1;

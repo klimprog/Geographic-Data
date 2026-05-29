@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'lv', 'Asvajas province'),
+('EC-B', 'lv', 'Bolivara province'),
+('EC-C', 'lv', 'Karči province'),
+('EC-D', 'lv', 'Oreljanas province'),
+('EC-E', 'lv', 'Esmeraldasas province'),
+('EC-F', 'lv', 'Kanjaras province'),
+('EC-G', 'lv', 'Gvajasas province'),
+('EC-H', 'lv', 'Čimbaraso province'),
+('EC-I', 'lv', 'Imbaburas province'),
+('EC-L', 'lv', 'Lohas province'),
+('EC-M', 'lv', 'Manabi province'),
+('EC-N', 'lv', 'Napo province'),
+('EC-O', 'lv', 'Eloro province'),
+('EC-P', 'lv', 'Pičinčas province'),
+('EC-R', 'lv', 'Losriosas province'),
+('EC-S', 'lv', 'Moronas Santjago province'),
+('EC-SD', 'lv', 'Santodomingo de los Cačilasas province'),
+('EC-SE', 'lv', 'Santaelenas province'),
+('EC-T', 'lv', 'Tunguravas province'),
+('EC-U', 'lv', 'Sukumbiosas province'),
+('EC-W', 'lv', 'Galapagu province'),
+('EC-X', 'lv', 'Kotopaksi province'),
+('EC-Y', 'lv', 'Pastasas province'),
+('EC-Z', 'lv', 'Samoras Činčipes province');
+
+SET FOREIGN_KEY_CHECKS=1;

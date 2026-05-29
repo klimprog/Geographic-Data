@@ -1,0 +1,41 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(215089263, 2793368, 'az', 'Trinity'),
+(215089956, 2793377, 'az', 'Sandy Point Town'),
+(215090110, 2793379, 'az', 'Saint Paul''s'),
+(215090187, 2793380, 'az', 'Saddlers'),
+(215091111, 2793392, 'az', 'Ortons'),
+(215091188, 2793393, 'az', 'Old Road Town'),
+(215091342, 2793395, 'az', 'Nicola Town'),
+(215091573, 2793398, 'az', 'Newcastle'),
+(215091804, 2793401, 'az', 'Monkey Hill'),
+(215091958, 2793403, 'az', 'Middle Island'),
+(215092112, 2793405, 'az', 'Market Shop'),
+(215092189, 2793406, 'az', 'Mardenbrough'),
+(215092266, 2793407, 'az', 'Mansion'),
+(215092959, 2793416, 'az', 'Kit Stoddart'),
+(215093344, 2793421, 'az', 'Hull Ground'),
+(215093806, 2793427, 'az', 'Ermitaj'),
+(215093960, 2793429, 'az', 'Harris'),
+(215094114, 2793431, 'az', 'Hardtimes'),
+(215094191, 2793432, 'az', 'Half Way Tree'),
+(215094345, 2793434, 'az', 'Golden Rock'),
+(215094422, 2793435, 'az', 'Gingerland'),
+(215094807, 2793440, 'az', 'Fig Tree'),
+(215095038, 2793443, 'az', 'Dieppe Bay Town'),
+(215095269, 2793446, 'az', 'Craddocks'),
+(215095423, 2793448, 'az', 'Cotton Ground'),
+(215095731, 2793452, 'az', 'Church Ground'),
+(215095885, 2793454, 'az', 'Charlestown'),
+(215096039, 2793456, 'az', 'Cayon'),
+(215096578, 2793463, 'az', 'Brumaire'),
+(215096809, 2793466, 'az', 'Brownes'),
+(215097040, 2793469, 'az', 'Boyds'),
+(215097425, 2793474, 'az', 'Baster'),
+(215097502, 2793475, 'az', 'Barnes Ghaut'),
+(215097733, 2793478, 'az', 'Fortlands'),
+(215098041, 2793482, 'az', 'Stoney Hill');
+
+SET FOREIGN_KEY_CHECKS=1;

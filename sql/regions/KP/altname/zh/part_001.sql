@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KP-01', 'zh', '平壤'),
+('KP-02', 'zh', '平安南道'),
+('KP-03', 'zh', '平安北道'),
+('KP-04', 'zh', '慈江道'),
+('KP-05', 'zh', '黄海南道'),
+('KP-06', 'zh', '黄海北道'),
+('KP-07', 'zh', '江原道'),
+('KP-08', 'zh', '咸镜南道'),
+('KP-09', 'zh', '咸镜北道'),
+('KP-10', 'zh', '两江道'),
+('KP-13', 'zh', '羅先市'),
+('KP-14', 'zh', NULL),
+('KP-15', 'zh', '开城');
+
+SET FOREIGN_KEY_CHECKS=1;

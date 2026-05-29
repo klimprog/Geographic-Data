@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ZM-01', 'ht', 'Western Province'),
+('ZM-02', 'ht', 'Central Province'),
+('ZM-03', 'ht', 'Eastern Province'),
+('ZM-04', 'ht', 'Luapula Province'),
+('ZM-05', 'ht', 'Northern Province'),
+('ZM-06', 'ht', 'Northwestern Province'),
+('ZM-07', 'ht', 'Southern Province'),
+('ZM-08', 'ht', 'Copperbelt'),
+('ZM-09', 'ht', 'Lusaka Province'),
+('ZM-10', 'ht', 'Muchinga');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TL-AL', 'zh', '阿伊萊烏縣'),
+('TL-AN', 'zh', '阿伊納羅縣'),
+('TL-BA', 'zh', '包考縣'),
+('TL-BO', 'zh', '博博納羅縣'),
+('TL-CO', 'zh', '科瓦利馬區'),
+('TL-DI', 'zh', '帝力縣'),
+('TL-ER', 'zh', '埃爾梅拉縣'),
+('TL-LA', 'zh', '勞滕縣'),
+('TL-LI', 'zh', '利逵薩縣'),
+('TL-MF', 'zh', '馬努法伊縣'),
+('TL-MT', 'zh', '馬納圖托縣'),
+('TL-OE', 'zh', '歐庫西-安貝諾縣'),
+('TL-VI', 'zh', '維克克縣');
+
+SET FOREIGN_KEY_CHECKS=1;

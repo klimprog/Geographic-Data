@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'fi', 'Sri Lankan läntinen provinssi'),
+('LK-11', 'fi', 'Colombo'),
+('LK-12', 'fi', 'Gampaha'),
+('LK-13', 'fi', 'Kalutara'),
+('LK-2', 'fi', 'Sri Lankan keskinen provinssi'),
+('LK-21', 'fi', 'Kandy'),
+('LK-22', 'fi', 'Matale'),
+('LK-23', 'fi', 'Nuwara Eliya'),
+('LK-3', 'fi', 'Sri Lankan eteläinen provinssi'),
+('LK-31', 'fi', 'Galle'),
+('LK-32', 'fi', 'Matara'),
+('LK-33', 'fi', 'Hambantota'),
+('LK-4', 'fi', 'Sri Lankan pohjoinen provinssi'),
+('LK-41', 'fi', 'Jaffna'),
+('LK-42', 'fi', 'Kilinochchi'),
+('LK-43', 'fi', 'Mannar'),
+('LK-44', 'fi', 'Vavuniya'),
+('LK-45', 'fi', 'Mullaittivu'),
+('LK-5', 'fi', 'Sri Lankan itäinen provinssi'),
+('LK-51', 'fi', 'Batticaloa'),
+('LK-52', 'fi', 'Ampara'),
+('LK-53', 'fi', 'Trincomalee'),
+('LK-6', 'fi', 'Sri Lankan luoteisprovinssi'),
+('LK-61', 'fi', 'Kurunegala'),
+('LK-62', 'fi', 'Puttalam'),
+('LK-7', 'fi', 'Sri Lankan keskipohjoinen provinssi'),
+('LK-71', 'fi', 'Anuradhapura'),
+('LK-72', 'fi', 'Polonnaruwa'),
+('LK-8', 'fi', 'Uva'),
+('LK-81', 'fi', 'Badulla'),
+('LK-82', 'fi', 'Monaragala'),
+('LK-9', 'fi', 'Sabaragamuwa'),
+('LK-91', 'fi', 'Ratnapura'),
+('LK-92', 'fi', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

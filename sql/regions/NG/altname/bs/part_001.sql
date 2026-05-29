@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'bs', 'Abia State'),
+('NG-AD', 'bs', 'Adamawa'),
+('NG-AK', 'bs', 'Akwa Ibom State'),
+('NG-AN', 'bs', 'Anambra'),
+('NG-BA', 'bs', 'Bauchi'),
+('NG-BE', 'bs', 'Benue State'),
+('NG-BO', 'bs', 'Borno State'),
+('NG-BY', 'bs', 'Bayelsa State'),
+('NG-CR', 'bs', 'Cross River State'),
+('NG-DE', 'bs', 'Delta'),
+('NG-EB', 'bs', 'Ebonyi State'),
+('NG-ED', 'bs', 'Edo State'),
+('NG-EK', 'bs', 'Ekiti State'),
+('NG-EN', 'bs', 'Enugu State'),
+('NG-FC', 'bs', 'FCT'),
+('NG-GO', 'bs', 'Gombe State'),
+('NG-IM', 'bs', 'Imo State'),
+('NG-JI', 'bs', 'Jigawa State'),
+('NG-KD', 'bs', 'Kaduna State'),
+('NG-KE', 'bs', 'Kebbi'),
+('NG-KN', 'bs', 'Kano State'),
+('NG-KO', 'bs', 'Kogi State'),
+('NG-KT', 'bs', 'Katsina State'),
+('NG-KW', 'bs', 'Kwara State'),
+('NG-LA', 'bs', 'Lagos'),
+('NG-NA', 'bs', 'Nasarawa State'),
+('NG-NI', 'bs', 'Niger State'),
+('NG-OG', 'bs', 'Ogun State'),
+('NG-ON', 'bs', 'Ondo State'),
+('NG-OS', 'bs', 'Osun State'),
+('NG-OY', 'bs', 'Oyo State'),
+('NG-PL', 'bs', 'Plateau State'),
+('NG-RI', 'bs', 'Rivers State'),
+('NG-SO', 'bs', 'Sokoto State'),
+('NG-TA', 'bs', 'Taraba State'),
+('NG-YO', 'bs', 'Yobe State'),
+('NG-ZA', 'bs', 'Zamfara State');
+
+SET FOREIGN_KEY_CHECKS=1;

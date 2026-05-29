@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'sv', 'Centrala Dafur'),
+('SD-DE', 'sv', 'Västra Dafur'),
+('SD-DN', 'sv', 'Shamal Darfur'),
+('SD-DS', 'sv', 'Janub Darfur'),
+('SD-DW', 'sv', 'Gharb Darfur'),
+('SD-GD', 'sv', 'Al-Qadarif'),
+('SD-GK', 'sv', 'Västra Kordofan delstaten'),
+('SD-GZ', 'sv', 'Al-Jazirah'),
+('SD-KA', 'sv', 'Kassala'),
+('SD-KH', 'sv', 'Khartoum'),
+('SD-KN', 'sv', 'Shamal Kurdufan'),
+('SD-KS', 'sv', 'Janub Kurdufan'),
+('SD-NB', 'sv', 'An-Nil al-Azraq'),
+('SD-NO', 'sv', 'Ash-Shamaliyya'),
+('SD-NR', 'sv', 'Nahr an-Nil'),
+('SD-NW', 'sv', 'An-Nil al-Abyad'),
+('SD-RS', 'sv', 'Al-Bahr al-Ahmar'),
+('SD-SI', 'sv', 'Sennar');
+
+SET FOREIGN_KEY_CHECKS=1;

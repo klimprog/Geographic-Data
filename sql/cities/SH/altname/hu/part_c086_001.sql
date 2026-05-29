@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(318393178, 4134977, 'hu', 'Thornton'),
+(318393255, 4134978, 'hu', 'Georgetown'),
+(318393332, 4134979, 'hu', 'Edinburgh of the Seven Seas'),
+(318393486, 4134981, 'hu', 'Edinburgh of the Seven Seas'),
+(318393794, 4134985, 'hu', 'Jamestown'),
+(318394179, 4134990, 'hu', 'Alarm Forest'),
+(318394256, 4134991, 'hu', 'Blue Hill'),
+(318394333, 4134992, 'hu', 'Cat Hill US Military Base'),
+(318394410, 4134993, 'hu', 'Sandy Bay'),
+(318394487, 4134994, 'hu', 'St. Paul''s'),
+(318394641, 4134996, 'hu', 'Traveller''s Hill Royal Air Force Base');
+
+SET FOREIGN_KEY_CHECKS=1;

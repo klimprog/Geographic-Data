@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'ja', '安徽省'),
+('CN-BJ', 'ja', '北京'),
+('CN-CQ', 'ja', '重慶'),
+('CN-FJ', 'ja', '福建'),
+('CN-GD', 'ja', '広東'),
+('CN-GS', 'ja', '甘粛'),
+('CN-GX', 'ja', '広西'),
+('CN-GZ', 'ja', '貴州'),
+('CN-HA', 'ja', '河南'),
+('CN-HB', 'ja', '湖北省'),
+('CN-HE', 'ja', '河北'),
+('CN-HI', 'ja', '海南'),
+('CN-HK', 'ja', NULL),
+('CN-HL', 'ja', '黒龍江省'),
+('CN-HN', 'ja', '湖南'),
+('CN-JL', 'ja', '吉林省'),
+('CN-JS', 'ja', '江蘇'),
+('CN-JX', 'ja', '江西'),
+('CN-LN', 'ja', '遼寧省'),
+('CN-MO', 'ja', NULL),
+('CN-NM', 'ja', '内モンゴル自治区'),
+('CN-NX', 'ja', '寧夏'),
+('CN-QH', 'ja', '青海'),
+('CN-SC', 'ja', '四川'),
+('CN-SD', 'ja', '山東'),
+('CN-SH', 'ja', '上海'),
+('CN-SN', 'ja', '陝西省'),
+('CN-SX', 'ja', '山西'),
+('CN-TJ', 'ja', '天津'),
+('CN-TW', 'ja', '台湾盛'),
+('CN-XJ', 'ja', '新疆'),
+('CN-XZ', 'ja', 'チベット'),
+('CN-YN', 'ja', '雲南'),
+('CN-ZJ', 'ja', '浙江');
+
+SET FOREIGN_KEY_CHECKS=1;

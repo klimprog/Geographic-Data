@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(2426051, 31508, 'de', 'West End Dorf'),
+(2426282, 31511, 'de', 'The Valley'),
+(2426359, 31512, 'de', 'Das Viertel'),
+(2426513, 31514, 'de', 'Farrington'),
+(2426667, 31516, 'de', 'Steiniger Boden'),
+(2426744, 31517, 'de', 'South Hill Dorf'),
+(2426898, 31519, 'de', 'Sandy Ground Dorf'),
+(2427052, 31521, 'de', 'Nordseite'),
+(2427129, 31522, 'de', 'North Hill Dorf'),
+(2427668, 31529, 'de', 'Inselhafen'),
+(2427745, 31530, 'de', 'George Hill'),
+(2427899, 31532, 'de', 'East End Dorf'),
+(2428284, 31537, 'de', 'Blowing Point Dorf'),
+(2428438, 31539, 'de', 'Sandy Hill');
+
+SET FOREIGN_KEY_CHECKS=1;

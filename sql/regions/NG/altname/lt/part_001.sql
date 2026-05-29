@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'lt', 'Abija'),
+('NG-AD', 'lt', 'Adamava'),
+('NG-AK', 'lt', 'Ava Ibomo valstija'),
+('NG-AN', 'lt', 'Anambros valstija'),
+('NG-BA', 'lt', 'Baučio valstija'),
+('NG-BE', 'lt', 'Benujės valstija'),
+('NG-BO', 'lt', 'Borno valstija'),
+('NG-BY', 'lt', 'Bajelsos valstija'),
+('NG-CR', 'lt', 'Kros Riverso valstija'),
+('NG-DE', 'lt', 'Deltos valstija'),
+('NG-EB', 'lt', 'Ebondžo valstija'),
+('NG-ED', 'lt', 'Edo valstija'),
+('NG-EK', 'lt', 'Ekičio valstija'),
+('NG-EN', 'lt', 'Enugo valstija'),
+('NG-FC', 'lt', 'Federalinė sostinės teritorija'),
+('NG-GO', 'lt', 'Gombės valstija'),
+('NG-IM', 'lt', 'Imo valstija'),
+('NG-JI', 'lt', 'Džigavos valstija'),
+('NG-KD', 'lt', 'Kadunos valstija'),
+('NG-KE', 'lt', 'Kebio valstija'),
+('NG-KN', 'lt', 'Kano valstija'),
+('NG-KO', 'lt', 'Kogio valstija'),
+('NG-KT', 'lt', 'Katsinos valstija'),
+('NG-KW', 'lt', 'Kvaros valstija'),
+('NG-LA', 'lt', 'Lagos'),
+('NG-NA', 'lt', 'Nasaravos valstija'),
+('NG-NI', 'lt', 'Nigerio valstija'),
+('NG-OG', 'lt', 'Oguno valstija'),
+('NG-ON', 'lt', 'Ondo valstija'),
+('NG-OS', 'lt', 'Osuno valstija'),
+('NG-OY', 'lt', 'Oyo State'),
+('NG-PL', 'lt', 'Plato valstija'),
+('NG-RI', 'lt', 'Riverso valstija'),
+('NG-SO', 'lt', 'Sokoto valstija'),
+('NG-TA', 'lt', 'Tarabos valstija'),
+('NG-YO', 'lt', 'Jobės valstija'),
+('NG-ZA', 'lt', 'Zamfaros valstija');
+
+SET FOREIGN_KEY_CHECKS=1;

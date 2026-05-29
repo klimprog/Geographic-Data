@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('OM-BJ', 'ka', 'ალ ბატინას სამხრეთ გუბერნია'),
+('OM-BS', 'ka', 'ალ ბატინას ჩრდილოეთ გუბერნია'),
+('OM-BU', 'ka', 'მუჰაფაზტ ალ ბურეიმი'),
+('OM-DA', 'ka', 'მუჰაფაზატ ად დახილია'),
+('OM-MA', 'ka', 'მუჰაფაზტ მასკატი'),
+('OM-MU', 'ka', 'მუსანდამი'),
+('OM-SJ', 'ka', 'აშ შარკიია სამხრეთი'),
+('OM-SS', 'ka', 'ეშ შარქიას ჩრდილოეთი გუბერნატორი'),
+('OM-WU', 'ka', 'მუჰაფაზტ ალ ვუსტა'),
+('OM-ZA', 'ka', 'აზ ზაჰირა'),
+('OM-ZU', 'ka', 'დოფარის გუბერნია');
+
+SET FOREIGN_KEY_CHECKS=1;

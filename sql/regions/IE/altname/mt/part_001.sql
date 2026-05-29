@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'mt', 'Connacht'),
+('IE-CE', 'mt', 'Clare'),
+('IE-CN', 'mt', 'Cavan'),
+('IE-CO', 'mt', 'Sufra'),
+('IE-CW', 'mt', 'Carlow'),
+('IE-D', 'mt', 'Dublin'),
+('IE-DL', 'mt', 'Donegal'),
+('IE-G', 'mt', 'Galway'),
+('IE-KE', 'mt', 'Kildare'),
+('IE-KK', 'mt', 'Kilkenny'),
+('IE-KY', 'mt', 'Kerry'),
+('IE-L', 'mt', 'Leinster'),
+('IE-LD', 'mt', 'Longford'),
+('IE-LH', 'mt', 'Louth'),
+('IE-LK', 'mt', 'Limerick'),
+('IE-LM', 'mt', 'Leitrim'),
+('IE-LS', 'mt', 'Laois'),
+('IE-M', 'mt', 'Munster'),
+('IE-MH', 'mt', 'Meath'),
+('IE-MN', 'mt', 'Monaghan'),
+('IE-MO', 'mt', 'Mayo'),
+('IE-OY', 'mt', 'Offaly'),
+('IE-RN', 'mt', 'Roscommon'),
+('IE-SO', 'mt', 'Sligo'),
+('IE-TA', 'mt', 'Tipperary'),
+('IE-U', 'mt', 'Ulster'),
+('IE-WD', 'mt', 'Waterford'),
+('IE-WH', 'mt', 'Westmeath'),
+('IE-WW', 'mt', 'Wicklow'),
+('IE-WX', 'mt', 'Wexford');
+
+SET FOREIGN_KEY_CHECKS=1;

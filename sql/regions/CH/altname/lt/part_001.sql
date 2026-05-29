@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'lt', 'Argau'),
+('CH-AI', 'lt', 'Apencelis-Inerodenas'),
+('CH-AR', 'lt', 'Apencelis-Auserodenas'),
+('CH-BE', 'lt', 'Berno kantonas'),
+('CH-BL', 'lt', 'Bazelio sritis'),
+('CH-BS', 'lt', 'Baselstadas'),
+('CH-FR', 'lt', 'Fribūro kantonas'),
+('CH-GE', 'lt', 'Ženevos kantonas'),
+('CH-GL', 'lt', 'Glaruso kantonas'),
+('CH-GR', 'lt', 'Graubiundenas'),
+('CH-JU', 'lt', 'Juros kantonas'),
+('CH-LU', 'lt', 'Liucernos kantonas'),
+('CH-NE', 'lt', 'Nešatelio kantonas'),
+('CH-NW', 'lt', 'Nidvaldenas'),
+('CH-OW', 'lt', 'Obvaldenas'),
+('CH-SG', 'lt', 'Sankt Galeno kantonas'),
+('CH-SH', 'lt', 'Šafhauzeno kantonas'),
+('CH-SO', 'lt', 'Zoloturno kantonas'),
+('CH-SZ', 'lt', 'Švico kantonas'),
+('CH-TG', 'lt', 'Turgau'),
+('CH-TI', 'lt', 'Tičinas'),
+('CH-UR', 'lt', 'Uris'),
+('CH-VD', 'lt', 'Vo'),
+('CH-VS', 'lt', 'Valė'),
+('CH-ZG', 'lt', 'Cugo kantonas'),
+('CH-ZH', 'lt', 'Ciuricho kantonas');
+
+SET FOREIGN_KEY_CHECKS=1;

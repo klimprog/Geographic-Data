@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170036, 2885326, 'da', 'shumaymat'),
+(222170113, 2885327, 'da', 'Az Zawr'),
+(222170421, 2885331, 'da', 'Hawalli'),
+(222170498, 2885332, 'da', 'duaydat'),
+(222170652, 2885334, 'da', 'dant'),
+(222170729, 2885335, 'da', 'Az Zawr'),
+(222170960, 2885338, 'da', 'Ar Ruhaytah som Sufla'),
+(222171268, 2885342, 'da', 'Al Wafrah'),
+(222171345, 2885343, 'da', 'Al `Udayliyah'),
+(222171730, 2885348, 'da', 'Kuwait'),
+(222171884, 2885350, 'da', 'Al Jahra'),
+(222172038, 2885352, 'da', 'Al Funaytis'),
+(222172192, 2885354, 'da', 'alfntas'),
+(222172269, 2885355, 'da', 'Al Farwaniyah'),
+(222172346, 2885356, 'da', 'aalbidaʿ'),
+(222172577, 2885359, 'da', 'Al-Ahmadi'),
+(222172808, 2885362, 'da', 'Ad Diba''iyah'),
+(222173116, 2885366, 'da', 'aabraq khaytan'),
+(222173193, 2885367, 'da', 'As Salihiyah'),
+(222174348, 2885382, 'da', 'Dødens hovedvej'),
+(222174579, 2885385, 'da', 'Mubarak al Kabir'),
+(222174656, 2885386, 'da', 'Al ''Adan'),
+(222174733, 2885387, 'da', 'Al-Masayel'),
+(222174810, 2885388, 'da', 'Al-Masayel'),
+(222174887, 2885389, 'da', 'Abu Fatira'),
+(222174964, 2885390, 'da', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

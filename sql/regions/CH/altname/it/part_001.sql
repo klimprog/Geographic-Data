@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'it', 'Canton Argovia'),
+('CH-AI', 'it', 'Canton Appenzello Interno'),
+('CH-AR', 'it', 'Canton Appenzello Esterno'),
+('CH-BE', 'it', 'Canton Berna'),
+('CH-BL', 'it', 'Canton Basilea Campagna'),
+('CH-BS', 'it', 'Canton Basilea Città'),
+('CH-FR', 'it', 'Canton Friburgo'),
+('CH-GE', 'it', 'Canton Ginevra'),
+('CH-GL', 'it', 'Canton Glarona'),
+('CH-GR', 'it', 'Cantone dei Grigioni'),
+('CH-JU', 'it', 'Canton Giura'),
+('CH-LU', 'it', 'Canton Lucerna'),
+('CH-NE', 'it', 'Cantone Neuchâtel'),
+('CH-NW', 'it', 'Canton Nidvaldo'),
+('CH-OW', 'it', 'Canton Obvaldo'),
+('CH-SG', 'it', 'Canton San Gallo'),
+('CH-SH', 'it', 'Canton Sciaffusa'),
+('CH-SO', 'it', 'Canton Soletta'),
+('CH-SZ', 'it', 'Canton Svitto'),
+('CH-TG', 'it', 'Canton Turgovia'),
+('CH-TI', 'it', 'Canton Ticino'),
+('CH-UR', 'it', 'Canton Uri'),
+('CH-VD', 'it', 'Canton Vaud'),
+('CH-VS', 'it', 'Canton Vallese'),
+('CH-ZG', 'it', 'Canton di Zugo'),
+('CH-ZH', 'it', 'Cantone di Zurigo');
+
+SET FOREIGN_KEY_CHECKS=1;

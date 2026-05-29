@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IQ-AN', 'am', 'አንባር'),
+('IQ-AR', 'am', 'ኤርቢል'),
+('IQ-BA', 'am', 'ባስራ'),
+('IQ-BB', 'am', 'ባቢል'),
+('IQ-BG', 'am', 'ባግዳድ'),
+('IQ-DA', 'am', 'ዱሆክ'),
+('IQ-DI', 'am', 'ዲያላ'),
+('IQ-DQ', 'am', 'ዲ ቃር'),
+('IQ-KA', 'am', 'ካርባላ'),
+('IQ-KI', 'am', 'ከርኩክ'),
+('IQ-KR', 'am', 'ኢቅሊም ኩርዲስታን'),
+('IQ-MA', 'am', 'ማይሳን'),
+('IQ-MU', 'am', 'ሙታና'),
+('IQ-NA', 'am', 'ናጃፍ'),
+('IQ-NI', 'am', 'ኒነቬህ'),
+('IQ-QA', 'am', 'ቃዲሲያ'),
+('IQ-SD', 'am', 'ሳላህ አድ ዲን'),
+('IQ-SU', 'am', 'ሱሊማኒያ'),
+('IQ-WA', 'am', 'ዋሲት');
+
+SET FOREIGN_KEY_CHECKS=1;

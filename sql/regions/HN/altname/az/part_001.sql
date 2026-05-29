@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HN-AT', 'az', 'Atlantida'),
+('HN-CH', 'az', 'Choluteca'),
+('HN-CL', 'az', 'Colon'),
+('HN-CM', 'az', 'Comayagua'),
+('HN-CP', 'az', 'Copan'),
+('HN-CR', 'az', 'Cortes'),
+('HN-EP', 'az', 'El Paraiso'),
+('HN-FM', 'az', 'Francisco Morazan'),
+('HN-GD', 'az', 'Gracias a Dios'),
+('HN-IB', 'az', 'Bay Islands'),
+('HN-IN', 'az', 'Intibuca'),
+('HN-LE', 'az', 'Lempira'),
+('HN-LP', 'az', 'La Paz'),
+('HN-OC', 'az', 'Ocotepeque'),
+('HN-OL', 'az', 'Olancho'),
+('HN-SB', 'az', 'Santa Barbara'),
+('HN-VA', 'az', 'Valle'),
+('HN-YO', 'az', 'Yoro');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TN-11', 'tl', 'Gouvernorat de Tunis'),
+('TN-12', 'tl', 'Gouvernorat de l''Ariana'),
+('TN-13', 'tl', 'Gouvernorat de Ben Arous'),
+('TN-14', 'tl', 'Manouba'),
+('TN-21', 'tl', 'Gouvernorat de Nabeul'),
+('TN-22', 'tl', 'Gouvernorat de Zaghouan'),
+('TN-23', 'tl', 'Gouvernorat de Bizerte'),
+('TN-31', 'tl', 'Gouvernorat de Beja'),
+('TN-32', 'tl', 'Gouvernorat de Jendouba'),
+('TN-33', 'tl', 'Gouvernorat de Kef'),
+('TN-34', 'tl', 'Gouvernorat de Siliana'),
+('TN-41', 'tl', 'Gouvernorat de Kairouan'),
+('TN-42', 'tl', 'Gouvernorat de Kasserine'),
+('TN-43', 'tl', 'Gouvernorat de Sidi Bouzid'),
+('TN-51', 'tl', 'Gouvernorat de Sousse'),
+('TN-52', 'tl', 'Gouvernorat de Monastir'),
+('TN-53', 'tl', 'Gouvernorat de Mahdia'),
+('TN-61', 'tl', 'Gouvernorat de Sfax'),
+('TN-71', 'tl', 'Gafsa Governorate'),
+('TN-72', 'tl', 'Gouvernorat de Tozeur'),
+('TN-73', 'tl', 'Gouvernorat de Kebili'),
+('TN-81', 'tl', 'Gouvernorat de Gabes'),
+('TN-82', 'tl', 'Gouvernorat de Medenine'),
+('TN-83', 'tl', 'Tataouine');
+
+SET FOREIGN_KEY_CHECKS=1;

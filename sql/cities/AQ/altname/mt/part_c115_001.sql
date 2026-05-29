@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072114, 52885, 'mt', 'Villa Las Estrellas'),
+(4072191, 52886, 'mt', 'Istazzjon Davis'),
+(4072268, 52887, 'mt', 'Bażi Ġenerali Bernardo O''Higgins Riquelme'),
+(4072345, 52888, 'mt', 'Stazzjon Showa'),
+(4072422, 52889, 'mt', 'Stazzjon Jang Bogo'),
+(4072499, 52890, 'mt', 'Istazzjon SANAE IV'),
+(4072576, 52891, 'mt', 'Stazzjon Qinling'),
+(4072653, 52892, 'mt', 'Stazzjon Zhongshan'),
+(4072730, 52893, 'mt', 'Mawson Station'),
+(4072961, 52896, 'mt', 'Stazzjon tal-Progress'),
+(4073192, 52899, 'mt', 'Stazzjon Novolazarevskaya'),
+(4073346, 52901, 'mt', 'Stazzjon Mirny');
+
+SET FOREIGN_KEY_CHECKS=1;

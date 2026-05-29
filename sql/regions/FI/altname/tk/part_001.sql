@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('FI-01', 'tk', 'Landskapet Aland'),
+('FI-02', 'tk', 'Günorta Kareliýa sebiti'),
+('FI-03', 'tk', 'Etelä-Pohjanmaa'),
+('FI-04', 'tk', 'Günorta Sawoniýa'),
+('FI-05', 'tk', 'Kainuu'),
+('FI-06', 'tk', 'Kanta-Haeme'),
+('FI-07', 'tk', 'Keski-Pohjanmaa'),
+('FI-08', 'tk', 'Keski-Suomi'),
+('FI-09', 'tk', 'Kymenlaakso'),
+('FI-10', 'tk', 'Lapland'),
+('FI-11', 'tk', 'Pirkanmaa'),
+('FI-12', 'tk', 'Pohjanmaa'),
+('FI-13', 'tk', 'Pohjois-Karjala'),
+('FI-14', 'tk', 'Pohjois-Pohjanmaa'),
+('FI-15', 'tk', 'Pohjois-Savo'),
+('FI-16', 'tk', 'Paýjat-Hame sebiti'),
+('FI-17', 'tk', 'Satakunta'),
+('FI-18', 'tk', 'Uusimaa'),
+('FI-19', 'tk', 'Warsinais-Suomi');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CV-B', 'aa', 'Ilhaas de Barlavento'),
+('CV-BR', 'aa', 'Konseelo da Biraava'),
+('CV-BV', 'aa', 'Konseelo da Boya Vista'),
+('CV-CA', 'aa', 'Konseelo de Santa Katariina'),
+('CV-CF', 'aa', 'Konseelo de Santa Katariina do Fogo'),
+('CV-CR', 'aa', 'Konseelo de Santa Kuruuz'),
+('CV-MA', 'aa', 'Konseelo do Mayyo'),
+('CV-MO', 'aa', 'Konseelo dos Mosteyiros'),
+('CV-PA', 'aa', 'Konseelo Paaul abe'),
+('CV-PN', 'aa', 'Konseelo do Porto Noovo'),
+('CV-PR', 'aa', 'Konseelo da Piraaya'),
+('CV-RB', 'aa', 'Konseelo da Ribeera Brava'),
+('CV-RG', 'aa', 'Konseelo da Ribeera Giraande'),
+('CV-RS', 'aa', 'Konseelo de Ribeyra Giraande de Santiyaago'),
+('CV-S', 'aa', 'Ilhaas de Sotavento'),
+('CV-SD', 'aa', 'Konseelo de Sao Domingos'),
+('CV-SF', 'aa', 'Konseelo do Sao filipi'),
+('CV-SL', 'aa', NULL),
+('CV-SM', 'aa', 'Konseelo de Sao Miguel'),
+('CV-SO', 'aa', 'Sao Lorenko dos Orgayos'),
+('CV-SS', 'aa', 'Konseelo de Sao Salvador do Mundo'),
+('CV-SV', 'aa', 'Konseelo de Sao Visente'),
+('CV-TA', 'aa', 'Konseelo do Tarrafaal'),
+('CV-TS', 'aa', 'Konseelo do Tarrafaal de Sawo Nikolaawu');
+
+SET FOREIGN_KEY_CHECKS=1;

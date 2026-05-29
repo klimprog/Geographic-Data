@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'ja', 'アビヤン県'),
+('YE-AD', 'ja', 'アデン'),
+('YE-AM', 'ja', 'アムラーン県'),
+('YE-BA', 'ja', 'バイダー県'),
+('YE-DA', 'ja', 'ダーリウ県'),
+('YE-DH', 'ja', 'ザマール県'),
+('YE-HD', 'ja', 'ハドラマウト県'),
+('YE-HJ', 'ja', 'ハッジャ県'),
+('YE-HU', 'ja', 'フダイダ県'),
+('YE-IB', 'ja', 'イッブ県'),
+('YE-JA', 'ja', 'ジャウフ県'),
+('YE-LA', 'ja', 'ラヒジュ県'),
+('YE-MA', 'ja', 'マアリブ県'),
+('YE-MR', 'ja', 'マフラ県'),
+('YE-MW', 'ja', 'マフウィート県'),
+('YE-RA', 'ja', 'ライマ県'),
+('YE-SA', 'ja', 'アマナト・アルアスィマ'),
+('YE-SD', 'ja', 'サアダ県'),
+('YE-SH', 'ja', 'シャブワ県'),
+('YE-SN', 'ja', 'サナア県'),
+('YE-SU', 'ja', 'ソコトラ県'),
+('YE-TA', 'ja', 'タイズ県');
+
+SET FOREIGN_KEY_CHECKS=1;

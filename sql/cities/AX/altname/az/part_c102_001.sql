@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(7765146, 100847, 'az', 'Ytterby'),
+(7765300, 100849, 'az', 'Vardoe'),
+(7765839, 100856, 'az', 'Sund'),
+(7765916, 100857, 'az', 'Sottunga'),
+(7766455, 100864, 'az', 'Seglinge'),
+(7766532, 100865, 'az', 'Saltvik'),
+(7766994, 100871, 'az', 'OEnningby'),
+(7767302, 100875, 'az', 'Lumparland'),
+(7767610, 100879, 'az', 'Lemland'),
+(7767918, 100883, 'az', 'Kumlinge'),
+(7768226, 100887, 'az', 'Koekar'),
+(7769304, 100901, 'az', 'Godby'),
+(7769458, 100903, 'az', 'Foegloe'),
+(7770074, 100911, 'az', 'Braendoe'),
+(7771229, 100926, 'az', 'Nygard'),
+(7774848, 100973, 'az', 'Tjudo'),
+(7775156, 100977, 'az', 'Storby'),
+(7776773, 100998, 'az', 'Mariehamn'),
+(7777389, 101006, 'az', 'Jomala'),
+(7777851, 101012, 'az', 'Hammarland'),
+(7778082, 101015, 'az', 'Geta'),
+(7778236, 101017, 'az', 'Finstroem'),
+(7778467, 101020, 'az', 'Eckeroe'),
+(7779622, 101035, 'az', 'Attbole'),
+(7788246, 101147, 'az', 'Yomala');
+
+SET FOREIGN_KEY_CHECKS=1;

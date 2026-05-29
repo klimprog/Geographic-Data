@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GH-AA', 'ro', 'Regiunea Marea Accra'),
+('GH-AF', 'ro', 'Ahafo Region'),
+('GH-AH', 'ro', 'Regiunea Ashanti'),
+('GH-BE', 'ro', 'Bono East Region'),
+('GH-BO', 'ro', 'Bono Region'),
+('GH-CP', 'ro', 'Regiunea Orientală'),
+('GH-EP', 'ro', 'Regiunea Orientală'),
+('GH-NE', 'ro', 'North East Region'),
+('GH-NP', 'ro', 'Regiunea de Nord'),
+('GH-OT', 'ro', 'Oti Region'),
+('GH-SV', 'ro', 'Savannah Region'),
+('GH-TV', 'ro', 'Regiunea Volta'),
+('GH-UE', 'ro', 'Regiunea Superioară de Est'),
+('GH-UW', 'ro', 'Regiunea Superioară de Vest'),
+('GH-WN', 'ro', 'Western North Region'),
+('GH-WP', 'ro', 'Regiunea de Vest');
+
+SET FOREIGN_KEY_CHECKS=1;

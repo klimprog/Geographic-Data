@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'ja', 'バルフ州'),
+('AF-BAM', 'ja', 'バーミヤーン州'),
+('AF-BDG', 'ja', 'バードギース州'),
+('AF-BDS', 'ja', 'バダフシャーン州'),
+('AF-BGL', 'ja', 'バグラーン州'),
+('AF-DAY', 'ja', 'ダーイクンディー州'),
+('AF-FRA', 'ja', 'ファラー州'),
+('AF-FYB', 'ja', 'ファーリヤーブ州'),
+('AF-GHA', 'ja', 'ガズニー州'),
+('AF-GHO', 'ja', 'ゴール州'),
+('AF-HEL', 'ja', 'ヘルマンド州'),
+('AF-HER', 'ja', 'ヘラート州'),
+('AF-JOW', 'ja', 'ジューズジャーン州'),
+('AF-KAB', 'ja', 'カーブル州'),
+('AF-KAN', 'ja', 'カンダハール州'),
+('AF-KAP', 'ja', 'カーピーサー州'),
+('AF-KDZ', 'ja', 'クンドゥーズ州'),
+('AF-KHO', 'ja', 'ホースト州'),
+('AF-KNR', 'ja', 'クナル州'),
+('AF-LAG', 'ja', 'ラグマーン州'),
+('AF-LOG', 'ja', 'ローガル州'),
+('AF-NAN', 'ja', 'ナンガルハール州'),
+('AF-NIM', 'ja', 'ニムロズ州'),
+('AF-NUR', 'ja', 'ヌーリスターン州'),
+('AF-PAN', 'ja', 'パンジシール州'),
+('AF-PAR', 'ja', 'パルワン州'),
+('AF-PIA', 'ja', 'パクティヤー州'),
+('AF-PKA', 'ja', 'パクティーカー州'),
+('AF-SAM', 'ja', 'サマンガーン州'),
+('AF-SAR', 'ja', 'サーレポル州'),
+('AF-TAK', 'ja', 'タハール州'),
+('AF-URU', 'ja', 'ウルーズガーン州'),
+('AF-WAR', 'ja', 'マイダンワルダク州'),
+('AF-ZAB', 'ja', 'ザーブル州');
+
+SET FOREIGN_KEY_CHECKS=1;

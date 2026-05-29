@@ -1,0 +1,9 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(265581781, 3449115, 'ar', 'كينغستون'),
+(265581858, 3449116, 'ar', 'تتالي'),
+(265581935, 3449117, 'ar', 'بُرنت پِنِ');
+
+SET FOREIGN_KEY_CHECKS=1;

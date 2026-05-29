@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072086, 52885, 'et', 'Villa Las Estrellas'),
+(4072163, 52886, 'et', 'Davise jaam'),
+(4072240, 52887, 'et', 'Baasikindral Bernardo O''Higgins Riquelme'),
+(4072317, 52888, 'et', 'Showa jaam'),
+(4072394, 52889, 'et', 'Jang Bogo jaam'),
+(4072471, 52890, 'et', 'SANAE IV jaam'),
+(4072548, 52891, 'et', 'Qinlingi jaam'),
+(4072625, 52892, 'et', 'Zhongshani jaam'),
+(4072702, 52893, 'et', 'Mawsoni jaam'),
+(4072933, 52896, 'et', 'Progressi jaam'),
+(4073164, 52899, 'et', 'Novolazarevskaja jaam'),
+(4073318, 52901, 'et', 'Mirnõi');
+
+SET FOREIGN_KEY_CHECKS=1;

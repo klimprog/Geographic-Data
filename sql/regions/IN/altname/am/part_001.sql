@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'am', 'አንዳማን እና ኒኮባር'),
+('IN-AP', 'am', 'አንድራ ፕራዴሽ'),
+('IN-AR', 'am', 'አሩናቻል ፕራዴሽ'),
+('IN-AS', 'am', 'አሳም'),
+('IN-BR', 'am', 'ቢሃር'),
+('IN-CG', 'am', 'ቻቲስጋር'),
+('IN-CH', 'am', 'ቻንዲጋር'),
+('IN-DH', 'am', 'ዳድራ እና ናጋር ሃቨሊ እና ዳማን እና ዲዩ'),
+('IN-DL', 'am', 'ዴሊ'),
+('IN-GA', 'am', 'ጋዋ'),
+('IN-GJ', 'am', 'ጉጃራት'),
+('IN-HP', 'am', 'ሂማቻል Pradesh'),
+('IN-HR', 'am', 'ሃሪያና'),
+('IN-JH', 'am', 'ጆርካንድ'),
+('IN-JK', 'am', 'ጃሙ እና ካሽሚር'),
+('IN-KA', 'am', 'ካርናታካ'),
+('IN-KL', 'am', 'ኬራላ'),
+('IN-LA', 'am', 'ላዳክ'),
+('IN-LD', 'am', 'ላካዲቭ'),
+('IN-MH', 'am', 'ማሃራሺራ'),
+('IN-ML', 'am', 'ሜጋላያ'),
+('IN-MN', 'am', 'ማኒፑር'),
+('IN-MP', 'am', 'መካከለኛ Pradesh'),
+('IN-MZ', 'am', 'ሚዞራም'),
+('IN-NL', 'am', 'ናጋላንድ'),
+('IN-OD', 'am', 'ኦዲሻ'),
+('IN-PB', 'am', 'ፓንጃብ'),
+('IN-PY', 'am', 'ፑዱቼሪ'),
+('IN-RJ', 'am', 'ራጃስታን'),
+('IN-SK', 'am', 'ሲኪም'),
+('IN-TN', 'am', 'ታሚል ናዱ'),
+('IN-TR', 'am', 'ትሪፑራ'),
+('IN-TS', 'am', 'ቴላንጋና'),
+('IN-UK', 'am', 'ውታራካንድ'),
+('IN-UP', 'am', 'ሰሜን Pradesh'),
+('IN-WB', 'am', 'ምዕራብ Bengal');
+
+SET FOREIGN_KEY_CHECKS=1;

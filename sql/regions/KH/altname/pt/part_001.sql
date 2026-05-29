@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KH-1', 'pt', 'Banteay Meanchey'),
+('KH-10', 'pt', 'Kratie'),
+('KH-11', 'pt', 'Mondolkiri'),
+('KH-12', 'pt', 'Phnom Penh'),
+('KH-13', 'pt', 'Preah Vihear'),
+('KH-14', 'pt', 'Prey Veng'),
+('KH-15', 'pt', 'Pursat'),
+('KH-16', 'pt', 'Ratanakiri'),
+('KH-17', 'pt', 'Siem Reap'),
+('KH-18', 'pt', 'Preah Sihanouk'),
+('KH-19', 'pt', 'Stung Treng'),
+('KH-2', 'pt', 'Battambang'),
+('KH-20', 'pt', 'Svay Rieng'),
+('KH-21', 'pt', 'Takeo'),
+('KH-22', 'pt', 'Oddar Mean Cheay'),
+('KH-23', 'pt', 'Keb'),
+('KH-24', 'pt', 'Pailin'),
+('KH-25', 'pt', 'Tboung Khmum'),
+('KH-3', 'pt', 'Kampong Cham'),
+('KH-4', 'pt', 'Kampong Chhnang'),
+('KH-5', 'pt', 'Kampong Speu'),
+('KH-6', 'pt', 'Kampong Thom'),
+('KH-7', 'pt', 'Kampot'),
+('KH-8', 'pt', 'Kandal'),
+('KH-9', 'pt', 'Koh Kong');
+
+SET FOREIGN_KEY_CHECKS=1;

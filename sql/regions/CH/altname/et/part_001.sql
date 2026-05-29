@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'et', 'Aargau kanton'),
+('CH-AI', 'et', 'Appenzell Innerrhoden'),
+('CH-AR', 'et', 'Appenzell Ausserrhoden'),
+('CH-BE', 'et', 'Berni kanton'),
+('CH-BL', 'et', 'Basel-Landschaft'),
+('CH-BS', 'et', 'Basel-Stadt'),
+('CH-FR', 'et', 'Fribourgi kanton'),
+('CH-GE', 'et', 'Genfi kanton'),
+('CH-GL', 'et', 'Glaruse kanton'),
+('CH-GR', 'et', 'Graubündeni kanton'),
+('CH-JU', 'et', 'Jura kanton'),
+('CH-LU', 'et', 'Luzerni kanton'),
+('CH-NE', 'et', 'Neuchâteli kanton'),
+('CH-NW', 'et', 'Nidwalden'),
+('CH-OW', 'et', 'Obwalden'),
+('CH-SG', 'et', 'Sankt Galleni kanton'),
+('CH-SH', 'et', 'Schaffhauseni kanton'),
+('CH-SO', 'et', 'Solothurni kanton'),
+('CH-SZ', 'et', 'Schwyzi kanton'),
+('CH-TG', 'et', 'Thurgau kanton'),
+('CH-TI', 'et', 'Ticino kanton'),
+('CH-UR', 'et', 'Uri kanton'),
+('CH-VD', 'et', 'Vaud'' kanton'),
+('CH-VS', 'et', 'Valais'' kanton'),
+('CH-ZG', 'et', 'Zugi kanton'),
+('CH-ZH', 'et', 'Zürichi kanton');
+
+SET FOREIGN_KEY_CHECKS=1;

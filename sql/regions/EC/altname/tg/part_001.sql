@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'tg', 'Асуай'),
+('EC-B', 'tg', 'Боливар'),
+('EC-C', 'tg', 'Карчи'),
+('EC-D', 'tg', 'Вилояти Orellana'),
+('EC-E', 'tg', 'Эсмеральдас'),
+('EC-F', 'tg', 'Канар'),
+('EC-G', 'tg', 'Гуаяс'),
+('EC-H', 'tg', 'Вилояти Chimborazo'),
+('EC-I', 'tg', 'Имбабура'),
+('EC-L', 'tg', 'Лоха'),
+('EC-M', 'tg', 'Манаби'),
+('EC-N', 'tg', 'Напо'),
+('EC-O', 'tg', 'Эль-Оро'),
+('EC-P', 'tg', 'Пичинча'),
+('EC-R', 'tg', 'Лос-Риос'),
+('EC-S', 'tg', 'Вилояти Morona-Santiago'),
+('EC-SD', 'tg', 'Santo Domingo de los Tsachilas'),
+('EC-SE', 'tg', 'Санта-Елена'),
+('EC-T', 'tg', 'Вилояти Tungurahua'),
+('EC-U', 'tg', 'Сукумбиос'),
+('EC-W', 'tg', 'Галапагос'),
+('EC-X', 'tg', 'Котопахи'),
+('EC-Y', 'tg', 'Вилояти Pastaza'),
+('EC-Z', 'tg', 'Замора Чинчипе');
+
+SET FOREIGN_KEY_CHECKS=1;

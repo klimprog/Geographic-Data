@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PT-01', 'ms', 'Aveiro'),
+('PT-02', 'ms', 'Daerah Beja'),
+('PT-03', 'ms', 'Daerah Braga'),
+('PT-04', 'ms', 'Daerah Bragança'),
+('PT-05', 'ms', 'Daerah Castelo Branco'),
+('PT-06', 'ms', 'Daerah Coimbra'),
+('PT-07', 'ms', 'Daerah Évora'),
+('PT-08', 'ms', 'Daerah Faro'),
+('PT-09', 'ms', 'Daerah Guarda'),
+('PT-10', 'ms', 'Daerah Leiria'),
+('PT-11', 'ms', 'Daerah Lisboa'),
+('PT-12', 'ms', 'Daerah Portalegre'),
+('PT-13', 'ms', 'Daerah Porto'),
+('PT-14', 'ms', 'Daerah Santarém'),
+('PT-15', 'ms', 'Daerah Setúbal'),
+('PT-16', 'ms', 'Daerah Viana do Castelo'),
+('PT-17', 'ms', 'Daerah Vila Real'),
+('PT-18', 'ms', 'Daerah Viseu'),
+('PT-20', 'ms', 'Azores'),
+('PT-30', 'ms', 'Madeira');
+
+SET FOREIGN_KEY_CHECKS=1;

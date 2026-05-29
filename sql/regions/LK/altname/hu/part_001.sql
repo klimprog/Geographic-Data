@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'hu', 'Nyugati tartomány'),
+('LK-11', 'hu', 'Colombo'),
+('LK-12', 'hu', 'Gampaha'),
+('LK-13', 'hu', 'Kalutara'),
+('LK-2', 'hu', 'Központi tartomány'),
+('LK-21', 'hu', 'Kandy'),
+('LK-22', 'hu', 'Matale'),
+('LK-23', 'hu', 'Nuwara Eliya'),
+('LK-3', 'hu', 'Déli tartomány'),
+('LK-31', 'hu', 'Galle'),
+('LK-32', 'hu', 'Matara'),
+('LK-33', 'hu', 'Hambantota'),
+('LK-4', 'hu', 'Északi tartomány'),
+('LK-41', 'hu', 'Jaffna'),
+('LK-42', 'hu', 'Kilinochchi'),
+('LK-43', 'hu', 'Mannar'),
+('LK-44', 'hu', 'Vavuniya'),
+('LK-45', 'hu', 'Mullaittivu'),
+('LK-5', 'hu', 'Keleti tartomány'),
+('LK-51', 'hu', 'Batticaloa'),
+('LK-52', 'hu', 'Ampara'),
+('LK-53', 'hu', 'Trincomalee'),
+('LK-6', 'hu', 'Északnyugati tartomány'),
+('LK-61', 'hu', 'Kurunegala'),
+('LK-62', 'hu', 'Puttalam'),
+('LK-7', 'hu', 'Észak-Közép tartomány'),
+('LK-71', 'hu', 'Anuradhapura'),
+('LK-72', 'hu', 'Polonnaruwa'),
+('LK-8', 'hu', NULL),
+('LK-81', 'hu', 'Badulla'),
+('LK-82', 'hu', 'Monaragala'),
+('LK-9', 'hu', 'Sabaragamuwa tartomány'),
+('LK-91', 'hu', 'Ratnapura'),
+('LK-92', 'hu', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

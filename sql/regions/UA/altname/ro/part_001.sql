@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'ro', 'Regiunea Vinița'),
+('UA-07', 'ro', 'Regiunea Volîn'),
+('UA-09', 'ro', 'regiunea Luhansk'),
+('UA-12', 'ro', 'Regiunea Dnipropetrovsk'),
+('UA-14', 'ro', 'Донецк'),
+('UA-18', 'ro', 'Regiunea Jîtomîr'),
+('UA-21', 'ro', 'Regiunea Transcarpatia'),
+('UA-23', 'ro', 'Regiunea Zaporijjea'),
+('UA-26', 'ro', 'Ивано-Франковск'),
+('UA-30', 'ro', 'Regiunea Kiev'),
+('UA-32', 'ro', 'Regiunea Kiev'),
+('UA-35', 'ro', 'Regiunea Kirovohrad'),
+('UA-40', 'ro', 'Orașul Sebastopol'),
+('UA-43', 'ro', 'Republica Autonomă Crimeea'),
+('UA-46', 'ro', 'Regiunea Liov'),
+('UA-48', 'ro', 'Regiunea Mîkolaiiv'),
+('UA-51', 'ro', 'Одесса'),
+('UA-53', 'ro', 'Regiunea Poltava'),
+('UA-56', 'ro', 'Regiunea Rivne'),
+('UA-59', 'ro', 'Regiunea Sumî'),
+('UA-61', 'ro', 'Regiunea Ternopil'),
+('UA-63', 'ro', 'Regiunea Harkov'),
+('UA-65', 'ro', 'Regiunea Herson'),
+('UA-68', 'ro', 'Regiunea Hmelnîțkîi'),
+('UA-71', 'ro', 'Regiunea Cerkasî'),
+('UA-74', 'ro', 'Regiunea Cernihiv'),
+('UA-77', 'ro', 'Regiunea Cernăuți');
+
+SET FOREIGN_KEY_CHECKS=1;

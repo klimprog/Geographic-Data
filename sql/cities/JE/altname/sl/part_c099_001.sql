@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(210642337, 2735615, 'sl', 'Sveti Janez'),
+(210642414, 2735616, 'sl', 'Saint Helier'),
+(210642722, 2735620, 'sl', 'Spodnji Blanc Pignon'),
+(210642953, 2735623, 'sl', 'La Hougue'),
+(210643415, 2735629, 'sl', 'Beaumont'),
+(210644647, 2735645, 'sl', 'Trinity'),
+(210644801, 2735647, 'sl', 'St Brelade'),
+(210644878, 2735648, 'sl', 'Sveti Lovrenc'),
+(210644955, 2735649, 'sl', 'Grouville'),
+(210645032, 2735650, 'sl', 'Sveti Klemen'),
+(210645186, 2735652, 'sl', 'La Greve de Lecq'),
+(210645263, 2735653, 'sl', 'Huto-Mariatyn'),
+(210645340, 2735654, 'sl', 'Five Oaks'),
+(210645417, 2735655, 'sl', 'St Peters Village'),
+(210645725, 2735659, 'sl', 'La Fontaine'),
+(210645879, 2735661, 'sl', 'La Porte'),
+(210645956, 2735662, 'sl', 'Les Labeurs'),
+(210646033, 2735663, 'sl', 'La Crabiere'),
+(210646110, 2735664, 'sl', 'Vas St Ouen'),
+(210646264, 2735666, 'sl', 'Creux Baillot'),
+(210646495, 2735669, 'sl', 'La Caroline'),
+(210646572, 2735670, 'sl', 'L''Amiral'),
+(210646649, 2735671, 'sl', 'Le Port'),
+(210646957, 2735675, 'sl', 'La Corbiere'),
+(210647111, 2735677, 'sl', 'Le Hocq'),
+(210647342, 2735680, 'sl', 'Trinity Manor'),
+(210647496, 2735682, 'sl', 'Le Hurrel'),
+(210647573, 2735683, 'sl', 'Les Vaux'),
+(210647650, 2735684, 'sl', 'Victoria Village'),
+(210647804, 2735686, 'sl', 'Les Carrieres'),
+(210648035, 2735689, 'sl', 'Le Bas de Lecq');
+
+SET FOREIGN_KEY_CHECKS=1;

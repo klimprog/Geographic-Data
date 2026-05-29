@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'mt', 'Voivodeship ta'' Lower Silesian'),
+('PL-04', 'mt', 'Voivodeship Kujavian-Pomeranian'),
+('PL-06', 'mt', 'Voivodeship ta’ Lublin'),
+('PL-08', 'mt', 'Voivodeship ta’ Lubusz'),
+('PL-10', 'mt', 'Voivodeship ta'' Lodz'),
+('PL-12', 'mt', 'Reġjun ta'' Małopolskie'),
+('PL-14', 'mt', 'Voivodeship tal-Mazovja'),
+('PL-16', 'mt', 'Voivodeship ta'' Opole'),
+('PL-18', 'mt', 'Voivodeship Podkarpackie'),
+('PL-20', 'mt', 'Voivodeship Podlaskie'),
+('PL-22', 'mt', 'Vojvodat ta'' Pomeranja'),
+('PL-24', 'mt', 'Voivodeship tas-Silesja'),
+('PL-26', 'mt', 'Voivodeship Swietokrzyskie'),
+('PL-28', 'mt', 'Voivodeship Warmian-Masurian'),
+('PL-30', 'mt', 'Voivodeship tal-Polonja l-Kbira'),
+('PL-32', 'mt', 'Voivodeship tal-Pomeranja tal-Punent');
+
+SET FOREIGN_KEY_CHECKS=1;

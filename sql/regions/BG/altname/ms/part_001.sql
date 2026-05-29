@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'ms', 'Blagoevgrad'),
+('BG-02', 'ms', 'Burgas'),
+('BG-03', 'ms', 'Varna'),
+('BG-04', 'ms', 'Veliko Tarnovo'),
+('BG-05', 'ms', 'Vidin'),
+('BG-06', 'ms', 'Vratsa'),
+('BG-07', 'ms', 'Gabrovo'),
+('BG-08', 'ms', 'Dobrich'),
+('BG-09', 'ms', 'Kardzhali'),
+('BG-10', 'ms', 'Kyustendil'),
+('BG-11', 'ms', 'Lovech'),
+('BG-12', 'ms', 'Montana'),
+('BG-13', 'ms', 'Pazardzhik'),
+('BG-14', 'ms', 'Pernik'),
+('BG-15', 'ms', 'Pleven'),
+('BG-16', 'ms', 'Plovdiv'),
+('BG-17', 'ms', 'Razgrad'),
+('BG-18', 'ms', 'Ruse'),
+('BG-19', 'ms', 'Silistra'),
+('BG-20', 'ms', 'Sliven'),
+('BG-21', 'ms', 'Smolyan'),
+('BG-22', 'ms', 'Sofia-Capital'),
+('BG-23', 'ms', 'Sofia'),
+('BG-24', 'ms', 'Stara Zagora'),
+('BG-25', 'ms', 'Targovishte'),
+('BG-26', 'ms', 'Haskovo'),
+('BG-27', 'ms', 'Shumen'),
+('BG-28', 'ms', 'Yambol');
+
+SET FOREIGN_KEY_CHECKS=1;

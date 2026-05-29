@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CM-AD', 'mh', 'Adamaoua Region'),
+('CM-CE', 'mh', 'Centre'),
+('CM-EN', 'mh', 'Far North'),
+('CM-ES', 'mh', 'East'),
+('CM-LT', 'mh', 'Littoral'),
+('CM-NO', 'mh', 'North Region'),
+('CM-NW', 'mh', 'North-West Region'),
+('CM-OU', 'mh', 'West Region'),
+('CM-SU', 'mh', 'South'),
+('CM-SW', 'mh', 'South-West Region');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CU-01', 'en', 'Pinar del Río'),
+('CU-03', 'en', 'Havana'),
+('CU-04', 'en', 'Matanzas'),
+('CU-05', 'en', 'Villa Clara'),
+('CU-06', 'en', 'Cienfuegos'),
+('CU-07', 'en', 'Sancti Spíritus'),
+('CU-08', 'en', 'Ciego de Ávila'),
+('CU-09', 'en', 'Camagüey'),
+('CU-10', 'en', 'Las Tunas'),
+('CU-11', 'en', 'Holguín'),
+('CU-12', 'en', 'Granma'),
+('CU-13', 'en', 'Santiago de Cuba'),
+('CU-14', 'en', 'Guantánamo'),
+('CU-15', 'en', 'Artemisa'),
+('CU-16', 'en', 'Mayabeque'),
+('CU-99', 'en', 'Isla de la Juventud');
+
+SET FOREIGN_KEY_CHECKS=1;

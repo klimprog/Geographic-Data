@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LY-BA', 'ca', 'Bengasi'),
+('LY-BU', 'ca', 'Al Butnan'),
+('LY-DR', 'ca', 'Derna'),
+('LY-GT', 'ca', 'Districte de Ghat'),
+('LY-JA', 'ca', 'Al Jabal al Akhdar'),
+('LY-JG', 'ca', 'Al Jabal al Gharbi'),
+('LY-JI', 'ca', 'Al Jfara'),
+('LY-JU', 'ca', 'Al Jufrah'),
+('LY-KF', 'ca', 'Al Kufrah'),
+('LY-MB', 'ca', 'Al Murgub'),
+('LY-MI', 'ca', 'Misurata'),
+('LY-MJ', 'ca', 'Al Marj'),
+('LY-MQ', 'ca', 'Murzuk'),
+('LY-NL', 'ca', 'Nalut'),
+('LY-NQ', 'ca', 'An Nuqat al Khams'),
+('LY-SB', 'ca', 'Sabha'),
+('LY-SR', 'ca', 'Sirte'),
+('LY-TB', 'ca', 'Trípoli'),
+('LY-WA', 'ca', 'Al Wahat'),
+('LY-WD', 'ca', 'Wadi Al Hayaa'),
+('LY-WS', 'ca', 'districte de Wadi Al Shatii'),
+('LY-ZA', 'ca', 'Zauiya');
+
+SET FOREIGN_KEY_CHECKS=1;

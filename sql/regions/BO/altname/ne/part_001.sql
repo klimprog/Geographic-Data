@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BO-B', 'ne', 'एल बेनी'),
+('BO-C', 'ne', 'कोचाबाम्बा विभाग'),
+('BO-H', 'ne', 'देपर्तामेंतो दे छुक़ुइसच'),
+('BO-L', 'ne', 'डिपार्टमेन्ट डे ला पाज'),
+('BO-N', 'ne', 'देपर्तामेंतो दे पँदो'),
+('BO-O', 'ne', 'देपर्तामेंतो दे ओरुरो'),
+('BO-P', 'ne', 'पोटोसी विभाग'),
+('BO-S', 'ne', 'सान्ता क्रुज विभाग'),
+('BO-T', 'ne', 'डिपार्टमेन्ट डे टारिजा');
+
+SET FOREIGN_KEY_CHECKS=1;

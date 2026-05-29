@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KH-1', 'et', 'Bântéay Méan Cheăy provints'),
+('KH-10', 'et', 'Krâchéhi provints'),
+('KH-11', 'et', 'Môndôl Kĭri provints'),
+('KH-12', 'et', 'Phnom Penh'),
+('KH-13', 'et', 'Preăh Vĭhéari provints'),
+('KH-14', 'et', 'Prey Vêngi provints'),
+('KH-15', 'et', 'Poŭthĭsăti provints'),
+('KH-16', 'et', 'Rôtânăh Kĭri provints'),
+('KH-17', 'et', 'Siĕm Réabi provints'),
+('KH-18', 'et', 'Preăh Seihânŭ'),
+('KH-19', 'et', 'Stœ̆ng Trêngi provints'),
+('KH-2', 'et', 'Bătdâmbângi provints'),
+('KH-20', 'et', 'Svay Riĕngi provints'),
+('KH-21', 'et', 'Takêvi provints'),
+('KH-22', 'et', 'Ŏtdâr Méan Cheăy provints'),
+('KH-23', 'et', 'Kêbi provints'),
+('KH-24', 'et', 'Pailĭn'),
+('KH-25', 'et', 'Tbong Khmŭmi provints'),
+('KH-3', 'et', 'Kâmpóng Chami provints'),
+('KH-4', 'et', 'Kâmpóng Chhnăngi provints'),
+('KH-5', 'et', 'Kâmpóng Speu provints'),
+('KH-6', 'et', 'Kâmpóng Thumi provints'),
+('KH-7', 'et', 'Kâmpôti provints'),
+('KH-8', 'et', 'Kândali provints'),
+('KH-9', 'et', 'Kaôh Kŏngi provints');
+
+SET FOREIGN_KEY_CHECKS=1;

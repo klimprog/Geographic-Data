@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'hr', 'Balkh'),
+('AF-BAM', 'hr', 'Wilayat-e Bamyan'),
+('AF-BDG', 'hr', 'Badgis'),
+('AF-BDS', 'hr', 'Provincija Badakhšan'),
+('AF-BGL', 'hr', 'Wilayat-e Baghlan'),
+('AF-DAY', 'hr', 'Pokrajina Daykundi'),
+('AF-FRA', 'hr', 'Farah'),
+('AF-FYB', 'hr', 'Pokrajina Faryab'),
+('AF-GHA', 'hr', 'Wilayat-e Ghazni'),
+('AF-GHO', 'hr', 'Wilayat-e Ghor'),
+('AF-HEL', 'hr', 'Helmand'),
+('AF-HER', 'hr', 'Herat'),
+('AF-JOW', 'hr', 'Wilayat-e Jowzjan'),
+('AF-KAB', 'hr', 'Wilayat-e Kabul'),
+('AF-KAN', 'hr', 'Kandahar'),
+('AF-KAP', 'hr', 'Wilayat-e Kapisa'),
+('AF-KDZ', 'hr', 'Kunduz'),
+('AF-KHO', 'hr', 'Velayat-e Khowst'),
+('AF-KNR', 'hr', 'Wilayat-e Kunar'),
+('AF-LAG', 'hr', 'Wilayat-e Laghman'),
+('AF-LOG', 'hr', 'Wilayat-e Logar'),
+('AF-NAN', 'hr', 'Nangarhar'),
+('AF-NIM', 'hr', 'Wilayat-e Nimroz'),
+('AF-NUR', 'hr', 'Velayat-e Nurestan'),
+('AF-PAN', 'hr', 'Panjshir'),
+('AF-PAR', 'hr', 'Parwan'),
+('AF-PIA', 'hr', 'Wilayat-e Paktiya'),
+('AF-PKA', 'hr', 'Wilayat-e Paktika'),
+('AF-SAM', 'hr', 'Samangan'),
+('AF-SAR', 'hr', 'Sar-e Pul'),
+('AF-TAK', 'hr', 'Wilayat-e Takhar'),
+('AF-URU', 'hr', 'Uruzgan'),
+('AF-WAR', 'hr', 'Wardak'),
+('AF-ZAB', 'hr', 'Wilayat-e Zabul');
+
+SET FOREIGN_KEY_CHECKS=1;

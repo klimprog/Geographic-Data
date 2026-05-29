@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(318393182, 4134977, 'it', 'Thornton'),
+(318393259, 4134978, 'it', 'Georgetown'),
+(318393336, 4134979, 'it', 'Edinburgh of the Seven Seas'),
+(318393490, 4134981, 'it', 'Edimburgo dei Sette Mari'),
+(318393798, 4134985, 'it', 'Jamestown'),
+(318394183, 4134990, 'it', 'Alarm Forest'),
+(318394260, 4134991, 'it', 'Blue Hill'),
+(318394337, 4134992, 'it', 'Cat Hill US Military Base'),
+(318394414, 4134993, 'it', 'Sandy Bay'),
+(318394491, 4134994, 'it', 'St. Paul''s'),
+(318394645, 4134996, 'it', 'Mersane');
+
+SET FOREIGN_KEY_CHECKS=1;

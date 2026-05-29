@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'ru', 'Абьян'),
+('YE-AD', 'ru', 'Аден'),
+('YE-AM', 'ru', 'Амран'),
+('YE-BA', 'ru', 'Эль-Бейда'),
+('YE-DA', 'ru', 'Эд-Дали'),
+('YE-DH', 'ru', 'Дамар'),
+('YE-HD', 'ru', 'Хадрамаут'),
+('YE-HJ', 'ru', 'Хадджа'),
+('YE-HU', 'ru', 'Ходейда'),
+('YE-IB', 'ru', 'Ибб'),
+('YE-JA', 'ru', 'Эль-Джауф'),
+('YE-LA', 'ru', 'Лахдж'),
+('YE-MA', 'ru', 'Мариб'),
+('YE-MR', 'ru', 'Эль-Махра'),
+('YE-MW', 'ru', 'Махвит'),
+('YE-RA', 'ru', 'Райма'),
+('YE-SA', 'ru', 'Аманат аласима'),
+('YE-SD', 'ru', 'Саада'),
+('YE-SH', 'ru', 'Шабва'),
+('YE-SN', 'ru', 'Сана'),
+('YE-SU', 'ru', 'Сокотра'),
+('YE-TA', 'ru', 'Таиз');
+
+SET FOREIGN_KEY_CHECKS=1;

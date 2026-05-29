@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'et', 'Amazonase departemang'),
+('CO-ANT', 'et', 'Antioquia departemang'),
+('CO-ARA', 'et', 'Arauca'),
+('CO-ATL', 'et', 'Atlantico'),
+('CO-BOL', 'et', 'Bolivar'),
+('CO-BOY', 'et', 'Boyaca'),
+('CO-CAL', 'et', 'Caldas'),
+('CO-CAQ', 'et', 'Caqueta'),
+('CO-CAS', 'et', 'Casanare'),
+('CO-CAU', 'et', 'Cauca'),
+('CO-CES', 'et', 'Cesar'),
+('CO-CHO', 'et', 'Chocó departemang'),
+('CO-COR', 'et', 'Córdoba departemang'),
+('CO-CUN', 'et', 'Cundinamarca'),
+('CO-DC', 'et', 'Distrito Capital de Bogota'),
+('CO-GUA', 'et', 'Guainia'),
+('CO-GUV', 'et', 'Guaviare'),
+('CO-HUI', 'et', 'Huila'),
+('CO-LAG', 'et', 'La Guajira'),
+('CO-MAG', 'et', 'Magdalena'),
+('CO-MET', 'et', 'Departamento del Meta'),
+('CO-NAR', 'et', 'Nariño departemang'),
+('CO-NSA', 'et', 'Norte de Santander'),
+('CO-PUT', 'et', 'Putumayo'),
+('CO-QUI', 'et', 'Quindio osakond'),
+('CO-RIS', 'et', 'Risaralda'),
+('CO-SAN', 'et', 'Santander'),
+('CO-SAP', 'et', 'San Andres y Providencia'),
+('CO-SUC', 'et', 'Sucre'),
+('CO-TOL', 'et', 'Tolima'),
+('CO-VAC', 'et', 'Valle del Cauca'),
+('CO-VAU', 'et', 'Vaupes'),
+('CO-VID', 'et', 'Departamento del Vichada');
+
+SET FOREIGN_KEY_CHECKS=1;

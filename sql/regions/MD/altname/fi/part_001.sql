@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'fi', 'Anenii Noin piiri'),
+('MD-BA', 'fi', 'Bălți'),
+('MD-BD', 'fi', 'Bender'),
+('MD-BR', 'fi', 'Bricenin piiri'),
+('MD-BS', 'fi', 'Basarabeascan piiri'),
+('MD-CA', 'fi', 'Cahulin piiri'),
+('MD-CL', 'fi', 'Călărașin piiri'),
+('MD-CM', 'fi', 'Cimișlian kaupunginosa'),
+('MD-CR', 'fi', 'Criulenin kaupunginosa'),
+('MD-CS', 'fi', 'Căușenin piiri'),
+('MD-CT', 'fi', 'Cantemirin kaupunginosa'),
+('MD-CU', 'fi', 'Municipiul Chisinau'),
+('MD-DO', 'fi', 'Dondușenin kaupunginosa'),
+('MD-DR', 'fi', 'Drochian piiri'),
+('MD-DU', 'fi', 'Dubăsarin kaupunginosa'),
+('MD-ED', 'fi', 'Edinețin piiri'),
+('MD-FA', 'fi', 'Făleștin kaupunginosa'),
+('MD-FL', 'fi', 'Floreștin kaupunginosa'),
+('MD-GA', 'fi', 'Gagauzia'),
+('MD-GL', 'fi', 'Glodenin piiri'),
+('MD-HI', 'fi', 'Hînceștin kaupunginosa'),
+('MD-IA', 'fi', 'Ialovenin hallintopiiri'),
+('MD-LE', 'fi', 'Leovan kaupunginosa'),
+('MD-NI', 'fi', 'Nisporenin kaupunginosa'),
+('MD-OC', 'fi', 'Ocnițan piiri'),
+('MD-OR', 'fi', 'Orhein piiri'),
+('MD-RE', 'fi', 'Rezinan kaupunginosa'),
+('MD-RI', 'fi', 'Rîșcanin kaupunginosa'),
+('MD-SD', 'fi', 'Șoldăneștin kaupunginosa'),
+('MD-SI', 'fi', 'Sîngerein piiri'),
+('MD-SN', 'fi', 'Dnesterin vasemman rannan hallinnollis-alueyksiköt'),
+('MD-SO', 'fi', 'Sorocan kaupunginosa'),
+('MD-ST', 'fi', 'Strășenin kaupunginosa'),
+('MD-SV', 'fi', 'Ștefan Vodăn piiri'),
+('MD-TA', 'fi', 'Taraclian kaupunginosa'),
+('MD-TE', 'fi', 'Teleneștin kaupunginosa'),
+('MD-UN', 'fi', 'Unghenin piiri');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('LK-1', 'LK', 'Western Province', 'බස්නාහිර', NULL, 5821710, 'UTC+5:30', 'Asia/Colombo'),
+('LK-11', 'LK', 'Colombo', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-12', 'LK', 'Gampaha', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-13', 'LK', 'Kalutara', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-2', 'LK', 'Central Province', 'මධ්යම', 2924362, 2558716, 'UTC+5:30', 'Asia/Colombo'),
+('LK-21', 'LK', 'Kandy', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-22', 'LK', 'Matale', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-23', 'LK', 'Nuwara Eliya', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-3', 'LK', 'Southern Province', 'දකුණු', 2926695, 2464732, 'UTC+5:30', 'Asia/Colombo'),
+('LK-31', 'LK', 'Galle', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-32', 'LK', 'Matara', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-33', 'LK', 'Hambantota', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-4', 'LK', 'Northern Province', 'උතුරු', 2924939, 1058762, 'UTC+5:30', 'Asia/Colombo'),
+('LK-41', 'LK', 'Jaffna', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-42', 'LK', 'Kilinochchi', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-43', 'LK', 'Mannar', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-44', 'LK', 'Vavuniya', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-45', 'LK', 'Mullaittivu', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-5', 'LK', 'Eastern Province', 'නැගෙනහිර', 2917502, 1500000, 'UTC+5:30', 'Asia/Colombo'),
+('LK-51', 'LK', 'Batticaloa', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-52', 'LK', 'Ampara', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-53', 'LK', 'Trincomalee', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-6', 'LK', 'North Western Province', 'වයඹ', 2922724, 2370075, 'UTC+5:30', 'Asia/Colombo'),
+('LK-61', 'LK', 'Kurunegala', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-62', 'LK', 'Puttalam', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-7', 'LK', 'North Central Province', 'උතුරු මැද', 2928870, 1259567, 'UTC+5:30', 'Asia/Colombo'),
+('LK-71', 'LK', 'Anuradhapura', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-72', 'LK', 'Polonnaruwa', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-8', 'LK', 'Province of Uva', 'ඌව', 2928633, 1259800, 'UTC+5:30', 'Asia/Colombo'),
+('LK-81', 'LK', 'Badulla', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-82', 'LK', 'Monaragala', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-9', 'LK', 'Sabaragamuwa Province', 'සබරගමුව', 2918448, 1918880, 'UTC+5:30', 'Asia/Colombo'),
+('LK-91', 'LK', 'Ratnapura', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo'),
+('LK-92', 'LK', 'Kegalla', NULL, NULL, NULL, 'UTC+5:30', 'Asia/Colombo');
+
+SET FOREIGN_KEY_CHECKS=1;

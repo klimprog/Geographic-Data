@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(272697070, 3541521, 'it', 'Uaboe'),
+(272697147, 3541522, 'it', 'Uaboe'),
+(272697224, 3541523, 'it', 'Baiti'),
+(272697301, 3541524, 'it', 'Ijuw'),
+(272697378, 3541525, 'it', 'Ijuw'),
+(272697455, 3541526, 'it', 'Arubo'),
+(272697532, 3541527, 'it', 'Anabar'),
+(272697609, 3541528, 'it', 'Yaren'),
+(272697686, 3541529, 'it', 'Yaren'),
+(272697763, 3541530, 'it', 'Arijejen'),
+(272697840, 3541531, 'it', 'Arenibek'),
+(272697917, 3541532, 'it', 'Boe'),
+(272697994, 3541533, 'it', 'Menen'),
+(272698071, 3541534, 'it', 'Nibok'),
+(272698148, 3541535, 'it', 'Denigomodu');
+
+SET FOREIGN_KEY_CHECKS=1;

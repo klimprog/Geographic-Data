@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'tg', 'Атоли Жонстон'),
+('UM-71', 'tg', 'Ҷазираҳои Мидвей'),
+('UM-76', 'tg', 'Ҷазираи Наваса'),
+('UM-79', 'tg', 'Ҷазираи Вейк'),
+('UM-81', 'tg', 'Ҷазираи Бейкер'),
+('UM-84', 'tg', 'Ҷазираи Хаулэнд'),
+('UM-86', 'tg', 'Ҷазираи Жарвис'),
+('UM-89', 'tg', 'Кингман Рееф'),
+('UM-95', 'tg', 'Атоли Палмира');
+
+SET FOREIGN_KEY_CHECKS=1;

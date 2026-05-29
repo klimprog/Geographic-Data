@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SC-01', 'nl', 'Anse aux Pins'),
+('SC-02', 'nl', 'Anse Boileau'),
+('SC-03', 'nl', 'Anse Etoile'),
+('SC-04', 'nl', 'Au Cap'),
+('SC-05', 'nl', 'Anse Royale'),
+('SC-06', 'nl', 'Baie Lazare'),
+('SC-07', 'nl', 'Baie Sainte Anne'),
+('SC-08', 'nl', 'Beau Vallon'),
+('SC-09', 'nl', 'Bel Air'),
+('SC-10', 'nl', 'Bel Ombre'),
+('SC-11', 'nl', 'Cascade'),
+('SC-12', 'nl', 'Glacis'),
+('SC-13', 'nl', 'Grand'' Anse'),
+('SC-14', 'nl', 'Grand'' Anse'),
+('SC-15', 'nl', 'La Digue and Inner Islands'),
+('SC-16', 'nl', 'La Riviere Anglaise'),
+('SC-17', 'nl', 'Mont Buxton'),
+('SC-18', 'nl', 'Mont Fleuri'),
+('SC-19', 'nl', 'Plaisance'),
+('SC-20', 'nl', 'Pointe La Rue'),
+('SC-21', 'nl', 'Port Glaud'),
+('SC-22', 'nl', 'Saint Louis'),
+('SC-23', 'nl', 'Takamaka'),
+('SC-24', 'nl', 'Les Mamelles'),
+('SC-25', 'nl', 'Roche Caiman'),
+('SC-26', 'nl', 'Ile Perseverance I'),
+('SC-27', 'nl', 'Ile Perseverance II');
+
+SET FOREIGN_KEY_CHECKS=1;

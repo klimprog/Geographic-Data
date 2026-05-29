@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NZ-AUK', 'si', 'ඕක්ලන්ඩ් කලාපය'),
+('NZ-BOP', 'si', 'ප්ලේන්ටි කලපු කලාපය'),
+('NZ-CAN', 'si', 'කැන්ටබරි කලාපය'),
+('NZ-CIT', 'si', 'චැතම් දූපත්'),
+('NZ-GIS', 'si', 'ගිස්බෝර්නේ කලාපය'),
+('NZ-HKB', 'si', 'හොකෙස් කලපු කලාපය'),
+('NZ-MBH', 'si', 'මාල්බරෝ කලාපය'),
+('NZ-MWT', 'si', 'මනවටු වන්ගනුයි කලාපය'),
+('NZ-NSN', 'si', 'නෙල්සන්'),
+('NZ-NTL', 'si', 'නොර්ට්ලන්ඩ් කලාපය'),
+('NZ-OTA', 'si', 'ඔටාගෝ කලාපය'),
+('NZ-STL', 'si', 'සවුත්ලන්ඩ් කලාපය'),
+('NZ-TAS', 'si', 'ටස්මන් දිස්ත්‍රික්කය'),
+('NZ-TKI', 'si', 'ටරනකි කලාපය'),
+('NZ-WGN', 'si', 'වෙලින්ටන් කලාපය'),
+('NZ-WKO', 'si', 'වයිකටෝ කලාපය'),
+('NZ-WTC', 'si', 'වෙස්ට් කෝස්ට් කලාපය');
+
+SET FOREIGN_KEY_CHECKS=1;

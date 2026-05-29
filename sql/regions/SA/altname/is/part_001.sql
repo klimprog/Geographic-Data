@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SA-01', 'is', 'Riyadh svæðinu'),
+('SA-02', 'is', 'Mekka Svæðinu'),
+('SA-03', 'is', 'Medina svæðinu'),
+('SA-04', 'is', 'Austurhérað'),
+('SA-05', 'is', 'Al-Qassim svæðinu'),
+('SA-06', 'is', 'Ha''il'),
+('SA-07', 'is', 'Tabuk svæði'),
+('SA-08', 'is', 'Norðurlandamærasvæðið'),
+('SA-09', 'is', 'Jazan svæðinu'),
+('SA-10', 'is', 'njran'),
+('SA-11', 'is', 'Al Bahah svæðinu'),
+('SA-12', 'is', 'aljwf'),
+('SA-14', 'is', '''Asir svæði');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('HT-AR', 'HT', 'Departement de l''Artibonite', 'Latibonit', 1762326, NULL, 'UTC-5', 'America/Port-au-Prince'),
+('HT-CE', 'HT', 'Centre', 'Sant', 1761752, 565043, 'UTC-5', 'America/Port-au-Prince'),
+('HT-GA', 'HT', 'Grand''Anse', 'Grandans', 1761603, 337000, 'UTC-5', 'America/Port-au-Prince'),
+('HT-ND', 'HT', 'Nord', 'Nò', 1764972, 872200, 'UTC-5', 'America/Port-au-Prince'),
+('HT-NE', 'HT', 'Departement du Nord-Est', 'Nòdès', 1762645, 300493, 'UTC-5', 'America/Port-au-Prince'),
+('HT-NI', 'HT', 'Departement de Nippes', 'Nip', 1759581, 266000, 'UTC-5', 'America/Port-au-Prince'),
+('HT-NO', 'HT', 'Nord-Ouest', 'Nòdwès', 1757861, NULL, 'UTC-5', 'America/Port-au-Prince'),
+('HT-OU', 'HT', 'Departement de l''Ouest', 'Lwès', NULL, 3664620, 'UTC-5', 'America/Port-au-Prince'),
+('HT-SD', 'HT', 'Sud', 'Sid', 1764709, 704760, 'UTC-5', 'America/Port-au-Prince'),
+('HT-SE', 'HT', 'Sud-Est', 'Sidès', 1761723, 518200, 'UTC-5', 'America/Port-au-Prince');
+
+SET FOREIGN_KEY_CHECKS=1;

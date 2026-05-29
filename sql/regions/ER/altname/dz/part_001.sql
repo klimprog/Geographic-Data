@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ER-AN', 'dz', 'ཨན་སེ་བ་ས་ཁུལ།'),
+('ER-DK', 'dz', 'ལྷོ་ཕྱོགས་མཚོ་དམར་ཁུལ།'),
+('ER-DU', 'dz', 'ཌེ་བཱབ་ལུང་ཕྱོགས།'),
+('ER-GB', 'dz', 'གཤ་-བར་ཀ་ས་ཁུལ།'),
+('ER-MA', 'dz', 'མའེ་ཀེལ་ལུང་ཕྱོགས།'),
+('ER-SK', 'dz', 'བྱང་མཚོ་དམར་ཁུལ།');
+
+SET FOREIGN_KEY_CHECKS=1;

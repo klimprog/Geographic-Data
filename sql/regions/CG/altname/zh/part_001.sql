@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CG-11', 'zh', '布恩扎省'),
+('CG-12', 'zh', '普爾省'),
+('CG-13', 'zh', '桑加省'),
+('CG-14', 'zh', '高原省'),
+('CG-15', 'zh', '西盆地省'),
+('CG-16', 'zh', '黑角'),
+('CG-2', 'zh', '萊庫穆省'),
+('CG-5', 'zh', '奎盧省'),
+('CG-7', 'zh', '利夸拉省'),
+('CG-8', 'zh', '盆地省'),
+('CG-9', 'zh', '尼阿里省'),
+('CG-BZV', 'zh', '布拉柴维尔');
+
+SET FOREIGN_KEY_CHECKS=1;

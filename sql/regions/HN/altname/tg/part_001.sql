@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HN-AT', 'tg', 'Атлантида'),
+('HN-CH', 'tg', 'Чолутека'),
+('HN-CL', 'tg', 'Колон'),
+('HN-CM', 'tg', 'Комаягуа'),
+('HN-CP', 'tg', 'Копан'),
+('HN-CR', 'tg', 'Кортес'),
+('HN-EP', 'tg', 'Эль-Парайсо'),
+('HN-FM', 'tg', 'Франсиско Морасан'),
+('HN-GD', 'tg', 'Грасиас а Диос'),
+('HN-IB', 'tg', 'Ҷазираҳои Bay'),
+('HN-IN', 'tg', 'Интибука'),
+('HN-LE', 'tg', 'Лемпира'),
+('HN-LP', 'tg', 'Ла-Paz'),
+('HN-OC', 'tg', 'Окотепеке'),
+('HN-OL', 'tg', 'Олanche'),
+('HN-SB', 'tg', 'Санта-Барбара'),
+('HN-VA', 'tg', 'Валле'),
+('HN-YO', 'tg', 'Ёро');
+
+SET FOREIGN_KEY_CHECKS=1;

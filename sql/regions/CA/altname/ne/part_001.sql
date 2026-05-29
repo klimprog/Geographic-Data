@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CA-AB', 'ne', 'अल्बॆर्त'),
+('CA-BC', 'ne', 'ब्रितिश् चॊलुंबिअ'),
+('CA-MB', 'ne', 'मनितॊब'),
+('CA-NB', 'ne', 'न्यु ब्रन्स्विक / न्युउ ब्रन्स्विक'),
+('CA-NL', 'ne', 'नॆव्फ़ॊउंद्लंद् अंद् लब्रदॊर्'),
+('CA-NS', 'ne', 'नॊव स्चॊतिअ'),
+('CA-NT', 'ne', 'नॊर्थ्वॆस्त् तॆर्रितॊरिऎस्'),
+('CA-NU', 'ne', 'नुनवुत्'),
+('CA-ON', 'ne', 'ओन्टारियो'),
+('CA-PE', 'ne', 'प्रिन्चॆ ऎद्वर्द् इस्लंद्'),
+('CA-QC', 'ne', 'क्युबेक'),
+('CA-SK', 'ne', 'सस्कत्छॆवन्'),
+('CA-YT', 'ne', 'युकॊन्');
+
+SET FOREIGN_KEY_CHECKS=1;

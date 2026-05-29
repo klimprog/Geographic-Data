@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'sq', 'Saint Andrew Parish'),
+('DM-03', 'sq', 'Saint David Parish'),
+('DM-04', 'sq', 'Saint George Parish'),
+('DM-05', 'sq', 'Saint John Parish'),
+('DM-06', 'sq', 'Saint Joseph Parish'),
+('DM-07', 'sq', 'Saint Luke Parish'),
+('DM-08', 'sq', 'Saint Mark Parish'),
+('DM-09', 'sq', 'Saint Patrick Parish'),
+('DM-10', 'sq', 'Saint Paul Parish'),
+('DM-11', 'sq', 'Saint Peter Parish');
+
+SET FOREIGN_KEY_CHECKS=1;

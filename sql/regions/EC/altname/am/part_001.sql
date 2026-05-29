@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'am', 'አዙአይ'),
+('EC-B', 'am', 'ቦሊቫር'),
+('EC-C', 'am', 'ካርቺ'),
+('EC-D', 'am', 'ኦሪላና ክልል'),
+('EC-E', 'am', 'እስመራልዳስ'),
+('EC-F', 'am', 'ካናር'),
+('EC-G', 'am', 'ጓያስ'),
+('EC-H', 'am', 'ቺምቦራዞ ክልል'),
+('EC-I', 'am', 'ይምባቡራ'),
+('EC-L', 'am', 'ሎጃ'),
+('EC-M', 'am', 'ማናቢ'),
+('EC-N', 'am', 'ናፖ'),
+('EC-O', 'am', 'ኤል ኦሮ'),
+('EC-P', 'am', 'ፒቺንቻ'),
+('EC-R', 'am', 'ሎስ ሪዮስ'),
+('EC-S', 'am', 'ሞሮና-ሳንቲያጎ ክልል'),
+('EC-SD', 'am', 'ሳንቶ ዶሚንጎ ደ ሎስ ጃቺላስ'),
+('EC-SE', 'am', 'ሳንታ ኤሌና'),
+('EC-T', 'am', 'ቱንጉራውሃ ክልል'),
+('EC-U', 'am', 'ሱኩምቢዮስ'),
+('EC-W', 'am', 'ጋላፓጎስ'),
+('EC-X', 'am', 'ኮቶፓክሲ'),
+('EC-Y', 'am', 'ፓስታዛ ክልል'),
+('EC-Z', 'am', 'ዛሞራ ቺንቺፔ');
+
+SET FOREIGN_KEY_CHECKS=1;

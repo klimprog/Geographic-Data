@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TV-FUN', 'ca', 'Funafuti'),
+('TV-NIT', 'ca', 'Niutao'),
+('TV-NKF', 'ca', 'Nukufetau'),
+('TV-NKL', 'ca', 'Nukulaelae'),
+('TV-NMA', 'ca', 'Nanumea'),
+('TV-NMG', 'ca', 'Nanumaga'),
+('TV-NUI', 'ca', 'Nui'),
+('TV-VAI', 'ca', 'Vaitupu');
+
+SET FOREIGN_KEY_CHECKS=1;

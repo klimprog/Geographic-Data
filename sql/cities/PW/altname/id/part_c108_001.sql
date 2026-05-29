@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(298269230, 3873627, 'id', 'Tngeronger Hamlet'),
+(298269384, 3873629, 'id', 'Ngerbeched Hamlet'),
+(298269615, 3873632, 'id', 'Koror'),
+(298269923, 3873636, 'id', 'Idid Hamlet'),
+(298270077, 3873638, 'id', 'Ngerchemai Hamlet'),
+(298270231, 3873640, 'id', 'Ulimang'),
+(298270924, 3873649, 'id', 'Meketii Hamlet'),
+(298271001, 3873650, 'id', 'Ngerekebesang Hamlet'),
+(298271078, 3873651, 'id', 'Ngerkeai'),
+(298271386, 3873655, 'id', 'Melekeok'),
+(298271463, 3873656, 'id', 'Dusun Meyungs'),
+(298271540, 3873657, 'id', 'Desa Melekeok'),
+(298271694, 3873659, 'id', 'Ngereklmadel'),
+(298271771, 3873660, 'id', 'Iyebukel Hamlet'),
+(298271848, 3873661, 'id', 'Dusun Imeong'),
+(298272156, 3873665, 'id', 'Dusun Ngchesar'),
+(298272387, 3873668, 'id', 'Ngerubesang Hamlet'),
+(298272618, 3873671, 'id', 'Ngerkeai'),
+(298272849, 3873674, 'id', 'Ngerkeseuaol Hamlet'),
+(298273311, 3873680, 'id', 'Mengellang'),
+(298273465, 3873682, 'id', 'Negara Angaur'),
+(298273696, 3873685, 'id', 'Desa Tobi'),
+(298273773, 3873686, 'id', 'Desa Sonsorol'),
+(298273927, 3873688, 'id', 'Kayangel'),
+(298274004, 3873689, 'id', 'Kloulklubed'),
+(298274235, 3873692, 'id', 'Ngetkib'),
+(298274312, 3873693, 'id', 'Ngchemiangel'),
+(298274389, 3873694, 'id', 'Ngardmau'),
+(298274543, 3873696, 'id', 'Ngerulmud'),
+(298274697, 3873698, 'id', 'Ngerulmud');
+
+SET FOREIGN_KEY_CHECKS=1;

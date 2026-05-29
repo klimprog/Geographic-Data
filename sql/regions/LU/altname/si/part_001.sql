@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LU-CA', 'si', 'කැපෙල්න්'),
+('LU-CL', 'si', 'ක්ලර්වෝක්ස්'),
+('LU-DI', 'si', 'ඩයිකර්ච්'),
+('LU-EC', 'si', 'චාන්ටෝන් ද''එච්ටෙර්ණච්'),
+('LU-ES', 'si', 'චාන්ටෝන් ද''එස්ච්-සුරැ-ආල්ළෙත්තෙ'),
+('LU-GR', 'si', 'ග්‍රේවන්මචර්'),
+('LU-LU', 'si', 'ලක්සම්බර්ග්'),
+('LU-ME', 'si', 'මර්ෂ්'),
+('LU-RD', 'si', 'රෙඩේන්ජ්'),
+('LU-RM', 'si', 'රෙමිච්'),
+('LU-VD', 'si', 'වියැන්ඩන්'),
+('LU-WI', 'si', 'විල්ට්ස්');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'tr', 'Azuay Province'),
+('EC-B', 'tr', 'Bolivar Province'),
+('EC-C', 'tr', 'Carchi Province'),
+('EC-D', 'tr', 'Orellana Province'),
+('EC-E', 'tr', 'Esmeraldas'),
+('EC-F', 'tr', 'Canar Province'),
+('EC-G', 'tr', 'Guayas'),
+('EC-H', 'tr', 'Chimborazo'),
+('EC-I', 'tr', 'Imbabura Province'),
+('EC-L', 'tr', 'Loja province'),
+('EC-M', 'tr', 'Manabi Province'),
+('EC-N', 'tr', 'Napo Province'),
+('EC-O', 'tr', 'El Oro Province'),
+('EC-P', 'tr', 'Pichincha ili'),
+('EC-R', 'tr', 'Los Rios Province'),
+('EC-S', 'tr', 'Morona-Santiago'),
+('EC-SD', 'tr', 'Santo Domingo de los Tsachilas Province'),
+('EC-SE', 'tr', 'Santa Elena Province'),
+('EC-T', 'tr', 'Tungurahua Province'),
+('EC-U', 'tr', 'Sucumbios Province'),
+('EC-W', 'tr', 'Galapagos Province'),
+('EC-X', 'tr', 'Cotopaxi Province'),
+('EC-Y', 'tr', 'Pastaza Province'),
+('EC-Z', 'tr', 'Zamora-Chinchip Province');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170047, 2885326, 'fr', 'shumaymat'),
+(222170124, 2885327, 'fr', 'Az Zawr'),
+(222170432, 2885331, 'fr', 'Hawalli'),
+(222170509, 2885332, 'fr', 'duaydat'),
+(222170663, 2885334, 'fr', 'dant'),
+(222170740, 2885335, 'fr', 'Az Zawr'),
+(222170971, 2885338, 'fr', 'Ar Riqqa'),
+(222171279, 2885342, 'fr', 'Wafra'),
+(222171356, 2885343, 'fr', 'Al `Udayliyah'),
+(222171741, 2885348, 'fr', 'Koweït'),
+(222171895, 2885350, 'fr', 'Al Jahra'),
+(222172049, 2885352, 'fr', 'Al Funaytis'),
+(222172203, 2885354, 'fr', 'alfntas'),
+(222172280, 2885355, 'fr', 'Al Farwaniyah'),
+(222172357, 2885356, 'fr', 'aalbidaʿ'),
+(222172588, 2885359, 'fr', 'Al Ahmadi'),
+(222172819, 2885362, 'fr', 'Ad Diba`iyah'),
+(222173127, 2885366, 'fr', 'aabraq khaytan'),
+(222173204, 2885367, 'fr', 'À Tawil'),
+(222174359, 2885382, 'fr', 'Highway of Death'),
+(222174590, 2885385, 'fr', 'Mubarak al Kabir'),
+(222174667, 2885386, 'fr', 'Al ''Adan'),
+(222174744, 2885387, 'fr', 'Al-Masayel'),
+(222174821, 2885388, 'fr', 'Al-Masayel'),
+(222174898, 2885389, 'fr', 'Abu Fatira'),
+(222174975, 2885390, 'fr', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

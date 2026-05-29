@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'es', 'Brandenburgo'),
+('DE-BE', 'es', 'Estado de Berlín'),
+('DE-BW', 'es', 'Baden-Wurtemberg'),
+('DE-BY', 'es', 'Baviera'),
+('DE-HB', 'es', 'Ciudad libre hanseática de Bremen'),
+('DE-HE', 'es', 'Hessen'),
+('DE-HH', 'es', 'Ciudad-estado de Hamburgo'),
+('DE-MV', 'es', 'Mecklenburg-Vorpommern'),
+('DE-NI', 'es', 'Baja Sajonia'),
+('DE-NW', 'es', 'Renania del Norte-Westfalia'),
+('DE-RP', 'es', 'Rheinland-Pfalz'),
+('DE-SH', 'es', 'Schleswig-Holstein'),
+('DE-SL', 'es', 'Sarre'),
+('DE-SN', 'es', 'Sachsen'),
+('DE-ST', 'es', 'Sajonia-Anhalt'),
+('DE-TH', 'es', 'Thüringen');
+
+SET FOREIGN_KEY_CHECKS=1;

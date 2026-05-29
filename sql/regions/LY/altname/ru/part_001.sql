@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LY-BA', 'ru', 'Бенгази'),
+('LY-BU', 'ru', 'Эль-Бутнан'),
+('LY-DR', 'ru', 'Дерна'),
+('LY-GT', 'ru', 'Гат'),
+('LY-JA', 'ru', 'Эль-Джебель-эль-Ахдар'),
+('LY-JG', 'ru', 'Эль-Джебель-эль-Гарби'),
+('LY-JI', 'ru', 'Эль-Джифара'),
+('LY-JU', 'ru', 'Эль-Джуфра'),
+('LY-KF', 'ru', 'Эль-Куфра'),
+('LY-MB', 'ru', 'Эль-Маргаб'),
+('LY-MI', 'ru', 'Мисурата'),
+('LY-MJ', 'ru', 'Эль-Мардж'),
+('LY-MQ', 'ru', 'Марзук'),
+('LY-NL', 'ru', 'Налут'),
+('LY-NQ', 'ru', 'Эн-Нугат-эль-Хумс'),
+('LY-SB', 'ru', 'Сабха'),
+('LY-SR', 'ru', 'Сирт'),
+('LY-TB', 'ru', 'Триполи'),
+('LY-WA', 'ru', 'Эль-Вахат'),
+('LY-WD', 'ru', 'Вади-эль-Хаят'),
+('LY-WS', 'ru', 'Вади-эш-Шати'),
+('LY-ZA', 'ru', 'Эз-Завия');
+
+SET FOREIGN_KEY_CHECKS=1;

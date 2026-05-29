@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'fa', 'آنهویی'),
+('CN-BJ', 'fa', 'پکن'),
+('CN-CQ', 'fa', 'چونگ چینگ'),
+('CN-FJ', 'fa', 'فوجیان'),
+('CN-GD', 'fa', 'گوانگدونگ'),
+('CN-GS', 'fa', 'گانسو'),
+('CN-GX', 'fa', 'گوانگشی'),
+('CN-GZ', 'fa', 'گویژو'),
+('CN-HA', 'fa', 'هنان'),
+('CN-HB', 'fa', 'هوبی'),
+('CN-HE', 'fa', 'هبی'),
+('CN-HI', 'fa', 'هاینان'),
+('CN-HK', 'fa', 'هنگ کنگ سار'),
+('CN-HL', 'fa', 'هیلونگجیانگ'),
+('CN-HN', 'fa', 'هونان'),
+('CN-JL', 'fa', 'جیلین'),
+('CN-JS', 'fa', 'جیانگسو'),
+('CN-JX', 'fa', 'جیانگشی'),
+('CN-LN', 'fa', 'لیائونینگ'),
+('CN-MO', 'fa', 'ماکائو سار'),
+('CN-NM', 'fa', 'مغولستان داخلی'),
+('CN-NX', 'fa', 'نینگشیا'),
+('CN-QH', 'fa', 'چینگهای'),
+('CN-SC', 'fa', 'سیچوان'),
+('CN-SD', 'fa', 'شاندونگ'),
+('CN-SH', 'fa', 'شانگهای'),
+('CN-SN', 'fa', 'شاآنشی'),
+('CN-SX', 'fa', 'شانشی'),
+('CN-TJ', 'fa', 'تیانجین'),
+('CN-TW', 'fa', 'تایوان شنگ'),
+('CN-XJ', 'fa', 'سینجیانگ'),
+('CN-XZ', 'fa', 'تبت'),
+('CN-YN', 'fa', 'یوننان'),
+('CN-ZJ', 'fa', 'ژجیانگ');
+
+SET FOREIGN_KEY_CHECKS=1;

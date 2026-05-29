@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'fi', 'Balaka'),
+('MW-BL', 'fi', 'Blantyre'),
+('MW-C', 'fi', 'Keskinen alue'),
+('MW-CK', 'fi', 'Chikwawa'),
+('MW-CR', 'fi', 'Chiradzulu'),
+('MW-CT', 'fi', 'Chitipa'),
+('MW-DE', 'fi', 'Dedza'),
+('MW-DO', 'fi', 'Dowa'),
+('MW-KR', 'fi', 'Karonga'),
+('MW-KS', 'fi', 'Kasungu'),
+('MW-LI', 'fi', 'Lilongwe'),
+('MW-LK', 'fi', 'Likoma'),
+('MW-MC', 'fi', 'Mchinji'),
+('MW-MG', 'fi', 'Mangochi'),
+('MW-MH', 'fi', 'Machinga'),
+('MW-MU', 'fi', 'Mulanje'),
+('MW-MW', 'fi', 'Mwanza'),
+('MW-MZ', 'fi', 'Mzimba'),
+('MW-N', 'fi', 'Pohjoinen alue'),
+('MW-NB', 'fi', 'Nkhatan lahti'),
+('MW-NE', 'fi', 'Neno'),
+('MW-NI', 'fi', 'Ntchisi'),
+('MW-NK', 'fi', 'Nkhotakota'),
+('MW-NS', 'fi', 'Nsanje'),
+('MW-NU', 'fi', 'Ntcheu'),
+('MW-PH', 'fi', 'Phalombe'),
+('MW-RU', 'fi', 'Rumphi'),
+('MW-S', 'fi', 'Eteläinen alue'),
+('MW-SA', 'fi', 'Salima'),
+('MW-TH', 'fi', 'Thyolo'),
+('MW-ZO', 'fi', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

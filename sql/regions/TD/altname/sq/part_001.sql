@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'sq', 'Rajoni Batha'),
+('TD-BG', 'sq', 'Barh-El-Gazel'),
+('TD-BO', 'sq', 'Rajoni Borkou'),
+('TD-CB', 'sq', 'Rajoni Chari-Baguirmi'),
+('TD-EE', 'sq', 'Ennedi-Est'),
+('TD-EO', 'sq', 'Ennedi-Ouest'),
+('TD-GR', 'sq', 'Rajoni Guera'),
+('TD-HL', 'sq', 'Hadjer-Lamis'),
+('TD-KA', 'sq', 'Rajoni Kanem'),
+('TD-LC', 'sq', 'Rajoni i Laçit'),
+('TD-LO', 'sq', 'Rajoni Logone Occidental'),
+('TD-LR', 'sq', 'Rajoni Oriental Logone'),
+('TD-MA', 'sq', 'Mandoul'),
+('TD-MC', 'sq', 'Rajoni Moyen-Cari'),
+('TD-ME', 'sq', 'Mayo-Kebbi Est'),
+('TD-MO', 'sq', 'Rajoni Mayo-Kebbi West'),
+('TD-ND', 'sq', 'N''Djamena'),
+('TD-OD', 'sq', 'Rajoni Ouaddai'),
+('TD-SA', 'sq', 'Rajoni Salamat'),
+('TD-SI', 'sq', 'Sila'),
+('TD-TA', 'sq', 'Rajoni Tandjile'),
+('TD-TI', 'sq', 'Rajoni Tibesti'),
+('TD-WF', 'sq', 'Rajoni Wadi Fira');
+
+SET FOREIGN_KEY_CHECKS=1;

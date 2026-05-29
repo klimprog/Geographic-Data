@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KG-B', 'si', 'බට්කෙන් කලාපය'),
+('KG-C', 'si', 'චුයි කලාපය'),
+('KG-GB', 'si', 'බිෂ්කෙක්'),
+('KG-GO', 'si', 'ඕෂ් නගරය'),
+('KG-J', 'si', 'ජලාල්-අබඩ් කලාපය'),
+('KG-N', 'si', 'නරින් කලාපය'),
+('KG-O', 'si', 'ඔෂ් කලාපය'),
+('KG-T', 'si', 'ටලාස් කලාපය'),
+('KG-Y', 'si', 'ඉස්සික්-කුල් කලාපය');
+
+SET FOREIGN_KEY_CHECKS=1;

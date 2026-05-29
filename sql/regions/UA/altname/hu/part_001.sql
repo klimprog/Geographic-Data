@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'hu', 'Vinnicjai terület'),
+('UA-07', 'hu', 'Volinyi terület'),
+('UA-09', 'hu', 'Luhanszki terület'),
+('UA-12', 'hu', 'Dnyipropetrovszki terület'),
+('UA-14', 'hu', 'Donecki terület'),
+('UA-18', 'hu', 'Zsitomiri terület'),
+('UA-21', 'hu', 'Kárpátalja'),
+('UA-23', 'hu', 'Zaporizzsjai terület'),
+('UA-26', 'hu', 'Ivano-frankivszki terület'),
+('UA-30', 'hu', 'Kijevi terület'),
+('UA-32', 'hu', 'Kijevi terület'),
+('UA-35', 'hu', 'Kirovohradi terület'),
+('UA-40', 'hu', 'Sebastopol város'),
+('UA-43', 'hu', 'Krími Autonóm Köztársaság'),
+('UA-46', 'hu', 'Lvivi terület'),
+('UA-48', 'hu', 'Mikolajivi terület'),
+('UA-51', 'hu', 'Odesszai terület'),
+('UA-53', 'hu', 'Poltavai terület'),
+('UA-56', 'hu', 'Rivnei terület'),
+('UA-59', 'hu', 'Szumi terület'),
+('UA-61', 'hu', 'Ternopili terület'),
+('UA-63', 'hu', 'Harkivi terület'),
+('UA-65', 'hu', 'Herszoni terület'),
+('UA-68', 'hu', 'Hmelnickiji terület'),
+('UA-71', 'hu', 'Cserkaszi terület'),
+('UA-74', 'hu', 'Csernyihivi terület'),
+('UA-77', 'hu', 'Csernyivci terület');
+
+SET FOREIGN_KEY_CHECKS=1;

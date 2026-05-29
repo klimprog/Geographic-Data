@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TZ-01', 'sl', 'Arusha'),
+('TZ-02', 'sl', 'Regija Dar es Salaam'),
+('TZ-03', 'sl', 'Regija Dodoma'),
+('TZ-04', 'sl', 'Regija Iringa'),
+('TZ-05', 'sl', 'Regija Kagera'),
+('TZ-06', 'sl', 'Severna regija Pemba'),
+('TZ-07', 'sl', 'Severna Regija Zanzibar'),
+('TZ-08', 'sl', 'Kigoma'),
+('TZ-09', 'sl', 'Kilimandžaro'),
+('TZ-10', 'sl', 'Pemba Kusini'),
+('TZ-11', 'sl', 'Zanzibar Srednja / Južna Regija'),
+('TZ-12', 'sl', 'Lindi'),
+('TZ-13', 'sl', 'Mara'),
+('TZ-14', 'sl', 'Regija Mbeya'),
+('TZ-15', 'sl', 'Zanzibar Urban/Zahodna regija'),
+('TZ-16', 'sl', 'Regija Morogoro'),
+('TZ-17', 'sl', 'Mtwara'),
+('TZ-18', 'sl', 'Mwanza'),
+('TZ-19', 'sl', 'Pwani'),
+('TZ-20', 'sl', 'Regija Rukwa'),
+('TZ-21', 'sl', 'Regija Ruvuma'),
+('TZ-22', 'sl', 'Regija Shinyanga'),
+('TZ-23', 'sl', 'Regija Singida'),
+('TZ-24', 'sl', 'Regija Tabora'),
+('TZ-25', 'sl', 'Tanga'),
+('TZ-26', 'sl', 'Manyara'),
+('TZ-27', 'sl', 'Regija Geita'),
+('TZ-28', 'sl', 'Katavi'),
+('TZ-29', 'sl', 'Regija Njombe'),
+('TZ-30', 'sl', 'Simiyu'),
+('TZ-31', 'sl', 'Songwe');
+
+SET FOREIGN_KEY_CHECKS=1;

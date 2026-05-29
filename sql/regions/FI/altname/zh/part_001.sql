@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('FI-01', 'zh', NULL),
+('FI-02', 'zh', '南卡累利阿區'),
+('FI-03', 'zh', '埃特拉-波赫扬马'),
+('FI-04', 'zh', '南萨沃区'),
+('FI-05', 'zh', '凱努區'),
+('FI-06', 'zh', '坎塔海梅區'),
+('FI-07', 'zh', '中博滕區'),
+('FI-08', 'zh', '凯斯基-苏奥米'),
+('FI-09', 'zh', '吉门拉克索'),
+('FI-10', 'zh', '拉普蘭區'),
+('FI-11', 'zh', '皮尔坎马'),
+('FI-12', 'zh', '波赫扬马'),
+('FI-13', 'zh', '北卡累利阿區'),
+('FI-14', 'zh', '北博滕區'),
+('FI-15', 'zh', '北萨沃'),
+('FI-16', 'zh', '派耶特海梅区'),
+('FI-17', 'zh', '薩塔昆塔區'),
+('FI-18', 'zh', '乌西马'),
+('FI-19', 'zh', '西南芬蘭區');
+
+SET FOREIGN_KEY_CHECKS=1;

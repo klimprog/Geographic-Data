@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PG-CPK', 'ur', 'چیمبو صوبہ'),
+('PG-CPM', 'ur', 'مرکزی صوبہ'),
+('PG-EBR', 'ur', 'مشرقی نیا برطانیہ صوبہ'),
+('PG-EHG', 'ur', 'مشرقی سطح مرتفع صوبہ'),
+('PG-EPW', 'ur', 'انگا صوبہ'),
+('PG-ESW', 'ur', 'مشرقی سپیک صوبہ'),
+('PG-GPK', 'ur', 'گلف صوبہ'),
+('PG-HLA', 'ur', 'ہیلا صوبہ'),
+('PG-JWK', 'ur', 'جیواکا صوبہ'),
+('PG-MBA', 'ur', 'خلیج میلنے صوبہ'),
+('PG-MPL', 'ur', 'موروبے صوبہ'),
+('PG-MPM', 'ur', 'مادنگ صوبہ'),
+('PG-MRL', 'ur', 'مانوس صوبہ'),
+('PG-NCD', 'ur', 'قومی دارالحکومت ضلع'),
+('PG-NIK', 'ur', 'نیو آئر لینڈ صوبہ'),
+('PG-NPP', 'ur', 'اورو صوبہ'),
+('PG-NSB', 'ur', 'بووجاینویلی'),
+('PG-SAN', 'ur', 'سانداون صوبہ'),
+('PG-SHM', 'ur', 'جنوبی سطح مرتفع صوبہ'),
+('PG-WBK', 'ur', 'مغربی نیا برطانیہ صوبہ'),
+('PG-WHM', 'ur', 'مغربی سطح مرتفع صوبہ'),
+('PG-WPD', 'ur', 'مغربی صوبہ');
+
+SET FOREIGN_KEY_CHECKS=1;

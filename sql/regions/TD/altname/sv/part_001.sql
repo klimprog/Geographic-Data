@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'sv', 'Batha'),
+('TD-BG', 'sv', 'Bahr el Gazel (region)'),
+('TD-BO', 'sv', 'Borkou'),
+('TD-CB', 'sv', 'Chari-Baguirmi'),
+('TD-EE', 'sv', 'Ennedi-Est'),
+('TD-EO', 'sv', 'Ennedi-Ouest'),
+('TD-GR', 'sv', 'Guéra'),
+('TD-HL', 'sv', 'Hadjer-Lamis'),
+('TD-KA', 'sv', 'Kanem'),
+('TD-LC', 'sv', 'Lac'),
+('TD-LO', 'sv', 'Logone Occidental'),
+('TD-LR', 'sv', 'Logone Oriental'),
+('TD-MA', 'sv', 'Mandoul'),
+('TD-MC', 'sv', 'Moyen-Chari'),
+('TD-ME', 'sv', 'Mayo-Kebbi Est'),
+('TD-MO', 'sv', 'Mayo-Kebbi Ouest'),
+('TD-ND', 'sv', 'N''Djamena'),
+('TD-OD', 'sv', 'Ouaddaï'),
+('TD-SA', 'sv', 'Salamat'),
+('TD-SI', 'sv', 'Sila'),
+('TD-TA', 'sv', 'Tandjilé'),
+('TD-TI', 'sv', 'Tibesti'),
+('TD-WF', 'sv', 'Wadi Fira');
+
+SET FOREIGN_KEY_CHECKS=1;

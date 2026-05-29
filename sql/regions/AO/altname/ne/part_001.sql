@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'ne', 'बॆन्गॊ'),
+('AO-BGU', 'ne', 'बेन्गुएला'),
+('AO-BIE', 'ne', 'बिऎ'),
+('AO-CAB', 'ne', 'चबिंद'),
+('AO-CCU', 'ne', 'चुअंदॊ चॊबन्गॊ'),
+('AO-CNN', 'ne', 'चुनॆनॆ'),
+('AO-CNO', 'ne', 'चुअन्ज़ नॊर्तॆ'),
+('AO-CUS', 'ne', 'चुअन्ज़-सुल्'),
+('AO-HUA', 'ne', 'हुआम्बो'),
+('AO-HUI', 'ne', 'हुइल'),
+('AO-LNO', 'ne', 'लुंद नॊर्तॆ'),
+('AO-LSU', 'ne', 'लुंद-सुल्'),
+('AO-LUA', 'ne', 'लुआन्डा प्रान्त'),
+('AO-MAL', 'ne', 'मलन्जे प्रदेश'),
+('AO-MOX', 'ne', 'मोक्सिको'),
+('AO-NAM', 'ne', 'नमिबॆ'),
+('AO-UIG', 'ne', 'फ्रोविञ्चिअ दो ऊइगे'),
+('AO-ZAI', 'ne', 'ज़ैरॆ');
+
+SET FOREIGN_KEY_CHECKS=1;

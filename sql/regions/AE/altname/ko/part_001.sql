@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AE-AJ', 'ko', '아지만 토후국'),
+('AE-AZ', 'ko', '아부다비의 토후국'),
+('AE-DU', 'ko', '두바이 토후국'),
+('AE-FU', 'ko', '푸자이라 토후국'),
+('AE-RK', 'ko', '라스알카이마 토후국'),
+('AE-SH', 'ko', '샤르자 토후국'),
+('AE-UQ', 'ko', '움알쿠와인 토후국');
+
+SET FOREIGN_KEY_CHECKS=1;

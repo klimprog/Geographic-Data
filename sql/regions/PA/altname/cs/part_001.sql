@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PA-1', 'cs', 'Bocas del Toro'),
+('PA-10', 'cs', 'Západní Panama'),
+('PA-2', 'cs', 'Coclé'),
+('PA-3', 'cs', 'Colón'),
+('PA-4', 'cs', 'Chiriquí'),
+('PA-5', 'cs', 'Darién'),
+('PA-6', 'cs', 'Herrera'),
+('PA-7', 'cs', 'Los Santos'),
+('PA-8', 'cs', 'Panama'),
+('PA-9', 'cs', 'Veraguas'),
+('PA-EM', 'cs', 'Emberá-Wounaan'),
+('PA-KY', 'cs', 'Kuna Yala'),
+('PA-NB', 'cs', 'Ngöbe-Buglé'),
+('PA-NT', 'cs', 'Naso Tjer Di');
+
+SET FOREIGN_KEY_CHECKS=1;

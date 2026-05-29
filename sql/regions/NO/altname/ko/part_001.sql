@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NO-03', 'ko', '오슬로'),
+('NO-11', 'ko', '로갈란주'),
+('NO-15', 'ko', '뫼레오그롬스달주'),
+('NO-18', 'ko', '노를란주'),
+('NO-21', 'ko', '스발바르(북극 지역)'),
+('NO-22', 'ko', '얀 마옌(북극 지역)'),
+('NO-30', 'ko', '비켄주'),
+('NO-34', 'ko', '인란데주'),
+('NO-38', 'ko', '베스트폴오그텔레마르크주'),
+('NO-42', 'ko', '아그데르주'),
+('NO-46', 'ko', '베스트란주'),
+('NO-50', 'ko', '트뢰넬라그'),
+('NO-54', 'ko', '트롬스오그핀마르크주');
+
+SET FOREIGN_KEY_CHECKS=1;

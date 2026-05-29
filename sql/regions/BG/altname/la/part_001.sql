@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'la', 'Scaptopara'),
+('BG-02', 'la', 'Pyrgos'),
+('BG-03', 'la', 'Odessus'),
+('BG-04', 'la', 'Ternobum (provincia)'),
+('BG-05', 'la', 'Bidinum (provincia)'),
+('BG-06', 'la', 'Valvae (provincia)'),
+('BG-07', 'la', 'Gabrovo (provincia)'),
+('BG-08', 'la', 'Dobroticapolis (provincia)'),
+('BG-09', 'la', 'Achridos (provincia)'),
+('BG-10', 'la', 'Pautalia (provincia)'),
+('BG-11', 'la', 'Melta'),
+('BG-12', 'la', 'Montana (provincia)'),
+('BG-13', 'la', 'Bessapara (provincia)'),
+('BG-14', 'la', 'Perunopolis (provincia)'),
+('BG-15', 'la', 'Plevenum (provincia)'),
+('BG-16', 'la', 'Philippopolis'),
+('BG-17', 'la', 'Abritus (provincia)'),
+('BG-18', 'la', 'Sexantaprista (provincia)'),
+('BG-19', 'la', 'Durostorum (provincia)'),
+('BG-20', 'la', 'Sliven'),
+('BG-21', 'la', 'Smolenopolis (provincia)'),
+('BG-22', 'la', 'Sofia-Grad'),
+('BG-23', 'la', 'Sofia'),
+('BG-24', 'la', 'Ulpia Augusta Traiana (provincia)'),
+('BG-25', 'la', 'Oblast Targovishte'),
+('BG-26', 'la', 'Hascovo'),
+('BG-27', 'la', 'Simeonis'),
+('BG-28', 'la', 'Diospolis');
+
+SET FOREIGN_KEY_CHECKS=1;

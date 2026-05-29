@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MV-00', 'hr', 'Južni atol Ari'),
+('MV-01', 'hr', 'Atol Addu'),
+('MV-02', 'hr', 'Alifu Atholhu'),
+('MV-03', 'hr', 'Lhaviyani Atholhu'),
+('MV-04', 'hr', 'Vaavu Atholhu'),
+('MV-05', 'hr', 'Laamu Atholhu'),
+('MV-07', 'hr', 'Haa Alifu Atholhu'),
+('MV-08', 'hr', 'Thaa Atholhu'),
+('MV-12', 'hr', 'Meemu Atholhu'),
+('MV-13', 'hr', 'Raa Atholhu'),
+('MV-14', 'hr', 'Faafu Atholhu'),
+('MV-17', 'hr', 'Dhaalu Atholhu'),
+('MV-20', 'hr', 'Baa Atholhu'),
+('MV-23', 'hr', 'Haa Dhaalu Atholhu'),
+('MV-24', 'hr', 'Šavijani Atholhu'),
+('MV-25', 'hr', 'Atol Noonu'),
+('MV-26', 'hr', 'Atol Kaafu'),
+('MV-27', 'hr', 'Gaafu Alifu Atholhu'),
+('MV-28', 'hr', 'Gaafu Dhaalu Atholhu'),
+('MV-29', 'hr', 'Atol Gnaviyani'),
+('MV-MLE', 'hr', 'male');
+
+SET FOREIGN_KEY_CHECKS=1;

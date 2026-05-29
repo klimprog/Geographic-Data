@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'ko', '세인트앤드루구'),
+('DM-03', 'ko', '세인트데이비드구'),
+('DM-04', 'ko', '세인트조지구'),
+('DM-05', 'ko', '세인트존구'),
+('DM-06', 'ko', '세인트조지프구'),
+('DM-07', 'ko', '세인트루크구'),
+('DM-08', 'ko', '세인트마크구'),
+('DM-09', 'ko', '세인트패트릭구'),
+('DM-10', 'ko', '세인트폴구'),
+('DM-11', 'ko', '세인트피터구');
+
+SET FOREIGN_KEY_CHECKS=1;

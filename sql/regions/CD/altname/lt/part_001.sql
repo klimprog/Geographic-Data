@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'lt', 'Žemutinis Kongas'),
+('CD-BU', 'lt', 'Žemutinė Uelė'),
+('CD-EQ', 'lt', 'Ekvatorius'),
+('CD-HK', 'lt', 'Aukštutinė Katanga'),
+('CD-HL', 'lt', 'Haut-Lomami'),
+('CD-HU', 'lt', 'Aukštutinė Uelė'),
+('CD-IT', 'lt', 'Ituris'),
+('CD-KC', 'lt', 'Vidurinis Kasajus'),
+('CD-KE', 'lt', 'Rytų Kasajus'),
+('CD-KG', 'lt', 'Kvangas (provincija)'),
+('CD-KL', 'lt', 'Kvilu'),
+('CD-KN', 'lt', 'Kinshasa'),
+('CD-KS', 'lt', 'Kasajus (provincija)'),
+('CD-LO', 'lt', 'Lomami'),
+('CD-LU', 'lt', 'Lualaba (provincija)'),
+('CD-MA', 'lt', 'Maniema'),
+('CD-MN', 'lt', 'Mai Ndombės provincija'),
+('CD-MO', 'lt', 'Mongala (provincija)'),
+('CD-NK', 'lt', 'Šiaurės Kivu'),
+('CD-NU', 'lt', 'Šiaurės Ubangis'),
+('CD-SA', 'lt', 'Sankuru'),
+('CD-SK', 'lt', 'Pietų Kivu'),
+('CD-SU', 'lt', NULL),
+('CD-TA', 'lt', 'Tanganikos provincija'),
+('CD-TO', 'lt', 'Čopas'),
+('CD-TU', 'lt', 'Čuapa');
+
+SET FOREIGN_KEY_CHECKS=1;

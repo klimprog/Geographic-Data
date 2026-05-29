@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CA-AB', 'ko', '앨버타 주'),
+('CA-BC', 'ko', '브리티시컬럼비아 주'),
+('CA-MB', 'ko', '매니토바 주'),
+('CA-NB', 'ko', '뉴브런즈윅 주'),
+('CA-NL', 'ko', '뉴펀들랜드'),
+('CA-NS', 'ko', '노바스코샤 주'),
+('CA-NT', 'ko', '노스웨스트 준주'),
+('CA-NU', 'ko', '누나부트 준주'),
+('CA-ON', 'ko', '온타리오 주'),
+('CA-PE', 'ko', '프린스에드워드아일랜드 주'),
+('CA-QC', 'ko', '퀘벡주'),
+('CA-SK', 'ko', '서스캐처원 주'),
+('CA-YT', 'ko', '유콘 준주');
+
+SET FOREIGN_KEY_CHECKS=1;

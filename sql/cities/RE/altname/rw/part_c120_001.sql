@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(298517275, 3876848, 'rw', 'Les Trois-Bassins'),
+(298518199, 3876860, 'rw', 'Salazie'),
+(298518276, 3876861, 'rw', 'Saint-Pierre'),
+(298518353, 3876862, 'rw', 'Saint-Philippe'),
+(298518430, 3876863, 'rw', 'Mutagatifu-Pawulo'),
+(298518507, 3876864, 'rw', 'Saint-Louis'),
+(298518584, 3876865, 'rw', 'Saint-Leu'),
+(298518661, 3876866, 'rw', 'Mutagatifu-Yozefu'),
+(298519123, 3876872, 'rw', 'Sainte-Suzanne'),
+(298519200, 3876873, 'rw', 'Sainte-Rose'),
+(298519277, 3876874, 'rw', 'Sainte-Marie'),
+(298519585, 3876878, 'rw', 'Saint-Denis'),
+(298519739, 3876880, 'rw', 'Saint-Benoit'),
+(298519816, 3876881, 'rw', 'Mutagatifu-Andre'),
+(298522819, 3876920, 'rw', 'Petite-Ile'),
+(298525668, 3876957, 'rw', 'Le Tampon'),
+(298527054, 3876975, 'rw', 'Les Avirons'),
+(298527670, 3876983, 'rw', 'Le Port'),
+(298531212, 3877029, 'rw', 'La Possession'),
+(298531443, 3877032, 'rw', 'La Plaine-des-Palmistes'),
+(298532367, 3877044, 'rw', 'La Mare'),
+(298536756, 3877101, 'rw', 'L''Etang-Sale'),
+(298537141, 3877106, 'rw', 'Entre-Deux'),
+(298538142, 3877119, 'rw', 'Cilaos'),
+(298539143, 3877132, 'rw', 'Bras-Panon'),
+(298540221, 3877146, 'rw', 'Beteleem'),
+(298543378, 3877187, 'rw', 'Charrie'),
+(298548306, 3877251, 'rw', 'L''Hermitage'),
+(298552849, 3877310, 'rw', 'Cocatre'),
+(298555775, 3877348, 'rw', 'Bois Blanc');
+
+SET FOREIGN_KEY_CHECKS=1;

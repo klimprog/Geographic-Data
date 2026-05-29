@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CG-11', 'ne', 'बॊउऎन्ज़'),
+('CG-12', 'ne', 'पॊऒल्'),
+('CG-13', 'ne', 'संघ'),
+('CG-14', 'ne', 'पठार'),
+('CG-15', 'ne', 'चुवॆत्तॆ-ऒउऎस्त्'),
+('CG-16', 'ne', 'पॊइंतॆ-नॊइरॆ'),
+('CG-2', 'ne', 'लॆकॊउमॊउ'),
+('CG-5', 'ne', 'कॊउइलॊउ'),
+('CG-7', 'ne', 'लिकॊउअल'),
+('CG-8', 'ne', 'चुवॆत्तॆ'),
+('CG-9', 'ne', 'निअरि'),
+('CG-BZV', 'ne', 'ब्रज़्ज़विल्लॆ');
+
+SET FOREIGN_KEY_CHECKS=1;

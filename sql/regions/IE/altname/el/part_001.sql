@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'el', 'Κόναχτ'),
+('IE-CE', 'el', 'Κλερ'),
+('IE-CN', 'el', 'Καβάν'),
+('IE-CO', 'el', 'Φελλός'),
+('IE-CW', 'el', 'Κάρλοου'),
+('IE-D', 'el', 'Δουβλίνο'),
+('IE-DL', 'el', 'Δονεγάλ'),
+('IE-G', 'el', 'Γκαλγουέι'),
+('IE-KE', 'el', 'Κιλδάρη'),
+('IE-KK', 'el', 'Κιλκέννυ'),
+('IE-KY', 'el', 'Κέρρυ'),
+('IE-L', 'el', 'Λένστερ'),
+('IE-LD', 'el', 'Λόγφορδ'),
+('IE-LH', 'el', 'Λάουθ'),
+('IE-LK', 'el', 'Λίμερικ'),
+('IE-LM', 'el', 'Λέιτριμ'),
+('IE-LS', 'el', 'Λάοις'),
+('IE-M', 'el', 'Μάνστερ'),
+('IE-MH', 'el', 'Μεάτη'),
+('IE-MN', 'el', 'Μοναγαν'),
+('IE-MO', 'el', 'Μάιο'),
+('IE-OY', 'el', 'Οφάλι'),
+('IE-RN', 'el', 'Ροσκομμον'),
+('IE-SO', 'el', 'Σλίγο'),
+('IE-TA', 'el', 'Τίπερρυ'),
+('IE-U', 'el', 'Όλστερ'),
+('IE-WD', 'el', 'Γουότερφορντ'),
+('IE-WH', 'el', 'Γουέστμιθ'),
+('IE-WW', 'el', 'Γουίκλοου'),
+('IE-WX', 'el', 'Γουέξφορντ');
+
+SET FOREIGN_KEY_CHECKS=1;

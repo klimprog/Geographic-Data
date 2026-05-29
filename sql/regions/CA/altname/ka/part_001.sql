@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CA-AB', 'ka', 'ალბერტა'),
+('CA-BC', 'ka', 'ბრიტანეთის კოლუმბია'),
+('CA-MB', 'ka', 'მანიტობა'),
+('CA-NB', 'ka', 'ნიუ-ბრანსუიკი'),
+('CA-NL', 'ka', 'ნიუფაუნდლენდი და ლაბრადორი'),
+('CA-NS', 'ka', 'ახალი შოტლანდია'),
+('CA-NT', 'ka', 'ჩრდილო-დასავლეთი ტერიტორიები'),
+('CA-NU', 'ka', 'ნუნავუტი'),
+('CA-ON', 'ka', 'ონტარიო'),
+('CA-PE', 'ka', 'პრინს-ედუარდის კუნძული'),
+('CA-QC', 'ka', 'კვებეკი'),
+('CA-SK', 'ka', 'სასკაჩევანი'),
+('CA-YT', 'ka', 'იუკონი');
+
+SET FOREIGN_KEY_CHECKS=1;

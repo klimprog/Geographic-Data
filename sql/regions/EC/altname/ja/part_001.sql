@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EC-A', 'ja', 'アスアイ県'),
+('EC-B', 'ja', 'ボリバル県'),
+('EC-C', 'ja', 'カルチ県'),
+('EC-D', 'ja', 'オレリャーナ県'),
+('EC-E', 'ja', 'エスメラルダス県'),
+('EC-F', 'ja', 'カナル県'),
+('EC-G', 'ja', 'グアヤス県'),
+('EC-H', 'ja', 'チンボラソ県'),
+('EC-I', 'ja', 'インバブーラ県'),
+('EC-L', 'ja', 'ロハ県'),
+('EC-M', 'ja', 'マナビ県'),
+('EC-N', 'ja', 'ナポ県'),
+('EC-O', 'ja', 'エル・オロ県'),
+('EC-P', 'ja', 'ピチンチャ県'),
+('EC-R', 'ja', 'ロスリオス県'),
+('EC-S', 'ja', 'モロナ・サンティアゴ県'),
+('EC-SD', 'ja', 'サント・ドミンゴ・デ・ロス・ツァチラス県'),
+('EC-SE', 'ja', 'サンタ・エレーナ県'),
+('EC-T', 'ja', 'トゥングラワ県'),
+('EC-U', 'ja', 'スクンビオス県'),
+('EC-W', 'ja', 'ガラパゴス県'),
+('EC-X', 'ja', 'コトパクシ県'),
+('EC-Y', 'ja', 'パスタサ県'),
+('EC-Z', 'ja', 'サモラ・チンチペ県');
+
+SET FOREIGN_KEY_CHECKS=1;

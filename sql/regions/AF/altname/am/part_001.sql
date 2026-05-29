@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'am', 'ባልክ'),
+('AF-BAM', 'am', 'ባሚያን'),
+('AF-BDG', 'am', 'ባድጊስ'),
+('AF-BDS', 'am', 'ባዳክশান'),
+('AF-BGL', 'am', 'ባግላን'),
+('AF-DAY', 'am', 'ዳይኩንዲ'),
+('AF-FRA', 'am', 'ፋራህ'),
+('AF-FYB', 'am', 'ፋርያብ'),
+('AF-GHA', 'am', 'ጋዝኒ'),
+('AF-GHO', 'am', 'ጎር'),
+('AF-HEL', 'am', 'ሄልማንድ'),
+('AF-HER', 'am', 'ሄራት'),
+('AF-JOW', 'am', 'ጆውዝጃን'),
+('AF-KAB', 'am', 'ካቡል'),
+('AF-KAN', 'am', 'ካንዳሃር'),
+('AF-KAP', 'am', 'ካፒሳ'),
+('AF-KDZ', 'am', 'ኩንዱዝ'),
+('AF-KHO', 'am', 'ხოስት'),
+('AF-KNR', 'am', 'ኩናር'),
+('AF-LAG', 'am', 'ላግማን'),
+('AF-LOG', 'am', 'ሎጋር'),
+('AF-NAN', 'am', 'ናንጋርሃር'),
+('AF-NIM', 'am', 'ኒምሮዝ'),
+('AF-NUR', 'am', 'ኑሪስታን'),
+('AF-PAN', 'am', 'ፓንጅሽሪ'),
+('AF-PAR', 'am', 'ፓርዋን ክልል'),
+('AF-PIA', 'am', 'ፓክቲያ'),
+('AF-PKA', 'am', 'ፓክቲካ'),
+('AF-SAM', 'am', 'ሳማንጋን'),
+('AF-SAR', 'am', 'ሳሬ ፖል ክልል'),
+('AF-TAK', 'am', 'ታከር'),
+('AF-URU', 'am', 'ኦሩዝጋን'),
+('AF-WAR', 'am', 'ሜይዳን ወርዳክ ክልል'),
+('AF-ZAB', 'am', 'ዛቡል');
+
+SET FOREIGN_KEY_CHECKS=1;

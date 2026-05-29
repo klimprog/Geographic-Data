@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ML-1', 'hy', 'Կայես'),
+('ML-10', 'hy', 'Տաոուդենիտ'),
+('ML-2', 'hy', 'Կոուլիկորո'),
+('ML-3', 'hy', 'Սիկասսո'),
+('ML-4', 'hy', 'Սեգոու'),
+('ML-5', 'hy', 'Մոպտի'),
+('ML-6', 'hy', 'Տոմբոուծտոու'),
+('ML-7', 'hy', 'Գաո'),
+('ML-8', 'hy', 'Կիդալ'),
+('ML-9', 'hy', 'Մենակա'),
+('ML-BKO', 'hy', 'Բամակո');
+
+SET FOREIGN_KEY_CHECKS=1;

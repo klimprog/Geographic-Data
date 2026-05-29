@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BB-01', 'zu', 'Christ Church'),
+('BB-02', 'zu', 'Saint Andrew'),
+('BB-03', 'zu', 'Saint George'),
+('BB-04', 'zu', 'Saint James'),
+('BB-05', 'zu', 'Saint John'),
+('BB-06', 'zu', 'Saint Joseph'),
+('BB-07', 'zu', 'Saint Lucy'),
+('BB-08', 'zu', 'Saint Michael'),
+('BB-09', 'zu', 'Saint Peter'),
+('BB-10', 'zu', 'Saint Philip'),
+('BB-11', 'zu', 'Saint Thomas');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'tl', 'Rehiyon ng Batha'),
+('TD-BG', 'tl', 'Barh-El-Gazel'),
+('TD-BO', 'tl', 'Rehiyon ng Borkou'),
+('TD-CB', 'tl', 'Rehiyon ng Chari-Baguirmi'),
+('TD-EE', 'tl', 'Ennedi-Est'),
+('TD-EO', 'tl', 'Ennedi-Ouest'),
+('TD-GR', 'tl', 'Rehiyon ng Guera'),
+('TD-HL', 'tl', 'Hadjer-Lamis'),
+('TD-KA', 'tl', 'Rehiyon ng Kanem'),
+('TD-LC', 'tl', 'Rehiyon ng Lac'),
+('TD-LO', 'tl', 'Logone Occidental Region'),
+('TD-LR', 'tl', 'Rehiyon ng Logone Oriental'),
+('TD-MA', 'tl', 'Mandoul'),
+('TD-MC', 'tl', 'Rehiyon ng Moyen-Chari'),
+('TD-ME', 'tl', 'Mayo-Kebbi Est'),
+('TD-MO', 'tl', 'Mayo-Kebbi Kanlurang Rehiyon'),
+('TD-ND', 'tl', 'N''Djamena'),
+('TD-OD', 'tl', 'Rehiyon ng Ouaddai'),
+('TD-SA', 'tl', 'Salamat Rehiyon'),
+('TD-SI', 'tl', 'Sila'),
+('TD-TA', 'tl', 'Rehiyon ng Tandjile'),
+('TD-TI', 'tl', 'Rehiyon ng Tibesti'),
+('TD-WF', 'tl', 'Rehiyon ng Wadi Fira');
+
+SET FOREIGN_KEY_CHECKS=1;

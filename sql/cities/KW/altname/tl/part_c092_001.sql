@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170094, 2885326, 'tl', 'shumaymat'),
+(222170171, 2885327, 'tl', 'Az Zawr'),
+(222170479, 2885331, 'tl', 'Hawalli'),
+(222170556, 2885332, 'tl', 'duaydat'),
+(222170710, 2885334, 'tl', 'dant'),
+(222170787, 2885335, 'tl', 'Az Zawr'),
+(222171018, 2885338, 'tl', 'Ar Ruhaytah as Sufla'),
+(222171326, 2885342, 'tl', 'Al Wafrah'),
+(222171403, 2885343, 'tl', 'Al `Udayliyah'),
+(222171788, 2885348, 'tl', 'Lungsod ng Kuwait'),
+(222171942, 2885350, 'tl', 'aaljahraʾ'),
+(222172096, 2885352, 'tl', 'Al Funaytis'),
+(222172250, 2885354, 'tl', 'alfntas'),
+(222172327, 2885355, 'tl', 'Al Farwaniyah'),
+(222172404, 2885356, 'tl', 'aalbidaʿ'),
+(222172635, 2885359, 'tl', 'Al Ahmadi'),
+(222172866, 2885362, 'tl', 'Ad Diba`iyah'),
+(222173174, 2885366, 'tl', 'aabraq khaytan'),
+(222173251, 2885367, 'tl', 'Bilang Salihiyah'),
+(222174406, 2885382, 'tl', 'Highway ng Kamatayan'),
+(222174637, 2885385, 'tl', 'Mubarak al Kabir'),
+(222174714, 2885386, 'tl', 'Al ''Adan'),
+(222174791, 2885387, 'tl', 'Al-Masayel'),
+(222174868, 2885388, 'tl', 'Al-Masayel'),
+(222174945, 2885389, 'tl', 'Abu Fatira'),
+(222175022, 2885390, 'tl', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TW-CHA', 'fr', 'Changhua'),
+('TW-CYI', 'fr', 'Chiayi'),
+('TW-CYQ', 'fr', 'Chiayi'),
+('TW-HSQ', 'fr', 'Hsinchu'),
+('TW-HSZ', 'fr', 'Hsinchu'),
+('TW-HUA', 'fr', 'Hualien'),
+('TW-ILA', 'fr', 'Yilan'),
+('TW-KEE', 'fr', 'Keelung'),
+('TW-KHH', 'fr', 'Kaohsiung'),
+('TW-KIN', 'fr', 'Kinmen'),
+('TW-LIE', 'fr', 'Lienchiang'),
+('TW-MIA', 'fr', 'Miaoli'),
+('TW-NAN', 'fr', 'Nantou'),
+('TW-NWT', 'fr', 'Nouveau Taipei'),
+('TW-PEN', 'fr', 'Penghu'),
+('TW-PIF', 'fr', 'Pingtung'),
+('TW-TAO', 'fr', 'Taoyuan'),
+('TW-TNN', 'fr', 'Tainan'),
+('TW-TPE', 'fr', 'Taipei'),
+('TW-TTT', 'fr', 'Taitung'),
+('TW-TXG', 'fr', 'Taichung'),
+('TW-YUN', 'fr', 'Yunlin');
+
+SET FOREIGN_KEY_CHECKS=1;

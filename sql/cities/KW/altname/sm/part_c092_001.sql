@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170085, 2885326, 'sm', 'shumaymat'),
+(222170162, 2885327, 'sm', 'Az Zawr'),
+(222170470, 2885331, 'sm', 'Hawalli'),
+(222170547, 2885332, 'sm', 'duaydat'),
+(222170701, 2885334, 'sm', 'dant'),
+(222170778, 2885335, 'sm', 'Az Zawr'),
+(222171009, 2885338, 'sm', 'Ar Riqqah'),
+(222171317, 2885342, 'sm', 'Al Wafrah'),
+(222171394, 2885343, 'sm', 'Al `Udayliyah'),
+(222171779, 2885348, 'sm', 'Aai o Kuwait'),
+(222171933, 2885350, 'sm', 'aaljahraʾ'),
+(222172087, 2885352, 'sm', 'Al Funaytis'),
+(222172241, 2885354, 'sm', 'alfntas'),
+(222172318, 2885355, 'sm', 'Al Farwaniyah'),
+(222172395, 2885356, 'sm', 'aalbidaʿ'),
+(222172626, 2885359, 'sm', 'Al Ahmadi'),
+(222172857, 2885362, 'sm', 'Ad Diba`iyah'),
+(222173165, 2885366, 'sm', 'aabraq khaytan'),
+(222173242, 2885367, 'sm', 'I Tawil'),
+(222174397, 2885382, 'sm', 'Alatele o le Oti'),
+(222174628, 2885385, 'sm', 'Mubarak al Kabir'),
+(222174705, 2885386, 'sm', 'Al ''Adan'),
+(222174782, 2885387, 'sm', 'Al-Masayel'),
+(222174859, 2885388, 'sm', 'Al-Masayel'),
+(222174936, 2885389, 'sm', 'Abu Fatira'),
+(222175013, 2885390, 'sm', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

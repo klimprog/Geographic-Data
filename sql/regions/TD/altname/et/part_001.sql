@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'et', 'Batha'),
+('TD-BG', 'et', 'Barh-El-Gazel'),
+('TD-BO', 'et', 'Borkou piirkond'),
+('TD-CB', 'et', 'Chari-Baguirmi'),
+('TD-EE', 'et', 'Ida-Ennedi piirkond'),
+('TD-EO', 'et', 'Ennedi-Ouest'),
+('TD-GR', 'et', 'Guéra'),
+('TD-HL', 'et', 'Hadjer-Lamis'),
+('TD-KA', 'et', 'Kanem'),
+('TD-LC', 'et', 'Lac'),
+('TD-LO', 'et', 'Lääne-Logone'),
+('TD-LR', 'et', 'Ida-Logone'),
+('TD-MA', 'et', 'Mandoul'),
+('TD-MC', 'et', 'Kesk-Chari'),
+('TD-ME', 'et', 'Ida-Mayo-Kébbi'),
+('TD-MO', 'et', 'Lääne-Mayo-Kébbi'),
+('TD-ND', 'et', 'N''Djamena'),
+('TD-OD', 'et', 'Ouaddaï'),
+('TD-SA', 'et', 'Salamat'),
+('TD-SI', 'et', 'Sila'),
+('TD-TA', 'et', 'Tandjilé'),
+('TD-TI', 'et', 'Tibesti piirkond'),
+('TD-WF', 'et', 'Wadi Fira');
+
+SET FOREIGN_KEY_CHECKS=1;

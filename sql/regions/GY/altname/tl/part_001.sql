@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GY-BA', 'tl', 'Barima-Waini'),
+('GY-CU', 'tl', 'Cuyuni-Mazaruni'),
+('GY-DE', 'tl', 'Demerara-Mahaica'),
+('GY-EB', 'tl', 'East Berbice-Corentyne'),
+('GY-ES', 'tl', 'Essequibo Islands-West Demerara'),
+('GY-MA', 'tl', 'Mahaica-Berbice'),
+('GY-PM', 'tl', 'Pomeroon-Supenaam'),
+('GY-PT', 'tl', 'Potaro-Siparuni'),
+('GY-UD', 'tl', 'Upper Demerara-Berbice'),
+('GY-UT', 'tl', 'Upper Takutu-Upper Essequibo');
+
+SET FOREIGN_KEY_CHECKS=1;

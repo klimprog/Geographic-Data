@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AU-ACT', 'dz', 'ཨོ་སི་ཊོ་ལི་ཡའི་རྒྱལ་ས་མངའ་ཁོངས།'),
+('AU-NSW', 'dz', 'ནིའུ་སའུཊ་ཝེལསི་མངའ་སྡེ།'),
+('AU-NT', 'dz', 'བྱང་ཕྱོགས་མངའ་ཁོངས།'),
+('AU-QLD', 'dz', 'ཀུའིན་ལེནཌ་མངའ་སྡེ།'),
+('AU-SA', 'dz', 'ལྷོ་ཨཱསི་ཊེ་ལི་ཡ་མངའ་སྡེ།'),
+('AU-TAS', 'dz', 'ཏས་མ་ནི་ཡ་མངའ་སྡེ།'),
+('AU-VIC', 'dz', 'ཝིག་ཊོ་རི་ཡ་མངའ་སྡེ།'),
+('AU-WA', 'dz', 'ནུབ་ཕྱོགས་ཨཱསི་ཊེ་ལི་ཡ་མངའ་སྡེ།');
+
+SET FOREIGN_KEY_CHECKS=1;

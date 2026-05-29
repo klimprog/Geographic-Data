@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BW-CE', 'ko', '중부구'),
+('BW-CH', 'ko', '초베지구'),
+('BW-FR', 'ko', '프랜시스타운 시'),
+('BW-GA', 'ko', '가보로네'),
+('BW-GH', 'ko', '간지구'),
+('BW-JW', 'ko', '주와넹'),
+('BW-KG', 'ko', '크갈라가디구'),
+('BW-KL', 'ko', '크가틀렝구'),
+('BW-KW', 'ko', '퀘넹구'),
+('BW-LO', 'ko', '로바체'),
+('BW-NE', 'ko', '북동부구'),
+('BW-NW', 'ko', '북서부구'),
+('BW-SE', 'ko', '남동부구'),
+('BW-SO', 'ko', '남부구'),
+('BW-SP', 'ko', '셀리베 피퀘'),
+('BW-ST', 'ko', '소와초');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'tk', 'Winnytsýa welaýaty'),
+('UA-07', 'tk', 'Wolynska Oblast'),
+('UA-09', 'tk', 'Luhanska welaýaty'),
+('UA-12', 'tk', 'Dnipropetrowsk welaýaty'),
+('UA-14', 'tk', 'Donetska oblasty'),
+('UA-18', 'tk', 'Ytomyrska welaýaty'),
+('UA-21', 'tk', 'Zakarpatiýa oblasty'),
+('UA-23', 'tk', 'Zaporižžýa oblasty'),
+('UA-26', 'tk', 'Iwano-Frankiwsk welaýaty'),
+('UA-30', 'tk', 'Misto Kiýew'),
+('UA-32', 'tk', 'Kiýew welaýaty'),
+('UA-35', 'tk', 'Kirowohrad oblasty'),
+('UA-40', 'tk', 'Sebastopol şäheri'),
+('UA-43', 'tk', 'Awtonom Respublikasy Krym'),
+('UA-46', 'tk', 'Lwiw sebiti'),
+('UA-48', 'tk', 'Mikolaýow welaýaty'),
+('UA-51', 'tk', 'Odeska oblasty'),
+('UA-53', 'tk', 'Poltava welaýaty'),
+('UA-56', 'tk', 'Riwnenska oblasty'),
+('UA-59', 'tk', 'Sumska oblasty'),
+('UA-61', 'tk', 'Ternopil oblasty'),
+('UA-63', 'tk', 'Harkiwska welaýaty'),
+('UA-65', 'tk', 'Herson oblasty'),
+('UA-68', 'tk', 'Hmelnytskiý welaýaty'),
+('UA-71', 'tk', 'Çerkasy oblasty'),
+('UA-74', 'tk', 'Çernihiwska welaýaty'),
+('UA-77', 'tk', 'Çerniwtsi welaýaty');
+
+SET FOREIGN_KEY_CHECKS=1;

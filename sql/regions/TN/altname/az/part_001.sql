@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TN-11', 'az', 'Tunis qubernatorluğu'),
+('TN-12', 'az', 'Aryana vilayəti'),
+('TN-13', 'az', 'Ben Arus vilayəti'),
+('TN-14', 'az', 'Manuba vilayəti'),
+('TN-21', 'az', 'Nabul vilayəti'),
+('TN-22', 'az', 'Zahouane Vilayəti'),
+('TN-23', 'az', 'Bizerta vilayəti'),
+('TN-31', 'az', 'Beja Vilayəti'),
+('TN-32', 'az', 'Cenduba vilayəti'),
+('TN-33', 'az', 'Kef vilayəti'),
+('TN-34', 'az', 'Siliana Vilayəti'),
+('TN-41', 'az', 'Qeyrəvan vilayəti'),
+('TN-42', 'az', 'Kasserin vilayəti'),
+('TN-43', 'az', 'Sidi-Bu-Zid vilayəti'),
+('TN-51', 'az', 'Suza Vilayəti'),
+('TN-52', 'az', 'Monastir vilayəti'),
+('TN-53', 'az', 'Mahdiya vilayəti'),
+('TN-61', 'az', 'Sfaqs vilayəti'),
+('TN-71', 'az', 'Qafsa vilayəti'),
+('TN-72', 'az', 'Tozeur Vilayəti'),
+('TN-73', 'az', 'Kebili vilayəti'),
+('TN-81', 'az', 'Qabes vilayəti'),
+('TN-82', 'az', 'Medenin vilayəti'),
+('TN-83', 'az', 'Tatavin');
+
+SET FOREIGN_KEY_CHECKS=1;

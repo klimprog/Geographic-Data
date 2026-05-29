@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'en', 'Aargau'),
+('CH-AI', 'en', 'Appenzell Innerrhoden'),
+('CH-AR', 'en', 'Appenzell Ausserrhoden'),
+('CH-BE', 'en', 'Bern'),
+('CH-BL', 'en', 'Basel-Landschaft'),
+('CH-BS', 'en', 'Basel-Stadt'),
+('CH-FR', 'en', 'Fribourg'),
+('CH-GE', 'en', 'Geneva'),
+('CH-GL', 'en', 'Glarus'),
+('CH-GR', 'en', 'Graubünden'),
+('CH-JU', 'en', 'Jura'),
+('CH-LU', 'en', 'Lucerne'),
+('CH-NE', 'en', 'Neuchâtel'),
+('CH-NW', 'en', 'Nidwalden'),
+('CH-OW', 'en', 'Obwalden'),
+('CH-SG', 'en', 'St. Gallen'),
+('CH-SH', 'en', 'Schaffhausen'),
+('CH-SO', 'en', 'Solothurn'),
+('CH-SZ', 'en', 'Schwyz'),
+('CH-TG', 'en', 'Thurgau'),
+('CH-TI', 'en', 'Ticino'),
+('CH-UR', 'en', 'Uri'),
+('CH-VD', 'en', 'Vaud'),
+('CH-VS', 'en', 'Valais'),
+('CH-ZG', 'en', 'Zug'),
+('CH-ZH', 'en', 'Zürich');
+
+SET FOREIGN_KEY_CHECKS=1;

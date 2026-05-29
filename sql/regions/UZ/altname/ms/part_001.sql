@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UZ-AN', 'ms', 'Wilayah Andijan'),
+('UZ-BU', 'ms', 'Wilayah Buxoro'),
+('UZ-FA', 'ms', 'Wilayah Fergana'),
+('UZ-JI', 'ms', 'Daerah Jizzakh'),
+('UZ-NG', 'ms', 'Wilayah Namangan'),
+('UZ-NW', 'ms', 'Wilayah Navoiy'),
+('UZ-QA', 'ms', 'Wilayah Qashqadaryo'),
+('UZ-QR', 'ms', 'Karakalpakistan'),
+('UZ-SA', 'ms', 'Wilayah Samarqand'),
+('UZ-SI', 'ms', 'Wilayah Sirdaryo'),
+('UZ-SU', 'ms', 'Wilayah Surxondaryo'),
+('UZ-TK', 'ms', 'Tashkent'),
+('UZ-TO', 'ms', 'Wilayah Toshkent'),
+('UZ-XO', 'ms', 'Wilayah Xorazm');
+
+SET FOREIGN_KEY_CHECKS=1;

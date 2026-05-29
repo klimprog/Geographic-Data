@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'da', 'Amazonas Department'),
+('CO-ANT', 'da', 'Antioquia Department'),
+('CO-ARA', 'da', 'Arauca'),
+('CO-ATL', 'da', 'Atlántico Department'),
+('CO-BOL', 'da', 'Bolívar Department'),
+('CO-BOY', 'da', 'Boyacá Department'),
+('CO-CAL', 'da', 'Caldas Department'),
+('CO-CAQ', 'da', 'Caquetá Department'),
+('CO-CAS', 'da', 'Casanare Department'),
+('CO-CAU', 'da', 'Cauca Department'),
+('CO-CES', 'da', 'Cesar Department'),
+('CO-CHO', 'da', 'Chocó Department'),
+('CO-COR', 'da', 'Córdoba Department'),
+('CO-CUN', 'da', 'Cundinamarca Department'),
+('CO-DC', 'da', 'Distrito Capital de Bogota'),
+('CO-GUA', 'da', 'Guainía Department'),
+('CO-GUV', 'da', 'Guaviare Department'),
+('CO-HUI', 'da', 'Huila Department'),
+('CO-LAG', 'da', 'La Guajira Department'),
+('CO-MAG', 'da', 'Magdalena Department'),
+('CO-MET', 'da', 'Meta'),
+('CO-NAR', 'da', 'Narino Department'),
+('CO-NSA', 'da', 'Norte de Santander Department'),
+('CO-PUT', 'da', 'Putumayo Department'),
+('CO-QUI', 'da', 'Quindío Department'),
+('CO-RIS', 'da', 'Risaralda Department'),
+('CO-SAN', 'da', 'Santander Department'),
+('CO-SAP', 'da', 'San Andrés y Providencia'),
+('CO-SUC', 'da', 'Sucre Department'),
+('CO-TOL', 'da', 'Tolima Department'),
+('CO-VAC', 'da', 'Valle del Cauca Department'),
+('CO-VAU', 'da', 'Vaupés Department'),
+('CO-VID', 'da', 'Vichada Department');
+
+SET FOREIGN_KEY_CHECKS=1;

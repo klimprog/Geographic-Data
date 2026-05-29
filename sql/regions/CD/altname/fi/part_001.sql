@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'fi', 'Keski-Kongo'),
+('CD-BU', 'fi', 'Ala-Uele'),
+('CD-EQ', 'fi', 'Équateur'),
+('CD-HK', 'fi', 'Ylä-Katanga'),
+('CD-HL', 'fi', 'Haut-Lomami'),
+('CD-HU', 'fi', 'Ylä-Uele'),
+('CD-IT', 'fi', 'Ituri'),
+('CD-KC', 'fi', 'Keski-Kasai'),
+('CD-KE', 'fi', 'Kasaï-Oriental'),
+('CD-KG', 'fi', 'Kwango'),
+('CD-KL', 'fi', 'Kwilu'),
+('CD-KN', 'fi', 'Kinshasa'),
+('CD-KS', 'fi', 'Kasai'),
+('CD-LO', 'fi', 'Lomami'),
+('CD-LU', 'fi', 'Lualaba'),
+('CD-MA', 'fi', 'Maniema'),
+('CD-MN', 'fi', 'Mai-Ndombe'),
+('CD-MO', 'fi', 'Mongala'),
+('CD-NK', 'fi', 'Pohjois-Kivu'),
+('CD-NU', 'fi', 'Pohjois-Ubangi'),
+('CD-SA', 'fi', 'Sankuru'),
+('CD-SK', 'fi', 'Etelä-Kivu'),
+('CD-SU', 'fi', 'Province du Sud-Ubangi'),
+('CD-TA', 'fi', 'Tanganyika'),
+('CD-TO', 'fi', 'Tshopo'),
+('CD-TU', 'fi', 'Tshuapa');
+
+SET FOREIGN_KEY_CHECKS=1;

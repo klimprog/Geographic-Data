@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'kl', 'Vestprovinsimi'),
+('LK-11', 'kl', 'Kolombo'),
+('LK-12', 'kl', 'Gampaha'),
+('LK-13', 'kl', 'Kalutara'),
+('LK-2', 'kl', 'Centralprovinsi'),
+('LK-21', 'kl', 'Kandy'),
+('LK-22', 'kl', 'Matale'),
+('LK-23', 'kl', 'Nuwara Eliya'),
+('LK-3', 'kl', 'Kujataani Provinsi'),
+('LK-31', 'kl', 'Galle'),
+('LK-32', 'kl', 'Matara'),
+('LK-33', 'kl', 'Hambantota'),
+('LK-4', 'kl', 'Avannaani Provinsi'),
+('LK-41', 'kl', 'Jaffnami'),
+('LK-42', 'kl', 'Kilinotchi'),
+('LK-43', 'kl', 'Mannar'),
+('LK-44', 'kl', 'Vavuniya'),
+('LK-45', 'kl', 'Mullaittivu'),
+('LK-5', 'kl', 'Issittumi Provinsi'),
+('LK-51', 'kl', 'Battikaloa'),
+('LK-52', 'kl', 'Ampara'),
+('LK-53', 'kl', 'Trinkomali'),
+('LK-6', 'kl', 'Avannaani Provinsi'),
+('LK-61', 'kl', 'Kurunegala'),
+('LK-62', 'kl', 'Puttalam'),
+('LK-7', 'kl', 'Avannaani Qeqqani Provinsi'),
+('LK-71', 'kl', 'Anuradhapura'),
+('LK-72', 'kl', 'Polonnaruwa'),
+('LK-8', 'kl', NULL),
+('LK-81', 'kl', 'Badulla'),
+('LK-82', 'kl', 'Monaragala'),
+('LK-9', 'kl', 'Sabaragamuwa-p nunaqarfiani'),
+('LK-91', 'kl', 'Ratnapurami'),
+('LK-92', 'kl', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'en', 'Aguascalientes'),
+('MX-BCN', 'en', 'Baja California'),
+('MX-BCS', 'en', 'Baja California Sur'),
+('MX-CAM', 'en', 'Campeche'),
+('MX-CHH', 'en', 'Chihuahua'),
+('MX-CHP', 'en', 'Chiapas'),
+('MX-CMX', 'en', 'Ciudad de Mexico'),
+('MX-COA', 'en', 'Coahuila'),
+('MX-COL', 'en', 'Colima'),
+('MX-DUR', 'en', 'Durango'),
+('MX-GRO', 'en', 'Guerrero'),
+('MX-GUA', 'en', 'Guanajuato'),
+('MX-HID', 'en', 'Hidalgo'),
+('MX-JAL', 'en', 'Jalisco'),
+('MX-MEX', 'en', 'Mexico State'),
+('MX-MIC', 'en', 'Michoacán'),
+('MX-MOR', 'en', 'Morelos'),
+('MX-NAY', 'en', 'Nayarit'),
+('MX-NLE', 'en', 'Nuevo León'),
+('MX-OAX', 'en', 'Oaxaca'),
+('MX-PUE', 'en', 'Puebla'),
+('MX-QUE', 'en', 'Querétaro'),
+('MX-ROO', 'en', 'Quintana Roo'),
+('MX-SIN', 'en', 'Sinaloa'),
+('MX-SLP', 'en', 'San Luis Potosí'),
+('MX-SON', 'en', 'Sonora'),
+('MX-TAB', 'en', 'Tabasco'),
+('MX-TAM', 'en', 'Tamaulipas'),
+('MX-TLA', 'en', 'Tlaxcala'),
+('MX-VER', 'en', 'Veracruz'),
+('MX-YUC', 'en', 'Yucatán'),
+('MX-ZAC', 'en', 'Zacatecas');
+
+SET FOREIGN_KEY_CHECKS=1;

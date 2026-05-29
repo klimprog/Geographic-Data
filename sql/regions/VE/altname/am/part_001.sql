@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('VE-A', 'am', '联邦地区'),
+('VE-B', 'am', 'አንዞአተጊ'),
+('VE-C', 'am', 'አፑሬ'),
+('VE-D', 'am', 'አራጓ'),
+('VE-E', 'am', 'ባሪናስ'),
+('VE-F', 'am', 'ቦሊቫር'),
+('VE-G', 'am', 'ካራቦቦ'),
+('VE-H', 'am', 'ኮዔዴስ'),
+('VE-I', 'am', 'ፋልኮን'),
+('VE-J', 'am', 'ጋርኢኮ'),
+('VE-K', 'am', 'ላራ'),
+('VE-L', 'am', 'መሪዳ'),
+('VE-M', 'am', 'ሚራንዳ'),
+('VE-N', 'am', 'ሞናጋስ'),
+('VE-O', 'am', 'ኑዌቫ ኢስፓርታ'),
+('VE-P', 'am', 'ፖርቱጋሌሳ'),
+('VE-R', 'am', 'ሱክሬ'),
+('VE-S', 'am', 'ታቺራ'),
+('VE-T', 'am', 'ትሩሂሎ'),
+('VE-U', 'am', 'ያራኩይ'),
+('VE-V', 'am', 'ዙሊያ'),
+('VE-W', 'am', 'ጥገኛ ፌዴራሎች'),
+('VE-X', 'am', 'ቫርጋስ'),
+('VE-Y', 'am', 'ዴልታ አማኩሮ'),
+('VE-Z', 'am', 'አማዞናስ');
+
+SET FOREIGN_KEY_CHECKS=1;

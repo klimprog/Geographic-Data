@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NI-AN', 'bs', 'Sjevernokaripska obala'),
+('NI-AS', 'bs', 'Južna karipska obala'),
+('NI-BO', 'bs', 'Departamento de Boaco'),
+('NI-CA', 'bs', 'Departamento de Carazo'),
+('NI-CI', 'bs', 'Departman Chinandega'),
+('NI-CO', 'bs', 'Departamento de Chontales'),
+('NI-ES', 'bs', 'Departamento de Estelí'),
+('NI-GR', 'bs', 'Departamento de Granada'),
+('NI-JI', 'bs', 'departman Jinotega'),
+('NI-LE', 'bs', 'Departamento de Leon'),
+('NI-MD', 'bs', 'Departamento de Madriz'),
+('NI-MN', 'bs', 'Departamento de Managua'),
+('NI-MS', 'bs', 'Departamento de Masaya'),
+('NI-MT', 'bs', 'Departamento de Matagalpa'),
+('NI-NS', 'bs', 'Departamento de Nueva Segovia'),
+('NI-RI', 'bs', 'Departamento de Rivas'),
+('NI-SJ', 'bs', 'Departamento de Rio San Juan');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'so', 'Departamenta Amazonas'),
+('CO-ANT', 'so', 'Antiokiya'),
+('CO-ARA', 'so', 'Gobolka Arauca'),
+('CO-ATL', 'so', 'Atlantika'),
+('CO-BOL', 'so', 'Bolivar'),
+('CO-BOY', 'so', 'Boyaca'),
+('CO-CAL', 'so', 'Gobolka Caldas'),
+('CO-CAQ', 'so', 'Caqueta'),
+('CO-CAS', 'so', 'Gobolka Casanare'),
+('CO-CAU', 'so', 'Gobolka Cauca'),
+('CO-CES', 'so', 'Gobolka Cesar'),
+('CO-CHO', 'so', 'Choco'),
+('CO-COR', 'so', 'Cordoba'),
+('CO-CUN', 'so', 'Kundinamarka'),
+('CO-DC', 'so', 'Bogota D.C.'),
+('CO-GUA', 'so', 'Gobolka Guainia'),
+('CO-GUV', 'so', 'Gobolka Guaviare'),
+('CO-HUI', 'so', 'Gobolka Huila'),
+('CO-LAG', 'so', 'Gobolka La Guajira'),
+('CO-MAG', 'so', 'Gobolka Magdalena'),
+('CO-MET', 'so', 'Gobolka Meta'),
+('CO-NAR', 'so', 'Narino'),
+('CO-NSA', 'so', 'Gobolka Woqooyi Santander'),
+('CO-PUT', 'so', 'Gobolka Putumayo'),
+('CO-QUI', 'so', 'Gobolka Quindio'),
+('CO-RIS', 'so', 'Gobolka Risaralda'),
+('CO-SAN', 'so', 'Gobolka Santander'),
+('CO-SAP', 'so', 'San Andres iyo Providencia'),
+('CO-SUC', 'so', 'Gobolka Sucre'),
+('CO-TOL', 'so', 'Gobolka Tolima'),
+('CO-VAC', 'so', 'Gobolka Valle del Cauca'),
+('CO-VAU', 'so', 'Vaupes'),
+('CO-VID', 'so', 'Gobolka Vichada');
+
+SET FOREIGN_KEY_CHECKS=1;

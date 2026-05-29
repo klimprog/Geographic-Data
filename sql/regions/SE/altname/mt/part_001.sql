@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SE-AB', 'mt', 'Stokkolma'),
+('SE-AC', 'mt', 'Västerbottens län'),
+('SE-BD', 'mt', 'Norrbottens län'),
+('SE-C', 'mt', 'Uppsala län'),
+('SE-D', 'mt', 'Södermanlands län'),
+('SE-E', 'mt', 'Östergötlands län'),
+('SE-F', 'mt', 'Jönköpings län'),
+('SE-G', 'mt', 'Kronobergs län'),
+('SE-H', 'mt', 'Kalmar län'),
+('SE-I', 'mt', 'Kontea ta'' Gotland'),
+('SE-K', 'mt', 'Kontea ta'' Blekinge'),
+('SE-M', 'mt', 'Skåne län'),
+('SE-N', 'mt', 'Hallands län'),
+('SE-O', 'mt', 'Västra Götalands län'),
+('SE-S', 'mt', 'Värmlands län'),
+('SE-T', 'mt', 'Örebro län'),
+('SE-U', 'mt', 'Västmanlands län'),
+('SE-W', 'mt', 'Dalarnas län'),
+('SE-X', 'mt', 'Gävleborgs län'),
+('SE-Y', 'mt', 'Västernorrland'),
+('SE-Z', 'mt', 'Jämtland');
+
+SET FOREIGN_KEY_CHECKS=1;

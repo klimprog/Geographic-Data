@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('QA-DA', 'rw', 'Baladiyat ad Dawhah'),
+('QA-KH', 'rw', 'Baladiyat al Khawr wa adh Dhakhirah'),
+('QA-MS', 'rw', 'Baladiyat ash Shamal'),
+('QA-RA', 'rw', 'Baladiyat ar Rayyan'),
+('QA-SH', 'rw', 'Al-Shahaniya'),
+('QA-US', 'rw', 'Baladiyat Umm Salal'),
+('QA-WA', 'rw', 'Al Wakrah'),
+('QA-ZA', 'rw', 'Baladiyat az Za''ayin');
+
+SET FOREIGN_KEY_CHECKS=1;

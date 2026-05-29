@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'lv', 'Abjānas muhāfaza'),
+('YE-AD', 'lv', 'Guberņa Numur Viens'),
+('YE-AM', 'lv', 'Amrānas muhāfaza'),
+('YE-BA', 'lv', 'Baidas muhāfaza'),
+('YE-DA', 'lv', 'Dālī muhāfaza'),
+('YE-DH', 'lv', 'Demāras muhāfaza'),
+('YE-HD', 'lv', 'Hadramautas muhāfaza'),
+('YE-HJ', 'lv', 'Hadžas muhāfaza'),
+('YE-HU', 'lv', 'Hudeidas muhāfaza'),
+('YE-IB', 'lv', 'Ibas muhāfaza'),
+('YE-JA', 'lv', 'Džaufas muhāfaza'),
+('YE-LA', 'lv', 'Muhafazats Lahijs'),
+('YE-MA', 'lv', 'Maaribas muhāfaza'),
+('YE-MR', 'lv', 'Mahras muhāfaza'),
+('YE-MW', 'lv', 'Mehvītas muhāfaza'),
+('YE-RA', 'lv', 'Raimas muhāfaza'),
+('YE-SA', 'lv', 'Amanats alasimahs'),
+('YE-SD', 'lv', 'Saadas muhāfaza'),
+('YE-SH', 'lv', 'Šebvas muhāfaza'),
+('YE-SN', 'lv', 'Sanaa'),
+('YE-SU', 'lv', 'Sokotra'),
+('YE-TA', 'lv', 'Taizas muhāfaza');
+
+SET FOREIGN_KEY_CHECKS=1;

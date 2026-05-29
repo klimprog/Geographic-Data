@@ -1,0 +1,41 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(215089301, 2793368, 'mh', 'Trinity'),
+(215089994, 2793377, 'mh', 'Sandy Point Town'),
+(215090148, 2793379, 'mh', 'Saint Paul''s'),
+(215090225, 2793380, 'mh', 'Saddlers'),
+(215091149, 2793392, 'mh', 'Ortons'),
+(215091226, 2793393, 'mh', 'Old Road Town'),
+(215091380, 2793395, 'mh', 'Nicola Town'),
+(215091611, 2793398, 'mh', 'Newcastle'),
+(215091842, 2793401, 'mh', 'Monkey Hill'),
+(215091996, 2793403, 'mh', 'Middle Island'),
+(215092150, 2793405, 'mh', 'Market Shop'),
+(215092227, 2793406, 'mh', 'Mardenbrough'),
+(215092304, 2793407, 'mh', 'Mansion'),
+(215092997, 2793416, 'mh', 'Kit Stoddart'),
+(215093382, 2793421, 'mh', 'Hull Ground'),
+(215093844, 2793427, 'mh', 'Hermitage'),
+(215093998, 2793429, 'mh', 'Harris'),
+(215094152, 2793431, 'mh', 'Hardtimes'),
+(215094229, 2793432, 'mh', 'Half Way Tree'),
+(215094383, 2793434, 'mh', 'Golden Rock'),
+(215094460, 2793435, 'mh', 'Gingerland'),
+(215094845, 2793440, 'mh', 'Fig Tree'),
+(215095076, 2793443, 'mh', 'Dieppe Bay Town'),
+(215095307, 2793446, 'mh', 'Craddocks'),
+(215095461, 2793448, 'mh', 'Cotton Ground'),
+(215095769, 2793452, 'mh', 'Church Ground'),
+(215095923, 2793454, 'mh', 'Charlestown'),
+(215096077, 2793456, 'mh', 'Cayon'),
+(215096616, 2793463, 'mh', 'Brumaire'),
+(215096847, 2793466, 'mh', 'Brownes'),
+(215097078, 2793469, 'mh', 'Boyds'),
+(215097463, 2793474, 'mh', 'Basseterre'),
+(215097540, 2793475, 'mh', 'Barnes Ghaut'),
+(215097771, 2793478, 'mh', 'Fortlands'),
+(215098079, 2793482, 'mh', 'Stoney Hill');
+
+SET FOREIGN_KEY_CHECKS=1;

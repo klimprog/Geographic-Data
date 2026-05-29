@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(318382979, 4134844, 'tk', 'West Coast Village'),
+(318383056, 4134845, 'tk', 'Ulu Bedok'),
+(318383133, 4134846, 'tk', 'Thong Hoe Village'),
+(318383210, 4134847, 'tk', 'Sungai Simpang'),
+(318383364, 4134849, 'tk', 'Singapore'),
+(318383441, 4134850, 'tk', 'Sembawang emläk'),
+(318383826, 4134855, 'tk', 'Pulau Ubin obasy'),
+(318383903, 4134856, 'tk', 'Matilda Estate'),
+(318384057, 4134858, 'tk', 'Lam San Village'),
+(318384134, 4134859, 'tk', 'Keat Hong Village'),
+(318385058, 4134871, 'tk', 'Kampong Tebing Terjun'),
+(318385135, 4134872, 'tk', 'Kampong Teban'),
+(318386367, 4134888, 'tk', 'Kampong Saigon'),
+(318386752, 4134893, 'tk', 'Kampong Pesek'),
+(318387214, 4134899, 'tk', 'Kampong Pasir Ris'),
+(318387984, 4134909, 'tk', 'Kampong Loyang'),
+(318388677, 4134918, 'tk', 'Kampong Java Teban'),
+(318389062, 4134923, 'tk', 'Kampong Bukit Panjang'),
+(318390371, 4134940, 'tk', 'Chia Keng'),
+(318390525, 4134942, 'tk', 'Buona Vista'),
+(318390679, 4134944, 'tk', 'Bukit Mandai obasy'),
+(318391064, 4134949, 'tk', 'Jurong'),
+(318391372, 4134953, 'tk', 'Yishun New Town'),
+(318391911, 4134960, 'tk', 'Ang Mo Kio New Town'),
+(318391988, 4134961, 'tk', 'Bukit Panjang New Town'),
+(318392065, 4134962, 'tk', 'Choa Chu Kang Täze şäher'),
+(318392142, 4134963, 'tk', 'Queenstown Estate'),
+(318392219, 4134964, 'tk', 'Choa Chu Kang Täze şäher'),
+(318392835, 4134972, 'tk', 'Sengkang Täze şäher');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NR-01', 'sr', 'Аиво Дистрицт'),
+('NR-02', 'sr', 'Анабар'),
+('NR-03', 'sr', 'Анетан'),
+('NR-04', 'sr', 'Анибаре'),
+('NR-05', 'sr', 'Баити'),
+('NR-06', 'sr', 'Бое'),
+('NR-07', 'sr', 'Буада'),
+('NR-08', 'sr', 'Денигомоду'),
+('NR-09', 'sr', 'Ева Дистрицт'),
+('NR-10', 'sr', 'Ијув Дистрицт'),
+('NR-11', 'sr', 'Мененг'),
+('NR-12', 'sr', 'Нибок'),
+('NR-13', 'sr', 'Уабое'),
+('NR-14', 'sr', 'Јарен');
+
+SET FOREIGN_KEY_CHECKS=1;

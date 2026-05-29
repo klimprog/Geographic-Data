@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CI-AB', 'el', 'Αμπιτζάν'),
+('CI-BS', 'el', 'Μπας-Σασάνδρα'),
+('CI-CM', 'el', 'Κόμοε'),
+('CI-DN', 'el', 'Ντενγκουέλε'),
+('CI-GD', 'el', 'Γκο-Ντζιμπουά'),
+('CI-LC', 'el', 'Λακς'),
+('CI-LG', 'el', 'Λαγονήσι'),
+('CI-MG', 'el', 'Μοντάγνες'),
+('CI-SM', 'el', 'Σασάνδρα-Μαραχούε'),
+('CI-SV', 'el', 'Σαβάνες'),
+('CI-VB', 'el', 'Βαλέ Ντου Μπαντάμα'),
+('CI-WR', 'el', 'Γουόρομπα'),
+('CI-YM', 'el', 'Αυτόνομο Διαμέρισμα του Γιαμουσουκρό'),
+('CI-ZZ', 'el', 'Ζανζάν');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UZ-AN', 'vi', 'Andijon'),
+('UZ-BU', 'vi', 'Buxoro'),
+('UZ-FA', 'vi', 'Farg''ona'),
+('UZ-JI', 'vi', 'Jizzax'),
+('UZ-NG', 'vi', 'Namangan'),
+('UZ-NW', 'vi', 'Navoiy'),
+('UZ-QA', 'vi', 'Qashqadaryo'),
+('UZ-QR', 'vi', 'Qaraqalpaqstan'),
+('UZ-SA', 'vi', 'Samarqand'),
+('UZ-SI', 'vi', 'Sirdaryo'),
+('UZ-SU', 'vi', 'Surxondaryo'),
+('UZ-TK', 'vi', 'Tashkent'),
+('UZ-TO', 'vi', 'Toshkent'),
+('UZ-XO', 'vi', 'Xorazm');
+
+SET FOREIGN_KEY_CHECKS=1;

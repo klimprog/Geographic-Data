@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'el', 'Βρανδεμβούργο'),
+('DE-BE', 'el', 'Βερολίνο'),
+('DE-BW', 'el', 'Βάδη-Βυρτεμβέργη'),
+('DE-BY', 'el', 'Βαυαρία'),
+('DE-HB', 'el', 'Βρέμη'),
+('DE-HE', 'el', 'Έσση'),
+('DE-HH', 'el', 'Αμβούργο'),
+('DE-MV', 'el', 'Μεκλεμβούργο-Δυτική Πομερανία'),
+('DE-NI', 'el', 'Κάτω Σαξονία'),
+('DE-NW', 'el', 'Βόρεια Ρηνανία-Βεστφαλία'),
+('DE-RP', 'el', 'Ρηνανία-Παλατινάτο'),
+('DE-SH', 'el', 'Σλέσβιχ-Χόλσταϊν'),
+('DE-SL', 'el', 'Σάαρλαντ'),
+('DE-SN', 'el', 'Σαξονία'),
+('DE-ST', 'el', 'Σαξωνία-Άνχαλτ'),
+('DE-TH', 'el', 'Θουριγγία');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ME-01', 'tk', 'Andrijevica'),
+('ME-02', 'tk', 'Bar'),
+('ME-03', 'tk', 'Berane'),
+('ME-04', 'tk', 'Bijelo Pole'),
+('ME-05', 'tk', 'Budva'),
+('ME-06', 'tk', 'Cetine'),
+('ME-07', 'tk', 'Danilovgrad'),
+('ME-08', 'tk', 'Herceg Novi'),
+('ME-09', 'tk', 'Kolasin'),
+('ME-10', 'tk', 'Kotor'),
+('ME-11', 'tk', 'Mojkovac'),
+('ME-12', 'tk', 'Niksic'),
+('ME-13', 'tk', 'Plav'),
+('ME-14', 'tk', 'Pljevlja'),
+('ME-15', 'tk', 'Pluzine'),
+('ME-16', 'tk', 'Podgorica'),
+('ME-17', 'tk', 'Rozaje'),
+('ME-18', 'tk', 'Savnik'),
+('ME-19', 'tk', 'Tivat'),
+('ME-20', 'tk', 'Ulcin'),
+('ME-21', 'tk', 'Zablak'),
+('ME-22', 'tk', 'Gusine'),
+('ME-23', 'tk', 'Petnica'),
+('ME-24', 'tk', 'Tuzi'),
+('ME-25', 'tk', 'Zeta');
+
+SET FOREIGN_KEY_CHECKS=1;

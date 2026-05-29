@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GD-01', 'ar', 'أبرشية سانت أندرو'),
+('GD-02', 'ar', 'أبرشية القديس ديفيد'),
+('GD-03', 'ar', 'أبرشية القديس جورج'),
+('GD-04', 'ar', 'أبرشية القديس جون'),
+('GD-05', 'ar', 'أبرشية القديس مارك'),
+('GD-06', 'ar', 'أبرشية القديس باتريك'),
+('GD-10', 'ar', 'أبرشية القديس باتريك');
+
+SET FOREIGN_KEY_CHECKS=1;

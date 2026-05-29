@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NE-1', 'si', 'අගඩෙස් කලාපය'),
+('NE-2', 'si', 'ඩිෆ්ෆා කලාපය'),
+('NE-3', 'si', 'දොස්සෝ කලාපය'),
+('NE-4', 'si', 'මරදී කලාපය'),
+('NE-5', 'si', 'ටාඔහුකලාපය ආ'),
+('NE-6', 'si', 'ටිල්ලම්බෙරි කලාපය'),
+('NE-7', 'si', 'සින්ඩර් කලාපය'),
+('NE-8', 'si', 'නියාමි');
+
+SET FOREIGN_KEY_CHECKS=1;

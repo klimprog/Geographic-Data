@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'vi', 'An Huy'),
+('CN-BJ', 'vi', 'Bắc Kinh'),
+('CN-CQ', 'vi', 'Trùng Khánh'),
+('CN-FJ', 'vi', 'Phúc Kiến'),
+('CN-GD', 'vi', 'Quảng Đông'),
+('CN-GS', 'vi', 'Cam Túc'),
+('CN-GX', 'vi', 'Quảng Tây'),
+('CN-GZ', 'vi', 'Quý Châu'),
+('CN-HA', 'vi', 'Hà Nam'),
+('CN-HB', 'vi', 'Hồ Bắc'),
+('CN-HE', 'vi', 'Hà Bắc'),
+('CN-HI', 'vi', 'Hải Nam'),
+('CN-HK', 'vi', 'Hong Kong SAR'),
+('CN-HL', 'vi', 'Hắc Long Giang'),
+('CN-HN', 'vi', 'Hồ Nam'),
+('CN-JL', 'vi', 'Cát Lâm'),
+('CN-JS', 'vi', 'Giang Tô'),
+('CN-JX', 'vi', 'Giang Tây'),
+('CN-LN', 'vi', 'Liêu Ninh'),
+('CN-MO', 'vi', 'Macao SAR'),
+('CN-NM', 'vi', 'Nội Mông'),
+('CN-NX', 'vi', 'Ninh Hạ'),
+('CN-QH', 'vi', 'Thanh Hải'),
+('CN-SC', 'vi', 'Tứ Xuyên'),
+('CN-SD', 'vi', 'Sơn Đông'),
+('CN-SH', 'vi', 'Thượng Hải'),
+('CN-SN', 'vi', 'Thiểm Tây'),
+('CN-SX', 'vi', 'Sơn Tây'),
+('CN-TJ', 'vi', 'Thiên Tân'),
+('CN-TW', 'vi', 'Taiwan Sheng'),
+('CN-XJ', 'vi', 'Tân Cương'),
+('CN-XZ', 'vi', 'Tây Tạng'),
+('CN-YN', 'vi', 'Vân Nam'),
+('CN-ZJ', 'vi', 'Chiết Giang');
+
+SET FOREIGN_KEY_CHECKS=1;

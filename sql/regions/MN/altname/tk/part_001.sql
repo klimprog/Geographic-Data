@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MN-035', 'tk', 'Orhon'),
+('MN-037', 'tk', 'Darhan-Uul'),
+('MN-039', 'tk', 'Hentiy Aýmag'),
+('MN-041', 'tk', 'Hovsgol'),
+('MN-043', 'tk', 'Hovd'),
+('MN-046', 'tk', 'Uvs'),
+('MN-047', 'tk', 'Tov'),
+('MN-049', 'tk', 'Selenge'),
+('MN-051', 'tk', 'Suhbaatar'),
+('MN-053', 'tk', 'Omnogov'''),
+('MN-055', 'tk', 'Günorta Khangay'),
+('MN-057', 'tk', 'Zavhan'),
+('MN-059', 'tk', 'Dundgov'''),
+('MN-061', 'tk', 'Dornod'),
+('MN-063', 'tk', 'Dornogov'''),
+('MN-064', 'tk', 'Gov''sumber'),
+('MN-065', 'tk', 'Govi-Altay Aýmag'),
+('MN-067', 'tk', 'Bulgan'),
+('MN-069', 'tk', 'Baanhongor'),
+('MN-071', 'tk', 'Baýan-OElgiy Aýmag'),
+('MN-073', 'tk', 'Arhangaý Aýmag'),
+('MN-1', 'tk', 'Ulaanbaatar');
+
+SET FOREIGN_KEY_CHECKS=1;

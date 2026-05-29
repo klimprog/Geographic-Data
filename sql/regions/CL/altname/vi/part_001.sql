@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CL-AI', 'vi', 'Khu vực Aysén'),
+('CL-AN', 'vi', 'Khu vực Antofagasta'),
+('CL-AP', 'vi', 'Arica và Parinacota'),
+('CL-AR', 'vi', 'Khu vực Araucanía'),
+('CL-AT', 'vi', 'Khu vực Atacama'),
+('CL-BI', 'vi', 'Vùng Bío Bío'),
+('CL-CO', 'vi', 'Khu vực Coquimbo'),
+('CL-LI', 'vi', 'Khu vực Libertador General Bernardo O''Higgins'),
+('CL-LL', 'vi', 'Khu vực Los Lagos'),
+('CL-LR', 'vi', 'Khu vực Los Ríos'),
+('CL-MA', 'vi', 'Magellan và Địa Cực Chile'),
+('CL-ML', 'vi', 'Khu vực Maule'),
+('CL-NB', 'vi', 'Nuble'),
+('CL-RM', 'vi', 'Khu Đô thị Santiago'),
+('CL-TA', 'vi', 'Khu vực Tarapacá'),
+('CL-VS', 'vi', 'Khu vực Valparaíso');
+
+SET FOREIGN_KEY_CHECKS=1;

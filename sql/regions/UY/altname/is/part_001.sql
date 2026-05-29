@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UY-AR', 'is', 'Departamento de Artigas'),
+('UY-CA', 'is', 'Departamento de Canelones'),
+('UY-CL', 'is', 'Cerro Largo'),
+('UY-CO', 'is', 'Departamento de Colonia'),
+('UY-DU', 'is', 'Departamento de Durazno'),
+('UY-FD', 'is', 'Departamento de Florida'),
+('UY-FS', 'is', 'Departamento de Flores'),
+('UY-LA', 'is', 'Departamento de Lavalleja'),
+('UY-MA', 'is', 'Departamento de Maldonado'),
+('UY-MO', 'is', 'Departamento de Montevideo'),
+('UY-PA', 'is', 'Departamento de Paysandu'),
+('UY-RN', 'is', 'Departamento de Rio Negro'),
+('UY-RO', 'is', 'Departamento de Rocha'),
+('UY-RV', 'is', 'Departamento de Rivera'),
+('UY-SA', 'is', 'Departamento de Salto'),
+('UY-SJ', 'is', 'Departamento de San Jose'),
+('UY-SO', 'is', 'Departamento de Soriano'),
+('UY-TA', 'is', 'Departamento de Tacuarembo'),
+('UY-TT', 'is', 'Departamento de Treinta y Tres');
+
+SET FOREIGN_KEY_CHECKS=1;

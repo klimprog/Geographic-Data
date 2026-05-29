@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UA-05', 'tr', 'Vinnitsa Oblastı'),
+('UA-07', 'tr', 'Volın Oblastı'),
+('UA-09', 'tr', 'Luhansk Oblastı'),
+('UA-12', 'tr', 'Dnipropetrovsk Oblastı'),
+('UA-14', 'tr', 'Donetsk Oblastı'),
+('UA-18', 'tr', 'Jitomir Oblastı'),
+('UA-21', 'tr', 'Zakarpatya Oblastı'),
+('UA-23', 'tr', 'Zaporijya Oblastı'),
+('UA-26', 'tr', 'İvano-Frankivsk Oblastı'),
+('UA-30', 'tr', 'Kiev Oblastı'),
+('UA-32', 'tr', 'Kiev Oblastı'),
+('UA-35', 'tr', 'Kirovograd Oblastı'),
+('UA-40', 'tr', 'Sebastopol Şehri'),
+('UA-43', 'tr', 'Kırım Özerk Cumhuriyeti'),
+('UA-46', 'tr', 'Lviv Oblastı'),
+('UA-48', 'tr', 'Mıkolayiv Oblastı'),
+('UA-51', 'tr', 'Odessa Oblastı'),
+('UA-53', 'tr', 'Poltava Oblastı'),
+('UA-56', 'tr', 'Rivne Oblastı'),
+('UA-59', 'tr', 'Sumi Oblastı'),
+('UA-61', 'tr', 'Ternopil Oblastı'),
+('UA-63', 'tr', 'Harkiv Oblastı'),
+('UA-65', 'tr', 'Herson Oblastı'),
+('UA-68', 'tr', 'Hmelnitski Oblastı'),
+('UA-71', 'tr', 'Çerkası Oblastı'),
+('UA-74', 'tr', 'Çernigov Oblastı'),
+('UA-77', 'tr', 'Çernivtsi Oblastı');
+
+SET FOREIGN_KEY_CHECKS=1;

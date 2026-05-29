@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NR-01', 'uz', 'Aiwo tumani'),
+('NR-02', 'uz', 'Anabar tumani'),
+('NR-03', 'uz', 'Anetan tumani'),
+('NR-04', 'uz', 'Anibare tumani'),
+('NR-05', 'uz', 'Baiti tumani'),
+('NR-06', 'uz', 'Boe tumani'),
+('NR-07', 'uz', 'Buada tumani'),
+('NR-08', 'uz', 'Denigomodu tumani'),
+('NR-09', 'uz', 'Ewa tumani'),
+('NR-10', 'uz', 'Ijuw tumani'),
+('NR-11', 'uz', 'Meneng tumani'),
+('NR-12', 'uz', 'Nibok tumani'),
+('NR-13', 'uz', 'Uaboe tumani'),
+('NR-14', 'uz', 'Yaren');
+
+SET FOREIGN_KEY_CHECKS=1;

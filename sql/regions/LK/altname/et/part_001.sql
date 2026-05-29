@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'et', 'Lääne provints'),
+('LK-11', 'et', 'Colombo'),
+('LK-12', 'et', 'Gampaha'),
+('LK-13', 'et', 'Kalutara'),
+('LK-2', 'et', 'Keskprovints'),
+('LK-21', 'et', 'Kandy'),
+('LK-22', 'et', 'Matale'),
+('LK-23', 'et', 'Nuwara Eliya'),
+('LK-3', 'et', 'Lõuna provints'),
+('LK-31', 'et', 'Galle'),
+('LK-32', 'et', 'Matara'),
+('LK-33', 'et', 'Hambantota'),
+('LK-4', 'et', 'Põhja provints'),
+('LK-41', 'et', 'Jaffna'),
+('LK-42', 'et', 'Kilinochchi'),
+('LK-43', 'et', 'Mannar'),
+('LK-44', 'et', 'Vavuniya'),
+('LK-45', 'et', 'Mullaittivu'),
+('LK-5', 'et', 'Ida provints'),
+('LK-51', 'et', 'Batticaloa'),
+('LK-52', 'et', 'Ampara'),
+('LK-53', 'et', 'Trincomalee'),
+('LK-6', 'et', 'Loodeprovints'),
+('LK-61', 'et', 'Kurunegala'),
+('LK-62', 'et', 'Puttalam'),
+('LK-7', 'et', 'Põhja-Keskprovints'),
+('LK-71', 'et', 'Anuradhapura'),
+('LK-72', 'et', 'Polonnaruwa'),
+('LK-8', 'et', NULL),
+('LK-81', 'et', 'Badulla'),
+('LK-82', 'et', 'Monaragala'),
+('LK-9', 'et', 'Sabaragamuwa provints'),
+('LK-91', 'et', 'Ratnapura'),
+('LK-92', 'et', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

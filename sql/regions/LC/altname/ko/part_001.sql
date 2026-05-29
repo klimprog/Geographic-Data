@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LC-01', 'ko', '앙스라레구'),
+('LC-02', 'ko', '캐스트리스구'),
+('LC-03', 'ko', '슈아죌구'),
+('LC-05', 'ko', '데네리구'),
+('LC-06', 'ko', '그로스아일렛구'),
+('LC-07', 'ko', '라보리구'),
+('LC-08', 'ko', '미쿠구'),
+('LC-10', 'ko', '수프리에르구'),
+('LC-11', 'ko', '비외포르구'),
+('LC-12', 'ko', '카나리아');
+
+SET FOREIGN_KEY_CHECKS=1;

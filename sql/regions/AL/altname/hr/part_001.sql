@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'hr', 'Beratski okrug'),
+('AL-02', 'hr', 'Drački okrug'),
+('AL-03', 'hr', 'Elbasanski okrug'),
+('AL-04', 'hr', 'Fierski okrug'),
+('AL-05', 'hr', 'Gjirokastërski okrug'),
+('AL-06', 'hr', 'Korčanski okrug'),
+('AL-07', 'hr', 'Kukëski okrug'),
+('AL-08', 'hr', 'Lješki okrug'),
+('AL-09', 'hr', 'Dibrski okrug'),
+('AL-10', 'hr', 'Skadarski okrug'),
+('AL-11', 'hr', 'Tiranski okrug'),
+('AL-12', 'hr', 'Valonski okrug');
+
+SET FOREIGN_KEY_CHECKS=1;

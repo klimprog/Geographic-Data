@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LI-01', 'bn', 'বল্জ়ের্স্'),
+('LI-02', 'bn', 'এশেন'),
+('LI-03', 'bn', 'গাম্প্রিন'),
+('LI-04', 'bn', 'মাউরেন'),
+('LI-05', 'bn', 'প্লন্কেন্'),
+('LI-06', 'bn', 'রুগেল'),
+('LI-07', 'bn', 'শাআন'),
+('LI-08', 'bn', 'স্ছেল্লেন্বের্গ্'),
+('LI-09', 'bn', 'ট্রিজেন'),
+('LI-10', 'bn', 'ট্রিসেনবার্গ'),
+('LI-11', 'bn', 'ফাডুৎস');
+
+SET FOREIGN_KEY_CHECKS=1;

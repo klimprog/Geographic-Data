@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('JO-AJ', 'JO', 'Ajloun', 'محافظة عجلون', 2739491, 55000, 'UTC+3', 'Asia/Amman'),
+('JO-AM', 'JO', 'Amman Governorate', 'محافظة عمّان', NULL, 1972712, 'UTC+3', 'Asia/Amman'),
+('JO-AQ', 'JO', 'Muhafazat al ''Aqabah', 'محافظة العقبة', 2739483, 139200, 'UTC+3', 'Asia/Amman'),
+('JO-AT', 'JO', 'Muhafazat at Tafilah', 'محافظة الطفيلة', 2739288, 89400, 'UTC+3', 'Asia/Amman'),
+('JO-AZ', 'JO', 'Muhafazat az Zarqa''', 'محافظة الزرقاء', 2739263, 910800, 'UTC+3', 'Asia/Amman'),
+('JO-BA', 'JO', 'Muhafazat al Balqa''', 'محافظة البلقاء', 2739308, 409500, 'UTC+3', 'Asia/Amman'),
+('JO-IR', 'JO', 'Irbid', 'اربد', 2739170, 942069, 'UTC+3', 'Asia/Amman'),
+('JO-JA', 'JO', 'Jerash', 'جرش', 2739155, 156585, 'UTC+3', 'Asia/Amman'),
+('JO-KA', 'JO', 'Al Karak', 'الكرك', 2739530, 207335, 'UTC+3', 'Asia/Amman'),
+('JO-MA', 'JO', 'Al Mafraq', 'محافظة المفرق', 2739405, 246783, 'UTC+3', 'Asia/Amman'),
+('JO-MD', 'JO', 'Muhafazat Madaba', 'مادبا', 2739038, 131900, 'UTC+3', 'Asia/Amman'),
+('JO-MN', 'JO', 'Muhafazat Ma''an', 'محافظة معان', 2739039, 121400, 'UTC+3', 'Asia/Amman');
+
+SET FOREIGN_KEY_CHECKS=1;

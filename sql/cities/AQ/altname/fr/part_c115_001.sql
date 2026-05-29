@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072090, 52885, 'fr', 'villa Las Estrellas'),
+(4072167, 52886, 'fr', 'Base Antarctique Davis'),
+(4072244, 52887, 'fr', 'Base Général Bernardo O''Higgins Riquelme'),
+(4072321, 52888, 'fr', 'Base Antarctique Showa'),
+(4072398, 52889, 'fr', 'Gare de Jang Bogo'),
+(4072475, 52890, 'fr', 'Gare SANAE IV'),
+(4072552, 52891, 'fr', 'Gare de Qinling'),
+(4072629, 52892, 'fr', 'Gare de Zhongshan'),
+(4072706, 52893, 'fr', 'Base Antarctique Mawson'),
+(4072937, 52896, 'fr', 'Base Antarctique Progress'),
+(4073168, 52899, 'fr', 'Base Antarctique Novolazarevskaya'),
+(4073322, 52901, 'fr', 'Base Antarctique Mirni');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BR-AC', 'la', 'civitas Acrensis'),
+('BR-AL', 'la', 'Alacunae'),
+('BR-AM', 'la', 'Amazonensis'),
+('BR-AP', 'la', 'civitas Amapaensis'),
+('BR-BA', 'la', 'civitas Bahiensis'),
+('BR-CE', 'la', 'civitas Siarensis'),
+('BR-DF', 'la', 'Distritum Foederale'),
+('BR-ES', 'la', 'Civitas Spiritus Sancti'),
+('BR-GO', 'la', 'Goyas'),
+('BR-MA', 'la', 'Maragnanum'),
+('BR-MG', 'la', 'Civitas Minarum Generalium'),
+('BR-MS', 'la', 'Silva Crassa Meridionalis'),
+('BR-MT', 'la', 'Silva Crassa'),
+('BR-PA', 'la', 'Paraensis'),
+('BR-PB', 'la', 'civitas Paraibensis'),
+('BR-PE', 'la', 'Pernambuci praefectura'),
+('BR-PI', 'la', 'Piauhy'),
+('BR-PR', 'la', 'Parana'),
+('BR-RJ', 'la', 'Flumen Ianuarii'),
+('BR-RN', 'la', 'Flumen Magnum Septentrionale'),
+('BR-RO', 'la', 'Rondonia'),
+('BR-RR', 'la', 'Roraima'),
+('BR-RS', 'la', 'civitas Fluvii Magni Australis'),
+('BR-SC', 'la', 'Sancta Catharina'),
+('BR-SE', 'la', 'Sergipensis'),
+('BR-SP', 'la', 'Sanctus Paulus'),
+('BR-TO', 'la', 'Tocantins');
+
+SET FOREIGN_KEY_CHECKS=1;

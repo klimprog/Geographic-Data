@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'rw', 'Qarku i Beratit'),
+('AL-02', 'rw', 'Qarku i Durresit'),
+('AL-03', 'rw', 'Qarku i Elbasanit'),
+('AL-04', 'rw', 'Qarku i Fierit'),
+('AL-05', 'rw', 'Qarku i Gjirokastres'),
+('AL-06', 'rw', 'Qarku i Korces'),
+('AL-07', 'rw', 'Qarku i Kukesit'),
+('AL-08', 'rw', 'Qarku i Lezhes'),
+('AL-09', 'rw', 'Qarku i Dibres'),
+('AL-10', 'rw', 'Qarku i Shkodres'),
+('AL-11', 'rw', 'Tirana'),
+('AL-12', 'rw', 'Qarku i Vlores');
+
+SET FOREIGN_KEY_CHECKS=1;

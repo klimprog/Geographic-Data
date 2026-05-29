@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'el', 'Μπαλχ'),
+('AF-BAM', 'el', 'Μπαμιάν'),
+('AF-BDG', 'el', 'Μπαντγκίς'),
+('AF-BDS', 'el', 'Μπανταχσάν'),
+('AF-BGL', 'el', 'Μπαγκλάν'),
+('AF-DAY', 'el', 'Ντεϊκούντι'),
+('AF-FRA', 'el', 'Φαράχ'),
+('AF-FYB', 'el', 'Φαρυάμπ'),
+('AF-GHA', 'el', 'Γκαζνί'),
+('AF-GHO', 'el', 'Γκοούρ'),
+('AF-HEL', 'el', 'Χελμάντ'),
+('AF-HER', 'el', 'Χεράτ'),
+('AF-JOW', 'el', 'Τζοουζτζάν'),
+('AF-KAB', 'el', 'Καμπούλ'),
+('AF-KAN', 'el', 'Κανταχάρ'),
+('AF-KAP', 'el', 'Καπίσα'),
+('AF-KDZ', 'el', 'Κουντούζ'),
+('AF-KHO', 'el', 'Χοστ'),
+('AF-KNR', 'el', 'Κουνάρ'),
+('AF-LAG', 'el', 'Λαγκμάν'),
+('AF-LOG', 'el', 'Λογκάρ'),
+('AF-NAN', 'el', 'Νανγκαράρ'),
+('AF-NIM', 'el', 'Νιμρούζ'),
+('AF-NUR', 'el', 'Νουρεστάν'),
+('AF-PAN', 'el', 'Παντζίρ'),
+('AF-PAR', 'el', 'Παρβάν'),
+('AF-PIA', 'el', 'Πακτιά'),
+('AF-PKA', 'el', 'Πακτίκα'),
+('AF-SAM', 'el', 'Σαμανγκάν'),
+('AF-SAR', 'el', 'Σαρ-ε Πολ'),
+('AF-TAK', 'el', 'Ταχάρ'),
+('AF-URU', 'el', 'Ορουζγκάν'),
+('AF-WAR', 'el', 'Μαϊντάν Βαρντάκ'),
+('AF-ZAB', 'el', 'Ζάμπουλ');
+
+SET FOREIGN_KEY_CHECKS=1;

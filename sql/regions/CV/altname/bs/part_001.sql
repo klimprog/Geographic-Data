@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CV-B', 'bs', 'Ilhas de Barlavento'),
+('CV-BR', 'bs', 'Concelho da Brava'),
+('CV-BV', 'bs', 'Concelho da Boa Vista'),
+('CV-CA', 'bs', 'Concelho de Santa Catarina'),
+('CV-CF', 'bs', 'Concelho de Santa Catarina do Fogo'),
+('CV-CR', 'bs', 'Concelho de Santa Cruz'),
+('CV-MA', 'bs', 'Concelho do Maio'),
+('CV-MO', 'bs', 'Concelho dos Mosteiros'),
+('CV-PA', 'bs', 'Concelho do Paul'),
+('CV-PN', 'bs', 'Concelho do Porto Novo'),
+('CV-PR', 'bs', 'Concelho da Praia'),
+('CV-RB', 'bs', 'Concelho da Ribeira Brava'),
+('CV-RG', 'bs', 'Concelho da Ribeira Grande'),
+('CV-RS', 'bs', 'Concelho de Ribeira Grande de Santiago'),
+('CV-S', 'bs', 'Ilhas de Sotavento'),
+('CV-SD', 'bs', 'Concelho de Sao Domingos'),
+('CV-SF', 'bs', 'Concelho do São Filipe'),
+('CV-SL', 'bs', 'Općina Sal'),
+('CV-SM', 'bs', 'Concelho de São Miguel'),
+('CV-SO', 'bs', 'São Lourenço dos Orgãos'),
+('CV-SS', 'bs', 'Concelho de Sao Salvador do Mundo'),
+('CV-SV', 'bs', 'Concelho de Sao Vicente'),
+('CV-TA', 'bs', 'Concelho do Tarrafal'),
+('CV-TS', 'bs', 'Concelho do Tarrafal de Sao Nicolau');
+
+SET FOREIGN_KEY_CHECKS=1;

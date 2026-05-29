@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(15646037, 203196, 'fr', 'Sitra'),
+(15646345, 203200, 'fr', 'sanabis'),
+(15647346, 203213, 'fr', 'Madinat ''Isa'),
+(15648039, 203222, 'fr', 'Jidhafs'),
+(15648809, 203232, 'fr', 'Hamad Town'),
+(15649348, 203239, 'fr', 'dar kulayb'),
+(15651119, 203262, 'fr', 'Muharraq'),
+(15651273, 203264, 'fr', 'Manama'),
+(15652197, 203276, 'fr', 'Al Hidd'),
+(15652659, 203282, 'fr', 'Diraz'),
+(15652967, 203286, 'fr', 'Riffa');
+
+SET FOREIGN_KEY_CHECKS=1;

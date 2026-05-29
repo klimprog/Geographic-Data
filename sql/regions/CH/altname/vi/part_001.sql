@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'vi', 'Aargau'),
+('CH-AI', 'vi', 'Appenzell Innerrhoden'),
+('CH-AR', 'vi', 'Appenzell Ausserrhoden'),
+('CH-BE', 'vi', 'Bern'),
+('CH-BL', 'vi', 'Basel-Landschaft'),
+('CH-BS', 'vi', 'Basel-Stadt'),
+('CH-FR', 'vi', 'Fribourg'),
+('CH-GE', 'vi', 'Genève'),
+('CH-GL', 'vi', 'Glarus'),
+('CH-GR', 'vi', 'Graubünden'),
+('CH-JU', 'vi', 'Jura'),
+('CH-LU', 'vi', 'Luzern'),
+('CH-NE', 'vi', 'Bang Neuchâtel'),
+('CH-NW', 'vi', 'Nidwalden'),
+('CH-OW', 'vi', 'Obwalden'),
+('CH-SG', 'vi', 'St. Gallen'),
+('CH-SH', 'vi', 'Schaffhausen'),
+('CH-SO', 'vi', 'Solothurn'),
+('CH-SZ', 'vi', 'Bang Schwyz'),
+('CH-TG', 'vi', 'Thurgau'),
+('CH-TI', 'vi', 'Ticino'),
+('CH-UR', 'vi', 'Bang Uri'),
+('CH-VD', 'vi', 'Vaud'),
+('CH-VS', 'vi', 'Valais'),
+('CH-ZG', 'vi', 'Bang Zug'),
+('CH-ZH', 'vi', 'Zürich');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('TD-BA', 'TD', 'Batha Region', 'Région du Batha', 4205986, 391742, 'UTC+1', 'Africa/Ndjamena'),
+('TD-BG', 'TD', 'Province du Barh-El-Gazel', 'Barh-El-Gazel', 4200571, 260865, 'UTC+1', 'Africa/Ndjamena'),
+('TD-BO', 'TD', 'Borkou Region', 'Région du Borkou', 4203691, 107251, 'UTC+1', 'Africa/Ndjamena'),
+('TD-CB', 'TD', 'Chari-Baguirmi Region', 'Région du Chari-Baguirmi', 4201113, 1700160, 'UTC+1', 'Africa/Ndjamena'),
+('TD-EE', 'TD', 'Ennedi-Est', 'Ennedi-Est', 4208545, NULL, 'UTC+1', 'Africa/Ndjamena'),
+('TD-EO', 'TD', 'Ennedi-Ouest', 'Ennedi-Ouest', 4198181, NULL, 'UTC+1', 'Africa/Ndjamena'),
+('TD-GR', 'TD', 'Guera Region', 'Région du Guéra', 4200756, 415909, 'UTC+1', 'Africa/Ndjamena'),
+('TD-HL', 'TD', 'Hadjer-Lamis', 'Hadjer-Lamis', 4201122, 562957, 'UTC+1', 'Africa/Ndjamena'),
+('TD-KA', 'TD', 'Kanem Region', 'Région du Kanem', 4201224, 380157, 'UTC+1', 'Africa/Ndjamena'),
+('TD-LC', 'TD', 'Lac Region', 'Région du Lac', 4204958, 343496, 'UTC+1', 'Africa/Ndjamena'),
+('TD-LO', 'TD', 'Logone Occidental Region', 'Région du Logone Occidental', 4200631, 618580, 'UTC+1', 'Africa/Ndjamena'),
+('TD-LR', 'TD', 'Logone Oriental Region', 'Région du Logone Oriental', 4204054, 598990, 'UTC+1', 'Africa/Ndjamena'),
+('TD-MA', 'TD', 'Mandoul', 'Mandoul', 4201953, 637086, 'UTC+1', 'Africa/Ndjamena'),
+('TD-MC', 'TD', 'Moyen-Chari Region', 'Région du Moyen-Chari', 4199768, 1003054, 'UTC+1', 'Africa/Ndjamena'),
+('TD-ME', 'TD', 'Mayo-Kebbi East Region', 'Mayo-Kebbi Est', 4204918, 1120612, 'UTC+1', 'Africa/Ndjamena'),
+('TD-MO', 'TD', 'Mayo-Kebbi West Region', 'Région du Mayo-Kébbi Ouest', 4200018, 569087, 'UTC+1', 'Africa/Ndjamena'),
+('TD-ND', 'TD', 'Ville de N''Djamena', 'N''Djamena', NULL, 1092066, 'UTC+1', 'Africa/Ndjamena'),
+('TD-OD', 'TD', 'Ouaddai Region', 'Région du Ouaddaï', 4198978, 738647, 'UTC+2, UTC+1', 'Africa/Khartoum, Africa/Ndjamena'),
+('TD-SA', 'TD', 'Salamat Region', 'Région du Salamat', 4198703, 250430, 'UTC+1', 'Africa/Ndjamena'),
+('TD-SI', 'TD', 'Sila', 'Région du Sila', 4198029, 289776, 'UTC+2, UTC+1', 'Africa/Khartoum, Africa/Ndjamena'),
+('TD-TA', 'TD', 'Tandjile Region', 'Région du Tandjilé', 4201782, 616362, 'UTC+1', 'Africa/Ndjamena'),
+('TD-TI', 'TD', 'Tibesti Region', 'Région du Tibesti', 4205702, 21970, 'UTC+1', 'Africa/Ndjamena'),
+('TD-WF', 'TD', 'Wadi Fira Region', 'Région du Wadi Fira', 4198517, 250978, 'UTC+1', 'Africa/Ndjamena');
+
+SET FOREIGN_KEY_CHECKS=1;

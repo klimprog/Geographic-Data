@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'zh', '安徽'),
+('CN-BJ', 'zh', '北京'),
+('CN-CQ', 'zh', '重庆市'),
+('CN-FJ', 'zh', '福建省'),
+('CN-GD', 'zh', '广东'),
+('CN-GS', 'zh', '甘肃'),
+('CN-GX', 'zh', '广西'),
+('CN-GZ', 'zh', '贵州'),
+('CN-HA', 'zh', '河南'),
+('CN-HB', 'zh', '湖北'),
+('CN-HE', 'zh', '河北'),
+('CN-HI', 'zh', '海南'),
+('CN-HK', 'zh', NULL),
+('CN-HL', 'zh', '黑龙江'),
+('CN-HN', 'zh', '湖南'),
+('CN-JL', 'zh', '吉林'),
+('CN-JS', 'zh', '江苏'),
+('CN-JX', 'zh', '江西'),
+('CN-LN', 'zh', '辽宁'),
+('CN-MO', 'zh', NULL),
+('CN-NM', 'zh', '内蒙古'),
+('CN-NX', 'zh', '宁夏'),
+('CN-QH', 'zh', '青海'),
+('CN-SC', 'zh', '四川'),
+('CN-SD', 'zh', '山东'),
+('CN-SH', 'zh', '上海市'),
+('CN-SN', 'zh', '陕西'),
+('CN-SX', 'zh', '山西'),
+('CN-TJ', 'zh', '天津'),
+('CN-TW', 'zh', '台湾盛'),
+('CN-XJ', 'zh', '新疆'),
+('CN-XZ', 'zh', '西藏'),
+('CN-YN', 'zh', '云南'),
+('CN-ZJ', 'zh', '浙江');
+
+SET FOREIGN_KEY_CHECKS=1;

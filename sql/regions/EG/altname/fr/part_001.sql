@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'fr', 'Alexandrie'),
+('EG-ASN', 'fr', 'Assouan'),
+('EG-AST', 'fr', 'Assiout'),
+('EG-BA', 'fr', 'Mer Rouge'),
+('EG-BH', 'fr', 'Beheira'),
+('EG-BNS', 'fr', 'Béni Souef'),
+('EG-C', 'fr', 'Le Caire'),
+('EG-DK', 'fr', 'Dakahleya'),
+('EG-DT', 'fr', 'Damiette'),
+('EG-FYM', 'fr', 'Fayoum'),
+('EG-GH', 'fr', 'Gharbeya'),
+('EG-GZ', 'fr', 'Gizeh'),
+('EG-IS', 'fr', 'Gouvernorat d''Ismaïlia'),
+('EG-JS', 'fr', 'Sinaï Sud'),
+('EG-KB', 'fr', 'Qalyubiya'),
+('EG-KFS', 'fr', 'Gouvernorat de Kafr el-Cheik'),
+('EG-KN', 'fr', 'Qena'),
+('EG-LX', 'fr', 'Louxor'),
+('EG-MN', 'fr', 'Minya'),
+('EG-MNF', 'fr', 'Menufeya'),
+('EG-MT', 'fr', 'Gouvernorat de Matrouh'),
+('EG-PTS', 'fr', 'Port-Saïd'),
+('EG-SHG', 'fr', 'Sohag'),
+('EG-SHR', 'fr', 'Charqia'),
+('EG-SIN', 'fr', 'Sinaï Nord'),
+('EG-SUZ', 'fr', 'Suez'),
+('EG-WAD', 'fr', 'la Nouvelle-Vallée');
+
+SET FOREIGN_KEY_CHECKS=1;

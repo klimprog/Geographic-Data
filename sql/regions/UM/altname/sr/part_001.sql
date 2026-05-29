@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'sr', 'Йохнстон Атолл'),
+('UM-71', 'sr', 'Мидвеј'),
+('UM-76', 'sr', 'Наваса'),
+('UM-79', 'sr', 'Уаке Исланд'),
+('UM-81', 'sr', 'Бејкер'),
+('UM-84', 'sr', 'Хауланд'),
+('UM-86', 'sr', 'Йарвис Исланд'),
+('UM-89', 'sr', 'Кингман Рееф'),
+('UM-95', 'sr', 'Палмира');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UY-AR', 'he', 'ארטיגס'),
+('UY-CA', 'he', 'קנלונס'),
+('UY-CL', 'he', 'סרו לרגו (מחוז)'),
+('UY-CO', 'he', 'קולוניה'),
+('UY-DU', 'he', 'דורסנו'),
+('UY-FD', 'he', 'מחוז פלורידה'),
+('UY-FS', 'he', 'פלורס'),
+('UY-LA', 'he', 'לבז''חה (מחוז)'),
+('UY-MA', 'he', 'מלדונדו (מחוז)'),
+('UY-MO', 'he', 'מחוז מונטווידאו'),
+('UY-PA', 'he', 'מחוז פאיסנדו'),
+('UY-RN', 'he', 'ריו נגרו'),
+('UY-RO', 'he', 'רוצ''ה'),
+('UY-RV', 'he', 'ריברה'),
+('UY-SA', 'he', 'סלטו'),
+('UY-SJ', 'he', 'סן חוסה'),
+('UY-SO', 'he', 'סוריאנו (מחוז)'),
+('UY-TA', 'he', 'טקוארמבו (מחוז)'),
+('UY-TT', 'he', 'טריינטה אי טרס');
+
+SET FOREIGN_KEY_CHECKS=1;

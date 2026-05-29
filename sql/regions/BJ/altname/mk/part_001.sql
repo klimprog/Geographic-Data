@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BJ-AK', 'mk', 'Одделот Атакора'),
+('BJ-AL', 'mk', 'Алибори'),
+('BJ-AQ', 'mk', 'Атлантикуе'),
+('BJ-BO', 'mk', 'Боргоу'),
+('BJ-CO', 'mk', 'Цоллинес'),
+('BJ-DO', 'mk', 'Донга'),
+('BJ-KO', 'mk', 'Одделот Куфо'),
+('BJ-LI', 'mk', 'Литторал'),
+('BJ-MO', 'mk', 'Моно'),
+('BJ-OU', 'mk', 'Оуеме'),
+('BJ-PL', 'mk', 'Платеау'),
+('BJ-ZO', 'mk', 'Зоу');
+
+SET FOREIGN_KEY_CHECKS=1;

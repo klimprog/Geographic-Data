@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PG-CPK', 'pt', 'Simbu'),
+('PG-CPM', 'pt', 'Central'),
+('PG-EBR', 'pt', 'Nova Bretanha Oriental'),
+('PG-EHG', 'pt', 'Eastern Highlands'),
+('PG-EPW', 'pt', 'Enga'),
+('PG-ESW', 'pt', 'East Sepik'),
+('PG-GPK', 'pt', 'Gulf'),
+('PG-HLA', 'pt', 'Hela'),
+('PG-JWK', 'pt', 'Jiwaka'),
+('PG-MBA', 'pt', 'Milne Bay'),
+('PG-MPL', 'pt', 'Morobe'),
+('PG-MPM', 'pt', 'Madang'),
+('PG-MRL', 'pt', 'Manus'),
+('PG-NCD', 'pt', 'Capital Nacional'),
+('PG-NIK', 'pt', 'Nova Irlanda'),
+('PG-NPP', 'pt', 'Oro'),
+('PG-NSB', 'pt', 'Bougainville'),
+('PG-SAN', 'pt', 'Sandaun'),
+('PG-SHM', 'pt', 'Southern Highlands'),
+('PG-WBK', 'pt', 'Nova Bretanha Ocidental'),
+('PG-WHM', 'pt', 'Western Highlands'),
+('PG-WPD', 'pt', 'Província Ocidental');
+
+SET FOREIGN_KEY_CHECKS=1;

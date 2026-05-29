@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ML-1', 'mn', 'Каыес'),
+('ML-10', 'mn', 'Таоуденит'),
+('ML-2', 'mn', 'Коуликоро'),
+('ML-3', 'mn', 'Сикассо'),
+('ML-4', 'mn', 'Сегоу'),
+('ML-5', 'mn', 'Мопти'),
+('ML-6', 'mn', 'Томбоуцтоу'),
+('ML-7', 'mn', 'Гао'),
+('ML-8', 'mn', 'Кидал'),
+('ML-9', 'mn', 'Менака'),
+('ML-BKO', 'mn', 'Бамако');
+
+SET FOREIGN_KEY_CHECKS=1;

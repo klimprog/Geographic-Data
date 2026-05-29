@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('MD-AN', 'MD', 'Anenii Noi', 'АнеНий-Ной', 3015787, 80787, 'UTC+2', 'Europe/Chisinau'),
+('MD-BA', 'MD', 'Municipiul Balti', 'Bălți', 3016567, 105000, 'UTC+2', 'Europe/Chisinau'),
+('MD-BD', 'MD', 'Municipiul Bender', 'Municipiul Bender', 3016544, 93751, 'UTC+2', 'Europe/Chisinau'),
+('MD-BR', 'MD', 'Briceni', 'Районул Бричень', 3016492, 75978, 'UTC+2', 'Europe/Chisinau'),
+('MD-BS', 'MD', 'Basarabeasca', 'Районул Басарабяска', 3016557, 27741, 'UTC+2', 'Europe/Chisinau'),
+('MD-CA', 'MD', 'Raionul Cahul', 'Raionul Cahul', 3016443, 124900, 'UTC+2', 'Europe/Chisinau'),
+('MD-CL', 'MD', 'Raionul Calarasi', 'raionul Călărași', 3016441, 73151, 'UTC+2', 'Europe/Chisinau'),
+('MD-CM', 'MD', 'Cimislia', 'Районул Чимишлия', 3016399, 60046, 'UTC+2', 'Europe/Chisinau'),
+('MD-CR', 'MD', 'Criuleni', 'Criuleni', 3016396, 70186, 'UTC+2', 'Europe/Chisinau'),
+('MD-CS', 'MD', 'Raionul Causeni', 'raionul Căușeni', 3016152, 90369, 'UTC+2', 'Europe/Chisinau'),
+('MD-CT', 'MD', 'Cantemir', 'Raionul Cantemir', 3016439, 58937, 'UTC+2', 'Europe/Chisinau'),
+('MD-CU', 'MD', 'Municipiul Chisinau', 'Municipiul Chișinău', NULL, 492894, 'UTC+2', 'Europe/Chisinau'),
+('MD-DO', 'MD', 'Donduseni', 'Raionul Dondușeni', 3016377, 44648, 'UTC+2', 'Europe/Chisinau'),
+('MD-DR', 'MD', 'Raionul Drochia', 'Районул Дрокия', 3016366, 89500, 'UTC+2', 'Europe/Chisinau'),
+('MD-DU', 'MD', 'Raionul Dubasari', 'Raionul Dubăsari', 3016098, 35200, 'UTC+2', 'Europe/Chisinau'),
+('MD-ED', 'MD', 'Raionul Edinet', 'Районул Единец', 3015227, 82500, 'UTC+2', 'Europe/Chisinau'),
+('MD-FA', 'MD', 'Falesti', 'Raionul Fălești', 3016344, 87838, 'UTC+2', 'Europe/Chisinau'),
+('MD-FL', 'MD', 'Floresti', 'Районул Флорешть', 3016330, 86531, 'UTC+2', 'Europe/Chisinau'),
+('MD-GA', 'MD', 'Gagauzia', 'Găgăuzia', 3016398, 153079, 'UTC+2', 'Europe/Chisinau'),
+('MD-GL', 'MD', 'Glodeni', 'Районул Глодень', 3016268, 59701, 'UTC+2', 'Europe/Chisinau'),
+('MD-HI', 'MD', 'Hincesti', 'Районул Хынчешть', 3016041, 117522, 'UTC+2', 'Europe/Chisinau'),
+('MD-IA', 'MD', 'Ialoveni', 'Raionul Ialoveni', 3016210, 96436, 'UTC+2', 'Europe/Chisinau'),
+('MD-LE', 'MD', 'Leova', 'Районул Леова', 3015972, 49735, 'UTC+2', 'Europe/Chisinau'),
+('MD-NI', 'MD', 'Nisporeni', 'Районул Ниспорень', 3015835, 63159, 'UTC+2', 'Europe/Chisinau'),
+('MD-OC', 'MD', 'Raionul Ocnita', 'Районул Окниця', 3015748, 55353, 'UTC+2', 'Europe/Chisinau'),
+('MD-OR', 'MD', 'Orhei', 'Районул Орхей', 3015730, 125800, 'UTC+2', 'Europe/Chisinau'),
+('MD-RE', 'MD', 'Rezina', 'Raionul Rezina', 3015607, 46493, 'UTC+2', 'Europe/Chisinau'),
+('MD-RI', 'MD', 'Riscani', 'Районул Рышкань', 3015592, 66927, 'UTC+2', 'Europe/Chisinau'),
+('MD-SD', 'MD', 'Soldanesti', 'Raionul Șoldănești', 3015496, 41284, 'UTC+2', 'Europe/Chisinau'),
+('MD-SI', 'MD', 'Singerei', 'Районул Сынӂерей', 3015978, 85657, 'UTC+2', 'Europe/Chisinau'),
+('MD-SN', 'MD', 'Administrative-Territorial Units of the Left Bank of the Dniester', 'Unitățile Administrativ-Teritoriale din stînga Nistrului', 3015374, 505153, 'UTC+2', 'Europe/Chisinau'),
+('MD-SO', 'MD', 'Raionul Soroca', 'Районул Сорока', 3015492, 100100, 'UTC+2', 'Europe/Chisinau'),
+('MD-ST', 'MD', 'Raionul Straseni', 'raionul Strășeni', 3015430, 91500, 'UTC+2', 'Europe/Chisinau'),
+('MD-SV', 'MD', 'Raionul Stefan Voda', 'raionul Ștefan Vodă', 3015413, 70036, 'UTC+2', 'Europe/Chisinau'),
+('MD-TA', 'MD', 'Taraclia', 'Районул Тараклия', 3015400, 42282, 'UTC+2', 'Europe/Chisinau'),
+('MD-TE', 'MD', 'Telenesti', 'Районул Теленешть', 3015387, 68461, 'UTC+2', 'Europe/Chisinau'),
+('MD-UN', 'MD', 'Raionul Ungheni', 'Районул Унгень', 3015320, 117200, 'UTC+2', 'Europe/Chisinau');
+
+SET FOREIGN_KEY_CHECKS=1;

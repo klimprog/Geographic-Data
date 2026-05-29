@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'hu', 'Balaka'),
+('MW-BL', 'hu', 'Blantyre'),
+('MW-C', 'hu', 'Központi Régió'),
+('MW-CK', 'hu', 'Chikwawa'),
+('MW-CR', 'hu', 'Chiradzulu'),
+('MW-CT', 'hu', 'Chitipa'),
+('MW-DE', 'hu', 'Dedza'),
+('MW-DO', 'hu', 'Dowa'),
+('MW-KR', 'hu', 'Karonga'),
+('MW-KS', 'hu', 'Kasungu'),
+('MW-LI', 'hu', 'Lilongwe'),
+('MW-LK', 'hu', 'Likoma'),
+('MW-MC', 'hu', 'Mchinji'),
+('MW-MG', 'hu', 'Mangochi'),
+('MW-MH', 'hu', 'Machinga'),
+('MW-MU', 'hu', 'Mulanje'),
+('MW-MW', 'hu', 'Mwanza'),
+('MW-MZ', 'hu', 'Mzimba'),
+('MW-N', 'hu', 'Északi Régió'),
+('MW-NB', 'hu', 'Nkhata-öböl'),
+('MW-NE', 'hu', 'Neno'),
+('MW-NI', 'hu', 'Ntchisi'),
+('MW-NK', 'hu', 'Nkhotakota'),
+('MW-NS', 'hu', 'Nsanje'),
+('MW-NU', 'hu', 'Ntcheu'),
+('MW-PH', 'hu', 'Phalombe'),
+('MW-RU', 'hu', 'Rumphi'),
+('MW-S', 'hu', 'Déli Régió'),
+('MW-SA', 'hu', 'Salima'),
+('MW-TH', 'hu', 'Thyolo'),
+('MW-ZO', 'hu', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

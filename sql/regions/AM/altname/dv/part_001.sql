@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AM-AG', 'dv', 'އަރަގަޓްސޮން އެވެ'),
+('AM-AR', 'dv', 'އަރާރާތު އެވެ'),
+('AM-AV', 'dv', 'އަރްމާވިރް އެވެ'),
+('AM-ER', 'dv', 'ޔެރެވާން އެވެ'),
+('AM-GR', 'dv', 'ގެގަރުކުނިކް އެވެ'),
+('AM-KT', 'dv', 'ކޮޓައިކް އެވެ'),
+('AM-LO', 'dv', 'ލޯރީ އެވެ'),
+('AM-SH', 'dv', 'ޝިރާކް އެވެ'),
+('AM-SU', 'dv', 'ސިޔުނިކް އެވެ'),
+('AM-TV', 'dv', 'ތަވުޝް އެވެ'),
+('AM-VD', 'dv', 'ވަޔޮޓްސް ޒޯރ އެވެ');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PG-CPK', 'el', 'Σίμπου'),
+('PG-CPM', 'el', 'Κεντρική Επαρχία'),
+('PG-EBR', 'el', 'Ανατολική Νέα Βρετανία'),
+('PG-EHG', 'el', 'Επαρχία Ανατολικών Υψιπέδων'),
+('PG-EPW', 'el', 'Ένγκα'),
+('PG-ESW', 'el', 'Ανατολική Σέπικ'),
+('PG-GPK', 'el', 'Κόλπος'),
+('PG-HLA', 'el', 'Χέλα'),
+('PG-JWK', 'el', 'Τζιουάκα'),
+('PG-MBA', 'el', 'Κόλπος Μίλνε'),
+('PG-MPL', 'el', 'Μορόμπε'),
+('PG-MPM', 'el', 'Μάντανγκ'),
+('PG-MRL', 'el', 'Μάνους'),
+('PG-NCD', 'el', 'Νατιοναλ Καπιταλ'),
+('PG-NIK', 'el', 'Νέα Ιρλανδία'),
+('PG-NPP', 'el', 'Όρο'),
+('PG-NSB', 'el', 'Μπουγκαϊνβίλε'),
+('PG-SAN', 'el', 'Σάντον'),
+('PG-SHM', 'el', 'Νότια Υψίπεδα'),
+('PG-WBK', 'el', 'Δυτική Νέα Βρετανία'),
+('PG-WHM', 'el', 'Δυτικά Υψίπεδα'),
+('PG-WPD', 'el', 'Δυτική Επαρχία');
+
+SET FOREIGN_KEY_CHECKS=1;

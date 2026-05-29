@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'az', 'əl-İskəndəriyyə mühafəzəsi'),
+('EG-ASN', 'az', 'Əsvan mühafəzəsi'),
+('EG-AST', 'az', 'Əsyut mühafəzəsi'),
+('EG-BA', 'az', 'Qırmızı dəniz mühafəzəsi'),
+('EG-BH', 'az', 'Əl-Büheyrə mühafəzəsi'),
+('EG-BNS', 'az', 'Bani Suvayf'),
+('EG-C', 'az', 'əl-Qahirə mühafəzəsi'),
+('EG-DK', 'az', 'əd-Dəqəhliyyə mühafəzəsi'),
+('EG-DT', 'az', 'Dümyat mühafəzəsi'),
+('EG-FYM', 'az', 'əl-Fəyyum mühafəzəsi'),
+('EG-GH', 'az', 'əl-Qərbiyyə mühafəzəsi'),
+('EG-GZ', 'az', 'əl-Cizə mühafəzəsi'),
+('EG-IS', 'az', 'Əl-İsmailiyyə mühafəzəsi'),
+('EG-JS', 'az', 'Cənubi Sina mühafəzəsi'),
+('EG-KB', 'az', 'əl-Qəlyubiyyə mühafəzəsi'),
+('EG-KFS', 'az', 'Kəfr əş-Şeyx mühafəzəsi'),
+('EG-KN', 'az', 'Qina mühafəzəsi'),
+('EG-LX', 'az', 'əl-Üqsür mühafəzəsi'),
+('EG-MN', 'az', 'əl-Minya mühafəzəsi'),
+('EG-MNF', 'az', 'əl-Minufiyyə mühafəzəsi'),
+('EG-MT', 'az', 'Mətruh mühafəzəsi'),
+('EG-PTS', 'az', 'Port-Səid mühafəzəsi'),
+('EG-SHG', 'az', 'Sövhac mühafəzəsi'),
+('EG-SHR', 'az', 'Şarqiyyə'),
+('EG-SIN', 'az', 'Şimali Sina mühafəzəsi'),
+('EG-SUZ', 'az', 'Süveyş mühafəzəsi'),
+('EG-WAD', 'az', 'Yeni Vadi mühafəzəsi');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MC-CL', 'it', 'La Colle'),
+('MC-CO', 'it', 'La Condamine'),
+('MC-FO', 'it', 'Fontvieille'),
+('MC-GA', 'it', 'La Gare'),
+('MC-JE', 'it', 'Jardin Exotique'),
+('MC-LA', 'it', 'Larvotto'),
+('MC-MA', 'it', 'Malbousquet'),
+('MC-MC', 'it', 'Monte-Carlo'),
+('MC-MG', 'it', 'Moneghetti'),
+('MC-MO', 'it', 'Monaco-Ville'),
+('MC-MU', 'it', 'Moulins'),
+('MC-PH', 'it', 'Porto-Hercule'),
+('MC-SD', 'it', 'Sainte-Dévote'),
+('MC-SO', 'it', 'La Fonte'),
+('MC-SP', 'it', 'Spelugues'),
+('MC-SR', 'it', 'Saint-Roman'),
+('MC-VR', 'it', 'Vallon de la Rousse');
+
+SET FOREIGN_KEY_CHECKS=1;

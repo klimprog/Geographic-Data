@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'am', 'አርጋው'),
+('CH-AI', 'am', 'አፔንዘል ኢነርሮደን'),
+('CH-AR', 'am', 'አፔንዘል አውሰርሮደን'),
+('CH-BE', 'am', 'በርን'),
+('CH-BL', 'am', 'ባሴል-ላንድሻፍት'),
+('CH-BS', 'am', 'ባሴል-ከተማ'),
+('CH-FR', 'am', 'ፍሪቡርግ'),
+('CH-GE', 'am', 'ጄኔቫ'),
+('CH-GL', 'am', 'ግላራስ'),
+('CH-GR', 'am', 'ግራውቢንደን'),
+('CH-JU', 'am', 'ጁራ'),
+('CH-LU', 'am', 'ሉሴርን'),
+('CH-NE', 'am', 'ኒውሻቴል'),
+('CH-NW', 'am', 'ኒድዋልደን'),
+('CH-OW', 'am', 'ኦብዋልደን'),
+('CH-SG', 'am', 'ሴንት ጋለን'),
+('CH-SH', 'am', 'ሻፍሃውዘን'),
+('CH-SO', 'am', 'ሶሎቱርን'),
+('CH-SZ', 'am', 'ሽቪጽ'),
+('CH-TG', 'am', 'ቱርጋው'),
+('CH-TI', 'am', 'ቲቺኖ'),
+('CH-UR', 'am', 'ኡሪ'),
+('CH-VD', 'am', 'ቮ'),
+('CH-VS', 'am', 'ቫሌ'),
+('CH-ZG', 'am', 'ዙግ'),
+('CH-ZH', 'am', 'ዙሪख');
+
+SET FOREIGN_KEY_CHECKS=1;

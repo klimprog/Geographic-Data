@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(356394618, 4628502, 'lv', 'Altona'),
+(356397852, 4628544, 'lv', 'Šarlote Amālija'),
+(356397929, 4628545, 'lv', 'Kristiansteda'),
+(356398776, 4628556, 'lv', 'Koraļļu līcis'),
+(356399007, 4628559, 'lv', 'Cruz Bay'),
+(356400624, 4628580, 'lv', 'Frederiksteda'),
+(356401548, 4628592, 'lv', 'Grove Place'),
+(356403473, 4628617, 'lv', 'Leinster Bay'),
+(356408247, 4628679, 'lv', 'Sentkroisa'),
+(356409479, 4628695, 'lv', 'Sorgenfri'),
+(356410249, 4628705, 'lv', 'Tutu');
+
+SET FOREIGN_KEY_CHECKS=1;

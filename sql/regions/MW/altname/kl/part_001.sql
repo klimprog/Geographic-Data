@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'kl', 'Balaa'),
+('MW-BL', 'kl', 'Blantyre'),
+('MW-C', 'kl', 'Centralregion'),
+('MW-CK', 'kl', 'Chikwawa'),
+('MW-CR', 'kl', 'Chiradzulu'),
+('MW-CT', 'kl', 'Chitipa'),
+('MW-DE', 'kl', 'Dedza'),
+('MW-DO', 'kl', 'Dowa'),
+('MW-KR', 'kl', 'Karonga'),
+('MW-KS', 'kl', 'Kasungu'),
+('MW-LI', 'kl', 'Lilongwemiittoq'),
+('MW-LK', 'kl', 'Likoma'),
+('MW-MC', 'kl', 'Mchinji'),
+('MW-MG', 'kl', 'Mangochi'),
+('MW-MH', 'kl', 'Machinga'),
+('MW-MU', 'kl', 'Mulanje'),
+('MW-MW', 'kl', 'Mwanza'),
+('MW-MZ', 'kl', 'Mzimba'),
+('MW-N', 'kl', 'Avannaani Region'),
+('MW-NB', 'kl', 'Nkhata Bugtimiittoq'),
+('MW-NE', 'kl', 'Neno'),
+('MW-NI', 'kl', 'Ntchisi'),
+('MW-NK', 'kl', 'Nkhotakota'),
+('MW-NS', 'kl', 'Nsanje'),
+('MW-NU', 'kl', 'Ntcheu'),
+('MW-PH', 'kl', 'Falombe'),
+('MW-RU', 'kl', 'Rumfi'),
+('MW-S', 'kl', 'Kujataani Region'),
+('MW-SA', 'kl', 'Salima'),
+('MW-TH', 'kl', 'Tiolo'),
+('MW-ZO', 'kl', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

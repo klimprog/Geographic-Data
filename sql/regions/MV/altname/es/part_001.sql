@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MV-00', 'es', 'Atolón Ari Meridional'),
+('MV-01', 'es', 'Seenu'),
+('MV-02', 'es', 'Atolón Ari Septentrional'),
+('MV-03', 'es', 'Atolón Faadhippolhu'),
+('MV-04', 'es', 'Atolón Vaavu'),
+('MV-05', 'es', 'Atolón Laamu'),
+('MV-07', 'es', 'Atolón Haa Alif'),
+('MV-08', 'es', 'Atolón Thaa'),
+('MV-12', 'es', 'Atolón Meemu'),
+('MV-13', 'es', 'Atolón Raa'),
+('MV-14', 'es', 'Atolón Faafu'),
+('MV-17', 'es', 'Atolón Dhaalu'),
+('MV-20', 'es', 'Atolón Baa'),
+('MV-23', 'es', 'Atolón Haa Dhaalu'),
+('MV-24', 'es', 'Atolón Shaviyani'),
+('MV-25', 'es', 'Atolón Noonu'),
+('MV-26', 'es', 'Atolón Kaafu'),
+('MV-27', 'es', 'Atolón Gaafu Alif'),
+('MV-28', 'es', 'Atolón Gaafu Dhaalu'),
+('MV-29', 'es', 'Atolón Gnyaviyani'),
+('MV-MLE', 'es', 'Malé');
+
+SET FOREIGN_KEY_CHECKS=1;

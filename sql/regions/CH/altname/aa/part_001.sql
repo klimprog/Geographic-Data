@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'aa', 'Kanton Argaawu'),
+('CH-AI', 'aa', 'Kanton Appenzeel Addah Rooden'),
+('CH-AR', 'aa', 'Kanton Appenzeel Ausserhoden'),
+('CH-BE', 'aa', 'Bernih kantoon'),
+('CH-BL', 'aa', 'Kanton Basel-Ardiino'),
+('CH-BS', 'aa', 'Kanton Baseel-Istaadi'),
+('CH-FR', 'aa', 'Firiborgih kantoon'),
+('CH-GE', 'aa', 'Jeneeve kantoon'),
+('CH-GL', 'aa', 'Kanton Gilarus'),
+('CH-GR', 'aa', 'Kanton Girawubenden'),
+('CH-JU', 'aa', 'Juura kantoon'),
+('CH-LU', 'aa', 'Kanton Luzerni'),
+('CH-NE', 'aa', 'Kanton de Niuchatel'),
+('CH-NW', 'aa', 'Kanton Nidwalden'),
+('CH-OW', 'aa', 'Kanton Obwalden'),
+('CH-SG', 'aa', 'Kanton St. Gaalen'),
+('CH-SH', 'aa', 'Kanton Shafahawusen'),
+('CH-SO', 'aa', 'Kanton soloturni'),
+('CH-SZ', 'aa', 'Kanton Swiiz'),
+('CH-TG', 'aa', 'Kanton Turgawu'),
+('CH-TI', 'aa', 'Kantoon Tisiino'),
+('CH-UR', 'aa', 'Kanton Uri'),
+('CH-VD', 'aa', 'Vaawud kantoon'),
+('CH-VS', 'aa', 'Kanton du Valayis'),
+('CH-ZG', 'aa', 'Kanton Zuug'),
+('CH-ZH', 'aa', 'Kanton zuurich');
+
+SET FOREIGN_KEY_CHECKS=1;

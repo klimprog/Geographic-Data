@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'tl', 'Bas-Congo'),
+('CD-BU', 'tl', 'Bas-Uele'),
+('CD-EQ', 'tl', 'Equateur'),
+('CD-HK', 'tl', 'Haut-Katanga'),
+('CD-HL', 'tl', 'Haut-Lomami'),
+('CD-HU', 'tl', 'Haut-Uele'),
+('CD-IT', 'tl', 'Ituri'),
+('CD-KC', 'tl', 'Kasai central'),
+('CD-KE', 'tl', 'Kasai-Oriental'),
+('CD-KG', 'tl', 'Kwango'),
+('CD-KL', 'tl', 'Kwilu'),
+('CD-KN', 'tl', 'Kinshasa'),
+('CD-KS', 'tl', 'Kasai'),
+('CD-LO', 'tl', 'Lomami'),
+('CD-LU', 'tl', 'Lualaba'),
+('CD-MA', 'tl', 'Maniema'),
+('CD-MN', 'tl', 'Mai-Ndombe'),
+('CD-MO', 'tl', 'Mongala'),
+('CD-NK', 'tl', 'Lalawigan ng Nord-Kivu'),
+('CD-NU', 'tl', 'Province du Nord-Ubangi'),
+('CD-SA', 'tl', 'Sankuru'),
+('CD-SK', 'tl', 'Lalawigan ng Timog Kivu'),
+('CD-SU', 'tl', 'Province du Sud-Ubangi'),
+('CD-TA', 'tl', 'Tanganyika'),
+('CD-TO', 'tl', 'Tshopo'),
+('CD-TU', 'tl', 'Tshuapa');
+
+SET FOREIGN_KEY_CHECKS=1;

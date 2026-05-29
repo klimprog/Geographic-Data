@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'lv', 'Balhas province'),
+('AF-BAM', 'lv', 'Bāmijānas province'),
+('AF-BDG', 'lv', 'Bādgīsa'),
+('AF-BDS', 'lv', 'Badahšāna'),
+('AF-BGL', 'lv', 'Baglāna'),
+('AF-DAY', 'lv', 'Dājkondī province'),
+('AF-FRA', 'lv', 'Farāha'),
+('AF-FYB', 'lv', 'Farjaba'),
+('AF-GHA', 'lv', 'Gazni province'),
+('AF-GHO', 'lv', 'Gouras province'),
+('AF-HEL', 'lv', 'Helmandas vilajets'),
+('AF-HER', 'lv', 'Herātas vilajets'),
+('AF-JOW', 'lv', 'Džouzdžānas province'),
+('AF-KAB', 'lv', 'Kabulas province'),
+('AF-KAN', 'lv', 'Kandahāras vilajets'),
+('AF-KAP', 'lv', 'Kapisa'),
+('AF-KDZ', 'lv', 'Kondozas province'),
+('AF-KHO', 'lv', 'Houstas province'),
+('AF-KNR', 'lv', 'Kunāra'),
+('AF-LAG', 'lv', 'Lagmāna'),
+('AF-LOG', 'lv', 'Lougara'),
+('AF-NAN', 'lv', 'Nangarhara'),
+('AF-NIM', 'lv', 'Nīmrūzas province'),
+('AF-NUR', 'lv', 'Nūrestāna'),
+('AF-PAN', 'lv', 'Pandžšīras province'),
+('AF-PAR', 'lv', 'Parvanas province'),
+('AF-PIA', 'lv', 'Paktija'),
+('AF-PKA', 'lv', 'Paktika'),
+('AF-SAM', 'lv', 'Samangānas province'),
+('AF-SAR', 'lv', 'Sarepola'),
+('AF-TAK', 'lv', 'Tahāra'),
+('AF-URU', 'lv', 'Orūzgānas province'),
+('AF-WAR', 'lv', 'Vardaka'),
+('AF-ZAB', 'lv', 'Zābola');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'pt', 'Anenii Noi'),
+('MD-BA', 'pt', 'Bălţi'),
+('MD-BD', 'pt', 'Município de Bender'),
+('MD-BR', 'pt', 'Briceni'),
+('MD-BS', 'pt', 'Basarabeasca'),
+('MD-CA', 'pt', 'Cahul'),
+('MD-CL', 'pt', 'Călărași'),
+('MD-CM', 'pt', 'Cimișlia'),
+('MD-CR', 'pt', 'Criuleni'),
+('MD-CS', 'pt', 'Căușeni (condado)'),
+('MD-CT', 'pt', 'Cantemir'),
+('MD-CU', 'pt', 'Município de Chisináu'),
+('MD-DO', 'pt', 'Dondușeni'),
+('MD-DR', 'pt', 'Condado de Drochia'),
+('MD-DU', 'pt', 'Dubăsari'),
+('MD-ED', 'pt', 'Condado de Edineţ'),
+('MD-FA', 'pt', 'Fălești'),
+('MD-FL', 'pt', 'Florești'),
+('MD-GA', 'pt', 'Gagaúzia'),
+('MD-GL', 'pt', 'Glodeni'),
+('MD-HI', 'pt', 'Hîncești'),
+('MD-IA', 'pt', 'Ialoveni'),
+('MD-LE', 'pt', 'Leova'),
+('MD-NI', 'pt', 'Nisporeni'),
+('MD-OC', 'pt', 'Condado de Ocniţa'),
+('MD-OR', 'pt', 'Condado de Orhei'),
+('MD-RE', 'pt', 'Rezina'),
+('MD-RI', 'pt', 'Rîșcani'),
+('MD-SD', 'pt', 'Șoldănești'),
+('MD-SI', 'pt', 'Sîngerei'),
+('MD-SN', 'pt', 'Unidade territorial autónoma da Transnístria'),
+('MD-SO', 'pt', 'Distrito de Soroca'),
+('MD-ST', 'pt', 'Strășeni'),
+('MD-SV', 'pt', 'Stefan-Voda'),
+('MD-TA', 'pt', 'Taraclia'),
+('MD-TE', 'pt', 'Telenești'),
+('MD-UN', 'pt', 'Condado de Ungheni');
+
+SET FOREIGN_KEY_CHECKS=1;

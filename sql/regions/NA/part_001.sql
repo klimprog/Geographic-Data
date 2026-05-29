@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('NA-CA', 'NA', 'Zambezi Region', 'Zambezi Region', 3432815, 90100, 'UTC+1', 'Africa/Windhoek'),
+('NA-ER', 'NA', 'Erongo', 'Erongo Region', 3433030, 132032, 'UTC+1', 'Africa/Windhoek'),
+('NA-HA', 'NA', 'Hardap', 'Hardap Region', 3434029, 65800, 'UTC+1', 'Africa/Windhoek'),
+('NA-KA', 'NA', 'Karas', 'Karas Region', 3434114, 70222, 'UTC+1', 'Africa/Windhoek'),
+('NA-KE', 'NA', 'Kavango East Region', 'Kavango East', 3433114, NULL, 'UTC+1', 'Africa/Windhoek'),
+('NA-KH', 'NA', 'Khomas', 'Khomas Region', NULL, 178216, 'UTC+1', 'Africa/Windhoek'),
+('NA-KU', 'NA', 'Kunene', 'Kunene Region', 3433350, 88300, 'UTC+1', 'Africa/Windhoek'),
+('NA-KW', 'NA', 'Kavango West Region', 'Kavango West', 3433927, NULL, 'UTC+1', 'Africa/Windhoek'),
+('NA-OD', 'NA', 'Otjozondjupa', 'Otjozondjupa Region', 3433207, 144651, 'UTC+1', 'Africa/Windhoek'),
+('NA-OH', 'NA', 'Omaheke', 'Omaheke Region', 3434265, 71057, 'UTC+1', 'Africa/Windhoek'),
+('NA-ON', 'NA', 'Oshana', 'Oshana Region', 3433324, 210123, 'UTC+1', 'Africa/Windhoek'),
+('NA-OS', 'NA', 'Omusati', 'Omusati Region', 3434538, 242900, 'UTC+1', 'Africa/Windhoek'),
+('NA-OT', 'NA', 'Oshikoto', 'Oshikoto Region', 3433543, 181600, 'UTC+1', 'Africa/Windhoek'),
+('NA-OW', 'NA', 'Ohangwena', 'Ohangwena Region', 3434389, 238744, 'UTC+1', 'Africa/Windhoek');
+
+SET FOREIGN_KEY_CHECKS=1;

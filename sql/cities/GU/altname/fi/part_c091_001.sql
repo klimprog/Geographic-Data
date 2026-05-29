@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(132986720, 1727101, 'fi', 'Eitan kylä'),
+(132986797, 1727102, 'fi', 'Santa Rita'),
+(132986874, 1727103, 'fi', 'Sinajana'),
+(132986951, 1727104, 'fi', 'Talofofo'),
+(132987028, 1727105, 'fi', 'Tamuning-Tumon-Harmonin kylä'),
+(132987105, 1727106, 'fi', 'Umatac'),
+(132987182, 1727107, 'fi', 'Yigo Village'),
+(132987259, 1727108, 'fi', 'Yonan-up'),
+(132987336, 1727109, 'fi', 'Merizo Village'),
+(132987413, 1727110, 'fi', 'Gilakajan'),
+(132987490, 1727111, 'fi', 'Agana Heights Village'),
+(132987567, 1727112, 'fi', 'Chalan Pago-Ordot'),
+(132987644, 1727113, 'fi', 'Hibarigaoka'),
+(132987721, 1727114, 'fi', 'Amatukun kylä'),
+(132987798, 1727115, 'fi', 'Asan-Maina Village'),
+(132987875, 1727116, 'fi', 'Dededo Village'),
+(132987952, 1727117, 'fi', 'Hagåtña'),
+(132988029, 1727118, 'fi', 'Mangilao Village'),
+(132988106, 1727119, 'fi', 'Mongmong-Toto-Maite Village'),
+(132988183, 1727120, 'fi', 'Hagatnan kylä'),
+(132988260, 1727121, 'fi', 'Adacao'),
+(132988337, 1727122, 'fi', 'Anao'),
+(132988414, 1727123, 'fi', 'Apra Harbor'),
+(132988491, 1727124, 'fi', 'Chaguian'),
+(132988645, 1727126, 'fi', 'Ipan');
+
+SET FOREIGN_KEY_CHECKS=1;

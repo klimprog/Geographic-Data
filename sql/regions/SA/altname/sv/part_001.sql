@@ -1,0 +1,19 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SA-01', 'sv', 'Ar-Riyad'),
+('SA-02', 'sv', 'Mekka'),
+('SA-03', 'sv', 'Medina'),
+('SA-04', 'sv', 'ash-Sharqiyah'),
+('SA-05', 'sv', 'al-Qasim'),
+('SA-06', 'sv', 'Hail'),
+('SA-07', 'sv', 'Tabuk'),
+('SA-08', 'sv', 'al-Hudud ash-Shamaliyya'),
+('SA-09', 'sv', 'Jizan'),
+('SA-10', 'sv', 'Najran'),
+('SA-11', 'sv', 'al-Baha'),
+('SA-12', 'sv', 'al-Jawf'),
+('SA-14', 'sv', '''Asir');
+
+SET FOREIGN_KEY_CHECKS=1;

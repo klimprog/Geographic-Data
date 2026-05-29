@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(298269263, 3873627, 'so', 'Tngeronger Hamlet'),
+(298269417, 3873629, 'so', 'Ngerbeched Hamlet'),
+(298269648, 3873632, 'so', 'Koror'),
+(298269956, 3873636, 'so', 'Idid Hamlet'),
+(298270110, 3873638, 'so', 'Ngerchemai Hamlet'),
+(298270264, 3873640, 'so', 'Ulimang'),
+(298270957, 3873649, 'so', 'Meketii Hamlet'),
+(298271034, 3873650, 'so', 'Ngerekebesang Hamlet'),
+(298271111, 3873651, 'so', 'Ngerkeai'),
+(298271419, 3873655, 'so', 'Angaur'),
+(298271496, 3873656, 'so', 'Meyungs Hamlet'),
+(298271573, 3873657, 'so', 'Magaalada Melekeok'),
+(298271727, 3873659, 'so', 'Ngereklmadel'),
+(298271804, 3873660, 'so', 'Iyebukel Hamlet'),
+(298271881, 3873661, 'so', 'Tuulo Imeong'),
+(298272189, 3873665, 'so', 'Tuulo Ngchesar'),
+(298272420, 3873668, 'so', 'Ngerubesang Hamlet'),
+(298272651, 3873671, 'so', 'Ngerkeai'),
+(298272882, 3873674, 'so', 'Ngerkeseuaol Hamlet'),
+(298273344, 3873680, 'so', 'Mengellang'),
+(298273498, 3873682, 'so', 'Gobolka Angaur'),
+(298273729, 3873685, 'so', 'Magaalada Tobi'),
+(298273806, 3873686, 'so', 'Magaalada Sonsorol'),
+(298273960, 3873688, 'so', 'Kayangel'),
+(298274037, 3873689, 'so', 'Kloulklubed'),
+(298274268, 3873692, 'so', 'Ngetkib'),
+(298274345, 3873693, 'so', 'Ngchemiangel'),
+(298274422, 3873694, 'so', 'Ngardmau'),
+(298274576, 3873696, 'so', 'Koror Town'),
+(298274730, 3873698, 'so', 'Ngerulmud');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BT-11', 'lb', 'Paro Dzongkhag'),
+('BT-12', 'lb', 'Chhukha Dzongkhag'),
+('BT-13', 'lb', 'Haa Dzongkhag'),
+('BT-14', 'lb', 'Samtse Dzongkhag'),
+('BT-15', 'lb', 'Thimphu Dzongkhag'),
+('BT-21', 'lb', 'Tsirang Dzongkhag'),
+('BT-22', 'lb', 'Dagana Dzongkhag'),
+('BT-23', 'lb', 'Punakha Dzongkhag'),
+('BT-24', 'lb', 'Wangdue Phodrang'),
+('BT-31', 'lb', 'Sarpang Dzongkhag'),
+('BT-32', 'lb', 'Trongsa'),
+('BT-33', 'lb', 'Bumthang Dzongkhag'),
+('BT-34', 'lb', 'Zhemgang Dzongkhag'),
+('BT-41', 'lb', 'Trashigang'),
+('BT-42', 'lb', 'Mongar'),
+('BT-43', 'lb', 'Pemagatshel Dzongkhag'),
+('BT-44', 'lb', 'Lhuentse Dzongkhag'),
+('BT-45', 'lb', 'Samdrup Jongkhar Dzongkhag'),
+('BT-GA', 'lb', 'Gasa'),
+('BT-TY', 'lb', 'Trashi Yangste');
+
+SET FOREIGN_KEY_CHECKS=1;

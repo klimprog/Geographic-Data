@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'my', 'စိန့်အင်ဒရူး'),
+('DM-03', 'my', 'စိန့်ဒေးဗစ်'),
+('DM-04', 'my', 'စိန့်ဂျော့ခ်ျ'),
+('DM-05', 'my', 'စိန့်ဂျွန်'),
+('DM-06', 'my', 'စိန့်ဂျိုးဇက်'),
+('DM-07', 'my', 'စိန့်လုကာ'),
+('DM-08', 'my', 'စိန့်မာ့ခ်'),
+('DM-09', 'my', 'စိန့်ပက်ထရစ်'),
+('DM-10', 'my', 'စိန့်ပေါလ်'),
+('DM-11', 'my', 'စိန့်ပီတာ');
+
+SET FOREIGN_KEY_CHECKS=1;

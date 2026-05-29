@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('OM-BJ', 'ko', '남바티나주'),
+('OM-BS', 'ko', '북바티나주'),
+('OM-BU', 'ko', '부라이미주'),
+('OM-DA', 'ko', '다킬리야주'),
+('OM-MA', 'ko', '무스카트주'),
+('OM-MU', 'ko', '무산담주'),
+('OM-SJ', 'ko', '샤르키야 지방'),
+('OM-SS', 'ko', '북동부주'),
+('OM-WU', 'ko', '중부주'),
+('OM-ZA', 'ko', '다히라주'),
+('OM-ZU', 'ko', '도파르주');
+
+SET FOREIGN_KEY_CHECKS=1;

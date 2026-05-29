@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LC-01', 'mk', 'Анс ла Реј'),
+('LC-02', 'mk', 'Кастри'),
+('LC-03', 'mk', 'Цхоисеул'),
+('LC-05', 'mk', 'Деннеры'),
+('LC-06', 'mk', 'Грос Ислет Куартер'),
+('LC-07', 'mk', 'Лаборие'),
+('LC-08', 'mk', 'Мицоуд'),
+('LC-10', 'mk', 'Суфриер'),
+('LC-11', 'mk', 'Виео-Форт'),
+('LC-12', 'mk', 'Цанариес Куартер');
+
+SET FOREIGN_KEY_CHECKS=1;

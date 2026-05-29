@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AR-A', 'tr', 'Salta eyaleti'),
+('AR-B', 'tr', 'Buenos Aires eyaleti'),
+('AR-C', 'tr', 'Buenos Aires'),
+('AR-D', 'tr', 'San Luis eyaleti'),
+('AR-E', 'tr', 'Entre Ríos eyaleti'),
+('AR-F', 'tr', 'La Rioja Eyaleti'),
+('AR-G', 'tr', 'Santiago del Estero eyaleti'),
+('AR-H', 'tr', 'Chaco eyaleti'),
+('AR-J', 'tr', 'San Juan eyaleti'),
+('AR-K', 'tr', 'Catamarca eyaleti'),
+('AR-L', 'tr', 'La Pampa eyaleti'),
+('AR-M', 'tr', 'Mendoza eyaleti'),
+('AR-N', 'tr', 'Misiones eyaleti'),
+('AR-P', 'tr', 'Formosa eyaleti'),
+('AR-Q', 'tr', 'Neuquén eyaleti'),
+('AR-R', 'tr', 'Río Negro eyaleti'),
+('AR-S', 'tr', 'Santa Fe eyaleti'),
+('AR-T', 'tr', 'Tucumán eyaleti'),
+('AR-U', 'tr', 'Chubut eyaleti'),
+('AR-V', 'tr', 'Ateş Toprakları'),
+('AR-W', 'tr', 'Corrientes eyaleti'),
+('AR-X', 'tr', 'Córdoba eyaleti'),
+('AR-Y', 'tr', 'Jujuy eyaleti'),
+('AR-Z', 'tr', 'Santa Cruz');
+
+SET FOREIGN_KEY_CHECKS=1;

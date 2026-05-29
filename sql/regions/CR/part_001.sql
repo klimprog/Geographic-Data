@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('CR-A', 'CR', 'Provincia de Alajuela', 'Provincia de Alajuela', 1325080, 885571, 'UTC-6', 'America/Costa_Rica'),
+('CR-C', 'CR', 'Provincia de Cartago', 'Provincia de Cartago', 1324787, 490903, 'UTC-6', 'America/Costa_Rica'),
+('CR-G', 'CR', 'Provincia de Guanacaste', 'Provincia de Guanacaste', 1324240, 354154, 'UTC-6', 'America/Costa_Rica'),
+('CR-H', 'CR', 'Provincia de Heredia', 'Provincia de Heredia', 1324398, 433677, 'UTC-6', 'America/Costa_Rica'),
+('CR-L', 'CR', 'Provincia de Limon', 'Provincia de Limón', 1323820, 386862, 'UTC-5, UTC-6', 'America/Panama, America/Costa_Rica'),
+('CR-P', 'CR', 'Provincia de Puntarenas', 'Provincia de Puntarenas', 1323811, 410929, 'UTC-5, UTC-6', 'America/Panama, America/Costa_Rica'),
+('CR-SJ', 'CR', 'Provincia de San Jose', 'Provincia de San José', NULL, 1404242, 'UTC-6', 'America/Costa_Rica');
+
+SET FOREIGN_KEY_CHECKS=1;

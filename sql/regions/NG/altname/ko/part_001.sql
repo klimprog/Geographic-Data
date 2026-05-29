@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NG-AB', 'ko', '아비아주'),
+('NG-AD', 'ko', '아다마와주'),
+('NG-AK', 'ko', '아콰이봄주'),
+('NG-AN', 'ko', '아남브라주'),
+('NG-BA', 'ko', '바우치주'),
+('NG-BE', 'ko', '베누에주'),
+('NG-BO', 'ko', '보르노주'),
+('NG-BY', 'ko', '바이엘사주'),
+('NG-CR', 'ko', '크로스리버주'),
+('NG-DE', 'ko', '델타주'),
+('NG-EB', 'ko', '에보니주'),
+('NG-ED', 'ko', '에도주'),
+('NG-EK', 'ko', '에키티주'),
+('NG-EN', 'ko', '에누구주'),
+('NG-FC', 'ko', '연방 수도 지구'),
+('NG-GO', 'ko', '곰베주'),
+('NG-IM', 'ko', '이모주'),
+('NG-JI', 'ko', '지가와주'),
+('NG-KD', 'ko', '카두나주'),
+('NG-KE', 'ko', '케비주'),
+('NG-KN', 'ko', '카노주'),
+('NG-KO', 'ko', '코기주'),
+('NG-KT', 'ko', '카치나주'),
+('NG-KW', 'ko', '콰라주'),
+('NG-LA', 'ko', '라고스주'),
+('NG-NA', 'ko', '나사라와주'),
+('NG-NI', 'ko', '나이저주'),
+('NG-OG', 'ko', '오군주'),
+('NG-ON', 'ko', '온도주'),
+('NG-OS', 'ko', '오순주'),
+('NG-OY', 'ko', '오요주'),
+('NG-PL', 'ko', '플래토주'),
+('NG-RI', 'ko', '리버스주'),
+('NG-SO', 'ko', '소코토주'),
+('NG-TA', 'ko', '타라바주'),
+('NG-YO', 'ko', '요베주'),
+('NG-ZA', 'ko', '잠파라주');
+
+SET FOREIGN_KEY_CHECKS=1;

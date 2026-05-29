@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'am', 'አንሁይ'),
+('CN-BJ', 'am', 'ቤይጂንግ'),
+('CN-CQ', 'am', 'ችንግቺንግ'),
+('CN-FJ', 'am', 'ፉጂያን'),
+('CN-GD', 'am', 'ጓንግዶንግ'),
+('CN-GS', 'am', 'ጋንሱ'),
+('CN-GX', 'am', 'ጓንግሲ'),
+('CN-GZ', 'am', 'ጊይዞው'),
+('CN-HA', 'am', 'ሄናን'),
+('CN-HB', 'am', 'ሁቤይ'),
+('CN-HE', 'am', 'ሄቤይ'),
+('CN-HI', 'am', 'ሀይናን'),
+('CN-HK', 'am', 'ሆንግ ኮንግ ሳር'),
+('CN-HL', 'am', 'ሄይሎንግጃንግ'),
+('CN-HN', 'am', 'ሁናን'),
+('CN-JL', 'am', 'ጂሊን'),
+('CN-JS', 'am', 'ጂያንግሱ'),
+('CN-JX', 'am', 'ጂያንግሲ'),
+('CN-LN', 'am', 'ላዮኒንግ'),
+('CN-MO', 'am', 'ማቻኦ ሳር'),
+('CN-NM', 'am', 'ውስጣዊ ሞንጎሊያ'),
+('CN-NX', 'am', 'ኒንግሻ'),
+('CN-QH', 'am', 'ቂንግሃይ'),
+('CN-SC', 'am', 'ሲቹዋን'),
+('CN-SD', 'am', 'ሻንዶንግ'),
+('CN-SH', 'am', 'ሻንግሃይ'),
+('CN-SN', 'am', 'ሻአንሲ'),
+('CN-SX', 'am', 'ሻንሲ'),
+('CN-TJ', 'am', 'ትያንጂን'),
+('CN-TW', 'am', 'ታይዋን ሼንግ'),
+('CN-XJ', 'am', 'ሲንጂያንግ'),
+('CN-XZ', 'am', 'ትibет'),
+('CN-YN', 'am', 'ዩንናን'),
+('CN-ZJ', 'am', 'ዠጀጃንግ');
+
+SET FOREIGN_KEY_CHECKS=1;

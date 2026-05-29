@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AO-BGO', 'it', 'provincia del Bengo'),
+('AO-BGU', 'it', 'provincia di Benguela'),
+('AO-BIE', 'it', 'provincia di Bié'),
+('AO-CAB', 'it', 'Provincia di Cabinda'),
+('AO-CCU', 'it', 'provincia di Cuando Cubango'),
+('AO-CNN', 'it', 'provincia del Cunene'),
+('AO-CNO', 'it', 'provincia di Cuanza Nord'),
+('AO-CUS', 'it', 'provincia di Cuanza Sud'),
+('AO-HUA', 'it', 'provincia di Huambo'),
+('AO-HUI', 'it', 'provincia di Huíla'),
+('AO-LNO', 'it', 'provincia di Lunda Nord'),
+('AO-LSU', 'it', 'provincia di Lunda Sud'),
+('AO-LUA', 'it', 'provincia di Luanda'),
+('AO-MAL', 'it', 'provincia di Malanje'),
+('AO-MOX', 'it', 'provincia di Moxico'),
+('AO-NAM', 'it', 'provincia di Namibe'),
+('AO-UIG', 'it', 'provincia di Uíge'),
+('AO-ZAI', 'it', 'provincia dello Zaire');
+
+SET FOREIGN_KEY_CHECKS=1;

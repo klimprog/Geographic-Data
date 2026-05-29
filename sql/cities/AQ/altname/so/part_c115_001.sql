@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072129, 52885, 'so', 'Villa Las Estrellas'),
+(4072206, 52886, 'so', 'Saldhigga Davis'),
+(4072283, 52887, 'so', 'Saldhigga General Bernardo O''Higgins Riquelme'),
+(4072360, 52888, 'so', 'Saldhigga Showa'),
+(4072437, 52889, 'so', 'Saldhigga Jang Bogo'),
+(4072514, 52890, 'so', 'Saldhigga SANAA IV'),
+(4072591, 52891, 'so', 'Saldhigga Qinling'),
+(4072668, 52892, 'so', 'Saldhigga Zhongshan'),
+(4072745, 52893, 'so', 'Saldhigga Mawson'),
+(4072976, 52896, 'so', NULL),
+(4073207, 52899, 'so', 'Saldhigga Novolazarevskaya'),
+(4073361, 52901, 'so', 'Saldhigga Miriny');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GD-01', 'fa', 'پریش سنت اندرو'),
+('GD-02', 'fa', 'پاریس سنت دیوید'),
+('GD-03', 'fa', 'پریش سنت جورج'),
+('GD-04', 'fa', 'پریش سنت جان'),
+('GD-05', 'fa', 'پاریس سنت مارک'),
+('GD-06', 'fa', 'پریش سنت پاتریک'),
+('GD-10', 'fa', 'پریش سنت پاتریک');
+
+SET FOREIGN_KEY_CHECKS=1;

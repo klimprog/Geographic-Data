@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'ca', 'Governació d''Abyan'),
+('YE-AD', 'ca', 'Governació d''Adan'),
+('YE-AM', 'ca', 'Governació d''Amran'),
+('YE-BA', 'ca', 'Governació d''Al Bayda'),
+('YE-DA', 'ca', 'Governació d''Ad Dali'),
+('YE-DH', 'ca', 'governació de Dhamar'),
+('YE-HD', 'ca', 'Governació d''Hadramaut'),
+('YE-HJ', 'ca', 'Governació d''Hajjah'),
+('YE-HU', 'ca', 'Governació d''al-Hudaydah'),
+('YE-IB', 'ca', 'Governació d''Ibb'),
+('YE-JA', 'ca', 'Governació d''Al Jawf'),
+('YE-LA', 'ca', 'Governació de Lahij'),
+('YE-MA', 'ca', 'Governació de Marib'),
+('YE-MR', 'ca', 'Governació d''al-Mahra'),
+('YE-MW', 'ca', 'Governació d''Al Mahwit'),
+('YE-RA', 'ca', 'Governació de Raimah'),
+('YE-SA', 'ca', 'Amanat al Asimah Sana''a'),
+('YE-SD', 'ca', 'Governació de Sa''dah'),
+('YE-SH', 'ca', 'Governació de Xabwa'),
+('YE-SN', 'ca', 'Governació de Sanà'),
+('YE-SU', 'ca', 'Governació de Socotra'),
+('YE-TA', 'ca', 'Governació de Taizz');
+
+SET FOREIGN_KEY_CHECKS=1;

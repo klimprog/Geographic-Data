@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KH-1', 'pl', 'Prowincja Banteay Mean Cheay'),
+('KH-10', 'pl', 'Prowincja Krachen'),
+('KH-11', 'pl', 'Prowincja Mondol Kiri'),
+('KH-12', 'pl', 'Phnom Penh'),
+('KH-13', 'pl', 'Prowincja Preah Vihear'),
+('KH-14', 'pl', 'Prowincja Prey Veng'),
+('KH-15', 'pl', 'Prowincja Pouthisat'),
+('KH-16', 'pl', 'Prowincja Rotanah Kiri'),
+('KH-17', 'pl', 'Prowincja Siem Reap'),
+('KH-18', 'pl', 'Preah Seihanu'),
+('KH-19', 'pl', 'Prowincja Stoeng Treng'),
+('KH-2', 'pl', 'Prowincja Battambang'),
+('KH-20', 'pl', 'Prowincja Svay Rieng'),
+('KH-21', 'pl', 'Prowincja Takev'),
+('KH-22', 'pl', 'Prowincja Otdar Mean Cheay'),
+('KH-23', 'pl', 'Keb'),
+('KH-24', 'pl', 'Pailin'),
+('KH-25', 'pl', 'Tbong Khmŭm'),
+('KH-3', 'pl', 'Prowincja Kampong Cham'),
+('KH-4', 'pl', 'Prowincja Kampong Chhnang'),
+('KH-5', 'pl', 'Prowincja Kampong Spoe'),
+('KH-6', 'pl', 'Prowincja Kampong Thum'),
+('KH-7', 'pl', 'Prowincja Kampot'),
+('KH-8', 'pl', 'Prowincja Kandal'),
+('KH-9', 'pl', 'Prowincja Kaoh Kong');
+
+SET FOREIGN_KEY_CHECKS=1;

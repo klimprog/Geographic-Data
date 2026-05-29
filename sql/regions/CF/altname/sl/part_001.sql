@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CF-AC', 'sl', 'Ouham'),
+('CF-BB', 'sl', 'Bamingui-Bangoran'),
+('CF-BGF', 'sl', 'Bangui'),
+('CF-BK', 'sl', 'Basse-Kotto'),
+('CF-HK', 'sl', 'Haute-Kotto'),
+('CF-HM', 'sl', 'Haut-Mbomou'),
+('CF-HS', 'sl', 'Mambere-Kadei'),
+('CF-KB', 'sl', 'Nana-Grebizi'),
+('CF-KG', 'sl', 'prefektura Kémo'),
+('CF-LB', 'sl', 'Lobaye'),
+('CF-MB', 'sl', 'Mbomou'),
+('CF-MP', 'sl', 'Ombella-M''Poko'),
+('CF-NM', 'sl', 'Nana-Mambere'),
+('CF-OP', 'sl', 'Ouham-Pende'),
+('CF-SE', 'sl', 'Sangha-Mbaéré'),
+('CF-UK', 'sl', 'Ouaka'),
+('CF-VK', 'sl', 'Vakaga');
+
+SET FOREIGN_KEY_CHECKS=1;

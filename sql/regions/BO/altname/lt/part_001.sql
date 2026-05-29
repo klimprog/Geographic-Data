@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BO-B', 'lt', 'Beni departamentas'),
+('BO-C', 'lt', 'Kočabambos departamentas'),
+('BO-H', 'lt', 'Čukisakos departamentas'),
+('BO-L', 'lt', 'La Paso departamentas'),
+('BO-N', 'lt', 'Pando departamentas'),
+('BO-O', 'lt', 'Oruro departamentas'),
+('BO-P', 'lt', 'Potosi departamentas'),
+('BO-S', 'lt', 'Santa Kruso departamentas'),
+('BO-T', 'lt', 'Tarichos departamentas');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'hu', 'Andamán- és Nikobár-szigetek'),
+('IN-AP', 'hu', 'Ándhra Prades'),
+('IN-AR', 'hu', 'Arunácsal Prades'),
+('IN-AS', 'hu', 'Asszám'),
+('IN-BR', 'hu', 'Bihár'),
+('IN-CG', 'hu', 'Cshattíszgarh'),
+('IN-CH', 'hu', 'Csandígarh'),
+('IN-DH', 'hu', 'Dadra és Nagar Haveli és Daman és Diu'),
+('IN-DL', 'hu', 'Delhi'),
+('IN-GA', 'hu', 'Goa'),
+('IN-GJ', 'hu', 'Gudzsarát'),
+('IN-HP', 'hu', 'Himácsal Prades'),
+('IN-HR', 'hu', 'Harijána'),
+('IN-JH', 'hu', 'Dzshárkhand'),
+('IN-JK', 'hu', 'Dzsammu és Kasmír'),
+('IN-KA', 'hu', 'Karnátaka'),
+('IN-KL', 'hu', 'Kerala'),
+('IN-LA', 'hu', 'Ladakh'),
+('IN-LD', 'hu', 'Laksadíva'),
+('IN-MH', 'hu', 'Mahárástra'),
+('IN-ML', 'hu', 'Meghálaja'),
+('IN-MN', 'hu', 'Manipur'),
+('IN-MP', 'hu', 'Madhja Prades'),
+('IN-MZ', 'hu', 'Mizoram'),
+('IN-NL', 'hu', 'Nágaföld'),
+('IN-OD', 'hu', 'Orisza'),
+('IN-PB', 'hu', 'Pandzsáb'),
+('IN-PY', 'hu', 'Puduccseri'),
+('IN-RJ', 'hu', 'Rádzsasztán'),
+('IN-SK', 'hu', 'Szikkim'),
+('IN-TN', 'hu', 'Tamilnádu'),
+('IN-TR', 'hu', 'Tripura'),
+('IN-TS', 'hu', 'Telangána'),
+('IN-UK', 'hu', 'Uttarakhand'),
+('IN-UP', 'hu', 'Uttar Prades'),
+('IN-WB', 'hu', 'Nyugat-Bengál');
+
+SET FOREIGN_KEY_CHECKS=1;

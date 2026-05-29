@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'he', 'זֳהנסטֳן ַטֳלל'),
+('UM-71', 'he', 'אטול מידוויי'),
+('UM-76', 'he', 'נבאסה'),
+('UM-79', 'he', 'וייק'),
+('UM-81', 'he', 'בייקר'),
+('UM-84', 'he', 'האולנד'),
+('UM-86', 'he', 'גארביס איסלנד'),
+('UM-89', 'he', 'כִנגמַן רֶֶף'),
+('UM-95', 'he', 'אטול פאלמירה');
+
+SET FOREIGN_KEY_CHECKS=1;

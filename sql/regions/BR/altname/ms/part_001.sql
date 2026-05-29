@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BR-AC', 'ms', 'Acre'),
+('BR-AL', 'ms', 'Alagoas'),
+('BR-AM', 'ms', 'Amazonas'),
+('BR-AP', 'ms', 'Amapa'),
+('BR-BA', 'ms', 'Bahia'),
+('BR-CE', 'ms', 'Ceara'),
+('BR-DF', 'ms', 'Wilayah Persekutuan Brazil'),
+('BR-ES', 'ms', 'Espírito Santo'),
+('BR-GO', 'ms', 'Goiás'),
+('BR-MA', 'ms', 'Maranhão'),
+('BR-MG', 'ms', 'Minas Gerais'),
+('BR-MS', 'ms', 'Mato Grosso do Sul'),
+('BR-MT', 'ms', 'Mato Grosso'),
+('BR-PA', 'ms', 'Para'),
+('BR-PB', 'ms', 'Paraiba'),
+('BR-PE', 'ms', 'Pernambuco'),
+('BR-PI', 'ms', 'Piauí'),
+('BR-PR', 'ms', 'Paraná'),
+('BR-RJ', 'ms', 'Rio de Janeiro'),
+('BR-RN', 'ms', 'Rio Grande do Norte'),
+('BR-RO', 'ms', 'Rondônia'),
+('BR-RR', 'ms', 'Roraima'),
+('BR-RS', 'ms', 'Rio Grande do Sul'),
+('BR-SC', 'ms', 'Santa Catarina'),
+('BR-SE', 'ms', 'Sergipe'),
+('BR-SP', 'ms', 'São Paulo'),
+('BR-TO', 'ms', 'Tocantins');
+
+SET FOREIGN_KEY_CHECKS=1;

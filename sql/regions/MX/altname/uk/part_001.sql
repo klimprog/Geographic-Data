@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'uk', 'Аґуаскальєнтес'),
+('MX-BCN', 'uk', 'Баха-Каліфорнія'),
+('MX-BCS', 'uk', 'Баха-Каліфорнія-Сур'),
+('MX-CAM', 'uk', 'Кампече'),
+('MX-CHH', 'uk', 'Чіуауа'),
+('MX-CHP', 'uk', 'Чіапас'),
+('MX-CMX', 'uk', 'Мехіко'),
+('MX-COA', 'uk', 'Коауїла'),
+('MX-COL', 'uk', 'Коліма'),
+('MX-DUR', 'uk', 'Дуранго'),
+('MX-GRO', 'uk', 'Ґерреро'),
+('MX-GUA', 'uk', 'Гуанахуато'),
+('MX-HID', 'uk', 'Ідальго'),
+('MX-JAL', 'uk', 'Халіско'),
+('MX-MEX', 'uk', 'Мехіко'),
+('MX-MIC', 'uk', 'Мічоакан'),
+('MX-MOR', 'uk', 'Морелос'),
+('MX-NAY', 'uk', 'Наярит'),
+('MX-NLE', 'uk', 'Нуево-Леон'),
+('MX-OAX', 'uk', 'Оахака'),
+('MX-PUE', 'uk', 'Пуебла'),
+('MX-QUE', 'uk', 'Керетаро'),
+('MX-ROO', 'uk', 'Кінтана-Роо'),
+('MX-SIN', 'uk', 'Сіналоа'),
+('MX-SLP', 'uk', 'Сан-Луїс-Потосі'),
+('MX-SON', 'uk', 'Сонора'),
+('MX-TAB', 'uk', 'Табаско'),
+('MX-TAM', 'uk', 'Тамауліпас'),
+('MX-TLA', 'uk', 'Тласкала'),
+('MX-VER', 'uk', 'Веракрус'),
+('MX-YUC', 'uk', 'Юкатан'),
+('MX-ZAC', 'uk', 'Сакатекас');
+
+SET FOREIGN_KEY_CHECKS=1;

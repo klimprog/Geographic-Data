@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'fi', 'Al-Iskandariyyan kuvernoraatti'),
+('EG-ASN', 'fi', 'Assuanin kuvernoraatti'),
+('EG-AST', 'fi', 'Asyutin kuvernoraatti'),
+('EG-BA', 'fi', 'Al-Bahr al-Ahmar'),
+('EG-BH', 'fi', 'Al-Buhaira'),
+('EG-BNS', 'fi', 'Bani Suwaifin kuvernementti'),
+('EG-C', 'fi', 'Kairon kuvernoraatti'),
+('EG-DK', 'fi', 'Al-Daqahliyya'),
+('EG-DT', 'fi', 'Dumjatin kuvernoraatti'),
+('EG-FYM', 'fi', 'Al-Fayyumin kuvernoraatti'),
+('EG-GH', 'fi', 'Al-Gharbiyyan kuvernoraatti'),
+('EG-GZ', 'fi', 'Al-Gizan kuvernoraatti'),
+('EG-IS', 'fi', 'Al-Isma’iliyyan kuvernoraatti'),
+('EG-JS', 'fi', 'Janub Sina’'),
+('EG-KB', 'fi', 'Al-Qalyubiyya'),
+('EG-KFS', 'fi', 'Kafr al-Šaykh'),
+('EG-KN', 'fi', 'Qinan kuvernoraatti'),
+('EG-LX', 'fi', 'Luxorin kuvernoraatti'),
+('EG-MN', 'fi', 'Al-Minyan kuvernoraatti'),
+('EG-MNF', 'fi', 'Al-Minufiyya'),
+('EG-MT', 'fi', 'Matruhin kuvernoraatti'),
+('EG-PTS', 'fi', 'Bur Sa’idin kuvernoraatti'),
+('EG-SHG', 'fi', 'Suhaj'),
+('EG-SHR', 'fi', 'Al-Šarqiyya'),
+('EG-SIN', 'fi', 'Šamal Sina'''),
+('EG-SUZ', 'fi', 'Al-Suwaisin kuvernoraatti'),
+('EG-WAD', 'fi', 'Al-Wadi al-Gadid');
+
+SET FOREIGN_KEY_CHECKS=1;

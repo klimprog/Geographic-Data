@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NZ-AUK', 'sl', 'Auckland Region'),
+('NZ-BOP', 'sl', 'Bay of Plenty'),
+('NZ-CAN', 'sl', 'Canterbury Region'),
+('NZ-CIT', 'sl', 'Chatham Islands Territory'),
+('NZ-GIS', 'sl', 'Gisborne District'),
+('NZ-HKB', 'sl', 'Hawke’s Bay'),
+('NZ-MBH', 'sl', 'Marlborough'),
+('NZ-MWT', 'sl', 'Manawatu - Wanganui'),
+('NZ-NSN', 'sl', 'Nelson Region'),
+('NZ-NTL', 'sl', 'Northland'),
+('NZ-OTA', 'sl', 'Otago'),
+('NZ-STL', 'sl', 'Southland Region'),
+('NZ-TAS', 'sl', 'Tasman'),
+('NZ-TKI', 'sl', 'Taranaki'),
+('NZ-WGN', 'sl', 'Wellington'),
+('NZ-WKO', 'sl', 'Waikato'),
+('NZ-WTC', 'sl', 'West Coast');
+
+SET FOREIGN_KEY_CHECKS=1;

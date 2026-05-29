@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KZ-10', 'lt', 'Abaj oblysy'),
+('KZ-11', 'lt', 'Akmolos sritis'),
+('KZ-15', 'lt', 'Aktobės sritis'),
+('KZ-19', 'lt', 'Almatos sritis'),
+('KZ-23', 'lt', 'Atyrau sritis'),
+('KZ-27', 'lt', 'Vakarų Kazachstano sritis'),
+('KZ-31', 'lt', 'Žambylo sritis'),
+('KZ-33', 'lt', 'Zetisu oblysy'),
+('KZ-35', 'lt', 'Karagandos sritis'),
+('KZ-39', 'lt', 'Kostanajaus sritis'),
+('KZ-43', 'lt', 'Kyzylordos sritis'),
+('KZ-47', 'lt', 'Mangyštau sritis'),
+('KZ-55', 'lt', 'Pavlodaro sritis'),
+('KZ-59', 'lt', 'Šiaurės Kazachstano sritis'),
+('KZ-61', 'lt', 'Turkestano sritis'),
+('KZ-62', 'lt', 'Ulytau oblysy'),
+('KZ-63', 'lt', 'Rytų Kazachstano sritis'),
+('KZ-71', 'lt', 'Astana'),
+('KZ-75', 'lt', 'Almaty'),
+('KZ-79', 'lt', 'Symkent');
+
+SET FOREIGN_KEY_CHECKS=1;

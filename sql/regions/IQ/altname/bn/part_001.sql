@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IQ-AN', 'bn', 'আল আনবার প্রদেশ'),
+('IQ-AR', 'bn', 'এরবিল'),
+('IQ-BA', 'bn', 'বসরা'),
+('IQ-BB', 'bn', 'বাবিল'),
+('IQ-BG', 'bn', 'বাগদাদ'),
+('IQ-DA', 'bn', 'দহুক প্রদেশ'),
+('IQ-DI', 'bn', 'দিয়ালা প্রদেশ'),
+('IQ-DQ', 'bn', 'জি কার প্রদেশ'),
+('IQ-KA', 'bn', 'কারবালা'),
+('IQ-KI', 'bn', 'কিরকুক'),
+('IQ-KR', 'bn', 'ইকলিম কুর্দিস্তান'),
+('IQ-MA', 'bn', 'মায়সান প্রদেশ'),
+('IQ-MU', 'bn', 'আল মুসান্না প্রদেশ'),
+('IQ-NA', 'bn', 'নাজাফ'),
+('IQ-NI', 'bn', 'নিনেভা'),
+('IQ-QA', 'bn', 'কাদিসিয়া'),
+('IQ-SD', 'bn', 'সালাহউদ্দিন প্রদেশ'),
+('IQ-SU', 'bn', 'সুলাইমানিয়া'),
+('IQ-WA', 'bn', 'ওয়াসিত');
+
+SET FOREIGN_KEY_CHECKS=1;

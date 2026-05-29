@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('YE-AB', 'am', 'አብያን Governorate'),
+('YE-AD', 'am', 'ዓደን'),
+('YE-AM', 'am', 'ዖምራን'),
+('YE-BA', 'am', 'አል ባይዳ'),
+('YE-DA', 'am', 'አድ ዳሊ'),
+('YE-DH', 'am', 'ዓማር'),
+('YE-HD', 'am', 'ሙሐፈዛት ሐድራሞት'),
+('YE-HJ', 'am', 'ሃጃ'),
+('YE-HU', 'am', 'አል ሁዳይዳ'),
+('YE-IB', 'am', 'ኢብ Governorate'),
+('YE-JA', 'am', 'አል ጃውፍ'),
+('YE-LA', 'am', 'ላሂጅ'),
+('YE-MA', 'am', 'ማእሪብ'),
+('YE-MR', 'am', 'አል ማህራ Governorate'),
+('YE-MW', 'am', 'አል ማህዊት Governorate'),
+('YE-RA', 'am', 'ራይማ'),
+('YE-SA', 'am', 'አማናት አላሲማ'),
+('YE-SD', 'am', 'ሳዳ'),
+('YE-SH', 'am', 'ሻብዋ'),
+('YE-SN', 'am', 'ሳናእ Governorate'),
+('YE-SU', 'am', 'ሶቖጥራ'),
+('YE-TA', 'am', 'ታዓይዝ');
+
+SET FOREIGN_KEY_CHECKS=1;

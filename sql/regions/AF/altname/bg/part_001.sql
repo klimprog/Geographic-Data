@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'bg', 'Балх'),
+('AF-BAM', 'bg', 'Бамян'),
+('AF-BDG', 'bg', 'Багдис'),
+('AF-BDS', 'bg', 'Бадахшан'),
+('AF-BGL', 'bg', 'Баглан'),
+('AF-DAY', 'bg', 'Дайкунди'),
+('AF-FRA', 'bg', 'Фарах'),
+('AF-FYB', 'bg', 'Фаряб'),
+('AF-GHA', 'bg', 'Газни'),
+('AF-GHO', 'bg', 'Гор'),
+('AF-HEL', 'bg', 'Хелманд'),
+('AF-HER', 'bg', 'Херат'),
+('AF-JOW', 'bg', 'Джаузджан'),
+('AF-KAB', 'bg', 'Кабул'),
+('AF-KAN', 'bg', 'Кандахар'),
+('AF-KAP', 'bg', 'Каписа'),
+('AF-KDZ', 'bg', 'Кундуз'),
+('AF-KHO', 'bg', 'Хост'),
+('AF-KNR', 'bg', 'Конар'),
+('AF-LAG', 'bg', 'Лагман'),
+('AF-LOG', 'bg', 'Логар'),
+('AF-NAN', 'bg', 'Нангархар'),
+('AF-NIM', 'bg', 'Нимруз'),
+('AF-NUR', 'bg', 'Нуристан'),
+('AF-PAN', 'bg', 'Панджшир'),
+('AF-PAR', 'bg', 'Парван'),
+('AF-PIA', 'bg', 'Пактия'),
+('AF-PKA', 'bg', 'Пактика'),
+('AF-SAM', 'bg', 'Саманган'),
+('AF-SAR', 'bg', 'Сарипол'),
+('AF-TAK', 'bg', 'Тахар'),
+('AF-URU', 'bg', 'Орузган'),
+('AF-WAR', 'bg', 'Вардак'),
+('AF-ZAB', 'bg', 'Забул');
+
+SET FOREIGN_KEY_CHECKS=1;

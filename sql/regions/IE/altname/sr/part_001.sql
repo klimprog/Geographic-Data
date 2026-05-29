@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'sr', 'Конот'),
+('IE-CE', 'sr', 'Чларе'),
+('IE-CN', 'sr', 'Чаван'),
+('IE-CO', 'sr', 'Ћорк'),
+('IE-CW', 'sr', 'Царлов'),
+('IE-D', 'sr', 'Дублин'),
+('IE-DL', 'sr', 'Донегал'),
+('IE-G', 'sr', 'Галваи'),
+('IE-KE', 'sr', 'Килдаре'),
+('IE-KK', 'sr', 'Килкенни'),
+('IE-KY', 'sr', 'Керри'),
+('IE-L', 'sr', 'Ленстер'),
+('IE-LD', 'sr', 'Лонгфорд'),
+('IE-LH', 'sr', 'Лоутх'),
+('IE-LK', 'sr', 'Лимерик'),
+('IE-LM', 'sr', 'Литрим'),
+('IE-LS', 'sr', 'Лаоис'),
+('IE-M', 'sr', 'Манстер'),
+('IE-MH', 'sr', 'Меатх'),
+('IE-MN', 'sr', 'Монаган'),
+('IE-MO', 'sr', 'Маио'),
+('IE-OY', 'sr', 'Оффали'),
+('IE-RN', 'sr', 'Росцоммон'),
+('IE-SO', 'sr', 'Слиго'),
+('IE-TA', 'sr', 'Типперари'),
+('IE-U', 'sr', 'Алстер'),
+('IE-WD', 'sr', 'Ватерфорд'),
+('IE-WH', 'sr', 'Вестмеатх'),
+('IE-WW', 'sr', 'Вицклов'),
+('IE-WX', 'sr', 'Векфорд');
+
+SET FOREIGN_KEY_CHECKS=1;

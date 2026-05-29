@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'mt', 'Anhui'),
+('CN-BJ', 'mt', 'bei jing'),
+('CN-CQ', 'mt', 'Chongqing'),
+('CN-FJ', 'mt', 'Fujian'),
+('CN-GD', 'mt', 'Guangdong'),
+('CN-GS', 'mt', 'gan su'),
+('CN-GX', 'mt', 'guang xi'),
+('CN-GZ', 'mt', 'gui zhou'),
+('CN-HA', 'mt', 'Henan'),
+('CN-HB', 'mt', 'hu bei'),
+('CN-HE', 'mt', 'he bei'),
+('CN-HI', 'mt', 'hai nan'),
+('CN-HK', 'mt', 'Ħong Kong SAR'),
+('CN-HL', 'mt', 'hei long jiang'),
+('CN-HN', 'mt', 'hu nan'),
+('CN-JL', 'mt', 'ji lin'),
+('CN-JS', 'mt', 'jiang su'),
+('CN-JX', 'mt', 'jiang xi'),
+('CN-LN', 'mt', 'liao ning'),
+('CN-MO', 'mt', 'Makaw SAR'),
+('CN-NM', 'mt', 'Reġjun Awtonomu tal-Mongolja ta'' ġewwa'),
+('CN-NX', 'mt', 'ning xia'),
+('CN-QH', 'mt', 'qing hai'),
+('CN-SC', 'mt', 'si chuan'),
+('CN-SD', 'mt', 'shan dong'),
+('CN-SH', 'mt', 'Shanghai'),
+('CN-SN', 'mt', 'shan xi'),
+('CN-SX', 'mt', 'Shanxi'),
+('CN-TJ', 'mt', 'Tianjin'),
+('CN-TW', 'mt', 'Tajwan Sheng'),
+('CN-XJ', 'mt', 'xin jiang'),
+('CN-XZ', 'mt', 'Reġjun Awtonomu tat-Tibet'),
+('CN-YN', 'mt', 'Yunnan'),
+('CN-ZJ', 'mt', 'zhe jiang');
+
+SET FOREIGN_KEY_CHECKS=1;

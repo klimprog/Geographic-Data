@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(132986741, 1727101, 'lv', 'Eitas ciems'),
+(132986818, 1727102, 'lv', 'Santa Rita'),
+(132986895, 1727103, 'lv', 'Sinajana'),
+(132986972, 1727104, 'lv', 'Talofofo'),
+(132987049, 1727105, 'lv', 'Tamuning-Tumon-Harmon Village'),
+(132987126, 1727106, 'lv', 'Umatac'),
+(132987203, 1727107, 'lv', 'Yigo Village'),
+(132987280, 1727108, 'lv', 'Yonan-up'),
+(132987357, 1727109, 'lv', 'Merizo Village'),
+(132987434, 1727110, 'lv', 'Gilakajans'),
+(132987511, 1727111, 'lv', 'Agana Heights Village'),
+(132987588, 1727112, 'lv', 'Chalan Pago-Ordot'),
+(132987665, 1727113, 'lv', 'Hibarigaoka'),
+(132987742, 1727114, 'lv', 'Agarti'),
+(132987819, 1727115, 'lv', 'Asan-Maina ciems'),
+(132987896, 1727116, 'lv', 'Dededo Village'),
+(132987973, 1727117, 'lv', 'Hagātņa'),
+(132988050, 1727118, 'lv', 'Mangilao Village'),
+(132988127, 1727119, 'lv', 'Mongmong-Toto-Maite Village'),
+(132988204, 1727120, 'lv', 'Hagatnas ciems'),
+(132988281, 1727121, 'lv', 'Adacao'),
+(132988358, 1727122, 'lv', 'Anao'),
+(132988435, 1727123, 'lv', 'Apra Harbor'),
+(132988512, 1727124, 'lv', 'Chaguian'),
+(132988666, 1727126, 'lv', 'Ipan');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'sq', 'an hui'),
+('CN-BJ', 'sq', 'bei jing'),
+('CN-CQ', 'sq', 'Çongqing'),
+('CN-FJ', 'sq', 'Fujian'),
+('CN-GD', 'sq', 'guang dong'),
+('CN-GS', 'sq', 'gan su'),
+('CN-GX', 'sq', 'guang xi'),
+('CN-GZ', 'sq', 'gui zhou'),
+('CN-HA', 'sq', 'he nan'),
+('CN-HB', 'sq', 'hu bei'),
+('CN-HE', 'sq', 'he bei'),
+('CN-HI', 'sq', 'hai nan'),
+('CN-HK', 'sq', 'Hong Kong SAR'),
+('CN-HL', 'sq', 'hei long jiang'),
+('CN-HN', 'sq', 'hu nan'),
+('CN-JL', 'sq', 'ji lin'),
+('CN-JS', 'sq', 'jiang su'),
+('CN-JX', 'sq', 'jiang xi'),
+('CN-LN', 'sq', 'liao ning'),
+('CN-MO', 'sq', 'Makao SAR'),
+('CN-NM', 'sq', 'Rajoni Autonom i Mongolisë së Brendshme'),
+('CN-NX', 'sq', 'ning xia'),
+('CN-QH', 'sq', 'qing hai'),
+('CN-SC', 'sq', 'si chuan'),
+('CN-SD', 'sq', 'Shandong'),
+('CN-SH', 'sq', 'Shangai'),
+('CN-SN', 'sq', 'shan xi'),
+('CN-SX', 'sq', 'shan xi'),
+('CN-TJ', 'sq', 'Tianxhin'),
+('CN-TW', 'sq', 'Tajvan Sheng'),
+('CN-XJ', 'sq', 'Sinkiang'),
+('CN-XZ', 'sq', 'Tibet'),
+('CN-YN', 'sq', 'yun nan'),
+('CN-ZJ', 'sq', 'zhe jiang');
+
+SET FOREIGN_KEY_CHECKS=1;

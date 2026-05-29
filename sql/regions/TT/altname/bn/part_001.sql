@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TT-ARI', 'bn', 'এরিমা'),
+('TT-CHA', 'bn', 'চাগুয়ানাস'),
+('TT-CTT', 'bn', 'কুভা তাবাকুইত অঞ্চল'),
+('TT-DMN', 'bn', 'ডিয়েগু মার্টিন অঞ্চল'),
+('TT-MRC', 'bn', 'মায়ারো'),
+('TT-PED', 'bn', 'পেনাল/ডেবে'),
+('TT-POS', 'bn', 'পোর্ট অফ স্পেইন'),
+('TT-PRT', 'bn', 'প্রিন্সেস টাউন আঞ্চলিক কর্পোরেশন'),
+('TT-PTF', 'bn', 'পয়েন্ট ফোর্টিন'),
+('TT-SFO', 'bn', 'সান ফার্নান্ডো'),
+('TT-SGE', 'bn', 'সাঙরে গ্রান্ডে আঞ্চলিক কর্পোরেশন'),
+('TT-SIP', 'bn', 'সিপারিয়া আঞ্চলিক কর্পোরেশন'),
+('TT-SJL', 'bn', 'সান জুয়ান/লাভেন্টিল'),
+('TT-TOB', 'bn', 'টোবাগো'),
+('TT-TUP', 'bn', 'তুনাপুনা/পিয়ারকো');
+
+SET FOREIGN_KEY_CHECKS=1;

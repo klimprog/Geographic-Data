@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BI-BB', 'kk', 'Бубанза'),
+('BI-BL', 'kk', 'Бужумбура-Рураль'),
+('BI-BM', 'kk', 'Бужумбура Майри'),
+('BI-BR', 'kk', 'Бурюри'),
+('BI-CA', 'kk', 'Канкузо'),
+('BI-CI', 'kk', 'Чибитоке'),
+('BI-GI', 'kk', 'Гитега'),
+('BI-KI', 'kk', 'Кирундо'),
+('BI-KR', 'kk', 'Карузи'),
+('BI-KY', 'kk', 'Каянза'),
+('BI-MA', 'kk', 'Макамба'),
+('BI-MU', 'kk', 'Мурамвия'),
+('BI-MW', 'kk', 'Мваро'),
+('BI-MY', 'kk', 'Муйинга'),
+('BI-NG', 'kk', 'Нгози'),
+('BI-RM', 'kk', 'Румонге'),
+('BI-RT', 'kk', 'Рутана'),
+('BI-RY', 'kk', 'Руиги');
+
+SET FOREIGN_KEY_CHECKS=1;

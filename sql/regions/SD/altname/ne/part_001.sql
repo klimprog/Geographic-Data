@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SD-DC', 'ne', 'सेन्ट्रल दारफुर स्ताते'),
+('SD-DE', 'ne', 'पूर्वी डार्फर'),
+('SD-DN', 'ne', 'उत्तर डार्फर'),
+('SD-DS', 'ne', 'दक्षिण डार्फर'),
+('SD-DW', 'ne', 'पश्चिम डार्फर'),
+('SD-GD', 'ne', 'अल कादरिफ स्ताते'),
+('SD-GK', 'ne', 'पश्चिम कर्डोफन राज्य'),
+('SD-GZ', 'ne', 'अल जजिरा राज्य'),
+('SD-KA', 'ne', 'कस्सला स्ताते'),
+('SD-KH', 'ne', 'ख्हर्तोउम'),
+('SD-KN', 'ne', 'उत्तरी कोर्डोफान'),
+('SD-KS', 'ne', 'दक्षिण कोर्डोफान'),
+('SD-NB', 'ne', 'ब्लुए निले'),
+('SD-NO', 'ne', 'उत्तरी'),
+('SD-NR', 'ne', 'रिवेर निले'),
+('SD-NW', 'ne', 'सेतो नाइल'),
+('SD-RS', 'ne', 'लाल सागर'),
+('SD-SI', 'ne', 'सेन्नार');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'so', 'Silesia Hoose'),
+('PL-04', 'so', 'Kujawsko-Pomorskie'),
+('PL-06', 'so', 'Lublin'),
+('PL-08', 'so', 'Lubusz'),
+('PL-10', 'so', 'Lodz Voivodeship'),
+('PL-12', 'so', 'Boland Yar'),
+('PL-14', 'so', 'Mazovia'),
+('PL-16', 'so', 'Opole Voivodeship'),
+('PL-18', 'so', 'Subcarpathia'),
+('PL-20', 'so', 'Podlasie'),
+('PL-22', 'so', 'Pomerania'),
+('PL-24', 'so', 'Silesia'),
+('PL-26', 'so', 'Swietokrzyskie'),
+('PL-28', 'so', 'Warmia-Masuria'),
+('PL-30', 'so', 'Boland Weyn'),
+('PL-32', 'so', 'Pomerania Galbeed');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UZ-AN', 'fr', 'province d''Andijan'),
+('UZ-BU', 'fr', 'Boukhara'),
+('UZ-FA', 'fr', 'Ferghana'),
+('UZ-JI', 'fr', 'Djizak'),
+('UZ-NG', 'fr', 'Namangan'),
+('UZ-NW', 'fr', 'Navoï'),
+('UZ-QA', 'fr', 'Kachkadaria'),
+('UZ-QR', 'fr', 'Karakalpakstan'),
+('UZ-SA', 'fr', 'Samarcande'),
+('UZ-SI', 'fr', 'Syr-Daria'),
+('UZ-SU', 'fr', 'Sourkhan-Daria'),
+('UZ-TK', 'fr', 'Tachkent'),
+('UZ-TO', 'fr', 'Tachkent'),
+('UZ-XO', 'fr', 'Khorezm');
+
+SET FOREIGN_KEY_CHECKS=1;

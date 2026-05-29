@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(102939183, 1336873, 'lb', 'Zeelandia'),
+(102939260, 1336874, 'lb', 'Willemstad'),
+(102939414, 1336876, 'lb', 'Weis'),
+(102939953, 1336883, 'lb', 'Santa Rosa'),
+(102940261, 1336887, 'lb', 'Sabana Westpunt'),
+(102940338, 1336888, 'lb', 'Roosendaal'),
+(102940415, 1336889, 'lb', 'Rancho'),
+(102940492, 1336890, 'lb', 'Parera'),
+(102940569, 1336891, 'lb', 'Newport'),
+(102940723, 1336893, 'lb', 'Lagun'),
+(102940954, 1336896, 'lb', 'Kas Chikitu'),
+(102941031, 1336897, 'lb', 'Julianadorp'),
+(102941108, 1336898, 'lb', 'Janwe'),
+(102941185, 1336899, 'lb', 'Jan Thiel'),
+(102941339, 1336901, 'lb', 'Groot Kwartier'),
+(102941493, 1336903, 'lb', 'Fortuna Abou'),
+(102941570, 1336904, 'lb', 'Emmastad'),
+(102941724, 1336906, 'lb', 'Dorp Soto'),
+(102941801, 1336907, 'lb', 'Dorp Sint Willebrordus'),
+(102941955, 1336909, 'lb', 'De Hoop'),
+(102942032, 1336910, 'lb', 'Buena Vista'),
+(102942109, 1336911, 'lb', 'Brievengat'),
+(102942417, 1336915, 'lb', 'St. Michiel'),
+(102942494, 1336916, 'lb', 'Santa Catharina'),
+(102942648, 1336918, 'lb', 'Grote Berg'),
+(102942879, 1336921, 'lb', 'Bandariba'),
+(102942956, 1336922, 'lb', 'Bandabou');
+
+SET FOREIGN_KEY_CHECKS=1;

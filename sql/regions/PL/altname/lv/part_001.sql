@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PL-02', 'lv', 'Lejassilēzijas vojevodiste'),
+('PL-04', 'lv', 'Kujāvijas-Pomožes vojevodiste'),
+('PL-06', 'lv', 'Ļubļinas vojevodiste'),
+('PL-08', 'lv', 'Lubušas vojevodiste'),
+('PL-10', 'lv', 'Lodzas vojevodiste'),
+('PL-12', 'lv', 'Mazpolijas vojevodiste'),
+('PL-14', 'lv', 'Mazovijas vojevodiste'),
+('PL-16', 'lv', 'Opoles vojevodiste'),
+('PL-18', 'lv', 'Piekarpatu vojevodiste'),
+('PL-20', 'lv', 'Podlases vojevodiste'),
+('PL-22', 'lv', 'Pomožes vojevodiste'),
+('PL-24', 'lv', 'Silēzijas vojevodiste'),
+('PL-26', 'lv', 'Sventokšiskas vojevodiste'),
+('PL-28', 'lv', 'Varmijas-Mazūrijas vojevodiste'),
+('PL-30', 'lv', 'Lielpolijas vojevodiste'),
+('PL-32', 'lv', 'Rietumpomožes vojevodiste');
+
+SET FOREIGN_KEY_CHECKS=1;

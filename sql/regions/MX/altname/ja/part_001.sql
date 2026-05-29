@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'ja', 'アグアスカリエンテス州'),
+('MX-BCN', 'ja', 'バハ・カリフォルニア州'),
+('MX-BCS', 'ja', 'バハ・カリフォルニア・スル州'),
+('MX-CAM', 'ja', 'カンペチェ州'),
+('MX-CHH', 'ja', 'チワワ州'),
+('MX-CHP', 'ja', 'チアパス州'),
+('MX-CMX', 'ja', 'メキシコシティ'),
+('MX-COA', 'ja', 'コアウイラ州'),
+('MX-COL', 'ja', 'コリマ州'),
+('MX-DUR', 'ja', 'ドゥランゴ州'),
+('MX-GRO', 'ja', 'ゲレーロ州'),
+('MX-GUA', 'ja', 'グアナフアト州'),
+('MX-HID', 'ja', 'イダルゴ州'),
+('MX-JAL', 'ja', 'ハリスコ州'),
+('MX-MEX', 'ja', 'メヒコ州'),
+('MX-MIC', 'ja', 'ミチョアカン州'),
+('MX-MOR', 'ja', 'モレロス州'),
+('MX-NAY', 'ja', 'ナヤリット州'),
+('MX-NLE', 'ja', 'ヌエボ・レオン州'),
+('MX-OAX', 'ja', 'オアハカ州'),
+('MX-PUE', 'ja', 'プエブラ州'),
+('MX-QUE', 'ja', 'ケレタロ州'),
+('MX-ROO', 'ja', 'キンタナ・ロー州'),
+('MX-SIN', 'ja', 'シナロア州'),
+('MX-SLP', 'ja', 'サン・ルイス・ポトシ州'),
+('MX-SON', 'ja', 'ソノラ州'),
+('MX-TAB', 'ja', 'タバスコ州'),
+('MX-TAM', 'ja', 'タマウリパス州'),
+('MX-TLA', 'ja', 'トラスカラ州'),
+('MX-VER', 'ja', 'ベラクルス州'),
+('MX-YUC', 'ja', 'ユカタン州'),
+('MX-ZAC', 'ja', 'サカテカス州');
+
+SET FOREIGN_KEY_CHECKS=1;

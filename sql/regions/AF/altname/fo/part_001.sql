@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'fo', 'Balkh'),
+('AF-BAM', 'fo', 'Vilajat-e Bamyan'),
+('AF-BDG', 'fo', 'Badghis'),
+('AF-BDS', 'fo', 'Badaksjan'),
+('AF-BGL', 'fo', 'Wilayat-e Baghlan'),
+('AF-DAY', 'fo', 'Daykundi landslut'),
+('AF-FRA', 'fo', 'Farah'),
+('AF-FYB', 'fo', 'Faryab-landsluturin'),
+('AF-GHA', 'fo', NULL),
+('AF-GHO', 'fo', 'Wilayat-e Ghor'),
+('AF-HEL', 'fo', 'Helmandi'),
+('AF-HER', 'fo', 'Herat'),
+('AF-JOW', 'fo', 'Vilajat-e Jowzjan'),
+('AF-KAB', 'fo', NULL),
+('AF-KAN', 'fo', 'Kandahar'),
+('AF-KAP', 'fo', NULL),
+('AF-KDZ', 'fo', 'Kunduz'),
+('AF-KHO', 'fo', 'Velajat-e Khowst'),
+('AF-KNR', 'fo', 'Wilayat-e Kunar'),
+('AF-LAG', 'fo', 'Vilajat-e Laghman'),
+('AF-LOG', 'fo', 'Wilayat-e Logar'),
+('AF-NAN', 'fo', 'Nangarhar'),
+('AF-NIM', 'fo', 'Viljað Nimroz'),
+('AF-NUR', 'fo', NULL),
+('AF-PAN', 'fo', 'Panjskir'),
+('AF-PAR', 'fo', 'Parvan'),
+('AF-PIA', 'fo', NULL),
+('AF-PKA', 'fo', 'Viljað og Paktika'),
+('AF-SAM', 'fo', 'Samangan'),
+('AF-SAR', 'fo', 'Sar-e Pul'),
+('AF-TAK', 'fo', 'Vilajat-e Takhar'),
+('AF-URU', 'fo', 'Uruzgan'),
+('AF-WAR', 'fo', 'Wardak'),
+('AF-ZAB', 'fo', 'Viljað í Zabul');
+
+SET FOREIGN_KEY_CHECKS=1;

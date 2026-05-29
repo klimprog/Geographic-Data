@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(2426113, 31508, 'uz', 'West End Qishlog''i'),
+(2426344, 31511, 'uz', 'The Valley'),
+(2426421, 31512, 'uz', 'Chorak'),
+(2426575, 31514, 'uz', 'Farrington'),
+(2426729, 31516, 'uz', 'Tosh Yer'),
+(2426806, 31517, 'uz', 'Janubiy Tepa Qishlog''i'),
+(2426960, 31519, 'uz', 'Qumli Yer Qishlog''i'),
+(2427114, 31521, 'uz', 'Shimoliy Taraf'),
+(2427191, 31522, 'uz', 'Shimoliy Tepa Qishlog''i'),
+(2427730, 31529, 'uz', 'Orol Bandari'),
+(2427807, 31530, 'uz', 'Jorj Tepa'),
+(2427961, 31532, 'uz', 'Sharqiy Soʻng Qishlog''i'),
+(2428346, 31537, 'uz', 'Puflash Nuqta Qishlog''i'),
+(2428500, 31539, 'uz', 'Qumli Tepa');
+
+SET FOREIGN_KEY_CHECKS=1;

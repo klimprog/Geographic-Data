@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BJ-AK', 'sw', 'Atakora'),
+('BJ-AL', 'sw', 'Alibori'),
+('BJ-AQ', 'sw', 'Atlantique'),
+('BJ-BO', 'sw', 'Borgou'),
+('BJ-CO', 'sw', 'Collines'),
+('BJ-DO', 'sw', 'Donga'),
+('BJ-KO', 'sw', 'Couffo'),
+('BJ-LI', 'sw', 'Mkoa wa Pwani'),
+('BJ-MO', 'sw', 'Mono'),
+('BJ-OU', 'sw', 'Ouémé'),
+('BJ-PL', 'sw', 'Plateau'),
+('BJ-ZO', 'sw', 'Zou');
+
+SET FOREIGN_KEY_CHECKS=1;

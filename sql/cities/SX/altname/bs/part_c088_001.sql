@@ -1,0 +1,10 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(322318774, 4185959, 'bs', 'Simson Bay Village'),
+(322318851, 4185960, 'bs', 'Philipsburg'),
+(322318928, 4185961, 'bs', 'Lower Prince''s Quarter'),
+(322319236, 4185965, 'bs', 'Kolm-e Bala');
+
+SET FOREIGN_KEY_CHECKS=1;

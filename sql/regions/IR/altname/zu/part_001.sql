@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IR-00', 'zu', 'Isifunda saseMarkazi'),
+('IR-01', 'zu', 'Isifundazwe saseGilan'),
+('IR-02', 'zu', 'Isifunda saseMazandaran'),
+('IR-03', 'zu', 'Isifunda saseMpumalanga Azerbaijan'),
+('IR-04', 'zu', 'Isifunda sase-West Azerbaijan'),
+('IR-05', 'zu', 'Isifunda sase-Kermanshah'),
+('IR-06', 'zu', 'Isifunda saseKhuzestan'),
+('IR-07', 'zu', 'Isifunda saseFars'),
+('IR-08', 'zu', 'Isifunda sase-Kerman'),
+('IR-09', 'zu', 'Isifundazwe saseRazavi Khorasan'),
+('IR-10', 'zu', 'Isifunda sase-Isfahan'),
+('IR-11', 'zu', 'Sistan kanye neSifundazwe saseBaluchestan'),
+('IR-12', 'zu', 'Isifunda saseKurdistan'),
+('IR-13', 'zu', 'Isifunda sase-Hamadan'),
+('IR-14', 'zu', 'I-Chaharmahal kanye neSifundazwe sase-Bakhtiari'),
+('IR-15', 'zu', 'Isifunda saseLorestan'),
+('IR-16', 'zu', 'Isifunda sase-Ilam'),
+('IR-17', 'zu', 'I-Kohgiluyeh kanye neSifundazwe saseBoyer-Ahmad'),
+('IR-18', 'zu', 'Isifunda saseBushehr'),
+('IR-19', 'zu', 'Isifunda saseZanjan'),
+('IR-20', 'zu', 'Isifunda saseSemnan'),
+('IR-21', 'zu', 'Isifunda sase-Yazd'),
+('IR-22', 'zu', 'Isifunda saseHormozgan'),
+('IR-23', 'zu', 'Isifunda saseTehran'),
+('IR-24', 'zu', 'Isifunda sase-Ardabil'),
+('IR-25', 'zu', 'Isifunda saseQom'),
+('IR-26', 'zu', 'Isifunda saseQazvin'),
+('IR-27', 'zu', 'Isifunda saseGolestan'),
+('IR-28', 'zu', 'Isifundazwe saseNyakatho Khorasan'),
+('IR-29', 'zu', 'Isifundazwe saseNingizimu Khorasan'),
+('IR-30', 'zu', 'Isifunda sase-Alborz');
+
+SET FOREIGN_KEY_CHECKS=1;

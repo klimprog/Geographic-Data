@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('PG-CPK', 'PG', 'Chimbu Province', 'Chimbu Province', 3613399, 291848, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-CPM', 'PG', 'Central Province', 'Central Province', NULL, 183983, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-EBR', 'PG', 'East New Britain Province', 'East New Britain Province', 3613834, 328369, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-EHG', 'PG', 'Eastern Highlands Province', 'Eastern Highlands Province', 3615706, 579825, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-EPW', 'PG', 'Enga Province', 'Enga Province', 3608751, 432045, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-ESW', 'PG', 'East Sepik Province', 'East Sepik Province', 3608367, 450530, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-GPK', 'PG', 'Gulf Province', 'Gulf Province', 3614140, 158197, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-HLA', 'PG', 'Hela', 'Hela Province', 3609534, 352698, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-JWK', 'PG', 'Jiwaka', 'Jiwaka Province', 3613329, 185641, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-MBA', 'PG', 'Milne Bay Province', 'Milne Bay Province', 3618865, 276512, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-MPL', 'PG', 'Morobe Province', 'Morobe Province', 3613179, 674810, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-MPM', 'PG', 'Madang Province', 'Madang Province', 3612849, 493906, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-MRL', 'PG', 'Manus Province', 'Manus Province', 3612914, 60485, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-NCD', 'PG', 'National Capital District', 'National Capital', NULL, 307643, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-NIK', 'PG', 'New Ireland Province', 'New Ireland', 3614259, 194067, 'UTC+10, UTC+7', 'Asia/Pontianak, Pacific/Port_Moresby'),
+('PG-NPP', 'PG', 'Northern Province', 'Oro Province', 3610740, 186309, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-NSB', 'PG', 'Bougainville', 'Autonomous Region of Bougainville', 3619226, 132886, 'UTC+10, UTC+11', 'Pacific/Bougainville, Pacific/Port_Moresby'),
+('PG-SAN', 'PG', 'West Sepik Province', 'Sandaun Province', 3608825, 185741, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-SHM', 'PG', 'Southern Highlands Province', 'Southern Highlands Province', 3612313, 510245, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-WBK', 'PG', 'West New Britain Province', 'West New Britain Province', 3614028, 264264, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-WHM', 'PG', 'Western Highlands Province', 'Western Highlands Province', 3611974, 362580, 'UTC+10', 'Pacific/Port_Moresby'),
+('PG-WPD', 'PG', 'Western Province', 'Western Province', 3616555, 201351, 'UTC+10', 'Pacific/Port_Moresby');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SV-AH', 'uk', 'Регіон Ауачапан'),
+('SV-CA', 'uk', 'Регіон Кабаньяс'),
+('SV-CH', 'uk', 'Чалатенанго'),
+('SV-CU', 'uk', 'Регіон Кускатлан'),
+('SV-LI', 'uk', 'Муніципалітет Ла-Лібертад'),
+('SV-MO', 'uk', 'Морасан'),
+('SV-PA', 'uk', 'Департамент Ла-Пас'),
+('SV-SA', 'uk', 'Регіон Санта-Ана'),
+('SV-SM', 'uk', 'Регіон Сан-Мігель'),
+('SV-SO', 'uk', 'Регіон Сонсонате'),
+('SV-SS', 'uk', 'Сан-Сальвадор'),
+('SV-SV', 'uk', 'Регіон Сан-Вісенте'),
+('SV-UN', 'uk', 'Ла-Уніон'),
+('SV-US', 'uk', 'Регіон Усулутан');
+
+SET FOREIGN_KEY_CHECKS=1;

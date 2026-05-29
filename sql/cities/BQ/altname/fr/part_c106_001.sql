@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(18026646, 234113, 'fr', 'Windwardside'),
+(18026723, 234114, 'fr', 'Zion''s Hill'),
+(18026800, 234115, 'fr', 'The Level'),
+(18026954, 234117, 'fr', 'The Bottom'),
+(18027031, 234118, 'fr', NULL),
+(18027185, 234120, 'fr', 'Oranjestad'),
+(18027493, 234124, 'fr', 'Kralendijk'),
+(18027801, 234128, 'fr', 'Dorp Tera Kora'),
+(18027955, 234130, 'fr', 'Rincon'),
+(18028109, 234132, 'fr', 'Dorp Nikiboko'),
+(18028186, 234133, 'fr', 'Dorp Antriol'),
+(18028263, 234134, 'fr', 'Crispeen');
+
+SET FOREIGN_KEY_CHECKS=1;

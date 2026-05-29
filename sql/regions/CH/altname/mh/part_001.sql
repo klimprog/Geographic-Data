@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CH-AG', 'mh', 'Kanton Aargau'),
+('CH-AI', 'mh', 'Kanton Appenzell Innerrhoden'),
+('CH-AR', 'mh', 'Kanton Appenzell Ausserrhoden'),
+('CH-BE', 'mh', 'Canton de Berne'),
+('CH-BL', 'mh', 'Kanton Basel-Landschaft'),
+('CH-BS', 'mh', 'Kanton Basel-Stadt'),
+('CH-FR', 'mh', 'Canton de Friborg'),
+('CH-GE', 'mh', 'Canton de Geneve'),
+('CH-GL', 'mh', 'Kanton Glarus'),
+('CH-GR', 'mh', 'Kanton Graubuenden'),
+('CH-JU', 'mh', 'Canton de Jura'),
+('CH-LU', 'mh', 'Kanton Luzern'),
+('CH-NE', 'mh', 'Canton de Neuchatel'),
+('CH-NW', 'mh', 'Kanton Nidwalden'),
+('CH-OW', 'mh', 'Kanton Obwalden'),
+('CH-SG', 'mh', 'Kanton St. Gallen'),
+('CH-SH', 'mh', 'Kanton Schaffhausen'),
+('CH-SO', 'mh', 'Kanton Solothurn'),
+('CH-SZ', 'mh', 'Kanton Schwyz'),
+('CH-TG', 'mh', 'Kanton Thurgau'),
+('CH-TI', 'mh', 'Cantone Ticino'),
+('CH-UR', 'mh', 'Kanton Uri'),
+('CH-VD', 'mh', 'Canton de Vaud'),
+('CH-VS', 'mh', 'Canton du Valais'),
+('CH-ZG', 'mh', 'Kanton Zug'),
+('CH-ZH', 'mh', 'Kanton Zuerich');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ME-01', 'pl', 'Gmina Andrijevica'),
+('ME-02', 'pl', 'Gmina Bar'),
+('ME-03', 'pl', 'Gmina Berane'),
+('ME-04', 'pl', 'Gmina Bijelo Polje'),
+('ME-05', 'pl', 'Gmina Budva'),
+('ME-06', 'pl', 'Gmina Cetynia'),
+('ME-07', 'pl', 'Danilovgrad'),
+('ME-08', 'pl', 'Gmina Herceg Novi'),
+('ME-09', 'pl', 'Gmina Kolašin'),
+('ME-10', 'pl', 'Gmina Kotor'),
+('ME-11', 'pl', 'Gmina Mojkovac'),
+('ME-12', 'pl', 'Gmina Nikšić'),
+('ME-13', 'pl', 'Gmina Plav'),
+('ME-14', 'pl', 'Gmina Pljevlja'),
+('ME-15', 'pl', 'Gmina Plužine'),
+('ME-16', 'pl', 'Gmina Podgorica'),
+('ME-17', 'pl', 'Gmina Rožaje'),
+('ME-18', 'pl', 'Gmina Šavnik'),
+('ME-19', 'pl', 'Gmina Tivat'),
+('ME-20', 'pl', 'Gmina Ulcinj'),
+('ME-21', 'pl', 'Gmina Žabljak'),
+('ME-22', 'pl', 'Gmina Gusinje'),
+('ME-23', 'pl', 'Gmina Petnjica'),
+('ME-24', 'pl', 'Gmina Tuzi'),
+('ME-25', 'pl', 'Zeta');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TW-CHA', 'he', 'צ''אנגהואה'),
+('TW-CYI', 'he', 'צ''איי'),
+('TW-CYQ', 'he', 'צ''איי'),
+('TW-HSQ', 'he', 'הסינצ''ו'),
+('TW-HSZ', 'he', 'הסינצ''ו'),
+('TW-HUA', 'he', 'חואליאן'),
+('TW-ILA', 'he', 'אילן'),
+('TW-KEE', 'he', 'קילונג'),
+('TW-KHH', 'he', 'קאושיונג'),
+('TW-KIN', 'he', 'קימן'),
+('TW-LIE', 'he', 'לינצ''יאנג'),
+('TW-MIA', 'he', 'מיאולי'),
+('TW-NAN', 'he', 'ננטו'),
+('TW-NWT', 'he', 'טייפה החדשה'),
+('TW-PEN', 'he', 'פנגהו'),
+('TW-PIF', 'he', 'פינגטונג'),
+('TW-TAO', 'he', 'טאויואן'),
+('TW-TNN', 'he', 'טאינאן'),
+('TW-TPE', 'he', 'טייפה'),
+('TW-TTT', 'he', 'טייטונג'),
+('TW-TXG', 'he', 'טאיצ''ונג'),
+('TW-YUN', 'he', 'יונלין');
+
+SET FOREIGN_KEY_CHECKS=1;

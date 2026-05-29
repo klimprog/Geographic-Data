@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'da', 'Anenii Noi District'),
+('MD-BA', 'da', 'Bălți'),
+('MD-BD', 'da', 'Bender'),
+('MD-BR', 'da', 'Briceni District'),
+('MD-BS', 'da', 'Basarabeasca District'),
+('MD-CA', 'da', 'Cahul District'),
+('MD-CL', 'da', 'Calarasi District'),
+('MD-CM', 'da', 'Cimișlia District'),
+('MD-CR', 'da', 'Criuleni District'),
+('MD-CS', 'da', 'Căușeni District'),
+('MD-CT', 'da', 'Cantemir District'),
+('MD-CU', 'da', 'Municipiul Chisinau'),
+('MD-DO', 'da', 'Dondușeni District'),
+('MD-DR', 'da', 'Drochia District'),
+('MD-DU', 'da', 'Dubăsari District'),
+('MD-ED', 'da', 'Edineț District'),
+('MD-FA', 'da', 'Fălești District'),
+('MD-FL', 'da', 'Florești'),
+('MD-GA', 'da', 'Gagauzien'),
+('MD-GL', 'da', 'Glodeni District'),
+('MD-HI', 'da', 'Hîncești District'),
+('MD-IA', 'da', 'Ialoveni District'),
+('MD-LE', 'da', 'Leova District'),
+('MD-NI', 'da', 'Nisporeni District'),
+('MD-OC', 'da', 'Ocnița District'),
+('MD-OR', 'da', 'Orhei District'),
+('MD-RE', 'da', 'Rezina District'),
+('MD-RI', 'da', 'Rîșcani District'),
+('MD-SD', 'da', 'Soldanesti District'),
+('MD-SI', 'da', 'Sîngerei District'),
+('MD-SN', 'da', 'Administrative territoriale enheder på venstre bred af Dnestr'),
+('MD-SO', 'da', 'Soroca District'),
+('MD-ST', 'da', 'Strășeni District'),
+('MD-SV', 'da', 'Stefan Voda'),
+('MD-TA', 'da', 'Taraclia District'),
+('MD-TE', 'da', 'Telenești District'),
+('MD-UN', 'da', 'Ungheni District');
+
+SET FOREIGN_KEY_CHECKS=1;

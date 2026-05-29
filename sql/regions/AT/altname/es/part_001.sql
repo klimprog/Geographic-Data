@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AT-1', 'es', 'Burgenland'),
+('AT-2', 'es', 'Carintia'),
+('AT-3', 'es', 'Baja Austria'),
+('AT-4', 'es', 'Alta Austria'),
+('AT-5', 'es', 'Estado de Salzburgo'),
+('AT-6', 'es', 'Estiria'),
+('AT-7', 'es', 'Tirol'),
+('AT-8', 'es', 'Vorarlberg'),
+('AT-9', 'es', 'Estado de Viena');
+
+SET FOREIGN_KEY_CHECKS=1;

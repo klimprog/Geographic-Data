@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'si', 'බාල්ක්'),
+('AF-BAM', 'si', 'බම්යන්'),
+('AF-BDG', 'si', 'බඩ්ගිස්'),
+('AF-BDS', 'si', 'බදක්ශාන්'),
+('AF-BGL', 'si', 'බැග්ලන්'),
+('AF-DAY', 'si', 'ඩයිකුන්ඩි පළාත'),
+('AF-FRA', 'si', 'ෆාරා'),
+('AF-FYB', 'si', 'ෆර්යබ්'),
+('AF-GHA', 'si', 'ඝස්නි'),
+('AF-GHO', 'si', 'ඝෝර්'),
+('AF-HEL', 'si', 'හෙල්මන්ඩ්'),
+('AF-HER', 'si', 'හෙරට්'),
+('AF-JOW', 'si', 'ජෝස්ජාන්'),
+('AF-KAB', 'si', 'කාබුල් පළාත'),
+('AF-KAN', 'si', 'කන්දහාර්'),
+('AF-KAP', 'si', 'කපිසා'),
+('AF-KDZ', 'si', 'කුන්ඩුස් පළාත'),
+('AF-KHO', 'si', 'කෝස්ට්'),
+('AF-KNR', 'si', 'කුනාර්'),
+('AF-LAG', 'si', 'ලග්හ්මාන්'),
+('AF-LOG', 'si', 'ලොගාර්'),
+('AF-NAN', 'si', 'නන්ගර්හාර්'),
+('AF-NIM', 'si', 'නිම්රුස්'),
+('AF-NUR', 'si', 'නරිස්ටන්'),
+('AF-PAN', 'si', 'පන්ජ්ෂිර්'),
+('AF-PAR', 'si', 'පර්වන් පළාත'),
+('AF-PIA', 'si', 'පකිටා'),
+('AF-PKA', 'si', 'පකිටිකා'),
+('AF-SAM', 'si', 'සමන්ගන්'),
+('AF-SAR', 'si', 'සරේ පොල්'),
+('AF-TAK', 'si', 'ටක්හාර්'),
+('AF-URU', 'si', 'උරෝස්ගන්'),
+('AF-WAR', 'si', 'මාදියන් වර්ඩක්'),
+('AF-ZAB', 'si', 'සබුල්');
+
+SET FOREIGN_KEY_CHECKS=1;

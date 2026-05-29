@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'km', 'បាក'),
+('AF-BAM', 'km', NULL),
+('AF-BDG', 'km', NULL),
+('AF-BDS', 'km', 'បាដាកសាន'),
+('AF-BGL', 'km', NULL),
+('AF-DAY', 'km', NULL),
+('AF-FRA', 'km', 'ហ្វារ៉ា'),
+('AF-FYB', 'km', NULL),
+('AF-GHA', 'km', NULL),
+('AF-GHO', 'km', NULL),
+('AF-HEL', 'km', NULL),
+('AF-HER', 'km', 'ហេរ៉ាត'),
+('AF-JOW', 'km', NULL),
+('AF-KAB', 'km', NULL),
+('AF-KAN', 'km', 'កណ្ដាហារ'),
+('AF-KAP', 'km', NULL),
+('AF-KDZ', 'km', NULL),
+('AF-KHO', 'km', 'វីឡាយ៉ាត អ៊ី ខូវស្ត'),
+('AF-KNR', 'km', NULL),
+('AF-LAG', 'km', NULL),
+('AF-LOG', 'km', NULL),
+('AF-NAN', 'km', NULL),
+('AF-NIM', 'km', NULL),
+('AF-NUR', 'km', NULL),
+('AF-PAN', 'km', 'ផាន់ចឺរ'),
+('AF-PAR', 'km', 'ផាវ៉ាន់'),
+('AF-PIA', 'km', NULL),
+('AF-PKA', 'km', NULL),
+('AF-SAM', 'km', 'សាម៉ាន់'),
+('AF-SAR', 'km', 'សា-អ៊ី ពុល'),
+('AF-TAK', 'km', NULL),
+('AF-URU', 'km', 'អ៊ុយរូហ្កាន'),
+('AF-WAR', 'km', 'វ៉ាដាក'),
+('AF-ZAB', 'km', NULL);
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,21 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MM-01', 'et', 'Sagaingi piirkond'),
+('MM-02', 'et', 'Bago piirkond'),
+('MM-03', 'et', 'Magway piirkond'),
+('MM-04', 'et', 'Mandalay piirkond'),
+('MM-05', 'et', 'Tanintharyi piirkond'),
+('MM-06', 'et', 'Yangoni piirkond'),
+('MM-07', 'et', 'Ayeyarwady piirkond'),
+('MM-11', 'et', 'Katšini osariik'),
+('MM-12', 'et', 'Kaja osariik'),
+('MM-13', 'et', 'Kareni osariik'),
+('MM-14', 'et', 'Tšini osariik'),
+('MM-15', 'et', 'Moni osariik'),
+('MM-16', 'et', 'Arakani osariik'),
+('MM-17', 'et', 'Šani osariik'),
+('MM-18', 'et', 'Nay Pyi Taw');
+
+SET FOREIGN_KEY_CHECKS=1;

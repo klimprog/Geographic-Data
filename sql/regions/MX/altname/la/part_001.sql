@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'la', 'Aquae Caldae'),
+('MX-BCN', 'la', 'California Inferior'),
+('MX-BCS', 'la', 'California Inferior Meridionalis'),
+('MX-CAM', 'la', 'Campesis'),
+('MX-CHH', 'la', 'Chihuahua'),
+('MX-CHP', 'la', 'Chiapae'),
+('MX-CMX', 'la', 'Mexicopolis'),
+('MX-COA', 'la', 'Coahuila'),
+('MX-COL', 'la', 'Colima'),
+('MX-DUR', 'la', 'Durangum'),
+('MX-GRO', 'la', 'Guerrero'),
+('MX-GUA', 'la', 'Guanahuatum'),
+('MX-HID', 'la', 'Hidalgum'),
+('MX-JAL', 'la', 'Xaliscum'),
+('MX-MEX', 'la', 'Civitas Mexici'),
+('MX-MIC', 'la', 'Mechoacana'),
+('MX-MOR', 'la', 'Morelum'),
+('MX-NAY', 'la', 'Naiaritis'),
+('MX-NLE', 'la', 'Nova Legio'),
+('MX-OAX', 'la', 'Guaxaca'),
+('MX-PUE', 'la', 'Puebla'),
+('MX-QUE', 'la', 'Queretarum'),
+('MX-ROO', 'la', 'Quintana Roo'),
+('MX-SIN', 'la', 'Sinaloa'),
+('MX-SLP', 'la', 'Sanctus Ludovicus Potosius'),
+('MX-SON', 'la', 'Sonora'),
+('MX-TAB', 'la', 'Tabascum'),
+('MX-TAM', 'la', 'Tamaulipae'),
+('MX-TLA', 'la', 'Tlascala'),
+('MX-VER', 'la', 'Veracrux'),
+('MX-YUC', 'la', 'Iucatania'),
+('MX-ZAC', 'la', 'Zacatecae');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CD-BC', 'zh', '中刚果省'),
+('CD-BU', 'zh', '下韦莱省'),
+('CD-EQ', 'zh', '赤道省'),
+('CD-HK', 'zh', '上加丹加省'),
+('CD-HL', 'zh', '上洛马尼'),
+('CD-HU', 'zh', '上韦莱省'),
+('CD-IT', 'zh', '伊图里省'),
+('CD-KC', 'zh', '卢卢阿省'),
+('CD-KE', 'zh', '东开赛省'),
+('CD-KG', 'zh', '宽果省'),
+('CD-KL', 'zh', '奎卢省'),
+('CD-KN', 'zh', '金沙萨市区'),
+('CD-KS', 'zh', '开赛省'),
+('CD-LO', 'zh', '洛马米'),
+('CD-LU', 'zh', '卢阿拉巴省'),
+('CD-MA', 'zh', '马涅马省'),
+('CD-MN', 'zh', '马伊恩东贝省'),
+('CD-MO', 'zh', '蒙加拉省'),
+('CD-NK', 'zh', '北基伍省'),
+('CD-NU', 'zh', '北乌班吉省'),
+('CD-SA', 'zh', '桑库鲁省'),
+('CD-SK', 'zh', '南基伍省'),
+('CD-SU', 'zh', NULL),
+('CD-TA', 'zh', '坦噶尼喀省'),
+('CD-TO', 'zh', '乔波省'),
+('CD-TU', 'zh', '楚阿帕省');
+
+SET FOREIGN_KEY_CHECKS=1;

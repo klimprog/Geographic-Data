@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'sw', 'Kigae cha Mtakatifu Andrea'),
+('DM-03', 'sw', 'Kigae cha Mtakatifu Daudi'),
+('DM-04', 'sw', 'Kigae cha Mtakatifu Georgio'),
+('DM-05', 'sw', 'Kigae cha Mtakatifu Yohane'),
+('DM-06', 'sw', 'Kigae cha Mtakatifu Yosefu'),
+('DM-07', 'sw', 'Kigae cha Mtakatifu Luka'),
+('DM-08', 'sw', 'Kigae cha Mtakatifu Marko'),
+('DM-09', 'sw', 'Kigae cha Mtakatifu Patricio'),
+('DM-10', 'sw', 'Kigae cha Mtakatifu Paulo'),
+('DM-11', 'sw', 'Kigae cha Mtakatifu Petro');
+
+SET FOREIGN_KEY_CHECKS=1;

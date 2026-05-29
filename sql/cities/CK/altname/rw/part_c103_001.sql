@@ -1,0 +1,26 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(31197222, 405159, 'rw', 'Te Tautua'),
+(31197299, 405160, 'rw', 'Omoka'),
+(31197376, 405161, 'rw', 'Vaipae'),
+(31197453, 405162, 'rw', 'Tukao'),
+(31197607, 405164, 'rw', 'Tengatangi Village'),
+(31197761, 405166, 'rw', 'Tauhunu'),
+(31198223, 405172, 'rw', 'Ngatiarua'),
+(31198762, 405179, 'rw', 'Avarua'),
+(31198839, 405180, 'rw', 'Arutanga'),
+(31198993, 405182, 'rw', 'Areora'),
+(31199070, 405183, 'rw', 'Amuri'),
+(31199147, 405184, 'rw', 'Palmerston'),
+(31199686, 405191, 'rw', 'Tautu'),
+(31199840, 405193, 'rw', 'Nikaupara'),
+(31199917, 405194, 'rw', 'Reureu'),
+(31200379, 405200, 'rw', 'Mangarei'),
+(31200456, 405201, 'rw', 'Motu Koe'),
+(31200533, 405202, 'rw', 'Moto Kavata'),
+(31200687, 405204, 'rw', 'Matara'),
+(31200995, 405208, 'rw', 'Uejima');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170074, 2885326, 'nl', 'shumaymat'),
+(222170151, 2885327, 'nl', 'Az Zawr'),
+(222170459, 2885331, 'nl', 'Hawalli'),
+(222170536, 2885332, 'nl', 'duaydat'),
+(222170690, 2885334, 'nl', 'dant'),
+(222170767, 2885335, 'nl', 'Az Zawr'),
+(222170998, 2885338, 'nl', 'Ar Riqqah'),
+(222171306, 2885342, 'nl', 'Wafra'),
+(222171383, 2885343, 'nl', 'Al ‘Udayliyah'),
+(222171768, 2885348, 'nl', 'Koeweit'),
+(222171922, 2885350, 'nl', 'Al Jahra'),
+(222172076, 2885352, 'nl', 'Funaitees'),
+(222172230, 2885354, 'nl', 'Al Finţās'),
+(222172307, 2885355, 'nl', 'Farwaniya'),
+(222172384, 2885356, 'nl', 'aalbidaʿ'),
+(222172615, 2885359, 'nl', 'Ahmadi'),
+(222172846, 2885362, 'nl', 'Ad Diba`iyah'),
+(222173154, 2885366, 'nl', 'aabraq khaytan'),
+(222173231, 2885367, 'nl', 'Bij Tawil'),
+(222174386, 2885382, 'nl', 'Snelweg des Doods'),
+(222174617, 2885385, 'nl', 'Mubarak Al-Kabeer'),
+(222174694, 2885386, 'nl', 'Al ''Adan'),
+(222174771, 2885387, 'nl', 'Al-Masayel'),
+(222174848, 2885388, 'nl', 'Al-Masayel'),
+(222174925, 2885389, 'nl', 'Abu Fatira'),
+(222175002, 2885390, 'nl', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

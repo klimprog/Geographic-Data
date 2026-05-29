@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MU-AG', 'lv', 'Agalega'),
+('MU-BL', 'lv', 'Blekriveras distrikts'),
+('MU-CC', 'lv', 'Cargados Carajos'),
+('MU-FL', 'lv', 'Flakas distrikts'),
+('MU-GP', 'lv', 'Granporas distrikts'),
+('MU-MO', 'lv', 'Mokas distrikts'),
+('MU-PA', 'lv', 'Pamplmusas distrikts'),
+('MU-PL', 'lv', 'Port Louis District'),
+('MU-PW', 'lv', 'Plēnvilemsas distrikts'),
+('MU-RO', 'lv', 'Rodrigesa'),
+('MU-RR', 'lv', 'Rivjēras di Ramparas distrikts'),
+('MU-SA', 'lv', 'Savannas distrikts');
+
+SET FOREIGN_KEY_CHECKS=1;

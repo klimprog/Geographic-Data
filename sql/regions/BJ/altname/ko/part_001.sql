@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BJ-AK', 'ko', '아타코라주'),
+('BJ-AL', 'ko', '알리보리주'),
+('BJ-AQ', 'ko', '아틀랑티크주'),
+('BJ-BO', 'ko', '보르구주'),
+('BJ-CO', 'ko', '콜린주'),
+('BJ-DO', 'ko', '동가주'),
+('BJ-KO', 'ko', '쿠포주'),
+('BJ-LI', 'ko', '리토랄주'),
+('BJ-MO', 'ko', '모노주'),
+('BJ-OU', 'ko', '우에메주'),
+('BJ-PL', 'ko', '플라토주'),
+('BJ-ZO', 'ko', '주주');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(232574826, 3020453, 'fr', 'Saint-James'),
+(232575134, 3020457, 'fr', 'Marigot'),
+(232575288, 3020459, 'fr', 'Cul-de-Sac'),
+(232575365, 3020460, 'fr', 'Terres Basses'),
+(232576289, 3020472, 'fr', 'Industrie'),
+(232576443, 3020474, 'fr', 'Spring'),
+(232576520, 3020475, 'fr', 'Spring'),
+(232576674, 3020477, 'fr', 'Belle Plaine'),
+(232576828, 3020479, 'fr', 'La Samana'),
+(232577059, 3020482, 'fr', 'Norman'),
+(232577290, 3020485, 'fr', 'Oyster Pond');
+
+SET FOREIGN_KEY_CHECKS=1;

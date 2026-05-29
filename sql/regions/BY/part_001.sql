@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('BY-BR', 'BY', 'Brest Oblast', 'Брэсцкая Вобласць', 305427, 14000000, 'UTC+3', 'Europe/Minsk'),
+('BY-HM', 'BY', 'Horad Minsk', 'Мінск', NULL, 2002600, 'UTC+3', 'Europe/Minsk'),
+('BY-HO', 'BY', 'Homyel'' Voblasc''', 'Гомельская вобласць', 303936, 1426674, 'UTC+3, UTC+2', 'Europe/Kyiv, Europe/Minsk'),
+('BY-HR', 'BY', 'Grodno Oblast', 'Гродзенская Вобласць', 303933, 1100000, 'UTC+3', 'Europe/Minsk'),
+('BY-MA', 'BY', 'Mogilyov Oblast', 'Магілёўская Вобласць', 301972, 1088000, 'UTC+3', 'Europe/Minsk'),
+('BY-MI', 'BY', 'Minsk Oblast', 'Мінская Вобласць', NULL, 1411000, 'UTC+3', 'Europe/Minsk'),
+('BY-VI', 'BY', 'Vitebsk Oblast', 'Віцебская Вобласць', 297206, 1230000, 'UTC+3', 'Europe/Minsk, Europe/Moscow');
+
+SET FOREIGN_KEY_CHECKS=1;

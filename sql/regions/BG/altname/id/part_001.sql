@@ -1,0 +1,34 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BG-01', 'id', 'Provinsi Blagoevgrad'),
+('BG-02', 'id', 'Provinsi Burgas'),
+('BG-03', 'id', 'Provinsi Varna'),
+('BG-04', 'id', 'Provinsi Veliko Tarnovo'),
+('BG-05', 'id', 'Provinsi Vidin'),
+('BG-06', 'id', 'Provinsi Vratsa'),
+('BG-07', 'id', 'Provinsi Gabrovo'),
+('BG-08', 'id', 'Provinsi Dobrich'),
+('BG-09', 'id', 'Provinsi Kardzhali'),
+('BG-10', 'id', 'Provinsi Kyustendil'),
+('BG-11', 'id', 'Provinsi Lovetch'),
+('BG-12', 'id', 'Provinsi Montana'),
+('BG-13', 'id', 'Provinsi Pazardzhik'),
+('BG-14', 'id', 'Provinsi Pernik'),
+('BG-15', 'id', 'Provinsi Pleven'),
+('BG-16', 'id', 'Provinsi Plovdiv'),
+('BG-17', 'id', 'Provinsi Razgrad'),
+('BG-18', 'id', 'Provinsi Ruse'),
+('BG-19', 'id', 'Provinsi Silistra'),
+('BG-20', 'id', 'Provinsi Sliven'),
+('BG-21', 'id', 'Provinsi Smolyan'),
+('BG-22', 'id', 'Sofia-Grad'),
+('BG-23', 'id', 'Oblast Sofia'),
+('BG-24', 'id', 'Provinsi Stara Zagora'),
+('BG-25', 'id', 'Provinsi Targovishte'),
+('BG-26', 'id', 'Provinsi Haskovo'),
+('BG-27', 'id', 'Provinsi Shumen'),
+('BG-28', 'id', 'Provinsi Yambol');
+
+SET FOREIGN_KEY_CHECKS=1;

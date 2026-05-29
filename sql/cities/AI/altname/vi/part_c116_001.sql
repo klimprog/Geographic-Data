@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(2426114, 31508, 'vi', 'West End Village'),
+(2426345, 31511, 'vi', 'The Valley'),
+(2426422, 31512, 'vi', 'Quận The Quarter, Anguilla'),
+(2426576, 31514, 'vi', 'Quận The Farrington'),
+(2426730, 31516, 'vi', 'Stoney Ground'),
+(2426807, 31517, 'vi', 'South Hill Village'),
+(2426961, 31519, 'vi', 'Sandy Ground'),
+(2427115, 31521, 'vi', 'Phía Bắc, Anguilla'),
+(2427192, 31522, 'vi', 'North Hill Village'),
+(2427731, 31529, 'vi', 'Cảng Đảo'),
+(2427808, 31530, 'vi', 'Đồi George, Anguilla'),
+(2427962, 31532, 'vi', 'Cực Đông, Anguilla'),
+(2428347, 31537, 'vi', 'Blowing Point, Anguilla'),
+(2428501, 31539, 'vi', 'Sandy Hill, Anguilla');
+
+SET FOREIGN_KEY_CHECKS=1;

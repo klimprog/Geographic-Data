@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'tk', 'Günbatar welaýaty'),
+('LK-11', 'tk', 'Kolombo'),
+('LK-12', 'tk', 'Gampaha'),
+('LK-13', 'tk', 'Kalutara'),
+('LK-2', 'tk', 'Merkezi welaýat'),
+('LK-21', 'tk', 'Kandy'),
+('LK-22', 'tk', 'Matale'),
+('LK-23', 'tk', 'Nuwara Eliýa'),
+('LK-3', 'tk', 'Günorta welaýat'),
+('LK-31', 'tk', 'Galle'),
+('LK-32', 'tk', 'Matara'),
+('LK-33', 'tk', 'Hambantota'),
+('LK-4', 'tk', 'Demirgazyk welaýaty'),
+('LK-41', 'tk', 'Jaffna'),
+('LK-42', 'tk', 'Kilinochçi'),
+('LK-43', 'tk', 'Mannar'),
+('LK-44', 'tk', 'Wawuniýa'),
+('LK-45', 'tk', 'Mullaittivu'),
+('LK-5', 'tk', 'Gündogar welaýaty'),
+('LK-51', 'tk', 'Batticaloa'),
+('LK-52', 'tk', 'Ampara'),
+('LK-53', 'tk', 'Trincomalee'),
+('LK-6', 'tk', 'Demirgazyk Günbatar welaýaty'),
+('LK-61', 'tk', 'Kurunegala'),
+('LK-62', 'tk', 'Puttalam'),
+('LK-7', 'tk', 'Demirgazyk Merkezi welaýat'),
+('LK-71', 'tk', 'Anuradhapura'),
+('LK-72', 'tk', 'Polonnaruwa'),
+('LK-8', 'tk', NULL),
+('LK-81', 'tk', 'Badulla'),
+('LK-82', 'tk', 'Monaragala'),
+('LK-9', 'tk', 'Sabaragamuwa welaýaty'),
+('LK-91', 'tk', 'Ratnapura'),
+('LK-92', 'tk', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

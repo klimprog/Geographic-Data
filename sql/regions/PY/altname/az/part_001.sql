@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PY-1', 'az', 'Departamento de Concepcion'),
+('PY-10', 'az', 'Departamento del Alto Parana'),
+('PY-11', 'az', 'Mərkəzi Departamenti'),
+('PY-12', 'az', 'Departamento de Neembucu'),
+('PY-13', 'az', 'Amambay Departamenti'),
+('PY-14', 'az', 'Kanindeyу'),
+('PY-15', 'az', 'Prezident Hayes'),
+('PY-16', 'az', 'Alto Paragvay'),
+('PY-19', 'az', 'Departamento de Boqueron'),
+('PY-2', 'az', 'San Pedro Departamenti'),
+('PY-3', 'az', 'Kordilyera'),
+('PY-4', 'az', 'Departamento del Guaira'),
+('PY-5', 'az', 'Departamento de Caaguazu'),
+('PY-6', 'az', 'Kaazapa'),
+('PY-7', 'az', 'İtapua'),
+('PY-8', 'az', 'Misiones Departamenti'),
+('PY-9', 'az', 'Departamento de Paraguari'),
+('PY-ASU', 'az', 'Asunsiyon');
+
+SET FOREIGN_KEY_CHECKS=1;

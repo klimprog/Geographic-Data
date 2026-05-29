@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GT-01', 'da', 'Guatemala Department'),
+('GT-02', 'da', 'El Progreso Department'),
+('GT-03', 'da', 'Sacatepéquez Department'),
+('GT-04', 'da', 'Chimaltenango Department'),
+('GT-05', 'da', 'Escuintla Department'),
+('GT-06', 'da', 'Santa Rosa Department'),
+('GT-07', 'da', 'Solola Department'),
+('GT-08', 'da', 'Totonicapán Department'),
+('GT-09', 'da', 'Quetzaltenango Department'),
+('GT-10', 'da', 'Suchitepéquez Department'),
+('GT-11', 'da', 'Retalhuleu'),
+('GT-12', 'da', 'San Marcos Department'),
+('GT-13', 'da', 'Huehuetenango Department'),
+('GT-14', 'da', 'Quiché Department'),
+('GT-15', 'da', 'Baja Verapaz Department'),
+('GT-16', 'da', 'Alta Verapaz Department'),
+('GT-17', 'da', 'El Petén'),
+('GT-18', 'da', 'Izabal Department'),
+('GT-19', 'da', 'Zacapa Department'),
+('GT-20', 'da', 'Chiquimula Department'),
+('GT-21', 'da', 'Jalapa Department'),
+('GT-22', 'da', 'Jutiapa');
+
+SET FOREIGN_KEY_CHECKS=1;

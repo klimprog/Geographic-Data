@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GH-AA', 'si', 'මහා අක්රා කලාපය'),
+('GH-AF', 'si', 'අහෆෝ'),
+('GH-AH', 'si', 'ආශාන්ටි කලාපය'),
+('GH-BE', 'si', 'බොනෝ නැගෙනහිර'),
+('GH-BO', 'si', 'බොනෝ'),
+('GH-CP', 'si', 'මධ්‍යම කලාපය'),
+('GH-EP', 'si', 'නැගෙනහිර කලාපය'),
+('GH-NE', 'si', 'උතුරු නැගෙනහිර'),
+('GH-NP', 'si', 'උතුරු කලාපය'),
+('GH-OT', 'si', 'ඔටි'),
+('GH-SV', 'si', 'සවානා'),
+('GH-TV', 'si', 'වොල්ටා කලාපය'),
+('GH-UE', 'si', 'ඉහල නැගෙනහිර පළාත'),
+('GH-UW', 'si', 'ඉහල බටහිර කලාපය'),
+('GH-WN', 'si', 'බස්නාහිර උතුර'),
+('GH-WP', 'si', 'බස්නාහිර කලාපය');
+
+SET FOREIGN_KEY_CHECKS=1;

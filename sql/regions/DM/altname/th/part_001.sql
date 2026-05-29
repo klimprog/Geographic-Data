@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'th', 'เขตเซนต์แอนดรูว์'),
+('DM-03', 'th', 'เขตเซนต์เดวิด'),
+('DM-04', 'th', 'เขตเซนต์จอร์จ'),
+('DM-05', 'th', 'เขตเซนต์จอห์น'),
+('DM-06', 'th', 'เขตเซนต์โยเซฟ'),
+('DM-07', 'th', 'เขตเซนต์ลู้ก'),
+('DM-08', 'th', 'เขตเซนต์มาร์ก'),
+('DM-09', 'th', 'เขตเซนต์แพทริก'),
+('DM-10', 'th', 'เขตเซนต์พอล'),
+('DM-11', 'th', 'เขตเซนต์ปีเตอร์');
+
+SET FOREIGN_KEY_CHECKS=1;

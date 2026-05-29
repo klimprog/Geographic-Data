@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('BW-CE', 'fi', 'Central District'),
+('BW-CH', 'fi', 'Choben alue'),
+('BW-FR', 'fi', 'Francistownin kaupunki'),
+('BW-GA', 'fi', 'Gaborone'),
+('BW-GH', 'fi', 'Ghanzi'),
+('BW-JW', 'fi', 'Jwaneng'),
+('BW-KG', 'fi', 'Kgalagadi'),
+('BW-KL', 'fi', 'Kgatleng'),
+('BW-KW', 'fi', 'Kweneng'),
+('BW-LO', 'fi', 'Lobatse'),
+('BW-NE', 'fi', 'North-East District'),
+('BW-NW', 'fi', 'North-West District'),
+('BW-SE', 'fi', 'South-East District'),
+('BW-SO', 'fi', 'Southern District'),
+('BW-SP', 'fi', 'Selibe Phikwe'),
+('BW-ST', 'fi', 'Sowan kaupunki');
+
+SET FOREIGN_KEY_CHECKS=1;

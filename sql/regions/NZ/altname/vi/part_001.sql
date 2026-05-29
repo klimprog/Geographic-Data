@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NZ-AUK', 'vi', 'Vùng Auckland'),
+('NZ-BOP', 'vi', 'Khu vực vịnh Plenty'),
+('NZ-CAN', 'vi', 'Canterbury'),
+('NZ-CIT', 'vi', 'Quần đảo Chatham'),
+('NZ-GIS', 'vi', 'Khu vực Gisborne'),
+('NZ-HKB', 'vi', 'Khu vực Hawke''s Bay'),
+('NZ-MBH', 'vi', 'Khu vực Marlborough'),
+('NZ-MWT', 'vi', 'Khu vực Manawatu-Wanganui'),
+('NZ-NSN', 'vi', 'Nelson Region'),
+('NZ-NTL', 'vi', 'Northland'),
+('NZ-OTA', 'vi', 'Khu vực Otago'),
+('NZ-STL', 'vi', 'Khu vực Southland'),
+('NZ-TAS', 'vi', 'Quận Tasman'),
+('NZ-TKI', 'vi', 'Khu vực Taranaki'),
+('NZ-WGN', 'vi', 'Khu vực Wellington'),
+('NZ-WKO', 'vi', 'Khu vực Waikato'),
+('NZ-WTC', 'vi', 'Khu vực West Coast');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'he', 'ברנדנבורג'),
+('DE-BE', 'he', 'ברלין'),
+('DE-BW', 'he', 'באדן-וירטמברג'),
+('DE-BY', 'he', 'בוואריה'),
+('DE-HB', 'he', 'ברמן'),
+('DE-HE', 'he', 'הסן'),
+('DE-HH', 'he', 'המבורג'),
+('DE-MV', 'he', 'מקלנבורג-מערב פומרניה'),
+('DE-NI', 'he', 'סקסוניה התחתונה'),
+('DE-NW', 'he', 'נורדריין-וסטפאליה'),
+('DE-RP', 'he', 'ריינלנד-פפאלץ'),
+('DE-SH', 'he', 'שלזוויג-הולשטיין'),
+('DE-SL', 'he', 'חבל הסאר'),
+('DE-SN', 'he', 'סקסוניה'),
+('DE-ST', 'he', 'סקסוניה-אנהלט'),
+('DE-TH', 'he', 'תורינגיה');
+
+SET FOREIGN_KEY_CHECKS=1;

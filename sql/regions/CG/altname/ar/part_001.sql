@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CG-11', 'ar', 'إدارة بوينزا'),
+('CG-12', 'ar', 'إدارة بول'),
+('CG-13', 'ar', 'إدارة سانغا'),
+('CG-14', 'ar', 'إدارة بلاتيوكس'),
+('CG-15', 'ar', 'أدارة كوفيت-كويست'),
+('CG-16', 'ar', 'بوانت نوار'),
+('CG-2', 'ar', 'إدارة ليكومو'),
+('CG-5', 'ar', 'إدارة كويلو'),
+('CG-7', 'ar', 'إدارة ليكوالا'),
+('CG-8', 'ar', 'إدارة كوفيت'),
+('CG-9', 'ar', 'إدارة نياري'),
+('CG-BZV', 'ar', 'برازافيل');
+
+SET FOREIGN_KEY_CHECKS=1;

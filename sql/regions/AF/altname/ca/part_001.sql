@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'ca', 'província de Balkh'),
+('AF-BAM', 'ca', 'província de Bamiyan'),
+('AF-BDG', 'ca', 'Badghis'),
+('AF-BDS', 'ca', 'província de Badakhxan'),
+('AF-BGL', 'ca', 'província de Baghlan'),
+('AF-DAY', 'ca', 'província de Daykundi'),
+('AF-FRA', 'ca', 'província de Farah'),
+('AF-FYB', 'ca', 'província de Faryab'),
+('AF-GHA', 'ca', 'província de Ghazni'),
+('AF-GHO', 'ca', 'Ghur'),
+('AF-HEL', 'ca', 'Província d''Helmand'),
+('AF-HER', 'ca', 'província d''Herat'),
+('AF-JOW', 'ca', 'província de Jowzjan'),
+('AF-KAB', 'ca', 'província de Kabul'),
+('AF-KAN', 'ca', 'província de Kandahar'),
+('AF-KAP', 'ca', 'província de Kapisa'),
+('AF-KDZ', 'ca', 'província de Kunduz'),
+('AF-KHO', 'ca', 'Província de Khost'),
+('AF-KNR', 'ca', 'província de Kunar'),
+('AF-LAG', 'ca', 'Província de Laghman'),
+('AF-LOG', 'ca', 'província de Lowgar'),
+('AF-NAN', 'ca', 'província de Nangarhar'),
+('AF-NIM', 'ca', 'província de Nimruz'),
+('AF-NUR', 'ca', 'Província de Nuristan'),
+('AF-PAN', 'ca', 'província de Panjshir'),
+('AF-PAR', 'ca', 'província de Parwan'),
+('AF-PIA', 'ca', 'província de Paktia'),
+('AF-PKA', 'ca', 'província de Paktika'),
+('AF-SAM', 'ca', 'província de Samangan'),
+('AF-SAR', 'ca', 'Província de Sar-e Pol'),
+('AF-TAK', 'ca', 'Província de Takhar'),
+('AF-URU', 'ca', 'província d''Oruzgan'),
+('AF-WAR', 'ca', 'província de Wardak'),
+('AF-ZAB', 'ca', 'província de Zabul');
+
+SET FOREIGN_KEY_CHECKS=1;

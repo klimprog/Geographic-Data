@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'pl', 'Andamany i Nikobary'),
+('IN-AP', 'pl', 'Andhra Pradesh'),
+('IN-AR', 'pl', 'Arunachal Pradesh'),
+('IN-AS', 'pl', 'Asam'),
+('IN-BR', 'pl', 'Bihar'),
+('IN-CG', 'pl', 'Chhattisgarh'),
+('IN-CH', 'pl', 'Czandigarh'),
+('IN-DH', 'pl', 'Dadra i Nagar Haveli oraz Daman i Diu'),
+('IN-DL', 'pl', 'Terytorium Stołeczne Delhi'),
+('IN-GA', 'pl', 'Goa'),
+('IN-GJ', 'pl', 'Gudźarat'),
+('IN-HP', 'pl', 'Himachal Pradesh'),
+('IN-HR', 'pl', 'Hariana'),
+('IN-JH', 'pl', 'Jharkhand'),
+('IN-JK', 'pl', 'Dżammu i Kaszmir'),
+('IN-KA', 'pl', 'Karnataka'),
+('IN-KL', 'pl', 'Kerala'),
+('IN-LA', 'pl', 'Ladakh'),
+('IN-LD', 'pl', 'Lakszadiwy'),
+('IN-MH', 'pl', 'Maharasztra'),
+('IN-ML', 'pl', 'Meghalaya'),
+('IN-MN', 'pl', 'Manipur'),
+('IN-MP', 'pl', 'Madhya Pradesh'),
+('IN-MZ', 'pl', 'Mizoram'),
+('IN-NL', 'pl', 'Nagaland'),
+('IN-OD', 'pl', 'Orisa'),
+('IN-PB', 'pl', 'Pendżab'),
+('IN-PY', 'pl', 'Puducherry'),
+('IN-RJ', 'pl', 'Radżastan'),
+('IN-SK', 'pl', 'Sikkim'),
+('IN-TN', 'pl', 'Tamilnadu'),
+('IN-TR', 'pl', 'Tripura'),
+('IN-TS', 'pl', 'Telangana'),
+('IN-UK', 'pl', 'Uttarakhand'),
+('IN-UP', 'pl', 'Uttar Pradesh'),
+('IN-WB', 'pl', 'Bengal Zachodni');
+
+SET FOREIGN_KEY_CHECKS=1;

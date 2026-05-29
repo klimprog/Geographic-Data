@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('AE-AJ', 'AE', 'Emirate of Ajman', 'إمارة عجمان', 314, 234905, 'UTC+4', 'Asia/Dubai'),
+('AE-AZ', 'AE', 'Abu Dhabi', 'أبو ظبي', NULL, 1395899, 'UTC+4', 'Asia/Dubai'),
+('AE-DU', 'AE', 'Dubai', 'دبي', 224, 1141963, 'UTC+4', 'Asia/Dubai'),
+('AE-FU', 'AE', 'Emirate of Fujairah', 'إِمَـارَة ٱلْفُجَيْرَة', 304, 113316, 'UTC+4', 'Asia/Muscat, Asia/Dubai'),
+('AE-RK', 'AE', 'Emirate of Ras Al Khaimah', 'إمارة رأس الخيمة', 120, 187535, 'UTC+4', 'Asia/Dubai'),
+('AE-SH', 'AE', 'Emirate of Sharjah', 'إِمَارَة ٱلشَّارِقَة', 255, 620183, 'UTC+4', 'Asia/Dubai'),
+('AE-UQ', 'AE', 'UmmalQaywayn', 'أم القيوين', 81, 56253, 'UTC+4', 'Asia/Dubai');
+
+SET FOREIGN_KEY_CHECKS=1;

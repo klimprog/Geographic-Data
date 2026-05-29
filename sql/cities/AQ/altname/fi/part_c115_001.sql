@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072088, 52885, 'fi', 'Villa Las Estrellas'),
+(4072165, 52886, 'fi', 'Davisin asema'),
+(4072242, 52887, 'fi', 'Tukikohdan kenraali Bernardo O''Higgins Riquelme'),
+(4072319, 52888, 'fi', 'Showan asema'),
+(4072396, 52889, 'fi', 'Jang Bogon asema'),
+(4072473, 52890, 'fi', 'SANAE IV -asema'),
+(4072550, 52891, 'fi', 'Qinlingin asema'),
+(4072627, 52892, 'fi', 'Zhongshanin asema'),
+(4072704, 52893, 'fi', 'Mawsonin asema'),
+(4072935, 52896, 'fi', 'Progress Station'),
+(4073166, 52899, 'fi', 'Novolazarevskaja'),
+(4073320, 52901, 'fi', 'Mirnyi');
+
+SET FOREIGN_KEY_CHECKS=1;

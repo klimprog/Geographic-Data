@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(9634576, 125125, 'id', 'Wotton'),
+(9635269, 125134, 'id', 'Bukit Putih'),
+(9635885, 125142, 'id', 'Welchman Hall'),
+(9638811, 125180, 'id', 'Crane'),
+(9639196, 125185, 'id', 'Sutherland Road'),
+(9639427, 125188, 'id', 'Sunset Crest'),
+(9640428, 125201, 'id', 'Speightstown'),
+(9640813, 125206, 'id', 'Six Mens'),
+(9640890, 125207, 'id', 'Six Cross Roads'),
+(9647435, 125292, 'id', 'Oistins'),
+(9649360, 125317, 'id', 'Mile and a Quarter'),
+(9654596, 125385, 'id', 'Holetown'),
+(9654827, 125388, 'id', 'Hillaby'),
+(9656521, 125410, 'id', 'Greenland'),
+(9657830, 125427, 'id', 'Garnisun'),
+(9658677, 125438, 'id', 'Empat Angin'),
+(9658831, 125440, 'id', 'Four Cross Roads'),
+(9659062, 125443, 'id', 'Foster Hall'),
+(9659293, 125446, 'id', 'Batuan Datar'),
+(9662681, 125490, 'id', 'Crab Hill'),
+(9663451, 125500, 'id', 'Colleton'),
+(9665145, 125522, 'id', 'Checker Hall'),
+(9666762, 125543, 'id', 'Bruce Vale'),
+(9667147, 125548, 'id', 'Bridgetown'),
+(9668456, 125565, 'id', 'Blackmans'),
+(9669303, 125576, 'id', 'Bel Udara'),
+(9669611, 125580, 'id', 'Bathsheba'),
+(9669996, 125585, 'id', 'Babbs'),
+(9671844, 125609, 'id', 'Thorpes Cottage');
+
+SET FOREIGN_KEY_CHECKS=1;

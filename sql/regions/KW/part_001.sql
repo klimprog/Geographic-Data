@@ -1,0 +1,12 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('KW-AH', 'KW', 'Muhafazat al Ahmadi', 'مُحَافَظَة اَلأَحْمَدِي', 2885359, 430923, 'UTC+3', 'Asia/Kuwait'),
+('KW-FA', 'KW', 'Muhafazat al Farwaniyah', 'مُحَافَظَة اَلْفَرْوَانِيَّة', 2885355, 640375, 'UTC+3', 'Asia/Kuwait'),
+('KW-HA', 'KW', 'Muhafazat Hawalli', 'مُحَافَظَة حَوَلِّي', 2885331, 714876, 'UTC+3', 'Asia/Kuwait'),
+('KW-JA', 'KW', 'Muhafazat al Jahra''', 'مُحَافَظَة الجَهْرَاء', 2885350, 307316, 'UTC+3', 'Asia/Kuwait'),
+('KW-KU', 'KW', 'Al Asimah Governorate', 'مُحَافَظَة اَلْعَاصِمَة', NULL, 511001, 'UTC+3', 'Asia/Kuwait'),
+('KW-MU', 'KW', 'Muhafazat Mubarak al Kabir', 'محافظة مبارك الكبير', 2885385, 223716, 'UTC+3', 'Asia/Kuwait');
+
+SET FOREIGN_KEY_CHECKS=1;

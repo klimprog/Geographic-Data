@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'ky', 'Батха'),
+('TD-BG', 'ky', 'Барх эль-Газель'),
+('TD-BO', 'ky', 'Борку'),
+('TD-CB', 'ky', 'Шари-Багирми'),
+('TD-EE', 'ky', 'Эннеди-Чыгыш'),
+('TD-EO', 'ky', 'Эннеди-Чыгыш'),
+('TD-GR', 'ky', 'Гуэра'),
+('TD-HL', 'ky', 'Хаджер-Лами'),
+('TD-KA', 'ky', 'Канем'),
+('TD-LC', 'ky', 'Көл'),
+('TD-LO', 'ky', 'Логон Чыгыш'),
+('TD-LR', 'ky', 'Логон Чыгыш'),
+('TD-MA', 'ky', 'Мандул'),
+('TD-MC', 'ky', 'Орто-Шари'),
+('TD-ME', 'ky', 'Майо-Кеби Чыгыш'),
+('TD-MO', 'ky', 'Майо-Кеби Чыгыш'),
+('TD-ND', 'ky', 'Н''Джамена'),
+('TD-OD', 'ky', 'Уадай'),
+('TD-SA', 'ky', 'Саламат'),
+('TD-SI', 'ky', 'Сила'),
+('TD-TA', 'ky', 'Танджил'),
+('TD-TI', 'ky', 'Тибести'),
+('TD-WF', 'ky', 'Уади Фира');
+
+SET FOREIGN_KEY_CHECKS=1;

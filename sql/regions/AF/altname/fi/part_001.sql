@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'fi', 'Balkhin maakunta'),
+('AF-BAM', 'fi', 'Bamiyanin maakunta'),
+('AF-BDG', 'fi', 'Badghisin maakunta'),
+('AF-BDS', 'fi', 'Badahšan'),
+('AF-BGL', 'fi', 'Baghlanin maakunta'),
+('AF-DAY', 'fi', 'Daikondin maakunta'),
+('AF-FRA', 'fi', 'Farahin maakunta'),
+('AF-FYB', 'fi', 'Faryabin maakunta'),
+('AF-GHA', 'fi', 'Ghaznin maakunta'),
+('AF-GHO', 'fi', 'Ghowrin maakunta'),
+('AF-HEL', 'fi', 'Helmandin maakunta'),
+('AF-HER', 'fi', 'Heratin maakunta'),
+('AF-JOW', 'fi', 'Jowzjanin maakunta'),
+('AF-KAB', 'fi', 'Kabulin maakunta'),
+('AF-KAN', 'fi', 'Kandaharin maakunta'),
+('AF-KAP', 'fi', 'Kapisan maakunta'),
+('AF-KDZ', 'fi', 'Qunduzin maakunta'),
+('AF-KHO', 'fi', 'Khostin maakunta'),
+('AF-KNR', 'fi', 'Konarin maakunta'),
+('AF-LAG', 'fi', 'Laghmanin maakunta'),
+('AF-LOG', 'fi', 'Logarin maakunta'),
+('AF-NAN', 'fi', 'Nangarharin maakunta'),
+('AF-NIM', 'fi', 'Nimruzin maakunta'),
+('AF-NUR', 'fi', 'Nurestanin maakunta'),
+('AF-PAN', 'fi', 'Panjshirin maakunta'),
+('AF-PAR', 'fi', 'Parvanin maakunta'),
+('AF-PIA', 'fi', 'Paktian maakunta'),
+('AF-PKA', 'fi', 'Paktikan maakunta'),
+('AF-SAM', 'fi', 'Samanganin maakunta'),
+('AF-SAR', 'fi', 'Sar-e Polin maakunta'),
+('AF-TAK', 'fi', 'Takharin maakunta'),
+('AF-URU', 'fi', 'Uruzganin maakunta'),
+('AF-WAR', 'fi', 'Vardakin maakunta'),
+('AF-ZAB', 'fi', 'Zabolin maakunta');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SC-01', 'tl', 'Anse-aux-Pins'),
+('SC-02', 'tl', 'Anse Boileau'),
+('SC-03', 'tl', 'Anse Etoile'),
+('SC-04', 'tl', 'Au Cap'),
+('SC-05', 'tl', 'Anse Royale'),
+('SC-06', 'tl', 'Baie Lazare'),
+('SC-07', 'tl', 'Baie Sainte Anne'),
+('SC-08', 'tl', 'Beau Vallon'),
+('SC-09', 'tl', 'Bel Air'),
+('SC-10', 'tl', 'Bel Ombre'),
+('SC-11', 'tl', 'Cascade'),
+('SC-12', 'tl', 'Glacis'),
+('SC-13', 'tl', 'Grand''Anse Mahe'),
+('SC-14', 'tl', 'Grand''Anse Praslin'),
+('SC-15', 'tl', 'La Digue and Inner Islands'),
+('SC-16', 'tl', 'La Riviere Anglaise'),
+('SC-17', 'tl', 'Mont Buxton'),
+('SC-18', 'tl', 'Mont Fleuri'),
+('SC-19', 'tl', 'Plaisance'),
+('SC-20', 'tl', 'Pointe La Rue'),
+('SC-21', 'tl', 'Port Glaud'),
+('SC-22', 'tl', 'Saint Louis'),
+('SC-23', 'tl', 'Takamaka'),
+('SC-24', 'tl', 'Les Mamelles'),
+('SC-25', 'tl', 'Roche Caiman'),
+('SC-26', 'tl', NULL),
+('SC-27', 'tl', 'Ile Tiyaga II');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,30 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AR-A', 'sw', 'Mkoa wa Salta'),
+('AR-B', 'sw', 'Mkoa wa Buenos Aires'),
+('AR-C', 'sw', 'Buenos Aires F.D.'),
+('AR-D', 'sw', 'Mkoa wa San Luis'),
+('AR-E', 'sw', 'Mkoa wa Entre Ríos'),
+('AR-F', 'sw', 'Mkoa wa La Rioja'),
+('AR-G', 'sw', 'Mkoa wa Santiago del Estero'),
+('AR-H', 'sw', 'Mkoa wa Chaco'),
+('AR-J', 'sw', 'Mkoa wa San Juan'),
+('AR-K', 'sw', 'Mkoa wa Catamarca'),
+('AR-L', 'sw', 'Mkoa wa La Pampa'),
+('AR-M', 'sw', 'Mkoa wa Mendoza'),
+('AR-N', 'sw', 'Mkoa wa Misiones'),
+('AR-P', 'sw', 'Mkoa wa Formosa'),
+('AR-Q', 'sw', 'Mkoa wa Neuquén'),
+('AR-R', 'sw', 'Mkoa wa Río Negro'),
+('AR-S', 'sw', 'Mkoa wa Santa Fe'),
+('AR-T', 'sw', 'Mkoa wa Tucumán'),
+('AR-U', 'sw', 'Mkoa wa Chubut'),
+('AR-V', 'sw', 'Tierra del Fuego'),
+('AR-W', 'sw', 'Mkoa wa Corrientes'),
+('AR-X', 'sw', 'Mkoa wa Córdoba'),
+('AR-Y', 'sw', 'Mkoa wa Jujuy'),
+('AR-Z', 'sw', 'Mkoa wa Santa Cruz');
+
+SET FOREIGN_KEY_CHECKS=1;

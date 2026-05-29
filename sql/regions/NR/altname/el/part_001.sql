@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NR-01', 'el', 'Άιβο'),
+('NR-02', 'el', 'Περιφέρεια Άναμπαρ'),
+('NR-03', 'el', 'Ανέταν'),
+('NR-04', 'el', 'Ανιμπάρε'),
+('NR-05', 'el', 'Μπαΐτσι'),
+('NR-06', 'el', 'Μπόε'),
+('NR-07', 'el', 'Μπουάντα'),
+('NR-08', 'el', 'Ντενιγκομόντου'),
+('NR-09', 'el', 'Έβα'),
+('NR-10', 'el', 'Ίτζου'),
+('NR-11', 'el', 'Μενένγκ'),
+('NR-12', 'el', 'Νίμποκ'),
+('NR-13', 'el', 'Ουαμπόε'),
+('NR-14', 'el', 'Γιαρέν');
+
+SET FOREIGN_KEY_CHECKS=1;

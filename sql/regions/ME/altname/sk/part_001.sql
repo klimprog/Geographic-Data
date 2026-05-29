@@ -1,0 +1,31 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ME-01', 'sk', 'Obec Andrijevica'),
+('ME-02', 'sk', 'Obec Bar'),
+('ME-03', 'sk', 'Obec Berane'),
+('ME-04', 'sk', 'Obec Bijelo Polje'),
+('ME-05', 'sk', 'Obec Budva'),
+('ME-06', 'sk', 'Obec Cetinje'),
+('ME-07', 'sk', 'Obec Danilovgrad'),
+('ME-08', 'sk', 'Obec Herceg Novi'),
+('ME-09', 'sk', 'Obec Kolašin'),
+('ME-10', 'sk', 'Obec Kotor'),
+('ME-11', 'sk', 'Obec Mojkovac'),
+('ME-12', 'sk', 'Obec Nikšić'),
+('ME-13', 'sk', 'Obec Plav'),
+('ME-14', 'sk', 'Obec Pljevlja'),
+('ME-15', 'sk', 'Obec Plužine'),
+('ME-16', 'sk', 'Podgorica'),
+('ME-17', 'sk', 'Obec Rožaje'),
+('ME-18', 'sk', 'Obec Šavnik'),
+('ME-19', 'sk', 'Obec Tivat'),
+('ME-20', 'sk', 'Obec Ulcinj'),
+('ME-21', 'sk', 'Obec Žabljak'),
+('ME-22', 'sk', 'Obec Gusinje'),
+('ME-23', 'sk', 'Obec Petnjica'),
+('ME-24', 'sk', 'Tuzi'),
+('ME-25', 'sk', 'Zéta');
+
+SET FOREIGN_KEY_CHECKS=1;

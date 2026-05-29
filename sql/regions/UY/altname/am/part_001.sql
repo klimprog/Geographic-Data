@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UY-AR', 'am', 'አርቲጋስ'),
+('UY-CA', 'am', 'ካኔሎኔስ'),
+('UY-CL', 'am', 'ሴሮ ላርጎ'),
+('UY-CO', 'am', 'ኮሎኒያ'),
+('UY-DU', 'am', 'ዱራዝኖ ዲፓርትመንት'),
+('UY-FD', 'am', 'ፍሎሪዳ'),
+('UY-FS', 'am', 'ፍሎሬስ ዲፓርትመንት'),
+('UY-LA', 'am', 'ላቫልሌሃ'),
+('UY-MA', 'am', 'ማልዶናዶ'),
+('UY-MO', 'am', 'ሞንቴቪዴዮ ዲፓርትመንት'),
+('UY-PA', 'am', 'ፓይሳንዱ ዲፓርትመንት'),
+('UY-RN', 'am', 'ሪዮ ነግሮ ዲፓርትመንት'),
+('UY-RO', 'am', 'ሮቻ ዲፓርትመንት'),
+('UY-RV', 'am', 'ሪቬራ ዲፓርትመንት'),
+('UY-SA', 'am', 'ሳልቶ ዲፓርትመንት'),
+('UY-SJ', 'am', 'ሳን ሆሴ ዲፓርትመንት'),
+('UY-SO', 'am', 'ሶሪያኖ'),
+('UY-TA', 'am', 'ታኩአረምቦ ዲፓርትመንት'),
+('UY-TT', 'am', 'ትሬይንታ ይ ትሬስ ዲፓርትመንት');
+
+SET FOREIGN_KEY_CHECKS=1;

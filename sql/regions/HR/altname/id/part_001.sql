@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HR-01', 'id', 'Kabupaten Zagreb'),
+('HR-02', 'id', 'Kabupaten Krapina-Zagorje'),
+('HR-03', 'id', 'Kabupaten Sisak-Moslavina'),
+('HR-04', 'id', 'Wilayah Karlovac'),
+('HR-05', 'id', 'Kabupaten Varaždin'),
+('HR-06', 'id', 'Kabupaten Koprivnica-Križevci'),
+('HR-07', 'id', 'Kabupaten Bjelovar-Bilogora'),
+('HR-08', 'id', 'Kabupaten Primorje-Gorski Kotar'),
+('HR-09', 'id', 'Kabupaten Lika-Senj'),
+('HR-10', 'id', 'Kabupaten Virovitica-Podravina'),
+('HR-11', 'id', 'Kabupaten Požega-Slavonia'),
+('HR-12', 'id', 'Kabupaten Brod-Posavina'),
+('HR-13', 'id', 'Kabupaten Zadar'),
+('HR-14', 'id', 'Kabupaten Osijek-Baranja'),
+('HR-15', 'id', 'Kabupaten Šibenik-Knin'),
+('HR-16', 'id', 'Kabupaten Vukovar-Syrmia'),
+('HR-17', 'id', 'Kabupaten Split-Dalmatia'),
+('HR-18', 'id', 'Kabupaten Istria'),
+('HR-19', 'id', 'Kabupaten Dubrovnik-Neretva'),
+('HR-20', 'id', 'Kabupaten Međimurje'),
+('HR-21', 'id', 'Zagreb');
+
+SET FOREIGN_KEY_CHECKS=1;

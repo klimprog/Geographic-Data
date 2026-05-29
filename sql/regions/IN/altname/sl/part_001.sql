@@ -1,0 +1,42 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IN-AN', 'sl', 'Andamanski in Nikobarski otoki'),
+('IN-AP', 'sl', 'Andra Pradeš'),
+('IN-AR', 'sl', 'Arunačal Pradeš'),
+('IN-AS', 'sl', 'Asam'),
+('IN-BR', 'sl', 'Bihar'),
+('IN-CG', 'sl', 'Čatisgar'),
+('IN-CH', 'sl', 'Čandigar'),
+('IN-DH', 'sl', 'Dadra in Nagar Haveli ter Daman in Diu'),
+('IN-DL', 'sl', 'Nacionalno glavno ozemlje Delhi'),
+('IN-GA', 'sl', 'Goa'),
+('IN-GJ', 'sl', 'Gudžarat'),
+('IN-HP', 'sl', 'Himačal Pradeš'),
+('IN-HR', 'sl', 'Harjana'),
+('IN-JH', 'sl', 'Džarhand'),
+('IN-JK', 'sl', 'Džamu in Kašmir'),
+('IN-KA', 'sl', 'Karnataka'),
+('IN-KL', 'sl', 'Kerala'),
+('IN-LA', 'sl', 'Ladakh'),
+('IN-LD', 'sl', 'Lakadivi'),
+('IN-MH', 'sl', 'Maharaštra'),
+('IN-ML', 'sl', 'Megalaja'),
+('IN-MN', 'sl', 'Manipur'),
+('IN-MP', 'sl', 'Madža Pradeš'),
+('IN-MZ', 'sl', 'Mizoram'),
+('IN-NL', 'sl', 'Nāgāland'),
+('IN-OD', 'sl', 'Orisa'),
+('IN-PB', 'sl', 'Pandžab'),
+('IN-PY', 'sl', 'Puducherry'),
+('IN-RJ', 'sl', 'Radžastan'),
+('IN-SK', 'sl', 'Sikim'),
+('IN-TN', 'sl', 'Tamil Nadu'),
+('IN-TR', 'sl', 'Tripura'),
+('IN-TS', 'sl', 'Telangana'),
+('IN-UK', 'sl', 'Utarakhand'),
+('IN-UP', 'sl', 'Utar Pradeš'),
+('IN-WB', 'sl', 'Zahodna Bengalija');
+
+SET FOREIGN_KEY_CHECKS=1;

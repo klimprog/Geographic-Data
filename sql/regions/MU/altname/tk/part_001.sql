@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MU-AG', 'tk', 'Agalega Islands'),
+('MU-BL', 'tk', 'Riviere Noire District'),
+('MU-CC', 'tk', 'Cargados Carajos'),
+('MU-FL', 'tk', 'Flacq District'),
+('MU-GP', 'tk', 'Grand Port District'),
+('MU-MO', 'tk', 'Moka District'),
+('MU-PA', 'tk', 'Pamplemousses District'),
+('MU-PL', 'tk', 'Port Louis District'),
+('MU-PW', 'tk', 'Plaines Wilhems District'),
+('MU-RO', 'tk', 'Rodrigues'),
+('MU-RR', 'tk', 'Riviere du Rempart District'),
+('MU-SA', 'tk', 'Savanne District');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,43 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MD-AN', 'lv', 'Aneni Nojas rajons'),
+('MD-BA', 'lv', 'Belci'),
+('MD-BD', 'lv', 'Municipiul Bender'),
+('MD-BR', 'lv', 'Bričenu rajons'),
+('MD-BS', 'lv', 'Besarabjaskas rajons'),
+('MD-CA', 'lv', 'Kahulas rajons'),
+('MD-CL', 'lv', 'Kelerasu rajons'),
+('MD-CM', 'lv', 'Čimišlijas rajons'),
+('MD-CR', 'lv', 'Krjulenu rajons'),
+('MD-CS', 'lv', 'Keušenu rajons'),
+('MD-CT', 'lv', 'Kantemiras rajons'),
+('MD-CU', 'lv', 'Municipiul Kišiņeva'),
+('MD-DO', 'lv', 'Dondušenu rajons'),
+('MD-DR', 'lv', 'Drokijas rajons'),
+('MD-DU', 'lv', 'Dubesaru rajons'),
+('MD-ED', 'lv', 'Jedinecas rajons'),
+('MD-FA', 'lv', 'Feleštu rajons'),
+('MD-FL', 'lv', 'Floreštu rajons'),
+('MD-GA', 'lv', 'Gagauzija'),
+('MD-GL', 'lv', 'Glodenu rajons'),
+('MD-HI', 'lv', 'Hinčeštu rajons'),
+('MD-IA', 'lv', 'Jalovenu rajons'),
+('MD-LE', 'lv', 'Leovas rajons'),
+('MD-NI', 'lv', 'Nisperonu rajons'),
+('MD-OC', 'lv', 'Oknicas rajons'),
+('MD-OR', 'lv', 'Orhejas rajons'),
+('MD-RE', 'lv', 'Rezinas rajons'),
+('MD-RI', 'lv', 'Riškanu rajons'),
+('MD-SD', 'lv', 'Šoldeneštu rajons'),
+('MD-SI', 'lv', 'Sindžerejas rajons'),
+('MD-SN', 'lv', 'Dņestras kreisā krasta administratīvi teritoriālās vienības'),
+('MD-SO', 'lv', 'Sorokas rajons'),
+('MD-ST', 'lv', 'Strešenu rajons'),
+('MD-SV', 'lv', 'Štefanvodes rajons'),
+('MD-TA', 'lv', 'Taraklijas rajons'),
+('MD-TE', 'lv', 'Teleneštu rajons'),
+('MD-UN', 'lv', 'Ungenu rajons');
+
+SET FOREIGN_KEY_CHECKS=1;

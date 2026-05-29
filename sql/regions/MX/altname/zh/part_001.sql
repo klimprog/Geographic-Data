@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'zh', '阿瓜斯卡連特斯州'),
+('MX-BCN', 'zh', '下加利福尼亞州'),
+('MX-BCS', 'zh', '南下加利福尼亞州'),
+('MX-CAM', 'zh', '坎佩切州'),
+('MX-CHH', 'zh', '奇瓦瓦州'),
+('MX-CHP', 'zh', '恰帕斯州'),
+('MX-CMX', 'zh', '墨西哥城市'),
+('MX-COA', 'zh', '科阿韋拉州'),
+('MX-COL', 'zh', '科利馬州'),
+('MX-DUR', 'zh', '杜蘭戈州'),
+('MX-GRO', 'zh', '格雷羅州'),
+('MX-GUA', 'zh', '瓜納華托州'),
+('MX-HID', 'zh', '伊達爾戈州'),
+('MX-JAL', 'zh', '哈利斯科州'),
+('MX-MEX', 'zh', '墨西哥州'),
+('MX-MIC', 'zh', '米却肯州'),
+('MX-MOR', 'zh', '莫雷洛斯州'),
+('MX-NAY', 'zh', '納亞里特州'),
+('MX-NLE', 'zh', '新萊昂州'),
+('MX-OAX', 'zh', '瓦哈卡州'),
+('MX-PUE', 'zh', '普埃布拉州'),
+('MX-QUE', 'zh', '克雷塔羅州'),
+('MX-ROO', 'zh', '金塔納羅奧州'),
+('MX-SIN', 'zh', '锡那罗亚州'),
+('MX-SLP', 'zh', '圣路易斯波托西州'),
+('MX-SON', 'zh', '索諾拉州'),
+('MX-TAB', 'zh', '塔巴斯科州'),
+('MX-TAM', 'zh', '塔毛利帕斯州'),
+('MX-TLA', 'zh', '特拉斯卡拉州'),
+('MX-VER', 'zh', '韋拉克魯斯州'),
+('MX-YUC', 'zh', '尤卡坦州'),
+('MX-ZAC', 'zh', '薩卡特卡斯州');
+
+SET FOREIGN_KEY_CHECKS=1;

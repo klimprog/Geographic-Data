@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions` (`key`, `country`, `name`, `native_name`, `capital`, `population`, `timezone_utc`, `timezone_iana`) VALUES
+('DE-BB', 'DE', 'Brandenburg', 'Brandenburg', 1375873, 2511525, 'UTC+1', 'Europe/Berlin'),
+('DE-BE', 'DE', 'Land Berlin', 'Land Berlin', NULL, 3442675, 'UTC+1', 'Europe/Berlin'),
+('DE-BW', 'DE', 'Baden-Wuerttemberg', 'Baden-Württemberg', 1364537, 10744921, 'UTC+1', 'Europe/Berlin, Europe/Busingen'),
+('DE-BY', 'DE', 'Bavaria', 'Bayern', 1384095, 12510331, 'UTC+1', 'Europe/Berlin'),
+('DE-HB', 'DE', 'Bremen', 'Freie Hansestadt Bremen', 1416750, 661716, 'UTC+1', 'Europe/Berlin'),
+('DE-HE', 'DE', 'Hessen', 'Hessen', 1356968, 6061951, 'UTC+1', 'Europe/Berlin'),
+('DE-HH', 'DE', 'Free and Hanseatic City of Hamburg', 'Freie und Hansestadt Hamburg', 1402217, 1774224, 'UTC+1', 'Europe/Berlin'),
+('DE-MV', 'DE', 'Mecklenburg-Western Pomerania', 'Mecklenburg-Vorpommern', 1368230, 1651216, 'UTC+1', 'Europe/Berlin'),
+('DE-NI', 'DE', 'Lower Saxony', 'Niedersachsen', 1402029, 7928815, 'UTC+1', 'Europe/Amsterdam, Europe/Berlin'),
+('DE-NW', 'DE', 'Nordrhein-Westfalen', 'Nordrhein-Westfalen', 1412268, 17872763, 'UTC+1', 'Europe/Amsterdam, Europe/Berlin'),
+('DE-RP', 'DE', 'Rheinland-Pfalz', 'Rheinland-Pfalz', 1387079, 4012675, 'UTC+1', 'Europe/Berlin'),
+('DE-SH', 'DE', 'Schleswig-Holstein', 'Schleswig-Holstein', 1394263, 2832027, 'UTC+1', 'Europe/Berlin'),
+('DE-SL', 'DE', 'Saarland', 'Saarland', 1371393, 1022585, 'UTC+1', 'Europe/Berlin'),
+('DE-SN', 'DE', 'Saxony', 'Sachsen', 1412638, 4168732, 'UTC+1', 'Europe/Berlin'),
+('DE-ST', 'DE', 'Saxony-Anhalt', 'Sachsen-Anhalt', 1387220, 2356219, 'UTC+1', 'Europe/Berlin'),
+('DE-TH', 'DE', 'Thuringia', 'Thüringen', 1410175, 2249882, 'UTC+1', 'Europe/Berlin');
+
+SET FOREIGN_KEY_CHECKS=1;

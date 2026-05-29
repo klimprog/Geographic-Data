@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'am', 'ኮናክት'),
+('IE-CE', 'am', 'ክላር'),
+('IE-CN', 'am', 'ቻቫን'),
+('IE-CO', 'am', 'ጮርክ'),
+('IE-CW', 'am', 'ቻርሎው'),
+('IE-D', 'am', 'ደብሊን'),
+('IE-DL', 'am', 'ዶኔጋል'),
+('IE-G', 'am', 'ጋልዌይ'),
+('IE-KE', 'am', 'ኪልዳሬ'),
+('IE-KK', 'am', 'ኪልኬኒ'),
+('IE-KY', 'am', 'ኬሪ'),
+('IE-L', 'am', 'ላይንስተር'),
+('IE-LD', 'am', 'ሎንግፎርድ'),
+('IE-LH', 'am', 'ሎዑትህ'),
+('IE-LK', 'am', 'ሊሜሪክ'),
+('IE-LM', 'am', 'ሌትሪም'),
+('IE-LS', 'am', 'ላኦይስ'),
+('IE-M', 'am', 'ሙንስተር'),
+('IE-MH', 'am', 'ስጋ'),
+('IE-MN', 'am', 'ሞናጋን'),
+('IE-MO', 'am', 'ማዮ'),
+('IE-OY', 'am', 'ኦፋሊ'),
+('IE-RN', 'am', 'ሮስኮሞን'),
+('IE-SO', 'am', 'ስሊጎ'),
+('IE-TA', 'am', 'ቲፐር'),
+('IE-U', 'am', 'አልስተር'),
+('IE-WD', 'am', 'ዋተርፎርድ'),
+('IE-WH', 'am', 'ዌስትሜት'),
+('IE-WW', 'am', 'ዊክሎው'),
+('IE-WX', 'am', 'ዌክስፎርድ');
+
+SET FOREIGN_KEY_CHECKS=1;

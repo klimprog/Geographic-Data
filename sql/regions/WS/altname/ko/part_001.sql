@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('WS-AA', 'ko', '아아나 구'),
+('WS-AL', 'ko', '아이가이레타이구'),
+('WS-AT', 'ko', '아투아구'),
+('WS-FA', 'ko', '파아살렐레아가 구'),
+('WS-GE', 'ko', '가가에마우가구'),
+('WS-GI', 'ko', '가가이포마우가구'),
+('WS-PA', 'ko', '팔라울리구'),
+('WS-SA', 'ko', '사투파이테아구'),
+('WS-TU', 'ko', '투아마사가구'),
+('WS-VF', 'ko', '바아오포노티 구'),
+('WS-VS', 'ko', '바이시가노구');
+
+SET FOREIGN_KEY_CHECKS=1;

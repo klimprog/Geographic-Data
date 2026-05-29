@@ -1,0 +1,28 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('GT-01', 'hu', 'Guatemala megye'),
+('GT-02', 'hu', 'El Progreso megye'),
+('GT-03', 'hu', 'Sacatepéquez megye'),
+('GT-04', 'hu', 'Chimaltenango megye'),
+('GT-05', 'hu', 'Escuintla megye'),
+('GT-06', 'hu', 'Santa Rosa megye'),
+('GT-07', 'hu', 'Sololá megye'),
+('GT-08', 'hu', 'Totonicapán megye'),
+('GT-09', 'hu', 'Quetzaltenango megye'),
+('GT-10', 'hu', 'Suchitepéquez megye'),
+('GT-11', 'hu', 'Retalhuleu megye'),
+('GT-12', 'hu', 'San Marcos megye'),
+('GT-13', 'hu', 'Huehuetenango megye'),
+('GT-14', 'hu', 'Quiché megye'),
+('GT-15', 'hu', 'Baja Verapaz megye'),
+('GT-16', 'hu', 'Alta Verapaz megye'),
+('GT-17', 'hu', 'Petén megye'),
+('GT-18', 'hu', 'Izabal megye'),
+('GT-19', 'hu', 'Zacapa megye'),
+('GT-20', 'hu', 'Chiquimula megye'),
+('GT-21', 'hu', 'Jalapa megye'),
+('GT-22', 'hu', 'Jutiapa megye');
+
+SET FOREIGN_KEY_CHECKS=1;

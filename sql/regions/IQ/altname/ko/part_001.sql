@@ -1,0 +1,25 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IQ-AN', 'ko', '안바르주'),
+('IQ-AR', 'ko', '아르빌주'),
+('IQ-BA', 'ko', '바스라주'),
+('IQ-BB', 'ko', '바빌주'),
+('IQ-BG', 'ko', '바그다드주'),
+('IQ-DA', 'ko', '다후크주'),
+('IQ-DI', 'ko', '디얄라주'),
+('IQ-DQ', 'ko', '디카르주'),
+('IQ-KA', 'ko', '카르발라주'),
+('IQ-KI', 'ko', '키르쿠크주'),
+('IQ-KR', 'ko', '이클림 쿠르디스탄'),
+('IQ-MA', 'ko', '마이산주'),
+('IQ-MU', 'ko', '무탄나주'),
+('IQ-NA', 'ko', '나자프주'),
+('IQ-NI', 'ko', '니나와주'),
+('IQ-QA', 'ko', '카디시야주'),
+('IQ-SD', 'ko', '살라딘주'),
+('IQ-SU', 'ko', '술라이마니야주'),
+('IQ-WA', 'ko', '와시트주');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('HR-01', 'es', 'Zagreb'),
+('HR-02', 'es', 'Krapina-Zagorje'),
+('HR-03', 'es', 'Sisak-Moslavina'),
+('HR-04', 'es', 'Karlovac'),
+('HR-05', 'es', 'Varazdin'),
+('HR-06', 'es', 'Koprivnica-Krizevci'),
+('HR-07', 'es', 'Bjelovar-Bilogora'),
+('HR-08', 'es', 'Primorje - Gorski Kotar'),
+('HR-09', 'es', 'Lika-Senj'),
+('HR-10', 'es', 'Virovitica-Podravina'),
+('HR-11', 'es', 'Pozega-Eslavonia'),
+('HR-12', 'es', 'Brod-Posavina'),
+('HR-13', 'es', 'Zadar'),
+('HR-14', 'es', 'Osijek-Baranja'),
+('HR-15', 'es', 'Sibenik-Knin'),
+('HR-16', 'es', 'Vukovar-Srijem'),
+('HR-17', 'es', 'Split-Dalmatia'),
+('HR-18', 'es', 'Istria'),
+('HR-19', 'es', 'Dubrovnik - Neretva'),
+('HR-20', 'es', 'Medimurje'),
+('HR-21', 'es', 'Zagreb');
+
+SET FOREIGN_KEY_CHECKS=1;

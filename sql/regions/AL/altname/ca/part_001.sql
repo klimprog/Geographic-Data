@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'ca', 'comtat de Berat'),
+('AL-02', 'ca', 'Durrës'),
+('AL-03', 'ca', 'comtat d''Elbasan'),
+('AL-04', 'ca', 'comtat de Fier'),
+('AL-05', 'ca', 'comtat de Gjirokastër'),
+('AL-06', 'ca', 'comtat de Korçë'),
+('AL-07', 'ca', 'comtat de Kukës'),
+('AL-08', 'ca', 'comtat de Lezhë'),
+('AL-09', 'ca', 'comtat de Dibër'),
+('AL-10', 'ca', 'comtat de Shkodër'),
+('AL-11', 'ca', 'comtat de Tirana'),
+('AL-12', 'ca', 'comtat de Vlorë');
+
+SET FOREIGN_KEY_CHECKS=1;

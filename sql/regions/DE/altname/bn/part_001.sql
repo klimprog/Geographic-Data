@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DE-BB', 'bn', 'ব্র্যান্ডেনবুর্গ'),
+('DE-BE', 'bn', 'বার্লিন'),
+('DE-BW', 'bn', 'বাডেন-ভুর্টেমবের্গ'),
+('DE-BY', 'bn', 'বায়ার্ন'),
+('DE-HB', 'bn', 'ব্রেমেন'),
+('DE-HE', 'bn', 'হেসেন'),
+('DE-HH', 'bn', 'হামবুর্গ'),
+('DE-MV', 'bn', 'মেকলেনবুর্গ-ফোর্পোমের্ন'),
+('DE-NI', 'bn', 'নিডারজাখসেন'),
+('DE-NW', 'bn', 'নর্ডরাইন-ভেস্টফালেন'),
+('DE-RP', 'bn', 'রাইনলান্ড-ফালৎস'),
+('DE-SH', 'bn', 'শ্লেসভিগ-হলষ্টাইন'),
+('DE-SL', 'bn', 'জারলান্ড'),
+('DE-SN', 'bn', 'জাখসেন'),
+('DE-ST', 'bn', 'জ্যাক্সোনি-আনহাল্ট'),
+('DE-TH', 'bn', 'থুরিনজিয়া');
+
+SET FOREIGN_KEY_CHECKS=1;

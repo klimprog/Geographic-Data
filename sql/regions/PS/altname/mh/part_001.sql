@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('PS-BTH', 'mh', 'Betleem'),
+('PS-DEB', 'mh', 'Deir El Balah'),
+('PS-GZA', 'mh', 'Gaza'),
+('PS-HBN', 'mh', 'Hebron'),
+('PS-JEM', 'mh', 'Jerusalem'),
+('PS-JEN', 'mh', 'Jenin'),
+('PS-JRH', 'mh', 'Jericho im Al Aghwar'),
+('PS-KYS', 'mh', 'Khan Yunis'),
+('PS-NBS', 'mh', 'Nablus'),
+('PS-NGZ', 'mh', 'North Gaza'),
+('PS-QQA', 'mh', 'Qalqilya'),
+('PS-RBH', 'mh', 'Ramallah'),
+('PS-RFH', 'mh', 'Rafah'),
+('PS-SLT', 'mh', 'Salfit'),
+('PS-TBS', 'mh', 'Tubas'),
+('PS-TKM', 'mh', 'Tulkarm');
+
+SET FOREIGN_KEY_CHECKS=1;

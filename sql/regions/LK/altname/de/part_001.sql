@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'de', 'Westprovinz'),
+('LK-11', 'de', 'Colombo'),
+('LK-12', 'de', 'Gampaha'),
+('LK-13', 'de', 'Kalutara'),
+('LK-2', 'de', 'Zentralprovinz'),
+('LK-21', 'de', 'Kandy'),
+('LK-22', 'de', 'Matale'),
+('LK-23', 'de', 'Nuwara Eliya'),
+('LK-3', 'de', 'Südprovinz'),
+('LK-31', 'de', 'Galle'),
+('LK-32', 'de', 'Matara'),
+('LK-33', 'de', 'Hambantota'),
+('LK-4', 'de', 'Nordprovinz'),
+('LK-41', 'de', 'Jaffna'),
+('LK-42', 'de', 'Kilinochchi'),
+('LK-43', 'de', 'Mannar'),
+('LK-44', 'de', 'Vavuniya'),
+('LK-45', 'de', 'Mullaittivu'),
+('LK-5', 'de', 'Ostprovinz'),
+('LK-51', 'de', 'Batticaloa'),
+('LK-52', 'de', 'Ampara'),
+('LK-53', 'de', 'Trincomalee'),
+('LK-6', 'de', 'Nordwestprovinz'),
+('LK-61', 'de', 'Kurunegala'),
+('LK-62', 'de', 'Puttalam'),
+('LK-7', 'de', 'Nördliche Zentralprovinz'),
+('LK-71', 'de', 'Anuradhapura'),
+('LK-72', 'de', 'Polonnaruwa'),
+('LK-8', 'de', 'Uva'),
+('LK-81', 'de', 'Badulla'),
+('LK-82', 'de', 'Monaragala'),
+('LK-9', 'de', 'Sabaragamuwa'),
+('LK-91', 'de', 'Ratnapura'),
+('LK-92', 'de', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

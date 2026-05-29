@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TZ-01', 'hr', 'Aruša'),
+('TZ-02', 'hr', 'Dar-es-Salaam'),
+('TZ-03', 'hr', 'Dodoma'),
+('TZ-04', 'hr', 'Iringa'),
+('TZ-05', 'hr', 'Kagera'),
+('TZ-06', 'hr', 'Pemba Sjever'),
+('TZ-07', 'hr', 'Zanzibar Sjever'),
+('TZ-08', 'hr', 'Kigoma'),
+('TZ-09', 'hr', 'Kilimandžaro'),
+('TZ-10', 'hr', 'Pemba Jug'),
+('TZ-11', 'hr', 'Zanzibar Centar/Jug'),
+('TZ-12', 'hr', 'Lindi'),
+('TZ-13', 'hr', 'Mara'),
+('TZ-14', 'hr', 'Mbeya'),
+('TZ-15', 'hr', 'Zanzibar Grad/Zapad'),
+('TZ-16', 'hr', 'Morogoro'),
+('TZ-17', 'hr', 'Mtwara'),
+('TZ-18', 'hr', 'Mwanza'),
+('TZ-19', 'hr', 'Pwani'),
+('TZ-20', 'hr', 'Rukwa'),
+('TZ-21', 'hr', 'Ruvuma'),
+('TZ-22', 'hr', 'Šinjanga'),
+('TZ-23', 'hr', 'Singida'),
+('TZ-24', 'hr', 'Tabora'),
+('TZ-25', 'hr', 'Tanga'),
+('TZ-26', 'hr', 'Manyara'),
+('TZ-27', 'hr', 'Geita'),
+('TZ-28', 'hr', 'Katavi'),
+('TZ-29', 'hr', 'Njombe'),
+('TZ-30', 'hr', 'Simiju'),
+('TZ-31', 'hr', 'Songwe');
+
+SET FOREIGN_KEY_CHECKS=1;

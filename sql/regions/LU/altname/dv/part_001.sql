@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LU-CA', 'dv', 'ކެޕެލެން އެވެ'),
+('LU-CL', 'dv', 'ކްލެރވޯކްސް އެވެ'),
+('LU-DI', 'dv', 'ޑައިކިރޗް އެވެ'),
+('LU-EC', 'dv', 'ކެންޓަން ޑި އެޗްޓަރނާކް އެވެ'),
+('LU-ES', 'dv', 'ކެންޓަން ޑި އެޝް ސޫރް އަލްޒެޓް އެވެ'),
+('LU-GR', 'dv', 'ގްރެވެންމަކަރ އެވެ'),
+('LU-LU', 'dv', 'ލަކްޒަމްބަރގް އެވެ'),
+('LU-ME', 'dv', 'މެރޝް އެވެ'),
+('LU-RD', 'dv', 'ރެޑަންގޭ އެވެ'),
+('LU-RM', 'dv', 'ރެމިޗް އެވެ'),
+('LU-VD', 'dv', 'ވިއަންޑެން އެވެ'),
+('LU-WI', 'dv', 'ވިލްޓްޒް އެވެ');
+
+SET FOREIGN_KEY_CHECKS=1;

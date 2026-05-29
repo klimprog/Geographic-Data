@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'zh', '巴尔赫省'),
+('AF-BAM', 'zh', '巴米扬省'),
+('AF-BDG', 'zh', '巴德吉斯省'),
+('AF-BDS', 'zh', '巴达赫尚省'),
+('AF-BGL', 'zh', '巴格兰省'),
+('AF-DAY', 'zh', '代孔迪省'),
+('AF-FRA', 'zh', '法拉省'),
+('AF-FYB', 'zh', '法利亚布省'),
+('AF-GHA', 'zh', '加兹尼省'),
+('AF-GHO', 'zh', '古爾省'),
+('AF-HEL', 'zh', '赫尔曼德省'),
+('AF-HER', 'zh', '赫拉特省'),
+('AF-JOW', 'zh', '朱兹詹省'),
+('AF-KAB', 'zh', '喀布尔省'),
+('AF-KAN', 'zh', '坎大哈省'),
+('AF-KAP', 'zh', '卡比萨省'),
+('AF-KDZ', 'zh', '昆都士省'),
+('AF-KHO', 'zh', '霍斯特省'),
+('AF-KNR', 'zh', '库纳尔省'),
+('AF-LAG', 'zh', '拉格曼省'),
+('AF-LOG', 'zh', '洛加尔省'),
+('AF-NAN', 'zh', '楠格哈尔省'),
+('AF-NIM', 'zh', '尼姆鲁兹省'),
+('AF-NUR', 'zh', '努尔斯坦省'),
+('AF-PAN', 'zh', '潘傑希爾省'),
+('AF-PAR', 'zh', '帕尔旺省'),
+('AF-PIA', 'zh', '帕克蒂亚省'),
+('AF-PKA', 'zh', '帕克蒂卡省'),
+('AF-SAM', 'zh', '萨曼甘省'),
+('AF-SAR', 'zh', '薩爾普勒省'),
+('AF-TAK', 'zh', '塔哈尔省'),
+('AF-URU', 'zh', '乌鲁兹甘省'),
+('AF-WAR', 'zh', '瓦尔达克省'),
+('AF-ZAB', 'zh', '扎布尔省');
+
+SET FOREIGN_KEY_CHECKS=1;

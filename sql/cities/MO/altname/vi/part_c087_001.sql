@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(240024937, 3117207, 'vi', 'Ma Cao'),
+(240025014, 3117208, 'vi', 'Ma Cao'),
+(240025091, 3117209, 'vi', 'Lại Chí Vân'),
+(240025168, 3117210, 'vi', 'hei sha'),
+(240025245, 3117211, 'vi', 'lu huan'),
+(240025322, 3117212, 'vi', 'zhuo jia cun'),
+(240025399, 3117213, 'vi', 'jiu ao'),
+(240025476, 3117214, 'vi', 'Cotai'),
+(240025553, 3117215, 'vi', 'Se');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(128497629, 1668801, 'is', 'Torteval'),
+(128497783, 1668803, 'is', 'Saint Sampson'),
+(128497860, 1668804, 'is', 'Saint Peter Port'),
+(128497937, 1668805, 'is', 'Stantsiyne'),
+(128509641, 1668957, 'is', 'Les Baissieres'),
+(128512028, 1668988, 'is', 'L''Eree'),
+(128512105, 1668989, 'is', 'Rocque Poisson'),
+(128513876, 1669012, 'is', NULL),
+(128516186, 1669042, 'is', 'La Seigneurie'),
+(128516725, 1669049, 'is', 'Castel'),
+(128516802, 1669050, 'is', 'Heilagur Andrés'),
+(128516956, 1669052, 'is', 'Saruk'),
+(128517033, 1669053, 'is', 'Huto-Mariatyn'),
+(128517495, 1669059, 'is', 'Vale Parish'),
+(128517572, 1669060, 'is', 'Forest Parish'),
+(128517649, 1669061, 'is', 'Saint Pierre du Bois Parish');
+
+SET FOREIGN_KEY_CHECKS=1;

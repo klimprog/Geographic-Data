@@ -1,0 +1,29 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('TD-BA', 'ht', 'Rejyon Batha'),
+('TD-BG', 'ht', 'Barh-El-Gazel'),
+('TD-BO', 'ht', 'Rejyon Borkou'),
+('TD-CB', 'ht', 'Rejyon Chari-Baguirmi'),
+('TD-EE', 'ht', 'Ennedi-Est'),
+('TD-EO', 'ht', 'Ennedi-Ouest'),
+('TD-GR', 'ht', 'Rejyon Guera'),
+('TD-HL', 'ht', 'Hadjer-Lamis'),
+('TD-KA', 'ht', 'Rejyon Kanem'),
+('TD-LC', 'ht', 'Lak'),
+('TD-LO', 'ht', 'Rejyon Logone Occidental'),
+('TD-LR', 'ht', 'Logone rejyon Oriental'),
+('TD-MA', 'ht', 'Mandoul'),
+('TD-MC', 'ht', 'Rejyon Moyen-Chari'),
+('TD-ME', 'ht', 'Mayo-Kebbi Est'),
+('TD-MO', 'ht', 'Mayo-Kebbi rejyon lwès'),
+('TD-ND', 'ht', 'N''Djamena'),
+('TD-OD', 'ht', 'Rejyon Ouaddai'),
+('TD-SA', 'ht', 'Rejyon Salamat'),
+('TD-SI', 'ht', 'Sila'),
+('TD-TA', 'ht', 'Rejyon Tandjile'),
+('TD-TI', 'ht', 'Rejyon Tibesti'),
+('TD-WF', 'ht', 'Rejyon Wadi Fira');
+
+SET FOREIGN_KEY_CHECKS=1;

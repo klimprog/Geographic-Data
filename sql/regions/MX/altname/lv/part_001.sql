@@ -1,0 +1,38 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MX-AGU', 'lv', 'Agvaskaljentesa'),
+('MX-BCN', 'lv', 'Lejaskalifornija'),
+('MX-BCS', 'lv', 'Dienvidu Lejaskalifornija'),
+('MX-CAM', 'lv', 'Kampeče'),
+('MX-CHH', 'lv', 'Čivava'),
+('MX-CHP', 'lv', 'Čjapasa'),
+('MX-CMX', 'lv', 'Mehiko'),
+('MX-COA', 'lv', 'Koavila de Saragosa'),
+('MX-COL', 'lv', 'Kolima'),
+('MX-DUR', 'lv', 'Durango'),
+('MX-GRO', 'lv', 'Gerrero'),
+('MX-GUA', 'lv', 'Gvanahvato'),
+('MX-HID', 'lv', 'Idalgo'),
+('MX-JAL', 'lv', 'Halisko'),
+('MX-MEX', 'lv', 'Mehiko'),
+('MX-MIC', 'lv', 'Mičoakana de Okampo'),
+('MX-MOR', 'lv', 'Morelosa'),
+('MX-NAY', 'lv', 'Najarita'),
+('MX-NLE', 'lv', 'Nuevoleona'),
+('MX-OAX', 'lv', 'Oahaka'),
+('MX-PUE', 'lv', 'Puebla'),
+('MX-QUE', 'lv', 'Keretaro'),
+('MX-ROO', 'lv', 'Kintana Roo'),
+('MX-SIN', 'lv', 'Sinaloa'),
+('MX-SLP', 'lv', 'Sanluisa Potosi'),
+('MX-SON', 'lv', 'Sonora'),
+('MX-TAB', 'lv', 'Tabasko'),
+('MX-TAM', 'lv', 'Tamaulipasa'),
+('MX-TLA', 'lv', 'Tlaskala'),
+('MX-VER', 'lv', 'Verakrusa de Ignasio de la Ljave'),
+('MX-YUC', 'lv', 'Jukatana'),
+('MX-ZAC', 'lv', 'Sakatekasa');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,22 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(224506012, 2915663, 'la', 'Dulcis Vallis'),
+(224506089, 2915664, 'la', 'Triesenberg'),
+(224506166, 2915665, 'la', 'Triesen'),
+(224506243, 2915666, 'la', 'Schellenberg'),
+(224506397, 2915668, 'la', 'Schaan'),
+(224506474, 2915669, 'la', 'Ruggell'),
+(224506551, 2915670, 'la', 'Planken'),
+(224506628, 2915671, 'la', 'Nendeln'),
+(224506705, 2915672, 'la', 'Mauren'),
+(224506782, 2915673, 'la', 'Gamprin'),
+(224506859, 2915674, 'la', 'Eschen'),
+(224506936, 2915675, 'la', 'Bendern'),
+(224507013, 2915676, 'la', 'Balzers'),
+(224507090, 2915677, 'la', 'Maels'),
+(224507552, 2915683, 'la', 'Malbun'),
+(224507629, 2915684, 'la', 'Steg');
+
+SET FOREIGN_KEY_CHECKS=1;

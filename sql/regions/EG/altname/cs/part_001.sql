@@ -1,0 +1,33 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('EG-ALX', 'cs', 'Alexandrie'),
+('EG-ASN', 'cs', 'Asuán'),
+('EG-AST', 'cs', 'Asijút'),
+('EG-BA', 'cs', 'Al-Bahr al-Ahmar'),
+('EG-BH', 'cs', 'Buhajra'),
+('EG-BNS', 'cs', 'Baní Suwajf'),
+('EG-C', 'cs', 'Káhira'),
+('EG-DK', 'cs', 'Daqahlíja'),
+('EG-DT', 'cs', 'Dumját'),
+('EG-FYM', 'cs', 'Fajjúm'),
+('EG-GH', 'cs', 'Gharbíja'),
+('EG-GZ', 'cs', 'Gíza'),
+('EG-IS', 'cs', 'Ismailia'),
+('EG-JS', 'cs', 'Jižní Sinaj'),
+('EG-KB', 'cs', 'Kaljúbíja'),
+('EG-KFS', 'cs', 'Kafr aš-Šajch'),
+('EG-KN', 'cs', 'Kená'),
+('EG-LX', 'cs', 'Luxor'),
+('EG-MN', 'cs', 'Minjá'),
+('EG-MNF', 'cs', 'Minúfija'),
+('EG-MT', 'cs', 'Matrúh'),
+('EG-PTS', 'cs', 'Port Said'),
+('EG-SHG', 'cs', 'Súhág'),
+('EG-SHR', 'cs', 'Šarkíja'),
+('EG-SIN', 'cs', 'Severní Sinaj'),
+('EG-SUZ', 'cs', 'Suez'),
+('EG-WAD', 'cs', 'Al-Vádí al-Gadíd');
+
+SET FOREIGN_KEY_CHECKS=1;

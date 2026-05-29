@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(2426048, 31508, 'ca', 'West End Village'),
+(2426279, 31511, 'ca', 'The Valley'),
+(2426356, 31512, 'ca', 'The Quarter'),
+(2426510, 31514, 'ca', 'Farrington'),
+(2426664, 31516, 'ca', 'Stoney Ground'),
+(2426741, 31517, 'ca', 'South Hill Village'),
+(2426895, 31519, 'ca', 'Sandy Ground Village'),
+(2427049, 31521, 'ca', 'Costat Nord'),
+(2427126, 31522, 'ca', 'North Hill Village'),
+(2427665, 31529, 'ca', 'Island Harbour'),
+(2427742, 31530, 'ca', 'George Hill'),
+(2427896, 31532, 'ca', 'East End Village'),
+(2428281, 31537, 'ca', 'Blowing Point Village'),
+(2428435, 31539, 'ca', 'Turó de sorra');
+
+SET FOREIGN_KEY_CHECKS=1;

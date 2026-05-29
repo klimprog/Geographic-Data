@@ -1,0 +1,13 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CR-A', 'ne', 'अलाजुएला प्रान्त'),
+('CR-C', 'ne', 'प्रोभिन्सिया डे कार्टागो'),
+('CR-G', 'ne', 'गुआनाकास्टे प्रान्त'),
+('CR-H', 'ne', 'प्रोभिन्सिया डे हेरेडिया'),
+('CR-L', 'ne', 'लिमोन प्रान्त'),
+('CR-P', 'ne', 'पुन्टारेनास प्रान्त'),
+('CR-SJ', 'ne', 'फ्रोविञ्चिअ दे सन् जोसे');
+
+SET FOREIGN_KEY_CHECKS=1;

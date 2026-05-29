@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(222170067, 2885326, 'mh', 'shumaymat'),
+(222170144, 2885327, 'mh', 'Az Zawr'),
+(222170452, 2885331, 'mh', 'Hawalli'),
+(222170529, 2885332, 'mh', 'duaydat'),
+(222170683, 2885334, 'mh', 'dant'),
+(222170760, 2885335, 'mh', 'Az Zawr'),
+(222170991, 2885338, 'mh', 'Ar Riqqah'),
+(222171299, 2885342, 'mh', 'Al Wafrah'),
+(222171376, 2885343, 'mh', 'Al `Udayliyah'),
+(222171761, 2885348, 'mh', 'Jikin kwelok in Kuwait'),
+(222171915, 2885350, 'mh', 'aaljahraʾ'),
+(222172069, 2885352, 'mh', 'Al Funaytis'),
+(222172223, 2885354, 'mh', 'alfntas'),
+(222172300, 2885355, 'mh', 'Al Farwaniyah'),
+(222172377, 2885356, 'mh', 'aalbidaʿ'),
+(222172608, 2885359, 'mh', 'Al Ahmadi'),
+(222172839, 2885362, 'mh', 'Ad Diba`iyah'),
+(222173147, 2885366, 'mh', 'aabraq khaytan'),
+(222173224, 2885367, 'mh', NULL),
+(222174379, 2885382, 'mh', NULL),
+(222174610, 2885385, 'mh', 'Mubarak al Kabir'),
+(222174687, 2885386, 'mh', 'Al ''Adan'),
+(222174764, 2885387, 'mh', 'Mazari'' al ''Abdali'),
+(222174841, 2885388, 'mh', 'Al-Masayel'),
+(222174918, 2885389, 'mh', 'Abu Fatira'),
+(222174995, 2885390, 'mh', 'Abu Al Hasaniya');
+
+SET FOREIGN_KEY_CHECKS=1;

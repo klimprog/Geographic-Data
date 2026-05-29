@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('ZW-BU', 'he', 'בֻלַוַיֳ'),
+('ZW-HA', 'he', 'הַרַרֶ'),
+('ZW-MA', 'he', 'מַנִקַלַנד'),
+('ZW-MC', 'he', 'מַסהֳנַלַנד קֶנטרַל'),
+('ZW-ME', 'he', 'משונאלנד מזרח פרובינציה'),
+('ZW-MI', 'he', 'מידלנדס פרובינצה'),
+('ZW-MN', 'he', 'מַטַבֶלֶלַנד נֳרטה'),
+('ZW-MS', 'he', 'מַטַבֶלֶלַנד סֳֻטה פרֳוִנקֶ'),
+('ZW-MV', 'he', 'מסבינגו פרובינצה'),
+('ZW-MW', 'he', 'משונלנד-מערב');
+
+SET FOREIGN_KEY_CHECKS=1;

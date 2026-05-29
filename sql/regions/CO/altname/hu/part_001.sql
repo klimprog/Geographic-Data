@@ -1,0 +1,39 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CO-AMA', 'hu', 'Amazonas megye'),
+('CO-ANT', 'hu', 'Antioquia megye'),
+('CO-ARA', 'hu', 'Arauca megye'),
+('CO-ATL', 'hu', 'Atlántico megye'),
+('CO-BOL', 'hu', 'Bolívar megye'),
+('CO-BOY', 'hu', 'Boyacá megye'),
+('CO-CAL', 'hu', 'Caldas megye'),
+('CO-CAQ', 'hu', 'Caquetá megye'),
+('CO-CAS', 'hu', 'Casanare megye'),
+('CO-CAU', 'hu', 'Cauca megye'),
+('CO-CES', 'hu', 'Cesar megye'),
+('CO-CHO', 'hu', 'Chocó megye'),
+('CO-COR', 'hu', 'Córdoba megye'),
+('CO-CUN', 'hu', 'Cundinamarca megye'),
+('CO-DC', 'hu', 'Bogotá'),
+('CO-GUA', 'hu', 'Guainía megye'),
+('CO-GUV', 'hu', 'Guaviare megye'),
+('CO-HUI', 'hu', 'Huila megye'),
+('CO-LAG', 'hu', 'La Guajira megye'),
+('CO-MAG', 'hu', 'Magdalena megye'),
+('CO-MET', 'hu', 'Meta megye'),
+('CO-NAR', 'hu', 'Nariño megye'),
+('CO-NSA', 'hu', 'Észak-Santander megye'),
+('CO-PUT', 'hu', 'Putumayo megye'),
+('CO-QUI', 'hu', 'Quindío megye'),
+('CO-RIS', 'hu', 'Risaralda megye'),
+('CO-SAN', 'hu', 'Santander megye'),
+('CO-SAP', 'hu', 'San Andrés y Providencia megye'),
+('CO-SUC', 'hu', 'Sucre megye'),
+('CO-TOL', 'hu', 'Tolima megye'),
+('CO-VAC', 'hu', 'Valle del Cauca megye'),
+('CO-VAU', 'hu', 'Vaupés megye'),
+('CO-VID', 'hu', 'Vichada megye');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(4072113, 52885, 'ms', 'Villa Las Estrellas'),
+(4072190, 52886, 'ms', 'Stesen Davis'),
+(4072267, 52887, 'ms', 'Pangkalan Jeneral Bernardo O''Higgins Riquelme'),
+(4072344, 52888, 'ms', 'Stesen Showa'),
+(4072421, 52889, 'ms', 'Stesen Jang Bogo'),
+(4072498, 52890, 'ms', 'Stesen SANAE IV'),
+(4072575, 52891, 'ms', 'Stesen Qinling'),
+(4072652, 52892, 'ms', 'Stesen Zhongshan'),
+(4072729, 52893, 'ms', 'Stesen Mawson'),
+(4072960, 52896, 'ms', 'Stesen Kemajuan'),
+(4073191, 52899, 'ms', 'Stesen Novolazarevskaya'),
+(4073345, 52901, 'ms', 'Stesen Mirny');
+
+SET FOREIGN_KEY_CHECKS=1;

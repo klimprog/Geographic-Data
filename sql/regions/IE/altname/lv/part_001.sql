@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('IE-C', 'lv', 'Konahta'),
+('IE-CE', 'lv', 'Klēra'),
+('IE-CN', 'lv', 'Kavans'),
+('IE-CO', 'lv', 'Korķis'),
+('IE-CW', 'lv', 'Kārlova'),
+('IE-D', 'lv', 'Dublina'),
+('IE-DL', 'lv', 'Donegala'),
+('IE-G', 'lv', 'Golveja'),
+('IE-KE', 'lv', 'Kildare'),
+('IE-KK', 'lv', 'Kilkenija'),
+('IE-KY', 'lv', NULL),
+('IE-L', 'lv', 'Lenstera'),
+('IE-LD', 'lv', 'Longforda'),
+('IE-LH', 'lv', 'Louth'),
+('IE-LK', 'lv', 'Limerick'),
+('IE-LM', 'lv', 'Leitrim'),
+('IE-LS', 'lv', 'Laois'),
+('IE-M', 'lv', 'Manstera'),
+('IE-MH', 'lv', 'Meath'),
+('IE-MN', 'lv', 'Monagana'),
+('IE-MO', 'lv', 'Mayo'),
+('IE-OY', 'lv', 'Offaly'),
+('IE-RN', 'lv', 'Roscommon'),
+('IE-SO', 'lv', 'Sligo'),
+('IE-TA', 'lv', 'Tipperary'),
+('IE-U', 'lv', 'Olstera'),
+('IE-WD', 'lv', 'Voterforda'),
+('IE-WH', 'lv', 'Vestmīta'),
+('IE-WW', 'lv', 'Viklova'),
+('IE-WX', 'lv', 'Veksforda');
+
+SET FOREIGN_KEY_CHECKS=1;

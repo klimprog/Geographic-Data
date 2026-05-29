@@ -1,0 +1,32 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(113799408, 1477915, 'it', 'Zula'),
+(113804875, 1477986, 'it', 'Saganèiti'),
+(113808263, 1478030, 'it', 'Nefasit'),
+(113808494, 1478033, 'it', 'Nacfa'),
+(113809341, 1478044, 'it', 'Massaua'),
+(113810265, 1478056, 'it', 'Mersa Fat''ma'),
+(113815424, 1478123, 'it', 'Kieru'),
+(113815578, 1478125, 'it', 'Cheren'),
+(113818196, 1478159, 'it', 'Himora'),
+(113820198, 1478185, 'it', 'Hagaz'),
+(113822046, 1478209, 'it', 'Ghinda'),
+(113825588, 1478255, 'it', 'Edd'),
+(113827128, 1478275, 'it', 'Dbarwa'),
+(113828514, 1478293, 'it', 'Decamerè'),
+(113828591, 1478294, 'it', 'Grande Dahlac'),
+(113834058, 1478365, 'it', 'Beylul'),
+(113835059, 1478378, 'it', 'Barentù'),
+(113837215, 1478406, 'it', 'Asmara'),
+(113837446, 1478409, 'it', 'Assab'),
+(113838062, 1478417, 'it', 'Areza'),
+(113840988, 1478455, 'it', 'Agordat'),
+(113843837, 1478492, 'it', 'Mendefera'),
+(113845685, 1478516, 'it', 'Adi Quala'),
+(113845916, 1478519, 'it', 'Adi Caieh'),
+(113857620, 1478671, 'it', 'Badammé'),
+(113903127, 1479262, 'it', 'Mai-Mne');
+
+SET FOREIGN_KEY_CHECKS=1;

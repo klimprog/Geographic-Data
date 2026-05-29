@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NE-1', 'dv', 'އަގަޑޭޒް އެވެ'),
+('NE-2', 'dv', 'ދިއްފަ އެވެ'),
+('NE-3', 'dv', 'ޑޮސޯ ރީޖަން އެވެ'),
+('NE-4', 'dv', 'މަރަދީ އެވެ'),
+('NE-5', 'dv', 'ޓަހޯއާ އެވެ'),
+('NE-6', 'dv', 'ޓިލަބެރީ ރީޖަން އެވެ'),
+('NE-7', 'dv', 'ޒިންދަރު އެވެ'),
+('NE-8', 'dv', NULL);
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,23 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NZ-AUK', 'lv', 'Oklendas reģions'),
+('NZ-BOP', 'lv', 'Bejofplenti reģions'),
+('NZ-CAN', 'lv', 'Kenterberijas reģions'),
+('NZ-CIT', 'lv', 'Chatham Islands'),
+('NZ-GIS', 'lv', 'Gisbornas reģions'),
+('NZ-HKB', 'lv', 'Hoksbejas reģions'),
+('NZ-MBH', 'lv', 'Mārlboro reģions'),
+('NZ-MWT', 'lv', 'Manavatu-Vanganuji'),
+('NZ-NSN', 'lv', 'Nelson Region'),
+('NZ-NTL', 'lv', 'Nortlendas reģions'),
+('NZ-OTA', 'lv', 'Otago reģions'),
+('NZ-STL', 'lv', 'Sautlendas reģions'),
+('NZ-TAS', 'lv', 'Tasmanas reģions'),
+('NZ-TKI', 'lv', 'Taranaki reģions'),
+('NZ-WGN', 'lv', 'Velingtonas reģions'),
+('NZ-WKO', 'lv', 'Vaikato reģions'),
+('NZ-WTC', 'lv', 'Vestkostas reģions');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,16 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('DM-02', 'fi', 'Saint Andrew'),
+('DM-03', 'fi', 'Saint David'),
+('DM-04', 'fi', 'Saint George'),
+('DM-05', 'fi', 'Saint John'),
+('DM-06', 'fi', 'Saint Joseph'),
+('DM-07', 'fi', 'Saint Luke'),
+('DM-08', 'fi', 'Saint Mark'),
+('DM-09', 'fi', 'Saint Patrick'),
+('DM-10', 'fi', 'Saint Paul'),
+('DM-11', 'fi', 'Saint Peter');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CI-AB', 'zu', 'I-Abidjan'),
+('CI-BS', 'zu', 'I-Bas-Sassandra'),
+('CI-CM', 'zu', 'I-Comoe'),
+('CI-DN', 'zu', 'I-Denguélé'),
+('CI-GD', 'zu', 'I-Goh-Djiboua'),
+('CI-LC', 'zu', 'Lacs'),
+('CI-LG', 'zu', 'Lagunes'),
+('CI-MG', 'zu', 'I-Montagnes'),
+('CI-SM', 'zu', 'I-Sassandra-Marahoue'),
+('CI-SV', 'zu', 'Ama-Savanes'),
+('CI-VB', 'zu', 'I-Vallée du Bandama'),
+('CI-WR', 'zu', 'Woroba'),
+('CI-YM', 'zu', 'Yamoussoukro Autonomous District'),
+('CI-ZZ', 'zu', 'I-Zanzan');
+
+SET FOREIGN_KEY_CHECKS=1;

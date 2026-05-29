@@ -1,0 +1,17 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('WS-AA', 'dz', 'ཨ་ནཱ།'),
+('WS-AL', 'dz', 'ཨའི་ག་ཨི་ལེ་ཏའི།'),
+('WS-AT', 'dz', 'ཨ་ཏུའུ།'),
+('WS-FA', 'dz', 'ཕ་ས་ལེ་ལེ་ག།'),
+('WS-GE', 'dz', 'ག་གའེ་མའུ་ག།'),
+('WS-GI', 'dz', 'ག་གཱའི་ཕོ་མའུ་ག།'),
+('WS-PA', 'dz', 'པཱ་ལཱའུ་ལི།'),
+('WS-SA', 'dz', 'ས་ཏུ་པའེ་ཏེ།'),
+('WS-TU', 'dz', 'ཏུའུ་མ་ས་ག།'),
+('WS-VF', 'dz', 'ཝ་ཨོ་ཕོ་ནོ་ཊི།'),
+('WS-VS', 'dz', 'ཝའི་སི་ག་ནོ།');
+
+SET FOREIGN_KEY_CHECKS=1;

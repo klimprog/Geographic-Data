@@ -1,0 +1,37 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('MW-BA', 'sl', 'Balaka'),
+('MW-BL', 'sl', 'Blantyre'),
+('MW-C', 'sl', 'Central Region'),
+('MW-CK', 'sl', 'Chikwawa'),
+('MW-CR', 'sl', 'Čiradzulu'),
+('MW-CT', 'sl', 'Čitipa'),
+('MW-DE', 'sl', 'Dedza'),
+('MW-DO', 'sl', 'Dowa'),
+('MW-KR', 'sl', 'Karonga'),
+('MW-KS', 'sl', 'Kasungu'),
+('MW-LI', 'sl', 'Lilongwe'),
+('MW-LK', 'sl', 'Likoma'),
+('MW-MC', 'sl', 'Mchinji'),
+('MW-MG', 'sl', 'Mangoči'),
+('MW-MH', 'sl', 'Mačinga'),
+('MW-MU', 'sl', 'Mulanje'),
+('MW-MW', 'sl', 'Mwanza'),
+('MW-MZ', 'sl', 'Mzimba'),
+('MW-N', 'sl', 'Northern Region'),
+('MW-NB', 'sl', 'Zaliv Nkhata'),
+('MW-NE', 'sl', 'Neno'),
+('MW-NI', 'sl', 'Ntchisi'),
+('MW-NK', 'sl', 'Nkhotakota'),
+('MW-NS', 'sl', 'Nsanje'),
+('MW-NU', 'sl', 'Ntcheu'),
+('MW-PH', 'sl', 'Phalombe'),
+('MW-RU', 'sl', 'Rumphi'),
+('MW-S', 'sl', 'Southern Region'),
+('MW-SA', 'sl', 'Salima'),
+('MW-TH', 'sl', 'Thyolo'),
+('MW-ZO', 'sl', 'Zomba');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'mt', 'Johnston Atoll'),
+('UM-71', 'mt', 'Midway Islands'),
+('UM-76', 'mt', 'Navassa Island'),
+('UM-79', 'mt', 'Wake Island'),
+('UM-81', 'mt', 'Baker Island'),
+('UM-84', 'mt', 'Howland Island'),
+('UM-86', 'mt', 'Jarvis Island'),
+('UM-89', 'mt', 'Kingman Reef'),
+('UM-95', 'mt', 'Palmyra Atoll');
+
+SET FOREIGN_KEY_CHECKS=1;

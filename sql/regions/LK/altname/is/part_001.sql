@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'is', 'Vesturhérað'),
+('LK-11', 'is', 'Colombo'),
+('LK-12', 'is', 'Gampaha'),
+('LK-13', 'is', 'Kalútara'),
+('LK-2', 'is', 'Miðhérað'),
+('LK-21', 'is', 'Kandy'),
+('LK-22', 'is', 'Matale'),
+('LK-23', 'is', 'Núwara Eliya'),
+('LK-3', 'is', 'Suðurhérað'),
+('LK-31', 'is', 'Galle'),
+('LK-32', 'is', 'Matara'),
+('LK-33', 'is', 'Hambantota'),
+('LK-4', 'is', 'Norðurhérað'),
+('LK-41', 'is', 'Jaffna'),
+('LK-42', 'is', 'Kilinochchi'),
+('LK-43', 'is', 'Mannar'),
+('LK-44', 'is', 'Vavuniya'),
+('LK-45', 'is', 'Mullaitivu'),
+('LK-5', 'is', 'Austurhérað'),
+('LK-51', 'is', 'Batticaloa'),
+('LK-52', 'is', 'Ampara'),
+('LK-53', 'is', 'Trincomalee'),
+('LK-6', 'is', 'Norður-Vestur héraði'),
+('LK-61', 'is', 'Kurunegala'),
+('LK-62', 'is', 'Puttalam'),
+('LK-7', 'is', 'Norður Mið-hérað'),
+('LK-71', 'is', 'Anuradhapura'),
+('LK-72', 'is', 'Polonnaruwa'),
+('LK-8', 'is', NULL),
+('LK-81', 'is', 'Badulla'),
+('LK-82', 'is', 'Monaragala'),
+('LK-9', 'is', 'Sabaragamuwa héraði'),
+('LK-91', 'is', 'Ratnapura'),
+('LK-92', 'is', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

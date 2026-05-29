@@ -1,0 +1,18 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AL-01', 'hy', 'Բերատի գավառ'),
+('AL-02', 'hy', 'Դուրրես'),
+('AL-03', 'hy', 'Էլբասանի գավառ'),
+('AL-04', 'hy', 'Ֆիերիի գավառ'),
+('AL-05', 'hy', 'Գիրոկաստրայի գավառ'),
+('AL-06', 'hy', 'Կորչայի գավառ'),
+('AL-07', 'hy', 'Կուկասի գավառ'),
+('AL-08', 'hy', 'Լեժա'),
+('AL-09', 'hy', 'Դիբարի գավառ'),
+('AL-10', 'hy', 'Շկոդեր'),
+('AL-11', 'hy', 'Տիրանայի գավառ'),
+('AL-12', 'hy', 'Վլյորա');
+
+SET FOREIGN_KEY_CHECKS=1;

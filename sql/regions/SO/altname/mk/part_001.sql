@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SO-AW', 'mk', 'Аудал'),
+('SO-BK', 'mk', 'Бакоол'),
+('SO-BN', 'mk', 'Банаадир'),
+('SO-BR', 'mk', 'Бари'),
+('SO-BY', 'mk', 'Заливот Гоболка'),
+('SO-GA', 'mk', 'Галгудууд'),
+('SO-GE', 'mk', 'Гедо'),
+('SO-HI', 'mk', 'Гоболка Хииран'),
+('SO-JD', 'mk', 'Гоболка Џубада Дексе'),
+('SO-JH', 'mk', 'Гоболка Џубада Хоус'),
+('SO-MU', 'mk', 'Мудуг'),
+('SO-NU', 'mk', 'Гоболка Нугал'),
+('SO-SA', 'mk', 'Санааг'),
+('SO-SD', 'mk', 'Гоболка Шабилаха Дексе'),
+('SO-SH', 'mk', 'Гоболка Шабелаха Хоус'),
+('SO-SO', 'mk', 'Гоболка Сол'),
+('SO-TO', 'mk', 'Гоболка Тогдхер'),
+('SO-WO', 'mk', 'Гоболка Вокои Галбид');
+
+SET FOREIGN_KEY_CHECKS=1;

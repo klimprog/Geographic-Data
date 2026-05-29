@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NL-AW', 'ko', '아루바'),
+('NL-BQ1', 'ko', '보네르'),
+('NL-BQ2', 'ko', '사바'),
+('NL-BQ3', 'ko', '신트 유스타티우스'),
+('NL-CW', 'ko', '퀴라소'),
+('NL-DR', 'ko', '드렌터 주'),
+('NL-FL', 'ko', '플레볼란트 주'),
+('NL-FR', 'ko', '프리슬란트 주'),
+('NL-GE', 'ko', '헬데를란트 주'),
+('NL-GR', 'ko', '흐로닝언 주'),
+('NL-LI', 'ko', '림뷔르흐 주'),
+('NL-NB', 'ko', '노르트브라반트주'),
+('NL-NH', 'ko', '노르트홀란트 주'),
+('NL-OV', 'ko', '오버레이설 주'),
+('NL-SX', 'ko', '신트마르턴'),
+('NL-UT', 'ko', '위트레흐트 주'),
+('NL-ZE', 'ko', '제일란트 주'),
+('NL-ZH', 'ko', '자위트홀란트주');
+
+SET FOREIGN_KEY_CHECKS=1;

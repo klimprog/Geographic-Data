@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SY-DI', 'zh', '大馬士革省'),
+('SY-DR', 'zh', '德拉省'),
+('SY-DY', 'zh', '代尔祖尔省'),
+('SY-HA', 'zh', '哈塞克省'),
+('SY-HI', 'zh', '霍姆斯省'),
+('SY-HL', 'zh', '阿勒颇省'),
+('SY-HM', 'zh', '哈馬省'),
+('SY-ID', 'zh', '伊德利卜省'),
+('SY-LA', 'zh', '拉塔基亚省'),
+('SY-QU', 'zh', '库奈特拉省'),
+('SY-RA', 'zh', '拉卡省'),
+('SY-RD', 'zh', '大马士革农村省'),
+('SY-SU', 'zh', '苏韦达省'),
+('SY-TA', 'zh', '塔尔图斯省');
+
+SET FOREIGN_KEY_CHECKS=1;

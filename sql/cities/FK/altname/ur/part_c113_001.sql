@@ -1,0 +1,9 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(119042766, 1546010, 'ur', 'اسٹینلے، جزائر فاکلینڈ'),
+(119044229, 1546029, 'ur', 'گوز گرین'),
+(119044537, 1546033, 'ur', 'ڈگلس سیٹلمنٹ');
+
+SET FOREIGN_KEY_CHECKS=1;

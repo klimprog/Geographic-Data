@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('KG-B', 'dv', 'ބަޓްކެން އެވެ'),
+('KG-C', 'dv', 'ޗުއިސްކާޔާ އޮބްލާސްޓް''.'),
+('KG-GB', 'dv', 'ގޯރޯޑް ބިޝްކެކް އެވެ'),
+('KG-GO', 'dv', 'އޮޝް ސިޓީ އެވެ'),
+('KG-J', 'dv', 'ޖަލާލް އަބާދު އޮބްލާސްޓް އެވެ'),
+('KG-N', 'dv', 'ނަރީން އޮބްލާސްޓް އެވެ'),
+('KG-O', 'dv', 'އޮޝް އޮބްލާސްޓީ އެވެ'),
+('KG-T', 'dv', 'ތަލާސް އެވެ'),
+('KG-Y', 'dv', 'އިސިކް-ކުލް ރީޖަން އެވެ');
+
+SET FOREIGN_KEY_CHECKS=1;

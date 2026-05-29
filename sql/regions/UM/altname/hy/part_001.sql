@@ -1,0 +1,15 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('UM-67', 'hy', 'Ձոհնստոն Ատոլլ'),
+('UM-71', 'hy', 'Միդուեյ'),
+('UM-76', 'hy', 'Նավասա կղզի'),
+('UM-79', 'hy', 'Ւակե Իսլանդ'),
+('UM-81', 'hy', 'Բեյքերի կղզի'),
+('UM-84', 'hy', 'Հաուլենդ'),
+('UM-86', 'hy', 'Ձարվիս Իսլանդ'),
+('UM-89', 'hy', 'Կինգման Րեեֆ'),
+('UM-95', 'hy', 'Պալմիրա');
+
+SET FOREIGN_KEY_CHECKS=1;

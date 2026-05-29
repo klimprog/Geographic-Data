@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(298503092, 3876664, 'lv', '`Ayn az Zughayn'),
+(298503323, 3876667, 'lv', 'Rawdat Shamim'),
+(298503400, 3876668, 'lv', 'Musay`id'),
+(298503477, 3876669, 'lv', 'Umm Salal `Ali'),
+(298503554, 3876670, 'lv', 'Musay`id'),
+(298503862, 3876674, 'lv', 'Umm Guwaylinah'),
+(298503939, 3876675, 'lv', 'Umm, bāb'),
+(298504478, 3876682, 'lv', 'Umm al Kuhab'),
+(298504709, 3876685, 'lv', 'Umm al `Amad'),
+(298505094, 3876690, 'lv', 'Nu''ayjah'),
+(298505325, 3876693, 'lv', 'Muaidhirs Ravdats Rašids'),
+(298505479, 3876695, 'lv', 'Medīnat Eš Šamāla'),
+(298505787, 3876699, 'lv', 'Az Za''ayin'),
+(298505941, 3876701, 'lv', 'Az Za''ayin'),
+(298506865, 3876713, 'lv', 'Ar Ruways'),
+(298507019, 3876715, 'lv', 'Ar Ruways'),
+(298507173, 3876717, 'lv', 'Raijāna'),
+(298507327, 3876719, 'lv', 'Al Vukairs'),
+(298507404, 3876720, 'lv', 'Vakra'),
+(298508097, 3876729, 'lv', 'alkhurayb'),
+(298508328, 3876732, 'lv', 'Haura'),
+(298508482, 3876734, 'lv', 'Al Jumayliyah'),
+(298508636, 3876736, 'lv', 'Al Jumayliyah'),
+(298508944, 3876740, 'lv', 'Al Ghuwayriyah'),
+(298509637, 3876749, 'lv', 'Doha'),
+(298510176, 3876756, 'lv', 'Abu Samra'),
+(298511023, 3876767, 'lv', 'Fuwayrit'),
+(298513564, 3876800, 'lv', 'Umm Guwaylinah'),
+(298516798, 3876842, 'lv', 'Lusail');
+
+SET FOREIGN_KEY_CHECKS=1;

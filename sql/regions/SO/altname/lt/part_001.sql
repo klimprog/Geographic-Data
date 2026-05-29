@@ -1,0 +1,24 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('SO-AW', 'lt', 'Gobolka Awdal'),
+('SO-BK', 'lt', 'Bakulas'),
+('SO-BN', 'lt', 'Benadiras'),
+('SO-BR', 'lt', 'Baris'),
+('SO-BY', 'lt', 'Baja'),
+('SO-GA', 'lt', 'Galgududas'),
+('SO-GE', 'lt', 'Gedas'),
+('SO-HI', 'lt', 'Hiranas'),
+('SO-JD', 'lt', 'Vidurinioji Džuba'),
+('SO-JH', 'lt', 'Žemutinė Džuba'),
+('SO-MU', 'lt', 'Mudugas'),
+('SO-NU', 'lt', 'Nugalis'),
+('SO-SA', 'lt', 'Sanaag'),
+('SO-SD', 'lt', 'Vidurio Šebelė'),
+('SO-SH', 'lt', 'Žamutinė Šebelė'),
+('SO-SO', 'lt', 'Gobolka Sool'),
+('SO-TO', 'lt', 'Gobolka Togdheer'),
+('SO-WO', 'lt', 'Gobolka Woqooyi Galbeed');
+
+SET FOREIGN_KEY_CHECKS=1;

@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('CN-AH', 'bs', 'Anhui'),
+('CN-BJ', 'bs', 'bei jing'),
+('CN-CQ', 'bs', 'Chongqing'),
+('CN-FJ', 'bs', 'Fujian'),
+('CN-GD', 'bs', 'Guangdong'),
+('CN-GS', 'bs', 'Gansu'),
+('CN-GX', 'bs', 'Guangxi'),
+('CN-GZ', 'bs', 'gui zhou'),
+('CN-HA', 'bs', 'he nan'),
+('CN-HB', 'bs', 'hu bei'),
+('CN-HE', 'bs', 'he bei'),
+('CN-HI', 'bs', 'hai nan'),
+('CN-HK', 'bs', 'Hong Kong SAR'),
+('CN-HL', 'bs', 'hei long jiang'),
+('CN-HN', 'bs', 'hu nan'),
+('CN-JL', 'bs', 'ji lin'),
+('CN-JS', 'bs', 'jiang su'),
+('CN-JX', 'bs', 'jiang xi'),
+('CN-LN', 'bs', 'liao ning'),
+('CN-MO', 'bs', 'SAR Macao'),
+('CN-NM', 'bs', 'Unutrašnja Mongolija'),
+('CN-NX', 'bs', 'ning xia'),
+('CN-QH', 'bs', 'qing hai'),
+('CN-SC', 'bs', 'Sečuan'),
+('CN-SD', 'bs', 'shan dong'),
+('CN-SH', 'bs', 'Šangaj'),
+('CN-SN', 'bs', 'Shaanxi'),
+('CN-SX', 'bs', 'shan xi'),
+('CN-TJ', 'bs', 'Tianjin'),
+('CN-TW', 'bs', 'Taiwan Sheng'),
+('CN-XJ', 'bs', 'xin jiang'),
+('CN-XZ', 'bs', 'Tibet'),
+('CN-YN', 'bs', 'yun nan'),
+('CN-ZJ', 'bs', 'zhe jiang');
+
+SET FOREIGN_KEY_CHECKS=1;

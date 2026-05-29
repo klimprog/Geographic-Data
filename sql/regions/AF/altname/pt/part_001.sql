@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('AF-BAL', 'pt', 'Balkh'),
+('AF-BAM', 'pt', 'Bamiyan'),
+('AF-BDG', 'pt', 'Badghis'),
+('AF-BDS', 'pt', 'Badakhshan'),
+('AF-BGL', 'pt', 'Baghlan'),
+('AF-DAY', 'pt', 'Daikondi'),
+('AF-FRA', 'pt', 'Farah'),
+('AF-FYB', 'pt', 'Faryab'),
+('AF-GHA', 'pt', 'Ghazni'),
+('AF-GHO', 'pt', 'Ghowr'),
+('AF-HEL', 'pt', 'Helmand'),
+('AF-HER', 'pt', 'Herat'),
+('AF-JOW', 'pt', 'Jowzjan'),
+('AF-KAB', 'pt', 'Cabul'),
+('AF-KAN', 'pt', 'Kandahar'),
+('AF-KAP', 'pt', 'Capisa'),
+('AF-KDZ', 'pt', 'Konduz'),
+('AF-KHO', 'pt', 'Khost'),
+('AF-KNR', 'pt', 'Kunar'),
+('AF-LAG', 'pt', 'Laghman'),
+('AF-LOG', 'pt', 'Logar'),
+('AF-NAN', 'pt', 'Nangarhar'),
+('AF-NIM', 'pt', 'Nimruz'),
+('AF-NUR', 'pt', 'Nuristão'),
+('AF-PAN', 'pt', 'Panjshir'),
+('AF-PAR', 'pt', 'Parwan'),
+('AF-PIA', 'pt', 'Paktia'),
+('AF-PKA', 'pt', 'Paktika'),
+('AF-SAM', 'pt', 'Samangan'),
+('AF-SAR', 'pt', 'Sar-e Pol'),
+('AF-TAK', 'pt', 'Takhar'),
+('AF-URU', 'pt', 'Uruzgan'),
+('AF-WAR', 'pt', 'Província de Maidan Wardak'),
+('AF-ZAB', 'pt', 'Zabol');
+
+SET FOREIGN_KEY_CHECKS=1;

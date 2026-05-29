@@ -1,0 +1,20 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NA-CA', 'th', 'แซมเบซี่'),
+('NA-ER', 'th', 'อีรอนโก'),
+('NA-HA', 'th', 'ฮาร์ดับ'),
+('NA-KA', 'th', 'คาราส'),
+('NA-KE', 'th', 'กะฤะโงเะซต'),
+('NA-KH', 'th', 'โคมาส'),
+('NA-KU', 'th', 'เขตคูเนเน่'),
+('NA-KW', 'th', 'กะฤะโงเวซต'),
+('NA-OD', 'th', 'ออทโจซอนด์จูพา'),
+('NA-OH', 'th', 'โอมาเฮเกะ'),
+('NA-ON', 'th', 'ซาเมกรีโล ซีโม สวาเนติ'),
+('NA-OS', 'th', 'โอมูซาติ'),
+('NA-OT', 'th', 'เขตโอชิโกโต'),
+('NA-OW', 'th', 'เดอะแวลลีย์');
+
+SET FOREIGN_KEY_CHECKS=1;

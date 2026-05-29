@@ -1,0 +1,36 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(298269272, 3873627, 'to', 'Tngeronger Hamlet'),
+(298269426, 3873629, 'to', 'Ngerbeched Hamlet'),
+(298269657, 3873632, 'to', 'Koror'),
+(298269965, 3873636, 'to', 'Idid Hamlet'),
+(298270119, 3873638, 'to', 'Ngerchemai Hamlet'),
+(298270273, 3873640, 'to', 'Ulimang'),
+(298270966, 3873649, 'to', 'Meketii Hamlet'),
+(298271043, 3873650, 'to', 'Ngerekebesang Hamlet'),
+(298271120, 3873651, 'to', 'Ngerkeai'),
+(298271428, 3873655, 'to', 'Angaur'),
+(298271505, 3873656, 'to', NULL),
+(298271582, 3873657, 'to', 'Melekeok Village'),
+(298271736, 3873659, 'to', 'Ngereklmadel'),
+(298271813, 3873660, 'to', 'Iyebukel Hamlet'),
+(298271890, 3873661, 'to', 'Imeong Hamlet'),
+(298272198, 3873665, 'to', 'Ngchesar Hamlet'),
+(298272429, 3873668, 'to', 'Ngerubesang Hamlet'),
+(298272660, 3873671, 'to', 'Ngerkeai'),
+(298272891, 3873674, 'to', 'Ngerkeseuaol Hamlet'),
+(298273353, 3873680, 'to', 'Mengellang'),
+(298273507, 3873682, 'to', 'Angaur State'),
+(298273738, 3873685, 'to', 'Tobi Village'),
+(298273815, 3873686, 'to', 'Sonsorol Village'),
+(298273969, 3873688, 'to', 'Kayangel'),
+(298274046, 3873689, 'to', 'Kloulklubed'),
+(298274277, 3873692, 'to', 'Ngetkib'),
+(298274354, 3873693, 'to', 'Ngchemiangel'),
+(298274431, 3873694, 'to', 'Ngardmau'),
+(298274585, 3873696, 'to', 'Koror Town'),
+(298274739, 3873698, 'to', 'Ngerulmud');
+
+SET FOREIGN_KEY_CHECKS=1;

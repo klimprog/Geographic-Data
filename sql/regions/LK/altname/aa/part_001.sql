@@ -1,0 +1,40 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('LK-1', 'aa', 'Ayrô kormah rakaakay'),
+('LK-11', 'aa', 'Kolombo'),
+('LK-12', 'aa', 'Gampaha'),
+('LK-13', 'aa', 'Kalutara'),
+('LK-2', 'aa', 'Fanti rakaakay'),
+('LK-21', 'aa', 'Kandi'),
+('LK-22', 'aa', 'Mataale'),
+('LK-23', 'aa', 'Nuwaara Eliya'),
+('LK-3', 'aa', 'Gabbi qaxih rakaakay'),
+('LK-31', 'aa', 'Galle'),
+('LK-32', 'aa', 'Matara'),
+('LK-33', 'aa', 'Hambantoota'),
+('LK-4', 'aa', NULL),
+('LK-41', 'aa', 'Jaafna'),
+('LK-42', 'aa', 'Kilinochichi'),
+('LK-43', 'aa', 'Mannaar'),
+('LK-44', 'aa', 'Vaavuniya'),
+('LK-45', 'aa', 'Mullayitivu'),
+('LK-5', 'aa', 'Ayro mawqah rakaakay'),
+('LK-51', 'aa', 'Batikalooya'),
+('LK-52', 'aa', 'Ampara'),
+('LK-53', 'aa', 'Tirinkomaali'),
+('LK-6', 'aa', 'Kilbatti ayrô kormah rakaakay'),
+('LK-61', 'aa', 'Kurunegala'),
+('LK-62', 'aa', 'Puttalam'),
+('LK-7', 'aa', 'Kilbatti fanti rakaakay'),
+('LK-71', 'aa', 'Anuradhapura'),
+('LK-72', 'aa', 'Polonaruwa'),
+('LK-8', 'aa', NULL),
+('LK-81', 'aa', 'Badulla'),
+('LK-82', 'aa', 'Monaragala'),
+('LK-9', 'aa', 'Sabaragamuwa rakaakay'),
+('LK-91', 'aa', 'Ratnapura'),
+('LK-92', 'aa', 'Kegalla');
+
+SET FOREIGN_KEY_CHECKS=1;

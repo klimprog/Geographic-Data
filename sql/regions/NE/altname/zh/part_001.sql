@@ -1,0 +1,14 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_regions_altnames` (`key`, `language_key`, `name`) VALUES
+('NE-1', 'zh', '阿加德兹大区'),
+('NE-2', 'zh', '迪法大区'),
+('NE-3', 'zh', '多索大区'),
+('NE-4', 'zh', '马拉迪大区'),
+('NE-5', 'zh', '塔瓦大区'),
+('NE-6', 'zh', '蒂拉贝里大区'),
+('NE-7', 'zh', '津德尔大区'),
+('NE-8', 'zh', '尼亞美');
+
+SET FOREIGN_KEY_CHECKS=1;

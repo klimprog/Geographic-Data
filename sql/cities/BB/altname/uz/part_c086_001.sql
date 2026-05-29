@@ -1,0 +1,35 @@
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO `geo_cities_altnames` (`id`, `city_id`, `language_key`, `name`) VALUES
+(9634622, 125125, 'uz', 'Wotton'),
+(9635315, 125134, 'uz', 'Oq tepalik'),
+(9635931, 125142, 'uz', 'Velchman Hall'),
+(9638857, 125180, 'uz', 'Kren'),
+(9639242, 125185, 'uz', 'Sutherland Road'),
+(9639473, 125188, 'uz', 'Sunset Crest'),
+(9640474, 125201, 'uz', 'Speytstaun'),
+(9640859, 125206, 'uz', 'Six Mens'),
+(9640936, 125207, 'uz', 'Six Cross Roads'),
+(9647481, 125292, 'uz', 'Oyistins'),
+(9649406, 125317, 'uz', 'Mile and a Quarter'),
+(9654642, 125385, 'uz', 'Holltaun'),
+(9654873, 125388, 'uz', 'Hillaby'),
+(9656567, 125410, 'uz', 'Grenlandiya'),
+(9657876, 125427, 'uz', 'Garrison'),
+(9658723, 125438, 'uz', 'To''rt shamol'),
+(9658877, 125440, 'uz', 'For Kross Roadz'),
+(9659108, 125443, 'uz', 'Foster Hall'),
+(9659339, 125446, 'uz', 'Yassi tosh'),
+(9662727, 125490, 'uz', 'Crab Hill'),
+(9663497, 125500, 'uz', 'Colleton'),
+(9665191, 125522, 'uz', 'Cheker Hall'),
+(9666808, 125543, 'uz', 'Bruce Vale'),
+(9667193, 125548, 'uz', 'Bridjtaun'),
+(9668502, 125565, 'uz', 'Blackmans'),
+(9669349, 125576, 'uz', 'Bel Air'),
+(9669657, 125580, 'uz', 'Batsheba'),
+(9670042, 125585, 'uz', 'Babbs'),
+(9671890, 125609, 'uz', 'Thorpes Cottage');
+
+SET FOREIGN_KEY_CHECKS=1;
